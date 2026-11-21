@@ -1,0 +1,17 @@
+name: Validar dados
+
+on:
+  pull_request:
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validar os arquivos JSON
+        run: |
+          for f in $(find data -name '*.json'); do python3 -m json.tool "$f" > /dev/null || { echo "JSON inválido: $f"; exit 1; }; done
+      - name: Conferir se os dados batem com o gerador
+        run: |
+          python3 ferramentas/gerar_dados.py
+          git diff --exit-code -- data/estudo/apocalipse-at.json data/estudo/apocalipse-quadros.json

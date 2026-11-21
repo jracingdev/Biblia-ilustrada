@@ -54,3 +54,7 @@ Não usamos ARA (© Sociedade Bíblica do Brasil) nem BKJ 1611 (© BV Films), qu
 ## Ilustrações
 
 Veja [docs/ilustracoes.md](docs/ilustracoes.md).
+
+## Publicação
+
+O site é publicado no GitHub Pages pelo workflow `.github/workflows/pages.yml` a cada push na branch `main`, no endereço https://jracingdev.github.io/Biblia-ilustrada/. Antes do primeiro deploy, ative em Settings → Pages → Source: "GitHub Actions". Os pull requests passam pela validação dos dados (`.github/workflows/validar.yml`).
