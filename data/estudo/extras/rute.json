@@ -1,0 +1,553 @@
+{
+ "livro": "rute",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:14-16",
+   "titulo": "Para onde fores, irei",
+   "descricao": "Na estrada de volta, Orfa se despede, mas Rute se apega a Noemi: teu povo será o meu povo, e teu Deus, o meu Deus.",
+   "alt": "Três mulheres viúvas numa estrada: uma se afasta acenando, enquanto a mais jovem abraça a mais velha.",
+   "prompt": "Three widowed women in dark simple mantles on a dusty road through the hills of Moab, Orpah walking away looking back in tears, Ruth embracing the older Naomi tightly, Naomi's face weary and moved, wide landscape, soft late afternoon light"
+  },
+  {
+   "id": "q02",
+   "capitulo": 1,
+   "ref": "1:19-22",
+   "titulo": "A chegada a Belém",
+   "descricao": "Noemi e Rute chegam a Belém no início da colheita da cevada; Noemi pede que a chamem Mara, amarga.",
+   "alt": "Duas mulheres cansadas entram em uma vila de pedra, observadas pelas moradoras, com campos de cevada ao fundo.",
+   "prompt": "Naomi and Ruth, tired travelers with small bundles, arriving at the gate of the small stone village of Bethlehem, local women gathering and whispering in surprise, golden barley fields ready for harvest on the terraced hills behind, warm spring light"
+  },
+  {
+   "id": "q03",
+   "capitulo": 2,
+   "ref": "2:3-4",
+   "titulo": "Rute no campo de Boaz",
+   "descricao": "Rute recolhe espigas atrás dos ceifeiros e, \"por acaso\", o campo é de Boaz, que chega saudando os trabalhadores.",
+   "alt": "Uma jovem recolhe espigas num campo de cevada enquanto um homem de meia-idade chega e saúda os ceifeiros.",
+   "prompt": "Ruth, a young Moabite woman in a simple dress and headscarf, bending to glean stalks of barley behind reapers with sickles, Boaz, a dignified middle-aged landowner in a fine cloak, arriving from Bethlehem and greeting the workers with a raised hand, bright morning sun"
+  },
+  {
+   "id": "q04",
+   "capitulo": 2,
+   "ref": "2:14",
+   "titulo": "A refeição com os ceifeiros",
+   "descricao": "Na hora de comer, Boaz convida Rute a sentar-se com os ceifeiros e lhe oferece pão e grãos tostados.",
+   "alt": "Trabalhadores comem à sombra; Boaz entrega grãos tostados a Rute, sentada entre eles.",
+   "prompt": "Midday rest under a shade canopy at the edge of a barley field, reapers sitting on the ground eating bread dipped in a bowl, Boaz handing roasted grain to Ruth who sits shyly among the harvest workers, kind expressions, warm light"
+  },
+  {
+   "id": "q05",
+   "capitulo": 3,
+   "ref": "3:8-9",
+   "titulo": "Na eira à meia-noite",
+   "descricao": "Rute pede a Boaz que estenda sobre ela a borda de sua capa, porque ele é o parente resgatador.",
+   "alt": "Na eira, à luz da lua, uma mulher ajoelhada fala com um homem que acaba de acordar junto a um monte de grãos.",
+   "prompt": "Night on a threshing floor under moonlight, heaps of winnowed barley, Boaz sitting up startled from sleep wrapped in his cloak, Ruth kneeling modestly at a respectful distance near his feet, both fully clothed, speaking quietly, gentle and dignified atmosphere"
+  },
+  {
+   "id": "q06",
+   "capitulo": 4,
+   "ref": "4:7-10",
+   "titulo": "O sapato na porta da cidade",
+   "descricao": "Diante dos anciãos, o parente mais próximo tira o sapato e cede o direito de resgate a Boaz.",
+   "alt": "Na porta da cidade, um homem entrega seu sapato a Boaz diante de anciãos sentados.",
+   "prompt": "At the stone gate of ancient Bethlehem, ten elders seated on benches as witnesses, a man removing his sandal and handing it to Boaz, townspeople gathered around, morning light casting long shadows, solemn legal moment"
+  },
+  {
+   "id": "q07",
+   "capitulo": 4,
+   "ref": "4:16-17",
+   "titulo": "Noemi e o menino Obede",
+   "descricao": "Noemi toma no colo o neto Obede; as vizinhas dizem que nasceu um filho a Noemi. Obede será avô de Davi.",
+   "alt": "Uma senhora idosa sorri com um bebê no colo, rodeada por mulheres da vila, enquanto Rute e Boaz observam.",
+   "prompt": "Elderly Naomi seated in a courtyard holding the newborn baby Obed on her lap with tender joy, village women gathered around smiling and blessing, Ruth and Boaz standing nearby, warm golden light, sense of restoration"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "fome-belem",
+   "termo": "Fome em Belém",
+   "ref": "1:1",
+   "explicado": false,
+   "significado": "Belém significa \"casa do pão\", e o livro começa com fome justamente ali. A ironia prepara a virada: a história termina com colheita, casamento e um filho."
+  },
+  {
+   "id": "mara",
+   "termo": "Noemi e Mara",
+   "ref": "1:20",
+   "explicado": true,
+   "significado": "O texto explica a troca: Noemi (agradável) quer ser chamada Mara (amarga), porque o Todo-Poderoso a amargurou (1:20-21). A mudança mostra a dor real, que Deus não desconsidera."
+  },
+  {
+   "id": "cheia-vazia",
+   "termo": "Cheia e vazia",
+   "ref": "1:21",
+   "explicado": false,
+   "significado": "\"Eu me fui cheia, mas vazia me fez voltar o SENHOR\" (1:21). O livro responde a esse vazio: Boaz manda Rute para casa com cevada, \"não vás vazia\" (3:17), e no fim Noemi tem o neto no colo."
+  },
+  {
+   "id": "colheita-cevada",
+   "termo": "Colheita da cevada",
+   "ref": "1:22",
+   "explicado": false,
+   "significado": "O retorno acontece no início da colheita, sinal discreto de esperança. A colheita de cevada e de trigo marca o tempo da história (2:23)."
+  },
+  {
+   "id": "respiga",
+   "termo": "Respiga (recolher espigas)",
+   "ref": "2:2",
+   "explicado": false,
+   "significado": "Rute pratica a lei que deixava o resto da colheita para o pobre, o estrangeiro e a viúva (Dt 24:19). Boaz vai além da lei e manda deixar espigas de propósito (2:16)."
+  },
+  {
+   "id": "asas",
+   "termo": "Debaixo das asas",
+   "ref": "2:12",
+   "explicado": false,
+   "significado": "Boaz diz que Rute veio abrigar-se debaixo das asas do SENHOR (2:12). Em 3:9 Rute pede que Boaz estenda sua \"capa\" (a mesma palavra, kanaf) sobre ela: Boaz se torna a resposta à oração que ele mesmo fez."
+  },
+  {
+   "id": "acaso",
+   "termo": "\"Por acaso\"",
+   "ref": "2:3",
+   "explicado": false,
+   "significado": "O texto diz que Rute \"por acaso\" chegou ao campo de Boaz (2:3). Deus quase não age de forma visível no livro, mas a sequência de coincidências convida o leitor a ver sua providência."
+  },
+  {
+   "id": "capa",
+   "termo": "Borda da capa",
+   "ref": "3:9",
+   "explicado": false,
+   "significado": "Estender a capa sobre alguém era gesto de proteção e, no contexto, pedido de casamento (compare Ez 16:8). Rute pede proteção e resgate."
+  },
+  {
+   "id": "eira",
+   "termo": "Eira",
+   "ref": "3:2",
+   "explicado": false,
+   "significado": "Lugar onde o grão era separado da palha, de noite, com o vento. É o cenário do encontro decisivo entre Rute e Boaz, cercado de discrição (3:14)."
+  },
+  {
+   "id": "seis-medidas",
+   "termo": "Seis medidas de cevada",
+   "ref": "3:15",
+   "explicado": false,
+   "significado": "Presente de Boaz para que Rute não volte \"vazia\" para a sogra (3:17). Sinal de que ele vai resolver a questão."
+  },
+  {
+   "id": "sapato",
+   "termo": "O sapato",
+   "ref": "4:7",
+   "explicado": true,
+   "significado": "O próprio texto explica o costume: tirar o sapato e dá-lo ao outro confirmava um negócio de resgate ou troca (4:7)."
+  },
+  {
+   "id": "porta",
+   "termo": "Porta da cidade",
+   "ref": "4:1",
+   "explicado": false,
+   "significado": "Lugar público onde os anciãos julgavam e se faziam contratos. Boaz resolve tudo às claras, diante de testemunhas (4:9-11)."
+  },
+  {
+   "id": "genealogia",
+   "termo": "Genealogia de Perez a Davi",
+   "ref": "4:18-22",
+   "explicado": false,
+   "significado": "A lista final liga a história de uma família pobre ao rei Davi. Mateus 1:5 inclui Rute e Boaz na genealogia de Jesus."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "hesed",
+   "pt": "Bondade leal (misericórdia)",
+   "refs": [
+    "1:8",
+    "2:20",
+    "3:10"
+   ],
+   "hebraico": {
+    "lema": "חֶסֶד",
+    "translit": "chesed",
+    "strong": "H2617"
+   },
+   "grego": {
+    "lema": "ἔλεος",
+    "translit": "éleos",
+    "strong": "G1656"
+   },
+   "sentido": "amor leal, bondade que vai além do dever",
+   "latim": {
+    "forma": "misericordiam",
+    "nota": "Em 1:8: faciat Dominus vobiscum misericordiam."
+   },
+   "outras": [],
+   "explicacao": "Palavra-chave do livro. Noemi deseja que Deus faça hesed às noras como elas fizeram (1:8); Boaz reconhece o hesed de Rute (3:10); Noemi bendiz o SENHOR que não deixou de fazer hesed aos vivos e aos mortos (2:20).",
+   "interpretacao": false
+  },
+  {
+   "id": "goel",
+   "pt": "Resgatador, remidor",
+   "refs": [
+    "2:20",
+    "3:9",
+    "4:4"
+   ],
+   "hebraico": {
+    "lema": "גֹּאֵל",
+    "translit": "go'el",
+    "strong": "H1350"
+   },
+   "sentido": "parente próximo com direito e dever de resgatar",
+   "latim": {
+    "forma": "propinquus",
+    "nota": "Em 3:9: quia propinquus es."
+   },
+   "outras": [],
+   "explicacao": "O go'el devia recomprar a terra da família (Lv 25:25) e proteger os parentes. Boaz une esse dever ao de dar descendência ao falecido (4:5, 10). Cristãos veem em Boaz uma figura de Cristo Redentor; isso é leitura tipológica.",
+   "interpretacao": true
+  },
+  {
+   "id": "davaq",
+   "pt": "Apegar-se",
+   "refs": [
+    "1:14",
+    "2:8",
+    "2:21"
+   ],
+   "hebraico": {
+    "lema": "דָּבַק",
+    "translit": "davaq",
+    "strong": "H1692"
+   },
+   "sentido": "grudar, apegar-se, ficar junto",
+   "latim": {
+    "forma": "adhesit",
+    "nota": "Em 1:14: Ruth adhesit socrui suae."
+   },
+   "outras": [],
+   "explicacao": "Rute \"se apegou\" à sogra (1:14), o mesmo verbo de Gênesis 2:24 (o homem se une à mulher) e de Deuteronômio 10:20 (apegar-se ao SENHOR).",
+   "interpretacao": false
+  },
+  {
+   "id": "shuv",
+   "pt": "Voltar",
+   "refs": [
+    "1:6",
+    "1:22",
+    "4:15"
+   ],
+   "hebraico": {
+    "lema": "שׁוּב",
+    "translit": "shuv",
+    "strong": "H7725"
+   },
+   "sentido": "voltar, retornar; também converter-se",
+   "latim": {
+    "forma": "reversa est",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O verbo aparece mais de dez vezes no capítulo 1. Curiosamente Rute, que nunca esteve em Belém, também \"volta\" (1:22), como se encontrasse sua casa. Em 4:15 o menino será o \"restaurador\" (que faz voltar) da vida de Noemi.",
+   "interpretacao": false
+  },
+  {
+   "id": "kanaf",
+   "pt": "Asas, borda da capa",
+   "refs": [
+    "2:12",
+    "3:9"
+   ],
+   "hebraico": {
+    "lema": "כָּנָף",
+    "translit": "kanaf",
+    "strong": "H3671"
+   },
+   "sentido": "asa; borda, aba de uma veste",
+   "latim": {
+    "forma": "alas; pallium",
+    "nota": "Em 2:12: sub cuius confugisti alas; em 3:9: expande pallium tuum."
+   },
+   "outras": [],
+   "explicacao": "A mesma palavra significa asa e borda do manto. O jogo de palavras liga a bênção de Boaz (2:12) ao pedido de Rute (3:9).",
+   "interpretacao": false
+  },
+  {
+   "id": "mara",
+   "pt": "Mara (amarga)",
+   "refs": [
+    "1:20"
+   ],
+   "hebraico": {
+    "lema": "מָרָא",
+    "translit": "mara",
+    "strong": "H4755"
+   },
+   "sentido": "amarga",
+   "latim": {
+    "forma": "Mara hoc est amaram",
+    "nota": ""
+   },
+   "outras": [
+    {
+     "lingua": "hebraico",
+     "forma": "נָעֳמִי (No'omi, H5281)",
+     "nota": "agradável, doce"
+    }
+   ],
+   "explicacao": "Noemi brinca com o próprio nome (no'omi, \"agradável\", H5281) para expressar sua dor. A Vulgata explica os dois nomes: Noemi \"id est pulchram\" e Mara \"hoc est amaram\".",
+   "interpretacao": false
+  },
+  {
+   "id": "shaddai",
+   "pt": "Todo-Poderoso",
+   "refs": [
+    "1:20",
+    "1:21"
+   ],
+   "hebraico": {
+    "lema": "שַׁדַּי",
+    "translit": "Shaddai",
+    "strong": "H7706"
+   },
+   "grego": {
+    "lema": "ἱκανός",
+    "translit": "hikanós"
+   },
+   "sentido": "título divino antigo, geralmente traduzido Todo-Poderoso",
+   "latim": {
+    "forma": "Omnipotens",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Noemi usa o nome dos patriarcas (Gn 17:1) ao reclamar com Deus. A origem exata da palavra é discutida.",
+   "interpretacao": false
+  },
+  {
+   "id": "menuchah",
+   "pt": "Descanso",
+   "refs": [
+    "1:9",
+    "3:1"
+   ],
+   "hebraico": {
+    "lema": "מְנוּחָה",
+    "translit": "menuchah",
+    "strong": "H4496"
+   },
+   "sentido": "descanso, lar seguro",
+   "latim": {
+    "forma": "requiem",
+    "nota": ""
+   },
+   "outras": [
+    {
+     "lingua": "hebraico",
+     "forma": "מָנוֹחַ (mano'ach, H4494)",
+     "nota": "forma usada em 3:1"
+    }
+   ],
+   "explicacao": "Noemi deseja que as noras achem descanso na casa de um marido (1:9) e depois procura esse descanso para Rute (3:1, com palavra da mesma raiz, mano'ach). Descanso aqui é segurança e futuro.",
+   "interpretacao": false
+  },
+  {
+   "id": "laqat",
+   "pt": "Respigar",
+   "refs": [
+    "2:2",
+    "2:3",
+    "2:17"
+   ],
+   "hebraico": {
+    "lema": "לָקַט",
+    "translit": "laqat",
+    "strong": "H3950"
+   },
+   "sentido": "recolher, juntar o que ficou",
+   "latim": {
+    "forma": "colligam spicas",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Verbo frequente no capítulo 2. Mostra a situação de Rute: pobre, viúva e estrangeira, ela depende do que a lei manda deixar no campo.",
+   "interpretacao": false
+  },
+  {
+   "id": "nokhriyah",
+   "pt": "Estrangeira",
+   "refs": [
+    "2:10"
+   ],
+   "hebraico": {
+    "lema": "נָכְרִיָּה",
+    "translit": "nokhriyah"
+   },
+   "sentido": "estrangeira, de outra nação",
+   "latim": {
+    "forma": "peregrina",
+    "nota": ""
+   },
+   "outras": [
+    {
+     "lingua": "hebraico",
+     "forma": "נָכְרִי (nokhri, H5237)",
+     "nota": "forma masculina"
+    }
+   ],
+   "explicacao": "Rute se espanta por receber favor sendo estrangeira (2:10). O livro insiste em chamá-la de \"moabita\", e a lei de Dt 23:3 excluía moabitas da assembleia. A acolhida de Rute é um contraponto importante.",
+   "interpretacao": false
+  },
+  {
+   "id": "chayil",
+   "pt": "Mulher virtuosa",
+   "refs": [
+    "3:11",
+    "2:1"
+   ],
+   "hebraico": {
+    "lema": "אֵשֶׁת חַיִל",
+    "translit": "eshet chayil"
+   },
+   "sentido": "mulher de valor, de força e caráter",
+   "latim": {
+    "forma": "mulierem esse virtutis",
+    "nota": ""
+   },
+   "outras": [
+    {
+     "lingua": "hebraico",
+     "forma": "חַיִל (chayil, H2428)",
+     "nota": "força, valor, riqueza"
+    }
+   ],
+   "explicacao": "Boaz é chamado ish gibbor chayil, homem de valor (2:1), e Rute, eshet chayil, mulher de valor (3:11), a mesma expressão de Provérbios 31:10. A Bíblia hebraica coloca Rute logo depois de Provérbios.",
+   "interpretacao": false
+  },
+  {
+   "id": "bet-lechem",
+   "pt": "Belém",
+   "refs": [
+    "1:1",
+    "1:19",
+    "4:11"
+   ],
+   "hebraico": {
+    "lema": "בֵּית לֶחֶם",
+    "translit": "Bet Lechem",
+    "strong": "H1035"
+   },
+   "sentido": "casa do pão",
+   "latim": {
+    "forma": "Bethleem",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O livro começa com fome na \"casa do pão\" e termina com pão e descendência. Belém será a cidade de Davi e, segundo os evangelhos, de Jesus (Mq 5:2; Mt 2:1).",
+   "interpretacao": false
+  },
+  {
+   "id": "oved",
+   "pt": "Obede",
+   "refs": [
+    "4:17",
+    "4:21"
+   ],
+   "hebraico": {
+    "lema": "עוֹבֵד",
+    "translit": "Oved",
+    "strong": "H5744"
+   },
+   "sentido": "servo, aquele que serve",
+   "latim": {
+    "forma": "Obed",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O nome é dado pelas vizinhas, um caso raro na Bíblia. Obede é o elo entre a família restaurada de Noemi e o rei Davi (4:17).",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "josefo-rute",
+   "titulo": "Josefo conta a história de Rute",
+   "refs": [
+    "1:1",
+    "4:17"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 5, cap. 9",
+   "data_fonte": "c. 93–94 d.C.",
+   "data_evento": "tempo dos juízes",
+   "resumo": "Josefo reconta a história de Noemi, Rute e Boaz e diz que a incluiu para mostrar o poder de Deus, que pode elevar pessoas comuns, como a família de onde veio Davi.",
+   "relacao": "Mostra que no séc. I Rute era lida como parte da história de Davi. Josefo depende do texto bíblico.",
+   "grau": "documentado"
+  },
+  {
+   "id": "qumran-rute",
+   "titulo": "Rute nos Manuscritos do Mar Morto",
+   "refs": [
+    "1:1",
+    "4:22"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Manuscritos do Mar Morto",
+   "referencia": "quatro cópias fragmentárias: 2QRute(a), 2QRute(b), 4QRute(a), 4QRute(b)",
+   "data_fonte": "c. séc. I a.C. – séc. I d.C.",
+   "data_evento": "descobertos entre 1947 e 1956",
+   "resumo": "Fragmentos de quatro manuscritos do livro de Rute foram encontrados nas cavernas 2 e 4 de Qumran.",
+   "relacao": "Mostram que o livro era copiado e lido no judaísmo do período do Segundo Templo, com texto muito próximo do que temos hoje.",
+   "grau": "documentado"
+  },
+  {
+   "id": "talmude-autoria",
+   "titulo": "Tradição judaica sobre a autoria",
+   "refs": [
+    "1:1",
+    "4:22"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Talmude Babilônico, tratado Bava Batra",
+   "referencia": "Bava Batra 14b",
+   "data_fonte": "c. séc. III–VI d.C. (redação)",
+   "data_evento": "não descreve um fato; registra a tradição sobre quem escreveu o livro",
+   "resumo": "O Talmude diz que Samuel escreveu o livro que leva seu nome, Juízes e Rute.",
+   "relacao": "É a origem da tradição que atribui Rute a Samuel. Muitos estudiosos hoje não aceitam essa autoria, porque a genealogia chega até Davi, já rei; a data do livro é debatida.",
+   "grau": "associacao"
+  },
+  {
+   "id": "calendario-gezer",
+   "titulo": "Calendário de Gezer: a colheita da cevada",
+   "refs": [
+    "1:22",
+    "2:23"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Calendário de Gezer",
+   "referencia": "Museu Arqueológico de Istambul",
+   "data_fonte": "c. séc. X a.C.",
+   "data_evento": "descoberto em 1908, em Gezer",
+   "resumo": "Pequena placa de calcário com uma lista dos meses do ano agrícola: colheita das azeitonas, semeadura, linho, \"mês da colheita da cevada\", colheita do trigo, vindima e frutos de verão.",
+   "relacao": "Mostra a sequência agrícola que dá o ritmo ao livro: Rute chega no início da colheita da cevada e trabalha até o fim da colheita do trigo (1:22; 2:23).",
+   "grau": "associacao"
+  },
+  {
+   "id": "mesa-moabe",
+   "titulo": "Estela de Mesa: Moabe e seu deus",
+   "refs": [
+    "1:1",
+    "1:15"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Estela de Mesa (Pedra Moabita)",
+   "referencia": "Museu do Louvre, Paris (AO 5066)",
+   "data_fonte": "c. 840 a.C.",
+   "data_evento": "reinado de Mesa, rei de Moabe; descoberta em 1868",
+   "resumo": "Inscrição do rei Mesa de Moabe que celebra a libertação de Moabe do domínio de Israel e atribui as vitórias ao deus Quemós.",
+   "relacao": "Mostra Moabe como reino vizinho com língua parecida com o hebraico e um deus nacional, Quemós. Ajuda a entender o peso da escolha de Rute ao deixar \"seu povo e seus deuses\" (1:15-16). A estela é bem posterior à época do livro.",
+   "grau": "associacao"
+  }
+ ]
+}

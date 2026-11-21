@@ -1,0 +1,529 @@
+{
+ "livro": "romanos",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:7-8",
+   "titulo": "A carta chega a Roma",
+   "descricao": "Os cristãos de Roma, \"amados de Deus\", reúnem-se para ouvir a carta de Paulo, cuja fé era comentada em todo o mundo.",
+   "alt": "Um grupo de cristãos numa casa romana ouve a leitura de uma carta.",
+   "prompt": "A modest house church in first-century Rome, men and women of different backgrounds, slaves and free, Jews and Gentiles, gathered around a reader holding a long papyrus letter, oil lamps, Roman tiled roofs visible through a window"
+  },
+  {
+   "id": "q02",
+   "capitulo": 4,
+   "ref": "4:18-21",
+   "titulo": "Abraão crê contra a esperança",
+   "descricao": "Já idoso, Abraão crê na promessa de que seria pai de muitas nações, dando glória a Deus. Paulo o usa como exemplo da fé que justifica.",
+   "alt": "Um ancião olha para um céu estrelado no deserto, ao lado de sua tenda.",
+   "prompt": "An aged patriarch Abraham in nomadic robes standing outside his tent in the desert at night, gazing up at a sky filled with countless stars, his face calm and trusting, faint glow of a lamp from the tent"
+  },
+  {
+   "id": "q03",
+   "capitulo": 6,
+   "ref": "6:3-4",
+   "titulo": "Sepultados com ele pelo batismo",
+   "descricao": "Paulo descreve o batismo como ser sepultado com Cristo para andar em novidade de vida.",
+   "alt": "Uma pessoa sai da água de um rio, sob a luz da manhã, enquanto outros observam.",
+   "prompt": "A new believer rising from the water of a river in early morning light, assisted by an elder in a simple robe, a small community watching from the bank, sunlight breaking through the trees"
+  },
+  {
+   "id": "q04",
+   "capitulo": 8,
+   "ref": "8:19-22",
+   "titulo": "A criação que geme",
+   "descricao": "Toda a criação aguarda com expectativa a revelação dos filhos de Deus, gemendo como em dores de parto.",
+   "alt": "Uma paisagem ao amanhecer, com terra seca e brotos verdes, sob um céu que clareia.",
+   "prompt": "A vast landscape at dawn, withered trees and cracked earth giving way to tender green shoots, a distant horizon glowing with first light, a sense of longing and expectation, no figures"
+  },
+  {
+   "id": "q05",
+   "capitulo": 9,
+   "ref": "9:20-21",
+   "titulo": "O oleiro e o barro",
+   "descricao": "Paulo usa a imagem do oleiro, que tem poder sobre o barro, para falar da liberdade de Deus.",
+   "alt": "Um oleiro molda um vaso na roda, com vasos prontos ao redor.",
+   "prompt": "An old potter in a simple workshop shaping a clay vessel on a spinning wheel, hands covered in wet clay, finished jars of different sizes on shelves, warm light from a doorway"
+  },
+  {
+   "id": "q06",
+   "capitulo": 10,
+   "ref": "10:14-15",
+   "titulo": "Os pés dos que anunciam boas novas",
+   "descricao": "\"Como são agradáveis os pés dos que anunciam as boas novas\": a fé vem pelo ouvir, e é preciso que alguém seja enviado.",
+   "alt": "Um mensageiro caminha por uma estrada nas montanhas, com o sol nascendo.",
+   "prompt": "A messenger in a traveling cloak walking with sandaled feet along a mountain path at sunrise, carrying a scroll case, a village visible in the valley below, light catching the dust of the road"
+  },
+  {
+   "id": "q07",
+   "capitulo": 11,
+   "ref": "11:17-18",
+   "titulo": "Os ramos enxertados",
+   "descricao": "Os gentios são comparados a ramos de oliveira selvagem enxertados na oliveira boa, sustentados pela raiz.",
+   "alt": "Um agricultor enxerta um ramo novo numa oliveira antiga.",
+   "prompt": "An old gnarled olive tree in a Mediterranean grove, a farmer carefully grafting a young wild branch into its trunk, some broken branches lying on the ground, soft afternoon light"
+  },
+  {
+   "id": "q08",
+   "capitulo": 16,
+   "ref": "16:1-2",
+   "titulo": "Febe leva a carta",
+   "descricao": "Paulo recomenda Febe, servidora da igreja de Cencreia, provavelmente a portadora da carta.",
+   "alt": "Uma mulher em trajes de viagem segura um rolo selado, junto ao porto.",
+   "prompt": "A dignified woman named Phoebe in traveling garments holding a sealed scroll at the harbor of Cenchreae near Corinth, merchant ships behind her, early morning light on the water"
+  },
+  {
+   "id": "q09",
+   "capitulo": 16,
+   "ref": "16:22",
+   "titulo": "Tércio escreve",
+   "descricao": "Tércio, que escreveu a carta enquanto Paulo ditava, acrescenta sua própria saudação.",
+   "alt": "Paulo dita enquanto um escriba escreve num papiro.",
+   "prompt": "A first-century room in Corinth, the apostle Paul pacing and dictating, a scribe named Tertius seated writing carefully on papyrus with a reed pen, inkwell and scrolls on a table, lamp light"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "oliveira",
+   "termo": "Oliveira e ramos",
+   "ref": "11:17-24",
+   "explicado": true,
+   "significado": "Paulo explica a imagem: Israel é a oliveira boa, alguns ramos foram quebrados pela incredulidade e os gentios foram enxertados. Ninguém deve se orgulhar, pois a raiz sustenta os ramos (11:18)."
+  },
+  {
+   "id": "oleiro",
+   "termo": "Oleiro e barro",
+   "ref": "9:21",
+   "explicado": false,
+   "significado": "Imagem tirada dos profetas (Is 29:16; Jr 18) para falar da soberania de Deus. Como ela se relaciona com a liberdade humana é uma das questões mais debatidas da carta."
+  },
+  {
+   "id": "adao",
+   "termo": "Adão e Cristo",
+   "ref": "5:14",
+   "explicado": true,
+   "significado": "Paulo diz que Adão era \"uma figura daquele que estava para vir\": por um homem veio o pecado e a morte; por um homem, Jesus, vêm a graça e a vida (5:12-19)."
+  },
+  {
+   "id": "batismo-sepultura",
+   "termo": "Batismo como sepultura",
+   "ref": "6:4",
+   "explicado": true,
+   "significado": "O próprio texto explica: ser batizado é ser unido à morte de Cristo para andar em vida nova."
+  },
+  {
+   "id": "escravo",
+   "termo": "Escravo e senhor",
+   "ref": "6:16-18",
+   "explicado": true,
+   "significado": "Paulo usa a escravidão, comum em Roma, como imagem: cada pessoa serve a algo, ao pecado ou à justiça. Ele mesmo diz que fala assim \"pela fraqueza de vossa carne\" (6:19)."
+  },
+  {
+   "id": "adocao",
+   "termo": "Adoção como filhos",
+   "ref": "8:15",
+   "explicado": false,
+   "significado": "Em Roma a adoção dava ao adotado todos os direitos de filho e herdeiro. Paulo aplica a imagem a quem recebe o Espírito e clama \"Aba, Pai\"."
+  },
+  {
+   "id": "dores-parto",
+   "termo": "Dores de parto",
+   "ref": "8:22",
+   "explicado": false,
+   "significado": "A criação geme como mulher em trabalho de parto: sofrimento real, mas que aponta para um nascimento, a renovação futura."
+  },
+  {
+   "id": "sacrificio-vivo",
+   "termo": "Sacrifício vivo",
+   "ref": "12:1",
+   "explicado": false,
+   "significado": "Em vez de animais oferecidos no altar, os crentes apresentam a si mesmos, o corpo e a vida diária, como culto a Deus."
+  },
+  {
+   "id": "corpo",
+   "termo": "Um corpo, muitos membros",
+   "ref": "12:4-5",
+   "explicado": true,
+   "significado": "Paulo aplica a imagem: sendo muitos, somos um só corpo em Cristo, cada um com dons diferentes."
+  },
+  {
+   "id": "armas-luz",
+   "termo": "Noite, dia e armas da luz",
+   "ref": "13:12",
+   "explicado": false,
+   "significado": "A noite está acabando e o dia chegando: imagem da proximidade da salvação final, que pede uma vida coerente desde já."
+  },
+  {
+   "id": "brasas",
+   "termo": "Brasas sobre a cabeça",
+   "ref": "12:20",
+   "explicado": false,
+   "significado": "Citação de Provérbios 25:21-22. A explicação mais comum é que a bondade faz o inimigo sentir vergonha e pode levá-lo ao arrependimento; outras leituras existem."
+  },
+  {
+   "id": "pedra-tropeco",
+   "termo": "Pedra de tropeço",
+   "ref": "9:33",
+   "explicado": false,
+   "significado": "Paulo cita Isaías sobre a pedra posta em Sião. No contexto, Cristo é a pedra em que muitos tropeçam por buscar a justiça pelas obras."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "euangelion",
+   "pt": "Evangelho",
+   "refs": [
+    "1:1",
+    "1:16"
+   ],
+   "grego": {
+    "lema": "εὐαγγέλιον",
+    "translit": "euangélion",
+    "strong": "G2098"
+   },
+   "sentido": "boa notícia",
+   "latim": {
+    "forma": "evangelium",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Para Paulo o evangelho é \"poder de Deus para a salvação de todo aquele que crê\" (1:16). Não é só uma mensagem, mas uma força que age.",
+   "interpretacao": false
+  },
+  {
+   "id": "dikaiosyne",
+   "pt": "Justiça",
+   "refs": [
+    "1:17",
+    "3:21-22"
+   ],
+   "grego": {
+    "lema": "δικαιοσύνη",
+    "translit": "dikaiosýnē",
+    "strong": "G1343"
+   },
+   "sentido": "retidão, o que é justo, estar em relação certa",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "צְדָקָה",
+     "translit": "tsedaqah",
+     "strong": "H6666",
+     "ref": "Gn 15:6"
+    }
+   ],
+   "latim": {
+    "forma": "iustitia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Tema central da carta. \"Justiça de Deus\" pode indicar a justiça que Deus tem, a que ele dá ou a sua fidelidade em salvar; as tradições cristãs dão pesos diferentes a esses sentidos.",
+   "interpretacao": true
+  },
+  {
+   "id": "dikaioo",
+   "pt": "Justificar",
+   "refs": [
+    "3:24",
+    "5:1"
+   ],
+   "grego": {
+    "lema": "δικαιόω",
+    "translit": "dikaióō",
+    "strong": "G1344"
+   },
+   "sentido": "declarar justo, absolver",
+   "latim": {
+    "forma": "iustificati",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Linguagem de tribunal: ser declarado justo diante de Deus. Católicos e protestantes discutiram por séculos se a justificação é só declaração ou inclui transformação; hoje há documentos de diálogo que aproximam as posições.",
+   "interpretacao": true
+  },
+  {
+   "id": "pistis",
+   "pt": "Fé",
+   "refs": [
+    "1:17",
+    "4:3"
+   ],
+   "grego": {
+    "lema": "πίστις",
+    "translit": "pístis",
+    "strong": "G4102"
+   },
+   "sentido": "confiança, fidelidade",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "אֱמוּנָה",
+     "translit": "'emunah",
+     "strong": "H530",
+     "ref": "Hc 2:4"
+    }
+   ],
+   "latim": {
+    "forma": "fides",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Envolve confiar e ser fiel. Em 3:22 a expressão grega traduzida por \"fé em Jesus Cristo\" (literalmente \"fé de Jesus Cristo\") é discutida: fé em Cristo ou fidelidade de Cristo.",
+   "interpretacao": false
+  },
+  {
+   "id": "charis",
+   "pt": "Graça",
+   "refs": [
+    "3:24",
+    "5:20"
+   ],
+   "grego": {
+    "lema": "χάρις",
+    "translit": "cháris",
+    "strong": "G5485"
+   },
+   "sentido": "favor gratuito, presente",
+   "latim": {
+    "forma": "gratia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Favor que não se merece. Onde o pecado abundou, a graça superabundou (5:20).",
+   "interpretacao": false
+  },
+  {
+   "id": "nomos",
+   "pt": "Lei",
+   "refs": [
+    "3:20",
+    "7:12"
+   ],
+   "grego": {
+    "lema": "νόμος",
+    "translit": "nómos",
+    "strong": "G3551"
+   },
+   "sentido": "lei, norma; em especial a Lei de Moisés",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "תּוֹרָה",
+     "translit": "torah",
+     "strong": "H8451",
+     "ref": "Sl 19:7"
+    }
+   ],
+   "latim": {
+    "forma": "lex",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Paulo diz que a Lei é santa (7:12), mas não pode justificar ninguém (3:20). O sentido exato de \"lei\" muda em alguns trechos (7:21-23).",
+   "interpretacao": false
+  },
+  {
+   "id": "hilasterion",
+   "pt": "Sacrifício de reconciliação",
+   "refs": [
+    "3:25"
+   ],
+   "grego": {
+    "lema": "ἱλαστήριον",
+    "translit": "hilastḗrion",
+    "strong": "G2435"
+   },
+   "sentido": "lugar ou meio de expiação",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "כַּפֹּרֶת",
+     "translit": "kapporet",
+     "strong": "H3727",
+     "ref": "Lv 16:14"
+    }
+   ],
+   "latim": {
+    "forma": "propitiationem",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Na Septuaginta é o nome da tampa da arca, o \"propiciatório\", onde se aspergia o sangue no Dia da Expiação. Traduz-se como propiciação, expiação ou sacrifício de reconciliação, com nuances teológicas diferentes.",
+   "interpretacao": true
+  },
+  {
+   "id": "sarx",
+   "pt": "Carne",
+   "refs": [
+    "7:18",
+    "8:4"
+   ],
+   "grego": {
+    "lema": "σάρξ",
+    "translit": "sárx",
+    "strong": "G4561"
+   },
+   "sentido": "carne, corpo, natureza humana fraca",
+   "latim": {
+    "forma": "caro",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Nem sempre é o corpo físico: em Romanos 7–8 indica a condição humana voltada para si e incapaz de agradar a Deus, em contraste com o Espírito.",
+   "interpretacao": false
+  },
+  {
+   "id": "huiothesia",
+   "pt": "Adoção",
+   "refs": [
+    "8:15",
+    "8:23"
+   ],
+   "grego": {
+    "lema": "υἱοθεσία",
+    "translit": "huiothesía",
+    "strong": "G5206"
+   },
+   "sentido": "colocação como filho",
+   "latim": {
+    "forma": "adoptionis filiorum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Termo jurídico greco-romano. Ver símbolos.",
+   "interpretacao": false
+  },
+  {
+   "id": "abba",
+   "pt": "Aba",
+   "refs": [
+    "8:15"
+   ],
+   "grego": {
+    "lema": "ἀββά",
+    "translit": "abbá",
+    "strong": "G5"
+   },
+   "sentido": "pai (palavra aramaica)",
+   "semitico": [
+    {
+     "lingua": "aramaico",
+     "lema": "אַבָּא",
+     "translit": "'abba",
+     "ref": "Mc 14:36"
+    }
+   ],
+   "latim": {
+    "forma": "Abba Pater",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Paulo conserva a palavra aramaica que Jesus usou em oração (Mc 14:36), seguida da tradução grega \"Pai\".",
+   "interpretacao": false
+  },
+  {
+   "id": "agape",
+   "pt": "Amor",
+   "refs": [
+    "5:5",
+    "13:10"
+   ],
+   "grego": {
+    "lema": "ἀγάπη",
+    "translit": "agápē",
+    "strong": "G26"
+   },
+   "sentido": "amor que se doa",
+   "latim": {
+    "forma": "caritas / dilectio",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O amor de Deus é derramado nos corações (5:5); o amor ao próximo cumpre a Lei (13:10). A Vulgata alterna caritas e dilectio.",
+   "interpretacao": false
+  },
+  {
+   "id": "logike-latreia",
+   "pt": "Culto racional",
+   "refs": [
+    "12:1"
+   ],
+   "grego": {
+    "lema": "λογικὴ λατρεία",
+    "translit": "logikḗ latreía",
+    "strong": "G3050, G2999"
+   },
+   "sentido": "culto razoável, espiritual, coerente",
+   "latim": {
+    "forma": "rationabile obsequium",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "\"Logikē\" pode significar racional, espiritual ou coerente com a Palavra; por isso as traduções variam.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "claudio-roma",
+   "titulo": "Expulsão dos judeus de Roma sob Cláudio",
+   "refs": [
+    "16:3"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Suetônio, Vida de Cláudio",
+   "referencia": "cap. 25.4",
+   "data_fonte": "c. 121 d.C.",
+   "data_evento": "c. 49 d.C.",
+   "resumo": "Suetônio registra que Cláudio expulsou de Roma judeus envolvidos em tumultos \"por instigação de Cresto\".",
+   "relacao": "Ajuda a entender a igreja de Roma: judeus cristãos como Prisca e Áquila saíram (At 18:2) e voltaram depois (16:3), e a igreja passou a ter maioria gentia, o que explica as tensões tratadas nos capítulos 14–15. A ligação com \"Cresto\" é provável, mas debatida.",
+   "grau": "associacao"
+  },
+  {
+   "id": "erasto",
+   "titulo": "Inscrição de Erasto em Corinto",
+   "refs": [
+    "16:23"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Inscrição em pavimento de pedra com o nome Erasto",
+   "referencia": "Corinto, junto ao teatro (in situ)",
+   "data_fonte": "séc. I d.C.",
+   "data_evento": "Descoberta em 1929",
+   "resumo": "A inscrição diz que Erasto, em troca de seu cargo de edil, pavimentou a área às próprias custas.",
+   "relacao": "Romanos foi escrita em Corinto e cita \"Erasto, tesoureiro da cidade\" (16:23). Muitos identificam os dois; outros apontam que os títulos não coincidem exatamente e que Erasto era nome comum.",
+   "grau": "associacao"
+  },
+  {
+   "id": "tacito-cristaos",
+   "titulo": "Cristãos em Roma sob Nero",
+   "refs": [
+    "1:8"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Tácito, Anais",
+   "referencia": "livro 15, cap. 44",
+   "data_fonte": "c. 116 d.C.",
+   "data_evento": "64 d.C.",
+   "resumo": "Tácito diz que Nero culpou pelo incêndio de Roma os chamados cristãos, que eram uma \"grande multidão\", e descreve sua perseguição.",
+   "relacao": "Confirma que, poucos anos depois da carta (c. 57 d.C.), havia em Roma uma comunidade cristã numerosa, a mesma cuja fé \"é anunciada no mundo todo\" (1:8).",
+   "grau": "documentado"
+  },
+  {
+   "id": "cencreia",
+   "titulo": "O porto de Cencreia",
+   "refs": [
+    "16:1"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Ruínas do porto de Cencreia (Kechries)",
+   "referencia": "Golfo Sarônico, Grécia; escavações americanas nos anos 1960",
+   "data_fonte": "Período romano",
+   "data_evento": "séc. I d.C.",
+   "resumo": "Cencreia era o porto oriental de Corinto, com instalações portuárias romanas hoje parcialmente submersas.",
+   "relacao": "Situa a igreja onde Febe servia (16:1) e a rota pela qual ela provavelmente levou a carta.",
+   "grau": "associacao"
+  }
+ ]
+}

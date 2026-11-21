@@ -1,0 +1,550 @@
+{
+ "livro": "marcos",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:16-18",
+   "titulo": "Pescadores de homens",
+   "descricao": "À beira do mar da Galileia, Jesus chama Simão e André enquanto lançam a rede; eles deixam as redes e o seguem.",
+   "alt": "Jesus chama dois pescadores que lançam a rede na margem do mar da Galileia.",
+   "prompt": "On the pebbly shore of the Sea of Galilee at early morning, Jesus calling to the fishermen Simon and Andrew who are casting a circular net from the shallows, nets dripping, fishing boats nearby, misty soft light"
+  },
+  {
+   "id": "q02",
+   "capitulo": 2,
+   "ref": "2:3-5",
+   "titulo": "Pelo telhado",
+   "descricao": "Quatro homens abrem o telhado de uma casa em Cafarnaum e descem um paralítico em sua maca até Jesus, no meio da multidão.",
+   "alt": "Homens descem um paralítico numa maca por uma abertura no telhado diante de Jesus.",
+   "prompt": "Inside a crowded stone house in Capernaum, four men lowering a paralyzed man on a mat through an opening in the roof of beams and clay, dust and light streaming down, Jesus looking up with compassion, scribes watching skeptically"
+  },
+  {
+   "id": "q03",
+   "capitulo": 5,
+   "ref": "5:39-42",
+   "titulo": "'Talita cumi'",
+   "descricao": "No quarto da casa de Jairo, Jesus toma a mão da menina e diz 'Talita cumi'; ela se levanta diante dos pais espantados.",
+   "alt": "Jesus segura a mão de uma menina que se levanta da cama diante dos pais e de três discípulos.",
+   "prompt": "A simple bedroom in the house of Jairus, Jesus gently holding the hand of a twelve-year-old girl who is sitting up on her bed, her astonished parents and Peter, James and John watching, soft window light, tender intimate scene"
+  },
+  {
+   "id": "q04",
+   "capitulo": 6,
+   "ref": "6:39-42",
+   "titulo": "Pães para a multidão",
+   "descricao": "Sobre a relva verde, a multidão se senta em grupos de cem e de cinquenta; Jesus parte os pães e os discípulos os distribuem.",
+   "alt": "Jesus parte pães diante de uma multidão sentada em grupos na relva verde.",
+   "prompt": "A vast crowd seated in orderly groups on green grass by the Sea of Galilee, Jesus looking up to heaven and breaking bread, disciples carrying baskets of bread and fish among the people, late afternoon golden light"
+  },
+  {
+   "id": "q05",
+   "capitulo": 10,
+   "ref": "10:46-52",
+   "titulo": "O cego Bartimeu",
+   "descricao": "À saída de Jericó, Bartimeu lança fora a capa, salta e vai até Jesus; recupera a vista e o segue pelo caminho.",
+   "alt": "Um mendigo cego joga a capa e corre em direção a Jesus numa estrada perto de Jericó.",
+   "prompt": "On a dusty road outside ancient Jericho with palm trees, the blind beggar Bartimaeus throwing off his cloak and springing up toward Jesus, the crowd parting, disciples around Jesus, bright warm daylight"
+  },
+  {
+   "id": "q06",
+   "capitulo": 12,
+   "ref": "12:41-44",
+   "titulo": "As duas moedas da viúva",
+   "descricao": "No templo, ricos lançam muito dinheiro no cofre, mas Jesus aponta uma viúva pobre que deposita duas pequenas moedas.",
+   "alt": "Uma viúva pobre deposita duas moedinhas no cofre do templo enquanto Jesus a observa.",
+   "prompt": "In the temple court of Jerusalem near the treasury chests, a poor widow in a worn dark shawl dropping two tiny copper coins, wealthy men in fine robes pouring in coins nearby, Jesus seated with his disciples watching and pointing to her, columned portico, soft light"
+  },
+  {
+   "id": "q07",
+   "capitulo": 14,
+   "ref": "14:3",
+   "titulo": "O perfume em Betânia",
+   "descricao": "Na casa de Simão, uma mulher quebra um vaso de alabastro e derrama perfume de nardo puro sobre a cabeça de Jesus.",
+   "alt": "Uma mulher derrama perfume de um vaso de alabastro sobre a cabeça de Jesus à mesa.",
+   "prompt": "In a house in Bethany, Jesus reclining at a meal as a woman breaks an alabaster jar and pours fragrant nard over his head, guests reacting with surprise and some indignation, oil lamps, warm intimate light"
+  },
+  {
+   "id": "q08",
+   "capitulo": 15,
+   "ref": "15:21-22",
+   "titulo": "Simão de Cirene carrega a cruz",
+   "descricao": "Saindo da cidade, os soldados obrigam Simão, que vinha do campo, a carregar a cruz de Jesus a caminho do Gólgota.",
+   "alt": "Um homem forte carrega uma trave de madeira atrás de Jesus, escoltados por soldados romanos.",
+   "prompt": "A narrow road outside the walls of Jerusalem, Simon of Cyrene, a strong man in traveling clothes, compelled by Roman soldiers to carry the wooden crossbeam behind the exhausted Jesus, onlookers and mourning women, sober tone, no blood"
+  },
+  {
+   "id": "q09",
+   "capitulo": 16,
+   "ref": "16:5-7",
+   "titulo": "O jovem no sepulcro",
+   "descricao": "Ao entrar no túmulo, as mulheres veem um jovem vestido de branco, sentado à direita, que anuncia: 'Ressuscitou, não está aqui'.",
+   "alt": "Três mulheres entram num túmulo de pedra e veem um jovem de branco sentado.",
+   "prompt": "Inside a rock-cut tomb at sunrise, three women with jars of spices stepping in fearfully, a young man in a radiant white robe seated on the right side by the empty burial bench, folded linen cloths, light pouring in from the entrance"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "ceus-rasgados",
+   "termo": "Os céus rasgados",
+   "ref": "1:10",
+   "explicado": false,
+   "significado": "No grego, Marcos usa um verbo forte (schizō): os céus se 'rasgam'. O mesmo verbo volta no véu do templo rasgado (15:38), unindo o início e o fim do ministério."
+  },
+  {
+   "id": "pescadores",
+   "termo": "Pescadores de homens",
+   "ref": "1:17",
+   "explicado": false,
+   "significado": "Jesus transforma a profissão dos discípulos em imagem da missão: reunir pessoas para o Reino."
+  },
+  {
+   "id": "odres",
+   "termo": "Vinho novo em odres novos",
+   "ref": "2:22",
+   "explicado": false,
+   "significado": "O novo que Jesus traz não cabe em formas velhas. A aplicação exata é discutida."
+  },
+  {
+   "id": "semente",
+   "termo": "A semente que cresce sozinha",
+   "ref": "4:26-29",
+   "explicado": false,
+   "significado": "Parábola só de Marcos: o Reino cresce por força própria, sem que o lavrador saiba como."
+  },
+  {
+   "id": "legiao",
+   "termo": "Legião",
+   "ref": "5:9",
+   "explicado": true,
+   "significado": "O próprio demônio explica o nome: 'porque somos muitos'. Legião era também o nome da grande unidade do exército romano."
+  },
+  {
+   "id": "doze-cestos",
+   "termo": "Os cestos que sobram",
+   "ref": "6:43",
+   "explicado": false,
+   "significado": "Sobram doze cestos de pedaços. Muitos ligam o número às doze tribos de Israel; em 8:8 sobram sete cestos."
+  },
+  {
+   "id": "fermento",
+   "termo": "O fermento dos fariseus e de Herodes",
+   "ref": "8:15",
+   "explicado": false,
+   "significado": "Os discípulos pensam em pão, mas Jesus fala de uma influência que se espalha e corrompe (8:16-21)."
+  },
+  {
+   "id": "cruz",
+   "termo": "Tomar a cruz",
+   "ref": "8:34",
+   "explicado": false,
+   "significado": "A cruz era o instrumento de execução romano. Seguir Jesus implica negar-se a si mesmo e estar disposto a perder a vida por ele."
+  },
+  {
+   "id": "camelo-agulha",
+   "termo": "O camelo e o fundo da agulha",
+   "ref": "10:25",
+   "explicado": false,
+   "significado": "Exagero proposital para mostrar que é impossível ao ser humano salvar-se por si; mas 'para Deus tudo é possível' (10:27)."
+  },
+  {
+   "id": "resgate",
+   "termo": "Resgate por muitos",
+   "ref": "10:45",
+   "explicado": false,
+   "significado": "O Filho do Homem veio servir e dar a vida em resgate. A imagem vem do preço pago para libertar cativos."
+  },
+  {
+   "id": "figueira",
+   "termo": "A figueira sem frutos",
+   "ref": "11:13-14",
+   "explicado": false,
+   "significado": "A figueira amaldiçoada emoldura a purificação do templo (11:15-21). Muitos a entendem como sinal profético sobre um culto sem frutos."
+  },
+  {
+   "id": "vinha",
+   "termo": "A vinha e os lavradores",
+   "ref": "12:1-9",
+   "explicado": false,
+   "significado": "Lembra Isaías 5. Os líderes percebem que a parábola foi dita contra eles (12:12)."
+  },
+  {
+   "id": "veu-mc",
+   "termo": "O véu rasgado",
+   "ref": "15:38",
+   "explicado": false,
+   "significado": "Na morte de Jesus, o véu do templo se rasga. Logo depois, um centurião romano confessa: 'Verdadeiramente este homem era o Filho de Deus'."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "euangelion",
+   "pt": "Evangelho",
+   "refs": [
+    "1:1",
+    "1:14",
+    "1:15"
+   ],
+   "hebraico": {
+    "lema": "בְּשׂוֹרָה",
+    "translit": "besorah",
+    "strong": "H1309"
+   },
+   "grego": {
+    "lema": "εὐαγγέλιον",
+    "translit": "euangélion",
+    "strong": "G2098"
+   },
+   "sentido": "boa notícia",
+   "latim": {
+    "forma": "initium evangelii Iesu Christi Filii Dei",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Marcos abre o livro com essa palavra. No mundo romano, 'boa nova' anunciava vitórias e nascimentos do imperador; aqui anuncia Jesus.",
+   "interpretacao": false
+  },
+  {
+   "id": "euthys",
+   "pt": "Logo",
+   "refs": [
+    "1:10",
+    "1:12",
+    "1:21"
+   ],
+   "grego": {
+    "lema": "εὐθύς",
+    "translit": "euthýs",
+    "strong": "G2117"
+   },
+   "sentido": "imediatamente, em seguida",
+   "latim": {
+    "forma": "statim",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Palavra muito frequente em Marcos, que dá ao relato um ritmo rápido e urgente.",
+   "interpretacao": false
+  },
+  {
+   "id": "exousia",
+   "pt": "Autoridade",
+   "refs": [
+    "1:22",
+    "1:27",
+    "2:10"
+   ],
+   "grego": {
+    "lema": "ἐξουσία",
+    "translit": "exousía",
+    "strong": "G1849"
+   },
+   "sentido": "poder legítimo, direito de agir",
+   "latim": {
+    "forma": "erat enim docens eos quasi potestatem habens",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "As multidões notam que Jesus ensina com autoridade própria, diferente dos escribas, e que até os espíritos imundos lhe obedecem.",
+   "interpretacao": false
+  },
+  {
+   "id": "splanchnizomai",
+   "pt": "Ter compaixão",
+   "refs": [
+    "1:41",
+    "6:34",
+    "8:2"
+   ],
+   "grego": {
+    "lema": "σπλαγχνίζομαι",
+    "translit": "splanchnízomai",
+    "strong": "G4697"
+   },
+   "sentido": "comover-se nas entranhas",
+   "latim": {
+    "forma": "misertus eius",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Palavra intensa: a compaixão sentida 'nas entranhas'. É a reação de Jesus diante do leproso e das multidões sem pastor.",
+   "interpretacao": false
+  },
+  {
+   "id": "talitha",
+   "pt": "Talita cumi",
+   "refs": [
+    "5:41"
+   ],
+   "aramaico": {
+    "lema": "טְלִיתָא קוּמִי",
+    "translit": "talita qumi"
+   },
+   "grego": {
+    "lema": "ταλιθα κουμ",
+    "translit": "talitha koum"
+   },
+   "sentido": "menina, levanta-te",
+   "latim": {
+    "forma": "talitha cumi",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Marcos guarda palavras de Jesus em aramaico e as traduz, como aqui e em 7:34 ('Efatá') e 15:34.",
+   "interpretacao": false
+  },
+  {
+   "id": "christos-mc",
+   "pt": "Cristo",
+   "refs": [
+    "8:29",
+    "14:61"
+   ],
+   "hebraico": {
+    "lema": "מָשִׁיחַ",
+    "translit": "mashiach",
+    "strong": "H4899"
+   },
+   "grego": {
+    "lema": "Χριστός",
+    "translit": "Christós",
+    "strong": "G5547"
+   },
+   "sentido": "ungido, Messias",
+   "latim": {
+    "forma": "tu es Christus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Pedro confessa que Jesus é o Cristo, mas Jesus manda guardar segredo e anuncia o sofrimento do Filho do Homem: tema do 'segredo messiânico' em Marcos.",
+   "interpretacao": true
+  },
+  {
+   "id": "diakoneo",
+   "pt": "Servir",
+   "refs": [
+    "10:45"
+   ],
+   "grego": {
+    "lema": "διακονέω",
+    "translit": "diakonéō",
+    "strong": "G1247"
+   },
+   "sentido": "servir, prestar serviço",
+   "latim": {
+    "forma": "non ministrari sed ministrare",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Jesus inverte a ideia de grandeza: o Filho do Homem veio servir. Da palavra vem 'diácono'.",
+   "interpretacao": false
+  },
+  {
+   "id": "lytron",
+   "pt": "Resgate",
+   "refs": [
+    "10:45"
+   ],
+   "grego": {
+    "lema": "λύτρον",
+    "translit": "lýtron",
+    "strong": "G3083"
+   },
+   "sentido": "preço de libertação",
+   "latim": {
+    "forma": "redemptionem pro multis",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Valor pago para libertar escravos ou cativos. Jesus descreve sua morte como resgate 'por muitos', expressão que lembra Isaías 53.",
+   "interpretacao": true
+  },
+  {
+   "id": "abba",
+   "pt": "Aba",
+   "refs": [
+    "14:36"
+   ],
+   "aramaico": {
+    "lema": "אַבָּא",
+    "translit": "abba"
+   },
+   "grego": {
+    "lema": "ἀββά",
+    "translit": "abbá",
+    "strong": "G5"
+   },
+   "sentido": "pai (forma familiar em aramaico)",
+   "latim": {
+    "forma": "Abba Pater",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Só Marcos guarda a palavra aramaica da oração no Getsêmani. Expressa intimidade e confiança filial.",
+   "interpretacao": false
+  },
+  {
+   "id": "eloi",
+   "pt": "Eloí, Eloí, lamá sabactâni",
+   "refs": [
+    "15:34"
+   ],
+   "aramaico": {
+    "lema": "אֱלָהִי אֱלָהִי לְמָה שְׁבַקְתַּנִי",
+    "translit": "elahi elahi lema shevaqtani"
+   },
+   "grego": {
+    "lema": "ελωι ελωι λεμα σαβαχθανι",
+    "translit": "elōi elōi lema sabachthani"
+   },
+   "sentido": "Deus meu, Deus meu, por que me desamparaste?",
+   "latim": {
+    "forma": "Heloi Heloi lama sabacthani",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Grito de Jesus na cruz, em aramaico, citando o início do Salmo 22, que termina em confiança e louvor.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "papias-marcos",
+   "titulo": "Papias: Marcos, intérprete de Pedro",
+   "refs": [
+    "1:1"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Papias de Hierápolis, citado por Eusébio de Cesareia, História Eclesiástica",
+   "referencia": "livro 3, cap. 39, §15",
+   "data_fonte": "Papias c. 110–130 d.C.; Eusébio c. 325 d.C.",
+   "data_evento": "séc. I d.C.",
+   "resumo": "Papias registra o que ouviu do 'presbítero': Marcos, intérprete de Pedro, escreveu com cuidado o que lembrava das palavras e feitos do Senhor, embora não em ordem.",
+   "relacao": "É a tradição mais antiga sobre a origem deste Evangelho. Muitos estudiosos a levam a sério; outros discutem seu valor histórico.",
+   "grau": "associacao"
+  },
+  {
+   "id": "josefo-batista-mc",
+   "titulo": "Josefo, João Batista e Maqueronte",
+   "refs": [
+    "6:17",
+    "6:27"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 18, cap. 5, §2",
+   "data_fonte": "c. 93–94 d.C.",
+   "data_evento": "c. 28–29 d.C.",
+   "resumo": "Josefo chama João de 'o Batista', diz que ele pregava a virtude e o batismo e que Herodes Antipas o mandou prender e matar na fortaleza de Maqueronte, por temer seu prestígio junto ao povo.",
+   "relacao": "Confirma a prisão e a morte de João por ordem de Herodes Antipas, que Marcos narra com detalhes do banquete. Josefo também conta que Antipas se casou com Herodias, mulher de seu irmão.",
+   "grau": "documentado"
+  },
+  {
+   "id": "barco-galileia",
+   "titulo": "O barco da Galileia",
+   "refs": [
+    "1:19",
+    "4:36"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Barco de Ginosar ('barco de Jesus')",
+   "referencia": "Museu Yigal Allon, Kibutz Ginosar; achado em 1986",
+   "data_fonte": "c. séc. I a.C.–I d.C.",
+   "data_evento": "descoberto em 1986, durante uma seca",
+   "resumo": "Casco de um barco de pesca de madeira, com cerca de 8 m, preservado na lama do mar da Galileia.",
+   "relacao": "Mostra o tipo de barco usado por pescadores como Simão, André, Tiago e João. Não há ligação direta com Jesus ou os discípulos.",
+   "grau": "associacao"
+  },
+  {
+   "id": "sinagoga-cafarnaum",
+   "titulo": "A sinagoga de Cafarnaum",
+   "refs": [
+    "1:21"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Sinagoga de Cafarnaum",
+   "referencia": "Escavações franciscanas em Cafarnaum (Kfar Nahum), Israel",
+   "data_fonte": "construção visível séc. IV–V d.C.; alicerces de basalto mais antigos",
+   "data_evento": "séc. I d.C. (possível sinagoga anterior)",
+   "resumo": "A sinagoga de calcário branco que se vê hoje é posterior, mas foi construída sobre alicerces de basalto que alguns arqueólogos datam do século I.",
+   "relacao": "Marcos 1:21 conta que Jesus ensinou na sinagoga de Cafarnaum. A datação dos alicerces é debatida.",
+   "grau": "associacao"
+  },
+  {
+   "id": "tacito-mc",
+   "titulo": "Tácito: Cristo executado por Pilatos",
+   "refs": [
+    "15:15"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Tácito, Anais",
+   "referencia": "livro 15, cap. 44",
+   "data_fonte": "c. 116 d.C.",
+   "data_evento": "c. 30 d.C. (morte de Jesus); 64 d.C. (perseguição de Nero)",
+   "resumo": "Ao narrar o incêndio de Roma, Tácito explica que o nome 'cristãos' vinha de Cristo, que 'no reinado de Tibério foi executado pelo procurador Pôncio Pilatos'.",
+   "relacao": "Confirma de forma independente que Jesus foi executado sob Pilatos, como narra 15:15.",
+   "grau": "documentado"
+  },
+  {
+   "id": "pilatos-mc",
+   "titulo": "A Pedra de Pilatos",
+   "refs": [
+    "15:1"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Pedra de Pilatos",
+   "referencia": "Museu de Israel, Jerusalém; encontrada no teatro de Cesareia Marítima em 1961",
+   "data_fonte": "c. 26–36 d.C.",
+   "data_evento": "governo de Pôncio Pilatos (26–36 d.C.)",
+   "resumo": "Bloco de calcário com inscrição latina que menciona '[Pon]tius Pilatus, [Praef]ectus Iuda[eae]' e um edifício dedicado a Tibério.",
+   "relacao": "Confirma Pilatos como governador da Judeia no tempo da paixão de Jesus.",
+   "grau": "documentado"
+  },
+  {
+   "id": "yehohanan",
+   "titulo": "O calcanhar do crucificado de Giv'at ha-Mivtar",
+   "refs": [
+    "15:24"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Ossário de Yehohanan, filho de Hagakol",
+   "referencia": "Museu de Israel; achado em Jerusalém (Giv'at ha-Mivtar) em 1968",
+   "data_fonte": "séc. I d.C.",
+   "data_evento": "séc. I d.C.",
+   "resumo": "Um osso de calcanhar atravessado por um prego de ferro, de um homem crucificado e depois sepultado num túmulo de família.",
+   "relacao": "É a principal evidência arqueológica direta da crucificação na Judeia do século I e mostra que um crucificado podia receber sepultura, como Jesus (15:46).",
+   "grau": "associacao"
+  },
+  {
+   "id": "guerra-templo-mc",
+   "titulo": "A destruição do templo em 70 d.C.",
+   "refs": [
+    "13:1",
+    "13:2"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Guerra Judaica",
+   "referencia": "livro 6 (esp. caps. 4–5)",
+   "data_fonte": "c. 75–79 d.C.",
+   "data_evento": "70 d.C.",
+   "resumo": "Josefo, testemunha da guerra, descreve o cerco de Jerusalém pelos romanos de Tito e o incêndio e destruição do templo.",
+   "relacao": "Os discípulos admiram as grandes pedras do templo e Jesus anuncia sua destruição (13:2). Josefo descreve o fim do templo em 70 d.C. A relação entre a data de Marcos e esse evento é debatida.",
+   "grau": "documentado"
+  },
+  {
+   "id": "ossuario-alexandre",
+   "titulo": "Ossário de 'Alexandre, filho de Simão'",
+   "refs": [
+    "15:21"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Ossário de uma família de Cirene no vale do Cedrom",
+   "referencia": "Túmulo escavado em 1941 (publicado por N. Avigad em 1962), Jerusalém",
+   "data_fonte": "séc. I d.C.",
+   "data_evento": "séc. I d.C.",
+   "resumo": "Num túmulo de judeus originários de Cirene, um ossário traz o nome 'Alexandre, filho de Simão' (com a palavra 'cireneu' em outra inscrição do conjunto).",
+   "relacao": "Marcos 15:21 cita Simão cireneu, 'pai de Alexandre e de Rufo'. A coincidência é notável, mas esses nomes eram comuns, e a identificação não pode ser comprovada.",
+   "grau": "associacao"
+  }
+ ]
+}

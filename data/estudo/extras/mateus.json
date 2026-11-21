@@ -1,0 +1,768 @@
+{
+ "livro": "mateus",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 2,
+   "ref": "2:9-11",
+   "titulo": "Os magos adoram o menino",
+   "descricao": "Guiados pela estrela, os magos entram na casa, prostram-se diante do menino com Maria, sua mãe, e abrem seus tesouros: ouro, incenso e mirra.",
+   "alt": "Magos do Oriente ajoelhados oferecem presentes ao menino Jesus no colo de Maria, numa casa simples.",
+   "prompt": "Magi from the East in rich Persian-style robes kneeling inside a humble stone house in Bethlehem, offering gold, frankincense and myrrh to the young child Jesus seated on the lap of Mary, a bright star visible through the window, warm lamplight, reverent composition"
+  },
+  {
+   "id": "q02",
+   "capitulo": 3,
+   "ref": "3:16-17",
+   "titulo": "O batismo de Jesus",
+   "descricao": "Jesus sobe das águas do Jordão; os céus se abrem e o Espírito desce como uma pomba, enquanto uma voz vem do céu.",
+   "alt": "Jesus sai das águas do rio Jordão enquanto uma pomba desce em meio a uma luz do céu aberto.",
+   "prompt": "Jesus rising from the waters of the Jordan river, John the Baptist in camel hair garment beside him, the heavens opening with a radiant beam of light and a white dove descending, onlookers on the riverbank in awe, no depiction of God the Father, luminous golden light"
+  },
+  {
+   "id": "q03",
+   "capitulo": 4,
+   "ref": "4:1-4",
+   "titulo": "A tentação no deserto",
+   "descricao": "Depois de quarenta dias de jejum, Jesus está sozinho no deserto rochoso, diante das pedras que o tentador sugere transformar em pães.",
+   "alt": "Jesus, magro e sereno, sentado num deserto rochoso entre pedras arredondadas.",
+   "prompt": "Jesus gaunt after forty days of fasting, seated serenely among rocks in the barren Judean wilderness, round stones like loaves at his feet, a shadowy presence suggested only as a dark silhouette at a distance, harsh desert light and long shadows"
+  },
+  {
+   "id": "q04",
+   "capitulo": 5,
+   "ref": "5:1-3",
+   "titulo": "O Sermão do Monte",
+   "descricao": "Jesus sentado na encosta de um monte ensina os discípulos e a multidão: 'Bem-aventurados os pobres de espírito'.",
+   "alt": "Jesus ensina sentado numa encosta verde da Galileia, rodeado de discípulos e de uma grande multidão.",
+   "prompt": "Jesus seated on a grassy hillside above the Sea of Galilee teaching, his disciples close around him, a large crowd of men, women, children, sick and poor listening intently on the slope, spring flowers, soft morning light"
+  },
+  {
+   "id": "q05",
+   "capitulo": 8,
+   "ref": "8:24-26",
+   "titulo": "Jesus acalma a tempestade",
+   "descricao": "O barco é coberto pelas ondas enquanto Jesus dorme; os discípulos o acordam aterrorizados, e ele repreende o vento e o mar.",
+   "alt": "Jesus de pé num barco repreende o vento e as ondas, enquanto discípulos assustados se agarram ao barco.",
+   "prompt": "A small wooden fishing boat on the Sea of Galilee in a violent storm, terrified disciples clinging to the mast and oars, Jesus standing calmly in the stern with an outstretched hand rebuking the wind, clouds beginning to part, dramatic light"
+  },
+  {
+   "id": "q06",
+   "capitulo": 9,
+   "ref": "9:9",
+   "titulo": "O chamado de Mateus",
+   "descricao": "Ao passar pela coletoria, Jesus olha para Mateus, sentado entre moedas e registros, e diz: 'Segue-me'.",
+   "alt": "Jesus aponta para Mateus, cobrador de impostos sentado à sua mesa com moedas.",
+   "prompt": "Jesus pausing at a tax booth in Capernaum, pointing toward Matthew the tax collector seated at a table covered with coins, scales and ledgers, Matthew looking up surprised and beginning to rise, onlookers watching, shaft of light across the scene"
+  },
+  {
+   "id": "q07",
+   "capitulo": 13,
+   "ref": "13:3-8",
+   "titulo": "O semeador",
+   "descricao": "Um semeador lança sementes num campo da Galileia: parte cai no caminho, parte nas pedras, parte entre espinhos e parte em boa terra.",
+   "alt": "Um lavrador lança sementes num campo com caminho, pedras, espinhos e terra boa.",
+   "prompt": "A Galilean farmer scattering seed by hand across a field, birds eating seeds on a trodden path, rocky ground and thorn bushes nearby, rich dark soil with sprouting grain, Jesus teaching from a boat on the lake in the background, golden afternoon light"
+  },
+  {
+   "id": "q08",
+   "capitulo": 14,
+   "ref": "14:28-31",
+   "titulo": "Pedro sobre as águas",
+   "descricao": "Na quarta vigília da noite, Pedro desce do barco e anda sobre as águas, mas, com medo do vento, começa a afundar; Jesus lhe estende a mão.",
+   "alt": "Jesus segura a mão de Pedro, que afunda nas ondas, diante do barco dos discípulos.",
+   "prompt": "Night on the stormy Sea of Galilee, Jesus standing on the water reaching out to grasp the hand of Peter who is sinking in the waves, the disciples watching from the boat, moonlight breaking through clouds, dramatic composition"
+  },
+  {
+   "id": "q09",
+   "capitulo": 16,
+   "ref": "16:15-18",
+   "titulo": "'Tu és o Cristo'",
+   "descricao": "Perto de Cesareia de Filipe, junto às rochas, Pedro declara que Jesus é o Cristo, o Filho do Deus vivo.",
+   "alt": "Pedro, diante de Jesus, faz sua confissão junto a um grande paredão rochoso.",
+   "prompt": "Near Caesarea Philippi, at the foot of a massive rock cliff with springs, Peter speaking earnestly to Jesus, the other disciples gathered around, Jesus responding with a blessing gesture, natural daylight, dignified composition"
+  },
+  {
+   "id": "q10",
+   "capitulo": 17,
+   "ref": "17:1-3",
+   "titulo": "A transfiguração",
+   "descricao": "No alto de um monte, o rosto de Jesus brilha como o sol e suas vestes ficam brancas como a luz; Moisés e Elias aparecem, e os três discípulos se prostram.",
+   "alt": "Jesus resplandecente no alto de um monte, com Moisés e Elias, e três discípulos prostrados.",
+   "prompt": "Jesus transfigured on a high mountain, his face shining like the sun and garments dazzling white, Moses holding tablets and Elijah appearing beside him, Peter, James and John fallen to the ground shielding their eyes, a bright cloud overhead, radiant light"
+  },
+  {
+   "id": "q11",
+   "capitulo": 21,
+   "ref": "21:7-9",
+   "titulo": "A entrada em Jerusalém",
+   "descricao": "Jesus entra em Jerusalém montado num jumentinho; a multidão estende mantos e ramos pelo caminho e grita 'Hosana'.",
+   "alt": "Jesus entra em Jerusalém montado num jumento, recebido por uma multidão com ramos.",
+   "prompt": "Jesus riding a young donkey down the Mount of Olives toward Jerusalem, crowds spreading cloaks and palm branches on the road, people waving branches and shouting, the temple visible in the distance, bright festive daylight"
+  },
+  {
+   "id": "q12",
+   "capitulo": 26,
+   "ref": "26:26-28",
+   "titulo": "A última ceia",
+   "descricao": "À mesa com os doze, Jesus toma o pão, dá graças, parte-o e o entrega aos discípulos; depois toma o cálice.",
+   "alt": "Jesus parte o pão à mesa com os doze discípulos, à luz de lamparinas.",
+   "prompt": "Jesus at the Passover meal reclining with the twelve disciples in an upper room, breaking unleavened bread and holding a cup of wine, oil lamps casting warm light, disciples' faces attentive and troubled, intimate chiaroscuro"
+  },
+  {
+   "id": "q13",
+   "capitulo": 26,
+   "ref": "26:39",
+   "titulo": "A oração no Getsêmani",
+   "descricao": "Jesus se prostra no jardim, entre oliveiras, e ora: 'Não seja como eu quero, mas como tu queres'; ao fundo, os discípulos dormem.",
+   "alt": "Jesus ajoelhado em oração entre oliveiras à noite, com discípulos dormindo ao fundo.",
+   "prompt": "Jesus kneeling in anguished prayer among ancient olive trees in Gethsemane at night, face lifted toward a faint light from above, Peter, James and John asleep in the background, moonlit blue tones, deep emotion"
+  },
+  {
+   "id": "q14",
+   "capitulo": 27,
+   "ref": "27:54-56",
+   "titulo": "Diante da cruz",
+   "descricao": "Ao longe, o centurião e as mulheres da Galileia contemplam a cruz sob um céu escurecido.",
+   "alt": "Um centurião e mulheres olham de longe para três cruzes sob um céu escuro.",
+   "prompt": "The hill of Golgotha seen at a distance under a darkened sky, three crosses in silhouette, in the foreground a Roman centurion looking up in awe and a group of grieving Galilean women including Mary Magdalene, sober and restrained, no blood, profound emotion on faces"
+  },
+  {
+   "id": "q15",
+   "capitulo": 28,
+   "ref": "28:2-6",
+   "titulo": "O anjo e o sepulcro vazio",
+   "descricao": "Ao amanhecer, um anjo de aparência brilhante está sentado sobre a pedra removida e anuncia às mulheres: 'Ele não está aqui, ressuscitou'.",
+   "alt": "Um anjo sentado na pedra de um túmulo aberto fala a duas mulheres ao amanhecer.",
+   "prompt": "Dawn at a rock-cut tomb in a garden, the large round stone rolled away, a majestic angel in dazzling white seated upon it, Mary Magdalene and the other Mary standing amazed holding spices, Roman guards fallen to the ground at a distance, first golden light"
+  },
+  {
+   "id": "q16",
+   "capitulo": 28,
+   "ref": "28:16-20",
+   "titulo": "O envio dos discípulos",
+   "descricao": "Num monte da Galileia, Jesus ressuscitado envia os onze a fazer discípulos de todas as nações.",
+   "alt": "Jesus ressuscitado em um monte da Galileia fala aos onze discípulos.",
+   "prompt": "The risen Jesus standing on a mountain in Galilee with arms extended, the eleven disciples kneeling and standing around him, some worshipping, one hesitating, vast landscape of hills and lake below, clear bright light"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "estrela",
+   "termo": "A estrela dos magos",
+   "ref": "2:2",
+   "explicado": false,
+   "significado": "Uma estrela guia os magos até o menino. Muitos a ligam à profecia de Números 24:17; se foi fenômeno astronômico ou sinal milagroso é discutido."
+  },
+  {
+   "id": "presentes",
+   "termo": "Ouro, incenso e mirra",
+   "ref": "2:11",
+   "explicado": false,
+   "significado": "O texto não explica os presentes. Uma leitura antiga vê ouro para o rei, incenso para Deus e mirra para a morte; é interpretação."
+  },
+  {
+   "id": "pomba",
+   "termo": "A pomba",
+   "ref": "3:16",
+   "explicado": true,
+   "significado": "O texto diz que é o Espírito de Deus descendo sobre Jesus 'como pomba'."
+  },
+  {
+   "id": "sal-luz",
+   "termo": "Sal da terra e luz do mundo",
+   "ref": "5:13-14",
+   "explicado": true,
+   "significado": "Jesus mesmo aplica as imagens: os discípulos devem preservar e iluminar, para que os outros vejam suas boas obras e glorifiquem o Pai (5:16)."
+  },
+  {
+   "id": "casa-rocha",
+   "termo": "A casa sobre a rocha",
+   "ref": "7:24",
+   "explicado": true,
+   "significado": "Jesus explica: quem ouve e pratica suas palavras é como quem constrói sobre a rocha."
+  },
+  {
+   "id": "jugo",
+   "termo": "O jugo suave",
+   "ref": "11:29-30",
+   "explicado": false,
+   "significado": "O jugo era a peça que unia bois ao arado; em linguagem judaica, também o ensino de um mestre. Jesus oferece um jugo que dá descanso."
+  },
+  {
+   "id": "sinal-jonas",
+   "termo": "O sinal de Jonas",
+   "ref": "12:40",
+   "explicado": true,
+   "significado": "Jesus explica: como Jonas ficou três dias e três noites no peixe, o Filho do Homem ficará no coração da terra."
+  },
+  {
+   "id": "trigo-joio",
+   "termo": "O trigo e o joio",
+   "ref": "13:24-30",
+   "explicado": true,
+   "significado": "Jesus explica a parábola em 13:37-43: o campo é o mundo, a boa semente são os filhos do Reino e a colheita é o fim dos tempos."
+  },
+  {
+   "id": "mostarda-fermento",
+   "termo": "Grão de mostarda e fermento",
+   "ref": "13:31-33",
+   "explicado": false,
+   "significado": "Começos pequenos que crescem muito: imagens do Reino dos céus, que avança de modo discreto mas poderoso."
+  },
+  {
+   "id": "perola",
+   "termo": "O tesouro e a pérola",
+   "ref": "13:44-46",
+   "explicado": false,
+   "significado": "Quem descobre o Reino entrega tudo com alegria para tê-lo."
+  },
+  {
+   "id": "chaves",
+   "termo": "As chaves do Reino",
+   "ref": "16:19",
+   "explicado": false,
+   "significado": "Imagem de autoridade dada a Pedro para 'ligar e desligar'. O sentido e a extensão dessa autoridade são entendidos de modo diferente por católicos, ortodoxos e protestantes."
+  },
+  {
+   "id": "ovelha-perdida",
+   "termo": "A ovelha perdida",
+   "ref": "18:12-14",
+   "explicado": true,
+   "significado": "Jesus conclui que não é da vontade do Pai que nenhum dos pequeninos se perca."
+  },
+  {
+   "id": "virgens-lampadas",
+   "termo": "As dez virgens e as lâmpadas",
+   "ref": "25:1-13",
+   "explicado": true,
+   "significado": "A parábola termina com a explicação: 'Vigiai, pois não sabeis o dia nem a hora'."
+  },
+  {
+   "id": "ovelhas-bodes",
+   "termo": "Ovelhas e bodes",
+   "ref": "25:32-33",
+   "explicado": false,
+   "significado": "Na cena do juízo, o pastor separa ovelhas e bodes. O critério é o cuidado com os 'pequeninos irmãos' (25:40)."
+  },
+  {
+   "id": "pao-calice",
+   "termo": "O pão e o cálice",
+   "ref": "26:26-28",
+   "explicado": true,
+   "significado": "Jesus mesmo diz: 'isto é o meu corpo' e 'isto é o meu sangue do Novo Testamento'. Como entender a presença de Cristo na ceia varia entre as igrejas."
+  },
+  {
+   "id": "veu",
+   "termo": "O véu rasgado",
+   "ref": "27:51",
+   "explicado": false,
+   "significado": "O véu do templo se rasga de cima a baixo na morte de Jesus. Muitos o entendem como abertura do acesso a Deus (cf. Hb 10:19-20)."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "basileia",
+   "pt": "Reino dos céus",
+   "refs": [
+    "3:2",
+    "4:17",
+    "5:3",
+    "13:31"
+   ],
+   "hebraico": {
+    "lema": "מַלְכוּת שָׁמַיִם",
+    "translit": "malkut shamayim"
+   },
+   "grego": {
+    "lema": "βασιλεία τῶν οὐρανῶν",
+    "translit": "basileía tōn ouranōn",
+    "strong": "G932, G3772"
+   },
+   "sentido": "o reinado, o governo de Deus",
+   "latim": {
+    "forma": "regnum caelorum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Mateus prefere 'Reino dos céus' a 'Reino de Deus', provavelmente por respeito judaico em evitar o nome divino. Os dois significam o mesmo.",
+   "interpretacao": false
+  },
+  {
+   "id": "metanoeo",
+   "pt": "Arrependei-vos",
+   "refs": [
+    "3:2",
+    "4:17"
+   ],
+   "hebraico": {
+    "lema": "שׁוּב",
+    "translit": "shuv",
+    "strong": "H7725"
+   },
+   "grego": {
+    "lema": "μετανοέω",
+    "translit": "metanoéō",
+    "strong": "G3340"
+   },
+   "sentido": "mudar de mente, de direção",
+   "latim": {
+    "forma": "paenitentiam agite",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Primeira palavra da pregação de João e de Jesus. A Vulgata traduziu 'fazei penitência', o que foi debatido na Reforma; o grego destaca a mudança de mente e de vida.",
+   "interpretacao": true
+  },
+  {
+   "id": "emmanouel",
+   "pt": "Emanuel",
+   "refs": [
+    "1:23"
+   ],
+   "hebraico": {
+    "lema": "עִמָּנוּ אֵל",
+    "translit": "'immanu 'el",
+    "strong": "H6005"
+   },
+   "grego": {
+    "lema": "Ἐμμανουήλ",
+    "translit": "Emmanouḗl",
+    "strong": "G1694"
+   },
+   "sentido": "Deus conosco",
+   "latim": {
+    "forma": "Emmanuhel quod est interpretatum nobiscum Deus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Mateus cita Isaías 7:14 e explica o nome. O Evangelho termina com a mesma ideia: 'estou convosco todos os dias' (28:20).",
+   "interpretacao": false
+  },
+  {
+   "id": "pleroo",
+   "pt": "Cumprir",
+   "refs": [
+    "1:22",
+    "5:17",
+    "2:15"
+   ],
+   "grego": {
+    "lema": "πληρόω",
+    "translit": "plēróō",
+    "strong": "G4137"
+   },
+   "sentido": "encher, completar, levar a termo",
+   "latim": {
+    "forma": "ut adimpleretur",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Palavra-chave de Mateus: a vida de Jesus 'cumpre' as Escrituras. Em 5:17 Jesus diz que não veio abolir a Lei, mas cumpri-la.",
+   "interpretacao": false
+  },
+  {
+   "id": "makarios",
+   "pt": "Bem-aventurado (bendito)",
+   "refs": [
+    "5:3",
+    "5:4",
+    "5:9"
+   ],
+   "hebraico": {
+    "lema": "אַשְׁרֵי",
+    "translit": "'ashrei",
+    "strong": "H835"
+   },
+   "grego": {
+    "lema": "μακάριος",
+    "translit": "makários",
+    "strong": "G3107"
+   },
+   "sentido": "feliz, abençoado por Deus",
+   "latim": {
+    "forma": "beati pauperes spiritu",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Não é só 'contente': é a condição de quem está sob o favor de Deus, mesmo na pobreza ou no choro.",
+   "interpretacao": false
+  },
+  {
+   "id": "dikaiosyne",
+   "pt": "Justiça",
+   "refs": [
+    "5:6",
+    "5:20",
+    "6:33"
+   ],
+   "hebraico": {
+    "lema": "צְדָקָה",
+    "translit": "tsedaqah",
+    "strong": "H6666"
+   },
+   "grego": {
+    "lema": "δικαιοσύνη",
+    "translit": "dikaiosýnē",
+    "strong": "G1343"
+   },
+   "sentido": "retidão, vida conforme a vontade de Deus",
+   "latim": {
+    "forma": "quaerite autem primum regnum et iustitiam eius",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Em Mateus, 'justiça' é sobretudo a vida que agrada a Deus, maior que a dos escribas e fariseus (5:20).",
+   "interpretacao": false
+  },
+  {
+   "id": "oligopistos",
+   "pt": "Homens de pouca fé",
+   "refs": [
+    "6:30",
+    "8:26",
+    "14:31"
+   ],
+   "grego": {
+    "lema": "ὀλιγόπιστος",
+    "translit": "oligópistos",
+    "strong": "G3640"
+   },
+   "sentido": "de fé pequena",
+   "latim": {
+    "forma": "modicae fidei",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Expressão típica de Mateus para os discípulos que confiam, mas vacilam diante do medo.",
+   "interpretacao": false
+  },
+  {
+   "id": "christos",
+   "pt": "Cristo",
+   "refs": [
+    "1:1",
+    "16:16"
+   ],
+   "hebraico": {
+    "lema": "מָשִׁיחַ",
+    "translit": "mashiach",
+    "strong": "H4899"
+   },
+   "grego": {
+    "lema": "Χριστός",
+    "translit": "Christós",
+    "strong": "G5547"
+   },
+   "sentido": "ungido",
+   "latim": {
+    "forma": "tu es Christus Filius Dei vivi",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Tradução grega de 'Messias', o rei ungido esperado. Em 16:16 Pedro confessa Jesus como o Cristo.",
+   "interpretacao": false
+  },
+  {
+   "id": "ekklesia",
+   "pt": "Igreja",
+   "refs": [
+    "16:18",
+    "18:17"
+   ],
+   "hebraico": {
+    "lema": "קָהָל",
+    "translit": "qahal",
+    "strong": "H6951"
+   },
+   "grego": {
+    "lema": "ἐκκλησία",
+    "translit": "ekklēsía",
+    "strong": "G1577"
+   },
+   "sentido": "assembleia convocada",
+   "latim": {
+    "forma": "aedificabo ecclesiam meam",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Mateus é o único Evangelho que usa a palavra. Na Septuaginta ela traduz a 'assembleia' (qahal) de Israel.",
+   "interpretacao": false
+  },
+  {
+   "id": "petros",
+   "pt": "Pedro / pedra",
+   "refs": [
+    "16:18"
+   ],
+   "grego": {
+    "lema": "Πέτρος / πέτρα",
+    "translit": "Pétros / pétra",
+    "strong": "G4074, G4073"
+   },
+   "sentido": "Petros (nome) e petra (rocha)",
+   "latim": {
+    "forma": "tu es Petrus et super hanc petram",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Jogo de palavras entre o nome de Pedro e 'pedra'. Em aramaico, Jesus provavelmente disse Kefa nas duas vezes. Se a pedra é Pedro, sua confissão ou o próprio Cristo é discutido entre as tradições cristãs.",
+   "interpretacao": true
+  },
+  {
+   "id": "huios-anthropou",
+   "pt": "Filho do Homem",
+   "refs": [
+    "8:20",
+    "16:13",
+    "26:64"
+   ],
+   "aramaico": {
+    "lema": "בַּר אֱנָשׁ",
+    "translit": "bar 'enash"
+   },
+   "grego": {
+    "lema": "ὁ υἱὸς τοῦ ἀνθρώπου",
+    "translit": "ho huiòs toû anthrṓpou",
+    "strong": "G5207, G444"
+   },
+   "sentido": "ser humano; título messiânico",
+   "latim": {
+    "forma": "Filius hominis",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O título que Jesus mais usa para si. Lembra Daniel 7:13, onde 'um como filho de homem' recebe o reino.",
+   "interpretacao": true
+  },
+  {
+   "id": "parabole",
+   "pt": "Parábola",
+   "refs": [
+    "13:3",
+    "13:34"
+   ],
+   "hebraico": {
+    "lema": "מָשָׁל",
+    "translit": "mashal",
+    "strong": "H4912"
+   },
+   "grego": {
+    "lema": "παραβολή",
+    "translit": "parabolḗ",
+    "strong": "G3850"
+   },
+   "sentido": "comparação, história que ilustra",
+   "latim": {
+    "forma": "locutus est eis multa in parabolis",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Jesus ensina por histórias do dia a dia que revelam o Reino a quem quer ouvir e o encobrem aos endurecidos (13:13).",
+   "interpretacao": false
+  },
+  {
+   "id": "diatheke",
+   "pt": "Aliança (testamento)",
+   "refs": [
+    "26:28"
+   ],
+   "hebraico": {
+    "lema": "בְּרִית",
+    "translit": "berit",
+    "strong": "H1285"
+   },
+   "grego": {
+    "lema": "διαθήκη",
+    "translit": "diathḗkē",
+    "strong": "G1242"
+   },
+   "sentido": "pacto, testamento",
+   "latim": {
+    "forma": "hic est enim sanguis meus novi testamenti",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Na ceia, Jesus liga seu sangue à aliança, ecoando Êxodo 24:8 e Jeremias 31:31. A Vulgata traduz 'testamento', origem dos nomes Antigo e Novo Testamento.",
+   "interpretacao": false
+  },
+  {
+   "id": "matheteuo",
+   "pt": "Fazei discípulos",
+   "refs": [
+    "28:19"
+   ],
+   "grego": {
+    "lema": "μαθητεύω",
+    "translit": "mathēteúō",
+    "strong": "G3100"
+   },
+   "sentido": "tornar alguém aprendiz",
+   "latim": {
+    "forma": "euntes ergo docete omnes gentes",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O verbo principal da grande comissão é 'fazer discípulos'; 'ir', 'batizar' e 'ensinar' descrevem como.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "josefo-herodes",
+   "titulo": "A morte de Herodes, o Grande",
+   "refs": [
+    "2:1",
+    "2:19"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 17, caps. 6–8",
+   "data_fonte": "c. 93–94 d.C.",
+   "data_evento": "c. 4 a.C.",
+   "resumo": "Josefo descreve a doença, a crueldade dos últimos anos e a morte de Herodes em Jericó, pouco depois de um eclipse da lua.",
+   "relacao": "Confirma o rei Herodes e sua morte, pano de fundo de Mateus 2. É por isso que o nascimento de Jesus costuma ser datado antes de 4 a.C.",
+   "grau": "documentado"
+  },
+  {
+   "id": "macrobio-herodes",
+   "titulo": "Macróbio e a crueldade de Herodes",
+   "refs": [
+    "2:16"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Macróbio, Saturnálias",
+   "referencia": "livro 2, cap. 4, §11",
+   "data_fonte": "c. 430 d.C.",
+   "data_evento": "c. 4 a.C.",
+   "resumo": "Macróbio registra a piada de Augusto: 'é melhor ser porco de Herodes do que filho dele', mencionando meninos menores de dois anos mortos por Herodes.",
+   "relacao": "É tardia e parece misturar a matança de Belém com a execução dos filhos de Herodes. Não há outra fonte antiga que narre o episódio de Belém; Josefo descreve muitas outras crueldades de Herodes.",
+   "grau": "associacao"
+  },
+  {
+   "id": "herodio",
+   "titulo": "O túmulo de Herodes no Herodium",
+   "refs": [
+    "2:1",
+    "2:19"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Herodium (Heródion)",
+   "referencia": "Escavações de Ehud Netzer; descoberta anunciada em 2007",
+   "data_fonte": "séc. I a.C.",
+   "data_evento": "c. 4 a.C.",
+   "resumo": "Arqueólogos identificaram o provável túmulo de Herodes no palácio-fortaleza que ele construiu a poucos quilômetros de Belém.",
+   "relacao": "Mostra o poder do rei que governava quando Jesus nasceu, a curta distância da cidade dos magos. A identificação do túmulo é aceita por muitos, mas questionada por alguns.",
+   "grau": "associacao"
+  },
+  {
+   "id": "josefo-arquelau",
+   "titulo": "Arquelau, filho de Herodes",
+   "refs": [
+    "2:22"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 17, cap. 13",
+   "data_fonte": "c. 93–94 d.C.",
+   "data_evento": "4 a.C.–6 d.C.",
+   "resumo": "Josefo conta que Arquelau governou a Judeia depois de Herodes, foi duro com o povo e acabou deposto por Augusto e exilado na Gália.",
+   "relacao": "Explica por que José teve medo de voltar à Judeia 'ouvindo que Arquelau reinava' (2:22) e foi para a Galileia.",
+   "grau": "documentado"
+  },
+  {
+   "id": "josefo-batista-mt",
+   "titulo": "Josefo e João Batista",
+   "refs": [
+    "14:3",
+    "14:10"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 18, cap. 5, §2",
+   "data_fonte": "c. 93–94 d.C.",
+   "data_evento": "c. 28–29 d.C.",
+   "resumo": "Josefo chama João de 'o Batista', diz que ele pregava a virtude e o batismo e que Herodes Antipas o mandou prender e matar na fortaleza de Maqueronte, por temer seu prestígio junto ao povo.",
+   "relacao": "Confirma João como pregador e batizador executado por Herodes Antipas. Josefo dá um motivo político; Mateus, a crítica de João ao casamento com Herodias. Os dois motivos não se excluem.",
+   "grau": "documentado"
+  },
+  {
+   "id": "caifas-mt",
+   "titulo": "O ossuário de Caifás",
+   "refs": [
+    "26:3",
+    "26:57"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Ossuário de Caifás",
+   "referencia": "Museu de Israel, Jerusalém; descoberto em 1990 num túmulo ao sul de Jerusalém",
+   "data_fonte": "séc. I d.C.",
+   "data_evento": "sumo sacerdócio de Caifás (c. 18–36 d.C.)",
+   "resumo": "Caixa de ossos ricamente decorada, com a inscrição aramaica 'José, filho de Caifás' (Yehosef bar Qayafa).",
+   "relacao": "Muitos estudiosos identificam o ossuário com a família do sumo sacerdote que presidiu o julgamento de Jesus (26:57). A leitura do nome e a identificação têm amplo, mas não unânime, apoio.",
+   "grau": "documentado"
+  },
+  {
+   "id": "pilatos-mt",
+   "titulo": "A Pedra de Pilatos",
+   "refs": [
+    "27:2"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Pedra de Pilatos",
+   "referencia": "Museu de Israel, Jerusalém; encontrada no teatro de Cesareia Marítima em 1961",
+   "data_fonte": "c. 26–36 d.C.",
+   "data_evento": "governo de Pôncio Pilatos (26–36 d.C.)",
+   "resumo": "Bloco de calcário com inscrição latina que menciona '[Pon]tius Pilatus, [Praef]ectus Iuda[eae]' e um edifício dedicado a Tibério.",
+   "relacao": "Confirma Pôncio Pilatos como governador romano da Judeia, o mesmo que entregou Jesus à crucificação (27:2, 27:26).",
+   "grau": "documentado"
+  },
+  {
+   "id": "tacito-mt",
+   "titulo": "Tácito: Cristo executado por Pilatos",
+   "refs": [
+    "27:26"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Tácito, Anais",
+   "referencia": "livro 15, cap. 44",
+   "data_fonte": "c. 116 d.C.",
+   "data_evento": "c. 30 d.C. (morte de Jesus); 64 d.C. (perseguição de Nero)",
+   "resumo": "Ao narrar o incêndio de Roma, Tácito explica que o nome 'cristãos' vinha de Cristo, que 'no reinado de Tibério foi executado pelo procurador Pôncio Pilatos'.",
+   "relacao": "Um historiador romano, sem simpatia pelos cristãos, confirma que Jesus foi executado sob Pilatos no tempo de Tibério.",
+   "grau": "documentado"
+  },
+  {
+   "id": "guerra-templo-mt",
+   "titulo": "A destruição do templo em 70 d.C.",
+   "refs": [
+    "24:1",
+    "24:2"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Guerra Judaica",
+   "referencia": "livro 6 (esp. caps. 4–5)",
+   "data_fonte": "c. 75–79 d.C.",
+   "data_evento": "70 d.C.",
+   "resumo": "Josefo, testemunha da guerra, descreve o cerco de Jerusalém pelos romanos de Tito e o incêndio e destruição do templo.",
+   "relacao": "Jesus anuncia que não ficaria pedra sobre pedra do templo (24:2). Josefo descreve a destruição ocorrida cerca de quarenta anos depois. A data de escrita de Mateus em relação a esse evento é discutida.",
+   "grau": "documentado"
+  },
+  {
+   "id": "papias-mateus",
+   "titulo": "Papias e o Evangelho de Mateus",
+   "refs": [
+    "9:9",
+    "10:3"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Papias de Hierápolis, citado por Eusébio de Cesareia, História Eclesiástica",
+   "referencia": "livro 3, cap. 39, §16",
+   "data_fonte": "Papias c. 110–130 d.C.; Eusébio c. 325 d.C.",
+   "data_evento": "séc. I d.C.",
+   "resumo": "Papias diz que 'Mateus reuniu as palavras (logia) em língua hebraica, e cada um as interpretou como pôde'.",
+   "relacao": "É o testemunho mais antigo que liga um escrito ao apóstolo Mateus. O que Papias quis dizer com 'língua hebraica' e se fala do Evangelho grego que temos é muito debatido.",
+   "grau": "associacao"
+  }
+ ]
+}

@@ -1,0 +1,386 @@
+{
+ "livro": "colossenses",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:7-8",
+   "titulo": "Epafras ensina em Colossos",
+   "descricao": "Os colossenses aprenderam o evangelho por Epafras, fiel servidor de Cristo, que depois levou notícias deles a Paulo.",
+   "alt": "Um mestre ensina um pequeno grupo numa casa, com as colinas do vale do Lico ao fundo.",
+   "prompt": "Epaphras, a teacher in a simple tunic, explaining a scroll to a small group of townspeople in the courtyard of a house in Colossae, the hills of the Lycus valley behind them, soft evening light"
+  },
+  {
+   "id": "q02",
+   "capitulo": 2,
+   "ref": "2:13-14",
+   "titulo": "A dívida cravada na cruz",
+   "descricao": "Paulo diz que Deus riscou a certidão de dívida que era contra nós e a removeu, cravando-a na cruz.",
+   "alt": "Um documento de dívida, riscado, preso por um prego numa viga de madeira.",
+   "prompt": "Close view of a papyrus certificate of debt with lines struck through in ink, nailed to a rough wooden beam, warm light falling on it against a dark background, solemn and symbolic"
+  },
+  {
+   "id": "q03",
+   "capitulo": 3,
+   "ref": "3:16",
+   "titulo": "Salmos, hinos e cânticos",
+   "descricao": "A palavra de Cristo habita nos crentes, que ensinam uns aos outros e cantam a Deus com gratidão.",
+   "alt": "Uma comunidade canta reunida à luz de lamparinas.",
+   "prompt": "A small community of believers in a house in Colossae singing together at evening, men, women and children, one holding a lyre, another reading from a scroll, faces lit by oil lamps, joyful and reverent"
+  },
+  {
+   "id": "q04",
+   "capitulo": 4,
+   "ref": "4:7-9",
+   "titulo": "Tíquico e Onésimo a caminho",
+   "descricao": "Paulo envia Tíquico com a carta, acompanhado de Onésimo, irmão fiel e amado, natural de Colossos.",
+   "alt": "Dois viajantes caminham por uma estrada romana, um deles levando cartas.",
+   "prompt": "Two travelers on a Roman road through the hills of Asia Minor, Tychicus carrying a leather satchel of letters and Onesimus walking beside him, a milestone at the roadside, morning light"
+  },
+  {
+   "id": "q05",
+   "capitulo": 4,
+   "ref": "4:16-18",
+   "titulo": "Leiam também em Laodiceia",
+   "descricao": "Paulo pede que a carta seja lida também na igreja dos laodicenses e assina a saudação com a própria mão.",
+   "alt": "Uma carta é lida em voz alta numa casa de reunião, enquanto outra é entregue a um mensageiro.",
+   "prompt": "In a house church in Colossae, an elder reading a letter aloud to the gathered believers, while a messenger waits at the door to carry it on to Laodicea, a hostess named Nympha welcoming guests in the background, warm light"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "imagem",
+   "termo": "Imagem do Deus invisível",
+   "ref": "1:15",
+   "explicado": false,
+   "significado": "Cristo torna visível o Deus que não se vê. O hino de 1:15-20 o apresenta como mediador da criação e da reconciliação."
+  },
+  {
+   "id": "primogenito",
+   "termo": "Primogênito",
+   "ref": "1:15",
+   "explicado": false,
+   "significado": "Na Bíblia o primogênito tinha primazia e herança. O texto explica o sentido de primazia (1:18); a questão de Cristo ser ou não criado foi debatida no séc. IV, e as igrejas confessam que ele não é criatura."
+  },
+  {
+   "id": "trevas-reino",
+   "termo": "Domínio das trevas e reino do Filho",
+   "ref": "1:13",
+   "explicado": false,
+   "significado": "Imagem de transferência de um reino para outro, como povos deportados. Fala da libertação em Cristo."
+  },
+  {
+   "id": "raizes",
+   "termo": "Raízes e edifício",
+   "ref": "2:7",
+   "explicado": false,
+   "significado": "Duas imagens juntas: árvore enraizada e casa edificada, para falar de firmeza na fé."
+  },
+  {
+   "id": "circuncisao",
+   "termo": "Circuncisão não feita por mãos",
+   "ref": "2:11-12",
+   "explicado": true,
+   "significado": "Paulo liga a circuncisão de Cristo ao batismo: ser sepultado e ressuscitado com ele."
+  },
+  {
+   "id": "certidao",
+   "termo": "Certidão de dívida",
+   "ref": "2:14",
+   "explicado": false,
+   "significado": "O cheirographon era um documento assinado de dívida. Deus o cancelou, cravando-o na cruz."
+  },
+  {
+   "id": "triunfo",
+   "termo": "Despojar e triunfar",
+   "ref": "2:15",
+   "explicado": false,
+   "significado": "Imagem do general vitorioso que despoja o inimigo e o exibe publicamente. Na cruz, Cristo vence os poderes."
+  },
+  {
+   "id": "sombra",
+   "termo": "Sombra e realidade",
+   "ref": "2:17",
+   "explicado": true,
+   "significado": "Festas, luas novas e sábados são sombra do que viria; a realidade pertence a Cristo."
+  },
+  {
+   "id": "roupa",
+   "termo": "Despir e revestir",
+   "ref": "3:9-14",
+   "explicado": true,
+   "significado": "Paulo explica: despir o velho ser humano e revestir-se de misericórdia, bondade, humildade, mansidão, paciência e, acima de tudo, do amor."
+  },
+  {
+   "id": "sal",
+   "termo": "Palavra temperada com sal",
+   "ref": "4:6",
+   "explicado": false,
+   "significado": "Fala agradável e sábia, que dá sabor e preserva, sabendo responder a cada pessoa."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "eikon",
+   "pt": "Imagem",
+   "refs": [
+    "1:15",
+    "3:10"
+   ],
+   "grego": {
+    "lema": "εἰκών",
+    "translit": "eikṓn",
+    "strong": "G1504"
+   },
+   "sentido": "imagem, representação",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "צֶלֶם",
+     "translit": "tselem",
+     "strong": "H6754",
+     "ref": "Gn 1:27"
+    }
+   ],
+   "latim": {
+    "forma": "imago",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Lembra Gênesis 1:27: o ser humano criado à imagem de Deus. Cristo é a imagem perfeita, e o novo ser humano é renovado segundo essa imagem (3:10).",
+   "interpretacao": false
+  },
+  {
+   "id": "prototokos",
+   "pt": "Primogênito",
+   "refs": [
+    "1:15",
+    "1:18"
+   ],
+   "grego": {
+    "lema": "πρωτότοκος",
+    "translit": "prōtótokos",
+    "strong": "G4416"
+   },
+   "sentido": "primeiro nascido; o que tem primazia",
+   "latim": {
+    "forma": "primogenitus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Ver símbolos. O texto destaca a primazia de Cristo sobre a criação e sobre a ressurreição.",
+   "interpretacao": false
+  },
+  {
+   "id": "pleroma",
+   "pt": "Plenitude",
+   "refs": [
+    "1:19",
+    "2:9"
+   ],
+   "grego": {
+    "lema": "πλήρωμα",
+    "translit": "plḗrōma",
+    "strong": "G4138"
+   },
+   "sentido": "plenitude",
+   "latim": {
+    "forma": "plenitudo",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "\"Nele habita corporalmente toda a plenitude da divindade\" (2:9). Mais tarde grupos gnósticos usaram a palavra para um mundo de seres divinos; Colossenses afirma que toda a plenitude está em Cristo.",
+   "interpretacao": false
+  },
+  {
+   "id": "mysterion",
+   "pt": "Mistério",
+   "refs": [
+    "1:26-27",
+    "2:2"
+   ],
+   "grego": {
+    "lema": "μυστήριον",
+    "translit": "mystḗrion",
+    "strong": "G3466"
+   },
+   "sentido": "segredo revelado",
+   "latim": {
+    "forma": "mysterium / sacramentum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O mistério revelado é \"Cristo em vós, a esperança da glória\" (1:27).",
+   "interpretacao": false
+  },
+  {
+   "id": "philosophia",
+   "pt": "Filosofia",
+   "refs": [
+    "2:8"
+   ],
+   "grego": {
+    "lema": "φιλοσοφία",
+    "translit": "philosophía",
+    "strong": "G5385"
+   },
+   "sentido": "amor à sabedoria",
+   "latim": {
+    "forma": "philosophia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Única ocorrência no NT. Paulo não condena todo pensamento, mas ensinos humanos que afastam de Cristo. Que \"filosofia\" ameaçava Colossos é debatido.",
+   "interpretacao": false
+  },
+  {
+   "id": "stoicheia",
+   "pt": "Elementos do mundo",
+   "refs": [
+    "2:8",
+    "2:20"
+   ],
+   "grego": {
+    "lema": "στοιχεῖα",
+    "translit": "stoicheîa",
+    "strong": "G4747"
+   },
+   "sentido": "elementos, rudimentos",
+   "latim": {
+    "forma": "elementa mundi",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Como em Gálatas 4:3, pode indicar princípios básicos de religião ou poderes espirituais ligados ao mundo.",
+   "interpretacao": true
+  },
+  {
+   "id": "threskeia-angelon",
+   "pt": "Culto aos anjos",
+   "refs": [
+    "2:18"
+   ],
+   "grego": {
+    "lema": "θρησκεία τῶν ἀγγέλων",
+    "translit": "thrēskeía tōn angélōn",
+    "strong": "G2356, G32"
+   },
+   "sentido": "culto aos anjos ou culto prestado pelos anjos",
+   "latim": {
+    "forma": "religione angelorum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Pode significar adorar anjos ou pretender participar do culto que os anjos prestam no céu por meio de visões. Os estudiosos se dividem.",
+   "interpretacao": true
+  },
+  {
+   "id": "apokatallasso",
+   "pt": "Reconciliar",
+   "refs": [
+    "1:20-22"
+   ],
+   "grego": {
+    "lema": "ἀποκαταλλάσσω",
+    "translit": "apokatallássō",
+    "strong": "G604"
+   },
+   "sentido": "reconciliar plenamente",
+   "latim": {
+    "forma": "reconciliare",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Palavra rara, só em Efésios e Colossenses. Deus reconcilia consigo todas as coisas pela cruz.",
+   "interpretacao": false
+  },
+  {
+   "id": "charis-gratidao",
+   "pt": "Gratidão",
+   "refs": [
+    "2:7",
+    "3:15-17"
+   ],
+   "grego": {
+    "lema": "εὐχαριστία",
+    "translit": "eucharistía",
+    "strong": "G2169"
+   },
+   "sentido": "ação de graças",
+   "latim": {
+    "forma": "gratiarum actio",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Colossenses fala de gratidão em todos os capítulos. Da palavra vem \"Eucaristia\".",
+   "interpretacao": false
+  },
+  {
+   "id": "agape-syndesmos",
+   "pt": "Vínculo da perfeição",
+   "refs": [
+    "3:14"
+   ],
+   "grego": {
+    "lema": "σύνδεσμος",
+    "translit": "sýndesmos",
+    "strong": "G4886"
+   },
+   "sentido": "laço, ligamento",
+   "latim": {
+    "forma": "vinculum perfectionis",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O amor é o laço que une todas as virtudes, como os ligamentos unem o corpo (2:19).",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "laodiceia-terremoto",
+   "titulo": "Terremoto em Laodiceia",
+   "refs": [
+    "4:13"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Tácito, Anais",
+   "referencia": "livro 14, cap. 27",
+   "data_fonte": "c. 116 d.C.",
+   "data_evento": "60 d.C.",
+   "resumo": "Tácito registra que Laodiceia, uma das cidades famosas da Ásia, foi destruída por um terremoto e se reergueu com seus próprios recursos, sem ajuda de Roma.",
+   "relacao": "Laodiceia ficava a cerca de 15 km de Colossos. A carta não menciona o terremoto, o que alguns usam para datá-la antes ou pouco depois de 60 d.C.; outros pensam que Colossos também foi atingida.",
+   "grau": "associacao"
+  },
+  {
+   "id": "colossas-tell",
+   "titulo": "O monte (höyük) de Colossos",
+   "refs": [
+    "1:2"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Sítio de Colossos (Colossae) no vale do Lico",
+   "referencia": "Perto de Honaz, província de Denizli, Turquia; sítio ainda não escavado",
+   "data_fonte": "Ocupação do período frígio ao bizantino",
+   "data_evento": "Prospecções no séc. XXI",
+   "resumo": "Colossos é hoje um monte de terra pouco explorado; Heródoto e Xenofonte já a citavam como cidade importante da Frígia.",
+   "relacao": "Situa a igreja destinatária, vizinha de Laodiceia e Hierápolis (4:13). Na época de Paulo a cidade tinha perdido importância para Laodiceia.",
+   "grau": "associacao"
+  },
+  {
+   "id": "carta-laodicenses",
+   "titulo": "A \"carta aos laodicenses\"",
+   "refs": [
+    "4:16"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Epístola aos Laodicenses (apócrifa, em latim)",
+   "referencia": "Presente em vários manuscritos latinos medievais, como o Codex Fuldensis (546 d.C.)",
+   "data_fonte": "Provavelmente séc. II–IV d.C.",
+   "data_evento": "Tentativa de preencher 4:16",
+   "resumo": "Uma breve carta em latim, montada sobretudo com frases de Filipenses, circulou como se fosse a carta citada em 4:16.",
+   "relacao": "A carta mencionada por Paulo não foi preservada (ou é, segundo alguns, a carta aos Efésios). O texto latino é considerado falso por quase todos os estudiosos.",
+   "grau": "associacao"
+  }
+ ]
+}

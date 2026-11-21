@@ -1,0 +1,411 @@
+{
+ "livro": "2-corintios",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 2,
+   "ref": "2:4",
+   "titulo": "Uma carta escrita com lágrimas",
+   "descricao": "Paulo lembra que escreveu aos coríntios em meio a muita aflição e angústia, com muitas lágrimas, não para entristecê-los, mas para mostrar seu amor.",
+   "alt": "Paulo, abatido, escreve uma carta à luz de uma lamparina.",
+   "prompt": "The apostle Paul seated alone at night writing on papyrus by the light of a single oil lamp, his face marked by sorrow and tears, his hand pausing over the letter, simple room with a rolled mat and travel bag"
+  },
+  {
+   "id": "q02",
+   "capitulo": 3,
+   "ref": "3:13-18",
+   "titulo": "O véu de Moisés",
+   "descricao": "Paulo contrasta Moisés, que cobria o rosto com um véu, com os cristãos que, de rosto descoberto, refletem a glória do Senhor.",
+   "alt": "Moisés, com o rosto coberto por um véu, desce do monte diante do povo.",
+   "prompt": "Moses with a cloth veil over his face holding stone tablets, standing before the Israelite camp at the foot of Mount Sinai, faint radiance escaping around the edges of the veil, people watching in awe, desert evening light"
+  },
+  {
+   "id": "q03",
+   "capitulo": 4,
+   "ref": "4:7-9",
+   "titulo": "Tesouro em vasos de barro",
+   "descricao": "Os apóstolos levam o tesouro do evangelho em vasos de barro, frágeis, para que o poder seja de Deus e não deles.",
+   "alt": "Um vaso simples de barro, rachado, deixa escapar uma luz dourada.",
+   "prompt": "A plain cracked clay jar on a rough wooden table in a dim room, warm golden light shining out through the cracks and from its opening, a lamp-like glow illuminating the surrounding darkness"
+  },
+  {
+   "id": "q04",
+   "capitulo": 5,
+   "ref": "5:1-4",
+   "titulo": "A tenda e a casa eterna",
+   "descricao": "Paulo compara o corpo atual a uma tenda que se desfaz e a esperança futura a uma casa feita por Deus, não por mãos humanas.",
+   "alt": "Um fabricante de tendas trabalha numa tenda gasta, sob um céu luminoso.",
+   "prompt": "A tentmaker in a first-century tunic stitching worn goat-hair tent cloth outside a weathered tent, behind him a vast luminous sky with soft clouds suggesting an eternal dwelling, peaceful evening light"
+  },
+  {
+   "id": "q05",
+   "capitulo": 8,
+   "ref": "8:1-4",
+   "titulo": "A generosidade da Macedônia",
+   "descricao": "Mesmo em extrema pobreza, as igrejas da Macedônia pedem com insistência para participar da coleta para os santos de Jerusalém.",
+   "alt": "Pessoas humildes depositam moedas num cofre comunitário diante de um líder.",
+   "prompt": "Poor believers in simple worn clothing in a Macedonian house church joyfully placing coins into a wooden collection chest, a widow giving with both hands, a leader recording the gifts, warm light"
+  },
+  {
+   "id": "q06",
+   "capitulo": 11,
+   "ref": "11:32-33",
+   "titulo": "A fuga num cesto",
+   "descricao": "Em Damasco, quando o governador do rei Aretas vigiava a cidade, Paulo foi descido num cesto por uma janela da muralha.",
+   "alt": "Paulo é descido num cesto grande pelo lado de fora da muralha da cidade, à noite.",
+   "prompt": "Night outside the high stone walls of Damascus, the apostle Paul being lowered in a large woven basket on ropes from a window, friends above holding the ropes anxiously, guards with torches far away at the gate, moonlight"
+  },
+  {
+   "id": "q07",
+   "capitulo": 12,
+   "ref": "12:2-4",
+   "titulo": "Arrebatado ao paraíso",
+   "descricao": "Paulo fala, na terceira pessoa, de um homem em Cristo arrebatado ao terceiro céu, que ouviu palavras que não se podem dizer.",
+   "alt": "Um homem de olhos fechados, em oração, envolto por uma luz que desce do alto.",
+   "prompt": "A man in a simple robe kneeling in prayer with eyes closed, a column of soft radiant light descending upon him from an opening in the clouds, the surrounding room fading into luminous haze, no figures in the light"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "penhor",
+   "termo": "Penhor do Espírito",
+   "ref": "1:22",
+   "explicado": false,
+   "significado": "O penhor era o sinal ou a primeira parcela que garantia o pagamento completo. O Espírito é a garantia presente da salvação futura (também 5:5)."
+  },
+  {
+   "id": "cortejo",
+   "termo": "Cortejo triunfal",
+   "ref": "2:14",
+   "explicado": false,
+   "significado": "Imagem do desfile em que um general vitorioso levava em procissão os seus cativos. Discute-se se Paulo se vê como soldado vitorioso ou como cativo conduzido por Cristo."
+  },
+  {
+   "id": "perfume",
+   "termo": "Bom cheiro de Cristo",
+   "ref": "2:15-16",
+   "explicado": true,
+   "significado": "Paulo explica a imagem: o mesmo perfume é cheiro de vida para os que se salvam e de morte para os que se perdem."
+  },
+  {
+   "id": "carta-viva",
+   "termo": "Carta de Cristo",
+   "ref": "3:3",
+   "explicado": true,
+   "significado": "Os próprios coríntios são a carta de recomendação de Paulo, escrita não com tinta, mas com o Espírito, em corações."
+  },
+  {
+   "id": "veu",
+   "termo": "Véu",
+   "ref": "3:13-16",
+   "explicado": true,
+   "significado": "Paulo usa o véu de Moisés (Êx 34) para falar de um entendimento encoberto, que é retirado quando alguém se volta para o Senhor."
+  },
+  {
+   "id": "espelho",
+   "termo": "Espelho e glória",
+   "ref": "3:18",
+   "explicado": false,
+   "significado": "Contemplando ou refletindo a glória do Senhor, os crentes são transformados \"de glória em glória\". O verbo grego pode significar contemplar ou refletir."
+  },
+  {
+   "id": "vasos-barro",
+   "termo": "Vasos de barro",
+   "ref": "4:7",
+   "explicado": true,
+   "significado": "O próprio texto explica: a fraqueza do vaso mostra que o poder vem de Deus."
+  },
+  {
+   "id": "tenda",
+   "termo": "Tenda",
+   "ref": "5:1",
+   "explicado": false,
+   "significado": "O corpo mortal é uma tenda provisória; a esperança é uma habitação eterna. Paulo era fabricante de tendas (At 18:3)."
+  },
+  {
+   "id": "embaixador",
+   "termo": "Embaixador",
+   "ref": "5:20",
+   "explicado": false,
+   "significado": "Quem fala em nome de um rei. Os apóstolos falam em nome de Cristo, rogando: reconciliai-vos com Deus."
+  },
+  {
+   "id": "noiva",
+   "termo": "Virgem prometida a um marido",
+   "ref": "11:2",
+   "explicado": false,
+   "significado": "Paulo se vê como quem preparou a igreja para ser apresentada pura a Cristo, como uma noiva. A imagem continua a do AT, em que Israel é a esposa de Deus."
+  },
+  {
+   "id": "anjo-luz",
+   "termo": "Anjo de luz",
+   "ref": "11:14",
+   "explicado": false,
+   "significado": "O mal pode se disfarçar de bem. Paulo aplica isso aos falsos apóstolos que perturbavam a igreja."
+  },
+  {
+   "id": "espinho",
+   "termo": "Espinho na carne",
+   "ref": "12:7",
+   "explicado": false,
+   "significado": "Paulo não diz o que era. Já se pensou em doença dos olhos, malária, perseguição ou oposição; a lição é que o poder de Deus se aperfeiçoa na fraqueza (12:9)."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "paraklesis",
+   "pt": "Consolação",
+   "refs": [
+    "1:3-4"
+   ],
+   "grego": {
+    "lema": "παράκλησις",
+    "translit": "paráklēsis",
+    "strong": "G3874"
+   },
+   "sentido": "conforto, encorajamento, exortação",
+   "latim": {
+    "forma": "consolatio",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A palavra aparece dez vezes em 1:3-7. Deus consola para que quem foi consolado console outros.",
+   "interpretacao": false
+  },
+  {
+   "id": "diakonia",
+   "pt": "Ministério, serviço",
+   "refs": [
+    "3:8-9",
+    "5:18"
+   ],
+   "grego": {
+    "lema": "διακονία",
+    "translit": "diakonía",
+    "strong": "G1248"
+   },
+   "sentido": "serviço",
+   "latim": {
+    "forma": "ministratio / ministerium",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Paulo chama seu trabalho de serviço: da nova aliança, do Espírito, da reconciliação. A mesma palavra designa a coleta para os santos de Jerusalém (9:1, \"o trabalho que se faz para os santos\").",
+   "interpretacao": false
+  },
+  {
+   "id": "diatheke",
+   "pt": "Aliança",
+   "refs": [
+    "3:6",
+    "3:14"
+   ],
+   "grego": {
+    "lema": "διαθήκη",
+    "translit": "diathḗkē",
+    "strong": "G1242"
+   },
+   "sentido": "aliança, pacto; também testamento",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "בְּרִית",
+     "translit": "berit",
+     "strong": "H1285",
+     "ref": "Jr 31:31"
+    }
+   ],
+   "latim": {
+    "forma": "testamentum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A Vulgata traduziu \"novi testamenti\"; daí os nomes Antigo e Novo Testamento. Em 3:6 Paulo contrasta a letra e o Espírito.",
+   "interpretacao": false
+  },
+  {
+   "id": "doxa",
+   "pt": "Glória",
+   "refs": [
+    "3:18",
+    "4:6"
+   ],
+   "grego": {
+    "lema": "δόξα",
+    "translit": "dóxa",
+    "strong": "G1391"
+   },
+   "sentido": "esplendor, honra, peso",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "כָּבוֹד",
+     "translit": "kavod",
+     "strong": "H3519",
+     "ref": "Êx 33:18"
+    }
+   ],
+   "latim": {
+    "forma": "gloria",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Traduz o hebraico kavod, que sugere peso, importância. Em 4:17 Paulo fala de um \"peso eterno de excelentíssima glória\".",
+   "interpretacao": false
+  },
+  {
+   "id": "kaine-ktisis",
+   "pt": "Nova criação",
+   "refs": [
+    "5:17"
+   ],
+   "grego": {
+    "lema": "καινὴ κτίσις",
+    "translit": "kainḗ ktísis",
+    "strong": "G2537, G2937"
+   },
+   "sentido": "nova criação, nova criatura",
+   "latim": {
+    "forma": "nova creatura",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Pode referir-se à pessoa renovada (\"nova criatura\") ou ao começo do mundo novo em Cristo; as duas leituras se completam.",
+   "interpretacao": false
+  },
+  {
+   "id": "katallage",
+   "pt": "Reconciliação",
+   "refs": [
+    "5:18-19"
+   ],
+   "grego": {
+    "lema": "καταλλαγή",
+    "translit": "katallagḗ",
+    "strong": "G2643"
+   },
+   "sentido": "troca de inimizade por amizade",
+   "latim": {
+    "forma": "reconciliatio",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Em 2 Coríntios é Deus quem toma a iniciativa: ele reconcilia o mundo consigo e confia aos apóstolos a mensagem.",
+   "interpretacao": false
+  },
+  {
+   "id": "charis-oferta",
+   "pt": "Graça (oferta)",
+   "refs": [
+    "8:6-7",
+    "8:9"
+   ],
+   "grego": {
+    "lema": "χάρις",
+    "translit": "cháris",
+    "strong": "G5485"
+   },
+   "sentido": "favor, graça, presente",
+   "latim": {
+    "forma": "gratia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Nos capítulos 8–9 a mesma palavra indica a graça de Cristo e a oferta generosa dos crentes: dar é uma graça.",
+   "interpretacao": false
+  },
+  {
+   "id": "hilaros",
+   "pt": "Alegre",
+   "refs": [
+    "9:7"
+   ],
+   "grego": {
+    "lema": "ἱλαρός",
+    "translit": "hilarós",
+    "strong": "G2431"
+   },
+   "sentido": "alegre, de bom grado",
+   "latim": {
+    "forma": "hilarem datorem",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "\"Deus ama ao que dá com alegria.\" Da palavra grega vem \"hilariante\".",
+   "interpretacao": false
+  },
+  {
+   "id": "astheneia",
+   "pt": "Fraqueza",
+   "refs": [
+    "12:9-10"
+   ],
+   "grego": {
+    "lema": "ἀσθένεια",
+    "translit": "asthéneia",
+    "strong": "G769"
+   },
+   "sentido": "fraqueza, doença, limitação",
+   "latim": {
+    "forma": "infirmitas",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O tema que atravessa a carta: o poder de Cristo se aperfeiçoa na fraqueza (12:9).",
+   "interpretacao": false
+  },
+  {
+   "id": "kauchaomai",
+   "pt": "Gloriar-se",
+   "refs": [
+    "10:17",
+    "11:30"
+   ],
+   "grego": {
+    "lema": "καυχάομαι",
+    "translit": "kaucháomai",
+    "strong": "G2744"
+   },
+   "sentido": "orgulhar-se, gloriar-se",
+   "latim": {
+    "forma": "gloriari",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Os rivais de Paulo se gabavam; ele se gloria nas fraquezas e diz: o que se orgulha, se orgulhe no Senhor (10:17).",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "aretas",
+   "titulo": "O rei Aretas IV da Nabateia",
+   "refs": [
+    "11:32"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 18, cap. 5, §109-115",
+   "data_fonte": "c. 93-94 d.C.",
+   "data_evento": "Reinado de Aretas IV, c. 9 a.C.–40 d.C.",
+   "resumo": "Josefo narra que Aretas, rei dos nabateus, entrou em guerra com Herodes Antipas e derrotou seu exército, porque Antipas havia rejeitado a filha de Aretas. Moedas e inscrições nabateias também atestam esse rei.",
+   "relacao": "Confirma o rei citado em 11:32. Como Damasco ficou sob influência de Aretas não é bem documentado; a menção ajuda a datar a fuga de Paulo antes de c. 40 d.C.",
+   "grau": "documentado"
+  },
+  {
+   "id": "triunfo",
+   "titulo": "O desfile triunfal romano",
+   "refs": [
+    "2:14"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Guerra dos Judeus",
+   "referencia": "livro 7, cap. 5, §123-157",
+   "data_fonte": "c. 75 d.C.",
+   "data_evento": "71 d.C. (triunfo de Vespasiano e Tito)",
+   "resumo": "Josefo descreve em detalhe um triunfo em Roma: a procissão, os despojos, os cativos e o perfume dos incensos.",
+   "relacao": "Ilustra a imagem do cortejo triunfal e do perfume em 2:14-16, ainda que descreva um triunfo posterior à carta.",
+   "grau": "associacao"
+  }
+ ]
+}

@@ -1,0 +1,891 @@
+{
+ "livro": "deuteronomio",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:1-5",
+   "titulo": "Moisés fala a todo Israel",
+   "descricao": "Nas planícies de Moabe, no quadragésimo ano, o idoso Moisés começa a explicar a lei à nova geração.",
+   "alt": "Moisés idoso, de pé sobre uma pedra, fala a uma multidão de israelitas acampada em uma planície diante do Jordão.",
+   "prompt": "Elderly Moses with long white beard and simple woolen robe standing on a low rock, staff in hand, addressing a vast crowd of Israelite families gathered in tents on the dry plains of Moab, the Jordan valley and distant hills behind, warm late afternoon light, wide composition"
+  },
+  {
+   "id": "q02",
+   "capitulo": 1,
+   "ref": "1:24-25",
+   "titulo": "Os espias trazem o fruto da terra",
+   "descricao": "Os doze homens voltam do vale de Escol com frutos e dizem que a terra é boa.",
+   "alt": "Homens cansados da viagem mostram cestos de uvas, romãs e figos a israelitas reunidos no deserto.",
+   "prompt": "Twelve weary scouts in dusty ancient Near Eastern tunics returning to a desert camp, carrying baskets of large grapes, pomegranates and figs, Israelites crowding around in curiosity, Moses in the center listening, golden evening light"
+  },
+  {
+   "id": "q03",
+   "capitulo": 3,
+   "ref": "3:23-27",
+   "titulo": "Moisés pede para ver a terra",
+   "descricao": "Moisés ora para atravessar o Jordão; Deus manda que ele apenas contemple a terra do alto do Pisga.",
+   "alt": "Moisés ajoelhado em oração no alto de um monte, olhando ao longe a terra além do rio.",
+   "prompt": "Moses kneeling in prayer on a rocky mountain summit, hands raised, looking west across the hazy Jordan valley toward green hills of Canaan, soft beams of light breaking through clouds, solitary and contemplative mood"
+  },
+  {
+   "id": "q04",
+   "capitulo": 4,
+   "ref": "4:10-12",
+   "titulo": "O monte ardendo em fogo",
+   "descricao": "Moisés relembra o dia em Horebe: o povo ao pé do monte ouviu a voz, mas não viu forma alguma.",
+   "alt": "Multidão ao pé de um monte coberto de fogo, nuvem e escuridão.",
+   "prompt": "A great multitude of Israelites standing in awe at the foot of Mount Horeb, the mountain burning with fire up into the sky, wrapped in dark clouds and smoke, no visible figure, only blazing light and darkness, people shielding their faces, dramatic chiaroscuro"
+  },
+  {
+   "id": "q05",
+   "capitulo": 5,
+   "ref": "5:22",
+   "titulo": "As duas tábuas de pedra",
+   "descricao": "Os Dez Mandamentos, falados do meio do fogo, são escritos em duas tábuas e entregues a Moisés.",
+   "alt": "Moisés segura duas tábuas de pedra diante de um monte envolto em nuvens.",
+   "prompt": "Moses holding two rough stone tablets inscribed with ancient Hebrew script, standing before a cloud-covered mountain glowing with inner fire, his face solemn, Israelite elders looking on from below"
+  },
+  {
+   "id": "q06",
+   "capitulo": 6,
+   "ref": "6:6-9",
+   "titulo": "Ouve, Israel",
+   "descricao": "Um pai repete aos filhos as palavras do SENHOR em casa, enquanto se escrevem palavras nos umbrais da porta.",
+   "alt": "Um pai sentado à porta de casa ensina dois filhos; no batente da porta há uma inscrição.",
+   "prompt": "Ancient Israelite father seated at the doorway of a simple stone house teaching his young son and daughter, pointing to words inscribed on the wooden doorpost, mother grinding grain nearby, warm evening light, village setting"
+  },
+  {
+   "id": "q07",
+   "capitulo": 8,
+   "ref": "8:3-4",
+   "titulo": "Sustentados com maná",
+   "descricao": "Deus recorda os quarenta anos no deserto: fome, maná e roupas que não se gastaram.",
+   "alt": "Famílias recolhem flocos brancos do chão do deserto ao amanhecer.",
+   "prompt": "Israelite families in the wilderness at dawn gathering small white flakes of manna from the ground into baskets and jars, children helping, tents and desert mountains in the background, pale golden morning light"
+  },
+  {
+   "id": "q08",
+   "capitulo": 9,
+   "ref": "9:15-17",
+   "titulo": "As tábuas quebradas",
+   "descricao": "Ao descer do monte e ver o bezerro de fundição, Moisés lança as tábuas e as quebra diante do povo.",
+   "alt": "Moisés ergue as tábuas acima da cabeça para lançá-las, enquanto ao fundo o povo rodeia um bezerro dourado.",
+   "prompt": "Moses at the foot of the mountain raising two stone tablets above his head in grief and anger, about to cast them down, in the distance below a crowd around a small golden calf on a pedestal, smoke from the burning mountain behind him"
+  },
+  {
+   "id": "q09",
+   "capitulo": 10,
+   "ref": "10:3-5",
+   "titulo": "As novas tábuas na arca",
+   "descricao": "Moisés lavra novas tábuas, sobe ao monte e depois as guarda em uma arca de madeira de acácia.",
+   "alt": "Moisés coloca com cuidado duas tábuas de pedra dentro de uma caixa de madeira.",
+   "prompt": "Moses carefully placing two new stone tablets into a simple wooden chest of acacia wood, inside a tent, lamp light, reverent atmosphere, a few Levites watching quietly"
+  },
+  {
+   "id": "q10",
+   "capitulo": 16,
+   "ref": "16:13-15",
+   "titulo": "A festa das cabanas",
+   "descricao": "Depois da colheita, famílias, levitas, estrangeiros, órfãos e viúvas se alegram juntos por sete dias.",
+   "alt": "Famílias celebram junto a cabanas feitas de ramos, com frutos da colheita.",
+   "prompt": "Joyful ancient Israelite harvest festival, families and guests sitting in small huts made of leafy branches, baskets of grapes, olives and grain, a widow and orphan children welcomed at the table, music and dancing, warm autumn sunlight"
+  },
+  {
+   "id": "q11",
+   "capitulo": 24,
+   "ref": "24:19-21",
+   "titulo": "O feixe esquecido",
+   "descricao": "A lei manda deixar feixes, olivas e uvas para o estrangeiro, o órfão e a viúva.",
+   "alt": "Uma viúva e uma criança recolhem feixes deixados no campo após a colheita.",
+   "prompt": "A poor widow and a young orphan gathering leftover sheaves of barley at the edge of a harvested field, reapers in the distance walking away without looking back, olive trees on the hillside, soft evening light"
+  },
+  {
+   "id": "q12",
+   "capitulo": 26,
+   "ref": "26:2-4",
+   "titulo": "O cesto das primícias",
+   "descricao": "O agricultor leva ao sacerdote um cesto com os primeiros frutos e recita a história de seu povo.",
+   "alt": "Um agricultor entrega ao sacerdote um cesto com trigo, uvas, figos e romãs diante do altar.",
+   "prompt": "Ancient Israelite farmer presenting a woven basket of first fruits, wheat, grapes, figs and pomegranates, to a priest in white linen standing beside a stone altar, the farmer's family behind him, morning light"
+  },
+  {
+   "id": "q13",
+   "capitulo": 27,
+   "ref": "27:12-13",
+   "titulo": "Gerizim e Ebal",
+   "descricao": "As tribos se dividem em dois montes para pronunciar bênçãos e maldições, e o povo responde amém.",
+   "alt": "Duas multidões em dois montes frente a frente, com um vale entre eles.",
+   "prompt": "Two great crowds of Israelite tribes standing on the slopes of two facing mountains, Gerizim and Ebal, with a valley between them, Levites in the valley lifting their hands as they speak, wide panoramic view, bright midday light"
+  },
+  {
+   "id": "q14",
+   "capitulo": 30,
+   "ref": "30:19",
+   "titulo": "Escolhe a vida",
+   "descricao": "Moisés chama céus e terra como testemunhas e convida o povo a escolher a vida.",
+   "alt": "Moisés de braços abertos diante do povo, sob um céu amplo.",
+   "prompt": "Moses with outstretched arms addressing the people of Israel under a vast open sky, one hand toward green fertile land and the other toward barren desert, faces of listeners thoughtful, dramatic clouds"
+  },
+  {
+   "id": "q15",
+   "capitulo": 31,
+   "ref": "31:7-8",
+   "titulo": "Moisés encoraja Josué",
+   "descricao": "Diante de todo Israel, Moisés diz a Josué: esforça-te e anima-te, o SENHOR irá adiante de ti.",
+   "alt": "Moisés idoso põe a mão no ombro de Josué, homem forte e mais jovem, diante do povo.",
+   "prompt": "Aged Moses placing his hand on the shoulder of Joshua, a strong middle-aged man in simple armor and cloak, in front of the gathered Israelites and elders, the Ark of the Covenant visible nearby, solemn and hopeful mood"
+  },
+  {
+   "id": "q16",
+   "capitulo": 31,
+   "ref": "31:24-26",
+   "titulo": "O livro ao lado da arca",
+   "descricao": "Terminada a escrita da lei, Moisés manda os levitas porem o livro ao lado da arca da aliança.",
+   "alt": "Levitas recebem de Moisés um rolo e o colocam junto à arca dourada.",
+   "prompt": "Moses handing a large scroll to Levites in linen garments, who place it beside the golden Ark of the Covenant inside the tabernacle, soft lamp light, reverent stillness"
+  },
+  {
+   "id": "q17",
+   "capitulo": 32,
+   "ref": "32:11-12",
+   "titulo": "Como a águia sobre o ninho",
+   "descricao": "No cântico de Moisés, Deus é comparado à águia que paira sobre os filhotes e os leva sobre as asas.",
+   "alt": "Uma águia de asas abertas paira sobre um ninho no alto de um penhasco.",
+   "prompt": "A great eagle with wings spread wide hovering over its nest of young eaglets on a high cliff ledge, desert canyon below, sunrise light, majestic and protective"
+  },
+  {
+   "id": "q18",
+   "capitulo": 33,
+   "ref": "33:1",
+   "titulo": "A bênção das tribos",
+   "descricao": "Antes de morrer, Moisés, homem de Deus, abençoa as tribos de Israel.",
+   "alt": "Moisés com as mãos erguidas abençoa representantes das tribos ajoelhados diante dele.",
+   "prompt": "Moses, very old, raising both hands in blessing over representatives of the twelve tribes kneeling before him, each with a distinct cloak, tents of the camp around, golden evening light"
+  },
+  {
+   "id": "q19",
+   "capitulo": 34,
+   "ref": "34:1-4",
+   "titulo": "Moisés no monte Nebo",
+   "descricao": "Do cume do Pisga, Deus mostra a Moisés toda a terra prometida, de Gileade ao mar.",
+   "alt": "Moisés de pé no topo de um monte contempla um vasto panorama de vales, rio e montanhas.",
+   "prompt": "Moses standing alone on the summit of Mount Nebo leaning on his staff, gazing over a vast panorama of the Jordan valley, the palm trees of Jericho, the Dead Sea and distant hills, soft radiant light from the sky, contemplative and peaceful"
+  },
+  {
+   "id": "q20",
+   "capitulo": 34,
+   "ref": "34:8-9",
+   "titulo": "O luto por Moisés",
+   "descricao": "Israel chora Moisés trinta dias nas campinas de Moabe; Josué, cheio de sabedoria, assume a liderança.",
+   "alt": "Israelitas enlutados sentados em silêncio no acampamento, com Josué de pé entre eles.",
+   "prompt": "Israelites mourning in the plains of Moab, men and women seated quietly with heads bowed, some with torn garments, Joshua standing among them looking toward the Jordan, muted twilight colors"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "tabuas",
+   "termo": "Duas tábuas de pedra",
+   "ref": "4:13",
+   "explicado": true,
+   "significado": "O texto diz o que são: o pacto, os dez mandamentos escritos por Deus (4:13; 9:10). Sua guarda na arca (10:5) mostra a aliança no centro da vida do povo."
+  },
+  {
+   "id": "arca",
+   "termo": "Arca da aliança",
+   "ref": "10:1-5",
+   "explicado": false,
+   "significado": "Em Deuteronômio a arca aparece sobretudo como o lugar onde ficam as tábuas e, ao lado, o livro da lei (31:26). É a lembrança visível de que Israel vive sob a palavra de Deus."
+  },
+  {
+   "id": "fogo",
+   "termo": "Fogo no monte",
+   "ref": "4:11-12",
+   "explicado": true,
+   "significado": "O fogo de Horebe mostra a santidade de Deus; o texto explica que o povo ouviu a voz mas não viu forma (4:12), base para a proibição de imagens (4:15-16). \"O SENHOR teu Deus é fogo que consome\" (4:24)."
+  },
+  {
+   "id": "mana",
+   "termo": "Maná",
+   "ref": "8:3",
+   "explicado": true,
+   "significado": "O próprio texto dá o sentido: Deus sustentou o povo com maná para ensinar que o homem não vive só de pão, mas de tudo o que sai da boca do SENHOR (8:3). Jesus cita esse verso no deserto (Mt 4:4)."
+  },
+  {
+   "id": "umbrais",
+   "termo": "Palavras nos umbrais e sinal na mão",
+   "ref": "6:8-9",
+   "explicado": false,
+   "significado": "O texto manda trazer as palavras \"por sinal\" na mão, entre os olhos e nos umbrais. A tradição judaica entende isso de modo literal (tefilin e mezuzá); outros leem como imagem de que a lei deve guiar o que se faz, o que se pensa e a vida da casa."
+  },
+  {
+   "id": "coracao-circuncidado",
+   "termo": "Coração circuncidado",
+   "ref": "10:16",
+   "explicado": true,
+   "significado": "O texto aplica a circuncisão ao coração: deixar de endurecer a cerviz (10:16). Em 30:6 é o próprio Deus quem promete circuncidar o coração, para que o povo o ame. Paulo retoma a imagem em Romanos 2:29."
+  },
+  {
+   "id": "rocha",
+   "termo": "Rocha",
+   "ref": "32:4",
+   "explicado": false,
+   "significado": "No cântico, Deus é chamado de Rocha: firme, fiel e protetor (32:4, 15, 18, 31). O texto contrasta essa Rocha com as \"rochas\" dos outros povos (32:31, 37)."
+  },
+  {
+   "id": "aguia",
+   "termo": "Águia que paira sobre o ninho",
+   "ref": "32:11",
+   "explicado": false,
+   "significado": "Imagem do cuidado de Deus no deserto: ele desperta, protege e carrega seu povo. O texto faz a comparação, mas não explica cada detalhe."
+  },
+  {
+   "id": "lugar-nome",
+   "termo": "O lugar que o SENHOR escolher",
+   "ref": "12:5",
+   "explicado": false,
+   "significado": "Deuteronômio fala de um único lugar de culto onde Deus faz \"habitar seu nome\", sem dizê-lo. Mais tarde a Bíblia identifica esse lugar com Jerusalém; muitos estudiosos ligam a ideia à reforma de Josias (2Rs 23)."
+  },
+  {
+   "id": "primicias",
+   "termo": "Cesto das primícias",
+   "ref": "26:2",
+   "explicado": true,
+   "significado": "O cesto com os primeiros frutos acompanha uma confissão que o texto dá por inteiro (26:5-10): reconhecer que a terra é dom de Deus e lembrar a história da libertação."
+  },
+  {
+   "id": "feixe",
+   "termo": "Feixe esquecido",
+   "ref": "24:19",
+   "explicado": true,
+   "significado": "O texto diz para quem é: o estrangeiro, o órfão e a viúva. A colheita deixa espaço para quem não tem terra, e o livro de Rute mostra essa lei em prática."
+  },
+  {
+   "id": "gerizim-ebal",
+   "termo": "Monte Gerizim e monte Ebal",
+   "ref": "11:29",
+   "explicado": true,
+   "significado": "O texto associa um monte à bênção e outro à maldição (11:29; 27:12-13), uma lição visual de que obedecer ou desviar-se tem consequências."
+  },
+  {
+   "id": "ceus-terra",
+   "termo": "Céus e terra como testemunhas",
+   "ref": "30:19",
+   "explicado": false,
+   "significado": "Como nos tratados antigos que invocavam testemunhas, Moisés chama céus e terra para testemunhar a aliança (4:26; 30:19; 32:1). Indica que a escolha é séria e pública."
+  },
+  {
+   "id": "leite-mel",
+   "termo": "Terra que flui leite e mel",
+   "ref": "26:9",
+   "explicado": false,
+   "significado": "Expressão da fartura da terra prometida, associada ao pastoreio (leite) e às frutas ou ao mel silvestre. O texto descreve a riqueza da terra em 8:7-9."
+  },
+  {
+   "id": "cidades-refugio",
+   "termo": "Cidades de refúgio",
+   "ref": "19:2-3",
+   "explicado": true,
+   "significado": "O texto explica a função: abrigar quem matou alguém sem intenção, protegendo-o da vingança até o julgamento (19:4-6). Mostra a distinção entre crime e acidente."
+  },
+  {
+   "id": "profeta",
+   "termo": "Profeta como Moisés",
+   "ref": "18:15",
+   "explicado": false,
+   "significado": "O texto promete que Deus levantará um profeta \"como eu\", a quem o povo deve ouvir. No contexto, trata da sucessão profética em Israel; o Novo Testamento aplica a promessa a Jesus (At 3:22)."
+  },
+  {
+   "id": "nebo",
+   "termo": "Monte Nebo / Pisga",
+   "ref": "34:1",
+   "explicado": false,
+   "significado": "Lugar onde Moisés vê a terra mas não entra (34:4). Tornou-se imagem de quem contempla a promessa sem alcançá-la nesta vida, e de que a obra de Deus continua depois de seus servos."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "debarim",
+   "pt": "Palavras (título do livro)",
+   "refs": [
+    "1:1"
+   ],
+   "hebraico": {
+    "lema": "דְּבָרִים",
+    "translit": "devarim",
+    "strong": "H1697"
+   },
+   "grego": {
+    "lema": "δευτερονόμιον",
+    "translit": "deuteronómion"
+   },
+   "sentido": "palavras, discursos; também coisas, assuntos",
+   "latim": {
+    "forma": "Deuteronomium",
+    "nota": "Em 17:18 a Vulgata diz \"describet sibi deuteronomium legis huius\"."
+   },
+   "outras": [],
+   "explicacao": "O nome hebraico vem da primeira frase: \"Estas são as palavras\". O nome \"Deuteronômio\" vem da Septuaginta, que em 17:18 traduziu \"cópia desta lei\" por \"esta segunda lei\" (deuteronómion). O livro é uma repetição e explicação da lei, não uma lei diferente.",
+   "interpretacao": false
+  },
+  {
+   "id": "shema",
+   "pt": "Ouve",
+   "refs": [
+    "6:4",
+    "5:1",
+    "9:1"
+   ],
+   "hebraico": {
+    "lema": "שְׁמַע",
+    "translit": "shema",
+    "strong": "H8085"
+   },
+   "grego": {
+    "lema": "ἄκουε",
+    "translit": "ákoue"
+   },
+   "sentido": "ouvir, escutar com atenção, obedecer",
+   "latim": {
+    "forma": "Audi Israhel",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "\"Ouve, Israel\" abre a confissão central do judaísmo (6:4-9). Em hebraico, ouvir inclui obedecer: quem ouve de verdade põe em prática. Jesus chama 6:4-5 de primeiro mandamento (Mc 12:29-30).",
+   "interpretacao": false
+  },
+  {
+   "id": "echad",
+   "pt": "Um (único)",
+   "refs": [
+    "6:4"
+   ],
+   "hebraico": {
+    "lema": "אֶחָד",
+    "translit": "echad",
+    "strong": "H259"
+   },
+   "sentido": "um, único, só",
+   "latim": {
+    "forma": "Dominus unus est",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "6:4 pode ser traduzido \"o SENHOR é um\" ou \"só o SENHOR é nosso Deus\". As duas leituras afirmam que Israel deve lealdade exclusiva ao SENHOR. Judeus e cristãos leem a unidade de Deus a partir de suas tradições, os cristãos dentro da fé trinitária.",
+   "interpretacao": true
+  },
+  {
+   "id": "ahav",
+   "pt": "Amar",
+   "refs": [
+    "6:5",
+    "7:8",
+    "10:19"
+   ],
+   "hebraico": {
+    "lema": "אָהַב",
+    "translit": "ahav",
+    "strong": "H157"
+   },
+   "grego": {
+    "lema": "ἀγαπάω",
+    "translit": "agapáō",
+    "strong": "G25"
+   },
+   "sentido": "amar, ter afeição, ser leal",
+   "latim": {
+    "forma": "diliges Dominum Deum tuum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Deuteronômio usa \"amar\" nos dois sentidos: Deus amou Israel sem que este merecesse (7:7-8) e pede ser amado de todo o coração, alma e força (6:5). O amor se mostra em lealdade e obediência, e se estende ao estrangeiro (10:19).",
+   "interpretacao": false
+  },
+  {
+   "id": "levav",
+   "pt": "Coração",
+   "refs": [
+    "6:5",
+    "10:16",
+    "30:14"
+   ],
+   "hebraico": {
+    "lema": "לֵבָב",
+    "translit": "levav",
+    "strong": "H3824"
+   },
+   "sentido": "coração: centro da mente, da vontade e dos afetos",
+   "latim": {
+    "forma": "ex toto corde tuo",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Na Bíblia hebraica o coração é onde se pensa e se decide, não só onde se sente. Por isso a lei deve estar \"sobre teu coração\" (6:6) e a palavra está \"em tua boca e em teu coração\" (30:14).",
+   "interpretacao": false
+  },
+  {
+   "id": "berit",
+   "pt": "Aliança, pacto",
+   "refs": [
+    "4:13",
+    "7:9",
+    "29:1"
+   ],
+   "hebraico": {
+    "lema": "בְּרִית",
+    "translit": "berit",
+    "strong": "H1285"
+   },
+   "grego": {
+    "lema": "διαθήκη",
+    "translit": "diathḗkē",
+    "strong": "G1242"
+   },
+   "sentido": "aliança, acordo solene com compromissos",
+   "latim": {
+    "forma": "pactum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O livro inteiro é organizado como renovação da aliança feita em Horebe, agora nas campinas de Moabe (29:1). Deus é \"fiel, que guarda o pacto\" (7:9).",
+   "interpretacao": false
+  },
+  {
+   "id": "torah",
+   "pt": "Lei, instrução",
+   "refs": [
+    "1:5",
+    "31:9",
+    "31:24"
+   ],
+   "hebraico": {
+    "lema": "תּוֹרָה",
+    "translit": "torah",
+    "strong": "H8451"
+   },
+   "grego": {
+    "lema": "νόμος",
+    "translit": "nómos",
+    "strong": "G3551"
+   },
+   "sentido": "instrução, ensino, lei",
+   "latim": {
+    "forma": "lex",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Torá é mais que código legal: é ensino que mostra o caminho. Moisés \"declara\" (explica) a lei em 1:5 e depois a escreve em um livro (31:24).",
+   "interpretacao": false
+  },
+  {
+   "id": "hesed",
+   "pt": "Misericórdia, lealdade",
+   "refs": [
+    "7:9",
+    "7:12",
+    "5:10"
+   ],
+   "hebraico": {
+    "lema": "חֶסֶד",
+    "translit": "chesed",
+    "strong": "H2617"
+   },
+   "sentido": "amor fiel, bondade leal à aliança",
+   "latim": {
+    "forma": "misericordiam",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Hesed é o amor que cumpre o compromisso. Deus guarda o pacto e a misericórdia por mil gerações (7:9). A palavra será central em Rute.",
+   "interpretacao": false
+  },
+  {
+   "id": "segullah",
+   "pt": "Povo especial (propriedade particular)",
+   "refs": [
+    "7:6",
+    "14:2",
+    "26:18"
+   ],
+   "hebraico": {
+    "lema": "סְגֻלָּה",
+    "translit": "segullah",
+    "strong": "H5459"
+   },
+   "grego": {
+    "lema": "περιούσιος",
+    "translit": "perioúsios"
+   },
+   "sentido": "tesouro pessoal, propriedade preciosa",
+   "latim": {
+    "forma": "populum peculiarem",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Termo usado para o tesouro particular de um rei. Israel é chamado assim não por ser grande, mas por ser amado (7:7-8). 1 Pedro 2:9 aplica a ideia à igreja.",
+   "interpretacao": false
+  },
+  {
+   "id": "bachar",
+   "pt": "Escolher",
+   "refs": [
+    "7:6",
+    "12:5",
+    "30:19"
+   ],
+   "hebraico": {
+    "lema": "בָּחַר",
+    "translit": "bachar",
+    "strong": "H977"
+   },
+   "sentido": "escolher, eleger",
+   "latim": {
+    "forma": "elegit",
+    "nota": "Em 30:19: elige ergo vitam."
+   },
+   "outras": [],
+   "explicacao": "Deus escolhe Israel (7:6) e o lugar do culto (12:5); no fim, pede ao povo que também escolha: \"escolhe, pois, a vida\" (30:19, elige ergo vitam).",
+   "interpretacao": false
+  },
+  {
+   "id": "zakar",
+   "pt": "Lembrar",
+   "refs": [
+    "8:2",
+    "16:3",
+    "24:18"
+   ],
+   "hebraico": {
+    "lema": "זָכַר",
+    "translit": "zakar",
+    "strong": "H2142"
+   },
+   "sentido": "lembrar, trazer à memória e agir de acordo",
+   "latim": {
+    "forma": "memento",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "\"Lembra-te\" é um refrão do livro: lembrar a escravidão no Egito e o caminho no deserto leva à gratidão e à justiça com o pobre (24:18, 22).",
+   "interpretacao": false
+  },
+  {
+   "id": "shakach",
+   "pt": "Esquecer",
+   "refs": [
+    "6:12",
+    "8:11",
+    "32:18"
+   ],
+   "hebraico": {
+    "lema": "שָׁכַח",
+    "translit": "shakach",
+    "strong": "H7911"
+   },
+   "sentido": "esquecer, deixar de lado",
+   "latim": {
+    "forma": "obliviscaris",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O perigo que Moisés mais teme não é a fome do deserto, mas a fartura da terra, que leva a esquecer o SENHOR (6:10-12; 8:11-14).",
+   "interpretacao": false
+  },
+  {
+   "id": "ger",
+   "pt": "Estrangeiro",
+   "refs": [
+    "10:19",
+    "24:19",
+    "26:11"
+   ],
+   "hebraico": {
+    "lema": "גֵּר",
+    "translit": "ger",
+    "strong": "H1616"
+   },
+   "sentido": "estrangeiro residente, imigrante sem terra",
+   "latim": {
+    "forma": "peregrinus, advena",
+    "nota": "Em 10:19: amate peregrinos quia et ipsi fuistis advenae."
+   },
+   "outras": [],
+   "explicacao": "O estrangeiro aparece ao lado do órfão e da viúva como alguém protegido pela lei. O motivo é a memória: \"estrangeiros fostes vós em terra do Egito\" (10:19).",
+   "interpretacao": false
+  },
+  {
+   "id": "nachalah",
+   "pt": "Herança",
+   "refs": [
+    "4:21",
+    "26:1",
+    "12:9"
+   ],
+   "hebraico": {
+    "lema": "נַחֲלָה",
+    "translit": "nachalah",
+    "strong": "H5159"
+   },
+   "sentido": "herança, porção de terra recebida",
+   "latim": {
+    "forma": "hereditas, possessio",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A terra é chamada herança porque é dada por Deus e não conquistada por mérito (9:4-6).",
+   "interpretacao": false
+  },
+  {
+   "id": "yarash",
+   "pt": "Possuir, tomar posse",
+   "refs": [
+    "1:8",
+    "4:1",
+    "30:16"
+   ],
+   "hebraico": {
+    "lema": "יָרַשׁ",
+    "translit": "yarash",
+    "strong": "H3423"
+   },
+   "sentido": "tomar posse, herdar; também desapossar",
+   "latim": {
+    "forma": "possidere",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Verbo muito frequente no livro: Israel vai \"possuir\" a terra, mas a permanência nela depende de fidelidade à aliança (4:25-26; 30:18).",
+   "interpretacao": false
+  },
+  {
+   "id": "tsur",
+   "pt": "Rocha",
+   "refs": [
+    "32:4",
+    "32:15",
+    "32:18"
+   ],
+   "hebraico": {
+    "lema": "צוּר",
+    "translit": "tsur",
+    "strong": "H6697"
+   },
+   "grego": {
+    "lema": "θεός",
+    "translit": "theós"
+   },
+   "sentido": "rocha, penhasco; refúgio firme",
+   "latim": {
+    "forma": "Deus",
+    "nota": "Em 32:4 a Vulgata traz \"Dei perfecta sunt opera\"."
+   },
+   "outras": [],
+   "explicacao": "Título de Deus no cântico de Moisés. A Vulgata e a Septuaginta costumam traduzir \"Rocha\" simplesmente por \"Deus\", explicando a metáfora.",
+   "interpretacao": false
+  },
+  {
+   "id": "navi",
+   "pt": "Profeta",
+   "refs": [
+    "18:15",
+    "18:18",
+    "34:10"
+   ],
+   "hebraico": {
+    "lema": "נָבִיא",
+    "translit": "navi",
+    "strong": "H5030"
+   },
+   "grego": {
+    "lema": "προφήτης",
+    "translit": "prophḗtēs",
+    "strong": "G4396"
+   },
+   "sentido": "profeta, porta-voz chamado por Deus",
+   "latim": {
+    "forma": "prophetam",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Deuteronômio promete um profeta como Moisés (18:15) e termina dizendo que ainda não se levantou outro igual (34:10). Os cristãos veem o cumprimento pleno em Jesus (At 3:22); no judaísmo, a promessa é lida como a linha dos profetas.",
+   "interpretacao": true
+  },
+  {
+   "id": "berakah",
+   "pt": "Bênção e maldição",
+   "refs": [
+    "11:26",
+    "28:2",
+    "30:19"
+   ],
+   "hebraico": {
+    "lema": "בְּרָכָה",
+    "translit": "berakhah",
+    "strong": "H1293"
+   },
+   "sentido": "bênção: vida, fecundidade, bem-estar dados por Deus",
+   "latim": {
+    "forma": "benedictionem et maledictionem",
+    "nota": ""
+   },
+   "outras": [
+    {
+     "lingua": "hebraico",
+     "forma": "קְלָלָה (qelalah, H7045)",
+     "nota": "maldição"
+    }
+   ],
+   "explicacao": "O par bênção e maldição (qelalah, H7045) estrutura os capítulos 11, 27, 28 e 30, como nos tratados antigos que terminavam com bênçãos e maldições.",
+   "interpretacao": false
+  },
+  {
+   "id": "yeshurun",
+   "pt": "Jesurum",
+   "refs": [
+    "32:15",
+    "33:5",
+    "33:26"
+   ],
+   "hebraico": {
+    "lema": "יְשֻׁרוּן",
+    "translit": "yeshurun",
+    "strong": "H3484"
+   },
+   "sentido": "nome poético de Israel, ligado a \"reto\"",
+   "latim": {
+    "forma": "dilectus",
+    "nota": "A Vulgata traduz como \"o amado\" (dilectus/rectissimus), conforme o verso."
+   },
+   "outras": [],
+   "explicacao": "Nome carinhoso para Israel, provavelmente da raiz \"ser reto\". Em 32:15 é usado com ironia: o povo \"reto\" engorda e abandona a Rocha.",
+   "interpretacao": true
+  }
+ ],
+ "historia": [
+  {
+   "id": "nash",
+   "titulo": "Papiro Nash: Decálogo e Shemá",
+   "refs": [
+    "5:6-21",
+    "6:4-5"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Papiro Nash",
+   "referencia": "Biblioteca da Universidade de Cambridge",
+   "data_fonte": "c. séc. II–I a.C.",
+   "data_evento": "descoberto no Egito e publicado em 1903",
+   "resumo": "Folha de papiro em hebraico com os Dez Mandamentos e o início do Shemá (6:4-5). Até a descoberta dos Manuscritos do Mar Morto, era o mais antigo texto bíblico hebraico conhecido.",
+   "relacao": "Mostra que o Decálogo e o Shemá eram copiados juntos para uso devocional ou litúrgico, como em 6:6-9. O texto do Decálogo mistura traços de Êxodo 20 e de Deuteronômio 5.",
+   "grau": "documentado"
+  },
+  {
+   "id": "qumran-deut",
+   "titulo": "Deuteronômio nos Manuscritos do Mar Morto",
+   "refs": [
+    "32:8",
+    "6:8-9"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Manuscritos do Mar Morto (cavernas de Qumran)",
+   "referencia": "cerca de 30 cópias de Deuteronômio, entre elas 4QDeut(j) e 4QDeut(q); filactérios (tefilin) e mezuzot",
+   "data_fonte": "c. séc. III a.C. – séc. I d.C.",
+   "data_evento": "descobertos entre 1947 e 1956",
+   "resumo": "Deuteronômio está entre os livros mais copiados em Qumran, junto com Salmos e Isaías. Foram achados também filactérios e mezuzot com trechos de Dt 5, 6, 10 e 11. Em 32:8, 4QDeut(j) traz \"filhos de Deus\" onde o texto massorético traz \"filhos de Israel\".",
+   "relacao": "Confirma a importância do livro no judaísmo antigo e mostra que 6:8-9 já era praticado de forma literal. A variante de 32:8 é debatida e está por trás de traduções diferentes desse verso.",
+   "grau": "documentado"
+  },
+  {
+   "id": "ketef-hinom",
+   "titulo": "Rolos de prata de Ketef Hinom",
+   "refs": [
+    "7:9"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Rolos de prata de Ketef Hinom",
+   "referencia": "Museu de Israel, Jerusalém",
+   "data_fonte": "c. fim do séc. VII – séc. VI a.C.",
+   "data_evento": "descobertos em 1979, em Jerusalém",
+   "resumo": "Dois pequenos rolos de prata, usados como amuletos, com a bênção sacerdotal de Números 6:24-26. O rolo maior traz também uma frase muito próxima de Dt 7:9, sobre Deus que guarda a aliança e a misericórdia aos que o amam.",
+   "relacao": "São os textos mais antigos conhecidos com palavras próximas da Bíblia hebraica. A frase paralela a 7:9 sugere que essa fórmula de fé já circulava em Jerusalém antes do exílio. A leitura exata de algumas linhas é discutida.",
+   "grau": "associacao"
+  },
+  {
+   "id": "tratados-hititas",
+   "titulo": "Tratados hititas de suserania",
+   "refs": [
+    "4:13",
+    "28:1-6"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Tratados entre reis hititas e reis vassalos",
+   "referencia": "arquivos de Hattusa (Boğazköy, Turquia)",
+   "data_fonte": "séc. XIV–XIII a.C.",
+   "data_evento": "séc. XIV–XIII a.C.",
+   "resumo": "Os tratados seguem um padrão: apresentação do rei, histórico da relação, estipulações, guarda do documento, testemunhas divinas e listas de bênçãos e maldições.",
+   "relacao": "Muitos estudiosos notam que Deuteronômio segue estrutura semelhante: prólogo histórico (1–4), leis (5–26), bênçãos e maldições (27–28), testemunhas (30:19) e guarda do texto junto à arca (31:26). Essa semelhança é usada por alguns para defender data antiga.",
+   "grau": "associacao"
+  },
+  {
+   "id": "esarhaddon",
+   "titulo": "Tratados de vassalagem de Esar-Hadom",
+   "refs": [
+    "28:15-68",
+    "13:6-10"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Tratados de sucessão de Esar-Hadom (Asaradão), rei da Assíria",
+   "referencia": "tabletes de Nimrud (Iraque) e de Tell Tayinat (Turquia)",
+   "data_fonte": "672 a.C.",
+   "data_evento": "672 a.C.; descobertos em 1955 (Nimrud) e 2009 (Tell Tayinat)",
+   "resumo": "Juramentos impostos a vassalos para garantir a sucessão de Assurbanípal. Exigem amar o príncipe herdeiro, denunciar quem incitar à rebelião e listam maldições.",
+   "relacao": "Há paralelos notáveis com Dt 13 (denunciar quem incita a seguir outros deuses) e com a sequência de maldições de Dt 28. Muitos estudiosos usam isso para datar a redação do livro no séc. VII a.C.; outros preferem as semelhanças com os tratados hititas, mais antigos. É um debate em aberto.",
+   "grau": "associacao"
+  },
+  {
+   "id": "kuntillet-ajrud",
+   "titulo": "Inscrições de Kuntillet Ajrud",
+   "refs": [
+    "16:21",
+    "6:4"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Inscrições em jarros e paredes de Kuntillet Ajrud (Sinai)",
+   "referencia": "Museu de Israel, Jerusalém",
+   "data_fonte": "c. 800 a.C.",
+   "data_evento": "descobertas em 1975–1976",
+   "resumo": "Inscrições pedem bênção \"por YHWH de Samaria e sua Asherah\" e \"YHWH de Temã e sua Asherah\".",
+   "relacao": "Mostram que, na prática popular, o SENHOR às vezes era cultuado ao lado de Asherah, exatamente o que Deuteronômio proíbe (16:21) e o que o Shemá rejeita ao exigir lealdade exclusiva. Se \"Asherah\" é a deusa ou um objeto de culto é discutido.",
+   "grau": "associacao"
+  },
+  {
+   "id": "monte-ebal",
+   "titulo": "Estrutura no monte Ebal",
+   "refs": [
+    "27:4-8"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Escavações de Adam Zertal no monte Ebal",
+   "referencia": "sítio no monte Ebal, perto de Nablus",
+   "data_fonte": "c. séc. XIII–XII a.C.",
+   "data_evento": "escavado de 1982 a 1989",
+   "resumo": "Uma estrutura retangular de pedras não lavradas, com rampa e ossos de animais, foi interpretada por Zertal como um altar israelita antigo.",
+   "relacao": "Zertal a ligou ao altar de 27:4-8 e Josué 8:30-31. Outros arqueólogos a veem como torre de vigia ou estrutura doméstica. É uma associação possível, não comprovada.",
+   "grau": "associacao"
+  },
+  {
+   "id": "josefo-moises",
+   "titulo": "Josefo sobre a morte de Moisés",
+   "refs": [
+    "34:5-6"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 4, cap. 8",
+   "data_fonte": "c. 93–94 d.C.",
+   "data_evento": "fim da peregrinação no deserto",
+   "resumo": "Josefo resume os últimos discursos e leis de Moisés e conta que ele desapareceu numa nuvem sobre um monte, dizendo que Moisés escreveu sobre a própria morte para que não dissessem que fora arrebatado.",
+   "relacao": "Mostra como o judaísmo do séc. I lia Deuteronômio 31–34 e a questão de quem escreveu o relato da morte de Moisés. Josefo depende da tradição bíblica, não é testemunha independente.",
+   "grau": "documentado"
+  }
+ ]
+}

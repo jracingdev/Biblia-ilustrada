@@ -1,0 +1,729 @@
+{
+ "livro": "2-reis",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 2,
+   "ref": "2:11-12",
+   "titulo": "Elias sobe no turbilhão",
+   "descricao": "Enquanto caminham conversando, um carro de fogo com cavalos de fogo separa Elias e Eliseu, e Elias sobe ao céu num turbilhão; Eliseu clama: \"Meu pai, meu pai!\"",
+   "alt": "Um carro de fogo puxado por cavalos flamejantes sobe num redemoinho enquanto um homem na terra estende os braços.",
+   "prompt": "Barren plain east of the Jordan River, a chariot of fire drawn by horses of fire sweeping upward in a whirlwind into luminous clouds, the prophet Elijah carried away, his mantle falling, young Elisha below crying out with arms outstretched, dramatic golden and red light"
+  },
+  {
+   "id": "q02",
+   "capitulo": 2,
+   "ref": "2:13-14",
+   "titulo": "Eliseu divide o Jordão",
+   "descricao": "Com o manto de Elias, Eliseu fere as águas do Jordão perguntando \"Onde está o SENHOR, o Deus de Elias?\", e as águas se abrem.",
+   "alt": "Um homem bate com um manto nas águas de um rio, que se abrem diante dele.",
+   "prompt": "The prophet Elisha standing at the bank of the Jordan River striking the water with a rolled rough mantle, the waters parting to both sides revealing a dry path, a group of prophets watching from the far bank near Jericho, reeds and palm trees, clear evening light"
+  },
+  {
+   "id": "q03",
+   "capitulo": 4,
+   "ref": "4:1-7",
+   "titulo": "O azeite da viúva",
+   "descricao": "Uma viúva endividada derrama a única botija de azeite em vasos emprestados, e o azeite só cessa quando não há mais vasos.",
+   "alt": "Uma mulher derrama azeite num grande jarro enquanto dois meninos trazem mais vasilhas para dentro da casa.",
+   "prompt": "Inside a small dim stone house with the door shut, a widow pouring olive oil from a small flask into many large clay jars lining the room, her two young sons carrying more empty jars, oil glistening in lamplight, astonished expressions"
+  },
+  {
+   "id": "q04",
+   "capitulo": 4,
+   "ref": "4:32-37",
+   "titulo": "O filho da sunamita",
+   "descricao": "No quarto de cima, Eliseu ora e se estende sobre o menino morto, que espirra sete vezes e abre os olhos; o profeta o devolve à mãe.",
+   "alt": "Um profeta idoso entrega um menino vivo à mãe, que se ajoelha agradecida num pequeno quarto.",
+   "prompt": "A small upper room on a rooftop with a bed, table, stool and lamp, the prophet Elisha presenting a living young boy to his kneeling mother from Shunem who bows in gratitude and joy, the servant Gehazi at the doorway, soft morning light through a window"
+  },
+  {
+   "id": "q05",
+   "capitulo": 5,
+   "ref": "5:14",
+   "titulo": "Naamã no Jordão",
+   "descricao": "O general sírio Naamã, leproso, mergulha sete vezes no Jordão como mandou o homem de Deus, e sua pele fica como a de um menino.",
+   "alt": "Um general estrangeiro emerge das águas de um rio, olhando espantado para os braços curados.",
+   "prompt": "Aramean army commander Naaman, having removed his armor, emerging from the muddy waters of the Jordan River, looking in amazement at his restored smooth skin, his servants and chariot with horses waiting on the bank, bright daylight"
+  },
+  {
+   "id": "q06",
+   "capitulo": 6,
+   "ref": "6:15-17",
+   "titulo": "Os montes cheios de carros de fogo",
+   "descricao": "Cercado pelo exército sírio em Dotã, o servo de Eliseu se apavora; o profeta ora e os olhos do jovem se abrem para ver o monte cheio de cavalos e carros de fogo.",
+   "alt": "Um jovem assustado vê nas colinas um exército de carros de fogo protegendo um profeta.",
+   "prompt": "Dawn over the hills of Dothan, an enemy army with horses and chariots surrounding the town below, the prophet Elisha calmly praying beside his frightened young servant, the surrounding hills filled with radiant horses and chariots of fire, luminous and protective"
+  },
+  {
+   "id": "q07",
+   "capitulo": 7,
+   "ref": "7:3-8",
+   "titulo": "Os leprosos no acampamento vazio",
+   "descricao": "Quatro leprosos famintos vão ao acampamento sírio à noite e o encontram abandonado, com tendas, comida e tesouros; depois decidem anunciar a boa notícia.",
+   "alt": "Quatro homens maltrapilhos andam entre tendas vazias ao anoitecer, admirados com a comida deixada para trás.",
+   "prompt": "Twilight in an abandoned Aramean military camp outside Samaria, four ragged men with covered heads walking cautiously among empty tents, cooking pots, sacks of grain, horses tied, silver and clothing scattered, lamps still burning, mix of fear and astonishment"
+  },
+  {
+   "id": "q08",
+   "capitulo": 11,
+   "ref": "11:12",
+   "titulo": "Joás é coroado",
+   "descricao": "Escondido por seis anos no templo, o menino Joás é apresentado pelo sacerdote Joiada, recebe a coroa e o testemunho, e o povo bate palmas: \"Viva o rei!\"",
+   "alt": "Um sacerdote coloca uma coroa na cabeça de um menino diante de guardas e povo em festa no templo.",
+   "prompt": "Temple courtyard in Jerusalem, the elderly high priest Jehoiada placing a small golden crown on the head of a seven-year-old boy standing by a pillar and holding a scroll, royal guards in a protective ring with spears and shields, people clapping, morning light"
+  },
+  {
+   "id": "q09",
+   "capitulo": 12,
+   "ref": "12:9-11",
+   "titulo": "A caixa das ofertas",
+   "descricao": "Joiada faz um furo na tampa de uma caixa e a põe junto ao altar, para recolher o dinheiro destinado aos reparos do templo.",
+   "alt": "Pessoas depositam moedas de prata numa caixa de madeira junto ao altar do templo.",
+   "prompt": "Temple courtyard, a wooden chest with a hole bored in its lid standing beside the bronze altar, priests guarding the entrance, ordinary Israelites placing silver pieces into the chest, the high priest and a royal scribe counting silver nearby, workmen with tools waiting"
+  },
+  {
+   "id": "q10",
+   "capitulo": 17,
+   "ref": "17:6",
+   "titulo": "Israel levado para a Assíria",
+   "descricao": "Samaria cai e o povo do reino do Norte é deportado para cidades distantes da Assíria e da Média.",
+   "alt": "Uma longa fila de exilados com trouxas caminha escoltada por soldados assírios, deixando a cidade ao longe.",
+   "prompt": "A long column of Israelite exiles, men, women and children carrying bundles, walking along a dusty road escorted by Assyrian soldiers with conical helmets, the walled hill city of Samaria smoking faintly in the far distance, grief on their faces, overcast sky, sober distant view"
+  },
+  {
+   "id": "q11",
+   "capitulo": 18,
+   "ref": "18:26-28",
+   "titulo": "Rabsaqué diante dos muros",
+   "descricao": "O oficial assírio discursa em hebraico ao povo sobre o muro de Jerusalém, zombando da confiança em Deus, enquanto os ministros de Ezequias pedem que fale em aramaico.",
+   "alt": "Um oficial assírio grita para o povo sobre a muralha enquanto três ministros judeus lhe pedem silêncio.",
+   "prompt": "Outside the walls of Jerusalem near an aqueduct, an Assyrian royal official with curled beard and rich robes shouting up at the people on the city wall, a large Assyrian army behind him, three anxious Judean officials before him gesturing, defenders on the battlements listening"
+  },
+  {
+   "id": "q12",
+   "capitulo": 19,
+   "ref": "19:14-15",
+   "titulo": "Ezequias estende a carta diante do SENHOR",
+   "descricao": "Ao receber a carta ameaçadora de Senaqueribe, Ezequias sobe ao templo, abre a carta diante do SENHOR e ora.",
+   "alt": "Um rei ajoelhado no templo abre uma carta diante do santuário e ora de mãos erguidas.",
+   "prompt": "King Hezekiah kneeling in the temple court in sackcloth over royal garments, spreading out a written letter before the sanctuary doors, hands lifted in prayer, warm light from within the sanctuary, no figure of God, intense devotion"
+  },
+  {
+   "id": "q13",
+   "capitulo": 20,
+   "ref": "20:9-11",
+   "titulo": "A sombra volta no relógio de Acaz",
+   "descricao": "Como sinal da cura de Ezequias, Isaías clama ao SENHOR e a sombra recua dez degraus na escadaria de Acaz.",
+   "alt": "Um rei doente e um profeta observam uma sombra que recua sobre uma escadaria de pedra.",
+   "prompt": "A stone stairway used as a sundial in the palace court of Jerusalem, the recovering King Hezekiah wrapped in a blanket and the prophet Isaiah pointing as the shadow moves backward up the steps, attendants amazed, late afternoon sunlight"
+  },
+  {
+   "id": "q14",
+   "capitulo": 22,
+   "ref": "22:8-11",
+   "titulo": "O livro da lei é achado",
+   "descricao": "Durante a reforma do templo, o sumo sacerdote Hilquias encontra o livro da lei; quando o escriba Safã o lê ao rei Josias, ele rasga as próprias vestes.",
+   "alt": "Um jovem rei rasga suas vestes enquanto um escriba lê um rolo antigo.",
+   "prompt": "Royal chamber in Jerusalem, the young King Josiah rising from his throne and tearing his robe in distress, the scribe Shaphan reading from an old dusty scroll, the high priest Hilkiah beside him, workers' tools visible in the background, shafts of light"
+  },
+  {
+   "id": "q15",
+   "capitulo": 23,
+   "ref": "23:2-3",
+   "titulo": "Josias renova a aliança",
+   "descricao": "Josias lê ao povo todas as palavras do livro do pacto e, de pé junto à coluna, faz aliança diante do SENHOR; todo o povo confirma.",
+   "alt": "Um rei de pé junto a uma coluna do templo lê um rolo diante de uma grande multidão.",
+   "prompt": "King Josiah standing on a platform beside one of the great bronze pillars of the temple, reading aloud from an open scroll to a vast crowd of people of all ages, priests and prophets among them, hands raised in commitment, bright morning light"
+  },
+  {
+   "id": "q16",
+   "capitulo": 25,
+   "ref": "25:8-11",
+   "titulo": "Jerusalém queimada",
+   "descricao": "O exército babilônico queima o templo, o palácio e as casas de Jerusalém, derruba os muros e leva o povo para o exílio.",
+   "alt": "Ao longe, a cidade de Jerusalém arde enquanto exilados caminham sob escolta.",
+   "prompt": "Distant view of Jerusalem burning at dusk, smoke rising from the temple and palace, broken city walls, Babylonian soldiers leading a line of captive Judeans away in the foreground, faces full of sorrow, sober and restrained, no graphic violence"
+  },
+  {
+   "id": "q17",
+   "capitulo": 25,
+   "ref": "25:27-30",
+   "titulo": "Joaquim à mesa do rei da Babilônia",
+   "descricao": "No exílio, o rei Evil-Merodaque liberta Joaquim da prisão, troca suas roupas e lhe dá lugar de honra à sua mesa.",
+   "alt": "Um rei exilado, de roupas novas, senta-se com honra à mesa do rei da Babilônia.",
+   "prompt": "Babylonian palace hall with glazed brick walls, the aging exiled King Jehoiachin of Judah in new robes being seated in a place of honor at the royal table of King Evil-Merodach, other captive kings at lower seats, servants bringing food, quiet hopeful light"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "carro-de-fogo",
+   "termo": "Carro e cavalos de fogo",
+   "ref": "2:11",
+   "explicado": false,
+   "significado": "Separam Elias e Eliseu na subida ao céu e reaparecem protegendo Eliseu em 6:17. O texto não explica a imagem; costuma ser lida como o exército de Deus, e Eliseu chama Elias de \"carro de Israel\" (2:12)."
+  },
+  {
+   "id": "manto",
+   "termo": "Manto de Elias",
+   "ref": "2:13",
+   "explicado": true,
+   "significado": "Com o manto Eliseu divide o Jordão, e os profetas concluem: \"O espírito de Elias repousou sobre Eliseu\" (2:15). O manto marca a sucessão."
+  },
+  {
+   "id": "sal-agua",
+   "termo": "Sal nas águas de Jericó",
+   "ref": "2:21",
+   "explicado": true,
+   "significado": "O próprio texto diz que é o SENHOR quem sara as águas; o sal é apenas o sinal visível da ação de Deus."
+  },
+  {
+   "id": "azeite",
+   "termo": "Azeite que não cessa",
+   "ref": "4:6",
+   "explicado": false,
+   "significado": "Deus sustenta a viúva na medida dos vasos que ela consegue juntar. O texto não dá sentido simbólico; muitos leem uma lição sobre fé que prepara espaço para a bênção."
+  },
+  {
+   "id": "lepra",
+   "termo": "Lepra",
+   "ref": "5:1",
+   "explicado": false,
+   "significado": "Doença de pele que tornava a pessoa impura. Cura Naamã, estrangeiro, e passa a Geazi, israelita ganancioso (5:27): o texto mostra que a graça não depende de nacionalidade."
+  },
+  {
+   "id": "jordao",
+   "termo": "Rio Jordão",
+   "ref": "5:14",
+   "explicado": false,
+   "significado": "Lugar de passagem e de cura: Eliseu o atravessa (2:14) e Naamã nele é limpo. Cristãos o relacionam ao batismo, mas isso é leitura posterior."
+  },
+  {
+   "id": "ferro-flutua",
+   "termo": "Ferro do machado que flutua",
+   "ref": "6:6",
+   "explicado": false,
+   "significado": "Pequeno milagre por um machado emprestado: mostra o cuidado de Deus até com perdas de gente simples."
+  },
+  {
+   "id": "exercito-invisivel",
+   "termo": "Exército de fogo ao redor",
+   "ref": "6:17",
+   "explicado": true,
+   "significado": "Eliseu explica antes: \"mais são os que estão conosco do que os que estão com eles\" (6:16). Quando os olhos se abrem, o servo vê a proteção de Deus."
+  },
+  {
+   "id": "flecha",
+   "termo": "Flecha de salvação",
+   "ref": "13:17",
+   "explicado": true,
+   "significado": "Eliseu mesmo diz o significado: a flecha lançada pela janela é \"flecha de salvação contra Síria\"."
+  },
+  {
+   "id": "ossos-eliseu",
+   "termo": "Ossos de Eliseu",
+   "ref": "13:21",
+   "explicado": false,
+   "significado": "Um morto revive ao tocar os ossos do profeta. O texto não comenta; costuma ser entendido como sinal de que a palavra de Deus dita por Eliseu continuava viva."
+  },
+  {
+   "id": "neusta",
+   "termo": "Serpente de bronze (Neustã)",
+   "ref": "18:4",
+   "explicado": true,
+   "significado": "Feita por Moisés (Números 21), virou objeto de culto; Ezequias a destrói e a chama de Neustã, \"coisa de bronze\". Um sinal bom pode virar ídolo."
+  },
+  {
+   "id": "cana-quebrada",
+   "termo": "Bordão de cana quebrada",
+   "ref": "18:21",
+   "explicado": true,
+   "significado": "O próprio Rabsaqué explica: o Egito é como cana rachada que fere a mão de quem nela se apoia."
+  },
+  {
+   "id": "sombra-degraus",
+   "termo": "Sombra nos degraus de Acaz",
+   "ref": "20:11",
+   "explicado": true,
+   "significado": "É chamada de \"sinal\" do SENHOR (20:9) que confirma a promessa de cura e mais quinze anos de vida a Ezequias."
+  },
+  {
+   "id": "cordel-prumo",
+   "termo": "Cordel e prumo",
+   "ref": "21:13",
+   "explicado": true,
+   "significado": "Instrumentos de construção usados ao contrário: Deus vai medir Jerusalém pelo mesmo padrão usado para julgar Samaria e a casa de Acabe, como o versículo diz."
+  },
+  {
+   "id": "livro-da-lei",
+   "termo": "Livro da lei",
+   "ref": "22:8",
+   "explicado": false,
+   "significado": "Achado no templo, leva Josias à reforma. Muitos estudiosos o relacionam a Deuteronômio, mas o texto não diz qual livro era."
+  },
+  {
+   "id": "altos",
+   "termo": "Altos",
+   "ref": "12:3",
+   "explicado": false,
+   "significado": "Santuários locais em colinas. O livro os critica sempre, mesmo em reis bons, porque o culto devia se concentrar no templo e escapava ao controle da lei."
+  },
+  {
+   "id": "bezerros",
+   "termo": "Bezerros de Betel e Dã",
+   "ref": "17:16",
+   "explicado": false,
+   "significado": "O \"pecado de Jeroboão\" aparece repetidamente como raiz da queda do reino do Norte (17:21-22)."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "ruach",
+   "pt": "Espírito",
+   "refs": [
+    "2:9",
+    "2:15"
+   ],
+   "hebraico": {
+    "lema": "רוּחַ",
+    "translit": "ruach",
+    "strong": "H7307"
+   },
+   "grego": {
+    "lema": "πνεῦμα",
+    "translit": "pneuma",
+    "strong": "G4151"
+   },
+   "sentido": "vento, sopro, espírito",
+   "latim": {
+    "forma": "spiritus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A mesma palavra significa vento e espírito. Elias sobe num turbilhão, e Eliseu pede o seu espírito: a força dada por Deus ao profeta.",
+   "interpretacao": false
+  },
+  {
+   "id": "pi-shnayim",
+   "pt": "Porção dobrada",
+   "refs": [
+    "2:9"
+   ],
+   "hebraico": {
+    "lema": "פִּי־שְׁנַיִם",
+    "translit": "pi-shnayim",
+    "strong": "H6310, H8147"
+   },
+   "sentido": "literalmente \"boca de dois\": duas partes",
+   "latim": {
+    "forma": "duplex spiritus",
+    "nota": "Vulgata: \"fiat duplex spiritus tuus in me\"."
+   },
+   "outras": [],
+   "explicacao": "Era a parte de herança do filho primogênito (Deuteronômio 21:17). Eliseu pede para ser herdeiro principal de Elias, não necessariamente o dobro de poder.",
+   "interpretacao": true
+  },
+  {
+   "id": "ish-elohim",
+   "pt": "Homem de Deus",
+   "refs": [
+    "4:9",
+    "5:14"
+   ],
+   "hebraico": {
+    "lema": "אִישׁ הָאֱלֹהִים",
+    "translit": "ish ha'elohim",
+    "strong": "H376, H430"
+   },
+   "sentido": "homem que pertence a Deus",
+   "latim": {
+    "forma": "vir Dei",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Título frequente de Eliseu. Destaca que sua autoridade vem de Deus.",
+   "interpretacao": false
+  },
+  {
+   "id": "tsaraat",
+   "pt": "Lepra",
+   "refs": [
+    "5:1",
+    "5:27"
+   ],
+   "hebraico": {
+    "lema": "צָרַעַת",
+    "translit": "tsara'at",
+    "strong": "H6883"
+   },
+   "sentido": "doença de pele que tornava impuro",
+   "latim": {
+    "forma": "lepra",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O termo hebraico cobre várias doenças de pele, não só a hanseníase moderna. Por isso alguns tradutores preferem \"doença de pele\".",
+   "interpretacao": false
+  },
+  {
+   "id": "shuv",
+   "pt": "Converter-se",
+   "refs": [
+    "17:13",
+    "23:25"
+   ],
+   "hebraico": {
+    "lema": "שׁוּב",
+    "translit": "shuv",
+    "strong": "H7725"
+   },
+   "sentido": "voltar, dar meia-volta",
+   "latim": {
+    "forma": "revertimini",
+    "nota": "Vulgata em 17:13: \"revertimini a viis vestris pessimis\"."
+   },
+   "outras": [],
+   "explicacao": "É o verbo do arrependimento: dar meia-volta no caminho. Os profetas pedem isso a Israel (17:13), e Josias é o rei que \"se converteu ao SENHOR de todo o coração\" (23:25).",
+   "interpretacao": false
+  },
+  {
+   "id": "yashar",
+   "pt": "Correto",
+   "refs": [
+    "18:3",
+    "22:2"
+   ],
+   "hebraico": {
+    "lema": "יָשָׁר",
+    "translit": "yashar",
+    "strong": "H3477"
+   },
+   "sentido": "reto, direito",
+   "latim": {
+    "forma": "rectum",
+    "nota": "Vulgata: \"fecit quod erat bonum coram Domino\" ou \"rectum\"."
+   },
+   "outras": [],
+   "explicacao": "Fórmula com que o livro avalia cada rei: fez o que era reto, ou mau, \"aos olhos do SENHOR\". O padrão é Davi.",
+   "interpretacao": false
+  },
+  {
+   "id": "bamot",
+   "pt": "Altos",
+   "refs": [
+    "12:3",
+    "23:8"
+   ],
+   "hebraico": {
+    "lema": "בָּמוֹת",
+    "translit": "bamot",
+    "strong": "H1116"
+   },
+   "sentido": "lugares elevados de culto",
+   "latim": {
+    "forma": "excelsa",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Santuários locais. Só Ezequias e Josias os removem; nos outros reis aparece a ressalva \"contudo os altos não se tiraram\".",
+   "interpretacao": false
+  },
+  {
+   "id": "asherah",
+   "pt": "Bosque (Aserá)",
+   "refs": [
+    "23:6",
+    "17:16"
+   ],
+   "hebraico": {
+    "lema": "אֲשֵׁרָה",
+    "translit": "asherah",
+    "strong": "H842"
+   },
+   "sentido": "poste sagrado ou nome de deusa cananeia",
+   "latim": {
+    "forma": "lucus",
+    "nota": "A Vulgata, como a Bíblia Livre, traduz por \"bosque\"."
+   },
+   "outras": [],
+   "explicacao": "Pode indicar um tronco ou poste ligado ao culto da deusa Aserá. Traduções antigas usaram \"bosque\"; hoje muitas preferem \"poste-ídolo\" ou deixam \"Aserá\".",
+   "interpretacao": false
+  },
+  {
+   "id": "nechushtan",
+   "pt": "Neustã",
+   "refs": [
+    "18:4"
+   ],
+   "hebraico": {
+    "lema": "נְחֻשְׁתָּן",
+    "translit": "nechushtan",
+    "strong": "H5180"
+   },
+   "sentido": "\"coisa de bronze\"",
+   "latim": {
+    "forma": "Naestan",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Joga com as palavras nachash (serpente) e nechoshet (bronze). Ezequias rebaixa o objeto a um simples pedaço de metal.",
+   "interpretacao": false
+  },
+  {
+   "id": "sefer-torah",
+   "pt": "Livro da lei",
+   "refs": [
+    "22:8",
+    "23:2"
+   ],
+   "hebraico": {
+    "lema": "סֵפֶר הַתּוֹרָה",
+    "translit": "sefer hatorah",
+    "strong": "H5612, H8451"
+   },
+   "grego": {
+    "lema": "βιβλίον τοῦ νόμου",
+    "translit": "biblion tou nomou"
+   },
+   "sentido": "rolo da instrução",
+   "latim": {
+    "forma": "liber legis",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Torah é mais que \"lei\": é instrução, ensino. Em 23:2 o mesmo livro é chamado \"livro do pacto\".",
+   "interpretacao": false
+  },
+  {
+   "id": "galah",
+   "pt": "Transportar ao exílio",
+   "refs": [
+    "17:6",
+    "25:21"
+   ],
+   "hebraico": {
+    "lema": "גָּלָה",
+    "translit": "galah",
+    "strong": "H1540"
+   },
+   "sentido": "descobrir; ser levado embora, exilado",
+   "latim": {
+    "forma": "transtulit",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O mesmo verbo significa \"revelar\" e \"exilar\": a terra fica descoberta, despida de seu povo. É a palavra que fecha a história de Israel (17:6) e de Judá (25:21).",
+   "interpretacao": false
+  },
+  {
+   "id": "rekhev",
+   "pt": "Carro",
+   "refs": [
+    "2:12",
+    "6:17"
+   ],
+   "hebraico": {
+    "lema": "רֶכֶב",
+    "translit": "rekhev",
+    "strong": "H7393"
+   },
+   "sentido": "carro de guerra",
+   "latim": {
+    "forma": "currus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Eliseu chama Elias de \"carro de Israel e seus cavaleiros\" (2:12): o profeta era a verdadeira defesa do país. O mesmo será dito de Eliseu em 13:14.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "estela-mesa",
+   "titulo": "A revolta de Mesa de Moabe",
+   "refs": [
+    "3:4-5"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Estela de Mesa (Pedra Moabita)",
+   "referencia": "Museu do Louvre, Paris",
+   "data_fonte": "c. 840 a.C.",
+   "data_evento": "séc. IX a.C. (descoberta em 1868)",
+   "resumo": "O rei Mesa celebra ter libertado Moabe do domínio de Israel, que vinha desde Onri, e atribui a vitória ao deus Quemós.",
+   "relacao": "Confirma que Mesa, \"rei de Moabe\", se rebelou contra Israel depois de Acabe, como em 3:4-5. Os relatos diferem em pontos de vista e detalhes, como se espera de lados opostos.",
+   "grau": "documentado"
+  },
+  {
+   "id": "tel-da",
+   "titulo": "A Inscrição de Tel Dã",
+   "refs": [
+    "8:28-29",
+    "9:24-27"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Estela de Tel Dã",
+   "referencia": "Museu de Israel, Jerusalém",
+   "data_fonte": "c. 840-800 a.C.",
+   "data_evento": "c. 841 a.C. (fragmentos descobertos em 1993-1994)",
+   "resumo": "Um rei arameu, provavelmente Hazael, afirma ter matado o rei de Israel e um rei da \"casa de Davi\". A inscrição está fragmentada.",
+   "relacao": "A expressão \"casa de Davi\" é a menção mais antiga à dinastia fora da Bíblia. O texto atribui as mortes de Jorão e Acazias ao rei arameu, enquanto 2 Reis 9 as atribui a Jeú; alguns veem Jeú como agente de Hazael, mas o tema é debatido.",
+   "grau": "documentado"
+  },
+  {
+   "id": "obelisco-negro",
+   "titulo": "Jeú no Obelisco Negro",
+   "refs": [
+    "9:2",
+    "10:32"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Obelisco Negro de Salmanaser III",
+   "referencia": "Museu Britânico, Londres",
+   "data_fonte": "c. 827 a.C.",
+   "data_evento": "c. 841 a.C.",
+   "resumo": "Um painel mostra um homem prostrado diante do rei assírio, com a legenda \"tributo de Jeú, filho de Onri\" (isto é, da terra de Onri).",
+   "relacao": "É talvez a única imagem antiga de um rei de Israel ou de seu enviado. 2 Reis não fala desse tributo, mas o contexto de pressão estrangeira sobre Jeú aparece em 10:32.",
+   "grau": "documentado"
+  },
+  {
+   "id": "tiglate-pileser",
+   "titulo": "Menaém e Acaz nos anais de Tiglate-Pileser III",
+   "refs": [
+    "15:19",
+    "15:29",
+    "16:7"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Anais e inscrições de Tiglate-Pileser III",
+   "referencia": "Fragmentos do palácio de Nimrud; Museu Britânico e outras coleções",
+   "data_fonte": "c. 740-727 a.C.",
+   "data_evento": "c. 740-732 a.C.",
+   "resumo": "Os textos do rei assírio listam Menaém de Samaria e Acaz de Judá entre os que pagaram tributo e falam da conquista da Galileia e da troca de Peca por Oseias.",
+   "relacao": "Combinam bem com 15:19-30 e 16:7. \"Pul\" (15:19) corresponde a Pulu, nome usado para Tiglate-Pileser III em listas babilônicas.",
+   "grau": "documentado"
+  },
+  {
+   "id": "sargao-samaria",
+   "titulo": "A queda de Samaria nos textos de Sargão II",
+   "refs": [
+    "17:6",
+    "18:9-10"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Inscrições de Sargão II (Khorsabad) e Crônica Babilônica",
+   "referencia": "Palácio de Khorsabad; Museu do Louvre e Museu Britânico",
+   "data_fonte": "c. 720-705 a.C.",
+   "data_evento": "722-720 a.C.",
+   "resumo": "Sargão II diz ter conquistado Samaria e deportado cerca de 27 mil pessoas, trazendo outros povos no lugar. Uma crônica babilônica atribui a destruição de \"Samara'in\" a Salmanaser V.",
+   "relacao": "Confirma a queda de Samaria e a política de deportação de 17:6 e 17:24. Ainda se discute se a cidade caiu no fim do reinado de Salmanaser V (como sugere 18:9-10), com Sargão completando a ação.",
+   "grau": "documentado"
+  },
+  {
+   "id": "prisma-senaqueribe",
+   "titulo": "Senaqueribe e Ezequias",
+   "refs": [
+    "18:13-14",
+    "19:35-36"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Prisma de Senaqueribe (Prisma de Taylor)",
+   "referencia": "Museu Britânico, Londres (outra cópia no Instituto Oriental de Chicago)",
+   "data_fonte": "c. 691 a.C.",
+   "data_evento": "701 a.C.",
+   "resumo": "Senaqueribe diz ter tomado 46 cidades de Judá e prendido Ezequias em Jerusalém \"como pássaro na gaiola\", recebendo grande tributo, incluindo 30 talentos de ouro.",
+   "relacao": "Os 30 talentos de ouro coincidem com 18:14. O rei assírio não afirma ter tomado Jerusalém, o que combina com o relato bíblico de que o cerco terminou sem conquista.",
+   "grau": "documentado"
+  },
+  {
+   "id": "relevos-laquis",
+   "titulo": "Os relevos do cerco de Laquis",
+   "refs": [
+    "18:14",
+    "19:8"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Relevos de Laquis, do palácio de Senaqueribe em Nínive",
+   "referencia": "Museu Britânico, Londres",
+   "data_fonte": "c. 700-690 a.C.",
+   "data_evento": "701 a.C.",
+   "resumo": "Grandes painéis mostram o ataque assírio a Laquis, rampas, aríetes e moradores levados como prisioneiros.",
+   "relacao": "Laquis é citada em 18:14 como lugar onde estava Senaqueribe. Os relevos e as escavações da rampa de cerco ilustram a campanha.",
+   "grau": "documentado"
+  },
+  {
+   "id": "herodoto-senaqueribe",
+   "titulo": "Heródoto e o exército de Senaqueribe",
+   "refs": [
+    "19:35"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Heródoto, Histórias",
+   "referencia": "livro 2, §141",
+   "data_fonte": "c. 430 a.C.",
+   "data_evento": "701 a.C.",
+   "resumo": "Heródoto, ouvindo sacerdotes egípcios, conta que o exército de Senaqueribe, perto da fronteira do Egito, teve de recuar depois que ratos roeram seus arcos e aljavas numa noite.",
+   "relacao": "Alguns veem aqui um eco do desastre de 19:35; a versão é egípcia e lendária, e a semelhança não prova a mesma causa.",
+   "grau": "associacao"
+  },
+  {
+   "id": "inscricao-siloe",
+   "titulo": "Túnel e Inscrição de Siloé",
+   "refs": [
+    "20:20"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Inscrição do Túnel de Siloé",
+   "referencia": "Museus de Arqueologia de Istambul",
+   "data_fonte": "c. fim do séc. VIII a.C.",
+   "data_evento": "descoberta em 1880",
+   "resumo": "Texto hebraico gravado no túnel que leva água de Giom a Siloé, descrevendo o momento em que as duas equipes de escavadores se encontraram.",
+   "relacao": "A inscrição não cita o rei, mas a maioria dos estudiosos liga o túnel à obra de Ezequias em 20:20 (\"meteu as águas na cidade\"). Há quem proponha outra data.",
+   "grau": "associacao"
+  },
+  {
+   "id": "cronica-babilonica",
+   "titulo": "Nabucodonosor toma Jerusalém em 597 a.C.",
+   "refs": [
+    "24:10-17"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Crônica Babilônica (ABC 5, \"Crônica de Jerusalém\")",
+   "referencia": "Museu Britânico, Londres",
+   "data_fonte": "séc. VI a.C. ou pouco depois",
+   "data_evento": "597 a.C.",
+   "resumo": "A crônica diz que no sétimo ano Nabucodonosor sitiou \"a cidade de Judá\", capturou o rei, nomeou outro de sua escolha e levou grande tributo.",
+   "relacao": "Confirma 24:10-17 e permite datar a rendição de Joaquim em março de 597 a.C. A crônica não dá nomes; o rei capturado é Joaquim e o escolhido, Zedequias.",
+   "grau": "documentado"
+  },
+  {
+   "id": "tabletes-joaquim",
+   "titulo": "Rações para Joaquim na Babilônia",
+   "refs": [
+    "25:27-30"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Tabletes de ração de Joaquim",
+   "referencia": "Vorderasiatisches Museum, Berlim",
+   "data_fonte": "c. 592-569 a.C.",
+   "data_evento": "séc. VI a.C. (escavados no início do séc. XX)",
+   "resumo": "Tabletes administrativos da Babilônia registram azeite entregue a \"Ia'ukinu, rei da terra de Iahudu\" e a seus filhos.",
+   "relacao": "Mostram Joaquim vivendo como prisioneiro sustentado pelo rei da Babilônia, como 2 Reis termina, embora as tabletes sejam anteriores à libertação narrada em 25:27.",
+   "grau": "documentado"
+  },
+  {
+   "id": "bula-gedalias",
+   "titulo": "Selo de \"Gedalias, o que está sobre a casa\"",
+   "refs": [
+    "25:22"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Bula de Laquis com o nome Gedalias",
+   "referencia": "Escavações de Laquis (década de 1930)",
+   "data_fonte": "c. início do séc. VI a.C.",
+   "data_evento": "séc. VI a.C.",
+   "resumo": "Impressão de selo em barro com a inscrição \"pertencente a Gedalias, o que está sobre a casa\", título de alto oficial real.",
+   "relacao": "Muitos a relacionam a Gedalias filho de Aicã, nomeado governador em 25:22. O nome era comum, e a identificação não é certa.",
+   "grau": "associacao"
+  }
+ ]
+}

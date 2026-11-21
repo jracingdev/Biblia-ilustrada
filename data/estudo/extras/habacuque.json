@@ -1,0 +1,293 @@
+{
+ "livro": "habacuque",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:2-6",
+   "titulo": "Até quando, SENHOR?",
+   "descricao": "O profeta clama sobre os muros de Jerusalém diante da injustiça na cidade, enquanto ao longe se veem as tropas dos caldeus.",
+   "alt": "Um profeta de braços erguidos clama ao céu sobre uma muralha, com a cidade em desordem abaixo.",
+   "prompt": "The prophet Habakkuk standing on the walls of ancient Jerusalem with arms raised to the sky in lament, below him disputes and injustice in the streets, on the far horizon a dust cloud of Chaldean cavalry approaching, stormy dramatic sky"
+  },
+  {
+   "id": "q02",
+   "capitulo": 2,
+   "ref": "2:1-3",
+   "titulo": "Na torre de vigia",
+   "descricao": "Habacuque sobe à torre de vigia para esperar a resposta de Deus e escreve a visão em tábuas, para que se possa ler correndo.",
+   "alt": "O profeta escreve em tábuas no alto de uma torre de vigia, olhando o horizonte.",
+   "prompt": "Habakkuk in a stone watchtower at dawn, writing on clay or wooden tablets with a stylus, looking toward the horizon in expectation, a messenger waiting at the foot of the tower ready to run, soft luminous light"
+  },
+  {
+   "id": "q03",
+   "capitulo": 3,
+   "ref": "3:17-19",
+   "titulo": "Ainda que a figueira não floresça",
+   "descricao": "Diante de campos vazios, de um curral sem ovelhas e de uma figueira seca, o profeta ergue o rosto e se alegra no Deus da sua salvação.",
+   "alt": "Um homem diante de campos secos e um curral vazio ergue o rosto com alegria serena.",
+   "prompt": "Habakkuk standing in a barren landscape with a leafless fig tree, empty sheepfold and dry vineyard, his face lifted upward with quiet joy, a deer leaping on the high rocky places in the background, golden light breaking through clouds"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "torre",
+   "termo": "A torre de vigia",
+   "ref": "2:1",
+   "explicado": false,
+   "significado": "O profeta se coloca como sentinela para esperar a resposta de Deus: imagem de oração paciente."
+  },
+  {
+   "id": "tabuas",
+   "termo": "A visão escrita em tábuas",
+   "ref": "2:2",
+   "explicado": true,
+   "significado": "Deus manda escrever a visão de modo claro para que quem lê possa correr com ela. O texto diz que ela tem prazo e 'certamente virá' (2:3)."
+  },
+  {
+   "id": "rede",
+   "termo": "O anzol e a rede",
+   "ref": "1:15",
+   "explicado": true,
+   "significado": "Os caldeus pescam povos como peixes. O texto explica que eles adoram sua própria rede, isto é, confiam no seu poder militar."
+  },
+  {
+   "id": "pedra-clama",
+   "termo": "A pedra que clama do muro",
+   "ref": "2:11",
+   "explicado": false,
+   "significado": "Até as pedras e vigas das casas construídas com injustiça testemunham contra o explorador."
+  },
+  {
+   "id": "agua-mar",
+   "termo": "As águas cobrem o mar",
+   "ref": "2:14",
+   "explicado": false,
+   "significado": "A terra se encherá do conhecimento da glória do SENHOR como as águas cobrem o mar: esperança universal, como em Isaías 11:9."
+  },
+  {
+   "id": "idolos-mudos",
+   "termo": "Ídolos mudos",
+   "ref": "2:18-19",
+   "explicado": true,
+   "significado": "O texto ridiculariza a imagem de madeira ou pedra que não fala, em contraste com o SENHOR em seu santo templo (2:20)."
+  },
+  {
+   "id": "corcas",
+   "termo": "Pés como os das corças",
+   "ref": "3:19",
+   "explicado": false,
+   "significado": "Deus dá firmeza para andar nos lugares altos e difíceis. A mesma imagem aparece no Salmo 18:33."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "emunah",
+   "pt": "Fé (fidelidade)",
+   "refs": [
+    "2:4"
+   ],
+   "hebraico": {
+    "lema": "אֱמוּנָה",
+    "translit": "emunah",
+    "strong": "H530"
+   },
+   "grego": {
+    "lema": "πίστις",
+    "translit": "pístis",
+    "strong": "G4102"
+   },
+   "sentido": "firmeza, fidelidade, confiança",
+   "latim": {
+    "forma": "iustus autem in fide sua vivet",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "'O justo viverá pela sua fé': o hebraico destaca a fidelidade perseverante; Paulo cita o verso em Romanos 1:17 e Gálatas 3:11 com o sentido de confiança em Deus, e Hebreus 10:38 também o usa.",
+   "interpretacao": true
+  },
+  {
+   "id": "tsaddiq",
+   "pt": "Justo",
+   "refs": [
+    "1:4",
+    "1:13",
+    "2:4"
+   ],
+   "hebraico": {
+    "lema": "צַדִּיק",
+    "translit": "tsaddiq",
+    "strong": "H6662"
+   },
+   "grego": {
+    "lema": "δίκαιος",
+    "translit": "díkaios",
+    "strong": "G1342"
+   },
+   "sentido": "o reto, o inocente",
+   "latim": {
+    "forma": "iustus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O problema do livro: o ímpio cerca o justo (1:4) e a resposta de Deus é que o justo vive pela fé.",
+   "interpretacao": false
+  },
+  {
+   "id": "chazon",
+   "pt": "Visão",
+   "refs": [
+    "2:2",
+    "2:3"
+   ],
+   "hebraico": {
+    "lema": "חָזוֹן",
+    "translit": "chazon",
+    "strong": "H2377"
+   },
+   "grego": {
+    "lema": "ὅρασις",
+    "translit": "hórasis"
+   },
+   "sentido": "visão profética, revelação",
+   "latim": {
+    "forma": "scribe visum et explana eum super tabulas",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A visão tem tempo marcado; ainda que demore, deve ser esperada, porque certamente virá.",
+   "interpretacao": false
+  },
+  {
+   "id": "chamas",
+   "pt": "Violência",
+   "refs": [
+    "1:2",
+    "1:3",
+    "2:17"
+   ],
+   "hebraico": {
+    "lema": "חָמָס",
+    "translit": "chamas",
+    "strong": "H2555"
+   },
+   "sentido": "violência, opressão",
+   "latim": {
+    "forma": "vociferabor ad te vim patiens",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O primeiro clamor do profeta: 'Violência!', e Deus parece não salvar.",
+   "interpretacao": false
+  },
+  {
+   "id": "kasdim",
+   "pt": "Caldeus",
+   "refs": [
+    "1:6"
+   ],
+   "hebraico": {
+    "lema": "כַּשְׂדִּים",
+    "translit": "kasdim",
+    "strong": "H3778"
+   },
+   "sentido": "os babilônios",
+   "latim": {
+    "forma": "Chaldaei",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Povo do sul da Mesopotâmia cuja dinastia dominou a Babilônia; Deus diz que os está levantando como instrumento de juízo.",
+   "interpretacao": false
+  },
+  {
+   "id": "alaz",
+   "pt": "Alegrar-me-ei",
+   "refs": [
+    "3:18"
+   ],
+   "hebraico": {
+    "lema": "עָלַז",
+    "translit": "'alaz",
+    "strong": "H5937"
+   },
+   "sentido": "exultar, alegrar-se intensamente",
+   "latim": {
+    "forma": "ego autem in Domino gaudebo et exultabo in Deo Iesu meo",
+    "nota": "Leitura típica da Vulgata: in Deo Iesu meo."
+   },
+   "outras": [],
+   "explicacao": "A Vulgata traduz 'Deus da minha salvação' por 'Deus, meu Jesus', porque yesha (salvação) tem a mesma raiz do nome Jesus.",
+   "interpretacao": true
+  },
+  {
+   "id": "shigionot",
+   "pt": "Sigionote",
+   "refs": [
+    "3:1"
+   ],
+   "hebraico": {
+    "lema": "שִׁגְיֹנוֹת",
+    "translit": "shigyonot",
+    "strong": "H7692"
+   },
+   "sentido": "termo musical de sentido incerto",
+   "latim": {
+    "forma": "pro ignorationibus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Indicação musical do salmo do cap. 3; talvez um canto agitado ou lamentoso. O sentido exato se perdeu.",
+   "interpretacao": true
+  }
+ ],
+ "historia": [
+  {
+   "id": "pesher-habacuque",
+   "titulo": "O comentário de Habacuque de Qumran",
+   "refs": [
+    "1:6",
+    "2:4"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Pesher Habacuque (1QpHab)",
+   "referencia": "1QpHab, Santuário do Livro, Museu de Israel",
+   "data_fonte": "séc. I a.C.",
+   "data_evento": "descoberto em 1947, Caverna 1 de Qumran",
+   "resumo": "Um dos primeiros Manuscritos do Mar Morto achados. Cita Habacuque 1–2 trecho a trecho e o aplica à comunidade de Qumran, ao 'Mestre de Justiça' e aos 'Kittim'.",
+   "relacao": "É uma das cópias mais antigas de Habacuque e mostra a leitura de 2:4 num grupo judeu antes de Paulo. A interpretação é da seita, não do profeta.",
+   "grau": "associacao"
+  },
+  {
+   "id": "cronica-carquemis",
+   "titulo": "Babilônia vence em Carquemis e toma Jerusalém",
+   "refs": [
+    "1:6"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Crônica Babilônica (crônica dos primeiros anos de Nabucodonosor)",
+   "referencia": "Museu Britânico, BM 21946",
+   "data_fonte": "séc. VI a.C. ou posterior (cópia)",
+   "data_evento": "605–594 a.C.",
+   "resumo": "Registra a vitória de Nabucodonosor sobre os egípcios em Carquemis (605 a.C.) e, anos depois, a tomada da 'cidade de Judá' em 597 a.C.",
+   "relacao": "Mostra a rápida ascensão dos caldeus descrita em 1:6-11 e o fim de Judá.",
+   "grau": "documentado"
+  },
+  {
+   "id": "cartas-laquis",
+   "titulo": "Cartas de Laquis",
+   "refs": [
+    "1:6",
+    "2:1"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Óstracos de Laquis",
+   "referencia": "Museu Britânico e Museu de Israel; escavados em 1935",
+   "data_fonte": "c. 588 a.C.",
+   "data_evento": "avanço babilônico sobre Judá",
+   "resumo": "Cartas de um posto militar de Judá; uma delas diz que vigiavam os sinais de fogo de Laquis porque não viam os de Azeca.",
+   "relacao": "Retratam a vida em Judá sob a ameaça dos caldeus, o cenário de que Habacuque fala. Não mencionam o profeta.",
+   "grau": "associacao"
+  }
+ ]
+}

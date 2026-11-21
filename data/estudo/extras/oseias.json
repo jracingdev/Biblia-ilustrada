@@ -1,0 +1,699 @@
+{
+ "livro": "oseias",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:2-3",
+   "titulo": "Oseias toma Gômer por esposa",
+   "descricao": "Por ordem de Deus, Oseias se casa com Gômer, filha de Diblaim; o casamento se torna sinal da infidelidade de Israel.",
+   "alt": "Um homem sério oferece a mão a uma jovem em vestes coloridas numa rua de vilarejo de Israel.",
+   "prompt": "In a village street of ancient northern Israel, a serious bearded man in a plain mantle extending his hand to a young woman in colorful festive garments and jewelry, she looks at him with surprise, neighbors watching from doorways, soft afternoon light"
+  },
+  {
+   "id": "q02",
+   "capitulo": 1,
+   "ref": "1:6-9",
+   "titulo": "Os nomes dos filhos",
+   "descricao": "Os filhos de Oseias recebem nomes que são mensagens: Jezreel, Não-Amada e Não-Meu-Povo.",
+   "alt": "Um homem segura um bebê nos braços diante de dois filhos pequenos, com a mãe ao lado, numa casa simples.",
+   "prompt": "Interior of a modest stone house, a prophet holding a newborn baby with a solemn expression, a young mother seated nearby, two small children standing beside them, oil lamp light, a sense of weight and tenderness"
+  },
+  {
+   "id": "q03",
+   "capitulo": 2,
+   "ref": "2:14-15",
+   "titulo": "O vale de Acor, porta de esperança",
+   "descricao": "Deus promete atrair o povo ao deserto, falar ao seu coração e transformar o vale de Acor em porta de esperança.",
+   "alt": "Um vale árido que se abre para vinhas verdes ao amanhecer, com uma mulher caminhando em direção à luz.",
+   "prompt": "A barren rocky desert valley at dawn opening like a gateway onto green vineyards beyond, a lone woman in simple robes walking toward the light, a gentle glow on the horizon, peaceful and hopeful mood"
+  },
+  {
+   "id": "q04",
+   "capitulo": 3,
+   "ref": "3:1-2",
+   "titulo": "Resgatada por prata e cevada",
+   "descricao": "Oseias compra de volta a esposa por quinze peças de prata e um ômer e meio de cevada, como sinal do amor de Deus que não desiste.",
+   "alt": "Um homem entrega moedas de prata e um saco de cevada num mercado para resgatar uma mulher.",
+   "prompt": "In an ancient marketplace, a prophet placing fifteen pieces of silver and a sack of barley before a merchant, a woman in worn garments standing aside with downcast eyes, the prophet looking at her with compassion, dusty light"
+  },
+  {
+   "id": "q05",
+   "capitulo": 4,
+   "ref": "4:12-13",
+   "titulo": "Consultando um pedaço de madeira",
+   "descricao": "O povo pede respostas a um pedaço de madeira e oferece sacrifícios nos altos, debaixo das árvores de boa sombra.",
+   "alt": "Pessoas consultam um bastão de madeira junto a um altar sob grandes árvores no alto de um monte.",
+   "prompt": "On a hilltop under the shade of large oak and terebinth trees, villagers gathered at a small stone altar with smoke rising, a man casting a wooden divining staff to the ground while others watch for an answer, a carved wooden pole nearby, hazy light"
+  },
+  {
+   "id": "q06",
+   "capitulo": 6,
+   "ref": "6:3",
+   "titulo": "Como o nascer do sol e a chuva",
+   "descricao": "'Conheçamos ao SENHOR': sua vinda é certa como a aurora e chega como a chuva da primavera que rega a terra.",
+   "alt": "Camponeses olham o nascer do sol sobre campos molhados por uma chuva leve.",
+   "prompt": "Farmers standing in green fields at sunrise as a light spring rain falls, sunlight breaking through the clouds over the hills of Samaria, a rainbow faintly visible, faces lifted with hope"
+  },
+  {
+   "id": "q07",
+   "capitulo": 7,
+   "ref": "7:11",
+   "titulo": "A pomba sem juízo",
+   "descricao": "Efraim é como pomba imprudente: ora pede socorro ao Egito, ora vai à Assíria.",
+   "alt": "Uma pomba voa sem rumo entre uma terra de pirâmides e uma cidade assíria de muralhas.",
+   "prompt": "A lone dove fluttering confused above a vast landscape, on one horizon the pyramids and palms of Egypt, on the other the fortified walls and towers of an Assyrian city, a dark net spread below, symbolic composition, clear sky"
+  },
+  {
+   "id": "q08",
+   "capitulo": 8,
+   "ref": "8:5-7",
+   "titulo": "Semearam vento",
+   "descricao": "O bezerro de Samaria será feito em pedaços; quem semeia vento colhe tempestade.",
+   "alt": "Um semeador lança sementes ao vento enquanto uma tempestade se forma sobre um bezerro de ouro.",
+   "prompt": "A sower casting seed into a strong wind on a barren field, behind him on a hill a golden calf idol on a pedestal, a violent storm gathering in dark clouds above, dust swirling, dramatic light"
+  },
+  {
+   "id": "q09",
+   "capitulo": 10,
+   "ref": "10:12",
+   "titulo": "Lavrai o campo",
+   "descricao": "'Semeai justiça, colhei bondade': é tempo de buscar o SENHOR até que ele faça chover justiça.",
+   "alt": "Um lavrador ara com bois um campo endurecido, sob nuvens que trazem chuva.",
+   "prompt": "A farmer guiding a pair of oxen and a wooden plow through hard fallow ground on a hillside, fresh furrows behind him, rain clouds gathering overhead with first drops falling, warm light on the turned earth"
+  },
+  {
+   "id": "q10",
+   "capitulo": 11,
+   "ref": "11:3-4",
+   "titulo": "Ensinei Efraim a andar",
+   "descricao": "Deus se lembra de quando ensinou o povo a andar, puxando-o com cordas de amor.",
+   "alt": "Uma criança pequena dá os primeiros passos amparada por faixas de luz dourada que descem do céu.",
+   "prompt": "A small child in a simple tunic taking first unsteady steps on a path in a green field, held up by gentle ribbons of golden light descending from above like cords, no adult figure shown, tender and luminous atmosphere"
+  },
+  {
+   "id": "q11",
+   "capitulo": 12,
+   "ref": "12:3-4",
+   "titulo": "Jacó luta com o anjo",
+   "descricao": "Oseias lembra Jacó, que lutou com o anjo, chorou, suplicou e o encontrou em Betel.",
+   "alt": "Um homem luta à noite com um anjo junto a um riacho, sob o primeiro clarão do amanhecer.",
+   "prompt": "At night beside a stream, the patriarch Jacob grappling with a dignified angel in white, his face tearful and determined, the angel calm and strong, the first light of dawn on the horizon, dramatic chiaroscuro"
+  },
+  {
+   "id": "q12",
+   "capitulo": 13,
+   "ref": "13:2",
+   "titulo": "Beijam bezerros",
+   "descricao": "Os israelitas fazem imagens de fundição e dizem: 'os que sacrificam beijam bezerros'.",
+   "alt": "Pessoas se inclinam para beijar uma estátua de bezerro de metal num santuário.",
+   "prompt": "In a shrine of the northern kingdom, worshippers bending to kiss a cast metal calf idol on a stone pedestal, a priest offering incense, craftsmen's tools nearby, dim interior light with a shaft of daylight, the prophet watching from the doorway"
+  },
+  {
+   "id": "q13",
+   "capitulo": 14,
+   "ref": "14:5-7",
+   "titulo": "Como o orvalho, o lírio e o cedro",
+   "descricao": "Deus promete ser como orvalho para Israel: ele florescerá como o lírio, firmará raízes como o cedro e terá a beleza da oliveira.",
+   "alt": "Um vale cheio de lírios orvalhados, oliveiras e cedros sob a luz da manhã.",
+   "prompt": "A lush valley at early morning covered in dew, white lilies blooming in the foreground, silvery olive trees and tall cedars of Lebanon on the slopes, vineyards and wheat fields, families returning to rest in the shade, radiant peaceful light"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "casamento",
+   "termo": "O casamento de Oseias",
+   "ref": "1:2",
+   "explicado": true,
+   "significado": "O texto explica: o casamento com uma mulher infiel mostra como 'a terra se prostitui', afastando-se do SENHOR. Há debate se Gômer já era infiel antes do casamento ou se o texto fala olhando para trás."
+  },
+  {
+   "id": "nomes-filhos",
+   "termo": "Os nomes dos filhos",
+   "ref": "1:4",
+   "explicado": true,
+   "significado": "Cada nome é explicado: Jezreel anuncia juízo sobre a casa de Jeú; Não-Amada e Não-Meu-Povo, a ruptura da aliança. Em 2:23 os nomes são invertidos em promessa."
+  },
+  {
+   "id": "vale-acor",
+   "termo": "Vale de Acor",
+   "ref": "2:15",
+   "explicado": false,
+   "significado": "Lugar ligado à desgraça de Acã (Js 7:24-26). Deus promete transformar o vale da 'perturbação' em porta de esperança."
+  },
+  {
+   "id": "baal",
+   "termo": "Baal e os baalins",
+   "ref": "2:16",
+   "explicado": false,
+   "significado": "Deus da chuva e da fertilidade em Canaã. Israel atribuía a ele o trigo, o vinho e o azeite que vinham de Deus (2:8)."
+  },
+  {
+   "id": "bolos-uvas",
+   "termo": "Bolos de uvas",
+   "ref": "3:1",
+   "explicado": false,
+   "significado": "Doces oferecidos em cultos a outros deuses. Simbolizam o apego a uma religião de prazer e colheita."
+  },
+  {
+   "id": "madeira",
+   "termo": "Pedaço de madeira e bastão",
+   "ref": "4:12",
+   "explicado": false,
+   "significado": "Objetos de adivinhação ou postes sagrados. O povo pede orientação a coisas sem vida."
+  },
+  {
+   "id": "leao",
+   "termo": "Deus como leão",
+   "ref": "5:14",
+   "explicado": false,
+   "significado": "Imagem forte do juízo que ninguém consegue impedir. O livro também usa o leão para o chamado de volta (11:10)."
+  },
+  {
+   "id": "neblina",
+   "termo": "Neblina e orvalho da manhã",
+   "ref": "6:4",
+   "explicado": true,
+   "significado": "O texto compara a bondade do povo com a neblina e o orvalho que logo desaparecem: uma fidelidade passageira."
+  },
+  {
+   "id": "bolo",
+   "termo": "Bolo que não foi virado",
+   "ref": "7:8",
+   "explicado": false,
+   "significado": "Pão queimado de um lado e cru do outro: imagem de um povo misturado com as nações e incoerente."
+  },
+  {
+   "id": "pomba",
+   "termo": "Pomba imprudente",
+   "ref": "7:11",
+   "explicado": true,
+   "significado": "O próprio verso explica: Efraim chama o Egito e vai à Assíria, buscando alianças sem confiar em Deus."
+  },
+  {
+   "id": "bezerro",
+   "termo": "Bezerro de Samaria",
+   "ref": "8:5",
+   "explicado": false,
+   "significado": "Os bezerros de ouro postos por Jeroboão I em Betel e Dã (1 Rs 12:28-29). Oseias chama Betel ('casa de Deus') de Bete-Áven ('casa do nada', 10:5)."
+  },
+  {
+   "id": "vento-tempestade",
+   "termo": "Semear vento, colher tempestade",
+   "ref": "8:7",
+   "explicado": false,
+   "significado": "Ações vazias trazem consequências ainda piores. A expressão virou ditado em várias línguas."
+  },
+  {
+   "id": "uvas-deserto",
+   "termo": "Uvas no deserto",
+   "ref": "9:10",
+   "explicado": false,
+   "significado": "A alegria de achar uvas no deserto expressa o encanto de Deus com Israel no começo da história."
+  },
+  {
+   "id": "vinha",
+   "termo": "Vinha fértil",
+   "ref": "10:1",
+   "explicado": false,
+   "significado": "Quanto mais Israel prosperava, mais altares fazia: a riqueza alimentou a idolatria."
+  },
+  {
+   "id": "cordas-amor",
+   "termo": "Cordas de amor",
+   "ref": "11:4",
+   "explicado": false,
+   "significado": "Imagem de cuidado: Deus conduz o povo como quem guia uma criança ou alivia o jugo de um animal. O texto mistura as duas imagens."
+  },
+  {
+   "id": "jaco",
+   "termo": "Jacó, o que agarra o calcanhar",
+   "ref": "12:3",
+   "explicado": false,
+   "significado": "O antepassado lutou e buscou a Deus chorando. Oseias usa sua história para chamar o povo à mesma busca (12:6)."
+  },
+  {
+   "id": "xeol",
+   "termo": "Morte e Xeol",
+   "ref": "13:14",
+   "explicado": false,
+   "significado": "O verso pode ser lido como ameaça ou como promessa. Paulo o cita em 1 Coríntios 15:55 a partir do grego, como vitória sobre a morte."
+  },
+  {
+   "id": "orvalho-lirio",
+   "termo": "Orvalho, lírio e cedro",
+   "ref": "14:5",
+   "explicado": false,
+   "significado": "Imagens da restauração final: Deus como orvalho que faz Israel florescer, firmar raízes e voltar a dar sombra e fruto."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "zenunim",
+   "pt": "Prostituição",
+   "refs": [
+    "1:2",
+    "4:12"
+   ],
+   "hebraico": {
+    "lema": "זְנוּנִים",
+    "translit": "zenunim",
+    "strong": "H2183"
+   },
+   "grego": {
+    "lema": "πορνεία",
+    "translit": "porneía"
+   },
+   "sentido": "prostituição; infidelidade",
+   "latim": {
+    "forma": "fornicationes",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Do verbo zanah (H2181). Oseias usa a linguagem do adultério para a idolatria: trocar Deus por Baal é trair um casamento.",
+   "interpretacao": false
+  },
+  {
+   "id": "chesed",
+   "pt": "Misericórdia, amor fiel",
+   "refs": [
+    "4:1",
+    "6:4",
+    "6:6"
+   ],
+   "hebraico": {
+    "lema": "חֶסֶד",
+    "translit": "chesed",
+    "strong": "H2617"
+   },
+   "grego": {
+    "lema": "ἔλεος",
+    "translit": "éleos"
+   },
+   "sentido": "lealdade amorosa dentro da aliança",
+   "latim": {
+    "forma": "misericordiam volui et non sacrificium",
+    "nota": "Vulgata de 6:6."
+   },
+   "outras": [],
+   "explicacao": "Palavra-chave do livro: é o que Deus quer mais do que sacrifício (6:6). Jesus cita esse verso duas vezes (Mt 9:13; 12:7).",
+   "interpretacao": false
+  },
+  {
+   "id": "daat",
+   "pt": "Conhecimento",
+   "refs": [
+    "4:6",
+    "6:6"
+   ],
+   "hebraico": {
+    "lema": "דַּעַת",
+    "translit": "daʿat",
+    "strong": "H1847"
+   },
+   "grego": {
+    "lema": "ἐπίγνωσις",
+    "translit": "epígnōsis"
+   },
+   "sentido": "conhecer por relação e experiência",
+   "latim": {
+    "forma": "scientiam Dei plus quam holocausta",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Não é só saber informações sobre Deus, mas conhecê-lo de perto, como no casamento (2:20). 'Meu povo é destruído por falta de conhecimento' (4:6).",
+   "interpretacao": false
+  },
+  {
+   "id": "emet",
+   "pt": "Fidelidade, verdade",
+   "refs": [
+    "4:1"
+   ],
+   "hebraico": {
+    "lema": "אֱמֶת",
+    "translit": "ʾemet",
+    "strong": "H571"
+   },
+   "sentido": "firmeza, verdade, confiabilidade",
+   "latim": {
+    "forma": "veritas",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Em 4:1 forma trio com chesed e conhecimento de Deus: as três coisas que faltam na terra.",
+   "interpretacao": false
+  },
+  {
+   "id": "ishi-baali",
+   "pt": "Meu marido / meu Baal",
+   "refs": [
+    "2:16"
+   ],
+   "hebraico": {
+    "lema": "אִישִׁי / בַּעְלִי",
+    "translit": "ishi / baʿali",
+    "strong": "H376, H1167"
+   },
+   "sentido": "'meu homem' / 'meu senhor, meu dono'",
+   "latim": {
+    "forma": "vocabit me Vir meus et non vocabit me ultra Baali",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Baal significava 'senhor' ou 'dono' e também era usado para 'marido'. Deus quer ser chamado 'meu marido', não 'meu dono', e assim tira da boca do povo o nome do deus cananeu.",
+   "interpretacao": false
+  },
+  {
+   "id": "yizreel",
+   "pt": "Jezreel",
+   "refs": [
+    "1:4",
+    "2:22"
+   ],
+   "hebraico": {
+    "lema": "יִזְרְעֶאל",
+    "translit": "yizreʿel",
+    "strong": "H3157"
+   },
+   "sentido": "'Deus semeia'",
+   "latim": {
+    "forma": "Iezrahel",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Nome de um vale e de uma cidade marcados pela violência de Jeú (2 Rs 10). No fim do capítulo 2 o nome muda de sentido: Deus 'semeia' o povo de novo na terra (2:23).",
+   "interpretacao": false
+  },
+  {
+   "id": "lo-ruchamah",
+   "pt": "Não-Amada",
+   "refs": [
+    "1:6",
+    "2:23"
+   ],
+   "hebraico": {
+    "lema": "לֹא רֻחָמָה",
+    "translit": "lo ruchamah",
+    "strong": "H3819"
+   },
+   "grego": {
+    "lema": "οὐκ ἠλεημένη",
+    "translit": "ouk ēleēménē"
+   },
+   "sentido": "'não recebeu compaixão'",
+   "latim": {
+    "forma": "Absque misericordia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Vem da raiz de rachamim, compaixão de mãe. Em 2:23 Deus diz: 'amarei a Não-Amada'. Paulo cita a promessa em Romanos 9:25.",
+   "interpretacao": false
+  },
+  {
+   "id": "lo-ammi",
+   "pt": "Não-Meu-Povo",
+   "refs": [
+    "1:9",
+    "1:10",
+    "2:23"
+   ],
+   "hebraico": {
+    "lema": "לֹא עַמִּי",
+    "translit": "lo ʿammi",
+    "strong": "H3818"
+   },
+   "grego": {
+    "lema": "οὐ λαός μου",
+    "translit": "ou laós mou"
+   },
+   "sentido": "'não meu povo'",
+   "latim": {
+    "forma": "Non populus meus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Inverte a fórmula da aliança ('vocês serão meu povo'). A promessa de 1:10 e 2:23 é aplicada aos gentios em Romanos 9:25-26 e 1 Pedro 2:10.",
+   "interpretacao": false
+  },
+  {
+   "id": "aras",
+   "pt": "Desposar",
+   "refs": [
+    "2:19",
+    "2:20"
+   ],
+   "hebraico": {
+    "lema": "אָרַשׂ",
+    "translit": "ʾaras",
+    "strong": "H781"
+   },
+   "sentido": "comprometer-se em casamento, noivar",
+   "latim": {
+    "forma": "sponsabo te mihi in sempiternum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Repetido três vezes em 2:19-20. O 'dote' que Deus traz é justiça, juízo, bondade, misericórdia e fidelidade.",
+   "interpretacao": false
+  },
+  {
+   "id": "rib",
+   "pt": "Contenda, processo",
+   "refs": [
+    "4:1"
+   ],
+   "hebraico": {
+    "lema": "רִיב",
+    "translit": "riv",
+    "strong": "H7379"
+   },
+   "sentido": "disputa legal, acusação",
+   "latim": {
+    "forma": "iudicium Domino cum habitatoribus terrae",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Termo de tribunal: Deus abre um processo contra Israel por quebra de aliança. A forma aparece em vários profetas.",
+   "interpretacao": false
+  },
+  {
+   "id": "shuv",
+   "pt": "Voltar, converter-se",
+   "refs": [
+    "6:1",
+    "14:1"
+   ],
+   "hebraico": {
+    "lema": "שׁוּב",
+    "translit": "shuv",
+    "strong": "H7725"
+   },
+   "grego": {
+    "lema": "ἐπιστρέφω",
+    "translit": "epistréphō"
+   },
+   "sentido": "dar meia-volta, retornar",
+   "latim": {
+    "forma": "convertere Israhel ad Dominum Deum tuum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O livro termina com um chamado à volta (14:1-2) e com a promessa de Deus de curar a 'rebelião' (meshuvah, da mesma raiz) em 14:4.",
+   "interpretacao": false
+  },
+  {
+   "id": "ahavah",
+   "pt": "Amor",
+   "refs": [
+    "11:4"
+   ],
+   "hebraico": {
+    "lema": "אַהֲבָה",
+    "translit": "ʾahavah",
+    "strong": "H160"
+   },
+   "sentido": "amor, afeição",
+   "latim": {
+    "forma": "in vinculis caritatis",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "As 'cordas de amor' de 11:4 resumem o capítulo 11, um dos textos mais ternos do Antigo Testamento sobre o amor de Deus.",
+   "interpretacao": false
+  },
+  {
+   "id": "beni",
+   "pt": "Meu filho (do Egito chamei)",
+   "refs": [
+    "11:1"
+   ],
+   "hebraico": {
+    "lema": "בְּנִי",
+    "translit": "beni",
+    "strong": "H1121"
+   },
+   "sentido": "meu filho",
+   "latim": {
+    "forma": "ex Aegypto vocavi filium meum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "No original, o 'filho' é Israel saindo do Egito. A Septuaginta traduz 'seus filhos'; Mateus 2:15 segue o hebraico e aplica o verso a Jesus, lendo nele um paralelo entre Israel e o Messias.",
+   "interpretacao": true
+  },
+  {
+   "id": "sheol",
+   "pt": "Xeol",
+   "refs": [
+    "13:14"
+   ],
+   "hebraico": {
+    "lema": "שְׁאוֹל",
+    "translit": "sheʾol",
+    "strong": "H7585"
+   },
+   "grego": {
+    "lema": "ᾅδης",
+    "translit": "hádēs"
+   },
+   "sentido": "lugar dos mortos",
+   "latim": {
+    "forma": "ero mors tua o mors, morsus tuus ero inferne",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A Septuaginta traduz por 'Hades' e 'aguilhão', e Paulo cita essa forma em 1 Coríntios 15:55. O sentido no hebraico é discutido: ameaça contra Efraim ou desafio à morte.",
+   "interpretacao": true
+  }
+ ],
+ "historia": [
+  {
+   "id": "selo-shema",
+   "titulo": "Selo de Shemá, servo de Jeroboão",
+   "refs": [
+    "1:1"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Selo de jaspe com leão e a inscrição 'de Shemá, servo de Jeroboão'",
+   "referencia": "Encontrado em Megido por G. Schumacher (1904); o original se perdeu, restam moldes e fotografias",
+   "data_fonte": "séc. VIII a.C. (datação mais aceita)",
+   "data_evento": "Reinado de Jeroboão II (c. 786–746 a.C.)",
+   "resumo": "Selo oficial de um alto funcionário do rei Jeroboão, decorado com um leão rugindo.",
+   "relacao": "A maioria dos estudiosos o data de Jeroboão II, o rei citado em 1:1. Alguns preferem Jeroboão I; a datação depende do estilo do selo.",
+   "grau": "associacao"
+  },
+  {
+   "id": "ostracos-samaria",
+   "titulo": "Óstracos de Samaria",
+   "refs": [
+    "2:8",
+    "2:17"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Óstracos de Samaria (cerca de 100 cacos com inscrições)",
+   "referencia": "Escavações da Universidade de Harvard em Samaria (G. A. Reisner, 1908–1910)",
+   "data_fonte": "séc. VIII a.C.",
+   "data_evento": "Época de Jeroboão II",
+   "resumo": "Recibos de vinho e azeite enviados à capital, com nomes de pessoas. Vários nomes contêm 'Baal' e outros contêm o nome de YHWH.",
+   "relacao": "Mostram a mistura religiosa que Oseias combate: em 2:16-17 Deus promete tirar da boca do povo os nomes dos baalins. Também ilustram o comércio de vinho e azeite de 2:8.",
+   "grau": "associacao"
+  },
+  {
+   "id": "tiglate-pileser",
+   "titulo": "Inscrições de Tiglate-Pileser III: tributo de Samaria",
+   "refs": [
+    "5:13",
+    "8:9"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Inscrições de Tiglate-Pileser III (anais de Calá e estela do Irã)",
+   "referencia": "Calá (Nimrud); estela no Museu de Israel",
+   "data_fonte": "c. 740–730 a.C.",
+   "data_evento": "c. 738–731 a.C.",
+   "resumo": "O rei assírio cita o tributo de 'Menaém de Samaria' e diz que, depois da queda de Peca, pôs Oseias (Hoshea) como rei de Israel.",
+   "relacao": "Confirmam o que Oseias denuncia: Efraim 'subiu à Assíria' e procurou o grande rei (5:13; 8:9). O rei Oseias não é o profeta; os dois só têm o mesmo nome.",
+   "grau": "documentado"
+  },
+  {
+   "id": "cronica-salmanaser",
+   "titulo": "Crônica babilônica: Salmanaser V e Samaria",
+   "refs": [
+    "10:7",
+    "13:16"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Crônica Babilônica (ABC 1)",
+   "referencia": "British Museum, BM 92502",
+   "data_fonte": "c. séc. VI a.C. (cópia)",
+   "data_evento": "c. 722 a.C.",
+   "resumo": "A crônica diz que Salmanaser V 'devastou Shamara'in'.",
+   "relacao": "A maioria lê o nome como Samaria, o que confirma a queda anunciada por Oseias (10:7; 13:16). Alguns estudiosos sugerem outra cidade, por diferença na grafia.",
+   "grau": "documentado"
+  },
+  {
+   "id": "sargao-samaria",
+   "titulo": "Sargão II: a deportação de Samaria",
+   "refs": [
+    "9:3",
+    "10:6"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Inscrições de Sargão II (Inscrição da Grande Exibição, Khorsabad; prisma de Nimrud)",
+   "referencia": "Palácio de Khorsabad (Dur-Sharrukin) e Nimrud",
+   "data_fonte": "c. 710–706 a.C.",
+   "data_evento": "720 a.C.",
+   "resumo": "Sargão afirma ter conquistado Samaria e deportado 27.290 (ou 27.280) habitantes, trazendo outros povos para o seu lugar.",
+   "relacao": "Documenta o exílio anunciado por Oseias: 'na Assíria comerão coisa imunda' (9:3). Os números variam um pouco conforme a inscrição.",
+   "grau": "documentado"
+  },
+  {
+   "id": "kuntillet-ajrud",
+   "titulo": "Kuntillet Ajrud: 'YHWH de Samaria e sua Asherah'",
+   "refs": [
+    "8:5",
+    "4:12"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Inscrições em jarros de Kuntillet Ajrud (Sinai)",
+   "referencia": "Escavações de Ze'ev Meshel (1975–1976); peças no Museu de Israel",
+   "data_fonte": "c. 800 a.C.",
+   "data_evento": "Religião popular no reino do norte",
+   "resumo": "Bênçãos escritas em jarros de um posto de caravanas citam 'YHWH de Samaria e sua Asherah'.",
+   "relacao": "Mostram que, na época de Oseias, havia israelitas que associavam o Deus de Israel a símbolos e deusas cananeias. Ajudam a entender a crítica ao 'bezerro de Samaria' (8:5) e aos postes sagrados.",
+   "grau": "associacao"
+  },
+  {
+   "id": "ciclo-baal",
+   "titulo": "O ciclo de Baal em Ugarit",
+   "refs": [
+    "2:8",
+    "2:16"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Ciclo de Baal (tabletes de Ugarit)",
+   "referencia": "Escavações de Ras Shamra, Síria (desde 1929); Museu do Louvre e Museu de Alepo, entre outros",
+   "data_fonte": "c. séc. XIV–XIII a.C.",
+   "data_evento": "Mitologia cananeia",
+   "resumo": "Poemas que descrevem Baal como deus da tempestade e da chuva, cuja vitória sobre a Morte (Mot) traz de volta a fertilidade da terra.",
+   "relacao": "Explicam por que Israel atribuía a Baal o trigo, o vinho e o azeite (2:8). Oseias responde que é o SENHOR quem dá a chuva e a colheita (2:21-22).",
+   "grau": "associacao"
+  },
+  {
+   "id": "pesher-oseias",
+   "titulo": "Comentários de Oseias em Qumran",
+   "refs": [
+    "2:8",
+    "5:13"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Manuscritos do Mar Morto, 4Q166 e 4Q167 (Pesher de Oseias)",
+   "referencia": "Caverna 4 de Qumran",
+   "data_fonte": "séc. I a.C.",
+   "data_evento": "Descobertos em 1952",
+   "resumo": "Comentários que citam versículos de Oseias e os aplicam à história da comunidade de Qumran e a seus adversários.",
+   "relacao": "Mostram como Oseias era lido como palavra viva para tempos posteriores, e preservam um texto antigo do livro.",
+   "grau": "associacao"
+  }
+ ]
+}

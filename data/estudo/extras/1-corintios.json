@@ -1,0 +1,552 @@
+{
+ "livro": "1-corintios",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:11-12",
+   "titulo": "Notícias das divisões",
+   "descricao": "Em Éfeso, Paulo recebe da gente da casa de Cloé a notícia de brigas na igreja: cada um diz ser de Paulo, de Apolo, de Cefas ou de Cristo.",
+   "alt": "Paulo, preocupado, ouve mensageiros que acabaram de chegar de viagem.",
+   "prompt": "In a simple room in Ephesus, the apostle Paul listening with a troubled expression to travelers from the household of Chloe who have just arrived, dusty cloaks, one gesturing as he reports, a window open to the city"
+  },
+  {
+   "id": "q02",
+   "capitulo": 3,
+   "ref": "3:6-9",
+   "titulo": "Paulo plantou, Apolo regou",
+   "descricao": "Paulo compara seu trabalho e o de Apolo ao de lavradores: um planta, outro rega, mas Deus dá o crescimento.",
+   "alt": "Dois trabalhadores num campo: um planta sementes e outro rega brotos jovens, sob a luz do sol.",
+   "prompt": "A cultivated field near Corinth, one worker in a plain tunic sowing seed into furrows, another pouring water from a clay jar over young green shoots, bright sunlight streaming from above suggesting divine blessing"
+  },
+  {
+   "id": "q03",
+   "capitulo": 5,
+   "ref": "5:7-8",
+   "titulo": "Lançar fora o velho fermento",
+   "descricao": "Paulo usa a preparação da Páscoa, quando se tirava todo fermento da casa, para chamar a igreja a uma vida nova: Cristo, nossa Páscoa, foi sacrificado.",
+   "alt": "Uma família procura e retira o fermento da casa à luz de lamparinas.",
+   "prompt": "A Jewish family in first-century dress searching their home by lamplight before Passover, a mother removing a small lump of leavened dough, a father holding unleavened bread, children watching"
+  },
+  {
+   "id": "q04",
+   "capitulo": 9,
+   "ref": "9:24-27",
+   "titulo": "A corrida pelo prêmio",
+   "descricao": "Como os atletas que correm e treinam com disciplina por uma coroa que murcha, os cristãos correm por uma coroa que não perece.",
+   "alt": "Corredores em plena corrida num estádio antigo, observados por uma multidão.",
+   "prompt": "Ancient Greek athletes running in a stone stadium at the Isthmian games near Corinth, modestly clothed in short tunics, a crowd watching, a judge holding a simple wreath of withered greenery at the finish line, dust in the golden light"
+  },
+  {
+   "id": "q05",
+   "capitulo": 11,
+   "ref": "11:23-26",
+   "titulo": "A ceia do Senhor",
+   "descricao": "Paulo transmite o que recebeu: na noite em que foi traído, Jesus tomou o pão e o cálice. A igreja deve celebrar a ceia anunciando a morte do Senhor até que ele venha.",
+   "alt": "Uma comunidade cristã reunida numa casa partilha pão e cálice.",
+   "prompt": "A house church gathered in the dining room of a Corinthian home, rich and poor seated together, a leader lifting a loaf of bread and a cup of wine, oil lamps on low tables, reverent faces"
+  },
+  {
+   "id": "q06",
+   "capitulo": 13,
+   "ref": "13:12",
+   "titulo": "Como por espelho",
+   "descricao": "\"Agora vemos por espelho em enigma, mas então veremos face a face\": o conhecimento atual é parcial.",
+   "alt": "Uma mulher olha num espelho de bronze polido que reflete sua imagem de forma turva.",
+   "prompt": "A woman in Greek dress holding a polished bronze hand mirror, her reflection dim and blurred in the metal, soft window light behind her, a contemplative mood"
+  },
+  {
+   "id": "q07",
+   "capitulo": 15,
+   "ref": "15:5-8",
+   "titulo": "As testemunhas da ressurreição",
+   "descricao": "Paulo enumera os que viram o Cristo ressuscitado: Cefas, os doze, mais de quinhentos irmãos de uma vez, Tiago, todos os apóstolos e, por último, ele mesmo.",
+   "alt": "O Cristo ressuscitado, envolto em luz, aparece a uma grande multidão num monte.",
+   "prompt": "The risen Christ in white garments surrounded by soft radiant light appearing on a hillside to a great crowd of more than five hundred men and women in first-century dress, some kneeling, some reaching out, early morning sky"
+  },
+  {
+   "id": "q08",
+   "capitulo": 15,
+   "ref": "15:36-38",
+   "titulo": "A semente que morre",
+   "descricao": "Para explicar a ressurreição do corpo, Paulo fala do grão semeado: ele morre e Deus lhe dá um corpo novo, a planta.",
+   "alt": "Mãos colocam um grão na terra, ao lado de uma espiga madura de trigo.",
+   "prompt": "Close view of a farmer's hands placing a single grain of wheat into dark soil, beside it a tall ripe ear of wheat glowing in sunlight, a field stretching behind"
+  },
+  {
+   "id": "q09",
+   "capitulo": 16,
+   "ref": "16:21-22",
+   "titulo": "Assinado de próprio punho",
+   "descricao": "Paulo encerra a carta escrevendo a saudação com a própria mão e o clamor aramaico: Vem, Senhor!",
+   "alt": "Paulo escreve as últimas linhas de uma carta, com um escriba ao lado.",
+   "prompt": "The apostle Paul taking the reed pen from a scribe to write the final greeting in large letters at the bottom of a papyrus letter, Ephesus room lit by an oil lamp, Timothy and others watching"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "templo",
+   "termo": "Templo de Deus",
+   "ref": "3:16",
+   "explicado": true,
+   "significado": "Paulo aplica a imagem à igreja reunida (3:16-17) e ao corpo de cada cristão (6:19): lugares onde o Espírito de Deus habita."
+  },
+  {
+   "id": "lavoura-edificio",
+   "termo": "Lavoura e edifício",
+   "ref": "3:9",
+   "explicado": true,
+   "significado": "Paulo diz: \"vós sois a plantação de Deus, o edifício de Deus\". Os líderes são trabalhadores; o crescimento e o fundamento, que é Cristo (3:11), vêm de Deus."
+  },
+  {
+   "id": "leite",
+   "termo": "Leite e alimento sólido",
+   "ref": "3:2",
+   "explicado": false,
+   "significado": "Imagem da maturidade espiritual: os coríntios ainda precisam de ensino básico por causa de suas divisões."
+  },
+  {
+   "id": "fermento",
+   "termo": "Fermento",
+   "ref": "5:6-8",
+   "explicado": true,
+   "significado": "Um pouco de fermento leveda toda a massa: o pecado tolerado contamina a comunidade. Paulo liga a imagem à Páscoa e a Cristo, o cordeiro pascal."
+  },
+  {
+   "id": "corpo",
+   "termo": "O corpo e os membros",
+   "ref": "12:12-27",
+   "explicado": true,
+   "significado": "Paulo aplica a imagem: a igreja é o corpo de Cristo, e cada pessoa, com seu dom, é um membro necessário."
+  },
+  {
+   "id": "coroa",
+   "termo": "Coroa do atleta",
+   "ref": "9:25",
+   "explicado": true,
+   "significado": "Os atletas ganhavam coroas de folhas que murchavam; o cristão busca uma coroa que não perece."
+  },
+  {
+   "id": "pedra-rocha",
+   "termo": "A rocha que os seguia",
+   "ref": "10:4",
+   "explicado": true,
+   "significado": "Paulo lê o deserto do êxodo como exemplo para a igreja e diz: \"a pedra era Cristo\". A tradição judaica tinha lendas sobre um poço que acompanhava Israel; não está claro se Paulo alude a elas."
+  },
+  {
+   "id": "pao-calice",
+   "termo": "Pão e cálice",
+   "ref": "11:23-26",
+   "explicado": false,
+   "significado": "Sinais da ceia do Senhor, ligados por Jesus ao seu corpo e à nova aliança no seu sangue. As igrejas entendem de modos diferentes como Cristo está presente na ceia."
+  },
+  {
+   "id": "veu",
+   "termo": "Cobertura da cabeça",
+   "ref": "11:5-6",
+   "explicado": false,
+   "significado": "Costume ligado à honra e à decência no culto de Corinto. Há muito debate sobre o que era exatamente essa cobertura e se a orientação é permanente ou cultural."
+  },
+  {
+   "id": "sino-metal",
+   "termo": "Metal que soa",
+   "ref": "13:1",
+   "explicado": false,
+   "significado": "Sem amor, até as línguas dos anjos são barulho vazio. Corinto era famosa pelo bronze, o que talvez torne a imagem mais viva."
+  },
+  {
+   "id": "espelho",
+   "termo": "Espelho",
+   "ref": "13:12",
+   "explicado": false,
+   "significado": "Os espelhos antigos eram de metal polido e davam imagem imperfeita. Assim é o conhecimento atual de Deus, comparado ao \"face a face\" futuro."
+  },
+  {
+   "id": "semente",
+   "termo": "Semente e corpo",
+   "ref": "15:36-44",
+   "explicado": true,
+   "significado": "O próprio Paulo explica: assim como a semente morre e recebe um novo corpo, o corpo é semeado mortal e ressuscita incorruptível."
+  },
+  {
+   "id": "primicias",
+   "termo": "Primícias",
+   "ref": "15:20",
+   "explicado": false,
+   "significado": "Os primeiros frutos da colheita eram oferecidos a Deus e garantiam o restante. Cristo ressuscitado é a garantia de que os seus também ressuscitarão."
+  },
+  {
+   "id": "trombeta",
+   "termo": "Última trombeta",
+   "ref": "15:52",
+   "explicado": false,
+   "significado": "Na Bíblia a trombeta anuncia reunião, festa ou intervenção de Deus. Aqui marca a ressurreição dos mortos; detalhes da ordem dos acontecimentos são lidos de formas diferentes."
+  },
+  {
+   "id": "aguilhao",
+   "termo": "Aguilhão da morte",
+   "ref": "15:55-56",
+   "explicado": true,
+   "significado": "O aguilhão era a ponta afiada para tocar bois, ou o ferrão de um animal. Paulo explica: o aguilhão da morte é o pecado."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "sophia",
+   "pt": "Sabedoria",
+   "refs": [
+    "1:20-24",
+    "2:6"
+   ],
+   "grego": {
+    "lema": "σοφία",
+    "translit": "sophía",
+    "strong": "G4678"
+   },
+   "sentido": "sabedoria, habilidade, saber",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "חָכְמָה",
+     "translit": "chokmah",
+     "strong": "H2451",
+     "ref": "Pv 1:7"
+    }
+   ],
+   "latim": {
+    "forma": "sapientia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Os coríntios valorizavam a eloquência e a filosofia. Paulo opõe a \"sabedoria do mundo\" à sabedoria de Deus revelada na cruz, que parece loucura.",
+   "interpretacao": false
+  },
+  {
+   "id": "stauros",
+   "pt": "Cruz",
+   "refs": [
+    "1:17-18"
+   ],
+   "grego": {
+    "lema": "σταυρός",
+    "translit": "staurós",
+    "strong": "G4716"
+   },
+   "sentido": "estaca, cruz",
+   "latim": {
+    "forma": "crux",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Instrumento de execução vergonhoso no mundo romano. Paulo faz da \"palavra da cruz\" o centro de sua pregação.",
+   "interpretacao": false
+  },
+  {
+   "id": "skandalon",
+   "pt": "Escândalo, ofensa",
+   "refs": [
+    "1:23"
+   ],
+   "grego": {
+    "lema": "σκάνδαλον",
+    "translit": "skándalon",
+    "strong": "G4625"
+   },
+   "sentido": "armadilha, pedra em que se tropeça",
+   "latim": {
+    "forma": "scandalum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Um messias crucificado era ofensa para judeus e loucura para gregos (1:23).",
+   "interpretacao": false
+  },
+  {
+   "id": "pneumatikos",
+   "pt": "Espiritual",
+   "refs": [
+    "2:15",
+    "12:1"
+   ],
+   "grego": {
+    "lema": "πνευματικός",
+    "translit": "pneumatikós",
+    "strong": "G4152"
+   },
+   "sentido": "que pertence ao Espírito",
+   "latim": {
+    "forma": "spiritalis",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Os coríntios se achavam \"espirituais\"; Paulo diz que o verdadeiramente espiritual se mostra no amor e na edificação dos outros.",
+   "interpretacao": false
+  },
+  {
+   "id": "soma",
+   "pt": "Corpo",
+   "refs": [
+    "6:19",
+    "12:27"
+   ],
+   "grego": {
+    "lema": "σῶμα",
+    "translit": "sōma",
+    "strong": "G4983"
+   },
+   "sentido": "corpo",
+   "latim": {
+    "forma": "corpus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Palavra-chave da carta: o corpo pessoal pertence ao Senhor (6:13-20), a igreja é corpo de Cristo (12:27), e o corpo ressuscitará (15:44).",
+   "interpretacao": false
+  },
+  {
+   "id": "charisma",
+   "pt": "Dom",
+   "refs": [
+    "12:4",
+    "12:31"
+   ],
+   "grego": {
+    "lema": "χάρισμα",
+    "translit": "chárisma",
+    "strong": "G5486"
+   },
+   "sentido": "dom gratuito, presente da graça",
+   "latim": {
+    "forma": "gratia / donatio",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Vem de charis (graça). Os dons são dados pelo mesmo Espírito para o bem comum (12:7). As igrejas divergem sobre quais dons continuam hoje.",
+   "interpretacao": true
+  },
+  {
+   "id": "glossa",
+   "pt": "Língua",
+   "refs": [
+    "13:1",
+    "14:2"
+   ],
+   "grego": {
+    "lema": "γλῶσσα",
+    "translit": "glōssa",
+    "strong": "G1100"
+   },
+   "sentido": "língua, idioma",
+   "latim": {
+    "forma": "lingua",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Em 1 Coríntios fala-se de línguas que precisam de interpretação (14:27). Se são idiomas humanos ou fala de oração não compreensível é debatido.",
+   "interpretacao": true
+  },
+  {
+   "id": "agape",
+   "pt": "Amor",
+   "refs": [
+    "13:4",
+    "13:13"
+   ],
+   "grego": {
+    "lema": "ἀγάπη",
+    "translit": "agápē",
+    "strong": "G26"
+   },
+   "sentido": "amor que busca o bem do outro",
+   "latim": {
+    "forma": "caritas",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A Vulgata usa caritas no capítulo 13, de onde veio a tradução \"caridade\" em versões antigas. O capítulo descreve o amor por ações, não por sentimentos.",
+   "interpretacao": false
+  },
+  {
+   "id": "anastasis",
+   "pt": "Ressurreição",
+   "refs": [
+    "15:12",
+    "15:42"
+   ],
+   "grego": {
+    "lema": "ἀνάστασις",
+    "translit": "anástasis",
+    "strong": "G386"
+   },
+   "sentido": "levantar-se de novo",
+   "latim": {
+    "forma": "resurrectio",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Alguns em Corinto negavam a ressurreição dos mortos (15:12). Paulo responde que, sem ela, a fé é vã (15:17).",
+   "interpretacao": false
+  },
+  {
+   "id": "oikodome",
+   "pt": "Edificação",
+   "refs": [
+    "14:3",
+    "14:26"
+   ],
+   "grego": {
+    "lema": "οἰκοδομή",
+    "translit": "oikodomḗ",
+    "strong": "G3619"
+   },
+   "sentido": "construção, edificar",
+   "latim": {
+    "forma": "aedificatio",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Critério para o culto: \"faça-se tudo para edificação\" (14:26).",
+   "interpretacao": false
+  },
+  {
+   "id": "maranatha",
+   "pt": "Vem, Senhor",
+   "refs": [
+    "16:22"
+   ],
+   "grego": {
+    "lema": "μαράνα θά",
+    "translit": "marána thá",
+    "strong": "G3134"
+   },
+   "sentido": "\"Senhor nosso, vem!\" (aramaico)",
+   "semitico": [
+    {
+     "lingua": "aramaico",
+     "lema": "מָרַנָא תָא",
+     "translit": "marana tha",
+     "ref": "16:22"
+    }
+   ],
+   "latim": {
+    "forma": "Maran atha",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Paulo deixa em aramaico uma oração dos primeiros cristãos. Também pode ser lido \"maran atha\", \"o Senhor veio\"; a leitura como pedido é a mais aceita.",
+   "interpretacao": false
+  },
+  {
+   "id": "koinonia-ceia",
+   "pt": "Comunhão",
+   "refs": [
+    "10:16"
+   ],
+   "grego": {
+    "lema": "κοινωνία",
+    "translit": "koinōnía",
+    "strong": "G2842"
+   },
+   "sentido": "participação, partilha",
+   "latim": {
+    "forma": "communicatio",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O cálice e o pão são \"comunhão\" no sangue e no corpo de Cristo (10:16). O sentido exato dessa participação é lido de formas diferentes pelas tradições cristãs.",
+   "interpretacao": true
+  }
+ ],
+ "historia": [
+  {
+   "id": "galio",
+   "titulo": "Inscrição de Gálio em Delfos",
+   "refs": [
+    "2:3"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Inscrição de Gálio (carta do imperador Cláudio)",
+   "referencia": "Delfos, Grécia; Museu Arqueológico de Delfos",
+   "data_fonte": "c. 52 d.C.",
+   "data_evento": "Proconsulado de Gálio, c. 51–52 d.C.",
+   "resumo": "A carta de Cláudio cita Gálio como procônsul da Acaia, cuja capital era Corinto.",
+   "relacao": "Permite datar a fundação da igreja de Corinto por Paulo por volta de 50–52 d.C. (At 18:11-12), poucos anos antes desta carta.",
+   "grau": "associacao"
+  },
+  {
+   "id": "erasto",
+   "titulo": "Inscrição de Erasto",
+   "refs": [
+    "1:2"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Inscrição em pavimento com o nome Erasto",
+   "referencia": "Corinto, junto ao teatro (in situ)",
+   "data_fonte": "séc. I d.C.",
+   "data_evento": "Descoberta em 1929",
+   "resumo": "Um Erasto pavimentou a praça às próprias custas em troca do cargo de edil.",
+   "relacao": "Mostra que havia pessoas de posição em Corinto e talvez na própria igreja (Rm 16:23 cita um Erasto de Corinto). A identificação é discutida. Ajuda a entender as diferenças sociais na ceia (11:21-22).",
+   "grau": "associacao"
+  },
+  {
+   "id": "jogos-istmicos",
+   "titulo": "Os Jogos Ístmicos",
+   "refs": [
+    "9:24-25"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Pausânias, Descrição da Grécia",
+   "referencia": "livro 2, caps. 1-2",
+   "data_fonte": "c. 160-180 d.C.",
+   "data_evento": "Jogos realizados a cada dois anos perto de Corinto",
+   "resumo": "Pausânias descreve o santuário de Posêidon no Istmo, sede de jogos atléticos que rivalizavam com os olímpicos.",
+   "relacao": "Os coríntios conheciam bem corredores, treinamento e coroas de folhas; Paulo usa essa imagem em 9:24-27.",
+   "grau": "associacao"
+  },
+  {
+   "id": "estrabao-corinto",
+   "titulo": "Corinto, cidade rica e de má fama",
+   "refs": [
+    "6:18"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Estrabão, Geografia",
+   "referencia": "livro 8, cap. 6, §20-23",
+   "data_fonte": "c. 7-23 d.C.",
+   "data_evento": "Descreve a Corinto antiga (antes de 146 a.C.) e a refundada por César em 44 a.C.",
+   "resumo": "Estrabão fala da riqueza de Corinto, de seus dois portos e afirma que o templo de Afrodite antigamente tinha mais de mil servas sagradas.",
+   "relacao": "Usado com frequência para explicar a fama de imoralidade de Corinto (6:15-18). Muitos estudiosos alertam que a informação se refere à cidade grega destruída e não necessariamente à Corinto romana de Paulo.",
+   "grau": "associacao"
+  },
+  {
+   "id": "asclepieion",
+   "titulo": "Ofertas votivas no santuário de Asclépio",
+   "refs": [
+    "12:15-16"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Terracotas votivas do Asclepieion de Corinto",
+   "referencia": "Museu Arqueológico da Antiga Corinto",
+   "data_fonte": "séc. V–IV a.C.",
+   "data_evento": "Escavações nos anos 1930",
+   "resumo": "Foram achadas muitas peças de barro em forma de mãos, pés, olhos e outras partes do corpo, oferecidas por quem buscava cura.",
+   "relacao": "Alguns estudiosos sugerem que essas imagens de membros separados tornavam viva a comparação do corpo e seus membros (12:12-27). É uma sugestão, não algo afirmado pelo texto.",
+   "grau": "associacao"
+  },
+  {
+   "id": "clemente-corinto",
+   "titulo": "Clemente de Roma lembra a carta de Paulo",
+   "refs": [
+    "1:12"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Primeira Carta de Clemente aos Coríntios",
+   "referencia": "cap. 47",
+   "data_fonte": "c. 96 d.C.",
+   "data_evento": "Fins do séc. I d.C.",
+   "resumo": "Cerca de 40 anos depois, a igreja de Roma escreve aos coríntios por causa de novas divisões e os manda retomar a carta do \"bem-aventurado Paulo\", que já os advertira sobre partidos em torno dele, de Cefas e de Apolo.",
+   "relacao": "É o testemunho mais antigo, fora do NT, de que 1 Coríntios existia e era lida, e mostra que o problema das facções (1:12) voltou a surgir em Corinto.",
+   "grau": "documentado"
+  }
+ ]
+}

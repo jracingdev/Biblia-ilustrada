@@ -1,0 +1,701 @@
+{
+ "livro": "atos",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:9-11",
+   "titulo": "A ascensão",
+   "descricao": "Jesus é elevado diante dos apóstolos e uma nuvem o encobre; dois homens de branco anunciam que ele voltará.",
+   "alt": "Os apóstolos olham para o céu enquanto Jesus sobe e uma nuvem luminosa o cobre no monte.",
+   "prompt": "Eleven apostles in first-century Galilean robes on the Mount of Olives looking upward in awe, Jesus rising into a bright cloud above them, two men in shining white garments standing nearby, Jerusalem visible in the distance, soft morning light"
+  },
+  {
+   "id": "q02",
+   "capitulo": 2,
+   "ref": "2:1-4",
+   "titulo": "Pentecostes",
+   "descricao": "No dia de Pentecostes, um som como de vento enche a casa e línguas como de fogo pousam sobre cada um dos discípulos.",
+   "alt": "Discípulos reunidos numa sala, com pequenas chamas sobre a cabeça de cada um.",
+   "prompt": "A crowded upper room in Jerusalem, men and women disciples in simple first-century garments, small tongues of flame resting above each head, robes stirred by a rushing wind, faces full of wonder, warm golden light filling the room"
+  },
+  {
+   "id": "q03",
+   "capitulo": 3,
+   "ref": "3:6-8",
+   "titulo": "O coxo na porta Formosa",
+   "descricao": "Pedro diz ao homem coxo de nascença que não tem prata nem ouro, mas lhe dá o que tem: em nome de Jesus, o homem se levanta e anda.",
+   "alt": "Pedro segura a mão de um homem que se levanta, à porta do templo.",
+   "prompt": "At an ornate bronze gate of the Jerusalem temple, Peter with John beside him takes the hand of a lame beggar who is rising to his feet in astonishment, onlookers in robes turning to watch, afternoon sunlight on stone"
+  },
+  {
+   "id": "q04",
+   "capitulo": 4,
+   "ref": "4:13-20",
+   "titulo": "Pedro e João diante do conselho",
+   "descricao": "Os líderes se admiram da coragem de homens sem estudo, e Pedro e João respondem que não podem deixar de falar do que viram e ouviram.",
+   "alt": "Dois pescadores de pé, serenos, diante de um conselho de anciãos sentados em semicírculo.",
+   "prompt": "Peter and John, plain fishermen in rough tunics, standing calmly before the seated Sanhedrin council of elders and priests in rich robes arranged in a semicircle, a healed man standing beside them, stone hall with oil lamps"
+  },
+  {
+   "id": "q05",
+   "capitulo": 6,
+   "ref": "6:8-15",
+   "titulo": "O rosto de Estêvão",
+   "descricao": "Acusado diante do conselho, Estêvão é olhado por todos, e seu rosto parece o rosto de um anjo.",
+   "alt": "Um jovem de rosto sereno e iluminado diante de acusadores no conselho.",
+   "prompt": "Young deacon Stephen in a simple robe standing before the council, his face serene and softly glowing, accusers pointing at him, elders staring in surprise, shadowed stone chamber with a single shaft of light on his face"
+  },
+  {
+   "id": "q06",
+   "capitulo": 7,
+   "ref": "7:55-60",
+   "titulo": "Estêvão vê a glória",
+   "descricao": "Cheio do Espírito, Estêvão olha para o céu e vê a glória de Deus; enquanto é apedrejado, pede perdão para seus perseguidores. Saulo guarda as roupas.",
+   "alt": "Estêvão ajoelhado, olhando para o alto, enquanto um jovem guarda mantos ao lado.",
+   "prompt": "Stephen kneeling outside the city walls, eyes lifted toward an opening of radiant light in the sky, praying with calm face, angry crowd shown at a distance without graphic violence, a young man named Saul standing aside holding cloaks, dusk light"
+  },
+  {
+   "id": "q07",
+   "capitulo": 8,
+   "ref": "8:30-38",
+   "titulo": "Filipe e o eunuco etíope",
+   "descricao": "Na estrada de Gaza, Filipe explica Isaías ao alto oficial da rainha da Etiópia, que pede para ser batizado.",
+   "alt": "Filipe e um oficial africano lendo um rolo dentro de uma carruagem no deserto.",
+   "prompt": "On a desert road, a dignified Ethiopian court official in fine robes seated in a chariot reading a scroll, Philip the evangelist walking alongside and pointing to the text, horses waiting, a small stream of water ahead, bright midday light"
+  },
+  {
+   "id": "q08",
+   "capitulo": 9,
+   "ref": "9:3-8",
+   "titulo": "A luz no caminho de Damasco",
+   "descricao": "Perto de Damasco, uma luz do céu envolve Saulo; ele cai por terra e ouve: \"Saulo, Saulo, por que me persegues?\"",
+   "alt": "Saulo caído na estrada, cobrindo os olhos diante de uma luz intensa vinda do céu.",
+   "prompt": "On the road to Damascus, Saul in traveling robes fallen on the ground shielding his eyes from a brilliant light from heaven, his companions standing frightened, a horse rearing, dusty road and distant city walls"
+  },
+  {
+   "id": "q09",
+   "capitulo": 10,
+   "ref": "10:24-33",
+   "titulo": "Pedro na casa de Cornélio",
+   "descricao": "O centurião romano Cornélio reúne parentes e amigos, e Pedro entra em sua casa, entendendo que Deus não faz acepção de pessoas.",
+   "alt": "Pedro entra numa casa romana onde um centurião e sua família o esperam.",
+   "prompt": "Peter in a simple Galilean robe entering the atrium of a Roman house in Caesarea, the centurion Cornelius in a red military cloak lifting him up as he bows, family and friends gathered, columns and sunlight from an open roof"
+  },
+  {
+   "id": "q10",
+   "capitulo": 12,
+   "ref": "12:6-10",
+   "titulo": "Pedro libertado da prisão",
+   "descricao": "Na noite antes do julgamento, um anjo acorda Pedro, as correntes caem e o portão de ferro se abre sozinho.",
+   "alt": "Um anjo luminoso conduz Pedro para fora da cela, com as correntes caídas no chão.",
+   "prompt": "Night in a Roman prison cell, a dignified angel radiating soft light touching Peter on the side, iron chains falling from his wrists, two soldiers asleep against the wall, an iron gate opening onto a dark street"
+  },
+  {
+   "id": "q11",
+   "capitulo": 16,
+   "ref": "16:25-30",
+   "titulo": "Cânticos na prisão de Filipos",
+   "descricao": "À meia-noite, Paulo e Silas oram e cantam; um terremoto abre as portas, e o carcereiro pergunta o que deve fazer para ser salvo.",
+   "alt": "Paulo e Silas na prisão, à luz de uma tocha, com o carcereiro ajoelhado diante deles.",
+   "prompt": "Midnight in an inner prison in Philippi, Paul and Silas sitting with feet in wooden stocks singing, walls cracked by an earthquake, the jailer kneeling trembling with a torch before them, other prisoners watching"
+  },
+  {
+   "id": "q12",
+   "capitulo": 17,
+   "ref": "17:22-23",
+   "titulo": "Paulo no Areópago",
+   "descricao": "Em Atenas, Paulo fala aos filósofos sobre o altar \"AO DEUS DESCONHECIDO\" e anuncia o Deus que fez o mundo.",
+   "alt": "Paulo discursa no alto de uma colina rochosa, com templos gregos ao fundo.",
+   "prompt": "Paul standing on the rocky Areopagus hill in Athens addressing Greek philosophers in himations, some listening, some skeptical, the Parthenon on the Acropolis behind, a small altar nearby, clear Mediterranean light"
+  },
+  {
+   "id": "q13",
+   "capitulo": 19,
+   "ref": "19:28-34",
+   "titulo": "Tumulto no teatro de Éfeso",
+   "descricao": "Os artesãos de Diana gritam por duas horas no teatro: \"Grande é a Diana dos efésios!\"",
+   "alt": "Uma multidão agitada enche um grande teatro de pedra em Éfeso.",
+   "prompt": "A vast stone amphitheater in Ephesus packed with an agitated crowd raising their arms and shouting, silversmiths with small shrines, two of Paul's companions seized in the center, the city and harbor beyond, hazy afternoon light"
+  },
+  {
+   "id": "q14",
+   "capitulo": 20,
+   "ref": "20:36-38",
+   "titulo": "Despedida em Mileto",
+   "descricao": "Depois de falar aos anciãos de Éfeso, Paulo se ajoelha e ora com todos; eles choram e o acompanham até o navio.",
+   "alt": "Paulo ajoelhado na praia com anciãos que o abraçam em lágrimas.",
+   "prompt": "On a beach at Miletus, Paul kneeling in prayer with a group of elders, some embracing him and weeping, a wooden ship waiting in the harbor, evening light over the sea"
+  },
+  {
+   "id": "q15",
+   "capitulo": 26,
+   "ref": "26:24-29",
+   "titulo": "Paulo diante de Agripa",
+   "descricao": "Paulo conta sua conversão ao rei Agripa e a Festo; o rei responde: \"Por pouco me persuades a me fazer cristão\".",
+   "alt": "Paulo acorrentado fala a um rei e uma rainha sentados num salão de audiências.",
+   "prompt": "In a grand audience hall in Caesarea, Paul in chains with one hand raised speaking earnestly, King Agrippa and Bernice seated in royal robes, the Roman governor Festus beside them, officers and leading men watching"
+  },
+  {
+   "id": "q16",
+   "capitulo": 27,
+   "ref": "27:41-44",
+   "titulo": "O naufrágio",
+   "descricao": "O navio encalha e se despedaça com as ondas, mas todos os 276 a bordo chegam a salvo à terra, nadando ou em tábuas.",
+   "alt": "Pessoas chegam à praia agarradas a tábuas enquanto um navio se parte nas ondas.",
+   "prompt": "A Roman grain ship broken apart on a sandbar in a stormy sea near Malta, passengers and soldiers swimming and clinging to planks toward the shore, Paul helping others onto the beach, grey dawn light"
+  },
+  {
+   "id": "q17",
+   "capitulo": 28,
+   "ref": "28:30-31",
+   "titulo": "Paulo em Roma",
+   "descricao": "Por dois anos Paulo vive em casa alugada em Roma, recebendo a todos e pregando o reino de Deus com toda a liberdade.",
+   "alt": "Paulo, guardado por um soldado, ensina visitantes numa casa simples em Roma.",
+   "prompt": "A modest rented room in Rome, the aged apostle Paul seated with a chain on his wrist teaching a small group of visitors, a Roman soldier standing at the door, scrolls on a table, warm lamplight"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "vento-fogo",
+   "termo": "Vento e línguas de fogo",
+   "ref": "2:2-3",
+   "explicado": false,
+   "significado": "Sinais visíveis e audíveis da vinda do Espírito Santo. Pedro explica o acontecimento como cumprimento de Joel (2:16-17), mas não explica cada imagem; o vento e o fogo lembram manifestações de Deus no AT, como no Sinai."
+  },
+  {
+   "id": "linguas",
+   "termo": "Falar em outras línguas",
+   "ref": "2:4",
+   "explicado": true,
+   "significado": "O texto diz que cada visitante ouvia os apóstolos falando na sua própria língua (2:6-11): o evangelho atravessa as barreiras de povo e idioma."
+  },
+  {
+   "id": "nuvem",
+   "termo": "Nuvem",
+   "ref": "1:9",
+   "explicado": false,
+   "significado": "Jesus é encoberto por uma nuvem na ascensão. Na Bíblia a nuvem costuma indicar a presença de Deus (como no êxodo); os anjos ligam a cena à volta de Jesus \"do mesmo modo\" (1:11)."
+  },
+  {
+   "id": "lancol",
+   "termo": "Lençol com animais",
+   "ref": "10:11-12",
+   "explicado": true,
+   "significado": "Pedro vê animais puros e impuros e ouve: \"O que Deus purificou, não faças tu como se fosse ordinário\". Ele mesmo entende a visão: não deve chamar ninguém de ordinário ou impuro (10:28)."
+  },
+  {
+   "id": "pedra-rejeitada",
+   "termo": "Pedra rejeitada",
+   "ref": "4:11",
+   "explicado": true,
+   "significado": "Pedro aplica o Salmo 118 a Jesus: rejeitado pelos construtores, tornou-se a pedra principal da esquina."
+  },
+  {
+   "id": "caminho",
+   "termo": "O Caminho",
+   "ref": "9:2",
+   "explicado": false,
+   "significado": "Nome usado para o movimento dos seguidores de Jesus (9:2; 19:9; 24:14). O texto não explica a origem do nome; costuma-se ligá-lo à palavra de Jesus \"eu sou o caminho\" e à ideia de um modo de viver."
+  },
+  {
+   "id": "escamas",
+   "termo": "Escamas que caem dos olhos",
+   "ref": "9:18",
+   "explicado": false,
+   "significado": "Saulo volta a ver quando Ananias lhe impõe as mãos. Muitos leem a cegueira e a cura também como figura de sua mudança interior, de perseguidor a apóstolo; o texto narra um fato físico."
+  },
+  {
+   "id": "altar-desconhecido",
+   "termo": "Altar \"ao deus desconhecido\"",
+   "ref": "17:23",
+   "explicado": true,
+   "significado": "Paulo usa o altar ateniense como ponto de partida: o Deus que eles adoram sem conhecer é o Criador que ele anuncia."
+  },
+  {
+   "id": "diana",
+   "termo": "Diana (Ártemis) dos efésios",
+   "ref": "19:27",
+   "explicado": false,
+   "significado": "A deusa protetora de Éfeso, cujo templo famoso dava prestígio e renda à cidade. Em Atos ela representa o conflito entre o evangelho e a religião ligada ao comércio local."
+  },
+  {
+   "id": "sacudir-po",
+   "termo": "Sacudir o pó dos pés",
+   "ref": "13:51",
+   "explicado": false,
+   "significado": "Gesto de Paulo e Barnabé ao serem expulsos de Antioquia da Pisídia, seguindo a instrução de Jesus (Lc 9:5). Indicava que a responsabilidade pela rejeição ficava com quem rejeitou."
+  },
+  {
+   "id": "impor-maos",
+   "termo": "Imposição de mãos",
+   "ref": "6:6",
+   "explicado": false,
+   "significado": "Gesto que acompanha oração, envio para um serviço (6:6; 13:3) e o dom do Espírito (8:17). As igrejas entendem de formas diferentes o seu alcance (ordenação, bênção, cura)."
+  },
+  {
+   "id": "bens-comum",
+   "termo": "Bens em comum",
+   "ref": "2:44-45",
+   "explicado": false,
+   "significado": "A primeira igreja partilha o que tem para que ninguém passe necessidade (4:34). O texto apresenta isso como fruto voluntário da unidade (5:4), não como uma lei imposta."
+  },
+  {
+   "id": "cadeias",
+   "termo": "Correntes",
+   "ref": "12:7",
+   "explicado": false,
+   "significado": "Pedro e Paulo aparecem várias vezes acorrentados. Em Atos as prisões não impedem o avanço da palavra; o livro termina com Paulo preso, mas pregando \"sem impedimento\" (28:31)."
+  },
+  {
+   "id": "navio",
+   "termo": "Navio e tempestade",
+   "ref": "27:14-20",
+   "explicado": false,
+   "significado": "A viagem a Roma ocupa um capítulo inteiro. Lucas destaca a promessa de Deus a Paulo de que todos se salvariam (27:23-24); leituras simbólicas da cena são possíveis, mas o relato é histórico e detalhado."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "pneuma",
+   "pt": "Espírito",
+   "refs": [
+    "1:8",
+    "2:4"
+   ],
+   "grego": {
+    "lema": "πνεῦμα",
+    "translit": "pneûma",
+    "strong": "G4151"
+   },
+   "sentido": "sopro, vento, espírito",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "רוּחַ",
+     "translit": "ruach",
+     "strong": "H7307",
+     "ref": "Jl 2:28"
+    }
+   ],
+   "latim": {
+    "forma": "Spiritus Sanctus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O Espírito Santo é o grande agente de Atos: dá poder para o testemunho (1:8), forma a igreja e guia a missão (13:2; 16:6-7). Por isso o livro já foi chamado de \"Atos do Espírito Santo\".",
+   "interpretacao": false
+  },
+  {
+   "id": "martys",
+   "pt": "Testemunha",
+   "refs": [
+    "1:8",
+    "22:15"
+   ],
+   "grego": {
+    "lema": "μάρτυς",
+    "translit": "mártys",
+    "strong": "G3144"
+   },
+   "sentido": "quem viu e declara o que viu",
+   "latim": {
+    "forma": "testes",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "É a palavra do versículo-chave (1:8). Com o tempo, como muitas testemunhas morreram pela fé, dela veio o sentido de \"mártir\".",
+   "interpretacao": false
+  },
+  {
+   "id": "ekklesia",
+   "pt": "Igreja",
+   "refs": [
+    "5:11",
+    "20:28"
+   ],
+   "grego": {
+    "lema": "ἐκκλησία",
+    "translit": "ekklēsía",
+    "strong": "G1577"
+   },
+   "sentido": "assembleia, os chamados para reunir-se",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "קָהָל",
+     "translit": "qahal",
+     "strong": "H6951",
+     "ref": "Dt 4:10"
+    }
+   ],
+   "latim": {
+    "forma": "ecclesia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Em grego comum era a assembleia dos cidadãos (a palavra aparece para a assembleia de Éfeso em 19:39). A Septuaginta a usa para a congregação de Israel.",
+   "interpretacao": false
+  },
+  {
+   "id": "metanoia",
+   "pt": "Arrependimento",
+   "refs": [
+    "2:38",
+    "3:19"
+   ],
+   "grego": {
+    "lema": "μετανοέω",
+    "translit": "metanoéō",
+    "strong": "G3340"
+   },
+   "sentido": "mudar de mente, mudar de direção",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "שׁוּב",
+     "translit": "shuv",
+     "strong": "H7725",
+     "ref": "Ez 18:30"
+    }
+   ],
+   "latim": {
+    "forma": "paenitentiam agite",
+    "nota": "A tradução latina influenciou a ênfase posterior em atos de penitência."
+   },
+   "outras": [],
+   "explicacao": "Na pregação de Atos o convite é arrepender-se e voltar-se para Deus (3:19; 26:20). A Vulgata traduz \"fazei penitência\"; o grego destaca a mudança de mentalidade e de rumo.",
+   "interpretacao": false
+  },
+  {
+   "id": "baptizo",
+   "pt": "Batizar",
+   "refs": [
+    "2:38",
+    "8:38"
+   ],
+   "grego": {
+    "lema": "βαπτίζω",
+    "translit": "baptízō",
+    "strong": "G907"
+   },
+   "sentido": "mergulhar, lavar",
+   "latim": {
+    "forma": "baptizetur",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Em Atos o batismo acompanha a fé e o arrependimento. As igrejas divergem sobre o modo (imersão ou não) e sobre quem pode ser batizado; o texto mostra adultos e casas inteiras (16:33).",
+   "interpretacao": true
+  },
+  {
+   "id": "kerygma",
+   "pt": "Anunciar a boa notícia",
+   "refs": [
+    "5:42",
+    "8:4"
+   ],
+   "grego": {
+    "lema": "εὐαγγελίζομαι",
+    "translit": "euangelízomai",
+    "strong": "G2097"
+   },
+   "sentido": "anunciar boas notícias",
+   "latim": {
+    "forma": "evangelizantes",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Verbo que resume a atividade dos discípulos, mesmo dispersos pela perseguição (8:4). Dele vêm \"evangelho\" e \"evangelizar\".",
+   "interpretacao": false
+  },
+  {
+   "id": "hodos",
+   "pt": "O Caminho",
+   "refs": [
+    "9:2",
+    "24:14"
+   ],
+   "grego": {
+    "lema": "ὁδός",
+    "translit": "hodós",
+    "strong": "G3598"
+   },
+   "sentido": "caminho, estrada, maneira de viver",
+   "latim": {
+    "forma": "viae",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Nome do movimento cristão antes de ser comum o termo \"cristão\". Ver símbolos.",
+   "interpretacao": false
+  },
+  {
+   "id": "christianos",
+   "pt": "Cristão",
+   "refs": [
+    "11:26",
+    "26:28"
+   ],
+   "grego": {
+    "lema": "Χριστιανός",
+    "translit": "Christianós",
+    "strong": "G5546"
+   },
+   "sentido": "partidário de Cristo",
+   "latim": {
+    "forma": "Christiani",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Nome dado primeiro em Antioquia (11:26), provavelmente por pessoas de fora. Só aparece três vezes no NT (também 1Pe 4:16).",
+   "interpretacao": false
+  },
+  {
+   "id": "koinonia",
+   "pt": "Comunhão",
+   "refs": [
+    "2:42"
+   ],
+   "grego": {
+    "lema": "κοινωνία",
+    "translit": "koinōnía",
+    "strong": "G2842"
+   },
+   "sentido": "participação, partilha",
+   "latim": {
+    "forma": "communicatione",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Não é só sentimento: inclui refeições, orações e bens partilhados (2:42-45).",
+   "interpretacao": false
+  },
+  {
+   "id": "parresia",
+   "pt": "Ousadia",
+   "refs": [
+    "4:13",
+    "4:31",
+    "28:31"
+   ],
+   "grego": {
+    "lema": "παρρησία",
+    "translit": "parrēsía",
+    "strong": "G3954"
+   },
+   "sentido": "franqueza, falar abertamente sem medo",
+   "latim": {
+    "forma": "constantiam / fiducia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Atos começa e termina com esta palavra: os apóstolos falam com ousadia (4:13) e Paulo prega \"com toda a liberdade\" (28:31).",
+   "interpretacao": false
+  },
+  {
+   "id": "semeion",
+   "pt": "Sinais",
+   "refs": [
+    "2:43",
+    "4:30"
+   ],
+   "grego": {
+    "lema": "σημεῖον",
+    "translit": "sēmeîon",
+    "strong": "G4592"
+   },
+   "sentido": "sinal, marca que aponta para algo",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "אוֹת",
+     "translit": "'ot",
+     "strong": "H226",
+     "ref": "Êx 4:8"
+    }
+   ],
+   "latim": {
+    "forma": "signa",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Os milagres em Atos são chamados \"sinais e prodígios\": apontam para Jesus ressuscitado e confirmam a mensagem.",
+   "interpretacao": false
+  },
+  {
+   "id": "anastasis",
+   "pt": "Ressurreição",
+   "refs": [
+    "4:2",
+    "17:18"
+   ],
+   "grego": {
+    "lema": "ἀνάστασις",
+    "translit": "anástasis",
+    "strong": "G386"
+   },
+   "sentido": "levantar-se, erguer-se de novo",
+   "latim": {
+    "forma": "resurrectionem",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "É o centro da pregação de Atos (2:32). Em Atenas, alguns pensaram que \"Anastasis\" fosse o nome de uma deusa ao lado de Jesus (17:18).",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "galio-delfos",
+   "titulo": "Gálio, procônsul da Acaia",
+   "refs": [
+    "18:12"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Inscrição de Gálio (carta do imperador Cláudio)",
+   "referencia": "Delfos, Grécia; fragmentos no Museu Arqueológico de Delfos",
+   "data_fonte": "c. 52 d.C.",
+   "data_evento": "Proconsulado de Gálio, c. 51–52 d.C.",
+   "resumo": "Fragmentos de uma carta de Cláudio aos délfios mencionam Júnio Gálio como procônsul da Acaia, numa data que pode ser calculada pela aclamação imperial citada.",
+   "relacao": "Confirma que Gálio governava a Acaia e serve de ponto fixo para datar a estada de Paulo em Corinto (18:11-12), uma das datas mais seguras da cronologia de Paulo.",
+   "grau": "documentado"
+  },
+  {
+   "id": "claudio-expulsao",
+   "titulo": "Cláudio expulsa os judeus de Roma",
+   "refs": [
+    "18:2"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Suetônio, Vida de Cláudio",
+   "referencia": "cap. 25.4",
+   "data_fonte": "c. 121 d.C.",
+   "data_evento": "c. 49 d.C. (data dada por Orósio, séc. V)",
+   "resumo": "Suetônio diz que Cláudio expulsou de Roma os judeus que causavam tumultos constantes \"por instigação de Cresto\".",
+   "relacao": "Lucas diz que Áquila e Priscila tinham saído de Roma porque Cláudio mandara os judeus saírem (18:2). Muitos estudiosos pensam que \"Cresto\" seja uma forma de \"Cristo\" e reflita disputas sobre Jesus, mas isso é debatido.",
+   "grau": "documentado"
+  },
+  {
+   "id": "herodes-agripa-morte",
+   "titulo": "A morte de Herodes Agripa I",
+   "refs": [
+    "12:21-23"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 19, cap. 8, §343-350",
+   "data_fonte": "c. 93-94 d.C.",
+   "data_evento": "44 d.C.",
+   "resumo": "Josefo narra que Agripa, em Cesareia, vestido com roupa de prata, foi saudado como deus pela multidão, não recusou a lisonja, foi tomado de dores e morreu dias depois.",
+   "relacao": "Relato independente muito próximo de 12:21-23: mesmo lugar, roupa real, aclamação como deus e morte súbita.",
+   "grau": "documentado"
+  },
+  {
+   "id": "teudas-judas",
+   "titulo": "Teudas e Judas, o galileu",
+   "refs": [
+    "5:36-37"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 18, cap. 1, §1-10 (Judas); livro 20, cap. 5, §97-98 (Teudas)",
+   "data_fonte": "c. 93-94 d.C.",
+   "data_evento": "Judas: 6 d.C. (recenseamento); Teudas: c. 45-46 d.C.",
+   "resumo": "Josefo fala de Judas, o galileu, que se revoltou no recenseamento, e de um Teudas que levou multidões ao Jordão sob o procurador Fado.",
+   "relacao": "Gamaliel cita os dois casos (5:36-37). Josefo situa seu Teudas depois do discurso de Gamaliel; por isso uns pensam em outro Teudas, outros num erro de Lucas ou de Josefo. A questão segue em debate.",
+   "grau": "documentado"
+  },
+  {
+   "id": "fome-claudio",
+   "titulo": "A fome nos dias de Cláudio",
+   "refs": [
+    "11:28"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 20, cap. 2, §51 e cap. 5, §101",
+   "data_fonte": "c. 93-94 d.C.",
+   "data_evento": "c. 45-48 d.C.",
+   "resumo": "Josefo descreve uma grande fome na Judeia, quando a rainha Helena de Adiabene comprou trigo no Egito para os habitantes de Jerusalém. Outros autores falam de escassez em várias regiões sob Cláudio.",
+   "relacao": "Confirma o cenário da fome anunciada por Ágabo e da ajuda enviada pela igreja de Antioquia (11:28-30).",
+   "grau": "documentado"
+  },
+  {
+   "id": "aviso-templo",
+   "titulo": "Inscrição de advertência do templo",
+   "refs": [
+    "21:28-29"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Inscrição grega do pátio do templo de Herodes",
+   "referencia": "Museu Arqueológico de Istambul (exemplar completo, achado em 1871); fragmento no Museu de Israel",
+   "data_fonte": "séc. I a.C.–I d.C.",
+   "data_evento": "Uso no templo até 70 d.C.",
+   "resumo": "A placa proíbe a qualquer estrangeiro passar além da balaustrada do santuário e avisa que quem for apanhado será culpado da própria morte. Josefo também menciona esses avisos.",
+   "relacao": "Explica a gravidade da acusação contra Paulo de ter levado o grego Trófimo ao templo (21:28-29).",
+   "grau": "documentado"
+  },
+  {
+   "id": "politarcas",
+   "titulo": "Os \"politarcas\" de Tessalônica",
+   "refs": [
+    "17:6"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Inscrições com o título \"politarcas\"",
+   "referencia": "Uma delas, do antigo arco de Vardar em Tessalônica, está no Museu Britânico",
+   "data_fonte": "séc. I a.C.–II d.C.",
+   "data_evento": "séc. I d.C.",
+   "resumo": "Diversas inscrições da Macedônia usam o título politarchēs para os magistrados da cidade.",
+   "relacao": "Lucas usa justamente esse título raro para as autoridades de Tessalônica (17:6,8), detalhe considerado preciso.",
+   "grau": "associacao"
+  },
+  {
+   "id": "egipcio",
+   "titulo": "O egípcio que levou homens ao deserto",
+   "refs": [
+    "21:38"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Guerra dos Judeus",
+   "referencia": "livro 2, cap. 13, §261-263 (também Antiguidades 20.8.6)",
+   "data_fonte": "c. 75 d.C.",
+   "data_evento": "c. 54-58 d.C., sob Félix",
+   "resumo": "Josefo conta que um falso profeta egípcio reuniu muitos seguidores no deserto e marchou para o monte das Oliveiras; Félix o atacou e ele fugiu.",
+   "relacao": "O comandante pergunta a Paulo se ele não seria esse egípcio (21:38). Os números divergem (Josefo fala de 30 mil; Atos de 4 mil).",
+   "grau": "documentado"
+  },
+  {
+   "id": "felix-drusila",
+   "titulo": "Félix e Drusila",
+   "refs": [
+    "24:24"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 20, cap. 7, §141-144",
+   "data_fonte": "c. 93-94 d.C.",
+   "data_evento": "c. 53-59 d.C.",
+   "resumo": "Josefo narra que o governador Félix convenceu Drusila, filha de Agripa I, a deixar o marido e casar-se com ele.",
+   "relacao": "Confirma o casal que ouviu Paulo em Cesareia (24:24). Tácito também menciona Félix (Histórias 5.9).",
+   "grau": "documentado"
+  },
+  {
+   "id": "teatro-efeso",
+   "titulo": "Teatro e templo de Ártemis em Éfeso",
+   "refs": [
+    "19:29",
+    "19:35"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Ruínas do teatro de Éfeso e do Artemísion",
+   "referencia": "Sítio arqueológico de Éfeso (Selçuk, Turquia)",
+   "data_fonte": "Teatro: séc. III a.C., ampliado no período romano",
+   "data_evento": "Escavações desde o séc. XIX (templo identificado por J. T. Wood em 1869)",
+   "resumo": "O grande teatro, com lugar para cerca de 20 a 25 mil pessoas, e as fundações do templo de Ártemis, uma das sete maravilhas antigas, foram escavados.",
+   "relacao": "Dão o cenário do tumulto de 19:23-41. Inscrições de Éfeso também mencionam o \"escrivão\" (grammateus) da cidade, cargo citado em 19:35.",
+   "grau": "associacao"
+  }
+ ]
+}

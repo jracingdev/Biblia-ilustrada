@@ -1,0 +1,311 @@
+{
+ "livro": "jonas",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:4-6",
+   "titulo": "A tempestade no mar",
+   "descricao": "O navio é sacudido por ondas enormes; os marinheiros lançam a carga ao mar e clamam aos seus deuses, enquanto Jonas dorme no porão.",
+   "alt": "Marinheiros lutam contra uma tempestade num navio antigo enquanto um homem dorme no porão.",
+   "prompt": "An ancient Phoenician merchant ship tossed by huge dark waves in a violent storm, sailors throwing cargo jars overboard and praying with raised hands, cutaway glimpse of Jonah asleep in the hold below, lightning illuminating the scene, dramatic chiaroscuro"
+  },
+  {
+   "id": "q02",
+   "capitulo": 1,
+   "ref": "1:15-17",
+   "titulo": "Lançado ao mar",
+   "descricao": "Os marinheiros, relutantes, lançam Jonas às águas; o mar se acalma e um grande peixe se aproxima sob a superfície.",
+   "alt": "Jonas cai de um navio no mar que se acalma, e uma grande sombra de peixe surge sob as águas.",
+   "prompt": "Sailors reluctantly lowering Jonah over the side of an ancient ship into the sea, the storm breaking and waters calming, a huge dark shape of a great fish rising beneath the surface, sailors' faces full of fear and awe, silver light through parting clouds"
+  },
+  {
+   "id": "q03",
+   "capitulo": 2,
+   "ref": "2:1-7",
+   "titulo": "Oração no ventre do peixe",
+   "descricao": "Na escuridão do ventre do peixe, Jonas, envolto em algas, ora ao SENHOR; uma luz tênue indica que foi ouvido.",
+   "alt": "Jonas ajoelhado em oração na escuridão, com algas ao redor, iluminado por uma luz fraca.",
+   "prompt": "Jonah kneeling and praying in the dark interior of the great fish, seaweed wrapped around his head, ribbed shadows around him, a faint ray of heavenly light touching his face, deep blue-green tones, intimate composition"
+  },
+  {
+   "id": "q04",
+   "capitulo": 3,
+   "ref": "3:4-6",
+   "titulo": "Nínive se arrepende",
+   "descricao": "Jonas anuncia o juízo nas ruas da grande cidade; o rei de Nínive desce do trono, cobre-se de pano de saco e senta-se na cinza.",
+   "alt": "O rei assírio, vestido de pano de saco, senta-se na cinza enquanto o povo de Nínive jejua.",
+   "prompt": "The king of Nineveh in sackcloth sitting in ashes before his palace with Assyrian winged bull statues, his royal robe laid aside, crowds of Ninevites in sackcloth fasting, even cattle in the streets, Jonah standing in the background, muted dusty light"
+  },
+  {
+   "id": "q05",
+   "capitulo": 4,
+   "ref": "4:5-8",
+   "titulo": "A planta e o sol",
+   "descricao": "Fora da cidade, Jonas senta-se sob uma cabana; a planta que lhe dava sombra secou e ele, abatido, sofre com o vento quente.",
+   "alt": "Jonas abatido sob uma cabana simples ao lado de uma planta murcha, com Nínive ao longe.",
+   "prompt": "Jonah sitting dejected under a rough booth east of Nineveh, a large leafy plant withered and dried beside him, a small worm on the stem, scorching sun and hot desert wind, the great city walls of Nineveh in the distance, harsh bright light"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "navio-tarsis",
+   "termo": "O navio para Társis",
+   "ref": "1:3",
+   "explicado": false,
+   "significado": "Társis ficava no extremo oeste do Mediterrâneo, o lado oposto a Nínive. A viagem representa a tentativa de fugir da presença do SENHOR."
+  },
+  {
+   "id": "descer",
+   "termo": "Descer",
+   "ref": "1:3",
+   "explicado": false,
+   "significado": "O verbo 'descer' se repete: Jonas desce a Jope, ao navio, ao porão (1:5) e às profundezas (2:6). Muitos leitores veem aí a descida espiritual de quem foge de Deus."
+  },
+  {
+   "id": "sorte",
+   "termo": "As sortes",
+   "ref": "1:7",
+   "explicado": false,
+   "significado": "Os marinheiros lançam sortes para saber de quem é a culpa, e a sorte cai sobre Jonas. O texto mostra Deus agindo até por esse meio."
+  },
+  {
+   "id": "grande-peixe",
+   "termo": "O grande peixe",
+   "ref": "1:17",
+   "explicado": false,
+   "significado": "O texto diz apenas 'grande peixe', sem falar em baleia. Ele é tanto castigo quanto livramento. Jesus usa os três dias de Jonas no peixe como sinal de sua morte e ressurreição (Mt 12:40)."
+  },
+  {
+   "id": "pano-saco",
+   "termo": "Pano de saco e cinza",
+   "ref": "3:6",
+   "explicado": false,
+   "significado": "Sinais de luto e arrependimento no antigo Oriente. Em Nínive até os animais são cobertos (3:8)."
+  },
+  {
+   "id": "quarenta-dias",
+   "termo": "Quarenta dias",
+   "ref": "3:4",
+   "explicado": false,
+   "significado": "Prazo dado a Nínive. Na Bíblia, quarenta é um número ligado a provação e espera, como no dilúvio e no deserto."
+  },
+  {
+   "id": "planta",
+   "termo": "A planta e o verme",
+   "ref": "4:6-7",
+   "explicado": true,
+   "significado": "Deus explica a lição em 4:10-11: se Jonas teve pena de uma planta que não plantou, quanto mais Deus de uma cidade cheia de gente."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "raah",
+   "pt": "Maldade / mal",
+   "refs": [
+    "1:2",
+    "3:8",
+    "3:10",
+    "4:1"
+   ],
+   "hebraico": {
+    "lema": "רָעָה",
+    "translit": "ra'ah",
+    "strong": "H7451"
+   },
+   "grego": {
+    "lema": "κακία",
+    "translit": "kakía"
+   },
+   "sentido": "mal, maldade, desgraça",
+   "latim": {
+    "forma": "malitia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A mesma palavra descreve a maldade de Nínive, o mal (castigo) que Deus anunciara e o 'grande desgosto' de Jonas (4:1): um jogo que o leitor só percebe no hebraico.",
+   "interpretacao": false
+  },
+  {
+   "id": "dag-gadol",
+   "pt": "Grande peixe",
+   "refs": [
+    "1:17",
+    "2:10"
+   ],
+   "hebraico": {
+    "lema": "דָּג גָּדוֹל",
+    "translit": "dag gadol",
+    "strong": "H1709, H1419"
+   },
+   "grego": {
+    "lema": "κῆτος μέγα",
+    "translit": "kētos méga"
+   },
+   "sentido": "um peixe grande, sem especificar espécie",
+   "latim": {
+    "forma": "piscis grandis",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O hebraico não diz 'baleia'. A tradução 'baleia' vem do grego kētos, usado na Septuaginta e em Mateus 12:40, que significa 'monstro marinho'.",
+   "interpretacao": false
+  },
+  {
+   "id": "nacham",
+   "pt": "Arrepender-se",
+   "refs": [
+    "3:9",
+    "3:10",
+    "4:2"
+   ],
+   "hebraico": {
+    "lema": "נָחַם",
+    "translit": "nacham",
+    "strong": "H5162"
+   },
+   "grego": {
+    "lema": "μετανοέω",
+    "translit": "metanoéō",
+    "strong": "G3340"
+   },
+   "sentido": "mudar de ideia, compadecer-se",
+   "latim": {
+    "forma": "misertus est Deus super malitiam",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Quando Nínive se arrepende, Deus 'se arrepende' do castigo. O texto mostra que os avisos de Deus têm finalidade de salvar; como isso se concilia com a imutabilidade divina é discutido pelos teólogos.",
+   "interpretacao": true
+  },
+  {
+   "id": "qiqayon",
+   "pt": "Planta (aboboreira)",
+   "refs": [
+    "4:6"
+   ],
+   "hebraico": {
+    "lema": "קִיקָיוֹן",
+    "translit": "qiqayon",
+    "strong": "H7021"
+   },
+   "grego": {
+    "lema": "κολοκύνθη",
+    "translit": "kolokýnthē"
+   },
+   "sentido": "planta de crescimento rápido, talvez a mamoneira",
+   "latim": {
+    "forma": "hedera",
+    "nota": "Jerônimo usou hedera; versões latinas mais antigas tinham cucurbita (aboboreira)."
+   },
+   "outras": [],
+   "explicacao": "Não se sabe ao certo que planta era. Muitos pensam na mamoneira. A Vulgata de Jerônimo traduziu por 'hera', e isso causou polêmica: Agostinho conta que uma congregação no norte da África se agitou ao ouvir 'hera' em vez de 'aboboreira'.",
+   "interpretacao": false
+  },
+  {
+   "id": "chus",
+   "pt": "Ter compaixão",
+   "refs": [
+    "4:10",
+    "4:11"
+   ],
+   "hebraico": {
+    "lema": "חוּס",
+    "translit": "chus",
+    "strong": "H2347"
+   },
+   "sentido": "ter pena, poupar",
+   "latim": {
+    "forma": "et ego non parcam Nineve civitati magnae",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O livro termina com uma pergunta de Deus usando esse verbo: Jonas teve pena da planta; e Deus não teria pena de Nínive?",
+   "interpretacao": false
+  },
+  {
+   "id": "credo",
+   "pt": "Clemente e misericordioso",
+   "refs": [
+    "4:2"
+   ],
+   "hebraico": {
+    "lema": "חַנּוּן וְרַחוּם",
+    "translit": "channun verachum",
+    "strong": "H2587, H7349"
+   },
+   "sentido": "a confissão de fé sobre o caráter de Deus",
+   "latim": {
+    "forma": "clemens et misericors",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Jonas cita Êxodo 34:6 como reclamação: ele fugiu justamente porque sabia que Deus é bondoso e poderia perdoar Nínive.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "josefo-jonas",
+   "titulo": "Josefo reconta a história de Jonas",
+   "refs": [
+    "1:1",
+    "3:4"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 9, cap. 10, §2",
+   "data_fonte": "c. 93–94 d.C.",
+   "data_evento": "séc. VIII a.C. (época de Jeroboão II)",
+   "resumo": "Josefo resume a fuga de Jonas, o peixe e a pregação em Nínive, situando o profeta no tempo de Jeroboão II.",
+   "relacao": "Mostra como a tradição judaica do século I lia o livro como história ligada a 2 Reis 14:25. Josefo depende do próprio texto bíblico.",
+   "grau": "associacao"
+  },
+  {
+   "id": "ninive-muralhas",
+   "titulo": "As muralhas de Nínive",
+   "refs": [
+    "3:3",
+    "4:11"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Ruínas de Nínive (Kuyunjik e Nebi Yunus, Mossul, Iraque)",
+   "referencia": "Escavações de A. H. Layard e outros desde a década de 1840",
+   "data_fonte": "muralhas do tempo de Senaqueribe, c. 700 a.C.",
+   "data_evento": "séc. VIII–VII a.C.",
+   "resumo": "As muralhas de Nínive tinham cerca de 12 km de perímetro, e a cidade foi capital da Assíria sob Senaqueribe e seus sucessores. Um dos montes de ruínas guarda o nome Nebi Yunus, 'profeta Jonas'.",
+   "relacao": "Confirma que Nínive era uma 'grande cidade'. A expressão 'três dias de caminho' (3:3) é discutida: pode incluir a região ao redor ou o tempo de visitar a cidade.",
+   "grau": "associacao"
+  },
+  {
+   "id": "diodoro-ninive",
+   "titulo": "Diodoro descreve o tamanho de Nínive",
+   "refs": [
+    "3:3"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Diodoro Sículo, Biblioteca Histórica",
+   "referencia": "livro 2, cap. 3",
+   "data_fonte": "c. 60–30 a.C.",
+   "data_evento": "tradição sobre a fundação de Nínive",
+   "resumo": "Diodoro, usando fontes gregas, descreve Nínive como uma cidade imensa, de muralhas muito extensas.",
+   "relacao": "Mostra que a fama do tamanho de Nínive persistiu na memória antiga; seus números são exagerados e dependem de tradições lendárias.",
+   "grau": "associacao"
+  },
+  {
+   "id": "jope-papiro",
+   "titulo": "Jope em textos egípcios",
+   "refs": [
+    "1:3"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "A Tomada de Jope (Papiro Harris 500)",
+   "referencia": "Museu Britânico",
+   "data_fonte": "c. séc. XIII a.C.",
+   "data_evento": "época de Tutmés III (séc. XV a.C.)",
+   "resumo": "Conto egípcio sobre a conquista do porto de Jope por um general de Tutmés III. Jope também aparece nas cartas de Amarna.",
+   "relacao": "Atesta Jope como porto antigo e importante na costa, o lugar onde Jonas embarcou.",
+   "grau": "associacao"
+  }
+ ]
+}

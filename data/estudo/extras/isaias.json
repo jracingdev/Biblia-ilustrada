@@ -1,0 +1,1120 @@
+{
+ "livro": "isaias",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:7-8",
+   "titulo": "Como uma cabana na vinha",
+   "descricao": "Isaías vê a terra devastada e Jerusalém isolada, como uma cabana de vigia deixada numa vinha.",
+   "alt": "Pequena cabana de ramos numa vinha abandonada, com cidades queimando ao longe e Jerusalém sozinha num monte.",
+   "prompt": "A small lonely watchman's hut of branches stands in a neglected vineyard on a hillside; in the far distance smoke rises from burned villages while a walled city stands isolated on its hill; overcast sky, melancholy light"
+  },
+  {
+   "id": "q02",
+   "capitulo": 2,
+   "ref": "2:2-4",
+   "titulo": "Espadas em enxadas",
+   "descricao": "Nos últimos dias, as nações sobem ao monte do SENHOR para aprender seus caminhos e transformam espadas em enxadas.",
+   "alt": "Pessoas de muitos povos subindo um monte com um templo no topo, e um ferreiro batendo uma espada para fazer uma enxada.",
+   "prompt": "Crowds of people from many nations in varied ancient dress stream up the slopes of a high mountain crowned by a radiant temple; in the foreground a blacksmith at an anvil hammers a sword into a ploughshare while a soldier hands over his spear; luminous hopeful dawn"
+  },
+  {
+   "id": "q03",
+   "capitulo": 5,
+   "ref": "5:1-2",
+   "titulo": "O cântico da vinha",
+   "descricao": "O amado plantou uma vinha num morro fértil, tirou as pedras, construiu uma torre e um lagar, mas ela deu uvas imprestáveis.",
+   "alt": "Vinhateiro examinando com tristeza cachos de uvas pequenas e azedas numa vinha bem cuidada com torre de pedra.",
+   "prompt": "A vintner stands in a carefully terraced vineyard on a fertile hill with a stone watchtower and a rock-cut winepress, holding a cluster of small sour wild grapes with a sorrowful face; late summer light"
+  },
+  {
+   "id": "q04",
+   "capitulo": 6,
+   "ref": "6:1-4",
+   "titulo": "Santo, santo, santo",
+   "descricao": "No ano da morte do rei Uzias, Isaías vê o Senhor num trono alto, com as bordas do manto enchendo o templo, e serafins clamando.",
+   "alt": "Interior do templo cheio de fumaça e luz intensa, com serafins de seis asas acima e o profeta prostrado.",
+   "prompt": "Inside the temple filled with billowing smoke, an overwhelming radiance of golden-white light above a lofty throne, with no human figure visible, its train of light filling the hall; six-winged seraphim hover above, covering faces and feet with wings; the doorposts tremble; a young prophet falls to his knees in awe"
+  },
+  {
+   "id": "q05",
+   "capitulo": 6,
+   "ref": "6:6-8",
+   "titulo": "\"Eis-me aqui, envia-me\"",
+   "descricao": "Um serafim toca os lábios de Isaías com uma brasa do altar; purificado, ele responde ao chamado de Deus.",
+   "alt": "Serafim tocando os lábios do profeta com uma brasa segura por uma tenaz.",
+   "prompt": "A dignified six-winged seraph descends holding a glowing coal with golden tongs from the altar and touches the lips of a kneeling young prophet in linen robes, his face lifted with trembling courage; smoke and warm altar light"
+  },
+  {
+   "id": "q06",
+   "capitulo": 7,
+   "ref": "7:3-4",
+   "titulo": "Isaías encontra o rei Acaz",
+   "descricao": "Isaías e seu filho Sear-Jasube vão ao encontro de Acaz junto ao aqueduto do tanque superior para dizer: \"Não temas\".",
+   "alt": "Profeta e menino falando com um rei preocupado junto a um canal de água fora dos muros de Jerusalém.",
+   "prompt": "Outside the walls of Jerusalem beside a stone aqueduct of the upper pool, the prophet with his young son approaches the anxious king Ahaz and his officials inspecting the water supply; washermen's field nearby; the prophet raises a calming hand; clear morning light"
+  },
+  {
+   "id": "q07",
+   "capitulo": 9,
+   "ref": "9:2",
+   "titulo": "Uma grande luz",
+   "descricao": "O povo que andava em trevas viu uma grande luz; sobre os que moravam na terra da sombra da morte, a luz brilhou.",
+   "alt": "Multidão de pessoas numa paisagem escura erguendo o rosto para uma luz que irrompe no céu.",
+   "prompt": "Weary people in a dark valley of Galilee lift their faces as a great light breaks through heavy clouds and floods the hills with gold; some shield their eyes, a mother lifts her child; dramatic contrast of shadow and radiance"
+  },
+  {
+   "id": "q08",
+   "capitulo": 11,
+   "ref": "11:1-2",
+   "titulo": "Um rebento do tronco de Jessé",
+   "descricao": "Do tronco cortado de Jessé brota uma vara, e sobre ela repousa o Espírito do SENHOR.",
+   "alt": "Tronco de árvore cortado com um ramo verde nascendo, envolto numa suave luz do alto.",
+   "prompt": "An old cut tree stump on a hillside near Bethlehem with a single fresh green shoot rising strong from its roots, bathed in a gentle beam of light and a faint dove-like glow descending; quiet pastoral landscape at dawn"
+  },
+  {
+   "id": "q09",
+   "capitulo": 11,
+   "ref": "11:6-9",
+   "titulo": "O lobo e o cordeiro",
+   "descricao": "O lobo mora com o cordeiro, o leopardo deita com o cabrito, e uma criança os guia: ninguém fará mal no santo monte.",
+   "alt": "Lobo, cordeiro, leopardo, cabrito, leão e bezerro descansando juntos, guiados por uma criança.",
+   "prompt": "A peaceful meadow on a holy mountain: a wolf lies beside a lamb, a leopard rests with a young goat, a lion eats straw beside an ox, a calf and a bear cub together, while a small child leads them and an infant plays safely near a snake's hole; soft golden paradise light"
+  },
+  {
+   "id": "q10",
+   "capitulo": 13,
+   "ref": "13:19-22",
+   "titulo": "Babilônia desolada",
+   "descricao": "A orgulhosa Babilônia será como Sodoma e Gomorra: chacais e corujas habitarão seus palácios.",
+   "alt": "Ruínas de palácios babilônicos com tijolos esmaltados quebrados, corujas e chacais entre as colunas.",
+   "prompt": "The ruins of a great Babylonian palace with broken glazed-brick walls and fallen columns in a desert landscape at twilight; owls perched on the ruins, jackals moving among the rubble, wild goats on a mound; no people, silent desolation"
+  },
+  {
+   "id": "q11",
+   "capitulo": 18,
+   "ref": "18:1-2",
+   "titulo": "Mensageiros em barcos de junco",
+   "descricao": "Da terra além dos rios de Cuxe, embaixadores são enviados pelas águas em barcos de papiro.",
+   "alt": "Barcos de papiro com mensageiros altos navegando por um grande rio africano.",
+   "prompt": "Tall slender envoys from Cush in white linen sail swift boats of bound papyrus reeds down a broad river lined with palms; insects buzz over the water; bright tropical light"
+  },
+  {
+   "id": "q12",
+   "capitulo": 21,
+   "ref": "21:6-9",
+   "titulo": "A sentinela: \"Caiu Babilônia!\"",
+   "descricao": "A sentinela vigia dia e noite na torre até ver os cavaleiros chegarem com a notícia: \"Caiu, caiu Babilônia\".",
+   "alt": "Vigia no alto de uma torre ao amanhecer, gritando e apontando para cavaleiros que se aproximam.",
+   "prompt": "A watchman on a high stone watchtower at dawn cries out and points toward a chariot and pairs of horsemen approaching across the plain; in the far distance broken idols lie on the ground; dramatic sky"
+  },
+  {
+   "id": "q13",
+   "capitulo": 22,
+   "ref": "22:15-16",
+   "titulo": "Sebna cava seu túmulo",
+   "descricao": "Isaías vai repreender Sebna, mordomo do palácio, que mandava talhar para si um túmulo luxuoso na rocha.",
+   "alt": "Oficial rico supervisionando operários que talham um túmulo na encosta rochosa, enquanto o profeta se aproxima.",
+   "prompt": "A richly dressed royal steward supervises stonecutters carving an elaborate tomb into a high rock cliff outside Jerusalem; the prophet approaches along the path with a stern face; afternoon light on limestone"
+  },
+  {
+   "id": "q14",
+   "capitulo": 25,
+   "ref": "25:6-8",
+   "titulo": "O banquete no monte",
+   "descricao": "No monte, o SENHOR prepara um banquete para todos os povos, destrói a morte e enxuga as lágrimas de todos os rostos.",
+   "alt": "Grande mesa festiva no alto de um monte com pessoas de muitas nações, sob uma luz gloriosa.",
+   "prompt": "On a mountaintop a vast festive table stretches into the distance laden with fine food and wine, people of every nation seated together in joy, a veil being lifted away like mist from their faces, tears wiped away; overwhelming warm golden light from above with no human figure"
+  },
+  {
+   "id": "q15",
+   "capitulo": 28,
+   "ref": "28:16",
+   "titulo": "A pedra angular em Sião",
+   "descricao": "Deus diz que põe em Sião uma pedra provada, preciosa, de esquina, firmemente fundada.",
+   "alt": "Pedreiros assentando uma grande pedra de esquina na fundação de um edifício em Jerusalém.",
+   "prompt": "Ancient masons in work tunics lower a massive tested cornerstone of pale limestone into place at the foundation of a building in Jerusalem, a master builder checking it with a plumb line; strong side light"
+  },
+  {
+   "id": "q16",
+   "capitulo": 35,
+   "ref": "35:1-6",
+   "titulo": "O deserto floresce",
+   "descricao": "O deserto se alegra e floresce; os cegos veem, os surdos ouvem, e o coxo salta como cervo.",
+   "alt": "Deserto coberto de flores e fontes, com um homem antes coxo saltando de alegria e um cego vendo pela primeira vez.",
+   "prompt": "A desert valley suddenly blooming with crocuses and wildflowers, springs bubbling from the sand, a once-lame man leaping like a deer, a blind man opening his eyes in wonder, a deaf woman listening joyfully; radiant morning light"
+  },
+  {
+   "id": "q17",
+   "capitulo": 36,
+   "ref": "36:11-13",
+   "titulo": "O Rabsaqué diante dos muros",
+   "descricao": "O oficial assírio grita em hebraico diante dos muros de Jerusalém, para assustar o povo que está sobre o muro.",
+   "alt": "Oficial assírio com barba trançada e escolta, gritando para os homens sobre a muralha de Jerusalém.",
+   "prompt": "Outside the walls of Jerusalem an Assyrian officer with braided beard and conical helmet, escorted by soldiers, shouts up toward the city; on the wall Judean officials gesture anxiously and ordinary people listen in fear; tense midday light"
+  },
+  {
+   "id": "q18",
+   "capitulo": 37,
+   "ref": "37:14-16",
+   "titulo": "Ezequias estende as cartas diante do SENHOR",
+   "descricao": "O rei Ezequias recebe a carta ameaçadora, sobe ao templo e a estende diante do SENHOR em oração.",
+   "alt": "Rei ajoelhado no templo, com uma carta aberta estendida diante de si, orando.",
+   "prompt": "King Hezekiah in royal robes kneels in the temple court, spreading out an opened letter before him on the floor, hands raised in prayer toward the sanctuary veil glowing with soft light; humble and intense"
+  },
+  {
+   "id": "q19",
+   "capitulo": 37,
+   "ref": "37:36-37",
+   "titulo": "O acampamento assírio silencioso",
+   "descricao": "De manhã, o acampamento assírio diante de Jerusalém está em silêncio, e Senaqueribe volta para Nínive.",
+   "alt": "Acampamento militar silencioso ao amanhecer, com tendas e estandartes imóveis, visto de longe.",
+   "prompt": "Seen from a distant hill at dawn, a vast Assyrian army camp lies utterly silent and still, tents and standards motionless in grey mist, no visible bodies; a single chariot departs eastward on the road; restrained solemn mood"
+  },
+  {
+   "id": "q20",
+   "capitulo": 38,
+   "ref": "38:7-8",
+   "titulo": "A sombra volta nos degraus",
+   "descricao": "Como sinal da cura de Ezequias, a sombra volta dez degraus na escadaria de Acaz.",
+   "alt": "Escadaria de pedra ao sol, com a sombra recuando, observada pelo rei doente e pelo profeta.",
+   "prompt": "A stone stairway in a palace courtyard where the shadow cast by the sun visibly retreats ten steps; the recovering king, wrapped in a blanket, and the prophet watch in amazement; warm afternoon light"
+  },
+  {
+   "id": "q21",
+   "capitulo": 39,
+   "ref": "39:1-4",
+   "titulo": "Os enviados da Babilônia",
+   "descricao": "Ezequias mostra aos mensageiros de Merodaque-Baladã todos os seus tesouros, e Isaías anuncia o futuro exílio.",
+   "alt": "Rei mostrando ouro, prata e armas a enviados estrangeiros, enquanto o profeta observa da porta.",
+   "prompt": "King Hezekiah proudly shows Babylonian envoys in fringed robes his treasury of gold, silver, spices, fine oils and armour by lamplight; in the doorway the prophet watches with a grave expression; rich warm interior"
+  },
+  {
+   "id": "q22",
+   "capitulo": 40,
+   "ref": "40:3-5",
+   "titulo": "Uma voz no deserto",
+   "descricao": "Uma voz clama: preparai no deserto o caminho do SENHOR; todo vale será levantado e todo monte abaixado.",
+   "alt": "Estrada reta sendo aberta no deserto, com vales aterrados, e um homem clamando ao longe.",
+   "prompt": "A straight highway being made through the Judean wilderness, valleys filled and hills levelled, a lone voice-crier in a rough cloak calling out from a rock; a glow of glory on the eastern horizon; vast desert light"
+  },
+  {
+   "id": "q23",
+   "capitulo": 40,
+   "ref": "40:11",
+   "titulo": "O pastor e os cordeiros",
+   "descricao": "Como pastor, o SENHOR apascenta o rebanho, recolhe os cordeirinhos nos braços e guia as ovelhas que amamentam.",
+   "alt": "Pastor carregando um cordeiro no colo e guiando ovelhas com filhotes num campo.",
+   "prompt": "A gentle shepherd in a wool cloak carries a newborn lamb against his chest and leads ewes with their young across green hills at sunset; protective and tender"
+  },
+  {
+   "id": "q24",
+   "capitulo": 40,
+   "ref": "40:31",
+   "titulo": "Asas como águias",
+   "descricao": "Os que confiam no SENHOR renovam as forças, sobem com asas como águias, correm e não se cansam.",
+   "alt": "Águia subindo alto sobre montanhas e um viajante cansado erguendo o rosto com nova força.",
+   "prompt": "A great eagle soars high on rising currents over rugged mountains, while on a path below a weary traveller lifts his head and straightens with renewed strength; expansive bright sky"
+  },
+  {
+   "id": "q25",
+   "capitulo": 44,
+   "ref": "44:13-17",
+   "titulo": "O carpinteiro e o ídolo",
+   "descricao": "O artesão usa metade da madeira para se aquecer e assar pão, e da outra metade faz um deus e se prostra diante dele.",
+   "alt": "Carpinteiro esculpindo um ídolo de madeira, enquanto metade da lenha queima no fogo onde assa pão.",
+   "prompt": "In a workshop a carpenter carves a human-shaped idol from a log with chisels and compass, while the other half of the same wood burns in a hearth where bread is baking; an ironic, thoughtful scene; firelight"
+  },
+  {
+   "id": "q26",
+   "capitulo": 45,
+   "ref": "45:1-2",
+   "titulo": "Ciro e as portas de bronze",
+   "descricao": "O SENHOR chama Ciro, seu ungido, e promete abrir diante dele as portas e quebrar portas de bronze.",
+   "alt": "Rei persa a cavalo diante de enormes portas de bronze que se abrem.",
+   "prompt": "A Persian king in tall headdress and royal robes rides at the head of his army toward massive bronze city gates that swing open before him, iron bars broken on the ground; no fighting; dramatic golden light"
+  },
+  {
+   "id": "q27",
+   "capitulo": 46,
+   "ref": "46:1-2",
+   "titulo": "Bel e Nebo carregados",
+   "descricao": "Os ídolos da Babilônia, Bel e Nebo, são postos sobre animais cansados e levados embora.",
+   "alt": "Estátuas de deuses babilônicos amarradas em carros puxados por animais exaustos.",
+   "prompt": "Large gilded statues of Babylonian gods tied onto carts and the backs of exhausted oxen and donkeys, being hauled out of a city gate, the animals straining; dusty road, ironic tone"
+  },
+  {
+   "id": "q28",
+   "capitulo": 47,
+   "ref": "47:1-2",
+   "titulo": "A filha da Babilônia no pó",
+   "descricao": "A orgulhosa Babilônia, chamada \"virgem filha\", desce do trono, senta no pó e mói farinha como serva.",
+   "alt": "Mulher em trajes reais gastos sentada no chão, girando uma mó de pedra, com um trono vazio ao fundo.",
+   "prompt": "A once-proud queenly woman, personifying Babylon, sits on the dusty ground in faded royal garments, modestly dressed, turning a heavy stone hand-mill to grind flour; an empty throne lies toppled behind her; grey somber light"
+  },
+  {
+   "id": "q29",
+   "capitulo": 52,
+   "ref": "52:7",
+   "titulo": "Os pés do mensageiro sobre os montes",
+   "descricao": "Como são belos sobre os montes os pés de quem anuncia a paz e diz a Sião: \"Teu Deus reina!\"",
+   "alt": "Mensageiro correndo sobre os montes em direção a Jerusalém, com vigias nos muros erguendo os braços.",
+   "prompt": "A messenger runs barefoot across the mountain ridges toward Jerusalem at sunrise, his arms raised with good news; watchmen on the city walls lift their voices and arms in joy; bright hopeful light"
+  },
+  {
+   "id": "q30",
+   "capitulo": 53,
+   "ref": "53:3-7",
+   "titulo": "Como cordeiro levado ao matadouro",
+   "descricao": "O Servo, desprezado e homem de dores, é oprimido e não abre a boca, como cordeiro levado ao matadouro.",
+   "alt": "Homem humilde e sofrido, de cabeça baixa e em silêncio, caminhando entre pessoas que desviam o rosto, com um cordeiro ao lado.",
+   "prompt": "A humble suffering man in a plain garment walks silently with bowed head through a crowd that turns its faces away; beside him a lamb walks quietly; no blood or wounds shown, only sorrow and dignity; muted grey light with a faint glow around him"
+  },
+  {
+   "id": "q31",
+   "capitulo": 55,
+   "ref": "55:1",
+   "titulo": "Vinde às águas",
+   "descricao": "Todos os que têm sede são convidados a vir às águas e a receber, sem dinheiro, vinho e leite.",
+   "alt": "Fonte numa praça onde pessoas pobres bebem e recebem pão, vinho e leite de graça.",
+   "prompt": "In a village square a gushing spring fills a stone basin where poor people, children and travellers drink freely, while jars of wine and milk and loaves of bread are handed out without payment; joyful warm light"
+  },
+  {
+   "id": "q32",
+   "capitulo": 60,
+   "ref": "60:1-6",
+   "titulo": "Levanta-te, resplandece",
+   "descricao": "A glória do SENHOR brilha sobre Jerusalém; nações vêm à sua luz, e caravanas de camelos trazem ouro e incenso.",
+   "alt": "Jerusalém iluminada por uma luz gloriosa, com caravanas de camelos chegando carregadas de presentes.",
+   "prompt": "Jerusalem shining on its hill under a radiant glory of light breaking through darkness; caravans of camels and dromedaries from Midian and Sheba approach bearing gold and frankincense, people from afar streaming toward the city; sons and daughters returning; magnificent sunrise"
+  },
+  {
+   "id": "q33",
+   "capitulo": 61,
+   "ref": "61:1-3",
+   "titulo": "Coroa em lugar de cinza",
+   "descricao": "O ungido anuncia boas novas aos mansos, liberdade aos cativos, e dá aos tristes coroa em vez de cinza.",
+   "alt": "Homem ungido libertando prisioneiros e colocando uma coroa de flores na cabeça de uma mulher em luto.",
+   "prompt": "An anointed messenger in simple robes opens the gate of a prison as captives step into the light; nearby he gently places a festive garland on the head of a mourning woman, brushing away ashes from her hair; oaks standing tall behind; hopeful golden light"
+  },
+  {
+   "id": "q34",
+   "capitulo": 64,
+   "ref": "64:8",
+   "titulo": "O oleiro e o barro",
+   "descricao": "\"Tu és nosso Pai; nós somos o barro, e tu és nosso oleiro.\"",
+   "alt": "Mãos de oleiro moldando um vaso de barro na roda.",
+   "prompt": "Close view of a potter's skilled hands shaping a clay vessel on a turning wheel in a simple workshop, shelves of finished pots behind, warm light from a doorway falling on the wet clay"
+  },
+  {
+   "id": "q35",
+   "capitulo": 65,
+   "ref": "65:17-25",
+   "titulo": "Novos céus e nova terra",
+   "descricao": "Deus cria novos céus e nova terra: as pessoas edificam casas e moram nelas, plantam vinhas e comem do fruto, e o lobo pasta com o cordeiro.",
+   "alt": "Aldeia pacífica com casas novas, vinhas, idosos e crianças, e um lobo e um cordeiro pastando juntos.",
+   "prompt": "A renewed land of peace under a luminous sky: villagers build homes and live in them, families harvest vineyards, elderly people sit content while children play, a wolf and a lamb graze together and a lion eats straw beside an ox; radiant clear light"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "cabana",
+   "termo": "Cabana na vinha",
+   "ref": "1:8",
+   "explicado": true,
+   "significado": "Jerusalém ficou como cabana de vigia numa vinha, isolada no meio da devastação. O próprio versículo explica: é a cidade cercada."
+  },
+  {
+   "id": "escarlate-neve",
+   "termo": "Escarlate e neve",
+   "ref": "1:18",
+   "explicado": false,
+   "significado": "Pecados vermelhos como escarlate ficarão brancos como a neve. A cor do tecido tingido representa a culpa marcada; a neve, a purificação dada por Deus."
+  },
+  {
+   "id": "espadas-enxadas",
+   "termo": "Espadas em enxadas",
+   "ref": "2:4",
+   "explicado": false,
+   "significado": "Armas transformadas em ferramentas de agricultura representam paz duradoura. Joel 3:10 usa a imagem ao contrário."
+  },
+  {
+   "id": "vinha",
+   "termo": "A vinha do SENHOR",
+   "ref": "5:1",
+   "explicado": true,
+   "significado": "O cântico da vinha é explicado no próprio texto: a vinha é a casa de Israel e os homens de Judá são as plantas (5:7)."
+  },
+  {
+   "id": "serafins",
+   "termo": "Serafins",
+   "ref": "6:2",
+   "explicado": false,
+   "significado": "Seres celestes de seis asas que clamam \"Santo, santo, santo\". O nome lembra \"ardentes\". Cobrem o rosto e os pés em reverência."
+  },
+  {
+   "id": "brasa",
+   "termo": "A brasa do altar",
+   "ref": "6:6",
+   "explicado": true,
+   "significado": "A brasa toca os lábios de Isaías, e o serafim explica: a culpa foi afastada e o pecado purificado (6:7)."
+  },
+  {
+   "id": "toco",
+   "termo": "O toco e a semente santa",
+   "ref": "6:13",
+   "explicado": true,
+   "significado": "Mesmo depois do corte, fica o toco da árvore; o texto diz que a semente santa será esse toco: um remanescente fiel."
+  },
+  {
+   "id": "ticoes",
+   "termo": "Dois tições fumegantes",
+   "ref": "7:4",
+   "explicado": false,
+   "significado": "Os reis de Síria e Israel, que ameaçavam Judá, são chamados de pontas de lenha fumegantes: muita fumaça e pouco fogo."
+  },
+  {
+   "id": "emanuel",
+   "termo": "O sinal de Emanuel",
+   "ref": "7:14",
+   "explicado": false,
+   "significado": "O nome significa \"Deus conosco\" (8:8 e 8:10). No contexto, é sinal para Acaz; o Evangelho de Mateus o aplica ao nascimento de Jesus. Judeus e cristãos leem o alcance do sinal de modos diferentes."
+  },
+  {
+   "id": "luz",
+   "termo": "A grande luz",
+   "ref": "9:2",
+   "explicado": false,
+   "significado": "A luz que brilha sobre o povo em trevas anuncia libertação e o nascimento de um menino rei (9:6). O Evangelho de Mateus liga o texto ao início do ministério de Jesus na Galileia."
+  },
+  {
+   "id": "rebento",
+   "termo": "O rebento de Jessé",
+   "ref": "11:1",
+   "explicado": false,
+   "significado": "Jessé era pai de Davi. Do tronco cortado da dinastia sai um ramo novo, cheio do Espírito: a esperança de um rei justo. Os cristãos veem aqui o Messias, Jesus."
+  },
+  {
+   "id": "estandarte",
+   "termo": "Estandarte para os povos",
+   "ref": "11:10",
+   "explicado": false,
+   "significado": "A raiz de Jessé será erguida como bandeira, sinal que reúne as nações. Em outros trechos o estandarte chama o povo de volta do exílio (11:12)."
+  },
+  {
+   "id": "animais-paz",
+   "termo": "O lobo e o cordeiro",
+   "ref": "11:6",
+   "explicado": false,
+   "significado": "Animais inimigos vivendo em paz descrevem um mundo restaurado. Alguns leem de modo literal, outros como imagem de paz entre os povos; o texto liga a paz ao conhecimento do SENHOR (11:9)."
+  },
+  {
+   "id": "estrela-manha",
+   "termo": "Estrela da manhã",
+   "ref": "14:12",
+   "explicado": false,
+   "significado": "A queda do \"luminoso, filho do amanhecer\" é dita sobre o rei da Babilônia (14:4). Muitos cristãos antigos aplicaram o trecho à queda de Satanás; isso é interpretação posterior."
+  },
+  {
+   "id": "leviata",
+   "termo": "Leviatã",
+   "ref": "27:1",
+   "explicado": false,
+   "significado": "A serpente tortuosa e o dragão do mar representam as forças do caos e os poderes inimigos que Deus vencerá."
+  },
+  {
+   "id": "pedra",
+   "termo": "Pedra angular",
+   "ref": "28:16",
+   "explicado": false,
+   "significado": "Deus põe em Sião uma pedra firme e provada: quem crê não precisa fugir. O Novo Testamento aplica a imagem a Cristo (1 Pedro 2)."
+  },
+  {
+   "id": "deserto-flor",
+   "termo": "O deserto que floresce",
+   "ref": "35:1",
+   "explicado": false,
+   "significado": "A terra seca que floresce mostra a restauração trazida por Deus, junto com a cura de cegos, surdos e coxos (35:5-6)."
+  },
+  {
+   "id": "caminho-deserto",
+   "termo": "O caminho no deserto",
+   "ref": "40:3",
+   "explicado": false,
+   "significado": "Preparar estrada para o SENHOR no deserto lembra o êxodo e anuncia a volta do exílio. Os quatro Evangelhos aplicam o texto a João Batista."
+  },
+  {
+   "id": "erva",
+   "termo": "A erva que seca",
+   "ref": "40:8",
+   "explicado": true,
+   "significado": "A erva seca e a flor cai, mas a palavra de Deus permanece. O texto explica que o povo é como a erva (40:7)."
+  },
+  {
+   "id": "pastor",
+   "termo": "O pastor",
+   "ref": "40:11",
+   "explicado": false,
+   "significado": "Deus é apresentado como pastor que carrega os cordeiros nos braços, imagem de cuidado com os mais frágeis."
+  },
+  {
+   "id": "aguia",
+   "termo": "Asas como águias",
+   "ref": "40:31",
+   "explicado": false,
+   "significado": "Os que esperam no SENHOR sobem como águias. A imagem fala de força renovada vinda de Deus."
+  },
+  {
+   "id": "cana-pavio",
+   "termo": "Cana rachada e pavio",
+   "ref": "42:3",
+   "explicado": false,
+   "significado": "O Servo não quebra a cana rachada nem apaga o pavio que fumega: não esmaga os fracos. O Evangelho de Mateus aplica o trecho a Jesus."
+  },
+  {
+   "id": "calice",
+   "termo": "O cálice do furor",
+   "ref": "51:17",
+   "explicado": false,
+   "significado": "Jerusalém bebeu o cálice da ira de Deus: imagem do juízo sofrido. Depois Deus promete tirar o cálice de sua mão (51:22)."
+  },
+  {
+   "id": "cordeiro",
+   "termo": "O cordeiro mudo",
+   "ref": "53:7",
+   "explicado": false,
+   "significado": "O Servo sofre calado como cordeiro levado ao matadouro. Em Atos 8 Filipe explica o texto a partir de Jesus; leituras judaicas costumam ver no Servo o povo de Israel ou um justo sofredor."
+  },
+  {
+   "id": "oleiro",
+   "termo": "O oleiro e o barro",
+   "ref": "64:8",
+   "explicado": false,
+   "significado": "Deus é o oleiro e o povo é o barro: dependência total do Criador, que pode formar de novo o que está estragado. A imagem aparece também em 29:16 e 45:9."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "qadosh",
+   "pt": "Santo",
+   "refs": [
+    "1:4",
+    "6:3"
+   ],
+   "hebraico": {
+    "lema": "קָדוֹשׁ",
+    "translit": "qadosh",
+    "strong": "H6918"
+   },
+   "grego": {
+    "lema": "ἅγιος",
+    "translit": "hágios",
+    "strong": "G40"
+   },
+   "sentido": "separado, santo, totalmente outro",
+   "latim": {
+    "forma": "Sanctus, Sanctus, Sanctus Dominus Deus exercituum",
+    "nota": "O canto \"Sanctus\" da liturgia cristã vem deste versículo."
+   },
+   "outras": [],
+   "explicacao": "\"O Santo de Israel\" é o título preferido de Isaías para Deus, usado cerca de 25 vezes no livro. A repetição tripla em 6:3 é forma hebraica de dizer \"santíssimo\".",
+   "interpretacao": false
+  },
+  {
+   "id": "saraph",
+   "pt": "serafins",
+   "refs": [
+    "6:2",
+    "6:6"
+   ],
+   "hebraico": {
+    "lema": "שְׂרָפִים",
+    "translit": "serafim",
+    "strong": "H8314"
+   },
+   "sentido": "os ardentes",
+   "latim": {
+    "forma": "Seraphin",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A raiz significa \"queimar\". A mesma palavra designa as serpentes \"abrasadoras\" do deserto (Nm 21:6). Em Isaías são seres celestes de seis asas.",
+   "interpretacao": false
+  },
+  {
+   "id": "kavod",
+   "pt": "glória",
+   "refs": [
+    "6:3",
+    "40:5",
+    "60:1"
+   ],
+   "hebraico": {
+    "lema": "כָּבוֹד",
+    "translit": "kavod",
+    "strong": "H3519"
+   },
+   "grego": {
+    "lema": "δόξα",
+    "translit": "dóxa",
+    "strong": "G1391"
+   },
+   "sentido": "peso, importância, esplendor",
+   "latim": {
+    "forma": "plena est omnis terra gloria eius",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Kavod vem de \"ser pesado\": a glória é o peso, a realidade de Deus que se manifesta. Toda a terra está cheia dela (6:3).",
+   "interpretacao": false
+  },
+  {
+   "id": "almah",
+   "pt": "virgem, jovem",
+   "refs": [
+    "7:14"
+   ],
+   "hebraico": {
+    "lema": "עַלְמָה",
+    "translit": "'almah",
+    "strong": "H5959"
+   },
+   "grego": {
+    "lema": "παρθένος",
+    "translit": "parthénos",
+    "strong": "G3933"
+   },
+   "sentido": "moça jovem em idade de casar",
+   "latim": {
+    "forma": "ecce virgo concipiet",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A palavra indica uma jovem solteira; o hebraico tem outra palavra mais técnica para virgem (betulah). A Septuaginta traduziu por parthenos, \"virgem\", e Mateus 1:23 cita esse texto grego. O debate sobre a tradução é antigo.",
+   "interpretacao": true
+  },
+  {
+   "id": "immanuel",
+   "pt": "Emanuel",
+   "refs": [
+    "7:14",
+    "8:8"
+   ],
+   "hebraico": {
+    "lema": "עִמָּנוּ אֵל",
+    "translit": "'immanu el",
+    "strong": "H6005"
+   },
+   "grego": {
+    "lema": "Ἐμμανουήλ",
+    "translit": "Emmanouḗl",
+    "strong": "G1694"
+   },
+   "sentido": "Deus conosco",
+   "latim": {
+    "forma": "Emmanuhel",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Nome-sinal dado num momento de ameaça: Deus está com seu povo. Mateus 1:23 traduz o nome e o aplica a Jesus.",
+   "interpretacao": false
+  },
+  {
+   "id": "shear",
+   "pt": "remanescente",
+   "refs": [
+    "7:3",
+    "10:21",
+    "10:22"
+   ],
+   "hebraico": {
+    "lema": "שְׁאָר",
+    "translit": "she'ar",
+    "strong": "H7605"
+   },
+   "sentido": "resto, o que sobra",
+   "latim": {
+    "forma": "reliquiae convertentur",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O filho de Isaías se chama Sear-Jasube, \"um resto voltará\". O tema é central: depois do juízo, um remanescente fiel volta a Deus.",
+   "interpretacao": false
+  },
+  {
+   "id": "aman",
+   "pt": "crer, ficar firme",
+   "refs": [
+    "7:9",
+    "28:16"
+   ],
+   "hebraico": {
+    "lema": "אָמַן",
+    "translit": "'aman",
+    "strong": "H539"
+   },
+   "sentido": "ser firme, confiar",
+   "latim": {
+    "forma": "si non credideritis, non permanebitis",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Em 7:9 há um jogo de palavras com a mesma raiz: \"se não crerdes (ta'aminu), não ficareis firmes (te'amenu)\". Da mesma raiz vem \"amém\".",
+   "interpretacao": false
+  },
+  {
+   "id": "mishpat-tsedaqah",
+   "pt": "juízo e justiça",
+   "refs": [
+    "5:7",
+    "1:17"
+   ],
+   "hebraico": {
+    "lema": "מִשְׁפָּט / צְדָקָה",
+    "translit": "mishpat / tsedaqah",
+    "strong": "H4941, H6666"
+   },
+   "sentido": "direito justo e retidão",
+   "latim": {
+    "forma": "exspectavi ut faceret iudicium et ecce iniquitas, et iustitiam et ecce clamor",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Em 5:7 Isaías faz trocadilhos: Deus esperava mishpat (juízo) e veio mispach (opressão); esperava tsedaqah (justiça) e veio tse'aqah (clamor). Justiça social é tema constante do livro.",
+   "interpretacao": false
+  },
+  {
+   "id": "sar-shalom",
+   "pt": "Príncipe da Paz",
+   "refs": [
+    "9:6"
+   ],
+   "hebraico": {
+    "lema": "שַׂר־שָׁלוֹם",
+    "translit": "sar shalom",
+    "strong": "H8269, H7965"
+   },
+   "grego": {
+    "lema": "εἰρήνη",
+    "translit": "eirḗnē",
+    "strong": "G1515"
+   },
+   "sentido": "chefe da paz, rei que traz bem-estar",
+   "latim": {
+    "forma": "Admirabilis, Consiliarius, Deus, Fortis, Pater futuri saeculi, Princeps pacis",
+    "nota": "Na Vulgata o versículo é 9:6, como na Bíblia Livre."
+   },
+   "outras": [],
+   "explicacao": "Shalom é mais que ausência de guerra: é inteireza e bem-estar. Os quatro nomes de 9:6 descrevem o rei esperado; os cristãos os aplicam a Jesus.",
+   "interpretacao": true
+  },
+  {
+   "id": "netser",
+   "pt": "ramo, renovo",
+   "refs": [
+    "11:1"
+   ],
+   "hebraico": {
+    "lema": "נֵצֶר",
+    "translit": "netser",
+    "strong": "H5342"
+   },
+   "sentido": "broto novo que nasce da raiz",
+   "latim": {
+    "forma": "et egredietur virga de radice Iesse et flos de radice eius ascendet",
+    "nota": "A Vulgata traduz por virga e flos; daí a imagem medieval da \"árvore de Jessé\"."
+   },
+   "outras": [],
+   "explicacao": "Netser é o broto da raiz. Muitos ligam esta palavra a \"Nazaré\" e ao \"nazareno\" de Mateus 2:23, mas a ligação é discutida.",
+   "interpretacao": true
+  },
+  {
+   "id": "helel",
+   "pt": "luminoso, estrela da manhã",
+   "refs": [
+    "14:12"
+   ],
+   "hebraico": {
+    "lema": "הֵילֵל בֶּן־שָׁחַר",
+    "translit": "helel ben-shachar",
+    "strong": "H1966"
+   },
+   "grego": {
+    "lema": "Ἑωσφόρος",
+    "translit": "Heōsphóros"
+   },
+   "sentido": "brilhante, filho do amanhecer",
+   "latim": {
+    "forma": "quomodo cecidisti de caelo, lucifer, qui mane oriebaris",
+    "nota": "Origem do nome Lúcifer."
+   },
+   "outras": [],
+   "explicacao": "A palavra vem de \"brilhar\" e designa provavelmente a estrela d'alva (Vênus). O contexto fala do rei da Babilônia. A Vulgata traduziu por lucifer, \"portador de luz\", e só depois \"Lúcifer\" virou nome do Diabo.",
+   "interpretacao": true
+  },
+  {
+   "id": "nachamu",
+   "pt": "consolai",
+   "refs": [
+    "40:1"
+   ],
+   "hebraico": {
+    "lema": "נַחֲמוּ נַחֲמוּ",
+    "translit": "nachamu nachamu",
+    "strong": "H5162"
+   },
+   "grego": {
+    "lema": "παρακαλεῖτε",
+    "translit": "parakaleîte",
+    "strong": "G3870"
+   },
+   "sentido": "consolai, consolai",
+   "latim": {
+    "forma": "Consolamini, consolamini, popule meus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Com essa palavra começa a segunda grande parte do livro (cap. 40–66), dirigida ao povo no exílio. A repetição dá ênfase e ternura.",
+   "interpretacao": false
+  },
+  {
+   "id": "basar",
+   "pt": "anunciar boas novas",
+   "refs": [
+    "40:9",
+    "52:7",
+    "61:1"
+   ],
+   "hebraico": {
+    "lema": "בָּשַׂר",
+    "translit": "basar",
+    "strong": "H1319"
+   },
+   "grego": {
+    "lema": "εὐαγγελίζομαι",
+    "translit": "euangelízomai",
+    "strong": "G2097"
+   },
+   "sentido": "trazer boas notícias",
+   "latim": {
+    "forma": "qui evangelizas Sion",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A Septuaginta traduziu por euangelízomai, origem da palavra \"evangelho\". Em Isaías as boas novas são que Deus reina e liberta seu povo.",
+   "interpretacao": false
+  },
+  {
+   "id": "ebed",
+   "pt": "servo",
+   "refs": [
+    "42:1",
+    "52:13",
+    "53:11"
+   ],
+   "hebraico": {
+    "lema": "עֶבֶד",
+    "translit": "'ebed",
+    "strong": "H5650"
+   },
+   "grego": {
+    "lema": "παῖς",
+    "translit": "paîs",
+    "strong": "G3816"
+   },
+   "sentido": "servo, escravo, ministro",
+   "latim": {
+    "forma": "Ecce servus meus, suscipiam eum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Os \"cânticos do Servo\" (42; 49; 50; 52–53) falam de alguém escolhido que sofre e traz justiça às nações. Às vezes o Servo é Israel (41:8; 49:3); em outros trechos parece um indivíduo. O Novo Testamento os aplica a Jesus.",
+   "interpretacao": true
+  },
+  {
+   "id": "mashiach",
+   "pt": "ungido",
+   "refs": [
+    "45:1"
+   ],
+   "hebraico": {
+    "lema": "מָשִׁיחַ",
+    "translit": "mashiach",
+    "strong": "H4899"
+   },
+   "grego": {
+    "lema": "χριστός",
+    "translit": "christós",
+    "strong": "G5547"
+   },
+   "sentido": "ungido com óleo, escolhido para uma missão",
+   "latim": {
+    "forma": "Haec dicit Dominus christo meo Cyro",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Surpreendentemente, o título é dado a Ciro, rei persa. Mostra que \"ungido\" designa alguém escolhido por Deus para uma tarefa. Daí vêm \"Messias\" e, pelo grego, \"Cristo\".",
+   "interpretacao": false
+  },
+  {
+   "id": "goel",
+   "pt": "Redentor",
+   "refs": [
+    "41:14",
+    "43:14"
+   ],
+   "hebraico": {
+    "lema": "גֹּאֵל",
+    "translit": "go'el",
+    "strong": "H1350"
+   },
+   "sentido": "parente resgatador",
+   "latim": {
+    "forma": "redemptor tuus Sanctus Israhel",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Isaías chama Deus de Redentor mais de dez vezes, sobretudo nos capítulos 40–66: ele age como o parente que resgata a família da escravidão.",
+   "interpretacao": false
+  },
+  {
+   "id": "asham",
+   "pt": "expiação",
+   "refs": [
+    "53:10"
+   ],
+   "hebraico": {
+    "lema": "אָשָׁם",
+    "translit": "'asham",
+    "strong": "H817"
+   },
+   "sentido": "oferta pela culpa, reparação",
+   "latim": {
+    "forma": "si posuerit pro peccato animam suam",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "É o nome de um sacrifício da Lei (Lv 5). O Servo dá a vida como oferta pela culpa de outros. Para os cristãos é um texto-chave sobre a morte de Jesus.",
+   "interpretacao": true
+  },
+  {
+   "id": "livyatan",
+   "pt": "Leviatã",
+   "refs": [
+    "27:1"
+   ],
+   "hebraico": {
+    "lema": "לִוְיָתָן",
+    "translit": "livyatan",
+    "strong": "H3882"
+   },
+   "grego": {
+    "lema": "δράκων",
+    "translit": "drákōn",
+    "strong": "G1404"
+   },
+   "sentido": "a serpente enrolada",
+   "latim": {
+    "forma": "Leviathan serpentem",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A descrição \"serpente ágil, serpente tortuosa\" é quase idêntica à de um monstro dos textos de Ugarit. Isaías a usa para anunciar a vitória de Deus sobre todo mal.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "grande-rolo",
+   "titulo": "O Grande Rolo de Isaías",
+   "refs": [
+    "1:1",
+    "53:11",
+    "66:24"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Grande Rolo de Isaías (1QIsaª), caverna 1 de Qumran",
+   "referencia": "Santuário do Livro, Museu de Israel, Jerusalém",
+   "data_fonte": "c. 150–100 a.C. (aprox.)",
+   "data_evento": "descoberto em 1947",
+   "resumo": "Rolo de couro com cerca de 7 metros e o livro de Isaías completo, dos 66 capítulos. É o manuscrito bíblico completo mais antigo conhecido.",
+   "relacao": "Mostra o texto de Isaías mil anos mais antigo que os manuscritos medievais e muito próximo deles, com variantes pequenas. Também mostra o livro inteiro copiado num só rolo.",
+   "grau": "documentado"
+  },
+  {
+   "id": "prisma-senaqueribe",
+   "titulo": "Senaqueribe cerca Jerusalém",
+   "refs": [
+    "36:1",
+    "37:37"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Prisma de Senaqueribe (Prisma de Taylor)",
+   "referencia": "Museu Britânico, BM 91032",
+   "data_fonte": "c. 691 a.C.",
+   "data_evento": "701 a.C.",
+   "resumo": "Senaqueribe relata sua campanha contra Judá: diz ter tomado 46 cidades fortificadas e prendido Ezequias em Jerusalém \"como um pássaro na gaiola\", recebendo tributo.",
+   "relacao": "Confirma a invasão de 36:1 e o cerco de Jerusalém. Chama a atenção que o rei não diz ter tomado a cidade, o que combina com 37:36-37; o relato assírio, como era costume, só fala de vitórias.",
+   "grau": "documentado"
+  },
+  {
+   "id": "relevos-laquis",
+   "titulo": "A queda de Laquis nos relevos de Nínive",
+   "refs": [
+    "36:2",
+    "37:8"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Relevos de Laquis, do palácio de Senaqueribe em Nínive",
+   "referencia": "Museu Britânico",
+   "data_fonte": "c. 700 a.C.",
+   "data_evento": "701 a.C.",
+   "resumo": "Grandes painéis de pedra mostram o cerco e a tomada de Laquis, com rampas, aríetes e moradores levados para o exílio, e Senaqueribe no trono recebendo os despojos.",
+   "relacao": "Isaías 36:2 diz que o Rabsaqué foi enviado \"de Laquis\" para Jerusalém. Os relevos mostram a mesma campanha do lado assírio.",
+   "grau": "documentado"
+  },
+  {
+   "id": "siloe",
+   "titulo": "O túnel e a inscrição de Siloé",
+   "refs": [
+    "22:9",
+    "22:11"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Inscrição de Siloé",
+   "referencia": "Museus de Arqueologia de Istambul",
+   "data_fonte": "c. 700 a.C. (aprox.)",
+   "data_evento": "descoberta em 1880",
+   "resumo": "Inscrição em hebraico antigo, gravada no túnel que leva água da fonte de Giom ao tanque de Siloé, conta o encontro das duas equipes de escavadores.",
+   "relacao": "Isaías 22:9-11 fala de obras de água e muros em Jerusalém antes do ataque assírio, e 2 Reis 20:20 atribui a Ezequias um túnel. A inscrição não cita o rei; a maioria dos estudiosos a liga a Ezequias, mas há debate sobre a data.",
+   "grau": "associacao"
+  },
+  {
+   "id": "bula-ezequias",
+   "titulo": "Selo do rei Ezequias",
+   "refs": [
+    "37:1",
+    "38:1"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Bula (impressão de selo) do rei Ezequias",
+   "referencia": "escavações do Ofel, Jerusalém",
+   "data_fonte": "c. 727–698 a.C.",
+   "data_evento": "descoberta em 2015",
+   "resumo": "Impressão em argila com a inscrição \"De Ezequias, filho de Acaz, rei de Judá\", achada perto do antigo palácio real.",
+   "relacao": "Confirma o rei Ezequias, figura central dos capítulos 36–39, e o nome de seu pai Acaz (cap. 7).",
+   "grau": "documentado"
+  },
+  {
+   "id": "bula-isaias",
+   "titulo": "Uma bula com o nome \"Isaías\"",
+   "refs": [
+    "1:1"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Bula com o nome Yesha'yahu, das escavações do Ofel",
+   "referencia": "escavações do Ofel, Jerusalém",
+   "data_fonte": "c. séc. VIII–VII a.C.",
+   "data_evento": "anunciada em 2018",
+   "resumo": "Pequena impressão de selo, danificada, com o nome Yesha'yahu (Isaías) e letras que talvez formem a palavra \"profeta\". Foi achada a poucos metros da bula de Ezequias.",
+   "relacao": "Alguns estudiosos acham possível que seja do próprio profeta; outros lembram que a palavra \"profeta\" está incompleta e que Isaías era um nome comum. Fica como possibilidade, não como prova.",
+   "grau": "associacao"
+  },
+  {
+   "id": "inscricao-mordomo",
+   "titulo": "A inscrição do mordomo real",
+   "refs": [
+    "22:15",
+    "22:16"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Inscrição do túmulo do \"que está sobre a casa\", aldeia de Siloé (Silwan)",
+   "referencia": "Museu Britânico",
+   "data_fonte": "c. séc. VIII–VII a.C.",
+   "data_evento": "descoberta em 1870",
+   "resumo": "Inscrição na entrada de um túmulo talhado na rocha, de um oficial cujo nome termina em \"-yahu\" e que tinha o título \"que está sobre a casa\", o mesmo cargo de Sebna.",
+   "relacao": "Alguns estudiosos propõem que seja o túmulo de Sebna (Shebanyahu), o mordomo repreendido em 22:15-16 por talhar uma sepultura na rocha. A identificação é possível, mas não comprovada, porque o nome está incompleto.",
+   "grau": "associacao"
+  },
+  {
+   "id": "sargao-asdode",
+   "titulo": "Sargão II toma Asdode",
+   "refs": [
+    "20:1"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Anais de Sargão II, palácio de Dur-Sharrukin (Khorsabad); fragmentos de estela de Asdode",
+   "referencia": "relevos e inscrições de Khorsabad; Museu do Louvre e outras coleções",
+   "data_fonte": "c. 710–706 a.C.",
+   "data_evento": "c. 712–711 a.C.",
+   "resumo": "Sargão relata que puniu a rebelião de Asdode, depôs seu rei e tomou a cidade. Fragmentos de uma estela de vitória assíria foram achados na própria Asdode.",
+   "relacao": "Isaías 20:1 é o único lugar da Bíblia que cita Sargão, rei que por muito tempo só se conhecia por esse versículo até a descoberta de seu palácio no séc. XIX.",
+   "grau": "documentado"
+  },
+  {
+   "id": "tiglate-acaz",
+   "titulo": "Acaz paga tributo à Assíria",
+   "refs": [
+    "7:1",
+    "7:4"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Inscrição sumária de Tiglate-Pileser III, de Nimrud",
+   "referencia": "Museu Britânico (tablete K 3751)",
+   "data_fonte": "c. 730 a.C.",
+   "data_evento": "c. 734 a.C.",
+   "resumo": "O rei assírio lista os reis que lhe pagaram tributo, entre eles \"Jeoacaz de Judá\", nome completo de Acaz. Outras inscrições do mesmo rei citam Rezim de Damasco e Peca de Israel.",
+   "relacao": "Confirma o cenário de Isaías 7: Rezim e o filho de Remalias contra Judá, e Acaz buscando a Assíria. Isaías aconselhava confiar no SENHOR em vez disso.",
+   "grau": "documentado"
+  },
+  {
+   "id": "cronica-babilonica",
+   "titulo": "A morte de Senaqueribe e Merodaque-Baladã",
+   "refs": [
+    "37:38",
+    "39:1"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Crônica Babilônica 1 (série das Crônicas Babilônicas)",
+   "referencia": "Museu Britânico",
+   "data_fonte": "c. 500 a.C. (cópia)",
+   "data_evento": "c. 721–681 a.C.",
+   "resumo": "A crônica registra o reinado de Merodaque-Baladã na Babilônia e informa que Senaqueribe foi morto por seu filho numa revolta, sucedido por Esar-Hadom.",
+   "relacao": "Confirma Merodaque-Baladã, que enviou mensageiros a Ezequias (39:1), e a morte de Senaqueribe pelos filhos com sucessão de Esar-Hadom (37:38). A Bíblia fala de dois filhos; a crônica, de um.",
+   "grau": "documentado"
+  },
+  {
+   "id": "cilindro-ciro",
+   "titulo": "O Cilindro de Ciro",
+   "refs": [
+    "44:28",
+    "45:1"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Cilindro de Ciro",
+   "referencia": "Museu Britânico, BM 90920",
+   "data_fonte": "c. 539–530 a.C.",
+   "data_evento": "539 a.C.",
+   "resumo": "Ciro relata que entrou na Babilônia sem batalha, devolveu imagens de deuses a seus templos e deixou povos deportados voltarem para suas terras.",
+   "relacao": "Combina com o papel de Ciro em Isaías 44:28 e 45:1 e com o decreto de Esdras 1. O cilindro não cita os judeus; mostra a política geral de Ciro. Para quem data Isaías 40–66 no exílio, o texto descreve Ciro já em cena; para outros, foi anunciado antes.",
+   "grau": "documentado"
+  },
+  {
+   "id": "cronica-nabonido",
+   "titulo": "A queda da Babilônia",
+   "refs": [
+    "21:9",
+    "47:1"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Crônica de Nabonido",
+   "referencia": "Museu Britânico, BM 35382",
+   "data_fonte": "séc. VI–V a.C. (aprox.)",
+   "data_evento": "outubro de 539 a.C.",
+   "resumo": "A crônica conta que o exército de Ciro entrou na Babilônia sem batalha e que, dias depois, o próprio Ciro chegou à cidade.",
+   "relacao": "Confirma a queda da Babilônia anunciada em 21:9 e no capítulo 47. A cidade não foi destruída de imediato; o abandono total descrito em 13:19-22 aconteceu aos poucos, ao longo de séculos.",
+   "grau": "documentado"
+  }
+ ]
+}

@@ -1,0 +1,258 @@
+{
+ "livro": "2-tessalonicenses",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:3-4",
+   "titulo": "Firmes nas perseguições",
+   "descricao": "Paulo se orgulha dos tessalonicenses nas igrejas por causa de sua paciência e fé em meio a perseguições e aflições.",
+   "alt": "Cristãos se reúnem às escondidas, com expressão serena, enquanto vizinhos hostis observam de longe.",
+   "prompt": "A small group of believers in Thessalonica gathered quietly in a dim courtyard at dusk, praying together with steady faces, a few hostile townspeople watching from a distance in the street, sober atmosphere"
+  },
+  {
+   "id": "q02",
+   "capitulo": 2,
+   "ref": "2:1-2",
+   "titulo": "Não vos abaleis",
+   "descricao": "Alguns se perturbavam com a notícia de que o dia do Senhor já teria chegado, talvez por uma carta falsamente atribuída a Paulo.",
+   "alt": "Pessoas agitadas discutem diante de um rolo, enquanto um ancião pede calma.",
+   "prompt": "In a house church in Thessalonica, agitated believers arguing over a suspicious letter, one man pointing at the sky in alarm, an elder raising his hand calmly to restore peace, lamplight"
+  },
+  {
+   "id": "q03",
+   "capitulo": 3,
+   "ref": "3:7-10",
+   "titulo": "Quem não quer trabalhar",
+   "descricao": "Paulo lembra que trabalhou com as próprias mãos para dar exemplo e manda que quem não quiser trabalhar também não coma.",
+   "alt": "Membros da comunidade trabalham em suas oficinas enquanto um homem ocioso observa.",
+   "prompt": "A busy street of workshops in Thessalonica, believers working as weavers, potters and carpenters, one idle man leaning against a wall watching, an elder gently addressing him, bright daylight"
+  },
+  {
+   "id": "q04",
+   "capitulo": 3,
+   "ref": "3:17",
+   "titulo": "A assinatura de Paulo",
+   "descricao": "Paulo escreve de próprio punho a saudação final, que serve de assinatura em toda carta.",
+   "alt": "Paulo assina o fim de uma carta com letra própria.",
+   "prompt": "The apostle Paul's hand signing the closing greeting at the bottom of a papyrus letter in distinctive handwriting, the scribe's neat text above, Silvanus and Timothy beside him, lamp light"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "fogo",
+   "termo": "Labareda de fogo",
+   "ref": "1:8",
+   "explicado": false,
+   "significado": "Imagem tradicional do juízo de Deus no AT (Is 66:15). Fala da seriedade do juízo, sem descrever detalhes."
+  },
+  {
+   "id": "homem-injustica",
+   "termo": "Homem da injustiça",
+   "ref": "2:3-4",
+   "explicado": false,
+   "significado": "Figura que se exalta acima de tudo e se assenta no templo. Já foi identificada com imperadores, papas, líderes futuros ou um princípio de rebeldia; o texto não dá nome."
+  },
+  {
+   "id": "o-que-detem",
+   "termo": "O que detém",
+   "ref": "2:6-7",
+   "explicado": false,
+   "significado": "Algo ou alguém impede a manifestação do mal até o tempo certo. Paulo diz que os tessalonicenses sabiam o que era; nós não sabemos com certeza. Propostas: o Império Romano, a pregação do evangelho, o Espírito Santo, um anjo."
+  },
+  {
+   "id": "templo",
+   "termo": "Assentar-se no templo",
+   "ref": "2:4",
+   "explicado": false,
+   "significado": "Pode remeter ao templo de Jerusalém (como na profanação de Antíoco ou na tentativa de Calígula) ou ser linguagem simbólica de usurpar o lugar de Deus."
+  },
+  {
+   "id": "sopro",
+   "termo": "Sopro da boca",
+   "ref": "2:8",
+   "explicado": false,
+   "significado": "O Senhor vence o injusto apenas com o sopro de sua boca, imagem de Isaías 11:4: basta a sua palavra."
+  },
+  {
+   "id": "assinatura",
+   "termo": "Assinatura",
+   "ref": "3:17",
+   "explicado": true,
+   "significado": "Paulo explica que a saudação de próprio punho é o sinal de autenticidade em toda carta, importante porque circulavam cartas falsas (2:2)."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "apostasia",
+   "pt": "Apostasia",
+   "refs": [
+    "2:3"
+   ],
+   "grego": {
+    "lema": "ἀποστασία",
+    "translit": "apostasía",
+    "strong": "G646"
+   },
+   "sentido": "rebelião, abandono",
+   "latim": {
+    "forma": "discessio",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Na época podia indicar revolta política ou religiosa. Se é uma rebelião geral contra Deus ou um afastamento da fé dentro da igreja é discutido.",
+   "interpretacao": true
+  },
+  {
+   "id": "anomia",
+   "pt": "Injustiça, iniquidade",
+   "refs": [
+    "2:3",
+    "2:7"
+   ],
+   "grego": {
+    "lema": "ἀνομία",
+    "translit": "anomía",
+    "strong": "G458"
+   },
+   "sentido": "falta de lei, rebeldia contra a lei",
+   "latim": {
+    "forma": "iniquitas",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O \"homem da injustiça\" (literalmente \"sem lei\") encarna a revolta contra Deus. Alguns manuscritos dizem \"homem do pecado\".",
+   "interpretacao": false
+  },
+  {
+   "id": "katecho",
+   "pt": "Deter",
+   "refs": [
+    "2:6-7"
+   ],
+   "grego": {
+    "lema": "κατέχω",
+    "translit": "katéchō",
+    "strong": "G2722"
+   },
+   "sentido": "segurar, conter, reter",
+   "latim": {
+    "forma": "detineat / tenet",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Paulo usa a forma neutra (o que detém) e a masculina (aquele que detém). Ver símbolos.",
+   "interpretacao": true
+  },
+  {
+   "id": "parousia",
+   "pt": "Vinda",
+   "refs": [
+    "2:1",
+    "2:8"
+   ],
+   "grego": {
+    "lema": "παρουσία",
+    "translit": "parousía",
+    "strong": "G3952"
+   },
+   "sentido": "presença, chegada",
+   "latim": {
+    "forma": "adventus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Em 2:9 a mesma palavra é usada para a \"vinda\" do injusto, como uma imitação da vinda de Cristo.",
+   "interpretacao": false
+  },
+  {
+   "id": "paradosis",
+   "pt": "Tradições",
+   "refs": [
+    "2:15",
+    "3:6"
+   ],
+   "grego": {
+    "lema": "παράδοσις",
+    "translit": "parádosis",
+    "strong": "G3862"
+   },
+   "sentido": "o que é transmitido",
+   "latim": {
+    "forma": "traditiones",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O ensino apostólico transmitido por palavra ou por carta. Católicos, ortodoxos e protestantes entendem de modo diferente a relação entre tradição e Escritura.",
+   "interpretacao": true
+  },
+  {
+   "id": "ataktos",
+   "pt": "Desordenadamente",
+   "refs": [
+    "3:6",
+    "3:11"
+   ],
+   "grego": {
+    "lema": "ἀτάκτως",
+    "translit": "atáktōs",
+    "strong": "G814"
+   },
+   "sentido": "fora de ordem, como soldado fora de forma",
+   "latim": {
+    "forma": "inquiete",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Termo militar para quem sai da fileira. Aqui descreve quem vivia ocioso, talvez achando que o fim estava tão próximo que não precisava trabalhar.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "tertuliano-detem",
+   "titulo": "Tertuliano: o que detém é o Império Romano",
+   "refs": [
+    "2:6-7"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Tertuliano, Sobre a ressurreição da carne",
+   "referencia": "cap. 24",
+   "data_fonte": "c. 208-212 d.C.",
+   "data_evento": "Interpretação de 2:6-7",
+   "resumo": "Tertuliano lê \"aquele que detém\" como o Estado romano, cuja queda abriria caminho para o anticristo. Por isso, diz em outra obra, os cristãos oravam pela estabilidade do império.",
+   "relacao": "Mostra uma das interpretações mais antigas de 2:6-7. É interpretação, não informação histórica sobre o que Paulo quis dizer.",
+   "grau": "associacao"
+  },
+  {
+   "id": "agostinho-ignora",
+   "titulo": "Agostinho admite não saber",
+   "refs": [
+    "2:6-7"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Agostinho de Hipona, A Cidade de Deus",
+   "referencia": "livro 20, cap. 19",
+   "data_fonte": "c. 426 d.C.",
+   "data_evento": "Interpretação de 2:3-8",
+   "resumo": "Agostinho reúne as opiniões de seu tempo sobre o homem da injustiça e o que detém e confessa que não sabe o que Paulo quis dizer.",
+   "relacao": "Ajuda o leitor a ver que a incerteza sobre esta passagem é antiga e não deve gerar certezas apressadas.",
+   "grau": "associacao"
+  },
+  {
+   "id": "caligula-templo",
+   "titulo": "Calígula manda pôr sua estátua no templo",
+   "refs": [
+    "2:4"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 18, cap. 8, §257-309",
+   "data_fonte": "c. 93-94 d.C.",
+   "data_evento": "c. 39-41 d.C.",
+   "resumo": "Josefo narra que o imperador Calígula ordenou erguer sua estátua no templo de Jerusalém; a ordem foi adiada e não se cumpriu por causa de sua morte. Fílon também relata o episódio.",
+   "relacao": "Uma década antes da carta, a ideia de um governante se impor no templo como deus não era abstrata. Muitos veem aqui pano de fundo para 2:4; não se trata de identificação.",
+   "grau": "associacao"
+  }
+ ]
+}

@@ -1,0 +1,749 @@
+{
+ "livro": "numeros",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:1-3",
+   "titulo": "O censo no deserto do Sinai",
+   "descricao": "Moisés e Arão, com os príncipes das tribos, contam os homens de vinte anos para cima, família por família.",
+   "alt": "Escribas registrando nomes diante de Moisés e Arão, com uma fila de homens de várias tribos.",
+   "prompt": "in the Sinai desert camp, Moses and Aaron seated before a tent with tribal leaders, scribes writing names on scrolls and tablets, lines of men of different tribes waiting to be counted, tents stretching to the horizon, bright morning light"
+  },
+  {
+   "id": "q02",
+   "capitulo": 2,
+   "ref": "2:2",
+   "titulo": "O acampamento em volta do tabernáculo",
+   "descricao": "As doze tribos acampam cada uma junto à sua bandeira, ao redor do tabernáculo.",
+   "alt": "Vista do alto de um grande acampamento em quadrado, com o tabernáculo no centro e bandeiras das tribos.",
+   "prompt": "aerial view of a vast orderly encampment in the desert arranged in a square around a central tent sanctuary with a white linen courtyard, twelve tribal camps each with its own colored banner, a pillar of cloud resting above the sanctuary, early morning haze"
+  },
+  {
+   "id": "q03",
+   "capitulo": 6,
+   "ref": "6:22-27",
+   "titulo": "A bênção sacerdotal",
+   "descricao": "Arão e seus filhos estendem as mãos e abençoam o povo: O SENHOR te abençoe e te guarde.",
+   "alt": "Sacerdotes de pé com as mãos erguidas abençoando uma multidão diante do tabernáculo.",
+   "prompt": "Aaron and his sons in priestly garments standing at the entrance of the tabernacle courtyard with hands raised over the people, a large congregation of men, women and children bowing their heads, soft golden evening light, peaceful reverence"
+  },
+  {
+   "id": "q04",
+   "capitulo": 7,
+   "ref": "7:1-9",
+   "titulo": "As ofertas dos príncipes",
+   "descricao": "Os príncipes das tribos trazem seis carros cobertos e doze bois para o serviço do tabernáculo.",
+   "alt": "Carros cobertos puxados por bois chegando diante do tabernáculo, entregues a levitas.",
+   "prompt": "tribal leaders presenting six covered wooden wagons each drawn by a pair of oxen before the tabernacle, Levites receiving them, Moses overseeing, offerings of silver bowls and basins carried behind, desert camp setting"
+  },
+  {
+   "id": "q05",
+   "capitulo": 9,
+   "ref": "9:15-18",
+   "titulo": "A nuvem sobre o tabernáculo",
+   "descricao": "De dia a nuvem cobre o tabernáculo e de noite parece fogo; quando ela se ergue, o povo parte.",
+   "alt": "Tabernáculo à noite com uma nuvem brilhante como fogo pairando acima, e o acampamento ao redor.",
+   "prompt": "the tabernacle in the middle of the desert camp at night, a great cloud glowing like fire resting over it, families outside their tents looking toward it, some beginning to pack as the cloud starts to lift, deep night sky"
+  },
+  {
+   "id": "q06",
+   "capitulo": 10,
+   "ref": "10:33-36",
+   "titulo": "A arca vai à frente",
+   "descricao": "Os sacerdotes levam a arca à frente do povo, e Moisés diz: Levanta-te, SENHOR.",
+   "alt": "Sacerdotes carregando a arca dourada à frente de uma longa procissão no deserto.",
+   "prompt": "priests carrying the golden ark of the covenant on poles at the head of a long procession of Israelite tribes through the desert, silver trumpets raised, the cloud above them, Moses with arms lifted, dust and morning light"
+  },
+  {
+   "id": "q07",
+   "capitulo": 11,
+   "ref": "11:31-32",
+   "titulo": "As codornizes",
+   "descricao": "Um vento do SENHOR traz codornizes do mar ao redor do acampamento, e o povo as recolhe por dois dias.",
+   "alt": "Pessoas recolhendo grande quantidade de aves pequenas ao redor de tendas no deserto.",
+   "prompt": "a strong wind carrying flocks of quails from the sea over a desert camp, people eagerly gathering birds into baskets around their tents, swirling sand, low dramatic light"
+  },
+  {
+   "id": "q08",
+   "capitulo": 13,
+   "ref": "13:23",
+   "titulo": "O cacho de Escol",
+   "descricao": "No vale de Escol, dois espias carregam numa vara um enorme cacho de uvas, com romãs e figos.",
+   "alt": "Dois homens carregando nos ombros uma vara com um cacho de uvas gigante, acompanhados de outros espias.",
+   "prompt": "two men carrying an enormous cluster of grapes hanging from a pole on their shoulders, other scouts bearing pomegranates and figs, a fertile green valley with vineyards and a stream, hills of Canaan, warm summer light"
+  },
+  {
+   "id": "q09",
+   "capitulo": 14,
+   "ref": "14:5-10",
+   "titulo": "Josué e Calebe diante do povo",
+   "descricao": "Enquanto o povo murmura e quer voltar ao Egito, Josué e Calebe rasgam as roupas e dizem que a terra é muito boa.",
+   "alt": "Dois homens com roupas rasgadas falando a uma multidão irritada, com Moisés e Arão prostrados.",
+   "prompt": "two men with torn garments pleading before an angry crowd of Israelites, some picking up stones, Moses and Aaron lying face down before the assembly, the tabernacle behind them beginning to shine with glory, tense dramatic light"
+  },
+  {
+   "id": "q10",
+   "capitulo": 16,
+   "ref": "16:46-48",
+   "titulo": "Arão entre os mortos e os vivos",
+   "descricao": "Arão corre com o incensário para o meio do povo e se põe entre os mortos e os vivos, e a praga cessa.",
+   "alt": "Sacerdote com um incensário fumegante de pé no meio de uma multidão, com pessoas caídas ao longe.",
+   "prompt": "an elderly high priest standing in the midst of the people holding a smoking censer high, incense rising around him, on one side people standing with hope, on the far side figures lying still in the distance, no wounds shown, solemn dusk light"
+  },
+  {
+   "id": "q11",
+   "capitulo": 17,
+   "ref": "17:8",
+   "titulo": "A vara de Arão floresce",
+   "descricao": "No dia seguinte, a vara de Arão, entre as doze varas, brotou, deu flores e produziu amêndoas.",
+   "alt": "Doze varas apoiadas no santuário, uma delas coberta de folhas, flores e amêndoas.",
+   "prompt": "twelve wooden staffs laid before the ark in the tabernacle, each inscribed with a tribal name, one staff miraculously covered with buds, white almond blossoms and ripe almonds, Moses entering in the morning light with surprise"
+  },
+  {
+   "id": "q12",
+   "capitulo": 20,
+   "ref": "20:8-11",
+   "titulo": "Água da rocha em Meribá",
+   "descricao": "Em vez de falar à rocha, Moisés a fere duas vezes com a vara; a água jorra, e o povo e os animais bebem.",
+   "alt": "Homem idoso batendo numa rocha com uma vara, de onde jorra água, diante de uma multidão.",
+   "prompt": "an old bearded man striking a large desert rock twice with his staff, water gushing out abundantly, a thirsty crowd and their animals rushing to drink, Aaron beside him, harsh sunlight on barren cliffs"
+  },
+  {
+   "id": "q13",
+   "capitulo": 20,
+   "ref": "20:27-28",
+   "titulo": "Arão no monte Hor",
+   "descricao": "No alto do monte Hor, Moisés tira as vestes sacerdotais de Arão e as veste em Eleazar; ali Arão morre.",
+   "alt": "Três homens no topo de uma montanha; um jovem recebendo as vestes de sacerdote de um ancião.",
+   "prompt": "on a barren mountaintop three men: an aged Aaron, Moses removing the high priest's garments from him and placing them on his son Eleazar, the whole congregation watching from the plain far below, quiet sunset light, sorrowful dignity"
+  },
+  {
+   "id": "q14",
+   "capitulo": 21,
+   "ref": "21:8-9",
+   "titulo": "A serpente de bronze",
+   "descricao": "Moisés põe uma serpente de bronze sobre uma haste; quem foi mordido e olha para ela vive.",
+   "alt": "Serpente de bronze erguida numa haste no acampamento, com pessoas olhando para ela.",
+   "prompt": "a bronze serpent coiled on a tall wooden pole raised in the middle of the desert camp, Moses beside it pointing upward, people who had been bitten lifting their eyes to it with hope, some being helped by family, golden afternoon light"
+  },
+  {
+   "id": "q15",
+   "capitulo": 22,
+   "ref": "22:22-31",
+   "titulo": "Balaão e a jumenta",
+   "descricao": "O anjo do SENHOR está no caminho com a espada; a jumenta vê e se deita, e Balaão é repreendido.",
+   "alt": "Homem montado numa jumenta deitada no caminho estreito, com um anjo luminoso à frente.",
+   "prompt": "a man in fine robes on a donkey that has lain down in a narrow path between vineyard walls, before them a majestic dignified angel shining with light holding a drawn sword, the donkey looking back at its rider, two servants behind, the man's face shifting from anger to awe"
+  },
+  {
+   "id": "q16",
+   "capitulo": 24,
+   "ref": "24:2-6",
+   "titulo": "Quão belas são tuas tendas",
+   "descricao": "Do alto, Balaão vê Israel acampado por tribos e, em vez de amaldiçoar, abençoa.",
+   "alt": "Homem no alto de um penhasco com os braços abertos, olhando um grande acampamento no vale.",
+   "prompt": "a prophet standing on a high rocky ridge with arms spread wide, looking down at the orderly tents of Israel spread across a green valley like gardens by a river, a Moabite king and his officials beside him in dismay, altars with smoke behind them, golden light"
+  },
+  {
+   "id": "q17",
+   "capitulo": 27,
+   "ref": "27:1-7",
+   "titulo": "As filhas de Zelofeade",
+   "descricao": "Cinco irmãs se apresentam diante de Moisés, de Eleazar e da congregação e pedem herança na terra.",
+   "alt": "Cinco jovens mulheres de pé diante de Moisés e líderes à entrada do tabernáculo.",
+   "prompt": "five young sisters standing with courage before Moses, the priest Eleazar and the tribal leaders at the entrance of the tabernacle, the congregation gathered around, Moses listening thoughtfully, soft daylight"
+  },
+  {
+   "id": "q18",
+   "capitulo": 27,
+   "ref": "27:18-23",
+   "titulo": "Josué recebe a liderança",
+   "descricao": "Diante de Eleazar e de todo o povo, Moisés põe as mãos sobre Josué e lhe transmite a liderança.",
+   "alt": "Homem idoso pondo as mãos sobre a cabeça de um homem mais jovem ajoelhado, diante de um sacerdote e do povo.",
+   "prompt": "an aged Moses laying both hands on the head of Joshua, who kneels before him, the priest Eleazar in vestments standing beside them, the congregation of Israel watching, plains of Moab with distant hills, evening light"
+  },
+  {
+   "id": "q19",
+   "capitulo": 32,
+   "ref": "32:1-5",
+   "titulo": "Rúben e Gade pedem a terra de pastagem",
+   "descricao": "Vendo as boas pastagens de Jazer e Gileade, as tribos de Rúben e Gade pedem para ficar daquele lado do Jordão.",
+   "alt": "Pastores com grandes rebanhos falando com Moisés diante de colinas verdes.",
+   "prompt": "shepherds of the tribes of Reuben and Gad with great herds of cattle and sheep speaking with Moses and Eleazar, behind them the green pasture hills of Gilead, the Jordan valley in the distance"
+  },
+  {
+   "id": "q20",
+   "capitulo": 35,
+   "ref": "35:9-15",
+   "titulo": "As cidades de refúgio",
+   "descricao": "Seis cidades são separadas para que quem matou alguém sem querer possa fugir para lá e ser julgado com justiça.",
+   "alt": "Homem correndo por uma estrada em direção a uma cidade murada no alto de uma colina.",
+   "prompt": "a frightened man running along a road toward the open gate of a walled hilltop city, elders waiting at the gate to receive him, a signpost by the road, rolling hills, clear morning light"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "censo",
+   "termo": "Censo",
+   "ref": "1:2-3",
+   "explicado": false,
+   "significado": "O povo é contado duas vezes (cap. 1 e 26): a geração que saiu do Egito e a que entrará na terra. Daí vem o nome \"Números\" na Septuaginta e na Vulgata."
+  },
+  {
+   "id": "bandeiras",
+   "termo": "Bandeiras das tribos",
+   "ref": "2:2",
+   "explicado": false,
+   "significado": "Cada tribo acampa junto à sua bandeira, ao redor do tabernáculo. A disposição mostra Deus no centro da vida do povo."
+  },
+  {
+   "id": "levitas",
+   "termo": "Levitas no lugar dos primogênitos",
+   "ref": "3:12",
+   "explicado": true,
+   "significado": "O texto explica: Deus toma os levitas em lugar dos primogênitos de Israel, que lhe pertenciam desde a Páscoa no Egito (3:12-13)."
+  },
+  {
+   "id": "nazireu",
+   "termo": "Nazireu",
+   "ref": "6:2-5",
+   "explicado": true,
+   "significado": "O texto explica o voto: quem se separa para o SENHOR não bebe vinho, não corta o cabelo e não toca em mortos durante o tempo do voto (6:2-8)."
+  },
+  {
+   "id": "bencao-sacerdotal",
+   "termo": "Bênção sacerdotal",
+   "ref": "6:24-26",
+   "explicado": true,
+   "significado": "O texto diz o que ela faz: assim os sacerdotes \"porão o meu nome\" sobre o povo, e Deus o abençoará (6:27)."
+  },
+  {
+   "id": "nuvem-fogo-nm",
+   "termo": "Nuvem e aparência de fogo",
+   "ref": "9:15-16",
+   "explicado": true,
+   "significado": "O texto explica: quando a nuvem se ergue, o povo parte; quando para, o povo acampa. Partir e parar é seguir a ordem do SENHOR (9:17-23)."
+  },
+  {
+   "id": "trombetas-prata",
+   "termo": "Trombetas de prata",
+   "ref": "10:2",
+   "explicado": true,
+   "significado": "O texto explica a função: convocar a assembleia e dar o sinal de partida, e também chamar à batalha e às festas, \"por memória\" diante de Deus (10:2-10)."
+  },
+  {
+   "id": "murmuracao",
+   "termo": "Murmuração",
+   "ref": "14:2",
+   "explicado": false,
+   "significado": "O povo se queixa repetidas vezes (caps. 11, 14, 16, 20, 21). Paulo cita esses episódios como advertência (1 Co 10:10)."
+  },
+  {
+   "id": "cacho-de-escol",
+   "termo": "Cacho de uvas de Escol",
+   "ref": "13:23",
+   "explicado": false,
+   "significado": "Prova concreta de que a terra \"flui leite e mel\" (13:27). Hoje é símbolo do turismo em Israel; no texto, mostra a bondade da promessa que o povo recusa."
+  },
+  {
+   "id": "gafanhotos",
+   "termo": "Como gafanhotos",
+   "ref": "13:33",
+   "explicado": false,
+   "significado": "Os espias dizem que se sentiam como gafanhotos diante dos gigantes. A imagem revela o medo, contrastado com a confiança de Josué e Calebe (14:9)."
+  },
+  {
+   "id": "quarenta-anos",
+   "termo": "Quarenta anos",
+   "ref": "14:34",
+   "explicado": true,
+   "significado": "O texto explica o número: um ano para cada um dos quarenta dias de exploração da terra (14:34)."
+  },
+  {
+   "id": "franjas",
+   "termo": "Franjas com cordão azul",
+   "ref": "15:38-40",
+   "explicado": true,
+   "significado": "O texto explica: ao vê-las, o israelita deve lembrar dos mandamentos e ser santo a Deus (15:39-40)."
+  },
+  {
+   "id": "incensario-arao",
+   "termo": "Incensário de Arão",
+   "ref": "16:46-48",
+   "explicado": false,
+   "significado": "Com o incensário, Arão faz expiação e se põe \"entre os mortos e os vivos\". A cena é lida como imagem de intercessão."
+  },
+  {
+   "id": "vara-florida",
+   "termo": "Vara de Arão que floresce",
+   "ref": "17:8",
+   "explicado": true,
+   "significado": "O texto explica: a vara floresce para mostrar quem Deus escolheu e é guardada como sinal contra as queixas (17:5, 10)."
+  },
+  {
+   "id": "rocha-meriba",
+   "termo": "Rocha de Meribá",
+   "ref": "20:11",
+   "explicado": false,
+   "significado": "Deus manda falar à rocha, e Moisés a fere. Por isso Moisés e Arão não entram na terra (20:12). Paulo lê a rocha que acompanhava o povo como figura de Cristo (1 Co 10:4)."
+  },
+  {
+   "id": "serpente-de-bronze",
+   "termo": "Serpente de bronze",
+   "ref": "21:8-9",
+   "explicado": false,
+   "significado": "Quem olha para ela vive. Mais tarde foi destruída por Ezequias por ter virado objeto de culto (2 Rs 18:4). Jesus a usa como imagem de sua cruz (Jo 3:14)."
+  },
+  {
+   "id": "jumenta-balaao",
+   "termo": "Jumenta de Balaão",
+   "ref": "22:28",
+   "explicado": false,
+   "significado": "O animal vê o anjo que o profeta não vê. A ironia mostra que Balaão, o \"vidente\", está cego para a vontade de Deus."
+  },
+  {
+   "id": "estrela-de-jaco",
+   "termo": "Estrela de Jacó e cetro de Israel",
+   "ref": "24:17",
+   "explicado": false,
+   "significado": "Na profecia, a estrela e o cetro indicam um rei de Israel. Muitos judeus e cristãos leram o texto como messiânico; outros o aplicam primeiro a Davi."
+  },
+  {
+   "id": "cidades-refugio",
+   "termo": "Cidades de refúgio",
+   "ref": "35:11",
+   "explicado": true,
+   "significado": "O texto explica: são lugares para onde foge quem matou alguém sem querer, até ser julgado pela comunidade (35:11-12)."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "bemidbar",
+   "pt": "No deserto",
+   "refs": [
+    "1:1"
+   ],
+   "hebraico": {
+    "lema": "בְּמִדְבַּר",
+    "translit": "bemidbar",
+    "strong": "H4057"
+   },
+   "grego": {
+    "lema": "Ἀριθμοί",
+    "translit": "Arithmoi"
+   },
+   "sentido": "no deserto",
+   "latim": {
+    "forma": "in deserto Sinai",
+    "nota": "O título latino é Numeri."
+   },
+   "outras": [],
+   "explicacao": "É o nome do livro em hebraico, tirado do primeiro versículo. O nome \"Números\" vem da Septuaginta (Arithmoi) e da Vulgata (Numeri), por causa dos censos.",
+   "interpretacao": false
+  },
+  {
+   "id": "paqad",
+   "pt": "Contar / recensear",
+   "refs": [
+    "1:3",
+    "26:2"
+   ],
+   "hebraico": {
+    "lema": "פָּקַד",
+    "translit": "paqad",
+    "strong": "H6485"
+   },
+   "sentido": "contar, inspecionar, visitar, cuidar",
+   "latim": {
+    "forma": "numerabitis",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O mesmo verbo pode significar contar soldados, visitar, cuidar ou pedir contas. Em Números ele organiza o povo para a marcha.",
+   "interpretacao": false
+  },
+  {
+   "id": "nasi",
+   "pt": "Príncipe",
+   "refs": [
+    "1:16",
+    "7:2"
+   ],
+   "hebraico": {
+    "lema": "נָשִׂיא",
+    "translit": "nasi'",
+    "strong": "H5387"
+   },
+   "sentido": "chefe, líder de tribo",
+   "latim": {
+    "forma": "principes",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Os chefes das tribos aparecem no censo e nas grandes ofertas do capítulo 7, com a lista repetida tribo por tribo.",
+   "interpretacao": false
+  },
+  {
+   "id": "nazir",
+   "pt": "Nazireu",
+   "refs": [
+    "6:2",
+    "6:5"
+   ],
+   "hebraico": {
+    "lema": "נָזִיר",
+    "translit": "nazir",
+    "strong": "H5139"
+   },
+   "sentido": "separado, consagrado",
+   "latim": {
+    "forma": "nazareus",
+    "nota": "Forma usada na Vulgata em 6:18."
+   },
+   "outras": [],
+   "explicacao": "Sansão e Samuel foram nazireus desde o nascimento. A palavra é diferente de \"nazareno\" (de Nazaré), embora soe parecida.",
+   "interpretacao": false
+  },
+  {
+   "id": "barak-nm",
+   "pt": "Abençoar",
+   "refs": [
+    "6:24",
+    "6:27",
+    "23:20"
+   ],
+   "hebraico": {
+    "lema": "בָּרַךְ",
+    "translit": "barak",
+    "strong": "H1288"
+   },
+   "grego": {
+    "lema": "εὐλογέω",
+    "translit": "eulogeō",
+    "strong": "G2127"
+   },
+   "sentido": "abençoar",
+   "latim": {
+    "forma": "Benedicat tibi Dominus et custodiat te",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A bênção de 6:24-26 tem três linhas que crescem em tamanho no hebraico. Mais tarde, Balaão é contratado para amaldiçoar, mas só consegue abençoar (23:20).",
+   "interpretacao": false
+  },
+  {
+   "id": "shalom",
+   "pt": "Paz",
+   "refs": [
+    "6:26",
+    "25:12"
+   ],
+   "hebraico": {
+    "lema": "שָׁלוֹם",
+    "translit": "shalom",
+    "strong": "H7965"
+   },
+   "grego": {
+    "lema": "εἰρήνη",
+    "translit": "eirēnē",
+    "strong": "G1515"
+   },
+   "sentido": "paz, inteireza, bem-estar",
+   "latim": {
+    "forma": "det tibi pacem",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A bênção termina com shalom, que é mais que ausência de guerra: é vida completa e em ordem diante de Deus.",
+   "interpretacao": false
+  },
+  {
+   "id": "anan",
+   "pt": "Nuvem",
+   "refs": [
+    "9:15",
+    "10:11"
+   ],
+   "hebraico": {
+    "lema": "עָנָן",
+    "translit": "anan",
+    "strong": "H6051"
+   },
+   "sentido": "nuvem",
+   "latim": {
+    "forma": "nubes",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A nuvem que guia o povo liga Números ao Êxodo (13:21; 40:34-38). É sinal visível da presença e da direção de Deus.",
+   "interpretacao": false
+  },
+  {
+   "id": "lun",
+   "pt": "Murmurar",
+   "refs": [
+    "14:2",
+    "14:27"
+   ],
+   "hebraico": {
+    "lema": "לוּן",
+    "translit": "lun",
+    "strong": "H3885"
+   },
+   "sentido": "queixar-se, resmungar contra",
+   "latim": {
+    "forma": "murmurati sunt",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Verbo típico das histórias do deserto. A queixa é vista como desconfiança de Deus, não apenas como reclamação.",
+   "interpretacao": false
+  },
+  {
+   "id": "matteh",
+   "pt": "Vara / tribo",
+   "refs": [
+    "17:2",
+    "17:8"
+   ],
+   "hebraico": {
+    "lema": "מַטֶּה",
+    "translit": "matteh",
+    "strong": "H4294"
+   },
+   "sentido": "vara, cajado; também tribo",
+   "latim": {
+    "forma": "virga",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A mesma palavra significa vara e tribo. No capítulo 17, cada tribo é representada por uma vara, e a de Levi floresce.",
+   "interpretacao": false
+  },
+  {
+   "id": "meribah",
+   "pt": "Briga / Meribá",
+   "refs": [
+    "20:13",
+    "20:24"
+   ],
+   "hebraico": {
+    "lema": "מְרִיבָה",
+    "translit": "meribah",
+    "strong": "H4808"
+   },
+   "sentido": "contenda, briga",
+   "latim": {
+    "forma": "aqua Contradictionis",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O nome do lugar lembra a briga do povo com Deus. Salmos 95:8 e 106:32 relembram o episódio.",
+   "interpretacao": false
+  },
+  {
+   "id": "saraf",
+   "pt": "Serpente ardente",
+   "refs": [
+    "21:6",
+    "21:8"
+   ],
+   "hebraico": {
+    "lema": "שָׂרָף",
+    "translit": "saraf",
+    "strong": "H8314"
+   },
+   "sentido": "ardente, abrasador; um tipo de serpente",
+   "latim": {
+    "forma": "serpentem aeneum",
+    "nota": "A Vulgata em 21:9 diz serpentem aeneum, \"serpente de bronze\"."
+   },
+   "outras": [],
+   "explicacao": "A palavra liga-se a \"queimar\", talvez pela dor da picada. A mesma palavra, no plural, designa os serafins de Isaías 6.",
+   "interpretacao": false
+  },
+  {
+   "id": "nechoshet",
+   "pt": "Bronze",
+   "refs": [
+    "21:9"
+   ],
+   "hebraico": {
+    "lema": "נְחֹשֶׁת",
+    "translit": "nechoshet",
+    "strong": "H5178"
+   },
+   "sentido": "bronze, cobre",
+   "latim": {
+    "forma": "aeneum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Há jogo de palavras entre nachash (serpente) e nechoshet (bronze). Em 2 Reis 18:4 a peça é chamada de Neustã.",
+   "interpretacao": false
+  },
+  {
+   "id": "tsitsit",
+   "pt": "Franja",
+   "refs": [
+    "15:38",
+    "15:39"
+   ],
+   "hebraico": {
+    "lema": "צִיצִת",
+    "translit": "tsitsit",
+    "strong": "H6734"
+   },
+   "grego": {
+    "lema": "κράσπεδον",
+    "translit": "kraspedon",
+    "strong": "G2899"
+   },
+   "sentido": "franja, borla",
+   "latim": {
+    "forma": "fimbrias",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Os judeus observantes usam até hoje franjas nas roupas e no xale de oração. Os Evangelhos mencionam a \"orla\" (franja) do manto de Jesus.",
+   "interpretacao": false
+  },
+  {
+   "id": "kokhav",
+   "pt": "Estrela",
+   "refs": [
+    "24:17"
+   ],
+   "hebraico": {
+    "lema": "כּוֹכָב",
+    "translit": "kokhav",
+    "strong": "H3556"
+   },
+   "sentido": "estrela",
+   "latim": {
+    "forma": "orietur stella ex Iacob",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "No séc. II d.C., o líder da revolta judaica contra Roma foi chamado Bar Kokhba, \"filho da estrela\", numa alusão a 24:17.",
+   "interpretacao": true
+  },
+  {
+   "id": "goel-hadam",
+   "pt": "Vingador do sangue",
+   "refs": [
+    "35:12",
+    "35:19"
+   ],
+   "hebraico": {
+    "lema": "גֹּאֵל הַדָּם",
+    "translit": "go'el haddam",
+    "strong": "H1350, H1818"
+   },
+   "sentido": "o parente responsável por punir a morte de um familiar",
+   "latim": {
+    "forma": "propinquus occisi",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O go'el era o parente que defendia a família. As cidades de refúgio limitam a vingança e garantem julgamento diante da comunidade.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "ketef-hinom",
+   "titulo": "Rolos de prata de Ketef Hinom",
+   "refs": [
+    "6:24-26"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Rolos (amuletos) de prata de Ketef Hinom",
+   "referencia": "Israel Museum, Jerusalém; encontrados em 1979 pela equipe de Gabriel Barkay",
+   "data_fonte": "c. fim do séc. VII ou início do séc. VI a.C.",
+   "data_evento": "uso da bênção sacerdotal no período do Primeiro Templo",
+   "resumo": "Dois pequenos rolos de prata, achados numa tumba em Jerusalém, trazem gravada uma forma da bênção \"O SENHOR te abençoe e te guarde...\".",
+   "relacao": "São o texto bíblico mais antigo conhecido, séculos anteriores aos Manuscritos do Mar Morto, e mostram que a bênção de 6:24-26 já era usada em Jerusalém antes do exílio. A data exata foi debatida, mas a maioria aceita o fim do Primeiro Templo.",
+   "grau": "documentado"
+  },
+  {
+   "id": "deir-alla",
+   "titulo": "A inscrição de Balaão em Deir Alla",
+   "refs": [
+    "22:5",
+    "24:2"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Inscrição de Deir Alla",
+   "referencia": "Amã, Jordânia; encontrada em 1967 em Tell Deir Alla, Jordânia",
+   "data_fonte": "c. séc. VIII a.C.",
+   "data_evento": "tradição sobre o vidente Balaão",
+   "resumo": "Texto pintado em reboco de parede, que fala de \"Balaão, filho de Beor, vidente dos deuses\", que recebe uma visão noturna de desgraça.",
+   "relacao": "É a menção extrabíblica de Balaão filho de Beor, com o mesmo nome e pai de 22:5. Mostra que ele era figura conhecida na região. O conteúdo da visão é diferente do relato bíblico.",
+   "grau": "documentado"
+  },
+  {
+   "id": "mesa-gade",
+   "titulo": "Estela de Mesa: os homens de Gade em Atarote",
+   "refs": [
+    "32:34"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Estela de Mesa (Pedra Moabita)",
+   "referencia": "Museu do Louvre, AO 5066; encontrada em Dibom em 1868",
+   "data_fonte": "c. 840 a.C.",
+   "data_evento": "guerras de Mesa, rei de Moabe, contra Israel",
+   "resumo": "O rei Mesa diz que \"os homens de Gade habitavam na terra de Atarote desde sempre\" e cita lugares como Dibom, Nebo e Aroer.",
+   "relacao": "Confirma a presença da tribo de Gade em Atarote, cidade que 32:34 diz ter sido edificada pelos filhos de Gade, e vários lugares de Números 32. É bem posterior aos fatos de Números.",
+   "grau": "documentado"
+  },
+  {
+   "id": "timna-serpente",
+   "titulo": "A serpente de cobre de Timna",
+   "refs": [
+    "21:9"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Serpente de cobre do santuário de Timna",
+   "referencia": "vale de Timna, sul de Israel (escavações de Beno Rothenberg, 1969)",
+   "data_fonte": "c. séc. XII a.C.",
+   "data_evento": "santuário de mineiros na região das minas de cobre",
+   "resumo": "Num santuário ligado a mineiros, provavelmente midianitas, foi achada uma pequena serpente de cobre com a cabeça dourada.",
+   "relacao": "Mostra que imagens de serpente em metal eram usadas na região do Arabá, onde Números situa a serpente de bronze (21:4-9). Não é a serpente de Moisés; é paralelo cultural.",
+   "grau": "associacao"
+  },
+  {
+   "id": "cades-barneia",
+   "titulo": "Cades-Barneia (Tell el-Qudeirat)",
+   "refs": [
+    "13:26",
+    "20:1"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Escavações de Tell el-Qudeirat (Ain el-Qudeirat)",
+   "referencia": "nordeste do Sinai",
+   "data_fonte": "fortalezas da Idade do Ferro (c. séc. X-VI a.C.); escavações no séc. XX",
+   "data_evento": "permanência de Israel em Cades",
+   "resumo": "O oásis mais rico da região, identificado por muitos com Cades-Barneia, tem fortalezas israelitas da época dos reis, mas não foram achados restos do fim da Idade do Bronze.",
+   "relacao": "Mostra a importância do lugar onde Israel ficou no deserto (13:26; 20:1). A falta de vestígios mais antigos é usada no debate sobre a data e a forma da peregrinação; grupos nômades deixam poucos restos.",
+   "grau": "associacao"
+  },
+  {
+   "id": "josefo-core-balaao",
+   "titulo": "Josefo reconta Coré e Balaão",
+   "refs": [
+    "16:1-35",
+    "22:5-6"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 4, caps. 2-4 (Coré) e cap. 6 (Balaão)",
+   "data_fonte": "c. 93-94 d.C.",
+   "data_evento": "rebelião de Coré e episódio de Balaão",
+   "resumo": "Josefo reconta as histórias de Números para leitores gregos e romanos, com discursos e detalhes próprios.",
+   "relacao": "Mostra como esses episódios eram lidos no judaísmo do séc. I. É releitura do texto bíblico, não fonte independente dos fatos.",
+   "grau": "associacao"
+  }
+ ]
+}

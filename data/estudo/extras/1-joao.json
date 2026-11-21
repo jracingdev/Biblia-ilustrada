@@ -1,0 +1,354 @@
+{
+ "livro": "1-joao",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:1-3",
+   "titulo": "O que vimos e tocamos",
+   "descricao": "O autor anuncia o que viu com os olhos e tocou com as mãos: a Palavra da vida, para que os leitores tenham comunhão com ele.",
+   "alt": "Um ancião fala a uma comunidade, com as mãos abertas, lembrando o que viu.",
+   "prompt": "An aged apostle with a long white beard seated among a community of believers in Asia Minor, his open hands raised as he recounts what he has seen and touched, listeners of all ages leaning in, warm lamplight"
+  },
+  {
+   "id": "q02",
+   "capitulo": 1,
+   "ref": "1:5-7",
+   "titulo": "Andar na luz",
+   "descricao": "Deus é luz e nele não há trevas; quem anda na luz tem comunhão com os irmãos.",
+   "alt": "Pessoas caminham juntas de uma rua escura para um pátio banhado de luz.",
+   "prompt": "A group of believers walking together out of a shadowed alley into a courtyard flooded with warm morning sunlight, faces lifting toward the light, a sense of fellowship and openness"
+  },
+  {
+   "id": "q03",
+   "capitulo": 2,
+   "ref": "2:12-14",
+   "titulo": "Filhinhos, pais e jovens",
+   "descricao": "O ancião escreve a todas as idades: aos filhinhos, porque seus pecados são perdoados; aos pais, porque conhecem aquele que é desde o princípio; aos jovens, porque venceram o maligno.",
+   "alt": "Uma igreja reunida com crianças, jovens e idosos ouvindo a leitura de uma carta.",
+   "prompt": "A gathered house church with small children on the floor, strong young men and women standing, and elderly fathers seated, all listening to a reader with a letter, light from a window, warm and familial atmosphere"
+  },
+  {
+   "id": "q04",
+   "capitulo": 3,
+   "ref": "3:17-18",
+   "titulo": "Amar por obras e em verdade",
+   "descricao": "Quem tem bens e vê o irmão em necessidade sem se compadecer, como pode ter o amor de Deus? Amemos não de palavra, mas por obras.",
+   "alt": "Um homem entrega seu manto e pão a um irmão pobre na rua.",
+   "prompt": "A first-century believer in a modest tunic giving his warm cloak and a loaf of bread to a poor brother sitting by a wall in a cold street, both faces kind, early evening light"
+  },
+  {
+   "id": "q05",
+   "capitulo": 4,
+   "ref": "4:7-11",
+   "titulo": "Deus é amor",
+   "descricao": "Amemos uns aos outros, porque o amor vem de Deus; quem não ama não conhece a Deus, porque Deus é amor.",
+   "alt": "Membros de uma comunidade se abraçam e partilham uma refeição.",
+   "prompt": "A diverse first-century Christian community sharing a simple meal, an elder embracing a young man, a woman caring for a child, slaves and free seated together, soft golden light"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "luz-trevas",
+   "termo": "Luz e trevas",
+   "ref": "1:5-7",
+   "explicado": true,
+   "significado": "O texto explica: Deus é luz; andar na luz é viver na verdade e em comunhão; dizer que está na luz e odiar o irmão é estar nas trevas (2:9)."
+  },
+  {
+   "id": "advogado",
+   "termo": "Advogado",
+   "ref": "2:1",
+   "explicado": false,
+   "significado": "Jesus, o justo, defende diante do Pai quem pecou. A palavra é parakletos, que João também usa para o Espírito."
+  },
+  {
+   "id": "uncao",
+   "termo": "Unção",
+   "ref": "2:20",
+   "explicado": false,
+   "significado": "Os crentes receberam a unção do Santo e conhecem a verdade. Muitos entendem como o Espírito Santo; outros, como a palavra recebida."
+  },
+  {
+   "id": "anticristo",
+   "termo": "Anticristo",
+   "ref": "2:18-22",
+   "explicado": true,
+   "significado": "João é o único autor do NT que usa a palavra, e a explica: é quem nega que Jesus é o Cristo e nega o Pai e o Filho. Diz que já há \"muitos anticristos\"."
+  },
+  {
+   "id": "caim",
+   "termo": "Caim",
+   "ref": "3:12",
+   "explicado": true,
+   "significado": "Exemplo negativo: era do maligno e matou o irmão porque suas obras eram más. O ódio é o contrário do amor."
+  },
+  {
+   "id": "agua-sangue",
+   "termo": "Água e sangue",
+   "ref": "5:6-8",
+   "explicado": false,
+   "significado": "Jesus veio \"por água e sangue\". Leituras: batismo e cruz; o sangue e a água do lado de Jesus (Jo 19:34); ou os sacramentos."
+  },
+  {
+   "id": "filhinhos",
+   "termo": "Filhinhos",
+   "ref": "2:1",
+   "explicado": false,
+   "significado": "Forma carinhosa com que o ancião trata os leitores, como um pai espiritual."
+  },
+  {
+   "id": "idolos",
+   "termo": "Ídolos",
+   "ref": "5:21",
+   "explicado": false,
+   "significado": "A carta termina com: guardai-vos dos ídolos. Pode ser literal (idolatria pagã) ou abranger tudo o que toma o lugar do Deus verdadeiro."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "logos",
+   "pt": "Palavra",
+   "refs": [
+    "1:1"
+   ],
+   "grego": {
+    "lema": "λόγος",
+    "translit": "lógos",
+    "strong": "G3056"
+   },
+   "sentido": "palavra, razão, mensagem",
+   "latim": {
+    "forma": "Verbum vitae",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "\"A Palavra da vida\" lembra o começo do Evangelho de João (Jo 1:1).",
+   "interpretacao": false
+  },
+  {
+   "id": "koinonia-1jo",
+   "pt": "Comunhão",
+   "refs": [
+    "1:3",
+    "1:7"
+   ],
+   "grego": {
+    "lema": "κοινωνία",
+    "translit": "koinōnía",
+    "strong": "G2842"
+   },
+   "sentido": "comunhão, participação",
+   "latim": {
+    "forma": "societas",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O objetivo da carta é a comunhão com Deus e uns com os outros.",
+   "interpretacao": false
+  },
+  {
+   "id": "phos",
+   "pt": "Luz",
+   "refs": [
+    "1:5",
+    "2:8"
+   ],
+   "grego": {
+    "lema": "φῶς",
+    "translit": "phōs",
+    "strong": "G5457"
+   },
+   "sentido": "luz",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "אוֹר",
+     "translit": "'or",
+     "strong": "H216",
+     "ref": "Sl 27:1"
+    }
+   ],
+   "latim": {
+    "forma": "lux",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "\"Deus é luz\": uma das três grandes afirmações da carta sobre Deus, com \"Deus é amor\" (4:8).",
+   "interpretacao": false
+  },
+  {
+   "id": "parakletos",
+   "pt": "Advogado",
+   "refs": [
+    "2:1"
+   ],
+   "grego": {
+    "lema": "παράκλητος",
+    "translit": "paráklētos",
+    "strong": "G3875"
+   },
+   "sentido": "chamado para o lado; defensor",
+   "latim": {
+    "forma": "advocatum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A mesma palavra do \"Consolador\" de João 14–16.",
+   "interpretacao": false
+  },
+  {
+   "id": "hilasmos",
+   "pt": "Sacrifício pelo perdão",
+   "refs": [
+    "2:2",
+    "4:10"
+   ],
+   "grego": {
+    "lema": "ἱλασμός",
+    "translit": "hilasmós",
+    "strong": "G2434"
+   },
+   "sentido": "expiação, propiciação",
+   "latim": {
+    "forma": "propitiatio",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "As traduções variam entre \"propiciação\", \"expiação\" e \"sacrifício pelo perdão\", com nuances teológicas diferentes.",
+   "interpretacao": true
+  },
+  {
+   "id": "antichristos",
+   "pt": "Anticristo",
+   "refs": [
+    "2:18",
+    "2:22",
+    "4:3"
+   ],
+   "grego": {
+    "lema": "ἀντίχριστος",
+    "translit": "antíchristos",
+    "strong": "G500"
+   },
+   "sentido": "contra Cristo ou no lugar de Cristo",
+   "latim": {
+    "forma": "antichristus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Só aparece nas cartas de João. Ver símbolos.",
+   "interpretacao": false
+  },
+  {
+   "id": "meno",
+   "pt": "Permanecer",
+   "refs": [
+    "2:24",
+    "4:16"
+   ],
+   "grego": {
+    "lema": "μένω",
+    "translit": "ménō",
+    "strong": "G3306"
+   },
+   "sentido": "permanecer, habitar",
+   "latim": {
+    "forma": "manere",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Verbo muito repetido: permanecer em Deus e Deus em nós.",
+   "interpretacao": false
+  },
+  {
+   "id": "agape-1jo",
+   "pt": "Amor",
+   "refs": [
+    "4:8",
+    "4:16"
+   ],
+   "grego": {
+    "lema": "ἀγάπη",
+    "translit": "agápē",
+    "strong": "G26"
+   },
+   "sentido": "amor",
+   "latim": {
+    "forma": "caritas",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "\"Deus é amor\" (4:8,16). Na Vulgata: Deus caritas est, título de uma encíclica de Bento XVI.",
+   "interpretacao": false
+  },
+  {
+   "id": "nikao",
+   "pt": "Vencer",
+   "refs": [
+    "2:13",
+    "5:4"
+   ],
+   "grego": {
+    "lema": "νικάω",
+    "translit": "nikáō",
+    "strong": "G3528"
+   },
+   "sentido": "vencer",
+   "latim": {
+    "forma": "vincere",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Dessa raiz vem Nike, deusa da vitória. A vitória que vence o mundo é a fé.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "comma",
+   "titulo": "A frase acrescentada em 5:7-8 (Comma Johanneum)",
+   "refs": [
+    "5:7-8"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Manuscritos gregos e latinos de 1 João",
+   "referencia": "Ausente dos manuscritos gregos antigos; aparece em manuscritos latinos a partir de c. séc. IV–V e em poucos manuscritos gregos tardios",
+   "data_fonte": "Acréscimo latino tardio; impresso por Erasmo em 1522",
+   "data_evento": "Debate textual desde a Idade Média",
+   "resumo": "Algumas Bíblias antigas trazem em 5:7-8 a frase \"no céu: o Pai, a Palavra e o Espírito Santo, e estes três são um\". Ela não está nos manuscritos gregos antigos nem nas primeiras versões.",
+   "relacao": "Por isso a maioria das traduções modernas, como a Bíblia Livre aqui usada, não a inclui. Erasmo a colocou em sua 3ª edição do NT grego, e ela passou para muitas Bíblias da época.",
+   "grau": "documentado"
+  },
+  {
+   "id": "policarpo-1jo",
+   "titulo": "Policarpo cita 1 João",
+   "refs": [
+    "4:2-3"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Policarpo de Esmirna, Carta aos Filipenses",
+   "referencia": "cap. 7, §1",
+   "data_fonte": "c. 110-140 d.C.",
+   "data_evento": "Início do séc. II",
+   "resumo": "Policarpo escreve que todo aquele que não confessa que Jesus Cristo veio em carne é anticristo.",
+   "relacao": "Eco muito próximo de 4:2-3 e 2 João 7, mostrando que o ensino da carta circulava cedo na Ásia Menor.",
+   "grau": "documentado"
+  },
+  {
+   "id": "cerinto",
+   "titulo": "João e Cerinto",
+   "refs": [
+    "2:22"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Ireneu de Lião, Contra as Heresias",
+   "referencia": "livro 3, cap. 3, §4 e livro 1, cap. 26, §1",
+   "data_fonte": "c. 180 d.C.",
+   "data_evento": "Fins do séc. I d.C.",
+   "resumo": "Ireneu relata, por meio de Policarpo, que João saiu de um banho público em Éfeso ao ver ali Cerinto, que ensinava que o Cristo desceu sobre Jesus no batismo e o deixou antes da cruz.",
+   "relacao": "Muitos estudiosos pensam que ideias assim estão por trás das advertências da carta contra quem nega que Jesus é o Cristo vindo em carne. É uma hipótese provável, não certa.",
+   "grau": "associacao"
+  }
+ ]
+}

@@ -1,0 +1,284 @@
+{
+ "livro": "joel",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:4-7",
+   "titulo": "A terra devorada pelos gafanhotos",
+   "descricao": "Uma nuvem de gafanhotos cobre os campos de Judá e deixa vinhas e figueiras despidas; os lavradores olham em silêncio.",
+   "alt": "Lavradores de Judá contemplam uma vinha e uma figueira sem folhas enquanto uma nuvem de gafanhotos escurece o céu.",
+   "prompt": "Ancient Judean farmers in simple wool tunics standing at the edge of a vineyard stripped bare, fig tree with white peeled branches, a dark swarm of locusts filling the sky over the hills, dust in the air, somber late afternoon light, wide landscape composition"
+  },
+  {
+   "id": "q02",
+   "capitulo": 2,
+   "ref": "2:12-17",
+   "titulo": "Rasgai o coração",
+   "descricao": "Os sacerdotes choram entre o pórtico e o altar e o povo de Jerusalém, de todas as idades, se reúne em jejum diante do templo.",
+   "alt": "Sacerdotes em vestes de linho choram entre o pórtico do templo e o altar, diante de uma multidão reunida em jejum.",
+   "prompt": "Priests in white linen robes kneeling and weeping between the temple porch and a stone altar in ancient Jerusalem, a crowd of elders, mothers with infants and young couples gathered behind them in sackcloth, a ram's horn trumpeter on the steps, soft grey morning light, solemn atmosphere"
+  },
+  {
+   "id": "q03",
+   "capitulo": 3,
+   "ref": "3:9-14",
+   "titulo": "Multidões no vale da decisão",
+   "descricao": "As nações são reunidas num grande vale sob um céu escurecido, à espera do julgamento do SENHOR.",
+   "alt": "Multidões de muitos povos se aglomeram num vale amplo sob um céu escuro em que o sol e a lua perdem o brilho.",
+   "prompt": "Vast crowds of ancient peoples in varied garments gathered in a deep valley between rocky hills, sun and moon dimmed behind heavy clouds, a radiant light breaking from above over Mount Zion in the distance, no violence, awe and expectation on faces, epic panoramic composition"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "gafanhotos",
+   "termo": "Os gafanhotos",
+   "ref": "1:4",
+   "explicado": false,
+   "significado": "O texto descreve uma praga real de gafanhotos em quatro ondas. Em 2:25 eles são chamados de 'meu grande exército', e muitos leitores veem neles também uma imagem de exércitos invasores; a medida dessa leitura é discutida."
+  },
+  {
+   "id": "dia-do-senhor",
+   "termo": "O Dia do SENHOR",
+   "ref": "1:15",
+   "explicado": false,
+   "significado": "Expressão central do livro: o tempo em que Deus intervém para julgar e salvar. Joel aplica-a à crise presente (1:15) e a um futuro maior (2:31; 3:14)."
+  },
+  {
+   "id": "trombeta",
+   "termo": "A trombeta em Sião",
+   "ref": "2:1",
+   "explicado": false,
+   "significado": "O shofar soa para alarmar diante do perigo (2:1) e para convocar o jejum e a assembleia (2:15)."
+  },
+  {
+   "id": "vestes-coracao",
+   "termo": "Rasgar o coração, não as vestes",
+   "ref": "2:13",
+   "explicado": true,
+   "significado": "Rasgar as roupas era sinal de luto. O próprio texto explica que Deus quer o arrependimento interior, não só o gesto exterior."
+  },
+  {
+   "id": "derramamento",
+   "termo": "Espírito derramado como chuva",
+   "ref": "2:28",
+   "explicado": false,
+   "significado": "Depois das chuvas que restauram a terra (2:23), Deus promete derramar seu Espírito sobre todos. Pedro cita o texto em Atos 2:16-21."
+  },
+  {
+   "id": "sol-lua",
+   "termo": "Sol escurecido e lua em sangue",
+   "ref": "2:31",
+   "explicado": false,
+   "significado": "Sinais no céu que acompanham o Dia do SENHOR. Muitos entendem como linguagem simbólica de grande abalo; outros, como fenômenos literais."
+  },
+  {
+   "id": "vale-josafa",
+   "termo": "O vale de Josafá",
+   "ref": "3:2",
+   "explicado": true,
+   "significado": "O nome significa 'o SENHOR julga', e o texto diz que ali Deus entrará em juízo com as nações. Em 3:14 é chamado vale da decisão. A localização geográfica é incerta."
+  },
+  {
+   "id": "fontes",
+   "termo": "Montes que gotejam vinho e uma fonte no templo",
+   "ref": "3:18",
+   "explicado": false,
+   "significado": "Imagens de fartura e vida que saem da casa do SENHOR, ligadas por muitos a Ezequiel 47 e Apocalipse 22."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "yom-yhwh",
+   "pt": "Dia do SENHOR",
+   "refs": [
+    "1:15",
+    "2:1",
+    "2:31",
+    "3:14"
+   ],
+   "hebraico": {
+    "lema": "יוֹם יְהוָה",
+    "translit": "yom YHWH",
+    "strong": "H3117, H3068"
+   },
+   "grego": {
+    "lema": "ἡμέρα κυρίου",
+    "translit": "hēméra kyríou"
+   },
+   "sentido": "o dia em que o SENHOR age",
+   "latim": {
+    "forma": "dies Domini",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Em Joel o Dia do SENHOR é ao mesmo tempo ameaça para os rebeldes e esperança para quem invoca o nome de Deus (2:32).",
+   "interpretacao": false
+  },
+  {
+   "id": "arbeh",
+   "pt": "Gafanhoto",
+   "refs": [
+    "1:4",
+    "2:25"
+   ],
+   "hebraico": {
+    "lema": "אַרְבֶּה",
+    "translit": "arbeh",
+    "strong": "H697"
+   },
+   "grego": {
+    "lema": "ἀκρίς",
+    "translit": "akrís"
+   },
+   "sentido": "gafanhoto migrador",
+   "latim": {
+    "forma": "lucusta",
+    "nota": "A Vulgata traz eruca, lucusta, bruchus e rubigo para os quatro nomes de 1:4."
+   },
+   "outras": [],
+   "explicacao": "Joel usa quatro nomes diferentes para os insetos (1:4); não se sabe se são espécies ou fases de crescimento do mesmo gafanhoto.",
+   "interpretacao": false
+  },
+  {
+   "id": "shuv",
+   "pt": "Convertei-vos",
+   "refs": [
+    "2:12",
+    "2:13"
+   ],
+   "hebraico": {
+    "lema": "שׁוּב",
+    "translit": "shuv",
+    "strong": "H7725"
+   },
+   "grego": {
+    "lema": "ἐπιστρέφω",
+    "translit": "epistréphō"
+   },
+   "sentido": "voltar, dar meia-volta",
+   "latim": {
+    "forma": "convertimini ad me in toto corde vestro",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A palavra básica do arrependimento no AT: mudar de direção e voltar para Deus. Em 2:14 o mesmo verbo é usado para Deus que 'se volta' e se arrepende do castigo.",
+   "interpretacao": false
+  },
+  {
+   "id": "qara",
+   "pt": "Rasgai",
+   "refs": [
+    "2:13"
+   ],
+   "hebraico": {
+    "lema": "קָרַע",
+    "translit": "qara'",
+    "strong": "H7167"
+   },
+   "grego": {
+    "lema": "διαρρήγνυμι",
+    "translit": "diarrḗgnymi"
+   },
+   "sentido": "rasgar, romper",
+   "latim": {
+    "forma": "scindite corda vestra et non vestimenta vestra",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O verbo do luto exterior é aplicado ao coração: o arrependimento verdadeiro é interior.",
+   "interpretacao": false
+  },
+  {
+   "id": "chesed",
+   "pt": "Misericórdia",
+   "refs": [
+    "2:13"
+   ],
+   "hebraico": {
+    "lema": "חֶסֶד",
+    "translit": "chesed",
+    "strong": "H2617"
+   },
+   "grego": {
+    "lema": "ἔλεος",
+    "translit": "éleos"
+   },
+   "sentido": "amor leal, bondade fiel à aliança",
+   "latim": {
+    "forma": "misericors et clemens",
+    "nota": "A frase da Vulgata em 2:13 é benignus et misericors... et multae misericordiae."
+   },
+   "outras": [],
+   "explicacao": "Joel cita a confissão de Êxodo 34:6: Deus é compassivo, misericordioso, tardio em irar-se e grande em chesed. O mesmo credo aparece em Jonas 4:2.",
+   "interpretacao": false
+  },
+  {
+   "id": "ruach",
+   "pt": "Espírito",
+   "refs": [
+    "2:28",
+    "2:29"
+   ],
+   "hebraico": {
+    "lema": "רוּחַ",
+    "translit": "ruach",
+    "strong": "H7307"
+   },
+   "grego": {
+    "lema": "πνεῦμα",
+    "translit": "pneûma",
+    "strong": "G4151"
+   },
+   "sentido": "vento, sopro, espírito",
+   "latim": {
+    "forma": "effundam spiritum meum super omnem carnem",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A promessa vai além de profetas e reis: filhos e filhas, velhos e jovens, servos e servas. Pedro a vê cumprida em Pentecostes (At 2).",
+   "interpretacao": true
+  },
+  {
+   "id": "qara-shem",
+   "pt": "Invocar o nome",
+   "refs": [
+    "2:32"
+   ],
+   "hebraico": {
+    "lema": "קָרָא בְּשֵׁם",
+    "translit": "qara' beshem",
+    "strong": "H7121, H8034"
+   },
+   "grego": {
+    "lema": "ἐπικαλέω",
+    "translit": "epikaléō"
+   },
+   "sentido": "chamar pelo nome do SENHOR",
+   "latim": {
+    "forma": "omnis qui invocaverit nomen Domini salvus erit",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Promessa de salvação aberta a 'todo aquele' que invoca o SENHOR. Paulo a cita em Romanos 10:13.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "murabbaat-joel",
+   "titulo": "Joel no rolo dos Doze Profetas de Murabba'at",
+   "refs": [
+    "1:1"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Rolo dos Doze Profetas de Wadi Murabba'at",
+   "referencia": "Mur 88 (MurXII), Museu Rockefeller / Autoridade de Antiguidades de Israel",
+   "data_fonte": "c. séc. I–II d.C.",
+   "data_evento": "descoberto em 1955",
+   "resumo": "Rolo de couro em hebraico encontrado numa caverna do deserto da Judeia, com partes dos Profetas Menores, entre eles Joel.",
+   "relacao": "Mostra que o texto de Joel circulava no início da era cristã de forma muito próxima ao texto hebraico usado hoje.",
+   "grau": "associacao"
+  }
+ ]
+}

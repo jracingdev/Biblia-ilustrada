@@ -1,0 +1,390 @@
+{
+ "livro": "galatas",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:17-18",
+   "titulo": "Da Arábia a Jerusalém",
+   "descricao": "Depois de sua conversão, Paulo vai à Arábia, volta a Damasco e, três anos depois, sobe a Jerusalém para visitar Cefas, com quem fica quinze dias.",
+   "alt": "Paulo e Pedro conversam sentados num pátio de Jerusalém.",
+   "prompt": "In a quiet courtyard in Jerusalem, the apostle Paul as a younger man and Peter, an older fisherman with a grey beard, seated together in earnest conversation, a fig tree overhead, warm afternoon light"
+  },
+  {
+   "id": "q02",
+   "capitulo": 2,
+   "ref": "2:9",
+   "titulo": "As mãos direitas da comunhão",
+   "descricao": "Tiago, Cefas e João, considerados colunas, estendem a Paulo e Barnabé a mão direita em sinal de comunhão: uns irão aos gentios, outros aos circuncisos.",
+   "alt": "Líderes da igreja apertam as mãos de Paulo e Barnabé num pátio.",
+   "prompt": "In a Jerusalem courtyard, James, Peter and John in simple robes extending their right hands to Paul and Barnabas, a young Greek companion named Titus standing nearby, solemn and friendly faces, soft light"
+  },
+  {
+   "id": "q03",
+   "capitulo": 2,
+   "ref": "2:11-14",
+   "titulo": "Paulo confronta Pedro em Antioquia",
+   "descricao": "Quando chegam alguns enviados por Tiago e Cefas deixa de comer com os gentios, por medo dos da circuncisão, Paulo o repreende face a face diante de todos.",
+   "alt": "Paulo fala firmemente a Pedro diante de uma mesa onde judeus e gentios estavam juntos.",
+   "prompt": "In a house in Antioch, a communal meal table with Jewish and Gentile believers, Peter rising and stepping away from the Gentiles, Paul standing to confront him face to face with a raised hand, Barnabas and others watching uneasily, lamplight"
+  },
+  {
+   "id": "q04",
+   "capitulo": 4,
+   "ref": "4:13-14",
+   "titulo": "Recebido como mensageiro de Deus",
+   "descricao": "Paulo lembra que anunciou o evangelho aos gálatas quando estava doente, e eles não o desprezaram: receberam-no como a um mensageiro de Deus, como ao próprio Cristo Jesus.",
+   "alt": "Paulo, doente e apoiado num bastão, é acolhido por uma família da Galácia.",
+   "prompt": "A weary and ill Paul leaning on a walking staff being welcomed into a simple stone house in the highlands of Galatia, a family offering him water and bread with kindness, rugged hills behind, cool light"
+  },
+  {
+   "id": "q05",
+   "capitulo": 5,
+   "ref": "5:22-23",
+   "titulo": "O fruto do Espírito",
+   "descricao": "Em contraste com as obras da carne, Paulo descreve o fruto do Espírito: amor, alegria, paz, paciência, benignidade, bondade, fidelidade, mansidão e domínio próprio.",
+   "alt": "Uma videira carregada de cachos maduros sob a luz suave da manhã.",
+   "prompt": "A lush vine heavy with ripe clusters of grapes and other fruit in an orchard at dawn, soft light filtering through the leaves, a calm and abundant atmosphere, no figures"
+  },
+  {
+   "id": "q06",
+   "capitulo": 6,
+   "ref": "6:11",
+   "titulo": "Letras grandes, da própria mão",
+   "descricao": "Paulo toma a pena e escreve com letras grandes o fim da carta, insistindo na cruz de Cristo.",
+   "alt": "Paulo escreve com letras grandes no fim de um papiro.",
+   "prompt": "Close view of the apostle Paul's hand writing large Greek letters at the end of a papyrus letter with a reed pen, a scribe's neat smaller writing above, an inkpot and lamp on the table, intent expression partly visible"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "tutor",
+   "termo": "Tutor (aio)",
+   "ref": "3:24-25",
+   "explicado": true,
+   "significado": "O paidagōgos era o escravo que acompanhava e vigiava a criança até a idade adulta. Paulo explica: a Lei teve essa função até Cristo; agora, pela fé, já não estamos sob tutor."
+  },
+  {
+   "id": "herdeiro-menor",
+   "termo": "Herdeiro menor de idade",
+   "ref": "4:1-2",
+   "explicado": true,
+   "significado": "O herdeiro criança não difere de um escravo até a data marcada pelo pai. Paulo aplica isso à humanidade antes de Cristo."
+  },
+  {
+   "id": "agar-sara",
+   "termo": "Agar e Sara",
+   "ref": "4:22-26",
+   "explicado": true,
+   "significado": "Paulo diz expressamente que usa a história como ilustração: as duas mulheres representam duas alianças, uma que gera para a escravidão e outra para a liberdade."
+  },
+  {
+   "id": "jugo",
+   "termo": "Jugo da escravidão",
+   "ref": "5:1",
+   "explicado": false,
+   "significado": "Peça de madeira posta sobre os bois. Paulo o usa para a tentativa de se justificar pela Lei."
+  },
+  {
+   "id": "fermento",
+   "termo": "Fermento",
+   "ref": "5:9",
+   "explicado": false,
+   "significado": "Um pouco de fermento leveda toda a massa: um ensino errado, mesmo pequeno, contamina a comunidade."
+  },
+  {
+   "id": "fruto",
+   "termo": "Fruto do Espírito",
+   "ref": "5:22",
+   "explicado": false,
+   "significado": "Fruto no singular, com nove aspectos: o caráter que o Espírito produz, em contraste com as \"obras\" da carne."
+  },
+  {
+   "id": "semear-colher",
+   "termo": "Semear e colher",
+   "ref": "6:7-8",
+   "explicado": true,
+   "significado": "O próprio Paulo explica: quem semeia para a carne colhe degradação; quem semeia para o Espírito colhe vida eterna."
+  },
+  {
+   "id": "marcas",
+   "termo": "Marcas de Jesus",
+   "ref": "6:17",
+   "explicado": false,
+   "significado": "Em grego stigmata, marcas como as que identificavam escravos ou devotos. Provavelmente as cicatrizes das perseguições sofridas por Paulo (2Co 11:23-25)."
+  },
+  {
+   "id": "dores-parto",
+   "termo": "Dores de parto",
+   "ref": "4:19",
+   "explicado": false,
+   "significado": "Paulo se compara a uma mãe que sofre de novo até que Cristo seja formado nos gálatas."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "euangelion",
+   "pt": "Evangelho",
+   "refs": [
+    "1:6-7",
+    "1:11"
+   ],
+   "grego": {
+    "lema": "εὐαγγέλιον",
+    "translit": "euangélion",
+    "strong": "G2098"
+   },
+   "sentido": "boa notícia",
+   "latim": {
+    "forma": "evangelium",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Paulo insiste que não há \"outro evangelho\" (1:6-7) e que o recebeu por revelação de Jesus Cristo (1:12).",
+   "interpretacao": false
+  },
+  {
+   "id": "anathema",
+   "pt": "Maldito",
+   "refs": [
+    "1:8-9"
+   ],
+   "grego": {
+    "lema": "ἀνάθεμα",
+    "translit": "anáthema",
+    "strong": "G331"
+   },
+   "sentido": "entregue à destruição, objeto de maldição",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "חֵרֶם",
+     "translit": "cherem",
+     "strong": "H2764",
+     "ref": "Js 7:1"
+    }
+   ],
+   "latim": {
+    "forma": "anathema",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Na Septuaginta traduz o hebraico cherem, o que era separado para destruição. Paulo usa a palavra com força contra quem altera o evangelho.",
+   "interpretacao": false
+  },
+  {
+   "id": "dikaioo",
+   "pt": "Justificar",
+   "refs": [
+    "2:16",
+    "3:24"
+   ],
+   "grego": {
+    "lema": "δικαιόω",
+    "translit": "dikaióō",
+    "strong": "G1344"
+   },
+   "sentido": "declarar justo",
+   "latim": {
+    "forma": "iustificare",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Ninguém é justificado pelas obras da Lei, mas pela fé em Cristo (2:16). O sentido de \"obras da Lei\" (toda a Lei ou marcas como circuncisão e regras de comida) é debatido.",
+   "interpretacao": true
+  },
+  {
+   "id": "nomos",
+   "pt": "Lei",
+   "refs": [
+    "2:16",
+    "3:24"
+   ],
+   "grego": {
+    "lema": "νόμος",
+    "translit": "nómos",
+    "strong": "G3551"
+   },
+   "sentido": "lei; a Lei de Moisés",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "תּוֹרָה",
+     "translit": "torah",
+     "strong": "H8451",
+     "ref": "Dt 31:9"
+    }
+   ],
+   "latim": {
+    "forma": "lex",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Em Gálatas a Lei aparece como tutor temporário até Cristo (3:24).",
+   "interpretacao": false
+  },
+  {
+   "id": "peritome",
+   "pt": "Circuncisão",
+   "refs": [
+    "5:2",
+    "5:6"
+   ],
+   "grego": {
+    "lema": "περιτομή",
+    "translit": "peritomḗ",
+    "strong": "G4061"
+   },
+   "sentido": "corte em volta",
+   "latim": {
+    "forma": "circumcisio",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Sinal da aliança com Abraão. Alguns queriam impô-la aos gentios cristãos; Paulo diz que em Cristo nem circuncisão nem incircuncisão valem, mas a fé que opera pelo amor (5:6).",
+   "interpretacao": false
+  },
+  {
+   "id": "eleutheria",
+   "pt": "Liberdade",
+   "refs": [
+    "5:1",
+    "5:13"
+   ],
+   "grego": {
+    "lema": "ἐλευθερία",
+    "translit": "eleuthería",
+    "strong": "G1657"
+   },
+   "sentido": "liberdade, condição de livre",
+   "latim": {
+    "forma": "libertas",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Liberdade da escravidão e da Lei, mas não para a carne: para servir uns aos outros pelo amor (5:13).",
+   "interpretacao": false
+  },
+  {
+   "id": "stoicheia",
+   "pt": "Princípios elementares",
+   "refs": [
+    "4:3",
+    "4:9"
+   ],
+   "grego": {
+    "lema": "στοιχεῖα",
+    "translit": "stoicheîa",
+    "strong": "G4747"
+   },
+   "sentido": "elementos, rudimentos, letras do alfabeto",
+   "latim": {
+    "forma": "elementa mundi",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Pode indicar princípios básicos de religião, os elementos do mundo físico ou poderes espirituais ligados a eles. O sentido exato é debatido.",
+   "interpretacao": true
+  },
+  {
+   "id": "abba",
+   "pt": "Aba",
+   "refs": [
+    "4:6"
+   ],
+   "grego": {
+    "lema": "ἀββά",
+    "translit": "abbá",
+    "strong": "G5"
+   },
+   "sentido": "pai (aramaico)",
+   "semitico": [
+    {
+     "lingua": "aramaico",
+     "lema": "אַבָּא",
+     "translit": "'abba",
+     "ref": "4:6"
+    }
+   ],
+   "latim": {
+    "forma": "Abba Pater",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O Espírito do Filho faz o crente clamar \"Aba, Pai\", como Jesus (Mc 14:36).",
+   "interpretacao": false
+  },
+  {
+   "id": "karpos",
+   "pt": "Fruto",
+   "refs": [
+    "5:22"
+   ],
+   "grego": {
+    "lema": "καρπός",
+    "translit": "karpós",
+    "strong": "G2590"
+   },
+   "sentido": "fruto",
+   "latim": {
+    "forma": "fructus Spiritus",
+    "nota": "Daí os \"doze frutos do Espírito\" da tradição católica."
+   },
+   "outras": [],
+   "explicacao": "Ver símbolos. A Vulgata lista doze virtudes em 5:22-23, pois alguns manuscritos latinos acrescentavam itens.",
+   "interpretacao": false
+  },
+  {
+   "id": "stauros",
+   "pt": "Cruz",
+   "refs": [
+    "6:14"
+   ],
+   "grego": {
+    "lema": "σταυρός",
+    "translit": "staurós",
+    "strong": "G4716"
+   },
+   "sentido": "cruz",
+   "latim": {
+    "forma": "crux",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Paulo só se gloria na cruz: por ela o mundo está crucificado para ele e ele para o mundo.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "galatas-povo",
+   "titulo": "Os gálatas, um povo celta na Ásia Menor",
+   "refs": [
+    "3:1"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Estrabão, Geografia",
+   "referencia": "livro 12, cap. 5",
+   "data_fonte": "c. 7-23 d.C.",
+   "data_evento": "Migração celta c. 278 a.C.; província romana desde 25 a.C.",
+   "resumo": "Estrabão descreve os gálatas, descendentes de tribos celtas instaladas no centro da Anatólia, com cidades como Ancira (hoje Ancara).",
+   "relacao": "Ajuda a entender a quem Paulo escreve. Há debate se a carta foi para os gálatas étnicos do norte ou para as cidades do sul da província (Antioquia da Pisídia, Icônio, Listra, Derbe), visitadas em Atos 13–14.",
+   "grau": "associacao"
+  },
+  {
+   "id": "p46",
+   "titulo": "Gálatas no Papiro 46",
+   "refs": [
+    "1:1-2"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Papiro Chester Beatty II (𝔓46)",
+   "referencia": "Chester Beatty Library, Dublin, e Universidade de Michigan",
+   "data_fonte": "c. 200 d.C. (algumas propostas mais antigas)",
+   "data_evento": "Cópia das cartas de Paulo",
+   "resumo": "Um dos manuscritos mais antigos das cartas de Paulo, contendo Gálatas entre outras cartas.",
+   "relacao": "Mostra que Gálatas já circulava numa coleção das cartas de Paulo por volta do ano 200.",
+   "grau": "documentado"
+  }
+ ]
+}

@@ -1,0 +1,395 @@
+{
+ "livro": "1-pedro",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:1-2",
+   "titulo": "Aos peregrinos da dispersão",
+   "descricao": "Pedro escreve aos cristãos espalhados como forasteiros pelas províncias do Ponto, Galácia, Capadócia, Ásia e Bitínia.",
+   "alt": "Um mensageiro entrega uma carta a uma pequena comunidade num vilarejo da Anatólia.",
+   "prompt": "A messenger arriving at a small village in the highlands of Asia Minor, handing a scroll to a group of humble believers outside a stone house, mountains of Cappadocia behind, sober and hopeful faces, evening light"
+  },
+  {
+   "id": "q02",
+   "capitulo": 1,
+   "ref": "1:6-7",
+   "titulo": "Ouro provado pelo fogo",
+   "descricao": "A fé provada é mais preciosa que o ouro, que também é testado no fogo.",
+   "alt": "Um ourives aquece ouro num cadinho sobre as brasas.",
+   "prompt": "A goldsmith in a dim workshop holding a small crucible of molten gold over glowing coals with tongs, the metal shining brightly, impurities rising to the surface, warm firelight on his face"
+  },
+  {
+   "id": "q03",
+   "capitulo": 2,
+   "ref": "2:4-5",
+   "titulo": "Pedras vivas",
+   "descricao": "Os crentes, como pedras vivas, são edificados como casa espiritual sobre Cristo, a pedra viva rejeitada pelos homens e escolhida por Deus.",
+   "alt": "Pedreiros encaixam pedras numa parede, com uma grande pedra angular em destaque.",
+   "prompt": "Stonemasons fitting carefully hewn stones into a rising wall, a large cornerstone set prominently at the corner, sunlight falling across the work, the stones subtly varied as if each were unique"
+  },
+  {
+   "id": "q04",
+   "capitulo": 3,
+   "ref": "3:20-21",
+   "titulo": "A arca e as águas",
+   "descricao": "Nos dias de Noé, poucas pessoas, oito, foram salvas por meio da água; Pedro vê nisso uma figura do batismo.",
+   "alt": "A arca de Noé flutua em águas calmas sob um céu que clareia.",
+   "prompt": "Noah's great wooden ark floating on calm waters after the flood under a clearing sky, soft light breaking through the clouds, a sense of rescue and peace, no bodies or violence"
+  },
+  {
+   "id": "q05",
+   "capitulo": 5,
+   "ref": "5:1-4",
+   "titulo": "Pastoreai o rebanho",
+   "descricao": "Pedro, ancião como eles, exorta os líderes a pastorearem o rebanho de Deus de boa vontade, sem ganância e como exemplo.",
+   "alt": "Um ancião cuida de ovelhas numa colina ao amanhecer.",
+   "prompt": "An elder of the church in a simple cloak tending a flock of sheep on a hillside at dawn, carrying a lamb in his arms, the other sheep following, gentle golden light"
+  },
+  {
+   "id": "q06",
+   "capitulo": 5,
+   "ref": "5:12-13",
+   "titulo": "Escrito por meio de Silvano",
+   "descricao": "Pedro envia a carta por meio de Silvano e manda saudações da igreja \"que está na Babilônia\" e de Marcos, seu filho.",
+   "alt": "Pedro, idoso, dita enquanto Silvano escreve e Marcos observa.",
+   "prompt": "The aged apostle Peter with a white beard dictating a letter, Silvanus seated writing on papyrus, young Mark standing beside them, a modest room in Rome with lamplight"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "ouro-fogo",
+   "termo": "Ouro provado no fogo",
+   "ref": "1:7",
+   "explicado": true,
+   "significado": "O texto explica: assim como o ouro é testado no fogo, a fé é provada pelas aflições e se mostra preciosa."
+  },
+  {
+   "id": "cordeiro",
+   "termo": "Cordeiro sem defeito",
+   "ref": "1:19",
+   "explicado": false,
+   "significado": "Lembra o cordeiro da Páscoa e os sacrifícios do AT: Cristo é o resgate perfeito."
+  },
+  {
+   "id": "erva",
+   "termo": "Erva e flor",
+   "ref": "1:24-25",
+   "explicado": true,
+   "significado": "Citando Isaías 40, Pedro contrasta a fragilidade humana com a palavra do Senhor, que permanece."
+  },
+  {
+   "id": "leite",
+   "termo": "Leite da palavra",
+   "ref": "2:2",
+   "explicado": false,
+   "significado": "Como bebês desejam leite, os crentes devem desejar a palavra para crescer."
+  },
+  {
+   "id": "pedras-vivas",
+   "termo": "Pedras vivas",
+   "ref": "2:5",
+   "explicado": true,
+   "significado": "Os crentes formam uma casa espiritual e um sacerdócio santo, unidos a Cristo, a pedra viva."
+  },
+  {
+   "id": "sacerdocio",
+   "termo": "Sacerdócio real",
+   "ref": "2:9",
+   "explicado": false,
+   "significado": "Títulos de Israel (Êx 19:6) aplicados à igreja. A compreensão do \"sacerdócio de todos os crentes\" varia entre as tradições."
+  },
+  {
+   "id": "peregrinos",
+   "termo": "Peregrinos e estrangeiros",
+   "ref": "2:11",
+   "explicado": false,
+   "significado": "Os cristãos vivem no mundo como estrangeiros, cuja verdadeira pátria está em outro lugar."
+  },
+  {
+   "id": "pastor",
+   "termo": "Pastor e supervisor",
+   "ref": "2:25",
+   "explicado": false,
+   "significado": "Cristo é o pastor das almas; os líderes pastoreiam o rebanho sob o \"Pastor Principal\" (5:4)."
+  },
+  {
+   "id": "arca",
+   "termo": "Arca de Noé",
+   "ref": "3:20-21",
+   "explicado": true,
+   "significado": "Pedro diz que a salvação por meio da água é uma figura do batismo, que salva não por lavar o corpo, mas como pedido de boa consciência a Deus."
+  },
+  {
+   "id": "espiritos-prisao",
+   "termo": "Espíritos em prisão",
+   "ref": "3:19",
+   "explicado": false,
+   "significado": "Uma das passagens mais difíceis do NT. Leituras: Cristo anunciou sua vitória a espíritos rebeldes; pregou aos mortos; ou pregou por meio de Noé aos seus contemporâneos."
+  },
+  {
+   "id": "leao",
+   "termo": "Leão que ruge",
+   "ref": "5:8",
+   "explicado": false,
+   "significado": "O diabo é comparado a um leão faminto. A resposta é sobriedade, vigilância e firmeza na fé."
+  },
+  {
+   "id": "babilonia",
+   "termo": "Babilônia",
+   "ref": "5:13",
+   "explicado": false,
+   "significado": "A maioria entende como nome simbólico de Roma, como em Apocalipse; alguns pensaram na Babilônia da Mesopotâmia ou numa fortaleza do Egito."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "elpis-zosa",
+   "pt": "Esperança viva",
+   "refs": [
+    "1:3"
+   ],
+   "grego": {
+    "lema": "ἐλπὶς ζῶσα",
+    "translit": "elpìs zōsa",
+    "strong": "G1680, G2198"
+   },
+   "sentido": "esperança que vive",
+   "latim": {
+    "forma": "spem vivam",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Fundada na ressurreição de Jesus, a esperança não é um desejo vago, mas algo vivo.",
+   "interpretacao": false
+  },
+  {
+   "id": "parepidemos",
+   "pt": "Forasteiro",
+   "refs": [
+    "1:1",
+    "2:11"
+   ],
+   "grego": {
+    "lema": "παρεπίδημος",
+    "translit": "parepídēmos",
+    "strong": "G3927"
+   },
+   "sentido": "residente temporário",
+   "latim": {
+    "forma": "advenis",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Pode indicar condição espiritual ou também social: muitos destinatários talvez fossem estrangeiros sem plenos direitos.",
+   "interpretacao": false
+  },
+  {
+   "id": "paroikos",
+   "pt": "Estrangeiro",
+   "refs": [
+    "2:11"
+   ],
+   "grego": {
+    "lema": "πάροικος",
+    "translit": "pároikos",
+    "strong": "G3941"
+   },
+   "sentido": "morador estrangeiro",
+   "latim": {
+    "forma": "advenas",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Da palavra vem \"paróquia\": a comunidade de quem vive como estrangeiro.",
+   "interpretacao": false
+  },
+  {
+   "id": "lithos",
+   "pt": "Pedra",
+   "refs": [
+    "2:4-8"
+   ],
+   "grego": {
+    "lema": "λίθος",
+    "translit": "líthos",
+    "strong": "G3037"
+   },
+   "sentido": "pedra",
+   "latim": {
+    "forma": "lapis",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Pedro, cujo nome significa pedra, reúne três textos do AT sobre a pedra (Is 28:16; Sl 118:22; Is 8:14) e os aplica a Cristo.",
+   "interpretacao": false
+  },
+  {
+   "id": "hierateuma",
+   "pt": "Sacerdócio",
+   "refs": [
+    "2:5",
+    "2:9"
+   ],
+   "grego": {
+    "lema": "ἱεράτευμα",
+    "translit": "hieráteuma",
+    "strong": "G2406"
+   },
+   "sentido": "corpo de sacerdotes",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "מַמְלֶכֶת כֹּהֲנִים",
+     "translit": "mamlekhet kohanim",
+     "ref": "Êx 19:6"
+    }
+   ],
+   "latim": {
+    "forma": "sacerdotium",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Ver símbolos.",
+   "interpretacao": false
+  },
+  {
+   "id": "hypogrammos",
+   "pt": "Exemplo",
+   "refs": [
+    "2:21"
+   ],
+   "grego": {
+    "lema": "ὑπογραμμός",
+    "translit": "hypogrammós",
+    "strong": "G5261"
+   },
+   "sentido": "modelo de letras para a criança copiar",
+   "latim": {
+    "forma": "exemplum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Cristo deixou um modelo para seguirmos, como as letras traçadas para o aluno copiar.",
+   "interpretacao": false
+  },
+  {
+   "id": "christianos",
+   "pt": "Cristão",
+   "refs": [
+    "4:16"
+   ],
+   "grego": {
+    "lema": "Χριστιανός",
+    "translit": "Christianós",
+    "strong": "G5546"
+   },
+   "sentido": "partidário de Cristo",
+   "latim": {
+    "forma": "christianus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Sofrer \"como cristão\" sugere que o nome já podia levar a acusações, como mostram documentos do séc. II.",
+   "interpretacao": false
+  },
+  {
+   "id": "poimen",
+   "pt": "Pastor",
+   "refs": [
+    "2:25",
+    "5:4"
+   ],
+   "grego": {
+    "lema": "ποιμήν",
+    "translit": "poimḗn",
+    "strong": "G4166"
+   },
+   "sentido": "pastor",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "רֹעֶה",
+     "translit": "ro'eh",
+     "ref": "Sl 23:1"
+    }
+   ],
+   "latim": {
+    "forma": "pastor",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Pedro chama Cristo de Pastor Principal (archipoimēn, 5:4).",
+   "interpretacao": false
+  },
+  {
+   "id": "charis-1pe",
+   "pt": "Graça",
+   "refs": [
+    "5:10",
+    "5:12"
+   ],
+   "grego": {
+    "lema": "χάρις",
+    "translit": "cháris",
+    "strong": "G5485"
+   },
+   "sentido": "favor gratuito",
+   "latim": {
+    "forma": "gratia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A carta termina dizendo que essa é a verdadeira graça de Deus, na qual devem permanecer firmes (5:12).",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "plinio-bitinia",
+   "titulo": "Os cristãos da Bitínia",
+   "refs": [
+    "1:1",
+    "4:16"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Plínio, o Jovem, Cartas",
+   "referencia": "livro 10, carta 96 (a Trajano), e resposta 97",
+   "data_fonte": "c. 111-113 d.C.",
+   "data_evento": "c. 111-113 d.C.",
+   "resumo": "Governador do Ponto e Bitínia, Plínio pergunta ao imperador Trajano como agir com pessoas acusadas de serem cristãs; diz que muitos de todas as idades e classes seguiam a nova fé e que se reuniam antes do amanhecer para cantar a Cristo \"como a um deus\".",
+   "relacao": "Confirma comunidades cristãs numerosas numa das regiões citadas em 1:1 e mostra que o simples nome de cristão já podia levar a processo (4:16), embora algumas décadas depois.",
+   "grau": "documentado"
+  },
+  {
+   "id": "papias-babilonia",
+   "titulo": "\"Babilônia\" como Roma",
+   "refs": [
+    "5:13"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Eusébio de Cesareia, História Eclesiástica (citando Papias e Clemente de Alexandria)",
+   "referencia": "livro 2, cap. 15, §2",
+   "data_fonte": "c. 325 d.C.",
+   "data_evento": "séc. I d.C.",
+   "resumo": "Eusébio diz, apoiado em Papias e Clemente, que Pedro escreveu sua primeira carta em Roma, chamando a cidade figuradamente de Babilônia, e que Marcos estava com ele.",
+   "relacao": "Testemunho antigo da leitura de 5:13 como referência a Roma.",
+   "grau": "documentado"
+  },
+  {
+   "id": "tacito-nero",
+   "titulo": "A perseguição de Nero",
+   "refs": [
+    "4:12"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Tácito, Anais",
+   "referencia": "livro 15, cap. 44",
+   "data_fonte": "c. 116 d.C.",
+   "data_evento": "64 d.C.",
+   "resumo": "Tácito descreve a perseguição de Nero aos cristãos em Roma, odiados pelo povo por causa de seus \"crimes\".",
+   "relacao": "Se a carta foi escrita em Roma por volta dos anos 60, o \"fogo ardente\" (4:12) pode refletir esse clima. A data e a extensão das perseguições citadas na carta são debatidas.",
+   "grau": "associacao"
+  }
+ ]
+}

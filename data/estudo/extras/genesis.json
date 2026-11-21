@@ -1,0 +1,943 @@
+{
+ "livro": "genesis",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:1-5",
+   "titulo": "Haja luz",
+   "descricao": "Sobre as águas escuras do abismo, a primeira luz rompe as trevas quando Deus diz: Haja luz.",
+   "alt": "Luz intensa irrompendo sobre um oceano escuro e agitado, sem figuras humanas.",
+   "prompt": "primordial dark ocean under a starless void, a vast radiant light breaking through the darkness from above, mist moving over the surface of the waters, no human figures, sense of immense scale and stillness"
+  },
+  {
+   "id": "q02",
+   "capitulo": 2,
+   "ref": "2:15-20",
+   "titulo": "Adão no jardim do Éden",
+   "descricao": "O homem cuida do jardim e dá nome aos animais que Deus traz até ele.",
+   "alt": "Homem jovem num jardim exuberante, cercado de animais, junto a um rio.",
+   "prompt": "a young man with a simple wrap of leaves standing in a lush garden by a clear river, many animals around him, lion, deer, birds, sheep, a great tree in the center, soft golden morning light, peaceful harmony"
+  },
+  {
+   "id": "q03",
+   "capitulo": 3,
+   "ref": "3:22-24",
+   "titulo": "Expulsão do Éden",
+   "descricao": "Adão e Eva, vestidos com roupas de pele, saem do jardim; querubins e uma espada flamejante guardam o caminho da árvore da vida.",
+   "alt": "Homem e mulher com túnicas de pele deixando um jardim, com um querubim e uma espada de fogo atrás.",
+   "prompt": "a man and a woman in simple garments of animal skin walking away from a luminous garden into a rocky barren land, heads bowed in sorrow, behind them at the eastern gate a majestic dignified cherub and a turning flaming sword, dramatic dusk light"
+  },
+  {
+   "id": "q04",
+   "capitulo": 4,
+   "ref": "4:3-5",
+   "titulo": "As ofertas de Caim e Abel",
+   "descricao": "Caim oferece frutos da terra e Abel, os primeiros animais do rebanho; Deus se agrada da oferta de Abel.",
+   "alt": "Dois irmãos diante de altares de pedra, um com frutos e outro com um cordeiro.",
+   "prompt": "two brothers in rough ancient clothing at two simple stone altars in an open field, one with sheaves and fruits, the other a young shepherd with a lamb, smoke from one altar rising straight to the sky, the farmer looking on with a troubled face, evening light"
+  },
+  {
+   "id": "q05",
+   "capitulo": 6,
+   "ref": "6:14-22",
+   "titulo": "Noé constrói a arca",
+   "descricao": "Noé e sua família constroem a grande arca de madeira, calafetada com betume, como Deus mandou.",
+   "alt": "Um homem idoso e sua família trabalhando no casco de uma enorme embarcação de madeira.",
+   "prompt": "an elderly bearded man and his sons building an enormous wooden ark on dry land, scaffolding, timber beams, pots of pitch, women carrying provisions, hills in the background, warm afternoon light, sense of great scale"
+  },
+  {
+   "id": "q06",
+   "capitulo": 7,
+   "ref": "7:17-24",
+   "titulo": "O dilúvio",
+   "descricao": "As águas sobem e cobrem os montes; só a arca flutua sobre o mar imenso.",
+   "alt": "A arca de madeira flutuando sozinha num mar sem fim sob chuva pesada.",
+   "prompt": "a great wooden ark floating alone on a vast stormy sea under heavy rain and dark clouds, only the tips of distant mountain peaks visible above the water, seen from a distance, solemn and sober atmosphere"
+  },
+  {
+   "id": "q07",
+   "capitulo": 8,
+   "ref": "8:11",
+   "titulo": "A pomba com a folha de oliveira",
+   "descricao": "A pomba volta à arca ao entardecer trazendo no bico uma folha de oliveira: as águas estão baixando.",
+   "alt": "Um homem idoso na janela da arca recebendo uma pomba com um ramo verde no bico.",
+   "prompt": "an elderly bearded man leaning from a window of the wooden ark, gently receiving a white dove carrying a fresh olive leaf in its beak, calm water below, evening sky clearing with soft golden light"
+  },
+  {
+   "id": "q08",
+   "capitulo": 9,
+   "ref": "9:12-17",
+   "titulo": "O arco nas nuvens",
+   "descricao": "Depois do dilúvio, Noé e sua família veem o arco-íris, sinal da aliança de Deus com a terra.",
+   "alt": "Família de pé junto a um altar de pedra olhando um arco-íris sobre os montes.",
+   "prompt": "Noah and his family standing beside a simple stone altar on a mountainside, the ark resting in the distance, animals spreading over the green land, a brilliant rainbow arching across clearing clouds, faces lifted in gratitude"
+  },
+  {
+   "id": "q09",
+   "capitulo": 11,
+   "ref": "11:1-9",
+   "titulo": "A torre de Babel",
+   "descricao": "Na planície de Sinear, os homens levantam com tijolos uma cidade e uma torre que quer tocar o céu.",
+   "alt": "Multidão de trabalhadores construindo uma torre alta de tijolos numa planície.",
+   "prompt": "a crowd of ancient Mesopotamian workers building a towering stepped brick tower on a wide plain, kilns firing bricks, bitumen used as mortar, scaffolding and ramps, some workers looking at each other in confusion, dramatic clouds above"
+  },
+  {
+   "id": "q10",
+   "capitulo": 12,
+   "ref": "12:4-6",
+   "titulo": "Abrão parte para Canaã",
+   "descricao": "Aos 75 anos, Abrão deixa Harã com Sarai, Ló, servos e rebanhos rumo à terra que Deus mostraria.",
+   "alt": "Caravana de pastores com camelos, ovelhas e tendas atravessando colinas.",
+   "prompt": "a caravan of ancient Near Eastern semi-nomadic shepherds crossing rolling hills, an older bearded man with a staff leading, his wife on a donkey, servants, flocks of sheep and goats, rolled tents, long road toward a distant land, morning light"
+  },
+  {
+   "id": "q11",
+   "capitulo": 15,
+   "ref": "15:5-6",
+   "titulo": "Conta as estrelas",
+   "descricao": "Deus leva Abrão para fora da tenda e lhe diz para contar as estrelas: assim seria sua descendência.",
+   "alt": "Homem idoso fora de uma tenda à noite olhando um céu cheio de estrelas.",
+   "prompt": "an old bearded man in robes standing outside his goat-hair tent at night in the desert, gazing up in awe at a sky filled with countless stars, the Milky Way bright, a faint warm glow around him"
+  },
+  {
+   "id": "q12",
+   "capitulo": 18,
+   "ref": "18:1-8",
+   "titulo": "Os três visitantes em Manre",
+   "descricao": "Abraão recebe três visitantes à porta da tenda, no calor do dia, e lhes serve uma refeição sob a árvore.",
+   "alt": "Homem idoso servindo comida a três homens sentados à sombra de uma grande árvore.",
+   "prompt": "an elderly bearded man serving bread, curds and meat to three dignified travelers seated in the shade of great oak trees beside a tent, his wife listening at the tent entrance, bright midday heat"
+  },
+  {
+   "id": "q13",
+   "capitulo": 19,
+   "ref": "19:15-26",
+   "titulo": "A fuga de Sodoma",
+   "descricao": "Ló e suas filhas fogem enquanto fogo cai sobre as cidades da planície; a mulher de Ló olha para trás.",
+   "alt": "Pessoas fugindo por um caminho montanhoso com uma cidade em chamas ao longe.",
+   "prompt": "a man and his two daughters hurrying along a mountain path at dawn, a distant city on the plain engulfed in fire and smoke far behind them, a woman behind them turned back looking, becoming a pale pillar, seen from a distance, sober mood"
+  },
+  {
+   "id": "q14",
+   "capitulo": 21,
+   "ref": "21:14-19",
+   "titulo": "Agar e Ismael no deserto",
+   "descricao": "No deserto de Berseba, quando a água acaba, Deus abre os olhos de Agar e ela vê um poço.",
+   "alt": "Mulher no deserto encontrando um poço, com um menino deitado sob um arbusto.",
+   "prompt": "an Egyptian woman in a simple robe in a rocky desert, a boy resting in the shade of a bush, she kneels discovering a well of water, an empty water skin in her hands, a soft heavenly light falling on her"
+  },
+  {
+   "id": "q15",
+   "capitulo": 22,
+   "ref": "22:9-13",
+   "titulo": "Abraão e Isaque no monte",
+   "descricao": "No monte Moriá, o anjo detém a mão de Abraão, e ele vê um carneiro preso pelos chifres num arbusto.",
+   "alt": "Homem idoso no alto de um monte com o filho junto a um altar, olhando para um carneiro num arbusto.",
+   "prompt": "on a mountaintop an old bearded man beside a stone altar with firewood, his young son kneeling nearby unharmed, the father looking up toward a bright light calling from heaven, a ram caught by its horns in a thicket, dramatic sky"
+  },
+  {
+   "id": "q16",
+   "capitulo": 24,
+   "ref": "24:15-20",
+   "titulo": "Rebeca junto ao poço",
+   "descricao": "Rebeca dá de beber ao servo de Abraão e também aos seus camelos, como sinal pedido em oração.",
+   "alt": "Jovem com um cântaro no ombro dando água a um homem idoso junto a camelos.",
+   "prompt": "a young woman with a clay jar on her shoulder pouring water for an older traveler at a stone well outside an ancient town, ten camels kneeling nearby, she draws water for them too, warm evening light"
+  },
+  {
+   "id": "q17",
+   "capitulo": 25,
+   "ref": "25:29-34",
+   "titulo": "Esaú vende a primogenitura",
+   "descricao": "Cansado e com fome, Esaú troca seu direito de primogênito por um prato de guisado de lentilhas.",
+   "alt": "Caçador ruivo recebendo uma tigela de guisado de seu irmão junto a uma panela.",
+   "prompt": "a hungry red-haired hunter with a bow returning from the field, reaching for a bowl of red lentil stew offered by his calm brother sitting beside a cooking pot near a tent, bread on a cloth"
+  },
+  {
+   "id": "q18",
+   "capitulo": 27,
+   "ref": "27:18-27",
+   "titulo": "Jacó recebe a bênção de Isaque",
+   "descricao": "Disfarçado com pele de cabrito, Jacó se apresenta ao pai cego e recebe a bênção destinada a Esaú.",
+   "alt": "Homem idoso e cego tocando as mãos de um jovem coberto com pele de cabrito, com a mãe observando.",
+   "prompt": "a blind elderly patriarch reclining in a dim tent, touching the hands of a young man whose arms are covered with goatskin, a plate of food nearby, the mother watching anxiously from the shadows, lamplight"
+  },
+  {
+   "id": "q19",
+   "capitulo": 28,
+   "ref": "28:10-17",
+   "titulo": "O sonho de Jacó em Betel",
+   "descricao": "Dormindo com a cabeça sobre uma pedra, Jacó sonha com uma escada entre a terra e o céu, por onde sobem e descem anjos.",
+   "alt": "Jovem dormindo no chão sob uma escada luminosa com anjos subindo e descendo.",
+   "prompt": "a young traveler asleep on rocky ground at night with his head on a stone, above him a radiant stairway reaching up into the heavens, dignified angels ascending and descending, a brilliant glow of light at the top without any human figure"
+  },
+  {
+   "id": "q20",
+   "capitulo": 29,
+   "ref": "29:9-11",
+   "titulo": "Jacó encontra Raquel",
+   "descricao": "Jacó remove a pedra do poço para dar de beber às ovelhas de Raquel e chora de emoção.",
+   "alt": "Jovem removendo uma grande pedra de um poço enquanto uma pastora observa com suas ovelhas.",
+   "prompt": "a strong young man rolling a large stone from the mouth of a well in an open field, a young shepherdess with her flock of sheep watching, other shepherds nearby, emotional faces, soft daylight"
+  },
+  {
+   "id": "q21",
+   "capitulo": 32,
+   "ref": "32:24-30",
+   "titulo": "Jacó luta até o amanhecer",
+   "descricao": "Sozinho junto ao vau de Jaboque, Jacó luta a noite toda e recebe o nome Israel.",
+   "alt": "Dois homens lutando junto a um riacho ao amanhecer.",
+   "prompt": "two figures wrestling by a stream at the first light of dawn, one a man in travel robes holding on with determination, the other a mysterious figure softly glowing, rocky riverbank, deep blue and gold sky"
+  },
+  {
+   "id": "q22",
+   "capitulo": 33,
+   "ref": "33:1-4",
+   "titulo": "Esaú abraça Jacó",
+   "descricao": "Depois de vinte anos, Esaú corre ao encontro de Jacó, abraça-o e os dois choram.",
+   "alt": "Dois irmãos se abraçando em lágrimas, com famílias e rebanhos ao fundo.",
+   "prompt": "two middle-aged brothers embracing and weeping in an open field, one rugged with a band of armed men behind him, the other with wives, children and flocks behind him, morning light, deep emotion"
+  },
+  {
+   "id": "q23",
+   "capitulo": 37,
+   "ref": "37:23-28",
+   "titulo": "José vendido pelos irmãos",
+   "descricao": "Os irmãos tiram de José a túnica e o vendem a mercadores ismaelitas que descem ao Egito.",
+   "alt": "Jovem sendo levado por mercadores com camelos enquanto seus irmãos olham.",
+   "prompt": "a distressed teenage boy being led away by a caravan of traders with camels carrying spices, his brothers standing near an empty dry pit, one holding a colorful robe, desert hills of Dothan, harsh light"
+  },
+  {
+   "id": "q24",
+   "capitulo": 41,
+   "ref": "41:14-40",
+   "titulo": "José diante de Faraó",
+   "descricao": "José interpreta os sonhos de Faraó: sete anos de fartura e sete de fome.",
+   "alt": "Jovem hebreu falando diante do faraó em seu trono, cercado de conselheiros egípcios.",
+   "prompt": "a young Hebrew man, shaved and in a clean linen garment, speaking confidently before the Egyptian pharaoh on his throne in a columned hall, court officials and magicians listening, painted walls, light through high windows"
+  },
+  {
+   "id": "q25",
+   "capitulo": 45,
+   "ref": "45:1-15",
+   "titulo": "José se revela aos irmãos",
+   "descricao": "José manda todos saírem, chora alto e diz aos irmãos: Eu sou José.",
+   "alt": "Governante egípcio chorando e abraçando um irmão mais novo, com outros homens espantados.",
+   "prompt": "an Egyptian governor in fine linen and gold collar weeping and embracing a younger Hebrew man, eleven bearded shepherds standing in shock and tears in a private chamber of an Egyptian palace"
+  },
+  {
+   "id": "q26",
+   "capitulo": 48,
+   "ref": "48:13-20",
+   "titulo": "Jacó abençoa Efraim e Manassés",
+   "descricao": "Jacó cruza as mãos e põe a direita sobre Efraim, o mais novo, ao abençoar os filhos de José.",
+   "alt": "Ancião na cama abençoando dois meninos com os braços cruzados, com o pai deles ao lado.",
+   "prompt": "a very old patriarch sitting on his bed, arms crossed to lay his right hand on the younger boy and his left on the elder, the boys kneeling, their father in Egyptian dress gently surprised, warm lamplight"
+  },
+  {
+   "id": "q27",
+   "capitulo": 50,
+   "ref": "50:15-21",
+   "titulo": "José perdoa os irmãos",
+   "descricao": "Depois da morte de Jacó, José consola os irmãos: vocês planejaram o mal, mas Deus o encaminhou para o bem.",
+   "alt": "Homem em trajes egípcios levantando os irmãos que se curvam diante dele.",
+   "prompt": "an Egyptian official reaching out kindly to lift up his older brothers who bow to the ground before him, tears on their faces, a courtyard of an Egyptian house, soft evening light"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "luz",
+   "termo": "Luz",
+   "ref": "1:3",
+   "explicado": false,
+   "significado": "A primeira palavra criadora de Deus é \"Haja luz\". O texto não a explica como símbolo, mas a luz que vence as trevas se tornou na Bíblia imagem da presença e da ordem de Deus."
+  },
+  {
+   "id": "imagem-de-deus",
+   "termo": "Imagem e semelhança de Deus",
+   "ref": "1:26-27",
+   "explicado": false,
+   "significado": "O ser humano é criado à imagem de Deus e recebe a tarefa de cuidar da criação (1:26-28). O que exatamente é essa imagem (razão, relação, função de representante) é debatido entre intérpretes."
+  },
+  {
+   "id": "arvore-da-vida",
+   "termo": "Árvore da vida",
+   "ref": "2:9",
+   "explicado": false,
+   "significado": "Está no meio do jardim; depois da queda, o caminho até ela é guardado (3:22-24). É lida como sinal da vida em comunhão com Deus e volta em Provérbios e no Apocalipse."
+  },
+  {
+   "id": "arvore-conhecimento",
+   "termo": "Árvore do conhecimento do bem e do mal",
+   "ref": "2:17",
+   "explicado": false,
+   "significado": "Deus proíbe comer dela (2:17). Muitos a entendem como o limite que lembra que só Deus define o bem e o mal; o sentido exato é discutido."
+  },
+  {
+   "id": "serpente",
+   "termo": "Serpente",
+   "ref": "3:1",
+   "explicado": false,
+   "significado": "É apresentada como o animal mais astuto, que leva a mulher a duvidar de Deus. A tradição judaica e cristã posterior a associou ao diabo (ver Ap 12:9), algo que Gênesis não diz diretamente."
+  },
+  {
+   "id": "descendencia",
+   "termo": "A descendência da mulher",
+   "ref": "3:15",
+   "explicado": false,
+   "significado": "Deus anuncia inimizade entre a serpente e a descendência da mulher, que lhe ferirá a cabeça. Muitos cristãos leem aqui o primeiro anúncio de Cristo; outros veem uma luta contínua entre a humanidade e o mal."
+  },
+  {
+   "id": "querubins",
+   "termo": "Querubins e espada flamejante",
+   "ref": "3:24",
+   "explicado": false,
+   "significado": "Guardam o caminho da árvore da vida. Os querubins voltarão sobre a arca da aliança (Êx 25:18-22), como guardiões da presença de Deus."
+  },
+  {
+   "id": "arca-de-noe",
+   "termo": "Arca de Noé",
+   "ref": "6:14",
+   "explicado": false,
+   "significado": "Embarcação que preserva a vida durante o juízo. 1 Pedro 3:20-21 a relaciona com o batismo, uma leitura posterior ao texto de Gênesis."
+  },
+  {
+   "id": "pomba-oliveira",
+   "termo": "Pomba com folha de oliveira",
+   "ref": "8:11",
+   "explicado": false,
+   "significado": "No texto, é o sinal prático de que as águas baixaram. Com o tempo, pomba e ramo de oliveira viraram símbolos de paz e recomeço."
+  },
+  {
+   "id": "arco-iris",
+   "termo": "Arco nas nuvens",
+   "ref": "9:13",
+   "explicado": true,
+   "significado": "O próprio texto o explica: é sinal da aliança de que Deus não destruirá mais a terra com dilúvio (9:12-17)."
+  },
+  {
+   "id": "torre-de-babel",
+   "termo": "Torre de Babel",
+   "ref": "11:4",
+   "explicado": false,
+   "significado": "Os construtores querem \"fazer um nome\" e não ser espalhados. A cena é lida como retrato do orgulho humano; o nome Babel é explicado pelo texto como \"confusão\" (11:9)."
+  },
+  {
+   "id": "estrelas-e-po",
+   "termo": "Estrelas do céu e pó da terra",
+   "ref": "15:5",
+   "explicado": true,
+   "significado": "Deus mesmo explica as imagens: assim seria a descendência de Abraão, numerosa demais para contar (13:16; 15:5; 22:17)."
+  },
+  {
+   "id": "circuncisao",
+   "termo": "Circuncisão",
+   "ref": "17:11",
+   "explicado": true,
+   "significado": "O texto diz que é \"sinal do pacto\" entre Deus e a família de Abraão (17:10-11)."
+  },
+  {
+   "id": "carneiro-moria",
+   "termo": "O carneiro no monte Moriá",
+   "ref": "22:13",
+   "explicado": false,
+   "significado": "Deus provê um carneiro no lugar de Isaque, e o lugar é chamado \"o SENHOR proverá\" (22:14). Muitos cristãos veem aqui uma figura do sacrifício de Cristo; isso é interpretação tipológica."
+  },
+  {
+   "id": "poco",
+   "termo": "Poço",
+   "ref": "24:11",
+   "explicado": false,
+   "significado": "Junto a poços acontecem encontros decisivos (Rebeca, Raquel) e disputas (26:18-22). Em terra seca, o poço significa vida, futuro e posse da terra."
+  },
+  {
+   "id": "escada-de-jaco",
+   "termo": "Escada de Jacó",
+   "ref": "28:12",
+   "explicado": false,
+   "significado": "Liga a terra ao céu, com anjos subindo e descendo. Jacó conclui que ali é \"a casa de Deus e a porta do céu\" (28:17). Jesus alude à cena em João 1:51."
+  },
+  {
+   "id": "coluna-de-pedra",
+   "termo": "Coluna de pedra",
+   "ref": "28:18",
+   "explicado": false,
+   "significado": "Jacó levanta como memorial a pedra em que dormiu e a unge. É um marco de que Deus esteve naquele lugar."
+  },
+  {
+   "id": "tunica-de-jose",
+   "termo": "Túnica de José",
+   "ref": "37:3",
+   "explicado": false,
+   "significado": "Presente de Jacó que mostra a preferência pelo filho e alimenta a inveja dos irmãos; manchada, vira instrumento de engano (37:31-33)."
+  },
+  {
+   "id": "sonhos",
+   "termo": "Sonhos",
+   "ref": "37:5",
+   "explicado": true,
+   "significado": "Os sonhos de José, do copeiro, do padeiro e de Faraó são explicados dentro da própria narrativa (40-41). José diz que a interpretação pertence a Deus (40:8)."
+  },
+  {
+   "id": "vacas-e-espigas",
+   "termo": "Sete vacas e sete espigas",
+   "ref": "41:26-27",
+   "explicado": true,
+   "significado": "José explica: são sete anos de fartura seguidos de sete anos de fome (41:25-31)."
+  },
+  {
+   "id": "cetro-de-juda",
+   "termo": "Cetro de Judá",
+   "ref": "49:10",
+   "explicado": false,
+   "significado": "Na bênção de Jacó, o cetro indica realeza na tribo de Judá. A frase \"até que venha Siló\" é difícil e tem várias traduções; judeus e cristãos a leram de forma messiânica."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "bereshit",
+   "pt": "No princípio",
+   "refs": [
+    "1:1"
+   ],
+   "hebraico": {
+    "lema": "בְּרֵאשִׁית",
+    "translit": "bereshit",
+    "strong": "H7225"
+   },
+   "grego": {
+    "lema": "ἐν ἀρχῇ",
+    "translit": "en archē",
+    "strong": "G746"
+   },
+   "sentido": "em/no começo",
+   "latim": {
+    "forma": "In principio creavit Deus caelum et terram",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "É a primeira palavra da Bíblia hebraica e o nome do livro em hebraico. O nome \"Gênesis\" vem da Septuaginta (origem).",
+   "interpretacao": false
+  },
+  {
+   "id": "bara",
+   "pt": "Criar",
+   "refs": [
+    "1:1",
+    "1:27"
+   ],
+   "hebraico": {
+    "lema": "בָּרָא",
+    "translit": "bara",
+    "strong": "H1254"
+   },
+   "sentido": "criar, dar existência",
+   "latim": {
+    "forma": "creavit",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "No Antigo Testamento, este verbo tem sempre Deus como sujeito. Aparece três vezes em 1:27, ao falar da criação do ser humano.",
+   "interpretacao": false
+  },
+  {
+   "id": "tohu-vabohu",
+   "pt": "Desordenada e vazia",
+   "refs": [
+    "1:2"
+   ],
+   "hebraico": {
+    "lema": "תֹהוּ וָבֹהוּ",
+    "translit": "tohu vavohu",
+    "strong": "H8414, H922"
+   },
+   "sentido": "informe e vazio",
+   "latim": {
+    "forma": "inanis et vacua",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Os dias da criação respondem a esse estado: primeiro Deus separa e ordena (dias 1 a 3), depois preenche (dias 4 a 6).",
+   "interpretacao": false
+  },
+  {
+   "id": "ruach",
+   "pt": "Espírito",
+   "refs": [
+    "1:2",
+    "8:1"
+   ],
+   "hebraico": {
+    "lema": "רוּחַ",
+    "translit": "ruach",
+    "strong": "H7307"
+   },
+   "grego": {
+    "lema": "πνεῦμα",
+    "translit": "pneuma",
+    "strong": "G4151"
+   },
+   "sentido": "vento, sopro, espírito",
+   "latim": {
+    "forma": "spiritus Dei ferebatur super aquas",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A mesma palavra significa vento e espírito. Em 1:2 é o Espírito de Deus sobre as águas; em 8:1 é o vento que faz as águas do dilúvio baixarem.",
+   "interpretacao": false
+  },
+  {
+   "id": "adam",
+   "pt": "Ser humano / Adão",
+   "refs": [
+    "1:26",
+    "2:7"
+   ],
+   "hebraico": {
+    "lema": "אָדָם",
+    "translit": "adam",
+    "strong": "H120"
+   },
+   "sentido": "ser humano, humanidade; depois nome próprio",
+   "latim": {
+    "forma": "hominem",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Há um jogo de palavras com adamah, \"terra, solo\" (2:7): o ser humano é tirado da terra e cuida dela. Só aos poucos \"adam\" passa a funcionar como nome próprio.",
+   "interpretacao": false
+  },
+  {
+   "id": "tselem",
+   "pt": "Imagem",
+   "refs": [
+    "1:26",
+    "1:27",
+    "9:6"
+   ],
+   "hebraico": {
+    "lema": "צֶלֶם",
+    "translit": "tselem",
+    "strong": "H6754"
+   },
+   "grego": {
+    "lema": "εἰκών",
+    "translit": "eikōn",
+    "strong": "G1504"
+   },
+   "sentido": "imagem, representação",
+   "latim": {
+    "forma": "ad imaginem et similitudinem nostram",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "No mundo antigo, reis colocavam estátuas suas como sinal de domínio. Muitos estudiosos leem 1:26-27 nesse pano de fundo: o ser humano representa Deus na criação.",
+   "interpretacao": true
+  },
+  {
+   "id": "nefesh",
+   "pt": "Alma vivente",
+   "refs": [
+    "2:7"
+   ],
+   "hebraico": {
+    "lema": "נֶפֶשׁ",
+    "translit": "nefesh",
+    "strong": "H5315"
+   },
+   "sentido": "ser vivo, vida, pessoa",
+   "latim": {
+    "forma": "in animam viventem",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Em 2:7 o homem não recebe uma alma, ele se torna um ser vivo. A mesma expressão é usada para os animais em 1:20-24.",
+   "interpretacao": false
+  },
+  {
+   "id": "eden",
+   "pt": "Éden",
+   "refs": [
+    "2:8"
+   ],
+   "hebraico": {
+    "lema": "עֵדֶן",
+    "translit": "eden",
+    "strong": "H5731"
+   },
+   "sentido": "lugar de delícias (sentido provável)",
+   "latim": {
+    "forma": "paradisum voluptatis",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A Vulgata e a Septuaginta chamaram o jardim de \"paraíso\" (palavra de origem persa para jardim cercado). A origem exata do nome Éden é discutida.",
+   "interpretacao": false
+  },
+  {
+   "id": "toledot",
+   "pt": "Origens / gerações",
+   "refs": [
+    "2:4",
+    "5:1",
+    "37:2"
+   ],
+   "hebraico": {
+    "lema": "תּוֹלְדֹת",
+    "translit": "toledot",
+    "strong": "H8435"
+   },
+   "sentido": "gerações, história da família",
+   "latim": {
+    "forma": "istae sunt generationes caeli et terrae",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A fórmula \"estas são as origens (gerações) de...\" divide Gênesis em seções, de 2:4 até a história de Jacó em 37:2.",
+   "interpretacao": false
+  },
+  {
+   "id": "berit",
+   "pt": "Pacto / aliança",
+   "refs": [
+    "6:18",
+    "9:9",
+    "15:18",
+    "17:7"
+   ],
+   "hebraico": {
+    "lema": "בְּרִית",
+    "translit": "berit",
+    "strong": "H1285"
+   },
+   "grego": {
+    "lema": "διαθήκη",
+    "translit": "diathēkē",
+    "strong": "G1242"
+   },
+   "sentido": "aliança, compromisso solene",
+   "latim": {
+    "forma": "pactum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Deus faz aliança com Noé e com toda a vida (9), e depois com Abraão (15 e 17). Em 15:18, a expressão hebraica é literalmente \"cortar uma aliança\", ligada ao rito dos animais partidos.",
+   "interpretacao": false
+  },
+  {
+   "id": "zera",
+   "pt": "Descendência",
+   "refs": [
+    "3:15",
+    "12:7",
+    "22:18"
+   ],
+   "hebraico": {
+    "lema": "זֶרַע",
+    "translit": "zera",
+    "strong": "H2233"
+   },
+   "sentido": "semente, descendência",
+   "latim": {
+    "forma": "semen",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A palavra é coletiva no singular, por isso pode se referir a um povo ou a um descendente. Paulo explora isso em Gálatas 3:16.",
+   "interpretacao": true
+  },
+  {
+   "id": "barak",
+   "pt": "Abençoar",
+   "refs": [
+    "1:28",
+    "12:2-3"
+   ],
+   "hebraico": {
+    "lema": "בָּרַךְ",
+    "translit": "barak",
+    "strong": "H1288"
+   },
+   "grego": {
+    "lema": "εὐλογέω",
+    "translit": "eulogeō",
+    "strong": "G2127"
+   },
+   "sentido": "abençoar, dar vida e prosperidade",
+   "latim": {
+    "forma": "benedicam tibi",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A raiz aparece cinco vezes em 12:2-3. Contra as maldições de 3 a 11, a promessa a Abraão é bênção para \"todas as famílias da terra\".",
+   "interpretacao": false
+  },
+  {
+   "id": "el-shaddai",
+   "pt": "Deus Todo-Poderoso",
+   "refs": [
+    "17:1",
+    "35:11"
+   ],
+   "hebraico": {
+    "lema": "אֵל שַׁדַּי",
+    "translit": "El Shaddai",
+    "strong": "H410, H7706"
+   },
+   "sentido": "título divino tradicionalmente traduzido como Todo-Poderoso",
+   "latim": {
+    "forma": "Ego Deus omnipotens",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O sentido original de Shaddai é incerto (há propostas ligadas a \"montanha\" ou \"suficiente\"). Êxodo 6:3 diz que Deus foi conhecido pelos patriarcas por este nome.",
+   "interpretacao": false
+  },
+  {
+   "id": "tsedaqah",
+   "pt": "Justiça",
+   "refs": [
+    "15:6",
+    "18:19"
+   ],
+   "hebraico": {
+    "lema": "צְדָקָה",
+    "translit": "tsedaqah",
+    "strong": "H6666"
+   },
+   "grego": {
+    "lema": "δικαιοσύνη",
+    "translit": "dikaiosynē",
+    "strong": "G1343"
+   },
+   "sentido": "retidão, o que é justo numa relação",
+   "latim": {
+    "forma": "reputatum est illi ad iustitiam",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Em 15:6, Abraão crê e isso lhe é \"contado por justiça\". Paulo cita o verso em Romanos 4 e Gálatas 3; Tiago 2 o lê junto com a obediência de Abraão.",
+   "interpretacao": true
+  },
+  {
+   "id": "yisrael",
+   "pt": "Israel",
+   "refs": [
+    "32:28"
+   ],
+   "hebraico": {
+    "lema": "יִשְׂרָאֵל",
+    "translit": "Yisra'el",
+    "strong": "H3478"
+   },
+   "sentido": "nome explicado no texto como \"lutou com Deus\"",
+   "latim": {
+    "forma": "Israhel",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O texto liga o nome ao verbo \"lutar\" (32:28). O nome do patriarca passa a ser o nome do povo inteiro.",
+   "interpretacao": false
+  },
+  {
+   "id": "chesed",
+   "pt": "Misericórdia / bondade fiel",
+   "refs": [
+    "24:12",
+    "39:21"
+   ],
+   "hebraico": {
+    "lema": "חֶסֶד",
+    "translit": "chesed",
+    "strong": "H2617"
+   },
+   "sentido": "amor leal, bondade que cumpre compromisso",
+   "latim": {
+    "forma": "fac misericordiam",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O servo de Abraão pede que Deus mostre chesed ao seu senhor (24:12). A palavra junta afeto e fidelidade e é difícil de traduzir com um só termo.",
+   "interpretacao": false
+  },
+  {
+   "id": "elohim",
+   "pt": "Deus",
+   "refs": [
+    "1:1",
+    "1:26"
+   ],
+   "hebraico": {
+    "lema": "אֱלֹהִים",
+    "translit": "Elohim",
+    "strong": "H430"
+   },
+   "sentido": "Deus (forma plural usada com verbo no singular)",
+   "latim": {
+    "forma": "Deus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O plural de forma com sentido singular é comum para o Deus de Israel. O \"Façamos\" de 1:26 é explicado de vários modos: plural de majestade, conselho celeste ou, na leitura cristã, alusão à Trindade.",
+   "interpretacao": true
+  }
+ ],
+ "historia": [
+  {
+   "id": "gilgames-diluvio",
+   "titulo": "O dilúvio na Epopeia de Gilgamés",
+   "refs": [
+    "6:13-22",
+    "8:6-12"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Epopeia de Gilgamés, tabuinha XI (\"Tabuinha do Dilúvio\")",
+   "referencia": "Biblioteca de Assurbanipal em Nínive; British Museum, K.3375",
+   "data_fonte": "cópia do séc. VII a.C.; a tradição é bem mais antiga (2º milênio a.C.)",
+   "data_evento": "dilúvio em tempos primordiais; tabuinha identificada por George Smith em 1872",
+   "resumo": "Utnapishtim conta que um deus o avisou para construir um barco, salvar sua família e animais, e que depois soltou uma pomba, uma andorinha e um corvo para ver se as águas tinham baixado.",
+   "relacao": "As semelhanças com Noé são fortes (barco calafetado com betume, aves soltas, sacrifício no fim). Há também diferenças grandes: em Gilgamés os deuses são muitos e caprichosos; em Gênesis o juízo tem razão moral. Estudiosos discutem se há dependência ou uma memória comum na Mesopotâmia.",
+   "grau": "associacao"
+  },
+  {
+   "id": "atrahasis",
+   "titulo": "Epopeia de Atrahasis",
+   "refs": [
+    "2:7",
+    "6:5-8"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Epopeia de Atrahasis",
+   "referencia": "várias cópias; a mais completa é paleobabilônica (British Museum)",
+   "data_fonte": "c. séc. XVII a.C. (cópia paleobabilônica)",
+   "data_evento": "criação dos humanos e dilúvio em tempos primordiais",
+   "resumo": "Narra a criação dos seres humanos a partir de barro misturado com o sangue de um deus, para trabalharem no lugar dos deuses, e depois um dilúvio do qual Atrahasis escapa num barco.",
+   "relacao": "Mostra que a sequência criação, multiplicação humana e dilúvio já existia na Mesopotâmia. Em Gênesis, porém, o ser humano é criado como imagem de Deus e para cuidar do jardim, não como mão de obra dos deuses.",
+   "grau": "associacao"
+  },
+  {
+   "id": "enuma-elish",
+   "titulo": "Enuma Elish, a criação babilônica",
+   "refs": [
+    "1:1-10"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Enuma Elish (\"Quando no alto\")",
+   "referencia": "tabuinhas de Nínive e de outros sítios; British Museum",
+   "data_fonte": "composição provavelmente do 2º milênio a.C. (data debatida); cópias do 1º milênio a.C.",
+   "data_evento": "criação do mundo, segundo a mitologia babilônica",
+   "resumo": "O deus Marduk vence Tiamat, a deusa do mar primordial, e com seu corpo partido forma o céu e a terra.",
+   "relacao": "Muitos estudiosos notam o paralelo entre Tiamat e tehom (\"abismo\", 1:2) e veem em Gênesis 1 um contraste deliberado: não há batalha entre deuses, e sol, lua e mar são apenas criaturas. A dependência direta é discutida.",
+   "grau": "associacao"
+  },
+  {
+   "id": "lista-reis-sumerios",
+   "titulo": "Lista dos Reis Sumérios",
+   "refs": [
+    "5:1-32",
+    "11:10-26"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Lista dos Reis Sumérios",
+   "referencia": "várias cópias; uma das mais conhecidas é o Prisma Weld-Blundell (Ashmolean Museum, Oxford)",
+   "data_fonte": "c. início do 2º milênio a.C.",
+   "data_evento": "reis \"antes e depois do dilúvio\"",
+   "resumo": "Lista reis anteriores ao dilúvio com reinados de dezenas de milhares de anos e, depois do dilúvio, reinados cada vez mais curtos.",
+   "relacao": "Lembra as genealogias de Gênesis 5 e 11, com vidas muito longas antes do dilúvio e cada vez mais curtas depois. Os números bíblicos são muito menores e a forma é de genealogia familiar, não de lista de reis.",
+   "grau": "associacao"
+  },
+  {
+   "id": "josefo-beroso",
+   "titulo": "Josefo cita Beroso sobre a arca",
+   "refs": [
+    "8:4"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 1, cap. 3",
+   "data_fonte": "c. 93-94 d.C.",
+   "data_evento": "dilúvio e repouso da arca nos montes de Ararate",
+   "resumo": "Josefo reconta o dilúvio e cita o sacerdote babilônico Beroso, que dizia que restos do barco ainda eram vistos nas montanhas da Armênia.",
+   "relacao": "Mostra como judeus do séc. I ligavam Gênesis a tradições babilônicas. Não é prova arqueológica da arca: é testemunho de uma tradição antiga.",
+   "grau": "associacao"
+  },
+  {
+   "id": "hamurabi-serva",
+   "titulo": "Serva que dá filhos à senhora no Código de Hamurabi",
+   "refs": [
+    "16:1-6",
+    "30:3"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Código de Hamurabi",
+   "referencia": "estela no Museu do Louvre (Sb 8), §144-147",
+   "data_fonte": "c. 1754 a.C.",
+   "data_evento": "costume de família da Mesopotâmia antiga",
+   "resumo": "As leis tratam do caso de uma esposa que dá uma serva ao marido para ter filhos e do que acontece se a serva se igualar à senhora.",
+   "relacao": "Ajuda a entender por que Sarai dá Agar a Abrão (16:1-6) e Raquel dá Bila a Jacó (30:3), e por que surge o conflito entre as mulheres. É costume de época, não aprovação do texto bíblico.",
+   "grau": "associacao"
+  },
+  {
+   "id": "beni-hassan",
+   "titulo": "Asiáticos chegando ao Egito em Beni Hassan",
+   "refs": [
+    "12:10",
+    "46:5-7"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Pintura do túmulo de Khnumhotep II",
+   "referencia": "Beni Hassan, Egito (túmulo nº 3)",
+   "data_fonte": "c. 1890 a.C.",
+   "data_evento": "chegada de um grupo semita ao Egito",
+   "resumo": "A pintura mostra um grupo de \"aamu\" (asiáticos), homens, mulheres e crianças com roupas coloridas, armas e animais, chegando ao Egito liderados por um chefe chamado Abisha.",
+   "relacao": "Ilustra o tipo de viagem de famílias de Canaã ao Egito, como as de Abrão (12:10) e Jacó (46). Não menciona os patriarcas; é contexto da época.",
+   "grau": "associacao"
+  },
+  {
+   "id": "papiro-brooklyn",
+   "titulo": "Servos semitas numa casa egípcia",
+   "refs": [
+    "39:1"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Papiro Brooklyn 35.1446",
+   "referencia": "Brooklyn Museum, Nova York",
+   "data_fonte": "c. séc. XVIII a.C. (Médio Império / 13ª dinastia)",
+   "data_evento": "servos estrangeiros no Egito",
+   "resumo": "Lista dezenas de servos de uma casa egípcia, muitos deles com nomes semitas, chamados de \"asiáticos\".",
+   "relacao": "Mostra que semitas trabalhavam como servos em casas de oficiais egípcios, cenário parecido com o de José na casa de Potifar. Não cita José.",
+   "grau": "associacao"
+  },
+  {
+   "id": "dois-irmaos",
+   "titulo": "O Conto dos Dois Irmãos",
+   "refs": [
+    "39:7-20"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Conto dos Dois Irmãos (Papiro d'Orbiney)",
+   "referencia": "British Museum, EA 10183",
+   "data_fonte": "c. 1200 a.C. (19ª dinastia)",
+   "data_evento": "narrativa literária egípcia",
+   "resumo": "A esposa do irmão mais velho tenta seduzir o mais novo; rejeitada, ela o acusa falsamente ao marido.",
+   "relacao": "O enredo é semelhante ao da mulher de Potifar (39:7-20). Mostra que o tema era conhecido no Egito; não prova nem nega o relato sobre José.",
+   "grau": "associacao"
+  },
+  {
+   "id": "estela-da-fome",
+   "titulo": "Estela da Fome: sete anos sem cheia do Nilo",
+   "refs": [
+    "41:29-31"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Estela da Fome",
+   "referencia": "ilha de Sehel, perto de Assuã, Egito",
+   "data_fonte": "período ptolemaico (c. séc. II a.C.)",
+   "data_evento": "fome atribuída ao reinado de Djoser (c. séc. XXVII a.C.), em tradição tardia",
+   "resumo": "A inscrição conta que o Egito sofreu sete anos de fome porque o Nilo não subiu, até que o faraó buscou o favor do deus Khnum.",
+   "relacao": "O tema dos \"sete anos de fome\" aparece também no Egito. A estela é muito posterior e não fala de José; é paralelo literário.",
+   "grau": "associacao"
+  }
+ ]
+}

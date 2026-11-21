@@ -1,0 +1,755 @@
+{
+ "livro": "levitico",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:3-4",
+   "titulo": "O holocausto à porta do tabernáculo",
+   "descricao": "Um israelita traz um novilho sem defeito à porta do tabernáculo e põe a mão sobre a cabeça do animal.",
+   "alt": "Homem com a mão sobre a cabeça de um novilho diante de um sacerdote, à entrada de uma tenda sagrada.",
+   "prompt": "an Israelite man laying his hand on the head of an unblemished young bull at the entrance of a tent sanctuary, a priest in white linen standing beside him, a bronze altar with rising smoke in the courtyard, linen curtains, calm reverent mood, no blood shown"
+  },
+  {
+   "id": "q02",
+   "capitulo": 2,
+   "ref": "2:1-2",
+   "titulo": "A oferta de cereais",
+   "descricao": "Uma pessoa traz boa farinha com azeite e incenso; o sacerdote toma um punhado e o queima no altar.",
+   "alt": "Sacerdote recebendo uma tigela de farinha com azeite e incenso das mãos de uma mulher.",
+   "prompt": "a woman offering a clay bowl of fine flour mixed with olive oil and frankincense to a priest in white linen at the courtyard of a tent sanctuary, the priest taking a handful, a jar of oil and a small dish of salt nearby, warm light"
+  },
+  {
+   "id": "q03",
+   "capitulo": 8,
+   "ref": "8:6-12",
+   "titulo": "A consagração de Arão",
+   "descricao": "Moisés veste Arão com as vestes sagradas e derrama o óleo da unção sobre sua cabeça.",
+   "alt": "Homem idoso derramando óleo de um chifre sobre a cabeça de outro homem vestido de sacerdote.",
+   "prompt": "Moses pouring anointing oil from a horn onto the head of Aaron, who wears the high priestly vestments with breastplate and turban with a gold plate, Aaron's sons in white linen tunics waiting, the congregation gathered at the entrance of the tabernacle"
+  },
+  {
+   "id": "q04",
+   "capitulo": 9,
+   "ref": "9:22-24",
+   "titulo": "O fogo sai de diante do SENHOR",
+   "descricao": "Arão abençoa o povo; a glória do SENHOR aparece, fogo consome a oferta no altar e o povo cai com o rosto em terra.",
+   "alt": "Povo prostrado diante de um altar envolto em chamas brilhantes, com sacerdotes de mãos erguidas.",
+   "prompt": "the whole congregation of Israel bowing with faces to the ground before a bronze altar as brilliant fire descends and consumes the offering, Aaron with hands raised in blessing, Moses beside him, a radiant glory of light above the tabernacle, awe and joy"
+  },
+  {
+   "id": "q05",
+   "capitulo": 13,
+   "ref": "13:2-3",
+   "titulo": "O sacerdote examina a pele",
+   "descricao": "Uma pessoa com uma mancha na pele é levada ao sacerdote, que a examina com atenção.",
+   "alt": "Sacerdote examinando com cuidado uma mancha no braço de um homem.",
+   "prompt": "a priest in white linen carefully examining a pale patch of skin on the arm of a worried man, outside a tent in the camp, a family member waiting nearby, soft daylight, compassionate attention"
+  },
+  {
+   "id": "q06",
+   "capitulo": 14,
+   "ref": "14:4-7",
+   "titulo": "A ave solta no campo",
+   "descricao": "No rito de purificação de quem foi curado, uma ave viva é solta sobre o campo aberto.",
+   "alt": "Sacerdote soltando uma pequena ave no campo enquanto um homem curado observa.",
+   "prompt": "a priest outside the camp releasing a small living bird into the open field, cedar wood, scarlet yarn and a bundle of hyssop in his other hand, a healed man watching with hope, a clay vessel at their feet, morning light"
+  },
+  {
+   "id": "q07",
+   "capitulo": 16,
+   "ref": "16:12-13",
+   "titulo": "O sumo sacerdote atrás do véu",
+   "descricao": "No Dia da Expiação, Arão entra além do véu com o incensário, e a nuvem de incenso cobre o propiciatório.",
+   "alt": "Sacerdote vestido de linho branco segurando um incensário, com fumaça cobrindo a arca dourada.",
+   "prompt": "the high priest in plain white linen garments standing alone in the dark inner sanctuary behind a woven curtain, holding a censer of glowing coals, a thick cloud of incense rising over the golden ark and the cherubim, faint golden light"
+  },
+  {
+   "id": "q08",
+   "capitulo": 16,
+   "ref": "16:21-22",
+   "titulo": "O bode enviado ao deserto",
+   "descricao": "Arão põe as mãos sobre o bode vivo, confessa os pecados do povo, e o animal é levado para o deserto.",
+   "alt": "Homem conduzindo um bode por uma trilha no deserto, longe do acampamento.",
+   "prompt": "a man leading a single goat along a lonely path into a barren rocky wilderness, the distant camp of tents and the tabernacle behind them, the high priest watching from afar, vast empty landscape, late afternoon light"
+  },
+  {
+   "id": "q09",
+   "capitulo": 19,
+   "ref": "19:9-10",
+   "titulo": "Os cantos do campo para o pobre",
+   "descricao": "Na colheita, o dono deixa os cantos do campo e as espigas caídas para o pobre e o estrangeiro.",
+   "alt": "Ceifeiros num campo de trigo enquanto uma viúva e um estrangeiro recolhem espigas na borda.",
+   "prompt": "harvesters cutting golden wheat with sickles in a field, leaving the corners uncut, a poor widow and a foreign traveler gleaning fallen stalks at the edge, the landowner watching kindly, warm summer light"
+  },
+  {
+   "id": "q10",
+   "capitulo": 23,
+   "ref": "23:10-11",
+   "titulo": "O feixe das primícias",
+   "descricao": "O primeiro feixe da colheita é levado ao sacerdote, que o move diante do SENHOR.",
+   "alt": "Agricultor entregando um feixe de cevada a um sacerdote que o ergue.",
+   "prompt": "a farmer presenting the first sheaf of the barley harvest to a priest, who lifts and waves it before the sanctuary, ripe fields behind them, spring morning light, gratitude on their faces"
+  },
+  {
+   "id": "q11",
+   "capitulo": 23,
+   "ref": "23:40-43",
+   "titulo": "A festa das Cabanas",
+   "descricao": "Durante sete dias, as famílias moram em cabanas feitas de ramos e se alegram diante do SENHOR.",
+   "alt": "Famílias diante de cabanas de ramos de palmeira, com crianças carregando galhos.",
+   "prompt": "Israelite families celebrating outside simple huts built of palm branches and leafy boughs, children carrying willow and palm fronds, fruit and bread shared, joyful autumn atmosphere, golden evening light"
+  },
+  {
+   "id": "q12",
+   "capitulo": 24,
+   "ref": "24:2-8",
+   "titulo": "O candelabro e os pães diante do SENHOR",
+   "descricao": "No lugar santo, as lâmpadas do candelabro ardem continuamente e os doze pães estão sobre a mesa de ouro.",
+   "alt": "Interior de um santuário com um candelabro de sete lâmpadas acesas e uma mesa com doze pães.",
+   "prompt": "interior of the holy place of a tent sanctuary, a golden seven-branched lampstand with burning oil lamps, a golden table with twelve loaves in two rows, a small altar of incense, a priest trimming the lamps, embroidered curtains, warm glow"
+  },
+  {
+   "id": "q13",
+   "capitulo": 25,
+   "ref": "25:9-10",
+   "titulo": "A trombeta do jubileu",
+   "descricao": "No Dia da Expiação do quinquagésimo ano, a trombeta soa e é proclamada liberdade em toda a terra.",
+   "alt": "Homem tocando um chifre de carneiro no alto de uma colina, com pessoas voltando às suas terras.",
+   "prompt": "a man blowing a ram's horn trumpet on a hilltop above villages and fields, below people returning to their family lands, a freed servant embracing his family, olive groves, festive and hopeful light"
+  },
+  {
+   "id": "q14",
+   "capitulo": 26,
+   "ref": "26:3-6",
+   "titulo": "Chuva, colheita e paz",
+   "descricao": "Deus promete chuva no tempo certo, colheita farta e paz na terra a quem andar em seus caminhos.",
+   "alt": "Aldeia tranquila com campos férteis, árvores carregadas e uma família descansando em paz.",
+   "prompt": "a peaceful ancient Israelite village among fertile fields and orchards heavy with fruit, gentle rain clouds passing over green hills, a family resting safely under a fig tree, sheep grazing, serene light"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "mao-sobre-a-cabeca",
+   "termo": "Mão sobre a cabeça do animal",
+   "ref": "1:4",
+   "explicado": false,
+   "significado": "O ofertante põe a mão sobre a cabeça do animal, e a oferta é aceita \"para expiar-lhe\". Muitos entendem o gesto como identificação ou substituição; o texto não explica o gesto em detalhe."
+  },
+  {
+   "id": "sem-defeito",
+   "termo": "Animal sem defeito",
+   "ref": "1:3",
+   "explicado": false,
+   "significado": "A oferta deve ser \"sem mácula\": a Deus se oferece o melhor. O Novo Testamento aplica a imagem a Cristo, \"cordeiro sem defeito\" (1 Pe 1:19)."
+  },
+  {
+   "id": "cheiro-suave",
+   "termo": "Cheiro suave ao SENHOR",
+   "ref": "1:9",
+   "explicado": false,
+   "significado": "Fórmula repetida para dizer que a oferta é aceita por Deus. É linguagem humana sobre Deus, não ideia de que Ele precise de alimento."
+  },
+  {
+   "id": "sal-da-alianca",
+   "termo": "Sal da aliança",
+   "ref": "2:13",
+   "explicado": false,
+   "significado": "Toda oferta deve ter sal, chamado \"sal da aliança\". Como o sal conserva, costuma ser lido como sinal de aliança duradoura; o texto não detalha."
+  },
+  {
+   "id": "fogo-continuo",
+   "termo": "Fogo contínuo no altar",
+   "ref": "6:13",
+   "explicado": false,
+   "significado": "O fogo do altar nunca deve se apagar. Lembra o fogo que veio de diante do SENHOR (9:24) e a adoração ininterrupta."
+  },
+  {
+   "id": "oleo-da-uncao",
+   "termo": "Óleo da unção",
+   "ref": "8:12",
+   "explicado": false,
+   "significado": "Moisés unge o tabernáculo e Arão \"para santificá-lo\" (8:10-12). A unção separa pessoas e objetos para Deus; daí o título \"ungido\" (Messias)."
+  },
+  {
+   "id": "fogo-estranho",
+   "termo": "Fogo estranho",
+   "ref": "10:1",
+   "explicado": false,
+   "significado": "Nadabe e Abiú oferecem um fogo \"que ele não lhes mandara\" e morrem. O episódio mostra que a aproximação de Deus segue o que Ele estabeleceu; o erro exato é discutido."
+  },
+  {
+   "id": "puro-impuro",
+   "termo": "Puro e impuro",
+   "ref": "10:10",
+   "explicado": true,
+   "significado": "O texto diz a finalidade: os sacerdotes devem ensinar a distinguir entre o santo e o comum, o impuro e o puro (10:10-11). Impureza não é o mesmo que pecado: é um estado ritual."
+  },
+  {
+   "id": "animais-limpos",
+   "termo": "Animais limpos e impuros",
+   "ref": "11:3",
+   "explicado": false,
+   "significado": "O texto lista os animais, dá o critério (casco fendido e ruminar) e liga a lei à santidade (11:44-45), mas não explica o porquê. Propostas incluem saúde, separação de práticas pagãs e simbolismo de ordem."
+  },
+  {
+   "id": "lepra",
+   "termo": "Lepra (doença de pele)",
+   "ref": "13:2",
+   "explicado": false,
+   "significado": "O termo hebraico cobre várias doenças de pele e até mofo em roupas e casas (13:47; 14:34). A pessoa impura vive fora do acampamento (13:46). Não é necessariamente a hanseníase moderna."
+  },
+  {
+   "id": "duas-aves",
+   "termo": "As duas aves",
+   "ref": "14:4-7",
+   "explicado": false,
+   "significado": "Uma ave é morta e a outra, molhada no sangue, é solta no campo. O rito marca a volta do curado à vida do povo; leituras simbólicas variam."
+  },
+  {
+   "id": "bode-azazel",
+   "termo": "O bode para Azazel",
+   "ref": "16:21-22",
+   "explicado": true,
+   "significado": "O texto explica: o bode leva sobre si as iniquidades do povo para uma terra deserta (16:21-22). O sentido de \"Azazel\" é discutido (nome de um lugar, de um demônio do deserto ou \"bode que se vai\")."
+  },
+  {
+   "id": "veu-propiciatorio",
+   "termo": "Atrás do véu, diante do propiciatório",
+   "ref": "16:2",
+   "explicado": false,
+   "significado": "Só o sumo sacerdote, uma vez por ano e com sangue e incenso, entra no lugar santíssimo. A carta aos Hebreus (cap. 9) usa essa cena para falar da obra de Cristo."
+  },
+  {
+   "id": "sangue",
+   "termo": "Sangue",
+   "ref": "17:11",
+   "explicado": true,
+   "significado": "O texto explica: \"a vida da carne está no sangue\", e Deus o deu para fazer expiação sobre o altar (17:11). Por isso é proibido comê-lo."
+  },
+  {
+   "id": "cantos-do-campo",
+   "termo": "Cantos do campo",
+   "ref": "19:9-10",
+   "explicado": true,
+   "significado": "O próprio texto dá o motivo: o que fica no campo é para o pobre e o estrangeiro (19:10). É o pano de fundo da história de Rute."
+  },
+  {
+   "id": "primicias",
+   "termo": "Feixe das primícias",
+   "ref": "23:10-11",
+   "explicado": false,
+   "significado": "O primeiro feixe é dado a Deus antes de se comer da colheita, reconhecendo que tudo vem dele. Paulo chama Cristo ressuscitado de \"primícias\" (1 Co 15:20)."
+  },
+  {
+   "id": "cabanas",
+   "termo": "Cabanas",
+   "ref": "23:42-43",
+   "explicado": true,
+   "significado": "O texto explica: morar em cabanas lembra que Deus fez Israel habitar em tendas quando o tirou do Egito (23:43)."
+  },
+  {
+   "id": "candelabro-paes",
+   "termo": "Lâmpadas contínuas e doze pães",
+   "ref": "24:2-8",
+   "explicado": false,
+   "significado": "Ardem e ficam \"continuamente\" diante do SENHOR. Os doze pães, renovados a cada sábado, são ligados aos filhos de Israel por \"pacto perpétuo\" (24:8)."
+  },
+  {
+   "id": "jubileu",
+   "termo": "Jubileu",
+   "ref": "25:10",
+   "explicado": true,
+   "significado": "O texto define: no ano cinquenta se proclama liberdade e cada um volta à sua propriedade, porque a terra é de Deus (25:10, 23). Não há certeza de que tenha sido praticado com regularidade."
+  },
+  {
+   "id": "deus-anda-no-meio",
+   "termo": "Deus andando no meio do povo",
+   "ref": "26:11-12",
+   "explicado": false,
+   "significado": "\"Andarei entre vós\" lembra Deus andando no jardim (Gn 3:8). Muitos leem aqui o alvo de todo o livro: a presença de Deus no meio do povo."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "qorban",
+   "pt": "Oferta",
+   "refs": [
+    "1:2",
+    "2:1"
+   ],
+   "hebraico": {
+    "lema": "קָרְבָּן",
+    "translit": "qorban",
+    "strong": "H7133"
+   },
+   "grego": {
+    "lema": "δῶρον",
+    "translit": "dōron",
+    "strong": "G1435"
+   },
+   "sentido": "aquilo que se aproxima, que se traz para perto",
+   "latim": {
+    "forma": "hostiam",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Vem do verbo \"aproximar-se\". A oferta é o modo de o israelita se achegar a Deus. Jesus cita a palavra corbã em Marcos 7:11.",
+   "interpretacao": false
+  },
+  {
+   "id": "olah",
+   "pt": "Holocausto",
+   "refs": [
+    "1:3",
+    "1:9"
+   ],
+   "hebraico": {
+    "lema": "עֹלָה",
+    "translit": "olah",
+    "strong": "H5930"
+   },
+   "grego": {
+    "lema": "ὁλοκαύτωμα",
+    "translit": "holokautōma",
+    "strong": "G3646"
+   },
+   "sentido": "o que sobe; oferta queimada inteira",
+   "latim": {
+    "forma": "holocaustum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O nome vem de \"subir\": tudo sobe em fumaça ao SENHOR. \"Holocausto\" vem do grego e significa \"queimado inteiro\".",
+   "interpretacao": false
+  },
+  {
+   "id": "minchah",
+   "pt": "Oferta de alimentos (de cereais)",
+   "refs": [
+    "2:1"
+   ],
+   "hebraico": {
+    "lema": "מִנְחָה",
+    "translit": "minchah",
+    "strong": "H4503"
+   },
+   "sentido": "presente, tributo; oferta de farinha",
+   "latim": {
+    "forma": "oblationem sacrificii",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Em outros textos minchah é o presente a um superior. Em Levítico é a oferta de farinha, azeite e incenso.",
+   "interpretacao": false
+  },
+  {
+   "id": "shelamim",
+   "pt": "Sacrifício pacífico",
+   "refs": [
+    "3:1",
+    "7:11"
+   ],
+   "hebraico": {
+    "lema": "שְׁלָמִים",
+    "translit": "shelamim",
+    "strong": "H8002"
+   },
+   "sentido": "oferta de paz, de comunhão",
+   "latim": {
+    "forma": "hostia pacificorum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Parentes de shalom (paz, inteireza). Parte da oferta era comida pelo ofertante e sua família: uma refeição de comunhão diante de Deus.",
+   "interpretacao": false
+  },
+  {
+   "id": "chattat",
+   "pt": "Expiação pelo pecado",
+   "refs": [
+    "4:3",
+    "16:9"
+   ],
+   "hebraico": {
+    "lema": "חַטָּאת",
+    "translit": "chatta't",
+    "strong": "H2403"
+   },
+   "sentido": "pecado; oferta pelo pecado",
+   "latim": {
+    "forma": "pro peccato",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A mesma palavra significa \"pecado\" e \"oferta pelo pecado\". Muitos estudiosos preferem chamá-la de \"oferta de purificação\", porque limpa o santuário da contaminação.",
+   "interpretacao": true
+  },
+  {
+   "id": "asham",
+   "pt": "Expiação pela culpa",
+   "refs": [
+    "5:15"
+   ],
+   "hebraico": {
+    "lema": "אָשָׁם",
+    "translit": "asham",
+    "strong": "H817"
+   },
+   "sentido": "culpa; oferta de reparação",
+   "latim": {
+    "forma": "pro delicto",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Exigida quando havia dano a coisas santas ou ao próximo, junto com restituição e acréscimo de um quinto (5:16). Isaías 53:10 usa a palavra para o servo sofredor.",
+   "interpretacao": false
+  },
+  {
+   "id": "kipper",
+   "pt": "Expiar / reconciliar",
+   "refs": [
+    "1:4",
+    "16:30",
+    "17:11"
+   ],
+   "hebraico": {
+    "lema": "כִּפֶּר",
+    "translit": "kipper",
+    "strong": "H3722"
+   },
+   "grego": {
+    "lema": "ἐξιλάσκομαι",
+    "translit": "exilaskomai"
+   },
+   "sentido": "fazer expiação, purificar, resgatar",
+   "latim": {
+    "forma": "rogabit pro eo / expiatio",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Verbo central do livro. Os sentidos propostos incluem \"cobrir\", \"limpar\" e \"pagar resgate\"; os estudiosos discutem qual predomina. Dele vem Yom Kippur, o Dia da Expiação.",
+   "interpretacao": true
+  },
+  {
+   "id": "qadosh-lv",
+   "pt": "Santo",
+   "refs": [
+    "11:44",
+    "19:2",
+    "20:26"
+   ],
+   "hebraico": {
+    "lema": "קָדוֹשׁ",
+    "translit": "qadosh",
+    "strong": "H6918"
+   },
+   "grego": {
+    "lema": "ἅγιος",
+    "translit": "hagios",
+    "strong": "G40"
+   },
+   "sentido": "separado, consagrado, pertencente a Deus",
+   "latim": {
+    "forma": "Sancti estote quia ego sanctus sum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "\"Sede santos, porque eu sou santo\" é o refrão do livro, citado em 1 Pedro 1:16. A santidade de Levítico inclui o culto e também a justiça com o próximo (cap. 19).",
+   "interpretacao": false
+  },
+  {
+   "id": "tahor-tame",
+   "pt": "Puro e impuro",
+   "refs": [
+    "10:10",
+    "11:47"
+   ],
+   "hebraico": {
+    "lema": "טָהוֹר / טָמֵא",
+    "translit": "tahor / tame'",
+    "strong": "H2889, H2931"
+   },
+   "sentido": "puro, limpo / impuro, contaminado",
+   "latim": {
+    "forma": "mundum et immundum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Categorias rituais, não morais: uma mãe após o parto ou quem tocou um morto fica impuro sem ter pecado. O impuro não pode se aproximar do santuário até se purificar.",
+   "interpretacao": false
+  },
+  {
+   "id": "tsaraat",
+   "pt": "Lepra",
+   "refs": [
+    "13:2",
+    "14:34"
+   ],
+   "hebraico": {
+    "lema": "צָרַעַת",
+    "translit": "tsara'at",
+    "strong": "H6883"
+   },
+   "grego": {
+    "lema": "λέπρα",
+    "translit": "lepra",
+    "strong": "G3014"
+   },
+   "sentido": "doença de pele (e manchas em tecidos e paredes)",
+   "latim": {
+    "forma": "plaga leprae",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A tradução \"lepra\" veio do grego lepra (\"escamosa\"). O termo hebraico é mais amplo que a hanseníase moderna e inclui mofos em roupas e casas.",
+   "interpretacao": false
+  },
+  {
+   "id": "azazel",
+   "pt": "Azazel",
+   "refs": [
+    "16:8",
+    "16:10"
+   ],
+   "hebraico": {
+    "lema": "עֲזָאזֵל",
+    "translit": "Azazel",
+    "strong": "H5799"
+   },
+   "sentido": "sentido incerto",
+   "latim": {
+    "forma": "caprum emissarium",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A Vulgata entendeu \"bode que se envia\" (daí \"bode emissário\" ou \"expiatório\"). Outros leem um lugar no deserto ou o nome de um ser do deserto, como no livro de Enoque.",
+   "interpretacao": true
+  },
+  {
+   "id": "dam",
+   "pt": "Sangue",
+   "refs": [
+    "17:11",
+    "17:14"
+   ],
+   "hebraico": {
+    "lema": "דָּם",
+    "translit": "dam",
+    "strong": "H1818"
+   },
+   "grego": {
+    "lema": "αἷμα",
+    "translit": "haima",
+    "strong": "G129"
+   },
+   "sentido": "sangue",
+   "latim": {
+    "forma": "anima carnis in sanguine est",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Por ser sede da vida, o sangue pertence a Deus: não se come (17:10-14) e é usado na expiação (17:11). Hebreus 9:22 retoma essa ideia.",
+   "interpretacao": false
+  },
+  {
+   "id": "rea",
+   "pt": "Próximo",
+   "refs": [
+    "19:18"
+   ],
+   "hebraico": {
+    "lema": "רֵעַ",
+    "translit": "rea'",
+    "strong": "H7453"
+   },
+   "grego": {
+    "lema": "πλησίον",
+    "translit": "plēsion",
+    "strong": "G4139"
+   },
+   "sentido": "próximo, companheiro, vizinho",
+   "latim": {
+    "forma": "diliges amicum tuum sicut temet ipsum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "\"Amarás a teu próximo como a ti mesmo\" (19:18) é citado por Jesus como o segundo grande mandamento. Em 19:34 o mesmo amor se estende ao estrangeiro.",
+   "interpretacao": false
+  },
+  {
+   "id": "ger",
+   "pt": "Estrangeiro / peregrino",
+   "refs": [
+    "19:34",
+    "25:23"
+   ],
+   "hebraico": {
+    "lema": "גֵּר",
+    "translit": "ger",
+    "strong": "H1616"
+   },
+   "sentido": "estrangeiro residente, imigrante",
+   "latim": {
+    "forma": "advena",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Israel deve amar o estrangeiro porque foi estrangeiro no Egito (19:34). E o próprio Israel é \"peregrino e estrangeiro\" na terra que pertence a Deus (25:23).",
+   "interpretacao": false
+  },
+  {
+   "id": "yovel",
+   "pt": "Jubileu",
+   "refs": [
+    "25:10"
+   ],
+   "hebraico": {
+    "lema": "יוֹבֵל",
+    "translit": "yovel",
+    "strong": "H3104"
+   },
+   "sentido": "chifre de carneiro; o ano anunciado por ele",
+   "latim": {
+    "forma": "ipse est enim iobeleus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O nome vem do chifre de carneiro tocado para anunciar o ano. Pela Vulgata (iobeleus) chegou ao português como jubileu, ligado a júbilo.",
+   "interpretacao": false
+  },
+  {
+   "id": "moed",
+   "pt": "Solenidades / tempos marcados",
+   "refs": [
+    "23:2",
+    "23:4"
+   ],
+   "hebraico": {
+    "lema": "מוֹעֵד",
+    "translit": "mo'ed",
+    "strong": "H4150"
+   },
+   "sentido": "tempo marcado, encontro marcado",
+   "latim": {
+    "forma": "feriae Domini",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Levítico 23 chama as festas de \"encontros marcados\" do SENHOR. A mesma raiz aparece em \"tenda do encontro\" (ohel mo'ed).",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "qumran-paleolev",
+   "titulo": "Levítico entre os Manuscritos do Mar Morto",
+   "refs": [
+    "11:44",
+    "26:12"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Manuscritos do Mar Morto: 11QpaleoLev",
+   "referencia": "Qumran, caverna 11; Israel Museum / Autoridade de Antiguidades de Israel",
+   "data_fonte": "c. séc. II-I a.C.",
+   "data_evento": "manuscrito encontrado em 1956",
+   "resumo": "Um dos rolos de Levítico de Qumran foi escrito na antiga escrita paleo-hebraica, e não na escrita quadrada comum na época.",
+   "relacao": "Mostra que Levítico já era copiado com cuidado especial mais de mil anos antes dos manuscritos medievais. As diferenças em relação ao texto tradicional são pequenas.",
+   "grau": "documentado"
+  },
+  {
+   "id": "ritual-hitita",
+   "titulo": "Rituais hititas de envio de um animal",
+   "refs": [
+    "16:20-22"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Rituais hititas de Ashella, Uhhamuwa e Pulisa",
+   "referencia": "tabuinhas de Hattusa (Boğazköy, Turquia)",
+   "data_fonte": "c. séc. XIV-XIII a.C.",
+   "data_evento": "ritos contra pestes no exército e no país",
+   "resumo": "Para afastar uma peste, sacerdotes enfeitavam um carneiro ou outro animal e o mandavam para o território inimigo, como portador do mal.",
+   "relacao": "Ajuda a ver que ritos de \"enviar\" o mal num animal existiam no mundo antigo. Em Levítico, porém, o bode leva os pecados confessados do povo, e o rito está dentro da aliança com um só Deus.",
+   "grau": "associacao"
+  },
+  {
+   "id": "ugarit-sacrificios",
+   "titulo": "Termos de sacrifício nos textos de Ugarit",
+   "refs": [
+    "3:1",
+    "1:3"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Textos rituais de Ugarit",
+   "referencia": "Ras Shamra, Síria (escavações a partir de 1929)",
+   "data_fonte": "c. séc. XIV-XII a.C.",
+   "data_evento": "culto cananeu da Idade do Bronze",
+   "resumo": "Os textos rituais de Ugarit usam palavras aparentadas às hebraicas para alguns sacrifícios, como as ofertas de paz (šlmm) e ofertas queimadas.",
+   "relacao": "Mostram que Israel compartilhava vocabulário de culto com os vizinhos cananeus. As leis de Levítico têm traços próprios, como a ausência de alimentar os deuses e a ênfase na santidade do povo.",
+   "grau": "associacao"
+  },
+  {
+   "id": "mishna-yoma",
+   "titulo": "O Dia da Expiação na Mishná",
+   "refs": [
+    "16:1-34",
+    "23:27"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Mishná, tratado Yoma",
+   "referencia": "ordem Moed",
+   "data_fonte": "redigida c. 200 d.C.",
+   "data_evento": "a celebração do Yom Kippur no Segundo Templo (até 70 d.C.)",
+   "resumo": "Descreve passo a passo como o sumo sacerdote fazia o rito do Dia da Expiação no templo, incluindo o sorteio dos bodes e o envio do bode ao deserto.",
+   "relacao": "Mostra como Levítico 16 era praticado no tempo de Jesus. Foi redigida depois da destruição do templo e mistura memória e tradição.",
+   "grau": "documentado"
+  },
+  {
+   "id": "josefo-sacrificios",
+   "titulo": "Josefo descreve sacrifícios e festas",
+   "refs": [
+    "1:3",
+    "23:34"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 3, caps. 9-10",
+   "data_fonte": "c. 93-94 d.C.",
+   "data_evento": "sacrifícios e festas de Israel, segundo a Lei",
+   "resumo": "Josefo resume para leitores gregos e romanos os tipos de sacrifícios, as leis de pureza e as festas do calendário judaico, como a das Cabanas.",
+   "relacao": "Testemunho de como um sacerdote judeu do séc. I entendia e praticava as leis de Levítico.",
+   "grau": "documentado"
+  },
+  {
+   "id": "calendario-gezer",
+   "titulo": "Calendário de Gezer",
+   "refs": [
+    "23:10",
+    "23:39"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Calendário de Gezer",
+   "referencia": "Museu Arqueológico de Istambul (encontrado em 1908)",
+   "data_fonte": "c. séc. X a.C.",
+   "data_evento": "ciclo agrícola anual em Canaã",
+   "resumo": "Pequena placa de calcário que lista os meses pelas tarefas do campo: colheita de oliveiras, semeadura, colheita da cevada, colheita do trigo, uvas e frutos de verão.",
+   "relacao": "Mostra o ano agrícola em que se encaixam as festas de Levítico 23 (primícias da cevada, Semanas no trigo, Cabanas na colheita de outono).",
+   "grau": "associacao"
+  },
+  {
+   "id": "ossos-porco",
+   "titulo": "Ausência de porcos em sítios israelitas",
+   "refs": [
+    "11:7"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Estudos de ossos de animais (arqueozoologia)",
+   "referencia": "sítios da Idade do Ferro nas montanhas de Canaã",
+   "data_fonte": "pesquisas do séc. XX e XXI",
+   "data_evento": "hábitos alimentares por volta de 1200-600 a.C.",
+   "resumo": "Em muitas aldeias das montanhas atribuídas aos israelitas quase não aparecem ossos de porco, enquanto em sítios filisteus vizinhos eles são comuns.",
+   "relacao": "Muitos arqueólogos ligam isso à proibição de 11:7 e veem aí um marcador de identidade. Outros lembram fatores ambientais e econômicos; não se sabe se a prática veio antes ou depois da lei escrita.",
+   "grau": "associacao"
+  }
+ ]
+}

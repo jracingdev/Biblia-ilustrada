@@ -1,0 +1,507 @@
+{
+ "livro": "zacarias",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:8-11",
+   "titulo": "O cavaleiro entre as murtas",
+   "descricao": "À noite, num vale profundo, um homem montado num cavalo vermelho está parado entre murtas, com outros cavalos atrás dele.",
+   "alt": "Um cavaleiro num cavalo vermelho entre murtas num vale escuro, com cavalos de várias cores atrás.",
+   "prompt": "Night vision: a rider on a red horse standing still among myrtle trees in a deep shadowy valley, behind him red, sorrel and white horses, moonlight and a soft heavenly glow, the young prophet Zechariah watching in wonder"
+  },
+  {
+   "id": "q02",
+   "capitulo": 2,
+   "ref": "2:1-5",
+   "titulo": "O homem com a corda de medir",
+   "descricao": "Um jovem segue com uma corda de medir para Jerusalém, mas um anjo anuncia que a cidade será sem muros, cercada pelo fogo de Deus.",
+   "alt": "Um homem com uma corda de medir diante de Jerusalém cercada por uma luz de fogo.",
+   "prompt": "A young man holding a measuring line walking toward Jerusalem, a dignified angel in white stopping him, the city without walls surrounded by a protective ring of soft heavenly fire, many people and cattle within, luminous visionary atmosphere"
+  },
+  {
+   "id": "q03",
+   "capitulo": 3,
+   "ref": "3:1-5",
+   "titulo": "Josué recebe vestes limpas",
+   "descricao": "Diante do anjo do SENHOR, o sumo sacerdote Josué tem as roupas sujas retiradas e recebe vestes de festa e uma mitra limpa.",
+   "alt": "O sumo sacerdote é vestido com roupas limpas e uma mitra por figuras angelicais.",
+   "prompt": "Heavenly courtroom vision: high priest Joshua standing humbly as attendants remove his filthy garments and clothe him in rich clean festal robes and a pure turban, the angel of the Lord in radiant white presiding, a shadowy accuser turning away, golden light"
+  },
+  {
+   "id": "q04",
+   "capitulo": 4,
+   "ref": "4:1-6",
+   "titulo": "O candelabro e as duas oliveiras",
+   "descricao": "Um candelabro de ouro com sete lâmpadas é alimentado por duas oliveiras, uma de cada lado.",
+   "alt": "Um candelabro de ouro com sete lâmpadas entre duas oliveiras.",
+   "prompt": "A solid gold lampstand with a bowl on top and seven burning lamps, two lush olive trees on either side feeding it with golden oil through pipes, set in a dark visionary space, Zechariah and an angel looking on, warm glowing light"
+  },
+  {
+   "id": "q05",
+   "capitulo": 5,
+   "ref": "5:1-4",
+   "titulo": "O rolo que voa",
+   "descricao": "Um enorme rolo aberto atravessa o céu sobre a terra, carregando a maldição contra o roubo e o falso juramento.",
+   "alt": "Um rolo gigante aberto voando pelo céu sobre casas antigas.",
+   "prompt": "A giant unrolled scroll with Hebrew writing flying across a stormy sky above the rooftops of an ancient land, people below looking up in fear, the prophet pointing, dramatic wind-swept clouds"
+  },
+  {
+   "id": "q06",
+   "capitulo": 6,
+   "ref": "6:1-8",
+   "titulo": "Os quatro carros",
+   "descricao": "Quatro carros puxados por cavalos vermelhos, pretos, brancos e malhados saem entre dois montes de bronze para percorrer a terra.",
+   "alt": "Quatro carruagens com cavalos de cores diferentes saem entre duas montanhas de bronze.",
+   "prompt": "Four ancient chariots drawn by powerful red, black, white and dappled horses bursting out between two gleaming bronze mountains at dawn, dust and light trailing, angelic charioteers in dignified robes, majestic dynamic composition"
+  },
+  {
+   "id": "q07",
+   "capitulo": 8,
+   "ref": "8:4-5",
+   "titulo": "Velhos e crianças nas praças",
+   "descricao": "As praças de Jerusalém se enchem de idosos apoiados em bordões e de meninos e meninas brincando.",
+   "alt": "Idosos sentados com bastões observam crianças brincando nas praças de Jerusalém.",
+   "prompt": "A peaceful square in restored ancient Jerusalem, elderly men and women sitting with walking staffs smiling, boys and girls playing games in the street, market stalls, warm afternoon sunlight, joyful everyday life"
+  },
+  {
+   "id": "q08",
+   "capitulo": 9,
+   "ref": "9:9",
+   "titulo": "O rei montado num jumentinho",
+   "descricao": "O rei justo e humilde chega a Jerusalém montado num jumentinho, e a filha de Sião o recebe com alegria.",
+   "alt": "Um rei humilde montado num jumentinho chega a Jerusalém recebido com alegria.",
+   "prompt": "A humble king in simple robes riding a young donkey toward the gates of Jerusalem, crowds of the daughters of Zion rejoicing and shouting, children running ahead, no war horses or chariots, gentle radiant light"
+  },
+  {
+   "id": "q09",
+   "capitulo": 11,
+   "ref": "11:12-13",
+   "titulo": "Trinta moedas de prata",
+   "descricao": "O pastor recebe trinta moedas de prata como salário e, por ordem do SENHOR, lança-as na casa do SENHOR ao oleiro.",
+   "alt": "Um pastor lança moedas de prata no templo, perto da oficina de um oleiro.",
+   "prompt": "A shepherd with a staff throwing thirty silver coins onto a stone floor in the temple precinct toward a potter, coins scattering, officials who weighed the wages watching, solemn light"
+  },
+  {
+   "id": "q10",
+   "capitulo": 12,
+   "ref": "12:10-12",
+   "titulo": "Pranto sobre o traspassado",
+   "descricao": "Famílias de Jerusalém choram separadamente, como quem chora a morte de um filho único, olhando para aquele a quem traspassaram.",
+   "alt": "Famílias de Jerusalém em luto, de rostos voltados para o alto, chorando amargamente.",
+   "prompt": "Families of Jerusalem in deep mourning, each family apart, men and women separately, faces lifted toward a distant source of light, tears and expressions of repentance, a gentle outpouring of light like grace from above, restrained emotional composition"
+  },
+  {
+   "id": "q11",
+   "capitulo": 14,
+   "ref": "14:4-8",
+   "titulo": "Águas vivas de Jerusalém",
+   "descricao": "O monte das Oliveiras se divide formando um grande vale, e de Jerusalém correm águas vivas para o oriente e o ocidente.",
+   "alt": "O monte das Oliveiras partido em dois com águas vivas fluindo de Jerusalém.",
+   "prompt": "The Mount of Olives split in two forming a great valley east of Jerusalem, streams of living water flowing out of the city toward the eastern and western seas, olive trees on both halves, radiant dawn light, epic visionary landscape"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "cavalos",
+   "termo": "Cavalos de cores diferentes",
+   "ref": "1:8",
+   "explicado": true,
+   "significado": "O texto explica que são enviados do SENHOR para percorrer a terra (1:10). Reaparecem com os carros no cap. 6."
+  },
+  {
+   "id": "chifres-ferreiros",
+   "termo": "Os quatro chifres e os quatro ferreiros",
+   "ref": "1:18-21",
+   "explicado": true,
+   "significado": "O anjo explica: os chifres são os poderes que espalharam Judá, e os ferreiros vêm para derrubá-los."
+  },
+  {
+   "id": "muro-fogo",
+   "termo": "Muro de fogo",
+   "ref": "2:5",
+   "explicado": true,
+   "significado": "Deus será um muro de fogo ao redor de Jerusalém e a glória no meio dela."
+  },
+  {
+   "id": "ticao",
+   "termo": "Tição tirado do fogo",
+   "ref": "3:2",
+   "explicado": false,
+   "significado": "Josué, representante do povo que voltou do exílio, é como um pedaço de lenha salvo do incêndio."
+  },
+  {
+   "id": "renovo",
+   "termo": "O Renovo",
+   "ref": "3:8",
+   "explicado": false,
+   "significado": "Título do servo de Deus, ligado à linhagem de Davi (Jr 23:5). Em 6:12 diz-se que edificará o templo. Muitos o aplicam a Zorobabel no primeiro plano e ao Messias em sentido pleno."
+  },
+  {
+   "id": "pedra-sete-olhos",
+   "termo": "A pedra com sete olhos",
+   "ref": "3:9",
+   "explicado": false,
+   "significado": "Pedra posta diante de Josué. Os sete olhos são explicados em 4:10 como os olhos do SENHOR que percorrem a terra; o sentido da pedra é discutido."
+  },
+  {
+   "id": "candelabro",
+   "termo": "O candelabro de ouro",
+   "ref": "4:2",
+   "explicado": false,
+   "significado": "Lembra o candelabro do tabernáculo. Alimentado pelas oliveiras, ilustra a mensagem de 4:6: 'não por força nem por violência, mas pelo meu Espírito'."
+  },
+  {
+   "id": "oliveiras",
+   "termo": "As duas oliveiras",
+   "ref": "4:3",
+   "explicado": true,
+   "significado": "O anjo diz que são os dois ungidos que assistem diante do Senhor (4:14), geralmente entendidos como Zorobabel e Josué. Apocalipse 11:4 retoma a imagem."
+  },
+  {
+   "id": "rolo",
+   "termo": "O rolo voador",
+   "ref": "5:1",
+   "explicado": true,
+   "significado": "O texto explica que é a maldição que sai sobre a terra contra quem rouba e jura falsamente (5:3)."
+  },
+  {
+   "id": "efa",
+   "termo": "A mulher no efa",
+   "ref": "5:7-8",
+   "explicado": true,
+   "significado": "O anjo diz que ela é a Impiedade, levada para a terra de Sinear (Babilônia): o mal é retirado da terra."
+  },
+  {
+   "id": "jumentinho",
+   "termo": "O rei no jumentinho",
+   "ref": "9:9",
+   "explicado": false,
+   "significado": "Contraste com reis guerreiros: um rei justo, salvador e humilde. Os Evangelhos ligam a profecia à entrada de Jesus em Jerusalém (Mt 21:5; Jo 12:15)."
+  },
+  {
+   "id": "cajados",
+   "termo": "Os cajados Graça e União",
+   "ref": "11:7",
+   "explicado": true,
+   "significado": "O profeta quebra os cajados para mostrar a ruptura da aliança e da irmandade entre Judá e Israel (11:10, 11:14)."
+  },
+  {
+   "id": "trinta-moedas",
+   "termo": "Trinta moedas de prata",
+   "ref": "11:12",
+   "explicado": false,
+   "significado": "Salário desprezível pago ao pastor, o preço de um escravo (Êx 21:32). Mateus 27:9-10 relaciona o episódio à traição de Judas."
+  },
+  {
+   "id": "fonte",
+   "termo": "A fonte aberta",
+   "ref": "13:1",
+   "explicado": true,
+   "significado": "O texto diz que é uma fonte para purificar a casa de Davi do pecado e da impureza."
+  },
+  {
+   "id": "aguas-vivas",
+   "termo": "Águas vivas",
+   "ref": "14:8",
+   "explicado": false,
+   "significado": "Rios que saem de Jerusalém o ano todo; imagem de vida e renovação, como em Ezequiel 47 e Apocalipse 22."
+  },
+  {
+   "id": "santo-senhor",
+   "termo": "'Consagrado ao SENHOR' nos sinos",
+   "ref": "14:20",
+   "explicado": false,
+   "significado": "A inscrição que antes ficava na mitra do sumo sacerdote passa aos sinos dos cavalos e às panelas: tudo será santo."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "shuv",
+   "pt": "Voltai a mim",
+   "refs": [
+    "1:3"
+   ],
+   "hebraico": {
+    "lema": "שׁוּב",
+    "translit": "shuv",
+    "strong": "H7725"
+   },
+   "grego": {
+    "lema": "ἐπιστρέφω",
+    "translit": "epistréphō"
+   },
+   "sentido": "voltar, converter-se",
+   "latim": {
+    "forma": "convertimini ad me et convertar ad vos",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Abertura do livro: 'Voltai a mim e eu voltarei a vós'. O retorno do exílio precisava vir com o retorno do coração.",
+   "interpretacao": false
+  },
+  {
+   "id": "satan",
+   "pt": "Satanás (o acusador)",
+   "refs": [
+    "3:1",
+    "3:2"
+   ],
+   "hebraico": {
+    "lema": "שָׂטָן",
+    "translit": "satan",
+    "strong": "H7854"
+   },
+   "grego": {
+    "lema": "διάβολος",
+    "translit": "diábolos"
+   },
+   "sentido": "adversário, acusador",
+   "latim": {
+    "forma": "Satan",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "No hebraico há o artigo: 'o satã', o acusador no tribunal celeste, como em Jó 1–2. O SENHOR o repreende e defende Josué.",
+   "interpretacao": false
+  },
+  {
+   "id": "tsemach",
+   "pt": "Renovo",
+   "refs": [
+    "3:8",
+    "6:12"
+   ],
+   "hebraico": {
+    "lema": "צֶמַח",
+    "translit": "tsemach",
+    "strong": "H6780"
+   },
+   "grego": {
+    "lema": "ἀνατολή",
+    "translit": "anatolḗ"
+   },
+   "sentido": "broto, rebento",
+   "latim": {
+    "forma": "servum meum Orientem",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A Vulgata leu 'Oriente' (o nascer do sol), seguindo a Septuaginta (anatolē), palavra que também significa 'brotar'. Daí 'o Oriente do alto' em Lucas 1:78.",
+   "interpretacao": true
+  },
+  {
+   "id": "ruach",
+   "pt": "Espírito",
+   "refs": [
+    "4:6",
+    "12:10"
+   ],
+   "hebraico": {
+    "lema": "רוּחַ",
+    "translit": "ruach",
+    "strong": "H7307"
+   },
+   "grego": {
+    "lema": "πνεῦμα",
+    "translit": "pneûma",
+    "strong": "G4151"
+   },
+   "sentido": "vento, sopro, espírito",
+   "latim": {
+    "forma": "non in exercitu nec in robore sed in spiritu meo",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A obra do templo seria concluída não por força militar ou recursos, mas pelo Espírito de Deus.",
+   "interpretacao": false
+  },
+  {
+   "id": "menorah",
+   "pt": "Candelabro",
+   "refs": [
+    "4:2"
+   ],
+   "hebraico": {
+    "lema": "מְנוֹרָה",
+    "translit": "menorah",
+    "strong": "H4501"
+   },
+   "grego": {
+    "lema": "λυχνία",
+    "translit": "lychnía"
+   },
+   "sentido": "candelabro, lampadário",
+   "latim": {
+    "forma": "candelabrum aureum totum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O candelabro de sete lâmpadas, símbolo ligado ao templo e à presença de Deus.",
+   "interpretacao": false
+  },
+  {
+   "id": "ani",
+   "pt": "Humilde",
+   "refs": [
+    "9:9"
+   ],
+   "hebraico": {
+    "lema": "עָנִי",
+    "translit": "'ani",
+    "strong": "H6041"
+   },
+   "grego": {
+    "lema": "πραΰς",
+    "translit": "praÿs"
+   },
+   "sentido": "pobre, humilde, aflito",
+   "latim": {
+    "forma": "pauper et ascendens super asinam",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O rei vem 'humilde': a palavra usada também para os pobres e oprimidos. A Vulgata traduz pauper, 'pobre'.",
+   "interpretacao": false
+  },
+  {
+   "id": "daqar",
+   "pt": "Traspassaram",
+   "refs": [
+    "12:10"
+   ],
+   "hebraico": {
+    "lema": "דָּקַר",
+    "translit": "daqar",
+    "strong": "H1856"
+   },
+   "sentido": "perfurar, atravessar",
+   "latim": {
+    "forma": "aspicient ad me quem confixerunt",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Verso difícil: Deus fala de si como traspassado. João 19:37 e Apocalipse 1:7 aplicam-no a Jesus crucificado.",
+   "interpretacao": true
+  },
+  {
+   "id": "chen",
+   "pt": "Graça",
+   "refs": [
+    "4:7",
+    "12:10"
+   ],
+   "hebraico": {
+    "lema": "חֵן",
+    "translit": "chen",
+    "strong": "H2580"
+   },
+   "grego": {
+    "lema": "χάρις",
+    "translit": "cháris",
+    "strong": "G5485"
+   },
+   "sentido": "favor, graça",
+   "latim": {
+    "forma": "spiritum gratiae et precum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Deus derrama 'espírito de graça e de súplicas', que leva ao arrependimento e ao pranto.",
+   "interpretacao": false
+  },
+  {
+   "id": "roeh",
+   "pt": "Pastor",
+   "refs": [
+    "11:4",
+    "13:7"
+   ],
+   "hebraico": {
+    "lema": "רֹעֶה",
+    "translit": "ro'eh",
+    "strong": "H7462"
+   },
+   "grego": {
+    "lema": "ποιμήν",
+    "translit": "poimḗn",
+    "strong": "G4166"
+   },
+   "sentido": "o que apascenta",
+   "latim": {
+    "forma": "percute pastorem et dispergentur oves",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O livro critica maus pastores (líderes) e fala de um pastor ferido. Jesus cita 13:7 na noite em que foi preso (Mt 26:31).",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "behistun-z",
+   "titulo": "Dario I e as datas de Zacarias",
+   "refs": [
+    "1:1",
+    "1:7",
+    "7:1"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Inscrição de Beistum (Behistun) de Dario I",
+   "referencia": "Penhasco de Beistum, Irã",
+   "data_fonte": "c. 520–518 a.C.",
+   "data_evento": "522–518 a.C.",
+   "resumo": "Dario I descreve sua subida ao trono e a repressão de revoltas por todo o império.",
+   "relacao": "As visões de Zacarias são datadas pelos anos de Dario (520–518 a.C.). O texto de 1:11, 'toda a terra está quieta', pode refletir o império já pacificado. É contexto.",
+   "grau": "associacao"
+  },
+  {
+   "id": "josefo-zacarias",
+   "titulo": "Josefo e a obra do segundo templo",
+   "refs": [
+    "4:9",
+    "6:12"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 11, cap. 4",
+   "data_fonte": "c. 93–94 d.C.",
+   "data_evento": "520–515 a.C.",
+   "resumo": "Josefo narra a conclusão do templo no tempo de Dario, com Zorobabel e o incentivo de Ageu e Zacarias.",
+   "relacao": "Confirma a tradição de 4:9: as mãos de Zorobabel lançaram os alicerces e terminaram a casa. Depende de Esdras.",
+   "grau": "associacao"
+  },
+  {
+   "id": "arriano-tiro",
+   "titulo": "Alexandre toma Tiro e Gaza",
+   "refs": [
+    "9:3",
+    "9:4",
+    "9:5"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Arriano, Anábase de Alexandre",
+   "referencia": "livro 2, caps. 15–27",
+   "data_fonte": "séc. II d.C.",
+   "data_evento": "332 a.C.",
+   "resumo": "Arriano descreve o cerco de Tiro, cidade construída numa ilha fortificada, e depois o cerco de Gaza por Alexandre Magno.",
+   "relacao": "Muitos intérpretes ligam o oráculo de 9:1-8 (Tiro, Gaza, Asquelom) à campanha de Alexandre; outros o situam em outro contexto. A relação é debatida.",
+   "grau": "associacao"
+  },
+  {
+   "id": "hever-zacarias",
+   "titulo": "Zacarias no rolo grego de Nahal Hever",
+   "refs": [
+    "1:1"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Rolo grego dos Doze Profetas de Nahal Hever",
+   "referencia": "8HevXIIgr, Autoridade de Antiguidades de Israel",
+   "data_fonte": "c. séc. I a.C.–I d.C.",
+   "data_evento": "descoberto na década de 1950",
+   "resumo": "Rolo de couro com uma revisão judaica da tradução grega dos Profetas Menores, encontrado numa caverna do deserto da Judeia; inclui trechos de Zacarias.",
+   "relacao": "Testemunha como Zacarias era lido em grego por judeus perto da época de Jesus.",
+   "grau": "associacao"
+  }
+ ]
+}

@@ -1,0 +1,781 @@
+{
+ "livro": "jo",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:4-5",
+   "titulo": "Jó intercede pelos filhos",
+   "descricao": "De madrugada, Jó oferece holocaustos por cada um dos filhos, com medo de que tivessem pecado em seus banquetes.",
+   "alt": "Homem idoso de barba, em túnica de lã, oferece sacrifício num altar de pedras ao amanhecer, com tendas e rebanhos ao fundo.",
+   "prompt": "At dawn an elderly bearded patriarch in a wool robe stands before a simple stone altar, smoke rising from a burnt offering, hands lifted in prayer; behind him black goat-hair tents, camels and flocks on a wide eastern plain; soft rose-gold morning light"
+  },
+  {
+   "id": "q02",
+   "capitulo": 1,
+   "ref": "1:6-12",
+   "titulo": "O conselho celeste",
+   "descricao": "Os filhos de Deus se apresentam diante do SENHOR, e entre eles vem Satanás, que questiona a fidelidade de Jó.",
+   "alt": "Assembleia de anjos em vestes claras diante de uma luz intensa entre nuvens, com uma figura sombria à parte.",
+   "prompt": "A heavenly assembly of dignified angels in pale flowing robes gathered on banks of cloud before an overwhelming radiance of white-gold light with no human figure in it; at the edge a shadowy figure in dark garments stands apart, half turned; solemn, luminous, vast space"
+  },
+  {
+   "id": "q03",
+   "capitulo": 1,
+   "ref": "1:20-21",
+   "titulo": "\"O SENHOR deu, o SENHOR tomou\"",
+   "descricao": "Ao receber as notícias das perdas, Jó rasga a capa, rapa a cabeça, cai por terra e adora.",
+   "alt": "Homem com o manto rasgado e a cabeça raspada prostrado no chão, enquanto mensageiros cansados o observam.",
+   "prompt": "A grieving patriarch with torn outer cloak and freshly shaved head kneels and bows his face to the ground in worship; exhausted messengers in dusty tunics stand behind him; distant smoke on the horizon; muted evening light, restrained sorrow"
+  },
+  {
+   "id": "q04",
+   "capitulo": 2,
+   "ref": "2:7-10",
+   "titulo": "Jó na cinza",
+   "descricao": "Coberto de feridas, Jó se senta no meio da cinza e se raspa com um caco; sua mulher lhe fala em desespero.",
+   "alt": "Homem magro sentado sobre um monte de cinzas, segurando um caco de cerâmica, com a esposa de pé ao lado, angustiada.",
+   "prompt": "A gaunt man sits on a heap of grey ashes outside a village, wrapped in a rough cloth, holding a shard of broken pottery, his skin marked by sores shown discreetly; his wife in a dark headscarf stands beside him with an anguished gesture; overcast sky, desolate light"
+  },
+  {
+   "id": "q05",
+   "capitulo": 2,
+   "ref": "2:11-13",
+   "titulo": "Sete dias de silêncio",
+   "descricao": "Os três amigos chegam, choram, rasgam as capas, lançam pó ao ar e ficam sentados com Jó sete dias sem dizer nada.",
+   "alt": "Três homens de vestes ricas sentados no chão ao redor de Jó, em silêncio, sob o céu noturno.",
+   "prompt": "Three richly dressed eastern elders with torn mantles sit on the bare ground in a circle around a suffering man on an ash heap, heads bowed in silence; dust drifting in the air; night falling with stars appearing; a single small fire"
+  },
+  {
+   "id": "q06",
+   "capitulo": 3,
+   "ref": "3:1-3",
+   "titulo": "Jó amaldiçoa o seu dia",
+   "descricao": "Depois do silêncio, Jó abre a boca e lamenta o dia em que nasceu.",
+   "alt": "Jó erguendo o rosto e as mãos num grito de lamento, diante dos amigos espantados.",
+   "prompt": "The suffering man on the ash heap lifts his face and open hands toward a dark sky in a cry of lament; his three friends draw back in surprise; dramatic chiaroscuro, grey dawn"
+  },
+  {
+   "id": "q07",
+   "capitulo": 4,
+   "ref": "4:12-16",
+   "titulo": "A visão noturna de Elifaz",
+   "descricao": "Elifaz conta que, numa visão de noite, um vento passou diante dele e ele ouviu uma voz quieta.",
+   "alt": "Homem acordado na tenda à noite, com os cabelos arrepiados, diante de uma presença indistinta como sopro de vento.",
+   "prompt": "Inside a dark tent at night an older man sits up on his sleeping mat, eyes wide, as a faint pale breath of wind stirs the tent curtains and an indistinct luminous form hovers without clear shape; a lamp flame bends sideways; eerie, quiet"
+  },
+  {
+   "id": "q08",
+   "capitulo": 9,
+   "ref": "9:8-9",
+   "titulo": "Aquele que fez as constelações",
+   "descricao": "Jó contempla o Criador que estende os céus e fez a Ursa, o Órion e as Plêiades.",
+   "alt": "Jó sentado sob um céu estrelado, olhando para as constelações sobre o deserto.",
+   "prompt": "A lone man in a worn robe sits on a rocky rise in the desert at night, looking up at a vast starry sky where the Pleiades and Orion shine brightly over dark hills; the Milky Way arches above; deep blue night, awe"
+  },
+  {
+   "id": "q09",
+   "capitulo": 14,
+   "ref": "14:7-9",
+   "titulo": "A esperança da árvore cortada",
+   "descricao": "Jó observa que até uma árvore cortada pode brotar de novo ao cheiro da água.",
+   "alt": "Toco de árvore velho junto a um riacho, com brotos verdes nascendo dele.",
+   "prompt": "An old cut tree stump with gnarled roots beside a small trickling stream, fresh green shoots sprouting from its edge; a contemplative man kneels nearby touching the new growth; soft morning light"
+  },
+  {
+   "id": "q10",
+   "capitulo": 19,
+   "ref": "19:23-27",
+   "titulo": "\"Eu sei que meu Redentor vive\"",
+   "descricao": "Jó deseja que suas palavras fiquem gravadas na rocha e declara sua esperança de ver a Deus.",
+   "alt": "Jó, fraco mas de olhar firme, aponta para uma inscrição talhada numa rocha.",
+   "prompt": "A frail but resolute man stands beside a great rock face where words are being chiselled with an iron tool, his hand on his chest and eyes lifted to a break of light in the clouds; dawn rays falling on the inscription"
+  },
+  {
+   "id": "q11",
+   "capitulo": 24,
+   "ref": "24:5-8",
+   "titulo": "Os pobres sem abrigo",
+   "descricao": "Jó descreve os pobres que buscam comida no deserto e, molhados pela chuva das montanhas, se abraçam às rochas.",
+   "alt": "Família pobre se abrigando junto a rochas na chuva fria das montanhas.",
+   "prompt": "A poor family in thin ragged cloaks huddle against wet rocks in a mountain rain, a mother sheltering a child, a father gathering wild plants; grey cold light, compassionate tone"
+  },
+  {
+   "id": "q12",
+   "capitulo": 28,
+   "ref": "28:1-11",
+   "titulo": "Mineiros nas profundezas",
+   "descricao": "O homem abre poços, desce pendurado à escuridão e tira prata e pedras preciosas, mas não encontra ali a sabedoria.",
+   "alt": "Mineiros antigos suspensos por cordas num poço escuro, iluminados por lamparinas.",
+   "prompt": "Ancient miners in short tunics descend a deep rocky shaft on ropes, small oil lamps lighting veins of silver and copper in the stone; one worker looks up toward a distant square of daylight above; strong chiaroscuro"
+  },
+  {
+   "id": "q13",
+   "capitulo": 29,
+   "ref": "29:7-12",
+   "titulo": "Jó à porta da cidade",
+   "descricao": "Jó relembra quando era honrado na praça, e jovens e idosos se levantavam diante dele, porque ajudava pobres e órfãos.",
+   "alt": "Jó em vestes finas sentado à porta da cidade, ouvindo um órfão, enquanto anciãos o respeitam.",
+   "prompt": "At the stone gate of an ancient town a dignified man in fine robes sits on a seat in the square, listening kindly to a poor widow and an orphan boy; elders stand respectfully and young men step aside; warm afternoon light"
+  },
+  {
+   "id": "q14",
+   "capitulo": 32,
+   "ref": "32:4-6",
+   "titulo": "Eliú toma a palavra",
+   "descricao": "O jovem Eliú, que tinha esperado por respeito aos mais velhos, se levanta para falar.",
+   "alt": "Jovem de pé falando com gestos firmes diante de Jó e de três anciãos sentados.",
+   "prompt": "A young man with a short dark beard rises to speak with an earnest gesture before four seated older men in a circle on the ground; the sufferer on the ash heap listens; late afternoon, gathering clouds"
+  },
+  {
+   "id": "q15",
+   "capitulo": 37,
+   "ref": "37:1-5",
+   "titulo": "A tempestade que se aproxima",
+   "descricao": "Eliú fala do trovão e dos relâmpagos como voz de Deus, enquanto uma tempestade se forma.",
+   "alt": "Grupo de homens no campo olhando uma tempestade com relâmpagos que se aproxima.",
+   "prompt": "On an open plain a small group of men in robes turn toward a massive approaching storm, lightning branching across dark clouds, wind tugging at their garments; dramatic sky, low horizon"
+  },
+  {
+   "id": "q16",
+   "capitulo": 38,
+   "ref": "38:1-7",
+   "titulo": "Deus responde do redemoinho",
+   "descricao": "O SENHOR fala a Jó do meio de um redemoinho e pergunta onde ele estava quando a terra foi fundada.",
+   "alt": "Redemoinho de vento e luz descendo sobre o deserto diante de Jó, que se cobre o rosto.",
+   "prompt": "A towering whirlwind of cloud and radiant light descends over the desert, with no human figure in it; the suffering man stands small before it, shielding his face with his arm; his friends cower behind; morning stars faintly visible above"
+  },
+  {
+   "id": "q17",
+   "capitulo": 39,
+   "ref": "39:19-25",
+   "titulo": "O cavalo de guerra",
+   "descricao": "Entre as perguntas sobre a criação, Deus descreve o cavalo que não teme e se lança ao som da trombeta.",
+   "alt": "Cavalo poderoso empinando com a crina ao vento numa planície.",
+   "prompt": "A powerful war horse with flowing mane rears on a dusty plain, nostrils flaring, a distant ram's horn trumpet sounding from a ridge; no riders, no combat; golden dramatic light"
+  },
+  {
+   "id": "q18",
+   "capitulo": 39,
+   "ref": "39:26-27",
+   "titulo": "O falcão e a águia",
+   "descricao": "Deus pergunta se é pela sabedoria de Jó que o falcão voa para o sul e a águia faz o ninho nas alturas.",
+   "alt": "Águia pousada num ninho no alto de um penhasco, com um falcão voando ao fundo.",
+   "prompt": "An eagle perched on its nest high on a sheer cliff above a canyon, a hawk gliding south across a clear sky; tiny human figure far below looking up; crisp light, majestic"
+  },
+  {
+   "id": "q19",
+   "capitulo": 40,
+   "ref": "40:15-19",
+   "titulo": "O beemote",
+   "descricao": "Deus mostra a Jó o beemote, criatura enorme que come erva como o boi e é obra-prima dos caminhos de Deus.",
+   "alt": "Enorme animal parecido com um hipopótamo entre juncos à beira de um rio.",
+   "prompt": "A colossal beast resembling a hippopotamus stands among tall reeds and lotus at a river's edge, its massive body glistening; a man watches in awe from the bank; misty morning"
+  },
+  {
+   "id": "q20",
+   "capitulo": 41,
+   "ref": "41:1-2",
+   "titulo": "O leviatã",
+   "descricao": "Deus pergunta se Jó poderia pescar o leviatã com anzol, mostrando o limite da força humana.",
+   "alt": "Mar revolto com o dorso escamoso de uma criatura imensa e um pescador pequeno num barco.",
+   "prompt": "A turbulent sea where the vast scaled back of a mysterious sea creature breaks the surface, leaving a shining wake; a tiny fishing boat with a man holding a useless hook and line; storm light breaking through clouds"
+  },
+  {
+   "id": "q21",
+   "capitulo": 42,
+   "ref": "42:7-10",
+   "titulo": "Jó ora pelos amigos",
+   "descricao": "Os três amigos levam sacrifícios a Jó, que ora por eles, e o SENHOR restaura a sorte de Jó.",
+   "alt": "Jó de pé com as mãos erguidas orando, enquanto os três amigos se ajoelham junto a um altar.",
+   "prompt": "The restored man, still thin, stands with hands raised in intercession beside a stone altar with rising smoke; his three friends kneel humbly with bulls and rams nearby; clear peaceful light after the storm"
+  },
+  {
+   "id": "q22",
+   "capitulo": 42,
+   "ref": "42:12-17",
+   "titulo": "Jó e suas filhas",
+   "descricao": "Jó é abençoado de novo, tem filhos e filhas, e dá às filhas Jemima, Quézia e Quéren-Hapuque herança entre os irmãos.",
+   "alt": "Jó idoso e feliz com três filhas belas e sete filhos diante de rebanhos numerosos.",
+   "prompt": "An elderly smiling patriarch sits outside his tent surrounded by three beautiful daughters in colourful robes and seven sons, with great flocks, camels and oxen on the green plain; golden evening light, joy and peace"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "uz",
+   "termo": "Terra de Uz",
+   "ref": "1:1",
+   "explicado": false,
+   "significado": "Lugar onde Jó morava, a leste de Israel. O texto não dá localização exata; muitos a ligam a Edom ou ao deserto da Arábia. Mostra que Jó não era israelita, e o livro trata de uma pergunta universal."
+  },
+  {
+   "id": "cerca",
+   "termo": "A cerca ao redor de Jó",
+   "ref": "1:10",
+   "explicado": false,
+   "significado": "Satanás diz que Deus pôs uma cerca de proteção em volta de Jó. A imagem resume a suspeita do livro: Jó teme a Deus só porque é protegido e abençoado?"
+  },
+  {
+   "id": "cinza",
+   "termo": "Pó e cinza",
+   "ref": "2:8",
+   "explicado": false,
+   "significado": "Jó senta na cinza em sinal de luto e, no fim, se arrepende \"no pó e na cinza\" (42:6). A cinza indica dor, humilhação e a pequenez humana diante de Deus."
+  },
+  {
+   "id": "capa-rasgada",
+   "termo": "Capa rasgada",
+   "ref": "1:20",
+   "explicado": false,
+   "significado": "Rasgar a roupa, rapar a cabeça e lançar pó ao ar eram gestos de luto no antigo Oriente (1:20; 2:12)."
+  },
+  {
+   "id": "lancadeira",
+   "termo": "Lançadeira do tecelão",
+   "ref": "7:6",
+   "explicado": true,
+   "significado": "Jó compara a vida à lançadeira que corre no tear: rápida e sem esperança. O próprio texto explica a imagem dizendo que a vida é um sopro (7:7)."
+  },
+  {
+   "id": "nuvem",
+   "termo": "Nuvem que se desfaz",
+   "ref": "7:9",
+   "explicado": true,
+   "significado": "A nuvem que passa é comparada a quem desce ao Xeol e não volta. O texto explica a comparação no mesmo versículo."
+  },
+  {
+   "id": "arvore",
+   "termo": "Árvore cortada que brota",
+   "ref": "14:7",
+   "explicado": true,
+   "significado": "A árvore cortada pode brotar de novo; o homem, ao morrer, parece não ter essa esperança (14:10-12). Jó usa a imagem para expressar sua angústia, mas logo pergunta se o homem voltará a viver (14:14)."
+  },
+  {
+   "id": "flor-sombra",
+   "termo": "Flor e sombra",
+   "ref": "14:2",
+   "explicado": true,
+   "significado": "A vida humana sai como uma flor e é cortada, foge como a sombra. O texto aplica a imagem diretamente à brevidade da vida."
+  },
+  {
+   "id": "papiro",
+   "termo": "Papiro sem água",
+   "ref": "8:11",
+   "explicado": true,
+   "significado": "Bildade compara o ímpio ao papiro que seca sem lodo. Ele mesmo explica: assim são os que esquecem de Deus (8:13)."
+  },
+  {
+   "id": "lampada",
+   "termo": "Lâmpada que se apaga",
+   "ref": "18:6",
+   "explicado": false,
+   "significado": "Nos discursos dos amigos, a lâmpada apagada na tenda representa o fim do ímpio e de sua casa. Jó contesta, perguntando quantas vezes isso de fato acontece (21:17)."
+  },
+  {
+   "id": "rocha-gravada",
+   "termo": "Palavras gravadas na rocha",
+   "ref": "19:24",
+   "explicado": false,
+   "significado": "Jó deseja que seu testemunho fique gravado em pedra para sempre, como prova de sua inocência para o futuro."
+  },
+  {
+   "id": "redentor",
+   "termo": "O Redentor (go'el)",
+   "ref": "19:25",
+   "explicado": false,
+   "significado": "O go'el era o parente que defendia e resgatava o familiar. Jó afirma que seu Redentor vive; leitores judeus geralmente veem aqui o próprio Deus como defensor, e muitos cristãos leem como anúncio de Cristo."
+  },
+  {
+   "id": "arbitro",
+   "termo": "O árbitro entre Deus e o homem",
+   "ref": "9:33",
+   "explicado": false,
+   "significado": "Jó lamenta não haver quem ponha a mão sobre ambos, Deus e ele. Depois fala de uma testemunha nos céus (16:19). O Novo Testamento fala de Jesus como mediador, e muitos cristãos ligam as duas ideias."
+  },
+  {
+   "id": "minas",
+   "termo": "Minas e tesouros escondidos",
+   "ref": "28:1",
+   "explicado": true,
+   "significado": "O poema do capítulo 28 mostra que o homem acha prata e ouro nas profundezas, mas não a sabedoria. O próprio texto conclui: o temor ao Senhor é a sabedoria (28:28)."
+  },
+  {
+   "id": "redemoinho",
+   "termo": "O redemoinho",
+   "ref": "38:1",
+   "explicado": false,
+   "significado": "Deus responde a Jó do meio de uma tempestade. Na Bíblia, a tempestade costuma acompanhar a manifestação de Deus; aqui a resposta não explica o sofrimento, mas mostra a grandeza do Criador."
+  },
+  {
+   "id": "mar-portas",
+   "termo": "O mar encerrado com portas",
+   "ref": "38:8",
+   "explicado": false,
+   "significado": "Deus põe limites ao mar e diz: \"até aqui virás\". No antigo Oriente, o mar era imagem do caos; o texto mostra Deus soberano sobre ele."
+  },
+  {
+   "id": "beemote",
+   "termo": "Beemote",
+   "ref": "40:15",
+   "explicado": false,
+   "significado": "Animal enorme que Deus mostra como obra-prima de sua criação. Muitos o identificam com o hipopótamo; outros veem uma criatura simbólica de força indomável."
+  },
+  {
+   "id": "leviata",
+   "termo": "Leviatã",
+   "ref": "41:1",
+   "explicado": false,
+   "significado": "Criatura marinha que nenhum homem consegue dominar. Pode ser descrição poética do crocodilo, mas o nome também aparece como monstro do caos em outros textos (Is 27:1; Sl 74:14). Mostra que só Deus domina o que o homem teme."
+  },
+  {
+   "id": "estrelas",
+   "termo": "As estrelas da manhã",
+   "ref": "38:7",
+   "explicado": false,
+   "significado": "Na fundação da terra, as estrelas da manhã cantavam e os filhos de Deus jubilavam. É uma imagem poética da criação celebrada pelos seres celestes."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "tam",
+   "pt": "íntegro",
+   "refs": [
+    "1:1",
+    "1:8",
+    "2:3"
+   ],
+   "hebraico": {
+    "lema": "תָּם",
+    "translit": "tam",
+    "strong": "H8535"
+   },
+   "sentido": "completo, inteiro, sem divisão interior",
+   "latim": {
+    "forma": "vir ille simplex et rectus",
+    "nota": "A Vulgata traduz por simplex, \"sem dobra\"."
+   },
+   "outras": [],
+   "explicacao": "A palavra não diz que Jó era sem pecado, e sim que era inteiro, sem fingimento. Dela vem tummah, \"integridade\", que Jó se recusa a largar (2:3; 27:5).",
+   "interpretacao": false
+  },
+  {
+   "id": "satan",
+   "pt": "Satanás",
+   "refs": [
+    "1:6",
+    "1:9",
+    "2:7"
+   ],
+   "hebraico": {
+    "lema": "הַשָּׂטָן",
+    "translit": "ha-satan",
+    "strong": "H7854"
+   },
+   "grego": {
+    "lema": "διάβολος",
+    "translit": "diábolos",
+    "strong": "G1228"
+   },
+   "sentido": "o adversário, o acusador",
+   "latim": {
+    "forma": "Satan",
+    "nota": "A Vulgata mantém o nome hebraico."
+   },
+   "outras": [],
+   "explicacao": "Em Jó vem com artigo, \"o adversário\", e age como acusador na corte celeste. A leitura dessa figura varia: alguns veem um título de função, outros o mesmo Diabo do Novo Testamento.",
+   "interpretacao": true
+  },
+  {
+   "id": "chinnam",
+   "pt": "em troca de nada",
+   "refs": [
+    "1:9",
+    "2:3"
+   ],
+   "hebraico": {
+    "lema": "חִנָּם",
+    "translit": "chinnam",
+    "strong": "H2600"
+   },
+   "sentido": "de graça, sem motivo",
+   "latim": {
+    "forma": "numquid frustra timet Iob Deum",
+    "nota": "Frustra: \"em vão\", \"sem proveito\"."
+   },
+   "outras": [],
+   "explicacao": "É a pergunta central do livro: Jó teme a Deus de graça? A mesma palavra aparece em 2:3, quando Deus diz que Jó foi arruinado \"sem causa\".",
+   "interpretacao": false
+  },
+  {
+   "id": "goel",
+   "pt": "Redentor",
+   "refs": [
+    "19:25"
+   ],
+   "hebraico": {
+    "lema": "גֹּאֲלִי",
+    "translit": "go'ali",
+    "strong": "H1350"
+   },
+   "sentido": "meu resgatador, meu defensor de família",
+   "latim": {
+    "forma": "Scio enim quod redemptor meus vivat",
+    "nota": "A tradução latina de Jerônimo deu a este versículo forte sentido de ressurreição."
+   },
+   "outras": [],
+   "explicacao": "O go'el era o parente que recomprava terras, libertava escravos e defendia a honra da família. Jó afirma que alguém vivo tomará sua causa. Judeus e cristãos leem de modos diferentes quem é esse Redentor.",
+   "interpretacao": true
+  },
+  {
+   "id": "mokhiach",
+   "pt": "árbitro",
+   "refs": [
+    "9:33"
+   ],
+   "hebraico": {
+    "lema": "מוֹכִיחַ",
+    "translit": "mokhiach",
+    "strong": "H3198"
+   },
+   "sentido": "quem decide uma causa, juiz entre duas partes",
+   "latim": {
+    "forma": "non est qui utrumque valeat arguere",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Jó sente falta de alguém que possa pôr a mão sobre ele e sobre Deus. A imagem é jurídica: o livro está cheio de linguagem de tribunal.",
+   "interpretacao": false
+  },
+  {
+   "id": "ed",
+   "pt": "testemunha",
+   "refs": [
+    "16:19"
+   ],
+   "hebraico": {
+    "lema": "עֵד",
+    "translit": "'ed",
+    "strong": "H5707"
+   },
+   "sentido": "testemunha que confirma uma causa",
+   "latim": {
+    "forma": "ecce enim in caelo testis meus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Mesmo sentindo Deus contra ele, Jó apela a uma testemunha nos céus. Os intérpretes discutem se é o próprio Deus ou outro defensor celeste.",
+   "interpretacao": true
+  },
+  {
+   "id": "sheol",
+   "pt": "Xeol",
+   "refs": [
+    "7:9",
+    "17:13",
+    "17:16"
+   ],
+   "hebraico": {
+    "lema": "שְׁאוֹל",
+    "translit": "she'ol",
+    "strong": "H7585"
+   },
+   "grego": {
+    "lema": "ᾅδης",
+    "translit": "hádēs",
+    "strong": "G86"
+   },
+   "sentido": "o mundo dos mortos, a sepultura",
+   "latim": {
+    "forma": "infernus",
+    "nota": "Infernus, \"lugar de baixo\", não tem aqui o sentido posterior de inferno."
+   },
+   "outras": [],
+   "explicacao": "No Antigo Testamento, o Xeol é o lugar sombrio para onde todos descem ao morrer. Jó o descreve como casa de trevas sem retorno.",
+   "interpretacao": false
+  },
+  {
+   "id": "chokmah",
+   "pt": "sabedoria",
+   "refs": [
+    "28:12",
+    "28:28"
+   ],
+   "hebraico": {
+    "lema": "חָכְמָה",
+    "translit": "chokmah",
+    "strong": "H2451"
+   },
+   "grego": {
+    "lema": "σοφία",
+    "translit": "sophía",
+    "strong": "G4678"
+   },
+   "sentido": "habilidade de viver bem, sabedoria prática",
+   "latim": {
+    "forma": "sapientia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O capítulo 28 pergunta onde se acha a sabedoria e responde que só Deus conhece o caminho dela; ao homem cabe o temor do Senhor.",
+   "interpretacao": false
+  },
+  {
+   "id": "shaddai",
+   "pt": "Todo-Poderoso",
+   "refs": [
+    "31:35"
+   ],
+   "hebraico": {
+    "lema": "שַׁדַּי",
+    "translit": "Shaddai",
+    "strong": "H7706"
+   },
+   "sentido": "nome divino antigo, o Todo-Poderoso",
+   "latim": {
+    "forma": "Omnipotens",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Jó usa este nome antigo de Deus mais de trinta vezes, mais que qualquer outro livro. A origem exata do nome é discutida.",
+   "interpretacao": false
+  },
+  {
+   "id": "searah",
+   "pt": "redemoinho",
+   "refs": [
+    "38:1"
+   ],
+   "hebraico": {
+    "lema": "סְעָרָה",
+    "translit": "se'arah",
+    "strong": "H5591"
+   },
+   "sentido": "tempestade, vendaval",
+   "latim": {
+    "forma": "Respondens autem Dominus Iob de turbine",
+    "nota": "Turbo: \"redemoinho\"."
+   },
+   "outras": [],
+   "explicacao": "Deus fala do meio da tempestade. O mesmo termo aparece quando Elias é levado ao céu (2Rs 2:1).",
+   "interpretacao": false
+  },
+  {
+   "id": "livyatan",
+   "pt": "leviatã",
+   "refs": [
+    "41:1"
+   ],
+   "hebraico": {
+    "lema": "לִוְיָתָן",
+    "translit": "livyatan",
+    "strong": "H3882"
+   },
+   "grego": {
+    "lema": "δράκων",
+    "translit": "drákōn",
+    "strong": "G1404"
+   },
+   "sentido": "criatura enrolada, serpente marinha",
+   "latim": {
+    "forma": "Leviathan",
+    "nota": "Na Vulgata o trecho fica em 40:20, por causa de outra divisão de capítulos."
+   },
+   "outras": [],
+   "explicacao": "O nome sugere algo \"enrolado\". Em Jó pode ser descrição poética de um animal real (talvez o crocodilo) ou símbolo do caos que só Deus vence.",
+   "interpretacao": true
+  },
+  {
+   "id": "behemoth",
+   "pt": "beemote",
+   "refs": [
+    "40:15"
+   ],
+   "hebraico": {
+    "lema": "בְּהֵמוֹת",
+    "translit": "behemot",
+    "strong": "H930"
+   },
+   "sentido": "plural de \"animal\": o animal por excelência",
+   "latim": {
+    "forma": "Behemoth",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "É o plural da palavra comum para gado, usado como \"o grande animal\". Muitos o identificam com o hipopótamo.",
+   "interpretacao": false
+  },
+  {
+   "id": "nicham",
+   "pt": "me arrependo",
+   "refs": [
+    "42:6"
+   ],
+   "hebraico": {
+    "lema": "נִחַמְתִּי",
+    "translit": "nichamti",
+    "strong": "H5162"
+   },
+   "sentido": "mudar de ideia; também \"consolar-se\"",
+   "latim": {
+    "forma": "ideo ipse me reprehendo et ago paenitentiam in favilla et cinere",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O verbo pode significar arrepender-se ou consolar-se. Por isso 42:6 é traduzido de formas bem diferentes; mas é claro que Jó muda de postura depois de ver a Deus (42:5).",
+   "interpretacao": true
+  },
+  {
+   "id": "yirah",
+   "pt": "temor ao Senhor",
+   "refs": [
+    "1:1",
+    "28:28"
+   ],
+   "hebraico": {
+    "lema": "יִרְאַת אֲדֹנָי",
+    "translit": "yir'at Adonai",
+    "strong": "H3374"
+   },
+   "grego": {
+    "lema": "θεοσέβεια",
+    "translit": "theosébeia",
+    "strong": "G2317"
+   },
+   "sentido": "reverência, respeito profundo a Deus",
+   "latim": {
+    "forma": "timor Domini ipsa est sapientia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "\"Temente a Deus\" descreve Jó no primeiro versículo, e \"o temor ao Senhor\" é a conclusão do poema da sabedoria (28:28). Não é pavor, e sim reverência que leva a desviar-se do mal.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "qumran-targum-jo",
+   "titulo": "Tradução aramaica de Jó em Qumran",
+   "refs": [
+    "1:1",
+    "42:9"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Targum de Jó da caverna 11 de Qumran (11QtgJob)",
+   "referencia": "Manuscritos do Mar Morto; Museu de Israel, Jerusalém",
+   "data_fonte": "séc. II–I a.C. (cópia)",
+   "data_evento": "descoberto em 1956",
+   "resumo": "Rolo com boa parte de uma tradução aramaica de Jó, achado em Qumran. Termina mais ou menos no capítulo 42, de forma ligeiramente diferente do texto hebraico conhecido.",
+   "relacao": "Mostra que o livro já era lido, traduzido e explicado em aramaico antes de Jesus. Não fala dos fatos da vida de Jó, mas do texto do livro.",
+   "grau": "documentado"
+  },
+  {
+   "id": "qumran-paleojo",
+   "titulo": "Jó escrito em letras paleo-hebraicas",
+   "refs": [
+    "1:1"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Fragmentos de Jó da caverna 4 de Qumran (4QpaleoJob)",
+   "referencia": "Manuscritos do Mar Morto",
+   "data_fonte": "séc. II a.C. (aprox.; datação debatida)",
+   "data_evento": "descoberto em 1952",
+   "resumo": "Pequenos fragmentos de Jó copiados na escrita hebraica antiga, a mesma usada em alguns rolos do Pentateuco.",
+   "relacao": "Alguns estudiosos veem na escrita antiga sinal de que Jó era considerado um livro muito antigo, talvez ligado ao tempo de Moisés; outros acham que isso não prova a idade do livro.",
+   "grau": "associacao"
+  },
+  {
+   "id": "ludlul",
+   "titulo": "\"Louvarei o Senhor da Sabedoria\"",
+   "refs": [
+    "3:1",
+    "19:25"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Ludlul bel nemeqi (poema babilônico do justo que sofre)",
+   "referencia": "tabletes cuneiformes de várias bibliotecas, entre elas a de Assurbanípal em Nínive",
+   "data_fonte": "c. 1300–1000 a.C. (composição)",
+   "data_evento": "—",
+   "resumo": "Um homem fiel aos deuses perde saúde, posição e amigos, não entende o motivo e, no fim, é restaurado pelo deus Marduk.",
+   "relacao": "Paralelo literário: o tema do justo que sofre já era discutido na Mesopotâmia. Jó se distingue pelo debate aberto com Deus e pela resposta do redemoinho. Não há dependência direta comprovada.",
+   "grau": "associacao"
+  },
+  {
+   "id": "teodiceia-babilonica",
+   "titulo": "A Teodiceia Babilônica",
+   "refs": [
+    "4:7",
+    "21:7"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Teodiceia Babilônica (diálogo acróstico)",
+   "referencia": "tabletes cuneiformes, Museu Britânico e outras coleções",
+   "data_fonte": "c. 1000 a.C. (composição, aprox.)",
+   "data_evento": "—",
+   "resumo": "Diálogo em que um sofredor e um amigo discutem por que os maus prosperam e os piedosos sofrem.",
+   "relacao": "Sua forma de diálogo entre sofredor e amigo lembra os debates de Jó com Elifaz, Bildade e Zofar. É paralelo de gênero, não fonte do livro.",
+   "grau": "associacao"
+  },
+  {
+   "id": "aristeas-jobabe",
+   "titulo": "Jó identificado com Jobabe de Edom",
+   "refs": [
+    "1:1",
+    "42:17"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Aristeas, o Historiador, citado por Eusébio de Cesareia, Preparação Evangélica",
+   "referencia": "livro 9, cap. 25",
+   "data_fonte": "séc. II a.C. (Aristeas); c. 315 d.C. (Eusébio)",
+   "data_evento": "época dos patriarcas, segundo a tradição",
+   "resumo": "Um escritor judeu do período grego conta que Jó morava em Uz, na fronteira de Edom, e que antes se chamava Jobabe. A mesma ideia aparece num acréscimo da Septuaginta ao final de Jó.",
+   "relacao": "Mostra como judeus antigos situavam Jó: um descendente de Esaú, ligado ao rei Jobabe de Gênesis 36:33. É tradição, não prova histórica.",
+   "grau": "associacao"
+  },
+  {
+   "id": "baba-batra",
+   "titulo": "Os rabinos debatem quando Jó viveu",
+   "refs": [
+    "1:1"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Talmude Babilônico, tratado Baba Batra",
+   "referencia": "folha 15a–b",
+   "data_fonte": "séc. III–VI d.C. (redação)",
+   "data_evento": "—",
+   "resumo": "Os sábios apresentam várias opiniões sobre a época de Jó, desde o tempo de Moisés até o retorno do exílio, e uma delas diz que Jó \"nunca existiu, foi uma parábola\".",
+   "relacao": "Mostra que já na Antiguidade judeus discutiam se o livro narra fatos ou é uma história de ensino. O mesmo debate continua entre estudiosos hoje.",
+   "grau": "associacao"
+  },
+  {
+   "id": "testamento-jo",
+   "titulo": "O Testamento de Jó",
+   "refs": [
+    "1:1",
+    "42:14"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Testamento de Jó (escrito judaico em grego)",
+   "referencia": "manuscritos medievais gregos",
+   "data_fonte": "séc. I a.C.–I d.C. (aprox.)",
+   "data_evento": "—",
+   "resumo": "Reconta a história em forma de discurso de despedida de Jó aos filhos, com detalhes novos, como o nome de sua mulher e dons dados às três filhas.",
+   "relacao": "Mostra como a história de Jó era lida e ampliada no tempo do Novo Testamento, quando Tiago o cita como exemplo de perseverança. Os detalhes acrescentados não estão no livro bíblico.",
+   "grau": "associacao"
+  },
+  {
+   "id": "ugarit-litan",
+   "titulo": "Lotã, a serpente tortuosa de Ugarit",
+   "refs": [
+    "41:1"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Ciclo de Baal, tabletes de Ugarit (Ras Shamra)",
+   "referencia": "KTU 1.5, coluna I",
+   "data_fonte": "c. séc. XIV–XIII a.C.",
+   "data_evento": "descoberto a partir de 1929",
+   "resumo": "Os poemas cananeus de Ugarit falam de Lotã, \"serpente fugidia, serpente tortuosa\", monstro do mar vencido por Baal.",
+   "relacao": "O nome e a descrição correspondem ao leviatã de Jó, Salmos e Isaías 27:1. A Bíblia usa a imagem conhecida para afirmar que só o SENHOR domina o caos.",
+   "grau": "associacao"
+  }
+ ]
+}

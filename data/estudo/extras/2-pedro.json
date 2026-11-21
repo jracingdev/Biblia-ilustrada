@@ -1,0 +1,292 @@
+{
+ "livro": "2-pedro",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:16-18",
+   "titulo": "Testemunhas no santo monte",
+   "descricao": "Pedro lembra que não seguiu mitos: ele viu a majestade de Cristo e ouviu, no santo monte, a voz vinda da glória: \"Este é meu amado Filho\".",
+   "alt": "Três discípulos prostrados num monte, diante de Cristo envolto em luz e de uma nuvem brilhante.",
+   "prompt": "On a high mountain, Jesus in dazzling white garments radiating light, a luminous cloud above from which light streams, Peter, James and John fallen to the ground shielding their faces in awe, rocky summit and distant valleys"
+  },
+  {
+   "id": "q02",
+   "capitulo": 1,
+   "ref": "1:13-15",
+   "titulo": "Antes de deixar a tenda",
+   "descricao": "Sabendo que em breve deixará o seu \"tabernáculo\", Pedro escreve para que seus leitores se lembrem dessas coisas depois de sua partida.",
+   "alt": "Pedro, idoso, escreve à luz de uma lamparina numa sala simples.",
+   "prompt": "The aged apostle Peter with white hair and beard writing at a table by the light of an oil lamp, his face thoughtful and serene, a simple room, the lamp casting a warm glow in the surrounding darkness"
+  },
+  {
+   "id": "q03",
+   "capitulo": 2,
+   "ref": "2:5",
+   "titulo": "Noé, anunciador da justiça",
+   "descricao": "Deus não poupou o mundo antigo, mas guardou Noé, pregador da justiça, com outros sete.",
+   "alt": "Noé fala a pessoas indiferentes diante da arca em construção.",
+   "prompt": "Noah, an elderly man in rough robes, standing before his half-built wooden ark and speaking earnestly to a group of indifferent and mocking onlookers, dark clouds gathering on the horizon"
+  },
+  {
+   "id": "q04",
+   "capitulo": 3,
+   "ref": "3:13",
+   "titulo": "Novos céus e nova terra",
+   "descricao": "Segundo a promessa de Deus, os crentes aguardam novos céus e nova terra, onde habita a justiça.",
+   "alt": "Uma paisagem luminosa e renovada, com rios, árvores e um céu claro.",
+   "prompt": "A vast renewed landscape at dawn, clear rivers winding through green valleys with flowering trees, a radiant sky of soft gold and blue, a sense of peace and perfect harmony, no figures"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "tabernaculo",
+   "termo": "Tabernáculo (tenda)",
+   "ref": "1:13-14",
+   "explicado": false,
+   "significado": "Pedro chama o próprio corpo de tenda: sua morte está próxima, como Jesus lhe havia revelado."
+  },
+  {
+   "id": "lampada",
+   "termo": "Luz em lugar escuro",
+   "ref": "1:19",
+   "explicado": false,
+   "significado": "A palavra profética é como lâmpada na escuridão, até que o dia amanheça e a estrela da manhã nasça nos corações."
+  },
+  {
+   "id": "estrela-manha",
+   "termo": "Estrela da manhã",
+   "ref": "1:19",
+   "explicado": false,
+   "significado": "Figura de Cristo ou da plena revelação que vem com ele (Ap 22:16 chama Jesus de \"estrela da manhã\")."
+  },
+  {
+   "id": "fontes-nuvens",
+   "termo": "Fontes sem água e nuvens sem chuva",
+   "ref": "2:17",
+   "explicado": false,
+   "significado": "Os falsos mestres prometem e não entregam, como fontes secas e nuvens levadas pela tempestade."
+  },
+  {
+   "id": "balaao",
+   "termo": "Caminho de Balaão",
+   "ref": "2:15-16",
+   "explicado": false,
+   "significado": "O profeta que amou o pagamento da injustiça (Nm 22). Representa quem usa a religião por lucro."
+  },
+  {
+   "id": "cao-porca",
+   "termo": "O cão e a porca",
+   "ref": "2:22",
+   "explicado": false,
+   "significado": "Provérbio (o primeiro vem de Pv 26:11) para quem volta à vida antiga depois de conhecer o caminho."
+  },
+  {
+   "id": "mil-anos",
+   "termo": "Mil anos como um dia",
+   "ref": "3:8",
+   "explicado": false,
+   "significado": "Eco do Salmo 90:4. A ideia é que Deus não mede o tempo como nós; a demora mostra paciência (3:9). Não é uma fórmula para calcular datas."
+  },
+  {
+   "id": "fogo-elementos",
+   "termo": "Elementos que se dissolvem no fogo",
+   "ref": "3:10-12",
+   "explicado": false,
+   "significado": "Linguagem de juízo e purificação cósmica. Se fala de destruição ou de renovação do mundo é discutido."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "epignosis",
+   "pt": "Conhecimento",
+   "refs": [
+    "1:2-3",
+    "3:18"
+   ],
+   "grego": {
+    "lema": "ἐπίγνωσις",
+    "translit": "epígnōsis",
+    "strong": "G1922"
+   },
+   "sentido": "conhecimento pleno, pessoal",
+   "latim": {
+    "forma": "cognitio",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A carta começa e termina com o conhecimento de Cristo, em contraste com o falso conhecimento dos mestres enganadores.",
+   "interpretacao": false
+  },
+  {
+   "id": "theia-physis",
+   "pt": "Natureza divina",
+   "refs": [
+    "1:4"
+   ],
+   "grego": {
+    "lema": "θεία φύσις",
+    "translit": "theía phýsis",
+    "strong": "G2304, G5449"
+   },
+   "sentido": "natureza divina",
+   "latim": {
+    "forma": "divinae consortes naturae",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Ser \"participantes da natureza divina\" é base, na tradição ortodoxa, da ideia de theosis (divinização); outras tradições falam de comunhão e santificação.",
+   "interpretacao": true
+  },
+  {
+   "id": "arete",
+   "pt": "Virtude",
+   "refs": [
+    "1:3",
+    "1:5"
+   ],
+   "grego": {
+    "lema": "ἀρετή",
+    "translit": "aretḗ",
+    "strong": "G703"
+   },
+   "sentido": "excelência moral",
+   "latim": {
+    "forma": "virtus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Palavra central da ética grega, aqui inserida numa lista de virtudes que crescem a partir da fé (1:5-7).",
+   "interpretacao": false
+  },
+  {
+   "id": "pseudodidaskalos",
+   "pt": "Falsos mestres",
+   "refs": [
+    "2:1"
+   ],
+   "grego": {
+    "lema": "ψευδοδιδάσκαλος",
+    "translit": "pseudodidáskalos",
+    "strong": "G5572"
+   },
+   "sentido": "falso mestre",
+   "latim": {
+    "forma": "magistri mendaces",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Única ocorrência no NT. O capítulo 2 é muito parecido com a carta de Judas.",
+   "interpretacao": false
+  },
+  {
+   "id": "tartaroo",
+   "pt": "Lançar no Tártaro",
+   "refs": [
+    "2:4"
+   ],
+   "grego": {
+    "lema": "ταρταρόω",
+    "translit": "tartaróō",
+    "strong": "G5020"
+   },
+   "sentido": "lançar no Tártaro",
+   "latim": {
+    "forma": "rudentibus inferni detractos in tartarum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Na mitologia grega o Tártaro era o abismo mais profundo, prisão dos titãs. O autor usa a palavra para a prisão dos anjos que pecaram, ecoando também a tradição judaica de 1 Enoque.",
+   "interpretacao": true
+  },
+  {
+   "id": "parousia-2pe",
+   "pt": "Vinda",
+   "refs": [
+    "1:16",
+    "3:4"
+   ],
+   "grego": {
+    "lema": "παρουσία",
+    "translit": "parousía",
+    "strong": "G3952"
+   },
+   "sentido": "vinda, presença",
+   "latim": {
+    "forma": "adventus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Os zombadores perguntam: \"Onde está a promessa da vinda dele?\" (3:4).",
+   "interpretacao": false
+  },
+  {
+   "id": "makrothymia",
+   "pt": "Paciência",
+   "refs": [
+    "3:9",
+    "3:15"
+   ],
+   "grego": {
+    "lema": "μακροθυμέω / μακροθυμία",
+    "translit": "makrothyméō / makrothymía",
+    "strong": "G3114, G3115"
+   },
+   "sentido": "longanimidade, ânimo longo",
+   "latim": {
+    "forma": "patienter agit / longanimitas",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A aparente demora é paciência de Deus, que não quer que ninguém pereça.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "eusebio-2pe",
+   "titulo": "Dúvidas antigas sobre 2 Pedro",
+   "refs": [
+    "1:1"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Eusébio de Cesareia, História Eclesiástica",
+   "referencia": "livro 3, cap. 3, §1-4 e cap. 25, §3",
+   "data_fonte": "c. 325 d.C.",
+   "data_evento": "Debate sobre o cânon (séc. II–IV)",
+   "resumo": "Eusébio diz que a primeira carta de Pedro era aceita por todos, mas que a segunda era contestada por alguns, embora muitos a considerassem útil e a lessem.",
+   "relacao": "Mostra que a autoria e a canonicidade de 2 Pedro foram discutidas desde cedo; hoje muitos estudiosos a consideram escrita em nome de Pedro, enquanto outros defendem sua autenticidade.",
+   "grau": "documentado"
+  },
+  {
+   "id": "p72",
+   "titulo": "2 Pedro no Papiro Bodmer",
+   "refs": [
+    "3:18"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Papiro Bodmer VII-VIII (𝔓72)",
+   "referencia": "Biblioteca Apostólica Vaticana (doado pela Fundação Bodmer)",
+   "data_fonte": "séc. III–IV d.C.",
+   "data_evento": "Cópia das cartas de Pedro e Judas",
+   "resumo": "O manuscrito mais antigo conhecido de 1 e 2 Pedro e de Judas.",
+   "relacao": "Mostra que 2 Pedro era copiada e lida no Egito por volta do séc. III.",
+   "grau": "documentado"
+  },
+  {
+   "id": "enoque-anjos",
+   "titulo": "Os anjos presos nas trevas em 1 Enoque",
+   "refs": [
+    "2:4"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "1 Enoque (Livro dos Vigilantes)",
+   "referencia": "caps. 6–10; fragmentos aramaicos em Qumran (4Q201-4Q202)",
+   "data_fonte": "séc. III–II a.C.",
+   "data_evento": "Tradição sobre os anjos de Gênesis 6",
+   "resumo": "O livro narra a queda de anjos que se uniram a mulheres e foram presos em trevas até o juízo.",
+   "relacao": "2 Pedro 2:4 (e Judas 6) reflete essa tradição, conhecida no judaísmo da época. O autor de 2 Pedro é mais discreto que Judas no uso dela.",
+   "grau": "associacao"
+  }
+ ]
+}

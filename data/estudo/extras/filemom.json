@@ -1,0 +1,196 @@
+{
+ "livro": "filemom",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:10-12",
+   "titulo": "Onésimo volta a Filemom",
+   "descricao": "Paulo envia de volta Onésimo, antes inútil e agora útil, pedindo que Filemom o receba não mais como servo, mas como irmão amado.",
+   "alt": "Um homem jovem, com uma carta na mão, chega à porta de uma casa onde é recebido por seu antigo senhor.",
+   "prompt": "At the doorway of a prosperous house in Colossae, the young slave Onesimus holding a letter and looking down humbly, while Philemon, a middle-aged man in a fine tunic, reads and opens his arms to receive him as a brother, Apphia and members of the house church watching, warm evening light"
+  },
+  {
+   "id": "q02",
+   "capitulo": 1,
+   "ref": "1:18-19",
+   "titulo": "Põe na minha conta",
+   "descricao": "Paulo escreve de próprio punho: se Onésimo te deve algo, põe na minha conta; eu pagarei.",
+   "alt": "Paulo escreve com sua própria mão uma promessa de pagamento.",
+   "prompt": "The aged apostle Paul in chains writing with his own hand on a small papyrus sheet, young Onesimus standing beside him with emotion, Timothy watching, a Roman soldier at the door, soft lamplight"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "nome-onesimo",
+   "termo": "Inútil e útil",
+   "ref": "1:11",
+   "explicado": false,
+   "significado": "Onésimo significa \"útil\". Paulo faz um jogo de palavras: antes \"inútil\", agora \"útil\" para ambos."
+  },
+  {
+   "id": "conta",
+   "termo": "Põe na minha conta",
+   "ref": "1:18",
+   "explicado": false,
+   "significado": "Linguagem comercial. Paulo assume a dívida de outro; muitos cristãos veem aí um reflexo do que Cristo fez por nós."
+  },
+  {
+   "id": "coracao",
+   "termo": "Entranhas, coração",
+   "ref": "1:12",
+   "explicado": false,
+   "significado": "Paulo diz que envia Onésimo como \"os meus mais íntimos sentimentos\": no grego, as entranhas, sede dos afetos."
+  },
+  {
+   "id": "igreja-casa",
+   "termo": "Igreja na casa",
+   "ref": "1:2",
+   "explicado": false,
+   "significado": "As igrejas se reuniam em casas. A de Filemom acolhia a comunidade e seria testemunha de como ele trataria Onésimo."
+  },
+  {
+   "id": "prisioneiro",
+   "termo": "Prisioneiro de Cristo",
+   "ref": "1:1",
+   "explicado": false,
+   "significado": "Paulo não se apresenta como apóstolo com autoridade, mas como prisioneiro e idoso (1:9), pedindo por amor em vez de mandar."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "splanchna",
+   "pt": "Coração, sentimentos",
+   "refs": [
+    "1:7",
+    "1:12",
+    "1:20"
+   ],
+   "grego": {
+    "lema": "σπλάγχνα",
+    "translit": "splánchna",
+    "strong": "G4698"
+   },
+   "sentido": "entranhas; afeto profundo",
+   "latim": {
+    "forma": "viscera",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Aparece três vezes nesta carta curta: Filemom alivia o \"coração\" dos santos, e Paulo pede que alivie o seu.",
+   "interpretacao": false
+  },
+  {
+   "id": "onesimos",
+   "pt": "Onésimo, útil",
+   "refs": [
+    "1:10-11"
+   ],
+   "grego": {
+    "lema": "Ὀνήσιμος",
+    "translit": "Onḗsimos",
+    "strong": "G3682"
+   },
+   "sentido": "útil, proveitoso",
+   "latim": {
+    "forma": "Onesimo",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Nome comum entre escravos. Paulo joga com ele e com as palavras achrēstos (inútil) e euchrēstos (útil).",
+   "interpretacao": false
+  },
+  {
+   "id": "adelphos",
+   "pt": "Irmão",
+   "refs": [
+    "1:16"
+   ],
+   "grego": {
+    "lema": "ἀδελφός",
+    "translit": "adelphós",
+    "strong": "G80"
+   },
+   "sentido": "irmão",
+   "latim": {
+    "forma": "fratrem carissimum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O centro da carta: receber Onésimo \"como a um amado irmão\". A carta não discute a escravidão como sistema, o que gerou leituras diferentes ao longo da história.",
+   "interpretacao": false
+  },
+  {
+   "id": "koinonos",
+   "pt": "Companheiro, sócio",
+   "refs": [
+    "1:17"
+   ],
+   "grego": {
+    "lema": "κοινωνός",
+    "translit": "koinōnós",
+    "strong": "G2844"
+   },
+   "sentido": "sócio, participante",
+   "latim": {
+    "forma": "socium",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "\"Se me tens por companheiro, recebe-o como a mim.\"",
+   "interpretacao": false
+  },
+  {
+   "id": "agape-fm",
+   "pt": "Amor",
+   "refs": [
+    "1:9"
+   ],
+   "grego": {
+    "lema": "ἀγάπη",
+    "translit": "agápē",
+    "strong": "G26"
+   },
+   "sentido": "amor",
+   "latim": {
+    "forma": "caritas",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Paulo pede \"por amor\" em vez de mandar (1:8-9).",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "plinio-sabiniano",
+   "titulo": "Plínio pede perdão por um liberto",
+   "refs": [
+    "1:15-17"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Plínio, o Jovem, Cartas",
+   "referencia": "livro 9, carta 21 (a Sabiniano)",
+   "data_fonte": "c. 100-110 d.C.",
+   "data_evento": "Início do séc. II",
+   "resumo": "Plínio escreve a um amigo pedindo que perdoe um liberto que o ofendeu e que veio pedir ajuda, arrependido.",
+   "relacao": "Paralelo famoso a Filemom: dois pedidos de intercessão por alguém dependente. A diferença está na razão: Paulo apela à nova relação de irmãos em Cristo.",
+   "grau": "associacao"
+  },
+  {
+   "id": "inacio-onesimo",
+   "titulo": "Um bispo chamado Onésimo em Éfeso",
+   "refs": [
+    "1:10"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Inácio de Antioquia, Carta aos Efésios",
+   "referencia": "cap. 1, §3",
+   "data_fonte": "c. 110 d.C.",
+   "data_evento": "Início do séc. II",
+   "resumo": "Inácio elogia Onésimo, bispo de Éfeso.",
+   "relacao": "Alguns estudiosos sugerem que seria o mesmo Onésimo de Filemom, já idoso, e que isso explicaria a preservação da carta. É uma hipótese; o nome era comum.",
+   "grau": "associacao"
+  }
+ ]
+}

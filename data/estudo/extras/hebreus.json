@@ -1,0 +1,463 @@
+{
+ "livro": "hebreus",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:1-2",
+   "titulo": "Deus falou pelos profetas e pelo Filho",
+   "descricao": "Deus falou muitas vezes e de muitas maneiras pelos profetas; nestes últimos dias, falou pelo Filho.",
+   "alt": "Profetas antigos com rolos, em segundo plano, e no centro a figura luminosa de Cristo.",
+   "prompt": "A solemn composition of Old Testament prophets in ancient robes holding scrolls standing in a semicircle in shadow, and at the center the figure of Christ in white robes illuminated by soft radiant light, the prophets turning toward him"
+  },
+  {
+   "id": "q02",
+   "capitulo": 3,
+   "ref": "3:16-19",
+   "titulo": "O povo que não entrou no descanso",
+   "descricao": "O autor lembra a geração do deserto que, por incredulidade, não entrou no descanso de Deus, e exorta: \"Hoje, se ouvirdes a sua voz\".",
+   "alt": "Israelitas cansados acampados no deserto, olhando de longe para uma terra fértil.",
+   "prompt": "The tents of the Israelites spread across a barren desert at dusk, weary families sitting with downcast faces, on the distant horizon a green fertile land bathed in light that they will not reach"
+  },
+  {
+   "id": "q03",
+   "capitulo": 6,
+   "ref": "6:19-20",
+   "titulo": "A âncora da alma",
+   "descricao": "A esperança é como âncora segura e firme, que entra além do véu, onde Jesus entrou como precursor.",
+   "alt": "Uma âncora de ferro firmemente presa ao fundo do mar, com a corrente subindo para um barco na superfície.",
+   "prompt": "An ancient iron anchor firmly lodged in the rocky seabed in clear water, its chain rising toward the hull of a wooden ship rocked by waves on the surface above, shafts of light descending through the water"
+  },
+  {
+   "id": "q04",
+   "capitulo": 7,
+   "ref": "7:1-2",
+   "titulo": "Melquisedeque e Abraão",
+   "descricao": "Melquisedeque, rei de Salém e sacerdote do Deus Altíssimo, sai ao encontro de Abraão e o abençoa; Abraão lhe dá o dízimo.",
+   "alt": "Um rei-sacerdote abençoa um patriarca que volta da batalha, com homens e camelos ao fundo.",
+   "prompt": "Melchizedek, a dignified king-priest in white and purple robes, offering bread and wine and raising his hand in blessing over the patriarch Abraham who bows respectfully, Abraham's weary men and camels behind, the hills of Salem at sunset"
+  },
+  {
+   "id": "q05",
+   "capitulo": 9,
+   "ref": "9:6-7",
+   "titulo": "O sumo sacerdote no Santo dos Santos",
+   "descricao": "No tabernáculo, só o sumo sacerdote entrava no Santo dos Santos, uma vez por ano, com sangue. O autor contrasta isso com Cristo, que entrou de uma vez por todas.",
+   "alt": "O sumo sacerdote, com vestes sagradas, passa pelo véu para o lugar santíssimo, onde está a arca.",
+   "prompt": "The Israelite high priest in sacred linen garments and turban entering behind a heavy embroidered veil into the dim Most Holy Place of the tabernacle, the golden ark of the covenant with cherubim faintly gleaming, a cloud of incense rising"
+  },
+  {
+   "id": "q06",
+   "capitulo": 11,
+   "ref": "11:8-10",
+   "titulo": "Abraão sai sem saber para onde",
+   "descricao": "Pela fé Abraão obedeceu e saiu sem saber aonde ia, morando em tendas e esperando a cidade cujo arquiteto é Deus.",
+   "alt": "Abraão e sua família partem com rebanhos por uma estrada no deserto.",
+   "prompt": "The patriarch Abraham with his wife Sarah and household setting out on a long journey with camels, sheep and goats across a vast desert landscape, Abraham looking forward with trust, a wide sky at dawn"
+  },
+  {
+   "id": "q07",
+   "capitulo": 12,
+   "ref": "12:1-2",
+   "titulo": "A grande nuvem de testemunhas",
+   "descricao": "Rodeados por uma grande nuvem de testemunhas, os crentes correm com perseverança, olhando para Jesus, autor e aperfeiçoador da fé.",
+   "alt": "Um corredor num estádio antigo, com as arquibancadas cheias de figuras de heróis da fé.",
+   "prompt": "A runner in an ancient stadium straining toward the finish, the stands filled with a great crowd of faithful figures from the Old Testament watching and encouraging, at the end of the track a soft radiant light, golden atmosphere"
+  },
+  {
+   "id": "q08",
+   "capitulo": 13,
+   "ref": "13:2",
+   "titulo": "Hospitalidade",
+   "descricao": "Não vos esqueçais da hospitalidade, pois por ela alguns, sem saber, acolheram anjos.",
+   "alt": "Uma família recebe estrangeiros cansados à sua mesa.",
+   "prompt": "A Jewish-Christian family in the first century welcoming tired travelers into their home, washing their feet and setting bread and wine on the table, one of the guests with a subtle gentle glow, warm evening light"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "resplendor",
+   "termo": "Resplendor da glória",
+   "ref": "1:3",
+   "explicado": false,
+   "significado": "O Filho é o brilho que irradia da glória de Deus e a marca exata do seu ser: imagens para dizer que quem vê o Filho conhece o Pai."
+  },
+  {
+   "id": "descanso",
+   "termo": "Descanso (sábado)",
+   "ref": "4:9",
+   "explicado": false,
+   "significado": "A terra prometida e o sábado apontam para um descanso maior de Deus, que ainda está aberto ao povo de Deus."
+  },
+  {
+   "id": "espada",
+   "termo": "Espada de dois gumes",
+   "ref": "4:12",
+   "explicado": true,
+   "significado": "A palavra de Deus penetra e julga os pensamentos e intenções do coração (4:12-13)."
+  },
+  {
+   "id": "leite",
+   "termo": "Leite e alimento sólido",
+   "ref": "5:12-14",
+   "explicado": true,
+   "significado": "O autor explica: o leite é para quem ainda é criança na fé; o alimento sólido é para os maduros, exercitados em discernir."
+  },
+  {
+   "id": "ancora",
+   "termo": "Âncora",
+   "ref": "6:19",
+   "explicado": true,
+   "significado": "O texto diz que a esperança é a âncora da alma, firme, ligada ao santuário onde Jesus entrou."
+  },
+  {
+   "id": "melquisedeque",
+   "termo": "Melquisedeque",
+   "ref": "7:3",
+   "explicado": false,
+   "significado": "O autor lê o silêncio de Gênesis sobre a origem e a morte de Melquisedeque como figura de um sacerdócio eterno, semelhante ao do Filho de Deus. Alguns intérpretes viram nele uma aparição de Cristo; a maioria o vê como figura."
+  },
+  {
+   "id": "sombra",
+   "termo": "Sombra e modelo",
+   "ref": "8:5",
+   "explicado": true,
+   "significado": "O tabernáculo terreno era esboço e sombra das coisas celestiais; a Lei tinha a sombra dos bens futuros (10:1)."
+  },
+  {
+   "id": "veu",
+   "termo": "Véu",
+   "ref": "10:20",
+   "explicado": true,
+   "significado": "O véu separava o Santo dos Santos. O autor o liga à carne de Cristo: por sua morte, abriu-se um caminho novo e vivo até Deus."
+  },
+  {
+   "id": "sangue",
+   "termo": "Sangue da aliança",
+   "ref": "9:22",
+   "explicado": false,
+   "significado": "No AT o sangue era sinal de vida entregue e purificava. O autor diz que, sem derramamento de sangue, não há perdão, e apresenta o sangue de Cristo como sacrifício definitivo."
+  },
+  {
+   "id": "arca",
+   "termo": "Arca da aliança",
+   "ref": "9:4",
+   "explicado": false,
+   "significado": "Com o maná, a vara de Arão e as tábuas, a arca lembrava a presença e a aliança de Deus. O autor não quer explicar os detalhes agora (9:5)."
+  },
+  {
+   "id": "nuvem-testemunhas",
+   "termo": "Nuvem de testemunhas",
+   "ref": "12:1",
+   "explicado": false,
+   "significado": "Os heróis da fé do capítulo 11 rodeiam os crentes como uma multidão num estádio. Se eles \"assistem\" ou apenas dão testemunho pelo exemplo é debatido."
+  },
+  {
+   "id": "sinai-siao",
+   "termo": "Monte Sinai e monte Sião",
+   "ref": "12:18-22",
+   "explicado": true,
+   "significado": "O texto contrasta o monte do medo, com fogo e trevas, e a Jerusalém celestial, cidade do Deus vivo, onde está Jesus, mediador da nova aliança."
+  },
+  {
+   "id": "fogo",
+   "termo": "Fogo consumidor",
+   "ref": "12:29",
+   "explicado": false,
+   "significado": "Citação de Deuteronômio 4:24: a santidade de Deus exige reverência."
+  },
+  {
+   "id": "fora-porta",
+   "termo": "Fora da porta",
+   "ref": "13:12-13",
+   "explicado": true,
+   "significado": "Como os corpos dos animais do sacrifício eram queimados fora do acampamento, Jesus sofreu fora da cidade; os crentes devem sair ao seu encontro levando a sua humilhação."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "archiereus",
+   "pt": "Sumo sacerdote",
+   "refs": [
+    "4:14",
+    "8:1"
+   ],
+   "grego": {
+    "lema": "ἀρχιερεύς",
+    "translit": "archiereús",
+    "strong": "G749"
+   },
+   "sentido": "sumo sacerdote",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "כֹּהֵן גָּדוֹל",
+     "translit": "kohen gadol",
+     "ref": "Lv 21:10"
+    }
+   ],
+   "latim": {
+    "forma": "pontifex",
+    "nota": "Pontifex era o título dos sacerdotes romanos; daí \"pontífice\"."
+   },
+   "outras": [],
+   "explicacao": "Tema central da carta: Jesus é o grande sumo sacerdote, que se compadece de nossas fraquezas (4:15).",
+   "interpretacao": false
+  },
+  {
+   "id": "diatheke",
+   "pt": "Aliança",
+   "refs": [
+    "8:8",
+    "9:15"
+   ],
+   "grego": {
+    "lema": "διαθήκη",
+    "translit": "diathḗkē",
+    "strong": "G1242"
+   },
+   "sentido": "aliança; testamento",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "בְּרִית",
+     "translit": "berit",
+     "strong": "H1285",
+     "ref": "Jr 31:31"
+    }
+   ],
+   "latim": {
+    "forma": "testamentum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A carta cita Jeremias 31 sobre a nova aliança. Em 9:16-17 o autor joga com o sentido de \"testamento\", que só vale após a morte de quem o fez.",
+   "interpretacao": false
+  },
+  {
+   "id": "kreitton",
+   "pt": "Melhor",
+   "refs": [
+    "1:4",
+    "7:22",
+    "8:6"
+   ],
+   "grego": {
+    "lema": "κρείττων",
+    "translit": "kreíttōn",
+    "strong": "G2909"
+   },
+   "sentido": "melhor, superior",
+   "latim": {
+    "forma": "melior",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Palavra-chave: Cristo é melhor que os anjos, e a nova aliança tem melhores promessas e melhor esperança.",
+   "interpretacao": false
+  },
+  {
+   "id": "ephapax",
+   "pt": "Uma vez por todas",
+   "refs": [
+    "7:27",
+    "9:12",
+    "10:10"
+   ],
+   "grego": {
+    "lema": "ἐφάπαξ",
+    "translit": "ephápax",
+    "strong": "G2178"
+   },
+   "sentido": "de uma vez para sempre",
+   "latim": {
+    "forma": "semel",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O sacrifício de Cristo não precisa ser repetido. Como isso se relaciona com a celebração da ceia é entendido de modos diferentes pelas igrejas.",
+   "interpretacao": true
+  },
+  {
+   "id": "hypostasis",
+   "pt": "Certeza",
+   "refs": [
+    "1:3",
+    "11:1"
+   ],
+   "grego": {
+    "lema": "ὑπόστασις",
+    "translit": "hypóstasis",
+    "strong": "G5287"
+   },
+   "sentido": "base, substância, realidade; também título de propriedade",
+   "latim": {
+    "forma": "substantia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Em 1:3 indica o ser de Deus; em 11:1 a fé é a \"certeza\" do que se espera. Papiros usam a palavra para documentos de posse.",
+   "interpretacao": false
+  },
+  {
+   "id": "pistis",
+   "pt": "Fé",
+   "refs": [
+    "11:1",
+    "11:6"
+   ],
+   "grego": {
+    "lema": "πίστις",
+    "translit": "pístis",
+    "strong": "G4102"
+   },
+   "sentido": "confiança, fidelidade",
+   "latim": {
+    "forma": "fides",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O capítulo 11 repete \"pela fé\" para mostrar uma confiança que age e persevera sem ver o cumprimento.",
+   "interpretacao": false
+  },
+  {
+   "id": "teleioo",
+   "pt": "Aperfeiçoar",
+   "refs": [
+    "2:10",
+    "10:14"
+   ],
+   "grego": {
+    "lema": "τελειόω",
+    "translit": "teleióō",
+    "strong": "G5048"
+   },
+   "sentido": "completar, levar ao fim, consagrar",
+   "latim": {
+    "forma": "consummare",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Jesus foi \"aperfeiçoado\" por meio dos sofrimentos, não porque tivesse defeito, mas por cumprir plenamente sua missão de salvador.",
+   "interpretacao": false
+  },
+  {
+   "id": "hilaskomai",
+   "pt": "Fazer expiação",
+   "refs": [
+    "2:17"
+   ],
+   "grego": {
+    "lema": "ἱλάσκομαι",
+    "translit": "hiláskomai",
+    "strong": "G2433"
+   },
+   "sentido": "expiar, propiciar",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "כִּפֶּר",
+     "translit": "kipper",
+     "strong": "H3722",
+     "ref": "Lv 16:30"
+    }
+   ],
+   "latim": {
+    "forma": "repropitiaret",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O sumo sacerdote fazia expiação pelos pecados do povo; Jesus a realiza por seu próprio sacrifício.",
+   "interpretacao": false
+  },
+  {
+   "id": "parresia",
+   "pt": "Confiança, ousadia",
+   "refs": [
+    "4:16",
+    "10:19"
+   ],
+   "grego": {
+    "lema": "παρρησία",
+    "translit": "parrēsía",
+    "strong": "G3954"
+   },
+   "sentido": "franqueza, acesso livre",
+   "latim": {
+    "forma": "fiducia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Por Cristo, os crentes podem se aproximar do trono da graça com confiança.",
+   "interpretacao": false
+  },
+  {
+   "id": "hypomone",
+   "pt": "Perseverança",
+   "refs": [
+    "10:36",
+    "12:1"
+   ],
+   "grego": {
+    "lema": "ὑπομονή",
+    "translit": "hypomonḗ",
+    "strong": "G5281"
+   },
+   "sentido": "resistência, permanecer firme sob peso",
+   "latim": {
+    "forma": "patientia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A carta foi escrita a cristãos tentados a desistir; o apelo à perseverança é constante.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "origenes-autor",
+   "titulo": "\"Quem escreveu a carta, só Deus sabe\"",
+   "refs": [
+    "13:22-24"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Eusébio de Cesareia, História Eclesiástica (citando Orígenes)",
+   "referencia": "livro 6, cap. 25, §11-14",
+   "data_fonte": "c. 325 d.C. (Orígenes, c. 240 d.C.)",
+   "data_evento": "Discussão sobre a autoria",
+   "resumo": "Orígenes diz que o pensamento é de Paulo, mas o estilo é de outro, mencionando as opiniões de que seria Clemente de Roma ou Lucas, e conclui que só Deus sabe quem a escreveu.",
+   "relacao": "Mostra que a autoria de Hebreus já era incerta no séc. III. Outras propostas antigas e modernas incluem Barnabé e Apolo.",
+   "grau": "documentado"
+  },
+  {
+   "id": "clemente-hebreus",
+   "titulo": "1 Clemente usa Hebreus",
+   "refs": [
+    "1:3-4"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Primeira Carta de Clemente aos Coríntios",
+   "referencia": "cap. 36, §2-5",
+   "data_fonte": "c. 96 d.C.",
+   "data_evento": "Fins do séc. I",
+   "resumo": "Clemente descreve Cristo como resplendor da majestade de Deus, superior aos anjos, citando os mesmos Salmos de Hebreus 1.",
+   "relacao": "É o uso mais antigo conhecido de Hebreus e mostra que a carta circulava em Roma antes do fim do séc. I.",
+   "grau": "documentado"
+  },
+  {
+   "id": "11q13",
+   "titulo": "Melquisedeque nos Manuscritos do Mar Morto",
+   "refs": [
+    "7:1-3"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "11QMelquisedeque (11Q13)",
+   "referencia": "Manuscrito da caverna 11 de Qumran; Museu de Israel / Autoridade de Antiguidades de Israel",
+   "data_fonte": "séc. I a.C.",
+   "data_evento": "Descoberto em 1956",
+   "resumo": "O texto apresenta Melquisedeque como figura celestial que trará libertação e juízo no fim dos tempos.",
+   "relacao": "Mostra que, no judaísmo da época, Melquisedeque despertava grande interesse. Hebreus segue outro caminho: vê nele uma figura que aponta para o sacerdócio do Filho.",
+   "grau": "associacao"
+  }
+ ]
+}

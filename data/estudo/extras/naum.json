@@ -1,0 +1,307 @@
+{
+ "livro": "naum",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:15",
+   "titulo": "Os pés do mensageiro sobre os montes",
+   "descricao": "Um mensageiro corre pelos montes de Judá trazendo a notícia da paz, enquanto o povo sai das casas para ouvir.",
+   "alt": "Um mensageiro corre por um monte ao amanhecer anunciando boas notícias ao povo de Judá.",
+   "prompt": "A joyful messenger running barefoot across the hills of Judah at sunrise, arms raised announcing good news, villagers coming out of stone houses to listen, festival preparations beginning, bright golden morning light"
+  },
+  {
+   "id": "q02",
+   "capitulo": 2,
+   "ref": "2:3-6",
+   "titulo": "Carros nas ruas de Nínive",
+   "descricao": "Carros de guerra correm pelas praças da capital assíria e as comportas do rio se abrem; o palácio começa a ruir.",
+   "alt": "Carros de guerra disparam por ruas de Nínive enquanto as águas do rio invadem o palácio.",
+   "prompt": "Chaos in ancient Nineveh: war chariots racing through broad streets lit by torches, attackers in red shields seen at a distance, river gates bursting open and water flooding toward a palace with winged bull statues, no graphic violence, dramatic stormy light"
+  },
+  {
+   "id": "q03",
+   "capitulo": 3,
+   "ref": "3:1-3",
+   "titulo": "A queda da cidade sanguinária",
+   "descricao": "A grande cidade assíria arde ao longe, e sobreviventes fogem em meio à fumaça; a cena é vista de um monte distante.",
+   "alt": "Nínive em chamas vista de longe, com fumaça subindo sobre as muralhas.",
+   "prompt": "Distant view of the vast walls and palaces of Nineveh burning at night, columns of smoke rising over the Tigris river, small figures of fleeing people silhouetted, observed from a hill, sober and solemn mood, no graphic detail"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "tardio-irar",
+   "termo": "Tardio em irar-se, grande em força",
+   "ref": "1:3",
+   "explicado": false,
+   "significado": "Naum retoma Êxodo 34:6-7: Deus é paciente, mas não inocenta o culpado. Complementa Jonas, onde Nínive foi poupada quando se arrependeu."
+  },
+  {
+   "id": "tormenta",
+   "termo": "Tormenta e redemoinho",
+   "ref": "1:3",
+   "explicado": false,
+   "significado": "'O SENHOR tem seu caminho na tormenta': imagens da natureza descrevem o poder de Deus que vem julgar."
+  },
+  {
+   "id": "fortaleza",
+   "termo": "Fortaleza no dia da angústia",
+   "ref": "1:7",
+   "explicado": false,
+   "significado": "Em meio ao juízo, o SENHOR é bom e refúgio para os que nele confiam."
+  },
+  {
+   "id": "jugo",
+   "termo": "O jugo quebrado",
+   "ref": "1:13",
+   "explicado": false,
+   "significado": "A dominação assíria sobre Judá é comparada a um jugo e a correntes que Deus vai romper."
+  },
+  {
+   "id": "pes-mensageiro",
+   "termo": "Os pés do mensageiro",
+   "ref": "1:15",
+   "explicado": false,
+   "significado": "Quem anuncia boas novas e paz sobre os montes; imagem quase igual à de Isaías 52:7, que Paulo cita em Romanos 10:15."
+  },
+  {
+   "id": "leoes",
+   "termo": "A cova dos leões",
+   "ref": "2:11",
+   "explicado": false,
+   "significado": "O leão era símbolo dos reis assírios, que caçavam leões e se representavam assim. Naum pergunta onde está agora a cova do leão que despedaçava as presas."
+  },
+  {
+   "id": "prostituta",
+   "termo": "A meretriz e feiticeira",
+   "ref": "3:4",
+   "explicado": false,
+   "significado": "Nínive é descrita como sedutora que enganava povos com seus encantos, imagem da sedução do poder e do comércio."
+  },
+  {
+   "id": "figos",
+   "termo": "Figos maduros",
+   "ref": "3:12",
+   "explicado": true,
+   "significado": "O próprio texto compara as fortalezas de Nínive a figueiras com figos maduros que caem na boca de quem as sacode."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "massa",
+   "pt": "Peso (sentença)",
+   "refs": [
+    "1:1"
+   ],
+   "hebraico": {
+    "lema": "מַשָּׂא",
+    "translit": "massa'",
+    "strong": "H4853"
+   },
+   "grego": {
+    "lema": "λῆμμα",
+    "translit": "lēmma"
+   },
+   "sentido": "carga, oráculo pesado",
+   "latim": {
+    "forma": "onus Nineve",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Título do livro: uma mensagem que pesa sobre Nínive como uma carga.",
+   "interpretacao": false
+  },
+  {
+   "id": "naqam",
+   "pt": "Vingador",
+   "refs": [
+    "1:2"
+   ],
+   "hebraico": {
+    "lema": "נָקַם",
+    "translit": "naqam",
+    "strong": "H5358"
+   },
+   "grego": {
+    "lema": "ἐκδικέω",
+    "translit": "ekdikéō"
+   },
+   "sentido": "vingar, fazer justiça",
+   "latim": {
+    "forma": "ulciscens Dominus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A 'vingança' de Deus não é rancor, mas justiça que restabelece a ordem contra um império que oprimiu povos.",
+   "interpretacao": true
+  },
+  {
+   "id": "qanno",
+   "pt": "Zeloso (ciumento)",
+   "refs": [
+    "1:2"
+   ],
+   "hebraico": {
+    "lema": "קַנּוֹא",
+    "translit": "qanno'"
+   },
+   "grego": {
+    "lema": "ζηλωτής",
+    "translit": "zēlōtḗs"
+   },
+   "sentido": "zeloso, que não aceita rival",
+   "latim": {
+    "forma": "Deus aemulator",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Deus zela por seu povo e pela justiça como um marido zela pela aliança.",
+   "interpretacao": false
+  },
+  {
+   "id": "maoz",
+   "pt": "Fortaleza",
+   "refs": [
+    "1:7"
+   ],
+   "hebraico": {
+    "lema": "מָעוֹז",
+    "translit": "ma'oz",
+    "strong": "H4581"
+   },
+   "sentido": "lugar forte, refúgio",
+   "latim": {
+    "forma": "bonus Dominus et confortans in die tribulationis",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "No centro de um livro de juízo, a confiança: o SENHOR é bom e conhece os que nele se refugiam.",
+   "interpretacao": false
+  },
+  {
+   "id": "basar",
+   "pt": "Boas-novas",
+   "refs": [
+    "1:15"
+   ],
+   "hebraico": {
+    "lema": "בָּשַׂר",
+    "translit": "basar",
+    "strong": "H1319"
+   },
+   "grego": {
+    "lema": "εὐαγγελίζομαι",
+    "translit": "euangelízomai",
+    "strong": "G2097"
+   },
+   "sentido": "anunciar boa notícia",
+   "latim": {
+    "forma": "ecce super montes pedes evangelizantis",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Raiz da ideia de 'evangelho'. A Septuaginta usa euangelizomai, o verbo grego que o NT usaria para anunciar Cristo.",
+   "interpretacao": false
+  },
+  {
+   "id": "ir-damim",
+   "pt": "Cidade sanguinária",
+   "refs": [
+    "3:1"
+   ],
+   "hebraico": {
+    "lema": "עִיר דָּמִים",
+    "translit": "'ir damim",
+    "strong": "H5892, H1818"
+   },
+   "sentido": "cidade de sangue",
+   "latim": {
+    "forma": "vae civitas sanguinum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Acusação contra Nínive pela violência de suas conquistas, conhecida também pelas próprias inscrições assírias.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "cronica-ninive",
+   "titulo": "A Crônica da Queda de Nínive",
+   "refs": [
+    "2:1",
+    "3:7"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Crônica Babilônica (anos 10 a 17 de Nabopolassar)",
+   "referencia": "Museu Britânico, BM 21901",
+   "data_fonte": "séc. VI a.C. ou posterior (cópia)",
+   "data_evento": "612 a.C.",
+   "resumo": "Registra que, em 612 a.C., babilônios e medos cercaram Nínive por cerca de três meses, tomaram a cidade e levaram grande despojo.",
+   "relacao": "Confirma a queda de Nínive anunciada por Naum, poucas décadas depois da profecia.",
+   "grau": "documentado"
+  },
+  {
+   "id": "tebas-assurbanipal",
+   "titulo": "O saque de Tebas (Nô-Amom)",
+   "refs": [
+    "3:8-10"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Anais de Assurbanipal (Cilindro Rassam e outros prismas)",
+   "referencia": "Museu Britânico",
+   "data_fonte": "c. 643 a.C.",
+   "data_evento": "c. 663 a.C.",
+   "resumo": "Assurbanipal conta como conquistou e saqueou Tebas, a grande cidade do Egito, levando seus tesouros para Nínive.",
+   "relacao": "Naum 3:8-10 lembra a queda de Nô-Amom (Tebas) como exemplo: se Tebas caiu, Nínive também cairia. O evento serve para datar o livro depois de 663 a.C.",
+   "grau": "documentado"
+  },
+  {
+   "id": "diodoro-rio",
+   "titulo": "O rio e as muralhas de Nínive",
+   "refs": [
+    "2:6"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Diodoro Sículo, Biblioteca Histórica",
+   "referencia": "livro 2, caps. 26–27",
+   "data_fonte": "c. 60–30 a.C.",
+   "data_evento": "612 a.C.",
+   "resumo": "Diodoro, baseado em Ctésias, conta que uma cheia do rio derrubou parte das muralhas de Nínive e facilitou sua tomada.",
+   "relacao": "Muitos comparam com 'as comportas dos rios se abrirão' (2:6). Os relatos de Ctésias têm muitos elementos lendários, então a ligação é discutida.",
+   "grau": "associacao"
+  },
+  {
+   "id": "xenofonte-mespila",
+   "titulo": "Xenofonte passa pelas ruínas",
+   "refs": [
+    "3:7",
+    "3:19"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Xenofonte, Anábase",
+   "referencia": "livro 3, cap. 4",
+   "data_fonte": "c. 370 a.C.",
+   "data_evento": "401 a.C. (passagem do exército grego)",
+   "resumo": "Xenofonte descreve uma grande cidade abandonada às margens do Tigre, de muralhas enormes, que muitos identificam com as ruínas de Nínive.",
+   "relacao": "Menos de dois séculos depois, a capital assíria já estava em ruínas e seu nome quase esquecido, como Naum anunciara.",
+   "grau": "associacao"
+  },
+  {
+   "id": "pesher-naum",
+   "titulo": "Comentário de Naum de Qumran",
+   "refs": [
+    "2:11-12"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Pesher Naum (4QpNah)",
+   "referencia": "4Q169, Manuscritos do Mar Morto, Caverna 4 de Qumran",
+   "data_fonte": "séc. I a.C.",
+   "data_evento": "aplica o texto a fatos do séc. I a.C.",
+   "resumo": "Comentário que interpreta o leão de Naum 2 como figura de personagens da época, mencionando por nome um 'Demétrio, rei da Grécia'.",
+   "relacao": "Mostra como um grupo judeu antigo lia Naum como palavra para seu próprio tempo. É interpretação, não fala da Nínive antiga.",
+   "grau": "associacao"
+  }
+ ]
+}

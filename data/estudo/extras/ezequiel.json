@@ -1,0 +1,868 @@
+{
+ "livro": "ezequiel",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:4-28",
+   "titulo": "A visão junto ao rio Quebar",
+   "descricao": "Entre os exilados, Ezequiel vê uma tempestade de fogo vinda do norte, quatro seres viventes com rodas e, acima, um trono envolto num brilho como o do arco-íris: a glória do SENHOR.",
+   "alt": "Um homem caído junto a um rio contempla uma tempestade de fogo com seres alados, rodas brilhantes e um trono de luz.",
+   "prompt": "A priest in exile, dressed in a simple Judean robe, fallen to his knees on the bank of a Babylonian canal, gazing up at a vast storm cloud from the north flashing with fire, within it four winged living creatures each with four faces of a man, a lion, an ox and an eagle, beside them great gleaming wheels within wheels like beryl, above them a crystal expanse and a sapphire throne surrounded by blinding fiery radiance and a rainbow, no human figure visible in the light, only glory"
+  },
+  {
+   "id": "q02",
+   "capitulo": 3,
+   "ref": "3:1-3",
+   "titulo": "Ezequiel come o rolo",
+   "descricao": "Uma mão estende a Ezequiel um rolo escrito de lamentos; ele o come e o sente doce como mel na boca.",
+   "alt": "Um homem recebe de dentro de uma luz intensa um rolo escrito por dentro e por fora.",
+   "prompt": "A kneeling prophet receiving a scroll written on both sides that emerges from a bright cloud of light, his hands reaching for it, his expression a mix of awe and resolve, dark river landscape behind, golden glow on his face"
+  },
+  {
+   "id": "q03",
+   "capitulo": 3,
+   "ref": "3:15",
+   "titulo": "Sete dias atônito em Tel-Abibe",
+   "descricao": "Ezequiel chega aos exilados em Tel-Abibe e fica sete dias sentado entre eles, em silêncio e espanto.",
+   "alt": "Um homem silencioso sentado entre exilados em casas de tijolo junto a um canal.",
+   "prompt": "A silent bearded priest sitting on a mat among Judean exiles in a village of mudbrick houses by a canal at Tel Abib, people glancing at him with curiosity and concern, palm trees, evening haze"
+  },
+  {
+   "id": "q04",
+   "capitulo": 4,
+   "ref": "4:1-3",
+   "titulo": "O cerco desenhado no tijolo",
+   "descricao": "Ezequiel desenha Jerusalém num tijolo, monta em volta uma miniatura de cerco e põe uma assadeira de ferro entre ele e a cidade.",
+   "alt": "Um homem ajoelhado diante de um tijolo com o desenho de uma cidade e pequenas rampas e aríetes de barro.",
+   "prompt": "A prophet kneeling on the ground before a large clay brick engraved with the outline of a city, small clay ramps, siege towers and battering rams arranged around it, an iron griddle set upright between him and the brick, onlookers from the exile community watching, bright daylight"
+  },
+  {
+   "id": "q05",
+   "capitulo": 5,
+   "ref": "5:1-2",
+   "titulo": "Os cabelos pesados na balança",
+   "descricao": "Ezequiel raspa cabeça e barba com uma espada afiada e divide os cabelos em três partes com uma balança.",
+   "alt": "Um homem de cabeça raspada divide mechas de cabelo numa balança diante de observadores.",
+   "prompt": "A prophet with a freshly shaved head and beard holding a sharp blade, weighing piles of his own hair on a hand balance in three portions, a small fire nearby, a few exiles watching silently, plain courtyard, sober light"
+  },
+  {
+   "id": "q06",
+   "capitulo": 8,
+   "ref": "8:14-16",
+   "titulo": "Abominações no templo",
+   "descricao": "Em visão, Ezequiel vê mulheres chorando por Tamuz à porta do templo e homens de costas para o santuário, prostrados para o sol nascente.",
+   "alt": "Mulheres sentadas choram junto à porta do templo enquanto homens adoram o sol de costas para o santuário.",
+   "prompt": "Vision of the Jerusalem temple court at sunrise, women seated by the north gate weeping for a pagan god, beyond them about twenty five men with their backs to the sanctuary bowing toward the rising sun in the east, the prophet observing from a doorway in shock, long shadows"
+  },
+  {
+   "id": "q07",
+   "capitulo": 9,
+   "ref": "9:2-4",
+   "titulo": "O sinal na testa",
+   "descricao": "Um homem vestido de linho, com estojo de escrivão, passa pela cidade marcando a testa dos que gemem pelas abominações.",
+   "alt": "Um homem de linho branco marca com tinta a testa de pessoas ajoelhadas numa rua de Jerusalém.",
+   "prompt": "A dignified man in white linen with a scribe's ink case at his waist walking through a Jerusalem street, gently tracing a small mark on the foreheads of kneeling men and women who weep in sorrow, other people indifferent in the background, soft solemn light"
+  },
+  {
+   "id": "q08",
+   "capitulo": 10,
+   "ref": "10:18-19",
+   "titulo": "A glória deixa o templo",
+   "descricao": "A glória do SENHOR sai da entrada da casa e pousa sobre os querubins, que erguem as asas e param à porta oriental.",
+   "alt": "Querubins com asas abertas e rodas luminosas se erguem diante da porta oriental do templo, envoltos em glória.",
+   "prompt": "Majestic winged cherubim with great luminous wheels rising from the ground at the eastern gate of the temple, a radiant cloud of glory resting above them, the temple behind left in shadow, the prophet watching in grief from the court"
+  },
+  {
+   "id": "q09",
+   "capitulo": 11,
+   "ref": "11:23",
+   "titulo": "A glória sobre o monte ao oriente",
+   "descricao": "A glória do SENHOR se afasta da cidade e para sobre o monte a leste de Jerusalém.",
+   "alt": "Uma nuvem luminosa paira sobre um monte a leste de Jerusalém, ao entardecer.",
+   "prompt": "A shining cloud of glory hovering over the mountain east of Jerusalem at twilight, the walled city and temple below dim and abandoned, olive trees on the slopes, the exiled prophet seen small in the foreground looking on"
+  },
+  {
+   "id": "q10",
+   "capitulo": 12,
+   "ref": "12:7",
+   "titulo": "A bagagem do exílio",
+   "descricao": "À tarde Ezequiel cava um buraco na parede e, de noite, sai com a bagagem nos ombros e o rosto coberto, como sinal do exílio.",
+   "alt": "Um homem com trouxa nos ombros sai por um buraco aberto numa parede de tijolos à noite.",
+   "prompt": "At night, a man with his face partly covered carrying a bundle of belongings on his shoulder, climbing out through a hole dug in a mudbrick wall, neighbors with oil lamps watching in the dark, moonlight"
+  },
+  {
+   "id": "q11",
+   "capitulo": 17,
+   "ref": "17:3-5",
+   "titulo": "A grande águia e o cedro",
+   "descricao": "Uma grande águia de plumagem colorida arranca o ramo mais alto de um cedro do Líbano e o leva para uma terra de comércio.",
+   "alt": "Uma enorme águia leva no bico o ramo mais alto de um cedro, sobre montanhas.",
+   "prompt": "A huge eagle with broad wings and richly colored plumage soaring above the snowy mountains of Lebanon carrying the topmost twig of a great cedar in its beak, distant view of a city of merchants on a plain, dramatic sky"
+  },
+  {
+   "id": "q12",
+   "capitulo": 19,
+   "ref": "19:2-3",
+   "titulo": "A leoa e seus filhotes",
+   "descricao": "Lamento pelos príncipes de Israel: uma leoa cria entre os leões seus filhotes, que crescem e aprendem a caçar.",
+   "alt": "Uma leoa deitada entre leões observa seus filhotes numa paisagem rochosa.",
+   "prompt": "A lioness lying among lions on a rocky hillside, watching her cubs, one young lion standing alert and strong, wild landscape at dusk, mournful atmosphere"
+  },
+  {
+   "id": "q13",
+   "capitulo": 24,
+   "ref": "24:17-18",
+   "titulo": "O luto silencioso",
+   "descricao": "A mulher de Ezequiel, 'o desejo de seus olhos', morre; por ordem de Deus ele não faz luto público, como sinal para o povo.",
+   "alt": "Um homem de turbante e sandálias está de pé em silêncio diante de vizinhos que o olham sem entender.",
+   "prompt": "A grieving man standing composed in a doorway wearing his turban and sandals, his eyes full of silent sorrow, neighbors gathered in the street looking at him with questioning faces, an empty chair inside the dim house, morning light"
+  },
+  {
+   "id": "q14",
+   "capitulo": 27,
+   "ref": "27:3-5",
+   "titulo": "Tiro, o navio formoso",
+   "descricao": "Tiro é descrita como um navio magnífico, com conveses de cipreste e mastros de cedro do Líbano, carregado com riquezas das nações.",
+   "alt": "Um grande navio fenício com velas bordadas e carga de muitos povos, junto a uma cidade-ilha.",
+   "prompt": "A magnificent Phoenician merchant ship with cedar masts, embroidered linen sails and ivory inlaid decks, laden with goods from many nations, anchored before the island city of Tyre with its walls and towers, bright Mediterranean light"
+  },
+  {
+   "id": "q15",
+   "capitulo": 29,
+   "ref": "29:3",
+   "titulo": "O faraó como grande dragão",
+   "descricao": "O faraó é comparado a um grande monstro deitado no meio dos rios, que diz: 'O meu rio é meu'.",
+   "alt": "Um enorme crocodilo deitado num rio entre papiros, com um palácio egípcio ao fundo.",
+   "prompt": "A colossal crocodile-like river monster lying in the middle of the Nile among papyrus reeds, Egyptian temples and a pharaoh's palace on the bank in the background, golden haze, ominous calm"
+  },
+  {
+   "id": "q16",
+   "capitulo": 33,
+   "ref": "33:2-7",
+   "titulo": "O vigia na muralha",
+   "descricao": "Como a sentinela que toca a trombeta quando vê a espada chegar, Ezequiel é posto como vigia da casa de Israel.",
+   "alt": "Uma sentinela no alto da muralha toca uma trombeta ao ver um exército no horizonte.",
+   "prompt": "A watchman standing on top of a city wall blowing a ram's horn trumpet, pointing toward a distant army raising dust on the horizon, people in the streets below turning to listen, early morning light"
+  },
+  {
+   "id": "q17",
+   "capitulo": 34,
+   "ref": "34:12-16",
+   "titulo": "As ovelhas reunidas",
+   "descricao": "Deus promete buscar as ovelhas espalhadas, trazê-las de volta, curar a ferida e fortalecer a fraca nos montes de Israel.",
+   "alt": "Um pastor carrega uma ovelha ferida enquanto o rebanho se reúne junto a um riacho nas montanhas.",
+   "prompt": "A shepherd carrying an injured lamb on his shoulders, gathering a scattered flock back from dark ravines to green mountain pastures beside a stream, rays of light breaking through clouds after a storm, peaceful hills of Israel"
+  },
+  {
+   "id": "q18",
+   "capitulo": 37,
+   "ref": "37:7-10",
+   "titulo": "O vale dos ossos secos",
+   "descricao": "Ezequiel profetiza num vale cheio de ossos secos; eles se juntam, recebem carne e, quando o espírito sopra, se põem de pé como um grande exército.",
+   "alt": "Num vale, ossos se juntam e se tornam pessoas que se levantam enquanto um vento passa e o profeta observa.",
+   "prompt": "A wide desolate valley at dawn, the prophet standing with outstretched arms, a mighty wind sweeping across, scattered dry bones coming together, figures in the foreground already restored and rising to their feet as living people clothed in simple garments, a vast multitude standing in the distance, hopeful light, no gore"
+  },
+  {
+   "id": "q19",
+   "capitulo": 37,
+   "ref": "37:16-17",
+   "titulo": "As duas varas unidas",
+   "descricao": "Ezequiel escreve 'Judá' numa vara e 'José/Efraim' em outra e as junta na mão, como sinal de um só povo.",
+   "alt": "Um homem segura duas varas de madeira unidas em uma só, diante de um grupo atento.",
+   "prompt": "A prophet holding two inscribed wooden sticks joined end to end in his single hand, showing them to a gathered crowd of exiles, faces curious and moved, warm afternoon light"
+  },
+  {
+   "id": "q20",
+   "capitulo": 40,
+   "ref": "40:3",
+   "titulo": "O homem com a cana de medir",
+   "descricao": "Num monte muito alto, Ezequiel encontra um homem de aparência de bronze, com um cordel e uma cana de medir, à porta de um grande edifício.",
+   "alt": "Um homem de brilho como bronze segura uma cana de medir à porta de um templo sobre um monte.",
+   "prompt": "On a very high mountain, a radiant man with an appearance like polished bronze holding a linen measuring cord and a long measuring reed, standing at the gate of a vast temple complex, the prophet before him listening, clear bright light"
+  },
+  {
+   "id": "q21",
+   "capitulo": 43,
+   "ref": "43:2-4",
+   "titulo": "A glória volta pelo oriente",
+   "descricao": "A glória do Deus de Israel volta pelo caminho do oriente, com som de muitas águas, e enche o templo.",
+   "alt": "Uma luz intensa vem do oriente e entra pela porta do templo, iluminando a terra.",
+   "prompt": "A brilliant stream of glory approaching from the east and entering the temple through the eastern gate, the land shining with its light, the prophet fallen on his face in the outer court, sense of rushing waters, majestic composition"
+  },
+  {
+   "id": "q22",
+   "capitulo": 44,
+   "ref": "44:1-2",
+   "titulo": "A porta oriental fechada",
+   "descricao": "A porta oriental do santuário fica fechada, porque o SENHOR, Deus de Israel, entrou por ela.",
+   "alt": "Uma grande porta de pedra fechada na muralha oriental do templo, ao amanhecer.",
+   "prompt": "A massive closed stone gate in the eastern wall of the temple at dawn, its doors shut and sealed, soft light on the carved stones, the prophet and his guide standing before it in reverence"
+  },
+  {
+   "id": "q23",
+   "capitulo": 47,
+   "ref": "47:1-5",
+   "titulo": "O rio que sai do templo",
+   "descricao": "Águas saem de debaixo do umbral do templo e vão ficando mais fundas: até os tornozelos, os joelhos, a cintura, até virar um rio.",
+   "alt": "Um homem atravessa águas que saem do templo e vão se tornando um rio profundo.",
+   "prompt": "A stream of clear water flowing from beneath the threshold of the temple toward the east, the prophet wading in it up to his waist beside a radiant guide holding a measuring line, the water widening into a deep river ahead, bright morning light"
+  },
+  {
+   "id": "q24",
+   "capitulo": 47,
+   "ref": "47:7-10",
+   "titulo": "Árvores e pescadores à beira do rio",
+   "descricao": "Nas margens do rio crescem árvores com fruto o ano todo, e as águas do mar ficam saudáveis; pescadores estendem redes de En-Gedi a En-Eglaim.",
+   "alt": "Árvores frutíferas nas margens de um rio e pescadores com redes junto a um mar cheio de peixes.",
+   "prompt": "Lush fruit trees lining both banks of a river flowing into the Dead Sea, now fresh and teeming with fish, fishermen spreading nets on the shore near the cliffs of En Gedi, abundant green life against desert mountains, radiant light"
+  },
+  {
+   "id": "q25",
+   "capitulo": 48,
+   "ref": "48:31-35",
+   "titulo": "A cidade 'O SENHOR Está Ali'",
+   "descricao": "A cidade tem doze portas com os nomes das tribos, e seu nome passa a ser: O SENHOR Está Ali.",
+   "alt": "Uma cidade quadrada com doze portas, envolta em luz suave sobre uma planície.",
+   "prompt": "A square walled city with three gates on each side, each gate carved with a tribal emblem, a gentle radiant light resting over the whole city, people entering peacefully, wide plain and mountains around"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "seres-viventes",
+   "termo": "Os quatro seres viventes",
+   "ref": "1:5",
+   "explicado": false,
+   "significado": "Seres com rostos de homem, leão, boi e águia que sustentam o trono. Em 10:20 Ezequiel os identifica como querubins. A tradição cristã depois associou os quatro rostos aos quatro evangelistas."
+  },
+  {
+   "id": "rodas",
+   "termo": "Rodas dentro de rodas",
+   "ref": "1:16",
+   "explicado": false,
+   "significado": "Rodas que vão em todas as direções sem virar, com aros cheios de olhos (1:18). Sugerem que Deus não está preso ao templo de Jerusalém: sua glória se move até o exílio."
+  },
+  {
+   "id": "gloria-arco",
+   "termo": "Glória como o arco-íris",
+   "ref": "1:28",
+   "explicado": true,
+   "significado": "O texto identifica a visão: 'a semelhança da glória do SENHOR'. Ezequiel fala com cautela, acumulando 'semelhança' e 'aparência' para não descrever Deus diretamente."
+  },
+  {
+   "id": "rolo",
+   "termo": "Rolo comido",
+   "ref": "3:1",
+   "explicado": false,
+   "significado": "O profeta precisa absorver a mensagem antes de falar. O rolo traz lamentos, mas é doce na boca, porque é palavra de Deus. Imagem retomada em Apocalipse 10."
+  },
+  {
+   "id": "vigia",
+   "termo": "Vigia (sentinela)",
+   "ref": "3:17",
+   "explicado": true,
+   "significado": "O texto explica: o vigia ouve a palavra e avisa o povo; se não avisar, será responsável (3:17-21; 33:1-9)."
+  },
+  {
+   "id": "tijolo-cerco",
+   "termo": "Tijolo com a cidade sitiada",
+   "ref": "4:3",
+   "explicado": true,
+   "significado": "O próprio texto chama o gesto de 'sinal para a casa de Israel': Jerusalém será cercada."
+  },
+  {
+   "id": "cabelos",
+   "termo": "Cabelos divididos em três",
+   "ref": "5:2",
+   "explicado": true,
+   "significado": "Em 5:12 Deus explica as três partes: morte por fome e peste, pela espada e dispersão aos ventos."
+  },
+  {
+   "id": "sinal-testa",
+   "termo": "Sinal na testa",
+   "ref": "9:4",
+   "explicado": true,
+   "significado": "O texto diz para quem é: os que suspiram e gemem pelas abominações. Em hebraico o sinal é a letra tav, que na escrita antiga tinha forma de X ou cruz."
+  },
+  {
+   "id": "gloria-parte",
+   "termo": "Glória que deixa o templo",
+   "ref": "10:18",
+   "explicado": false,
+   "significado": "A glória sai aos poucos: da entrada, para a porta oriental, para o monte (11:23). O templo sem a presença de Deus fica exposto à destruição. Ela volta em 43:2-5."
+  },
+  {
+   "id": "videira",
+   "termo": "Madeira da videira",
+   "ref": "15:2",
+   "explicado": true,
+   "significado": "A videira sem fruto não serve nem para fazer um cabide. O texto aplica a imagem aos moradores de Jerusalém (15:6)."
+  },
+  {
+   "id": "menina-abandonada",
+   "termo": "A menina abandonada",
+   "ref": "16:6",
+   "explicado": true,
+   "significado": "Alegoria declarada de Jerusalém (16:2-3): achada recém-nascida e abandonada, cuidada por Deus, e depois infiel. A linguagem é dura de propósito."
+  },
+  {
+   "id": "aguias-cedro",
+   "termo": "Águias e cedro",
+   "ref": "17:3",
+   "explicado": true,
+   "significado": "Em 17:12 o texto explica: a grande águia é o rei da Babilônia, que levou o rei de Judá. O 'ramo tenro' plantado por Deus em 17:22 aponta para um rei futuro."
+  },
+  {
+   "id": "leoa",
+   "termo": "A leoa e os leõezinhos",
+   "ref": "19:2",
+   "explicado": false,
+   "significado": "Lamento pelos príncipes de Judá, apresentados como filhotes de leão capturados. Muitos identificam os filhotes com Jeoacaz e Joaquim, levados ao Egito e à Babilônia."
+  },
+  {
+   "id": "panela",
+   "termo": "Panela no fogo",
+   "ref": "24:3",
+   "explicado": true,
+   "significado": "Parábola contra Jerusalém sitiada, chamada no verso 6 de 'cidade sanguinária': a carne da panela é o povo dentro da cidade."
+  },
+  {
+   "id": "navio-tiro",
+   "termo": "Tiro como navio",
+   "ref": "27:5",
+   "explicado": false,
+   "significado": "A rica cidade comercial é pintada como um navio magnífico que naufraga no alto-mar. Mostra a fragilidade da riqueza e do orgulho."
+  },
+  {
+   "id": "dragao",
+   "termo": "Faraó, o grande dragão",
+   "ref": "29:3",
+   "explicado": true,
+   "significado": "O texto identifica o monstro com o faraó, que se diz dono do Nilo. A imagem lembra o crocodilo, animal ligado ao poder do Egito."
+  },
+  {
+   "id": "cedro-assiria",
+   "termo": "A Assíria como cedro",
+   "ref": "31:3",
+   "explicado": true,
+   "significado": "O texto diz: 'a Assíria era um cedro do Líbano'. A queda do grande cedro serve de aviso ao Egito."
+  },
+  {
+   "id": "pastor",
+   "termo": "O pastor",
+   "ref": "34:23",
+   "explicado": false,
+   "significado": "Os pastores maus são os líderes que exploraram o rebanho. Deus promete pastorear pessoalmente e levantar 'meu servo Davi' como único pastor; os cristãos ligam a promessa a Jesus, o bom pastor (Jo 10)."
+  },
+  {
+   "id": "coracao",
+   "termo": "Coração de pedra e coração de carne",
+   "ref": "36:26",
+   "explicado": false,
+   "significado": "Um coração duro que não responde é trocado por um coração sensível e vivo. A promessa é ligada ao dom do espírito (36:27)."
+  },
+  {
+   "id": "ossos-secos",
+   "termo": "Ossos secos",
+   "ref": "37:1",
+   "explicado": true,
+   "significado": "O texto explica: os ossos são toda a casa de Israel, que dizia 'nossa esperança pereceu' (37:11). A visão anuncia a volta à terra; muitos também a leem à luz da ressurreição."
+  },
+  {
+   "id": "duas-varas",
+   "termo": "Duas varas unidas",
+   "ref": "37:16",
+   "explicado": true,
+   "significado": "Em 37:19-22 Deus explica: Judá e Israel (José/Efraim) serão uma só nação, com um só rei."
+  },
+  {
+   "id": "gogue",
+   "termo": "Gogue, da terra de Magogue",
+   "ref": "38:2",
+   "explicado": false,
+   "significado": "Um inimigo vindo do extremo norte que ataca Israel restaurado e é derrotado por Deus. Já foi identificado com muitos povos; muitos estudiosos o entendem como figura simbólica dos inimigos do povo de Deus."
+  },
+  {
+   "id": "rio-templo",
+   "termo": "Rio que sai do templo",
+   "ref": "47:1",
+   "explicado": false,
+   "significado": "Água que nasce do santuário e traz vida até ao mar Morto. A imagem reaparece em Zacarias 14:8 e Apocalipse 22:1-2."
+  },
+  {
+   "id": "porta-oriental",
+   "termo": "Porta oriental fechada",
+   "ref": "44:2",
+   "explicado": true,
+   "significado": "O texto explica: está fechada porque o SENHOR entrou por ela. Mais tarde surgiram várias interpretações judaicas e cristãs dessa porta."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "ben-adam",
+   "pt": "Filho do homem",
+   "refs": [
+    "2:1",
+    "37:3"
+   ],
+   "hebraico": {
+    "lema": "בֶּן־אָדָם",
+    "translit": "ben-adam"
+   },
+   "grego": {
+    "lema": "υἱὸς ἀνθρώπου",
+    "translit": "huiós anthrṓpou"
+   },
+   "sentido": "ser humano, mortal",
+   "latim": {
+    "forma": "fili hominis sta super pedes tuos",
+    "nota": "Vulgata de 2:1."
+   },
+   "outras": [],
+   "explicacao": "É como Deus chama Ezequiel mais de 90 vezes: lembra sua condição humana diante da glória divina. O título ganha outro peso em Daniel 7:13 e nos evangelhos.",
+   "interpretacao": false
+  },
+  {
+   "id": "kavod",
+   "pt": "Glória",
+   "refs": [
+    "1:28",
+    "10:18",
+    "43:2"
+   ],
+   "hebraico": {
+    "lema": "כָּבוֹד",
+    "translit": "kavod",
+    "strong": "H3519"
+   },
+   "grego": {
+    "lema": "δόξα",
+    "translit": "dóxa"
+   },
+   "sentido": "peso, importância; a presença visível de Deus",
+   "latim": {
+    "forma": "visio similitudinis gloriae Domini",
+    "nota": "Vulgata de 1:28."
+   },
+   "outras": [],
+   "explicacao": "A raiz fala de 'peso'. O livro se organiza em torno da glória: aparece no exílio (1), sai do templo (10-11) e volta ao novo templo (43).",
+   "interpretacao": false
+  },
+  {
+   "id": "chashmal",
+   "pt": "Âmbar, metal brilhante",
+   "refs": [
+    "1:4",
+    "1:27"
+   ],
+   "hebraico": {
+    "lema": "חַשְׁמַל",
+    "translit": "chashmal",
+    "strong": "H2830"
+   },
+   "sentido": "algo de brilho intenso; sentido exato incerto",
+   "latim": {
+    "forma": "quasi species electri",
+    "nota": "A Vulgata usa 'electrum', liga de ouro e prata."
+   },
+   "outras": [],
+   "explicacao": "Palavra rara, só em Ezequiel. Ninguém sabe ao certo o que era; foi traduzida por âmbar, eletro ou bronze polido. No hebraico moderno virou a palavra para 'eletricidade'.",
+   "interpretacao": false
+  },
+  {
+   "id": "ofan",
+   "pt": "Roda",
+   "refs": [
+    "1:16",
+    "10:9"
+   ],
+   "hebraico": {
+    "lema": "אוֹפָן",
+    "translit": "ofan",
+    "strong": "H212"
+   },
+   "sentido": "roda",
+   "latim": {
+    "forma": "rota in medio rotae",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "As rodas dentro de rodas deram nome, na tradição judaica posterior, a uma classe de anjos, os 'ofanim'.",
+   "interpretacao": false
+  },
+  {
+   "id": "kerub",
+   "pt": "Querubim",
+   "refs": [
+    "10:20"
+   ],
+   "hebraico": {
+    "lema": "כְּרוּב",
+    "translit": "kerub",
+    "strong": "H3742"
+   },
+   "sentido": "ser celestial guardião do trono e do santuário",
+   "latim": {
+    "forma": "cherubin",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Os querubins guardavam o Éden e estavam esculpidos sobre a arca. Em 10:20 Ezequiel reconhece que os seres do capítulo 1 eram querubins.",
+   "interpretacao": false
+  },
+  {
+   "id": "tsofeh",
+   "pt": "Vigia",
+   "refs": [
+    "3:17",
+    "33:7"
+   ],
+   "hebraico": {
+    "lema": "צֹפֶה",
+    "translit": "tsofeh",
+    "strong": "H6822"
+   },
+   "sentido": "sentinela que observa do alto",
+   "latim": {
+    "forma": "speculatorem dedi te domui Israhel",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Define a missão de Ezequiel nos dois momentos-chave do livro: no chamado (3) e depois da notícia da queda de Jerusalém (33).",
+   "interpretacao": false
+  },
+  {
+   "id": "tav",
+   "pt": "Sinal (letra tav)",
+   "refs": [
+    "9:4"
+   ],
+   "hebraico": {
+    "lema": "תָּו",
+    "translit": "tav",
+    "strong": "H8420"
+   },
+   "sentido": "marca; nome da última letra do alfabeto",
+   "latim": {
+    "forma": "signa thau super frontes",
+    "nota": "A Vulgata mantém a palavra hebraica 'thau'."
+   },
+   "outras": [],
+   "explicacao": "Na escrita hebraica antiga o tav tinha forma de X ou de cruz. Por isso autores cristãos antigos viram aqui uma imagem da cruz; isso é leitura posterior, não o sentido original.",
+   "interpretacao": true
+  },
+  {
+   "id": "yada",
+   "pt": "Sabereis que eu sou o SENHOR",
+   "refs": [
+    "6:7",
+    "37:6"
+   ],
+   "hebraico": {
+    "lema": "יָדַע",
+    "translit": "yada",
+    "strong": "H3045"
+   },
+   "grego": {
+    "lema": "γινώσκω",
+    "translit": "ginṓskō"
+   },
+   "sentido": "conhecer por experiência",
+   "latim": {
+    "forma": "scietis quia ego Dominus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A frase se repete cerca de 70 vezes no livro. Tanto o juízo quanto a restauração têm o mesmo objetivo: que o povo e as nações conheçam a Deus.",
+   "interpretacao": false
+  },
+  {
+   "id": "gillulim",
+   "pt": "Ídolos",
+   "refs": [
+    "6:4"
+   ],
+   "hebraico": {
+    "lema": "גִּלּוּלִים",
+    "translit": "gillulim",
+    "strong": "H1544"
+   },
+   "sentido": "ídolos; palavra de desprezo",
+   "latim": {
+    "forma": "idola",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Termo preferido de Ezequiel para os ídolos (quase 40 vezes). Parece formado de propósito para soar como 'bolinhas de esterco'.",
+   "interpretacao": false
+  },
+  {
+   "id": "ruach",
+   "pt": "Espírito, vento, fôlego",
+   "refs": [
+    "37:5",
+    "37:9"
+   ],
+   "hebraico": {
+    "lema": "רוּחַ",
+    "translit": "ruach",
+    "strong": "H7307"
+   },
+   "grego": {
+    "lema": "πνεῦμα",
+    "translit": "pneûma"
+   },
+   "sentido": "vento, sopro, espírito",
+   "latim": {
+    "forma": "intromittam in vos spiritum et vivetis",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "No capítulo 37 a mesma palavra é 'fôlego' que dá vida, 'vento' dos quatro cantos e 'Espírito' de Deus (37:14). O jogo se perde quando se traduz por palavras diferentes.",
+   "interpretacao": false
+  },
+  {
+   "id": "lev-chadash",
+   "pt": "Coração novo",
+   "refs": [
+    "18:31",
+    "36:26"
+   ],
+   "hebraico": {
+    "lema": "לֵב חָדָשׁ",
+    "translit": "lev chadash"
+   },
+   "sentido": "coração novo",
+   "latim": {
+    "forma": "dabo vobis cor novum et spiritum novum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Em 18:31 o povo é chamado a 'fazer para si' um coração novo; em 36:26 o próprio Deus o dá. As duas coisas ficam lado a lado no livro.",
+   "interpretacao": false
+  },
+  {
+   "id": "roeh",
+   "pt": "Pastor",
+   "refs": [
+    "34:23"
+   ],
+   "hebraico": {
+    "lema": "רֹעֶה",
+    "translit": "roʿeh",
+    "strong": "H7462"
+   },
+   "grego": {
+    "lema": "ποιμήν",
+    "translit": "poimḗn"
+   },
+   "sentido": "pastor, o que apascenta",
+   "latim": {
+    "forma": "pastorem unum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Imagem comum no antigo Oriente para reis. O capítulo 34 critica os líderes e promete um único pastor da linhagem de Davi.",
+   "interpretacao": true
+  },
+  {
+   "id": "nasi",
+   "pt": "Príncipe",
+   "refs": [
+    "34:24",
+    "44:3"
+   ],
+   "hebraico": {
+    "lema": "נָשִׂיא",
+    "translit": "nasi",
+    "strong": "H5387"
+   },
+   "sentido": "chefe, líder elevado",
+   "latim": {
+    "forma": "princeps",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Ezequiel prefere 'príncipe' a 'rei' para o líder futuro, talvez para evitar os abusos da monarquia antiga.",
+   "interpretacao": false
+  },
+  {
+   "id": "yhwh-shammah",
+   "pt": "O SENHOR Está Ali",
+   "refs": [
+    "48:35"
+   ],
+   "hebraico": {
+    "lema": "יְהוָה שָׁמָּה",
+    "translit": "YHWH shammah",
+    "strong": "H3074"
+   },
+   "sentido": "o SENHOR (está) lá",
+   "latim": {
+    "forma": "Dominus ibi",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Última frase do livro. Depois da glória que partiu, a cidade recebe o nome da presença de Deus.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "cronica-597",
+   "titulo": "Crônica babilônica: a tomada de Jerusalém em 597 a.C.",
+   "refs": [
+    "1:2",
+    "17:12"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Crônica Babilônica de Nabucodonosor (ABC 5)",
+   "referencia": "British Museum, BM 21946",
+   "data_fonte": "séc. VI–V a.C.",
+   "data_evento": "597 a.C.",
+   "resumo": "Registra que no sétimo ano Nabucodonosor cercou a 'cidade de Judá', capturou o rei e nomeou outro de sua escolha.",
+   "relacao": "Confirma a deportação de Joaquim, ponto de partida das datas de Ezequiel ('quinto ano do cativeiro do rei Joaquim', 1:2) e fato explicado na parábola das águias (17:12).",
+   "grau": "documentado"
+  },
+  {
+   "id": "tabletes-joaquim",
+   "titulo": "Tabletes de ração de Joaquim",
+   "refs": [
+    "1:2"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Tabletes administrativos do palácio de Nabucodonosor, Babilônia",
+   "referencia": "Vorderasiatisches Museum, Berlim (publicados por E. F. Weidner, 1939)",
+   "data_fonte": "c. 592–569 a.C.",
+   "data_evento": "Exílio de Joaquim",
+   "resumo": "Listas de rações mencionam 'Ya'ukin, rei de Judá' e seus filhos entre os estrangeiros sustentados pela corte.",
+   "relacao": "Mostram Joaquim vivo e ainda chamado 'rei de Judá' na Babilônia, o que ajuda a entender por que Ezequiel conta os anos a partir do cativeiro dele.",
+   "grau": "documentado"
+  },
+  {
+   "id": "murashu-quebar",
+   "titulo": "O canal Kabaru nos tabletes de Murashu",
+   "refs": [
+    "1:1",
+    "3:15"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Arquivo da família Murashu, Nippur",
+   "referencia": "Penn Museum, Universidade da Pensilvânia (escavações de Nippur, 1893)",
+   "data_fonte": "c. 455–403 a.C.",
+   "data_evento": "Região de Nippur",
+   "resumo": "Documentos de negócios de uma família de Nippur citam um canal chamado nār Kabari e mencionam vários clientes com nomes judaicos.",
+   "relacao": "A maioria dos estudiosos identifica o nār Kabari com o 'rio Quebar' de Ezequiel, um canal perto de Nippur. Os tabletes são cerca de 130 anos mais recentes que o profeta.",
+   "grau": "associacao"
+  },
+  {
+   "id": "al-yahudu",
+   "titulo": "Tabletes de Al-Yahudu ('cidade de Judá')",
+   "refs": [
+    "3:15"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Tabletes cuneiformes de Al-Yahudu e arredores",
+   "referencia": "Coleções particulares; parte exposta no Bible Lands Museum, Jerusalém (2015)",
+   "data_fonte": "c. 572–477 a.C.",
+   "data_evento": "Vida dos exilados judeus na Babilônia",
+   "resumo": "Contratos e recibos de uma aldeia chamada 'cidade de Judá', com moradores de nomes judaicos que cultivavam terras e pagavam impostos.",
+   "relacao": "Mostram comunidades de exilados morando juntas em aldeias rurais, como Tel-Abibe junto ao Quebar (3:15). Como vieram do mercado de antiguidades, sua origem exata é discutida.",
+   "grau": "associacao"
+  },
+  {
+   "id": "josefo-tiro",
+   "titulo": "O cerco de treze anos a Tiro",
+   "refs": [
+    "29:18",
+    "26:7"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Contra Apião",
+   "referencia": "livro 1, cap. 21",
+   "data_fonte": "c. 95 d.C.",
+   "data_evento": "c. 585–572 a.C.",
+   "resumo": "Citando registros fenícios, Josefo diz que Nabucodonosor sitiou Tiro por treze anos no reinado de Itobaal.",
+   "relacao": "Concorda com 29:18, onde o próprio Ezequiel diz que a campanha contra Tiro foi longa e sem ganho para o exército babilônico.",
+   "grau": "documentado"
+  },
+  {
+   "id": "alexandre-tiro",
+   "titulo": "Alexandre e o aterro até a ilha de Tiro",
+   "refs": [
+    "26:4",
+    "26:12"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Arriano, Anábase de Alexandre",
+   "referencia": "livro 2, caps. 18–24",
+   "data_fonte": "séc. II d.C.",
+   "data_evento": "332 a.C.",
+   "resumo": "Arriano conta que Alexandre construiu um aterro do continente até a ilha de Tiro, usando pedras e madeira da cidade velha, e tomou a cidade após sete meses.",
+   "relacao": "Muitos leitores ligam a cena a 26:12 ('lançarão tuas pedras... no meio das águas'). Outros lembram que o oráculo fala de Nabucodonosor e que Tiro voltou a ser habitada; a relação é debatida.",
+   "grau": "associacao"
+  },
+  {
+   "id": "danel-ugarit",
+   "titulo": "Danel nos textos de Ugarit",
+   "refs": [
+    "14:14",
+    "28:3"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Epopeia de Aqhat (tabletes de Ugarit)",
+   "referencia": "Escavações de Ras Shamra, Síria (descobertos a partir de 1929)",
+   "data_fonte": "c. séc. XIV–XIII a.C.",
+   "data_evento": "Lenda cananeia",
+   "resumo": "Um rei sábio e justo chamado Danel julga a causa da viúva e do órfão.",
+   "relacao": "Ezequiel cita 'Noé, Daniel e Jó' (14:14) e grafa o nome como Dan'el. Alguns estudiosos pensam neste herói antigo; outros, no Daniel do exílio. A questão está em aberto.",
+   "grau": "associacao"
+  },
+  {
+   "id": "tamuz",
+   "titulo": "O culto a Tamuz (Dumuzi)",
+   "refs": [
+    "8:14"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Descida de Ishtar ao Mundo Inferior e textos sumérios de Dumuzi",
+   "referencia": "Tabletes de Nínive e de outros sítios mesopotâmicos",
+   "data_fonte": "II e I milênios a.C.",
+   "data_evento": "Cultos mesopotâmicos",
+   "resumo": "Os textos falam de Dumuzi (Tamuz), deus pastor cuja morte era chorada todos os anos; um mês do calendário levava seu nome.",
+   "relacao": "Explicam a cena de 8:14, das mulheres chorando por Tamuz no templo. O mês judaico de tamuz conserva o nome até hoje.",
+   "grau": "associacao"
+  },
+  {
+   "id": "masada-ezequiel",
+   "titulo": "Rolo de Ezequiel em Masada",
+   "refs": [
+    "37:1"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Fragmentos de Ezequiel de Masada (MasEzek)",
+   "referencia": "Escavações de Yigael Yadin, sob o piso da sinagoga de Masada (1963–1964)",
+   "data_fonte": "séc. I a.C. – séc. I d.C.",
+   "data_evento": "Antes de 73 d.C.",
+   "resumo": "Fragmentos com partes dos capítulos 35 a 38, incluindo a visão dos ossos secos, foram encontrados enterrados sob o piso da sinagoga.",
+   "relacao": "O texto é quase idêntico ao hebraico tradicional, mostrando a estabilidade do livro no séc. I.",
+   "grau": "associacao"
+  },
+  {
+   "id": "dura-europos",
+   "titulo": "Os ossos secos na sinagoga de Dura-Europos",
+   "refs": [
+    "37:7",
+    "37:10"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Pinturas murais da sinagoga de Dura-Europos",
+   "referencia": "Museu Nacional de Damasco",
+   "data_fonte": "c. 244–256 d.C.",
+   "data_evento": "Descoberta em 1932",
+   "resumo": "Um grande painel mostra a visão do vale dos ossos secos em vários quadros, com a mão de Deus vinda do alto.",
+   "relacao": "É uma das representações mais antigas da cena, mostrando como comunidades judaicas liam o capítulo 37 como esperança de restauração.",
+   "grau": "associacao"
+  }
+ ]
+}

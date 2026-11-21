@@ -1,0 +1,576 @@
+{
+ "livro": "esdras",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:7-11",
+   "titulo": "Ciro devolve os utensílios do templo",
+   "descricao": "Por meio do tesoureiro Mitridate, Ciro entrega a Sesbazar, príncipe de Judá, os utensílios de ouro e prata que Nabucodonosor havia levado de Jerusalém.",
+   "alt": "Um tesoureiro persa conta vasos de ouro e prata diante de um líder judeu e escribas.",
+   "prompt": "Persian treasury hall in Babylon, a Persian treasurer in rich robes counting gold and silver bowls and basins laid out on tables, handing them to Sheshbazzar, a Jewish leader in simple dignified robes, scribes recording the inventory on tablets and scrolls, lamplight glinting on the vessels"
+  },
+  {
+   "id": "q02",
+   "capitulo": 2,
+   "ref": "2:64-70",
+   "titulo": "A caravana de volta a Sião",
+   "descricao": "Mais de quarenta e dois mil exilados voltam da Babilônia com servos, cantores, cavalos, mulas, camelos e jumentos, e oferecem dons para reconstruir a casa de Deus.",
+   "alt": "Uma longa caravana de famílias, animais e cantores atravessa colinas a caminho de Jerusalém.",
+   "prompt": "A long caravan of Jewish returnees crossing rolling hills toward the ruins of Jerusalem, families with children, elders, singers with lyres, horses, mules, camels and donkeys loaded with belongings, the ruined city visible on a distant hill, hopeful morning light"
+  },
+  {
+   "id": "q03",
+   "capitulo": 3,
+   "ref": "3:10-13",
+   "titulo": "Alegria e choro no alicerce",
+   "descricao": "Quando os alicerces do templo são lançados, sacerdotes tocam trombetas e levitas cantam; os jovens gritam de alegria, enquanto os velhos que viram o primeiro templo choram alto.",
+   "alt": "Diante dos alicerces de pedra do templo, alguns erguem os braços de alegria enquanto anciãos choram.",
+   "prompt": "The newly laid stone foundations of the second temple among the ruins of Jerusalem, priests in vestments blowing trumpets, Levites with cymbals singing, young people shouting with joy and raising their arms, old men weeping loudly beside them, mixed emotions, bright daylight"
+  },
+  {
+   "id": "q04",
+   "capitulo": 4,
+   "ref": "4:23-24",
+   "titulo": "A obra é interrompida",
+   "descricao": "Com a carta do rei, Reum e Sinsai vão a Jerusalém e obrigam os judeus a parar; a construção fica suspensa até o reinado de Dario.",
+   "alt": "Oficiais persas mostram uma carta selada e mandam trabalhadores judeus abandonarem a obra.",
+   "prompt": "Unfinished temple walls in Jerusalem, Persian officials and soldiers arriving and holding up a sealed royal letter, Jewish builders lowering their tools in discouragement, scaffolding abandoned, dusty overcast light"
+  },
+  {
+   "id": "q05",
+   "capitulo": 5,
+   "ref": "5:1-2",
+   "titulo": "Ageu e Zacarias animam o povo",
+   "descricao": "Os profetas Ageu e Zacarias falam em nome de Deus, e Zorobabel e Jesua recomeçam a reconstrução, com os profetas ajudando.",
+   "alt": "Dois profetas falam com entusiasmo aos construtores enquanto o trabalho recomeça.",
+   "prompt": "Two prophets, the elderly Haggai and the younger Zechariah, speaking passionately to Jewish builders at the half-built temple, the governor Zerubbabel and the high priest Joshua lifting stones with the workers, renewed energy, warm morning light"
+  },
+  {
+   "id": "q06",
+   "capitulo": 6,
+   "ref": "6:1-2",
+   "titulo": "O rolo achado em Ecbátana",
+   "descricao": "Dario manda procurar nos arquivos, e no palácio de Ecbátana, na Média, encontra-se o rolo com o decreto de Ciro.",
+   "alt": "Escribas persas desenrolam um rolo antigo num arquivo real cheio de documentos.",
+   "prompt": "Royal archive in the palace of Ecbatana in Media, Persian scribes searching among shelves of scrolls and clay tablets, one scribe unrolling an old scroll with excitement and showing it to a court official, lamplight and dust in the air"
+  },
+  {
+   "id": "q07",
+   "capitulo": 6,
+   "ref": "6:16-18",
+   "titulo": "A dedicação do segundo templo",
+   "descricao": "Terminada a casa no sexto ano de Dario, os que voltaram do cativeiro a dedicam com alegria e organizam sacerdotes e levitas em turnos.",
+   "alt": "Sacerdotes e povo celebram com alegria diante do templo reconstruído.",
+   "prompt": "The completed second temple in Jerusalem, modest but dignified, priests and Levites in white robes organized in groups, people of the returned exile celebrating with joy and music, offerings at the altar, bright festive light"
+  },
+  {
+   "id": "q08",
+   "capitulo": 7,
+   "ref": "7:6-10",
+   "titulo": "Esdras, o escriba",
+   "descricao": "Esdras, escriba hábil na lei de Moisés, decide no coração buscar a lei do SENHOR, praticá-la e ensiná-la a Israel.",
+   "alt": "Um escriba de barba estuda um rolo da lei à mesa, com tinteiro e penas ao lado.",
+   "prompt": "Ezra the scribe, a bearded priest in simple robes, seated at a wooden table in Babylon studying an open Torah scroll with deep concentration, reed pens and inkwell beside him, other scrolls stacked, warm lamplight, devout atmosphere"
+  },
+  {
+   "id": "q09",
+   "capitulo": 8,
+   "ref": "8:21-23",
+   "titulo": "Jejum junto ao rio Aava",
+   "descricao": "Antes da viagem, Esdras proclama um jejum junto ao rio Aava para pedir proteção a Deus, pois teve vergonha de pedir escolta ao rei.",
+   "alt": "Famílias acampadas junto a um rio se ajoelham em oração e jejum.",
+   "prompt": "Encampment of Jewish families beside the Ahava canal in Babylonia, people kneeling and sitting in humble prayer and fasting, Ezra standing with hands raised, tents, pack animals and chests of temple treasures nearby, quiet dawn light over the water"
+  },
+  {
+   "id": "q10",
+   "capitulo": 8,
+   "ref": "8:33-34",
+   "titulo": "A prata e o ouro pesados no templo",
+   "descricao": "Ao chegarem a Jerusalém, a prata, o ouro e os utensílios são pesados e registrados na casa de Deus pelos sacerdotes e levitas.",
+   "alt": "Sacerdotes pesam vasos de ouro numa balança enquanto levitas registram.",
+   "prompt": "Temple chamber in Jerusalem, priests weighing gold and silver vessels on large balance scales, Levites recording weights on a scroll, Ezra watching, travelers still dusty from the long journey, soft light from a doorway"
+  },
+  {
+   "id": "q11",
+   "capitulo": 9,
+   "ref": "9:3-5",
+   "titulo": "A oração de Esdras",
+   "descricao": "Ao saber da infidelidade do povo, Esdras rasga as vestes e se senta atônito; na hora do sacrifício da tarde, ajoelha-se e estende as mãos a Deus.",
+   "alt": "Um escriba de vestes rasgadas ajoelha-se diante do templo e estende as mãos em oração ao entardecer.",
+   "prompt": "Evening in the temple court of Jerusalem, Ezra kneeling with his robe and mantle torn, arms stretched out toward heaven in sorrowful prayer, people gathering silently around him, smoke of the evening offering rising, golden dusk light"
+  },
+  {
+   "id": "q12",
+   "capitulo": 10,
+   "ref": "10:9",
+   "titulo": "O povo sob a chuva",
+   "descricao": "No nono mês, todo o povo se reúne na praça da casa de Deus, tremendo por causa do assunto e das fortes chuvas.",
+   "alt": "Uma multidão sentada numa praça diante do templo se encolhe sob a chuva forte.",
+   "prompt": "Square before the temple in Jerusalem in heavy winter rain, a large crowd of men sitting on the wet stones, cloaks pulled over their heads, trembling and solemn, Ezra standing before them, gray stormy sky"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "utensilios",
+   "termo": "Utensílios do templo",
+   "ref": "1:7",
+   "explicado": false,
+   "significado": "Os vasos levados por Nabucodonosor e devolvidos por Ciro ligam o novo templo ao antigo. São sinal de continuidade do culto, embora o texto não use essa palavra."
+  },
+  {
+   "id": "altar",
+   "termo": "Altar reconstruído",
+   "ref": "3:2",
+   "explicado": false,
+   "significado": "O altar é reerguido antes mesmo do templo, \"como está escrito na Lei de Moisés\": o culto vem primeiro."
+  },
+  {
+   "id": "alicerce",
+   "termo": "Alicerce",
+   "ref": "3:10",
+   "explicado": false,
+   "significado": "O fundamento lançado marca o recomeço. Para muitos leitores, mostra que pequenos inícios também são obra de Deus (compare Zacarias 4:10)."
+  },
+  {
+   "id": "choro-alegria",
+   "termo": "Choro e alegria misturados",
+   "ref": "3:12",
+   "explicado": true,
+   "significado": "O texto explica: os velhos que tinham visto a primeira casa choravam, os outros gritavam de alegria, e não se distinguia um som do outro (3:13)."
+  },
+  {
+   "id": "rolo-ecbatana",
+   "termo": "Rolo de Ecbátana",
+   "ref": "6:2",
+   "explicado": false,
+   "significado": "O documento esquecido no arquivo persa decide a questão a favor dos judeus. O texto deixa ver a providência de Deus por meio da burocracia de um império."
+  },
+  {
+   "id": "mao-de-deus",
+   "termo": "Mão boa de Deus",
+   "ref": "7:9",
+   "explicado": false,
+   "significado": "Expressão repetida (7:6, 7:28, 8:18, 8:22) para dizer que o favor dos reis e o sucesso da viagem vinham de Deus."
+  },
+  {
+   "id": "jejum",
+   "termo": "Jejum",
+   "ref": "8:21",
+   "explicado": true,
+   "significado": "Esdras explica o propósito: humilhar-se diante de Deus e pedir \"caminho seguro\". Deus atende (8:23)."
+  },
+  {
+   "id": "vestes-rasgadas",
+   "termo": "Vestes rasgadas",
+   "ref": "9:3",
+   "explicado": false,
+   "significado": "Sinal de luto e consternação na cultura antiga. Esdras se identifica com a culpa do povo em vez de apenas acusar."
+  },
+  {
+   "id": "estaca",
+   "termo": "Estaca no lugar santo",
+   "ref": "9:8",
+   "explicado": false,
+   "significado": "Imagem de um prego ou estaca firme, como a de uma tenda: um pequeno ponto de apoio dado por Deus ao remanescente. O texto não detalha."
+  },
+  {
+   "id": "muro",
+   "termo": "Muro em Judá",
+   "ref": "9:9",
+   "explicado": false,
+   "significado": "Provavelmente imagem de proteção dada pelos reis persas, e não ainda os muros de pedra que Neemias reconstruirá. A interpretação varia."
+  },
+  {
+   "id": "remanescente",
+   "termo": "Remanescente",
+   "ref": "9:15",
+   "explicado": false,
+   "significado": "Os que sobreviveram ao exílio e voltaram. Esdras reconhece que existem só por favor de Deus (9:8)."
+  },
+  {
+   "id": "chuva",
+   "termo": "Grandes chuvas",
+   "ref": "10:9",
+   "explicado": false,
+   "significado": "O povo treme \"por causa deste negócio e das grandes chuvas\". O texto apenas registra; muitos veem na chuva um reforço do clima de seriedade."
+  },
+  {
+   "id": "genealogias",
+   "termo": "Registro de genealogias",
+   "ref": "2:62",
+   "explicado": false,
+   "significado": "Quem não comprovava a linhagem ficava fora do sacerdócio. Mostra o cuidado da comunidade em manter a continuidade com o Israel antigo."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "golah",
+   "pt": "Cativeiro, exilados",
+   "refs": [
+    "1:11",
+    "4:1"
+   ],
+   "hebraico": {
+    "lema": "גּוֹלָה",
+    "translit": "golah",
+    "strong": "H1473"
+   },
+   "sentido": "exílio; comunidade dos exilados",
+   "latim": {
+    "forma": "transmigratio",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Em Esdras a palavra designa também as pessoas: \"os filhos do cativeiro\" (4:1) são a comunidade que voltou da Babilônia.",
+   "interpretacao": false
+  },
+  {
+   "id": "sofer",
+   "pt": "Escriba",
+   "refs": [
+    "7:6",
+    "7:11"
+   ],
+   "hebraico": {
+    "lema": "סֹפֵר",
+    "translit": "sofer",
+    "strong": "H5608"
+   },
+   "sentido": "escrivão, estudioso da lei",
+   "latim": {
+    "forma": "scriba",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Antes era um funcionário que escrevia documentos; com Esdras passa a significar o mestre que conhece e ensina a lei de Moisés.",
+   "interpretacao": false
+  },
+  {
+   "id": "darash",
+   "pt": "Buscar",
+   "refs": [
+    "7:10",
+    "6:21"
+   ],
+   "hebraico": {
+    "lema": "דָּרַשׁ",
+    "translit": "darash",
+    "strong": "H1875"
+   },
+   "sentido": "buscar, estudar, investigar",
+   "latim": {
+    "forma": "quaerere / investigare",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Esdras \"decidiu em seu coração buscar a lei\": estudar, praticar e ensinar, nessa ordem (7:10). Da mesma raiz vem midrash, estudo da Escritura.",
+   "interpretacao": false
+  },
+  {
+   "id": "torah",
+   "pt": "Lei",
+   "refs": [
+    "7:6",
+    "7:10"
+   ],
+   "hebraico": {
+    "lema": "תּוֹרָה",
+    "translit": "torah",
+    "strong": "H8451"
+   },
+   "sentido": "instrução, ensino",
+   "latim": {
+    "forma": "lex",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Mais que um código de regras, é a instrução de Deus para a vida do povo. Esdras é chamado de escriba \"na lei de Moisés\".",
+   "interpretacao": false
+  },
+  {
+   "id": "yad",
+   "pt": "Mão de Deus",
+   "refs": [
+    "7:6",
+    "7:9",
+    "8:22"
+   ],
+   "hebraico": {
+    "lema": "יַד אֱלֹהִים",
+    "translit": "yad elohim",
+    "strong": "H3027"
+   },
+   "sentido": "mão: poder, cuidado, favor",
+   "latim": {
+    "forma": "manus Dei",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A \"mão boa\" de Deus sobre Esdras explica o favor do rei e a viagem segura. É o modo do livro de falar da providência.",
+   "interpretacao": false
+  },
+  {
+   "id": "elah",
+   "pt": "Deus (aramaico)",
+   "refs": [
+    "5:8",
+    "6:14"
+   ],
+   "aramaico": {
+    "lema": "אֱלָהּ",
+    "translit": "elah",
+    "strong": "H426"
+   },
+   "sentido": "Deus",
+   "latim": {
+    "forma": "Deus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Nas cartas em aramaico Deus é chamado \"o grande Deus\" e \"o Deus do céu\", títulos que oficiais persas entendiam.",
+   "interpretacao": false
+  },
+  {
+   "id": "teem",
+   "pt": "Mandamento, decreto (aramaico)",
+   "refs": [
+    "6:14"
+   ],
+   "aramaico": {
+    "lema": "טְעֵם",
+    "translit": "te'em"
+   },
+   "sentido": "ordem, decreto; também bom senso",
+   "latim": {
+    "forma": "iussio",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Em 6:14 a mesma palavra é usada para \"o mandamento do Deus de Israel\" e \"o mandamento de Ciro\": o decreto humano serve ao propósito divino.",
+   "interpretacao": true
+  },
+  {
+   "id": "dat",
+   "pt": "Lei (aramaico)",
+   "refs": [
+    "7:12",
+    "7:26"
+   ],
+   "aramaico": {
+    "lema": "דָּת",
+    "translit": "dat"
+   },
+   "sentido": "lei, decreto oficial",
+   "latim": {
+    "forma": "lex",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Palavra de origem persa usada para a lei de Deus e para a lei do rei (7:26). A carta de Artaxerxes dá à lei de Moisés força oficial na província.",
+   "interpretacao": false
+  },
+  {
+   "id": "chesed",
+   "pt": "Bondade, misericórdia",
+   "refs": [
+    "3:11",
+    "7:28",
+    "9:9"
+   ],
+   "hebraico": {
+    "lema": "חֶסֶד",
+    "translit": "chesed",
+    "strong": "H2617"
+   },
+   "sentido": "amor leal, fidelidade",
+   "latim": {
+    "forma": "misericordia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O refrão \"sua bondade dura para sempre\" volta no alicerce do templo (3:11). Em 9:9 é Deus quem inclina a chesed dos reis da Pérsia em favor do povo.",
+   "interpretacao": false
+  },
+  {
+   "id": "maal",
+   "pt": "Transgressão, infidelidade",
+   "refs": [
+    "9:2",
+    "10:2"
+   ],
+   "hebraico": {
+    "lema": "מַעַל",
+    "translit": "ma'al",
+    "strong": "H4604"
+   },
+   "sentido": "infidelidade, quebra de confiança",
+   "latim": {
+    "forma": "transgressio",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Esdras usa o termo para os casamentos com povos idólatras, vistos como quebra da aliança e risco de repetir a idolatria que levou ao exílio.",
+   "interpretacao": false
+  },
+  {
+   "id": "peletah",
+   "pt": "Remanescente",
+   "refs": [
+    "9:8",
+    "9:15"
+   ],
+   "hebraico": {
+    "lema": "פְּלֵיטָה",
+    "translit": "peletah",
+    "strong": "H6413"
+   },
+   "sentido": "os que escaparam",
+   "latim": {
+    "forma": "reliquiae",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Os sobreviventes do exílio. Esdras teme que a infidelidade ameace esse pequeno remanescente (9:14).",
+   "interpretacao": false
+  },
+  {
+   "id": "badal",
+   "pt": "Separar-se",
+   "refs": [
+    "6:21",
+    "10:11"
+   ],
+   "hebraico": {
+    "lema": "בָּדַל",
+    "translit": "badal",
+    "strong": "H914"
+   },
+   "sentido": "separar, distinguir",
+   "latim": {
+    "forma": "separari",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O mesmo verbo de Gênesis 1 (separar luz e trevas). Em 6:21 descreve quem se separa da impureza para buscar a Deus; em 10:11 é aplicado aos casamentos mistos, decisão que leitores de hoje discutem e entendem de formas diversas.",
+   "interpretacao": true
+  },
+  {
+   "id": "yadah",
+   "pt": "Confessar",
+   "refs": [
+    "10:1",
+    "10:11"
+   ],
+   "hebraico": {
+    "lema": "יָדָה",
+    "translit": "yadah",
+    "strong": "H3034"
+   },
+   "sentido": "confessar, reconhecer, louvar",
+   "latim": {
+    "forma": "confiteri",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Em Esdras a palavra que em outros lugares significa louvar indica confissão de pecado. As duas coisas são reconhecer a verdade diante de Deus.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "cilindro-ciro",
+   "titulo": "O Cilindro de Ciro",
+   "refs": [
+    "1:1-4"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Cilindro de Ciro",
+   "referencia": "Museu Britânico, Londres",
+   "data_fonte": "c. 539-538 a.C.",
+   "data_evento": "539 a.C. (descoberto em 1879)",
+   "resumo": "Ciro narra a tomada da Babilônia e diz ter devolvido deuses a seus santuários e reunido os povos deportados para suas terras.",
+   "relacao": "Não cita judeus nem Jerusalém, mas mostra a mesma política de restauração do decreto de 1:1-4. É contexto que torna o decreto plausível, não prova direta.",
+   "grau": "associacao"
+  },
+  {
+   "id": "josefo-ant-11",
+   "titulo": "Josefo sobre o retorno e Esdras",
+   "refs": [
+    "1:1",
+    "7:6"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 11, caps. 1-5",
+   "data_fonte": "c. 93-94 d.C.",
+   "data_evento": "538-c. 450 a.C.",
+   "resumo": "Josefo narra o decreto de Ciro, a reconstrução do templo e a missão de Esdras, seguindo em parte o livro grego chamado 1 Esdras.",
+   "relacao": "Mostra como o período era contado no séc. I. Josefo situa Esdras sob Xerxes, não sob Artaxerxes, uma das várias questões de cronologia do período.",
+   "grau": "associacao"
+  },
+  {
+   "id": "tatenai",
+   "titulo": "Tatenai, governador da região além do rio",
+   "refs": [
+    "5:3",
+    "6:6"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Tablete cuneiforme babilônico do reinado de Dario I",
+   "referencia": "Arquivo babilônico; publicado no início do séc. XX",
+   "data_fonte": "502 a.C.",
+   "data_evento": "c. 520-502 a.C.",
+   "resumo": "Um contrato babilônico datado do 20º ano de Dario I menciona um servo de \"Tattanu, governador de Além-do-Rio\".",
+   "relacao": "Muitos estudiosos identificam esse Tattanu com o Tatenai de 5:3, que investigou a obra do templo. O nome e o cargo coincidem.",
+   "grau": "documentado"
+  },
+  {
+   "id": "behistun",
+   "titulo": "Dario I e a organização do império",
+   "refs": [
+    "4:24",
+    "6:1"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Inscrição de Behistun (Bisitun)",
+   "referencia": "Monte Behistun, Irã",
+   "data_fonte": "c. 520 a.C.",
+   "data_evento": "522-520 a.C.",
+   "resumo": "Inscrição trilíngue em que Dario I narra como chegou ao poder e reprimiu revoltas no império.",
+   "relacao": "Mostra o contexto do segundo ano de Dario (4:24), quando a obra do templo recomeçou num império recém-pacificado. Não fala dos judeus.",
+   "grau": "associacao"
+  },
+  {
+   "id": "herodoto-ecbatana",
+   "titulo": "Ecbátana, cidade real da Média",
+   "refs": [
+    "6:2"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Heródoto, Histórias",
+   "referencia": "livro 1, §98",
+   "data_fonte": "c. 430 a.C.",
+   "data_evento": "séc. VI-V a.C.",
+   "resumo": "Heródoto descreve Agbátana (Ecbátana) como capital fortificada dos medos, com muralhas em círculos concêntricos.",
+   "relacao": "Confirma a importância de Ecbátana, que os reis persas usavam como residência, e torna plausível achar ali o arquivo com o decreto de Ciro (6:2).",
+   "grau": "associacao"
+  },
+  {
+   "id": "elefantina",
+   "titulo": "Cartas oficiais em aramaico",
+   "refs": [
+    "4:8",
+    "7:12"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Papiros de Elefantina",
+   "referencia": "Coleções de Berlim, Cairo, Brooklyn e outras",
+   "data_fonte": "séc. V a.C.",
+   "data_evento": "séc. V a.C.",
+   "resumo": "Cartas e documentos de uma comunidade judaica no sul do Egito, escritos em aramaico, a língua oficial do império persa.",
+   "relacao": "Têm o mesmo estilo e fórmulas das cartas em aramaico de Esdras 4-7, o que ajuda a mostrar que o livro reproduz o padrão real da correspondência persa.",
+   "grau": "associacao"
+  }
+ ]
+}

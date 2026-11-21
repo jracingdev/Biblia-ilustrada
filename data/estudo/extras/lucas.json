@@ -1,0 +1,639 @@
+{
+ "livro": "lucas",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:28-31",
+   "titulo": "A anunciação",
+   "descricao": "Em Nazaré, o anjo Gabriel saúda Maria e lhe anuncia que conceberá e dará à luz um filho, a quem chamará Jesus.",
+   "alt": "O anjo Gabriel aparece a Maria, jovem, numa casa simples de Nazaré.",
+   "prompt": "Inside a modest stone house in Nazareth, the young Mary seated with a spindle of wool, startled and humble, the angel Gabriel in luminous white robes with great wings standing before her with a gentle gesture, a soft beam of light through a small window, quiet reverent atmosphere"
+  },
+  {
+   "id": "q02",
+   "capitulo": 2,
+   "ref": "2:9-14",
+   "titulo": "O anúncio aos pastores",
+   "descricao": "Nos campos de Belém, a glória do Senhor envolve os pastores e um anjo anuncia o nascimento do Salvador; uma multidão celestial louva a Deus.",
+   "alt": "Pastores assustados no campo à noite veem um anjo e uma multidão celestial em meio a uma luz brilhante.",
+   "prompt": "Night in the fields near Bethlehem, shepherds with their flocks shielding their eyes in fear and wonder, an angel in radiant light above them, a multitude of heavenly hosts filling the sky praising God, glowing light against a starry night"
+  },
+  {
+   "id": "q03",
+   "capitulo": 2,
+   "ref": "2:46-47",
+   "titulo": "O menino entre os mestres",
+   "descricao": "No templo, o menino Jesus, aos doze anos, está sentado entre os mestres, ouvindo e fazendo perguntas, e todos se admiram.",
+   "alt": "Um menino de doze anos conversa com mestres idosos sentados no templo de Jerusalém.",
+   "prompt": "Twelve-year-old Jesus seated among elderly teachers of the Law in a colonnaded court of the Jerusalem temple, scrolls open, the teachers listening amazed, Mary and Joseph arriving anxiously in the background, warm afternoon light"
+  },
+  {
+   "id": "q04",
+   "capitulo": 5,
+   "ref": "5:6-8",
+   "titulo": "A pesca maravilhosa",
+   "descricao": "As redes se enchem de tantos peixes que começam a romper; Simão cai aos pés de Jesus e diz: 'Afasta-te de mim, porque sou pecador'.",
+   "alt": "Pescadores puxam redes cheias de peixes e Simão se ajoelha diante de Jesus no barco.",
+   "prompt": "Two fishing boats on the Sea of Galilee nearly sinking with nets bursting full of silver fish, fishermen straining to haul them in, Simon Peter kneeling at the feet of Jesus in the boat, morning light reflecting on the water"
+  },
+  {
+   "id": "q05",
+   "capitulo": 7,
+   "ref": "7:37-38",
+   "titulo": "A mulher que muito amou",
+   "descricao": "Na casa do fariseu, uma mulher chora aos pés de Jesus, enxuga-os com os cabelos, beija-os e os unge com perfume.",
+   "alt": "Uma mulher chorando aos pés de Jesus, que está reclinado à mesa na casa de um fariseu.",
+   "prompt": "At a dinner in the house of Simon the Pharisee, Jesus reclining at table, a weeping woman kneeling at his feet wiping them with her long hair and anointing them from an alabaster jar, the Pharisee watching disapprovingly, lamplight, emotional and dignified"
+  },
+  {
+   "id": "q06",
+   "capitulo": 10,
+   "ref": "10:33-35",
+   "titulo": "O bom samaritano",
+   "descricao": "Na estrada de Jericó, um samaritano se inclina sobre o homem ferido, trata suas feridas com azeite e vinho e o coloca sobre seu animal.",
+   "alt": "Um samaritano cuida de um homem ferido à beira de uma estrada pedregosa.",
+   "prompt": "On the rocky road from Jerusalem to Jericho, a Samaritan traveler kneeling to bandage a wounded man lying by the roadside, pouring oil and wine, his donkey waiting, a priest and a levite walking away in the distance, warm desert light, no graphic wounds"
+  },
+  {
+   "id": "q07",
+   "capitulo": 15,
+   "ref": "15:20-22",
+   "titulo": "O pai abraça o filho que volta",
+   "descricao": "O pai corre ao encontro do filho maltrapilho, abraça-o e o beija, e manda trazer a melhor roupa, um anel e sandálias.",
+   "alt": "Um pai idoso abraça o filho maltrapilho que voltou para casa.",
+   "prompt": "An elderly father in rich robes running and embracing his ragged, barefoot younger son on the path to their farmhouse, servants hurrying with a fine robe, a ring and sandals, the older brother watching from a field, golden evening light, deep emotion"
+  },
+  {
+   "id": "q08",
+   "capitulo": 16,
+   "ref": "16:19-21",
+   "titulo": "O rico e Lázaro",
+   "descricao": "Diante do portão de uma mansão, o pobre Lázaro, coberto de feridas, deseja as migalhas que caem da mesa do rico vestido de púrpura.",
+   "alt": "Um mendigo doente deitado junto ao portão de uma casa luxuosa onde um rico banqueteia.",
+   "prompt": "A poor beggar named Lazarus lying at the ornate gate of a wealthy house, dogs nearby, through the open doors a rich man in purple and fine linen feasting at a lavish table, strong contrast of light inside and shadow outside, no graphic sores"
+  },
+  {
+   "id": "q09",
+   "capitulo": 18,
+   "ref": "18:10-13",
+   "titulo": "O fariseu e o publicano",
+   "descricao": "No templo, um fariseu ora de pé, com orgulho, enquanto ao longe um publicano, de olhos baixos, bate no peito pedindo misericórdia.",
+   "alt": "Um fariseu ora em pé com orgulho, e um publicano, ao fundo, ora de cabeça baixa batendo no peito.",
+   "prompt": "In the temple court, a Pharisee standing proudly in rich robes with raised hands praying, and far behind him in shadow a tax collector with bowed head beating his chest, not daring to look up, a shaft of light falling on the humble man"
+  },
+  {
+   "id": "q10",
+   "capitulo": 19,
+   "ref": "19:4-6",
+   "titulo": "Zaqueu no sicômoro",
+   "descricao": "Em Jericó, o baixinho Zaqueu sobe num sicômoro para ver Jesus; Jesus para, olha para cima e o chama pelo nome.",
+   "alt": "Jesus olha para cima e chama Zaqueu, que está empoleirado num sicômoro em meio à multidão.",
+   "prompt": "A crowded street in ancient Jericho, the short tax collector Zacchaeus perched in the branches of a sycamore fig tree, Jesus stopping beneath and looking up at him with a smile, the crowd turning in surprise, bright daylight"
+  },
+  {
+   "id": "q11",
+   "capitulo": 22,
+   "ref": "22:41-44",
+   "titulo": "Agonia no monte das Oliveiras",
+   "descricao": "Jesus ora de joelhos em grande angústia, e um anjo do céu aparece para fortalecê-lo.",
+   "alt": "Jesus ajoelhado em oração angustiada à noite, fortalecido por um anjo.",
+   "prompt": "Jesus kneeling in agony of prayer on the Mount of Olives at night, sweat on his brow, an angel in soft light appearing beside him to strengthen him, olive trees and sleeping disciples in the shadows, moonlight, deep emotion, no blood"
+  },
+  {
+   "id": "q12",
+   "capitulo": 23,
+   "ref": "23:39-43",
+   "titulo": "'Hoje estarás comigo'",
+   "descricao": "Sob um céu escurecido, um dos crucificados pede a Jesus que se lembre dele, e Jesus lhe promete o paraíso.",
+   "alt": "Três cruzes vistas à distância sob céu escuro, com o rosto de um dos crucificados voltado para Jesus.",
+   "prompt": "Three crosses seen from a respectful distance on Golgotha under a darkening sky, the penitent thief turning his face toward Jesus in the center, mourners below, sober restrained composition, no blood, a faint light on the faces"
+  },
+  {
+   "id": "q13",
+   "capitulo": 24,
+   "ref": "24:28-31",
+   "titulo": "O partir do pão em Emaús",
+   "descricao": "À mesa, em Emaús, Jesus toma o pão, abençoa e o parte; os olhos dos dois discípulos se abrem e eles o reconhecem.",
+   "alt": "Dois discípulos reconhecem Jesus quando ele parte o pão à mesa, ao entardecer.",
+   "prompt": "A simple table in a house at Emmaus at dusk, the risen Jesus blessing and breaking bread, two disciples recoiling in sudden recognition and astonishment, oil lamp and window showing the evening road, warm golden chiaroscuro"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "manjedoura",
+   "termo": "A manjedoura e as faixas",
+   "ref": "2:12",
+   "explicado": true,
+   "significado": "O anjo diz aos pastores que o sinal será um menino envolto em faixas e deitado numa manjedoura: o Salvador nasce em lugar humilde."
+  },
+  {
+   "id": "pombinhos",
+   "termo": "Um par de rolas ou dois pombinhos",
+   "ref": "2:24",
+   "explicado": false,
+   "significado": "Oferta prevista na Lei para quem não podia oferecer um cordeiro (Lv 12:8): sinal da pobreza da família de Jesus."
+  },
+  {
+   "id": "espada-alma",
+   "termo": "A espada que atravessa a alma",
+   "ref": "2:35",
+   "explicado": false,
+   "significado": "Simeão anuncia a Maria uma dor profunda; muitos a ligam ao sofrimento dela diante da cruz."
+  },
+  {
+   "id": "lagrimas-perfume",
+   "termo": "Lágrimas e perfume",
+   "ref": "7:38",
+   "explicado": true,
+   "significado": "Jesus mesmo explica o gesto da mulher: seus muitos pecados foram perdoados, por isso muito amou (7:47)."
+  },
+  {
+   "id": "samaritano",
+   "termo": "O samaritano",
+   "ref": "10:33",
+   "explicado": true,
+   "significado": "Jesus usa um samaritano, povo desprezado pelos judeus, para responder 'quem é o meu próximo' e conclui: 'Vai e faze o mesmo' (10:37)."
+  },
+  {
+   "id": "figueira-esteril",
+   "termo": "A figueira estéril",
+   "ref": "13:6-9",
+   "explicado": false,
+   "significado": "O dono dá mais um ano à figueira sem frutos: imagem da paciência de Deus e do chamado ao arrependimento (13:3-5)."
+  },
+  {
+   "id": "porta-estreita",
+   "termo": "A porta estreita",
+   "ref": "13:24",
+   "explicado": false,
+   "significado": "Imagem do esforço e da urgência de entrar no Reino enquanto a porta está aberta."
+  },
+  {
+   "id": "banquete",
+   "termo": "O grande banquete",
+   "ref": "14:16-24",
+   "explicado": false,
+   "significado": "Os convidados recusam e o dono chama pobres, aleijados, cegos e coxos: o Reino aberto aos excluídos."
+  },
+  {
+   "id": "perdidos",
+   "termo": "A ovelha, a moeda e o filho perdidos",
+   "ref": "15:4-10",
+   "explicado": true,
+   "significado": "Jesus mesmo explica: há alegria no céu por um pecador que se arrepende (15:7, 15:10)."
+  },
+  {
+   "id": "anel-sandalias",
+   "termo": "A roupa, o anel e as sandálias",
+   "ref": "15:22",
+   "explicado": false,
+   "significado": "Sinais de que o filho é recebido de volta com dignidade de filho, não de empregado."
+  },
+  {
+   "id": "seio-abraao",
+   "termo": "O seio de Abraão",
+   "ref": "16:22",
+   "explicado": false,
+   "significado": "Imagem judaica do lugar de consolo dos justos após a morte, como quem se reclina ao lado de Abraão num banquete."
+  },
+  {
+   "id": "sicomoro",
+   "termo": "O sicômoro",
+   "ref": "19:4",
+   "explicado": false,
+   "significado": "A árvore em que Zaqueu sobe mostra seu desejo de ver Jesus, que o procura primeiro (19:10)."
+  },
+  {
+   "id": "partir-pao",
+   "termo": "O partir do pão",
+   "ref": "24:30-35",
+   "explicado": true,
+   "significado": "O texto diz que Jesus foi reconhecido pelos discípulos 'no partir do pão'. A expressão passou a designar a ceia cristã (At 2:42)."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "kecharitomene",
+   "pt": "Agraciada (cheia de graça)",
+   "refs": [
+    "1:28"
+   ],
+   "grego": {
+    "lema": "κεχαριτωμένη",
+    "translit": "kecharitōménē",
+    "strong": "G5487"
+   },
+   "sentido": "a que recebeu graça",
+   "latim": {
+    "forma": "Ave gratia plena Dominus tecum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O grego diz que Maria foi favorecida por Deus. A Vulgata traduziu 'cheia de graça', que deu origem à oração da Ave-Maria; católicos e protestantes enfatizam aspectos diferentes do termo.",
+   "interpretacao": true
+  },
+  {
+   "id": "megalyno",
+   "pt": "Engrandece",
+   "refs": [
+    "1:46"
+   ],
+   "grego": {
+    "lema": "μεγαλύνω",
+    "translit": "megalýnō",
+    "strong": "G3170"
+   },
+   "sentido": "tornar grande, exaltar",
+   "latim": {
+    "forma": "Magnificat anima mea Dominum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Primeira palavra do cântico de Maria, conhecido pelo nome latino 'Magnificat'. O cântico ecoa a oração de Ana (1Sm 2).",
+   "interpretacao": false
+  },
+  {
+   "id": "soter",
+   "pt": "Salvador",
+   "refs": [
+    "1:47",
+    "2:11"
+   ],
+   "hebraico": {
+    "lema": "יְשׁוּעָה",
+    "translit": "yeshu'ah",
+    "strong": "H3444"
+   },
+   "grego": {
+    "lema": "σωτήρ",
+    "translit": "sōtḗr",
+    "strong": "G4990"
+   },
+   "sentido": "o que salva, libertador",
+   "latim": {
+    "forma": "natus est vobis hodie Salvator",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "No império, 'salvador' era título dado a imperadores. Lucas o aplica a um bebê numa manjedoura.",
+   "interpretacao": false
+  },
+  {
+   "id": "euangelizomai",
+   "pt": "Anunciar boas-novas",
+   "refs": [
+    "2:10",
+    "4:18"
+   ],
+   "hebraico": {
+    "lema": "בָּשַׂר",
+    "translit": "basar",
+    "strong": "H1319"
+   },
+   "grego": {
+    "lema": "εὐαγγελίζομαι",
+    "translit": "euangelízomai",
+    "strong": "G2097"
+   },
+   "sentido": "dar uma boa notícia",
+   "latim": {
+    "forma": "evangelizo vobis gaudium magnum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Verbo favorito de Lucas: os anjos e o próprio Jesus 'evangelizam', anunciam boas notícias, especialmente aos pobres.",
+   "interpretacao": false
+  },
+  {
+   "id": "semeron",
+   "pt": "Hoje",
+   "refs": [
+    "2:11",
+    "4:21",
+    "19:9",
+    "23:43"
+   ],
+   "grego": {
+    "lema": "σήμερον",
+    "translit": "sḗmeron",
+    "strong": "G4594"
+   },
+   "sentido": "neste dia",
+   "latim": {
+    "forma": "hodie",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Lucas marca a salvação com 'hoje': hoje nasceu o Salvador, hoje se cumpriu a Escritura, hoje entrou a salvação nesta casa, hoje estarás comigo no paraíso.",
+   "interpretacao": false
+  },
+  {
+   "id": "doxa-eirene",
+   "pt": "Glória e paz",
+   "refs": [
+    "2:14"
+   ],
+   "grego": {
+    "lema": "δόξα ... εἰρήνη",
+    "translit": "dóxa ... eirḗnē",
+    "strong": "G1391, G1515"
+   },
+   "sentido": "honra a Deus; paz entre as pessoas",
+   "latim": {
+    "forma": "Gloria in altissimis Deo et in terra pax hominibus bonae voluntatis",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O canto dos anjos, base do hino 'Glória'. Os manuscritos variam entre 'paz aos homens de boa vontade' e 'boa vontade para com os homens'.",
+   "interpretacao": true
+  },
+  {
+   "id": "aphesis",
+   "pt": "Libertação (perdão)",
+   "refs": [
+    "4:18",
+    "24:47"
+   ],
+   "hebraico": {
+    "lema": "דְּרוֹר",
+    "translit": "deror",
+    "strong": "H1865"
+   },
+   "grego": {
+    "lema": "ἄφεσις",
+    "translit": "áphesis",
+    "strong": "G859"
+   },
+   "sentido": "soltura, libertação, perdão",
+   "latim": {
+    "forma": "praedicare captivis remissionem",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A mesma palavra significa soltar cativos e perdoar pecados. Na sinagoga de Nazaré, Jesus lê Isaías 61 e anuncia o ano da graça do Senhor.",
+   "interpretacao": false
+  },
+  {
+   "id": "ptochos",
+   "pt": "Pobres",
+   "refs": [
+    "4:18",
+    "6:20",
+    "14:21"
+   ],
+   "hebraico": {
+    "lema": "עָנִי",
+    "translit": "'ani",
+    "strong": "H6041"
+   },
+   "grego": {
+    "lema": "πτωχός",
+    "translit": "ptōchós",
+    "strong": "G4434"
+   },
+   "sentido": "pobre, mendigo",
+   "latim": {
+    "forma": "beati pauperes",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Lucas destaca os pobres: em 6:20 diz apenas 'bem-aventurados vós, os pobres', sem o 'de espírito' de Mateus.",
+   "interpretacao": false
+  },
+  {
+   "id": "splanchnizomai-lc",
+   "pt": "Moveu-se de compaixão",
+   "refs": [
+    "7:13",
+    "10:33",
+    "15:20"
+   ],
+   "grego": {
+    "lema": "σπλαγχνίζομαι",
+    "translit": "splanchnízomai",
+    "strong": "G4697"
+   },
+   "sentido": "comover-se profundamente",
+   "latim": {
+    "forma": "misericordia motus est",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Verbo usado para Jesus diante da viúva de Naim, para o samaritano e para o pai do filho pródigo: a compaixão de Deus em gestos humanos.",
+   "interpretacao": false
+  },
+  {
+   "id": "sozo",
+   "pt": "Salvar",
+   "refs": [
+    "19:10",
+    "7:50",
+    "8:48"
+   ],
+   "grego": {
+    "lema": "σῴζω",
+    "translit": "sṓzō",
+    "strong": "G4982"
+   },
+   "sentido": "salvar, curar, livrar",
+   "latim": {
+    "forma": "venit enim Filius hominis quaerere et salvum facere quod perierat",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A mesma palavra cobre cura física e salvação: no grego, a mesma frase é dita à mulher que chorava (7:50, 'te salvou') e à mulher curada (8:48, aqui traduzida 'te sarou').",
+   "interpretacao": false
+  },
+  {
+   "id": "paradeisos",
+   "pt": "Paraíso",
+   "refs": [
+    "23:43"
+   ],
+   "hebraico": {
+    "lema": "גַּן עֵדֶן",
+    "translit": "gan 'eden",
+    "strong": "H1588, H5731"
+   },
+   "grego": {
+    "lema": "παράδεισος",
+    "translit": "parádeisos",
+    "strong": "G3857"
+   },
+   "sentido": "jardim, parque",
+   "latim": {
+    "forma": "hodie mecum eris in paradiso",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Palavra de origem persa para 'jardim'. A Septuaginta a usa para o Éden, e no judaísmo da época designava o lugar dos justos.",
+   "interpretacao": false
+  },
+  {
+   "id": "dei",
+   "pt": "É necessário",
+   "refs": [
+    "2:49",
+    "24:7",
+    "24:26"
+   ],
+   "grego": {
+    "lema": "δεῖ",
+    "translit": "deî",
+    "strong": "G1163"
+   },
+   "sentido": "é preciso, convém",
+   "latim": {
+    "forma": "nonne haec oportuit pati Christum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Lucas usa essa expressão para mostrar que a vida, a paixão e a ressurreição de Jesus fazem parte do plano de Deus.",
+   "interpretacao": true
+  }
+ ],
+ "historia": [
+  {
+   "id": "josefo-quirino",
+   "titulo": "O recenseamento de Quirino",
+   "refs": [
+    "2:1",
+    "2:2"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 18, cap. 1, §1",
+   "data_fonte": "c. 93–94 d.C.",
+   "data_evento": "c. 6 d.C.",
+   "resumo": "Josefo relata que Quirino, legado da Síria, fez um censo na Judeia depois da deposição de Arquelau, o que provocou a revolta de Judas, o Galileu.",
+   "relacao": "Confirma Quirino e um censo na região. Mas Josefo o data em 6 d.C., depois da morte de Herodes, enquanto Lucas liga o nascimento de Jesus aos dias de Herodes (1:5). Há várias propostas de solução e o tema segue em debate.",
+   "grau": "documentado"
+  },
+  {
+   "id": "res-gestae",
+   "titulo": "Os censos de Augusto",
+   "refs": [
+    "2:1"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Res Gestae Divi Augusti (Feitos do Divino Augusto)",
+   "referencia": "§8; cópia principal no Monumento de Ancara (Turquia)",
+   "data_fonte": "c. 14 d.C.",
+   "data_evento": "28 a.C., 8 a.C. e 14 d.C.",
+   "resumo": "Augusto registra que fez três censos dos cidadãos romanos durante seu governo.",
+   "relacao": "Mostra o interesse de Augusto em contar a população do império. São censos de cidadãos romanos, não da Judeia; servem de contexto para 2:1.",
+   "grau": "associacao"
+  },
+  {
+   "id": "abila-lisanias",
+   "titulo": "A inscrição de Abila e Lisânias",
+   "refs": [
+    "3:1"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Inscrição de Abila (Abilene, Síria)",
+   "referencia": "Corpus Inscriptionum Graecarum",
+   "data_fonte": "c. 14–29 d.C.",
+   "data_evento": "reinado de Tibério",
+   "resumo": "Inscrição grega de Abila menciona um liberto de 'Lisânias, o tetrarca', numa data que corresponde ao tempo de Tibério.",
+   "relacao": "Lucas 3:1 cita 'Lisânias, tetrarca de Abilene'. Antes se dizia que Lucas confundira com um Lisânias mais antigo (morto em 36 a.C.); a inscrição indica que houve um tetrarca desse nome no século I.",
+   "grau": "documentado"
+  },
+  {
+   "id": "josefo-anas-caifas",
+   "titulo": "Anás e Caifás em Josefo",
+   "refs": [
+    "3:2"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 18, cap. 2, §1–2",
+   "data_fonte": "c. 93–94 d.C.",
+   "data_evento": "c. 6–18 d.C.",
+   "resumo": "Josefo conta que Quirino nomeou Anás (Ananus) sumo sacerdote e que, anos depois, Valério Grato nomeou José, chamado Caifás.",
+   "relacao": "Explica a expressão de Lucas 'sendo Anás e Caifás sumos sacerdotes': Anás, mesmo deposto, continuava influente, e Caifás era seu genro (Jo 18:13).",
+   "grau": "documentado"
+  },
+  {
+   "id": "pilatos-lc",
+   "titulo": "A Pedra de Pilatos",
+   "refs": [
+    "3:1",
+    "23:1"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Pedra de Pilatos",
+   "referencia": "Museu de Israel, Jerusalém; encontrada no teatro de Cesareia Marítima em 1961",
+   "data_fonte": "c. 26–36 d.C.",
+   "data_evento": "governo de Pôncio Pilatos (26–36 d.C.)",
+   "resumo": "Bloco de calcário com inscrição latina que menciona '[Pon]tius Pilatus, [Praef]ectus Iuda[eae]' e um edifício dedicado a Tibério.",
+   "relacao": "Confirma o título e a época de Pilatos, citado na lista de governantes de 3:1 e no julgamento de Jesus.",
+   "grau": "documentado"
+  },
+  {
+   "id": "josefo-batista-lc",
+   "titulo": "Josefo e João Batista",
+   "refs": [
+    "3:19",
+    "3:20"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 18, cap. 5, §2",
+   "data_fonte": "c. 93–94 d.C.",
+   "data_evento": "c. 28–29 d.C.",
+   "resumo": "Josefo chama João de 'o Batista', diz que ele pregava a virtude e o batismo e que Herodes Antipas o mandou prender e matar na fortaleza de Maqueronte, por temer seu prestígio junto ao povo.",
+   "relacao": "Confirma a prisão de João por Herodes Antipas, que Lucas resume em 3:19-20.",
+   "grau": "documentado"
+  },
+  {
+   "id": "tacito-lc",
+   "titulo": "Tácito: Cristo executado por Pilatos",
+   "refs": [
+    "23:24",
+    "23:25"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Tácito, Anais",
+   "referencia": "livro 15, cap. 44",
+   "data_fonte": "c. 116 d.C.",
+   "data_evento": "c. 30 d.C. (morte de Jesus); 64 d.C. (perseguição de Nero)",
+   "resumo": "Ao narrar o incêndio de Roma, Tácito explica que o nome 'cristãos' vinha de Cristo, que 'no reinado de Tibério foi executado pelo procurador Pôncio Pilatos'.",
+   "relacao": "Confirma de forma independente a execução de Jesus sob Pilatos.",
+   "grau": "documentado"
+  },
+  {
+   "id": "guerra-jerusalem-lc",
+   "titulo": "O cerco de Jerusalém em 70 d.C.",
+   "refs": [
+    "19:43",
+    "19:44",
+    "21:20"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Guerra Judaica",
+   "referencia": "livro 6 (esp. caps. 4–5)",
+   "data_fonte": "c. 75–79 d.C.",
+   "data_evento": "70 d.C.",
+   "resumo": "Josefo, testemunha da guerra, descreve o cerco de Jerusalém pelos romanos de Tito e o incêndio e destruição do templo.",
+   "relacao": "Jesus chora sobre Jerusalém e fala de cerco e de destruição (19:43-44; 21:20). Josefo descreve o cerco com muros e trincheiras romanas. A data de escrita de Lucas em relação ao evento é discutida.",
+   "grau": "documentado"
+  },
+  {
+   "id": "ireneu-lucas",
+   "titulo": "Ireneu: Lucas, companheiro de Paulo",
+   "refs": [
+    "1:3"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Ireneu de Lião, Contra as Heresias",
+   "referencia": "livro 3, cap. 1, §1",
+   "data_fonte": "c. 180 d.C.",
+   "data_evento": "séc. I d.C.",
+   "resumo": "Ireneu afirma que Lucas, companheiro de Paulo, registrou num livro o evangelho pregado por ele.",
+   "relacao": "É um dos testemunhos mais antigos sobre a autoria do terceiro Evangelho, que no próprio texto é anônimo.",
+   "grau": "associacao"
+  }
+ ]
+}

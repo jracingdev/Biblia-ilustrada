@@ -1,0 +1,347 @@
+{
+ "livro": "1-timoteo",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:3",
+   "titulo": "Fica em Éfeso",
+   "descricao": "Ao partir para a Macedônia, Paulo pede a Timóteo que fique em Éfeso para corrigir os que ensinavam outra doutrina.",
+   "alt": "Paulo se despede de Timóteo no porto de Éfeso.",
+   "prompt": "On the busy harbor of Ephesus, the older apostle Paul placing a hand on the shoulder of young Timothy in farewell before boarding a ship to Macedonia, merchants and sailors around, columns of the city behind, morning light"
+  },
+  {
+   "id": "q02",
+   "capitulo": 2,
+   "ref": "2:1-2",
+   "titulo": "Orações por todas as pessoas",
+   "descricao": "Paulo pede que a igreja faça pedidos, orações e ações de graças por todas as pessoas, inclusive reis e autoridades.",
+   "alt": "Uma comunidade ora de mãos levantadas numa casa simples.",
+   "prompt": "A house church in Ephesus at prayer, men and women standing with hands lifted, Timothy leading, a window showing a Roman official's procession passing in the street, calm early light"
+  },
+  {
+   "id": "q03",
+   "capitulo": 3,
+   "ref": "3:14-15",
+   "titulo": "Coluna e alicerce da verdade",
+   "descricao": "Paulo escreve para que se saiba como se comportar na casa de Deus, a igreja do Deus vivo, coluna e alicerce da verdade.",
+   "alt": "Paulo escreve uma carta enquanto, pela janela, se veem as colunas de um grande templo.",
+   "prompt": "The apostle Paul writing a letter at a wooden table, through the window a row of tall stone columns of a great building in Ephesus catching the sunlight, scrolls and an inkpot beside him"
+  },
+  {
+   "id": "q04",
+   "capitulo": 4,
+   "ref": "4:12-14",
+   "titulo": "Ninguém despreze tua juventude",
+   "descricao": "Paulo encoraja o jovem Timóteo a ser exemplo e lembra o dom recebido com a imposição das mãos dos presbíteros.",
+   "alt": "Anciãos impõem as mãos sobre um jovem ajoelhado.",
+   "prompt": "Young Timothy kneeling in a house church while a group of elders lays hands on his head and shoulders in prayer, the congregation watching, warm light from oil lamps"
+  },
+  {
+   "id": "q05",
+   "capitulo": 5,
+   "ref": "5:3-5",
+   "titulo": "Honrar as viúvas",
+   "descricao": "A igreja deve honrar e sustentar as viúvas que estão realmente sozinhas e que esperam em Deus, orando noite e dia.",
+   "alt": "Membros da igreja levam pão e azeite a uma viúva idosa que ora em sua casa.",
+   "prompt": "An elderly widow kneeling in prayer in a humble room, members of the church arriving at her door bringing bread, olive oil and firewood, gentle afternoon light"
+  },
+  {
+   "id": "q06",
+   "capitulo": 6,
+   "ref": "6:17-19",
+   "titulo": "Aos ricos desta era",
+   "descricao": "Paulo manda que os ricos não sejam soberbos nem confiem nas riquezas incertas, mas sejam generosos e ricos em boas obras.",
+   "alt": "Um homem rico distribui pão a pessoas pobres na porta de sua casa.",
+   "prompt": "A wealthy Ephesian man in fine robes standing at the doorway of his villa humbly handing bread and coins to poor families, his servants helping, golden late afternoon light"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "batalha",
+   "termo": "A boa batalha",
+   "ref": "1:18",
+   "explicado": false,
+   "significado": "Imagem militar para a fidelidade no ministério. Volta em 6:12 como \"boa luta da fé\", talvez com sentido atlético."
+  },
+  {
+   "id": "naufragio",
+   "termo": "Naufrágio na fé",
+   "ref": "1:19",
+   "explicado": false,
+   "significado": "Quem rejeita a boa consciência perde a fé como um navio que se despedaça. Paulo cita Himeneu e Alexandre."
+  },
+  {
+   "id": "coluna",
+   "termo": "Coluna e alicerce",
+   "ref": "3:15",
+   "explicado": false,
+   "significado": "A igreja sustenta e mantém a verdade, como colunas e fundamento de um edifício. Em Éfeso, cidade do grande templo de Ártemis, a imagem era forte."
+  },
+  {
+   "id": "hino",
+   "termo": "Hino a Cristo",
+   "ref": "3:16",
+   "explicado": false,
+   "significado": "Um credo ou hino em seis linhas sobre Cristo, provavelmente cantado pelas igrejas. Paulo o chama de \"mistério da devoção\"."
+  },
+  {
+   "id": "exercicio",
+   "termo": "Exercício (ginástica)",
+   "ref": "4:7-8",
+   "explicado": true,
+   "significado": "O próprio texto compara: o exercício do corpo tem pouco proveito, mas a devoção é proveitosa para tudo."
+  },
+  {
+   "id": "boi",
+   "termo": "O boi que debulha",
+   "ref": "5:18",
+   "explicado": true,
+   "significado": "Citação de Deuteronômio 25:4, aplicada explicitamente aos presbíteros que trabalham: o trabalhador é digno do seu salário."
+  },
+  {
+   "id": "raiz",
+   "termo": "Raiz de todos os males",
+   "ref": "6:10",
+   "explicado": false,
+   "significado": "O amor ao dinheiro (não o dinheiro em si) é raiz de muitos males, e quem o cobiça se fere com muitas dores."
+  },
+  {
+   "id": "luz-inacessivel",
+   "termo": "Luz inacessível",
+   "ref": "6:16",
+   "explicado": false,
+   "significado": "Deus habita em luz inacessível, e nenhum ser humano o viu nem pode ver: imagem da santidade e transcendência de Deus."
+  },
+  {
+   "id": "deposito",
+   "termo": "Depósito",
+   "ref": "6:20",
+   "explicado": false,
+   "significado": "Algo confiado a alguém para ser guardado e devolvido intacto. Representa o ensino apostólico confiado a Timóteo."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "eusebeia",
+   "pt": "Devoção, piedade",
+   "refs": [
+    "3:16",
+    "4:8",
+    "6:6"
+   ],
+   "grego": {
+    "lema": "εὐσέβεια",
+    "translit": "eusébeia",
+    "strong": "G2150"
+   },
+   "sentido": "reverência a Deus que se mostra na vida",
+   "latim": {
+    "forma": "pietas",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Palavra típica das cartas pastorais. Na cultura greco-romana era a virtude de respeitar os deuses, a família e o Estado; aqui é a vida orientada para Deus.",
+   "interpretacao": false
+  },
+  {
+   "id": "hygiaino",
+   "pt": "Sã doutrina",
+   "refs": [
+    "1:10",
+    "6:3"
+   ],
+   "grego": {
+    "lema": "ὑγιαίνω",
+    "translit": "hygiaínō",
+    "strong": "G5198"
+   },
+   "sentido": "ter saúde, ser são",
+   "latim": {
+    "forma": "sanae doctrinae",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Imagem médica: o ensino verdadeiro é saudável e o falso é doença. Dela vem \"higiene\".",
+   "interpretacao": false
+  },
+  {
+   "id": "episkope",
+   "pt": "Bispo, supervisor",
+   "refs": [
+    "3:1-2"
+   ],
+   "grego": {
+    "lema": "ἐπίσκοπος",
+    "translit": "epískopos",
+    "strong": "G1985"
+   },
+   "sentido": "supervisor",
+   "latim": {
+    "forma": "episcopus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Daí vem \"bispo\". Se nas cartas pastorais bispo e presbítero eram o mesmo cargo ou já distintos é discutido; as igrejas organizam esses ministérios de formas diferentes.",
+   "interpretacao": true
+  },
+  {
+   "id": "presbyteros",
+   "pt": "Presbítero, ancião",
+   "refs": [
+    "5:17"
+   ],
+   "grego": {
+    "lema": "πρεσβύτερος",
+    "translit": "presbýteros",
+    "strong": "G4245"
+   },
+   "sentido": "mais velho, ancião",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "זָקֵן",
+     "translit": "zaqen",
+     "strong": "H2205",
+     "ref": "Êx 3:16"
+    }
+   ],
+   "latim": {
+    "forma": "presbyteri",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Líderes da comunidade. Do termo vêm \"presbítero\" e, por evolução, \"padre\" (via latim presbyter) e \"presbiteriano\".",
+   "interpretacao": false
+  },
+  {
+   "id": "diakonos",
+   "pt": "Diácono",
+   "refs": [
+    "3:8"
+   ],
+   "grego": {
+    "lema": "διάκονος",
+    "translit": "diákonos",
+    "strong": "G1249"
+   },
+   "sentido": "servidor",
+   "latim": {
+    "forma": "diaconos",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Servidores da comunidade. Em Romanos 16:1 a mesma palavra é usada para Febe; se 3:11 fala de esposas de diáconos ou de mulheres diaconisas é debatido.",
+   "interpretacao": true
+  },
+  {
+   "id": "mesites",
+   "pt": "Mediador",
+   "refs": [
+    "2:5"
+   ],
+   "grego": {
+    "lema": "μεσίτης",
+    "translit": "mesítēs",
+    "strong": "G3316"
+   },
+   "sentido": "intermediário, árbitro",
+   "latim": {
+    "forma": "mediator",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "\"Um só Mediador entre Deus e os seres humanos\". O texto destaca a humanidade de Cristo (\"o humano Cristo Jesus\").",
+   "interpretacao": false
+  },
+  {
+   "id": "paratheke",
+   "pt": "Depósito",
+   "refs": [
+    "6:20"
+   ],
+   "grego": {
+    "lema": "παραθήκη",
+    "translit": "parathḗkē",
+    "strong": "G3866"
+   },
+   "sentido": "bem confiado em custódia",
+   "latim": {
+    "forma": "depositum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Termo jurídico. Ver símbolos.",
+   "interpretacao": false
+  },
+  {
+   "id": "pseudonymos-gnosis",
+   "pt": "Falso conhecimento",
+   "refs": [
+    "6:20"
+   ],
+   "grego": {
+    "lema": "ψευδώνυμος γνῶσις",
+    "translit": "pseudṓnymos gnōsis",
+    "strong": "G5581, G1108"
+   },
+   "sentido": "conhecimento de nome falso",
+   "latim": {
+    "forma": "falsi nominis scientiae",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Ireneu de Lião usou esta expressão no título de sua obra contra os gnósticos. Se as cartas já visam um gnosticismo antigo é discutido.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "ireneu-gnose",
+   "titulo": "Ireneu e o \"falsamente chamado conhecimento\"",
+   "refs": [
+    "6:20",
+    "1:4"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Ireneu de Lião, Contra as Heresias",
+   "referencia": "título original e prefácio do livro 1",
+   "data_fonte": "c. 180 d.C.",
+   "data_evento": "Refuta os gnósticos do séc. II",
+   "resumo": "O título grego da obra era \"Refutação e destruição do falsamente chamado conhecimento\", e o prefácio cita as \"genealogias intermináveis\" de 1:4.",
+   "relacao": "Mostra que 1 Timóteo era conhecida e usada como Escritura por volta de 180 d.C.",
+   "grau": "documentado"
+  },
+  {
+   "id": "policarpo-dinheiro",
+   "titulo": "Policarpo ecoa 1 Timóteo",
+   "refs": [
+    "6:7",
+    "6:10"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Policarpo de Esmirna, Carta aos Filipenses",
+   "referencia": "cap. 4, §1",
+   "data_fonte": "c. 110-140 d.C.",
+   "data_evento": "Início do séc. II",
+   "resumo": "Policarpo escreve que o amor ao dinheiro é o começo de todos os males e que nada trouxemos ao mundo e nada podemos levar.",
+   "relacao": "Frases muito próximas de 6:7 e 6:10. Muitos veem aqui uso de 1 Timóteo; outros, um provérbio comum aos dois.",
+   "grau": "associacao"
+  },
+  {
+   "id": "artemis-efeso-1tm",
+   "titulo": "Éfeso, cidade de Ártemis",
+   "refs": [
+    "3:15"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Ruínas do Artemísion e da cidade de Éfeso",
+   "referencia": "Sítio arqueológico de Éfeso (Selçuk, Turquia); peças no Museu Britânico e no Museu de Éfeso",
+   "data_fonte": "Templo do séc. IV a.C.",
+   "data_evento": "Escavado a partir de 1869",
+   "resumo": "O enorme templo de Ártemis, com mais de cem colunas, dominava a vida religiosa e econômica de Éfeso.",
+   "relacao": "Pano de fundo possível para a imagem da igreja como \"coluna e alicerce da verdade\" (3:15).",
+   "grau": "associacao"
+  }
+ ]
+}

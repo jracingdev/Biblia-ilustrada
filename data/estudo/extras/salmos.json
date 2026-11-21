@@ -1,0 +1,1188 @@
+{
+ "livro": "salmos",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:1-3",
+   "titulo": "O justo como árvore junto às águas",
+   "descricao": "Um homem lê um rolo da Lei à sombra de uma árvore frondosa, plantada à beira de um ribeiro, carregada de frutos.",
+   "alt": "Homem sentado lendo um rolo sob uma árvore cheia de frutos ao lado de um riacho.",
+   "prompt": "A bearded man in a simple ancient Israelite robe sits reading an open scroll beneath a large leafy fruit tree planted beside a clear flowing stream, ripe fruit on the branches, soft morning light, peaceful green landscape, chaff blowing away in the far distance"
+  },
+  {
+   "id": "q02",
+   "capitulo": 2,
+   "ref": "2:6-8",
+   "titulo": "O Rei ungido sobre Sião",
+   "descricao": "No alto do monte Sião, um jovem rei de Israel é ungido, enquanto ao longe os reis das nações se reúnem em conselho.",
+   "alt": "Jovem rei ungido no alto de um monte, com reis estrangeiros reunidos ao longe.",
+   "prompt": "A young king of ancient Israel kneels on the summit of Mount Zion as a priest pours oil from a horn over his head, a radiant beam of light breaking through the clouds above, in the distant plain foreign kings in varied robes gather in council, dramatic dawn sky"
+  },
+  {
+   "id": "q03",
+   "capitulo": 3,
+   "ref": "3:1-5",
+   "titulo": "Davi dorme em paz na fuga",
+   "descricao": "Fugindo de Absalão, Davi dorme no chão do acampamento sob as estrelas, protegido, enquanto guardas vigiam.",
+   "alt": "Davi dormindo tranquilo no chão de um acampamento noturno, com guardas ao redor.",
+   "prompt": "King David, a middle-aged bearded man in a plain traveling cloak, sleeps peacefully on a mat on the rocky ground of a wilderness camp at night, his shield beside him, a few loyal soldiers keeping watch by a small fire, starry sky over the Judean hills"
+  },
+  {
+   "id": "q04",
+   "capitulo": 8,
+   "ref": "8:3-4",
+   "titulo": "O que é o homem?",
+   "descricao": "Um pastor contempla, à noite, a lua e um céu cheio de estrelas, pequeno diante da imensidão da criação.",
+   "alt": "Pastor no campo olhando a lua e as estrelas, com ovelhas ao redor.",
+   "prompt": "A young shepherd in a simple wool tunic stands on a hillside at night among resting sheep, gazing upward in wonder at a vast sky full of stars and a bright moon, his small figure against the immense heavens, silver moonlight"
+  },
+  {
+   "id": "q05",
+   "capitulo": 19,
+   "ref": "19:1-6",
+   "titulo": "Os céus declaram a glória de Deus",
+   "descricao": "O sol nasce sobre os montes como um noivo que sai de sua tenda, e a luz se espalha por toda a terra.",
+   "alt": "Nascer do sol dourado sobre montanhas, com luz se espalhando pelo vale.",
+   "prompt": "A magnificent sunrise over layered mountain ridges of ancient Israel, golden rays spreading across the whole sky and valleys, a lone figure on a rooftop raising his hands in praise, morning mist below, sense of vast glory"
+  },
+  {
+   "id": "q06",
+   "capitulo": 22,
+   "ref": "22:1-8",
+   "titulo": "Deus meu, por que me desamparaste?",
+   "descricao": "Um homem sofredor, de joelhos e de mãos erguidas, clama a Deus sob um céu escuro, enquanto zombadores o observam à distância.",
+   "alt": "Homem ajoelhado clamando a Deus sob céu escuro, com pessoas zombando ao longe.",
+   "prompt": "A suffering man in a torn humble robe kneels on dusty ground with hands raised toward a dark overcast sky, his face full of anguish yet prayer, a group of onlookers at a distance shaking their heads in mockery, somber muted colors, a thin ray of light breaking through the clouds"
+  },
+  {
+   "id": "q07",
+   "capitulo": 23,
+   "ref": "23:1-4",
+   "titulo": "O Senhor é meu pastor",
+   "descricao": "Um pastor conduz suas ovelhas por pastos verdes até águas tranquilas, com o cajado na mão; ao fundo, um vale sombrio que ele atravessará com elas.",
+   "alt": "Pastor com cajado guiando ovelhas para um riacho calmo em pastos verdes.",
+   "prompt": "A gentle shepherd in a simple robe and head covering leads a flock of sheep through lush green pastures to a still quiet pool of water, holding a wooden staff and rod, a lamb at his feet, a shadowed rocky valley visible beyond, warm soft afternoon light"
+  },
+  {
+   "id": "q08",
+   "capitulo": 24,
+   "ref": "24:7-10",
+   "titulo": "Levantai, portas, vossas cabeças",
+   "descricao": "Uma procissão festiva chega às grandes portas de Jerusalém, e os porteiros as abrem para que entre o Rei da Glória.",
+   "alt": "Procissão com cantores e músicos diante das grandes portas abertas de uma cidade antiga.",
+   "prompt": "A joyful procession of Levite singers and musicians in white linen approaches the massive ancient stone gates of Jerusalem, gatekeepers swinging the great wooden doors open, a brilliant glory of light streaming through the gateway, crowds on the walls"
+  },
+  {
+   "id": "q09",
+   "capitulo": 27,
+   "ref": "27:4-5",
+   "titulo": "Contemplar a beleza do Senhor",
+   "descricao": "Um homem está no pátio do templo, em silêncio, contemplando a casa de Deus com saudade e confiança.",
+   "alt": "Homem em oração silenciosa no pátio de um templo antigo, iluminado pela luz da manhã.",
+   "prompt": "A man in a modest ancient Israelite robe stands in quiet contemplation in the stone courtyard of the temple in Jerusalem, hands open at his sides, morning sunlight falling through the colonnade, smoke of incense rising from the altar in the background"
+  },
+  {
+   "id": "q10",
+   "capitulo": 29,
+   "ref": "29:3-9",
+   "titulo": "A voz do Senhor sobre as águas",
+   "descricao": "Uma grande tempestade passa sobre o mar e sobre os cedros do Líbano; relâmpagos iluminam as montanhas, e ninguém aparece em perigo.",
+   "alt": "Tempestade com relâmpagos sobre o mar e cedros enormes nas montanhas.",
+   "prompt": "A powerful thunderstorm sweeps over the sea toward the cedar forests of Lebanon, lightning splitting the dark clouds, great ancient cedars bending in the wind, waves crashing on the shore, a distant temple on a hill with tiny worshippers sheltering inside, awe-inspiring scale"
+  },
+  {
+   "id": "q11",
+   "capitulo": 32,
+   "ref": "32:3-5",
+   "titulo": "A confissão que traz alívio",
+   "descricao": "Um homem, antes curvado e abatido, ajoelha-se e confessa seu pecado a Deus; seu rosto começa a se encher de paz.",
+   "alt": "Homem ajoelhado em confissão, com expressão de alívio, em um quarto simples.",
+   "prompt": "A weary man kneels on the floor of a simple ancient stone house, head bowed and hands open in confession, a beam of soft light falling on him from a small window, his face beginning to relax with relief and peace"
+  },
+  {
+   "id": "q12",
+   "capitulo": 34,
+   "ref": "34:7",
+   "titulo": "O anjo do Senhor acampa ao redor",
+   "descricao": "Uma família dorme numa tenda no deserto, enquanto um anjo sereno e luminoso permanece de guarda ao redor dela.",
+   "alt": "Anjo luminoso montando guarda ao redor de uma tenda no deserto à noite.",
+   "prompt": "A family sleeps inside a goat-hair tent in the desert at night, while a dignified luminous angel in flowing white garments stands guard around the camp with a calm protective posture, soft golden glow against the deep blue night sky"
+  },
+  {
+   "id": "q13",
+   "capitulo": 40,
+   "ref": "40:1-3",
+   "titulo": "Tirado do lamaçal e posto sobre a rocha",
+   "descricao": "Um homem é retirado de uma cova lamacenta e posto de pé sobre uma rocha firme, já cantando uma canção nova.",
+   "alt": "Homem saindo de uma cova de lama e de pé sobre uma rocha, com as mãos erguidas.",
+   "prompt": "A man in a muddy tunic is lifted out of a deep pit of clay and mire onto a broad solid rock, standing firm with arms raised in song, bright light from above, the dark pit behind him, people watching in wonder at the edge"
+  },
+  {
+   "id": "q14",
+   "capitulo": 42,
+   "ref": "42:1-2",
+   "titulo": "Como a corça anseia pelas águas",
+   "descricao": "Uma corça sedenta busca as correntes de água num vale seco, imagem da alma que tem sede de Deus.",
+   "alt": "Corça bebendo água de um riacho numa paisagem seca e rochosa.",
+   "prompt": "A graceful deer stretches its neck toward a cool mountain stream in a dry rocky valley near Mount Hermon, small waterfalls in the background, golden light, a lone man in the distance looking up toward the hills"
+  },
+  {
+   "id": "q15",
+   "capitulo": 46,
+   "ref": "46:2-5",
+   "titulo": "O rio que alegra a cidade de Deus",
+   "descricao": "Enquanto montanhas tremem e o mar ruge ao longe, um rio calmo corre pela cidade de Deus, e seus moradores estão em paz.",
+   "alt": "Cidade antiga serena atravessada por um rio, com mar agitado e montanhas ao longe.",
+   "prompt": "An ancient walled city on a hill with a calm river flowing through it, people drawing water peacefully at dawn, while in the far distance the sea roars with towering waves and mountains tremble under storm clouds, contrast of peace and turmoil"
+  },
+  {
+   "id": "q16",
+   "capitulo": 51,
+   "ref": "51:1-10",
+   "titulo": "O arrependimento de Davi",
+   "descricao": "Depois da visita do profeta Natã, o rei Davi, sem a coroa, ajoelha-se em lágrimas e pede a Deus um coração puro.",
+   "alt": "Rei Davi ajoelhado em lágrimas, com a coroa no chão, em seu palácio.",
+   "prompt": "King David kneels in sorrow in a dim palace chamber, his crown set aside on the floor, his face wet with tears and hands clasped in prayer, the prophet Nathan leaving through a doorway in the background, a sprig of hyssop on a table, a soft light from above"
+  },
+  {
+   "id": "q17",
+   "capitulo": 57,
+   "ref": "57:1-4",
+   "titulo": "Davi na caverna",
+   "descricao": "Fugindo de Saul, Davi se abriga numa caverna e ora, refugiado à sombra das asas de Deus.",
+   "alt": "Davi orando dentro de uma caverna escura, com a luz entrando pela abertura.",
+   "prompt": "Young David in a rough cloak kneels in prayer inside a large dark cave in the Judean wilderness, a few companions resting nearby, warm light entering from the cave mouth in the shape of sheltering wings, rocky textures"
+  },
+  {
+   "id": "q18",
+   "capitulo": 63,
+   "ref": "63:1-7",
+   "titulo": "Sede de Deus no deserto",
+   "descricao": "Ao amanhecer, no deserto de Judá, Davi ergue as mãos em oração numa terra seca e sem águas.",
+   "alt": "Homem com as mãos levantadas em oração no deserto ao nascer do sol.",
+   "prompt": "David stands alone on a barren ridge of the Judean desert at dawn, hands lifted in prayer, dry cracked earth and rocky hills around him, the first pink and golden light on the horizon, the Dead Sea faintly visible far below"
+  },
+  {
+   "id": "q19",
+   "capitulo": 65,
+   "ref": "65:9-13",
+   "titulo": "Coroas o ano com tua bondade",
+   "descricao": "Os campos de Israel estão cobertos de trigo maduro e os morros, de rebanhos, depois das chuvas; lavradores colhem e cantam.",
+   "alt": "Campos de trigo dourado e colinas com rebanhos, com lavradores fazendo a colheita.",
+   "prompt": "Rolling hills of ancient Israel covered with golden ripe wheat after the rains, reapers in simple tunics harvesting and singing, flocks of sheep on the green slopes, a small stream overflowing its banks, bright clear sky"
+  },
+  {
+   "id": "q20",
+   "capitulo": 72,
+   "ref": "72:1-4",
+   "titulo": "O rei justo com os pobres",
+   "descricao": "Um rei jovem, sentado na porta da cidade, ouve com atenção uma viúva pobre e seus filhos.",
+   "alt": "Rei sentado à porta da cidade ouvindo uma mulher pobre com crianças.",
+   "prompt": "A young king of Israel in modest royal robes sits on a simple throne at the city gate, leaning forward to listen attentively to a poor widow and her children, elders and scribes around him, warm afternoon light, stone walls of Jerusalem"
+  },
+  {
+   "id": "q21",
+   "capitulo": 73,
+   "ref": "73:16-17",
+   "titulo": "Até que entrei no santuário",
+   "descricao": "Um levita perturbado entra no santuário e, na quietude da casa de Deus, começa a compreender.",
+   "alt": "Homem entrando pensativo num santuário iluminado, saindo da agitação da cidade.",
+   "prompt": "A troubled Levite musician in linen robes steps from the busy sunlit street with wealthy arrogant men behind him into the quiet shaded sanctuary courtyard, his expression changing from confusion to understanding, light falling on the altar ahead"
+  },
+  {
+   "id": "q22",
+   "capitulo": 78,
+   "ref": "78:1-7",
+   "titulo": "Contaremos à próxima geração",
+   "descricao": "Um avô conta às crianças, ao redor do fogo, as maravilhas de Deus no êxodo: o mar dividido, a nuvem e o maná.",
+   "alt": "Ancião contando histórias a crianças ao redor de uma fogueira.",
+   "prompt": "An elderly Israelite grandfather sits by an evening fire outside a stone house, telling stories to attentive children of several ages, his hands gesturing as if parting waters, faint images of the pillar of cloud suggested in the rising smoke, warm firelight"
+  },
+  {
+   "id": "q23",
+   "capitulo": 80,
+   "ref": "80:8-13",
+   "titulo": "A vinha trazida do Egito",
+   "descricao": "Uma grande videira cobre os montes com sua sombra, mas seus muros estão quebrados e animais selvagens a pisoteiam.",
+   "alt": "Videira enorme sobre colinas, com muros caídos e javalis entre os ramos.",
+   "prompt": "A great sprawling grapevine covers terraced hillsides with its shade, branches stretching toward the sea, but the stone walls of the vineyard are broken down and wild boars trample the lower vines, an Israelite farmer kneeling in lament, cloudy sky"
+  },
+  {
+   "id": "q24",
+   "capitulo": 84,
+   "ref": "84:1-4",
+   "titulo": "Até o pardal acha casa",
+   "descricao": "Pardais e andorinhas fazem ninhos perto do altar do templo, enquanto um peregrino olha os pátios com saudade.",
+   "alt": "Pássaros fazendo ninho perto do altar do templo, com um peregrino observando.",
+   "prompt": "Sparrows and swallows build nests in the stone crevices near the altar in the temple courts of Jerusalem, a pilgrim with a walking staff gazing at the courts with longing, soft light, gentle peaceful atmosphere"
+  },
+  {
+   "id": "q25",
+   "capitulo": 90,
+   "ref": "90:1-6",
+   "titulo": "De eternidade a eternidade",
+   "descricao": "Moisés, já idoso, ora no deserto diante dos montes; a seus pés, flores do campo murcham ao entardecer.",
+   "alt": "Moisés idoso orando diante de montanhas, com flores secando aos seus pés.",
+   "prompt": "The aged Moses with long white beard and staff kneels in prayer on a wilderness slope before ancient mountains, wild grass and flowers at his feet wilting in the evening light, the Israelite camp tents far below, sense of eternity and the brevity of life"
+  },
+  {
+   "id": "q26",
+   "capitulo": 91,
+   "ref": "91:1-4",
+   "titulo": "Debaixo de suas asas",
+   "descricao": "Uma ave abriga os filhotes debaixo das asas, enquanto ao lado um viajante descansa em segurança à sombra de uma rocha.",
+   "alt": "Ave abrigando filhotes sob as asas, com um viajante descansando à sombra de uma rocha.",
+   "prompt": "A large mother bird shelters her chicks under outspread wings on a rocky ledge, beside her a weary traveler rests safely in the shadow of a great rock in a desert landscape, a hunter's snare left empty nearby, warm protective light"
+  },
+  {
+   "id": "q27",
+   "capitulo": 96,
+   "ref": "96:11-13",
+   "titulo": "A criação se alegra",
+   "descricao": "O mar, os campos e as árvores parecem cantar de alegria diante da vinda do Senhor para julgar a terra com justiça.",
+   "alt": "Paisagem luminosa com mar, campos floridos e árvores balançando ao vento.",
+   "prompt": "A radiant landscape where the sea sparkles with leaping waves, fields burst with wildflowers, and forest trees sway as if singing, villagers in ancient dress lifting their hands in joy on a hillside, golden light breaking from the horizon"
+  },
+  {
+   "id": "q28",
+   "capitulo": 103,
+   "ref": "103:13-15",
+   "titulo": "Como um pai se compadece dos filhos",
+   "descricao": "Um pai levanta do chão o filho pequeno que caiu e o consola com ternura, ao lado de flores do campo.",
+   "alt": "Pai consolando o filho pequeno num campo com flores.",
+   "prompt": "A father in a simple ancient tunic kneels in a field of wildflowers and lifts his small son who has fallen, holding him close with tender compassion, the child's tear-stained face resting on his shoulder, soft evening light"
+  },
+  {
+   "id": "q29",
+   "capitulo": 104,
+   "ref": "104:10-18",
+   "titulo": "As obras da criação",
+   "descricao": "Fontes correm entre os montes; asnos selvagens bebem, aves cantam nos ramos, cabras saltam nas rochas e um agricultor colhe uvas e azeitonas.",
+   "alt": "Vale com fonte, animais bebendo, aves nas árvores e cabras nas rochas.",
+   "prompt": "A lush valley with springs flowing between mountains, wild donkeys drinking, birds singing in the branches, storks nesting in tall trees, wild goats on high cliffs, rock badgers among stones, a farmer tending vines and olive trees, cedars on the slopes, abundant natural light"
+  },
+  {
+   "id": "q30",
+   "capitulo": 107,
+   "ref": "107:23-30",
+   "titulo": "A tempestade acalmada",
+   "descricao": "Marinheiros num navio antigo clamam ao Senhor no meio das ondas; depois, o mar se acalma e eles chegam ao porto desejado.",
+   "alt": "Navio antigo em mar revolto, com marinheiros clamando e céu se abrindo ao longe.",
+   "prompt": "An ancient wooden merchant ship tossed on towering waves in a storm, sailors clinging to ropes and raising their hands in prayer, ahead the clouds part and calm golden light shines on a quiet harbor, contrast of storm and peace"
+  },
+  {
+   "id": "q31",
+   "capitulo": 114,
+   "ref": "114:1-3",
+   "titulo": "O mar viu e fugiu",
+   "descricao": "O povo de Israel sai do Egito e atravessa o mar, cujas águas se afastam diante da presença do Senhor.",
+   "alt": "Multidão atravessando o mar com paredes de água dos dois lados.",
+   "prompt": "The people of Israel with families, flocks and carts walk through a path in the sea between towering walls of water, a pillar of cloud glowing ahead, distant mountains, awe on their faces, viewed from a distance"
+  },
+  {
+   "id": "q32",
+   "capitulo": 118,
+   "ref": "118:19-27",
+   "titulo": "Esta é a porta do Senhor",
+   "descricao": "Peregrinos em festa entram pelas portas do templo com ramos nas mãos, cantando: Bendito o que vem em nome do Senhor.",
+   "alt": "Peregrinos com ramos entrando nas portas do templo em festa.",
+   "prompt": "Festive pilgrims carrying leafy branches enter through the great gates of the temple in Jerusalem, Levites singing on the steps, priests blessing the crowd from the house of the Lord, a large cornerstone visible in the wall, bright festival morning"
+  },
+  {
+   "id": "q33",
+   "capitulo": 119,
+   "ref": "119:105",
+   "titulo": "Lâmpada para os meus pés",
+   "descricao": "À noite, um jovem caminha por uma trilha escura segurando uma pequena lamparina de barro e um rolo da Lei.",
+   "alt": "Jovem caminhando à noite com uma lamparina de óleo e um rolo nas mãos.",
+   "prompt": "A young man walks along a dark rocky path at night holding a small clay oil lamp that lights the ground just ahead of his feet, a scroll of the Law tucked under his arm, deep blue night around him, warm glow of the lamp"
+  },
+  {
+   "id": "q34",
+   "capitulo": 121,
+   "ref": "121:1-2",
+   "titulo": "Levanto os olhos para os montes",
+   "descricao": "Um peregrino a caminho de Jerusalém para e olha para os montes, perguntando de onde virá seu socorro.",
+   "alt": "Peregrino com cajado parado na estrada olhando para as montanhas.",
+   "prompt": "A pilgrim with a walking staff and travel bag pauses on a winding road through the hills of Judea, lifting his eyes toward the mountains, the walls of Jerusalem faintly visible on a distant height, clear morning sky"
+  },
+  {
+   "id": "q35",
+   "capitulo": 122,
+   "ref": "122:1-4",
+   "titulo": "Vamos à casa do Senhor",
+   "descricao": "Famílias de várias tribos chegam alegres às portas de Jerusalém para a festa, cantando juntas.",
+   "alt": "Famílias de peregrinos chegando alegres às portas de Jerusalém.",
+   "prompt": "Joyful families of Israelite pilgrims of all ages arrive at the gates of Jerusalem for a festival, carrying baskets and leading animals, some singing and playing small drums, the compact city with its walls and the temple rising behind, warm sunlight"
+  },
+  {
+   "id": "q36",
+   "capitulo": 126,
+   "ref": "126:5-6",
+   "titulo": "Semeiam com lágrimas, colhem com alegria",
+   "descricao": "Um lavrador semeia chorando num campo seco; ao lado, a mesma terra aparece mais tarde, com feixes de trigo e gente rindo de alegria.",
+   "alt": "Lavrador semeando com tristeza e, ao lado, colheita alegre com feixes de trigo.",
+   "prompt": "Two scenes in one landscape: on the left a farmer in worn clothes sows seed weeping in a dry brown field, on the right the same fields full of golden wheat where joyful reapers carry sheaves home laughing, a stream flowing again in the southern desert"
+  },
+  {
+   "id": "q37",
+   "capitulo": 133,
+   "ref": "133:1-2",
+   "titulo": "Como o óleo sobre a cabeça de Arão",
+   "descricao": "O sumo sacerdote Arão é ungido, e o óleo precioso escorre pela barba até a gola das vestes, diante de irmãos reunidos.",
+   "alt": "Arão recebendo óleo na cabeça, que escorre pela barba, com pessoas reunidas.",
+   "prompt": "Aaron the high priest in his embroidered priestly garments and turban receives anointing as precious oil is poured on his head and flows down his beard to the collar of his robe, brothers of the tribes gathered around in harmony, morning dew glistening on Mount Hermon in the distance"
+  },
+  {
+   "id": "q38",
+   "capitulo": 137,
+   "ref": "137:1-4",
+   "titulo": "Junto aos rios da Babilônia",
+   "descricao": "Exilados de Judá estão sentados à beira de um rio da Babilônia, tristes, com as harpas penduradas nos salgueiros.",
+   "alt": "Exilados tristes sentados à beira de um rio, com harpas penduradas em salgueiros.",
+   "prompt": "Exiled Judeans sit in sorrow on the banks of a wide river in Babylon, harps and lyres hanging silent on the branches of willow trees, Babylonian guards and a ziggurat in the distance, a mother comforting a child, melancholy golden evening light"
+  },
+  {
+   "id": "q39",
+   "capitulo": 139,
+   "ref": "139:7-12",
+   "titulo": "Para onde fugiria da tua presença?",
+   "descricao": "Um homem está à beira-mar ao amanhecer, olhando para o horizonte; a luz da aurora se espalha sobre a água e alcança até as sombras.",
+   "alt": "Homem à beira-mar ao amanhecer, com a luz se espalhando sobre a água.",
+   "prompt": "A man stands alone on a rocky shore at the far edge of the sea at dawn, looking out at the horizon as the first light spreads like wings over the water and into the shadows of the cliffs behind him, contemplative, vast and intimate"
+  },
+  {
+   "id": "q40",
+   "capitulo": 150,
+   "ref": "150:3-6",
+   "titulo": "Tudo o que tem fôlego louve ao Senhor",
+   "descricao": "Músicos tocam trombetas, harpas, liras, tamborins, flautas e címbalos no templo, e todo o povo louva junto.",
+   "alt": "Músicos com instrumentos antigos tocando e o povo louvando no templo.",
+   "prompt": "Levite musicians in white linen play ram's horn trumpets, harps, lyres, tambourines, flutes and cymbals in the temple courts, dancers and a great crowd of people of all ages lifting their hands in praise, radiant light, celebration"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "arvore",
+   "termo": "Árvore junto às águas",
+   "ref": "1:3",
+   "explicado": true,
+   "significado": "O próprio salmo diz que o justo, que medita na Lei do Senhor, é como árvore plantada junto a ribeiros: tem raízes, fruto e folhas que não caem. A imagem volta em 52:8 e 92:12."
+  },
+  {
+   "id": "palha",
+   "termo": "Palha levada pelo vento",
+   "ref": "1:4",
+   "explicado": true,
+   "significado": "O texto aplica a imagem aos maus: sem raiz e sem peso, são dispersos como a palha na eira. É o contraste direto com a árvore do versículo anterior."
+  },
+  {
+   "id": "dois-caminhos",
+   "termo": "Os dois caminhos",
+   "ref": "1:6",
+   "explicado": true,
+   "significado": "O salmo explica: o Senhor conhece o caminho dos justos, mas o caminho dos maus perece. \"Caminho\" é a maneira de viver, tema que abre o livro e reaparece no Salmo 119."
+  },
+  {
+   "id": "siao",
+   "termo": "Monte Sião",
+   "ref": "2:6",
+   "explicado": false,
+   "significado": "Monte de Jerusalém onde ficavam a cidade de Davi e o templo; nos Salmos é o lugar onde Deus habita e reina (48:2; 87:2). No Novo Testamento e na tradição cristã passou a simbolizar também o povo de Deus e a cidade celestial (Hb 12:22), o que já é leitura posterior."
+  },
+  {
+   "id": "ungido",
+   "termo": "O Ungido",
+   "ref": "2:2",
+   "explicado": false,
+   "significado": "No texto, é o rei que Deus escolheu e ungiu com óleo (89:20). Judeus e cristãos leram salmos como o 2 e o 110 como promessa de um rei futuro, o Messias; os cristãos veem nele Jesus."
+  },
+  {
+   "id": "escudo",
+   "termo": "Escudo",
+   "ref": "3:3",
+   "explicado": false,
+   "significado": "Imagem militar de proteção: Deus se põe entre o fiel e o ataque. O salmista a usa em momentos de perigo real, como a fuga de Absalão."
+  },
+  {
+   "id": "rocha",
+   "termo": "Rocha e fortaleza",
+   "ref": "18:2",
+   "explicado": false,
+   "significado": "Rocha alta, fortaleza e refúgio falam de firmeza e abrigo em terra montanhosa, onde se fugia para as rochas. Deus é chamado \"rocha\" muitas vezes (18:2; 62:2; 95:1)."
+  },
+  {
+   "id": "pastor",
+   "termo": "Pastor e ovelhas",
+   "ref": "23:1",
+   "explicado": true,
+   "significado": "O salmo identifica o pastor: \"O SENHOR é meu pastor\". O povo é \"ovelhas do seu pasto\" (100:3). No antigo Oriente, reis também eram chamados pastores; o Novo Testamento aplica a imagem a Jesus (Jo 10:11)."
+  },
+  {
+   "id": "calice",
+   "termo": "Cálice",
+   "ref": "23:5",
+   "explicado": false,
+   "significado": "O cálice cheio ou transbordante indica a porção que Deus dá na vida, como bênção (16:5; 116:13). Em 75:8 o copo na mão do Senhor é o juízo que os perversos bebem; o sentido depende do contexto."
+  },
+  {
+   "id": "asas",
+   "termo": "Sombra das asas",
+   "ref": "17:8",
+   "explicado": false,
+   "significado": "Imagem da ave que protege os filhotes (91:4). Alguns intérpretes veem aqui também uma alusão às asas dos querubins sobre a arca no templo, mas o texto não diz isso."
+  },
+  {
+   "id": "luz-do-rosto",
+   "termo": "Luz do rosto de Deus",
+   "ref": "4:6",
+   "explicado": false,
+   "significado": "Pedir que Deus faça brilhar o rosto é pedir seu favor e sua presença, como na bênção sacerdotal de Números 6:25. Aparece também em 67:1 e 80:3."
+  },
+  {
+   "id": "aguas",
+   "termo": "Águas e abismos",
+   "ref": "42:7",
+   "explicado": false,
+   "significado": "Águas profundas e ondas representam angústia e perigo de morte (42:7; 69:1-2). Ao mesmo tempo, Deus reina sobre as águas (29:3; 93:3-4) e dá águas que fazem viver (46:4)."
+  },
+  {
+   "id": "corca",
+   "termo": "Corça sedenta",
+   "ref": "42:1",
+   "explicado": true,
+   "significado": "O próprio versículo explica a comparação: assim como a corça busca as águas, a alma do salmista tem sede de Deus."
+  },
+  {
+   "id": "leviata",
+   "termo": "Leviatã e os monstros do mar",
+   "ref": "74:14",
+   "explicado": false,
+   "significado": "Criatura marinha que, na literatura do antigo Oriente, representava o caos. O Salmo 74 mostra Deus vencendo os monstros das águas; o 104 o apresenta apenas como criatura que Deus fez. Muitos estudiosos ligam o 74 também à travessia do mar no êxodo."
+  },
+  {
+   "id": "vinha",
+   "termo": "Vinha trazida do Egito",
+   "ref": "80:8",
+   "explicado": true,
+   "significado": "O salmo deixa claro que a vinha é o povo que Deus tirou do Egito e plantou na terra. Os muros quebrados representam a desgraça do povo; a imagem também aparece em Isaías 5."
+  },
+  {
+   "id": "cedro",
+   "termo": "Cedro do Líbano",
+   "ref": "92:12",
+   "explicado": false,
+   "significado": "Árvore grande e duradoura, símbolo de força. Em 92:12 o justo cresce como o cedro; em 29:5, até o cedro se quebra diante da voz do Senhor."
+  },
+  {
+   "id": "erva",
+   "termo": "Erva e flor do campo",
+   "ref": "103:15",
+   "explicado": true,
+   "significado": "O texto aplica a imagem diretamente à vida humana: floresce e logo seca (90:5-6; 103:15). Em contraste, a bondade de Deus dura para sempre (103:17)."
+  },
+  {
+   "id": "pedra-angular",
+   "termo": "Pedra rejeitada que virou pedra principal",
+   "ref": "118:22",
+   "explicado": false,
+   "significado": "No salmo, quem foi desprezado é posto por Deus no lugar mais importante. Jesus aplicou o versículo a si mesmo (Mt 21:42), e os apóstolos também (At 4:11)."
+  },
+  {
+   "id": "lampada",
+   "termo": "Lâmpada para os pés",
+   "ref": "119:105",
+   "explicado": true,
+   "significado": "O próprio versículo explica: a palavra de Deus é lâmpada e luz que mostra o próximo passo no caminho."
+  },
+  {
+   "id": "incenso",
+   "termo": "Oração como incenso",
+   "ref": "141:2",
+   "explicado": true,
+   "significado": "O salmista pede que sua oração suba como o incenso do templo e que suas mãos erguidas valham como a oferta da tarde."
+  },
+  {
+   "id": "harpa",
+   "termo": "Harpa e lira",
+   "ref": "33:2",
+   "explicado": false,
+   "significado": "Instrumentos do louvor no templo (33:2; 150:3). No exílio, as harpas penduradas nos salgueiros mostram um povo que não consegue cantar (137:2)."
+  },
+  {
+   "id": "portas",
+   "termo": "Portas da cidade e do templo",
+   "ref": "24:7",
+   "explicado": false,
+   "significado": "As portas se abrem para que o Rei da Glória entre (24:7) e para os justos que vão louvar (118:19-20). A tradição associa esses salmos a procissões no templo, mas o texto não descreve a cerimônia."
+  },
+  {
+   "id": "cova",
+   "termo": "Cova e lamaçal",
+   "ref": "40:2",
+   "explicado": false,
+   "significado": "Lugar de onde não se consegue sair sozinho; imagem de grave angústia ou proximidade da morte. Ser tirado da cova e posto na rocha é ser salvo por Deus."
+  },
+  {
+   "id": "oleo",
+   "termo": "Óleo",
+   "ref": "133:2",
+   "explicado": true,
+   "significado": "Em 133:2 o próprio salmo compara a convivência dos irmãos ao óleo da unção de Arão: algo precioso que se derrama. Em outros salmos, o óleo marca a escolha do rei (89:20) e a hospitalidade (23:5)."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "tehillim",
+   "pt": "Louvores (nome hebraico do livro)",
+   "refs": [
+    "22:3",
+    "145:1"
+   ],
+   "hebraico": {
+    "lema": "תְּהִלִּים",
+    "translit": "tehillim",
+    "strong": "H8416"
+   },
+   "grego": {
+    "lema": "ψαλμοί",
+    "translit": "psalmoí"
+   },
+   "sentido": "louvores, cânticos de louvor",
+   "latim": {
+    "forma": "Liber Psalmorum",
+    "nota": "O nome \"Salmos\" vem do grego, pelo latim."
+   },
+   "outras": [],
+   "explicacao": "O nome hebraico do livro é \"Louvores\", embora muitos salmos sejam lamentos: até a queixa é dirigida a Deus. O singular tehillah aparece no título do Salmo 145.",
+   "interpretacao": false
+  },
+  {
+   "id": "mizmor",
+   "pt": "Salmo",
+   "refs": [
+    "3:1",
+    "23:1"
+   ],
+   "hebraico": {
+    "lema": "מִזְמוֹר",
+    "translit": "mizmor",
+    "strong": "H4210"
+   },
+   "grego": {
+    "lema": "ψαλμός",
+    "translit": "psalmós",
+    "strong": "G5568"
+   },
+   "sentido": "canção acompanhada de instrumento de cordas",
+   "latim": {
+    "forma": "psalmus David",
+    "nota": "A Vulgata segue a numeração grega dos salmos, em geral um número abaixo (o Salmo 23 é o 22)."
+   },
+   "outras": [],
+   "explicacao": "Palavra que aparece em dezenas de títulos. O grego psalmos também indica canto ao som de instrumento de cordas, e daí veio o nome do livro.",
+   "interpretacao": false
+  },
+  {
+   "id": "selah",
+   "pt": "Selá",
+   "refs": [
+    "3:2",
+    "46:3"
+   ],
+   "hebraico": {
+    "lema": "סֶלָה",
+    "translit": "selah",
+    "strong": "H5542"
+   },
+   "grego": {
+    "lema": "διάψαλμα",
+    "translit": "diápsalma"
+   },
+   "sentido": "sentido incerto; provavelmente indicação musical",
+   "latim": {
+    "forma": "diapsalma",
+    "nota": "O Saltério Galicano manteve o termo grego."
+   },
+   "outras": [],
+   "explicacao": "Aparece 71 vezes nos Salmos. Ninguém sabe ao certo o que significa: pausa, elevação da voz ou dos instrumentos, ou repetição. A tradução grega interpretou como intervalo musical.",
+   "interpretacao": false
+  },
+  {
+   "id": "hesed",
+   "pt": "Bondade fiel, misericórdia",
+   "refs": [
+    "136:1",
+    "103:4",
+    "63:3"
+   ],
+   "hebraico": {
+    "lema": "חֶסֶד",
+    "translit": "chesed",
+    "strong": "H2617"
+   },
+   "grego": {
+    "lema": "ἔλεος",
+    "translit": "éleos",
+    "strong": "G1656"
+   },
+   "sentido": "amor leal de quem cumpre a aliança",
+   "latim": {
+    "forma": "quoniam in saeculum misericordia eius",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Uma das palavras mais importantes do livro, repetida em cada versículo do Salmo 136. Junta amor, fidelidade e generosidade: Deus não abandona o compromisso que fez.",
+   "interpretacao": false
+  },
+  {
+   "id": "torah",
+   "pt": "Lei, instrução",
+   "refs": [
+    "1:2",
+    "119:1"
+   ],
+   "hebraico": {
+    "lema": "תּוֹרָה",
+    "translit": "torah",
+    "strong": "H8451"
+   },
+   "grego": {
+    "lema": "νόμος",
+    "translit": "nómos",
+    "strong": "G3551"
+   },
+   "sentido": "ensino, instrução de Deus",
+   "latim": {
+    "forma": "sed in lege Domini voluntas eius",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Mais do que um código de regras, torah é a instrução que Deus dá para a vida. O Salmo 1 abre o livro com ela, e o 119 a celebra em 176 versículos.",
+   "interpretacao": false
+  },
+  {
+   "id": "ashrei",
+   "pt": "Bem-aventurado",
+   "refs": [
+    "1:1",
+    "32:1",
+    "2:12"
+   ],
+   "hebraico": {
+    "lema": "אַשְׁרֵי",
+    "translit": "ashrei",
+    "strong": "H835"
+   },
+   "grego": {
+    "lema": "μακάριος",
+    "translit": "makários",
+    "strong": "G3107"
+   },
+   "sentido": "feliz, em situação de bênção",
+   "latim": {
+    "forma": "Beatus vir",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "É a primeira palavra do livro. Descreve a felicidade de quem vive no caminho de Deus; Jesus usa a mesma forma nas bem-aventuranças.",
+   "interpretacao": false
+  },
+  {
+   "id": "mashiach",
+   "pt": "Ungido",
+   "refs": [
+    "2:2",
+    "89:20"
+   ],
+   "hebraico": {
+    "lema": "מָשִׁיחַ",
+    "translit": "mashiach",
+    "strong": "H4899"
+   },
+   "grego": {
+    "lema": "χριστός",
+    "translit": "christós",
+    "strong": "G5547"
+   },
+   "sentido": "aquele que recebeu unção com óleo",
+   "latim": {
+    "forma": "adversus Dominum et adversus christum eius",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Nos Salmos designa o rei escolhido por Deus. Da palavra hebraica vem \"Messias\" e da grega, \"Cristo\". Ler o Salmo 2 como profecia do Messias é a leitura de judeus antigos e dos cristãos.",
+   "interpretacao": true
+  },
+  {
+   "id": "roeh",
+   "pt": "Pastor, apascentar",
+   "refs": [
+    "23:1",
+    "80:1"
+   ],
+   "hebraico": {
+    "lema": "רֹעֶה",
+    "translit": "ro'eh",
+    "strong": "H7462"
+   },
+   "grego": {
+    "lema": "ποιμαίνω",
+    "translit": "poimaínō",
+    "strong": "G4165"
+   },
+   "sentido": "quem guia, alimenta e protege o rebanho",
+   "latim": {
+    "forma": "Dominus regit me",
+    "nota": "Salmo 22 na numeração da Vulgata."
+   },
+   "outras": [],
+   "explicacao": "Em 23:1 o hebraico diz literalmente \"o SENHOR é meu pastor\". O grego traduziu com um verbo: \"o Senhor me apascenta\", e a Vulgata, \"o Senhor me governa\".",
+   "interpretacao": false
+  },
+  {
+   "id": "tsur",
+   "pt": "Rocha",
+   "refs": [
+    "18:2",
+    "95:1"
+   ],
+   "hebraico": {
+    "lema": "צוּר",
+    "translit": "tsur",
+    "strong": "H6697"
+   },
+   "grego": {
+    "lema": "στερέωμα",
+    "translit": "steréōma",
+    "strong": "G4733"
+   },
+   "sentido": "rocha, penhasco",
+   "latim": {
+    "forma": "Dominus firmamentum meum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Título de Deus nos momentos de perigo. As traduções antigas preferiram traduzir pela ideia (firmeza, apoio) em vez da imagem da pedra.",
+   "interpretacao": false
+  },
+  {
+   "id": "nephesh",
+   "pt": "Alma, vida",
+   "refs": [
+    "103:1",
+    "42:1"
+   ],
+   "hebraico": {
+    "lema": "נֶפֶשׁ",
+    "translit": "nephesh",
+    "strong": "H5315"
+   },
+   "grego": {
+    "lema": "ψυχή",
+    "translit": "psychḗ",
+    "strong": "G5590"
+   },
+   "sentido": "ser vivo, vida, garganta, desejo, a pessoa inteira",
+   "latim": {
+    "forma": "Benedic anima mea Domino",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Nephesh não é só uma parte espiritual: é a pessoa viva, com fome, sede e desejo. \"Louva, minha alma\" quer dizer \"louva, todo o meu ser\".",
+   "interpretacao": false
+  },
+  {
+   "id": "haleluyah",
+   "pt": "Aleluia",
+   "refs": [
+    "150:1",
+    "148:1"
+   ],
+   "hebraico": {
+    "lema": "הַלְלוּ־יָהּ",
+    "translit": "halelu-Yah",
+    "strong": "H1984, H3050"
+   },
+   "grego": {
+    "lema": "ἀλληλουϊά",
+    "translit": "allēlouiá",
+    "strong": "G239"
+   },
+   "sentido": "louvai a Yah (forma curta do nome de Deus)",
+   "latim": {
+    "forma": "alleluia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Convite a louvar que abre e fecha os últimos salmos (146–150). Passou sem tradução para o grego, o latim e o português.",
+   "interpretacao": false
+  },
+  {
+   "id": "sheol",
+   "pt": "Xeol",
+   "refs": [
+    "16:10",
+    "139:8"
+   ],
+   "hebraico": {
+    "lema": "שְׁאוֹל",
+    "translit": "she'ol",
+    "strong": "H7585"
+   },
+   "grego": {
+    "lema": "ᾅδης",
+    "translit": "hádēs",
+    "strong": "G86"
+   },
+   "sentido": "o mundo dos mortos, a sepultura",
+   "latim": {
+    "forma": "non derelinques animam meam in inferno",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "No Antigo Testamento é o lugar dos mortos em geral, não necessariamente lugar de castigo. Em 139:8 nem ali o fiel está longe de Deus. Pedro cita 16:10 aplicando-o à ressurreição de Jesus (At 2:27).",
+   "interpretacao": false
+  },
+  {
+   "id": "emet",
+   "pt": "Verdade, fidelidade",
+   "refs": [
+    "85:10",
+    "57:3"
+   ],
+   "hebraico": {
+    "lema": "אֱמֶת",
+    "translit": "'emet",
+    "strong": "H571"
+   },
+   "grego": {
+    "lema": "ἀλήθεια",
+    "translit": "alḗtheia",
+    "strong": "G225"
+   },
+   "sentido": "firmeza, confiabilidade, verdade",
+   "latim": {
+    "forma": "misericordia et veritas obviaverunt sibi",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Vem da mesma raiz de \"amém\": aquilo em que se pode apoiar. Aparece muitas vezes junto com chesed: bondade e fidelidade andam juntas em Deus.",
+   "interpretacao": false
+  },
+  {
+   "id": "machseh",
+   "pt": "Refúgio",
+   "refs": [
+    "46:1",
+    "91:2"
+   ],
+   "hebraico": {
+    "lema": "מַחֲסֶה",
+    "translit": "machaseh",
+    "strong": "H4268"
+   },
+   "grego": {
+    "lema": "καταφυγή",
+    "translit": "kataphygḗ"
+   },
+   "sentido": "abrigo, lugar onde se busca proteção",
+   "latim": {
+    "forma": "Deus noster refugium et virtus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Da raiz que significa \"buscar abrigo\". Um dos modos mais frequentes de os Salmos falarem de confiança: fugir para Deus.",
+   "interpretacao": false
+  },
+  {
+   "id": "shalom",
+   "pt": "Paz",
+   "refs": [
+    "85:10",
+    "122:6"
+   ],
+   "hebraico": {
+    "lema": "שָׁלוֹם",
+    "translit": "shalom",
+    "strong": "H7965"
+   },
+   "grego": {
+    "lema": "εἰρήνη",
+    "translit": "eirḗnē",
+    "strong": "G1515"
+   },
+   "sentido": "bem-estar completo, inteireza, harmonia",
+   "latim": {
+    "forma": "iustitia et pax osculatae sunt",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Shalom é mais que ausência de guerra: é a vida em ordem diante de Deus e dos outros. Em 122:6 há um jogo de sons com o nome Jerusalém.",
+   "interpretacao": false
+  },
+  {
+   "id": "qavah",
+   "pt": "Esperar",
+   "refs": [
+    "40:1",
+    "130:5"
+   ],
+   "hebraico": {
+    "lema": "קָוָה",
+    "translit": "qavah",
+    "strong": "H6960"
+   },
+   "grego": {
+    "lema": "ὑπομένω",
+    "translit": "hypoménō",
+    "strong": "G5278"
+   },
+   "sentido": "esperar com expectativa, aguardar com tensão",
+   "latim": {
+    "forma": "exspectans exspectavi Dominum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Em 40:1 o verbo aparece duplicado no hebraico (\"esperando, esperei\"), o que dá ênfase. É a espera ativa de quem confia que Deus vai agir.",
+   "interpretacao": false
+  },
+  {
+   "id": "yirat-yhwh",
+   "pt": "Temor do SENHOR",
+   "refs": [
+    "111:10",
+    "34:7"
+   ],
+   "hebraico": {
+    "lema": "יִרְאַת יְהוָה",
+    "translit": "yir'at YHWH",
+    "strong": "H3374, H3068"
+   },
+   "grego": {
+    "lema": "φόβος κυρίου",
+    "translit": "phóbos kyríou",
+    "strong": "G5401, G2962"
+   },
+   "sentido": "reverência e respeito diante de Deus",
+   "latim": {
+    "forma": "initium sapientiae timor Domini",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Não é pavor, mas reconhecer quem Deus é e viver de acordo. O Salmo 111 o chama de princípio da sabedoria, como Provérbios 1:7.",
+   "interpretacao": false
+  },
+  {
+   "id": "yhwh",
+   "pt": "SENHOR",
+   "refs": [
+    "23:1",
+    "8:1"
+   ],
+   "hebraico": {
+    "lema": "יהוה",
+    "translit": "YHWH",
+    "strong": "H3068"
+   },
+   "grego": {
+    "lema": "κύριος",
+    "translit": "kýrios",
+    "strong": "G2962"
+   },
+   "sentido": "o nome próprio de Deus revelado a Moisés",
+   "latim": {
+    "forma": "Dominus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Quando a tradução escreve SENHOR em maiúsculas, o hebraico traz o nome próprio de Deus. Por respeito, os judeus passaram a ler \"Adonai\" (Senhor), e o grego e o latim seguiram esse costume.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "qumran-11q5",
+   "titulo": "O Grande Rolo dos Salmos de Qumran",
+   "refs": [
+    "72:20",
+    "145:1",
+    "150:6"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Manuscritos do Mar Morto, Grande Rolo dos Salmos (11QPsª, também catalogado como 11Q5)",
+   "referencia": "Caverna 11 de Qumran; Museu de Israel, Jerusalém (Santuário do Livro)",
+   "data_fonte": "primeira metade do séc. I d.C. (datação paleográfica)",
+   "data_evento": "descoberto em 1956",
+   "resumo": "Rolo de couro com dezenas de salmos, em ordem diferente da atual a partir do Livro IV, com textos a mais, como o Salmo 151, e uma nota que atribui a Davi milhares de salmos e cânticos. Em Qumran apareceram mais de 30 manuscritos de Salmos, o livro mais copiado ali.",
+   "relacao": "Mostra que os Salmos já eram muito usados antes de Jesus. Estudiosos debatem se o rolo é uma edição alternativa do livro ou uma coleção para uso litúrgico; a ordem dos primeiros livros (1–89) já era bastante estável.",
+   "grau": "documentado"
+  },
+  {
+   "id": "ketef-hinom",
+   "titulo": "Rolos de prata de Ketef Hinom e a bênção do rosto que brilha",
+   "refs": [
+    "67:1",
+    "4:6"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Amuletos de prata de Ketef Hinom",
+   "referencia": "Museu de Israel, Jerusalém",
+   "data_fonte": "c. fim do séc. VII ou início do séc. VI a.C.",
+   "data_evento": "descobertos em 1979, em túmulos em Jerusalém",
+   "resumo": "Dois pequenos rolos de prata gravados com uma forma da bênção sacerdotal de Números 6:24-26, pedindo que o Senhor abençoe, guarde e faça brilhar o rosto.",
+   "relacao": "O Salmo 67:1 retoma a mesma bênção. Os amuletos mostram que essa fórmula já era usada em Jerusalém no período dos reis. A datação exata é discutida, mas a maioria a situa antes do exílio.",
+   "grau": "associacao"
+  },
+  {
+   "id": "ugarit-baal",
+   "titulo": "Textos de Ugarit: a voz do deus da tempestade e Lotan",
+   "refs": [
+    "29:3-9",
+    "74:13-14",
+    "104:26"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Ciclo de Baal, tabletes de Ugarit (Ras Shamra, Síria)",
+   "referencia": "KTU 1.1–1.6",
+   "data_fonte": "c. séc. XIV–XIII a.C.",
+   "data_evento": "tabletes descobertos a partir de 1929",
+   "resumo": "Poemas cananeus em que Baal, deus da tempestade, troveja e vence o Mar e a serpente Lotan (forma ugarítica de Leviatã). A linguagem poética usa paralelismos parecidos com os da poesia hebraica.",
+   "relacao": "Ajuda a entender o pano de fundo do Salmo 29 (a voz que troveja sobre as águas e os cedros) e do Leviatã em 74:14. Muitos estudiosos pensam que os salmos usam essas imagens para dizer que é o SENHOR, e não Baal, quem reina; a dependência direta é debatida.",
+   "grau": "associacao"
+  },
+  {
+   "id": "hino-aton",
+   "titulo": "O Grande Hino a Aton e o Salmo 104",
+   "refs": [
+    "104:19-30"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Grande Hino a Aton",
+   "referencia": "Inscrição no túmulo de Ay, em Amarna (Egito)",
+   "data_fonte": "c. 1350 a.C. (reinado de Aquenáton)",
+   "data_evento": "séc. XIV a.C.",
+   "resumo": "Hino egípcio ao disco solar que descreve a noite em que os leões saem, o dia em que o homem vai ao trabalho, os navios no rio e a variedade das criaturas.",
+   "relacao": "Há semelhanças notáveis com a ordem de 104:20-26. Alguns estudiosos falam de influência, outros de temas comuns no antigo Oriente. A diferença é clara: no salmo, o sol é criatura, e o louvor vai ao Criador.",
+   "grau": "associacao"
+  },
+  {
+   "id": "tel-dan",
+   "titulo": "Inscrição de Tel Dan: a \"casa de Davi\"",
+   "refs": [
+    "89:3-4",
+    "122:5",
+    "132:11"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Estela de Tel Dan",
+   "referencia": "Museu de Israel, Jerusalém",
+   "data_fonte": "c. séc. IX a.C.",
+   "data_evento": "fragmentos descobertos em 1993 e 1994",
+   "resumo": "Inscrição aramaica de um rei de Damasco que menciona um rei de Israel e um rei da \"casa de Davi\" (bytdwd).",
+   "relacao": "É a mais antiga menção fora da Bíblia à dinastia de Davi, de quem os Salmos 89 e 132 falam e a cujo trono se refere 122:5. Não diz nada sobre os salmos em si; a leitura \"casa de Davi\" é aceita pela maioria, embora tenha sido contestada no início.",
+   "grau": "documentado"
+  },
+  {
+   "id": "josefo-davi",
+   "titulo": "Josefo: Davi, compositor de cânticos",
+   "refs": [
+    "18:1",
+    "72:20"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 7, cap. 12, §3",
+   "data_fonte": "c. 93–94 d.C.",
+   "data_evento": "séc. X a.C. (época de Davi)",
+   "resumo": "Josefo diz que Davi, em tempo de paz, compôs cânticos e hinos a Deus em vários metros e preparou instrumentos para os levitas.",
+   "relacao": "Registra a tradição judaica do séc. I sobre Davi como poeta e músico, que também aparece nos títulos dos salmos. É uma tradição tardia, não um testemunho direto; estudiosos discutem quantos salmos vêm de fato da época de Davi.",
+   "grau": "documentado"
+  },
+  {
+   "id": "mishna-tamid",
+   "titulo": "Os salmos de cada dia no templo",
+   "refs": [
+    "24:1",
+    "48:1",
+    "82:1",
+    "94:1",
+    "81:1",
+    "93:1",
+    "92:1"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Mixná, tratado Tamid",
+   "referencia": "Tamid 7:4",
+   "data_fonte": "c. 200 d.C. (compilação)",
+   "data_evento": "culto do segundo templo, antes de 70 d.C.",
+   "resumo": "A Mixná registra o salmo que os levitas cantavam em cada dia da semana: 24 (domingo), 48, 82, 94, 81, 93 e 92 (sábado).",
+   "relacao": "Confirma o uso litúrgico desses salmos no templo; o título do Salmo 92 já o liga ao sábado. Como foi compilada depois da destruição do templo, a Mixná reflete lembranças e tradições, não uma ata da época.",
+   "grau": "documentado"
+  },
+  {
+   "id": "mishna-sukka",
+   "titulo": "Os quinze degraus e os Cânticos dos degraus",
+   "refs": [
+    "120:1",
+    "134:1"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Mixná, tratado Sucá",
+   "referencia": "Sucá 5:4",
+   "data_fonte": "c. 200 d.C. (compilação)",
+   "data_evento": "Festa das Tendas no segundo templo",
+   "resumo": "Descreve os levitas tocando sobre os quinze degraus entre o pátio de Israel e o pátio das mulheres, e diz que esses degraus correspondem aos quinze Cânticos dos degraus.",
+   "relacao": "É uma das explicações antigas para o título dos Salmos 120–134. Outra explicação comum é que eram cânticos dos peregrinos que \"subiam\" a Jerusalém; o texto bíblico não decide a questão.",
+   "grau": "associacao"
+  },
+  {
+   "id": "prisma-senaqueribe",
+   "titulo": "Senaqueribe cerca Jerusalém",
+   "refs": [
+    "46:1-5",
+    "48:4-8",
+    "76:1-6"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Prisma de Senaqueribe (Prisma de Taylor)",
+   "referencia": "Museu Britânico, Londres; há cópias semelhantes em Chicago e Jerusalém",
+   "data_fonte": "c. 691 a.C.",
+   "data_evento": "campanha de 701 a.C.",
+   "resumo": "Os anais assírios contam que Senaqueribe tomou cidades de Judá e prendeu Ezequias em Jerusalém \"como um pássaro na gaiola\", mas não relatam a tomada da cidade.",
+   "relacao": "Desde a antiguidade, salmos como o 46, o 48 e o 76 (Deus defende Sião, os reis fogem, os cavalos caem no sono) são associados à libertação de Jerusalém em 701 a.C. (2Rs 19). Os salmos não citam o episódio, então a ligação é uma hipótese.",
+   "grau": "associacao"
+  },
+  {
+   "id": "tabletes-joaquim",
+   "titulo": "Exilados de Judá na Babilônia",
+   "refs": [
+    "137:1-4"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Tabletes de ração do rei Joaquim",
+   "referencia": "Museu do Antigo Oriente Próximo (Vorderasiatisches Museum), Berlim",
+   "data_fonte": "c. 592 a.C.",
+   "data_evento": "exílio babilônico, séc. VI a.C.",
+   "resumo": "Listas de distribuição de óleo na Babilônia que citam Joaquim, \"rei de Judá\", seus filhos e outros judeus.",
+   "relacao": "Mostram fora da Bíblia a presença dos exilados de Judá na Babilônia, situação que o Salmo 137 lamenta. Não mencionam o salmo nem seus autores.",
+   "grau": "associacao"
+  },
+  {
+   "id": "cilindro-ciro",
+   "titulo": "Ciro e o retorno dos deportados",
+   "refs": [
+    "126:1-4"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Cilindro de Ciro",
+   "referencia": "Museu Britânico, Londres",
+   "data_fonte": "c. 539–538 a.C.",
+   "data_evento": "conquista da Babilônia por Ciro, 539 a.C.",
+   "resumo": "Ciro declara ter devolvido imagens de deuses a seus templos e reunido povos deportados para voltarem às suas terras.",
+   "relacao": "Ilustra a política que permitiu o retorno de exilados descrito em Esdras, pano de fundo provável do Salmo 126 (\"quando o SENHOR restaurou Sião\"). O cilindro não cita judeus nem Jerusalém, e a data do salmo é discutida.",
+   "grau": "associacao"
+  }
+ ]
+}

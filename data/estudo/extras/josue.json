@@ -1,0 +1,800 @@
+{
+ "livro": "josue",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:1-9",
+   "titulo": "Esforça-te e sê valente",
+   "descricao": "Depois da morte de Moisés, Deus fala a Josué e promete estar com ele como esteve com Moisés.",
+   "alt": "Josué sozinho, à beira do rio Jordão, ergue o rosto para uma luz suave que vem do céu.",
+   "prompt": "Joshua, a strong bearded man in a simple cloak and leather belt, standing alone at dawn on the eastern bank of the Jordan river, looking up toward a soft radiant light breaking through clouds, the Israelite camp of tents behind him, the river and hills of Canaan ahead"
+  },
+  {
+   "id": "q02",
+   "capitulo": 2,
+   "ref": "2:15-18",
+   "titulo": "Raabe e o cordão escarlate",
+   "descricao": "Raabe faz descer os dois espias por uma corda pela janela de sua casa no muro de Jericó.",
+   "alt": "Uma mulher, à janela de uma casa construída no muro da cidade, segura uma corda pela qual dois homens descem à noite.",
+   "prompt": "Night scene at the city wall of ancient Jericho, a Canaanite woman leaning from a window of a house built into the mudbrick wall, lowering a rope as two Israelite spies in dark cloaks climb down, a scarlet cord hanging at the window, moonlight and lamp glow"
+  },
+  {
+   "id": "q03",
+   "capitulo": 3,
+   "ref": "3:15-17",
+   "titulo": "A travessia do Jordão",
+   "descricao": "Quando os pés dos sacerdotes que levavam a arca tocam a água, o rio para e o povo passa em seco.",
+   "alt": "Sacerdotes carregam a arca dourada e ficam firmes no leito seco do rio enquanto o povo atravessa.",
+   "prompt": "Priests in white linen robes carrying the golden Ark of the Covenant on poles, standing firm on the dry riverbed of the Jordan, the waters heaped up in the distance upstream, a long procession of Israelite families with animals crossing past them, bright morning light"
+  },
+  {
+   "id": "q04",
+   "capitulo": 4,
+   "ref": "4:20-22",
+   "titulo": "As doze pedras de Gilgal",
+   "descricao": "Josué ergue em Gilgal as doze pedras tiradas do Jordão, para que os filhos perguntem e os pais contem o que Deus fez.",
+   "alt": "Um pai mostra a um menino um círculo de doze grandes pedras.",
+   "prompt": "A circle of twelve large river stones set up as a memorial at Gilgal, an Israelite father kneeling beside his young son, pointing to the stones and explaining, Joshua and elders in the background, Jericho's palm trees on the horizon, warm afternoon light"
+  },
+  {
+   "id": "q05",
+   "capitulo": 5,
+   "ref": "5:13-15",
+   "titulo": "O príncipe do exército do SENHOR",
+   "descricao": "Perto de Jericó, Josué encontra um homem com espada desembainhada que se apresenta como príncipe do exército do SENHOR.",
+   "alt": "Josué prostrado com o rosto em terra, sem sandálias, diante de uma figura luminosa que segura uma espada.",
+   "prompt": "Joshua kneeling barefoot with his face to the ground, his sandals beside him, before a tall dignified heavenly commander in shining armor holding a drawn sword pointed downward, glowing with soft light, the walls of Jericho faint in the background at dusk"
+  },
+  {
+   "id": "q06",
+   "capitulo": 6,
+   "ref": "6:15-20",
+   "titulo": "As muralhas de Jericó",
+   "descricao": "No sétimo dia, depois de sete voltas, os sacerdotes tocam as trombetas, o povo grita e o muro cai.",
+   "alt": "Sacerdotes tocam trombetas de chifre de carneiro diante da arca enquanto, ao longe, as muralhas de Jericó desmoronam em poeira.",
+   "prompt": "Seven priests blowing ram's horn trumpets before the Ark of the Covenant, Israelite people shouting with raised arms, in the distance the great walls of Jericho collapsing in clouds of dust, viewed from afar, no visible violence, dramatic morning light"
+  },
+  {
+   "id": "q07",
+   "capitulo": 7,
+   "ref": "7:20-21",
+   "titulo": "A confissão de Acã",
+   "descricao": "Acã admite ter escondido em sua tenda um manto babilônico, prata e ouro tomados de Jericó.",
+   "alt": "Um homem cabisbaixo diante de Josué e dos anciãos aponta para o chão de sua tenda.",
+   "prompt": "Inside a tent, Achan, a downcast man, confessing before Joshua and grim elders, pointing to a freshly dug hole in the ground where a fine embroidered Babylonian robe, silver pieces and a gold bar are partly visible, tense lamp light"
+  },
+  {
+   "id": "q08",
+   "capitulo": 8,
+   "ref": "8:33-35",
+   "titulo": "A lei lida diante do povo",
+   "descricao": "No monte Ebal, Josué constrói um altar e lê todas as palavras da lei, com metade do povo diante do Gerizim e metade diante do Ebal.",
+   "alt": "Josué lê um rolo diante de uma grande multidão dividida entre dois montes, com a arca no centro.",
+   "prompt": "Joshua reading aloud from a large scroll beside a stone altar, the Ark of the Covenant and Levites in the center of a valley, a vast assembly of men, women, children and foreigners on the slopes of two mountains on either side, clear bright light"
+  },
+  {
+   "id": "q09",
+   "capitulo": 9,
+   "ref": "9:4-6",
+   "titulo": "O engano dos gibeonitas",
+   "descricao": "Homens de Gibeão chegam com roupas gastas, odres remendados e pão mofado, fingindo vir de longe.",
+   "alt": "Viajantes com roupas rasgadas mostram pão seco a Josué no acampamento.",
+   "prompt": "Gibeonite envoys in worn, patched clothes and old sandals arriving at the Israelite camp at Gilgal, donkeys loaded with cracked wineskins and old sacks, one man holding out dry moldy bread to Joshua and the elders who examine it with suspicion"
+  },
+  {
+   "id": "q10",
+   "capitulo": 10,
+   "ref": "10:12-13",
+   "titulo": "Sol, detém-te em Gibeão",
+   "descricao": "Na batalha de Gibeão, Josué ora e o sol se detém no meio do céu.",
+   "alt": "Josué de pé no alto de uma colina, com o braço erguido para o sol e a lua no céu.",
+   "prompt": "Joshua standing on a hilltop with one arm raised toward the sky, the sun blazing high above Gibeon and a pale moon over the valley of Aijalon, Israelite soldiers and distant armies small in the valley below, epic wide landscape, golden light"
+  },
+  {
+   "id": "q11",
+   "capitulo": 14,
+   "ref": "14:10-12",
+   "titulo": "Calebe pede o monte",
+   "descricao": "Aos oitenta e cinco anos, Calebe pede a Josué a região montanhosa de Hebrom, prometida a ele por Moisés.",
+   "alt": "Um homem idoso, forte e decidido, aponta para as montanhas enquanto fala com Josué.",
+   "prompt": "Caleb, a vigorous white-haired old warrior of eighty-five, standing before Joshua and pointing to the rugged hill country of Hebron, determined expression, members of the tribe of Judah around them, bright clear light"
+  },
+  {
+   "id": "q12",
+   "capitulo": 18,
+   "ref": "18:8-10",
+   "titulo": "As sortes em Siló",
+   "descricao": "Com o tabernáculo armado em Siló, Josué lança as sortes diante do SENHOR para repartir a terra entre as tribos.",
+   "alt": "Josué, diante da tenda do tabernáculo, lança sortes enquanto representantes das tribos observam.",
+   "prompt": "At Shiloh, the tabernacle tent stands on a hill; Joshua before it casting lots from a small vessel, surrounded by tribal representatives holding written descriptions of the land on scrolls, hills and olive groves around, soft morning light"
+  },
+  {
+   "id": "q13",
+   "capitulo": 22,
+   "ref": "22:10",
+   "titulo": "O altar junto ao Jordão",
+   "descricao": "As tribos do lado oriental constroem um grande altar junto ao Jordão como testemunho de que também pertencem ao SENHOR.",
+   "alt": "Homens das tribos do oriente erguem um grande altar de pedras à margem do rio.",
+   "prompt": "Men of the tribes of Reuben, Gad and Manasseh building a large stone altar on the bank of the Jordan river, the river and the opposite shore visible, families watching, late afternoon light, a sense of purpose and unity"
+  },
+  {
+   "id": "q14",
+   "capitulo": 24,
+   "ref": "24:14-15",
+   "titulo": "Eu e minha casa",
+   "descricao": "Em Siquém, o idoso Josué convida o povo a escolher a quem servir e declara: eu e minha casa serviremos ao SENHOR.",
+   "alt": "Josué idoso, ao lado da esposa e dos filhos, fala de braços abertos a uma grande assembleia.",
+   "prompt": "Elderly Joshua standing with his family beside him, addressing a great assembly of the tribes of Israel at Shechem, one hand on his heart and the other raised, between two hills, solemn and earnest faces, evening light"
+  },
+  {
+   "id": "q15",
+   "capitulo": 24,
+   "ref": "24:26-27",
+   "titulo": "A pedra de testemunho",
+   "descricao": "Josué escreve as palavras no livro da lei de Deus e ergue uma grande pedra debaixo de um carvalho como testemunha.",
+   "alt": "Homens erguem uma grande pedra em pé sob um carvalho, enquanto Josué segura um rolo.",
+   "prompt": "Under a great old oak tree near the sanctuary at Shechem, men setting upright a large standing stone, Joshua holding a scroll and watching, the people gathered around, dappled sunlight through the leaves"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "cordao-escarlate",
+   "termo": "Cordão escarlate",
+   "ref": "2:18",
+   "explicado": true,
+   "significado": "O texto dá a função: um sinal na janela para que a casa de Raabe fosse poupada (2:18-21). Muitos cristãos o comparam ao sangue nos umbrais da Páscoa; isso é leitura posterior, não está no texto."
+  },
+  {
+   "id": "arca",
+   "termo": "Arca da aliança",
+   "ref": "3:14-17",
+   "explicado": false,
+   "significado": "A arca vai à frente do povo no Jordão e em Jericó, sinal de que o SENHOR conduz e luta por Israel (3:11). O texto mostra sua função, sem explicar o simbolismo."
+  },
+  {
+   "id": "jordao",
+   "termo": "Rio Jordão",
+   "ref": "3:16-17",
+   "explicado": true,
+   "significado": "O texto compara a travessia à do mar Vermelho (4:23): a mesma mão de Deus que tirou o povo do Egito o faz entrar na terra. Mais tarde, \"atravessar o Jordão\" virou imagem de passagem para a promessa."
+  },
+  {
+   "id": "doze-pedras",
+   "termo": "Doze pedras do memorial",
+   "ref": "4:6-7",
+   "explicado": true,
+   "significado": "O texto explica: são sinal e memorial para que as gerações futuras perguntem e ouçam o que Deus fez (4:6-7, 21-24). Uma pedra por tribo mostra o povo inteiro."
+  },
+  {
+   "id": "gilgal",
+   "termo": "Gilgal",
+   "ref": "5:9",
+   "explicado": true,
+   "significado": "O nome é explicado pelo texto: ali Deus \"tirou\" (rolou) a humilhação do Egito (5:9). Gilgal é o primeiro acampamento, lugar da circuncisão e da primeira Páscoa na terra."
+  },
+  {
+   "id": "mana-cessa",
+   "termo": "Fim do maná",
+   "ref": "5:12",
+   "explicado": true,
+   "significado": "O maná para no dia seguinte à Páscoa, quando o povo come do fruto da terra (5:12). Marca o fim do deserto e o início de uma nova fase."
+  },
+  {
+   "id": "sandalias",
+   "termo": "Tirar as sandálias",
+   "ref": "5:15",
+   "explicado": false,
+   "significado": "Como Moisés na sarça (Êx 3:5), Josué tira as sandálias porque o lugar é santo. A cena mostra que a conquista pertence a Deus, não a Josué."
+  },
+  {
+   "id": "trombetas",
+   "termo": "Trombetas de chifre de carneiro",
+   "ref": "6:4",
+   "explicado": false,
+   "significado": "O shofar anunciava momentos solenes de culto e guerra. Em Jericó, sacerdotes tocam as trombetas diante da arca: a vitória é apresentada como obra de Deus, não de armas."
+  },
+  {
+   "id": "sete",
+   "termo": "Número sete em Jericó",
+   "ref": "6:15",
+   "explicado": false,
+   "significado": "Sete sacerdotes, sete trombetas, sete dias e sete voltas: o texto insiste no número, que na Bíblia costuma indicar plenitude e o ritmo da criação. O sentido exato não é explicado."
+  },
+  {
+   "id": "anatema",
+   "termo": "Anátema (consagrado à destruição)",
+   "ref": "6:17",
+   "explicado": false,
+   "significado": "O que era \"anátema\" pertencia só a Deus e não podia ser tomado como despojo (6:17-19). O tema levanta questões morais difíceis, e intérpretes judeus e cristãos o leem de maneiras diferentes, muitas vezes como algo restrito àquele momento."
+  },
+  {
+   "id": "manto-babilonico",
+   "termo": "Manto babilônico de Acã",
+   "ref": "7:21",
+   "explicado": false,
+   "significado": "Objeto da cobiça de Acã, que trouxe derrota em Ai. Mostra como o pecado de um afeta a comunidade inteira (7:1, 11)."
+  },
+  {
+   "id": "vale-acor",
+   "termo": "Vale de Acor",
+   "ref": "7:26",
+   "explicado": true,
+   "significado": "O nome significa \"perturbação\", e o texto liga ao que Acã causou (7:25-26). Oséias 2:15 transforma o lugar em \"porta de esperança\"."
+  },
+  {
+   "id": "lanca-levantada",
+   "termo": "Lança erguida de Josué",
+   "ref": "8:18",
+   "explicado": false,
+   "significado": "Josué mantém a lança erguida até a vitória em Ai (8:26), lembrando os braços erguidos de Moisés em Êxodo 17. O gesto indica que a vitória depende da ordem de Deus."
+  },
+  {
+   "id": "pao-mofado",
+   "termo": "Pão mofado dos gibeonitas",
+   "ref": "9:5",
+   "explicado": false,
+   "significado": "Prova falsa que enganou Israel porque os líderes \"não pediram conselho\" ao SENHOR (9:14). O texto usa o detalhe para ensinar a consultar a Deus."
+  },
+  {
+   "id": "sol-parado",
+   "termo": "Sol detido",
+   "ref": "10:13",
+   "explicado": false,
+   "significado": "O texto cita o poema do livro de Jasar. Alguns leem como milagre astronômico literal, outros como linguagem poética de vitória antes do anoitecer; todos concordam que o ponto é que \"o SENHOR lutava por Israel\" (10:14)."
+  },
+  {
+   "id": "sortes",
+   "termo": "Sortes",
+   "ref": "18:10",
+   "explicado": false,
+   "significado": "A terra é repartida por sortes \"diante do SENHOR\": a herança é recebida como decisão de Deus, não como prêmio do mais forte."
+  },
+  {
+   "id": "cidades-refugio",
+   "termo": "Cidades de refúgio",
+   "ref": "20:2-3",
+   "explicado": true,
+   "significado": "O texto explica que servem para quem matou sem querer escapar do vingador até o julgamento (20:3-6)."
+  },
+  {
+   "id": "altar-ed",
+   "termo": "Altar Ed (Testemunho)",
+   "ref": "22:34",
+   "explicado": true,
+   "significado": "As tribos do oriente explicam que o altar não é para sacrifícios, mas testemunho de que também servem ao SENHOR (22:26-27, 34). O episódio mostra um conflito resolvido pelo diálogo."
+  },
+  {
+   "id": "pedra-testemunha",
+   "termo": "Pedra sob o carvalho",
+   "ref": "24:26-27",
+   "explicado": true,
+   "significado": "Josué diz que a pedra \"ouviu\" as palavras e será testemunha da aliança (24:27). É uma forma concreta de lembrar o compromisso."
+  },
+  {
+   "id": "ossos-jose",
+   "termo": "Ossos de José",
+   "ref": "24:32",
+   "explicado": false,
+   "significado": "Enterrados em Siquém, cumprem o pedido de José (Gn 50:25). Fecham a história iniciada com os patriarcas: a promessa chegou ao destino."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "yehoshua",
+   "pt": "Josué",
+   "refs": [
+    "1:1"
+   ],
+   "hebraico": {
+    "lema": "יְהוֹשֻׁעַ",
+    "translit": "Yehoshua",
+    "strong": "H3091"
+   },
+   "grego": {
+    "lema": "Ἰησοῦς",
+    "translit": "Iēsoûs",
+    "strong": "G2424"
+   },
+   "sentido": "\"o SENHOR é salvação\" ou \"o SENHOR salva\"",
+   "latim": {
+    "forma": "Iosue",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O nome Josué une o nome divino e o verbo salvar. Na Septuaginta é Iēsoûs, a mesma forma grega de Jesus, e Hebreus 4:8 aproveita essa coincidência.",
+   "interpretacao": false
+  },
+  {
+   "id": "chazaq-amats",
+   "pt": "Esforça-te e sê valente",
+   "refs": [
+    "1:6",
+    "1:7",
+    "1:9"
+   ],
+   "hebraico": {
+    "lema": "חֲזַק וֶאֱמָץ",
+    "translit": "chazaq ve'emats"
+   },
+   "sentido": "sê forte e firme, tem coragem",
+   "latim": {
+    "forma": "confortare et esto robustus",
+    "nota": ""
+   },
+   "outras": [
+    {
+     "lingua": "hebraico",
+     "forma": "חָזַק (chazaq, H2388); אָמַץ (amats, H553)",
+     "nota": "os dois verbos do refrão"
+    }
+   ],
+   "explicacao": "Refrão do capítulo 1 (e de 10:25). A coragem pedida não nasce da força de Josué, mas da promessa \"o SENHOR teu Deus será contigo\" (1:9).",
+   "interpretacao": false
+  },
+  {
+   "id": "hagah",
+   "pt": "Meditar",
+   "refs": [
+    "1:8"
+   ],
+   "hebraico": {
+    "lema": "הָגָה",
+    "translit": "hagah",
+    "strong": "H1897"
+   },
+   "sentido": "murmurar, recitar em voz baixa, refletir",
+   "latim": {
+    "forma": "meditaberis in eo diebus ac noctibus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Meditar na Bíblia hebraica é repetir as palavras com a boca, por isso \"não se apartará de tua boca\". O mesmo verbo aparece no Salmo 1:2.",
+   "interpretacao": false
+  },
+  {
+   "id": "torah",
+   "pt": "Livro da lei",
+   "refs": [
+    "1:8",
+    "8:34",
+    "24:26"
+   ],
+   "hebraico": {
+    "lema": "סֵפֶר הַתּוֹרָה",
+    "translit": "sefer hattorah"
+   },
+   "sentido": "o livro da instrução",
+   "latim": {
+    "forma": "liber legis",
+    "nota": ""
+   },
+   "outras": [
+    {
+     "lingua": "hebraico",
+     "forma": "תּוֹרָה (torah, H8451)",
+     "nota": "instrução, lei"
+    }
+   ],
+   "explicacao": "Josué é apresentado como líder cuja força vem de obedecer ao livro deixado por Moisés (1:7-8). Ele lê a lei ao povo (8:34) e acrescenta palavras ao livro (24:26).",
+   "interpretacao": false
+  },
+  {
+   "id": "tiqvah",
+   "pt": "Cordão (esperança)",
+   "refs": [
+    "2:18",
+    "2:21"
+   ],
+   "hebraico": {
+    "lema": "תִּקְוָה",
+    "translit": "tiqvah",
+    "strong": "H8615"
+   },
+   "sentido": "corda, fio; em outros textos, esperança",
+   "latim": {
+    "forma": "funiculum istum coccineum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A palavra que nomeia o cordão de Raabe é a mesma que em outros livros significa \"esperança\" (por exemplo, Jr 29:11). A relação entre os dois sentidos é um jogo de palavras notado por leitores antigos, não algo que o texto de Josué explora.",
+   "interpretacao": true
+  },
+  {
+   "id": "zikkaron",
+   "pt": "Memorial",
+   "refs": [
+    "4:7"
+   ],
+   "hebraico": {
+    "lema": "זִכָּרוֹן",
+    "translit": "zikkaron",
+    "strong": "H2146"
+   },
+   "sentido": "lembrança, memorial",
+   "latim": {
+    "forma": "monumentum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "As pedras são memorial \"para sempre\". Em Josué a memória é pedagógica: as crianças perguntam e os pais contam (4:6, 21).",
+   "interpretacao": false
+  },
+  {
+   "id": "herem",
+   "pt": "Anátema",
+   "refs": [
+    "6:17",
+    "6:18",
+    "7:1"
+   ],
+   "hebraico": {
+    "lema": "חֵרֶם",
+    "translit": "cherem",
+    "strong": "H2764"
+   },
+   "grego": {
+    "lema": "ἀνάθεμα",
+    "translit": "anáthema",
+    "strong": "G331"
+   },
+   "sentido": "consagrado a Deus de modo irrevogável, separado para destruição",
+   "latim": {
+    "forma": "anathema",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Termo técnico da guerra antiga: o que é cherem não pode ser usado pelo homem. Prática semelhante aparece na Estela de Mesa, de Moabe. O tema é difícil e muito discutido na teologia.",
+   "interpretacao": true
+  },
+  {
+   "id": "sar-tsava",
+   "pt": "Príncipe do exército do SENHOR",
+   "refs": [
+    "5:14"
+   ],
+   "hebraico": {
+    "lema": "שַׂר־צְבָא יְהוָה",
+    "translit": "sar-tseva YHWH"
+   },
+   "sentido": "comandante do exército do SENHOR",
+   "latim": {
+    "forma": "princeps exercitus Domini",
+    "nota": ""
+   },
+   "outras": [
+    {
+     "lingua": "hebraico",
+     "forma": "צָבָא (tsava, H6635)",
+     "nota": "exército, hoste"
+    }
+   ],
+   "explicacao": "Figura celestial que Josué adora e que o manda tirar as sandálias. Muitos judeus a entendem como um anjo; muitos cristãos antigos a viram como manifestação do Filho de Deus antes da encarnação.",
+   "interpretacao": true
+  },
+  {
+   "id": "shofar",
+   "pt": "Trombeta de chifre",
+   "refs": [
+    "6:4",
+    "6:20"
+   ],
+   "hebraico": {
+    "lema": "שׁוֹפָר",
+    "translit": "shofar",
+    "strong": "H7782"
+   },
+   "grego": {
+    "lema": "σάλπιγξ",
+    "translit": "sálpinx",
+    "strong": "G4536"
+   },
+   "sentido": "trombeta feita de chifre de carneiro",
+   "latim": {
+    "forma": "bucina",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O shofar é usado no culto e na guerra. Em 6:4 o texto fala de \"trombetas de carneiro\" (shofrot hayovelim), ligadas à palavra jubileu (yovel).",
+   "interpretacao": false
+  },
+  {
+   "id": "goral",
+   "pt": "Sorte",
+   "refs": [
+    "14:2",
+    "18:6",
+    "18:10"
+   ],
+   "hebraico": {
+    "lema": "גּוֹרָל",
+    "translit": "goral",
+    "strong": "H1486"
+   },
+   "sentido": "sorte, porção sorteada; destino",
+   "latim": {
+    "forma": "sors",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Lançar sortes \"diante do SENHOR\" era um modo de deixar a decisão com Deus. Por extensão, goral passou a significar a porção recebida.",
+   "interpretacao": false
+  },
+  {
+   "id": "nachalah",
+   "pt": "Herança",
+   "refs": [
+    "11:23",
+    "13:7",
+    "24:28"
+   ],
+   "hebraico": {
+    "lema": "נַחֲלָה",
+    "translit": "nachalah",
+    "strong": "H5159"
+   },
+   "sentido": "herança, porção de terra",
+   "latim": {
+    "forma": "hereditas, possessio",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Metade do livro (13–21) descreve a herança de cada tribo. O livro termina com cada um voltando \"à sua herança\" (24:28).",
+   "interpretacao": false
+  },
+  {
+   "id": "nuach",
+   "pt": "Repouso",
+   "refs": [
+    "1:13",
+    "21:44"
+   ],
+   "hebraico": {
+    "lema": "נוּחַ",
+    "translit": "nuach",
+    "strong": "H5117"
+   },
+   "sentido": "descansar, dar repouso",
+   "latim": {
+    "forma": "requies",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O alvo da entrada na terra é o repouso dado por Deus (21:44). Hebreus 4:8 diz que esse repouso ainda apontava para outro, maior.",
+   "interpretacao": true
+  },
+  {
+   "id": "miqlat",
+   "pt": "Refúgio",
+   "refs": [
+    "20:2",
+    "20:3"
+   ],
+   "hebraico": {
+    "lema": "מִקְלָט",
+    "translit": "miqlat",
+    "strong": "H4733"
+   },
+   "sentido": "lugar de asilo, refúgio",
+   "latim": {
+    "forma": "urbes fugitivorum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "As seis cidades de refúgio cumprem o que Moisés mandou (Nm 35; Dt 19). Distinguem o homicídio acidental do intencional.",
+   "interpretacao": false
+  },
+  {
+   "id": "ed",
+   "pt": "Testemunho, testemunha",
+   "refs": [
+    "22:34",
+    "24:22",
+    "24:27"
+   ],
+   "hebraico": {
+    "lema": "עֵד",
+    "translit": "ed",
+    "strong": "H5707"
+   },
+   "sentido": "testemunha; prova de um compromisso",
+   "latim": {
+    "forma": "testimonium",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O altar Ed e a pedra de Siquém são \"testemunhas\". Em 24:22 o próprio povo se declara testemunha de sua escolha.",
+   "interpretacao": false
+  },
+  {
+   "id": "avad",
+   "pt": "Servir",
+   "refs": [
+    "24:14",
+    "24:15",
+    "24:18"
+   ],
+   "hebraico": {
+    "lema": "עָבַד",
+    "translit": "avad",
+    "strong": "H5647"
+   },
+   "sentido": "servir, trabalhar; também prestar culto",
+   "latim": {
+    "forma": "servire",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O capítulo 24 usa o verbo cerca de quinze vezes. Servir a Deus aqui é lealdade exclusiva, em contraste com os deuses \"da outra parte do rio\".",
+   "interpretacao": false
+  },
+  {
+   "id": "emet",
+   "pt": "Verdade",
+   "refs": [
+    "24:14"
+   ],
+   "hebraico": {
+    "lema": "אֱמֶת",
+    "translit": "emet",
+    "strong": "H571"
+   },
+   "sentido": "verdade, fidelidade, firmeza",
+   "latim": {
+    "forma": "in veritate",
+    "nota": ""
+   },
+   "outras": [
+    {
+     "lingua": "hebraico",
+     "forma": "תָּמִים (tamim, H8549)",
+     "nota": "íntegro, completo"
+    }
+   ],
+   "explicacao": "\"Com integridade e em verdade\" (tamim e emet): servir a Deus de modo inteiro e confiável, não só em aparência.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "merneptah",
+   "titulo": "Estela de Merneptá: a primeira menção a Israel",
+   "refs": [
+    "11:23",
+    "24:28"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Estela de Merneptá (Estela de Israel)",
+   "referencia": "Museu Egípcio do Cairo",
+   "data_fonte": "c. 1208 a.C.",
+   "data_evento": "campanha em Canaã do 5º ano de Merneptá; descoberta em 1896",
+   "resumo": "Inscrição do faraó Merneptá sobre suas vitórias. Entre os inimigos em Canaã cita \"Israel\", escrito com o sinal de povo e não de cidade, dizendo que \"sua semente não existe mais\".",
+   "relacao": "É a mais antiga menção conhecida a Israel fora da Bíblia. Mostra que no fim do séc. XIII a.C. já havia um povo chamado Israel em Canaã, o que combina com o quadro de Josué e Juízes. Não descreve a conquista nem cita Josué.",
+   "grau": "documentado"
+  },
+  {
+   "id": "amarna",
+   "titulo": "Cartas de Amarna",
+   "refs": [
+    "10:1-5",
+    "10:33"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Cartas de Amarna",
+   "referencia": "tabletes de Tell el-Amarna, Egito (cartas de Abdi-Heba de Jerusalém: EA 285–290); Museu Britânico, Berlim, Cairo e outros",
+   "data_fonte": "c. 1360–1330 a.C.",
+   "data_evento": "séc. XIV a.C.; descobertas em 1887",
+   "resumo": "Correspondência de reis de cidades de Canaã com o faraó. Citam Jerusalém, Siquém, Gezer, Laquis, Hazor e grupos chamados habiru, que ameaçavam as cidades.",
+   "relacao": "Mostram a Canaã de cidades-estados com reis locais, como em Josué 10–12. A relação entre os habiru e os hebreus é muito debatida e não pode ser tomada como equivalência.",
+   "grau": "associacao"
+  },
+  {
+   "id": "jerico",
+   "titulo": "Escavações em Jericó (Tell es-Sultan)",
+   "refs": [
+    "6:20",
+    "6:24"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Escavações de John Garstang (1930–1936) e Kathleen Kenyon (1952–1958)",
+   "referencia": "Tell es-Sultan, perto da Jericó moderna",
+   "data_fonte": "restos da Idade do Bronze",
+   "data_evento": "escavações no séc. XX",
+   "resumo": "Garstang encontrou muros caídos e uma camada queimada que datou de c. 1400 a.C. Kenyon redatou a destruição para c. 1550 a.C. e concluiu que no séc. XIII a.C. quase não havia cidade. Em 1990 Bryant Wood defendeu de novo c. 1400 a.C.",
+   "relacao": "Jericó é o caso mais discutido da arqueologia bíblica. A data da destruição depende da cronologia adotada para o Êxodo e da leitura da cerâmica; não há consenso.",
+   "grau": "associacao"
+  },
+  {
+   "id": "hazor",
+   "titulo": "A destruição de Hazor",
+   "refs": [
+    "11:10-13"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Escavações de Yigael Yadin (1955–1958) e Amnon Ben-Tor (desde 1990)",
+   "referencia": "Tel Hazor, Alta Galileia",
+   "data_fonte": "Idade do Bronze Recente",
+   "data_evento": "destruição por incêndio no séc. XIII a.C.",
+   "resumo": "A grande cidade cananeia de Hazor, a maior da região, terminou em um incêndio violento, com estátuas de deuses e reis mutiladas.",
+   "relacao": "Josué 11:10-13 diz que Hazor era \"cabeça de todos estes reinos\" e que só ela foi queimada. Yadin e Ben-Tor atribuíram a destruição aos israelitas; outros sugerem revolta interna, egípcios ou outros povos.",
+   "grau": "associacao"
+  },
+  {
+   "id": "ai",
+   "titulo": "O problema de Ai",
+   "refs": [
+    "8:28"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Escavações em et-Tell (Judith Marquet-Krause, 1933–1935; Joseph Callaway, 1964–1972) e em Khirbet el-Maqatir",
+   "referencia": "Cisjordânia, perto de Betel",
+   "data_fonte": "restos do Bronze Antigo e do Ferro I",
+   "data_evento": "escavações no séc. XX",
+   "resumo": "Et-Tell, o local tradicional de Ai, foi uma grande cidade no Bronze Antigo, mas parece ter ficado desabitado na época provável da conquista. Por isso alguns propõem outro local, como Khirbet el-Maqatir.",
+   "relacao": "O nome Ai significa \"ruína\". Há quem conclua que o relato explica uma ruína antiga, quem questione a identificação do local e quem proponha outra data. É uma questão aberta.",
+   "grau": "associacao"
+  },
+  {
+   "id": "gibeon",
+   "titulo": "Alças de jarros com o nome de Gibeão",
+   "refs": [
+    "9:3",
+    "10:12"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Escavações de James Pritchard em el-Jib",
+   "referencia": "el-Jib, ao norte de Jerusalém",
+   "data_fonte": "c. séc. VII–VI a.C.",
+   "data_evento": "escavações de 1956–1962",
+   "resumo": "Dezenas de alças de jarros de vinho com a palavra \"Gibeão\" (gb'n) gravada em hebraico, junto com um grande poço escavado na rocha.",
+   "relacao": "Confirmam que el-Jib é a antiga Gibeão de Josué 9–10. As inscrições são de época bem posterior a Josué e não falam dos fatos do livro.",
+   "grau": "associacao"
+  },
+  {
+   "id": "ebal-altar",
+   "titulo": "Estrutura do monte Ebal",
+   "refs": [
+    "8:30-31"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Escavações de Adam Zertal no monte Ebal",
+   "referencia": "monte Ebal, perto de Nablus",
+   "data_fonte": "c. séc. XIII–XII a.C.",
+   "data_evento": "escavado de 1982 a 1989",
+   "resumo": "Estrutura de pedras não lavradas com rampa e ossos de animais, interpretada por Zertal como altar.",
+   "relacao": "Zertal a identificou com o altar de 8:30-31. Muitos arqueólogos discordam e a veem como torre de vigia ou outra construção. Associação possível, não comprovada.",
+   "grau": "associacao"
+  },
+  {
+   "id": "silo",
+   "titulo": "Escavações em Siló",
+   "refs": [
+    "18:1"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Escavações de Israel Finkelstein (1981–1984) e escavações recentes",
+   "referencia": "Khirbet Seilun (Tel Siló)",
+   "data_fonte": "Idade do Ferro I",
+   "data_evento": "c. séc. XII–XI a.C.",
+   "resumo": "O sítio teve ocupação importante na Idade do Ferro I, com depósitos e grandes jarros, e foi destruído por volta de meados do séc. XI a.C.",
+   "relacao": "Combina com Siló como centro religioso de Israel em Josué 18 e em 1 Samuel 1–4. As escavações não identificaram o tabernáculo em si.",
+   "grau": "associacao"
+  },
+  {
+   "id": "josefo-josue",
+   "titulo": "Josefo narra a conquista",
+   "refs": [
+    "6:20",
+    "10:13"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 5, cap. 1",
+   "data_fonte": "c. 93–94 d.C.",
+   "data_evento": "entrada em Canaã",
+   "resumo": "Josefo reconta a travessia do Jordão, a queda de Jericó, Acã, os gibeonitas e o dia prolongado, dizendo que este estava registrado nos livros guardados no templo.",
+   "relacao": "Mostra como o judaísmo do séc. I lia Josué. Josefo segue o relato bíblico e não é testemunha independente dos fatos.",
+   "grau": "documentado"
+  }
+ ]
+}

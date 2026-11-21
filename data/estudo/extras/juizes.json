@@ -1,0 +1,773 @@
+{
+ "livro": "juizes",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 2,
+   "ref": "2:1-5",
+   "titulo": "O choro em Boquim",
+   "descricao": "O anjo do SENHOR repreende Israel por ter feito alianças com os povos da terra, e o povo chora em alta voz.",
+   "alt": "Uma multidão chora diante de uma figura angelical luminosa em um vale.",
+   "prompt": "A crowd of Israelites weeping aloud in a rocky valley, some kneeling with covered faces, before a dignified angel of the Lord in white robes surrounded by soft light, a simple stone altar with rising smoke nearby, overcast muted light"
+  },
+  {
+   "id": "q02",
+   "capitulo": 4,
+   "ref": "4:4-5",
+   "titulo": "Débora sob a palmeira",
+   "descricao": "A profetisa Débora julga Israel sentada debaixo de uma palmeira, na região montanhosa de Efraim.",
+   "alt": "Uma mulher sábia sentada sob uma palmeira ouve pessoas que vêm buscar justiça.",
+   "prompt": "Deborah, a dignified Israelite woman prophet in a simple robe and headscarf, seated beneath a tall palm tree in the hill country of Ephraim, listening to villagers who come to her for judgment, an elder speaking, warm dappled sunlight"
+  },
+  {
+   "id": "q03",
+   "capitulo": 4,
+   "ref": "4:14",
+   "titulo": "Baraque desce do Tabor",
+   "descricao": "Débora diz a Baraque que o SENHOR vai à frente dele, e Baraque desce do monte Tabor com dez mil homens.",
+   "alt": "Débora aponta para o vale enquanto Baraque e seus homens descem um monte arredondado.",
+   "prompt": "On the slopes of rounded Mount Tabor, Deborah pointing toward the plain below, Barak in simple armor leading ten thousand Israelite foot soldiers down the mountain, in the distant plain iron chariots and storm clouds gathering, wide view, no violence"
+  },
+  {
+   "id": "q04",
+   "capitulo": 5,
+   "ref": "5:1-3",
+   "titulo": "O cântico de Débora",
+   "descricao": "Depois da vitória, Débora e Baraque cantam louvor ao SENHOR.",
+   "alt": "Débora e Baraque cantam de braços erguidos, rodeados por pessoas que celebram.",
+   "prompt": "Deborah and Barak singing with raised hands under an open sky beside the river Kishon, villagers around them playing tambourines and lyres, joyful faces, a fresh morning after rain, light glinting on wet ground"
+  },
+  {
+   "id": "q05",
+   "capitulo": 6,
+   "ref": "6:11-12",
+   "titulo": "Gideão no lagar",
+   "descricao": "Gideão malha trigo escondido em um lagar quando o anjo do SENHOR lhe diz: o SENHOR é contigo, homem esforçado.",
+   "alt": "Um jovem bate trigo dentro de um tanque de pedra; ao lado, sob um carvalho, está sentado um anjo.",
+   "prompt": "Young Gideon threshing wheat secretly inside a stone winepress, glancing nervously over his shoulder, while a calm dignified angel sits beneath a great oak tree nearby, soft light around the angel, rural hillside, afternoon light"
+  },
+  {
+   "id": "q06",
+   "capitulo": 6,
+   "ref": "6:37-38",
+   "titulo": "O velo de lã",
+   "descricao": "Gideão pede um sinal: de manhã encontra o velo encharcado de orvalho e o chão seco.",
+   "alt": "Gideão espreme um velo de lã sobre uma tigela ao amanhecer, com o chão seco à volta.",
+   "prompt": "Gideon at dawn kneeling on a dry threshing floor, wringing a wool fleece over a clay bowl that fills with water, the ground around him dry, pale pink sky, quiet wonder on his face"
+  },
+  {
+   "id": "q07",
+   "capitulo": 7,
+   "ref": "7:5-7",
+   "titulo": "Os trezentos",
+   "descricao": "Para reduzir o exército, Deus manda separar os que bebem água levando-a à boca com a mão.",
+   "alt": "Soldados bebem à beira de um riacho; alguns de joelhos, outros levando a água à boca com a mão.",
+   "prompt": "Israelite soldiers at a spring, most kneeling down to drink directly from the water, a few standing and lapping water from their cupped hands while watching around them, Gideon observing and counting, hills of Gilboa behind, morning light"
+  },
+  {
+   "id": "q08",
+   "capitulo": 7,
+   "ref": "7:19-20",
+   "titulo": "Cântaros e tochas",
+   "descricao": "À meia-noite, os trezentos tocam trombetas, quebram os cântaros e erguem tochas ao redor do acampamento de Midiã.",
+   "alt": "Homens na escuridão erguem tochas e tocam trombetas, com cântaros quebrados aos pés.",
+   "prompt": "Night scene on a hillside, Gideon's three hundred men in a line holding blazing torches in their left hands and ram's horn trumpets in their right, broken clay jars at their feet, the vast Midianite camp of tents and camels in confusion in the valley below, dramatic firelight"
+  },
+  {
+   "id": "q09",
+   "capitulo": 9,
+   "ref": "9:7-8",
+   "titulo": "Jotão no monte Gerizim",
+   "descricao": "Do alto do Gerizim, Jotão conta aos homens de Siquém a parábola das árvores que escolhem um rei.",
+   "alt": "Um jovem no topo de um monte fala alto aos moradores de uma cidade abaixo.",
+   "prompt": "Jotham, a young man standing on a rocky ledge at the top of Mount Gerizim, calling out with outstretched arm to the people of the walled city of Shechem below, an olive tree, a fig tree, a vine and a thorn bush around him on the slope, clear light"
+  },
+  {
+   "id": "q10",
+   "capitulo": 11,
+   "ref": "11:34-35",
+   "titulo": "A filha de Jefté",
+   "descricao": "Ao voltar vitorioso, Jefté vê a filha única sair ao seu encontro com tamboris e danças, e rasga as vestes.",
+   "alt": "Uma jovem sai de casa dançando com um tamborim; o pai, ao vê-la, rasga as vestes em desespero.",
+   "prompt": "Jephthah, a battle-worn warrior, at the gate of his house in Mizpah, tearing his garment in anguish as his only daughter, a young woman, comes out dancing joyfully with a tambourine, her smile turning to confusion, evening light, emotional restraint"
+  },
+  {
+   "id": "q11",
+   "capitulo": 13,
+   "ref": "13:19-20",
+   "titulo": "O anjo sobe na chama",
+   "descricao": "Manoá oferece um sacrifício e o anjo do SENHOR sobe na chama do altar; ele e a mulher se prostram.",
+   "alt": "Um casal prostrado diante de uma rocha onde arde uma chama alta que sobe ao céu.",
+   "prompt": "Manoah and his wife bowing with faces to the ground beside a rock altar, a tall column of flame rising to the sky, within it the luminous form of an angel ascending, rural landscape of Zorah, twilight"
+  },
+  {
+   "id": "q12",
+   "capitulo": 14,
+   "ref": "14:8-9",
+   "titulo": "O mel no leão",
+   "descricao": "Sansão encontra um enxame de abelhas e um favo de mel na carcaça do leão e come pelo caminho.",
+   "alt": "Um jovem de cabelos longos tira um favo de mel de uma carcaça seca de leão, entre vinhas.",
+   "prompt": "Samson, a muscular young man with long uncut braided hair, kneeling by the dried skeleton of a lion among vineyards, lifting a dripping honeycomb with bees flying around, curious expression, warm golden light"
+  },
+  {
+   "id": "q13",
+   "capitulo": 15,
+   "ref": "15:4-5",
+   "titulo": "As raposas e as tochas",
+   "descricao": "Sansão solta raposas com tochas nas caudas nos campos dos filisteus, queimando trigais, vinhas e olivais.",
+   "alt": "Raposas correm por um campo de trigo maduro com tochas; ao longe, fumaça sobe dos campos.",
+   "prompt": "Wide view of golden Philistine wheat fields at dusk, foxes running through the grain in pairs with burning torches tied between their tails, smoke and flames rising in the distance over vineyards and olive groves, Samson watching from a hill"
+  },
+  {
+   "id": "q14",
+   "capitulo": 16,
+   "ref": "16:19",
+   "titulo": "Dalila e as sete tranças",
+   "descricao": "Enquanto Sansão dorme em seus joelhos, Dalila manda cortar as sete tranças do cabelo dele.",
+   "alt": "Um homem forte dorme com a cabeça no colo de uma mulher, enquanto outro homem corta suas tranças.",
+   "prompt": "Interior lit by an oil lamp, Samson asleep with his head on the lap of Delilah, an elegant Philistine woman, while a man carefully cuts his long braids, Philistine lords waiting in the shadows of the doorway with bags of silver, tense quiet atmosphere"
+  },
+  {
+   "id": "q15",
+   "capitulo": 16,
+   "ref": "16:29-30",
+   "titulo": "As colunas do templo de Dagom",
+   "descricao": "Cego e preso, Sansão ora ao SENHOR e empurra as duas colunas centrais do templo, que desaba.",
+   "alt": "Sansão, de braços abertos entre duas colunas, empurra-as enquanto o templo começa a ruir.",
+   "prompt": "Inside the great Philistine temple of Dagon, blind Samson in chains standing between two central wooden pillars, pushing them apart with all his strength, his face lifted in prayer, cracks spreading in the roof, crowds above starting to flee, dust falling, dramatic light, no gore"
+  },
+  {
+   "id": "q16",
+   "capitulo": 17,
+   "ref": "17:5-6",
+   "titulo": "A casa de deuses de Mica",
+   "descricao": "Mica tem uma casa de ídolos, faz um éfode e consagra o próprio filho como sacerdote: cada um fazia o que bem entendia.",
+   "alt": "Um homem diante de um pequeno santuário doméstico com ídolos e uma veste sacerdotal.",
+   "prompt": "Micah, an Ephraimite man, standing in a small household shrine with a carved silver idol, small figurines and a priestly ephod hanging on a post, his young son beside him in a makeshift priestly garment, dim oil lamp light, an uneasy atmosphere"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "ciclo",
+   "termo": "O ciclo dos juízes",
+   "ref": "2:11-19",
+   "explicado": true,
+   "significado": "O próprio texto apresenta o padrão: o povo faz o mal, é oprimido, clama, Deus levanta um juiz que liberta, há repouso, e depois tudo recomeça, cada vez pior (2:11-19)."
+  },
+  {
+   "id": "baal-astarote",
+   "termo": "Baal e Astarote",
+   "ref": "2:13",
+   "explicado": false,
+   "significado": "Deuses cananeus ligados à chuva, à fertilidade e à guerra. No livro, servir a eles é \"abandonar o SENHOR\", a raiz dos problemas de Israel."
+  },
+  {
+   "id": "espirito",
+   "termo": "O Espírito do SENHOR que vem sobre",
+   "ref": "3:10",
+   "explicado": false,
+   "significado": "O texto diz que o Espírito vem sobre Otniel, Gideão, Jefté e Sansão para que libertem o povo (3:10; 6:34; 11:29; 14:6). Dá força para a missão, mas não torna a pessoa perfeita."
+  },
+  {
+   "id": "palmeira",
+   "termo": "Palmeira de Débora",
+   "ref": "4:5",
+   "explicado": false,
+   "significado": "Lugar onde a profetisa julga Israel. Simboliza justiça acessível e uma liderança reconhecida pelo povo, num tempo de crise."
+  },
+  {
+   "id": "estaca",
+   "termo": "Estaca da tenda de Jael",
+   "ref": "4:21",
+   "explicado": false,
+   "significado": "Com um objeto doméstico, uma mulher derrota o general inimigo, cumprindo a palavra de Débora de que Sísera cairia \"por mão de mulher\" (4:9)."
+  },
+  {
+   "id": "carros-ferro",
+   "termo": "Carros de ferro",
+   "ref": "4:3",
+   "explicado": false,
+   "significado": "Símbolo do poder militar cananeu que Israel não conseguia vencer nas planícies (1:19). A vitória sobre eles é atribuída ao SENHOR (4:15; 5:20-21)."
+  },
+  {
+   "id": "lagar",
+   "termo": "Lagar de Gideão",
+   "ref": "6:11",
+   "explicado": false,
+   "significado": "Gideão bate trigo dentro de um lagar para esconder-se. A cena mostra o medo e a pobreza do povo sob Midiã e o contraste com o \"homem esforçado\" que o anjo chama."
+  },
+  {
+   "id": "velo",
+   "termo": "Velo de lã",
+   "ref": "6:37",
+   "explicado": false,
+   "significado": "Sinal pedido por Gideão para ter certeza do chamado. O texto não diz que Deus aprovou ou reprovou o pedido; muitos leem como sinal de fé ainda fraca que Deus acolhe com paciência."
+  },
+  {
+   "id": "trezentos",
+   "termo": "Os trezentos de Gideão",
+   "ref": "7:2",
+   "explicado": true,
+   "significado": "O texto explica a razão de um exército tão pequeno: para que Israel não diga \"minha mão me salvou\" (7:2)."
+  },
+  {
+   "id": "cantaros-tochas",
+   "termo": "Cântaros e tochas",
+   "ref": "7:20",
+   "explicado": false,
+   "significado": "Luz escondida em vasos de barro que se quebram. A cena mostra uma vitória sem combate convencional. Alguns leitores lembram 2 Coríntios 4:7, mas isso é aplicação posterior."
+  },
+  {
+   "id": "efode-gideao",
+   "termo": "Éfode de Gideão",
+   "ref": "8:27",
+   "explicado": true,
+   "significado": "O texto diz o resultado: o éfode feito com o ouro dos despojos virou objeto de idolatria e \"tropeço\" para Gideão e sua casa (8:27)."
+  },
+  {
+   "id": "espinheiro",
+   "termo": "Parábola das árvores e o espinheiro",
+   "ref": "9:15",
+   "explicado": true,
+   "significado": "Jotão aplica a parábola: as árvores úteis recusam reinar e o espinheiro sem fruto aceita, assim como Abimeleque (9:16-20). O fogo que sai do espinheiro anuncia a destruição mútua que vem a seguir."
+  },
+  {
+   "id": "voto-jefte",
+   "termo": "Voto de Jefté",
+   "ref": "11:31",
+   "explicado": false,
+   "significado": "Um voto precipitado que termina em tragédia. O texto não aprova o ato; se a filha foi sacrificada ou consagrada a uma vida sem casamento é debatido desde a Antiguidade (11:39)."
+  },
+  {
+   "id": "cabelo",
+   "termo": "Cabelo de Sansão",
+   "ref": "16:17",
+   "explicado": false,
+   "significado": "Sinal do voto de nazireu (13:5). A força não estava no cabelo em si: quando o cabelo é cortado, o texto diz que \"o SENHOR já se havia dele apartado\" (16:20)."
+  },
+  {
+   "id": "leao-mel",
+   "termo": "Leão e favo de mel",
+   "ref": "14:14",
+   "explicado": true,
+   "significado": "Sansão transforma o episódio em enigma: \"do comedor saiu comida, e do forte saiu doçura\" (14:14). O próprio texto revela a resposta em 14:18."
+  },
+  {
+   "id": "colunas",
+   "termo": "Colunas do templo de Dagom",
+   "ref": "16:29",
+   "explicado": false,
+   "significado": "Na morte, Sansão derruba o templo do deus que celebrava sua derrota. A cena mostra que o SENHOR, e não Dagom, é o vencedor."
+  },
+  {
+   "id": "chibolete",
+   "termo": "Chibolete",
+   "ref": "12:6",
+   "explicado": false,
+   "significado": "Uma palavra pronunciada de modo diferente revela quem era efraimita. Mostra como a divisão entre tribos chegou a extremos; hoje \"xibolete\" designa uma senha que revela a que grupo alguém pertence."
+  },
+  {
+   "id": "sem-rei",
+   "termo": "\"Não havia rei em Israel\"",
+   "ref": "21:25",
+   "explicado": true,
+   "significado": "O próprio refrão explica: sem rei, \"cada um fazia o que era correto diante de seus olhos\" (17:6; 21:25). Prepara a narrativa de Samuel e o início da monarquia."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "shofet",
+   "pt": "Juiz",
+   "refs": [
+    "2:16",
+    "2:18",
+    "4:4"
+   ],
+   "hebraico": {
+    "lema": "שֹׁפֵט",
+    "translit": "shofet",
+    "strong": "H8199"
+   },
+   "sentido": "juiz, governante; aquele que estabelece a justiça",
+   "latim": {
+    "forma": "iudex",
+    "nota": "Em 2:16: suscitavitque Dominus iudices."
+   },
+   "outras": [],
+   "explicacao": "Os juízes do livro são mais líderes libertadores do que magistrados de tribunal, embora Débora também resolva causas (4:5). O nome em latim, Liber Iudicum, deu o título ao livro.",
+   "interpretacao": false
+  },
+  {
+   "id": "moshia",
+   "pt": "Salvador, libertador",
+   "refs": [
+    "3:9",
+    "3:15"
+   ],
+   "hebraico": {
+    "lema": "מוֹשִׁיעַ",
+    "translit": "moshia",
+    "strong": "H3467"
+   },
+   "sentido": "aquele que salva, livra",
+   "latim": {
+    "forma": "salvator",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Particípio do verbo yasha, salvar. Deus \"suscita salvador\" quando o povo clama. A mesma raiz está nos nomes Josué e Jesus.",
+   "interpretacao": false
+  },
+  {
+   "id": "zaaq",
+   "pt": "Clamar",
+   "refs": [
+    "3:9",
+    "6:6",
+    "10:10"
+   ],
+   "hebraico": {
+    "lema": "זָעַק",
+    "translit": "za'aq",
+    "strong": "H2199"
+   },
+   "grego": {
+    "lema": "βοάω",
+    "translit": "boáō"
+   },
+   "sentido": "gritar por socorro, clamar",
+   "latim": {
+    "forma": "clamaverunt",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O clamor do povo oprimido é o ponto de virada de cada ciclo. Deus responde mesmo quando o arrependimento parece superficial (10:10-16).",
+   "interpretacao": false
+  },
+  {
+   "id": "ra-beenei",
+   "pt": "Fazer o mal aos olhos do SENHOR",
+   "refs": [
+    "2:11",
+    "3:7",
+    "13:1"
+   ],
+   "hebraico": {
+    "lema": "הָרַע בְּעֵינֵי יְהוָה",
+    "translit": "hara be'enei YHWH"
+   },
+   "sentido": "o que é mau na avaliação de Deus",
+   "latim": {
+    "forma": "fecerunt malum in conspectu Domini",
+    "nota": ""
+   },
+   "outras": [
+    {
+     "lingua": "hebraico",
+     "forma": "רַע (ra, H7451)",
+     "nota": "mal"
+    }
+   ],
+   "explicacao": "Frase que abre os ciclos. No fim do livro surge o contraste: \"cada um fazia o que era correto diante de seus olhos\" (21:25). O problema é trocar o olhar de Deus pelo próprio.",
+   "interpretacao": false
+  },
+  {
+   "id": "yashar",
+   "pt": "Reto, correto",
+   "refs": [
+    "17:6",
+    "21:25"
+   ],
+   "hebraico": {
+    "lema": "יָשָׁר",
+    "translit": "yashar",
+    "strong": "H3477"
+   },
+   "sentido": "reto, direito, correto",
+   "latim": {
+    "forma": "rectum",
+    "nota": "Em 21:25: unusquisque quod sibi rectum videbatur hoc faciebat."
+   },
+   "outras": [],
+   "explicacao": "No refrão final, o que é \"reto aos próprios olhos\" vira medida de tudo. O livro mostra as consequências: idolatria, violência e guerra entre tribos.",
+   "interpretacao": false
+  },
+  {
+   "id": "ruach",
+   "pt": "Espírito",
+   "refs": [
+    "3:10",
+    "6:34",
+    "14:6"
+   ],
+   "hebraico": {
+    "lema": "רוּחַ",
+    "translit": "ruach",
+    "strong": "H7307"
+   },
+   "grego": {
+    "lema": "πνεῦμα",
+    "translit": "pneûma",
+    "strong": "G4151"
+   },
+   "sentido": "espírito, sopro, vento",
+   "latim": {
+    "forma": "spiritus Domini",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Em Juízes o Espírito do SENHOR \"vem sobre\" ou \"reveste\" (6:34, literalmente \"vestiu-se de Gideão\") pessoas comuns para uma tarefa de libertação.",
+   "interpretacao": false
+  },
+  {
+   "id": "malakh",
+   "pt": "Anjo do SENHOR",
+   "refs": [
+    "2:1",
+    "6:11",
+    "13:3"
+   ],
+   "hebraico": {
+    "lema": "מַלְאַךְ יְהוָה",
+    "translit": "mal'akh YHWH"
+   },
+   "sentido": "mensageiro do SENHOR",
+   "latim": {
+    "forma": "angelus Domini",
+    "nota": ""
+   },
+   "outras": [
+    {
+     "lingua": "hebraico",
+     "forma": "מַלְאָךְ (mal'akh, H4397)",
+     "nota": "mensageiro"
+    }
+   ],
+   "explicacao": "Em várias cenas o anjo fala como o próprio Deus (2:1; 6:14). Para muitos intérpretes é um mensageiro celeste que fala em nome de Deus; para muitos cristãos antigos, uma manifestação do Filho antes da encarnação.",
+   "interpretacao": true
+  },
+  {
+   "id": "shalom",
+   "pt": "O SENHOR é paz",
+   "refs": [
+    "6:24"
+   ],
+   "hebraico": {
+    "lema": "יְהוָה שָׁלוֹם",
+    "translit": "YHWH shalom"
+   },
+   "sentido": "o SENHOR é paz, bem-estar completo",
+   "latim": {
+    "forma": "Domini pax",
+    "nota": ""
+   },
+   "outras": [
+    {
+     "lingua": "hebraico",
+     "forma": "שָׁלוֹם (shalom, H7965)",
+     "nota": "paz"
+    }
+   ],
+   "explicacao": "Nome do altar de Gideão, depois que o anjo lhe diz \"paz seja contigo, não temas\" (6:23). Shalom é mais que ausência de guerra: é inteireza.",
+   "interpretacao": false
+  },
+  {
+   "id": "shaqat",
+   "pt": "Repousar (a terra)",
+   "refs": [
+    "3:11",
+    "5:31",
+    "8:28"
+   ],
+   "hebraico": {
+    "lema": "שָׁקַט",
+    "translit": "shaqat",
+    "strong": "H8252"
+   },
+   "sentido": "estar quieto, em paz",
+   "latim": {
+    "forma": "quievit terra",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "\"E repousou a terra quarenta anos\" fecha vários ciclos. Os números redondos (40, 80) indicam períodos de paz; como somá-los numa cronologia é discutido.",
+   "interpretacao": false
+  },
+  {
+   "id": "efod",
+   "pt": "Éfode",
+   "refs": [
+    "8:27",
+    "17:5"
+   ],
+   "hebraico": {
+    "lema": "אֵפוֹד",
+    "translit": "efod",
+    "strong": "H646"
+   },
+   "sentido": "veste sacerdotal; às vezes objeto de consulta",
+   "latim": {
+    "forma": "ephod",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O éfode legítimo era veste do sumo sacerdote. Em Juízes, Gideão e Mica fazem éfodes por conta própria, e eles se tornam ocasião de idolatria.",
+   "interpretacao": false
+  },
+  {
+   "id": "neder",
+   "pt": "Voto",
+   "refs": [
+    "11:30",
+    "11:39"
+   ],
+   "hebraico": {
+    "lema": "נֶדֶר",
+    "translit": "neder",
+    "strong": "H5088"
+   },
+   "sentido": "voto, promessa feita a Deus",
+   "latim": {
+    "forma": "votum",
+    "nota": "Em 11:30: votum vovit Domino."
+   },
+   "outras": [],
+   "explicacao": "Jefté faz um voto sem pensar nas consequências. A Lei tratava votos com seriedade (Dt 23:21-23), mas também proibia sacrifícios humanos (Dt 12:31).",
+   "interpretacao": false
+  },
+  {
+   "id": "nazir",
+   "pt": "Nazireu",
+   "refs": [
+    "13:5",
+    "13:7",
+    "16:17"
+   ],
+   "hebraico": {
+    "lema": "נָזִיר",
+    "translit": "nazir",
+    "strong": "H5139"
+   },
+   "sentido": "separado, consagrado",
+   "latim": {
+    "forma": "nazareus Dei",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O nazireu se abstinha de vinho, não cortava o cabelo e evitava cadáveres (Nm 6). Sansão é nazireu desde o ventre, mas o livro o mostra quebrando quase tudo, exceto o cabelo, até o fim.",
+   "interpretacao": false
+  },
+  {
+   "id": "chidah",
+   "pt": "Enigma",
+   "refs": [
+    "14:12",
+    "14:14"
+   ],
+   "hebraico": {
+    "lema": "חִידָה",
+    "translit": "chidah",
+    "strong": "H2420"
+   },
+   "sentido": "enigma, adivinha, dito obscuro",
+   "latim": {
+    "forma": "problema",
+    "nota": "Em 14:14: de comedente exivit cibus et de forti est egressa dulcedo."
+   },
+   "outras": [],
+   "explicacao": "Sansão propõe um enigma no banquete de casamento. Enigmas eram jogos de sabedoria comuns em festas antigas.",
+   "interpretacao": false
+  },
+  {
+   "id": "shibbolet",
+   "pt": "Chibolete",
+   "refs": [
+    "12:6"
+   ],
+   "hebraico": {
+    "lema": "שִׁבֹּלֶת",
+    "translit": "shibbolet",
+    "strong": "H7641"
+   },
+   "sentido": "espiga; também correnteza",
+   "latim": {
+    "forma": "Sebboleth",
+    "nota": "A Vulgata explica: quod interpretatur spica (que significa espiga)."
+   },
+   "outras": [],
+   "explicacao": "Os efraimitas pronunciavam \"sibolete\". A palavra entrou em várias línguas como senha que revela a identidade.",
+   "interpretacao": false
+  },
+  {
+   "id": "baal",
+   "pt": "Baal, baalins",
+   "refs": [
+    "2:11",
+    "2:13",
+    "8:33"
+   ],
+   "hebraico": {
+    "lema": "בַּעַל",
+    "translit": "ba'al",
+    "strong": "H1168"
+   },
+   "sentido": "senhor, dono, marido; nome do deus cananeu da tempestade",
+   "latim": {
+    "forma": "Baalim",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Como substantivo comum significa \"senhor\" ou \"marido\". O plural baalim indica as várias formas locais do deus, como Baal-Berite (\"senhor da aliança\") em Siquém (8:33).",
+   "interpretacao": false
+  },
+  {
+   "id": "melekh",
+   "pt": "Rei",
+   "refs": [
+    "8:23",
+    "9:8",
+    "21:25"
+   ],
+   "hebraico": {
+    "lema": "מֶלֶךְ",
+    "translit": "melekh",
+    "strong": "H4428"
+   },
+   "sentido": "rei",
+   "latim": {
+    "forma": "rex",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Gideão recusa ser rei porque \"o SENHOR será vosso Senhor\" (8:23); Abimeleque (\"meu pai é rei\") toma o poder e fracassa (9). O livro termina desejando um rei justo.",
+   "interpretacao": true
+  }
+ ],
+ "historia": [
+  {
+   "id": "merneptah",
+   "titulo": "Estela de Merneptá: Israel em Canaã",
+   "refs": [
+    "1:1",
+    "2:10"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Estela de Merneptá (Estela de Israel)",
+   "referencia": "Museu Egípcio do Cairo",
+   "data_fonte": "c. 1208 a.C.",
+   "data_evento": "campanha do 5º ano de Merneptá; descoberta em 1896",
+   "resumo": "O faraó cita Israel entre os povos derrotados em Canaã, ao lado de Asquelom, Gezer e Ianoam.",
+   "relacao": "Mostra que no período em que o livro se situa já existia um grupo chamado Israel em Canaã, sem um estado organizado, o que combina com a situação descrita em Juízes. A estela não fala de nenhum juiz.",
+   "grau": "documentado"
+  },
+  {
+   "id": "medinet-habu",
+   "titulo": "Relevos de Medinet Habu: a chegada dos filisteus",
+   "refs": [
+    "13:1",
+    "3:31"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Templo funerário de Ramsés III em Medinet Habu (Tebas)",
+   "referencia": "relevos e inscrições do 8º ano de Ramsés III",
+   "data_fonte": "c. 1175 a.C.",
+   "data_evento": "invasão dos \"povos do mar\" no início do séc. XII a.C.",
+   "resumo": "Os relevos mostram a batalha contra os \"povos do mar\", entre eles os Peleset, com seus capacetes de penas, carros de bois e navios.",
+   "relacao": "A maioria dos estudiosos identifica os Peleset com os filisteus, que se fixaram na costa de Canaã e são os grandes adversários em Juízes 13–16 e em Samuel.",
+   "grau": "documentado"
+  },
+  {
+   "id": "tell-qasile",
+   "titulo": "Templo filisteu de Tell Qasile",
+   "refs": [
+    "16:26-30"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Escavações de Amihai Mazar em Tell Qasile",
+   "referencia": "Tel Aviv, no terreno do Museu Eretz Israel",
+   "data_fonte": "séc. XII–XI a.C.",
+   "data_evento": "escavado em 1971–1974",
+   "resumo": "Um templo filisteu cujo teto era sustentado por duas colunas de madeira sobre bases de pedra, colocadas perto uma da outra no centro do salão.",
+   "relacao": "Ajuda a imaginar a cena de 16:29, em que Sansão se apoia nas duas colunas centrais. Não é o templo de Gaza, mas mostra que esse tipo de construção existia entre os filisteus.",
+   "grau": "associacao"
+  },
+  {
+   "id": "dagom",
+   "titulo": "O deus Dagom (Dagan)",
+   "refs": [
+    "16:23"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Textos de Mari, Ebla e Ugarit que citam o deus Dagan",
+   "referencia": "arquivos de Mari (Síria) e de Ugarit (Ras Shamra)",
+   "data_fonte": "c. séc. XXIV–XIII a.C.",
+   "data_evento": "culto a Dagan no antigo Oriente Próximo",
+   "resumo": "Dagan era um deus importante na Síria e na Mesopotâmia, ligado aos cereais e à fertilidade; em Ugarit, Baal é chamado \"filho de Dagan\".",
+   "relacao": "Os filisteus parecem ter adotado esse deus local ao se fixar em Canaã. A ideia popular de Dagom como \"deus-peixe\" é posterior e duvidosa.",
+   "grau": "associacao"
+  },
+  {
+   "id": "ugarit-baal",
+   "titulo": "Os textos de Ugarit e o deus Baal",
+   "refs": [
+    "2:13",
+    "6:25"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Ciclo de Baal e outros textos de Ugarit",
+   "referencia": "tabletes de Ras Shamra, a antiga Ugarit (Síria)",
+   "data_fonte": "c. séc. XIV–XIII a.C.",
+   "data_evento": "descobertos a partir de 1929",
+   "resumo": "Poemas em ugarítico que narram Baal, deus da tempestade e da chuva, sua luta contra Yam (mar) e Mot (morte), e citam Asherah e Anat.",
+   "relacao": "Mostram de perto a religião que tentava Israel em Juízes: o culto à chuva e à fertilidade num país que dependia da lavoura. Ajudam a entender por que Gideão derruba o altar de Baal (6:25-32).",
+   "grau": "associacao"
+  },
+  {
+   "id": "siquem-templo",
+   "titulo": "O templo-fortaleza de Siquém",
+   "refs": [
+    "9:4",
+    "9:46-49"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Escavações em Tell Balata (Ernst Sellin; G. Ernest Wright, desde 1956)",
+   "referencia": "Tell Balata, Nablus",
+   "data_fonte": "séc. XVII–XII a.C. (fases do edifício)",
+   "data_evento": "destruição no séc. XII a.C.",
+   "resumo": "Um grande templo-fortaleza de paredes grossas foi escavado na antiga Siquém, com uma camada de destruição no séc. XII a.C.",
+   "relacao": "Wright o associou ao templo de Baal-Berite e à torre de Siquém destruída por Abimeleque (9:46-49). A identificação é plausível, mas discutida.",
+   "grau": "associacao"
+  },
+  {
+   "id": "hazor-jabim",
+   "titulo": "Hazor e o nome Jabim",
+   "refs": [
+    "4:2"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Cartas de Mari que citam o rei Ibni-Addu de Hazor; escavações de Hazor",
+   "referencia": "arquivos de Mari (Síria); Tel Hazor",
+   "data_fonte": "c. séc. XVIII a.C.; destruição de Hazor no séc. XIII a.C.",
+   "data_evento": "período do Bronze",
+   "resumo": "Textos de Mari, muito anteriores a Juízes, mencionam um rei de Hazor chamado Ibni-Addu. Hazor foi a maior cidade de Canaã até ser incendiada no séc. XIII a.C.",
+   "relacao": "Alguns estudiosos sugerem que \"Jabim\" seria um nome dinástico ligado a Ibni. Como Josué 11 também fala de Jabim e da queima de Hazor, a relação entre os dois relatos é debatida.",
+   "grau": "associacao"
+  },
+  {
+   "id": "josefo-juizes",
+   "titulo": "Josefo e os juízes",
+   "refs": [
+    "16:30",
+    "4:4"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 5, cap. 2–8",
+   "data_fonte": "c. 93–94 d.C.",
+   "data_evento": "período dos juízes",
+   "resumo": "Josefo reconta as histórias de Débora, Gideão, Jefté e Sansão, com comentários morais próprios.",
+   "relacao": "Mostra a leitura judaica do séc. I. Josefo depende do texto bíblico.",
+   "grau": "documentado"
+  }
+ ]
+}

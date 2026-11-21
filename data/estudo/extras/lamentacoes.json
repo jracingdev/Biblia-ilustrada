@@ -1,0 +1,474 @@
+{
+ "livro": "lamentacoes",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:1-2",
+   "titulo": "A cidade sentada como viúva",
+   "descricao": "Jerusalém, antes cheia de gente, é mostrada como uma mulher sozinha que chora de noite, sem ninguém para consolá-la.",
+   "alt": "Uma mulher de luto sentada sobre pedras caídas chora diante de uma cidade vazia ao luar.",
+   "prompt": "A woman in dark mourning robes and veil seated alone on fallen stones at the empty gate of a ruined hilltop city at night, tears on her face, moonlight on deserted streets and broken walls, deep stillness and sorrow"
+  },
+  {
+   "id": "q02",
+   "capitulo": 1,
+   "ref": "1:12",
+   "titulo": "Vede se há dor como a minha",
+   "descricao": "A cidade se dirige aos que passam pelo caminho e pergunta se não se importam com sua dor.",
+   "alt": "Viajantes passam por uma estrada junto a ruínas enquanto uma figura de luto estende a mão para eles.",
+   "prompt": "Travelers with donkeys passing along a dusty road beside the ruined walls of Jerusalem, a mourning woman in torn robes at the roadside reaching out a hand toward them, some travelers looking away, late afternoon light"
+  },
+  {
+   "id": "q03",
+   "capitulo": 2,
+   "ref": "2:10",
+   "titulo": "Anciãos sentados no pó",
+   "descricao": "Os anciãos de Sião sentam no chão em silêncio, com pó na cabeça e roupas de saco; as moças inclinam a cabeça até a terra.",
+   "alt": "Anciãos vestidos de saco sentam em silêncio no chão, com pó sobre a cabeça, entre ruínas.",
+   "prompt": "A group of elderly men in rough sackcloth sitting silently on the ground among ruined stone houses, dust on their heads and gray beards, young women nearby with heads bowed low, muted gray light, profound grief without violence"
+  },
+  {
+   "id": "q04",
+   "capitulo": 2,
+   "ref": "2:19",
+   "titulo": "Clamor na vigília da noite",
+   "descricao": "O poeta convida a cidade a se levantar de noite e derramar o coração diante do Senhor pelas suas crianças.",
+   "alt": "Uma mulher ajoelhada ergue as mãos para o céu noturno numa rua escura de Jerusalém.",
+   "prompt": "A mother kneeling in a dark narrow street of a ruined city at the first watch of the night, both hands lifted toward the starry sky in prayer, a small lamp beside her, a faint glow of light from above, intimate and solemn"
+  },
+  {
+   "id": "q05",
+   "capitulo": 3,
+   "ref": "3:22-23",
+   "titulo": "Misericórdias novas a cada manhã",
+   "descricao": "Depois de descrever sua escuridão, o homem que sofre lembra que as misericórdias do SENHOR se renovam a cada manhã.",
+   "alt": "Um homem cansado, sentado entre ruínas, ergue o rosto para o sol nascente.",
+   "prompt": "A weary middle-aged man in a worn tunic sitting among the ruins of a city at sunrise, lifting his face toward the first golden rays breaking over the hills, the night shadows retreating behind him, quiet hope"
+  },
+  {
+   "id": "q06",
+   "capitulo": 4,
+   "ref": "4:1-2",
+   "titulo": "O ouro escurecido",
+   "descricao": "O ouro perdeu o brilho e as pedras do santuário estão espalhadas pelas esquinas.",
+   "alt": "Pedras lavradas do santuário e peças de ouro sem brilho espalhadas numa rua deserta.",
+   "prompt": "Carved stones from a destroyed sanctuary scattered at a street corner, among them tarnished golden vessels and a broken ornamented lintel half covered in dust and ash, a child and an old man looking at them from a doorway, pale overcast light"
+  },
+  {
+   "id": "q07",
+   "capitulo": 5,
+   "ref": "5:18-21",
+   "titulo": "Raposas no monte Sião",
+   "descricao": "No monte de Sião, agora deserto, andam raposas; o povo ora: 'Converte-nos, SENHOR, a ti, e renova os nossos dias'.",
+   "alt": "Raposas entre as ruínas do monte Sião, enquanto um pequeno grupo ora à distância.",
+   "prompt": "Wild foxes wandering among overgrown ruined terraces and fallen columns on Mount Zion at dusk, in the distance a small group of survivors standing with lifted hands in prayer, a soft light breaking through clouds"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "viuva",
+   "termo": "A cidade como viúva",
+   "ref": "1:1",
+   "explicado": false,
+   "significado": "Jerusalém é descrita como viúva e escrava: perdeu habitantes, proteção e liberdade. A personificação permite que a cidade fale da própria dor."
+  },
+  {
+   "id": "filha-de-siao",
+   "termo": "Filha de Sião",
+   "ref": "1:6",
+   "explicado": false,
+   "significado": "Forma poética de chamar Jerusalém e seu povo, como uma jovem amada. O livro a usa para unir ternura e lamento."
+  },
+  {
+   "id": "prensa",
+   "termo": "Prensa de uvas",
+   "ref": "1:15",
+   "explicado": false,
+   "significado": "Imagem do juízo: a cidade é 'pisada' como uvas no lagar. A figura volta em Isaías 63 e no Apocalipse."
+  },
+  {
+   "id": "estrado",
+   "termo": "Estrado de seus pés",
+   "ref": "2:1",
+   "explicado": false,
+   "significado": "Expressão usada para o templo ou a arca, lugar onde Deus 'pousava os pés' entre o povo. Lamenta-se que nem isso foi poupado."
+  },
+  {
+   "id": "tenda",
+   "termo": "Tenda arrancada",
+   "ref": "2:6",
+   "explicado": false,
+   "significado": "O templo é comparado a uma cabana de horta, desmontada com facilidade. Mostra quão frágil se tornou o que parecia inabalável."
+  },
+  {
+   "id": "vara",
+   "termo": "Vara do furor",
+   "ref": "3:1",
+   "explicado": false,
+   "significado": "O sofredor do capítulo 3 se vê atingido pela vara da disciplina divina. Muitos o leem como voz de Jeremias ou como figura do povo inteiro."
+  },
+  {
+   "id": "absinto",
+   "termo": "Absinto e fel",
+   "ref": "3:19",
+   "explicado": false,
+   "significado": "Plantas amargas usadas como imagem do sofrimento que tira o gosto da vida."
+  },
+  {
+   "id": "manha",
+   "termo": "Manhã",
+   "ref": "3:23",
+   "explicado": false,
+   "significado": "A manhã que volta todo dia é sinal das misericórdias de Deus que se renovam. É o ponto de virada do livro."
+  },
+  {
+   "id": "porcao",
+   "termo": "O SENHOR é minha porção",
+   "ref": "3:24",
+   "explicado": false,
+   "significado": "Lembra a herança dos levitas, que não recebiam terra porque Deus era sua parte (Nm 18:20). Quem perdeu tudo descobre que ainda tem Deus."
+  },
+  {
+   "id": "cova",
+   "termo": "Cova e águas profundas",
+   "ref": "3:55",
+   "explicado": false,
+   "significado": "Imagens de quase morte: o sofredor clama desde o fundo. Alguns ligam a cena à cisterna de Jeremias (Jr 38:6)."
+  },
+  {
+   "id": "ouro",
+   "termo": "Ouro escurecido",
+   "ref": "4:1",
+   "explicado": true,
+   "significado": "O versículo seguinte explica: os filhos de Sião, antes preciosos como ouro, agora são tratados como vasos de barro (4:2)."
+  },
+  {
+   "id": "calice",
+   "termo": "Cálice que passa a Edom",
+   "ref": "4:21",
+   "explicado": false,
+   "significado": "O cálice do juízo, que Judá bebeu, também chegará a Edom, que se alegrou com a queda de Jerusalém."
+  },
+  {
+   "id": "coroa",
+   "termo": "Coroa caída",
+   "ref": "5:16",
+   "explicado": false,
+   "significado": "Fim da honra e da realeza; o povo reconhece: 'ai de nós, porque pecamos'."
+  },
+  {
+   "id": "raposas",
+   "termo": "Raposas no monte Sião",
+   "ref": "5:18",
+   "explicado": false,
+   "significado": "Animais selvagens no lugar do culto mostram o abandono total. A imagem fecha o livro antes da última oração."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "eikhah",
+   "pt": "Como! (Ah, como!)",
+   "refs": [
+    "1:1",
+    "2:1",
+    "4:1"
+   ],
+   "hebraico": {
+    "lema": "אֵיכָה",
+    "translit": "ʾeikhah",
+    "strong": "H349"
+   },
+   "grego": {
+    "lema": "πῶς",
+    "translit": "pōs"
+   },
+   "sentido": "exclamação de espanto e dor: 'como é possível?'",
+   "latim": {
+    "forma": "Quomodo sedet sola civitas",
+    "nota": "A Vulgata inicia com 'Quomodo'."
+   },
+   "outras": [],
+   "explicacao": "É a primeira palavra do livro e o seu nome na Bíblia hebraica. Era o grito típico do canto fúnebre.",
+   "interpretacao": false
+  },
+  {
+   "id": "bat-tsiyyon",
+   "pt": "Filha de Sião",
+   "refs": [
+    "1:6",
+    "2:1",
+    "4:22"
+   ],
+   "hebraico": {
+    "lema": "בַּת צִיּוֹן",
+    "translit": "bat tsiyyon"
+   },
+   "sentido": "Jerusalém personificada",
+   "latim": {
+    "forma": "filia Sion",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A expressão mostra a cidade como uma jovem querida. No fim do capítulo 4 ela ouve que o castigo terminou.",
+   "interpretacao": false
+  },
+  {
+   "id": "chesed",
+   "pt": "Bondades, amor fiel",
+   "refs": [
+    "3:22",
+    "3:32"
+   ],
+   "hebraico": {
+    "lema": "חֶסֶד",
+    "translit": "chesed",
+    "strong": "H2617"
+   },
+   "grego": {
+    "lema": "ἔλεος",
+    "translit": "éleos"
+   },
+   "sentido": "lealdade amorosa, fidelidade à aliança",
+   "latim": {
+    "forma": "misericordiae Domini quia non sumus consumpti",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "No hebraico está no plural: 'as bondades do SENHOR'. É o coração teológico do livro, no centro do capítulo central.",
+   "interpretacao": false
+  },
+  {
+   "id": "rachamim",
+   "pt": "Misericórdias",
+   "refs": [
+    "3:22",
+    "3:32"
+   ],
+   "hebraico": {
+    "lema": "רַחֲמִים",
+    "translit": "rachamim",
+    "strong": "H7356"
+   },
+   "sentido": "compaixão; ligada à palavra 'ventre' (rechem)",
+   "latim": {
+    "forma": "miserationes eius",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Sugere o amor visceral de uma mãe. Em 3:32, mesmo depois de afligir, Deus se compadece 'segundo a grandeza de suas misericórdias'.",
+   "interpretacao": false
+  },
+  {
+   "id": "emunah",
+   "pt": "Fidelidade",
+   "refs": [
+    "3:23"
+   ],
+   "hebraico": {
+    "lema": "אֱמוּנָה",
+    "translit": "ʾemunah",
+    "strong": "H530"
+   },
+   "sentido": "firmeza, confiabilidade",
+   "latim": {
+    "forma": "multa est fides tua",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Da mesma raiz de 'amém'. 'Grande é a tua fidelidade' é dito no meio das ruínas, não depois delas.",
+   "interpretacao": false
+  },
+  {
+   "id": "cheleq",
+   "pt": "Porção",
+   "refs": [
+    "3:24"
+   ],
+   "hebraico": {
+    "lema": "חֵלֶק",
+    "translit": "cheleq",
+    "strong": "H2506"
+   },
+   "sentido": "parte, herança recebida",
+   "latim": {
+    "forma": "pars mea Dominus dixit anima mea",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Termo da partilha da terra. Dizer que o SENHOR é sua porção é afirmar que, sem terra e sem templo, ainda há herança.",
+   "interpretacao": false
+  },
+  {
+   "id": "qavah",
+   "pt": "Esperar",
+   "refs": [
+    "3:25"
+   ],
+   "hebraico": {
+    "lema": "קָוָה",
+    "translit": "qavah",
+    "strong": "H6960"
+   },
+   "sentido": "esperar com expectativa; também 'esticar', como um fio",
+   "latim": {
+    "forma": "bonus est Dominus sperantibus in eum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Não é espera passiva: é ficar 'esticado' em direção a Deus. 3:26 acrescenta que é bom esperar em silêncio.",
+   "interpretacao": false
+  },
+  {
+   "id": "mashiach",
+   "pt": "Ungido",
+   "refs": [
+    "4:20"
+   ],
+   "hebraico": {
+    "lema": "מָשִׁיחַ",
+    "translit": "mashiach",
+    "strong": "H4899"
+   },
+   "grego": {
+    "lema": "χριστός",
+    "translit": "christós"
+   },
+   "sentido": "pessoa ungida com óleo, aqui o rei",
+   "latim": {
+    "forma": "christus Domini",
+    "nota": "Vulgata: spiritus oris nostri christus Dominus."
+   },
+   "outras": [],
+   "explicacao": "Em 4:20 o 'ungido do SENHOR' é o rei de Judá, provavelmente Zedequias, capturado na fuga. A tradução latina 'christus' levou leitores cristãos antigos a aplicar o verso a Cristo.",
+   "interpretacao": true
+  },
+  {
+   "id": "shuv",
+   "pt": "Converter, fazer voltar",
+   "refs": [
+    "3:40",
+    "5:21"
+   ],
+   "hebraico": {
+    "lema": "שׁוּב",
+    "translit": "shuv",
+    "strong": "H7725"
+   },
+   "grego": {
+    "lema": "ἐπιστρέφω",
+    "translit": "epistréphō"
+   },
+   "sentido": "voltar, dar meia-volta",
+   "latim": {
+    "forma": "converte nos Domine ad te et convertemur",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Em 5:21 o povo pede que Deus o faça voltar: reconhece que até o arrependimento depende da graça.",
+   "interpretacao": false
+  },
+  {
+   "id": "chadash",
+   "pt": "Renovar",
+   "refs": [
+    "3:23",
+    "5:21"
+   ],
+   "hebraico": {
+    "lema": "חָדַשׁ",
+    "translit": "chadash",
+    "strong": "H2318"
+   },
+   "sentido": "tornar novo",
+   "latim": {
+    "forma": "innova dies nostros sicut a principio",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A raiz aparece em 3:23 ('novas a cada manhã') e na oração final ('renova os nossos dias'), ligando a esperança do centro ao pedido do fim.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "josefo-destruicao",
+   "titulo": "Josefo narra a queda de Jerusalém em 586 a.C.",
+   "refs": [
+    "2:7",
+    "4:12"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 10, cap. 8",
+   "data_fonte": "c. 93 d.C.",
+   "data_evento": "586 a.C.",
+   "resumo": "Josefo descreve o cerco babilônico, a fome, a captura de Zedequias e o incêndio do templo por Nebuzaradã.",
+   "relacao": "Narra o mesmo desastre que Lamentações chora. Josefo depende em boa parte de Reis e Jeremias, então é um testemunho tardio.",
+   "grau": "documentado"
+  },
+  {
+   "id": "camada-destruicao",
+   "titulo": "Camada de destruição de 586 a.C. em Jerusalém",
+   "refs": [
+    "2:8",
+    "4:1"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Escavações na Cidade de Davi (Y. Shiloh) e no Bairro Judeu (N. Avigad)",
+   "referencia": "Cidade de Davi: 'Casa das Bulas' e 'Casa de Ahiel'; Bairro Judeu: torre junto ao 'Muro Largo'",
+   "data_fonte": "início do séc. VI a.C.",
+   "data_evento": "Escavações entre 1969 e 1985",
+   "resumo": "Casas queimadas, cinzas, bulas cozidas pelo fogo e pontas de flecha de tipos babilônico e local marcam a destruição da cidade.",
+   "relacao": "Mostram no terreno a cidade queimada e os muros derrubados que o livro lamenta. Os achados não 'falam', mas a datação os liga ao ataque babilônico.",
+   "grau": "associacao"
+  },
+  {
+   "id": "lamento-ur",
+   "titulo": "Lamentação sobre a destruição de Ur",
+   "refs": [
+    "1:1",
+    "2:1"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Lamentação sobre a destruição de Ur (literatura suméria)",
+   "referencia": "Tabletes de Nippur e Ur, hoje em várias coleções",
+   "data_fonte": "c. 2000 a.C.",
+   "data_evento": "Queda de Ur, c. 2004 a.C.",
+   "resumo": "Poema sumério que chora a ruína de Ur: a deusa da cidade lamenta, os templos estão destruídos e o povo disperso.",
+   "relacao": "Mostra que o lamento por uma cidade destruída era um gênero antigo no Oriente Próximo. Lamentações tem traços semelhantes, mas diferenças fortes: confessa o pecado do povo e ora ao único Deus.",
+   "grau": "associacao"
+  },
+  {
+   "id": "talmude-autoria",
+   "titulo": "Talmude: Jeremias escreveu Lamentações",
+   "refs": [
+    "3:1"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Talmude Babilônico, tratado Bava Batra",
+   "referencia": "Bava Batra 15a",
+   "data_fonte": "c. séc. V–VI d.C. (compilação)",
+   "data_evento": "séc. VI a.C.",
+   "resumo": "Uma tradição rabínica diz que 'Jeremias escreveu o seu livro, o livro dos Reis e Lamentações'.",
+   "relacao": "Registra a atribuição tradicional a Jeremias, também presente numa nota inicial da Septuaginta. O texto hebraico é anônimo e muitos estudiosos pensam em um ou mais poetas da mesma época.",
+   "grau": "associacao"
+  },
+  {
+   "id": "qumran-lamentacoes",
+   "titulo": "Lamentações entre os Manuscritos do Mar Morto",
+   "refs": [
+    "1:1",
+    "5:21"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Manuscritos do Mar Morto",
+   "referencia": "Fragmentos das cavernas 3, 4 e 5 de Qumran (entre eles 4Q111)",
+   "data_fonte": "séc. I a.C. – séc. I d.C.",
+   "data_evento": "Descobertos entre 1947 e 1956",
+   "resumo": "Pequenos fragmentos de Lamentações foram achados em Qumran, com algumas variantes em relação ao texto hebraico tradicional.",
+   "relacao": "São as cópias mais antigas do livro em hebraico e mostram que ele já era copiado e lido antes da era cristã.",
+   "grau": "associacao"
+  }
+ ]
+}

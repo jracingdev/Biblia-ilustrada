@@ -1,0 +1,429 @@
+{
+ "livro": "efesios",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:13-14",
+   "titulo": "Selados com o Espírito",
+   "descricao": "Paulo compara o dom do Espírito a um selo, marca de propriedade e garantia da herança.",
+   "alt": "Uma mão pressiona um anel de selo sobre cera quente num documento.",
+   "prompt": "Close view of a hand pressing a signet ring into warm red wax on a rolled papyrus document, an oil lamp casting warm light, a sense of solemn ownership and promise"
+  },
+  {
+   "id": "q02",
+   "capitulo": 2,
+   "ref": "2:14-16",
+   "titulo": "O muro derrubado",
+   "descricao": "Cristo é a nossa paz: dos dois povos, judeus e gentios, fez um só, derrubando o muro de separação.",
+   "alt": "Judeus e gentios se abraçam junto a uma balaustrada de pedra caída.",
+   "prompt": "In the outer courts of a temple, a low stone partition wall lying broken on the ground, a Jewish man in a prayer shawl and a Greek man in a himation embracing across the rubble, others approaching, morning light"
+  },
+  {
+   "id": "q03",
+   "capitulo": 2,
+   "ref": "2:19-22",
+   "titulo": "Pedra principal da esquina",
+   "descricao": "Os crentes são edificados sobre o fundamento dos apóstolos e profetas, e Cristo Jesus é a pedra principal da esquina; o edifício cresce como templo santo.",
+   "alt": "Construtores colocam uma grande pedra angular no canto de um edifício em construção.",
+   "prompt": "First-century stonemasons carefully lowering a large carved cornerstone into place at the corner of a rising building with ropes and wooden levers, other stones fitted tightly along the foundation, bright daylight"
+  },
+  {
+   "id": "q04",
+   "capitulo": 3,
+   "ref": "3:14-19",
+   "titulo": "Paulo se ajoelha diante do Pai",
+   "descricao": "Prisioneiro por causa dos gentios, Paulo dobra os joelhos e ora para que conheçam o amor de Cristo, que excede todo entendimento.",
+   "alt": "Paulo ajoelhado em oração, com corrente no pulso, iluminado por uma luz suave do alto.",
+   "prompt": "The apostle Paul kneeling in prayer in a bare room, a chain on his wrist attached to a Roman soldier seated by the door, his face lifted toward a soft light coming through a high window, hands open"
+  },
+  {
+   "id": "q05",
+   "capitulo": 4,
+   "ref": "4:11-13",
+   "titulo": "Dons para edificar o corpo",
+   "descricao": "Cristo dá apóstolos, profetas, evangelistas, pastores e mestres para preparar os santos para o serviço e edificar o corpo.",
+   "alt": "Uma comunidade reunida, com diferentes pessoas ensinando, servindo e cuidando umas das outras.",
+   "prompt": "A first-century house church in Ephesus, a teacher reading from a scroll, an elder comforting a widow, a young evangelist preparing to travel, members serving bread to one another, warm lamplight"
+  },
+  {
+   "id": "q06",
+   "capitulo": 5,
+   "ref": "5:8-14",
+   "titulo": "Filhos da luz",
+   "descricao": "\"Antes éreis trevas, mas agora sois luz no Senhor\": Paulo chama os crentes a andar como filhos da luz.",
+   "alt": "Pessoas saem de uma rua escura em direção a uma praça iluminada pelo sol nascente.",
+   "prompt": "People in first-century dress walking out of a dark narrow street of Ephesus toward an open square bathed in the light of sunrise, one man waking from sleep and rising, the light falling on their faces"
+  },
+  {
+   "id": "q07",
+   "capitulo": 6,
+   "ref": "6:13-17",
+   "titulo": "A armadura de Deus",
+   "descricao": "Paulo descreve a armadura de Deus: cinturão da verdade, couraça da justiça, calçado do evangelho da paz, escudo da fé, capacete da salvação e espada do Espírito.",
+   "alt": "Paulo, acorrentado, observa a armadura do soldado romano que o guarda.",
+   "prompt": "The apostle Paul in chains seated in a Roman house, studying the armor of the soldier guarding him: belt, breastplate, sandals, large shield, helmet and short sword laid out beside the soldier, light from a window"
+  },
+  {
+   "id": "q08",
+   "capitulo": 6,
+   "ref": "6:21-22",
+   "titulo": "Tíquico leva a carta",
+   "descricao": "Paulo envia Tíquico, irmão amado e fiel servidor, para dar notícias e consolar os corações.",
+   "alt": "Um mensageiro entrega um rolo a uma comunidade reunida que o recebe com alegria.",
+   "prompt": "Tychicus, a traveler in a dusty cloak, arriving at a house in Asia Minor and handing a sealed scroll to an elder, believers gathering eagerly around, evening light"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "selo",
+   "termo": "Selo",
+   "ref": "1:13",
+   "explicado": false,
+   "significado": "O selo marcava propriedade e autenticidade. O Espírito é o selo de que os crentes pertencem a Deus e a garantia da herança (1:14)."
+  },
+  {
+   "id": "cabeca-corpo",
+   "termo": "Cabeça e corpo",
+   "ref": "1:22-23",
+   "explicado": true,
+   "significado": "Cristo é a cabeça e a igreja é o seu corpo, \"a plenitude daquele que enche tudo\". A imagem fala de autoridade e de vida que vem da cabeça (4:15-16)."
+  },
+  {
+   "id": "muro",
+   "termo": "Muro de separação",
+   "ref": "2:14",
+   "explicado": false,
+   "significado": "Muitos ligam a imagem à balaustrada do templo de Jerusalém que impedia os gentios de entrar; outros pensam na Lei como barreira. Paulo explica que Cristo fez dos dois povos um só."
+  },
+  {
+   "id": "templo-edificio",
+   "termo": "Edifício e templo",
+   "ref": "2:20-22",
+   "explicado": true,
+   "significado": "Os crentes são pedras de um edifício que cresce para ser templo santo, morada de Deus no Espírito."
+  },
+  {
+   "id": "pedra-esquina",
+   "termo": "Pedra principal da esquina",
+   "ref": "2:20",
+   "explicado": false,
+   "significado": "A pedra que alinhava e firmava a construção. Aplicada a Cristo, como no Salmo 118."
+  },
+  {
+   "id": "dimensoes",
+   "termo": "Largura, comprimento, altura e profundidade",
+   "ref": "3:18",
+   "explicado": false,
+   "significado": "Paulo não diz de que são essas medidas; o versículo seguinte fala do amor de Cristo. Outros pensam no templo ou no plano de Deus."
+  },
+  {
+   "id": "vento-doutrina",
+   "termo": "Vento de doutrina",
+   "ref": "4:14",
+   "explicado": false,
+   "significado": "Crianças levadas de um lado para outro: imagem da instabilidade de quem não amadurece na fé."
+  },
+  {
+   "id": "velho-novo",
+   "termo": "Despir o velho, vestir o novo",
+   "ref": "4:22-24",
+   "explicado": true,
+   "significado": "Paulo explica a imagem da troca de roupa: abandonar o comportamento passado e revestir-se do novo ser humano, criado em justiça e santidade."
+  },
+  {
+   "id": "luz-trevas",
+   "termo": "Luz e trevas",
+   "ref": "5:8",
+   "explicado": true,
+   "significado": "Antes éreis trevas, agora sois luz no Senhor; o fruto da luz é bondade, justiça e verdade (5:9)."
+  },
+  {
+   "id": "casamento",
+   "termo": "Marido e esposa",
+   "ref": "5:31-32",
+   "explicado": true,
+   "significado": "Paulo diz que o casamento aponta para um grande mistério: Cristo e a igreja. As orientações para o lar (5:21–6:9) são lidas de modos diferentes hoje."
+  },
+  {
+   "id": "armadura",
+   "termo": "Armadura de Deus",
+   "ref": "6:11-17",
+   "explicado": true,
+   "significado": "Cada peça é explicada: verdade, justiça, evangelho da paz, fé, salvação e a palavra de Deus. A luta é contra poderes espirituais, não contra pessoas (6:12)."
+  },
+  {
+   "id": "flechas",
+   "termo": "Flechas inflamadas",
+   "ref": "6:16",
+   "explicado": false,
+   "significado": "Flechas com fogo eram armas reais; os escudos romanos, cobertos de couro, podiam ser molhados para apagá-las. Representam os ataques do maligno."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "mysterion",
+   "pt": "Mistério",
+   "refs": [
+    "1:9",
+    "3:3-6"
+   ],
+   "grego": {
+    "lema": "μυστήριον",
+    "translit": "mystḗrion",
+    "strong": "G3466"
+   },
+   "sentido": "segredo revelado",
+   "latim": {
+    "forma": "sacramentum / mysterium",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Em Paulo não é algo incompreensível, mas um plano antes escondido e agora revelado: que os gentios são co-herdeiros (3:6). A Vulgata às vezes usa sacramentum (5:32), o que influenciou a ideia do casamento como sacramento.",
+   "interpretacao": true
+  },
+  {
+   "id": "anakephalaiomai",
+   "pt": "Reunir em Cristo",
+   "refs": [
+    "1:10"
+   ],
+   "grego": {
+    "lema": "ἀνακεφαλαιόω",
+    "translit": "anakephalaióō",
+    "strong": "G346"
+   },
+   "sentido": "recapitular, reunir sob uma cabeça",
+   "latim": {
+    "forma": "instaurare omnia in Christo",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O plano de Deus é reunir todas as coisas, do céu e da terra, em Cristo. Ireneu de Lião fez da \"recapitulação\" um tema central de sua teologia.",
+   "interpretacao": false
+  },
+  {
+   "id": "pleroma",
+   "pt": "Plenitude",
+   "refs": [
+    "1:23",
+    "3:19"
+   ],
+   "grego": {
+    "lema": "πλήρωμα",
+    "translit": "plḗrōma",
+    "strong": "G4138"
+   },
+   "sentido": "plenitude, aquilo que enche",
+   "latim": {
+    "forma": "plenitudo",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A igreja é a plenitude de Cristo (1:23), e Paulo ora para que os crentes sejam cheios de toda a plenitude de Deus (3:19).",
+   "interpretacao": false
+  },
+  {
+   "id": "charis",
+   "pt": "Graça",
+   "refs": [
+    "2:5",
+    "2:8"
+   ],
+   "grego": {
+    "lema": "χάρις",
+    "translit": "cháris",
+    "strong": "G5485"
+   },
+   "sentido": "favor gratuito",
+   "latim": {
+    "forma": "gratia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "\"Pela graça sois salvos, por meio da fé; e isto não vem de vós; é dom de Deus\" (2:8).",
+   "interpretacao": false
+  },
+  {
+   "id": "ekklesia",
+   "pt": "Igreja",
+   "refs": [
+    "1:22",
+    "5:25"
+   ],
+   "grego": {
+    "lema": "ἐκκλησία",
+    "translit": "ekklēsía",
+    "strong": "G1577"
+   },
+   "sentido": "assembleia",
+   "latim": {
+    "forma": "ecclesia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Em Efésios a igreja é vista em sentido universal: corpo, templo e noiva de Cristo.",
+   "interpretacao": false
+  },
+  {
+   "id": "kephale",
+   "pt": "Cabeça",
+   "refs": [
+    "1:22",
+    "4:15"
+   ],
+   "grego": {
+    "lema": "κεφαλή",
+    "translit": "kephalḗ",
+    "strong": "G2776"
+   },
+   "sentido": "cabeça; também origem ou autoridade",
+   "latim": {
+    "forma": "caput",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Se \"cabeça\" indica principalmente autoridade ou fonte de vida é debatido, sobretudo em 5:23.",
+   "interpretacao": true
+  },
+  {
+   "id": "oikonomia",
+   "pt": "Administração, plano",
+   "refs": [
+    "1:10",
+    "3:9"
+   ],
+   "grego": {
+    "lema": "οἰκονομία",
+    "translit": "oikonomía",
+    "strong": "G3622"
+   },
+   "sentido": "administração de uma casa, plano",
+   "latim": {
+    "forma": "dispensatio",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Termo da gestão doméstica, aplicado ao plano de Deus para a história. Dele vem \"economia\".",
+   "interpretacao": false
+  },
+  {
+   "id": "panoplia",
+   "pt": "Armadura completa",
+   "refs": [
+    "6:11",
+    "6:13"
+   ],
+   "grego": {
+    "lema": "πανοπλία",
+    "translit": "panoplía",
+    "strong": "G3833"
+   },
+   "sentido": "armadura completa de um soldado",
+   "latim": {
+    "forma": "armatura Dei",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "\"Pan\" (toda) + \"hoplon\" (arma). Ver símbolos.",
+   "interpretacao": false
+  },
+  {
+   "id": "ergon",
+   "pt": "Boas obras",
+   "refs": [
+    "2:10"
+   ],
+   "grego": {
+    "lema": "ἔργον",
+    "translit": "érgon",
+    "strong": "G2041"
+   },
+   "sentido": "obra, ação",
+   "latim": {
+    "forma": "opera bona",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Não somos salvos pelas obras (2:9), mas criados para elas (2:10).",
+   "interpretacao": false
+  },
+  {
+   "id": "eirene",
+   "pt": "Paz",
+   "refs": [
+    "2:14-17",
+    "6:15"
+   ],
+   "grego": {
+    "lema": "εἰρήνη",
+    "translit": "eirḗnē",
+    "strong": "G1515"
+   },
+   "sentido": "paz, harmonia",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "שָׁלוֹם",
+     "translit": "shalom",
+     "strong": "H7965",
+     "ref": "Is 57:19"
+    }
+   ],
+   "latim": {
+    "forma": "pax",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Cristo \"é a nossa paz\". O conceito ecoa o hebraico shalom: plenitude e relação restaurada.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "p46-efeso",
+   "titulo": "\"Em Éfeso\" falta nos manuscritos mais antigos",
+   "refs": [
+    "1:1"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Papiro Chester Beatty II (𝔓46); Códices Sinaítico e Vaticano",
+   "referencia": "Chester Beatty Library, Dublin; Biblioteca Britânica (Sinaítico); Biblioteca Vaticana",
+   "data_fonte": "c. 200 d.C. (𝔓46); séc. IV (códices)",
+   "data_evento": "Cópias da carta",
+   "resumo": "Nesses manuscritos antigos as palavras \"em Éfeso\" de 1:1 não aparecem; foram acrescentadas por correção no Sinaítico e no Vaticano.",
+   "relacao": "Por isso muitos estudiosos pensam que Efésios era uma carta circular para várias igrejas da Ásia. O tom geral, sem saudações pessoais, combina com essa hipótese. Marcião, no séc. II, a chamava de carta aos laodicenses.",
+   "grau": "documentado"
+  },
+  {
+   "id": "artemis-efeso",
+   "titulo": "O templo de Ártemis em Éfeso",
+   "refs": [
+    "2:21"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Plínio, o Velho, História Natural",
+   "referencia": "livro 36, cap. 21 (§95-97)",
+   "data_fonte": "c. 77 d.C.",
+   "data_evento": "Templo reconstruído no séc. IV a.C.",
+   "resumo": "Plínio descreve o enorme templo de Ártemis, com 127 colunas, uma das maravilhas do mundo antigo.",
+   "relacao": "Em uma cidade dominada por esse templo, a imagem da igreja como templo santo feito de pessoas (2:21-22) teria força especial.",
+   "grau": "associacao"
+  },
+  {
+   "id": "efesia-grammata",
+   "titulo": "Magia em Éfeso",
+   "refs": [
+    "6:12"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Referências antigas às \"letras efésias\" (Ephesia grammata)",
+   "referencia": "Mencionadas, por exemplo, por Plutarco e Clemente de Alexandria",
+   "data_fonte": "séc. I–II d.C.",
+   "data_evento": "Prática difundida no período",
+   "resumo": "Éfeso era famosa por fórmulas mágicas usadas como amuletos contra espíritos e males.",
+   "relacao": "Ajuda a entender a ênfase de Efésios no poder de Cristo sobre \"domínios e poderes\" (1:21; 6:12) e combina com a queima de livros de magia em Éfeso (At 19:19).",
+   "grau": "associacao"
+  }
+ ]
+}

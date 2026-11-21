@@ -1,0 +1,829 @@
+{
+ "livro": "jeremias",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:9-13",
+   "titulo": "A vara de amendoeira e a panela fervente",
+   "descricao": "O jovem Jeremias recebe o chamado: a palavra é posta em sua boca e ele vê um ramo de amendoeira em flor e uma panela fervendo voltada para o norte.",
+   "alt": "Um jovem ajoelhado ao amanhecer olha um ramo de amendoeira florido, com uma panela fervente ao fundo, sob um raio de luz.",
+   "prompt": "A young Judean man in a simple linen tunic kneeling at dawn on a hillside near a village, a beam of golden light touching his lips from above, before him a flowering almond branch with white blossoms, in the background a large clay cooking pot boiling over a fire, its steam blown toward the north, awe on his face"
+  },
+  {
+   "id": "q02",
+   "capitulo": 7,
+   "ref": "7:2-4",
+   "titulo": "Sermão à porta do templo",
+   "descricao": "Jeremias, de pé à porta da casa do SENHOR, chama os que entram a mudar de vida e a não confiar em palavras falsas sobre o templo.",
+   "alt": "Um profeta de pé numa grande porta de pedra fala com braço erguido à multidão que entra no templo.",
+   "prompt": "A bearded prophet in a coarse brown mantle standing on the steps of a monumental stone gate of the Jerusalem temple, one arm raised, crowds of worshippers in ancient Judean robes pausing, some listening, some offended, priests watching from the side, bright morning light"
+  },
+  {
+   "id": "q03",
+   "capitulo": 9,
+   "ref": "9:1",
+   "titulo": "O profeta que chora",
+   "descricao": "Jeremias deseja ter olhos como fontes para chorar dia e noite pelo seu povo.",
+   "alt": "Um homem idoso, sentado sozinho ao entardecer, cobre o rosto em pranto diante de Jerusalém ao longe.",
+   "prompt": "An older bearded prophet sitting alone on a rock at dusk, head resting on his hand, tears on his cheeks, looking toward the distant walls and houses of Jerusalem under a heavy amber sky, quiet melancholy composition"
+  },
+  {
+   "id": "q04",
+   "capitulo": 13,
+   "ref": "13:4-7",
+   "titulo": "O cinto de linho apodrecido",
+   "descricao": "Jeremias desenterra junto ao Eufrates o cinto de linho que escondera numa fenda de rocha e o encontra estragado.",
+   "alt": "Um homem à beira de um rio segura um cinto de linho estragado retirado de uma fenda na rocha.",
+   "prompt": "A prophet in a plain tunic crouching by a rocky riverbank of a wide river, pulling a rotten, stained linen sash out of a cleft in the rock, looking at it with sorrow, reeds and palm trees, soft overcast light"
+  },
+  {
+   "id": "q05",
+   "capitulo": 17,
+   "ref": "17:7-8",
+   "titulo": "A árvore junto às águas",
+   "descricao": "Quem confia no SENHOR é como árvore plantada à beira do ribeiro, com folhas verdes mesmo no ano da seca.",
+   "alt": "Uma árvore verde de raízes fortes junto a um ribeiro, cercada de terra seca.",
+   "prompt": "A large green tree with deep roots spreading into a clear stream, abundant leaves and fruit, while the surrounding landscape is dry and cracked under a hot sun, a shepherd resting in its shade, serene light"
+  },
+  {
+   "id": "q06",
+   "capitulo": 18,
+   "ref": "18:3-6",
+   "titulo": "Na casa do oleiro",
+   "descricao": "Jeremias observa o oleiro refazer na roda um vaso que se estragou em suas mãos.",
+   "alt": "Um oleiro molda barro numa roda enquanto o profeta observa da porta da oficina.",
+   "prompt": "Interior of an ancient potter's workshop, an elderly potter at a stone wheel reshaping a collapsed clay vessel with wet hands, shelves of jars, a prophet standing in the doorway watching attentively, warm light from a small window, dust in the air"
+  },
+  {
+   "id": "q07",
+   "capitulo": 19,
+   "ref": "19:10-11",
+   "titulo": "A jarra quebrada no vale de Hinom",
+   "descricao": "Diante de anciãos e sacerdotes, Jeremias quebra uma jarra de barro como sinal de que a cidade seria quebrada.",
+   "alt": "Um profeta ergue e quebra uma jarra de barro diante de anciãos espantados num vale.",
+   "prompt": "A prophet in a dark mantle smashing a clay jar on the stones of a barren valley outside the city gate, shards flying, a group of elders and priests in robes watching with startled faces, city walls above, dramatic afternoon light"
+  },
+  {
+   "id": "q08",
+   "capitulo": 20,
+   "ref": "20:2",
+   "titulo": "No tronco à porta de Benjamim",
+   "descricao": "Pasur, sacerdote e chefe do templo, manda bater em Jeremias e prendê-lo no tronco junto à porta.",
+   "alt": "Um profeta preso pelos pés num tronco de madeira junto a uma porta de pedra, observado por passantes.",
+   "prompt": "A weary prophet seated with his feet locked in a wooden stocks beside an upper stone gate of the temple, a stern priest in fine robes walking away, passersby glancing, early morning light, restrained emotion"
+  },
+  {
+   "id": "q09",
+   "capitulo": 24,
+   "ref": "24:1-3",
+   "titulo": "Os dois cestos de figos",
+   "descricao": "Diante do templo, Jeremias vê dois cestos: um de figos muito bons, outro de figos que não se podiam comer.",
+   "alt": "Dois cestos de vime diante do templo: um com figos frescos, outro com figos estragados.",
+   "prompt": "Two woven baskets on stone pavement before the temple court, one full of fresh ripe purple figs glistening, the other full of shriveled spoiled figs, the prophet looking down at them, soft morning light"
+  },
+  {
+   "id": "q10",
+   "capitulo": 27,
+   "ref": "27:2",
+   "titulo": "O jugo no pescoço",
+   "descricao": "Jeremias põe um jugo de madeira sobre o pescoço para mostrar aos reis que deviam se submeter à Babilônia.",
+   "alt": "Um profeta caminha entre emissários estrangeiros com um jugo de madeira sobre os ombros.",
+   "prompt": "A prophet walking through a palace courtyard bearing a heavy wooden ox yoke with leather straps on his neck and shoulders, foreign envoys in colorful robes from neighboring kingdoms watching in surprise, columns and bright sunlight"
+  },
+  {
+   "id": "q11",
+   "capitulo": 28,
+   "ref": "28:10",
+   "titulo": "Hananias quebra o jugo",
+   "descricao": "No templo, o profeta Hananias arranca o jugo do pescoço de Jeremias e o quebra diante do povo.",
+   "alt": "Um homem quebra um jugo de madeira tirado dos ombros de outro, diante de sacerdotes e povo.",
+   "prompt": "In the temple court, a confident man in rich prophetic robes breaking a wooden yoke over his knee after pulling it off another prophet, who stands calm and silent, priests and people gathered around, tense atmosphere"
+  },
+  {
+   "id": "q12",
+   "capitulo": 29,
+   "ref": "29:1",
+   "titulo": "Carta aos exilados",
+   "descricao": "Jeremias envia de Jerusalém uma carta aos exilados na Babilônia: construam casas, plantem pomares e busquem a paz da cidade.",
+   "alt": "Exilados judeus reunidos junto a um rio da Babilônia ouvem a leitura de um rolo.",
+   "prompt": "A group of Judean exiles, elders, women and children, gathered under palm trees by a canal in Babylonia, an elder reading aloud from a newly opened scroll, mudbrick houses and gardens in the distance, hopeful afternoon light"
+  },
+  {
+   "id": "q13",
+   "capitulo": 31,
+   "ref": "31:15",
+   "titulo": "Raquel chora em Ramá",
+   "descricao": "Uma voz se ouve em Ramá: Raquel chora por seus filhos e não quer ser consolada.",
+   "alt": "Uma mulher em vestes de luto chora sobre uma colina enquanto colunas de exilados passam ao longe.",
+   "prompt": "A grieving woman in ancient dark robes standing on a hill at Ramah, hands raised in lament, below in the distance a long line of captives walking away, overcast sky with a single break of light, solemn mood"
+  },
+  {
+   "id": "q14",
+   "capitulo": 32,
+   "ref": "32:9-14",
+   "titulo": "A compra do campo em Anatote",
+   "descricao": "Com a cidade cercada, Jeremias compra o campo do primo, pesa a prata e manda guardar as escrituras num vaso de barro.",
+   "alt": "Um homem pesa prata numa balança diante de testemunhas, enquanto um escriba guarda documentos num jarro.",
+   "prompt": "In a guarded courtyard, a prophet weighing silver pieces on a hand balance before witnesses, a scribe rolling and sealing two documents and placing them into a clay jar, Babylonian siege camps visible beyond the walls, steady light"
+  },
+  {
+   "id": "q15",
+   "capitulo": 35,
+   "ref": "35:5-6",
+   "titulo": "Os recabitas recusam o vinho",
+   "descricao": "Jeremias põe taças de vinho diante dos recabitas, que recusam beber por fidelidade ao mandamento de seu antepassado.",
+   "alt": "Homens de vestes simples recusam com a mão taças de vinho colocadas numa mesa no templo.",
+   "prompt": "In a side chamber of the temple, men of a nomadic clan in simple woolen robes raising their hands to decline, cups and jugs of wine set before them on a low table, the prophet standing nearby, lamp light"
+  },
+  {
+   "id": "q16",
+   "capitulo": 36,
+   "ref": "36:4",
+   "titulo": "Baruque escreve o rolo",
+   "descricao": "Jeremias dita e o escriba Baruque escreve num rolo todas as palavras que o SENHOR lhe falara.",
+   "alt": "Um escriba escreve num rolo à luz de lamparina enquanto um profeta dita.",
+   "prompt": "A scribe seated cross-legged writing with a reed pen on a long scroll by oil lamp light, an older prophet standing beside him dictating with an expressive gesture, inkpot and papyrus sheets, quiet room"
+  },
+  {
+   "id": "q17",
+   "capitulo": 36,
+   "ref": "36:22-23",
+   "titulo": "O rolo lançado ao braseiro",
+   "descricao": "No inverno, enquanto o rolo é lido, as colunas são cortadas com uma lâmina e lançadas no braseiro diante do rei Jeoaquim.",
+   "alt": "Um rei sentado junto a um braseiro observa um rolo sendo cortado e queimado.",
+   "prompt": "A king seated in a winter palace room beside a glowing brazier, a court official cutting columns from a scroll with a small knife and dropping them into the fire, other officials standing uneasily, warm firelight against cold blue windows"
+  },
+  {
+   "id": "q18",
+   "capitulo": 38,
+   "ref": "38:11-13",
+   "titulo": "Retirado da cisterna",
+   "descricao": "Ebede-Meleque, o cuxita, desce trapos e cordas e tira Jeremias da lama da cisterna.",
+   "alt": "Homens no alto de uma cisterna puxam com cordas um profeta coberto de lama.",
+   "prompt": "Looking down into a deep dark cistern, a prophet covered in mud below holding ropes padded with old rags under his arms, above at the rim a Cushite court official and other men pulling the ropes, shaft of light from above"
+  },
+  {
+   "id": "q19",
+   "capitulo": 39,
+   "ref": "39:8",
+   "titulo": "A queda de Jerusalém",
+   "descricao": "Os caldeus queimam o palácio e as casas e derrubam os muros de Jerusalém.",
+   "alt": "Jerusalém vista de longe, com fumaça subindo das casas e muros derrubados ao entardecer.",
+   "prompt": "Distant view of Jerusalem at dusk, smoke rising from the royal palace and houses, sections of the city walls broken down, Babylonian soldiers small in the distance, a few survivors watching from a hill, somber sober composition"
+  },
+  {
+   "id": "q20",
+   "capitulo": 40,
+   "ref": "40:4",
+   "titulo": "Libertado das correntes",
+   "descricao": "Nebuzaradã solta as correntes das mãos de Jeremias e lhe dá liberdade para escolher onde morar.",
+   "alt": "Um oficial babilônio solta as correntes das mãos de um profeta entre prisioneiros.",
+   "prompt": "At a gathering point of captives at Ramah, a Babylonian commander in ornate armor removing iron chains from the wrists of an elderly prophet, other captives in the background, open landscape stretching ahead, morning light"
+  },
+  {
+   "id": "q21",
+   "capitulo": 43,
+   "ref": "43:9",
+   "titulo": "Pedras escondidas em Tafnes",
+   "descricao": "No Egito, Jeremias esconde pedras grandes no barro do pavimento junto à casa do faraó, como sinal da vinda de Nabucodonosor.",
+   "alt": "Um profeta enterra pedras grandes no barro diante de um palácio egípcio, observado por judeus.",
+   "prompt": "In front of an Egyptian palace with painted columns at Tahpanhes, an elderly prophet pressing large stones into the clay of a brick pavement, Judean men watching, palm trees and harsh bright sunlight"
+  },
+  {
+   "id": "q22",
+   "capitulo": 44,
+   "ref": "44:17",
+   "titulo": "Incenso à rainha dos céus",
+   "descricao": "Os judeus refugiados no Egito insistem em oferecer incenso e bebidas à rainha dos céus.",
+   "alt": "Mulheres e homens oferecem incenso num altar doméstico enquanto um profeta idoso os adverte.",
+   "prompt": "On a flat rooftop in Egypt, Judean women preparing small cakes and burning incense on a small altar, men standing with them, an elderly prophet at the edge warning them with raised hand, evening light"
+  },
+  {
+   "id": "q23",
+   "capitulo": 51,
+   "ref": "51:63-64",
+   "titulo": "O livro lançado no Eufrates",
+   "descricao": "Seraías amarra uma pedra ao livro das profecias contra a Babilônia e o lança no Eufrates.",
+   "alt": "Um homem lança no rio um rolo amarrado a uma pedra, com as muralhas da Babilônia ao fundo.",
+   "prompt": "A royal official on the bank of the Euphrates throwing a scroll tied to a stone into the river, ripples spreading, the massive walls and towers of Babylon on the horizon, sunset light"
+  },
+  {
+   "id": "q24",
+   "capitulo": 52,
+   "ref": "52:31-33",
+   "titulo": "Joaquim à mesa do rei",
+   "descricao": "Na Babilônia, Evil-Merodaque tira Joaquim da prisão, troca suas roupas e o recebe à sua mesa.",
+   "alt": "Um rei idoso em roupas novas é recebido à mesa do rei da Babilônia.",
+   "prompt": "In a Babylonian palace hall with glazed brick walls, a gray-haired former king of Judah in fresh robes being seated at a banquet table of honor, the Babylonian king gesturing kindly, other vassal kings present, warm torchlight"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "vara-amendoeira",
+   "termo": "Vara de amendoeira",
+   "ref": "1:11",
+   "explicado": true,
+   "significado": "A amendoeira é a primeira árvore a florescer. O texto explica: Deus 'vigia' (apressa) sua palavra para cumpri-la; em hebraico há um jogo entre shaqed (amendoeira) e shoqed (vigiar)."
+  },
+  {
+   "id": "panela-fervente",
+   "termo": "Panela fervente voltada para o norte",
+   "ref": "1:13",
+   "explicado": true,
+   "significado": "O próprio texto explica: do norte viria o mal sobre a terra (1:14). Mais adiante o livro identifica esse inimigo com a Babilônia."
+  },
+  {
+   "id": "fonte-cisternas",
+   "termo": "Fonte de água viva e cisternas rachadas",
+   "ref": "2:13",
+   "explicado": true,
+   "significado": "Deus se apresenta como fonte de água viva; os ídolos são cisternas rachadas que não retêm água. A imagem resume a troca do Deus vivo por apoios inúteis."
+  },
+  {
+   "id": "leao",
+   "termo": "Leão que sai da mata",
+   "ref": "4:7",
+   "explicado": false,
+   "significado": "Imagem do invasor que vem destruir as cidades de Judá. O contexto aponta para o exército vindo do norte."
+  },
+  {
+   "id": "balsamo-gileade",
+   "termo": "Bálsamo de Gileade",
+   "ref": "8:22",
+   "explicado": false,
+   "significado": "Gileade era famosa por um bálsamo medicinal. A pergunta do profeta lamenta que, havendo remédio e médico, o povo não tenha sido curado; muitos leem o remédio como a volta para Deus."
+  },
+  {
+   "id": "cinto-linho",
+   "termo": "Cinto de linho",
+   "ref": "13:1",
+   "explicado": true,
+   "significado": "O texto explica: assim como o cinto se apega à cintura, Deus quis unir Israel a si; o cinto estragado mostra o povo que se recusou a ouvir (13:9-11)."
+  },
+  {
+   "id": "leopardo",
+   "termo": "O leopardo e suas manchas",
+   "ref": "13:23",
+   "explicado": false,
+   "significado": "Imagem de um hábito tão arraigado que parece impossível mudar: o povo se acostumou a praticar o mal."
+  },
+  {
+   "id": "arvore-aguas",
+   "termo": "Árvore junto às águas",
+   "ref": "17:8",
+   "explicado": true,
+   "significado": "O texto aplica a imagem a quem confia no SENHOR: continua verde e dá fruto mesmo na seca. Contrasta com o arbusto do deserto (17:6)."
+  },
+  {
+   "id": "oleiro-barro",
+   "termo": "O oleiro e o barro",
+   "ref": "18:6",
+   "explicado": true,
+   "significado": "Deus pode refazer seu povo como o oleiro refaz o vaso. O capítulo acrescenta que a resposta das nações ao aviso muda o desfecho (18:7-10)."
+  },
+  {
+   "id": "jarra-quebrada",
+   "termo": "Jarra quebrada",
+   "ref": "19:10",
+   "explicado": true,
+   "significado": "Diferente do barro mole do capítulo 18, a jarra já cozida não se conserta: o texto a aplica à destruição de Jerusalém (19:11)."
+  },
+  {
+   "id": "pastores",
+   "termo": "Pastores que dispersam",
+   "ref": "23:1",
+   "explicado": false,
+   "significado": "Os 'pastores' são os líderes de Judá, sobretudo os reis. Deus promete juntar o rebanho e dar pastores fiéis (23:3-4)."
+  },
+  {
+   "id": "renovo",
+   "termo": "Renovo justo de Davi",
+   "ref": "23:5",
+   "explicado": false,
+   "significado": "Um broto que nasce do tronco de Davi: um rei futuro que fará juízo e justiça. A tradição judaica lê aqui um rei messiânico; os cristãos, em geral, veem Jesus."
+  },
+  {
+   "id": "martelo-fogo",
+   "termo": "Palavra como fogo e martelo",
+   "ref": "23:29",
+   "explicado": false,
+   "significado": "Contraste entre a palavra verdadeira de Deus, forte e eficaz, e os sonhos dos falsos profetas."
+  },
+  {
+   "id": "figos",
+   "termo": "Figos bons e figos ruins",
+   "ref": "24:2",
+   "explicado": true,
+   "significado": "O texto explica: os bons são os exilados com Joaquim, que Deus guardará; os ruins, Zedequias e os que ficaram ou fugiram para o Egito (24:5-8)."
+  },
+  {
+   "id": "calice",
+   "termo": "Cálice do vinho da ira",
+   "ref": "25:15",
+   "explicado": false,
+   "significado": "As nações 'bebem' do cálice e cambaleiam: imagem do juízo de Deus sobre elas. A figura volta em outros profetas e no Apocalipse."
+  },
+  {
+   "id": "jugo",
+   "termo": "Jugo de madeira e de ferro",
+   "ref": "27:2",
+   "explicado": true,
+   "significado": "O texto explica: as nações devem pôr o pescoço sob o jugo de Nabucodonosor (27:8). Quando Hananias quebra o jugo de madeira, Deus anuncia um de ferro (28:13)."
+  },
+  {
+   "id": "novo-pacto",
+   "termo": "Lei escrita no coração",
+   "ref": "31:33",
+   "explicado": false,
+   "significado": "O texto diz que no novo pacto a lei estará no interior do povo. O Novo Testamento cita a passagem para falar da nova aliança em Cristo (Hb 8)."
+  },
+  {
+   "id": "campo-anatote",
+   "termo": "Campo comprado em Anatote",
+   "ref": "32:15",
+   "explicado": true,
+   "significado": "Comprar terra com a cidade cercada era sinal de esperança: o texto diz que ainda se comprariam casas, campos e vinhas na terra."
+  },
+  {
+   "id": "rolo",
+   "termo": "O rolo queimado e reescrito",
+   "ref": "36:32",
+   "explicado": false,
+   "significado": "O rei queima o rolo, mas a palavra é escrita de novo, com acréscimos. A cena é lida como sinal de que a palavra de Deus sobrevive à rejeição."
+  },
+  {
+   "id": "borras-moabe",
+   "termo": "Vinho parado nas borras",
+   "ref": "48:11",
+   "explicado": false,
+   "significado": "Moabe é como vinho que nunca foi trocado de vaso: acomodado e sem mudança. Imagem de orgulho e falsa segurança."
+  },
+  {
+   "id": "pedra-eufrates",
+   "termo": "Livro amarrado a uma pedra",
+   "ref": "51:63",
+   "explicado": true,
+   "significado": "O texto explica: assim a Babilônia afundará e não se levantará (51:64)."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "shaqed",
+   "pt": "Amendoeira / vigiar",
+   "refs": [
+    "1:11",
+    "1:12"
+   ],
+   "hebraico": {
+    "lema": "שָׁקֵד / שֹׁקֵד",
+    "translit": "shaqed / shoqed"
+   },
+   "sentido": "amendoeira; o que está acordado, vigiando",
+   "latim": {
+    "forma": "virgam vigilantem ego video",
+    "nota": "A Vulgata traduz pelo sentido: 'vejo uma vara vigilante', perdendo o trocadilho."
+   },
+   "outras": [],
+   "explicacao": "A amendoeira se chama 'a que vigia' porque floresce primeiro, ainda no fim do inverno. Deus responde com a mesma raiz: 'eu vigio sobre minha palavra'. A tradução portuguesa usa 'apresso'.",
+   "interpretacao": false
+  },
+  {
+   "id": "navi",
+   "pt": "Profeta",
+   "refs": [
+    "1:5"
+   ],
+   "hebraico": {
+    "lema": "נָבִיא",
+    "translit": "navi",
+    "strong": "H5030"
+   },
+   "grego": {
+    "lema": "προφήτης",
+    "translit": "prophētēs"
+   },
+   "sentido": "porta-voz, o chamado para falar em nome de outro",
+   "latim": {
+    "forma": "prophetam in gentibus dedi te",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Jeremias é 'profeta às nações': sua mensagem toca Judá e também os povos ao redor (capítulos 46 a 51).",
+   "interpretacao": false
+  },
+  {
+   "id": "shuv",
+   "pt": "Voltar, converter-se",
+   "refs": [
+    "3:14",
+    "3:22"
+   ],
+   "hebraico": {
+    "lema": "שׁוּב",
+    "translit": "shuv",
+    "strong": "H7725"
+   },
+   "grego": {
+    "lema": "ἐπιστρέφω",
+    "translit": "epistréphō"
+   },
+   "sentido": "dar meia-volta, retornar",
+   "latim": {
+    "forma": "convertimini filii revertentes",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Verbo-chave de Jeremias. O capítulo 3 brinca com ele: os 'filhos que se desviam' (que deram as costas) são chamados a 'voltar'.",
+   "interpretacao": false
+  },
+  {
+   "id": "hevel",
+   "pt": "Coisas inúteis, vaidade",
+   "refs": [
+    "2:5",
+    "10:15"
+   ],
+   "hebraico": {
+    "lema": "הֶבֶל",
+    "translit": "hevel",
+    "strong": "H1892"
+   },
+   "grego": {
+    "lema": "μάταιος",
+    "translit": "mátaios"
+   },
+   "sentido": "sopro, vapor, algo sem consistência",
+   "latim": {
+    "forma": "vanitas",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O mesmo termo de Eclesiastes ('vaidade'). Quem segue o que é vazio fica vazio: o povo se torna parecido com os ídolos que adora.",
+   "interpretacao": false
+  },
+  {
+   "id": "sheqer",
+   "pt": "Mentira, palavras falsas",
+   "refs": [
+    "7:4",
+    "7:8"
+   ],
+   "hebraico": {
+    "lema": "שֶׁקֶר",
+    "translit": "sheqer",
+    "strong": "H8267"
+   },
+   "sentido": "falsidade, engano",
+   "latim": {
+    "forma": "nolite confidere in verbis mendacii",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Uma das palavras mais frequentes do livro: os falsos profetas anunciam 'paz' quando não há paz, e o povo confia no templo como amuleto.",
+   "interpretacao": false
+  },
+  {
+   "id": "chesed",
+   "pt": "Bondade, amor fiel",
+   "refs": [
+    "2:2",
+    "9:24"
+   ],
+   "hebraico": {
+    "lema": "חֶסֶד",
+    "translit": "chesed",
+    "strong": "H2617"
+   },
+   "grego": {
+    "lema": "ἔλεος",
+    "translit": "éleos"
+   },
+   "sentido": "lealdade amorosa dentro de uma aliança",
+   "latim": {
+    "forma": "misericordia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Em 2:2 é a fidelidade de Israel no 'noivado' do deserto; em 9:24 é a bondade do próprio Deus, motivo do único orgulho legítimo.",
+   "interpretacao": false
+  },
+  {
+   "id": "lev",
+   "pt": "Coração",
+   "refs": [
+    "17:9",
+    "31:33"
+   ],
+   "hebraico": {
+    "lema": "לֵב",
+    "translit": "lev",
+    "strong": "H3820"
+   },
+   "grego": {
+    "lema": "καρδία",
+    "translit": "kardía"
+   },
+   "sentido": "centro da pessoa: mente, vontade e afeto",
+   "latim": {
+    "forma": "pravum est cor omnium et inscrutabile",
+    "nota": "Vulgata de 17:9."
+   },
+   "outras": [],
+   "explicacao": "Para o hebraico, o coração é onde se pensa e decide, não só onde se sente. Jeremias diagnostica um coração enganoso (17:9) e anuncia uma lei escrita nele (31:33).",
+   "interpretacao": false
+  },
+  {
+   "id": "yatsar",
+   "pt": "Oleiro / formar",
+   "refs": [
+    "1:5",
+    "18:4",
+    "18:6"
+   ],
+   "hebraico": {
+    "lema": "יָצַר",
+    "translit": "yatsar",
+    "strong": "H3335"
+   },
+   "grego": {
+    "lema": "κεραμεύς",
+    "translit": "kerameús"
+   },
+   "sentido": "moldar, dar forma (como o oleiro ao barro)",
+   "latim": {
+    "forma": "figulus",
+    "nota": "'Oleiro' na Vulgata."
+   },
+   "outras": [],
+   "explicacao": "O mesmo verbo descreve Deus formando Jeremias no ventre (1:5) e o oleiro moldando o vaso (18:4). Em hebraico, 'oleiro' é 'o que forma' (yotser).",
+   "interpretacao": false
+  },
+  {
+   "id": "ol",
+   "pt": "Jugo",
+   "refs": [
+    "27:8",
+    "28:10"
+   ],
+   "hebraico": {
+    "lema": "עֹל",
+    "translit": "ʿol",
+    "strong": "H5923"
+   },
+   "sentido": "peça de madeira posta sobre o pescoço dos bois",
+   "latim": {
+    "forma": "iugum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Símbolo de submissão política. Em 27:2 Jeremias usa também 'barras' (motot), as hastes do jugo.",
+   "interpretacao": false
+  },
+  {
+   "id": "tsemach",
+   "pt": "Renovo",
+   "refs": [
+    "23:5",
+    "33:15"
+   ],
+   "hebraico": {
+    "lema": "צֶמַח",
+    "translit": "tsemach",
+    "strong": "H6780"
+   },
+   "grego": {
+    "lema": "ἀνατολή",
+    "translit": "anatolḗ"
+   },
+   "sentido": "broto, rebento que nasce",
+   "latim": {
+    "forma": "germen iustum",
+    "nota": "Vulgata: suscitabo David germen iustum."
+   },
+   "outras": [],
+   "explicacao": "Título de um rei futuro da linhagem de Davi. A Septuaginta traduz por anatolē, 'aurora, nascimento', palavra que Lucas 1:78 parece ecoar.",
+   "interpretacao": true
+  },
+  {
+   "id": "berit-chadashah",
+   "pt": "Novo pacto",
+   "refs": [
+    "31:31"
+   ],
+   "hebraico": {
+    "lema": "בְּרִית חֲדָשָׁה",
+    "translit": "berit chadashah"
+   },
+   "grego": {
+    "lema": "διαθήκη καινή",
+    "translit": "diathḗkē kainḗ"
+   },
+   "sentido": "aliança nova",
+   "latim": {
+    "forma": "foedus novum",
+    "nota": "Daqui vem, via grego e latim, o nome 'Novo Testamento' (testamentum)."
+   },
+   "outras": [],
+   "explicacao": "É a única vez que o Antigo Testamento usa a expressão. Na Septuaginta o trecho fica no capítulo 38 (a ordem dos capítulos é diferente). Hebreus 8 cita a passagem inteira.",
+   "interpretacao": true
+  },
+  {
+   "id": "massa",
+   "pt": "Carga, oráculo",
+   "refs": [
+    "23:33"
+   ],
+   "hebraico": {
+    "lema": "מַשָּׂא",
+    "translit": "massa",
+    "strong": "H4853"
+   },
+   "sentido": "peso, carga; também 'oráculo' (palavra que pesa)",
+   "latim": {
+    "forma": "onus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Jeremias faz um jogo: quando perguntam 'qual é a carga do SENHOR?', a resposta é 'vocês são a carga, e eu os largarei'.",
+   "interpretacao": false
+  },
+  {
+   "id": "elahayya",
+   "pt": "Deuses (em aramaico)",
+   "refs": [
+    "10:11"
+   ],
+   "aramaico": {
+    "lema": "אֱלָהַיָּא",
+    "translit": "elahayya"
+   },
+   "sentido": "'os deuses', em aramaico",
+   "latim": {
+    "forma": "dii qui caelos et terram non fecerunt",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Jeremias 10:11 é o único versículo do livro escrito em aramaico, a língua internacional da época. Parece uma frase pronta para os exilados repetirem aos babilônios: os deuses que não fizeram o céu e a terra vão perecer.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "cronica-carquemis",
+   "titulo": "Crônica babilônica: Carquemis e a tomada de Jerusalém",
+   "refs": [
+    "46:2",
+    "37:1",
+    "52:28"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Crônica Babilônica de Nabucodonosor (ABC 5)",
+   "referencia": "British Museum, BM 21946",
+   "data_fonte": "séc. VI–V a.C. (tablete de argila)",
+   "data_evento": "605 e 597 a.C.",
+   "resumo": "A crônica narra a vitória de Nabucodonosor sobre o exército egípcio em Carquemis e, no seu sétimo ano, o cerco e a tomada da 'cidade de Judá' no mês de adar, com a nomeação de um novo rei.",
+   "relacao": "Confirma fora da Bíblia a batalha de Carquemis (46:2) e a captura de Jerusalém em 597 a.C., quando Joaquim foi levado e Zedequias posto no trono (37:1). A data de 52:28 ('sétimo ano') coincide com a da crônica.",
+   "grau": "documentado"
+  },
+  {
+   "id": "tabletes-joaquim",
+   "titulo": "Tabletes de ração de Joaquim",
+   "refs": [
+    "52:31",
+    "52:34"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Tabletes administrativos do palácio de Nabucodonosor, Babilônia",
+   "referencia": "Vorderasiatisches Museum, Berlim (publicados por E. F. Weidner, 1939)",
+   "data_fonte": "c. 592–569 a.C.",
+   "data_evento": "Exílio de Joaquim na Babilônia",
+   "resumo": "Listas de rações de óleo e alimento para estrangeiros na corte mencionam 'Ya'ukin, rei de Judá' e seus filhos.",
+   "relacao": "Confirmam que Joaquim vivia na corte babilônica recebendo provisão, como em 52:33-34. Os tabletes são anteriores à libertação narrada em 52:31.",
+   "grau": "documentado"
+  },
+  {
+   "id": "cartas-laquis",
+   "titulo": "Cartas de Laquis",
+   "refs": [
+    "34:7"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Óstracos de Laquis (Tel Lakhish)",
+   "referencia": "Encontrados em 1935 por J. L. Starkey; hoje divididos entre o British Museum e o Museu de Israel",
+   "data_fonte": "c. 588–586 a.C.",
+   "data_evento": "Cerco babilônico às cidades de Judá",
+   "resumo": "Cartas em tinta sobre cerâmica escritas por um oficial a seu comandante em Laquis. A carta 4 diz que observam os sinais de fogo de Laquis, pois não conseguem ver os de Azeca.",
+   "relacao": "Retratam o mesmo momento de 34:7, quando só Laquis e Azeca resistiam. Muitos leem a carta 4 como sinal de que Azeca já tinha caído, mas a interpretação é debatida. Outra carta cita 'o profeta', que não é identificado.",
+   "grau": "associacao"
+  },
+  {
+   "id": "nebo-sarsequim",
+   "titulo": "Tablete de Nabu-sharrussu-ukin",
+   "refs": [
+    "39:3"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Tablete cuneiforme de recibo de ouro do templo de Esagila",
+   "referencia": "British Museum, BM 114789 (lido por Michael Jursa em 2007)",
+   "data_fonte": "595 a.C. (10º ano de Nabucodonosor)",
+   "data_evento": "Corte de Nabucodonosor",
+   "resumo": "Recibo de uma doação de ouro feita por 'Nabu-sharrussu-ukin, o chefe dos eunucos' (rab sa-reshi).",
+   "relacao": "O nome e o título lembram 'Sarsequim, Rabsáris' de 39:3. Muitos estudiosos aceitam a identificação; outros notam que a leitura dos nomes em 39:3 é difícil e preferem cautela.",
+   "grau": "associacao"
+  },
+  {
+   "id": "bula-gemarias",
+   "titulo": "Bula de Gemarias filho de Safã",
+   "refs": [
+    "36:10"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Impressão de selo (bula) em argila",
+   "referencia": "Escavações de Yigal Shiloh na Cidade de Davi, Jerusalém (1982)",
+   "data_fonte": "fim do séc. VII – início do VI a.C.",
+   "data_evento": "Época de Jeoaquim",
+   "resumo": "Entre dezenas de bulas queimadas na 'casa das bulas' há uma com o nome 'Gemaryahu filho de Shaphan'.",
+   "relacao": "O nome coincide com o de Gemarias, filho de Safã, o escriba, em cuja sala Baruque leu o rolo (36:10). É provável que seja a mesma pessoa, mas não há como provar.",
+   "grau": "associacao"
+  },
+  {
+   "id": "bulas-jucal-gedalias",
+   "titulo": "Bulas de Jucal e de Gedalias",
+   "refs": [
+    "38:1"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Bulas de argila da Cidade de Davi",
+   "referencia": "Escavações de Eilat Mazar, Jerusalém (2005 e 2008)",
+   "data_fonte": "início do séc. VI a.C.",
+   "data_evento": "Últimos anos de Judá",
+   "resumo": "Duas bulas trazem os nomes 'Yehukal filho de Shelemyahu' e 'Gedalyahu filho de Pashhur'.",
+   "relacao": "Os dois nomes, com os nomes dos pais, aparecem juntos em 38:1 entre os oficiais que pediram a morte de Jeremias. A identificação é considerada provável por muitos arqueólogos.",
+   "grau": "associacao"
+  },
+  {
+   "id": "bula-baruque",
+   "titulo": "Bula atribuída a Baruque filho de Nerias",
+   "refs": [
+    "36:4",
+    "32:12"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Bula 'de Berekhyahu filho de Neriyahu, o escriba'",
+   "referencia": "Coleções particulares; publicada por N. Avigad (1978)",
+   "data_fonte": "séc. VII–VI a.C. (se autêntica)",
+   "data_evento": "Época de Jeremias",
+   "resumo": "Impressão de selo com o nome de Baruque na forma longa e o título 'escriba'.",
+   "relacao": "Se autêntica, seria um selo do próprio Baruque. Mas veio do mercado de antiguidades, sem escavação, e há sérias dúvidas sobre sua autenticidade; vários especialistas a consideram falsificação.",
+   "grau": "associacao"
+  },
+  {
+   "id": "herodoto-apries",
+   "titulo": "Heródoto sobre o faraó Apriés (Hofra)",
+   "refs": [
+    "44:30"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Heródoto, Histórias",
+   "referencia": "livro 2, caps. 161–169",
+   "data_fonte": "c. 430 a.C.",
+   "data_evento": "c. 570 a.C.",
+   "resumo": "Heródoto conta que Apriés perdeu o trono numa revolta liderada por Amásis e acabou morto pelos próprios egípcios.",
+   "relacao": "Apriés é o 'Faraó Ofra' de 44:30. O relato de Heródoto confirma que ele caiu nas mãos de inimigos, como anunciado.",
+   "grau": "documentado"
+  },
+  {
+   "id": "josefo-jeremias",
+   "titulo": "Flávio Josefo sobre Jeremias",
+   "refs": [
+    "1:1",
+    "38:6",
+    "39:14"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 10, caps. 5–9",
+   "data_fonte": "c. 93 d.C.",
+   "data_evento": "fim do séc. VII – séc. VI a.C.",
+   "resumo": "Josefo reconta a vida de Jeremias, suas advertências, a prisão na cisterna, a queda de Jerusalém e a ida ao Egito.",
+   "relacao": "É uma releitura judaica do séc. I baseada principalmente no próprio livro bíblico; mostra como Jeremias era lembrado, mas não é testemunha independente dos fatos.",
+   "grau": "associacao"
+  },
+  {
+   "id": "tafnes-petrie",
+   "titulo": "Tafnes (Tell Defenneh)",
+   "refs": [
+    "43:9"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Escavações de W. M. Flinders Petrie em Tell Defenneh, Egito",
+   "referencia": "Relatório de Petrie, 'Nebesheh and Defenneh' (1888)",
+   "data_fonte": "séc. VII–VI a.C. (ruínas)",
+   "data_evento": "Escavação em 1886",
+   "resumo": "Petrie identificou Tell Defenneh com a Tafnes bíblica (Dafne dos gregos) e descreveu uma grande plataforma de tijolos diante de uma fortaleza, que associou a 43:9.",
+   "relacao": "A identificação do local com Tafnes é aceita. A ligação da plataforma com as pedras de Jeremias foi uma sugestão de Petrie, sem prova.",
+   "grau": "associacao"
+  }
+ ]
+}

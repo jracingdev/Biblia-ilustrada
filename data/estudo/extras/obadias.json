@@ -1,0 +1,251 @@
+{
+ "livro": "obadias",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:3-4",
+   "titulo": "O ninho entre as estrelas",
+   "descricao": "As cidades de Edom aparecem esculpidas nas fendas de altos penhascos avermelhados, com uma águia pairando acima, imagem do orgulho que se sente intocável.",
+   "alt": "Cidade escavada em penhascos de arenito vermelho, com uma águia voando no alto.",
+   "prompt": "Ancient Edomite dwellings carved into towering red sandstone cliffs with narrow passes, an eagle soaring high above among the first evening stars, proud figures on a rocky ledge looking down, dramatic dusk light"
+  },
+  {
+   "id": "q02",
+   "capitulo": 1,
+   "ref": "1:11-14",
+   "titulo": "Edom na encruzilhada",
+   "descricao": "Enquanto Jerusalém cai, homens de Edom observam de longe e bloqueiam os caminhos por onde fugiam os sobreviventes.",
+   "alt": "Edomitas observam de um cume enquanto refugiados de Jerusalém fogem por um caminho estreito.",
+   "prompt": "Edomite men in desert garments standing on a rocky crossroads watching smoke rise from distant Jerusalem, Judean refugees with bundles and children fleeing along a narrow path below, no graphic violence, sorrow and coldness contrasted, hazy smoky light"
+  },
+  {
+   "id": "q03",
+   "capitulo": 1,
+   "ref": "1:21",
+   "titulo": "Salvadores no monte Sião",
+   "descricao": "Libertadores sobem ao monte Sião e a luz da manhã cobre a cidade: o reino será do SENHOR.",
+   "alt": "Pessoas sobem um caminho em direção ao monte Sião iluminado pelo sol da manhã.",
+   "prompt": "Groups of ancient Judean people ascending a winding path toward Mount Zion and a restored Jerusalem bathed in golden morning light, the rugged mountains of Edom in the far distance, hopeful peaceful mood, wide composition"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "ninho-aguia",
+   "termo": "Ninho de águia entre as estrelas",
+   "ref": "1:4",
+   "explicado": false,
+   "significado": "Imagem da segurança orgulhosa de Edom, que habitava em penhascos. O texto diz que dali Deus o derrubará."
+  },
+  {
+   "id": "fendas-rocha",
+   "termo": "As fendas das rochas",
+   "ref": "1:3",
+   "explicado": false,
+   "significado": "Edom vivia em regiões rochosas e de difícil acesso. A palavra 'rocha' (sela) pode aludir a uma cidade edomita com esse nome."
+  },
+  {
+   "id": "ladroes-vindimadores",
+   "termo": "Ladrões e vindimadores",
+   "ref": "1:5",
+   "explicado": true,
+   "significado": "O texto compara: até ladrões e vindimadores deixam algo para trás, mas Edom seria saqueado por completo."
+  },
+  {
+   "id": "irmao",
+   "termo": "Jacó, teu irmão",
+   "ref": "1:10",
+   "explicado": false,
+   "significado": "Edom descendia de Esaú, irmão de Jacó. O pecado é agravado por ser contra o próprio irmão (Gn 25; 27)."
+  },
+  {
+   "id": "calice",
+   "termo": "Beber",
+   "ref": "1:16",
+   "explicado": false,
+   "significado": "Como Judá bebeu no monte santo, as nações beberão: imagem comum nos profetas para o cálice do juízo divino."
+  },
+  {
+   "id": "fogo-palha",
+   "termo": "Fogo e palha",
+   "ref": "1:18",
+   "explicado": true,
+   "significado": "A casa de Jacó será fogo e a casa de Esaú palha. O texto aplica a imagem ao fim de Edom."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "zadon",
+   "pt": "Soberba",
+   "refs": [
+    "1:3"
+   ],
+   "hebraico": {
+    "lema": "זָדוֹן",
+    "translit": "zadon",
+    "strong": "H2087"
+   },
+   "grego": {
+    "lema": "ὑπερηφανία",
+    "translit": "hyperēphanía"
+   },
+   "sentido": "arrogância, presunção",
+   "latim": {
+    "forma": "superbia cordis tui extulit te",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O pecado de raiz de Edom: a soberba do coração o enganou, fazendo-o pensar que ninguém o derrubaria.",
+   "interpretacao": false
+  },
+  {
+   "id": "chamas",
+   "pt": "Violência",
+   "refs": [
+    "1:10"
+   ],
+   "hebraico": {
+    "lema": "חָמָס",
+    "translit": "chamas",
+    "strong": "H2555"
+   },
+   "sentido": "violência, injustiça brutal",
+   "latim": {
+    "forma": "propter interfectionem et propter iniquitatem in fratrem tuum Iacob",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Palavra forte que cobre crime e opressão. Aqui é a violência feita contra o 'irmão Jacó'.",
+   "interpretacao": false
+  },
+  {
+   "id": "yom-yhwh",
+   "pt": "Dia do SENHOR",
+   "refs": [
+    "1:15"
+   ],
+   "hebraico": {
+    "lema": "יוֹם יְהוָה",
+    "translit": "yom YHWH",
+    "strong": "H3117, H3068"
+   },
+   "sentido": "o dia em que o SENHOR age",
+   "latim": {
+    "forma": "dies Domini super omnes gentes",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O dia do juízo de Edom é parte de um dia maior sobre todas as nações. O princípio é de retribuição: 'como fizeste, assim se fará contigo'.",
+   "interpretacao": false
+  },
+  {
+   "id": "gemul",
+   "pt": "Recompensa (retribuição)",
+   "refs": [
+    "1:15"
+   ],
+   "hebraico": {
+    "lema": "גְּמוּל",
+    "translit": "gemul",
+    "strong": "H1576"
+   },
+   "sentido": "aquilo que se paga de volta",
+   "latim": {
+    "forma": "retributionem tuam convertet in caput tuum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A retribuição volta sobre a própria cabeça: o mal feito a Judá retorna sobre Edom.",
+   "interpretacao": false
+  },
+  {
+   "id": "moshiim",
+   "pt": "Salvadores",
+   "refs": [
+    "1:21"
+   ],
+   "hebraico": {
+    "lema": "מוֹשִׁעִים",
+    "translit": "moshi'im",
+    "strong": "H3467"
+   },
+   "sentido": "libertadores, os que trazem livramento",
+   "latim": {
+    "forma": "et ascendent salvatores in montem Sion",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A palavra vem do verbo yasha, salvar, a mesma raiz de nomes como Josué e Jesus. Lembra os 'juízes libertadores' do livro de Juízes.",
+   "interpretacao": false
+  },
+  {
+   "id": "melukah",
+   "pt": "Reino",
+   "refs": [
+    "1:21"
+   ],
+   "hebraico": {
+    "lema": "מְלוּכָה",
+    "translit": "melukah",
+    "strong": "H4410"
+   },
+   "sentido": "realeza, domínio de rei",
+   "latim": {
+    "forma": "et erit Domino regnum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A última palavra do livro: o reino será do SENHOR. O pequeno livro termina afirmando o governo de Deus sobre as nações.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "arad-edom",
+   "titulo": "Óstraco de Arad 24: medo de Edom",
+   "refs": [
+    "1:11",
+    "1:14"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Óstracos de Arade (arquivo de Eliasibe)",
+   "referencia": "Óstraco 24, fortaleza de Arade; Museu de Israel",
+   "data_fonte": "c. 600–587 a.C.",
+   "data_evento": "últimos anos do reino de Judá",
+   "resumo": "Carta militar em hebraico manda reforçar uma posição no Neguebe 'para que Edom não venha' para lá.",
+   "relacao": "Mostra que, nos anos finais de Judá, Edom era visto como ameaça real na fronteira sul, contexto da acusação de Obadias.",
+   "grau": "associacao"
+  },
+  {
+   "id": "nabonido-sela",
+   "titulo": "Relevo de Nabonido em Sela",
+   "refs": [
+    "1:1",
+    "1:3"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Relevo e inscrição do rei babilônio Nabonido",
+   "referencia": "Penhasco de Sela, sul da Jordânia",
+   "data_fonte": "c. 552 a.C.",
+   "data_evento": "campanha babilônica em Edom, meados do séc. VI a.C.",
+   "resumo": "Relevo rupestre com a figura de um rei babilônio e símbolos astrais, atribuído a Nabonido, cuja campanha no oeste incluiu a região de Edom.",
+   "relacao": "Indica que Edom sofreu com a Babilônia poucas décadas depois da queda de Jerusalém. É contexto, não cumprimento demonstrado de uma frase específica.",
+   "grau": "associacao"
+  },
+  {
+   "id": "josefo-idumeus",
+   "titulo": "Josefo e o fim dos idumeus como povo à parte",
+   "refs": [
+    "1:18"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 13, cap. 9, §1",
+   "data_fonte": "c. 93–94 d.C.",
+   "data_evento": "c. 125 a.C.",
+   "resumo": "Josefo conta que João Hircano conquistou a Idumeia (antiga terra de Edom) e obrigou os idumeus a se circuncidarem e a viverem como judeus.",
+   "relacao": "Ajuda a entender o destino histórico dos descendentes de Edom, que deixaram de existir como nação independente. A relação com a profecia é interpretação.",
+   "grau": "associacao"
+  }
+ ]
+}
