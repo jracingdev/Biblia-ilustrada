@@ -1,0 +1,167 @@
+{
+ "livro": "2-timoteo",
+ "nome": "2 Timóteo",
+ "subtitulo": "Guardar a fé até o fim",
+ "introducao": "Esta é tradicionalmente considerada a última carta de Paulo, escrita da prisão quando ele sentia que sua morte estava próxima. Com o coração de pai, ele encoraja Timóteo a não ter medo, a perseverar no sofrimento, a se apoiar nas Escrituras e a pregar a palavra. É um testamento de fé de quem combateu o bom combate.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Tradicionalmente atribuído a Paulo; alguns estudiosos debatem a autoria (1:1)"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Se de Paulo, por volta de 64–67 d.C., pouco antes de sua morte (4:6)"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Escrita na prisão em Roma (1:16-17)"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "Timóteo, \"amado filho\" de Paulo (1:2)"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Carta pastoral"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "4 capítulos e 83 versículos"
+  }
+ ],
+ "chave": "4:7",
+ "temas": [
+  "Coragem para não se envergonhar do evangelho",
+  "Perseverança no sofrimento",
+  "Passar a fé adiante",
+  "A Escritura inspirada por Deus",
+  "Fidelidade até o fim"
+ ],
+ "cristo": "Paulo pede que Timóteo se lembre de Jesus Cristo ressuscitado, descendente de Davi, que destruiu a morte e trouxe a vida e a imortalidade pelo evangelho (1:10, 2:8). A esperança final é a coroa que o Senhor dará a todos os que amam a sua vinda (4:8).",
+ "secoes": [
+  {
+   "id": "coragem",
+   "titulo": "Coragem e perseverança",
+   "capitulos": [
+    1,
+    2
+   ],
+   "resumo": "Não ter vergonha do evangelho e sofrer como bom soldado de Cristo."
+  },
+  {
+   "id": "palavra",
+   "titulo": "Fidelidade à palavra",
+   "capitulos": [
+    3,
+    4
+   ],
+   "resumo": "Tempos difíceis, a Escritura inspirada e a despedida de Paulo."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Não te envergonhes do evangelho",
+   "chave": "1:7",
+   "resumo": "Paulo, preso, escreve com carinho a Timóteo, lembrando suas lágrimas e a fé sincera que vinha de sua avó Loide e de sua mãe Eunice. Ele o exorta a reavivar o dom de Deus, pois Deus não nos deu espírito de medo, mas de poder, amor e equilíbrio, e a não se envergonhar do evangelho. Paulo diz saber em quem tem crido, lamenta os que o abandonaram na Ásia e elogia Onesíforo, que o procurou em Roma.",
+   "licoes": [
+    "A fé pode ser transmitida de geração em geração, como na família de Timóteo (1:5).",
+    "Deus nos dá espírito de força, amor e moderação, e não de medo (1:7).",
+    "Somos salvos pela graça de Deus, não por nossas obras (1:9).",
+    "Paulo sabe em quem tem crido e confia que ele guarda o que lhe foi confiado (1:12)."
+   ],
+   "reflexao": "Que medo tem impedido você de usar o dom que Deus lhe deu?",
+   "quiz": [
+    {
+     "pergunta": "Quais eram os nomes da avó e da mãe de Timóteo?",
+     "opcoes": [
+      "Maria e Marta",
+      "Loide e Eunice",
+      "Priscila e Lídia",
+      "Ana e Isabel"
+     ],
+     "correta": 1,
+     "ref": "1:5"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Soldado, atleta e lavrador",
+   "chave": "2:15",
+   "resumo": "Paulo encoraja Timóteo a se fortalecer na graça e a confiar o ensino a pessoas fiéis que possam ensinar outros. Usa as imagens do soldado, do atleta e do lavrador para falar de dedicação e perseverança, e lembra que a palavra de Deus não está presa. Timóteo deve manejar bem a palavra da verdade, fugir de discussões inúteis e das paixões da juventude e corrigir os opositores com mansidão.",
+   "licoes": [
+    "O ensino deve ser passado adiante a pessoas fiéis que ensinem outros (2:2).",
+    "Mesmo com o mensageiro preso, a palavra de Deus não está presa (2:9).",
+    "Se formos infiéis, ele permanece fiel, pois não pode negar a si mesmo (2:13).",
+    "O servo do Senhor deve manejar bem a palavra e corrigir com mansidão (2:15, 2:24-25)."
+   ],
+   "reflexao": "Em quem você está investindo para que a fé seja passada adiante?",
+   "quiz": [
+    {
+     "pergunta": "Que falso ensino Himeneu e Fileto espalhavam?",
+     "opcoes": [
+      "Que não havia anjos",
+      "Que Jesus não era homem",
+      "Que a ressurreição já aconteceu",
+      "Que era preciso circuncidar-se"
+     ],
+     "correta": 2,
+     "ref": "2:17-18"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Tempos difíceis e a Escritura inspirada",
+   "chave": "3:16-17",
+   "resumo": "Paulo avisa que nos últimos dias haverá pessoas egoístas, gananciosas e amantes dos prazeres, com aparência de piedade, mas negando seu poder. Timóteo, porém, conhece o exemplo de Paulo em meio às perseguições e deve permanecer no que aprendeu. Desde criança conhece as Escrituras, que levam à salvação pela fé em Cristo; toda a Escritura é inspirada por Deus e útil para ensinar, corrigir e preparar para toda boa obra.",
+   "licoes": [
+    "Aparência de piedade sem o poder de Deus é um perigo real (3:5).",
+    "Todos que querem viver piedosamente em Cristo sofrerão perseguição (3:12).",
+    "As Escrituras nos tornam sábios para a salvação pela fé em Cristo (3:15).",
+    "Toda a Escritura é inspirada por Deus e útil para ensinar, corrigir e instruir na justiça (3:16-17)."
+   ],
+   "reflexao": "Que lugar a leitura das Escrituras ocupa na sua rotina?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Paulo, como é toda a Escritura?",
+     "opcoes": [
+      "Apenas para os sacerdotes",
+      "Só para os judeus",
+      "Difícil e obscura",
+      "Divinamente inspirada e proveitosa"
+     ],
+     "correta": 3,
+     "ref": "3:16"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Combati o bom combate",
+   "chave": "4:7",
+   "resumo": "Diante de Deus e de Cristo, Paulo ordena a Timóteo que pregue a palavra em todo tempo, pois virão dias em que as pessoas buscarão mestres que agradem seus ouvidos. Sabendo que sua morte está próxima, Paulo declara que combateu o bom combate, terminou a corrida e guardou a fé, e espera a coroa da justiça. Ele pede que Timóteo venha logo, traga Marcos, a capa e os pergaminhos, e conta que, quando todos o abandonaram, o Senhor o fortaleceu.",
+   "licoes": [
+    "A palavra deve ser pregada com paciência, a tempo e fora de tempo (4:2).",
+    "Muitos preferirão ouvir o que agrada em vez da verdade (4:3-4).",
+    "Paulo termina a vida tendo combatido, terminado a carreira e guardado a fé (4:7-8).",
+    "Mesmo abandonado pelas pessoas, Paulo foi sustentado pelo Senhor (4:16-17)."
+   ],
+   "reflexao": "Como você gostaria de poder descrever sua caminhada de fé no final da vida?",
+   "quiz": [
+    {
+     "pergunta": "Quem Paulo diz que o abandonou por amar o mundo presente?",
+     "opcoes": [
+      "Demas",
+      "Tito",
+      "Marcos",
+      "Lucas"
+     ],
+     "correta": 0,
+     "ref": "4:10"
+    }
+   ]
+  }
+ ]
+}

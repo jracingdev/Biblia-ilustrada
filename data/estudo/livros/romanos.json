@@ -109,12 +109,12 @@
     {
      "pergunta": "Segundo Paulo, o evangelho é poder de Deus para quê?",
      "opcoes": [
-      "Para a prosperidade",
       "Para a salvação de todo aquele que crê",
       "Para a vitória de Israel",
-      "Para o conhecimento da Lei"
+      "Para o conhecimento da Lei",
+      "Para a prosperidade"
      ],
-     "correta": 1,
+     "correta": 0,
      "ref": "1:16"
     }
    ]
@@ -161,12 +161,12 @@
     {
      "pergunta": "Segundo Paulo, o que vem por meio da Lei?",
      "opcoes": [
+      "A vida eterna",
       "A justificação",
       "O conhecimento do pecado",
-      "O Espírito Santo",
-      "A vida eterna"
+      "O Espírito Santo"
      ],
-     "correta": 1,
+     "correta": 2,
      "ref": "3:20"
     }
    ]
@@ -187,12 +187,12 @@
     {
      "pergunta": "Quando a fé de Abraão lhe foi reputada como justiça?",
      "opcoes": [
-      "Depois da circuncisão",
-      "Antes da circuncisão",
       "Quando recebeu a Lei",
-      "Quando ofereceu Isaque"
+      "Quando ofereceu Isaque",
+      "Depois da circuncisão",
+      "Antes da circuncisão"
      ],
-     "correta": 1,
+     "correta": 3,
      "ref": "4:10"
     }
    ]
@@ -213,12 +213,12 @@
     {
      "pergunta": "Segundo Paulo, a tribulação produz o quê?",
      "opcoes": [
-      "Amargura",
       "Paciência",
       "Riqueza",
-      "Dúvida"
+      "Dúvida",
+      "Amargura"
      ],
-     "correta": 1,
+     "correta": 0,
      "ref": "5:3"
     }
    ]
@@ -291,12 +291,12 @@
     {
      "pergunta": "Segundo Paulo, como os filhos de Deus clamam pelo Espírito de adoção?",
      "opcoes": [
-      "Senhor dos Exércitos",
-      "Aba, Pai",
       "Hosana",
-      "Maranata"
+      "Maranata",
+      "Senhor dos Exércitos",
+      "Aba, Pai"
      ],
-     "correta": 1,
+     "correta": 3,
      "ref": "8:15"
     }
    ]
@@ -317,12 +317,12 @@
     {
      "pergunta": "Que imagem Paulo usa para falar do direito de Deus sobre suas criaturas?",
      "opcoes": [
-      "O pastor e as ovelhas",
       "O oleiro e o barro",
       "O semeador e a semente",
-      "O rei e os súditos"
+      "O rei e os súditos",
+      "O pastor e as ovelhas"
      ],
-     "correta": 1,
+     "correta": 0,
      "ref": "9:21"
     }
    ]
@@ -343,12 +343,12 @@
     {
      "pergunta": "Segundo Paulo, de onde vem a fé?",
      "opcoes": [
-      "Das obras",
       "Dos milagres",
       "Do ouvir a palavra de Cristo",
-      "Da circuncisão"
+      "Da circuncisão",
+      "Das obras"
      ],
-     "correta": 2,
+     "correta": 1,
      "ref": "10:17"
     }
    ]
@@ -395,12 +395,12 @@
     {
      "pergunta": "Segundo Paulo, como devemos apresentar nossos corpos a Deus?",
      "opcoes": [
-      "Como servos da Lei",
-      "Como sacrifício vivo",
       "Como templos de pedra",
-      "Como ofertas queimadas"
+      "Como ofertas queimadas",
+      "Como servos da Lei",
+      "Como sacrifício vivo"
      ],
-     "correta": 1,
+     "correta": 3,
      "ref": "12:1"
     }
    ]
@@ -421,12 +421,12 @@
     {
      "pergunta": "Segundo Paulo, qual é o cumprimento da Lei?",
      "opcoes": [
-      "O sacrifício",
       "O amor",
       "O jejum",
-      "A circuncisão"
+      "A circuncisão",
+      "O sacrifício"
      ],
-     "correta": 1,
+     "correta": 0,
      "ref": "13:10"
     }
    ]
@@ -473,12 +473,12 @@
     {
      "pergunta": "Para onde Paulo planejava ir passando por Roma?",
      "opcoes": [
+      "Babilônia",
       "Egito",
       "Espanha",
-      "Gália",
-      "Babilônia"
+      "Gália"
      ],
-     "correta": 1,
+     "correta": 2,
      "ref": "15:24"
     }
    ]
@@ -499,12 +499,12 @@
     {
      "pergunta": "Quem escreveu a carta enquanto Paulo ditava?",
      "opcoes": [
-      "Timóteo",
-      "Tércio",
       "Gaio",
-      "Erasto"
+      "Erasto",
+      "Timóteo",
+      "Tércio"
      ],
-     "correta": 1,
+     "correta": 3,
      "ref": "16:22"
     }
    ]

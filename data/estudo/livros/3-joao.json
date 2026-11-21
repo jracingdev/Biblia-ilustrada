@@ -1,0 +1,74 @@
+{
+ "livro": "3-joao",
+ "nome": "3 João",
+ "subtitulo": "Hospitalidade e fidelidade à verdade",
+ "introducao": "Nesta carta pessoal, o \"ancião\" elogia Gaio por andar na verdade e acolher missionários itinerantes. Ele denuncia a atitude de Diótrefes, que buscava o poder e recusava a hospitalidade, e recomenda Demétrio. É um retrato vivo dos desafios e das alegrias da vida nas primeiras igrejas.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "\"O ancião\" (1:1), tradicionalmente identificado com o apóstolo João"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "A maioria data entre 85 e 100 d.C."
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "Gaio, um cristão amado pelo ancião (1:1)"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Carta pessoal"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "1 capítulo e 14 versículos"
+  }
+ ],
+ "chave": "1:4",
+ "temas": [
+  "Andar na verdade",
+  "Hospitalidade aos que servem ao evangelho",
+  "O perigo do orgulho na liderança",
+  "Imitar o bem"
+ ],
+ "cristo": "Os missionários que Gaio acolhia saíram \"por causa do Nome\", o nome de Cristo; apoiá-los é cooperar com a verdade do evangelho (1:7-8).",
+ "secoes": [
+  {
+   "id": "carta",
+   "titulo": "Uma carta a Gaio",
+   "capitulos": [
+    1
+   ],
+   "resumo": "Elogio a Gaio, crítica a Diótrefes e recomendação de Demétrio."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Gaio, Diótrefes e Demétrio",
+   "chave": "1:11",
+   "resumo": "O ancião escreve ao amado Gaio, desejando que ele tenha saúde assim como sua alma vai bem, e se alegra porque ele anda na verdade e acolhe com fidelidade os irmãos missionários. Em contraste, critica Diótrefes, que gosta de ser o primeiro, fala mal do ancião e recusa receber os irmãos. Recomenda Demétrio, que tem bom testemunho de todos, e espera visitar Gaio em breve.",
+   "licoes": [
+    "Não há alegria maior para quem ensina do que ver seus filhos na fé andando na verdade (1:4).",
+    "Apoiar os que trabalham pelo evangelho nos torna cooperadores da verdade (1:7-8).",
+    "O desejo de ser o primeiro destrói a comunhão, como mostra Diótrefes (1:9-10).",
+    "Devemos imitar o bem, não o mal (1:11)."
+   ],
+   "reflexao": "Você tem apoiado e acolhido quem trabalha pelo evangelho?",
+   "quiz": [
+    {
+     "pergunta": "Quem gostava de ser o primeiro e não recebia os irmãos?",
+     "opcoes": [
+      "Gaio",
+      "Demétrio",
+      "Diótrefes",
+      "Timóteo"
+     ],
+     "correta": 2,
+     "ref": "1:9"
+    }
+   ]
+  }
+ ]
+}

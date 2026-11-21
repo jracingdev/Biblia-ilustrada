@@ -121,11 +121,11 @@
      "pergunta": "Quem foi Abrão, segundo a genealogia?",
      "opcoes": [
       "O pai de Noé",
-      "Rei de Edom",
       "Filho de Esaú",
-      "O mesmo Abraão"
+      "O mesmo Abraão",
+      "Rei de Edom"
      ],
-     "correta": 3,
+     "correta": 2,
      "ref": "1:27"
     }
    ]
@@ -145,12 +145,12 @@
     {
      "pergunta": "Qual era a posição de Davi entre os filhos de Jessé?",
      "opcoes": [
-      "O primeiro",
       "O sétimo",
       "O terceiro",
+      "O primeiro",
       "O último de doze"
      ],
-     "correta": 1,
+     "correta": 0,
      "ref": "2:15"
     }
    ]
@@ -195,12 +195,12 @@
     {
      "pergunta": "Por que a mãe de Jabez lhe deu esse nome?",
      "opcoes": [
-      "Porque nasceu em Jabez",
       "Porque o deu à luz com dores",
+      "Porque nasceu em Jabez",
       "Porque era o primogênito",
       "Porque era forte"
      ],
-     "correta": 1,
+     "correta": 0,
      "ref": "4:9"
     }
    ]
@@ -221,11 +221,11 @@
      "pergunta": "Por que as tribos do leste venceram os hagarenos?",
      "opcoes": [
       "Porque eram mais numerosas",
-      "Porque clamaram a Deus e confiaram nele",
+      "Porque Saul os liderou",
       "Porque tinham carros de ferro",
-      "Porque Saul os liderou"
+      "Porque clamaram a Deus e confiaram nele"
      ],
-     "correta": 1,
+     "correta": 3,
      "ref": "5:20"
     }
    ]
@@ -245,12 +245,12 @@
     {
      "pergunta": "Que ofício Davi organizou para alguns levitas depois que a arca teve repouso?",
      "opcoes": [
-      "A guarda das portas",
       "O ofício da música",
+      "A guarda das portas",
       "A coleta de impostos",
       "O preparo dos pães"
      ],
-     "correta": 1,
+     "correta": 0,
      "ref": "6:31"
     }
    ]
@@ -271,11 +271,11 @@
      "pergunta": "De que tribo veio Josué, filho de Num?",
      "opcoes": [
       "Benjamim",
-      "Aser",
       "Efraim",
+      "Aser",
       "Naftali"
      ],
-     "correta": 2,
+     "correta": 1,
      "ref": "7:20-27"
     }
    ]
@@ -295,12 +295,12 @@
     {
      "pergunta": "Quem foi o filho de Jônatas segundo a genealogia?",
      "opcoes": [
-      "Quis",
       "Esbaal",
       "Meribe-Baal",
+      "Quis",
       "Ner"
      ],
-     "correta": 2,
+     "correta": 1,
      "ref": "8:34"
     }
    ]
@@ -320,12 +320,12 @@
     {
      "pergunta": "Quantos porteiros escolhidos são contados?",
      "opcoes": [
-      "Cento e vinte",
       "Setenta",
-      "Trezentos",
-      "Duzentos e doze"
+      "Cento e vinte",
+      "Duzentos e doze",
+      "Trezentos"
      ],
-     "correta": 3,
+     "correta": 2,
      "ref": "9:22"
     }
    ]
@@ -346,11 +346,11 @@
      "pergunta": "Segundo o cronista, por que Saul morreu?",
      "opcoes": [
       "Por causa da idade",
+      "Por uma doença",
       "Por traição de Davi",
-      "Por sua transgressão e por não buscar o SENHOR",
-      "Por uma doença"
+      "Por sua transgressão e por não buscar o SENHOR"
      ],
-     "correta": 2,
+     "correta": 3,
      "ref": "10:13-14"
     }
    ]
@@ -396,12 +396,12 @@
     {
      "pergunta": "Que habilidade se destaca nos filhos de Issacar?",
      "opcoes": [
-      "Eram ótimos arqueiros",
       "Eram conhecedores dos tempos",
+      "Eram ótimos arqueiros",
       "Eram construtores",
       "Eram músicos"
      ],
-     "correta": 1,
+     "correta": 0,
      "ref": "12:32"
     }
    ]
@@ -421,12 +421,12 @@
     {
      "pergunta": "Em que casa a arca ficou por três meses?",
      "opcoes": [
-      "Na casa de Obede-Edom",
       "Na casa de Abinadabe",
       "Na casa de Davi",
+      "Na casa de Obede-Edom",
       "Na casa de Zadoque"
      ],
-     "correta": 0,
+     "correta": 2,
      "ref": "13:14"
     }
    ]
@@ -447,11 +447,11 @@
      "pergunta": "Qual seria o sinal para Davi atacar na segunda batalha?",
      "opcoes": [
       "Um trovão",
-      "O ruído de marcha nas copas das amoreiras",
+      "O pôr do sol",
       "O toque da trombeta",
-      "O pôr do sol"
+      "O ruído de marcha nas copas das amoreiras"
      ],
-     "correta": 1,
+     "correta": 3,
      "ref": "14:15"
     }
    ]
@@ -472,11 +472,11 @@
      "pergunta": "Como os levitas carregaram a arca desta vez?",
      "opcoes": [
       "Num carro novo",
+      "Sobre um jumento",
       "Puxada por bois",
-      "Com as barras sobre os ombros",
-      "Sobre um jumento"
+      "Com as barras sobre os ombros"
      ],
-     "correta": 2,
+     "correta": 3,
      "ref": "15:15"
     }
    ]
@@ -497,12 +497,12 @@
     {
      "pergunta": "A quem Davi entregou pela primeira vez o cântico de celebração ao SENHOR?",
      "opcoes": [
-      "Asafe e seus irmãos",
       "Hemã",
       "Zadoque",
+      "Asafe e seus irmãos",
       "Obede-Edom"
      ],
-     "correta": 0,
+     "correta": 2,
      "ref": "16:7"
     }
    ]
@@ -523,12 +523,12 @@
     {
      "pergunta": "O que Deus disse que faria para Davi no lugar da casa que Davi queria construir?",
      "opcoes": [
-      "Daria riquezas",
       "Edificaria uma casa (descendência) para Davi",
+      "Daria riquezas",
       "Mandaria um profeta",
       "Destruiria os filisteus"
      ],
-     "correta": 1,
+     "correta": 0,
      "ref": "17:10"
     }
    ]
@@ -549,11 +549,11 @@
      "pergunta": "O que Davi fez com a prata e o ouro tomados das nações?",
      "opcoes": [
       "Distribuiu aos soldados",
-      "Construiu seu palácio",
       "Enviou ao Egito",
-      "Dedicou ao SENHOR"
+      "Dedicou ao SENHOR",
+      "Construiu seu palácio"
      ],
-     "correta": 3,
+     "correta": 2,
      "ref": "18:11"
     }
    ]
@@ -600,10 +600,10 @@
      "opcoes": [
       "Sibecai",
       "Elanã",
-      "Jônatas, sobrinho de Davi",
-      "Abisai"
+      "Abisai",
+      "Jônatas, sobrinho de Davi"
      ],
-     "correta": 2,
+     "correta": 3,
      "ref": "20:6-7"
     }
    ]
@@ -650,12 +650,12 @@
     {
      "pergunta": "Por que Davi não pôde construir o templo?",
      "opcoes": [
-      "Porque derramou muito sangue em guerras",
       "Porque era muito velho",
+      "Porque o povo não quis",
       "Porque não tinha recursos",
-      "Porque o povo não quis"
+      "Porque derramou muito sangue em guerras"
      ],
-     "correta": 0,
+     "correta": 3,
      "ref": "22:8"
     }
    ]
@@ -676,11 +676,11 @@
      "pergunta": "Quantos levitas foram contados de trinta anos para cima?",
      "opcoes": [
       "Doze mil",
-      "Trinta e oito mil",
       "Vinte e quatro mil",
+      "Trinta e oito mil",
       "Setenta mil"
      ],
-     "correta": 1,
+     "correta": 2,
      "ref": "23:3"
     }
    ]
@@ -725,12 +725,12 @@
     {
      "pergunta": "Quantos eram os músicos instruídos no cântico do SENHOR?",
      "opcoes": [
-      "Cento e vinte",
       "Doze",
-      "Quatro mil",
-      "Duzentos e oitenta e oito"
+      "Cento e vinte",
+      "Duzentos e oitenta e oito",
+      "Quatro mil"
      ],
-     "correta": 3,
+     "correta": 2,
      "ref": "25:7"
     }
    ]
@@ -775,12 +775,12 @@
     {
      "pergunta": "Quantos homens havia em cada divisão mensal?",
      "opcoes": [
-      "Vinte e quatro mil",
       "Doze mil",
+      "Vinte e quatro mil",
       "Trinta mil",
       "Cinquenta mil"
      ],
-     "correta": 0,
+     "correta": 1,
      "ref": "27:1"
     }
    ]
@@ -801,12 +801,12 @@
     {
      "pergunta": "Segundo Davi, o que acontece a quem busca o SENHOR?",
      "opcoes": [
-      "Fica rico",
       "O acha",
+      "Fica rico",
       "Nunca sofre",
       "Torna-se rei"
      ],
-     "correta": 1,
+     "correta": 0,
      "ref": "28:9"
     }
    ]
@@ -828,11 +828,11 @@
      "pergunta": "Por que o povo se alegrou ao contribuir?",
      "opcoes": [
       "Porque foi obrigado",
-      "Porque recebeu algo em troca",
       "Porque ofereceu voluntariamente e de coração inteiro",
+      "Porque recebeu algo em troca",
       "Porque o rei mandou"
      ],
-     "correta": 2,
+     "correta": 1,
      "ref": "29:9"
     }
    ]

@@ -468,12 +468,12 @@
     {
      "pergunta": "Quantos pães e peixes os discípulos tinham?",
      "opcoes": [
-      "Sete pães e alguns peixes",
-      "Doze pães e três peixes",
+      "Dois pães e cinco peixes",
       "Cinco pães e dois peixes",
-      "Dois pães e cinco peixes"
+      "Sete pães e alguns peixes",
+      "Doze pães e três peixes"
      ],
-     "correta": 2,
+     "correta": 1,
      "ref": "14:17"
     }
    ]
@@ -755,11 +755,11 @@
      "pergunta": "Quantas virgens eram prudentes na parábola?",
      "opcoes": [
       "Duas",
-      "Cinco",
       "Três",
+      "Cinco",
       "Sete"
      ],
-     "correta": 1,
+     "correta": 2,
      "ref": "25:2"
     }
    ]
@@ -781,11 +781,11 @@
      "pergunta": "Quantas vezes Pedro negou Jesus antes de o galo cantar?",
      "opcoes": [
       "Uma",
-      "Três",
       "Duas",
+      "Três",
       "Sete"
      ],
-     "correta": 1,
+     "correta": 2,
      "ref": "26:34"
     }
    ]

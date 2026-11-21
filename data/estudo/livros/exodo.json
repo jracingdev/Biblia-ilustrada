@@ -303,11 +303,11 @@
      "pergunta": "Que idade tinha Moisés quando falou com Faraó?",
      "opcoes": [
       "Quarenta anos",
-      "Oitenta anos",
       "Sessenta anos",
+      "Oitenta anos",
       "Cento e vinte anos"
      ],
-     "correta": 1,
+     "correta": 2,
      "ref": "7:7"
     }
    ]
@@ -380,12 +380,12 @@
     {
      "pergunta": "Quantos dias duraram as trevas no Egito?",
      "opcoes": [
-      "Três dias",
       "Um dia",
+      "Três dias",
       "Sete dias",
       "Quarenta dias"
      ],
-     "correta": 0,
+     "correta": 1,
      "ref": "10:22"
     }
    ]
@@ -486,10 +486,10 @@
      "opcoes": [
       "Cem",
       "Trezentos",
-      "Mil",
-      "Seiscentos"
+      "Seiscentos",
+      "Mil"
      ],
-     "correta": 3,
+     "correta": 2,
      "ref": "14:7"
     }
    ]
@@ -667,11 +667,11 @@
      "pergunta": "Depois de quantos anos o servo hebreu devia sair livre?",
      "opcoes": [
       "Três",
-      "Dez",
+      "Seis",
       "Sete",
-      "Seis"
+      "Dez"
      ],
-     "correta": 3,
+     "correta": 1,
      "ref": "21:2"
     }
    ]
@@ -720,10 +720,10 @@
      "opcoes": [
       "Uma",
       "Duas",
-      "Sete",
-      "Três"
+      "Três",
+      "Sete"
      ],
-     "correta": 3,
+     "correta": 2,
      "ref": "23:17"
     }
    ]
@@ -744,12 +744,12 @@
     {
      "pergunta": "Quanto tempo Moisés ficou no monte?",
      "opcoes": [
+      "Três meses",
       "Sete dias",
       "Doze dias",
-      "Quarenta dias e quarenta noites",
-      "Três meses"
+      "Quarenta dias e quarenta noites"
      ],
-     "correta": 2,
+     "correta": 3,
      "ref": "24:18"
     }
    ]
@@ -821,12 +821,12 @@
     {
      "pergunta": "Qual era a largura do altar dos holocaustos?",
      "opcoes": [
-      "Cinco côvados",
       "Três côvados",
+      "Cinco côvados",
       "Dez côvados",
       "Vinte côvados"
      ],
-     "correta": 0,
+     "correta": 1,
      "ref": "27:1"
     }
    ]
@@ -1079,11 +1079,11 @@
      "pergunta": "Quantas lâmpadas tinha o candelabro?",
      "opcoes": [
       "Cinco",
-      "Dez",
       "Sete",
+      "Dez",
       "Doze"
      ],
-     "correta": 2,
+     "correta": 1,
      "ref": "37:23"
     }
    ]

@@ -1,0 +1,74 @@
+{
+ "livro": "2-joao",
+ "nome": "2 João",
+ "subtitulo": "Andar na verdade e no amor",
+ "introducao": "Uma carta curta do \"ancião\" que une dois temas inseparáveis: verdade e amor. Ele encoraja os leitores a continuarem amando uns aos outros e a permanecerem firmes no ensino sobre Cristo. Também os alerta a não dar apoio a quem nega que Jesus veio em carne.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "\"O ancião\" (1:1), tradicionalmente identificado com o apóstolo João"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "A maioria data entre 85 e 100 d.C., na mesma época de 1 João"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "\"A senhora eleita e seus filhos\", talvez uma igreja local ou uma família cristã (1:1)"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Carta curta"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "1 capítulo e 13 versículos"
+  }
+ ],
+ "chave": "1:6",
+ "temas": [
+  "Andar na verdade",
+  "O mandamento do amor",
+  "Fidelidade à doutrina de Cristo",
+  "Discernimento sobre quem acolher"
+ ],
+ "cristo": "A carta defende a confissão de que Jesus Cristo veio em carne e ensina que quem permanece na doutrina de Cristo tem o Pai e o Filho (1:7, 1:9).",
+ "secoes": [
+  {
+   "id": "carta",
+   "titulo": "Verdade e amor",
+   "capitulos": [
+    1
+   ],
+   "resumo": "Alegria pelos que andam na verdade, o mandamento do amor e o alerta contra enganadores."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Verdade e amor",
+   "chave": "1:6",
+   "resumo": "O ancião escreve à \"senhora eleita e a seus filhos\", expressão que pode indicar uma igreja local ou uma mulher cristã e sua família. Ele se alegra porque alguns andam na verdade e relembra o mandamento antigo de amarem uns aos outros, que se expressa em obedecer aos mandamentos de Deus. Alerta contra enganadores que negam que Jesus Cristo veio em carne e pede que não sejam acolhidos nem apoiados.",
+   "licoes": [
+    "Andar na verdade é motivo de grande alegria (1:4).",
+    "O amor cristão se expressa em viver segundo os mandamentos de Deus (1:5-6).",
+    "Negar que Jesus Cristo veio em carne é a marca do enganador (1:7).",
+    "Permanecer na doutrina de Cristo é ter o Pai e o Filho (1:9)."
+   ],
+   "reflexao": "Seu amor pelos outros está unido à fidelidade à verdade?",
+   "quiz": [
+    {
+     "pergunta": "A quem o ancião dirige esta carta?",
+     "opcoes": [
+      "Ao amado Gaio",
+      "À senhora eleita e a seus filhos",
+      "À igreja de Éfeso",
+      "A Diótrefes"
+     ],
+     "correta": 1,
+     "ref": "1:1"
+    }
+   ]
+  }
+ ]
+}

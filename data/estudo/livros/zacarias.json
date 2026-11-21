@@ -275,11 +275,11 @@
      "pergunta": "Quantos homens de todas as línguas pegarão a orla da veste de um judeu?",
      "opcoes": [
       "Três",
-      "Dez",
       "Sete",
+      "Dez",
       "Doze"
      ],
-     "correta": 1,
+     "correta": 2,
      "ref": "8:23"
     }
    ]
@@ -353,9 +353,9 @@
      "pergunta": "Qual foi o salário pesado para o pastor?",
      "opcoes": [
       "Dez siclos de ouro",
-      "Cinquenta medidas de trigo",
+      "Vinte moedas de bronze",
       "Trinta moedas de prata",
-      "Vinte moedas de bronze"
+      "Cinquenta medidas de trigo"
      ],
      "correta": 2,
      "ref": "11:12"

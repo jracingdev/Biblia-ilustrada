@@ -231,12 +231,12 @@
     {
      "pergunta": "Por quantos dias Ezequiel deveria deitar sobre o lado direito pela maldade de Judá?",
      "opcoes": [
-      "Quarenta",
       "Sete",
+      "Quarenta",
       "Setenta",
       "Trezentos e noventa"
      ],
-     "correta": 0,
+     "correta": 1,
      "ref": "4:6"
     }
    ]

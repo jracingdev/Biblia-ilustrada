@@ -167,12 +167,12 @@
     {
      "pergunta": "O que Eliseu mandou fazer no vale?",
      "opcoes": [
-      "Cavar muitas covas",
       "Construir um altar",
+      "Cavar muitas covas",
       "Acender fogueiras",
       "Tocar trombetas"
      ],
-     "correta": 0,
+     "correta": 1,
      "ref": "3:16"
     }
    ]
@@ -193,12 +193,12 @@
     {
      "pergunta": "Com quantos pães de cevada Eliseu alimentou cem homens?",
      "opcoes": [
-      "Vinte",
+      "Cinco",
       "Sete",
       "Doze",
-      "Cinco"
+      "Vinte"
      ],
-     "correta": 0,
+     "correta": 3,
      "ref": "4:42-44"
     }
    ]
@@ -220,11 +220,11 @@
      "pergunta": "Quantas vezes Naamã se lavou no Jordão?",
      "opcoes": [
       "Uma",
-      "Sete",
       "Três",
+      "Sete",
       "Dez"
      ],
-     "correta": 1,
+     "correta": 2,
      "ref": "5:14"
     }
    ]
@@ -271,12 +271,12 @@
     {
      "pergunta": "Quantos leprosos foram ao acampamento dos sírios?",
      "opcoes": [
-      "Quatro",
-      "Três",
       "Dois",
+      "Três",
+      "Quatro",
       "Sete"
      ],
-     "correta": 0,
+     "correta": 2,
      "ref": "7:3"
     }
    ]
@@ -297,11 +297,11 @@
      "pergunta": "Quem matou Ben-Hadade e reinou em seu lugar?",
      "opcoes": [
       "Jeú",
+      "Hazael",
       "Naamã",
-      "Jorão",
-      "Hazael"
+      "Jorão"
      ],
-     "correta": 3,
+     "correta": 1,
      "ref": "8:15"
     }
    ]
@@ -321,12 +321,12 @@
     {
      "pergunta": "Em que propriedade Jeú mandou lançar o corpo de Jorão?",
      "opcoes": [
-      "Na de Obadias",
-      "Na de Acabe",
       "Na de Elias",
-      "Na de Nabote"
+      "Na de Acabe",
+      "Na de Nabote",
+      "Na de Obadias"
      ],
-     "correta": 3,
+     "correta": 2,
      "ref": "9:25"
     }
    ]
@@ -346,12 +346,12 @@
     {
      "pergunta": "Que pecado Jeú manteve mesmo após destruir o culto a Baal?",
      "opcoes": [
-      "Os bezerros de ouro de Betel e Dã",
       "O culto a Moloque",
       "A aliança com a Síria",
+      "Os bezerros de ouro de Betel e Dã",
       "O templo de Samaria"
      ],
-     "correta": 0,
+     "correta": 2,
      "ref": "10:29"
     }
    ]
@@ -422,11 +422,11 @@
      "pergunta": "Quantas vezes o rei Joás feriu a terra com as flechas?",
      "opcoes": [
       "Uma",
-      "Sete",
+      "Três",
       "Cinco",
-      "Três"
+      "Sete"
      ],
-     "correta": 3,
+     "correta": 1,
      "ref": "13:18"
     }
    ]
@@ -447,11 +447,11 @@
      "pergunta": "Qual profeta havia anunciado a recuperação dos territórios de Israel por Jeroboão II?",
      "opcoes": [
       "Eliseu",
+      "Jonas",
       "Isaías",
-      "Amós",
-      "Jonas"
+      "Amós"
      ],
-     "correta": 3,
+     "correta": 1,
      "ref": "14:25"
     }
    ]
@@ -473,10 +473,10 @@
      "opcoes": [
       "Dezesseis",
       "Vinte e nove",
-      "Cinquenta e dois",
-      "Quarenta"
+      "Quarenta",
+      "Cinquenta e dois"
      ],
-     "correta": 2,
+     "correta": 3,
      "ref": "15:2"
     }
    ]
@@ -496,12 +496,12 @@
     {
      "pergunta": "A quem Acaz pediu socorro contra a Síria e Israel?",
      "opcoes": [
-      "A Tiglate-Pileser, rei da Assíria",
       "Ao Faraó do Egito",
+      "A Ben-Hadade",
       "A Hirão de Tiro",
-      "A Ben-Hadade"
+      "A Tiglate-Pileser, rei da Assíria"
      ],
-     "correta": 0,
+     "correta": 3,
      "ref": "16:7"
     }
    ]
@@ -523,11 +523,11 @@
      "pergunta": "Por quanto tempo o rei da Assíria cercou Samaria?",
      "opcoes": [
       "Um ano",
-      "Dez anos",
+      "Três anos",
       "Sete anos",
-      "Três anos"
+      "Dez anos"
      ],
-     "correta": 3,
+     "correta": 1,
      "ref": "17:5"
     }
    ]
@@ -547,12 +547,12 @@
     {
      "pergunta": "Que objeto antigo Ezequias despedaçou porque o povo lhe queimava incenso?",
      "opcoes": [
-      "A serpente de bronze",
       "A arca",
+      "A vara de Arão",
       "O altar de Damasco",
-      "A vara de Arão"
+      "A serpente de bronze"
      ],
-     "correta": 0,
+     "correta": 3,
      "ref": "18:4"
     }
    ]
@@ -601,10 +601,10 @@
      "opcoes": [
       "Cinco",
       "Dez",
-      "Vinte",
-      "Quinze"
+      "Quinze",
+      "Vinte"
      ],
-     "correta": 3,
+     "correta": 2,
      "ref": "20:6"
     }
    ]
@@ -625,11 +625,11 @@
      "pergunta": "Quantos anos tinha Manassés quando começou a reinar?",
      "opcoes": [
       "Oito",
-      "Dezesseis",
       "Doze",
+      "Dezesseis",
       "Vinte e dois"
      ],
-     "correta": 2,
+     "correta": 1,
      "ref": "21:1"
     }
    ]
@@ -650,12 +650,12 @@
     {
      "pergunta": "Quem encontrou o livro da lei na casa do SENHOR?",
      "opcoes": [
-      "Hilquias, o sumo sacerdote",
       "Safã, o escriba",
       "Hulda, a profetisa",
+      "Hilquias, o sumo sacerdote",
       "O rei Josias"
      ],
-     "correta": 0,
+     "correta": 2,
      "ref": "22:8"
     }
    ]
@@ -676,12 +676,12 @@
     {
      "pergunta": "Onde Josias foi morto?",
      "opcoes": [
-      "Em Jerusalém",
+      "Em Megido",
       "Em Betel",
-      "Em Ribla",
-      "Em Megido"
+      "Em Jerusalém",
+      "Em Ribla"
      ],
-     "correta": 3,
+     "correta": 0,
      "ref": "23:29"
     }
    ]
@@ -727,11 +727,11 @@
      "pergunta": "Em que ano do cativeiro Joaquim foi libertado da prisão?",
      "opcoes": [
       "No sétimo",
-      "No trigésimo sétimo",
       "No décimo nono",
+      "No trigésimo sétimo",
       "No septuagésimo"
      ],
-     "correta": 1,
+     "correta": 2,
      "ref": "25:27"
     }
    ]

@@ -152,12 +152,12 @@
     {
      "pergunta": "Quanto tempo durou a caminhada de Cades-Barneia até o ribeiro de Zerede?",
      "opcoes": [
-      "Quarenta dias",
-      "Trinta e oito anos",
       "Sete anos",
-      "Doze anos"
+      "Doze anos",
+      "Trinta e oito anos",
+      "Quarenta dias"
      ],
-     "correta": 1,
+     "correta": 2,
      "ref": "2:14"
     }
    ]
@@ -749,12 +749,12 @@
     {
      "pergunta": "Qual era o número máximo de açoites permitido?",
      "opcoes": [
-      "Quarenta",
       "Dez",
+      "Quarenta",
       "Setenta",
       "Cem"
      ],
-     "correta": 0,
+     "correta": 1,
      "ref": "25:3"
     }
    ]
@@ -905,12 +905,12 @@
     {
      "pergunta": "Com que idade Moisés disse estar ao se despedir?",
      "opcoes": [
-      "Cento e vinte anos",
-      "Cem anos",
       "Oitenta anos",
+      "Cem anos",
+      "Cento e vinte anos",
       "Cento e cinquenta anos"
      ],
-     "correta": 0,
+     "correta": 2,
      "ref": "31:2"
     }
    ]
@@ -983,12 +983,12 @@
     {
      "pergunta": "Quanto tempo Israel chorou por Moisés?",
      "opcoes": [
+      "Um ano",
       "Sete dias",
       "Trinta dias",
-      "Quarenta dias",
-      "Um ano"
+      "Quarenta dias"
      ],
-     "correta": 1,
+     "correta": 2,
      "ref": "34:8"
     }
    ]

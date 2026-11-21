@@ -694,11 +694,11 @@
      "pergunta": "Quantas vezes o justo cai e se levanta, segundo o provérbio?",
      "opcoes": [
       "Três",
-      "Dez",
       "Sete",
+      "Dez",
       "Setenta"
      ],
-     "correta": 2,
+     "correta": 1,
      "ref": "24:16"
     }
    ]

@@ -286,12 +286,12 @@
     {
      "pergunta": "Quantos pães havia na segunda multiplicação, para quatro mil pessoas?",
      "opcoes": [
-      "Cinco",
-      "Doze",
       "Dois",
-      "Sete"
+      "Cinco",
+      "Sete",
+      "Doze"
      ],
-     "correta": 3,
+     "correta": 2,
      "ref": "8:5"
     }
    ]

@@ -2350,12 +2350,12 @@
     {
      "pergunta": "Quantos dias fora valem menos do que um dia nos pátios de Deus?",
      "opcoes": [
-      "Mil",
-      "Quarenta",
       "Sete",
-      "Cem"
+      "Quarenta",
+      "Cem",
+      "Mil"
      ],
-     "correta": 0,
+     "correta": 3,
      "ref": "84:10"
     }
    ]
@@ -2631,11 +2631,11 @@
      "pergunta": "Por quantos anos Deus diz ter aguentado com desgosto aquela geração no deserto?",
      "opcoes": [
       "Sete",
-      "Setenta",
       "Doze",
-      "Quarenta"
+      "Quarenta",
+      "Setenta"
      ],
-     "correta": 3,
+     "correta": 2,
      "ref": "95:10"
     }
    ]

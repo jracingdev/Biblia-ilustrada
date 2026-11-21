@@ -1,0 +1,910 @@
+{
+ "livro": "1-samuel",
+ "nome": "1 Samuel",
+ "subtitulo": "Do último juiz ao rei segundo o coração de Deus",
+ "introducao": "1 Samuel narra a passagem de Israel do tempo dos juízes para a monarquia. Começa com o nascimento de Samuel, profeta e último grande juiz, segue com o reinado de Saul, o primeiro rei, que se perde pela desobediência, e mostra a ascensão de Davi, o jovem pastor ungido por Deus. O livro ensina que Deus olha o coração e que obedecer vale mais que qualquer aparência.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Anônimo; a tradição judaica atribui a Samuel, com acréscimos de profetas como Natã e Gade; muitos estudiosos veem compilação posterior"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Os fatos cobrem cerca de um século, até a morte de Saul (por volta de 1010 a.C., segundo a cronologia mais comum); a redação final é posterior"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Israel: Siló, Ramá, Gibeá, Belém, o deserto de Judá e a terra dos filisteus"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Narrativa histórica com cânticos e profecias"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "31 capítulos e 810 versículos"
+  }
+ ],
+ "chave": "16:7",
+ "temas": [
+  "Deus olha o coração",
+  "Obedecer é melhor que sacrificar",
+  "A soberania de Deus que exalta e abate",
+  "Amizade leal e aliança",
+  "Esperar o tempo de Deus sem tomar justiça pelas próprias mãos"
+ ],
+ "cristo": "O cântico de Ana anuncia que Deus exaltará \"o poder de seu ungido\" (2:10), e Davi, ungido em Belém, se torna figura do Messias, chamado no Novo Testamento de Filho de Davi. A vitória de Davi sobre Golias em nome do SENHOR aponta para o Rei que vence onde o povo não conseguia vencer sozinho.",
+ "secoes": [
+  {
+   "id": "samuel",
+   "titulo": "Samuel, profeta e juiz",
+   "capitulos": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "resumo": "O nascimento de Samuel, a queda da casa de Eli e a história da arca."
+  },
+  {
+   "id": "saul-rei",
+   "titulo": "Saul, o primeiro rei",
+   "capitulos": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "resumo": "O povo pede um rei, Saul é ungido, mas é rejeitado por desobedecer."
+  },
+  {
+   "id": "davi-e-saul",
+   "titulo": "Davi na corte de Saul",
+   "capitulos": [
+    16,
+    17,
+    18,
+    19,
+    20
+   ],
+   "resumo": "Davi é ungido, vence Golias, conquista Jônatas e desperta o ciúme de Saul."
+  },
+  {
+   "id": "davi-fugitivo",
+   "titulo": "Davi fugitivo",
+   "capitulos": [
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27
+   ],
+   "resumo": "Davi foge, reúne seguidores e duas vezes poupa a vida de Saul."
+  },
+  {
+   "id": "fim-de-saul",
+   "titulo": "O fim de Saul",
+   "capitulos": [
+    28,
+    29,
+    30,
+    31
+   ],
+   "resumo": "Saul consulta uma necromante, Davi se fortalece em Deus e Saul morre em Gilboa."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "A oração de Ana",
+   "chave": "1:27",
+   "resumo": "Ana, uma das esposas de Elcana, não tinha filhos e era provocada todos os anos por Penina. Em Siló, ela derrama a alma diante do SENHOR e promete dedicar ao serviço de Deus o filho que pedir. O sacerdote Eli pensa que ela está embriagada, mas depois a abençoa. Ana dá à luz Samuel e, depois de desmamá-lo, o leva a Siló e o entrega ao SENHOR.",
+   "licoes": [
+    "Podemos levar a Deus nossa dor sem disfarces, derramando a alma diante dele (1:10, 1:15).",
+    "Depois de orar, Ana seguiu em paz, mesmo antes de ver a resposta (1:18).",
+    "O nome Samuel lembra que a criança foi pedida ao SENHOR (1:20).",
+    "Ana cumpriu seu voto e devolveu a Deus o que recebeu (1:27-28)."
+   ],
+   "reflexao": "Que dor você precisa derramar diante de Deus com sinceridade?",
+   "quiz": [
+    {
+     "pergunta": "O que Eli pensou de Ana ao vê-la orando sem som?",
+     "opcoes": [
+      "Que estava embriagada",
+      "Que estava doente",
+      "Que era profetisa",
+      "Que estava louca"
+     ],
+     "correta": 0,
+     "ref": "1:13-14"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "O cântico de Ana e os filhos de Eli",
+   "chave": "2:30",
+   "resumo": "Ana louva a Deus num cântico: o SENHOR é santo, quebra o arco dos fortes, levanta o pobre do pó e dará força ao seu rei ungido. Enquanto o menino Samuel serve diante do SENHOR, os filhos de Eli, Hofni e Fineias, desprezam os sacrifícios e cometem imoralidade. Eli os repreende sem firmeza, e um homem de Deus anuncia juízo sobre sua casa e a escolha de um sacerdote fiel.",
+   "licoes": [
+    "Deus inverte as situações: exalta o humilde e abate o orgulhoso (2:7-8).",
+    "Servir no altar sem conhecer a Deus leva ao desprezo das coisas santas (2:12, 2:17).",
+    "\"Eu honrarei aos que me honram\" (2:30).",
+    "Enquanto o mal crescia ao redor, Samuel crescia diante de Deus e das pessoas (2:26)."
+   ],
+   "reflexao": "Em que área você precisa honrar a Deus acima das pessoas que ama?",
+   "quiz": [
+    {
+     "pergunta": "O que Ana levava a Samuel todo ano?",
+     "opcoes": [
+      "Uma pequena túnica",
+      "Um cordeiro",
+      "Um éfode de ouro",
+      "Pães ázimos"
+     ],
+     "correta": 0,
+     "ref": "2:19"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Fala, SENHOR",
+   "chave": "3:10",
+   "resumo": "Num tempo em que a palavra do SENHOR era rara, Deus chama o menino Samuel durante a noite. Por três vezes ele corre até Eli, até que o sacerdote entende que é Deus e o ensina a responder: \"Fala, SENHOR, que teu servo ouve\". Deus revela a Samuel o juízo sobre a casa de Eli, e Samuel conta tudo a ele. Samuel cresce e todo Israel o reconhece como profeta fiel.",
+   "licoes": [
+    "Deus fala mesmo quando sua palavra parece rara (3:1, 3:4).",
+    "Às vezes precisamos de alguém mais experiente para reconhecer a voz de Deus (3:8-9).",
+    "A postura certa diante de Deus é a do servo que escuta (3:10).",
+    "Ser fiel inclui transmitir a verdade mesmo quando é difícil (3:17-18)."
+   ],
+   "reflexao": "Você tem separado tempo para dizer a Deus \"fala, que o teu servo está ouvindo\"?",
+   "quiz": [
+    {
+     "pergunta": "Quantas vezes Samuel foi até Eli antes de o sacerdote perceber que era Deus quem chamava?",
+     "opcoes": [
+      "Uma",
+      "Duas",
+      "Três",
+      "Sete"
+     ],
+     "correta": 2,
+     "ref": "3:8"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "A arca é tomada",
+   "chave": "4:21-22",
+   "resumo": "Israel perde uma batalha contra os filisteus e decide levar a arca da aliança ao campo, como se ela garantisse a vitória. Os filisteus se assustam, mas lutam e vencem: a arca é tomada e Hofni e Fineias morrem. Ao ouvir a notícia, o velho Eli cai, quebra o pescoço e morre. Sua nora dá à luz e chama o menino de Icabode, dizendo que a glória se foi de Israel.",
+   "licoes": [
+    "Tratar objetos sagrados como amuletos não substitui a fidelidade a Deus (4:3).",
+    "O juízo anunciado sobre a casa de Eli se cumpre (4:11).",
+    "Eli se preocupava mais com a arca do que com qualquer outra coisa naquele dia (4:13, 4:18).",
+    "A perda da presença de Deus é a maior tragédia de um povo (4:21-22)."
+   ],
+   "reflexao": "Você já tratou algo religioso como amuleto, esperando que funcionasse sem uma vida de fé?",
+   "quiz": [
+    {
+     "pergunta": "Que nome a nora de Eli deu ao filho que nasceu?",
+     "opcoes": [
+      "Icabode",
+      "Ebenézer",
+      "Aitube",
+      "Abiatar"
+     ],
+     "correta": 0,
+     "ref": "4:21"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "A arca entre os filisteus",
+   "chave": "5:4",
+   "resumo": "Os filisteus levam a arca para o templo de Dagom, em Asdode. Na manhã seguinte, a estátua de Dagom está caída diante da arca; no outro dia, aparece quebrada, sem cabeça e sem mãos. A mão do SENHOR pesa sobre Asdode, Gate e Ecrom com chagas e pânico, e os filisteus querem se livrar da arca.",
+   "licoes": [
+    "Os ídolos caem diante do Deus verdadeiro (5:3-4).",
+    "Deus defende sua própria honra, mesmo quando seu povo é derrotado (5:6-7).",
+    "Fugir de Deus mudando de lugar não resolve o problema (5:8-10)."
+   ],
+   "reflexao": "Que \"ídolo\" na sua vida precisa cair diante de Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que aconteceu com a estátua de Dagom diante da arca?",
+     "opcoes": [
+      "Caiu prostrada e depois apareceu quebrada",
+      "Começou a brilhar",
+      "Foi levada para Gate",
+      "Foi coberta de ouro"
+     ],
+     "correta": 0,
+     "ref": "5:3-4"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "A arca volta a Israel",
+   "chave": "6:20",
+   "resumo": "Depois de sete meses, os sacerdotes filisteus aconselham devolver a arca com uma oferta de cinco tumores e cinco ratos de ouro. Colocam-na num carro novo puxado por duas vacas que tinham crias, e as vacas seguem direto para Bete-Semes, mostrando que a mão de Deus estava nisso. Os moradores se alegram e oferecem sacrifícios, mas muitos morrem por olharem dentro da arca, e eles pedem que a levem a Quiriate-Jearim.",
+   "licoes": [
+    "Até os filisteus reconheceram que deviam dar glória ao Deus de Israel (6:5).",
+    "Deus mostra sua mão de forma clara: as vacas foram contra o instinto e seguiram o caminho (6:12).",
+    "A alegria diante de Deus deve vir junto com reverência (6:13, 6:19).",
+    "\"Quem poderá estar diante do SENHOR o Deus santo?\" (6:20)."
+   ],
+   "reflexao": "Como unir alegria e reverência na sua relação com Deus?",
+   "quiz": [
+    {
+     "pergunta": "Para qual cidade israelita as vacas levaram a arca?",
+     "opcoes": [
+      "Siló",
+      "Mispá",
+      "Bete-Semes",
+      "Ramá"
+     ],
+     "correta": 2,
+     "ref": "6:12"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "Ebenézer: até aqui nos ajudou o SENHOR",
+   "chave": "7:12",
+   "resumo": "A arca fica vinte anos em Quiriate-Jearim, e o povo lamenta e busca o SENHOR. Samuel chama Israel a deixar os ídolos e servir só a Deus, e o povo se reúne em Mispá, jejua e confessa o pecado. Quando os filisteus atacam, Samuel oferece um sacrifício e clama, e Deus troveja contra o inimigo. Samuel ergue uma pedra chamada Ebenézer e julga Israel por toda a vida.",
+   "licoes": [
+    "Voltar a Deus de todo o coração inclui tirar os ídolos (7:3-4).",
+    "Confissão e oração caminham juntas na renovação do povo (7:6, 7:8).",
+    "Deus responde à intercessão e luta pelo seu povo (7:9-10).",
+    "É bom marcar e lembrar: \"Até aqui nos ajudou o SENHOR\" (7:12)."
+   ],
+   "reflexao": "Qual é o seu \"Ebenézer\", um momento em que você pode dizer que Deus o ajudou até aqui?",
+   "quiz": [
+    {
+     "pergunta": "Que nome Samuel deu à pedra que levantou depois da vitória?",
+     "opcoes": [
+      "Ebenézer",
+      "Betel",
+      "Gilgal",
+      "Mispá"
+     ],
+     "correta": 0,
+     "ref": "7:12"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "Dá-nos um rei",
+   "chave": "8:7",
+   "resumo": "Samuel envelhece e seus filhos, juízes em Berseba, são gananciosos e corruptos. Os anciãos pedem um rei \"como todas as nações\". Samuel fica descontente e ora, e Deus diz que o povo não rejeitou Samuel, mas a Ele. Samuel avisa que o rei tomará filhos, filhas, terras e impostos, mas o povo insiste, e Deus manda atender o pedido.",
+   "licoes": [
+    "A corrupção de líderes abre espaço para grandes mudanças, nem sempre boas (8:3-5).",
+    "Diante de um pedido difícil, Samuel primeiro orou (8:6).",
+    "Querer ser \"como todas as nações\" pode ser uma forma de rejeitar a Deus (8:7, 8:20).",
+    "Deus às vezes permite o que pedimos, mas avisa sobre as consequências (8:9, 8:11)."
+   ],
+   "reflexao": "Em que você tem desejado ser \"como todos os outros\" em vez de seguir a Deus?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Deus, a quem o povo realmente rejeitou ao pedir um rei?",
+     "opcoes": [
+      "Ao próprio Deus",
+      "Aos filhos de Samuel",
+      "A Samuel",
+      "Aos sacerdotes"
+     ],
+     "correta": 0,
+     "ref": "8:7"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "Saul procura as jumentas",
+   "chave": "9:16",
+   "resumo": "Saul, um jovem alto e bonito da tribo de Benjamim, sai à procura das jumentas perdidas de seu pai, Quis. Sem encontrá-las, segue o conselho do servo e vai consultar o vidente Samuel. Deus já havia avisado Samuel de que enviaria um homem de Benjamim para ser príncipe e livrar o povo dos filisteus. Samuel o recebe com honra num banquete e diz que tem uma palavra de Deus para ele.",
+   "licoes": [
+    "Deus guia os passos até em situações comuns, como a busca por animais perdidos (9:3, 9:16).",
+    "Deus ouve o clamor do seu povo e prepara a resposta (9:16).",
+    "Saul começa humilde, reconhecendo a pequenez da sua família (9:21).",
+    "Um bom conselho, mesmo de um servo, pode mudar o rumo da vida (9:6)."
+   ],
+   "reflexao": "Você consegue enxergar a mão de Deus em situações comuns do seu dia a dia?",
+   "quiz": [
+    {
+     "pergunta": "O que Saul estava procurando quando encontrou Samuel?",
+     "opcoes": [
+      "Ovelhas perdidas",
+      "As jumentas de seu pai",
+      "Um lugar para morar",
+      "Um profeta para a guerra"
+     ],
+     "correta": 1,
+     "ref": "9:3"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "titulo": "Saul é ungido e escolhido",
+   "chave": "10:6",
+   "resumo": "Samuel unge Saul em particular como líder do povo de Deus e lhe dá três sinais, que se cumprem naquele dia; Deus muda o coração de Saul e ele profetiza com um grupo de profetas. Depois, em Mispá, Samuel lembra ao povo que rejeitaram a Deus ao pedir rei e faz um sorteio entre as tribos. Saul é escolhido, mas está escondido entre a bagagem. O povo grita \"Viva o rei!\", embora alguns o desprezem.",
+   "licoes": [
+    "Deus capacita quem chama: deu a Saul um novo coração (10:6, 10:9).",
+    "Os sinais confirmaram a palavra de Deus a Saul (10:7, 10:9).",
+    "Saul se escondeu entre a bagagem, sinal de timidez diante do chamado (10:22).",
+    "Saul preferiu não reagir aos que o desprezaram (10:27)."
+   ],
+   "reflexao": "Há algum chamado de Deus do qual você tem se escondido \"entre a bagagem\"?",
+   "quiz": [
+    {
+     "pergunta": "Onde Saul estava escondido quando foi escolhido rei?",
+     "opcoes": [
+      "Numa caverna",
+      "Entre a bagagem",
+      "No campo com os bois",
+      "Na casa do pai"
+     ],
+     "correta": 1,
+     "ref": "10:22"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "titulo": "Saul livra Jabes-Gileade",
+   "chave": "11:13",
+   "resumo": "Naás, rei amonita, cerca Jabes de Gileade e exige furar o olho direito de cada morador. Ao saber, Saul, que voltava do campo com os bois, é tomado pelo espírito de Deus e convoca todo Israel. Ele derrota os amonitas e, quando o povo quer matar quem o havia desprezado, Saul se recusa, dizendo que naquele dia o SENHOR salvou Israel. Em Gilgal, o reino de Saul é confirmado.",
+   "licoes": [
+    "O espírito de Deus leva Saul a agir contra a injustiça (11:6).",
+    "Liderança verdadeira reúne o povo para socorrer os que sofrem (11:7-8).",
+    "Saul atribui a vitória a Deus e escolhe perdoar os que o desprezaram (11:13).",
+    "A vitória leva à renovação e à alegria diante do SENHOR (11:14-15)."
+   ],
+   "reflexao": "Como você reage a quem duvidou de você quando as coisas dão certo?",
+   "quiz": [
+    {
+     "pergunta": "Que condição Naás impôs aos moradores de Jabes para fazer aliança?",
+     "opcoes": [
+      "Pagar mil siclos de prata",
+      "Adorar seus deuses",
+      "Entregar suas filhas",
+      "Furar o olho direito de cada um"
+     ],
+     "correta": 3,
+     "ref": "11:2"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "titulo": "A despedida de Samuel",
+   "chave": "12:24",
+   "resumo": "Samuel apresenta o rei ao povo e pede que testemunhem se ele alguma vez roubou, oprimiu ou aceitou suborno; o povo declara que ele foi íntegro. Ele recorda a história de Israel, desde o Egito até os juízes, e diz que pedir um rei foi um mal, mas que, se o povo e o rei temerem a Deus, tudo irá bem. Deus envia trovões e chuva na colheita do trigo, o povo teme, e Samuel promete continuar orando por eles.",
+   "licoes": [
+    "A integridade de um líder pode ser comprovada publicamente (12:3-4).",
+    "Mesmo depois do erro, o caminho é não se desviar e servir a Deus de todo o coração (12:20).",
+    "Deus não abandona seu povo por causa do seu grande nome (12:22).",
+    "Deixar de orar pelos outros é pecado para Samuel (12:23)."
+   ],
+   "reflexao": "Por quem você tem deixado de orar ultimamente?",
+   "quiz": [
+    {
+     "pergunta": "Que sinal Deus deu durante a colheita do trigo, a pedido de Samuel?",
+     "opcoes": [
+      "Um terremoto",
+      "Fogo do céu",
+      "Trovões e chuva",
+      "Um eclipse"
+     ],
+     "correta": 2,
+     "ref": "12:17-18"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "titulo": "A impaciência de Saul",
+   "chave": "13:14",
+   "resumo": "Jônatas ataca uma guarnição filisteia, e os filisteus reúnem um exército enorme em Micmás. O povo de Israel se esconde com medo e começa a abandonar Saul em Gilgal. Depois de esperar sete dias, Saul oferece ele mesmo o holocausto antes da chegada de Samuel. Samuel o repreende e anuncia que seu reino não vai durar, pois Deus buscou um homem segundo o seu coração. Os israelitas nem tinham ferreiros nem armas.",
+   "licoes": [
+    "A pressão das circunstâncias não justifica desobedecer a Deus (13:8-9, 13:11-12).",
+    "Esperar no tempo de Deus é parte da obediência (13:8).",
+    "Deus busca um líder \"segundo seu coração\" (13:14).",
+    "Israel estava fragilizado e dependente dos filisteus, até para afiar ferramentas (13:19-20)."
+   ],
+   "reflexao": "Em que situação você tem sido tentado a \"adiantar\" o tempo de Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que Saul fez antes de Samuel chegar a Gilgal?",
+     "opcoes": [
+      "Fugiu para Gibeá",
+      "Ofereceu ele mesmo o holocausto",
+      "Atacou os filisteus",
+      "Mandou chamar Davi"
+     ],
+     "correta": 1,
+     "ref": "13:9"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "titulo": "A coragem de Jônatas",
+   "chave": "14:6",
+   "resumo": "Jônatas e seu escudeiro sobem sozinhos até a guarnição filisteia, confiando que Deus pode salvar com muitos ou com poucos. Deus dá um sinal, eles vencem, e um pânico toma o acampamento inimigo. Saul havia proibido o povo de comer até a tarde, e Jônatas, sem saber, prova um pouco de mel. O povo exausto peca comendo carne com sangue. Saul quer matar Jônatas, mas o povo o livra. O capítulo termina com as guerras e a família de Saul.",
+   "licoes": [
+    "Para Deus não é difícil salvar com muitos ou com poucos (14:6).",
+    "A fé de um pode encorajar e mobilizar muitos outros (14:7, 14:22).",
+    "Ordens impensadas de líderes podem pôr o povo em apuros (14:24, 14:29).",
+    "O povo reconheceu que Jônatas \"operou hoje com Deus\" (14:45)."
+   ],
+   "reflexao": "Que passo de fé você poderia dar confiando que Deus age mesmo com poucos recursos?",
+   "quiz": [
+    {
+     "pergunta": "O que Jônatas provou sem saber da ordem de seu pai?",
+     "opcoes": [
+      "Vinho",
+      "Pão",
+      "Carne com sangue",
+      "Um pouco de mel"
+     ],
+     "correta": 3,
+     "ref": "14:27"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "titulo": "Obedecer é melhor que sacrificar",
+   "chave": "15:22",
+   "resumo": "Deus manda Saul destruir completamente os amalequitas. Saul vence, mas poupa o rei Agague e o melhor do gado. Deus diz a Samuel que se arrepende de ter feito Saul rei. Saul afirma ter obedecido e culpa o povo, dizendo que os animais eram para sacrifício. Samuel responde que obedecer é melhor que sacrificar e anuncia que Deus rejeitou Saul como rei. Ao segurar a capa de Samuel, ela se rasga, sinal de que o reino seria dado a outro.",
+   "licoes": [
+    "Obediência parcial é desobediência, mesmo com desculpas religiosas (15:9, 15:15).",
+    "\"O obedecer é melhor que os sacrifícios\" (15:22).",
+    "Saul temeu mais o povo do que a Deus (15:24).",
+    "Saul se preocupou mais com sua imagem do que com seu pecado (15:30)."
+   ],
+   "reflexao": "Há alguma área em que você tem oferecido \"sacrifícios\" a Deus no lugar da obediência?",
+   "quiz": [
+    {
+     "pergunta": "Que rei amalequita Saul poupou, contrariando a ordem de Deus?",
+     "opcoes": [
+      "Agague",
+      "Naás",
+      "Aquis",
+      "Zeba"
+     ],
+     "correta": 0,
+     "ref": "15:8-9"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "titulo": "Deus olha o coração",
+   "chave": "16:7",
+   "resumo": "Deus envia Samuel a Belém para ungir um dos filhos de Jessé. Samuel pensa que o escolhido é Eliabe, alto e de boa aparência, mas Deus diz que olha o coração. Nenhum dos sete filhos é escolhido, até que chamam o caçula, Davi, que cuidava das ovelhas. Samuel o unge, e o espírito do SENHOR vem sobre Davi. Enquanto isso, Saul é atormentado, e Davi é levado à corte para tocar harpa e acalmá-lo.",
+   "licoes": [
+    "Deus não escolhe pela aparência, mas pelo coração (16:7).",
+    "Deus pode escolher quem os outros esquecem, como o caçula no campo (16:11-12).",
+    "O espírito do SENHOR capacita quem Deus unge (16:13).",
+    "Davi foi recomendado por suas habilidades e porque \"o SENHOR é com ele\" (16:18)."
+   ],
+   "reflexao": "Você tem dado mais atenção à sua aparência ou ao seu coração diante de Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que Davi fazia quando Samuel chegou à casa de Jessé?",
+     "opcoes": [
+      "Tocava harpa no palácio",
+      "Lutava contra os filisteus",
+      "Apascentava as ovelhas",
+      "Estudava com os sacerdotes"
+     ],
+     "correta": 2,
+     "ref": "16:11"
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "titulo": "Davi e Golias",
+   "chave": "17:45",
+   "resumo": "O gigante filisteu Golias, de Gate, desafia Israel durante quarenta dias, e todos têm medo. Davi, enviado pelo pai para levar comida aos irmãos, se indigna por alguém afrontar os exércitos do Deus vivente. Mesmo desprezado pelo irmão e desacreditado por Saul, lembra como Deus o livrou do leão e do urso. Recusa a armadura do rei, enfrenta Golias com uma funda e cinco pedras e o derruba em nome do SENHOR.",
+   "licoes": [
+    "Davi via o desafio a partir de Deus: o gigante afrontava \"o Deus vivente\" (17:26).",
+    "As vitórias do passado alimentam a fé para o presente (17:37).",
+    "Cada um deve servir com o que Deus lhe deu, e não com a armadura de outro (17:39-40).",
+    "\"Do SENHOR é a guerra\": a vitória vem de Deus, não das armas (17:45-47)."
+   ],
+   "reflexao": "Qual \"gigante\" você está enfrentando, e como pode encará-lo em nome do SENHOR?",
+   "quiz": [
+    {
+     "pergunta": "Quantas pedras lisas Davi escolheu no ribeiro?",
+     "opcoes": [
+      "Uma",
+      "Três",
+      "Cinco",
+      "Sete"
+     ],
+     "correta": 2,
+     "ref": "17:40"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "titulo": "Amizade de Jônatas e ciúme de Saul",
+   "chave": "18:14",
+   "resumo": "Jônatas, filho de Saul, ama Davi como a si mesmo, faz aliança com ele e lhe dá sua capa e suas armas. Davi tem sucesso em tudo, mas quando as mulheres cantam que Saul matou milhares e Davi dez milhares, Saul fica com ciúme. Ele tenta matar Davi com uma lança e, depois, o expõe ao perigo pedindo cem prepúcios de filisteus como dote por sua filha Mical. Davi vence, casa-se com Mical, e Saul passa a temê-lo ainda mais.",
+   "licoes": [
+    "A amizade verdadeira é generosa e leal, como a de Jônatas (18:1, 18:3-4).",
+    "A comparação alimenta o ciúme, que pode destruir o coração (18:7-9).",
+    "Davi agia com prudência, e o SENHOR estava com ele (18:14).",
+    "Davi permaneceu humilde diante da honra de ser genro do rei (18:18, 18:23)."
+   ],
+   "reflexao": "Há alguém de quem você tem sentido ciúme? Como entregar isso a Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que as mulheres cantavam quando Davi voltou da batalha?",
+     "opcoes": [
+      "Davi é nosso rei",
+      "Golias caiu diante de Saul",
+      "Saul feriu seus milhares, e Davi seus dez milhares",
+      "Bendito o filho de Jessé"
+     ],
+     "correta": 2,
+     "ref": "18:7"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "titulo": "Davi foge de Saul",
+   "chave": "19:5",
+   "resumo": "Saul ordena que matem Davi, mas Jônatas intercede por ele e Saul jura não fazê-lo. Pouco depois, porém, tenta de novo matá-lo com a lança. Mical ajuda Davi a fugir pela janela e engana os mensageiros com uma estátua na cama. Davi vai até Samuel em Ramá, e os mensageiros de Saul, e depois o próprio Saul, são tomados pelo espírito de Deus e profetizam.",
+   "licoes": [
+    "Jônatas defendeu o amigo inocente com coragem diante do pai (19:4-5).",
+    "Promessas feitas na emoção nem sempre resistem a um coração dominado pelo ciúme (19:6, 19:10).",
+    "Davi buscou refúgio junto ao profeta de Deus (19:18).",
+    "Deus protege seus servos de formas inesperadas (19:20-23)."
+   ],
+   "reflexao": "Você tem coragem de defender alguém injustiçado, mesmo diante de pessoas poderosas?",
+   "quiz": [
+    {
+     "pergunta": "Como Mical ajudou Davi a escapar?",
+     "opcoes": [
+      "Escondeu-o no telhado",
+      "Vestiu-o de mulher",
+      "Baixou-o por uma janela",
+      "Levou-o num carro"
+     ],
+     "correta": 2,
+     "ref": "19:12"
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "titulo": "As flechas de Jônatas",
+   "chave": "20:42",
+   "resumo": "Davi pergunta a Jônatas por que Saul quer matá-lo, e os dois combinam um teste: Davi faltará à refeição da lua nova, e Jônatas observará a reação do pai. Eles renovam sua aliança, que inclui a família de Jônatas. Saul se enfurece, insulta o filho e atira uma lança contra ele. Jônatas avisa Davi com o sinal das flechas, e os dois se despedem chorando, confiando no SENHOR.",
+   "licoes": [
+    "Amizade verdadeira é fiel até quando custa caro (20:31-34).",
+    "Jônatas pôs a vontade de Deus acima da própria ambição ao trono (20:13-15).",
+    "Uma aliança feita diante do SENHOR alcança as próximas gerações (20:15-16, 20:42).",
+    "Há despedidas dolorosas, mas Deus permanece entre os amigos (20:41-42)."
+   ],
+   "reflexao": "Quem é para você um amigo como Jônatas, e para quem você pode ser esse amigo?",
+   "quiz": [
+    {
+     "pergunta": "Que sinal Jônatas usou para avisar Davi?",
+     "opcoes": [
+      "Tocar a trombeta",
+      "Acender uma fogueira",
+      "Enviar uma carta",
+      "Atirar flechas"
+     ],
+     "correta": 3,
+     "ref": "20:20-22"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "titulo": "Davi em Nobe e em Gate",
+   "chave": "21:6",
+   "resumo": "Fugindo de Saul, Davi chega a Nobe e, com uma desculpa, pede comida ao sacerdote Aimeleque, que lhe dá os pães sagrados e a espada de Golias. Doegue, servo edomita de Saul, presencia tudo. Davi foge para Gate, terra dos filisteus, mas, reconhecido, tem medo do rei Aquis e se finge de louco para escapar.",
+   "licoes": [
+    "O sacerdote atendeu à necessidade real de Davi com os pães sagrados, episódio que Jesus menciona nos Evangelhos (21:6).",
+    "O medo pode levar até pessoas de fé a mentir e improvisar (21:2, 21:12-13).",
+    "Há testemunhas de tudo o que fazemos; a presença de Doegue trará consequências (21:7).",
+    "Deus continua guardando Davi mesmo em suas fraquezas (21:10, 21:15)."
+   ],
+   "reflexao": "Em momentos de medo, você tem buscado a Deus ou soluções por conta própria?",
+   "quiz": [
+    {
+     "pergunta": "Que arma Aimeleque entregou a Davi em Nobe?",
+     "opcoes": [
+      "A lança de Saul",
+      "Uma funda nova",
+      "O arco de Jônatas",
+      "A espada de Golias"
+     ],
+     "correta": 3,
+     "ref": "21:9"
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "titulo": "A caverna de Adulão e o massacre de Nobe",
+   "chave": "22:2",
+   "resumo": "Davi se esconde na caverna de Adulão, onde se reúnem com ele sua família e cerca de quatrocentos homens aflitos, endividados e amargurados. Ele deixa os pais sob proteção do rei de Moabe. Saul acusa seus servos de conspiração, e Doegue conta que Aimeleque ajudou Davi. Saul manda matar os sacerdotes; seus guardas se recusam, mas Doegue mata oitenta e cinco deles e destrói Nobe. Só Abiatar escapa e se junta a Davi.",
+   "licoes": [
+    "Deus forma um povo a partir de pessoas feridas e endividadas (22:2).",
+    "Davi cuida dos pais mesmo em meio à perseguição (22:3-4).",
+    "Os guardas mostraram coragem ao se recusar a matar os sacerdotes (22:17).",
+    "Davi assume sua parte de responsabilidade e oferece proteção a Abiatar (22:22-23)."
+   ],
+   "reflexao": "Você está disposto a acolher pessoas \"aflitas e amarguradas\" como Davi acolheu?",
+   "quiz": [
+    {
+     "pergunta": "Quem matou os sacerdotes de Nobe por ordem de Saul?",
+     "opcoes": [
+      "Abner",
+      "Jônatas",
+      "Doegue, o edomita",
+      "Os guardas do rei"
+     ],
+     "correta": 2,
+     "ref": "22:18"
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "titulo": "Queila e o deserto de Zife",
+   "chave": "23:16",
+   "resumo": "Davi consulta o SENHOR e, mesmo com seus homens com medo, livra a cidade de Queila dos filisteus. Ao saber que Saul vem e que os moradores o entregariam, Davi foge para o deserto. Jônatas vai encontrá-lo e o fortalece em Deus, dizendo que Davi será rei. Os zifeus denunciam Davi, e Saul quase o cerca, mas recua para enfrentar uma invasão filisteia.",
+   "licoes": [
+    "Davi consultou o SENHOR antes de agir, e voltou a consultar diante do medo (23:2, 23:4).",
+    "Ajudar alguém não garante gratidão, mas Deus guarda seus servos (23:12-14).",
+    "Um amigo pode nos fortalecer \"em Deus\" nos momentos difíceis (23:16-17).",
+    "Deus pode usar circunstâncias inesperadas para nos livrar (23:27-28)."
+   ],
+   "reflexao": "Quem você pode fortalecer em Deus nesta semana, como Jônatas fez com Davi?",
+   "quiz": [
+    {
+     "pergunta": "O que Jônatas fez quando foi ao encontro de Davi no bosque de Zife?",
+     "opcoes": [
+      "Confortou sua mão em Deus",
+      "Entregou-o a Saul",
+      "Levou-lhe armas",
+      "Ungiu-o rei"
+     ],
+     "correta": 0,
+     "ref": "23:16"
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "titulo": "Davi poupa Saul na caverna",
+   "chave": "24:6",
+   "resumo": "Saul persegue Davi em En-Gedi e entra numa caverna onde Davi e seus homens estão escondidos. Os homens o incentivam a matar o rei, mas Davi apenas corta, em silêncio, a ponta do manto de Saul, e mesmo isso pesa em sua consciência. Fora da caverna, mostra o pedaço do manto a Saul como prova de que não quer o seu mal. Saul chora, reconhece que Davi é mais justo e pede que poupe sua descendência.",
+   "licoes": [
+    "Oportunidade não é o mesmo que permissão de Deus (24:4, 24:6).",
+    "Uma consciência sensível percebe até pequenas ofensas (24:5).",
+    "Davi entrega a Deus a justiça em vez de se vingar (24:12, 24:15).",
+    "Pagar o mal com o bem pode tocar até o coração do adversário (24:17)."
+   ],
+   "reflexao": "Há alguém que o feriu e de quem você precisa deixar a justiça nas mãos de Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que Davi cortou de Saul dentro da caverna?",
+     "opcoes": [
+      "O cabelo",
+      "A beira do manto",
+      "A correia da espada",
+      "A ponta da lança"
+     ],
+     "correta": 1,
+     "ref": "24:4"
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "titulo": "Davi, Nabal e Abigail",
+   "chave": "25:32-33",
+   "resumo": "Samuel morre e é chorado por todo Israel. Davi pede provisões ao rico Nabal, cujos pastores ele havia protegido, mas Nabal o insulta. Irado, Davi parte com quatrocentos homens para se vingar. Abigail, a sábia esposa de Nabal, vai ao seu encontro com presentes e o convence a não derramar sangue. Davi louva a Deus por ela. Dez dias depois, Nabal morre, e Davi se casa com Abigail.",
+   "licoes": [
+    "A ingratidão e a grosseria podem provocar grandes conflitos (25:10-11).",
+    "Uma palavra sábia e humilde pode evitar uma tragédia (25:24, 25:26).",
+    "Davi reconheceu que Deus o impediu de se vingar por meio de Abigail (25:32-34).",
+    "Deus faz justiça no tempo dele; não precisamos fazê-la com as próprias mãos (25:38-39)."
+   ],
+   "reflexao": "Quando você está prestes a agir com raiva, quem ou o que Deus usa para fazê-lo parar?",
+   "quiz": [
+    {
+     "pergunta": "Quem impediu Davi de se vingar de Nabal?",
+     "opcoes": [
+      "Abner",
+      "Abigail, mulher de Nabal",
+      "O profeta Gade",
+      "Jônatas"
+     ],
+     "correta": 1,
+     "ref": "25:32-33"
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "titulo": "Davi poupa Saul outra vez",
+   "chave": "26:23",
+   "resumo": "Os zifeus voltam a denunciar Davi, e Saul o persegue com três mil homens. À noite, Davi e Abisai entram no acampamento enquanto todos dormem, num sono enviado pelo SENHOR. Abisai quer matar Saul, mas Davi o impede e leva apenas a lança e a botija de água do rei. De longe, Davi repreende Abner por não proteger o rei. Saul reconhece seu erro e abençoa Davi.",
+   "licoes": [
+    "Davi recusa de novo tocar no ungido do SENHOR, mesmo com a oportunidade perfeita (26:9, 26:11).",
+    "Davi confia que Deus resolverá a situação no tempo certo (26:10).",
+    "Deus protegeu Davi com um sono profundo sobre o acampamento (26:12).",
+    "Deus recompensa a justiça e a lealdade de cada um (26:23-24)."
+   ],
+   "reflexao": "O que ajuda você a esperar em Deus em vez de \"forçar\" as coisas?",
+   "quiz": [
+    {
+     "pergunta": "O que Davi levou da cabeceira de Saul?",
+     "opcoes": [
+      "A coroa e o manto",
+      "A lança e a botija de água",
+      "A espada e o escudo",
+      "O éfode"
+     ],
+     "correta": 1,
+     "ref": "26:12"
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "titulo": "Davi entre os filisteus",
+   "chave": "27:1",
+   "resumo": "Desanimado, Davi pensa que um dia será morto por Saul e foge com seiscentos homens e suas famílias para a terra dos filisteus. Aquis, rei de Gate, lhe dá a cidade de Ziclague. Dali, Davi ataca povos inimigos de Israel, mas engana Aquis dizendo que ataca o sul de Judá, e não deixa sobreviventes para que não o denunciem. Aquis passa a confiar nele.",
+   "licoes": [
+    "O desânimo pode levar a decisões tomadas \"no coração\", sem consultar a Deus (27:1).",
+    "Fugir de um perigo pode nos colocar em situações moralmente complicadas (27:10-11).",
+    "A Bíblia registra com honestidade as falhas até dos seus heróis (27:8-12)."
+   ],
+   "reflexao": "Em momentos de desânimo, você tem tomado decisões sem ouvir a Deus?",
+   "quiz": [
+    {
+     "pergunta": "Que cidade o rei Aquis deu a Davi?",
+     "opcoes": [
+      "Gate",
+      "Ziclague",
+      "Asdode",
+      "Hebrom"
+     ],
+     "correta": 1,
+     "ref": "27:6"
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "titulo": "Saul e a necromante de En-Dor",
+   "chave": "28:6",
+   "resumo": "Diante de um grande exército filisteu, Saul tem medo e consulta o SENHOR, mas não recebe resposta. Desesperado, ele, que havia expulsado os adivinhos, disfarça-se e procura uma necromante em En-Dor, pedindo que chame Samuel. O texto descreve Samuel anunciando que o reino passará a Davi e que Saul e seus filhos morrerão no dia seguinte; os intérpretes divergem sobre a natureza dessa aparição. Saul cai sem forças e é alimentado pela mulher.",
+   "licoes": [
+    "O silêncio de Deus foi consequência de uma longa desobediência (28:6, 28:18).",
+    "No desespero, Saul buscou exatamente o que a lei de Deus proibia (28:7-8).",
+    "Buscar outras fontes não muda a palavra que Deus já falou (28:16-17).",
+    "O medo sem fé deixa a pessoa sem forças (28:5, 28:20)."
+   ],
+   "reflexao": "Quando Deus parece em silêncio, para onde você é tentado a correr?",
+   "quiz": [
+    {
+     "pergunta": "Em que lugar morava a mulher que Saul foi consultar?",
+     "opcoes": [
+      "Ramá",
+      "Gilboa",
+      "En-Dor",
+      "Suném"
+     ],
+     "correta": 2,
+     "ref": "28:7"
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "titulo": "Davi é dispensado pelos filisteus",
+   "chave": "29:6",
+   "resumo": "Os filisteus se reúnem em Afeque para lutar contra Israel, e Davi e seus homens marcham na retaguarda com Aquis. Os chefes filisteus desconfiam de Davi e exigem que ele volte, temendo que mude de lado na batalha. Aquis, que o considera leal, o despede, e Davi retorna para a terra dos filisteus.",
+   "licoes": [
+    "Deus livrou Davi de ter de lutar contra seu próprio povo (29:4, 29:7).",
+    "Deus pode usar até a desconfiança dos outros para nos proteger (29:4).",
+    "A boa reputação de Davi permaneceu mesmo entre estrangeiros (29:6, 29:9)."
+   ],
+   "reflexao": "Você já viu uma porta fechada que depois se revelou proteção de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Quem exigiu que Davi não fosse à batalha com os filisteus?",
+     "opcoes": [
+      "O rei Aquis",
+      "Os homens de Davi",
+      "Saul",
+      "Os príncipes dos filisteus"
+     ],
+     "correta": 3,
+     "ref": "29:4"
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "titulo": "Davi se fortalece no SENHOR",
+   "chave": "30:6",
+   "resumo": "Ao voltar a Ziclague, Davi encontra a cidade queimada e as famílias levadas pelos amalequitas. Todos choram, e os homens falam em apedrejá-lo, mas Davi se fortalece no SENHOR e o consulta. Guiados por um escravo egípcio abandonado, eles alcançam os amalequitas e recuperam tudo. Davi decide que quem ficou guardando a bagagem recebe a mesma parte de quem lutou, e envia presentes aos anciãos de Judá.",
+   "licoes": [
+    "Na pior crise, Davi \"se esforçou no SENHOR seu Deus\" (30:6).",
+    "Davi buscou direção de Deus antes de agir (30:7-8).",
+    "Um gesto de bondade com o egípcio abandonado abriu caminho para a vitória (30:11-12, 30:15).",
+    "Quem serve nos bastidores tem o mesmo valor de quem está na frente (30:24)."
+   ],
+   "reflexao": "Como você pode se fortalecer em Deus quando tudo parece perdido?",
+   "quiz": [
+    {
+     "pergunta": "Que regra Davi estabeleceu sobre a divisão dos despojos?",
+     "opcoes": [
+      "Só os que lutaram recebem",
+      "O rei fica com a metade",
+      "Tudo vai para os sacerdotes",
+      "Quem ficou com a bagagem recebe a mesma parte de quem foi à batalha"
+     ],
+     "correta": 3,
+     "ref": "30:24"
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "titulo": "A morte de Saul",
+   "chave": "31:6",
+   "resumo": "Os filisteus vencem Israel no monte Gilboa. Jônatas e dois irmãos morrem, e Saul, gravemente ferido pelos flecheiros, lança-se sobre a própria espada. Os filisteus penduram seu corpo no muro de Bete-Seã. Os homens de Jabes de Gileade, lembrando o que Saul fizera por eles, caminham a noite toda, resgatam os corpos e os sepultam com jejum.",
+   "licoes": [
+    "O fim de Saul mostra o peso de uma vida de desobediência (31:4-6).",
+    "Os filhos também sofrem as consequências das escolhas dos pais (31:2).",
+    "Os homens de Jabes retribuíram com lealdade o bem que receberam (31:11-13).",
+    "Até num final trágico há espaço para gestos de honra e gratidão (31:12-13)."
+   ],
+   "reflexao": "Que bem você recebeu de alguém e ainda pode retribuir com gratidão?",
+   "quiz": [
+    {
+     "pergunta": "Em que monte Saul e seus filhos morreram?",
+     "opcoes": [
+      "Carmelo",
+      "Gilboa",
+      "Tabor",
+      "Hermom"
+     ],
+     "correta": 1,
+     "ref": "31:1-2"
+    }
+   ]
+  }
+ ]
+}

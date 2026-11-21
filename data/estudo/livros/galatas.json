@@ -106,12 +106,12 @@
     {
      "pergunta": "Quem Paulo confrontou face a face em Antioquia?",
      "opcoes": [
+      "Barnabé",
       "Tiago",
       "João",
-      "Cefas (Pedro)",
-      "Barnabé"
+      "Cefas (Pedro)"
      ],
-     "correta": 2,
+     "correta": 3,
      "ref": "2:11"
     }
    ]
@@ -210,12 +210,12 @@
     {
      "pergunta": "Segundo Paulo, o que o ser humano colherá?",
      "opcoes": [
-      "O que seus pais semearam",
-      "O que ele mesmo semear",
       "Apenas coisas boas",
-      "O que a igreja plantar"
+      "O que a igreja plantar",
+      "O que seus pais semearam",
+      "O que ele mesmo semear"
      ],
-     "correta": 1,
+     "correta": 3,
      "ref": "6:7"
     }
    ]

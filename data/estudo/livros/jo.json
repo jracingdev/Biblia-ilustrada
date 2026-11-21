@@ -143,12 +143,12 @@
     {
      "pergunta": "Quantos filhos e filhas Jó tinha?",
      "opcoes": [
+      "Três filhos e sete filhas",
       "Sete filhos e três filhas",
       "Dez filhos",
-      "Três filhos e sete filhas",
       "Doze filhos"
      ],
-     "correta": 0,
+     "correta": 1,
      "ref": "1:2"
     }
    ]
@@ -168,12 +168,12 @@
     {
      "pergunta": "Quanto tempo os amigos ficaram sentados com Jó sem falar?",
      "opcoes": [
-      "Três dias",
-      "Quarenta dias",
       "Um dia inteiro",
-      "Sete dias e sete noites"
+      "Três dias",
+      "Sete dias e sete noites",
+      "Quarenta dias"
      ],
-     "correta": 3,
+     "correta": 2,
      "ref": "2:13"
     }
    ]
@@ -199,7 +199,7 @@
       "A terra de Uz"
      ],
      "correta": 1,
-     "ref": "3:1"
+     "ref": "3:1-3"
     }
    ]
   },
@@ -1099,7 +1099,7 @@
       "O gavião"
      ],
      "correta": 1,
-     "ref": "39:14"
+     "ref": "39:13-14"
     }
    ]
   },

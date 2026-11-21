@@ -120,12 +120,12 @@
     {
      "pergunta": "Em quantos dias Jonas disse que Nínive seria destruída?",
      "opcoes": [
+      "Três",
       "Sete",
       "Quarenta",
-      "Três",
       "Cem"
      ],
-     "correta": 1,
+     "correta": 2,
      "ref": "3:4"
     }
    ]

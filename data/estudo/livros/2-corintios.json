@@ -99,12 +99,12 @@
     {
      "pergunta": "Como Paulo chama Deus no início da carta?",
      "opcoes": [
+      "Deus da guerra",
       "Deus dos exércitos",
       "Deus de toda consolação",
-      "Deus de Abraão",
-      "Deus da guerra"
+      "Deus de Abraão"
      ],
-     "correta": 1,
+     "correta": 2,
      "ref": "1:3"
     }
    ]
@@ -125,12 +125,12 @@
     {
      "pergunta": "Quem Paulo não encontrou em Trôade, o que lhe tirou o repouso?",
      "opcoes": [
+      "Apolo",
       "Timóteo",
       "Silas",
-      "Tito",
-      "Apolo"
+      "Tito"
      ],
-     "correta": 2,
+     "correta": 3,
      "ref": "2:13"
     }
    ]
@@ -151,12 +151,12 @@
     {
      "pergunta": "Por que Moisés colocava um véu sobre o rosto?",
      "opcoes": [
-      "Para se proteger do sol",
       "Para esconder a glória que se extinguia",
       "Por luto",
-      "Para orar em segredo"
+      "Para orar em segredo",
+      "Para se proteger do sol"
      ],
-     "correta": 1,
+     "correta": 0,
      "ref": "3:13"
     }
    ]
@@ -203,12 +203,12 @@
     {
      "pergunta": "Segundo Paulo, o que é quem está em Cristo?",
      "opcoes": [
+      "Um profeta",
       "Um servo da Lei",
       "Uma nova criatura",
-      "Um anjo",
-      "Um profeta"
+      "Um anjo"
      ],
-     "correta": 1,
+     "correta": 2,
      "ref": "5:17"
     }
    ]
@@ -229,12 +229,12 @@
     {
      "pergunta": "Segundo Paulo, quando é o dia da salvação?",
      "opcoes": [
-      "No fim dos tempos",
-      "Agora",
       "No próximo sábado",
-      "Quando Paulo chegar"
+      "Quando Paulo chegar",
+      "No fim dos tempos",
+      "Agora"
      ],
-     "correta": 1,
+     "correta": 3,
      "ref": "6:2"
     }
    ]
@@ -255,12 +255,12 @@
     {
      "pergunta": "Com a chegada de quem Deus consolou Paulo na Macedônia?",
      "opcoes": [
-      "Timóteo",
-      "Barnabé",
       "Tito",
-      "Lucas"
+      "Lucas",
+      "Timóteo",
+      "Barnabé"
      ],
-     "correta": 2,
+     "correta": 0,
      "ref": "7:6"
     }
    ]
@@ -307,12 +307,12 @@
     {
      "pergunta": "Segundo Paulo, Deus ama a quem dá de que maneira?",
      "opcoes": [
+      "Com sacrifício",
       "Com abundância",
       "Com alegria",
-      "Em segredo",
-      "Com sacrifício"
+      "Em segredo"
      ],
-     "correta": 1,
+     "correta": 2,
      "ref": "9:7"
     }
    ]
@@ -333,12 +333,12 @@
     {
      "pergunta": "O que os críticos diziam sobre Paulo?",
      "opcoes": [
-      "Que ele não sabia escrever",
-      "Que suas cartas eram fortes, mas sua presença fraca",
       "Que ele era rico",
-      "Que ele não era judeu"
+      "Que ele não era judeu",
+      "Que ele não sabia escrever",
+      "Que suas cartas eram fortes, mas sua presença fraca"
      ],
-     "correta": 1,
+     "correta": 3,
      "ref": "10:10"
     }
    ]
@@ -411,12 +411,12 @@
     {
      "pergunta": "Que três bênçãos Paulo deseja aos coríntios no final da carta?",
      "opcoes": [
+      "Sabedoria, força e coragem",
       "Saúde, paz e prosperidade",
       "A graça de Cristo, o amor de Deus e a comunhão do Espírito",
-      "Fé, esperança e caridade",
-      "Sabedoria, força e coragem"
+      "Fé, esperança e caridade"
      ],
-     "correta": 1,
+     "correta": 2,
      "ref": "13:14"
     }
    ]

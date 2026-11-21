@@ -80,12 +80,12 @@
     {
      "pergunta": "Em que cidade Paulo pediu que Timóteo ficasse?",
      "opcoes": [
-      "Corinto",
       "Éfeso",
       "Filipos",
-      "Antioquia"
+      "Antioquia",
+      "Corinto"
      ],
-     "correta": 1,
+     "correta": 0,
      "ref": "1:3"
     }
    ]
@@ -106,12 +106,12 @@
     {
      "pergunta": "Segundo Paulo, quantos mediadores há entre Deus e os seres humanos?",
      "opcoes": [
-      "Muitos",
       "Dois",
       "Um só",
-      "Nenhum"
+      "Nenhum",
+      "Muitos"
      ],
-     "correta": 2,
+     "correta": 1,
      "ref": "2:5"
     }
    ]
@@ -132,12 +132,12 @@
     {
      "pergunta": "Segundo Paulo, a igreja do Deus vivo é coluna e alicerce de quê?",
      "opcoes": [
+      "Do império",
       "Da Lei",
       "Da verdade",
-      "Da tradição",
-      "Do império"
+      "Da tradição"
      ],
-     "correta": 1,
+     "correta": 2,
      "ref": "3:15"
     }
    ]
@@ -158,12 +158,12 @@
     {
      "pergunta": "Segundo Paulo, o que Timóteo não deveria deixar ninguém desprezar?",
      "opcoes": [
-      "Sua família",
-      "Sua juventude",
       "Sua cidade",
-      "Sua origem grega"
+      "Sua origem grega",
+      "Sua família",
+      "Sua juventude"
      ],
-     "correta": 1,
+     "correta": 3,
      "ref": "4:12"
     }
    ]

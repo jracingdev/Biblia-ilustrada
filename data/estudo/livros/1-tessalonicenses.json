@@ -76,12 +76,12 @@
     {
      "pergunta": "Para quem os tessalonicenses se tornaram exemplo?",
      "opcoes": [
+      "Para os gálatas",
       "Para os judeus de Jerusalém",
       "Para os crentes da Macedônia e Acaia",
-      "Para os romanos",
-      "Para os gálatas"
+      "Para os romanos"
      ],
-     "correta": 1,
+     "correta": 2,
      "ref": "1:7"
     }
    ]
@@ -102,12 +102,12 @@
     {
      "pergunta": "Com que imagens Paulo descreve seu cuidado com os tessalonicenses?",
      "opcoes": [
-      "Como um rei e um juiz",
-      "Como uma mãe e um pai",
       "Como um pastor e um soldado",
-      "Como um mestre e um servo"
+      "Como um mestre e um servo",
+      "Como um rei e um juiz",
+      "Como uma mãe e um pai"
      ],
-     "correta": 1,
+     "correta": 3,
      "ref": "2:7-11"
     }
    ]
@@ -128,12 +128,12 @@
     {
      "pergunta": "De que cidade Paulo enviou Timóteo a Tessalônica?",
      "opcoes": [
-      "Corinto",
       "Atenas",
       "Filipos",
-      "Bereia"
+      "Bereia",
+      "Corinto"
      ],
-     "correta": 1,
+     "correta": 0,
      "ref": "3:1-2"
     }
    ]
@@ -180,12 +180,12 @@
     {
      "pergunta": "Como Paulo diz que virá o dia do Senhor?",
      "opcoes": [
+      "No sábado",
       "Com aviso prévio",
       "Como um ladrão de noite",
-      "Depois de mil anos",
-      "No sábado"
+      "Depois de mil anos"
      ],
-     "correta": 1,
+     "correta": 2,
      "ref": "5:2"
     }
    ]

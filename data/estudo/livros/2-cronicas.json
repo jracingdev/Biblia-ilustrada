@@ -37,7 +37,7 @@
   "Reformas que voltam à palavra de Deus",
   "Deus adverte antes do juízo e abre caminho para a volta"
  ],
- "cristo": "O templo cheio da glória de Deus aponta para Jesus, que falou do próprio corpo como templo (João 2) e em quem Deus habita entre nós. O chamado de 7:14 a se humilhar, orar e se converter encontra sua resposta plena no perdão oferecido em Cristo.",
+ "cristo": "O templo cheio da glória de Deus aponta para Jesus, que falou do próprio corpo como templo, como em João 2, e em quem Deus habita entre nós. O chamado de 7:14 a se humilhar, orar e se converter encontra sua resposta plena no perdão oferecido em Cristo.",
  "secoes": [
   {
    "id": "salomao-e-templo",
@@ -127,12 +127,12 @@
     {
      "pergunta": "O que Salomão pediu a Deus em Gibeão?",
      "opcoes": [
-      "Vitória sobre os inimigos",
       "Sabedoria e conhecimento",
+      "Vitória sobre os inimigos",
       "Muitos anos de vida",
       "Um grande exército"
      ],
-     "correta": 1,
+     "correta": 0,
      "ref": "1:10"
     }
    ]
@@ -178,11 +178,11 @@
      "pergunta": "Onde Salomão construiu o templo?",
      "opcoes": [
       "No monte Sião",
-      "No monte das Oliveiras",
+      "No monte Moriá",
       "No monte Carmelo",
-      "No monte Moriá"
+      "No monte das Oliveiras"
      ],
-     "correta": 3,
+     "correta": 1,
      "ref": "3:1"
     }
    ]
@@ -204,10 +204,10 @@
      "opcoes": [
       "Quatro",
       "Sete",
-      "Vinte",
-      "Doze"
+      "Doze",
+      "Vinte"
      ],
-     "correta": 3,
+     "correta": 2,
      "ref": "4:4"
     }
    ]
@@ -227,12 +227,12 @@
     {
      "pergunta": "Qual era o refrão do louvor quando a nuvem encheu a casa?",
      "opcoes": [
+      "Porque é bom, porque sua misericórdia é para sempre",
       "Santo, santo, santo",
       "O SENHOR é meu pastor",
-      "Porque é bom, porque sua misericórdia é para sempre",
       "Aleluia, amém"
      ],
-     "correta": 2,
+     "correta": 0,
      "ref": "5:13"
     }
    ]
@@ -280,11 +280,11 @@
      "pergunta": "O que aconteceu quando Salomão acabou de orar?",
      "opcoes": [
       "Começou a chover",
+      "Um profeta apareceu",
       "A terra tremeu",
-      "Fogo desceu do céu e consumiu o holocausto",
-      "Um profeta apareceu"
+      "Fogo desceu do céu e consumiu o holocausto"
      ],
-     "correta": 2,
+     "correta": 3,
      "ref": "7:1"
     }
    ]
@@ -305,11 +305,11 @@
      "pergunta": "Por que Salomão não quis que a filha de Faraó morasse na casa de Davi?",
      "opcoes": [
       "Porque era pequena",
-      "Porque os lugares onde entrou a arca eram sagrados",
       "Porque ela pediu outra casa",
+      "Porque os lugares onde entrou a arca eram sagrados",
       "Porque Hirão aconselhou"
      ],
-     "correta": 1,
+     "correta": 2,
      "ref": "8:11"
     }
    ]
@@ -331,10 +331,10 @@
      "opcoes": [
       "Cento e vinte talentos",
       "Quatrocentos e vinte talentos",
-      "Mil talentos",
-      "Seiscentos e sessenta e seis talentos"
+      "Seiscentos e sessenta e seis talentos",
+      "Mil talentos"
      ],
-     "correta": 3,
+     "correta": 2,
      "ref": "9:13"
     }
    ]
@@ -380,11 +380,11 @@
      "pergunta": "Por que muitos de todas as tribos vieram a Jerusalém?",
      "opcoes": [
       "Para fugir da fome",
-      "Porque buscavam o SENHOR de coração",
       "Para servir no exército",
+      "Porque buscavam o SENHOR de coração",
       "Para comerciar"
      ],
-     "correta": 1,
+     "correta": 2,
      "ref": "11:16"
     }
    ]
@@ -432,11 +432,11 @@
      "pergunta": "Por que os filhos de Judá prevaleceram, segundo o texto?",
      "opcoes": [
       "Porque eram mais numerosos",
-      "Porque o Egito ajudou",
+      "Porque se apoiaram no SENHOR",
       "Porque tinham carros de ferro",
-      "Porque se apoiaram no SENHOR"
+      "Porque o Egito ajudou"
      ],
-     "correta": 3,
+     "correta": 1,
      "ref": "13:18"
     }
    ]
@@ -457,11 +457,11 @@
      "pergunta": "Qual foi o clamor de Asa diante do exército etíope?",
      "opcoes": [
       "\"Dá-nos mais soldados\"",
-      "\"Envia o Egito em nosso socorro\"",
       "\"Ninguém há como tu para ajudar o fraco; em ti nos apoiamos\"",
+      "\"Envia o Egito em nosso socorro\"",
       "\"Faze-nos fugir\""
      ],
-     "correta": 2,
+     "correta": 1,
      "ref": "14:11"
     }
    ]
@@ -483,11 +483,11 @@
      "pergunta": "Quem Asa depôs da posição de rainha por causa de um ídolo?",
      "opcoes": [
       "Sua esposa",
-      "Maaca, mãe do rei",
+      "Jezabel",
       "A filha de Faraó",
-      "Jezabel"
+      "Maaca, mãe do rei"
      ],
-     "correta": 1,
+     "correta": 3,
      "ref": "15:16"
     }
    ]
@@ -509,11 +509,11 @@
      "pergunta": "O que o vidente Hanani disse que os olhos do SENHOR fazem?",
      "opcoes": [
       "Contam as estrelas",
-      "Vigiam os templos",
+      "Contemplam toda a terra para fortalecer os de coração íntegro",
       "Procuram os culpados",
-      "Contemplam toda a terra para fortalecer os de coração íntegro"
+      "Vigiam os templos"
      ],
-     "correta": 3,
+     "correta": 1,
      "ref": "16:9"
     }
    ]
@@ -612,11 +612,11 @@
      "pergunta": "O que Judá cantava enquanto saía para a batalha?",
      "opcoes": [
       "Um hino de guerra",
-      "Os nomes dos inimigos",
       "\"Glorificai ao SENHOR, porque sua misericórdia é para sempre\"",
+      "Os nomes dos inimigos",
       "Um lamento"
      ],
-     "correta": 2,
+     "correta": 1,
      "ref": "20:21"
     }
    ]
@@ -662,12 +662,12 @@
     {
      "pergunta": "Quem aconselhava Acazias a agir impiamente?",
      "opcoes": [
-      "Joiada",
       "Sua mãe Atalia",
+      "Joiada",
       "Jeú",
       "Os sacerdotes"
      ],
-     "correta": 1,
+     "correta": 0,
      "ref": "22:3"
     }
    ]
@@ -688,12 +688,12 @@
     {
      "pergunta": "Que pacto Joiada fez com o povo e o rei?",
      "opcoes": [
-      "Que seriam povo do SENHOR",
       "De pagar tributo à Síria",
       "De reconstruir o muro",
+      "Que seriam povo do SENHOR",
       "De guerrear contra Israel"
      ],
-     "correta": 0,
+     "correta": 2,
      "ref": "23:16"
     }
    ]
@@ -715,11 +715,11 @@
      "pergunta": "Com quantos anos morreu o sacerdote Joiada?",
      "opcoes": [
       "Setenta",
-      "Cento e trinta",
+      "Noventa",
       "Cento e vinte",
-      "Noventa"
+      "Cento e trinta"
      ],
-     "correta": 1,
+     "correta": 3,
      "ref": "24:15"
     }
    ]
@@ -767,11 +767,11 @@
      "pergunta": "Onde surgiu a lepra em Uzias?",
      "opcoes": [
       "Nas mãos",
-      "Na testa",
       "Nos pés",
+      "Na testa",
       "No peito"
      ],
-     "correta": 1,
+     "correta": 2,
      "ref": "26:19"
     }
    ]
@@ -792,11 +792,11 @@
      "pergunta": "Por que Jotão se fortaleceu?",
      "opcoes": [
       "Porque tinha muitos soldados",
-      "Porque preparou seus caminhos diante do SENHOR",
+      "Porque ficou rico",
       "Porque fez aliança com a Assíria",
-      "Porque ficou rico"
+      "Porque preparou seus caminhos diante do SENHOR"
      ],
-     "correta": 1,
+     "correta": 3,
      "ref": "27:6"
     }
    ]
@@ -896,11 +896,11 @@
      "pergunta": "O que disse o sumo sacerdote Azarias sobre as ofertas?",
      "opcoes": [
       "Que faltava muito",
-      "Que eram pequenas demais",
+      "Que comeram, se fartaram e sobrou muito",
       "Que deviam ser enviadas à Assíria",
-      "Que comeram, se fartaram e sobrou muito"
+      "Que eram pequenas demais"
      ],
-     "correta": 3,
+     "correta": 1,
      "ref": "31:10"
     }
    ]
@@ -922,11 +922,11 @@
      "pergunta": "Segundo Ezequias, o que estava com o rei da Assíria?",
      "opcoes": [
       "Os deuses das nações",
-      "O força da carne",
+      "O Egito",
       "Os anjos",
-      "O Egito"
+      "O força da carne"
      ],
-     "correta": 1,
+     "correta": 3,
      "ref": "32:8"
     }
    ]
@@ -947,12 +947,12 @@
     {
      "pergunta": "Para onde Manassés foi levado preso?",
      "opcoes": [
-      "Para a Babilônia",
       "Para Nínive",
+      "Para a Babilônia",
       "Para o Egito",
       "Para Damasco"
      ],
-     "correta": 0,
+     "correta": 1,
      "ref": "33:11"
     }
    ]
@@ -973,12 +973,12 @@
     {
      "pergunta": "Com quantos anos Josias começou a reinar?",
      "opcoes": [
-      "Vinte e cinco",
+      "Oito",
       "Doze",
       "Dezoito",
-      "Oito"
+      "Vinte e cinco"
      ],
-     "correta": 3,
+     "correta": 0,
      "ref": "34:1"
     }
    ]
@@ -999,12 +999,12 @@
     {
      "pergunta": "Quem lamentou a morte de Josias com cânticos?",
      "opcoes": [
-      "Jeremias",
       "Isaías",
       "Hulda",
+      "Jeremias",
       "Hilquias"
      ],
-     "correta": 0,
+     "correta": 2,
      "ref": "35:25"
     }
    ]
@@ -1026,11 +1026,11 @@
      "pergunta": "Qual rei da Pérsia proclamou a volta para construir a casa do SENHOR?",
      "opcoes": [
       "Dario",
-      "Ciro",
+      "Assuero",
       "Artaxerxes",
-      "Assuero"
+      "Ciro"
      ],
-     "correta": 1,
+     "correta": 3,
      "ref": "36:22-23"
     }
    ]

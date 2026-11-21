@@ -235,12 +235,12 @@
     {
      "pergunta": "Quantas voltas foram dadas ao redor de Jericó no sétimo dia?",
      "opcoes": [
-      "Sete",
-      "Três",
       "Uma",
+      "Três",
+      "Sete",
       "Doze"
      ],
-     "correta": 0,
+     "correta": 2,
      "ref": "6:15"
     }
    ]
@@ -623,10 +623,10 @@
      "opcoes": [
       "Doze",
       "Vinte e quatro",
-      "Setenta",
-      "Quarenta e oito"
+      "Quarenta e oito",
+      "Setenta"
      ],
-     "correta": 3,
+     "correta": 2,
      "ref": "21:41"
     }
    ]

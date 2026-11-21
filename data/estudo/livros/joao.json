@@ -1,0 +1,636 @@
+{
+ "livro": "joao",
+ "nome": "João",
+ "subtitulo": "Crer em Jesus e ter vida",
+ "introducao": "O Evangelho de João começa antes da criação e apresenta Jesus como a Palavra eterna que se fez carne. Por meio de sinais e de declarações como \"Eu sou o pão da vida\" e \"Eu sou a ressurreição e a vida\", mostra quem Jesus é. Dedica muito espaço às últimas conversas de Jesus com os discípulos e foi escrito para que o leitor creia e tenha vida em seu nome.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Anônimo no texto; a tradição antiga o atribui ao apóstolo João, identificado com \"o discípulo a quem Jesus amava\" (21:20, 21:24)"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "A maioria data entre 85 e 100 d.C., depois dos outros três Evangelhos"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "Leitores que precisavam crer ou firmar sua fé em Jesus (20:31)"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Evangelho, com sinais, diálogos e longos discursos"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "21 capítulos e 879 versículos"
+  }
+ ],
+ "chave": "20:31",
+ "temas": [
+  "Jesus é a Palavra eterna, Deus feito homem",
+  "Os sinais que levam à fé",
+  "As declarações \"Eu sou\"",
+  "Amor, permanência e o novo mandamento",
+  "Vida eterna para quem crê"
+ ],
+ "cristo": "João mostra Jesus como Deus que se fez carne, o Cordeiro que tira o pecado do mundo e o bom Pastor que dá a vida pelas ovelhas. Sua morte é a \"hora\" da glória, e sua ressurreição leva à confissão de Tomé: \"Senhor meu, e Deus meu!\".",
+ "secoes": [
+  {
+   "id": "prologo-e-inicio",
+   "titulo": "Prólogo e primeiros discípulos",
+   "capitulos": [
+    1
+   ],
+   "resumo": "A Palavra se faz carne e os primeiros seguem Jesus."
+  },
+  {
+   "id": "livro-dos-sinais",
+   "titulo": "Os sinais e os discursos",
+   "capitulos": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "resumo": "Sinais e ensinos revelam quem Jesus é, entre fé e rejeição."
+  },
+  {
+   "id": "despedida",
+   "titulo": "A despedida de Jesus",
+   "capitulos": [
+    13,
+    14,
+    15,
+    16,
+    17
+   ],
+   "resumo": "Lava-pés, últimas palavras e a oração de Jesus."
+  },
+  {
+   "id": "paixao-e-ressurreicao",
+   "titulo": "Paixão e ressurreição",
+   "capitulos": [
+    18,
+    19,
+    20,
+    21
+   ],
+   "resumo": "Prisão, cruz, túmulo vazio e aparições do ressuscitado."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "A Palavra se fez carne",
+   "chave": "1:14",
+   "resumo": "João começa antes da criação: a Palavra estava com Deus e era Deus, por meio dela tudo foi feito, e nela estava a vida e a luz. A Palavra se fez carne e habitou entre nós, cheia de graça e de verdade. João Batista testemunha que não é o Cristo e aponta Jesus como o Cordeiro de Deus que tira o pecado do mundo. Os primeiros discípulos — André, Pedro, Filipe e Natanael — encontram Jesus.",
+   "licoes": [
+    "Jesus, a Palavra, é eterno e é Deus (1:1-3).",
+    "Quem recebe Jesus recebe o direito de ser feito filho de Deus (1:12).",
+    "Em Jesus, Deus se fez humano e mostrou sua glória cheia de graça e de verdade (1:14).",
+    "Jesus é o Cordeiro de Deus que tira o pecado do mundo (1:29)."
+   ],
+   "reflexao": "O que muda em sua vida saber que Deus \"habitou entre nós\"?",
+   "quiz": [
+    {
+     "pergunta": "Como João Batista chamou Jesus ao vê-lo chegar?",
+     "opcoes": [
+      "O Cordeiro de Deus",
+      "O Rei de Israel",
+      "O Profeta",
+      "O Filho de Davi"
+     ],
+     "correta": 0,
+     "ref": "1:29"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Água em vinho e o templo purificado",
+   "chave": "2:11",
+   "resumo": "Num casamento em Caná, falta vinho; Maria diz aos serventes que façam o que Jesus mandar, e ele transforma água em vinho de qualidade. Esse é o primeiro sinal, que revela sua glória, e os discípulos creem. Em Jerusalém, na Páscoa, Jesus expulsa os comerciantes do templo e fala do templo do seu corpo, que seria destruído e levantado em três dias.",
+   "licoes": [
+    "Jesus se importa também com as alegrias e necessidades do dia a dia (2:3, 2:7).",
+    "\"Fazei tudo quanto ele vos disser\" é um bom conselho para a vida (2:5).",
+    "Os sinais de Jesus revelam sua glória e levam à fé (2:11).",
+    "Jesus é o novo templo, o lugar do encontro com Deus (2:19, 2:21)."
+   ],
+   "reflexao": "Em que área você precisa \"fazer tudo o que Jesus disser\"?",
+   "quiz": [
+    {
+     "pergunta": "Qual foi o primeiro sinal de Jesus, feito em Caná?",
+     "opcoes": [
+      "Curar um cego",
+      "Multiplicar pães",
+      "Andar sobre o mar",
+      "Transformar água em vinho"
+     ],
+     "correta": 3,
+     "ref": "2:9-11"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Nascer de novo",
+   "chave": "3:16",
+   "resumo": "Nicodemos, um fariseu líder, visita Jesus à noite. Jesus diz que é preciso nascer de novo, da água e do Espírito, para ver o Reino de Deus. Assim como Moisés levantou a serpente no deserto, o Filho do homem será levantado, porque Deus amou o mundo e deu seu Filho único para que quem crê tenha vida eterna. João Batista se alegra ao ver Jesus crescer e diz: \"A ele convém crescer, porém a mim diminuir\".",
+   "licoes": [
+    "É preciso nascer de novo pela ação do Espírito (3:3, 3:5).",
+    "Deus amou o mundo e deu seu Filho para que todo o que crê tenha vida eterna (3:16).",
+    "Jesus veio para salvar, não para condenar (3:17).",
+    "O discípulo humilde deseja que Jesus cresça e ele diminua (3:30)."
+   ],
+   "reflexao": "O que \"nascer de novo\" significa para você hoje?",
+   "quiz": [
+    {
+     "pergunta": "Quem visitou Jesus de noite?",
+     "opcoes": [
+      "José de Arimateia",
+      "Nicodemos",
+      "Zaqueu",
+      "Lázaro"
+     ],
+     "correta": 1,
+     "ref": "3:1-2"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "A água viva e a verdadeira adoração",
+   "chave": "4:14",
+   "resumo": "Cansado, Jesus pede água a uma mulher samaritana junto ao poço de Jacó. Ele oferece a água viva que se torna fonte para a vida eterna, revela conhecer sua vida e fala da adoração em espírito e em verdade. Jesus se declara o Messias. A mulher conta tudo à cidade, e muitos samaritanos creem. Em Caná, Jesus cura à distância o filho de um oficial do rei.",
+   "licoes": [
+    "Jesus quebra barreiras de etnia, religião e gênero para alcançar uma pessoa (4:9).",
+    "Só Jesus sacia a sede mais profunda do coração (4:13-14).",
+    "Deus busca adoradores em espírito e em verdade (4:23-24).",
+    "Quem encontra Jesus se torna testemunha (4:29, 4:39)."
+   ],
+   "reflexao": "Que \"sede\" você tem tentado saciar longe de Jesus?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Jesus, como os verdadeiros adoradores adorarão o Pai?",
+     "opcoes": [
+      "No monte de Samaria",
+      "Em espírito e em verdade",
+      "Em Jerusalém",
+      "Com sacrifícios"
+     ],
+     "correta": 1,
+     "ref": "4:23"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "O Filho que dá vida",
+   "chave": "5:24",
+   "resumo": "No tanque de Betesda, Jesus cura um homem doente havia trinta e oito anos, num sábado. Os líderes o perseguem, e Jesus diz que trabalha como o Pai trabalha, o que eles entendem como igualar-se a Deus. Jesus afirma que o Filho dá vida e julga, e que quem ouve sua palavra e crê já passou da morte para a vida. Aponta testemunhas a seu favor: João, suas obras, o Pai e as Escrituras.",
+   "licoes": [
+    "Jesus vê e alcança quem está há muito tempo sem ajuda (5:6-7).",
+    "O Filho age em perfeita união com o Pai (5:19).",
+    "Quem ouve e crê já tem a vida eterna (5:24).",
+    "As Escrituras testemunham de Jesus, mas é preciso ir a ele para ter vida (5:39-40)."
+   ],
+   "reflexao": "Você tem lido a Bíblia para se aproximar de Jesus ou só por obrigação?",
+   "quiz": [
+    {
+     "pergunta": "Há quanto tempo o homem do tanque de Betesda estava doente?",
+     "opcoes": [
+      "Doze anos",
+      "Dezoito anos",
+      "Trinta e oito anos",
+      "Quarenta anos"
+     ],
+     "correta": 2,
+     "ref": "5:5"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "O pão da vida",
+   "chave": "6:35",
+   "resumo": "Jesus alimenta cerca de cinco mil pessoas com os cinco pães de cevada e dois peixes de um menino. A multidão quer fazê-lo rei, mas ele se retira; à noite, anda sobre o mar. Em Cafarnaum, diz: \"Eu sou o pão da vida\", o verdadeiro pão do céu, e fala de comer sua carne e beber seu sangue. Muitos o abandonam, mas Pedro declara: \"Senhor, a quem iremos? Tu tens as palavras da vida eterna\".",
+   "licoes": [
+    "Jesus usa o pouco que lhe entregamos (6:9, 6:11).",
+    "Devemos buscar a comida que permanece para a vida eterna (6:27).",
+    "Jesus é o pão que satisfaz a fome da alma (6:35).",
+    "Mesmo quando muitos se afastam, só Jesus tem palavras de vida eterna (6:66, 6:68)."
+   ],
+   "reflexao": "Se muitos se afastassem de Jesus, o que você responderia com Pedro?",
+   "quiz": [
+    {
+     "pergunta": "Quem tinha os cinco pães de cevada e os dois peixes?",
+     "opcoes": [
+      "Um menino",
+      "Filipe",
+      "André",
+      "Pedro"
+     ],
+     "correta": 0,
+     "ref": "6:9"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "Rios de água viva",
+   "chave": "7:37-38",
+   "resumo": "Seus irmãos não creem nele, e Jesus sobe discretamente à festa dos tabernáculos. No templo, ensina que sua doutrina vem do Pai, e o povo se divide: uns dizem que é o Cristo, outros querem prendê-lo. No último dia da festa, Jesus convida quem tem sede a vir a ele e beber, prometendo rios de água viva, falando do Espírito. Os guardas voltam sem prendê-lo, e Nicodemos pede que ele seja ouvido antes de ser julgado.",
+   "licoes": [
+    "Quem deseja fazer a vontade de Deus reconhecerá a verdade do ensino de Jesus (7:17).",
+    "Não devemos julgar pela aparência, mas com justiça (7:24).",
+    "Jesus oferece o Espírito como rios de água viva a quem crê (7:38-39).",
+    "Ninguém jamais falou como Jesus (7:46)."
+   ],
+   "reflexao": "Que sede espiritual você precisa levar a Jesus?",
+   "quiz": [
+    {
+     "pergunta": "O que os oficiais disseram quando voltaram sem prender Jesus?",
+     "opcoes": [
+      "Ele fugiu de nós",
+      "A multidão nos impediu",
+      "Ninguém jamais falou assim como este homem",
+      "Ele é um enganador"
+     ],
+     "correta": 2,
+     "ref": "7:46"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "A luz do mundo e a verdade que liberta",
+   "chave": "8:12",
+   "resumo": "Os escribas trazem uma mulher apanhada em adultério para testar Jesus; ele diz que quem não tiver pecado atire a primeira pedra, e todos saem; Jesus não a condena e manda que não peque mais (esse trecho, 7:53–8:11, falta em alguns manuscritos antigos). Jesus se declara a luz do mundo, diz que a verdade liberta quem permanece em sua palavra e afirma: \"antes que Abraão existisse, Eu Sou\".",
+   "licoes": [
+    "Ninguém está em posição de condenar os outros sem olhar para si (8:7).",
+    "Jesus oferece perdão e chama a uma vida nova (8:11).",
+    "Quem segue Jesus não anda em trevas (8:12).",
+    "Permanecer na palavra de Jesus leva à verdade que liberta (8:31-32)."
+   ],
+   "reflexao": "De que \"prisão\" você precisa que a verdade de Jesus o liberte?",
+   "quiz": [
+    {
+     "pergunta": "O que Jesus disse à mulher depois que os acusadores saíram?",
+     "opcoes": [
+      "Vai em paz, tua fé te salvou",
+      "Mostra-te ao sacerdote",
+      "Nem eu te condeno; vai e não peques mais",
+      "Segue-me"
+     ],
+     "correta": 2,
+     "ref": "8:11"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "O cego que passou a ver",
+   "chave": "9:25",
+   "resumo": "Jesus vê um homem cego de nascença e diz que sua cegueira não é castigo, mas ocasião para as obras de Deus. Ele faz lama, unge os olhos do homem e o manda lavar-se em Siloé, e ele passa a ver. Os fariseus investigam, interrogam os pais e expulsam o homem, que testemunha: \"uma coisa sei: eu era cego, e agora vejo\". Jesus o encontra, ele crê e adora.",
+   "licoes": [
+    "O sofrimento não é sempre castigo por pecado (9:2-3).",
+    "Um testemunho simples é poderoso: \"eu era cego, e agora vejo\" (9:25).",
+    "O medo de perder a posição religiosa pode calar a verdade (9:22).",
+    "Quem pensa que vê pode ser o verdadeiro cego (9:39-41)."
+   ],
+   "reflexao": "Qual é o seu \"uma coisa sei\" sobre o que Jesus fez por você?",
+   "quiz": [
+    {
+     "pergunta": "Em que tanque o cego foi mandado lavar-se?",
+     "opcoes": [
+      "Siloé",
+      "Betesda",
+      "Jordão",
+      "Ofel"
+     ],
+     "correta": 0,
+     "ref": "9:7"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "titulo": "O bom Pastor",
+   "chave": "10:11",
+   "resumo": "Jesus usa a imagem do curral: ele é a porta das ovelhas e o bom Pastor que dá a vida por elas, ao contrário do mercenário que foge. Suas ovelhas ouvem sua voz e ele tem outras ovelhas que também trará. Na festa da Dedicação, diz que ninguém arrebatará suas ovelhas da sua mão nem da mão do Pai, e que ele e o Pai são um. Os líderes tentam apedrejá-lo.",
+   "licoes": [
+    "Jesus veio para que tenhamos vida em abundância (10:10).",
+    "O bom Pastor dá sua vida voluntariamente pelas ovelhas (10:11, 10:18).",
+    "As ovelhas de Jesus conhecem sua voz e o seguem (10:27).",
+    "Ninguém pode arrebatar as ovelhas da mão de Jesus e do Pai (10:28-29)."
+   ],
+   "reflexao": "Como você tem reconhecido a voz do bom Pastor no seu dia a dia?",
+   "quiz": [
+    {
+     "pergunta": "O que o bom Pastor dá pelas ovelhas?",
+     "opcoes": [
+      "Seu cajado",
+      "Seu tempo",
+      "Sua casa",
+      "Sua vida"
+     ],
+     "correta": 3,
+     "ref": "10:11"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "titulo": "Eu sou a ressurreição e a vida",
+   "chave": "11:25",
+   "resumo": "Lázaro, amigo de Jesus, adoece e morre em Betânia. Jesus chega quatro dias depois. A Marta, ele diz: \"Eu sou a ressurreição e a vida\"; diante do choro de Maria, Jesus chora. Ele manda tirar a pedra, ora ao Pai e chama: \"Lázaro, sai para fora!\", e o morto sai. Muitos creem, mas o Sinédrio decide matar Jesus, e Caifás diz que convém que um homem morra pelo povo.",
+   "licoes": [
+    "A demora de Jesus não é falta de amor (11:5-6).",
+    "Jesus é a ressurreição e a vida para quem crê (11:25-26).",
+    "Jesus chora com os que choram (11:35).",
+    "A morte de Jesus, sem que Caifás percebesse, seria pelo povo e pelos filhos de Deus dispersos (11:50-52)."
+   ],
+   "reflexao": "Em que situação você precisa ouvir \"se creres, verás a glória de Deus\"?",
+   "quiz": [
+    {
+     "pergunta": "Há quantos dias Lázaro estava no sepulcro quando Jesus chegou?",
+     "opcoes": [
+      "Um dia",
+      "Três dias",
+      "Quatro dias",
+      "Sete dias"
+     ],
+     "correta": 2,
+     "ref": "11:17"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "titulo": "A hora chegou",
+   "chave": "12:24",
+   "resumo": "Em Betânia, Maria unge os pés de Jesus com perfume caro, e Judas reclama. Jesus entra em Jerusalém sobre um jumentinho, aclamado como Rei de Israel. Alguns gregos querem vê-lo, e ele anuncia que chegou a hora: como o grão de trigo, precisa morrer para dar muito fruto. Uma voz do céu responde à sua oração. Muitos não creem, e outros creem mas se calam por medo.",
+   "licoes": [
+    "Adoração generosa honra Jesus (12:3, 12:7).",
+    "A vida que dá fruto passa pela entrega, como o grão que morre (12:24-25).",
+    "Jesus, levantado na cruz, atrai todos a si (12:32).",
+    "Amar mais a glória humana que a de Deus impede o testemunho (12:42-43)."
+   ],
+   "reflexao": "O que precisa \"morrer\" em você para dar mais fruto?",
+   "quiz": [
+    {
+     "pergunta": "Com o que Maria ungiu os pés de Jesus?",
+     "opcoes": [
+      "Azeite de oliva",
+      "Óleo perfumado de nardo",
+      "Água do poço",
+      "Vinho"
+     ],
+     "correta": 1,
+     "ref": "12:3"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "titulo": "O lava-pés e o novo mandamento",
+   "chave": "13:34-35",
+   "resumo": "Antes da Páscoa, sabendo que chegara sua hora, Jesus ama os seus até o fim: levanta-se da ceia e lava os pés dos discípulos, e Pedro primeiro resiste. Jesus diz que deu exemplo para que façam o mesmo uns aos outros. Anuncia a traição, e Judas sai na noite. Jesus dá o novo mandamento de amar como ele amou e prediz que Pedro o negará três vezes.",
+   "licoes": [
+    "Jesus ama os seus até o fim (13:1).",
+    "O Mestre e Senhor se faz servo e nos dá exemplo (13:14-15).",
+    "Saber não basta; felizes os que praticam (13:17).",
+    "O amor mútuo é a marca dos discípulos de Jesus (13:34-35)."
+   ],
+   "reflexao": "De quem você pode \"lavar os pés\" esta semana, servindo com humildade?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Jesus, por meio de que todos conhecerão que somos seus discípulos?",
+     "opcoes": [
+      "Pelos milagres",
+      "Pelo conhecimento da Lei",
+      "Pela frequência ao templo",
+      "Pelo amor uns aos outros"
+     ],
+     "correta": 3,
+     "ref": "13:35"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "titulo": "O caminho, a verdade e a vida",
+   "chave": "14:6",
+   "resumo": "Jesus consola os discípulos: na casa do Pai há muitas moradas, e ele vai preparar lugar e voltará. A Tomé, diz: \"Eu sou o caminho, a verdade e a vida\"; a Filipe, que quem o vê, vê o Pai. Promete que o Pai enviará outro Consolador, o Espírito Santo, que estará com eles e lhes ensinará todas as coisas. Deixa-lhes sua paz, diferente da que o mundo dá.",
+   "licoes": [
+    "Diante da perturbação, Jesus convida a crer nele (14:1).",
+    "Jesus é o único caminho para o Pai (14:6).",
+    "Amar Jesus se mostra em guardar seus mandamentos (14:15, 14:23).",
+    "O Espírito Santo é o Consolador que ensina e lembra as palavras de Jesus (14:26)."
+   ],
+   "reflexao": "O que tem perturbado seu coração, e como a promessa de Jesus responde a isso?",
+   "quiz": [
+    {
+     "pergunta": "Que discípulo perguntou \"como podemos saber o caminho?\", levando Jesus a dizer \"Eu sou o caminho\"?",
+     "opcoes": [
+      "Tomé",
+      "Pedro",
+      "Filipe",
+      "Judas"
+     ],
+     "correta": 0,
+     "ref": "14:5-6"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "titulo": "A videira e os ramos",
+   "chave": "15:5",
+   "resumo": "Jesus diz que ele é a videira verdadeira, o Pai é o lavrador e os discípulos são os ramos. Só quem permanece nele dá fruto, pois sem ele nada podem fazer. Ele os chama de amigos e manda que se amem como ele os amou, já que ninguém tem maior amor do que dar a vida pelos amigos. Avisa que o mundo os odiará, mas o Consolador e eles mesmos darão testemunho dele.",
+   "licoes": [
+    "Sem permanecer em Jesus, nada podemos fazer (15:4-5).",
+    "O Pai poda para que demos mais fruto (15:2).",
+    "O maior amor é dar a vida pelos amigos (15:13).",
+    "Jesus nos chama de amigos e nos escolheu para dar fruto que permaneça (15:15-16)."
+   ],
+   "reflexao": "Em que você tem tentado dar fruto sem permanecer em Jesus?",
+   "quiz": [
+    {
+     "pergunta": "Na imagem de Jesus, quem é o lavrador?",
+     "opcoes": [
+      "Moisés",
+      "Pedro",
+      "O Pai",
+      "O Espírito"
+     ],
+     "correta": 2,
+     "ref": "15:1"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "titulo": "A tristeza que vira alegria",
+   "chave": "16:33",
+   "resumo": "Jesus prepara os discípulos para a perseguição e diz que convém que ele vá, para que venha o Consolador. O Espírito convencerá o mundo do pecado, da justiça e do juízo e guiará os discípulos a toda a verdade. Compara a tristeza da sua partida às dores de parto que se transformam em alegria. Termina dizendo que no mundo terão aflições, mas devem ter ânimo, porque ele venceu o mundo.",
+   "licoes": [
+    "A partida de Jesus abre caminho para a vinda do Espírito (16:7).",
+    "O Espírito da verdade guia a toda a verdade e glorifica Jesus (16:13-14).",
+    "Deus transforma tristeza em alegria que ninguém tira (16:20, 16:22).",
+    "Há aflições no mundo, mas Jesus já venceu o mundo (16:33)."
+   ],
+   "reflexao": "Que aflição você está enfrentando em que precisa lembrar que Jesus venceu o mundo?",
+   "quiz": [
+    {
+     "pergunta": "Com o que Jesus compara a tristeza que se transforma em alegria?",
+     "opcoes": [
+      "Com a colheita",
+      "Com o amanhecer",
+      "Com a mulher em trabalho de parto",
+      "Com o vinho novo"
+     ],
+     "correta": 2,
+     "ref": "16:21"
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "titulo": "A oração de Jesus",
+   "chave": "17:21",
+   "resumo": "Jesus levanta os olhos ao céu e ora. Pede que o Pai o glorifique, dizendo que a vida eterna é conhecer o único Deus verdadeiro e Jesus Cristo. Ora pelos discípulos, para que sejam guardados do mal e santificados na verdade, pois são enviados ao mundo. Ora também por todos os que crerão pela palavra deles, para que sejam um, e o mundo creia.",
+   "licoes": [
+    "Vida eterna é conhecer a Deus e a Jesus Cristo (17:3).",
+    "Jesus pede que os seus sejam guardados do mal, não tirados do mundo (17:15).",
+    "A palavra de Deus é a verdade que santifica (17:17).",
+    "A unidade dos que creem é testemunho para o mundo (17:21)."
+   ],
+   "reflexao": "Como você pode contribuir para a unidade entre os cristãos ao seu redor?",
+   "quiz": [
+    {
+     "pergunta": "Segundo a oração de Jesus, o que é a vida eterna?",
+     "opcoes": [
+      "Conhecer o único Deus verdadeiro e Jesus Cristo",
+      "Viver para sempre na terra",
+      "Guardar toda a Lei",
+      "Ter muitos bens"
+     ],
+     "correta": 0,
+     "ref": "17:3"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "titulo": "Prisão e julgamento",
+   "chave": "18:37",
+   "resumo": "No jardim, Judas chega com soldados; Jesus se identifica dizendo \"Eu sou\", e eles caem por terra. Pedro corta a orelha de Malco, mas Jesus o manda guardar a espada. Jesus é levado a Anás e Caifás, enquanto Pedro o nega. Diante de Pilatos, Jesus diz que seu reino não é deste mundo e que veio dar testemunho da verdade; Pilatos pergunta \"O que é a verdade?\", e o povo prefere Barrabás.",
+   "licoes": [
+    "Jesus se entrega livremente, protegendo os seus (18:4-5, 18:8).",
+    "O caminho de Jesus não é o da espada (18:11).",
+    "O reino de Jesus não é deste mundo (18:36).",
+    "Quem é da verdade ouve a voz de Jesus (18:37)."
+   ],
+   "reflexao": "Você ouve a voz de Jesus, ou faz como Pilatos e pergunta sem esperar a resposta?",
+   "quiz": [
+    {
+     "pergunta": "Qual era o nome do servo cuja orelha Pedro cortou?",
+     "opcoes": [
+      "Barrabás",
+      "Anás",
+      "Cleopas",
+      "Malco"
+     ],
+     "correta": 3,
+     "ref": "18:10"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "titulo": "Está consumado",
+   "chave": "19:30",
+   "resumo": "Pilatos manda açoitar Jesus, e os soldados o coroam de espinhos. Pilatos diz que não acha culpa nele, mas cede à pressão e o entrega. Jesus carrega sua cruz até a Caveira e é crucificado com o título \"Jesus Nazareno, Rei dos Judeus\". Entrega sua mãe aos cuidados do discípulo amado, diz \"Está consumado\" e morre. Um soldado fere seu lado, e José de Arimateia e Nicodemos o sepultam num jardim.",
+   "licoes": [
+    "Pilatos só tinha poder porque lhe foi dado do alto (19:11).",
+    "Mesmo na cruz, Jesus cuida de sua mãe (19:26-27).",
+    "\"Está consumado\": a obra de Jesus foi completada (19:30).",
+    "Discípulos antes escondidos se manifestam no momento da morte de Jesus (19:38-39)."
+   ],
+   "reflexao": "O que significa para você que a obra de Jesus está \"consumada\"?",
+   "quiz": [
+    {
+     "pergunta": "Qual foi a última palavra de Jesus na cruz, segundo João?",
+     "opcoes": [
+      "Pai, perdoa-lhes",
+      "Está consumado",
+      "Tenho sede",
+      "Eloí, Eloí"
+     ],
+     "correta": 1,
+     "ref": "19:30"
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "titulo": "Ressurreição e fé",
+   "chave": "20:31",
+   "resumo": "Maria Madalena encontra o túmulo aberto e avisa Pedro e o outro discípulo, que correm ao sepulcro. Jesus aparece a Maria, que o reconhece quando ele a chama pelo nome. À tarde, ele aparece aos discípulos, mostra as mãos e o lado, sopra sobre eles o Espírito e os envia. Oito dias depois, Tomé vê e confessa: \"Senhor meu, e Deus meu!\". João explica que escreveu para que o leitor creia e tenha vida.",
+   "licoes": [
+    "Jesus chama cada pessoa pelo nome (20:16).",
+    "Jesus ressuscitado traz paz e envia seus discípulos com o Espírito (20:21-22).",
+    "Felizes os que não viram e creram (20:29).",
+    "O Evangelho foi escrito para que creiamos e tenhamos vida em seu nome (20:31)."
+   ],
+   "reflexao": "Com que dúvida você se identifica com Tomé, e o que Jesus lhe diria?",
+   "quiz": [
+    {
+     "pergunta": "O que Tomé disse ao ver Jesus ressuscitado?",
+     "opcoes": [
+      "Mestre, eu creio",
+      "Senhor meu, e Deus meu!",
+      "Rabi, onde moras?",
+      "Tu és o Cristo"
+     ],
+     "correta": 1,
+     "ref": "20:28"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "titulo": "Tu me amas?",
+   "chave": "21:17",
+   "resumo": "Junto ao mar de Tiberíades, os discípulos pescam a noite toda sem nada. Jesus, na praia, manda lançar a rede à direita, e ela se enche de cento e cinquenta e três peixes. Ele prepara o café da manhã. Depois pergunta três vezes a Pedro: \"Tu me amas?\" e lhe confia suas ovelhas, anunciando como Pedro morreria. O livro termina dizendo que muitas outras coisas Jesus fez.",
+   "licoes": [
+    "Jesus se encontra conosco nas tarefas do dia a dia (21:4-6).",
+    "Jesus restaura Pedro com três perguntas sobre o amor (21:15-17).",
+    "Amar Jesus se mostra em cuidar das suas ovelhas (21:17).",
+    "Cada discípulo deve seguir Jesus sem se comparar com os outros (21:22)."
+   ],
+   "reflexao": "Se Jesus lhe perguntasse \"tu me amas?\", o que você responderia, e como isso se mostraria?",
+   "quiz": [
+    {
+     "pergunta": "Quantos grandes peixes havia na rede?",
+     "opcoes": [
+      "Doze",
+      "Setenta e sete",
+      "Cem",
+      "Cento e cinquenta e três"
+     ],
+     "correta": 3,
+     "ref": "21:11"
+    }
+   ]
+  }
+ ]
+}

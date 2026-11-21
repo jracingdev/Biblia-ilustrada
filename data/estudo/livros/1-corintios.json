@@ -134,12 +134,12 @@
     {
      "pergunta": "Paulo decidiu não saber nada entre os coríntios a não ser o quê?",
      "opcoes": [
+      "Os sinais e milagres",
       "A Lei de Moisés",
       "Jesus Cristo, e ele crucificado",
-      "A sabedoria dos gregos",
-      "Os sinais e milagres"
+      "A sabedoria dos gregos"
      ],
-     "correta": 1,
+     "correta": 2,
      "ref": "2:2"
     }
    ]
@@ -160,12 +160,12 @@
     {
      "pergunta": "Segundo Paulo, quem plantou e quem regou?",
      "opcoes": [
-      "Pedro plantou, Paulo regou",
-      "Paulo plantou, Apolo regou",
       "Apolo plantou, Paulo regou",
-      "Timóteo plantou, Apolo regou"
+      "Timóteo plantou, Apolo regou",
+      "Pedro plantou, Paulo regou",
+      "Paulo plantou, Apolo regou"
      ],
-     "correta": 1,
+     "correta": 3,
      "ref": "3:6"
     }
    ]
@@ -186,12 +186,12 @@
     {
      "pergunta": "Quem Paulo enviou aos coríntios para lembrá-los de seus caminhos em Cristo?",
      "opcoes": [
-      "Apolo",
-      "Silas",
       "Timóteo",
-      "Tito"
+      "Tito",
+      "Apolo",
+      "Silas"
      ],
-     "correta": 2,
+     "correta": 0,
      "ref": "4:17"
     }
    ]
@@ -212,12 +212,12 @@
     {
      "pergunta": "Quem Paulo chama de \"nosso cordeiro da páscoa\"?",
      "opcoes": [
-      "Isaque",
       "Moisés",
       "Cristo",
-      "João Batista"
+      "João Batista",
+      "Isaque"
      ],
-     "correta": 2,
+     "correta": 1,
      "ref": "5:7"
     }
    ]
@@ -238,12 +238,12 @@
     {
      "pergunta": "Segundo Paulo, o corpo do cristão é templo de quem?",
      "opcoes": [
+      "De Moisés",
       "Dos anjos",
       "Do Espírito Santo",
-      "Da igreja",
-      "De Moisés"
+      "Da igreja"
      ],
-     "correta": 1,
+     "correta": 2,
      "ref": "6:19"
     }
    ]
@@ -264,12 +264,12 @@
     {
      "pergunta": "Segundo Paulo, por que a solteirice pode ser vantajosa?",
      "opcoes": [
-      "Porque o casamento é pecado",
-      "Para servir ao Senhor sem distração",
       "Para ter mais riquezas",
-      "Para evitar a Lei"
+      "Para evitar a Lei",
+      "Porque o casamento é pecado",
+      "Para servir ao Senhor sem distração"
      ],
-     "correta": 1,
+     "correta": 3,
      "ref": "7:32-35"
     }
    ]
@@ -289,12 +289,12 @@
     {
      "pergunta": "Segundo Paulo, o que o conhecimento faz e o que o amor faz?",
      "opcoes": [
-      "O conhecimento salva, o amor ensina",
       "O conhecimento incha, o amor edifica",
       "O conhecimento edifica, o amor consola",
-      "O conhecimento une, o amor divide"
+      "O conhecimento une, o amor divide",
+      "O conhecimento salva, o amor ensina"
      ],
-     "correta": 1,
+     "correta": 0,
      "ref": "8:1"
     }
    ]
@@ -341,12 +341,12 @@
     {
      "pergunta": "Segundo Paulo, quem era a pedra espiritual que seguia Israel?",
      "opcoes": [
+      "A Lei",
       "Moisés",
       "Cristo",
-      "Arão",
-      "A Lei"
+      "Arão"
      ],
-     "correta": 1,
+     "correta": 2,
      "ref": "10:4"
     }
    ]
@@ -367,12 +367,12 @@
     {
      "pergunta": "Segundo Paulo, o que anunciamos ao comer o pão e beber o cálice?",
      "opcoes": [
-      "A criação do mundo",
-      "A morte do Senhor, até que ele venha",
       "A vitória de Israel",
-      "A vinda do Espírito"
+      "A vinda do Espírito",
+      "A criação do mundo",
+      "A morte do Senhor, até que ele venha"
      ],
-     "correta": 1,
+     "correta": 3,
      "ref": "11:26"
     }
    ]
@@ -393,12 +393,12 @@
     {
      "pergunta": "Segundo Paulo, quem distribui os dons a cada um como quer?",
      "opcoes": [
-      "Os apóstolos",
       "O mesmo Espírito",
       "Os profetas",
-      "Os anciãos"
+      "Os anciãos",
+      "Os apóstolos"
      ],
-     "correta": 1,
+     "correta": 0,
      "ref": "12:11"
     }
    ]
@@ -419,12 +419,12 @@
     {
      "pergunta": "Segundo Paulo, qual é o maior entre fé, esperança e amor?",
      "opcoes": [
-      "A fé",
       "A esperança",
       "O amor",
-      "Os três são iguais"
+      "Os três são iguais",
+      "A fé"
      ],
-     "correta": 2,
+     "correta": 1,
      "ref": "13:13"
     }
    ]
@@ -471,12 +471,12 @@
     {
      "pergunta": "Segundo Paulo, por quantos irmãos Jesus foi visto de uma vez?",
      "opcoes": [
-      "Mais de cem",
-      "Mais de quinhentos",
       "Mais de mil",
-      "Doze"
+      "Doze",
+      "Mais de cem",
+      "Mais de quinhentos"
      ],
-     "correta": 1,
+     "correta": 3,
      "ref": "15:6"
     }
    ]
@@ -496,12 +496,12 @@
     {
      "pergunta": "Em que dia Paulo orientou que se separasse a oferta para os santos?",
      "opcoes": [
-      "No sábado",
       "No primeiro dia da semana",
       "No dia de Pentecostes",
-      "No fim do mês"
+      "No fim do mês",
+      "No sábado"
      ],
-     "correta": 1,
+     "correta": 0,
      "ref": "16:2"
     }
    ]

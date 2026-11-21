@@ -89,12 +89,12 @@
     {
      "pergunta": "Segundo Paulo, suas prisões se tornaram conhecidas por quem?",
      "opcoes": [
-      "Pelo Sinédrio",
-      "Por toda a guarda pretoriana",
       "Pelos fariseus",
-      "Pelo rei Agripa"
+      "Pelo rei Agripa",
+      "Pelo Sinédrio",
+      "Por toda a guarda pretoriana"
      ],
-     "correta": 1,
+     "correta": 3,
      "ref": "1:13"
     }
    ]
@@ -115,12 +115,12 @@
     {
      "pergunta": "Quem Paulo enviou aos filipenses depois de ter ficado doente quase à morte?",
      "opcoes": [
-      "Timóteo",
       "Epafrodito",
       "Tíquico",
-      "Silas"
+      "Silas",
+      "Timóteo"
      ],
-     "correta": 1,
+     "correta": 0,
      "ref": "2:25-27"
     }
    ]
@@ -141,12 +141,12 @@
     {
      "pergunta": "De que tribo Paulo diz ser?",
      "opcoes": [
-      "Judá",
       "Levi",
       "Benjamim",
-      "Efraim"
+      "Efraim",
+      "Judá"
      ],
-     "correta": 2,
+     "correta": 1,
      "ref": "3:5"
     }
    ]
@@ -167,12 +167,12 @@
     {
      "pergunta": "Quais duas mulheres Paulo pede que tenham o mesmo sentimento no Senhor?",
      "opcoes": [
+      "Trifena e Trifosa",
       "Lídia e Priscila",
       "Evódia e Síntique",
-      "Febe e Júnia",
-      "Trifena e Trifosa"
+      "Febe e Júnia"
      ],
-     "correta": 1,
+     "correta": 2,
      "ref": "4:2"
     }
    ]

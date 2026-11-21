@@ -56,11 +56,11 @@ def validar(slug):
         lic = c.get("licoes", [])
         if not (2 <= len(lic) <= 4): erros.append(f"cap {n}: 2 a 4 lições")
         for l in lic:
-            refs = re.findall(r"\((\d+:\d+(?:-\d+)?)(?:, (\d+:\d+(?:-\d+)?))?\)", l)
-            if not refs: erros.append(f"cap {n}: lição sem (c:v): {l[:50]}")
-            for a, b in refs:
-                for r in (a, b):
-                    if r and not ok_ref(r, vs): erros.append(f"cap {n}: ref inválida {r}")
+            grupos = re.findall(r"\((\d+:\d+(?:-\d+)?(?:[,;] ?\d+:\d+(?:-\d+)?)*)\)", l)
+            if not grupos: erros.append(f"cap {n}: lição sem (c:v): {l[:50]}")
+            for g in grupos:
+                for r in re.findall(r"\d+:\d+(?:-\d+)?", g):
+                    if not ok_ref(r, vs): erros.append(f"cap {n}: ref inválida {r}")
         qz = c.get("quiz", [])
         if len(qz) != 1: erros.append(f"cap {n}: exatamente 1 quiz")
         for q in qz:

@@ -1,0 +1,78 @@
+{
+ "livro": "filemom",
+ "nome": "Filemom",
+ "subtitulo": "O evangelho que transforma relações",
+ "introducao": "Filemom é a carta mais curta de Paulo e trata de um assunto pessoal: Onésimo, escravo de Filemom, tornou-se cristão e é enviado de volta ao seu senhor. Paulo pede que ele seja recebido como irmão amado. A carta mostra, de forma concreta, como o evangelho muda a maneira como as pessoas se veem e se tratam.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Paulo, com Timóteo (1:1)"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Por volta de 60–62 d.C., durante uma prisão de Paulo (1:9)"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Escrita na prisão, tradicionalmente em Roma"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "Filemom, Ápia, Arquipo e a igreja que se reunia na casa de Filemom (1:1-2)"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Carta pessoal"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "1 capítulo e 25 versículos"
+  }
+ ],
+ "chave": "1:16",
+ "temas": [
+  "Amor que pede em vez de mandar",
+  "Perdão e reconciliação",
+  "Irmandade em Cristo acima das posições sociais",
+  "Assumir o custo pelo outro"
+ ],
+ "cristo": "Ao se oferecer para pagar a dívida de Onésimo e pedir que ele fosse recebido como o próprio Paulo, a carta reflete o que Cristo fez por nós, que assumiu nossa dívida e nos apresenta ao Pai como filhos (1:17-18).",
+ "secoes": [
+  {
+   "id": "carta",
+   "titulo": "Um pedido por Onésimo",
+   "capitulos": [
+    1
+   ],
+   "resumo": "Gratidão por Filemom e o pedido para receber Onésimo como irmão."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Recebe-o como a mim",
+   "chave": "1:16-17",
+   "resumo": "Paulo, preso, escreve a Filemom, cristão em cuja casa se reunia uma igreja, e o elogia por seu amor e fé. Ele intercede por Onésimo, escravo que havia deixado Filemom e se convertera por meio de Paulo na prisão. Em vez de mandar, Paulo pede por amor que Filemom receba Onésimo de volta não mais como escravo, mas como irmão amado, e se oferece para pagar qualquer dívida dele.",
+   "licoes": [
+    "O amor de Filemom refrescava o coração dos santos (1:7).",
+    "Paulo prefere pedir por amor a impor sua autoridade (1:8-9).",
+    "O evangelho transforma relações: Onésimo deve ser recebido como irmão amado (1:16).",
+    "Paulo se oferece para pagar a dívida de Onésimo, um retrato do amor que assume o custo do outro (1:18-19)."
+   ],
+   "reflexao": "Há alguém que você precisa receber de volta como irmão, e não pelo que fez no passado?",
+   "quiz": [
+    {
+     "pergunta": "Por quem Paulo intercede nesta carta?",
+     "opcoes": [
+      "Demas",
+      "Epafras",
+      "Onésimo",
+      "Arquipo"
+     ],
+     "correta": 2,
+     "ref": "1:10"
+    }
+   ]
+  }
+ ]
+}

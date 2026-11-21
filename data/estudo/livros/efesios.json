@@ -78,12 +78,12 @@
     {
      "pergunta": "Com o que os que creram foram selados?",
      "opcoes": [
-      "Com a circuncisão",
-      "Com o Espírito Santo da promessa",
       "Com o batismo de João",
-      "Com óleo sagrado"
+      "Com óleo sagrado",
+      "Com a circuncisão",
+      "Com o Espírito Santo da promessa"
      ],
-     "correta": 1,
+     "correta": 3,
      "ref": "1:13"
     }
    ]
@@ -104,12 +104,12 @@
     {
      "pergunta": "Segundo Paulo, a salvação vem por meio de quê?",
      "opcoes": [
-      "Das obras da Lei",
       "Da fé, pela graça",
       "Da circuncisão",
-      "Do esforço pessoal"
+      "Do esforço pessoal",
+      "Das obras da Lei"
      ],
-     "correta": 1,
+     "correta": 0,
      "ref": "2:8"
     }
    ]
@@ -156,12 +156,12 @@
     {
      "pergunta": "Segundo Paulo, o que não deve acontecer com a nossa ira?",
      "opcoes": [
+      "Que ela dure pouco",
       "Que ela seja mostrada",
       "Que o sol se ponha sobre ela",
-      "Que ela seja contada a outros",
-      "Que ela dure pouco"
+      "Que ela seja contada a outros"
      ],
-     "correta": 1,
+     "correta": 2,
      "ref": "4:26"
     }
    ]
@@ -182,12 +182,12 @@
     {
      "pergunta": "Segundo Paulo, como os maridos devem amar suas esposas?",
      "opcoes": [
-      "Como amam seus bens",
-      "Como Cristo amou a Igreja",
       "Como os pais amam os filhos",
-      "Como os amigos se amam"
+      "Como os amigos se amam",
+      "Como amam seus bens",
+      "Como Cristo amou a Igreja"
      ],
-     "correta": 1,
+     "correta": 3,
      "ref": "5:25"
     }
    ]
@@ -208,12 +208,12 @@
     {
      "pergunta": "Segundo Paulo, o que é a espada do Espírito?",
      "opcoes": [
-      "A fé",
-      "A oração",
       "A palavra de Deus",
-      "A justiça"
+      "A justiça",
+      "A fé",
+      "A oração"
      ],
-     "correta": 2,
+     "correta": 0,
      "ref": "6:17"
     }
    ]

@@ -246,12 +246,12 @@
     {
      "pergunta": "Quantos anos viveu Matusalém?",
      "opcoes": [
-      "930 anos",
       "365 anos",
-      "969 anos",
-      "777 anos"
+      "777 anos",
+      "930 anos",
+      "969 anos"
      ],
-     "correta": 2,
+     "correta": 3,
      "ref": "5:27"
     }
    ]
@@ -428,12 +428,12 @@
     {
      "pergunta": "Quantos anos Abrão tinha quando saiu de Harã?",
      "opcoes": [
+      "Sessenta",
       "Setenta e cinco",
       "Noventa e nove",
-      "Cem",
-      "Sessenta"
+      "Cem"
      ],
-     "correta": 0,
+     "correta": 1,
      "ref": "12:4"
     }
    ]
@@ -480,12 +480,12 @@
     {
      "pergunta": "Quantos servos treinados Abrão levou para resgatar Ló?",
      "opcoes": [
-      "Trezentos e dezoito",
+      "Setenta",
       "Cento e vinte",
-      "Mil",
-      "Setenta"
+      "Trezentos e dezoito",
+      "Mil"
      ],
-     "correta": 0,
+     "correta": 2,
      "ref": "14:14"
     }
    ]
@@ -584,12 +584,12 @@
     {
      "pergunta": "Por quantos justos o SENHOR disse que não destruiria a cidade, no último pedido de Abraão?",
      "opcoes": [
-      "Cinquenta",
-      "Trinta",
       "Dez",
-      "Vinte"
+      "Vinte",
+      "Trinta",
+      "Cinquenta"
      ],
-     "correta": 2,
+     "correta": 0,
      "ref": "18:32"
     }
    ]
@@ -662,8 +662,8 @@
     {
      "pergunta": "Quantos anos Abraão tinha quando Isaque nasceu?",
      "opcoes": [
-      "Noventa",
       "Setenta e cinco",
+      "Noventa",
       "Cem",
       "Cento e vinte"
      ],
@@ -975,11 +975,11 @@
      "pergunta": "Quantas vezes Jacó se inclinou diante de Esaú?",
      "opcoes": [
       "Três",
-      "Doze",
+      "Sete",
       "Dez",
-      "Sete"
+      "Doze"
      ],
-     "correta": 3,
+     "correta": 1,
      "ref": "33:3"
     }
    ]
@@ -1181,12 +1181,12 @@
     {
      "pergunta": "Que idade tinha José quando se apresentou diante de Faraó?",
      "opcoes": [
-      "Trinta anos",
-      "Vinte anos",
       "Dezessete anos",
+      "Vinte anos",
+      "Trinta anos",
       "Quarenta anos"
      ],
-     "correta": 0,
+     "correta": 2,
      "ref": "41:46"
     }
    ]
@@ -1235,10 +1235,10 @@
      "opcoes": [
       "Duas",
       "Três",
-      "Sete",
-      "Cinco"
+      "Cinco",
+      "Sete"
      ],
-     "correta": 3,
+     "correta": 2,
      "ref": "43:34"
     }
    ]
@@ -1312,11 +1312,11 @@
      "pergunta": "Quantas pessoas da casa de Jacó entraram no Egito, segundo o texto?",
      "opcoes": [
       "Doze",
-      "Setenta",
       "Quarenta",
+      "Setenta",
       "Cem"
      ],
-     "correta": 1,
+     "correta": 2,
      "ref": "46:27"
     }
    ]
@@ -1415,12 +1415,12 @@
     {
      "pergunta": "Com que idade José morreu?",
      "opcoes": [
-      "Cento e dez anos",
       "Cem anos",
+      "Cento e dez anos",
       "Cento e vinte anos",
       "Cento e trinta anos"
      ],
-     "correta": 0,
+     "correta": 1,
      "ref": "50:26"
     }
    ]

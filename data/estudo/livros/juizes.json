@@ -272,12 +272,12 @@
     {
      "pergunta": "Com quantos homens Deus disse a Gideão que salvaria Israel?",
      "opcoes": [
-      "Dez mil",
-      "Três mil",
       "Trezentos",
-      "Mil"
+      "Mil",
+      "Três mil",
+      "Dez mil"
      ],
-     "correta": 2,
+     "correta": 0,
      "ref": "7:7"
     }
    ]
@@ -350,12 +350,12 @@
     {
      "pergunta": "Quantos filhos de Jair cavalgavam sobre trinta asnos?",
      "opcoes": [
-      "Trinta",
-      "Doze",
       "Sete",
+      "Doze",
+      "Trinta",
       "Setenta"
      ],
-     "correta": 0,
+     "correta": 2,
      "ref": "10:4"
     }
    ]
@@ -532,11 +532,11 @@
      "pergunta": "Quanto Mica ofereceu ao levita por ano para ser seu sacerdote?",
      "opcoes": [
       "Uma casa e um campo",
-      "Cem siclos de ouro",
       "Dez siclos de prata, roupas e comida",
-      "Trinta siclos de prata"
+      "Trinta siclos de prata",
+      "Cem siclos de ouro"
      ],
-     "correta": 2,
+     "correta": 1,
      "ref": "17:10"
     }
    ]
@@ -610,11 +610,11 @@
      "pergunta": "Quantos homens de Benjamim escaparam para a penha de Rimom?",
      "opcoes": [
       "Trezentos",
-      "Dois mil",
+      "Seiscentos",
       "Mil",
-      "Seiscentos"
+      "Dois mil"
      ],
-     "correta": 3,
+     "correta": 1,
      "ref": "20:47"
     }
    ]

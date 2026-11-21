@@ -1,0 +1,1831 @@
+{
+ "livro": "isaias",
+ "nome": "Isaías",
+ "subtitulo": "O Santo de Israel julga, consola e salva",
+ "introducao": "Isaías profetizou em Jerusalém num tempo de crise, quando a Assíria ameaçava Judá. Ele denuncia a injustiça e a idolatria, mas também anuncia consolo, o retorno do exílio, um Rei da linhagem de Davi e o Servo que sofre pelo povo. É um dos livros do Antigo Testamento mais citados no Novo Testamento.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Isaías, filho de Amoz (1:1); muitos estudiosos atribuem os capítulos 40–66 a discípulos posteriores que continuaram sua mensagem, enquanto outros defendem a autoria do próprio profeta"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "O ministério de Isaías vai de cerca de 740 a 700 a.C., nos reinados de Uzias, Jotão, Acaz e Ezequias (1:1); as partes finais falam ao povo no exílio e no retorno"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Jerusalém e Judá (1:1)"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "O povo de Judá e Jerusalém, e também as nações vizinhas"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Profecia, em grande parte poética, com uma seção narrativa (cap. 36–39)"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "66 capítulos e 1292 versículos"
+  }
+ ],
+ "chave": "53:5",
+ "temas": [
+  "A santidade de Deus, o Santo de Israel",
+  "Juízo sobre o pecado e a injustiça",
+  "Consolo e retorno do exílio",
+  "O Rei prometido e o Servo sofredor",
+  "Salvação para todas as nações",
+  "Novos céus e nova terra"
+ ],
+ "cristo": "O Novo Testamento vê em Isaías o anúncio de Emanuel, do menino que é Príncipe da Paz, do Servo que foi ferido por nossas transgressões e do ungido que traz liberdade aos cativos (7:14; 9:6; 53:5; 61:1). Jesus mesmo leu Isaías 61 na sinagoga e disse que aquela palavra se cumpria nele, como narra Lucas 4.",
+ "secoes": [
+  {
+   "id": "juizo-e-esperanca",
+   "titulo": "Juízo e esperança para Judá",
+   "capitulos": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "resumo": "Denúncia do pecado, promessas de paz e o chamado de Isaías."
+  },
+  {
+   "id": "emanuel",
+   "titulo": "O livro de Emanuel",
+   "capitulos": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "resumo": "Crise com Acaz e promessas do Rei da linhagem de Davi."
+  },
+  {
+   "id": "nacoes",
+   "titulo": "Mensagens contra as nações",
+   "capitulos": [
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "resumo": "Babilônia, Moabe, Egito, Tiro e outros povos sob o juízo de Deus."
+  },
+  {
+   "id": "apocalipse-de-isaias",
+   "titulo": "Juízo universal e vitória final",
+   "capitulos": [
+    24,
+    25,
+    26,
+    27
+   ],
+   "resumo": "A terra é julgada, a morte é vencida e Deus reúne seu povo."
+  },
+  {
+   "id": "ais-e-promessas",
+   "titulo": "Ais, alertas e promessas",
+   "capitulos": [
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "resumo": "Contra a confiança no Egito; o Rei justo e o deserto que floresce."
+  },
+  {
+   "id": "ezequias",
+   "titulo": "Ezequias, a Assíria e a Babilônia",
+   "capitulos": [
+    36,
+    37,
+    38,
+    39
+   ],
+   "resumo": "Livramento de Jerusalém, cura de Ezequias e anúncio do exílio."
+  },
+  {
+   "id": "consolo",
+   "titulo": "Consolo para os exilados",
+   "capitulos": [
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48
+   ],
+   "resumo": "Deus incomparável, Ciro e a libertação da Babilônia."
+  },
+  {
+   "id": "servo",
+   "titulo": "O Servo e a restauração de Sião",
+   "capitulos": [
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55
+   ],
+   "resumo": "O Servo sofredor e o convite gratuito à salvação."
+  },
+  {
+   "id": "nova-criacao",
+   "titulo": "Verdadeira adoração e nova criação",
+   "capitulos": [
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66
+   ],
+   "resumo": "Justiça verdadeira, a glória de Sião e os novos céus e nova terra."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Ainda que vossos pecados sejam como a escarlate",
+   "chave": "1:18",
+   "resumo": "Isaías recebe sua visão sobre Judá e Jerusalém no tempo de quatro reis. Deus acusa seu povo de rebeldia, compara-o a um corpo cheio de feridas e rejeita sacrifícios oferecidos por mãos cheias de sangue. Ele chama o povo a parar de fazer o mal, buscar a justiça e defender o órfão e a viúva, oferecendo perdão completo.",
+   "licoes": [
+    "Até os animais conhecem seu dono, mas o povo de Deus se esqueceu dele (1:3).",
+    "Rituais religiosos sem justiça e sem mudança de vida não agradam a Deus (1:11, 1:15-17).",
+    "Deus oferece purificação total: pecados vermelhos como a escarlate ficarão brancos como a neve (1:18)."
+   ],
+   "reflexao": "Sua fé tem se mostrado no cuidado com os mais fracos?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus manda fazer pela viúva?",
+     "opcoes": [
+      "Defender sua causa",
+      "Dar-lhe um ídolo",
+      "Mandá-la embora",
+      "Cobrar-lhe tributo"
+     ],
+     "correta": 0,
+     "ref": "1:17"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "O monte do SENHOR e o dia do SENHOR",
+   "chave": "2:4",
+   "resumo": "Isaías vê um futuro em que o monte da casa do SENHOR será exaltado e todas as nações irão aprender seus caminhos; espadas virarão enxadas e não haverá mais guerra. Em contraste, Judá está cheio de riquezas, cavalos e ídolos. Virá o dia do SENHOR, em que o orgulho humano será abatido e só Deus será exaltado.",
+   "licoes": [
+    "Deus tem um plano de paz para todas as nações, quando espadas se tornarão enxadas (2:2-4).",
+    "O povo é chamado a andar desde já na luz do SENHOR (2:5).",
+    "O orgulho humano e os ídolos serão abatidos; só o SENHOR será exaltado (2:11, 2:17-18)."
+   ],
+   "reflexao": "Que \"ídolo\" de orgulho ou segurança você precisa abandonar?",
+   "quiz": [
+    {
+     "pergunta": "Em que as nações trocarão suas espadas?",
+     "opcoes": [
+      "Em escudos",
+      "Em lanças",
+      "Em coroas",
+      "Em enxadas"
+     ],
+     "correta": 3,
+     "ref": "2:4"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Jerusalém tropeçou",
+   "chave": "3:10-11",
+   "resumo": "Deus anuncia que tirará de Jerusalém o sustento e os líderes, deixando o povo sob governantes imaturos e em desordem. Os líderes são acusados de explorar a vinha e moer o rosto dos pobres. As mulheres orgulhosas de Sião perderão seus muitos enfeites e se sentarão no chão em luto.",
+   "licoes": [
+    "Quando um povo se volta contra Deus, até a liderança entra em colapso (3:1-5, 3:8).",
+    "Cada um colhe o fruto de suas obras, o justo e o perverso (3:10-11).",
+    "Deus julga os líderes que enriquecem explorando os pobres (3:14-15)."
+   ],
+   "reflexao": "Você confia em aparências e enfeites, ou no SENHOR?",
+   "quiz": [
+    {
+     "pergunta": "Do que Deus acusa os líderes do povo?",
+     "opcoes": [
+      "De terem fugido",
+      "De terem moído o rosto dos pobres",
+      "De não oferecerem sacrifícios",
+      "De terem saído do país"
+     ],
+     "correta": 1,
+     "ref": "3:15"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "O Renovo do SENHOR",
+   "chave": "4:2",
+   "resumo": "Depois do juízo, haverá purificação. O \"Renovo do SENHOR\" será belo e glorioso para os sobreviventes de Israel, e os que restarem em Jerusalém serão chamados santos. Deus estenderá sobre Sião uma nuvem de dia e fogo de noite, como abrigo e proteção.",
+   "licoes": [
+    "O juízo de Deus tem como objetivo purificar e restaurar (4:4).",
+    "O \"Renovo do SENHOR\" é uma promessa de vida nova, que muitos leem como anúncio do Messias (4:2).",
+    "Deus promete ser proteção e abrigo para seu povo, como no deserto (4:5-6)."
+   ],
+   "reflexao": "Onde você precisa do abrigo de Deus neste momento?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus criará sobre o monte de Sião de dia?",
+     "opcoes": [
+      "Um muro",
+      "Um jardim",
+      "Uma torre",
+      "Uma nuvem"
+     ],
+     "correta": 3,
+     "ref": "4:5"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "O cântico da vinha",
+   "chave": "5:7",
+   "resumo": "Isaías canta sobre uma vinha que recebeu todo cuidado, mas produziu uvas imprestáveis. A vinha é a casa de Israel: Deus esperava justiça e encontrou opressão. Seguem seis \"ais\" contra a ganância, a embriaguez, quem zomba de Deus, quem chama o mal de bem e quem aceita suborno, e o anúncio de um exército vindo de longe.",
+   "licoes": [
+    "Deus espera fruto de quem recebeu seus cuidados (5:4, 5:7).",
+    "Inverter os valores, chamando o mal de bem, é grave diante de Deus (5:20).",
+    "A ganância e a corrupção trazem juízo sobre um povo (5:8, 5:23)."
+   ],
+   "reflexao": "Que frutos Deus encontra na \"vinha\" da sua vida?",
+   "quiz": [
+    {
+     "pergunta": "O que representa a vinha do SENHOR, segundo o cântico?",
+     "opcoes": [
+      "O Egito",
+      "Os profetas",
+      "A casa de Israel",
+      "O templo"
+     ],
+     "correta": 2,
+     "ref": "5:7"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "Eis-me aqui, envia-me",
+   "chave": "6:8",
+   "resumo": "No ano da morte do rei Uzias, Isaías vê o Senhor num trono alto, cercado de serafins que proclamam: \"Santo, santo, santo\". Consciente de seu pecado, Isaías clama \"ai de mim\", e um serafim toca seus lábios com uma brasa do altar, purificando-o. Quando Deus pergunta quem enviará, Isaías se oferece, mas recebe uma missão difícil diante de um povo que não ouvirá.",
+   "licoes": [
+    "A visão da santidade de Deus revela nosso próprio pecado (6:3, 6:5).",
+    "Deus mesmo providencia a purificação do pecador (6:6-7).",
+    "Quem foi perdoado se dispõe a servir: \"eis-me aqui, envia-me\" (6:8)."
+   ],
+   "reflexao": "Como você responderia hoje à pergunta \"a quem enviarei?\"",
+   "quiz": [
+    {
+     "pergunta": "O que o serafim usou para tocar a boca de Isaías?",
+     "opcoes": [
+      "Uma brasa viva",
+      "Água do mar",
+      "Óleo santo",
+      "Uma pedra"
+     ],
+     "correta": 0,
+     "ref": "6:6-7"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "O sinal de Emanuel",
+   "chave": "7:14",
+   "resumo": "Os reis da Síria e de Israel se unem contra Judá, e o rei Acaz fica com medo. Isaías leva a Acaz a mensagem de Deus: não tema, pois o plano dos inimigos não se cumprirá, mas é preciso crer para ficar firme. Acaz se recusa a pedir um sinal, e Deus mesmo dá um: a virgem conceberá e dará à luz um filho chamado Emanuel.",
+   "licoes": [
+    "A fé é o que mantém firme em tempos de ameaça: \"se não crerdes, não ficareis firmes\" (7:9).",
+    "Deus anuncia o sinal de Emanuel, \"Deus conosco\"; Mateus 1 aplica a profecia ao nascimento de Jesus, embora haja debate sobre um cumprimento também nos dias de Acaz (7:14).",
+    "Recusar a ajuda de Deus por falsa piedade é cansar a paciência dele (7:12-13)."
+   ],
+   "reflexao": "Em que situação você precisa confiar que Deus está com você?",
+   "quiz": [
+    {
+     "pergunta": "Qual seria o nome do menino anunciado como sinal?",
+     "opcoes": [
+      "Sear-Jasube",
+      "Emanuel",
+      "Ezequias",
+      "Maer-Salal-Has-Baz"
+     ],
+     "correta": 1,
+     "ref": "7:14"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "Deus é conosco",
+   "chave": "8:13",
+   "resumo": "Isaías tem um filho com um nome simbólico que anuncia a rápida queda de Damasco e Samaria diante da Assíria. Como o povo rejeitou as águas tranquilas de Siloé, a Assíria virá como um rio que transborda, mas os planos dos povos falharão porque Deus é conosco. Isaías é chamado a temer só ao SENHOR e a buscar a Lei, não os médiuns.",
+   "licoes": [
+    "Não devemos viver dominados pelos medos do povo, mas temer somente ao SENHOR (8:12-13).",
+    "Os planos humanos contra o povo de Deus não prevalecem, \"porque Deus é conosco\" (8:10).",
+    "A orientação deve vir da palavra de Deus, não de consultas aos mortos (8:19-20)."
+   ],
+   "reflexao": "A quem você recorre quando busca direção?",
+   "quiz": [
+    {
+     "pergunta": "A que Isaías manda o povo recorrer em vez dos que consultam os mortos?",
+     "opcoes": [
+      "Aos reis",
+      "Aos sábios do Egito",
+      "À Lei e ao testemunho",
+      "Aos sacerdotes de Baal"
+     ],
+     "correta": 2,
+     "ref": "8:20"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "Um menino nos nasceu",
+   "chave": "9:6",
+   "resumo": "Para a Galileia, que sofreu primeiro, Isaías anuncia uma grande luz que brilhará sobre o povo que andava em trevas. Um menino nascerá, com nomes como Maravilhoso Conselheiro, Deus Forte, Pai da Eternidade e Príncipe da Paz, e reinará sobre o trono de Davi para sempre. Em seguida, o profeta descreve o juízo sobre o orgulhoso reino do norte, com o refrão de que a mão de Deus ainda está estendida.",
+   "licoes": [
+    "Deus promete luz para quem anda em trevas; Mateus 4 vê isso cumprido no ministério de Jesus na Galileia (9:1-2).",
+    "O rei prometido trará paz sem fim, com justiça, sobre o trono de Davi (9:6-7).",
+    "O orgulho que se recusa a voltar para Deus leva a juízos sucessivos (9:10, 9:13)."
+   ],
+   "reflexao": "Qual dos nomes do menino mais fala ao seu coração hoje?",
+   "quiz": [
+    {
+     "pergunta": "Qual destes é um dos nomes do menino que nasceria?",
+     "opcoes": [
+      "Príncipe da Paz",
+      "Rei de Babilônia",
+      "Filho de Acaz",
+      "Senhor dos Exércitos de Assíria"
+     ],
+     "correta": 0,
+     "ref": "9:6"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "titulo": "A Assíria, vara da ira de Deus",
+   "chave": "10:20-21",
+   "resumo": "Isaías denuncia quem faz leis injustas para roubar os pobres, as viúvas e os órfãos. Deus usa a Assíria como vara para disciplinar seu povo, mas o rei assírio se orgulha como se tudo fosse obra dele, e também será julgado. Um remanescente de Israel voltará a confiar no SENHOR.",
+   "licoes": [
+    "Leis e decisões injustas contra os pobres são condenadas por Deus (10:1-2).",
+    "Nenhum poder humano é dono da história; o machado não se gloria contra quem o usa (10:15).",
+    "Mesmo após o juízo, um remanescente volta a confiar no Santo de Israel (10:20-21)."
+   ],
+   "reflexao": "Você tem atribuído a si mesmo o que Deus fez em sua vida?",
+   "quiz": [
+    {
+     "pergunta": "Com o que Deus compara a Assíria?",
+     "opcoes": [
+      "Com uma luz",
+      "Com um cordeiro",
+      "Com uma vinha",
+      "Com a vara de sua ira"
+     ],
+     "correta": 3,
+     "ref": "10:5"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "titulo": "O rebento de Jessé",
+   "chave": "11:9",
+   "resumo": "Do tronco cortado de Jessé, pai de Davi, brotará um ramo sobre o qual repousará o Espírito do SENHOR. Ele julgará os pobres com justiça e trará uma paz em que o lobo morará com o cordeiro. A terra se encherá do conhecimento do SENHOR, e Deus reunirá seu povo disperso de todas as nações.",
+   "licoes": [
+    "O rei prometido será cheio do Espírito de sabedoria, conselho, força e temor ao SENHOR (11:1-2).",
+    "Sua justiça defende os pobres e humildes, sem julgar pelas aparências (11:3-4).",
+    "Deus promete uma criação reconciliada, cheia do seu conhecimento como as águas cobrem o mar (11:6, 11:9)."
+   ],
+   "reflexao": "Como seria seu ambiente se a paz de Deus reinasse nele?",
+   "quiz": [
+    {
+     "pergunta": "Segundo a profecia, com quem o lobo morará?",
+     "opcoes": [
+      "Com o leão",
+      "Com o cordeiro",
+      "Com o urso",
+      "Com a serpente"
+     ],
+     "correta": 1,
+     "ref": "11:6"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "titulo": "Cântico de salvação",
+   "chave": "12:2",
+   "resumo": "Este pequeno salmo de louvor encerra a primeira parte do livro. O povo agradece porque a ira de Deus passou e deu lugar ao consolo. Deus é chamado de salvação, força e canção, e o povo é convidado a anunciar seus feitos entre as nações.",
+   "licoes": [
+    "Deus transforma ira em consolo para quem se volta a ele (12:1).",
+    "Confiar em Deus vence o medo, pois ele é força e canção (12:2).",
+    "Quem experimenta a salvação é chamado a contar aos outros o que Deus fez (12:4-5)."
+   ],
+   "reflexao": "Que feito de Deus em sua vida você poderia contar a alguém?",
+   "quiz": [
+    {
+     "pergunta": "De onde o povo tirará águas com alegria?",
+     "opcoes": [
+      "Do rio Jordão",
+      "Do mar",
+      "Do poço de Jacó",
+      "Das fontes da salvação"
+     ],
+     "correta": 3,
+     "ref": "12:3"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "titulo": "A queda da Babilônia",
+   "chave": "13:11",
+   "resumo": "Começa uma série de mensagens contra as nações, a primeira contra a Babilônia. Deus convoca um exército de longe e anuncia o dia do SENHOR, com abalos no céu e na terra, para pôr fim ao orgulho dos tiranos. Os medos virão contra a Babilônia, que ficará deserta como Sodoma e Gomorra.",
+   "licoes": [
+    "Deus é Senhor da história de todas as nações, não só de Israel (13:4-5).",
+    "O orgulho e a tirania não ficarão sem resposta no dia do SENHOR (13:11).",
+    "Até o império mais brilhante, \"a joia dos reinos\", pode cair (13:19)."
+   ],
+   "reflexao": "Em que poder humano você é tentado a confiar demais?",
+   "quiz": [
+    {
+     "pergunta": "Que povo Deus despertaria contra a Babilônia?",
+     "opcoes": [
+      "Os egípcios",
+      "Os filisteus",
+      "Os medos",
+      "Os moabitas"
+     ],
+     "correta": 2,
+     "ref": "13:17"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "titulo": "Como caíste do céu",
+   "chave": "14:12",
+   "resumo": "Deus promete ter compaixão de Israel e trazê-lo de volta à sua terra. O povo entoará um cântico de zombaria contra o rei da Babilônia, que quis subir acima das estrelas de Deus e ser como o Altíssimo, mas foi derrubado ao Xeol. O capítulo também anuncia a queda da Assíria e um aviso à Filístia.",
+   "licoes": [
+    "Deus quebra o poder dos opressores e dá descanso ao seu povo (14:3-5).",
+    "Querer ocupar o lugar de Deus é o auge do orgulho; o texto fala do rei da Babilônia, e alguns intérpretes também veem aqui uma imagem da queda de Satanás (14:12-15).",
+    "Ninguém pode anular o que o SENHOR determinou (14:24, 14:27)."
+   ],
+   "reflexao": "Em que área você tem tentado ocupar o lugar que é de Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que o rei da Babilônia dizia em seu coração?",
+     "opcoes": [
+      "Serei semelhante ao Altíssimo",
+      "Servirei ao SENHOR",
+      "Voltarei ao meu povo",
+      "Libertarei os cativos"
+     ],
+     "correta": 0,
+     "ref": "14:14"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "titulo": "Lamento por Moabe",
+   "chave": "15:5",
+   "resumo": "Isaías anuncia a destruição repentina das cidades de Moabe, povo vizinho a leste do mar Morto. O povo sobe aos lugares altos para chorar, raspa a cabeça e veste pano de saco. O próprio profeta diz que seu coração clama por Moabe.",
+   "licoes": [
+    "O juízo pode chegar de repente, \"em uma noite\" (15:1).",
+    "O profeta sente compaixão até pelos inimigos de Israel (15:5).",
+    "A dor de um povo é descrita com detalhes, mostrando que Deus não é indiferente ao sofrimento (15:2-4)."
+   ],
+   "reflexao": "Você consegue sentir compaixão por quem não é do seu grupo?",
+   "quiz": [
+    {
+     "pergunta": "Como o coração do profeta reage à desgraça de Moabe?",
+     "opcoes": [
+      "Alegra-se",
+      "Dá gritos por Moabe",
+      "Fica indiferente",
+      "Pede mais castigo"
+     ],
+     "correta": 1,
+     "ref": "15:5"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "titulo": "O orgulho de Moabe",
+   "chave": "16:5",
+   "resumo": "Moabe é aconselhado a buscar refúgio em Sião e a acolher os fugitivos. Isaías anuncia que um trono será firmado em bondade na tenda de Davi, com um juiz que busca a justiça. Mas o orgulho de Moabe o leva à ruína, e o profeta chora pelas vinhas destruídas.",
+   "licoes": [
+    "Acolher e proteger fugitivos é atitude justa (16:3-4).",
+    "Deus promete um trono de bondade e verdade na casa de Davi (16:5).",
+    "A arrogância derruba até nações prósperas (16:6-7)."
+   ],
+   "reflexao": "Como você pode ser refúgio para alguém em fuga ou em crise?",
+   "quiz": [
+    {
+     "pergunta": "Como será firmado o trono na tenda de Davi?",
+     "opcoes": [
+      "Em força militar",
+      "Em riqueza",
+      "Em bondade",
+      "Em ouro"
+     ],
+     "correta": 2,
+     "ref": "16:5"
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "titulo": "Damasco e o esquecimento de Deus",
+   "chave": "17:10",
+   "resumo": "A mensagem contra Damasco anuncia que a capital síria virará ruínas, e o reino do norte de Israel, aliado dela, também enfraquecerá. Restará pouco, como azeitonas no alto da oliveira, e então as pessoas olharão para o seu Criador. O capítulo termina com as nações que rugem como o mar, mas fogem diante da repreensão de Deus.",
+   "licoes": [
+    "Esquecer o Deus da salvação leva a colheitas perdidas (17:10-11).",
+    "Mesmo depois do juízo, Deus deixa um pequeno remanescente (17:6).",
+    "A crise pode levar as pessoas a voltarem os olhos ao Criador e abandonarem os ídolos (17:7-8)."
+   ],
+   "reflexao": "O que tem feito você esquecer a \"rocha de sua fortaleza\"?",
+   "quiz": [
+    {
+     "pergunta": "Do que o povo se esqueceu, segundo o profeta?",
+     "opcoes": [
+      "Do Deus de sua salvação",
+      "Das festas",
+      "Do caminho do Egito",
+      "Das leis do rei"
+     ],
+     "correta": 0,
+     "ref": "17:10"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "titulo": "Mensagem à terra além dos rios de Cuxe",
+   "chave": "18:7",
+   "resumo": "Isaías se dirige a um povo alto e temido, além dos rios de Cuxe (região ao sul do Egito), que envia embaixadores pelo mar. Deus observa calmamente desde sua morada e agirá no tempo certo, como quem poda a vinha antes da colheita. No fim, esse mesmo povo trará presentes ao SENHOR no monte Sião.",
+   "licoes": [
+    "Deus observa a agitação das nações com calma e age no seu tempo (18:4-5).",
+    "Todos os povos da terra são chamados a prestar atenção quando Deus age (18:3).",
+    "Até nações distantes e poderosas um dia trarão ofertas ao SENHOR (18:7)."
+   ],
+   "reflexao": "Você confia que Deus age no tempo certo, mesmo quando parece quieto?",
+   "quiz": [
+    {
+     "pergunta": "Para onde o povo de Cuxe trará um presente no fim?",
+     "opcoes": [
+      "Para o Egito",
+      "Para Damasco",
+      "Para a Babilônia",
+      "Para o monte de Sião"
+     ],
+     "correta": 3,
+     "ref": "18:7"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "titulo": "Egito: ferido e curado",
+   "chave": "19:25",
+   "resumo": "Deus vem ao Egito, e seus ídolos tremem; haverá guerra civil, seca no Nilo e confusão entre os sábios do faraó. Mas a mensagem termina com uma surpresa: haverá um altar ao SENHOR no Egito, os egípcios o conhecerão, e Egito, Assíria e Israel serão juntos abençoados por Deus.",
+   "licoes": [
+    "A sabedoria humana sem Deus termina em confusão (19:11-14).",
+    "Deus fere para curar, e chama até inimigos antigos ao arrependimento (19:22).",
+    "O plano de Deus inclui bênção para outros povos: \"bendito seja o meu povo do Egito\" (19:24-25)."
+   ],
+   "reflexao": "Há algum grupo que você considera longe demais da graça de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Como Deus chama o Egito no fim do capítulo?",
+     "opcoes": [
+      "Meu inimigo",
+      "Meu povo",
+      "Terra maldita",
+      "Casa de escravidão"
+     ],
+     "correta": 1,
+     "ref": "19:25"
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "titulo": "O profeta como sinal",
+   "chave": "20:5",
+   "resumo": "Quando a Assíria tomou Asdode, Deus mandou Isaías andar sem as vestes de cima e descalço como sinal. Assim os egípcios e os etíopes seriam levados cativos pela Assíria. Quem confiava no Egito para escapar ficaria envergonhado.",
+   "licoes": [
+    "Deus às vezes fala por meio de gestos visíveis, além das palavras (20:2-3).",
+    "Confiar em potências humanas em vez de Deus leva à decepção (20:5-6).",
+    "A obediência de Isaías custou-lhe constrangimento, mas serviu de alerta ao povo (20:2)."
+   ],
+   "reflexao": "Em que \"Egito\" você tem buscado segurança fora de Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que Isaías tirou ao andar como sinal?",
+     "opcoes": [
+      "Seu manto real",
+      "Seu cajado",
+      "Seu anel",
+      "A roupa de saco e as sandálias"
+     ],
+     "correta": 3,
+     "ref": "20:2"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "titulo": "Caiu a Babilônia",
+   "chave": "21:9",
+   "resumo": "Isaías tem uma visão terrível do deserto do mar: Elão e Média atacam, e o profeta fica abalado. Uma sentinela posta na torre anuncia: \"Caiu, caiu a Babilônia\". Seguem mensagens curtas para Dumá, com a pergunta \"guarda, o que houve de noite?\", e para a Arábia.",
+   "licoes": [
+    "O profeta sente o peso das visões que recebe (21:3-4).",
+    "Os ídolos não protegem nem a maior cidade; suas imagens se quebram (21:9).",
+    "Ainda há tempo para perguntar e voltar-se a Deus: \"vem a manhã, e também a noite\" (21:11-12)."
+   ],
+   "reflexao": "Como você tem vigiado espiritualmente nesta \"noite\"?",
+   "quiz": [
+    {
+     "pergunta": "O que a sentinela anunciou?",
+     "opcoes": [
+      "Que o Egito venceu",
+      "Que Jerusalém foi tomada",
+      "Que caiu a Babilônia",
+      "Que o rei morreu"
+     ],
+     "correta": 2,
+     "ref": "21:9"
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "titulo": "O vale da visão e a chave de Davi",
+   "chave": "22:22",
+   "resumo": "Isaías chora por Jerusalém, que festeja num momento de ameaça e prepara muros e água, mas não olha para Deus. Alguns dizem: \"comamos e bebamos, porque amanhã morreremos\". Sebna, o administrador orgulhoso, será removido, e Eliaquim receberá a chave da casa de Davi.",
+   "licoes": [
+    "Preparar-se para a crise sem buscar a Deus é confiar só nas próprias forças (22:11).",
+    "A atitude \"comamos e bebamos, porque amanhã morreremos\" despreza o chamado ao arrependimento (22:12-13).",
+    "Deus remove líderes orgulhosos e confia autoridade a servos fiéis; Apocalipse 3 retoma a imagem da chave de Davi (22:19-22)."
+   ],
+   "reflexao": "Você tem buscado a Deus nas crises, ou só soluções práticas?",
+   "quiz": [
+    {
+     "pergunta": "Quem recebeu a chave da casa de Davi?",
+     "opcoes": [
+      "Eliaquim",
+      "Sebna",
+      "Ezequias",
+      "Acaz"
+     ],
+     "correta": 0,
+     "ref": "22:20-22"
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "titulo": "Tiro, a cidade do comércio",
+   "chave": "23:9",
+   "resumo": "A mensagem contra Tiro, grande cidade portuária e centro do comércio, anuncia sua ruína, e os navios de Társis são chamados a lamentar. Foi o SENHOR quem decidiu humilhar o orgulho de sua beleza. Depois de setenta anos, Tiro voltará ao comércio, mas seus lucros serão consagrados ao SENHOR.",
+   "licoes": [
+    "A riqueza e o prestígio comercial não protegem do juízo de Deus (23:8-9).",
+    "Deus humilha o orgulho dos que se consideram os mais ilustres da terra (23:9).",
+    "Até os bens de uma cidade pagã um dia servirão ao povo de Deus (23:18)."
+   ],
+   "reflexao": "O sucesso financeiro tem alimentado orgulho em você?",
+   "quiz": [
+    {
+     "pergunta": "Por quantos anos Tiro seria esquecida?",
+     "opcoes": [
+      "Sete",
+      "Quarenta",
+      "Setenta",
+      "Cem"
+     ],
+     "correta": 2,
+     "ref": "23:15"
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "titulo": "A terra abalada",
+   "chave": "24:5",
+   "resumo": "Começa uma seção (capítulos 24 a 27) muitas vezes chamada de \"apocalipse de Isaías\", que fala do juízo sobre toda a terra. A terra é esvaziada e abalada porque seus moradores quebraram o pacto eterno, e a alegria desaparece. Ao mesmo tempo, vozes cantam a glória do SENHOR, que reinará em Sião.",
+   "licoes": [
+    "O juízo de Deus atinge todos igualmente, sem privilégios de posição (24:2).",
+    "O pecado humano contamina até a própria terra (24:5).",
+    "No fim, o SENHOR reinará com glória em Sião (24:23)."
+   ],
+   "reflexao": "Como você enxerga a ligação entre o pecado humano e o sofrimento do mundo?",
+   "quiz": [
+    {
+     "pergunta": "Por que a terra está contaminada, segundo o profeta?",
+     "opcoes": [
+      "Por causa das guerras",
+      "Por causa da seca",
+      "Porque seus moradores anularam o pacto eterno",
+      "Por falta de reis"
+     ],
+     "correta": 2,
+     "ref": "24:5"
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "titulo": "Ele devorará a morte para sempre",
+   "chave": "25:8",
+   "resumo": "Isaías louva a Deus, que foi fortaleza para o pobre e refúgio na tempestade. Anuncia um banquete no monte de Deus para todos os povos, quando ele destruirá o véu de luto, devorará a morte para sempre e enxugará as lágrimas de todos os rostos. O povo dirá: \"Este é o nosso Deus, em quem esperamos\".",
+   "licoes": [
+    "Deus é refúgio para os pobres e necessitados em sua angústia (25:4).",
+    "O plano de Deus inclui um banquete para todos os povos (25:6).",
+    "A morte será vencida para sempre e Deus enxugará toda lágrima; Paulo e o Apocalipse retomam essa promessa (25:8)."
+   ],
+   "reflexao": "Que lágrima sua você espera que Deus enxugue?",
+   "quiz": [
+    {
+     "pergunta": "O que o Senhor DEUS fará com a morte, segundo a profecia?",
+     "opcoes": [
+      "Devorará para sempre",
+      "Adiará",
+      "Esconderá",
+      "Enviará ao Egito"
+     ],
+     "correta": 0,
+     "ref": "25:8"
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "titulo": "Paz perfeita para quem confia",
+   "chave": "26:3",
+   "resumo": "Judá canta um cântico sobre uma cidade forte, cuja muralha é a salvação. Deus guarda em perfeita paz quem confia nele, pois ele é a rocha eterna. O povo confessa que buscou a Deus de noite e na aflição, e recebe a promessa de que os mortos de Deus viverão e ressuscitarão.",
+   "licoes": [
+    "Quem confia em Deus é guardado em completa paz (26:3-4).",
+    "Desejar e buscar a Deus de noite e de madrugada é sinal de fé viva (26:9).",
+    "Há esperança de ressurreição: \"os teus mortos viverão\" (26:19)."
+   ],
+   "reflexao": "O que tem tirado sua paz, e como confiar mais em Deus nisso?",
+   "quiz": [
+    {
+     "pergunta": "A quem Deus guardará em completa paz?",
+     "opcoes": [
+      "Ao rei poderoso",
+      "Aos ricos",
+      "Aos sacerdotes",
+      "A quem confia nele"
+     ],
+     "correta": 3,
+     "ref": "26:3"
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "titulo": "A vinha preciosa",
+   "chave": "27:3",
+   "resumo": "Deus promete vencer o Leviatã, a serpente, símbolo das forças do caos e do mal. Em contraste com o cântico do capítulo 5, agora a vinha é cuidada e regada pelo SENHOR dia e noite, e Israel florescerá e encherá o mundo de frutos. Os dispersos voltarão ao som de uma grande trombeta para adorar em Jerusalém.",
+   "licoes": [
+    "Deus vencerá definitivamente as forças do mal (27:1).",
+    "O SENHOR cuida da sua vinha com atenção constante (27:3).",
+    "Deus reúne seu povo disperso, um a um, para adorá-lo (27:12-13)."
+   ],
+   "reflexao": "Você se vê como uma vinha cuidada por Deus?",
+   "quiz": [
+    {
+     "pergunta": "De que maneira o SENHOR cuida da sua vinha?",
+     "opcoes": [
+      "De vez em quando",
+      "Rega a cada momento e vigia de noite e de dia",
+      "Só no verão",
+      "Deixa nas mãos dos vizinhos"
+     ],
+     "correta": 1,
+     "ref": "27:3"
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "titulo": "A pedra angular em Sião",
+   "chave": "28:16",
+   "resumo": "Isaías denuncia os líderes bêbados de Efraim e também sacerdotes e profetas de Judá, que zombam da mensagem como se fosse lição de criança. Os governantes dizem ter feito um pacto com a morte, mas Deus põe em Sião uma pedra angular preciosa: quem crer não fugirá apressado. A parábola do lavrador mostra a sabedoria de Deus em agir com medida.",
+   "licoes": [
+    "O vício e a zombaria cegam até líderes religiosos (28:7, 28:14).",
+    "Falsas seguranças desmoronam; só a pedra que Deus fundou é firme, e o Novo Testamento a aplica a Cristo (28:15-16).",
+    "Deus age com sabedoria e medida, como o lavrador que sabe tratar cada grão (28:26-29)."
+   ],
+   "reflexao": "Sobre que \"pedra\" você tem construído sua segurança?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus diz que funda em Sião?",
+     "opcoes": [
+      "Um palácio",
+      "Um altar de ouro",
+      "Uma torre",
+      "Uma pedra preciosa de esquina"
+     ],
+     "correta": 3,
+     "ref": "28:16"
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "titulo": "Honram-me com os lábios",
+   "chave": "29:13",
+   "resumo": "Ariel, nome dado a Jerusalém, será cercada, mas seus inimigos desaparecerão como um sonho. O povo está espiritualmente cego: honra a Deus com os lábios, mas seu coração está longe. Mesmo assim, Deus promete um dia em que surdos ouvirão, cegos verão e os humildes se alegrarão no Santo de Israel.",
+   "licoes": [
+    "Religião só de palavras, com o coração longe, não agrada a Deus; Jesus cita isso em Marcos 7 (29:13).",
+    "Não é possível esconder-se de Deus; a obra não pode negar seu oleiro (29:15-16).",
+    "Deus promete abrir os ouvidos dos surdos e os olhos dos cegos (29:18-19)."
+   ],
+   "reflexao": "Seu louvor tem vindo do coração ou só dos lábios?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o Senhor, onde está o coração do povo que o honra com os lábios?",
+     "opcoes": [
+      "Perto dele",
+      "No templo",
+      "Longe dele",
+      "No Egito"
+     ],
+     "correta": 2,
+     "ref": "29:13"
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "titulo": "Na calma e na confiança está a vossa força",
+   "chave": "30:15",
+   "resumo": "Deus repreende os que vão ao Egito buscar proteção sem consultá-lo e que pedem aos profetas apenas coisas agradáveis. Ele oferece outro caminho: no arrependimento e no descanso estaria a salvação; na calma e na confiança, a força. Mesmo assim, o SENHOR espera para ter compaixão e promete guiar seu povo: \"este é o caminho, andai por ele\".",
+   "licoes": [
+    "Fazer planos sem consultar a Deus leva à vergonha (30:1-3).",
+    "A verdadeira força está no arrependimento, na calma e na confiança em Deus (30:15).",
+    "Deus espera para ser compassivo e guia quem o busca (30:18, 30:21)."
+   ],
+   "reflexao": "Que decisão você tem tomado sem consultar a Deus?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o Santo de Israel, onde estaria a força do povo?",
+     "opcoes": [
+      "Na calma e na confiança",
+      "Em cavalos rápidos",
+      "No exército do Egito",
+      "Em muros altos"
+     ],
+     "correta": 0,
+     "ref": "30:15"
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "titulo": "Os egípcios são homens, não Deus",
+   "chave": "31:3",
+   "resumo": "Isaías volta a advertir os que confiam em cavalos e carros do Egito, e não no Santo de Israel. Os egípcios são homens, e seus cavalos são carne. Como um leão que defende a presa e como aves que protegem o ninho, o SENHOR defenderá Jerusalém e derrubará a Assíria.",
+   "licoes": [
+    "Recursos humanos, por maiores que sejam, não substituem a ajuda de Deus (31:1, 31:3).",
+    "Deus protege seu povo como as aves protegem o ninho (31:5).",
+    "O caminho de volta é a conversão e o abandono dos ídolos (31:6-7)."
+   ],
+   "reflexao": "Em que \"cavalos e carros\" você tem confiado mais do que em Deus?",
+   "quiz": [
+    {
+     "pergunta": "Com o que Isaías compara a proteção de Deus sobre Jerusalém?",
+     "opcoes": [
+      "Com um muro de pedra",
+      "Com aves que voam ao redor do ninho",
+      "Com um rio largo",
+      "Com um exército"
+     ],
+     "correta": 1,
+     "ref": "31:5"
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "titulo": "Um rei reinará com justiça",
+   "chave": "32:17",
+   "resumo": "Isaías anuncia um rei que reinará com justiça e líderes que serão abrigo para o povo. As mulheres despreocupadas de Jerusalém são chamadas a lamentar, pois virá a desolação. Mas, quando o Espírito for derramado do alto, o deserto florescerá, e o fruto da justiça será paz e segurança para sempre.",
+   "licoes": [
+    "Bons líderes são como abrigo contra a tempestade e sombra no deserto (32:1-2).",
+    "A falsa segurança dos despreocupados não resiste ao juízo (32:9-10).",
+    "Quando o Espírito é derramado, a justiça produz paz duradoura (32:15, 32:17)."
+   ],
+   "reflexao": "Você tem sido abrigo para alguém, como os líderes descritos aqui?",
+   "quiz": [
+    {
+     "pergunta": "Qual será a consequência da justiça?",
+     "opcoes": [
+      "Riqueza",
+      "Guerra",
+      "Paz",
+      "Fama"
+     ],
+     "correta": 2,
+     "ref": "32:17"
+    }
+   ]
+  },
+  {
+   "n": 33,
+   "titulo": "O SENHOR é nosso Rei",
+   "chave": "33:22",
+   "resumo": "O profeta denuncia o destruidor que agora será destruído e ora: \"SENHOR, tem misericórdia de nós\". Pergunta quem pode habitar com o fogo de Deus e responde: quem anda em justiça, fala a verdade e rejeita o suborno. Promete que os olhos do povo verão o Rei em sua beleza e uma Jerusalém tranquila, onde o povo será perdoado.",
+   "licoes": [
+    "O temor ao SENHOR é o verdadeiro tesouro de um povo (33:6).",
+    "Quem anda em justiça, rejeita o suborno e foge da violência pode habitar na presença de Deus (33:15-16).",
+    "O SENHOR é juiz, legislador e rei que salva seu povo (33:22)."
+   ],
+   "reflexao": "Que atitude do versículo 15 mais precisa crescer em você?",
+   "quiz": [
+    {
+     "pergunta": "Como o profeta descreve o SENHOR para o povo?",
+     "opcoes": [
+      "Como juiz, legislador e rei",
+      "Como um rei estrangeiro",
+      "Como um guerreiro distante",
+      "Como um profeta"
+     ],
+     "correta": 0,
+     "ref": "33:22"
+    }
+   ]
+  },
+  {
+   "n": 34,
+   "titulo": "O juízo sobre as nações e Edom",
+   "chave": "34:8",
+   "resumo": "Isaías convoca as nações a ouvir: a ira do SENHOR está sobre todos os exércitos, e até os céus se enrolarão como um pergaminho. Edom é escolhido como exemplo do juízo, e sua terra se tornará um deserto habitado só por animais selvagens. O texto termina convidando a ler no livro do SENHOR, que cumpre o que diz.",
+   "licoes": [
+    "O juízo de Deus alcança todas as nações que se levantam contra ele (34:1-2).",
+    "Edom, inimigo antigo de Israel, simboliza o fim dos opositores do povo de Deus (34:5, 34:8).",
+    "A palavra de Deus se cumpre fielmente: \"buscai no livro do SENHOR, e lede\" (34:16)."
+   ],
+   "reflexao": "Você confia que a palavra de Deus sempre se cumpre?",
+   "quiz": [
+    {
+     "pergunta": "Contra que povo o capítulo anuncia especialmente o juízo?",
+     "opcoes": [
+      "Egito",
+      "Moabe",
+      "Assíria",
+      "Edom"
+     ],
+     "correta": 3,
+     "ref": "34:5"
+    }
+   ]
+  },
+  {
+   "n": 35,
+   "titulo": "O deserto florescerá",
+   "chave": "35:4",
+   "resumo": "Depois dos anúncios de juízo, Isaías descreve o deserto florescendo e se alegrando ao ver a glória do SENHOR. Ele manda fortalecer as mãos fracas e dizer aos assustados: não temam, o seu Deus virá salvá-los. Cegos verão, surdos ouvirão, coxos saltarão, e os resgatados voltarão a Sião pelo caminho da santidade, com alegria eterna.",
+   "licoes": [
+    "Deus chama seu povo a encorajar os fracos e assustados (35:3-4).",
+    "A salvação de Deus traz cura: cegos veem, surdos ouvem e coxos saltam; Jesus aponta esses sinais em Mateus 11 (35:5-6).",
+    "Os resgatados caminham para Sião com alegria, e a tristeza foge (35:8, 35:10)."
+   ],
+   "reflexao": "Quem, perto de você, precisa ouvir hoje \"não tenha medo\"?",
+   "quiz": [
+    {
+     "pergunta": "Como se chamará o caminho por onde os redimidos andarão?",
+     "opcoes": [
+      "Caminho real",
+      "Caminho da santidade",
+      "Caminho do mar",
+      "Caminho do deserto"
+     ],
+     "correta": 1,
+     "ref": "35:8"
+    }
+   ]
+  },
+  {
+   "n": 36,
+   "titulo": "A ameaça de Senaqueribe",
+   "chave": "36:4",
+   "resumo": "Este capítulo inicia uma parte em prosa (36 a 39), parecida com o relato de 2 Reis. Senaqueribe, rei da Assíria, toma as cidades de Judá e envia seu oficial, Rabsaqué, a Jerusalém. Ele zomba da confiança de Ezequias no Egito e no SENHOR e tenta convencer o povo a se render; os oficiais de Judá não respondem, por ordem do rei.",
+   "licoes": [
+    "O inimigo tenta abalar a confiança em Deus com zombaria e argumentos (36:4, 36:15).",
+    "Confiar no Egito era como apoiar-se numa cana quebrada (36:6).",
+    "Às vezes a melhor resposta à provocação é o silêncio (36:21)."
+   ],
+   "reflexao": "Que vozes têm tentado abalar sua confiança em Deus?",
+   "quiz": [
+    {
+     "pergunta": "Com o que Rabsaqué compara o Egito?",
+     "opcoes": [
+      "Com um leão",
+      "Com um rio",
+      "Com uma muralha",
+      "Com um bastão de cana quebrada"
+     ],
+     "correta": 3,
+     "ref": "36:6"
+    }
+   ]
+  },
+  {
+   "n": 37,
+   "titulo": "A oração de Ezequias e o livramento",
+   "chave": "37:20",
+   "resumo": "Ezequias rasga as roupas, vai ao templo e pede que Isaías ore. Ao receber uma carta ameaçadora de Senaqueribe, estende-a diante do SENHOR e ora pedindo livramento para que todos saibam que só ele é Deus. Isaías transmite a resposta de Deus, e naquela noite o anjo do SENHOR fere o acampamento assírio; Senaqueribe volta para Nínive, onde é morto.",
+   "licoes": [
+    "Diante de ameaças, Ezequias leva o problema literalmente diante de Deus (37:14-15).",
+    "O motivo da oração é que todos conheçam que só o SENHOR é Deus (37:20).",
+    "Deus defende seu povo por causa do seu nome e de sua promessa a Davi (37:35-36)."
+   ],
+   "reflexao": "Que \"carta\" ou problema você precisa estender diante do SENHOR?",
+   "quiz": [
+    {
+     "pergunta": "O que Ezequias fez com a carta de Senaqueribe?",
+     "opcoes": [
+      "Queimou",
+      "Mandou ao Egito",
+      "Estendeu perante o SENHOR",
+      "Escondeu"
+     ],
+     "correta": 2,
+     "ref": "37:14"
+    }
+   ]
+  },
+  {
+   "n": 38,
+   "titulo": "A doença e a cura de Ezequias",
+   "chave": "38:5",
+   "resumo": "Ezequias fica gravemente doente, e Isaías anuncia que ele vai morrer. O rei ora chorando, e Deus responde que ouviu a oração, viu as lágrimas e acrescentará quinze anos à sua vida, dando como sinal a sombra que volta dez degraus. Ezequias escreve um cântico de gratidão por ter sido livrado da morte.",
+   "licoes": [
+    "Deus ouve a oração e vê as lágrimas de quem clama a ele (38:5).",
+    "Ezequias reconhece que até a amargura serviu para o seu bem (38:17).",
+    "Quem foi salvo é chamado a louvar e ensinar a fidelidade de Deus aos filhos (38:19-20)."
+   ],
+   "reflexao": "Que livramento de Deus você poderia contar às próximas gerações?",
+   "quiz": [
+    {
+     "pergunta": "Quantos anos Deus acrescentou à vida de Ezequias?",
+     "opcoes": [
+      "Sete",
+      "Dez",
+      "Quinze",
+      "Vinte"
+     ],
+     "correta": 2,
+     "ref": "38:5"
+    }
+   ]
+  },
+  {
+   "n": 39,
+   "titulo": "Os mensageiros da Babilônia",
+   "chave": "39:6",
+   "resumo": "O rei da Babilônia envia mensageiros e um presente a Ezequias depois de sua cura. Ezequias, envaidecido, mostra-lhes todos os seus tesouros e armas. Isaías anuncia que tudo isso será levado para a Babilônia, junto com alguns de seus descendentes; Ezequias aceita a palavra, aliviado por haver paz em seus dias.",
+   "licoes": [
+    "Exibir riquezas por vaidade pode abrir portas para o perigo (39:2).",
+    "A palavra de Deus anuncia o exílio na Babilônia, que marca a parte seguinte do livro (39:6-7).",
+    "Pensar só na própria geração é uma atitude limitada (39:8)."
+   ],
+   "reflexao": "Suas decisões levam em conta as gerações que virão?",
+   "quiz": [
+    {
+     "pergunta": "De onde vieram os mensageiros que visitaram Ezequias?",
+     "opcoes": [
+      "Do Egito",
+      "Da Babilônia",
+      "Da Assíria",
+      "De Tiro"
+     ],
+     "correta": 1,
+     "ref": "39:1"
+    }
+   ]
+  },
+  {
+   "n": 40,
+   "titulo": "Consolai o meu povo",
+   "chave": "40:31",
+   "resumo": "Começa a segunda grande parte do livro, voltada para o povo no exílio, com uma mensagem de consolo: o pecado de Jerusalém foi perdoado. Uma voz clama para preparar no deserto o caminho do SENHOR, e lembra que o ser humano é como erva, mas a palavra de Deus permanece. Deus é descrito como pastor cuidadoso e Criador incomparável, que dá forças ao cansado.",
+   "licoes": [
+    "Deus fala ao coração do seu povo com consolo e perdão (40:1-2).",
+    "\"Preparai o caminho do SENHOR\": os Evangelhos aplicam essa voz a João Batista (40:3).",
+    "A vida humana passa, mas a palavra de Deus permanece para sempre (40:8).",
+    "Quem espera no SENHOR renova as forças, como águias (40:29-31)."
+   ],
+   "reflexao": "Em que área você está cansado e precisa esperar no SENHOR?",
+   "quiz": [
+    {
+     "pergunta": "Com o que são comparados os que confiam no SENHOR?",
+     "opcoes": [
+      "Com leões",
+      "Com cedros",
+      "Com águias",
+      "Com rios"
+     ],
+     "correta": 2,
+     "ref": "40:31"
+    }
+   ]
+  },
+  {
+   "n": 41,
+   "titulo": "Não temas, eu te ajudo",
+   "chave": "41:10",
+   "resumo": "Deus chama as nações a julgamento e afirma que é ele quem levanta um conquistador vindo do oriente. Em contraste com os ídolos fabricados por artesãos, Deus fala a Israel, seu servo e descendente de Abraão: não tema, pois eu estou com você. Os ídolos são desafiados a anunciar o futuro, mas não podem.",
+   "licoes": [
+    "Deus é o Senhor da história, do primeiro ao último (41:4).",
+    "A promessa a Israel vale também para quem confia em Deus: \"não temas, porque eu estou contigo\" (41:10, 41:13).",
+    "Os ídolos não sabem o futuro nem podem salvar (41:23-24)."
+   ],
+   "reflexao": "Que medo você precisa entregar à mão direita de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Como Deus chama Abraão neste capítulo?",
+     "opcoes": [
+      "Meu amigo",
+      "Meu servo fiel",
+      "Meu profeta",
+      "Meu rei"
+     ],
+     "correta": 0,
+     "ref": "41:8"
+    }
+   ]
+  },
+  {
+   "n": 42,
+   "titulo": "O Servo do SENHOR",
+   "chave": "42:3",
+   "resumo": "Deus apresenta seu Servo escolhido, sobre quem pôs o seu Espírito, para trazer justiça às nações. Ele não gritará nem quebrará a cana rachada, e será luz para as nações, abrindo os olhos dos cegos e libertando presos. Um cântico novo é convocado, mas Israel, o servo que deveria ver, continua cego e surdo.",
+   "licoes": [
+    "O Servo de Deus age com mansidão: não quebra a cana rachada nem apaga o pavio que fumega (42:2-3).",
+    "Ele é chamado para ser luz das nações e libertar os presos; Mateus 12 aplica o texto a Jesus (42:6-7).",
+    "Deus não divide sua glória com ídolos (42:8)."
+   ],
+   "reflexao": "Há alguém frágil como uma \"cana rachada\" que você precisa tratar com mais cuidado?",
+   "quiz": [
+    {
+     "pergunta": "O que o Servo não quebrará?",
+     "opcoes": [
+      "A espada",
+      "O muro",
+      "A lei",
+      "A cana rachada"
+     ],
+     "correta": 3,
+     "ref": "42:3"
+    }
+   ]
+  },
+  {
+   "n": 43,
+   "titulo": "Chamei-te pelo teu nome",
+   "chave": "43:1",
+   "resumo": "Deus diz a Israel: não tema, porque eu o resgatei e o chamei pelo nome; você é meu. Promete estar com o povo nas águas e no fogo e reuni-lo de todos os cantos. Israel é sua testemunha de que não há outro salvador, e Deus anuncia uma coisa nova: um caminho no deserto. Ele apaga as transgressões do povo por amor de si mesmo.",
+   "licoes": [
+    "Cada pessoa é conhecida e chamada por Deus pelo nome (43:1).",
+    "Deus não impede todas as provas, mas promete estar presente nelas (43:2).",
+    "Deus faz coisas novas e apaga os pecados por sua própria graça (43:19, 43:25)."
+   ],
+   "reflexao": "Que \"água\" ou \"fogo\" você está atravessando, e como a promessa deste capítulo o ajuda?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus promete quando o povo passar pelo fogo?",
+     "opcoes": [
+      "Que fugirá",
+      "Que não se queimará",
+      "Que será castigado",
+      "Que ficará sozinho"
+     ],
+     "correta": 1,
+     "ref": "43:2"
+    }
+   ]
+  },
+  {
+   "n": 44,
+   "titulo": "Eu sou o primeiro e o último",
+   "chave": "44:6",
+   "resumo": "Deus promete derramar seu Espírito sobre os descendentes de Israel, que dirão com alegria \"eu sou do SENHOR\". Afirma ser o primeiro e o último, sem outro Deus além dele. Em seguida, Isaías ridiculariza quem corta uma árvore, usa metade para cozinhar e faz da outra metade um deus. O capítulo termina nomeando Ciro como o pastor que mandará reconstruir Jerusalém e o templo.",
+   "licoes": [
+    "Deus derrama seu Espírito e faz nascer um povo que se declara dele (44:3, 44:5).",
+    "Só o SENHOR é Deus, o primeiro e o último (44:6, 44:8).",
+    "A idolatria é absurda: adorar o que as próprias mãos fizeram (44:15-17).",
+    "Deus usa até um rei estrangeiro, Ciro, para cumprir seus planos; o nome dele aparecer aqui é um dos pontos centrais no debate sobre a data desta parte do livro (44:28)."
+   ],
+   "reflexao": "Há algo feito por mãos humanas que tem ocupado o lugar de Deus em sua vida?",
+   "quiz": [
+    {
+     "pergunta": "Quem Deus chama de \"meu pastor\" no fim do capítulo?",
+     "opcoes": [
+      "Davi",
+      "Moisés",
+      "Ezequias",
+      "Ciro"
+     ],
+     "correta": 3,
+     "ref": "44:28"
+    }
+   ]
+  },
+  {
+   "n": 45,
+   "titulo": "Virai-vos a mim e sede salvos",
+   "chave": "45:22",
+   "resumo": "Deus chama Ciro de seu ungido e promete abrir portas diante dele por amor de Israel, mesmo que Ciro não o conheça. O SENHOR afirma que não há outro Deus e que o barro não pode questionar o oleiro. Ele convida todos os confins da terra a voltarem-se para ele e serem salvos, pois diante dele todo joelho se dobrará.",
+   "licoes": [
+    "Deus pode usar até quem não o conhece para cumprir seus propósitos (45:4-5).",
+    "A criatura não tem direito de acusar o seu Criador, como o barro diante do oleiro (45:9).",
+    "O convite de salvação é para todos os povos: \"virai-vos a mim, e sede salvos\"; Paulo cita o versículo 23 aplicando-o a Cristo em Filipenses 2 (45:22-23)."
+   ],
+   "reflexao": "Você tem aceitado o convite de Deus para voltar-se a ele?",
+   "quiz": [
+    {
+     "pergunta": "Como Deus chama Ciro no começo do capítulo?",
+     "opcoes": [
+      "Seu inimigo",
+      "Seu profeta",
+      "Seu ungido",
+      "Seu filho"
+     ],
+     "correta": 2,
+     "ref": "45:1"
+    }
+   ]
+  },
+  {
+   "n": 46,
+   "titulo": "Eu vos carregarei",
+   "chave": "46:4",
+   "resumo": "Os deuses da Babilônia, Bel e Nebo, precisam ser carregados por animais cansados e vão juntos para o cativeiro. Em contraste, o SENHOR é quem carrega seu povo desde o ventre até a velhice. Ele declara o fim desde o princípio e garante que seus planos se cumprirão.",
+   "licoes": [
+    "Os ídolos são um peso que precisa ser carregado; o verdadeiro Deus carrega seu povo (46:1, 46:4).",
+    "Deus cuida de nós em todas as fases da vida, até os cabelos brancos (46:3-4).",
+    "Deus conhece o fim desde o começo, e sua vontade se cumpre (46:10)."
+   ],
+   "reflexao": "Você tem carregado \"ídolos\" pesados ou se deixado carregar por Deus?",
+   "quiz": [
+    {
+     "pergunta": "Até quando Deus promete carregar seu povo?",
+     "opcoes": [
+      "Até a velhice e os cabelos grisalhos",
+      "Até a juventude",
+      "Até sair do Egito",
+      "Até o exílio acabar"
+     ],
+     "correta": 0,
+     "ref": "46:4"
+    }
+   ]
+  },
+  {
+   "n": 47,
+   "titulo": "A queda da senhora dos reinos",
+   "chave": "47:10",
+   "resumo": "A Babilônia, retratada como uma rainha mimada, é mandada sentar no pó. Ela não teve misericórdia do povo de Deus e se dizia \"somente eu, e ninguém mais\", segura de que nunca sofreria. Sua confiança em feitiçarias e astrólogos não a salvará da ruína repentina.",
+   "licoes": [
+    "Quem recebe poder sobre outros deve exercê-lo com misericórdia (47:6).",
+    "A arrogância de quem diz \"somente eu, e ninguém mais\" leva à queda (47:8, 47:10).",
+    "Astrologia e feitiçaria não podem livrar ninguém (47:13-14)."
+   ],
+   "reflexao": "Em que você tem se sentido seguro demais, como se nada pudesse atingi-lo?",
+   "quiz": [
+    {
+     "pergunta": "O que a Babilônia dizia em seu coração?",
+     "opcoes": [
+      "Sou serva do SENHOR",
+      "Somente eu, e ninguém mais",
+      "Tenho medo do futuro",
+      "Sou viúva"
+     ],
+     "correta": 1,
+     "ref": "47:8"
+    }
+   ]
+  },
+  {
+   "n": 48,
+   "titulo": "Ah, se tivesses ouvido",
+   "chave": "48:18",
+   "resumo": "Deus fala a um Israel que usa seu nome sem verdade e é obstinado como ferro. Ele anunciou as coisas antes para que o povo não atribuísse tudo aos ídolos, e o purificou na fornalha da aflição por amor do seu nome. Lamenta: se tivessem obedecido, sua paz seria como um rio; e manda que saiam da Babilônia anunciando o resgate.",
+   "licoes": [
+    "Usar o nome de Deus sem verdade é religiosidade vazia (48:1).",
+    "Deus usa a aflição para refinar seu povo (48:10).",
+    "A obediência traz paz como um rio; a desobediência faz perder essa bênção (48:17-18)."
+   ],
+   "reflexao": "Que conselho de Deus você tem deixado de ouvir?",
+   "quiz": [
+    {
+     "pergunta": "Como seria a paz do povo se tivesse ouvido os mandamentos?",
+     "opcoes": [
+      "Como um deserto",
+      "Como uma tempestade",
+      "Como um rio",
+      "Como uma muralha"
+     ],
+     "correta": 2,
+     "ref": "48:18"
+    }
+   ]
+  },
+  {
+   "n": 49,
+   "titulo": "Luz para as nações",
+   "chave": "49:6",
+   "resumo": "O Servo fala às nações: Deus o chamou desde o ventre e fez sua boca como espada. Embora pareça ter trabalhado em vão, recebe uma missão maior: ser luz para as nações, levando a salvação até os confins da terra. Quando Sião diz que foi esquecida, Deus responde que, mesmo que uma mãe esqueça seu filho, ele não a esquecerá, pois a gravou nas palmas das mãos.",
+   "licoes": [
+    "Mesmo quando o trabalho parece inútil, a recompensa está com Deus (49:4).",
+    "A salvação de Deus é para todos os povos, até os confins da terra (49:6).",
+    "O amor de Deus é mais fiel que o de uma mãe; ele nos gravou nas palmas das mãos (49:15-16)."
+   ],
+   "reflexao": "Você já se sentiu esquecido por Deus? Como este capítulo responde a isso?",
+   "quiz": [
+    {
+     "pergunta": "Onde Deus diz que gravou Sião?",
+     "opcoes": [
+      "Nas palmas das mãos",
+      "Numa pedra",
+      "No templo",
+      "Num livro"
+     ],
+     "correta": 0,
+     "ref": "49:16"
+    }
+   ]
+  },
+  {
+   "n": 50,
+   "titulo": "O Servo que não recua",
+   "chave": "50:4",
+   "resumo": "Deus pergunta ao povo se sua mão ficou curta demais para resgatar, lembrando que foram vendidos por suas próprias culpas. O Servo fala de novo: Deus lhe deu língua de discípulo para animar o cansado e abriu seus ouvidos. Ele entrega as costas aos que o ferem e não esconde o rosto das cuspidas, confiante de que Deus o ajuda.",
+   "licoes": [
+    "O poder de Deus para salvar não diminuiu (50:2).",
+    "Ouvir a Deus a cada manhã prepara para dizer a palavra certa ao cansado (50:4).",
+    "O Servo sofre humilhação sem desistir, confiando que Deus o justifica; os Evangelhos lembram essas cenas na paixão de Jesus (50:6-8).",
+    "Quem anda em trevas deve confiar no nome do SENHOR (50:10)."
+   ],
+   "reflexao": "Você tem começado o dia ouvindo a Deus?",
+   "quiz": [
+    {
+     "pergunta": "Para que o Senhor DEUS deu ao Servo língua de instruídos?",
+     "opcoes": [
+      "Para julgar as nações",
+      "Para cantar no templo",
+      "Para comandar exércitos",
+      "Para falar uma boa palavra ao cansado"
+     ],
+     "correta": 3,
+     "ref": "50:4"
+    }
+   ]
+  },
+  {
+   "n": 51,
+   "titulo": "Olhai para a rocha de onde fostes cortados",
+   "chave": "51:12",
+   "resumo": "Deus convida os que buscam a justiça a lembrarem de Abraão e Sara, chamados quando eram só um casal e multiplicados por ele. Promete transformar o deserto de Sião num jardim como o Éden e afirma que sua salvação dura para sempre, mesmo quando céus e terra passarem. Chama Jerusalém a despertar, pois ele tirou de sua mão o cálice da ira.",
+   "licoes": [
+    "Lembrar como Deus agiu no passado fortalece a fé no presente (51:1-2).",
+    "A salvação de Deus permanece quando tudo o mais passa (51:6).",
+    "Quem é consolado por Deus não precisa temer o ser humano mortal (51:12-13)."
+   ],
+   "reflexao": "Que história da fidelidade de Deus no passado anima você hoje?",
+   "quiz": [
+    {
+     "pergunta": "Para quem Deus manda o povo olhar como exemplo?",
+     "opcoes": [
+      "Para Moisés e Arão",
+      "Para Abraão e Sara",
+      "Para Davi e Salomão",
+      "Para Noé"
+     ],
+     "correta": 1,
+     "ref": "51:2"
+    }
+   ]
+  },
+  {
+   "n": 52,
+   "titulo": "Teu Deus reina!",
+   "chave": "52:7",
+   "resumo": "Sião é chamada a despertar, vestir-se de força e soltar as cadeias, pois será resgatada sem dinheiro. Isaías celebra os pés do mensageiro que anuncia a paz e diz: \"Teu Deus reina\". No fim do capítulo começa o quarto cântico do Servo, que será exaltado depois de ter sido desfigurado, para espanto de reis e nações.",
+   "licoes": [
+    "Deus resgata seu povo de graça, sem pagamento (52:3).",
+    "Anunciar a boa notícia da salvação é algo belo; Paulo cita o versículo 7 em Romanos 10 (52:7).",
+    "O Servo será exaltado depois de um sofrimento que o desfigura (52:13-14)."
+   ],
+   "reflexao": "Com quem você pode compartilhar a boa notícia de que Deus reina?",
+   "quiz": [
+    {
+     "pergunta": "O que diz o mensageiro de boas notícias a Sião?",
+     "opcoes": [
+      "Foge depressa",
+      "O rei morreu",
+      "Prepara a guerra",
+      "Teu Deus reina"
+     ],
+     "correta": 3,
+     "ref": "52:7"
+    }
+   ]
+  },
+  {
+   "n": 53,
+   "titulo": "Ferido por nossas transgressões",
+   "chave": "53:5",
+   "resumo": "Este é o centro do quarto cântico do Servo. Ele cresce sem beleza que atraia, é desprezado e rejeitado, homem de dores. O texto afirma que ele levou nossas dores e foi ferido por nossas transgressões, como um cordeiro levado ao matadouro sem abrir a boca. Depois de dar sua vida como oferta pelo pecado, ele verá descendência e justificará a muitos.",
+   "licoes": [
+    "O Servo sofre no lugar de outros: \"por suas feridas fomos curados\" (53:4-5).",
+    "Todos nos desviamos como ovelhas, e Deus fez cair sobre ele a culpa de todos (53:6).",
+    "Seu sofrimento não é o fim: ele verá o fruto do seu trabalho e justificará a muitos (53:10-11).",
+    "Os judeus costumam ler o Servo como Israel ou um justo sofredor; os cristãos, desde o Novo Testamento, como em Atos 8, o identificam com Jesus (53:7-8)."
+   ],
+   "reflexao": "O que significa para você que o Servo levou sobre si a culpa de muitos?",
+   "quiz": [
+    {
+     "pergunta": "Com o que o Servo é comparado quando levado ao matadouro?",
+     "opcoes": [
+      "Com um leão",
+      "Com uma pomba",
+      "Com um cordeiro",
+      "Com um boi"
+     ],
+     "correta": 2,
+     "ref": "53:7"
+    }
+   ]
+  },
+  {
+   "n": 54,
+   "titulo": "Alarga o espaço da tua tenda",
+   "chave": "54:10",
+   "resumo": "Depois do Servo sofredor, Sião, comparada a uma mulher estéril e abandonada, é chamada a cantar e alargar sua tenda, pois terá muitos filhos. Deus se apresenta como seu marido e Redentor, que a deixou por um momento, mas a recolherá com grande compaixão. Como jurou a Noé, ele garante que seu amor e sua aliança de paz não se afastarão.",
+   "licoes": [
+    "Deus transforma vergonha e abandono em alegria e fecundidade (54:1, 54:4).",
+    "A disciplina de Deus dura um momento; sua bondade é eterna (54:7-8).",
+    "Mesmo que os montes se movam, o amor fiel de Deus não se afasta (54:10)."
+   ],
+   "reflexao": "Que \"tenda\" Deus pode estar chamando você a alargar?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o SENHOR, o que não se removerá mesmo que os montes se removam?",
+     "opcoes": [
+      "Sua bondade",
+      "O templo",
+      "Os muros",
+      "O trono de Davi"
+     ],
+     "correta": 0,
+     "ref": "54:10"
+    }
+   ]
+  },
+  {
+   "n": 55,
+   "titulo": "Vinde às águas",
+   "chave": "55:6",
+   "resumo": "Deus convida todos os que têm sede a virem às águas e comprarem sem dinheiro, ouvindo-o para que a alma viva. Chama a buscar o SENHOR enquanto ele pode ser achado e garante que ele perdoa abundantemente. Seus pensamentos são mais altos que os nossos, e sua palavra, como a chuva, não volta vazia.",
+   "licoes": [
+    "A graça de Deus é oferecida de graça a todos os que têm sede (55:1-2).",
+    "Há um tempo para buscar a Deus, e ele perdoa com generosidade (55:6-7).",
+    "Os caminhos de Deus são mais altos que os nossos (55:8-9).",
+    "A palavra de Deus sempre cumpre o propósito para o qual foi enviada (55:10-11)."
+   ],
+   "reflexao": "Em que você tem gastado energia com aquilo que \"não é pão\"?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o SENHOR, como volta a sua palavra?",
+     "opcoes": [
+      "Vazia",
+      "Não volta vazia",
+      "Atrasada",
+      "Esquecida"
+     ],
+     "correta": 1,
+     "ref": "55:11"
+    }
+   ]
+  },
+  {
+   "n": 56,
+   "titulo": "Casa de oração para todos os povos",
+   "chave": "56:7",
+   "resumo": "Começa a última parte do livro, voltada à comunidade que retorna. Deus pede justiça e fidelidade e acolhe estrangeiros e eunucos que se ligam a ele e guardam sua aliança, dando-lhes lugar e nome em sua casa. Em contraste, os líderes do povo são vigias cegos e pastores gananciosos.",
+   "licoes": [
+    "Ninguém que se volta a Deus com sinceridade fica de fora do seu povo (56:3-5).",
+    "A casa de Deus deve ser casa de oração para todos os povos; Jesus cita isso ao purificar o templo (56:7).",
+    "Líderes que só buscam o próprio interesse falham com o povo (56:10-11)."
+   ],
+   "reflexao": "Quem tem se sentido excluído e poderia ser acolhido por você ou por sua comunidade?",
+   "quiz": [
+    {
+     "pergunta": "Como será chamada a casa de Deus?",
+     "opcoes": [
+      "Casa de Israel",
+      "Casa do rei",
+      "Casa de oração para todos os povos",
+      "Casa de sacrifício"
+     ],
+     "correta": 2,
+     "ref": "56:7"
+    }
+   ]
+  },
+  {
+   "n": 57,
+   "titulo": "Com o contrito e abatido",
+   "chave": "57:15",
+   "resumo": "Deus denuncia a idolatria e as práticas pagãs do povo, que buscou outros deuses e não se lembrou dele. Mas quem se refugia nele herdará a terra. O Alto e Sublime, que habita na eternidade, também habita com o humilde e contrito, para dar-lhe vida; ele oferece paz aos de longe e aos de perto, mas os perversos não têm paz.",
+   "licoes": [
+    "Deus percebe quando o justo sofre, mesmo que ninguém mais perceba (57:1-2).",
+    "O Deus altíssimo escolhe habitar com os humildes e quebrantados (57:15).",
+    "Deus oferece paz e cura aos que estão longe e aos que estão perto (57:19)."
+   ],
+   "reflexao": "Você tem se aproximado de Deus com um coração humilde?",
+   "quiz": [
+    {
+     "pergunta": "Com quem habita o Alto e Sublime, além do lugar santo?",
+     "opcoes": [
+      "Com o contrito e abatido de espírito",
+      "Com os reis",
+      "Com os sacerdotes",
+      "Com os ricos"
+     ],
+     "correta": 0,
+     "ref": "57:15"
+    }
+   ]
+  },
+  {
+   "n": 58,
+   "titulo": "O jejum que agrada a Deus",
+   "chave": "58:6-7",
+   "resumo": "O povo jejua e reclama que Deus não vê, mas no dia do jejum explora trabalhadores e briga. Deus explica o jejum que ele escolhe: libertar os oprimidos, repartir o pão com o faminto, acolher o pobre e vestir o nu. Então a luz do povo nascerá como a aurora, e Deus responderá: \"Eis-me aqui\".",
+   "licoes": [
+    "Práticas religiosas sem justiça não agradam a Deus (58:3-5).",
+    "O jejum que Deus quer inclui libertar oprimidos, alimentar famintos e vestir os nus (58:6-7).",
+    "Quem se doa aos necessitados será como jardim regado e restaurador de ruínas (58:10-12)."
+   ],
+   "reflexao": "Que gesto concreto de justiça ou generosidade pode ser seu \"jejum\" esta semana?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Deus, o que faz parte do jejum que ele escolhe?",
+     "opcoes": [
+      "Vestir saco e cinza",
+      "Oferecer mais sacrifícios",
+      "Ficar em silêncio",
+      "Repartir o pão com o faminto"
+     ],
+     "correta": 3,
+     "ref": "58:7"
+    }
+   ]
+  },
+  {
+   "n": 59,
+   "titulo": "Vossas perversidades fazem separação",
+   "chave": "59:2",
+   "resumo": "Isaías explica que a mão de Deus não é curta para salvar; são os pecados do povo que criam separação entre eles e Deus. Descreve violência, mentira e injustiça, e o povo confessa que anda às apalpadelas como cego. Vendo que não havia quem interviesse, o próprio Deus se veste de justiça e salvação e promete um Redentor a Sião.",
+   "licoes": [
+    "O pecado cria separação entre nós e Deus (59:1-2).",
+    "Reconhecer e confessar o pecado é o primeiro passo de volta (59:12-13).",
+    "Quando ninguém podia salvar, Deus mesmo agiu e prometeu um Redentor; Paulo cita o versículo 20 em Romanos 11 (59:16, 59:20)."
+   ],
+   "reflexao": "Há algo em sua vida criando distância entre você e Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que faz separação entre o povo e Deus, segundo o profeta?",
+     "opcoes": [
+      "A distância do templo",
+      "As perversidades do povo",
+      "A falta de sacrifícios",
+      "Os inimigos"
+     ],
+     "correta": 1,
+     "ref": "59:2"
+    }
+   ]
+  },
+  {
+   "n": 60,
+   "titulo": "Levanta-te, brilha",
+   "chave": "60:1",
+   "resumo": "Sião é chamada a levantar-se e brilhar, pois a glória do SENHOR nasceu sobre ela enquanto as trevas cobrem a terra. Nações e reis virão à sua luz trazendo seus filhos, ouro e incenso. A cidade será chamada Cidade do SENHOR, seus muros se chamarão Salvação e suas portas Louvor, e o próprio SENHOR será sua luz eterna.",
+   "licoes": [
+    "Quem recebe a luz de Deus é chamado a brilhar num mundo em trevas (60:1-2).",
+    "Pessoas de todas as nações serão atraídas pela luz de Deus (60:3, 60:6).",
+    "No futuro prometido, o SENHOR será a luz eterna do seu povo, imagem que o Apocalipse retoma (60:19-20)."
+   ],
+   "reflexao": "Como a luz de Deus pode brilhar através de você?",
+   "quiz": [
+    {
+     "pergunta": "Como se chamarão as portas de Sião?",
+     "opcoes": [
+      "Força",
+      "Justiça",
+      "Paz",
+      "Louvor"
+     ],
+     "correta": 3,
+     "ref": "60:18"
+    }
+   ]
+  },
+  {
+   "n": 61,
+   "titulo": "O Espírito do Senhor está sobre mim",
+   "chave": "61:1",
+   "resumo": "Alguém ungido pelo Espírito do Senhor anuncia sua missão: levar boas notícias aos humildes, curar os de coração quebrado, proclamar liberdade aos cativos e o ano do favor do SENHOR. Os tristes de Sião receberão beleza em vez de cinzas e alegria em vez de luto, e reconstruirão as ruínas. O povo será chamado sacerdote do SENHOR e se alegrará nas vestes da salvação.",
+   "licoes": [
+    "Deus envia seu ungido para curar, libertar e consolar; em Lucas 4, Jesus lê este texto e diz que ele se cumpriu (61:1-2).",
+    "Deus troca cinza por beleza e tristeza por alegria (61:3).",
+    "O SENHOR ama a justiça e faz uma aliança eterna com seu povo (61:8)."
+   ],
+   "reflexao": "Que \"cinza\" em sua vida você gostaria que Deus transformasse em beleza?",
+   "quiz": [
+    {
+     "pergunta": "O que o ungido foi enviado a anunciar aos cativos?",
+     "opcoes": [
+      "Castigo",
+      "Exílio",
+      "Liberdade",
+      "Silêncio"
+     ],
+     "correta": 2,
+     "ref": "61:1"
+    }
+   ]
+  },
+  {
+   "n": 62,
+   "titulo": "Nela Está Meu Prazer",
+   "chave": "62:4",
+   "resumo": "O profeta diz que não se calará até que a justiça de Jerusalém brilhe como uma tocha. Sião receberá um novo nome: não mais \"Abandonada\", mas \"Nela Está Meu Prazer\", pois Deus se alegra com ela como o noivo com a noiva. Vigias são postos nos muros para orar sem descanso, e o povo será chamado santo e redimido.",
+   "licoes": [
+    "Deus dá ao seu povo um novo nome e uma nova identidade (62:2, 62:4).",
+    "Deus se alegra com seu povo como o noivo com a noiva (62:5).",
+    "A oração perseverante é chamada a não dar descanso até que Deus cumpra suas promessas (62:6-7)."
+   ],
+   "reflexao": "Que \"novo nome\" Deus pode querer dar a você no lugar de um rótulo antigo?",
+   "quiz": [
+    {
+     "pergunta": "Que novo nome Sião receberá?",
+     "opcoes": [
+      "Nela Está Meu Prazer",
+      "A Esquecida",
+      "A Cidade Velha",
+      "A Vencida"
+     ],
+     "correta": 0,
+     "ref": "62:4"
+    }
+   ]
+  },
+  {
+   "n": 63,
+   "titulo": "O guerreiro de Edom e a lembrança das misericórdias",
+   "chave": "63:9",
+   "resumo": "Uma figura vem de Edom com as roupas manchadas, como quem pisou uvas no lagar: é o SENHOR, que sozinho venceu os inimigos. Em seguida, o profeta lembra as bondades de Deus no êxodo, quando ele sofria com o povo e o carregava, mas o povo entristeceu seu Espírito Santo. A oração termina chamando Deus de Pai e Redentor e pedindo que ele volte.",
+   "licoes": [
+    "Deus age sozinho para salvar quando ninguém mais pode (63:5).",
+    "Deus se angustia com a angústia do seu povo e o carrega com amor (63:9).",
+    "É possível entristecer o Espírito Santo com a rebeldia (63:10).",
+    "Mesmo na crise, o povo ora a Deus como Pai e Redentor (63:16)."
+   ],
+   "reflexao": "Que lembrança da bondade de Deus pode alimentar sua oração hoje?",
+   "quiz": [
+    {
+     "pergunta": "Como o povo chama o SENHOR no fim da oração?",
+     "opcoes": [
+      "Juiz distante",
+      "Nosso Pai e Redentor",
+      "Rei de Edom",
+      "Deus desconhecido"
+     ],
+     "correta": 1,
+     "ref": "63:16"
+    }
+   ]
+  },
+  {
+   "n": 64,
+   "titulo": "Nós somos barro, tu és o oleiro",
+   "chave": "64:8",
+   "resumo": "A oração continua com um clamor: \"Ah, se rompesses os céus e descesses!\". O povo reconhece que nenhum outro deus age em favor de quem nele espera, mas confessa que até suas obras justas são como roupa suja. Chamando Deus de Pai e oleiro, pede que ele não se lembre da culpa para sempre, pois Jerusalém e o templo estão em ruínas.",
+   "licoes": [
+    "Deus age em favor de quem espera nele (64:4).",
+    "Diante de Deus, até nossa melhor justiça é insuficiente (64:6).",
+    "Somos barro nas mãos de Deus, nosso Pai e oleiro (64:8)."
+   ],
+   "reflexao": "Você se deixa moldar por Deus como barro nas mãos do oleiro?",
+   "quiz": [
+    {
+     "pergunta": "Com o que o povo compara a si mesmo diante de Deus, o oleiro?",
+     "opcoes": [
+      "Com pedra",
+      "Com ferro",
+      "Com barro",
+      "Com madeira"
+     ],
+     "correta": 2,
+     "ref": "64:8"
+    }
+   ]
+  },
+  {
+   "n": 65,
+   "titulo": "Novos céus e nova terra",
+   "chave": "65:17",
+   "resumo": "Deus responde que se deixou achar por quem não o buscava, mas estendeu as mãos o dia todo a um povo rebelde e idólatra. Ele separa seus servos fiéis dos que o abandonam. Então anuncia novos céus e nova terra, uma Jerusalém de alegria, sem choro, com vida longa, trabalho que dá fruto, oração respondida e paz até entre os animais.",
+   "licoes": [
+    "Deus estende as mãos com paciência até a um povo rebelde (65:1-2).",
+    "Deus promete criar novos céus e nova terra, onde não haverá choro; o Apocalipse retoma essa esperança (65:17-19).",
+    "No futuro prometido, Deus responderá antes mesmo que seu povo clame (65:24)."
+   ],
+   "reflexao": "Como a esperança dos novos céus e nova terra afeta sua vida hoje?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus diz que vai criar?",
+     "opcoes": [
+      "Novos céus e nova terra",
+      "Um novo templo",
+      "Um novo reino na Babilônia",
+      "Um novo exército"
+     ],
+     "correta": 0,
+     "ref": "65:17"
+    }
+   ]
+  },
+  {
+   "n": 66,
+   "titulo": "O céu é meu trono",
+   "chave": "66:2",
+   "resumo": "Deus diz que o céu é seu trono e a terra o estrado dos pés; ele não precisa de templo, mas olha para o humilde e contrito que treme diante de sua palavra. Sião dará à luz uma nação de repente, e Deus a consolará como uma mãe consola o filho. O livro termina com Deus reunindo todas as nações para ver sua glória, enviando mensageiros aos povos distantes e anunciando o juízo sobre os rebeldes.",
+   "licoes": [
+    "Deus valoriza mais o coração humilde e reverente do que construções e rituais (66:1-2).",
+    "Deus consola seu povo com ternura de mãe (66:13).",
+    "O plano de Deus é que todas as nações vejam sua glória e venham adorá-lo (66:18-19, 66:23)."
+   ],
+   "reflexao": "Você tem tremido, com reverência, diante da palavra de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Para quem Deus diz que olhará?",
+     "opcoes": [
+      "Para quem constrói templos grandes",
+      "Para os que oferecem muitos sacrifícios",
+      "Para os reis das nações",
+      "Para o pobre e abatido de espírito, que treme por sua palavra"
+     ],
+     "correta": 3,
+     "ref": "66:2"
+    }
+   ]
+  }
+ ]
+}

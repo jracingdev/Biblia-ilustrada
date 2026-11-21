@@ -138,11 +138,11 @@
      "pergunta": "Quantos homens o rei viu andando no meio do fogo?",
      "opcoes": [
       "Dois",
-      "Quatro",
       "Três",
+      "Quatro",
       "Sete"
      ],
-     "correta": 1,
+     "correta": 2,
      "ref": "3:25"
     }
    ]
@@ -215,12 +215,12 @@
     {
      "pergunta": "Quantas vezes por dia Daniel orava?",
      "opcoes": [
-      "Três",
       "Uma",
       "Duas",
+      "Três",
       "Sete"
      ],
-     "correta": 0,
+     "correta": 2,
      "ref": "6:10"
     }
    ]
@@ -320,10 +320,10 @@
      "opcoes": [
       "Uma",
       "Duas",
-      "Sete",
-      "Três"
+      "Três",
+      "Sete"
      ],
-     "correta": 3,
+     "correta": 2,
      "ref": "10:2"
     }
    ]

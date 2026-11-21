@@ -361,7 +361,7 @@ footer.pe{ border-top:1px solid var(--line); padding-block:1.5rem; color:var(--m
 [hidden]{ display:none !important }
 .chave-livro{ margin:0; padding:1rem 1.2rem; border-left:4px solid var(--gold); background:var(--surface); border-radius:var(--radius); font-family:var(--f-text); font-size:1.15rem } .chave-livro p{ margin:0 0 .4rem } .chave-livro cite{ font-style:normal; font-family:var(--f-ui); font-weight:700; font-size:.9rem }
 .temas{ display:grid; grid-template-columns:repeat(auto-fill, minmax(min(16rem,100%),1fr)); gap:.5rem; padding:0; list-style:none; margin:0 } .temas li{ background:var(--surface); border:1px solid var(--line); border-radius:var(--radius); padding:.7rem .9rem; font-weight:700 }
-.sec .ico{ font-weight:700; font-size:1.1rem }
+.sec .ico{ font-weight:700; font-size:1.25rem }
 </style>
 </head>
 <body>
@@ -748,7 +748,7 @@ async function carregarEstudo(slug){
   if (!B.estudos.has(slug)){ let e = null; try { const r = await fetch(`data/estudo/livros/${slug}.json`); if (r.ok) e = await r.json(); } catch {} B.estudos.set(slug, e); }
   return B.estudos.get(slug);
 }
-const refsLivro = (l, t) => esc(t).replace(/\((\d+:\d+(?:-\d+)?)(?:, (\d+:\d+(?:-\d+)?))?\)/g, (m, a, b) => { const lk = r => { const p = parseRef(r); return `<a href="${linkLivro(l, p.c, p.v)}">${r}</a>`; }; return "(" + lk(a) + (b ? ", " + lk(b) : "") + ")"; });
+const refsLivro = (l, t) => esc(t).replace(/\((\d+:\d+(?:-\d+)?(?:[,;] ?\d+:\d+(?:-\d+)?)*)\)/g, (m, g) => "(" + g.replace(/\d+:\d+(?:-\d+)?/g, r => { const p = parseRef(r); return p && l.versos[p.c - 1] ? `<a href="${linkLivro(l, p.c, p.v)}">${r}</a>` : r; }) + ")");
 async function carregarFoco(slug){ if (!B.focos.has(slug)) B.focos.set(slug, await getJSON(`data/conexoes/livro/${slug}.json`)); return B.focos.get(slug); }
 const livroPorSlug = s => B.estr.livros.find(l => l.slug === s);
 const nomeGrupo = id => B.estr.grupos.find(g => g.id === id).nome;

@@ -799,10 +799,10 @@
     {
      "pergunta": "Por quanto tempo as nações serviriam ao rei da Babilônia?",
      "opcoes": [
+      "Sete anos",
       "Quarenta anos",
-      "Cem anos",
       "Setenta anos",
-      "Sete anos"
+      "Cem anos"
      ],
      "correta": 2,
      "ref": "25:11"
@@ -980,12 +980,12 @@
     {
      "pergunta": "Quanto Jeremias pagou pelo campo de Hanameel?",
      "opcoes": [
-      "Trinta siclos de prata",
-      "Cem siclos de ouro",
       "Dez siclos de bronze",
-      "Dezessete siclos de prata"
+      "Dezessete siclos de prata",
+      "Trinta siclos de prata",
+      "Cem siclos de ouro"
      ],
-     "correta": 3,
+     "correta": 1,
      "ref": "32:9"
     }
    ]
@@ -1236,10 +1236,10 @@
      "opcoes": [
       "Três dias",
       "Sete dias",
-      "Quarenta dias",
-      "Dez dias"
+      "Dez dias",
+      "Quarenta dias"
      ],
-     "correta": 3,
+     "correta": 2,
      "ref": "42:7"
     }
    ]

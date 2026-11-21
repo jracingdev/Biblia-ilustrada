@@ -197,12 +197,12 @@
     {
      "pergunta": "Que sobrenome os apóstolos deram a José, o levita de Chipre?",
      "opcoes": [
-      "Barsabás",
-      "Barnabé",
       "Justo",
-      "Silas"
+      "Silas",
+      "Barsabás",
+      "Barnabé"
      ],
-     "correta": 1,
+     "correta": 3,
      "ref": "4:36"
     }
    ]
@@ -223,12 +223,12 @@
     {
      "pergunta": "Que fariseu, mestre da Lei, aconselhou o conselho a deixar os apóstolos?",
      "opcoes": [
-      "Nicodemos",
-      "Caifás",
       "Gamaliel",
-      "Anás"
+      "Anás",
+      "Nicodemos",
+      "Caifás"
      ],
-     "correta": 2,
+     "correta": 0,
      "ref": "5:34"
     }
    ]
@@ -273,12 +273,12 @@
     {
      "pergunta": "Junto aos pés de quem as testemunhas deixaram as roupas?",
      "opcoes": [
+      "Ananias",
       "Gamaliel",
       "Saulo",
-      "Pedro",
-      "Ananias"
+      "Pedro"
      ],
-     "correta": 1,
+     "correta": 2,
      "ref": "7:58"
     }
    ]
@@ -299,12 +299,12 @@
     {
      "pergunta": "Que profeta o eunuco etíope estava lendo?",
      "opcoes": [
-      "Jeremias",
-      "Isaías",
       "Daniel",
-      "Ezequiel"
+      "Ezequiel",
+      "Jeremias",
+      "Isaías"
      ],
-     "correta": 1,
+     "correta": 3,
      "ref": "8:28"
     }
    ]
@@ -325,12 +325,12 @@
     {
      "pergunta": "Em que rua de Damasco Saulo estava hospedado?",
      "opcoes": [
-      "Rua Formosa",
       "Rua Direita",
       "Rua do Templo",
-      "Rua de Judas"
+      "Rua de Judas",
+      "Rua Formosa"
      ],
-     "correta": 1,
+     "correta": 0,
      "ref": "9:11"
     }
    ]
@@ -400,12 +400,12 @@
     {
      "pergunta": "Qual era o nome da moça que reconheceu a voz de Pedro à porta?",
      "opcoes": [
-      "Rode",
       "Maria",
       "Dorcas",
-      "Lídia"
+      "Lídia",
+      "Rode"
      ],
-     "correta": 0,
+     "correta": 3,
      "ref": "12:13-14"
     }
    ]
@@ -426,12 +426,12 @@
     {
      "pergunta": "Qual procônsul creu em Chipre?",
      "opcoes": [
-      "Gálio",
-      "Félix",
       "Sérgio Paulo",
-      "Festo"
+      "Festo",
+      "Gálio",
+      "Félix"
      ],
-     "correta": 2,
+     "correta": 0,
      "ref": "13:7"
     }
    ]
@@ -504,12 +504,12 @@
     {
      "pergunta": "O que Lídia vendia?",
      "opcoes": [
-      "Tendas",
-      "Púrpura",
       "Azeite",
-      "Incenso"
+      "Incenso",
+      "Tendas",
+      "Púrpura"
      ],
-     "correta": 1,
+     "correta": 3,
      "ref": "16:14"
     }
    ]
@@ -530,12 +530,12 @@
     {
      "pergunta": "Que inscrição Paulo encontrou num altar em Atenas?",
      "opcoes": [
-      "Ao Deus Altíssimo",
       "Ao Deus desconhecido",
       "Ao Deus de Israel",
-      "Aos deuses de Roma"
+      "Aos deuses de Roma",
+      "Ao Deus Altíssimo"
      ],
-     "correta": 1,
+     "correta": 0,
      "ref": "17:23"
     }
    ]
@@ -555,12 +555,12 @@
     {
      "pergunta": "Qual era o ofício de Áquila, Priscila e Paulo?",
      "opcoes": [
-      "Pescadores",
       "Curtidores",
       "Fazedores de tendas",
-      "Ourives"
+      "Ourives",
+      "Pescadores"
      ],
-     "correta": 2,
+     "correta": 1,
      "ref": "18:3"
     }
    ]
@@ -607,12 +607,12 @@
     {
      "pergunta": "Como se chamava o rapaz que caiu da janela durante a pregação de Paulo?",
      "opcoes": [
-      "Êutico",
       "Trófimo",
       "Tíquico",
-      "Sópater"
+      "Sópater",
+      "Êutico"
      ],
-     "correta": 0,
+     "correta": 3,
      "ref": "20:9"
     }
    ]
@@ -632,12 +632,12 @@
     {
      "pergunta": "O que Ágabo usou para mostrar que Paulo seria preso?",
      "opcoes": [
-      "Uma corrente",
       "A cinta de Paulo",
       "Um manto",
-      "Uma corda de navio"
+      "Uma corda de navio",
+      "Uma corrente"
      ],
-     "correta": 1,
+     "correta": 0,
      "ref": "21:11"
     }
    ]
@@ -657,12 +657,12 @@
     {
      "pergunta": "Aos pés de qual mestre Paulo foi educado em Jerusalém?",
      "opcoes": [
+      "Hilel",
       "Gamaliel",
       "Anás",
-      "Nicodemos",
-      "Hilel"
+      "Nicodemos"
      ],
-     "correta": 0,
+     "correta": 1,
      "ref": "22:3"
     }
    ]
@@ -707,12 +707,12 @@
     {
      "pergunta": "Quem sucedeu Félix como governador?",
      "opcoes": [
-      "Pôncio Pilatos",
-      "Pórcio Festo",
       "Herodes Agripa",
-      "Cláudio Lísias"
+      "Cláudio Lísias",
+      "Pôncio Pilatos",
+      "Pórcio Festo"
      ],
-     "correta": 1,
+     "correta": 3,
      "ref": "24:27"
     }
    ]
@@ -732,12 +732,12 @@
     {
      "pergunta": "A quem Paulo apelou para ser julgado?",
      "opcoes": [
-      "Ao sumo sacerdote",
       "A César",
       "Ao rei Agripa",
-      "Ao Sinédrio"
+      "Ao Sinédrio",
+      "Ao sumo sacerdote"
      ],
-     "correta": 1,
+     "correta": 0,
      "ref": "25:11"
     }
    ]
@@ -783,12 +783,12 @@
     {
      "pergunta": "Quantas pessoas estavam no navio?",
      "opcoes": [
+      "Setenta e cinco",
       "Cento e vinte",
       "Duzentas e setenta e seis",
-      "Quatrocentas",
-      "Setenta e cinco"
+      "Quatrocentas"
      ],
-     "correta": 1,
+     "correta": 2,
      "ref": "27:37"
     }
    ]
@@ -809,12 +809,12 @@
     {
      "pergunta": "Em que ilha os náufragos chegaram?",
      "opcoes": [
+      "Sicília",
       "Creta",
       "Chipre",
-      "Malta",
-      "Sicília"
+      "Malta"
      ],
-     "correta": 2,
+     "correta": 3,
      "ref": "28:1"
     }
    ]

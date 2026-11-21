@@ -37,7 +37,7 @@
   "Deus fala por meio dos profetas",
   "A fidelidade de Deus à promessa feita a Davi"
  ],
- "cristo": "Salomão, o filho de Davi que edifica a casa de Deus e governa com sabedoria, deixa saudade de um rei melhor; Jesus se apresenta como \"maior do que Salomão\" (Mateus 12) e como o verdadeiro lugar da presença de Deus. A fidelidade de Deus em manter a \"lâmpada\" de Davi aponta para o Messias da linhagem davídica.",
+ "cristo": "Salomão, o filho de Davi que edifica a casa de Deus e governa com sabedoria, deixa saudade de um rei melhor; Jesus se apresenta como \"maior do que Salomão\", como diz Mateus 12, e como o verdadeiro lugar da presença de Deus. A fidelidade de Deus em manter a \"lâmpada\" de Davi aponta para o Messias da linhagem davídica.",
  "secoes": [
   {
    "id": "salomao-assume",
@@ -115,11 +115,11 @@
      "pergunta": "Onde Salomão foi ungido rei?",
      "opcoes": [
       "Em Hebrom",
-      "Em Giom",
+      "Em Siló",
       "Em Gibeão",
-      "Em Siló"
+      "Em Giom"
      ],
-     "correta": 1,
+     "correta": 3,
      "ref": "1:38-39"
     }
    ]
@@ -168,10 +168,10 @@
      "opcoes": [
       "Riquezas",
       "Longa vida",
-      "Um coração entendido para julgar",
-      "A morte dos inimigos"
+      "A morte dos inimigos",
+      "Um coração entendido para julgar"
      ],
-     "correta": 2,
+     "correta": 3,
      "ref": "3:9"
     }
    ]
@@ -192,11 +192,11 @@
      "pergunta": "Quantas parábolas (provérbios) Salomão propôs?",
      "opcoes": [
       "Mil",
-      "Doze mil",
+      "Três mil",
       "Cinco mil",
-      "Três mil"
+      "Doze mil"
      ],
-     "correta": 3,
+     "correta": 1,
      "ref": "4:32"
     }
    ]
@@ -216,12 +216,12 @@
     {
      "pergunta": "De onde vinham os cedros para o templo?",
      "opcoes": [
-      "Do Egito",
       "Do Líbano",
       "De Basã",
+      "Do Egito",
       "De Ofir"
      ],
-     "correta": 1,
+     "correta": 0,
      "ref": "5:6"
     }
    ]
@@ -292,12 +292,12 @@
     {
      "pergunta": "O que havia dentro da arca?",
      "opcoes": [
+      "As duas tábuas de pedra",
       "O maná e a vara de Arão",
       "O livro da lei",
-      "As duas tábuas de pedra",
       "Nada"
      ],
-     "correta": 2,
+     "correta": 0,
      "ref": "8:9"
     }
    ]
@@ -317,12 +317,12 @@
     {
      "pergunta": "Que nome Hirão deu às cidades que recebeu de Salomão?",
      "opcoes": [
-      "Terra de Tadmor",
-      "Terra de Ofir",
       "Terra de Cabul",
+      "Terra de Ofir",
+      "Terra de Tadmor",
       "Terra de Gezer"
      ],
-     "correta": 2,
+     "correta": 0,
      "ref": "9:13"
     }
    ]
@@ -344,11 +344,11 @@
      "pergunta": "Quantos degraus tinha o trono de Salomão?",
      "opcoes": [
       "Três",
-      "Sete",
       "Seis",
+      "Sete",
       "Doze"
      ],
-     "correta": 2,
+     "correta": 1,
      "ref": "10:19"
     }
    ]
@@ -369,12 +369,12 @@
     {
      "pergunta": "Em quantos pedaços Aías rasgou a capa?",
      "opcoes": [
-      "Doze",
-      "Dez",
       "Dois",
-      "Sete"
+      "Sete",
+      "Dez",
+      "Doze"
      ],
-     "correta": 0,
+     "correta": 3,
      "ref": "11:30"
     }
    ]
@@ -396,11 +396,11 @@
      "pergunta": "Onde Jeroboão colocou os bezerros de ouro?",
      "opcoes": [
       "Em Siquém e Siló",
-      "Em Samaria e Tirsa",
       "Em Gibeão e Jericó",
-      "Em Betel e Dã"
+      "Em Betel e Dã",
+      "Em Samaria e Tirsa"
      ],
-     "correta": 3,
+     "correta": 2,
      "ref": "12:29"
     }
    ]
@@ -422,11 +422,11 @@
      "pergunta": "Que nome de rei o homem de Deus anunciou contra o altar de Betel?",
      "opcoes": [
       "Ezequias",
-      "Davi",
       "Josias",
+      "Davi",
       "Asa"
      ],
-     "correta": 2,
+     "correta": 1,
      "ref": "13:2"
     }
    ]
@@ -447,11 +447,11 @@
      "pergunta": "Quem saqueou os tesouros de Jerusalém no tempo de Roboão?",
      "opcoes": [
       "Hirão",
-      "Ben-Hadade",
       "Sisaque",
+      "Ben-Hadade",
       "Hadade"
      ],
-     "correta": 2,
+     "correta": 1,
      "ref": "14:25-26"
     }
    ]
@@ -472,11 +472,11 @@
      "pergunta": "Por quantos anos Asa reinou em Jerusalém?",
      "opcoes": [
       "Três",
-      "Quarenta e um",
+      "Dezessete",
       "Vinte e dois",
-      "Dezessete"
+      "Quarenta e um"
      ],
-     "correta": 1,
+     "correta": 3,
      "ref": "15:10"
     }
    ]
@@ -497,10 +497,10 @@
     {
      "pergunta": "Quantos dias Zinri reinou?",
      "opcoes": [
+      "Um ano",
       "Três",
-      "Quarenta",
       "Sete",
-      "Um ano"
+      "Quarenta"
      ],
      "correta": 2,
      "ref": "16:15"
@@ -549,12 +549,12 @@
     {
      "pergunta": "Quantas vezes o servo de Elias foi olhar para o mar até ver a nuvem?",
      "opcoes": [
-      "Sete",
-      "Quatro",
       "Três",
+      "Quatro",
+      "Sete",
       "Doze"
      ],
-     "correta": 0,
+     "correta": 2,
      "ref": "18:44"
     }
    ]
@@ -601,11 +601,11 @@
      "pergunta": "Por que os sírios achavam que venceriam lutando na planície?",
      "opcoes": [
       "Porque tinham mais carros",
+      "Porque o profeta os aconselhou",
       "Porque Acabe estava doente",
-      "Porque achavam que os deuses de Israel eram deuses dos montes",
-      "Porque o profeta os aconselhou"
+      "Porque achavam que os deuses de Israel eram deuses dos montes"
      ],
-     "correta": 2,
+     "correta": 3,
      "ref": "20:23"
     }
    ]
@@ -626,12 +626,12 @@
     {
      "pergunta": "De que Nabote foi falsamente acusado?",
      "opcoes": [
-      "De blasfemar contra Deus e o rei",
       "De roubar o rei",
       "De adorar Baal",
+      "De blasfemar contra Deus e o rei",
       "De mover os marcos da terra"
      ],
-     "correta": 0,
+     "correta": 2,
      "ref": "21:13"
     }
    ]

@@ -1,0 +1,420 @@
+{
+ "livro": "hebreus",
+ "nome": "Hebreus",
+ "subtitulo": "Jesus, melhor do que tudo",
+ "introducao": "Hebreus foi escrita a cristãos tentados a desistir da fé diante de perseguições e a voltar às antigas práticas. O autor mostra que Jesus é superior aos anjos, a Moisés e ao sacerdócio levítico, e que seu único sacrifício abriu o caminho para Deus. Entre os argumentos, intercala sérios alertas e encorajamentos a perseverar com os olhos em Jesus.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Desconhecido; já se propuseram Paulo, Barnabé, Apolo e outros"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Provavelmente antes de 70 d.C., pois fala dos sacrifícios como ainda em prática (10:11)"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "Cristãos provavelmente de origem judaica, tentados a abandonar a fé (10:32-35)"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Sermão em forma de carta, uma \"palavra de exortação\" (13:22)"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "13 capítulos e 303 versículos"
+  }
+ ],
+ "chave": "12:1-2",
+ "temas": [
+  "A superioridade de Jesus",
+  "Jesus, o grande sumo sacerdote",
+  "A nova e melhor aliança",
+  "O sacrifício único de Cristo",
+  "Fé e perseverança"
+ ],
+ "cristo": "Todo o livro é sobre Cristo: o Filho que revela Deus, o sumo sacerdote que entende nossas fraquezas e o sacrifício oferecido uma vez por todas para tirar os pecados (1:3, 4:15, 9:28). Os cristãos correm a carreira olhando para Jesus, autor e consumador da fé (12:2).",
+ "secoes": [
+  {
+   "id": "superioridade",
+   "titulo": "Jesus, superior aos anjos e a Moisés",
+   "capitulos": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "resumo": "O Filho é a revelação final de Deus, maior que os anjos e que Moisés."
+  },
+  {
+   "id": "sacerdocio",
+   "titulo": "O sacerdócio de Cristo",
+   "capitulos": [
+    5,
+    6,
+    7
+   ],
+   "resumo": "Jesus, sumo sacerdote segundo a ordem de Melquisedeque."
+  },
+  {
+   "id": "alianca",
+   "titulo": "A nova aliança e o sacrifício perfeito",
+   "capitulos": [
+    8,
+    9,
+    10
+   ],
+   "resumo": "O santuário celeste, o sangue de Cristo e o chamado a perseverar."
+  },
+  {
+   "id": "fe",
+   "titulo": "A vida de fé",
+   "capitulos": [
+    11,
+    12,
+    13
+   ],
+   "resumo": "Os heróis da fé, a corrida com os olhos em Jesus e exortações finais."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "O Filho, superior aos anjos",
+   "chave": "1:1-3",
+   "resumo": "Deus falou no passado muitas vezes e de muitas maneiras pelos profetas, mas agora falou por meio de seu Filho, herdeiro de tudo e agente da criação. O Filho é o resplendor da glória de Deus, sustenta todas as coisas e, depois de purificar os pecados, sentou-se à direita da Majestade. Com várias citações das Escrituras, o autor mostra que o Filho é muito superior aos anjos, que são servidores.",
+   "licoes": [
+    "A revelação final de Deus veio por meio de seu Filho (1:1-2).",
+    "O Filho reflete a glória de Deus e sustenta o universo com sua palavra (1:3).",
+    "Depois de purificar nossos pecados, o Filho foi exaltado à direita de Deus (1:3, 1:13).",
+    "Os anjos servem aos que herdarão a salvação (1:14)."
+   ],
+   "reflexao": "O que significa para você que Deus falou de forma definitiva por meio de Jesus?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o autor, o que são os anjos?",
+     "opcoes": [
+      "Sumos sacerdotes",
+      "Juízes do mundo",
+      "Filhos herdeiros",
+      "Espíritos servidores"
+     ],
+     "correta": 3,
+     "ref": "1:14"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Tão grande salvação",
+   "chave": "2:17-18",
+   "resumo": "O autor alerta para não descuidar de tão grande salvação, anunciada pelo Senhor e confirmada por Deus com sinais. Jesus foi feito um pouco menor que os anjos e, pela graça de Deus, provou a morte por todos; agora está coroado de glória. Ele se tornou semelhante aos seus irmãos, participando da carne e do sangue, para vencer o diabo, libertar os que viviam com medo da morte e ser um sumo sacerdote misericordioso.",
+   "licoes": [
+    "Não podemos descuidar de tão grande salvação (2:1-3).",
+    "Jesus provou a morte por todos e foi coroado de glória (2:9).",
+    "Jesus não se envergonha de nos chamar de irmãos (2:11).",
+    "Por ter sido tentado, Jesus pode socorrer os que são tentados (2:17-18)."
+   ],
+   "reflexao": "Em que tentação você precisa buscar o socorro de Jesus, que entende sua luta?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o autor, por que Jesus participou da carne e do sangue?",
+     "opcoes": [
+      "Para pela morte destruir quem tinha o poder da morte",
+      "Para ser superior a Moisés",
+      "Para escrever a Lei",
+      "Para ser rei de Israel"
+     ],
+     "correta": 0,
+     "ref": "2:14"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Jesus, superior a Moisés",
+   "chave": "3:12-13",
+   "resumo": "Os leitores são chamados a considerar Jesus, apóstolo e sumo sacerdote, fiel como Moisés, mas digno de maior glória, pois Moisés foi servo na casa de Deus e Cristo é Filho sobre ela. Citando o Salmo 95, o autor adverte: \"Hoje, se ouvirdes a sua voz, não endureçais os vossos corações\", lembrando que a geração do deserto não entrou no descanso por causa da incredulidade.",
+   "licoes": [
+    "Jesus é digno de mais glória do que Moisés, como o construtor é mais honrado que a casa (3:3).",
+    "Somos casa de Deus se mantivermos firme a esperança até o fim (3:6).",
+    "O coração pode se endurecer aos poucos pelo engano do pecado (3:12-13).",
+    "Devemos encorajar uns aos outros todos os dias, enquanto se diz \"hoje\" (3:13)."
+   ],
+   "reflexao": "Quem você pode encorajar hoje para que não se afaste de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Por que a geração do deserto não entrou no repouso de Deus?",
+     "opcoes": [
+      "Por falta de alimento",
+      "Por causa da incredulidade",
+      "Porque Moisés morreu",
+      "Por causa dos inimigos"
+     ],
+     "correta": 1,
+     "ref": "3:19"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "O descanso de Deus e o trono da graça",
+   "chave": "4:16",
+   "resumo": "Ainda resta um descanso para o povo de Deus, no qual entram os que creem; por isso devemos nos esforçar para entrar nele, sem repetir a desobediência de Israel. A palavra de Deus é viva, eficaz e mais afiada que espada de dois gumes, e nada está escondido de Deus. Temos em Jesus um grande sumo sacerdote que entende nossas fraquezas e foi tentado em tudo, sem pecado; por isso podemos nos aproximar com confiança do trono da graça.",
+   "licoes": [
+    "O descanso de Deus é recebido pela fé (4:2-3).",
+    "A palavra de Deus é viva e penetra até as intenções do coração (4:12).",
+    "Jesus se compadece de nossas fraquezas porque foi provado em tudo, mas sem pecado (4:15).",
+    "Podemos nos aproximar com confiança do trono da graça para receber misericórdia (4:16)."
+   ],
+   "reflexao": "O que você precisa levar hoje com confiança ao trono da graça?",
+   "quiz": [
+    {
+     "pergunta": "Com o que o autor compara a palavra de Deus?",
+     "opcoes": [
+      "Com o fogo",
+      "Com um martelo",
+      "Com uma espada de dois gumes",
+      "Com uma lâmpada"
+     ],
+     "correta": 2,
+     "ref": "4:12"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "Sacerdote segundo Melquisedeque",
+   "chave": "5:8-9",
+   "resumo": "O autor explica que todo sumo sacerdote é escolhido por Deus para oferecer sacrifícios e deve ser compassivo com os que erram. Cristo não se exaltou a si mesmo, mas foi designado por Deus sacerdote para sempre, segundo a ordem de Melquisedeque. Nos dias de sua vida terrena, orou com clamor e lágrimas, aprendeu a obediência pelo sofrimento e tornou-se autor da salvação eterna; os leitores, porém, ainda precisavam de \"leite\" por serem imaturos.",
+   "licoes": [
+    "Cristo foi designado por Deus como sumo sacerdote; ele não se exaltou a si mesmo (5:4-5).",
+    "Jesus orou com clamor e lágrimas e aprendeu a obediência pelo que sofreu (5:7-8).",
+    "Jesus é autor da salvação eterna para todos os que lhe obedecem (5:9).",
+    "A maturidade espiritual vem com a prática de discernir o bem e o mal (5:12-14)."
+   ],
+   "reflexao": "Você tem crescido para o \"alimento sólido\" ou continua dependendo só de \"leite\"?",
+   "quiz": [
+    {
+     "pergunta": "Segundo a ordem de quem Cristo é sacerdote para sempre?",
+     "opcoes": [
+      "Moisés",
+      "Arão",
+      "Levi",
+      "Melquisedeque"
+     ],
+     "correta": 3,
+     "ref": "5:6"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "Avançar para a maturidade e a esperança firme",
+   "chave": "6:19",
+   "resumo": "O autor chama os leitores a avançar para a maturidade, sem ficar repetindo os ensinos básicos. Ele faz um sério alerta sobre os que experimentaram as bênçãos de Deus e depois caem, passagem interpretada de formas diferentes pelas tradições cristãs, mas diz estar confiante de coisas melhores a respeito dos leitores. A promessa e o juramento de Deus a Abraão garantem uma esperança segura, como âncora da alma, firmada onde Jesus entrou por nós.",
+   "licoes": [
+    "A fé precisa crescer além dos fundamentos iniciais (6:1).",
+    "Deus não se esquece do amor mostrado no serviço aos irmãos (6:10).",
+    "Devemos imitar os que, pela fé e paciência, herdam as promessas, como Abraão (6:12, 6:15).",
+    "A esperança em Cristo é uma âncora segura e firme da alma (6:19-20)."
+   ],
+   "reflexao": "Em que você tem ancorado sua esperança nos momentos de tempestade?",
+   "quiz": [
+    {
+     "pergunta": "Com que imagem o autor descreve a esperança cristã?",
+     "opcoes": [
+      "Uma âncora da alma",
+      "Uma lâmpada acesa",
+      "Uma rocha no deserto",
+      "Uma torre forte"
+     ],
+     "correta": 0,
+     "ref": "6:19"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "Um sacerdote para sempre",
+   "chave": "7:25",
+   "resumo": "Melquisedeque, rei de Salém e sacerdote do Deus Altíssimo, abençoou Abraão e recebeu dele o dízimo, mostrando-se maior que Abraão e que os sacerdotes levitas que descenderiam dele. Jesus, da tribo de Judá, é sacerdote segundo essa ordem, não por descendência, mas pelo poder de uma vida indestrutível e por juramento de Deus. Diferente dos sacerdotes mortais, ele vive para sempre para interceder pelos seus e ofereceu a si mesmo de uma vez por todas.",
+   "licoes": [
+    "O sacerdócio de Jesus é superior ao levítico porque se baseia numa vida indestrutível (7:16).",
+    "Jesus é fiador de uma aliança melhor (7:22).",
+    "Jesus pode salvar completamente os que se aproximam de Deus por meio dele, pois vive para interceder (7:25).",
+    "Jesus não precisa oferecer sacrifícios diários: ofereceu a si mesmo uma vez por todas (7:27)."
+   ],
+   "reflexao": "Que diferença faz saber que Jesus intercede por você agora?",
+   "quiz": [
+    {
+     "pergunta": "Melquisedeque era rei de qual cidade?",
+     "opcoes": [
+      "Jerusalém",
+      "Salém",
+      "Hebrom",
+      "Siquém"
+     ],
+     "correta": 1,
+     "ref": "7:1"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "O mediador de uma aliança melhor",
+   "chave": "8:10",
+   "resumo": "O ponto principal é que temos um sumo sacerdote sentado à direita de Deus, que serve no verdadeiro tabernáculo celestial, do qual o terreno era apenas sombra. Jesus é mediador de uma aliança melhor, baseada em promessas melhores. O autor cita a promessa de Jeremias de uma nova aliança, em que Deus escreveria suas leis no coração e não se lembraria mais dos pecados, o que torna a primeira aliança ultrapassada.",
+   "licoes": [
+    "Jesus está à direita de Deus, servindo no verdadeiro santuário (8:1-2).",
+    "O tabernáculo terreno era sombra e figura das realidades celestiais (8:5).",
+    "Na nova aliança, Deus escreve suas leis no coração do seu povo (8:10).",
+    "Deus promete não se lembrar mais dos pecados (8:12)."
+   ],
+   "reflexao": "Como seria viver com as leis de Deus escritas no coração, e não só no papel?",
+   "quiz": [
+    {
+     "pergunta": "Segundo a nova aliança citada, onde Deus escreveria suas leis?",
+     "opcoes": [
+      "No Templo",
+      "Em tábuas de pedra",
+      "Nos corações",
+      "Nos portões das cidades"
+     ],
+     "correta": 2,
+     "ref": "8:10"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "O sangue de Cristo e a redenção eterna",
+   "chave": "9:14",
+   "resumo": "O autor descreve o tabernáculo da primeira aliança, onde o sumo sacerdote entrava no Santo dos Santos apenas uma vez por ano, com sangue. Esses rituais não podiam purificar a consciência. Cristo, porém, entrou de uma vez por todas no santuário celestial com o próprio sangue, obtendo redenção eterna, e voltará uma segunda vez para trazer salvação aos que o esperam.",
+   "licoes": [
+    "Os rituais da primeira aliança apontavam para algo maior, mas não purificavam a consciência (9:9).",
+    "Cristo obteve redenção eterna com o próprio sangue, e não com sangue de animais (9:12).",
+    "O sangue de Cristo purifica a consciência para servirmos ao Deus vivo (9:14).",
+    "Cristo se ofereceu uma vez e aparecerá de novo para a salvação dos que o esperam (9:28)."
+   ],
+   "reflexao": "Sua consciência descansa no perdão que Cristo conquistou?",
+   "quiz": [
+    {
+     "pergunta": "Quantas vezes por ano o sumo sacerdote entrava no Santo dos Santos?",
+     "opcoes": [
+      "Duas vezes",
+      "Sete vezes",
+      "Todos os dias",
+      "Uma vez"
+     ],
+     "correta": 3,
+     "ref": "9:7"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "titulo": "Um só sacrifício e a perseverança",
+   "chave": "10:23-25",
+   "resumo": "Os sacrifícios repetidos da Lei não podiam tirar pecados, mas Jesus veio fazer a vontade de Deus e, com um único sacrifício, aperfeiçoou para sempre os que são santificados. Por isso podemos entrar com confiança na presença de Deus pelo caminho novo e vivo aberto por Jesus, manter firme a esperança, estimular o amor e as boas obras e não abandonar as reuniões. O autor alerta contra persistir no pecado de forma deliberada e lembra a perseverança que os leitores já mostraram, chamando-os a não perder a confiança.",
+   "licoes": [
+    "O sangue de animais não pode tirar pecados; o sacrifício de Jesus foi único e suficiente (10:4, 10:14).",
+    "Jesus abriu um caminho novo e vivo para a presença de Deus (10:19-20).",
+    "Devemos nos estimular ao amor e às boas obras e não abandonar as reuniões (10:24-25).",
+    "A perseverança é necessária para receber o que Deus prometeu (10:35-36)."
+   ],
+   "reflexao": "Como você pode estimular alguém ao amor e às boas obras nesta semana?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o autor, o que é impossível ao sangue de touros e bodes?",
+     "opcoes": [
+      "Tirar pecados",
+      "Consagrar o tabernáculo",
+      "Selar a aliança",
+      "Purificar o corpo"
+     ],
+     "correta": 0,
+     "ref": "10:4"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "titulo": "Os heróis da fé",
+   "chave": "11:6",
+   "resumo": "A fé é a certeza do que se espera e a convicção do que não se vê. O autor lista exemplos do Antigo Testamento que viveram pela fé: Abel, Enoque, Noé, Abraão e Sara, Isaque, Jacó, José, Moisés, Raabe e muitos outros. Alguns viram grandes livramentos, outros sofreram torturas e morte, mas todos confiaram nas promessas de Deus, que preparou algo ainda melhor.",
+   "licoes": [
+    "A fé é a certeza das coisas que se esperam e a prova das que não se veem (11:1).",
+    "Sem fé é impossível agradar a Deus, que recompensa os que o buscam (11:6).",
+    "Abraão obedeceu e saiu sem saber para onde ia (11:8).",
+    "A fé nem sempre traz livramento nesta vida; muitos sofreram esperando uma pátria melhor (11:13-16, 11:35-38)."
+   ],
+   "reflexao": "Em que passo de obediência Deus está pedindo que você confie sem ver todo o caminho?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o capítulo, quem foi transportado para não experimentar a morte?",
+     "opcoes": [
+      "Noé",
+      "Enoque",
+      "Abel",
+      "Elias"
+     ],
+     "correta": 1,
+     "ref": "11:5"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "titulo": "Correr com os olhos em Jesus",
+   "chave": "12:1-2",
+   "resumo": "Rodeados por tão grande nuvem de testemunhas, os cristãos devem deixar todo peso e pecado e correr com perseverança, olhando para Jesus, que suportou a cruz. As dificuldades são vistas como disciplina amorosa de um Pai que corrige seus filhos para que participem de sua santidade. O autor exorta a buscar a paz e a santidade, evitar raízes de amargura e lembra que os cristãos chegaram ao monte Sião celestial e recebem um reino inabalável.",
+   "licoes": [
+    "Para correr a carreira cristã é preciso deixar o que pesa e o pecado que nos envolve (12:1).",
+    "Jesus, autor e consumador da fé, suportou a cruz pela alegria que estava diante dele (12:2).",
+    "Deus disciplina a quem ama, e a disciplina produz fruto de justiça e paz (12:6, 12:11).",
+    "Devemos vigiar para que nenhuma raiz de amargura brote e contamine muitos (12:15)."
+   ],
+   "reflexao": "Que peso você precisa deixar de lado para correr melhor a carreira da fé?",
+   "quiz": [
+    {
+     "pergunta": "Por que Esaú é citado como exemplo negativo?",
+     "opcoes": [
+      "Porque fugiu de casa",
+      "Porque matou o irmão",
+      "Porque vendeu sua primogenitura por uma refeição",
+      "Porque adorou ídolos"
+     ],
+     "correta": 2,
+     "ref": "12:16"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "titulo": "Exortações finais",
+   "chave": "13:8",
+   "resumo": "O autor encerra com exortações práticas: amor fraternal, hospitalidade, cuidado com os presos, fidelidade no casamento e vida sem ganância, confiando que Deus não nos deixa. Os leitores devem lembrar dos líderes, imitar sua fé e não se deixar levar por doutrinas estranhas, pois Jesus Cristo é o mesmo ontem, hoje e para sempre. Como Jesus sofreu fora da cidade, devem sair até ele levando sua humilhação, oferecer louvor e praticar o bem.",
+   "licoes": [
+    "O amor se mostra na hospitalidade e no cuidado com os presos e maltratados (13:1-3).",
+    "O contentamento vem da promessa de que Deus nunca nos deixará (13:5-6).",
+    "Jesus Cristo é o mesmo ontem, hoje e eternamente (13:8).",
+    "Louvor a Deus e prática do bem são sacrifícios que agradam a Deus (13:15-16)."
+   ],
+   "reflexao": "Como você pode praticar a hospitalidade nesta semana?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o autor, alguns que praticaram a hospitalidade acolheram quem sem saber?",
+     "opcoes": [
+      "Apóstolos",
+      "Profetas",
+      "Reis",
+      "Anjos"
+     ],
+     "correta": 3,
+     "ref": "13:2"
+    }
+   ]
+  }
+ ]
+}

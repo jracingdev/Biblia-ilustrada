@@ -75,12 +75,12 @@
     {
      "pergunta": "Com quem os colossenses aprenderam o evangelho?",
      "opcoes": [
+      "Onésimo",
       "Timóteo",
       "Epafras",
-      "Tíquico",
-      "Onésimo"
+      "Tíquico"
      ],
-     "correta": 1,
+     "correta": 2,
      "ref": "1:7"
     }
    ]
@@ -101,12 +101,12 @@
     {
      "pergunta": "O que Cristo cravou na cruz?",
      "opcoes": [
-      "Uma coroa de espinhos",
-      "A certidão de nossa dívida",
       "A Lei de Moisés em pedra",
-      "O nome dos apóstolos"
+      "O nome dos apóstolos",
+      "Uma coroa de espinhos",
+      "A certidão de nossa dívida"
      ],
-     "correta": 1,
+     "correta": 3,
      "ref": "2:14"
     }
    ]
@@ -127,12 +127,12 @@
     {
      "pergunta": "Segundo Paulo, o que é o vínculo da perfeição?",
      "opcoes": [
-      "A fé",
       "O amor",
       "A paz",
-      "A sabedoria"
+      "A sabedoria",
+      "A fé"
      ],
-     "correta": 1,
+     "correta": 0,
      "ref": "3:14"
     }
    ]
