@@ -1,0 +1,41 @@
+{
+ "padrao": "blivre",
+ "versoes": [
+  {
+   "id": "blivre",
+   "nome": "Bíblia Livre",
+   "sigla": "BLIVRE",
+   "descricao": "Atualização da tradução de João Ferreira de Almeida (1819), edição Textus Receptus.",
+   "autores": "Diego Santos, Mario Sérgio e Marco Teles",
+   "licenca": "Creative Commons Atribuição 4.0 Brasil (CC BY 4.0)",
+   "licenca_url": "https://creativecommons.org/licenses/by/4.0/br/",
+   "fonte": "http://sites.google.com/site/biblialivre/",
+   "verificado_em": "https://ebible.org/porbr2018/copyright.htm",
+   "credito": "Todas as Escrituras em português citadas são da Bíblia Livre (BLIVRE), Copyright © Diego Santos, Mario Sérgio, e Marco Teles, http://sites.google.com/site/biblialivre/ - fevereiro de 2018. Licença Creative Commons Atribuição 4.0 Brasil (http://creativecommons.org/licenses/by/4.0/br/). Reprodução permitida desde que devidamente mencionados fonte e autores.",
+   "alteracoes": "Texto convertido para JSON por livro, capítulo e versículo, sem alterar as palavras. Os autores não endossam necessariamente esta edição.",
+   "arquivo": "data/textos/blivre/{livro}.json",
+   "status": "em uso"
+  },
+  {
+   "id": "tb1917",
+   "nome": "Tradução Brasileira (1917)",
+   "sigla": "TB",
+   "licenca": "Domínio público",
+   "status": "alternativa futura"
+  },
+  {
+   "id": "ara",
+   "nome": "Almeida Revista e Atualizada",
+   "sigla": "ARA",
+   "licenca": "© Sociedade Bíblica do Brasil",
+   "status": "não usada (direitos reservados)"
+  },
+  {
+   "id": "bkj1611",
+   "nome": "Bíblia King James 1611",
+   "sigla": "BKJ",
+   "licenca": "© 2015 BV Films Editora",
+   "status": "não usada (exige permissão escrita para mais de 1 capítulo)"
+  }
+ ]
+}

@@ -1,0 +1,598 @@
+{
+ "livros": [
+  {
+   "ordem": 1,
+   "slug": "genesis",
+   "nome": "Gênesis",
+   "abrev": "gn",
+   "testamento": "AT",
+   "capitulos": 50,
+   "status": "planejado"
+  },
+  {
+   "ordem": 2,
+   "slug": "exodo",
+   "nome": "Êxodo",
+   "abrev": "êx",
+   "testamento": "AT",
+   "capitulos": 40,
+   "status": "planejado"
+  },
+  {
+   "ordem": 3,
+   "slug": "levitico",
+   "nome": "Levítico",
+   "abrev": "lv",
+   "testamento": "AT",
+   "capitulos": 27,
+   "status": "planejado"
+  },
+  {
+   "ordem": 4,
+   "slug": "numeros",
+   "nome": "Números",
+   "abrev": "nm",
+   "testamento": "AT",
+   "capitulos": 36,
+   "status": "planejado"
+  },
+  {
+   "ordem": 5,
+   "slug": "deuteronomio",
+   "nome": "Deuteronômio",
+   "abrev": "dt",
+   "testamento": "AT",
+   "capitulos": 34,
+   "status": "planejado"
+  },
+  {
+   "ordem": 6,
+   "slug": "josue",
+   "nome": "Josué",
+   "abrev": "js",
+   "testamento": "AT",
+   "capitulos": 24,
+   "status": "planejado"
+  },
+  {
+   "ordem": 7,
+   "slug": "juizes",
+   "nome": "Juízes",
+   "abrev": "jz",
+   "testamento": "AT",
+   "capitulos": 21,
+   "status": "planejado"
+  },
+  {
+   "ordem": 8,
+   "slug": "rute",
+   "nome": "Rute",
+   "abrev": "rt",
+   "testamento": "AT",
+   "capitulos": 4,
+   "status": "planejado"
+  },
+  {
+   "ordem": 9,
+   "slug": "1-samuel",
+   "nome": "1 Samuel",
+   "abrev": "1 sm",
+   "testamento": "AT",
+   "capitulos": 31,
+   "status": "planejado"
+  },
+  {
+   "ordem": 10,
+   "slug": "2-samuel",
+   "nome": "2 Samuel",
+   "abrev": "2 sm",
+   "testamento": "AT",
+   "capitulos": 24,
+   "status": "planejado"
+  },
+  {
+   "ordem": 11,
+   "slug": "1-reis",
+   "nome": "1 Reis",
+   "abrev": "1 Rs",
+   "testamento": "AT",
+   "capitulos": 22,
+   "status": "planejado"
+  },
+  {
+   "ordem": 12,
+   "slug": "2-reis",
+   "nome": "2 Reis",
+   "abrev": "2 rs",
+   "testamento": "AT",
+   "capitulos": 25,
+   "status": "planejado"
+  },
+  {
+   "ordem": 13,
+   "slug": "1-cronicas",
+   "nome": "1 Crônicas",
+   "abrev": "1 cr",
+   "testamento": "AT",
+   "capitulos": 29,
+   "status": "planejado"
+  },
+  {
+   "ordem": 14,
+   "slug": "2-cronicas",
+   "nome": "2 Crônicas",
+   "abrev": "2 cr",
+   "testamento": "AT",
+   "capitulos": 36,
+   "status": "planejado"
+  },
+  {
+   "ordem": 15,
+   "slug": "esdras",
+   "nome": "Esdras",
+   "abrev": "ed",
+   "testamento": "AT",
+   "capitulos": 10,
+   "status": "planejado"
+  },
+  {
+   "ordem": 16,
+   "slug": "neemias",
+   "nome": "Neemias",
+   "abrev": "ne",
+   "testamento": "AT",
+   "capitulos": 13,
+   "status": "planejado"
+  },
+  {
+   "ordem": 17,
+   "slug": "ester",
+   "nome": "Ester",
+   "abrev": "et",
+   "testamento": "AT",
+   "capitulos": 10,
+   "status": "planejado"
+  },
+  {
+   "ordem": 18,
+   "slug": "jo",
+   "nome": "Jó",
+   "abrev": "jó",
+   "testamento": "AT",
+   "capitulos": 42,
+   "status": "planejado"
+  },
+  {
+   "ordem": 19,
+   "slug": "salmos",
+   "nome": "Salmos",
+   "abrev": "sl",
+   "testamento": "AT",
+   "capitulos": 150,
+   "status": "planejado"
+  },
+  {
+   "ordem": 20,
+   "slug": "proverbios",
+   "nome": "Provérbios",
+   "abrev": "pv",
+   "testamento": "AT",
+   "capitulos": 31,
+   "status": "planejado"
+  },
+  {
+   "ordem": 21,
+   "slug": "eclesiastes",
+   "nome": "Eclesiastes",
+   "abrev": "ec",
+   "testamento": "AT",
+   "capitulos": 12,
+   "status": "planejado"
+  },
+  {
+   "ordem": 22,
+   "slug": "cantares",
+   "nome": "Cantares",
+   "abrev": "ct",
+   "testamento": "AT",
+   "capitulos": 8,
+   "status": "planejado"
+  },
+  {
+   "ordem": 23,
+   "slug": "isaias",
+   "nome": "Isaías",
+   "abrev": "is",
+   "testamento": "AT",
+   "capitulos": 66,
+   "status": "planejado"
+  },
+  {
+   "ordem": 24,
+   "slug": "jeremias",
+   "nome": "Jeremias",
+   "abrev": "jr",
+   "testamento": "AT",
+   "capitulos": 52,
+   "status": "planejado"
+  },
+  {
+   "ordem": 25,
+   "slug": "lamentacoes",
+   "nome": "Lamentações",
+   "abrev": "lm",
+   "testamento": "AT",
+   "capitulos": 5,
+   "status": "planejado"
+  },
+  {
+   "ordem": 26,
+   "slug": "ezequiel",
+   "nome": "Ezequiel",
+   "abrev": "ez",
+   "testamento": "AT",
+   "capitulos": 48,
+   "status": "planejado"
+  },
+  {
+   "ordem": 27,
+   "slug": "daniel",
+   "nome": "Daniel",
+   "abrev": "dn",
+   "testamento": "AT",
+   "capitulos": 12,
+   "status": "planejado"
+  },
+  {
+   "ordem": 28,
+   "slug": "oseias",
+   "nome": "Oséias",
+   "abrev": "os",
+   "testamento": "AT",
+   "capitulos": 14,
+   "status": "planejado"
+  },
+  {
+   "ordem": 29,
+   "slug": "joel",
+   "nome": "Joel",
+   "abrev": "jl",
+   "testamento": "AT",
+   "capitulos": 3,
+   "status": "planejado"
+  },
+  {
+   "ordem": 30,
+   "slug": "amos",
+   "nome": "Amós",
+   "abrev": "am",
+   "testamento": "AT",
+   "capitulos": 9,
+   "status": "planejado"
+  },
+  {
+   "ordem": 31,
+   "slug": "obadias",
+   "nome": "Obadias",
+   "abrev": "ob",
+   "testamento": "AT",
+   "capitulos": 1,
+   "status": "planejado"
+  },
+  {
+   "ordem": 32,
+   "slug": "jonas",
+   "nome": "Jonas",
+   "abrev": "jn",
+   "testamento": "AT",
+   "capitulos": 4,
+   "status": "planejado"
+  },
+  {
+   "ordem": 33,
+   "slug": "miqueias",
+   "nome": "Miqueias",
+   "abrev": "mq",
+   "testamento": "AT",
+   "capitulos": 7,
+   "status": "planejado"
+  },
+  {
+   "ordem": 34,
+   "slug": "naum",
+   "nome": "Naum",
+   "abrev": "na",
+   "testamento": "AT",
+   "capitulos": 3,
+   "status": "planejado"
+  },
+  {
+   "ordem": 35,
+   "slug": "habacuque",
+   "nome": "Habacuque",
+   "abrev": "hc",
+   "testamento": "AT",
+   "capitulos": 3,
+   "status": "planejado"
+  },
+  {
+   "ordem": 36,
+   "slug": "sofonias",
+   "nome": "Sofonias",
+   "abrev": "sf",
+   "testamento": "AT",
+   "capitulos": 3,
+   "status": "planejado"
+  },
+  {
+   "ordem": 37,
+   "slug": "ageu",
+   "nome": "Ageu",
+   "abrev": "ag",
+   "testamento": "AT",
+   "capitulos": 2,
+   "status": "planejado"
+  },
+  {
+   "ordem": 38,
+   "slug": "zacarias",
+   "nome": "Zacarias",
+   "abrev": "zc",
+   "testamento": "AT",
+   "capitulos": 14,
+   "status": "planejado"
+  },
+  {
+   "ordem": 39,
+   "slug": "malaquias",
+   "nome": "Malaquias",
+   "abrev": "ml",
+   "testamento": "AT",
+   "capitulos": 4,
+   "status": "planejado"
+  },
+  {
+   "ordem": 40,
+   "slug": "mateus",
+   "nome": "Mateus",
+   "abrev": "mt",
+   "testamento": "NT",
+   "capitulos": 28,
+   "status": "planejado"
+  },
+  {
+   "ordem": 41,
+   "slug": "marcos",
+   "nome": "Marcos",
+   "abrev": "mc",
+   "testamento": "NT",
+   "capitulos": 16,
+   "status": "planejado"
+  },
+  {
+   "ordem": 42,
+   "slug": "lucas",
+   "nome": "Lucas",
+   "abrev": "lc",
+   "testamento": "NT",
+   "capitulos": 24,
+   "status": "planejado"
+  },
+  {
+   "ordem": 43,
+   "slug": "joao",
+   "nome": "João",
+   "abrev": "jo",
+   "testamento": "NT",
+   "capitulos": 21,
+   "status": "planejado"
+  },
+  {
+   "ordem": 44,
+   "slug": "atos",
+   "nome": "Atos",
+   "abrev": "at",
+   "testamento": "NT",
+   "capitulos": 28,
+   "status": "planejado"
+  },
+  {
+   "ordem": 45,
+   "slug": "romanos",
+   "nome": "Romanos",
+   "abrev": "rm",
+   "testamento": "NT",
+   "capitulos": 16,
+   "status": "planejado"
+  },
+  {
+   "ordem": 46,
+   "slug": "1-corintios",
+   "nome": "1 Coríntios",
+   "abrev": "1 co",
+   "testamento": "NT",
+   "capitulos": 16,
+   "status": "planejado"
+  },
+  {
+   "ordem": 47,
+   "slug": "2-corintios",
+   "nome": "2 Coríntios",
+   "abrev": "2 co",
+   "testamento": "NT",
+   "capitulos": 13,
+   "status": "planejado"
+  },
+  {
+   "ordem": 48,
+   "slug": "galatas",
+   "nome": "Gálatas",
+   "abrev": "gl",
+   "testamento": "NT",
+   "capitulos": 6,
+   "status": "planejado"
+  },
+  {
+   "ordem": 49,
+   "slug": "efesios",
+   "nome": "Efésios",
+   "abrev": "ef",
+   "testamento": "NT",
+   "capitulos": 6,
+   "status": "planejado"
+  },
+  {
+   "ordem": 50,
+   "slug": "filipenses",
+   "nome": "Filipenses",
+   "abrev": "fp",
+   "testamento": "NT",
+   "capitulos": 4,
+   "status": "planejado"
+  },
+  {
+   "ordem": 51,
+   "slug": "colossenses",
+   "nome": "Colossenses",
+   "abrev": "Cl",
+   "testamento": "NT",
+   "capitulos": 4,
+   "status": "planejado"
+  },
+  {
+   "ordem": 52,
+   "slug": "1-tessalonicenses",
+   "nome": "1 Tessalonicenses",
+   "abrev": "1 ts",
+   "testamento": "NT",
+   "capitulos": 5,
+   "status": "planejado"
+  },
+  {
+   "ordem": 53,
+   "slug": "2-tessalonicenses",
+   "nome": "2 Tessalonicenses",
+   "abrev": "2 ts",
+   "testamento": "NT",
+   "capitulos": 3,
+   "status": "planejado"
+  },
+  {
+   "ordem": 54,
+   "slug": "1-timoteo",
+   "nome": "1 Timóteo",
+   "abrev": "1 tm",
+   "testamento": "NT",
+   "capitulos": 6,
+   "status": "planejado"
+  },
+  {
+   "ordem": 55,
+   "slug": "2-timoteo",
+   "nome": "2 Timóteo",
+   "abrev": "2 tm",
+   "testamento": "NT",
+   "capitulos": 4,
+   "status": "planejado"
+  },
+  {
+   "ordem": 56,
+   "slug": "tito",
+   "nome": "Tito",
+   "abrev": "tt",
+   "testamento": "NT",
+   "capitulos": 3,
+   "status": "planejado"
+  },
+  {
+   "ordem": 57,
+   "slug": "filemom",
+   "nome": "Filemom",
+   "abrev": "fm",
+   "testamento": "NT",
+   "capitulos": 1,
+   "status": "planejado"
+  },
+  {
+   "ordem": 58,
+   "slug": "hebreus",
+   "nome": "Hebreus",
+   "abrev": "hb",
+   "testamento": "NT",
+   "capitulos": 13,
+   "status": "planejado"
+  },
+  {
+   "ordem": 59,
+   "slug": "tiago",
+   "nome": "Tiago",
+   "abrev": "tg",
+   "testamento": "NT",
+   "capitulos": 5,
+   "status": "planejado"
+  },
+  {
+   "ordem": 60,
+   "slug": "1-pedro",
+   "nome": "1 Pedro",
+   "abrev": "1 pe",
+   "testamento": "NT",
+   "capitulos": 5,
+   "status": "planejado"
+  },
+  {
+   "ordem": 61,
+   "slug": "2-pedro",
+   "nome": "2 Pedro",
+   "abrev": "2 pe",
+   "testamento": "NT",
+   "capitulos": 3,
+   "status": "planejado"
+  },
+  {
+   "ordem": 62,
+   "slug": "1-joao",
+   "nome": "1 João",
+   "abrev": "1 jo",
+   "testamento": "NT",
+   "capitulos": 5,
+   "status": "planejado"
+  },
+  {
+   "ordem": 63,
+   "slug": "2-joao",
+   "nome": "2 João",
+   "abrev": "2 jo",
+   "testamento": "NT",
+   "capitulos": 1,
+   "status": "planejado"
+  },
+  {
+   "ordem": 64,
+   "slug": "3-joao",
+   "nome": "3 João",
+   "abrev": "3 jo",
+   "testamento": "NT",
+   "capitulos": 1,
+   "status": "planejado"
+  },
+  {
+   "ordem": 65,
+   "slug": "judas",
+   "nome": "Judas",
+   "abrev": "jd",
+   "testamento": "NT",
+   "capitulos": 1,
+   "status": "planejado"
+  },
+  {
+   "ordem": 66,
+   "slug": "apocalipse",
+   "nome": "Apocalipse",
+   "abrev": "ap",
+   "testamento": "NT",
+   "capitulos": 22,
+   "status": "publicado"
+  }
+ ]
+}
