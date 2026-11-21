@@ -359,6 +359,55 @@ footer.pe{ border-top:1px solid var(--line); padding-block:1.5rem; color:var(--m
 .xr-list{ display:grid; gap:.6rem; padding-left:1.1rem; margin:0; font-family:var(--f-text) } .xr-list a{ font-family:var(--f-ui); font-weight:700 }
 .mini-rank{ margin:0; padding-left:1.2rem; display:grid; gap:.25rem }
 [hidden]{ display:none !important }
+.lk{ font:inherit; background:none; border:0; padding:.1rem 0; color:var(--link, var(--lapis)); text-decoration:underline; cursor:pointer; min-height:24px; text-align:left }
+.fx{ margin-top:.5rem; font-size:.88rem } .fx summary{ cursor:pointer; min-height:24px } .mais summary{ cursor:pointer; color:var(--fg); font-weight:600 } .fx ul{ margin:.3rem 0 0; padding-left:1.1rem }
+.nota-mini, .credito-foto{ font-size:.8rem; color:var(--muted) }
+.mapa-grid{ display:grid; grid-template-columns:minmax(0, 2fr) minmax(0, 1fr); gap:1rem; align-items:start }
+@media (max-width:900px){ .mapa-grid{ grid-template-columns:minmax(0,1fr) } }
+.mapa-box{ margin:0; background:var(--surface); border:1px solid var(--line); border-radius:var(--radius); padding:.5rem; position:sticky; top:7rem }
+@media (max-width:900px){ .mapa-box{ position:static } }
+.mapa-box figcaption{ font-size:.78rem; color:var(--muted); padding:.4rem .2rem 0 }
+.mapa-geo{ display:block; width:100%; height:auto; border-radius:10px }
+.mapa-geo .mar{ fill:var(--mapa-mar, #C9D7E6) } .mapa-geo .terra{ fill:var(--mapa-terra, #EFEAD9); stroke:var(--mapa-costa, #8A8470); vector-effect:non-scaling-stroke }
+.mapa-geo .rio{ fill:none; stroke:var(--mapa-rio, #5B8DB8) }
+.mapa-geo .pt circle{ fill:var(--mapa-pt, #B3362B); stroke:#fff; stroke-width:1px; vector-effect:non-scaling-stroke; cursor:pointer }
+#conteudo:focus{ outline:none } .mapa-geo .pt.on circle{ fill:var(--gold) }
+.mapa-geo .pt text{ fill:#1A1F33; stroke:#fff; paint-order:stroke; font-family:var(--f-ui); font-weight:600; cursor:pointer }
+.mapa-geo .pt text.num{ fill:#fff; stroke:none; text-anchor:middle; font-weight:700 }
+.mapa-geo .rota-l{ fill:none; stroke:var(--mapa-rota, #1F4FA8); vector-effect:non-scaling-stroke; stroke-width:2.5px } .mapa-geo .rota-s{ fill:var(--mapa-rota, #1F4FA8) }
+.mapa-lista{ min-width:0 } .lug-list{ list-style:none; margin:0; padding:0; columns:2 12rem; column-gap:1rem; max-height:70vh; overflow:auto } .lug-list li{ break-inside:avoid; padding:.15rem 0 }
+.paradas li{ margin:.35rem 0 }
+.card .lug-mini{ list-style:none; padding:0; margin:.5rem 0; display:flex; flex-wrap:wrap; gap:.2rem .8rem }
+.ctx-cap{ display:grid; gap:1rem } .ctx-cap .mapa-geo{ border:1px solid var(--line) }
+.foto-lugar{ width:100%; max-width:360px; height:auto; border-radius:12px; display:block }
+.ano-ctl{ display:flex; flex-wrap:wrap; gap:.6rem 1rem; align-items:center; margin:.6rem 0 } .ano-ctl input{ flex:1 1 16rem; min-width:0 } .ano-ctl output{ font-weight:700 }
+.ano-lista ul{ list-style:none; padding:0; margin:0 0 1rem; display:flex; flex-wrap:wrap; gap:.3rem 1rem }
+.raias-scroll{ overflow-x:auto; border:1px solid var(--line); border-radius:var(--radius); background:var(--surface) }
+.raias{ position:relative; min-width:max(100%, 60rem); padding:2rem .5rem .5rem 10rem }
+.eixo{ position:absolute; left:10rem; right:.5rem; top:.4rem; height:1.4rem; font-size:.72rem; color:var(--muted) } .eixo span{ position:absolute; transform:translateX(-50%); white-space:nowrap }
+.cursor{ position:absolute; top:1.8rem; bottom:0; width:2px; background:var(--gold); pointer-events:none; left:0 }
+.raias .cursor{ left:0 }
+.raia{ position:relative; display:flex; align-items:center; min-height:2.6rem; border-top:1px solid var(--line) }
+.raia-n{ position:absolute; left:-9.6rem; width:9.2rem; font-size:.8rem; margin:0; line-height:1.15; padding-left:.5rem; border-left:4px solid var(--c) }
+.raia ul{ list-style:none; margin:0; padding:0; position:relative; min-height:2.2rem; flex:1 }
+.raia li{ position:absolute; height:1.8rem }
+.rei{ width:100%; height:100%; border:1px solid color-mix(in srgb, var(--c) 70%, #000); background:color-mix(in srgb, var(--c) 30%, var(--surface)); color:var(--fg); border-radius:6px; font:inherit; font-size:.72rem; padding:0 .25rem; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; cursor:pointer; text-align:left; min-width:6px }
+.rei span{ pointer-events:none } span.rei{ display:block } .lista-povo{ font-size:1rem; margin:1rem 0 .3rem } .lista-reis{ list-style:none; padding:0; margin:0; columns:2 16rem } .rei.bom{ box-shadow:inset 0 -3px 0 var(--ok) } .rei.mau{ box-shadow:inset 0 -3px 0 #C0392B }
+.arcos-reis{ position:absolute; inset:0; width:100%; height:100%; pointer-events:none } .arcos-reis path{ fill:none; stroke:var(--gold); stroke-width:1; opacity:.35 }
+.legenda{ font-size:.85rem; color:var(--muted) } .lg{ display:inline-block; width:1.4rem; height:.8rem; border:1px solid var(--line); vertical-align:middle; margin:0 .3rem 0 .8rem } .lg.bom{ box-shadow:inset 0 -3px 0 var(--ok) } .lg.mau{ box-shadow:inset 0 -3px 0 #C0392B }
+.meses{ list-style:none; padding:0; display:grid; grid-template-columns:repeat(auto-fill, minmax(min(16rem,100%),1fr)); gap:.8rem }
+.mes{ background:var(--surface); border:1px solid var(--line); border-radius:var(--radius); padding:.9rem 1rem } .mes h3{ margin:.2rem 0 .3rem } .mes p{ margin:.3rem 0 }
+.chips-f{ display:flex; flex-wrap:wrap; gap:.3rem } .chip-f{ font-size:.8rem; border:1px solid var(--gold); border-radius:99px; padding:.15rem .6rem; text-decoration:none; color:var(--fg); min-height:24px; display:inline-flex; align-items:center }
+.festas, .cos-list{ display:grid; grid-template-columns:repeat(auto-fill, minmax(min(22rem,100%),1fr)); gap:1rem }
+.festa h3{ margin:.2rem 0 .5rem } .dl-f dt{ font-weight:700; margin-top:.4rem } .dl-f dd{ margin:.1rem 0 0 }
+.festa:target, .festa:focus{ outline:3px solid var(--gold) }
+.meta{ font-size:.88rem; color:var(--muted) }
+.obj-grid{ display:grid; grid-template-columns:repeat(auto-fill, minmax(min(19rem,100%),1fr)); gap:1rem }
+.obj{ background:var(--surface); border:1px solid var(--line); border-radius:var(--radius); overflow:hidden; display:flex; flex-direction:column }
+.obj.alvo{ outline:3px solid var(--gold) }
+.obj-foto{ position:relative; aspect-ratio:4 / 3; background:var(--surface-2) } .obj-foto img{ width:100%; height:100%; object-fit:cover; display:block }
+.sem-foto{ width:100%; height:100%; display:grid; place-items:center; color:var(--muted); font-family:var(--f-display); text-align:center; padding:1rem }
+.obj-in{ padding:.9rem 1rem } .obj-in h3{ margin:.2rem 0 .3rem }
 .home-num{ display:grid; grid-template-columns:repeat(auto-fit, minmax(min(7.5rem,100%),1fr)); gap:.6rem; margin:1.2rem 0 0; max-width:40rem }
 .home-num div{ display:flex; flex-direction:column-reverse; background:rgb(255 255 255 / .07); border:1px solid rgb(255 255 255 / .16); border-radius:12px; padding:.6rem .8rem }
 .home-num dt{ color:#DCDDEA; font-size:.85rem } .home-num dd{ margin:0; font-family:var(--f-display); font-size:clamp(1.4rem, 4vw, 2rem); color:#F4F1E6 }
@@ -398,6 +447,11 @@ footer.pe{ border-top:1px solid var(--line); padding-block:1.5rem; color:var(--m
         <li><a href="#inicio" data-r="inicio">Início</a></li>
         <li><a href="#livros" data-r="livros">Livros</a></li>
         <li><a href="#biblia" data-r="biblia">Bíblia em arcos</a></li>
+        <li><a href="#mapas" data-r="mapas">Mapas</a></li>
+        <li><a href="#reis" data-r="reis">Reis</a></li>
+        <li><a href="#calendario" data-r="calendario">Calendário e festas</a></li>
+        <li><a href="#costumes" data-r="costumes">Costumes</a></li>
+        <li><a href="#objetos" data-r="objetos">Objetos</a></li>
         <li><a href="#sobre" data-r="sobre">Sobre</a></li>
       </ul>
     </nav>
@@ -479,6 +533,14 @@ footer.pe{ border-top:1px solid var(--line); padding-block:1.5rem; color:var(--m
     <h2 id="at-t"></h2>
     <div id="at-body" style="display:grid;gap:1rem"></div>
     <div class="dlg-foot"><a class="btn" href="#raizes" id="at-all">Ver todas as conexões</a><button class="btn primary" value="ok">Fechar</button></div>
+  </form>
+</dialog>
+
+<dialog id="info-dlg" aria-labelledby="info-t">
+  <form method="dialog" class="dlg-in">
+    <span class="eyebrow" id="info-eb"></span>
+    <div id="info-body"></div>
+    <div class="dlg-foot"><a class="btn" href="#mapas" id="info-all">Ver todos</a><button class="btn primary" value="ok">Fechar</button></div>
   </form>
 </dialog>
 
@@ -704,6 +766,7 @@ function abrirPalavra(id, slug){
   const X = slug && B.extras ? B.extras.get(slug) : null, lista = X ? X.palavras : D.palavras.palavras, w = lista.find(x => x.id === id); if (!w) return;
   const l = X ? livroPorSlug(slug) : null;
   $("#pal-body").innerHTML = `<div class="pal" style="border:0;padding:0">${palHTML(w, "h2", l ? refLivro(l) : null, l ? l.testamento === "NT" : true).replace('id="pal-' + w.id + '-t"', 'id="pal-t"')}</div>`;
+  $("#pal-all").setAttribute("href", X ? `#extras-${slug}-palavras` : "#palavras");
   $("#pal-dlg").showModal();
 }
 document.addEventListener("click", e => {
@@ -919,6 +982,7 @@ function telaLeitura(slug, c){
       </nav>
     </article>
     <aside class="estudo" aria-label="Estudo do livro">
+      <div id="ctx-cap" class="ctx-cap"></div>
       <section class="card"><h2>Conexões de ${esc(l.nome)}</h2><p style="color:var(--muted);font-size:.9rem">Os livros mais ligados a este, segundo as referências cruzadas.</p><div id="lv-top"><p class="carregando">Carregando…</p></div>
         <a class="btn" href="#conexoes-${slug}" style="margin-top:.6rem">Ver em arcos</a></section>
       ${est ? `<section class="card" aria-labelledby="t-lic"><h2 id="t-lic">O que este capítulo ensina</h2><ul>${est.licoes.map(x => `<li>${refsLivro(l, x)}</li>`).join("")}</ul></section>
@@ -1159,7 +1223,7 @@ async function renderBiblia(r){
       if (!m[2] && E){ html = telaIntroLivro(slug); view.innerHTML = html; document.querySelectorAll("nav.main a").forEach(a => a.dataset.r === "livros" ? a.setAttribute("aria-current", "page") : a.removeAttribute("aria-current")); document.title = `${livroPorSlug(slug).nome} · Bíblia Ilustrada`; anunciar("Página: " + livroPorSlug(slug).nome); window.scrollTo(0, 0); $("#conteudo").focus({ preventScroll:true }); ligarSeletor(s => s === "apocalipse" ? "apocalipse" : "livro-" + s); return; }
       html = telaLeitura(slug, c); ativo = "livros";
       pos = async () => {
-        store.set("ultimo", { s:slug, c });
+        store.set("ultimo", { s:slug, c }); preencherContexto(slug, c);
         ligarSeletor(s => s === "apocalipse" ? "cap-1" : "livro-" + s + "-1");
         $("#sel-cap-l").addEventListener("change", e => location.hash = `livro-${slug}-${e.target.value}`);
         if (m[3]){ const p = document.getElementById("v" + m[3]); if (p){ p.classList.add("alvo"); p.scrollIntoView({ block:"center" }); setTimeout(() => p.classList.remove("alvo"), 2500); } }
@@ -1176,6 +1240,274 @@ async function renderBiblia(r){
     if (!/-v\d+$/.test(r)) window.scrollTo(0, 0);
     if (r !== "inicio") $("#conteudo").focus({ preventScroll:true });
     pos();
+  } catch (err){ view.innerHTML = `<p class="carregando" role="alert">Não foi possível carregar (${esc(err.message)}). Verifique a conexão e recarregue.</p>`; }
+}
+
+
+/* =====================================================================
+   CONTEXTO: mapas e rotas, reis, calendário, costumes, objetos
+   ===================================================================== */
+const T = {};
+const carregarTema = async nome => { if (!(nome in T)){ try { T[nome] = await getJSON(`data/biblia/${nome}.json`); } catch { T[nome] = null; } } return T[nome]; };
+const refCurta = r => { const m = String(r).match(/^([a-z0-9-]+) (.+)$/); if (!m) return null; const l = livroPorSlug(m[1]); return l ? { l, txt:m[2], p:parseRef(m[2]) } : null; };
+const refsGerais = (refs, max) => { const a = (refs || []).map(refCurta).filter(Boolean), n = max && a.length > max ? max : a.length; return a.slice(0, n).map(x => `<a href="${linkLivro(x.l, x.p.c, x.p.v)}">${esc(x.l.nome)} ${esc(x.txt)}</a>`).join(", ") + (a.length > n ? ` e mais ${a.length - n}` : ""); };
+const fonteExtra = fx => (fx && fx.length) ? `<details class="fx"><summary><span class="badge ext">Fonte extrabíblica</span> <small>${fx.length > 1 ? fx.length + " fontes" : "1 fonte"}</small></summary><ul>${fx.map(f => `<li>${esc(f.fonte)}, ${esc(f.referencia)} <small>(${esc(f.data)})</small></li>`).join("")}</ul></details>` : "";
+const notaLonga = t => { const m = String(t || "").match(/^(.{60,320}?[.!?])\s+(.+)$/s); return m ? `${esc(m[1])} <details class="mais"><summary>Ler mais</summary><p>${esc(m[2])}</p></details>` : esc(t); };
+const fmtAno = a => a == null ? "?" : a < 0 ? `${-a} a.C.` : `${a} d.C.`;
+const abrirInfo = (eb, html, todos, todosTxt) => { $("#info-eb").textContent = eb; $("#info-body").innerHTML = html; const a = $("#info-all"); a.setAttribute("href", todos); a.textContent = todosTxt; $("#info-dlg").showModal(); };
+document.addEventListener("click", e => { if (e.target.closest("#info-dlg a[href^='#']")) $("#info-dlg").close(); });
+// refs no formato do livro (slug, c) -> filtro
+const refNoCap = (refs, slug, c) => (refs || []).some(r => { const x = refCurta(r); if (!x || x.l.slug !== slug) return false; const m = x.txt.match(/^(\d+):\d+(?:-(?:(\d+):)?\d+)?$/); return m && c >= +m[1] && c <= +(m[2] || m[1]); });
+
+/* ---------- Mapa base (SVG) ---------- */
+let MAPA = null;
+async function carregarMapa(){ if (!MAPA){ MAPA = await getJSON("data/biblia/mapa-base.json"); MAPA.L = (await getJSON("data/biblia/lugares.json")); MAPA.porId = new Map(MAPA.L.lugares.map(l => [l.id, l])); } return MAPA; }
+const proj = ll => { const p = MAPA.projecao; return [(ll[0] - p.lon0) * p.k * p.escala, (p.lat1 - ll[1]) * p.escala]; };
+const fotoLugar = id => `img/lugares/${id}.webp`;
+// fotos empacotadas (prévia sem pastas de imagens): se a imagem não carregar, busca o pacote
+const PACOTES = new Map();
+async function fotoPacote(img){
+  const id = img.dataset.foto, k = img.dataset.pac + "-" + id.slice(-1);
+  if (img.dataset.tentou) return; img.dataset.tentou = "1";
+  try { if (!PACOTES.has(k)) PACOTES.set(k, getJSON(`img/pacotes/${k}.json`)); const P = await PACOTES.get(k); if (P[id]) img.src = P[id]; } catch {}
+}
+document.addEventListener("error", e => { const t = e.target; if (t.tagName === "IMG" && t.dataset.foto) fotoPacote(t); }, true);
+function mapaSVG(pontos, opc = {}){
+  const M = MAPA, pts = pontos.map(p => ({ ...p, xy:proj(p.ll) }));
+  let x0, y0, x1, y1;
+  if (pts.length){
+    // enquadra o miolo dos pontos (os muito distantes ficam fora do quadro, mas seguem na lista)
+    const xs = pts.map(p => p.xy[0]).sort((a, b) => a - b), ys = pts.map(p => p.xy[1]).sort((a, b) => a - b), cut = pts.length >= 12 && !opc.todos ? Math.floor(pts.length * .06) : 0;
+    x0 = xs[cut]; x1 = xs[xs.length - 1 - cut]; y0 = ys[cut]; y1 = ys[ys.length - 1 - cut]; }
+  else { [x0, y0] = proj([33.8, 33.6]); [x1, y1] = proj([36.6, 30.4]); }
+  if (opc.geral){ const g = M.vistas.geral.viewBox; x0 = g[0]; y0 = g[1]; x1 = g[0] + g[2]; y1 = g[1] + g[3]; }
+  let w = Math.max(x1 - x0, (opc.min || [14, 11])[0]), h = Math.max(y1 - y0, (opc.min || [14, 11])[1]); const cx = (x0 + x1) / 2, cy = (y0 + y1) / 2;
+  w *= opc.geral ? 1 : 1.25; h *= opc.geral ? 1 : 1.25; const ar = opc.ar || 4 / 3; if (w / h > ar) h = w / ar; else w = h * ar;
+  const vb = [cx - w / 2, cy - h / 2, w, h], L = M.vistas.levante, lb = L.viewBox;
+  const det = !opc.geral && vb[0] < lb[0] + lb[2] && vb[0] + w > lb[0] && vb[1] < lb[1] + lb[3] && vb[1] + h > lb[1] && w < 90;
+  const e = opc.escala || 1, r = w / 190 * e, fs = w / 62 * e, sw = w / 400;
+  // rótulos: os mais citados primeiro, pulando os que se sobrepõem
+  const rotulos = new Set(), caixas = [];
+  for (const p of pts.slice().sort((a, b) => (b.peso || 0) - (a.peso || 0))){
+    if (rotulos.size >= (opc.maxRot ?? 22)) break;
+    const [x, y] = p.xy; if (x < vb[0] || x > vb[0] + w || y < vb[1] || y > vb[1] + h) continue;
+    const bx = [x + r * 1.8, y - r - fs, x + r * 1.8 + p.nome.length * fs * .56, y - r + fs * .25];
+    if (caixas.some(c => bx[0] < c[2] && bx[2] > c[0] && bx[1] < c[3] && bx[3] > c[1])) continue;
+    caixas.push(bx, [x - r, y - r, x + r, y + r]); rotulos.add(p.id); }
+  const linhas = (opc.linhas || []).map(seg => { const q = seg.map(ll => proj(ll)); return `<polyline points="${q.map(p => p.map(n => n.toFixed(2)).join(",")).join(" ")}" class="rota-l" stroke-width="${sw * 2.2}" />${q.slice(1).map((p, i) => { const a = q[i], mx = (a[0] + p[0]) / 2, my = (a[1] + p[1]) / 2, ang = Math.atan2(p[1] - a[1], p[0] - a[0]) * 180 / Math.PI; return `<path d="M${-r * 1.6},${-r * 1.1}L${r * 1.4},0L${-r * 1.6},${r * 1.1}z" class="rota-s" transform="translate(${mx.toFixed(2)},${my.toFixed(2)}) rotate(${ang.toFixed(1)})"/>`; }).join("")}`; }).join("");
+  return `<svg class="mapa-geo" viewBox="${vb.map(n => n.toFixed(2)).join(" ")}" role="img" aria-label="${esc(opc.rotulo || "Mapa")}" preserveAspectRatio="xMidYMid meet">
+    <rect x="${vb[0]}" y="${vb[1]}" width="${w}" height="${h}" class="mar"/>
+    <path d="${M.vistas.geral.terra}" class="terra" stroke-width="${sw}"/><path d="${M.vistas.geral.lagos}" class="mar"/>
+    ${det ? `<rect x="${lb[0]}" y="${lb[1]}" width="${lb[2]}" height="${lb[3]}" class="mar"/><path d="${L.terra}" class="terra" stroke-width="${sw}"/><path d="${L.lagos}" class="mar"/><path d="${L.rios}" class="rio" stroke-width="${sw * 1.3}"/>` : `<path d="${M.vistas.geral.rios}" class="rio" stroke-width="${sw * 1.3}"/>`}
+    ${linhas}
+    ${pts.map(p => `<g class="pt${p.destaque ? " on" : ""}" data-lugar="${p.id}"><circle cx="${p.xy[0].toFixed(2)}" cy="${p.xy[1].toFixed(2)}" r="${(p.num ? r * 1.9 : p.destaque ? r * 1.5 : r).toFixed(3)}"/>${p.num ? `<text x="${p.xy[0].toFixed(2)}" y="${(p.xy[1] + fs * .35).toFixed(2)}" style="font-size:${(fs * .85).toFixed(2)}px" class="num">${p.num}</text>` : ""}${rotulos.has(p.id) ? `<text x="${(p.xy[0] + r * 1.8).toFixed(2)}" y="${(p.xy[1] - r).toFixed(2)}" style="font-size:${fs.toFixed(2)}px;stroke-width:${(fs / 5).toFixed(2)}px">${esc(p.nome)}</text>` : ""}</g>`).join("")}
+  </svg>`;
+}
+document.addEventListener("click", e => { const g = e.target.closest("[data-lugar]"); if (g) abrirLugar(g.dataset.lugar); });
+function lugarRefs(l, max){
+  const E = B.estr, a = l.r.map(n => { const b = Math.floor(n / 1e6), c = Math.floor(n / 1e3) % 1000, v = n % 1000; return { lv:E.livros[b], c, v }; }).filter(x => x.lv && x.lv.versos[x.c - 1] && x.v <= x.lv.versos[x.c - 1]);
+  const k = max && a.length > max ? max : a.length;
+  return a.slice(0, k).map(x => `<a href="${linkLivro(x.lv, x.c, x.v)}">${esc(x.lv.abrev || x.lv.nome)} ${x.c}:${x.v}</a>`).join(", ") + (a.length > k ? ` e mais ${a.length - k}` : "");
+}
+const creditoFoto = f => f ? `<p class="credito-foto">Foto: ${f.u ? `<a href="${esc(f.u)}" target="_blank" rel="noopener">${esc(f.a)}<span class="sr"> (abre em nova aba)</span></a>` : esc(f.a)}${f.l ? `, ${esc(f.l)}` : ""}. ${esc(f.d)}</p>` : "";
+async function abrirLugar(id){
+  await carregarMapa(); const l = MAPA.porId.get(id); if (!l) return;
+  abrirInfo(l.t ? l.t[0].toUpperCase() + l.t.slice(1) : "Lugar", `
+    <h2 id="info-t">${esc(l.n)}</h2>
+    ${l.f ? `<img class="foto-lugar" src="${fotoLugar(l.id)}" data-foto="${l.id}" data-pac="lugares" alt="${esc(l.f.d || l.n)}" width="360" height="360" loading="lazy">` : ""}
+    ${creditoFoto(l.f)}
+    ${l.s ? `<p>${esc(l.s)}</p>` : ""}
+    <p><b>Citado em ${l.r.length} ${l.r.length > 1 ? "versículos" : "versículo"}:</b> ${lugarRefs(l, 40)}</p>
+    <p class="nota-mini">Localização ${l.c >= 500 ? "bem aceita" : l.c >= 100 ? "provável" : "incerta"} segundo o OpenBible.info (${esc(l.en)}). Coordenadas: ${l.ll[1].toFixed(3)}, ${l.ll[0].toFixed(3)}.</p>`, `#mapas`, "Abrir os mapas");
+}
+
+/* ---------- Tela de mapas ---------- */
+function lugaresDoLivro(slug, c){
+  const bi = livroPorSlug(slug).i, lo = bi * 1e6 + (c || 0) * 1e3, hi = c ? lo + 999 : lo + 999999;
+  return MAPA.L.lugares.map(l => ({ l, n:l.r.filter(n => n >= lo && n <= hi).length })).filter(x => x.n);
+}
+function telaMapas(modo, chave){
+  const R = T.rotas ? T.rotas.rotas : [], rota = modo === "rota" ? R.find(r => r.id === chave) : null, slug = modo === "livro" ? chave : null;
+  let lista, pontos, linhas = [], titulo, intro;
+  if (rota){
+    const ps = rota.paradas.map(p => ({ p, l:MAPA.porId.get(p.lugar) })).filter(x => x.l);
+    pontos = ps.map((x, i) => ({ id:x.l.id, nome:x.p.nome || x.l.n, ll:x.l.ll, num:i + 1, peso:100 - i }));
+    const vistos = new Set(); pontos = pontos.filter(p => !vistos.has(p.id + p.num) && vistos.add(p.id + p.num));
+    linhas = [ps.map(x => x.l.ll)]; titulo = rota.titulo; intro = rota.resumo;
+    lista = `<ol class="paradas">${ps.map(x => `<li><button type="button" class="lk" data-lugar="${x.l.id}">${esc(x.p.nome || x.l.n)}</button>${x.p.refs && x.p.refs.length ? ` <small>${refsGerais(x.p.refs, 3)}</small>` : ""}${x.p.nota ? `<br><small>${esc(x.p.nota)}</small>` : ""}</li>`).join("")}</ol>`;
+  } else {
+    const base = slug ? lugaresDoLivro(slug) : MAPA.L.lugares.map(l => ({ l, n:l.r.length }));
+    base.sort((a, b) => b.n - a.n);
+    pontos = base.map(x => ({ id:x.l.id, nome:x.l.n, ll:x.l.ll, peso:x.n }));
+    titulo = slug ? `Lugares de ${livroPorSlug(slug).nome}` : "Mapas da Bíblia"; intro = slug ? `Os ${base.length} lugares citados em ${livroPorSlug(slug).nome} que têm localização conhecida ou provável. Toque num lugar para ver foto e versículos.` : `${base.length} lugares citados na Bíblia, com localização e foto. Escolha um livro ou uma viagem para ver o mapa de perto.`;
+    lista = `<div class="busca"><label class="sr" for="q-lug">Buscar lugar</label><input id="q-lug" type="search" placeholder="Buscar lugar…" autocomplete="off"></div><p class="sr" id="lug-count" role="status" aria-live="polite"></p>
+      <ul class="lug-list">${base.map(x => `<li data-busca="${esc((x.l.n + " " + x.l.en).toLowerCase())}"><button type="button" class="lk" data-lugar="${x.l.id}">${esc(x.l.n)}</button> <small>${esc(x.l.t)} · ${x.n}×</small></li>`).join("")}</ul>`;
+  }
+  return `
+  <header class="cap-h"><span class="eyebrow">Geografia bíblica</span><h1>${esc(titulo)}</h1></header>
+  <div class="cap-nav mapa-ctl">
+    <label class="sr" for="sel-mapa-l">Mapa de um livro</label><select id="sel-mapa-l"><option value="">Todos os livros</option>${B.estr.livros.map(l => `<option value="${l.slug}" ${l.slug === slug ? "selected" : ""}>${esc(l.nome)}</option>`).join("")}</select>
+    <label class="sr" for="sel-rota">Viagem ou rota</label><select id="sel-rota"><option value="">Viagens e rotas…</option>${R.map(r => `<option value="${r.id}" ${rota && r.id === rota.id ? "selected" : ""}>${esc(r.titulo)}</option>`).join("")}</select>
+  </div>
+  <p style="color:var(--muted);max-width:72ch">${esc(intro)}${rota && rota.periodo ? ` <b>Época:</b> ${esc(rota.periodo)}.` : ""}</p>
+  ${rota && rota.nota ? `<p class="nota">${esc(rota.nota)}${rota.certeza ? ` (certeza ${esc(rota.certeza)})` : ""}</p>` : ""}
+  <div class="mapa-grid">
+    <figure class="mapa-box">${mapaSVG(pontos, { linhas, geral:!slug && !rota, maxRot:rota ? 40 : slug ? 22 : 30, rotulo:titulo + ": mapa. A lista ao lado traz os mesmos lugares." })}
+      <figcaption>Contornos atuais (Natural Earth). Locais: OpenBible.info, CC BY 4.0. ${rota ? "As setas mostram o sentido da viagem; o traço liga as paradas em linha reta." : ""}</figcaption></figure>
+    <div class="mapa-lista">${rota ? `<h2>Paradas</h2>` : `<h2 class="sr">Lugares</h2>`}${lista}${rota ? `<p>${refsGerais(rota.refs)}</p>` : ""}</div>
+  </div>`;
+}
+
+/* ---------- Reis em raias paralelas ---------- */
+const FAIXAS = [["tudo", "Tudo", -2100, 100], ["reino", "Reino unido e dividido", -1060, -560], ["imperios", "Assíria, Babilônia e Pérsia", -760, -400], ["helenista", "Gregos e hasmoneus", -340, -30], ["nt", "Tempo de Jesus e dos apóstolos", -40, 100]];
+function telaReis(fx){
+  const D = T.reis, F = FAIXAS.find(f => f[0] === fx) || FAIXAS[1], [, , a, b] = F, span = b - a;
+  const vis = D.reis.filter(r => r.inicio != null && (r.fim ?? r.inicio) >= a && r.inicio <= b);
+  const povos = D.povos.filter(p => vis.some(r => r.povo === p.id));
+  const pos = x => ((Math.min(Math.max(x, a), b) - a) / span * 100);
+  const passo = span > 1500 ? 250 : span > 400 ? 100 : span > 250 ? 50 : 20, marcas = []; for (let y = Math.ceil(a / passo) * passo; y <= b; y += passo) marcas.push(y);
+  return `
+  <header class="cap-h"><span class="eyebrow">Linha do tempo</span><h1>Os reis da Bíblia</h1></header>
+  <p style="color:var(--muted);max-width:75ch">Cada faixa é um povo; cada barra, um reinado. Barras na mesma coluna reinaram ao mesmo tempo. Toque num rei para ver quem eram seus contemporâneos e onde ele aparece na Bíblia.</p>
+  <div class="aviso-ext" role="note"><b>Datas aproximadas.</b> Para Israel e Judá seguimos a cronologia de Edwin R. Thiele; as datas de reis estrangeiros vêm de fontes extrabíblicas, indicadas em cada rei. <details><summary>Como as datas foram calculadas</summary><p>${esc(D.nota_cronologia)}</p></details></div>
+  <nav class="filtros" aria-label="Período">${FAIXAS.map(f => `<a class="btn${f === F ? " primary" : ""}" href="#reis-${f[0]}"${f === F ? ' aria-current="page"' : ""}>${f[1]}</a>`).join("")}</nav>
+  <div class="ano-ctl"><label for="ano">Quem reinava em <output id="ano-o" for="ano"></output>?</label><input type="range" id="ano" min="${a}" max="${b}" step="1" value="${Math.round((a + b) / 2)}"></div>
+  <div id="ano-lista" class="ano-lista" role="status" aria-live="polite"></div>
+  <div class="raias-scroll" tabindex="0" aria-label="Linha do tempo dos reis, role para os lados">
+    <div class="raias" style="--n:${povos.length}">
+      <div class="eixo" aria-hidden="true">${marcas.map(y => `<span style="left:${pos(y)}%">${fmtAno(y)}</span>`).join("")}</div>
+      <div class="cursor" id="cursor" aria-hidden="true"></div>
+      <svg class="arcos-reis" id="arcos-reis" aria-hidden="true" preserveAspectRatio="none"></svg>
+      ${povos.map(p => { const fila = [], linha = new Map(); vis.filter(r => r.povo === p.id).sort((x, y) => x.inicio - y.inicio).forEach(r => { let k = fila.findIndex(f => f < r.inicio + .01); if (k < 0){ k = fila.length; fila.push(0); } fila[k] = (r.fim ?? r.inicio + 1); linha.set(r.id, k); }); return `<div class="raia"><h2 class="raia-n" style="--c:${esc(p.cor || "#888")}">${esc(p.nome)}</h2><ul style="height:${fila.length * 2.1 + .1}rem">${vis.filter(r => r.povo === p.id).map(r => { const lw = pos(r.fim ?? r.inicio + 1) - pos(r.inicio), cls = `rei ${r.avaliacao === "fez o que era reto" ? "bom" : r.avaliacao === "fez o que era mau" ? "mau" : ""}`; return `<li style="top:${linha.get(r.id) * 2.1 + .2}rem;left:${pos(r.inicio)}%;width:max(${lw.toFixed(3)}%, 6px);--c:${esc(p.cor || "#888")}">${lw >= 3.2 ? `<button type="button" class="${cls}" data-rei="${r.id}" aria-label="${esc(r.nome)}, ${esc(p.nome)}, ${fmtAno(r.inicio)} a ${fmtAno(r.fim)}${r.aprox ? ", datas aproximadas" : ""}"><span>${esc(r.nome)}</span></button>` : `<span class="${cls}" data-rei="${r.id}" title="${esc(r.nome)}" aria-hidden="true"><span>${esc(r.nome)}</span></span>`}</li>`; }).join("")}</ul></div>`; }).join("")}
+    </div>
+  </div>
+  <p class="legenda"><span class="lg bom"></span> fez o que era reto (Israel e Judá) <span class="lg mau"></span> fez o que era mau <span class="lg"></span> outros</p>
+  <details class="nota"><summary><b>Todos os governantes em lista</b> (${D.reis.length})</summary>
+    ${D.povos.map(p => { const rs = D.reis.filter(r => r.povo === p.id); return rs.length ? `<h2 class="lista-povo">${esc(p.nome)}</h2><ul class="lista-reis">${rs.map(r => `<li><button type="button" class="lk" data-rei="${r.id}">${esc(r.nome)}</button> <small>${fmtAno(r.inicio)} a ${fmtAno(r.fim)}${r.aprox ? " (aprox.)" : ""}</small></li>`).join("")}</ul>` : ""; }).join("")}
+  </details>`;
+}
+const reiPorId = id => T.reis.reis.find(r => r.id === id);
+const contemporaneos = r => { const f = r.fim ?? r.inicio; return T.reis.reis.filter(o => o !== r && o.povo !== r.povo && o.inicio != null && o.inicio <= f && (o.fim ?? o.inicio) >= r.inicio); };
+function abrirRei(id){
+  const r = reiPorId(id); if (!r) return; const p = T.reis.povos.find(x => x.id === r.povo), ct = contemporaneos(r), lig = (r.contemporaneos || []).map(reiPorId).filter(Boolean);
+  abrirInfo(p ? p.nome : "Rei", `
+    <h2 id="info-t">${esc(r.nome)}</h2>
+    <p class="meta"><b>${esc(r.titulo || "rei")}</b> · ${fmtAno(r.inicio)} a ${fmtAno(r.fim)}${r.aprox ? " (aprox.)" : ""}${r.avaliacao ? ` · <span class="badge ${r.avaliacao === "fez o que era reto" ? "exp" : "int"}">${esc(r.avaliacao)}</span>` : ""}</p>
+    <p>${esc(r.resumo)}</p>
+    ${r.particularidades && r.particularidades.length ? `<ul>${r.particularidades.map(x => `<li>${esc(x)}</li>`).join("")}</ul>` : ""}
+    ${r.corregencia ? `<p><b>Corregência:</b> ${esc(r.corregencia)}</p>` : ""}${r.datas_alternativas ? `<p><b>Outras datas:</b> ${esc(r.datas_alternativas)}</p>` : ""}
+    ${r.refs && r.refs.length ? `<p><b>Na Bíblia:</b> ${refsGerais(r.refs, 12)}</p>` : `<p><b>Não citado diretamente na Bíblia</b> (contexto histórico).</p>`}
+    ${lig.length ? `<p><b>Interagiu com:</b> ${lig.map(o => `<button type="button" class="lk" data-rei="${o.id}">${esc(o.nome)}</button>`).join(", ")}</p>` : ""}
+    ${ct.length ? `<p><b>Reinavam na mesma época:</b> ${ct.slice(0, 18).map(o => `<button type="button" class="lk" data-rei="${o.id}">${esc(o.nome)}</button> <small>(${esc((T.reis.povos.find(x => x.id === o.povo) || {}).nome || "")})</small>`).join(", ")}</p>` : ""}
+    ${fonteExtra(r.fonte_extra)}`, "#reis", "Linha do tempo");
+}
+document.addEventListener("click", e => { const b = e.target.closest("[data-rei]"); if (b) abrirRei(b.dataset.rei); });
+function montarReis(){
+  const sl = $("#ano"), out = $("#ano-o"), lst = $("#ano-lista"), cur = $("#cursor"), a = +sl.min, b = +sl.max;
+  const upd = () => { const y = +sl.value; out.textContent = fmtAno(y); cur.style.left = `calc(${(y - a) / (b - a)} * (100% - 10.5rem) + 10rem)`;
+    const rs = T.reis.reis.filter(r => r.inicio != null && r.inicio <= y && (r.fim ?? r.inicio) >= y);
+    lst.innerHTML = rs.length ? `<ul>${rs.map(r => `<li><button type="button" class="lk" data-rei="${r.id}">${esc(r.nome)}</button> <small>${esc((T.reis.povos.find(p => p.id === r.povo) || {}).nome || "")}</small></li>`).join("")}</ul>` : "<p>Nenhum rei registrado neste ano.</p>"; };
+  sl.addEventListener("input", upd); upd();
+  desenharArcosReis(); window.addEventListener("resize", desenharArcosReis);
+}
+function desenharArcosReis(){
+  const svg = $("#arcos-reis"); if (!svg) return; const box = svg.parentElement.getBoundingClientRect(); svg.setAttribute("viewBox", `0 0 ${box.width} ${box.height}`);
+  const pos = el => { const r = el.getBoundingClientRect(); return [r.left - box.left + r.width / 2, r.top - box.top + r.height / 2]; };
+  let d = ""; const feitos = new Set();
+  T.reis.reis.forEach(r => (r.contemporaneos || []).forEach(o => { const k = [r.id, o].sort().join("|"); if (feitos.has(k)) return; feitos.add(k); const e1 = document.querySelector(`.raias [data-rei="${r.id}"]`), e2 = document.querySelector(`.raias [data-rei="${o}"]`); if (!e1 || !e2) return; const [x1, y1] = pos(e1), [x2, y2] = pos(e2), mx = (x1 + x2) / 2, h = Math.abs(y2 - y1); d += `M${x1},${y1}C${mx + h * .35},${y1} ${mx + h * .35},${y2} ${x2},${y2}`; }));
+  svg.innerHTML = `<path d="${d}" />`;
+}
+
+/* ---------- Calendário, festas e horas ---------- */
+function telaCalendario(){
+  const C = T.calendario, F = new Map(C.festas.map(f => [f.id, f]));
+  return `
+  <header class="cap-h"><span class="eyebrow">O tempo na Bíblia</span><h1>Calendário, festas e horas</h1></header>
+  <div style="color:var(--muted);max-width:75ch">${notaLonga(C.nota)}</div>
+  <section class="block" aria-labelledby="t-meses"><h2 id="t-meses">Os meses</h2>
+    <ol class="meses">${C.meses.map(m => `<li class="mes"><span class="eyebrow">${m.n ? m.n + "º mês" : "mês extra"} · ${esc(m.equivale)}</span><h3>${esc(m.nome)} <span class="orig" lang="he" dir="rtl">${esc(m.hebraico || "")}</span></h3>${m.outros_nomes && m.outros_nomes.length ? `<p class="meta">Também: ${esc(m.outros_nomes.join(", "))}</p>` : ""}<p>${esc(m.agricultura || "")}${m.estacao ? ` <small>(${esc(m.estacao)})</small>` : ""}</p>${(m.festas || []).length ? `<p class="chips-f">${m.festas.map(id => F.get(id) ? `<a class="chip-f" href="#festa-${id}">${esc(F.get(id).nome)}</a>` : "").join("")}</p>` : ""}${m.refs && m.refs.length ? `<p class="meta">${refsGerais(m.refs, 4)}</p>` : ""}${fonteExtra(m.fonte_extra)}</li>`).join("")}</ol></section>
+  <section class="block" aria-labelledby="t-festas"><h2 id="t-festas">Festas e dias santos</h2>
+    <div class="festas">${C.festas.map(f => `<article class="card festa" id="festa-${f.id}" tabindex="-1" aria-labelledby="ft-${f.id}"><span class="eyebrow">${esc(f.quando || "")}${f.duracao ? " · " + esc(f.duracao) : ""}</span><h3 id="ft-${f.id}">${esc(f.nome)} ${f.hebraico ? `<span class="orig" lang="he" dir="rtl">${esc(f.hebraico)}</span>` : ""} ${f.translit ? `<small>${esc(f.translit)}</small>` : ""}</h3>
+      <dl class="dl-f">${[["Origem", f.origem], ["Como era", f.como], ["Significado", f.simbolismo], ["No Novo Testamento", f.no_nt], ["Hoje", f.hoje]].filter(x => x[1]).map(([k, v]) => `<dt>${k}</dt><dd>${esc(v)}</dd>`).join("")}</dl>
+      <p class="meta">${refsGerais(f.refs, 8)}</p>${fonteExtra(f.fonte_extra)}</article>`).join("")}</div></section>
+  ${C.horas && C.horas.length ? `<section class="block" aria-labelledby="t-horas"><h2 id="t-horas">As horas do dia e as vigílias</h2><div class="tbl"><table><thead><tr><th>Na Bíblia</th><th>Equivale a</th><th>Onde aparece</th></tr></thead><tbody>${C.horas.map(h => `<tr><td>${esc(h.nome)}</td><td>${esc(h.equivale)}</td><td>${refsGerais(h.refs, 3)}</td></tr>`).join("")}</tbody></table></div></section>` : ""}`;
+}
+
+/* ---------- Costumes e medidas ---------- */
+function telaCostumes(){
+  const C = T.costumes, tipos = [...new Set(C.medidas.map(m => m.tipo))];
+  return `
+  <header class="cap-h"><span class="eyebrow">Vida no mundo bíblico</span><h1>Costumes, pesos e medidas</h1></header>
+  <p style="color:var(--muted);max-width:75ch">Como as pessoas viviam, comiam, casavam, trabalhavam e mediam as coisas. Muitos detalhes do texto ficam mais claros com esse pano de fundo. O que vem de fontes fora da Bíblia está marcado.</p>
+  <div class="busca"><label class="sr" for="q-cos">Buscar costume</label><input id="q-cos" type="search" placeholder="Buscar: casamento, lavar os pés, denário…" autocomplete="off"></div>
+  <p class="sr" id="cos-count" role="status" aria-live="polite"></p>
+  <div class="filtros" role="group" aria-label="Categorias"><button class="btn" type="button" data-fc="todos" aria-pressed="true">Todos</button>${C.categorias.map(c => `<button class="btn" type="button" data-fc="${c.id}" aria-pressed="false">${esc(c.nome)}</button>`).join("")}</div>
+  <h2 class="sr">Costumes</h2>
+  <div class="cos-list">${C.costumes.map(c => `<article class="card cos" data-cat="${c.categoria}" data-busca="${esc((c.titulo + " " + c.resumo + " " + (c.detalhes || []).join(" ")).toLowerCase())}" aria-labelledby="c-${c.id}"><span class="eyebrow">${esc((C.categorias.find(x => x.id === c.categoria) || {}).nome || "")}</span><h3 id="c-${c.id}">${esc(c.titulo)}</h3><p>${esc(c.resumo)}</p>${c.detalhes && c.detalhes.length ? `<ul>${c.detalhes.map(d => `<li>${esc(d)}</li>`).join("")}</ul>` : ""}<p class="meta">${refsGerais(c.refs, 6)}</p>${fonteExtra(c.fonte_extra)}</article>`).join("")}</div>
+  <section class="block" aria-labelledby="t-med" id="medidas"><h2 id="t-med">Pesos, medidas e moedas</h2>
+    ${tipos.map(t => `<h3>${esc(t[0].toUpperCase() + t.slice(1))}</h3><div class="tbl"><table><thead><tr><th>Nome</th><th>Original</th><th>Equivale a</th><th>Nota</th><th>Na Bíblia</th></tr></thead><tbody>${C.medidas.filter(m => m.tipo === t).map(m => `<tr><td><b>${esc(m.nome)}</b></td><td>${esc(m.original || "")}</td><td>${esc(m.equivale)}</td><td>${esc(m.nota || "")}${m.fonte_extra && m.fonte_extra.length ? ` <span class="badge ext">extrabíblico</span>` : ""}</td><td>${refsGerais(m.refs, 3)}</td></tr>`).join("")}</tbody></table></div>`).join("")}
+  </section>`;
+}
+
+/* ---------- Objetos ---------- */
+const fotoObjeto = o => o.img ? `<img src="img/objetos/${o.id}.webp" data-foto="${o.id}" data-pac="objetos" alt="${esc(o.img.alt || o.nome)}" loading="lazy" width="480" height="360">` : `<div class="sem-foto" role="img" aria-label="Foto em busca: ${esc(o.nome)}"><span>${esc(o.nome)}</span></div>`;
+function telaObjetos(){
+  const O = T.objetos;
+  return `
+  <header class="cap-h"><span class="eyebrow">Arqueologia do dia a dia</span><h1>Objetos e utensílios da Bíblia</h1></header>
+  <p style="color:var(--muted);max-width:75ch">Peças reais de museus e sítios arqueológicos, ligadas aos textos onde aparecem. Quando não existe peça original (como a Arca da Aliança), isso é dito, e a imagem mostra uma representação antiga ou uma réplica.</p>
+  <div class="busca"><label class="sr" for="q-obj">Buscar objeto</label><input id="q-obj" type="search" placeholder="Buscar: lamparina, denário, shofar…" autocomplete="off"></div>
+  <p class="sr" id="obj-count" role="status" aria-live="polite"></p>
+  <div class="filtros" role="group" aria-label="Categorias"><button class="btn" type="button" data-fo="todos" aria-pressed="true">Todos</button>${O.categorias.map(c => `<button class="btn" type="button" data-fo="${c.id}" aria-pressed="false">${esc(c.nome)}</button>`).join("")}</div>
+  <h2 class="sr">Objetos</h2>
+  <div class="obj-grid">${O.objetos.map(o => `<article class="obj" id="obj-${o.id}" data-cat="${o.categoria}" data-busca="${esc((o.nome + " " + (o.original || "") + " " + o.descricao).toLowerCase())}" aria-labelledby="o-${o.id}">
+    <div class="obj-foto">${fotoObjeto(o)}${o.reconstrucao ? `<span class="tag-prod">Representação</span>` : ""}</div>
+    <div class="obj-in"><span class="eyebrow">${esc((O.categorias.find(c => c.id === o.categoria) || {}).nome || "")}</span><h3 id="o-${o.id}">${esc(o.nome)}</h3>${o.original ? `<p class="meta">${esc(o.original)}</p>` : ""}<p>${esc(o.descricao)}</p>${o.no_texto ? `<p>${esc(o.no_texto)}</p>` : ""}<p class="meta">${refsGerais(o.refs, 5)}</p>
+      ${o.img ? `<p class="credito-foto">Foto: <a href="${esc(o.img.pagina)}" target="_blank" rel="noopener">${esc(o.img.autor)}<span class="sr"> (abre em nova aba)</span></a>, ${esc(o.img.licenca)}. ${esc(o.img.descricao || "")}</p>` : ""}${fonteExtra(o.fonte_extra)}</div></article>`).join("")}</div>`;
+}
+function ligarFiltroCards(qSel, cardSel, countSel, attrBtn, txt){
+  const q = $(qSel), cards = [...document.querySelectorAll(cardSel)], bs = [...document.querySelectorAll(`[${attrBtn}]`)]; let cat = "todos";
+  const ap = () => { const t = q ? q.value.trim().toLowerCase() : ""; let k = 0; cards.forEach(c => { const ok = (!t || c.dataset.busca.includes(t)) && (cat === "todos" || c.dataset.cat === cat); c.hidden = !ok; if (ok) k++; }); $(countSel).textContent = k + txt; };
+  if (q) q.addEventListener("input", ap);
+  bs.forEach(b => b.addEventListener("click", () => { cat = b.getAttribute(attrBtn); bs.forEach(x => x.setAttribute("aria-pressed", x === b)); ap(); }));
+}
+
+/* ---------- No capítulo: lugares, reis, objetos, festas e costumes citados ---------- */
+async function preencherContexto(slug, c){
+  const box = $("#ctx-cap"); if (!box) return;
+  await Promise.all([carregarMapa(), carregarTema("reis"), carregarTema("objetos"), carregarTema("calendario"), carregarTema("costumes")]);
+  const lug = lugaresDoLivro(slug, c).sort((a, b) => b.n - a.n), rs = T.reis ? T.reis.reis.filter(r => refNoCap(r.refs, slug, c)) : [], ob = T.objetos ? T.objetos.objetos.filter(o => refNoCap(o.refs, slug, c)) : [], fe = T.calendario ? T.calendario.festas.filter(f => refNoCap(f.refs, slug, c)) : [], co = T.costumes ? T.costumes.costumes.filter(x => refNoCap(x.refs, slug, c)) : [], me = T.costumes ? T.costumes.medidas.filter(x => refNoCap(x.refs, slug, c)) : [];
+  let h = "";
+  if (lug.length) h += `<section class="card" aria-labelledby="t-lug"><h2 id="t-lug">Lugares neste capítulo</h2>${mapaSVG(lug.map(x => ({ id:x.l.id, nome:x.l.n, ll:x.l.ll, peso:x.l.r.length })), { maxRot:8, escala:2, min:[8, 6], rotulo:"Mapa dos lugares do capítulo; a lista abaixo traz os mesmos lugares." })}<ul class="lug-mini">${lug.map(x => `<li><button type="button" class="lk" data-lugar="${x.l.id}">${esc(x.l.n)}</button></li>`).join("")}</ul><a class="btn" href="#mapas-${slug}">Mapa do livro</a></section>`;
+  if (rs.length) h += `<section class="card" aria-labelledby="t-reis"><h2 id="t-reis">Reis neste capítulo</h2><ul>${rs.map(r => `<li><button type="button" class="lk" data-rei="${r.id}">${esc(r.nome)}</button> <small>${fmtAno(r.inicio)} a ${fmtAno(r.fim)}</small></li>`).join("")}</ul></section>`;
+  if (ob.length) h += `<section class="card" aria-labelledby="t-obj"><h2 id="t-obj">Objetos citados</h2><ul>${ob.map(o => `<li><a href="#objetos-${o.id}">${esc(o.nome)}</a></li>`).join("")}</ul></section>`;
+  if (fe.length || co.length || me.length) h += `<section class="card" aria-labelledby="t-cos"><h2 id="t-cos">Festas e costumes</h2><ul>${fe.map(f => `<li><a href="#festa-${f.id}">${esc(f.nome)}</a></li>`).join("")}${co.map(x => `<li><a href="#costumes">${esc(x.titulo)}</a></li>`).join("")}${me.map(x => `<li><a href="#medidas">${esc(x.nome)}</a> <small>${esc(x.equivale)}</small></li>`).join("")}</ul></section>`;
+  box.innerHTML = h;
+}
+
+/* ---------- Roteamento das telas de contexto ---------- */
+async function renderContexto(r){
+  view.innerHTML = `<p class="carregando" role="status">Carregando…</p>`;
+  try {
+    await carregarEstrutura(); let m, html, pos = () => {}, ativo;
+    if ((m = r.match(/^mapas(?:-(.+))?$/)) || (m = r.match(/^rota-(.+)$/))){
+      await Promise.all([carregarMapa(), carregarTema("rotas")]);
+      const rota = r.startsWith("rota-"), slug = !rota && m[1] && livroPorSlug(m[1]) ? m[1] : null;
+      html = telaMapas(rota ? "rota" : slug ? "livro" : "todos", rota ? m[1] : slug); ativo = "mapas";
+      pos = () => {
+        $("#sel-mapa-l").addEventListener("change", e => location.hash = e.target.value ? "mapas-" + e.target.value : "mapas");
+        $("#sel-rota").addEventListener("change", e => location.hash = e.target.value ? "rota-" + e.target.value : "mapas");
+        const q = $("#q-lug"); if (q){ const li = [...document.querySelectorAll(".lug-list li")]; q.addEventListener("input", () => { const t = q.value.trim().toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, ""); let k = 0; li.forEach(x => { const ok = !t || x.dataset.busca.normalize("NFD").replace(/[̀-ͯ]/g, "").includes(t); x.hidden = !ok; if (ok) k++; }); $("#lug-count").textContent = k + " lugares"; }); }
+      };
+    }
+    else if ((m = r.match(/^reis(?:-(.+))?$/))){ if (!await carregarTema("reis")) throw new Error("reis"); html = telaReis(m[1]); ativo = "reis"; pos = montarReis; }
+    else if ((m = r.match(/^(calendario|festa-(.+))$/))){ if (!await carregarTema("calendario")) throw new Error("calendário"); html = telaCalendario(); ativo = "calendario"; if (m[2]) pos = () => { const el = document.getElementById("festa-" + m[2]); if (el){ el.scrollIntoView({ block:"start" }); el.focus({ preventScroll:true }); } }; }
+    else if (r === "costumes" || r === "medidas"){ if (!await carregarTema("costumes")) throw new Error("costumes"); html = telaCostumes(); ativo = "costumes"; pos = () => { ligarFiltroCards("#q-cos", ".cos", "#cos-count", "data-fc", " costumes"); if (r === "medidas") $("#medidas").scrollIntoView(); }; }
+    else if ((m = r.match(/^objetos(?:-(.+))?$/))){ if (!await carregarTema("objetos")) throw new Error("objetos"); html = telaObjetos(); ativo = "objetos"; pos = () => { ligarFiltroCards("#q-obj", ".obj", "#obj-count", "data-fo", " objetos"); if (m[1]){ const el = document.getElementById("obj-" + m[1]); if (el){ el.scrollIntoView({ block:"start" }); el.classList.add("alvo"); setTimeout(() => el.classList.remove("alvo"), 2500); } } }; }
+    view.innerHTML = html;
+    document.querySelectorAll("nav.main a").forEach(a => a.dataset.r === ativo ? a.setAttribute("aria-current", "page") : a.removeAttribute("aria-current"));
+    const h1 = view.querySelector("h1"); document.title = h1.textContent + " · Bíblia Ilustrada"; anunciar("Página: " + h1.textContent);
+    window.scrollTo(0, 0); $("#conteudo").focus({ preventScroll:true }); pos();
   } catch (err){ view.innerHTML = `<p class="carregando" role="alert">Não foi possível carregar (${esc(err.message)}). Verifique a conexão e recarregue.</p>`; }
 }
 
@@ -1276,6 +1608,12 @@ function telaHome(){
       ${ED ? `<p>${esc(ED.subtitulo)}</p>` : ""}
       <p class="acts-dia"><a class="btn primary" href="${linkLivro(dia)}">Conhecer ${esc(dia.nome)}</a><a class="btn" href="${linkLivro(dia, 1)}">Ler o capítulo 1</a><a class="btn" href="#conexoes-${dia.slug}">Conexões em arcos</a></p>
     </div>
+  </section>
+
+  <section class="block" aria-labelledby="t-ctx">
+    <h2 id="t-ctx">O mundo da Bíblia</h2>
+    <p class="lead">Para entender o texto no seu lugar e no seu tempo.</p>
+    <div class="explorar">${[["mapas", "Mapas e viagens", "1.278 lugares com foto e 30 rotas, de Abraão a Paulo"], ["reis", "Reis e governantes", "todos os povos em raias paralelas, com quem reinava ao mesmo tempo"], ["calendario", "Calendário e festas", "os meses, as festas e as horas do dia"], ["costumes", "Costumes, pesos e medidas", "casamento, refeições, trabalho, moedas e medidas"], ["objetos", "Objetos e utensílios", "peças reais de museus ligadas aos textos"]].map(([h, n, d]) => `<a class="card" href="#${h}"><b>${n}</b><small>${d}</small></a>`).join("")}</div>
   </section>
 
   <section class="block" aria-labelledby="t-cada">
@@ -1387,6 +1725,7 @@ function telaCapitulo(n, alvo){
       </nav>
     </article>
     <aside class="estudo" aria-label="Estudo do capítulo">
+      <div id="ctx-cap" class="ctx-cap"></div>
       <section class="card" aria-labelledby="t-lic"><h2 id="t-lic">O que este capítulo ensina</h2><ul>${est.licoes.map(l => `<li>${esc(l).replace(/\((\d+:\d+(?:-\d+)?)(?:, (\d+:\d+(?:-\d+)?))?\)/g, (m, a, b) => "(" + refLink(a) + (b ? ", " + refLink(b) : "") + ")")}</li>`).join("")}</ul></section>
       ${usados.length ? `<section class="card" aria-labelledby="t-sym"><h2 id="t-sym">Símbolos neste capítulo</h2><ul class="syms">${usados.map(id => { const s = D.estudo.simbolos.find(x => x.id === id); return `<li><button type="button" data-sym="${id}">${esc(s.termo)}</button></li>`; }).join("")}</ul></section>` : ""}
       ${atDoCap(n).length ? `<section class="card" aria-labelledby="t-at"><h2 id="t-at">Raízes no Antigo Testamento</h2><p style="color:var(--muted);font-size:.9rem;margin-bottom:.6rem">João pinta suas visões com imagens das Escrituras de Israel. Toque para ler o texto original.</p><ul class="at-list">${atDoCap(n).map((it, i) => `<li><button type="button" class="lnk" data-at="${n}:0" data-item="${i}">Ap ${esc(it.versos)}</button> ${esc(it.nota)}<div>${it.refs.map(r => `<span class="at-ref">${esc(r)}</span>`).join("")}</div></li>`).join("")}</ul></section>` : ""}
@@ -1599,6 +1938,9 @@ function telaSobre(){
     <div class="tbl"><table><caption class="sr">Versões avaliadas</caption><thead><tr><th>Versão</th><th>Licença</th><th>Situação</th></tr></thead>
       <tbody>${D.fontes.versoes.map(v => `<tr><td>${esc(v.nome)} (${esc(v.sigla)})</td><td>${esc(v.licenca)}</td><td>${esc(v.status)}</td></tr>`).join("")}</tbody></table></div>
 
+    <h2>Mapas, fotos e dados históricos</h2>
+    <p>Localização dos lugares e fotos dos sítios: <a href="https://www.openbible.info/geo/" target="_blank" rel="noopener">OpenBible.info Bible Geocoding Data</a>, licença CC BY 4.0; cada foto traz autor e licença (Wikimedia Commons ou Copernicus Sentinel). Contornos dos mapas: <a href="https://www.naturalearthdata.com/" target="_blank" rel="noopener">Natural Earth</a>, domínio público. Fotos de objetos: Wikimedia Commons, só imagens de domínio público ou com licença livre, com crédito. Datas de reis, costumes e achados que vêm de fora da Bíblia aparecem sempre marcados como fonte extrabíblica, com a referência.</p>
+
     <h2>Como as ilustrações serão feitas</h2>
     <p>Estilo: <b>realismo pictórico</b>, na tradição da arte sacra clássica, com cenários e roupas fiéis a cada época. Cada livro tem sua lista de quadros, com a referência do texto e a descrição da cena (veja a página Quadros na introdução de cada livro).</p>
     <ul>
@@ -1624,6 +1966,7 @@ function rotaAtual(){ return (location.hash || "#inicio").slice(1) || "inicio"; 
 function render(){
   pararFala();
   const r = rotaAtual();
+  if (/^(mapas(-.+)?|rota-.+|reis(-.+)?|calendario|festa-.+|costumes|medidas|objetos(-.+)?)$/.test(r)){ renderContexto(r); return; }
   if (/^(inicio|livros|biblia|conexoes-.+|livro-.+|extras-.+)$/.test(r) || !/^(cap-\d+(-v\d+)?|igrejas|simbolos|palavras|historia|raizes|quadros|quiz|sobre|apocalipse)$/.test(r)){ renderBiblia(r); return; }
   let m, html, ativo;
   if ((m = r.match(/^cap-(\d+)(?:-v(\d+))?$/)) && +m[1] >= 1 && +m[1] <= 22){ html = telaCapitulo(+m[1]); ativo = "cap"; }
@@ -1646,7 +1989,7 @@ function render(){
 function posRender(ativo, m){
   if (ativo === "apocalipse") ligarSeletor(s => s === "apocalipse" ? "apocalipse" : "livro-" + s);
   if (ativo === "cap"){
-    const n = +m[1]; store.set("ultimo", { s:"apocalipse", c:n });
+    const n = +m[1]; store.set("ultimo", { s:"apocalipse", c:n }); carregarEstrutura().then(() => preencherContexto("apocalipse", n));
     $("#sel-cap").addEventListener("change", e => location.hash = "cap-" + e.target.value);
     $("#btn-lido").addEventListener("click", e => {
       if (lidos.has(n)){ lidos.delete(n); store.set("lidos", [...lidos]); } else marcarLido(n);

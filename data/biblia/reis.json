@@ -1,0 +1,5259 @@
+{
+ "nota_cronologia": "Para Israel e Judá foi usada a cronologia de Edwin R. Thiele (The Mysterious Numbers of the Hebrew Kings, ed. revista 1983), que explica as aparentes contradições dos números de Reis e Crônicas com corregências (pai e filho reinando juntos), reinados rivais e dois modos de contar o primeiro ano. Alternativas principais: W. F. Albright (divisão do reino em c. 922 a.C.), a revisão de Thiele por Leslie McFall e Rodger Young (divisão em 931/930 a.C. e queda de Jerusalém em 587 a.C.) e outros esquemas que diferem de 1 a 10 anos; a maior divergência está em Ezequias (729 ou 716/715 a.C.). As datas dos reis estrangeiros vêm de fontes extrabíblicas (listas reais assírias, Crônicas Babilônicas, Cânon de Ptolomeu, Josefo, historiadores gregos e romanos), indicadas em fonte_extra. Antes de Davi as datas são apenas indicativas: seguem a datação antiga do Êxodo (c. 1446 a.C., a partir de 1 Reis 6:1); na datação tardia (c. 1270-1260 a.C.) o Êxodo, a conquista e os Juízes ficam cerca de 150-180 anos depois, e para os patriarcas (Gênesis 12-50) há ainda mais incerteza. Todas as datas são aproximadas porque os anos antigos não começavam em 1º de janeiro, os reinados eram contados de formas diferentes em cada reino e um mesmo fato pode cair em dois anos do nosso calendário. Anos a.C. aparecem como números negativos (-931 = 931 a.C.).",
+ "povos": [
+  {
+   "id": "oriente-antigo",
+   "nome": "Reis do Oriente (Gênesis 14) e Mesopotâmia",
+   "regiao": "Elão, Sinear (Babilônia) e norte da Mesopotâmia",
+   "cor": "#8c6d46",
+   "resumo": "Reis da Mesopotâmia e do planalto iraniano citados nas histórias de Abraão e dos Juízes; nenhum identificado com segurança fora da Bíblia."
+  },
+  {
+   "id": "canaa",
+   "nome": "Cananeus e amorreus",
+   "regiao": "Canaã e Transjordânia",
+   "cor": "#a0522d",
+   "resumo": "Reis de cidades-estado de Canaã e reinos amorreus a leste do Jordão, dos tempos de Abraão até a conquista e os Juízes."
+  },
+  {
+   "id": "egito",
+   "nome": "Egito",
+   "regiao": "Vale do Nilo",
+   "cor": "#c9a227",
+   "resumo": "Grande potência ao sul; seus faraós aparecem da história de Abraão até a queda de Jerusalém. Os primeiros não têm nome no texto."
+  },
+  {
+   "id": "filisteus",
+   "nome": "Filisteus",
+   "regiao": "Litoral sul de Canaã (Gaza, Asdode, Ascalom, Gate, Ecrom)",
+   "cor": "#6b8e23",
+   "resumo": "Povo do litoral, rival de Israel nos tempos dos Juízes, de Saul e de Davi; governado por 'príncipes' e reis de cidades."
+  },
+  {
+   "id": "edom",
+   "nome": "Edom",
+   "regiao": "Sul do mar Morto (montes de Seir)",
+   "cor": "#b5651d",
+   "resumo": "Descendentes de Esaú; tiveram reis antes de Israel, foram dominados por Davi e se rebelaram no tempo de Jeorão de Judá."
+  },
+  {
+   "id": "moabe",
+   "nome": "Moabe",
+   "regiao": "Leste do mar Morto",
+   "cor": "#9c6644",
+   "resumo": "Descendentes de Ló; vizinhos e muitas vezes inimigos de Israel, da época de Moisés até a de Eliseu."
+  },
+  {
+   "id": "amom",
+   "nome": "Amom",
+   "regiao": "Leste do Jordão (capital Rabá, atual Amã)",
+   "cor": "#7f5539",
+   "resumo": "Descendentes de Ló; lutaram contra Saul e Davi e, no fim de Judá, tramaram a morte de Gedalias."
+  },
+  {
+   "id": "midia",
+   "nome": "Midiã",
+   "regiao": "Noroeste da Arábia e desertos ao leste",
+   "cor": "#a68a64",
+   "resumo": "Povo nômade aparentado a Abraão; oprimiu Israel no tempo de Gideão."
+  },
+  {
+   "id": "amaleque",
+   "nome": "Amaleque",
+   "regiao": "Neguebe e Sinai",
+   "cor": "#7a4f3a",
+   "resumo": "Povo nômade do sul que atacou Israel no deserto; Saul recebeu ordem de destruí-lo."
+  },
+  {
+   "id": "juizes",
+   "nome": "Juízes de Israel",
+   "regiao": "Tribos de Israel",
+   "cor": "#4f7cac",
+   "resumo": "Líderes levantados por Deus entre a conquista e a monarquia; não eram reis. Datas muito incertas."
+  },
+  {
+   "id": "israel-unido",
+   "nome": "Israel unido",
+   "regiao": "Todas as tribos (capital Gibeá, Hebrom e depois Jerusalém)",
+   "cor": "#2f5d8a",
+   "resumo": "A monarquia das doze tribos sob Saul, Davi e Salomão, antes da divisão."
+  },
+  {
+   "id": "juda",
+   "nome": "Judá (reino do Sul)",
+   "regiao": "Judá e Benjamim (capital Jerusalém)",
+   "cor": "#1f4e79",
+   "resumo": "Reino da dinastia de Davi, de 931 a.C. até a destruição de Jerusalém pelos babilônios em 586 a.C."
+  },
+  {
+   "id": "israel",
+   "nome": "Israel (reino do Norte)",
+   "regiao": "Dez tribos do norte (capitais Siquém, Tirsa e Samaria)",
+   "cor": "#5b8bd0",
+   "resumo": "Reino formado por Jeroboão em 931 a.C., com várias dinastias, até a queda de Samaria diante da Assíria em 722 a.C."
+  },
+  {
+   "id": "ara",
+   "nome": "Arã (Síria) - Damasco, Zobá e Hamate",
+   "regiao": "Síria (Damasco e arredores)",
+   "cor": "#8e5572",
+   "resumo": "Reinos arameus ao norte de Israel; Damasco foi o principal rival de Israel até ser tomada pela Assíria em 732 a.C."
+  },
+  {
+   "id": "fenicia",
+   "nome": "Fenícia (Tiro e Sidom)",
+   "regiao": "Litoral do atual Líbano",
+   "cor": "#6a4c93",
+   "resumo": "Cidades de comerciantes e navegadores; Tiro ajudou a construir o templo e Sidom deu a Israel a rainha Jezabel."
+  },
+  {
+   "id": "saba",
+   "nome": "Sabá",
+   "regiao": "Sul da Arábia (provavelmente o atual Iêmen)",
+   "cor": "#d4a373",
+   "resumo": "Reino do comércio de incenso e especiarias, de onde veio a rainha que visitou Salomão."
+  },
+  {
+   "id": "cuxe",
+   "nome": "Cuxe / Etiópia",
+   "regiao": "Alto Nilo (atual Sudão)",
+   "cor": "#5c4033",
+   "resumo": "Reino ao sul do Egito (Núbia), chamado Etiópia em muitas traduções; seus reis chegaram a governar o Egito."
+  },
+  {
+   "id": "assiria",
+   "nome": "Assíria",
+   "regiao": "Norte da Mesopotâmia (Nínive, Assur)",
+   "cor": "#9b2226",
+   "resumo": "Império que destruiu o reino de Israel e invadiu Judá nos séculos VIII e VII a.C."
+  },
+  {
+   "id": "babilonia",
+   "nome": "Babilônia (caldeus)",
+   "regiao": "Sul da Mesopotâmia",
+   "cor": "#bb3e03",
+   "resumo": "Império neobabilônico que venceu a Assíria e o Egito, destruiu Jerusalém e levou Judá ao exílio."
+  },
+  {
+   "id": "persia",
+   "nome": "Medo-Pérsia",
+   "regiao": "Planalto iraniano (Susã, Persépolis); império do Egito à Índia",
+   "cor": "#0a9396",
+   "resumo": "Império que conquistou a Babilônia em 539 a.C. e permitiu o retorno dos judeus e a reconstrução do templo."
+  },
+  {
+   "id": "judeia-persa",
+   "nome": "Judeia sob a Pérsia (governadores)",
+   "regiao": "Província de Judá (Yehud)",
+   "cor": "#3d5a80",
+   "resumo": "Líderes judeus nomeados pelos reis persas depois do exílio, no tempo de Esdras, Neemias, Ageu e Zacarias."
+  },
+  {
+   "id": "grecia",
+   "nome": "Macedônia / Grécia",
+   "regiao": "Macedônia e Grécia",
+   "cor": "#457b9d",
+   "resumo": "O império de Alexandre, que Daniel parece prever como o 'bode' vindo do ocidente."
+  },
+  {
+   "id": "ptolomeus",
+   "nome": "Ptolomeus (Egito helenista)",
+   "regiao": "Egito (capital Alexandria)",
+   "cor": "#e9c46a",
+   "resumo": "Dinastia grega do Egito; na leitura histórica de Daniel 11, os 'reis do sul'. Dominou a Judeia até c. 198 a.C."
+  },
+  {
+   "id": "seleucidas",
+   "nome": "Selêucidas (Síria helenista)",
+   "regiao": "Síria e Mesopotâmia (capital Antioquia)",
+   "cor": "#e76f51",
+   "resumo": "Dinastia grega da Síria; na leitura histórica de Daniel 11, os 'reis do norte'. Antíoco IV profanou o templo em 167 a.C."
+  },
+  {
+   "id": "hasmoneus",
+   "nome": "Hasmoneus (Macabeus)",
+   "regiao": "Judeia independente",
+   "cor": "#2a9d8f",
+   "resumo": "Família sacerdotal que liderou a revolta contra os selêucidas e governou a Judeia de 166 a 37 a.C. Contexto extrabíblico."
+  },
+  {
+   "id": "herodianos",
+   "nome": "Dinastia de Herodes",
+   "regiao": "Judeia, Galileia e regiões vizinhas",
+   "cor": "#6d597a",
+   "resumo": "Reis e tetrarcas vassalos de Roma, da família de Herodes, o Grande, presentes nos Evangelhos e em Atos."
+  },
+  {
+   "id": "nabateus",
+   "nome": "Nabateus",
+   "regiao": "Sul da Transjordânia e norte da Arábia (capital Petra)",
+   "cor": "#b56576",
+   "resumo": "Reino árabe de caravaneiros; seu rei Aretas IV controlava Damasco quando Paulo fugiu de lá."
+  },
+  {
+   "id": "roma",
+   "nome": "Roma (imperadores)",
+   "regiao": "Império Romano",
+   "cor": "#a4161a",
+   "resumo": "Os imperadores ('César') sob os quais nasceram Jesus e a igreja."
+  },
+  {
+   "id": "governadores",
+   "nome": "Governadores romanos",
+   "regiao": "Províncias romanas (Judeia, Síria, Chipre, Acaia)",
+   "cor": "#c1121f",
+   "resumo": "Prefeitos, procuradores e procônsules romanos citados nos Evangelhos e em Atos."
+  },
+  {
+   "id": "outros",
+   "nome": "Outros governantes",
+   "regiao": "Diversas regiões",
+   "cor": "#6c757d",
+   "resumo": "Governantes locais citados poucas vezes que não pertencem às outras raias."
+  }
+ ],
+ "reis": [
+  {
+   "id": "quedorlaomer",
+   "nome": "Quedorlaomer",
+   "povo": "oriente-antigo",
+   "titulo": "rei de Elão",
+   "inicio": -2090,
+   "fim": -2080,
+   "aprox": true,
+   "datas_alternativas": "Data indicativa: depende da data adotada para Abraão (cronologia longa c. 2090 a.C.; outros situam os patriarcas entre 1900 e 1700 a.C.). Nenhum destes reis foi identificado com segurança fora da Bíblia.",
+   "incerto": true,
+   "avaliacao": null,
+   "resumo": "Rei de Elão que dominou por doze anos as cidades da planície do Jordão. Quando elas se rebelaram, veio com três reis aliados, venceu-as e levou Ló cativo, mas foi derrotado por Abraão perto de Dã.",
+   "particularidades": [
+    "O nome tem forma elamita ('servo de Lagamar'), mas nenhum rei assim é conhecido."
+   ],
+   "refs": [
+    "genesis 14:1-17"
+   ],
+   "contemporaneos": [
+    "melquisedeque",
+    "bera"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Textos cuneiformes elamitas",
+     "referencia": "nomes com o elemento 'Kudur-' (servo) e a deusa Lagamar",
+     "data": "II milênio a.C. (aprox.)"
+    }
+   ]
+  },
+  {
+   "id": "anrafel",
+   "nome": "Anrafel",
+   "povo": "oriente-antigo",
+   "titulo": "rei de Sinear",
+   "inicio": -2090,
+   "fim": -2080,
+   "aprox": true,
+   "datas_alternativas": "Data indicativa: depende da data adotada para Abraão (cronologia longa c. 2090 a.C.; outros situam os patriarcas entre 1900 e 1700 a.C.). Nenhum destes reis foi identificado com segurança fora da Bíblia.",
+   "incerto": true,
+   "avaliacao": null,
+   "resumo": "Rei de Sinear (Babilônia) aliado de Quedorlaomer na campanha de Gênesis 14.",
+   "particularidades": [
+    "Antigamente identificado com Hamurábi; hoje essa ideia é abandonada pela maioria."
+   ],
+   "refs": [
+    "genesis 14:1",
+    "genesis 14:9"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "arioque",
+   "nome": "Arioque",
+   "povo": "oriente-antigo",
+   "titulo": "rei de Elasar",
+   "inicio": -2090,
+   "fim": -2080,
+   "aprox": true,
+   "datas_alternativas": "Data indicativa: depende da data adotada para Abraão (cronologia longa c. 2090 a.C.; outros situam os patriarcas entre 1900 e 1700 a.C.). Nenhum destes reis foi identificado com segurança fora da Bíblia.",
+   "incerto": true,
+   "avaliacao": null,
+   "resumo": "Rei de Elasar, aliado de Quedorlaomer em Gênesis 14.",
+   "particularidades": [
+    "Não confundir com Arioque, capitão da guarda de Nabucodonosor (Daniel 2:14)."
+   ],
+   "refs": [
+    "genesis 14:1",
+    "genesis 14:9"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "tidal",
+   "nome": "Tidal",
+   "povo": "oriente-antigo",
+   "titulo": "rei de 'nações' (Goim)",
+   "inicio": -2090,
+   "fim": -2080,
+   "aprox": true,
+   "datas_alternativas": "Data indicativa: depende da data adotada para Abraão (cronologia longa c. 2090 a.C.; outros situam os patriarcas entre 1900 e 1700 a.C.). Nenhum destes reis foi identificado com segurança fora da Bíblia.",
+   "incerto": true,
+   "avaliacao": null,
+   "resumo": "Rei de 'nações' (em hebraico Goim), o quarto aliado de Quedorlaomer.",
+   "particularidades": [
+    "O nome lembra Tudália, nome de reis hititas, mas a ligação é incerta."
+   ],
+   "refs": [
+    "genesis 14:1",
+    "genesis 14:9"
+   ],
+   "contemporaneos": [],
+   "fonte_extra": [
+    {
+     "fonte": "Textos hititas",
+     "referencia": "reis chamados Tudália",
+     "data": "séc. XVIII-XIII a.C. (aprox.)"
+    }
+   ]
+  },
+  {
+   "id": "cusa-risataim",
+   "nome": "Cusã-Risataim",
+   "povo": "oriente-antigo",
+   "titulo": "rei da Mesopotâmia (Arã-Naaraim)",
+   "inicio": -1381,
+   "fim": -1373,
+   "aprox": true,
+   "datas_alternativas": "Cronologia dos Juízes muito incerta.",
+   "incerto": true,
+   "avaliacao": null,
+   "resumo": "Rei que dominou Israel por oito anos, até o juiz Otniel libertar o povo.",
+   "particularidades": [
+    "O nome pode ser um apelido: 'Cusã da dupla maldade'.",
+    "Origem e identificação desconhecidas (há quem pense em Edom em vez de Arã)."
+   ],
+   "refs": [
+    "juizes 3:8-10"
+   ],
+   "contemporaneos": [
+    "otniel"
+   ]
+  },
+  {
+   "id": "bera",
+   "nome": "Bera",
+   "povo": "canaa",
+   "titulo": "rei de Sodoma",
+   "inicio": -2090,
+   "fim": -2085,
+   "aprox": true,
+   "datas_alternativas": "Data indicativa: depende da data adotada para Abraão (cronologia longa c. 2090 a.C.; outros situam os patriarcas entre 1900 e 1700 a.C.). Nenhum destes reis foi identificado com segurança fora da Bíblia.",
+   "incerto": true,
+   "avaliacao": null,
+   "resumo": "Rei de Sodoma vencido por Quedorlaomer. Depois da vitória de Abraão, ofereceu-lhe os bens recuperados, mas Abraão nada quis aceitar.",
+   "particularidades": [],
+   "refs": [
+    "genesis 14:2",
+    "genesis 14:17",
+    "genesis 14:21-24"
+   ],
+   "contemporaneos": [
+    "quedorlaomer"
+   ]
+  },
+  {
+   "id": "reis-planicie",
+   "nome": "Birsa, Sinabe e Semeber",
+   "povo": "canaa",
+   "titulo": "reis",
+   "inicio": -2090,
+   "fim": -2085,
+   "aprox": true,
+   "datas_alternativas": "Data indicativa: depende da data adotada para Abraão (cronologia longa c. 2090 a.C.; outros situam os patriarcas entre 1900 e 1700 a.C.). Nenhum destes reis foi identificado com segurança fora da Bíblia.",
+   "incerto": true,
+   "avaliacao": null,
+   "resumo": "Reis de Gomorra, Admá e Zeboim, que, com o rei de Bela (Zoar), se aliaram a Bera de Sodoma contra os reis do Oriente no vale de Sidim.",
+   "particularidades": [
+    "O rei de Zoar não é nomeado."
+   ],
+   "refs": [
+    "genesis 14:2",
+    "genesis 14:8-10"
+   ],
+   "contemporaneos": [
+    "quedorlaomer"
+   ]
+  },
+  {
+   "id": "melquisedeque",
+   "nome": "Melquisedeque",
+   "povo": "canaa",
+   "titulo": "rei de Salém e sacerdote",
+   "inicio": -2085,
+   "fim": -2085,
+   "aprox": true,
+   "datas_alternativas": "Data indicativa: depende da data adotada para Abraão (cronologia longa c. 2090 a.C.; outros situam os patriarcas entre 1900 e 1700 a.C.). Nenhum destes reis foi identificado com segurança fora da Bíblia.",
+   "incerto": true,
+   "avaliacao": null,
+   "resumo": "Rei de Salém e sacerdote do Deus Altíssimo que trouxe pão e vinho a Abraão, o abençoou e recebeu dele o dízimo.",
+   "particularidades": [
+    "Salmo 110 e a carta aos Hebreus o apresentam como figura do sacerdócio do Messias.",
+    "Salém costuma ser identificada com Jerusalém."
+   ],
+   "refs": [
+    "genesis 14:18-20",
+    "salmos 110:4",
+    "hebreus 7:1-3"
+   ],
+   "contemporaneos": [
+    "quedorlaomer"
+   ]
+  },
+  {
+   "id": "rei-arade",
+   "nome": "Rei de Arade",
+   "povo": "canaa",
+   "titulo": "rei",
+   "inicio": -1407,
+   "fim": -1407,
+   "aprox": true,
+   "incerto": true,
+   "avaliacao": null,
+   "resumo": "Rei cananeu do Neguebe que atacou Israel no deserto e levou prisioneiros; Israel o venceu em Hormá.",
+   "particularidades": [],
+   "refs": [
+    "numeros 21:1-3"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "seom",
+   "nome": "Seom",
+   "povo": "canaa",
+   "titulo": "rei dos amorreus (Hesbom)",
+   "inicio": -1407,
+   "fim": -1406,
+   "aprox": true,
+   "datas_alternativas": "Data conforme a datação antiga do Êxodo; na tardia, c. 1230 a.C.",
+   "avaliacao": null,
+   "resumo": "Rei dos amorreus, em Hesbom, que negou passagem a Israel e saiu à guerra. Foi derrotado, e sua terra foi dada a Rúben e Gade.",
+   "particularidades": [
+    "Grafado Seom na Bíblia Livre (Siom em outras versões).",
+    "Sua vitória é lembrada em vários salmos (Salmos 135:11; 136:19)."
+   ],
+   "refs": [
+    "numeros 21:21-31",
+    "deuteronomio 2:26-36",
+    "salmos 136:19"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "ogue",
+   "nome": "Ogue",
+   "povo": "canaa",
+   "titulo": "rei de Basã",
+   "inicio": -1407,
+   "fim": -1406,
+   "aprox": true,
+   "datas_alternativas": "Data conforme a datação antiga do Êxodo.",
+   "avaliacao": null,
+   "resumo": "Rei de Basã, o último dos 'gigantes' (refains), derrotado por Israel em Edrei; seu território foi dado à meia tribo de Manassés.",
+   "particularidades": [
+    "Sua cama de ferro media nove côvados de comprimento (Deuteronômio 3:11)."
+   ],
+   "refs": [
+    "numeros 21:33-35",
+    "deuteronomio 3:1-11",
+    "salmos 136:20"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "rei-jerico",
+   "nome": "Rei de Jericó",
+   "povo": "canaa",
+   "titulo": "rei",
+   "inicio": -1406,
+   "fim": -1406,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Rei sem nome que procurou os espias escondidos por Raabe; Jericó caiu diante de Josué.",
+   "particularidades": [],
+   "refs": [
+    "josue 2:2-3",
+    "josue 6:2"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "adoni-zedeque",
+   "nome": "Adoni-Zedeque",
+   "povo": "canaa",
+   "titulo": "rei de Jerusalém",
+   "inicio": -1406,
+   "fim": -1405,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Rei de Jerusalém que formou uma coalizão de cinco reis amorreus contra Gibeão, aliada de Israel. Foi vencido no dia em que, segundo o texto, o sol se deteve, e morto em Maquedá com seus aliados.",
+   "particularidades": [
+    "Aliados: Hoão de Hebrom, Pirã de Jarmute (Jeremote), Jafia de Laquis e Debir de Eglom."
+   ],
+   "refs": [
+    "josue 10:1-5",
+    "josue 10:16-27"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "reis-josue-12",
+   "nome": "Os 31 reis vencidos por Josué",
+   "povo": "canaa",
+   "titulo": "reis",
+   "inicio": -1406,
+   "fim": -1400,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Lista resumida dos reis derrotados por Moisés a leste do Jordão (Seom e Ogue) e dos 31 reis de cidades cananeias vencidos por Josué.",
+   "particularidades": [],
+   "refs": [
+    "josue 12:1-24"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "horao-gezer",
+   "nome": "Horão",
+   "povo": "canaa",
+   "titulo": "rei de Gezer",
+   "inicio": -1405,
+   "fim": -1405,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Rei de Gezer que veio socorrer Laquis e foi derrotado por Josué.",
+   "particularidades": [],
+   "refs": [
+    "josue 10:33"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "jabim-hazor-1",
+   "nome": "Jabim (tempo de Josué)",
+   "povo": "canaa",
+   "titulo": "rei de Hazor",
+   "inicio": -1400,
+   "fim": -1400,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Rei de Hazor, 'cabeça de todos estes reinos', que reuniu os reis do norte junto às águas de Merom. Josué os venceu, matou Jabim e queimou Hazor.",
+   "particularidades": [
+    "Aliados citados: Jobabe de Madom e os reis de Sinrom e Acsafe."
+   ],
+   "refs": [
+    "josue 11:1-14"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "adoni-bezeque",
+   "nome": "Adoni-Bezeque",
+   "povo": "canaa",
+   "titulo": "rei de Bezeque",
+   "inicio": -1390,
+   "fim": -1390,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Rei cananeu vencido por Judá e Simeão. Tiveram cortados os polegares das mãos e dos pés, como ele mesmo fizera a setenta reis, e morreu em Jerusalém.",
+   "particularidades": [],
+   "refs": [
+    "juizes 1:4-7"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "jabim-hazor-2",
+   "nome": "Jabim (tempo de Débora)",
+   "povo": "canaa",
+   "titulo": "rei de Canaã, em Hazor",
+   "inicio": -1230,
+   "fim": -1210,
+   "aprox": true,
+   "datas_alternativas": "Cronologia dos Juízes muito incerta.",
+   "incerto": true,
+   "avaliacao": null,
+   "resumo": "Rei de Canaã que reinava em Hazor e oprimiu Israel por 20 anos com 900 carros de ferro; seu general Sísera foi vencido por Baraque e Débora.",
+   "particularidades": [
+    "Pode ser um descendente do Jabim de Josué, com o nome usado como título dinástico."
+   ],
+   "refs": [
+    "juizes 4:1-3",
+    "juizes 4:23-24",
+    "salmos 83:9"
+   ],
+   "contemporaneos": [
+    "debora"
+   ]
+  },
+  {
+   "id": "farao-abraao",
+   "nome": "Faraó de Abraão",
+   "povo": "egito",
+   "titulo": "faraó",
+   "inicio": -2090,
+   "fim": -2070,
+   "aprox": true,
+   "datas_alternativas": "Data apenas indicativa: depende da data adotada para Abraão (c. 2090 a.C. na cronologia longa; outros situam os patriarcas entre 1900 e 1700 a.C.).",
+   "incerto": true,
+   "avaliacao": null,
+   "resumo": "Faraó sem nome que levou Sara ao palácio quando Abraão desceu ao Egito por causa da fome; atingido por pragas, devolveu-a e mandou-os embora.",
+   "particularidades": [
+    "O texto não dá nome nem permite identificação segura."
+   ],
+   "refs": [
+    "genesis 12:10-20"
+   ],
+   "contemporaneos": [],
+   "fonte_extra": [
+    {
+     "fonte": "Cronologia egípcia convencional (listas reais egípcias; Mâneton, conhecido por autores posteriores)",
+     "referencia": "datas das dinastias usadas nas hipóteses de identificação",
+     "data": "aproximado"
+    }
+   ]
+  },
+  {
+   "id": "farao-jose",
+   "nome": "Faraó de José",
+   "povo": "egito",
+   "titulo": "faraó",
+   "inicio": -1885,
+   "fim": -1860,
+   "aprox": true,
+   "datas_alternativas": "Totalmente dependente da data do Êxodo e da permanência no Egito (430 anos em Êxodo 12:40, interpretados de formas diferentes).",
+   "incerto": true,
+   "avaliacao": null,
+   "resumo": "Faraó sem nome que teve os sonhos das vacas e das espigas, interpretados por José, a quem fez governador do Egito. Recebeu Jacó e sua família e lhes deu a terra de Gósen.",
+   "particularidades": [
+    "Deu a José o nome egípcio Zafenate-Paneia.",
+    "Hipóteses: um rei da 12ª dinastia (como Sesóstris II ou III) na cronologia longa, ou um rei hicso (como Apópis) numa datação mais baixa."
+   ],
+   "refs": [
+    "genesis 41:1-46",
+    "genesis 47:1-12"
+   ],
+   "contemporaneos": [],
+   "fonte_extra": [
+    {
+     "fonte": "Cronologia egípcia convencional (listas reais egípcias; Mâneton, conhecido por autores posteriores)",
+     "referencia": "datas das dinastias usadas nas hipóteses de identificação",
+     "data": "aproximado"
+    }
+   ]
+  },
+  {
+   "id": "farao-opressao",
+   "nome": "Faraó da opressão",
+   "povo": "egito",
+   "titulo": "faraó",
+   "inicio": -1530,
+   "fim": -1450,
+   "aprox": true,
+   "incerto": true,
+   "avaliacao": null,
+   "resumo": "'Um novo rei que não conhecia José' escravizou os israelitas, mandou construir as cidades-armazém de Pitom e Ramessés e ordenou matar os meninos hebreus.",
+   "particularidades": [
+    "Pode ter sido mais de um faraó.",
+    "Hipóteses: Tutmósis I ou III (datação antiga) ou Seti I (datação tardia)."
+   ],
+   "refs": [
+    "exodo 1:8-22",
+    "exodo 2:23"
+   ],
+   "contemporaneos": [],
+   "fonte_extra": [
+    {
+     "fonte": "Cronologia egípcia convencional (listas reais egípcias; Mâneton, conhecido por autores posteriores)",
+     "referencia": "datas das dinastias usadas nas hipóteses de identificação",
+     "data": "aproximado"
+    }
+   ]
+  },
+  {
+   "id": "farao-exodo",
+   "nome": "Faraó do Êxodo",
+   "povo": "egito",
+   "titulo": "faraó",
+   "inicio": -1450,
+   "fim": -1446,
+   "aprox": true,
+   "datas_alternativas": "Datação antiga c. 1446 a.C. (usada aqui na linha do tempo) ou tardia c. 1270-1260 a.C.",
+   "incerto": true,
+   "avaliacao": null,
+   "resumo": "Faraó sem nome que endureceu o coração diante de Moisés e Arão, sofreu as dez pragas e perseguiu Israel até o mar.",
+   "particularidades": [
+    "Hipótese da datação antiga (c. 1446 a.C., a partir de 1 Reis 6:1): Amenófis II.",
+    "Hipótese da datação tardia (c. 1270-1260 a.C.): Ramsés II.",
+    "O texto não diz que o próprio faraó morreu no mar."
+   ],
+   "refs": [
+    "exodo 5:1-2",
+    "exodo 12:29-32",
+    "exodo 14:5-9"
+   ],
+   "contemporaneos": [],
+   "fonte_extra": [
+    {
+     "fonte": "Cronologia egípcia convencional (listas reais egípcias; Mâneton, conhecido por autores posteriores)",
+     "referencia": "datas das dinastias usadas nas hipóteses de identificação",
+     "data": "aproximado"
+    }
+   ]
+  },
+  {
+   "id": "farao-salomao",
+   "nome": "Faraó sogro de Salomão",
+   "povo": "egito",
+   "titulo": "faraó",
+   "inicio": -986,
+   "fim": -967,
+   "aprox": true,
+   "incerto": true,
+   "avaliacao": null,
+   "resumo": "Faraó sem nome que deu sua filha em casamento a Salomão e conquistou Gezer, entregando-a como dote.",
+   "particularidades": [
+    "Hipóteses mais citadas: Siamun ou Psusenés II, da 21ª dinastia.",
+    "Outro faraó deu abrigo a Hadade, o edomita (1 Reis 11:18-22)."
+   ],
+   "refs": [
+    "1-reis 3:1",
+    "1-reis 9:16",
+    "1-reis 11:1"
+   ],
+   "contemporaneos": [
+    "salomao"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Cronologia egípcia convencional (listas reais egípcias; Mâneton, conhecido por autores posteriores)",
+     "referencia": "datas das dinastias usadas nas hipóteses de identificação",
+     "data": "aproximado"
+    }
+   ]
+  },
+  {
+   "id": "sisaque",
+   "nome": "Sisaque",
+   "povo": "egito",
+   "titulo": "faraó",
+   "inicio": -945,
+   "fim": -924,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Faraó que acolheu Jeroboão fugitivo e, no quinto ano de Roboão, invadiu Judá e levou os tesouros do templo e do palácio.",
+   "particularidades": [
+    "Identificado com Sesonque I, fundador da 22ª dinastia.",
+    "Crônicas fala de 1.200 carros e povos líbios e cuxitas no seu exército."
+   ],
+   "refs": [
+    "1-reis 11:40",
+    "1-reis 14:25-26",
+    "2-cronicas 12:2-9"
+   ],
+   "contemporaneos": [
+    "roboao",
+    "jeroboao-1"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Relevo do Portal de Bubástis, templo de Karnak (Egito)",
+     "referencia": "lista de cidades da campanha de Sesonque I na Palestina",
+     "data": "c. 925 a.C. (aprox.)"
+    }
+   ]
+  },
+  {
+   "id": "so",
+   "nome": "Sô",
+   "povo": "egito",
+   "titulo": "faraó",
+   "inicio": -730,
+   "fim": -715,
+   "aprox": true,
+   "incerto": true,
+   "avaliacao": null,
+   "resumo": "'Rei do Egito' a quem Oseias, último rei de Israel, mandou embaixadores pedindo ajuda contra a Assíria.",
+   "particularidades": [
+    "Identificação debatida: Osorcon IV (a mais citada), Tefnakht de Saís, ou ainda não um nome de rei, mas da cidade de Saís."
+   ],
+   "refs": [
+    "2-reis 17:4"
+   ],
+   "contemporaneos": [
+    "oseias-rei"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Cronologia egípcia convencional (listas reais egípcias; Mâneton, conhecido por autores posteriores)",
+     "referencia": "datas das dinastias usadas nas hipóteses de identificação",
+     "data": "aproximado"
+    }
+   ]
+  },
+  {
+   "id": "tiraca",
+   "nome": "Tiraca",
+   "povo": "egito",
+   "titulo": "faraó",
+   "inicio": -690,
+   "fim": -664,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Rei de Cuxe (Etiópia) que também governou o Egito. Quando Senaqueribe cercava Judá, soube-se que Tiraca saíra para lutar contra ele.",
+   "particularidades": [
+    "Da 25ª dinastia, de origem cuxita (núbia).",
+    "Em 701 a.C. talvez ainda não fosse rei; o título pode ter sido usado depois, ao escrever."
+   ],
+   "refs": [
+    "2-reis 19:9",
+    "isaias 37:9"
+   ],
+   "contemporaneos": [
+    "senaqueribe",
+    "ezequias"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Listas reais egípcias e inscrições de Taharqa",
+     "referencia": "reinado de Taharqa na 25ª dinastia",
+     "data": "690-664 a.C."
+    }
+   ]
+  },
+  {
+   "id": "neco-2",
+   "nome": "Neco II",
+   "povo": "egito",
+   "titulo": "faraó",
+   "inicio": -610,
+   "fim": -595,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Faraó que subiu ao Eufrates para ajudar a Assíria; Josias o enfrentou e morreu em Megido. Depôs Jeoacaz, pôs Jeoaquim no trono e foi derrotado por Nabucodonosor em Carquemis.",
+   "particularidades": [
+    "Da 26ª dinastia (saíta)."
+   ],
+   "refs": [
+    "2-reis 23:29-35",
+    "2-cronicas 35:20-24",
+    "2-cronicas 36:3-4",
+    "jeremias 46:2"
+   ],
+   "contemporaneos": [
+    "josias",
+    "jeoacaz-juda",
+    "jeoaquim",
+    "nabucodonosor-2"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Crônicas Babilônicas",
+     "referencia": "relato da batalha de Carquemis",
+     "data": "605 a.C."
+    },
+    {
+     "fonte": "Heródoto, Histórias",
+     "referencia": "livro 2 (sobre Necos)",
+     "data": "séc. V a.C."
+    }
+   ]
+  },
+  {
+   "id": "hofra",
+   "nome": "Hofra",
+   "povo": "egito",
+   "titulo": "faraó",
+   "inicio": -589,
+   "fim": -570,
+   "aprox": true,
+   "nota": "Jeremias 37:5 e Ezequiel 29 dizem apenas 'Faraó'; a identificação com Hofra vem de Jeremias 44:30 e do contexto.",
+   "avaliacao": null,
+   "resumo": "Faraó cujo exército saiu do Egito e fez os babilônios interromperem por um tempo o cerco de Jerusalém. Jeremias anunciou que ele seria entregue aos seus inimigos.",
+   "particularidades": [
+    "Chamado Apries pelos gregos.",
+    "Na Bíblia Livre, grafado 'Ofra'."
+   ],
+   "refs": [
+    "jeremias 37:5-7",
+    "jeremias 44:30",
+    "ezequiel 29:1-3"
+   ],
+   "contemporaneos": [
+    "zedequias",
+    "nabucodonosor-2"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Heródoto, Histórias",
+     "referencia": "livro 2 (sobre Apries e sua queda)",
+     "data": "séc. V a.C."
+    }
+   ]
+  },
+  {
+   "id": "abimeleque-gerar",
+   "nome": "Abimeleque de Gerar",
+   "povo": "filisteus",
+   "titulo": "rei",
+   "inicio": -2070,
+   "fim": -1980,
+   "aprox": true,
+   "incerto": true,
+   "avaliacao": null,
+   "resumo": "Rei de Gerar que tomou Sara, pensando ser irmã de Abraão, e foi advertido por Deus em sonho; mais tarde fez aliança com Abraão em Berseba. Um Abimeleque, 'rei dos filisteus', tratou de modo parecido com Isaque.",
+   "particularidades": [
+    "Pode ser o mesmo homem ou dois reis (talvez pai e filho), com 'Abimeleque' usado como título.",
+    "O termo 'filisteus' talvez use o nome conhecido mais tarde para a região."
+   ],
+   "refs": [
+    "genesis 20:1-18",
+    "genesis 21:22-32",
+    "genesis 26:1-31"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "aquis",
+   "nome": "Aquis",
+   "povo": "filisteus",
+   "titulo": "rei de Gate",
+   "inicio": -1015,
+   "fim": -965,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Rei filisteu de Gate. Davi, fugindo de Saul, fingiu-se louco diante dele; mais tarde viveu sob sua proteção e recebeu Ziclague. No início do reinado de Salomão, um Aquis ainda reinava em Gate.",
+   "particularidades": [
+    "1 Samuel 27:2 o chama 'filho de Maoque'; 1 Reis 2:39 fala de 'Aquis, filho de Maaca': pode ser o mesmo ou um neto."
+   ],
+   "refs": [
+    "1-samuel 21:10-15",
+    "1-samuel 27:1-12",
+    "1-samuel 28:1-2",
+    "1-samuel 29:1-11",
+    "1-reis 2:39-40"
+   ],
+   "contemporaneos": [
+    "saul",
+    "davi",
+    "salomao"
+   ]
+  },
+  {
+   "id": "reis-edom-gn36",
+   "nome": "Reis antigos de Edom (Gênesis 36)",
+   "povo": "edom",
+   "titulo": "reis",
+   "inicio": -1500,
+   "fim": -1050,
+   "aprox": true,
+   "datas_alternativas": "Sem datas no texto; o intervalo na linha do tempo é só ilustrativo.",
+   "incerto": true,
+   "avaliacao": null,
+   "resumo": "Lista de oito reis que reinaram em Edom 'antes que reinasse rei sobre os filhos de Israel': Belá, Jobabe, Husão, Hadade (filho de Bedade), Samlá, Saul de Reobote, Baal-Hanã e Hadar.",
+   "particularidades": [
+    "Os reis não formam uma dinastia: cada um vem de uma cidade diferente.",
+    "A lista é repetida em 1 Crônicas 1:43-50."
+   ],
+   "refs": [
+    "genesis 36:31-39",
+    "1-cronicas 1:43-50"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "rei-edom-moises",
+   "nome": "Rei de Edom (tempo de Moisés)",
+   "povo": "edom",
+   "titulo": "rei",
+   "inicio": -1407,
+   "fim": -1406,
+   "aprox": true,
+   "incerto": true,
+   "avaliacao": null,
+   "resumo": "Rei sem nome que recusou a Israel passagem pelo seu território, obrigando o povo a dar a volta.",
+   "particularidades": [],
+   "refs": [
+    "numeros 20:14-21",
+    "juizes 11:17"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "hadade-edom",
+   "nome": "Hadade, o edomita",
+   "povo": "edom",
+   "titulo": "príncipe",
+   "inicio": -965,
+   "fim": -935,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Da família real de Edom, fugiu ainda menino para o Egito quando Joabe matou os homens de Edom. Casou-se com a cunhada de Faraó e voltou para ser adversário de Salomão.",
+   "particularidades": [],
+   "refs": [
+    "1-reis 11:14-22",
+    "1-reis 11:25"
+   ],
+   "contemporaneos": [
+    "salomao",
+    "farao-salomao"
+   ]
+  },
+  {
+   "id": "rei-edom-josafa",
+   "nome": "Rei de Edom (aliado de Jorão)",
+   "povo": "edom",
+   "titulo": "rei",
+   "inicio": -850,
+   "fim": -848,
+   "aprox": true,
+   "incerto": true,
+   "avaliacao": null,
+   "resumo": "Rei sem nome, vassalo de Judá, que acompanhou Jorão de Israel e Josafá na campanha contra Mesa de Moabe. Pouco depois Edom se rebelou e escolheu rei próprio.",
+   "particularidades": [
+    "1 Reis 22:47 diz que antes 'não havia então rei em Edom; governador havia em lugar de rei'."
+   ],
+   "refs": [
+    "1-reis 22:47",
+    "2-reis 3:9-12",
+    "2-reis 8:20-22"
+   ],
+   "contemporaneos": [
+    "josafa",
+    "jorao-israel",
+    "mesa"
+   ]
+  },
+  {
+   "id": "balaque",
+   "nome": "Balaque",
+   "povo": "moabe",
+   "titulo": "rei",
+   "inicio": -1407,
+   "fim": -1406,
+   "aprox": true,
+   "datas_alternativas": "Data conforme a datação antiga do Êxodo; na datação tardia, c. 1230 a.C.",
+   "avaliacao": null,
+   "resumo": "Filho de Zipor, rei de Moabe quando Israel acampou nas planícies de Moabe. Contratou o adivinho Balaão para amaldiçoar Israel, mas Balaão só conseguiu abençoar.",
+   "particularidades": [
+    "Lembrado em Josué 24:9, Miqueias 6:5 e Apocalipse 2:14."
+   ],
+   "refs": [
+    "numeros 22:1-6",
+    "numeros 23:7-12",
+    "numeros 24:10-11",
+    "josue 24:9",
+    "miqueias 6:5"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "eglom",
+   "nome": "Eglom",
+   "povo": "moabe",
+   "titulo": "rei",
+   "inicio": -1330,
+   "fim": -1312,
+   "aprox": true,
+   "datas_alternativas": "Cronologia dos Juízes muito incerta.",
+   "avaliacao": null,
+   "resumo": "Rei de Moabe que, aliado a amonitas e amalequitas, dominou Israel por 18 anos a partir de Jericó ('a cidade das palmeiras'). Foi morto pelo juiz Eúde.",
+   "particularidades": [
+    "O texto o descreve como 'homem muito gordo'."
+   ],
+   "refs": [
+    "juizes 3:12-30"
+   ],
+   "contemporaneos": [
+    "eude"
+   ]
+  },
+  {
+   "id": "mesa",
+   "nome": "Mesa",
+   "povo": "moabe",
+   "titulo": "rei",
+   "inicio": -860,
+   "fim": -830,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Rei de Moabe e criador de ovelhas que pagava tributo a Israel e se rebelou após a morte de Acabe. Cercado por Israel, Judá e Edom, sacrificou o filho primogênito sobre o muro, e os aliados se retiraram.",
+   "particularidades": [
+    "Grafado Messa na Bíblia Livre."
+   ],
+   "refs": [
+    "2-reis 1:1",
+    "2-reis 3:4-27"
+   ],
+   "contemporaneos": [
+    "acabe",
+    "acazias-israel",
+    "jorao-israel",
+    "josafa"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Estela de Mesa (Pedra Moabita), Dibom",
+     "referencia": "inscrição em que Mesa celebra a libertação de Moabe do domínio de Israel",
+     "data": "c. 840 a.C. (aprox.)"
+    }
+   ]
+  },
+  {
+   "id": "naas",
+   "nome": "Naás",
+   "povo": "amom",
+   "titulo": "rei",
+   "inicio": -1050,
+   "fim": -995,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Rei amonita que cercou Jabes de Gileade e exigiu furar o olho direito dos moradores; foi derrotado por Saul. Mais tarde mostrou bondade a Davi.",
+   "particularidades": [
+    "Seu filho Sobi ajudou Davi na fuga de Absalão (2 Samuel 17:27)."
+   ],
+   "refs": [
+    "1-samuel 11:1-11",
+    "1-samuel 12:12",
+    "2-samuel 10:1-2",
+    "2-samuel 17:27"
+   ],
+   "contemporaneos": [
+    "saul",
+    "davi"
+   ]
+  },
+  {
+   "id": "hanum",
+   "nome": "Hanum",
+   "povo": "amom",
+   "titulo": "rei",
+   "inicio": -995,
+   "fim": -990,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Filho de Naás. Desconfiou dos mensageiros que Davi mandou para consolá-lo, raspou-lhes metade da barba e provocou uma guerra em que amonitas e arameus foram vencidos.",
+   "particularidades": [
+    "Grafado Hanã em 1 Crônicas 19."
+   ],
+   "refs": [
+    "2-samuel 10:1-14",
+    "1-cronicas 19:1-15"
+   ],
+   "contemporaneos": [
+    "davi",
+    "hadadezer"
+   ]
+  },
+  {
+   "id": "baalis",
+   "nome": "Baalis",
+   "povo": "amom",
+   "titulo": "rei",
+   "inicio": -590,
+   "fim": -580,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Rei dos amonitas que enviou Ismael, filho de Netanias, para matar o governador Gedalias depois da queda de Jerusalém.",
+   "particularidades": [],
+   "refs": [
+    "jeremias 40:14",
+    "jeremias 41:10",
+    "jeremias 41:15"
+   ],
+   "contemporaneos": [
+    "gedalias"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Impressão de selo de Tell el-Umeiri (Jordânia)",
+     "referencia": "selo de um servo de 'Baalisha', que muitos ligam a Baalis",
+     "data": "c. 600 a.C. (aprox.)"
+    }
+   ]
+  },
+  {
+   "id": "reis-midia-moises",
+   "nome": "Cinco reis de Midiã",
+   "povo": "midia",
+   "titulo": "reis",
+   "inicio": -1406,
+   "fim": -1406,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Evi, Requém, Zur, Hur e Reba, mortos na guerra de Israel contra Midiã depois do episódio de Baal-Peor, junto com Balaão.",
+   "particularidades": [
+    "Josué 13:21 os chama de príncipes ligados a Seom."
+   ],
+   "refs": [
+    "numeros 31:8",
+    "josue 13:21"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "orebe-zeebe",
+   "nome": "Orebe e Zeebe",
+   "povo": "midia",
+   "titulo": "príncipes",
+   "inicio": -1170,
+   "fim": -1170,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Dois príncipes midianitas capturados e mortos pelos homens de Efraim durante a vitória de Gideão.",
+   "particularidades": [],
+   "refs": [
+    "juizes 7:24-25",
+    "juizes 8:3",
+    "salmos 83:11"
+   ],
+   "contemporaneos": [
+    "gideao"
+   ]
+  },
+  {
+   "id": "zeba-zalmuna",
+   "nome": "Zebá e Zalmuna",
+   "povo": "midia",
+   "titulo": "reis",
+   "inicio": -1170,
+   "fim": -1170,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Reis de Midiã perseguidos por Gideão além do Jordão. Tinham matado os irmãos de Gideão no Tabor, e Gideão os executou.",
+   "particularidades": [
+    "Grafados Zeba e Zebá na Bíblia Livre."
+   ],
+   "refs": [
+    "juizes 8:4-21",
+    "salmos 83:11"
+   ],
+   "contemporaneos": [
+    "gideao"
+   ]
+  },
+  {
+   "id": "agague",
+   "nome": "Agague",
+   "povo": "amaleque",
+   "titulo": "rei",
+   "inicio": -1030,
+   "fim": -1025,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Rei de Amaleque capturado vivo por Saul, que poupou também o melhor do gado contra a ordem recebida. Samuel o executou em Gilgal.",
+   "particularidades": [
+    "Hamã, no livro de Ester, é chamado 'agagita'.",
+    "Números 24:7 cita Agague (talvez como título dos reis amalequitas)."
+   ],
+   "refs": [
+    "1-samuel 15:8-9",
+    "1-samuel 15:32-33",
+    "numeros 24:7"
+   ],
+   "contemporaneos": [
+    "saul"
+   ]
+  },
+  {
+   "id": "otniel",
+   "nome": "Otniel",
+   "povo": "juizes",
+   "titulo": "juiz",
+   "inicio": -1373,
+   "fim": -1334,
+   "aprox": true,
+   "datas_alternativas": "Cronologia dos Juízes muito incerta: somados, os anos do livro passam de 400, e muitos supõem que vários juízes atuaram ao mesmo tempo em regiões diferentes. Datas aqui pela datação antiga do Êxodo (c. 1446 a.C.); na datação tardia (c. 1270-1260 a.C.) o período inteiro fica entre c. 1200 e 1050 a.C.",
+   "avaliacao": null,
+   "resumo": "Sobrinho de Calebe; o Espírito do SENHOR veio sobre ele e libertou Israel de Cusã-Risataim. A terra teve descanso por 40 anos.",
+   "particularidades": [
+    "Primeiro juiz citado no livro."
+   ],
+   "refs": [
+    "juizes 1:13",
+    "juizes 3:7-11"
+   ],
+   "contemporaneos": [
+    "cusa-risataim"
+   ]
+  },
+  {
+   "id": "eude",
+   "nome": "Eúde",
+   "povo": "juizes",
+   "titulo": "juiz",
+   "inicio": -1316,
+   "fim": -1296,
+   "aprox": true,
+   "datas_alternativas": "Cronologia dos Juízes muito incerta: somados, os anos do livro passam de 400, e muitos supõem que vários juízes atuaram ao mesmo tempo em regiões diferentes. Datas aqui pela datação antiga do Êxodo (c. 1446 a.C.); na datação tardia (c. 1270-1260 a.C.) o período inteiro fica entre c. 1200 e 1050 a.C.",
+   "avaliacao": null,
+   "resumo": "Benjamita canhoto que matou Eglom, rei de Moabe, com um punhal escondido e conduziu Israel à vitória. Depois a terra repousou 80 anos.",
+   "particularidades": [
+    "A barra mostra só o período de sua liderança; os 80 anos de descanso vão além."
+   ],
+   "refs": [
+    "juizes 3:12-30"
+   ],
+   "contemporaneos": [
+    "eglom"
+   ]
+  },
+  {
+   "id": "sangar",
+   "nome": "Sangar",
+   "povo": "juizes",
+   "titulo": "juiz",
+   "inicio": -1250,
+   "fim": -1240,
+   "aprox": true,
+   "datas_alternativas": "Cronologia dos Juízes muito incerta: somados, os anos do livro passam de 400, e muitos supõem que vários juízes atuaram ao mesmo tempo em regiões diferentes. Datas aqui pela datação antiga do Êxodo (c. 1446 a.C.); na datação tardia (c. 1270-1260 a.C.) o período inteiro fica entre c. 1200 e 1050 a.C.",
+   "avaliacao": null,
+   "resumo": "Filho de Anate; feriu 600 filisteus com uma aguilhada de bois e também salvou Israel.",
+   "particularidades": [
+    "Citado no cântico de Débora."
+   ],
+   "refs": [
+    "juizes 3:31",
+    "juizes 5:6"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "debora",
+   "nome": "Débora (e Baraque)",
+   "povo": "juizes",
+   "titulo": "juíza e profetisa",
+   "inicio": -1230,
+   "fim": -1190,
+   "aprox": true,
+   "datas_alternativas": "Cronologia dos Juízes muito incerta: somados, os anos do livro passam de 400, e muitos supõem que vários juízes atuaram ao mesmo tempo em regiões diferentes. Datas aqui pela datação antiga do Êxodo (c. 1446 a.C.); na datação tardia (c. 1270-1260 a.C.) o período inteiro fica entre c. 1200 e 1050 a.C.",
+   "avaliacao": null,
+   "resumo": "Profetisa que julgava Israel debaixo de uma palmeira. Convocou Baraque, e juntos venceram Sísera, general de Jabim; Jael matou Sísera. A terra repousou 40 anos.",
+   "particularidades": [
+    "Única mulher entre os juízes.",
+    "Juízes 5 traz o Cântico de Débora, um dos poemas mais antigos da Bíblia."
+   ],
+   "refs": [
+    "juizes 4:1-24",
+    "juizes 5:1-31",
+    "hebreus 11:32"
+   ],
+   "contemporaneos": [
+    "jabim-hazor-2"
+   ]
+  },
+  {
+   "id": "gideao",
+   "nome": "Gideão",
+   "povo": "juizes",
+   "titulo": "juiz",
+   "inicio": -1180,
+   "fim": -1140,
+   "aprox": true,
+   "datas_alternativas": "Cronologia dos Juízes muito incerta: somados, os anos do livro passam de 400, e muitos supõem que vários juízes atuaram ao mesmo tempo em regiões diferentes. Datas aqui pela datação antiga do Êxodo (c. 1446 a.C.); na datação tardia (c. 1270-1260 a.C.) o período inteiro fica entre c. 1200 e 1050 a.C.",
+   "avaliacao": null,
+   "resumo": "Chamado pelo anjo enquanto malhava trigo escondido, venceu os midianitas com 300 homens, tochas e trombetas. Recusou ser rei: 'o SENHOR será vosso Senhor'.",
+   "particularidades": [
+    "Também chamado Jerubaal.",
+    "O éfode que fez tornou-se laço para Israel."
+   ],
+   "refs": [
+    "juizes 6:11-40",
+    "juizes 7:1-25",
+    "juizes 8:22-28"
+   ],
+   "contemporaneos": [
+    "zeba-zalmuna",
+    "orebe-zeebe"
+   ]
+  },
+  {
+   "id": "abimeleque-siquem",
+   "nome": "Abimeleque (filho de Gideão)",
+   "povo": "juizes",
+   "titulo": "rei (de Siquém)",
+   "inicio": -1140,
+   "fim": -1137,
+   "aprox": true,
+   "datas_alternativas": "Cronologia dos Juízes muito incerta: somados, os anos do livro passam de 400, e muitos supõem que vários juízes atuaram ao mesmo tempo em regiões diferentes. Datas aqui pela datação antiga do Êxodo (c. 1446 a.C.); na datação tardia (c. 1270-1260 a.C.) o período inteiro fica entre c. 1200 e 1050 a.C.",
+   "avaliacao": null,
+   "resumo": "Filho de Gideão com uma concubina de Siquém; matou 70 irmãos e foi feito rei pelos de Siquém. Dominou três anos e morreu em Tebes, atingido por uma pedra de moinho lançada por uma mulher.",
+   "particularidades": [
+    "Primeira tentativa de monarquia em Israel, condenada pela fábula de Jotão."
+   ],
+   "refs": [
+    "juizes 9:1-57"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "eli",
+   "nome": "Eli",
+   "povo": "juizes",
+   "titulo": "sacerdote e juiz",
+   "inicio": -1140,
+   "fim": -1100,
+   "aprox": true,
+   "datas_alternativas": "Cronologia dos Juízes muito incerta: somados, os anos do livro passam de 400, e muitos supõem que vários juízes atuaram ao mesmo tempo em regiões diferentes. Datas aqui pela datação antiga do Êxodo (c. 1446 a.C.); na datação tardia (c. 1270-1260 a.C.) o período inteiro fica entre c. 1200 e 1050 a.C.",
+   "avaliacao": null,
+   "resumo": "Sacerdote em Siló que julgou Israel 40 anos. Criou o menino Samuel; seus filhos Hofni e Fineias foram corruptos e morreram quando a arca foi tomada pelos filisteus, e Eli caiu e morreu ao receber a notícia.",
+   "particularidades": [],
+   "refs": [
+    "1-samuel 1:9",
+    "1-samuel 2:12-17",
+    "1-samuel 4:12-18"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "tola",
+   "nome": "Tolá",
+   "povo": "juizes",
+   "titulo": "juiz",
+   "inicio": -1137,
+   "fim": -1114,
+   "aprox": true,
+   "datas_alternativas": "Cronologia dos Juízes muito incerta: somados, os anos do livro passam de 400, e muitos supõem que vários juízes atuaram ao mesmo tempo em regiões diferentes. Datas aqui pela datação antiga do Êxodo (c. 1446 a.C.); na datação tardia (c. 1270-1260 a.C.) o período inteiro fica entre c. 1200 e 1050 a.C.",
+   "avaliacao": null,
+   "resumo": "Homem de Issacar que se levantou 'para livrar a Israel' depois de Abimeleque e julgou 23 anos.",
+   "particularidades": [],
+   "refs": [
+    "juizes 10:1-2"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "jair",
+   "nome": "Jair",
+   "povo": "juizes",
+   "titulo": "juiz",
+   "inicio": -1114,
+   "fim": -1092,
+   "aprox": true,
+   "datas_alternativas": "Cronologia dos Juízes muito incerta: somados, os anos do livro passam de 400, e muitos supõem que vários juízes atuaram ao mesmo tempo em regiões diferentes. Datas aqui pela datação antiga do Êxodo (c. 1446 a.C.); na datação tardia (c. 1270-1260 a.C.) o período inteiro fica entre c. 1200 e 1050 a.C.",
+   "avaliacao": null,
+   "resumo": "Gileadita que julgou 22 anos; teve 30 filhos que montavam 30 jumentos e governavam 30 vilas.",
+   "particularidades": [],
+   "refs": [
+    "juizes 10:3-5"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "samuel",
+   "nome": "Samuel",
+   "povo": "juizes",
+   "titulo": "profeta e juiz",
+   "inicio": -1100,
+   "fim": -1015,
+   "aprox": true,
+   "datas_alternativas": "Cronologia dos Juízes muito incerta: somados, os anos do livro passam de 400, e muitos supõem que vários juízes atuaram ao mesmo tempo em regiões diferentes. Datas aqui pela datação antiga do Êxodo (c. 1446 a.C.); na datação tardia (c. 1270-1260 a.C.) o período inteiro fica entre c. 1200 e 1050 a.C.",
+   "avaliacao": null,
+   "resumo": "Profeta, sacerdote e último dos juízes. Julgou Israel a vida toda, percorrendo Betel, Gilgal e Mispá; a pedido do povo ungiu Saul como rei e depois Davi.",
+   "particularidades": [
+    "Venceu os filisteus em Mispá e ergueu a pedra Ebenézer."
+   ],
+   "refs": [
+    "1-samuel 3:19-21",
+    "1-samuel 7:3-17",
+    "1-samuel 8:1-22",
+    "1-samuel 25:1"
+   ],
+   "contemporaneos": [
+    "saul"
+   ]
+  },
+  {
+   "id": "jefte",
+   "nome": "Jefté",
+   "povo": "juizes",
+   "titulo": "juiz",
+   "inicio": -1092,
+   "fim": -1086,
+   "aprox": true,
+   "datas_alternativas": "Cronologia dos Juízes muito incerta: somados, os anos do livro passam de 400, e muitos supõem que vários juízes atuaram ao mesmo tempo em regiões diferentes. Datas aqui pela datação antiga do Êxodo (c. 1446 a.C.); na datação tardia (c. 1270-1260 a.C.) o período inteiro fica entre c. 1200 e 1050 a.C.",
+   "avaliacao": null,
+   "resumo": "Gileadita expulso pelos irmãos, chamado de volta para enfrentar os amonitas. Venceu, mas cumpriu um voto precipitado que atingiu sua filha.",
+   "particularidades": [
+    "Diz que Israel já habitava a região havia 300 anos (Juízes 11:26), dado usado na discussão da data do Êxodo."
+   ],
+   "refs": [
+    "juizes 11:1-40",
+    "juizes 12:1-7"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "sansao",
+   "nome": "Sansão",
+   "povo": "juizes",
+   "titulo": "juiz",
+   "inicio": -1090,
+   "fim": -1070,
+   "aprox": true,
+   "datas_alternativas": "Cronologia dos Juízes muito incerta: somados, os anos do livro passam de 400, e muitos supõem que vários juízes atuaram ao mesmo tempo em regiões diferentes. Datas aqui pela datação antiga do Êxodo (c. 1446 a.C.); na datação tardia (c. 1270-1260 a.C.) o período inteiro fica entre c. 1200 e 1050 a.C.",
+   "avaliacao": null,
+   "resumo": "Nazireu da tribo de Dã, de força extraordinária, que lutou sozinho contra os filisteus. Traído por Dalila, foi cegado e, ao morrer, derrubou o templo de Dagom.",
+   "particularidades": [
+    "Julgou Israel 'nos dias dos filisteus' 20 anos, provavelmente ao mesmo tempo que outros juízes ou que Eli."
+   ],
+   "refs": [
+    "juizes 13:1-5",
+    "juizes 15:20",
+    "juizes 16:4-31"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "ibsa",
+   "nome": "Ibsã",
+   "povo": "juizes",
+   "titulo": "juiz",
+   "inicio": -1086,
+   "fim": -1079,
+   "aprox": true,
+   "datas_alternativas": "Cronologia dos Juízes muito incerta: somados, os anos do livro passam de 400, e muitos supõem que vários juízes atuaram ao mesmo tempo em regiões diferentes. Datas aqui pela datação antiga do Êxodo (c. 1446 a.C.); na datação tardia (c. 1270-1260 a.C.) o período inteiro fica entre c. 1200 e 1050 a.C.",
+   "avaliacao": null,
+   "resumo": "Juiz de Belém que julgou sete anos; teve 30 filhos e 30 filhas.",
+   "particularidades": [],
+   "refs": [
+    "juizes 12:8-10"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "elom",
+   "nome": "Elom",
+   "povo": "juizes",
+   "titulo": "juiz",
+   "inicio": -1079,
+   "fim": -1069,
+   "aprox": true,
+   "datas_alternativas": "Cronologia dos Juízes muito incerta: somados, os anos do livro passam de 400, e muitos supõem que vários juízes atuaram ao mesmo tempo em regiões diferentes. Datas aqui pela datação antiga do Êxodo (c. 1446 a.C.); na datação tardia (c. 1270-1260 a.C.) o período inteiro fica entre c. 1200 e 1050 a.C.",
+   "avaliacao": null,
+   "resumo": "Juiz da tribo de Zebulom que julgou dez anos.",
+   "particularidades": [],
+   "refs": [
+    "juizes 12:11-12"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "abdom",
+   "nome": "Abdom",
+   "povo": "juizes",
+   "titulo": "juiz",
+   "inicio": -1069,
+   "fim": -1061,
+   "aprox": true,
+   "datas_alternativas": "Cronologia dos Juízes muito incerta: somados, os anos do livro passam de 400, e muitos supõem que vários juízes atuaram ao mesmo tempo em regiões diferentes. Datas aqui pela datação antiga do Êxodo (c. 1446 a.C.); na datação tardia (c. 1270-1260 a.C.) o período inteiro fica entre c. 1200 e 1050 a.C.",
+   "avaliacao": null,
+   "resumo": "Juiz de Piratom, em Efraim, que julgou oito anos; teve 40 filhos e 30 netos.",
+   "particularidades": [],
+   "refs": [
+    "juizes 12:13-15"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "saul",
+   "nome": "Saul",
+   "povo": "israel-unido",
+   "titulo": "rei",
+   "inicio": -1050,
+   "fim": -1010,
+   "aprox": true,
+   "datas_alternativas": "Atos 13:21 fala em 40 anos; o texto hebraico de 1 Samuel 13:1 tem números incompletos, por isso a duração exata é discutida (há quem proponha reinado bem mais curto).",
+   "nota": "Avaliação 'misto': o texto não usa a fórmula 'fez o que era mau', mas registra que foi rejeitado por desobediência (1 Crônicas 10:13).",
+   "avaliacao": "misto",
+   "resumo": "Primeiro rei de Israel, da tribo de Benjamim, ungido por Samuel. Começou com vitórias, mas desobedeceu ao mandado de Deus e foi rejeitado; morreu com seus filhos na batalha do monte Gilboa.",
+   "particularidades": [
+    "Ungido por Samuel em segredo e depois aclamado em Mispá.",
+    "Livrou Jabes de Gileade dos amonitas de Naás.",
+    "Poupou Agague, rei de Amaleque, contra a ordem recebida.",
+    "Consultou uma médium em En-Dor antes de morrer."
+   ],
+   "refs": [
+    "1-samuel 9:1-10:27",
+    "1-samuel 11:1-15",
+    "1-samuel 13:1-14",
+    "1-samuel 15:1-35",
+    "1-samuel 28:3-25",
+    "1-samuel 31:1-13",
+    "1-cronicas 10:13-14"
+   ],
+   "contemporaneos": [
+    "naas",
+    "agague",
+    "aquis"
+   ]
+  },
+  {
+   "id": "isbosete",
+   "nome": "Is-Bosete",
+   "povo": "israel-unido",
+   "titulo": "rei",
+   "inicio": -1010,
+   "fim": -1008,
+   "aprox": true,
+   "nota": "Os 'dois anos' de 2 Samuel 2:10 contrastam com os sete anos e meio de Davi em Hebrom; o encaixe exato é discutido.",
+   "avaliacao": null,
+   "resumo": "Filho de Saul, posto no trono por Abner sobre as tribos do norte, enquanto Judá seguia Davi. Reinou dois anos e foi assassinado por dois de seus capitães.",
+   "particularidades": [
+    "Governou a partir de Maanaim, a leste do Jordão.",
+    "Também chamado Esbaal em 1 Crônicas 8:33."
+   ],
+   "refs": [
+    "2-samuel 2:8-11",
+    "2-samuel 3:6-11",
+    "2-samuel 4:1-12",
+    "1-cronicas 8:33"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "davi",
+   "nome": "Davi",
+   "povo": "israel-unido",
+   "titulo": "rei",
+   "inicio": -1010,
+   "fim": -970,
+   "aprox": true,
+   "corregencia": "Nomeou Salomão rei pouco antes de morrer (1 Reis 1).",
+   "avaliacao": "fez o que era reto",
+   "resumo": "Filho de Jessé, de Belém, ungido por Samuel ainda jovem. Reinou sete anos e meio em Hebrom sobre Judá e 33 anos em Jerusalém sobre todo Israel; recebeu a promessa de uma dinastia duradoura.",
+   "particularidades": [
+    "Venceu Golias e serviu na corte de Saul.",
+    "Conquistou Jerusalém e levou para lá a arca.",
+    "Pecou com Bate-Seba e contra Urias, e se arrependeu.",
+    "O texto o usa como medida para os reis seguintes."
+   ],
+   "refs": [
+    "1-samuel 16:1-13",
+    "2-samuel 2:1-4",
+    "2-samuel 5:1-12",
+    "2-samuel 7:1-17",
+    "2-samuel 11:1-12:14",
+    "1-reis 2:10-12",
+    "1-reis 15:5"
+   ],
+   "contemporaneos": [
+    "aquis",
+    "naas",
+    "hanum",
+    "hirao",
+    "hadadezer",
+    "toi"
+   ]
+  },
+  {
+   "id": "salomao",
+   "nome": "Salomão",
+   "povo": "israel-unido",
+   "titulo": "rei",
+   "inicio": -970,
+   "fim": -931,
+   "aprox": true,
+   "nota": "Avaliação 'misto': 1 Reis 3:3 diz que amava o SENHOR; 1 Reis 11:6 diz que fez o que era mau.",
+   "avaliacao": "misto",
+   "resumo": "Filho de Davi e Bate-Seba. Pediu sabedoria a Deus, construiu o templo de Jerusalém e fez alianças com reis vizinhos; na velhice, suas muitas mulheres desviaram seu coração para outros deuses.",
+   "particularidades": [
+    "Construiu o templo no 4º ano de seu reinado.",
+    "Recebeu a visita da rainha de Sabá.",
+    "Fez parentesco com Faraó, casando-se com sua filha.",
+    "Depois dele o reino se dividiu."
+   ],
+   "refs": [
+    "1-reis 1:32-40",
+    "1-reis 3:1-15",
+    "1-reis 6:1",
+    "1-reis 10:1-13",
+    "1-reis 11:1-13",
+    "1-reis 11:41-43",
+    "2-cronicas 1:1-13"
+   ],
+   "contemporaneos": [
+    "hirao",
+    "rainha-saba",
+    "farao-salomao",
+    "hadade-edom",
+    "rezom",
+    "aquis"
+   ]
+  },
+  {
+   "id": "roboao",
+   "nome": "Roboão",
+   "povo": "juda",
+   "titulo": "rei",
+   "inicio": -931,
+   "fim": -913,
+   "aprox": true,
+   "avaliacao": "fez o que era mau",
+   "resumo": "Filho de Salomão. Recusou aliviar o peso dos impostos e as dez tribos do norte se separaram; no seu quinto ano, Sisaque do Egito saqueou Jerusalém.",
+   "particularidades": [
+    "Ouviu os jovens e não os anciãos em Siquém.",
+    "Fortificou cidades em Judá.",
+    "Os escudos de ouro foram trocados por escudos de bronze."
+   ],
+   "refs": [
+    "1-reis 12:1-24",
+    "1-reis 14:21-31",
+    "2-cronicas 10:1-19",
+    "2-cronicas 12:1-16"
+   ],
+   "contemporaneos": [
+    "sisaque"
+   ]
+  },
+  {
+   "id": "abias",
+   "nome": "Abias (Abião)",
+   "povo": "juda",
+   "titulo": "rei",
+   "inicio": -913,
+   "fim": -911,
+   "aprox": true,
+   "avaliacao": "fez o que era mau",
+   "resumo": "Filho de Roboão; reinou três anos e guerreou contra Jeroboão. Reis o critica por andar nos pecados do pai; Crônicas registra seu discurso e uma vitória em Zemaraim.",
+   "particularidades": [
+    "Chamado Abião em 1 Reis.",
+    "Crônicas destaca a vitória contra Israel."
+   ],
+   "refs": [
+    "1-reis 15:1-8",
+    "2-cronicas 13:1-22"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "asa",
+   "nome": "Asa",
+   "povo": "juda",
+   "titulo": "rei",
+   "inicio": -911,
+   "fim": -870,
+   "aprox": true,
+   "avaliacao": "fez o que era reto",
+   "resumo": "Filho de Abias; removeu ídolos e até depôs a avó Maaca. Venceu Zerá, o etíope, mas, na guerra contra Baasa, comprou com o tesouro do templo a ajuda de Ben-Hadade de Damasco, e foi repreendido.",
+   "particularidades": [
+    "Reinou 41 anos.",
+    "No fim da vida, doente dos pés, buscou os médicos e não ao SENHOR (2 Crônicas 16:12)."
+   ],
+   "refs": [
+    "1-reis 15:9-24",
+    "2-cronicas 14:1-15",
+    "2-cronicas 16:1-14"
+   ],
+   "contemporaneos": [
+    "ben-hadade-1",
+    "zera"
+   ]
+  },
+  {
+   "id": "josafa",
+   "nome": "Josafá",
+   "povo": "juda",
+   "titulo": "rei",
+   "inicio": -872,
+   "fim": -848,
+   "aprox": true,
+   "corregencia": "Na cronologia de Thiele, reinou junto com Asa entre 872 e 870 a.C.",
+   "avaliacao": "fez o que era reto",
+   "resumo": "Filho de Asa; mandou ensinar a lei pelas cidades e organizou juízes. Aliou-se a Acabe e a seus filhos, o que o profeta Jeú, filho de Hanani, reprovou.",
+   "particularidades": [
+    "Lutou ao lado de Acabe em Ramote de Gileade.",
+    "Seus navios para Ofir se quebraram em Eziom-Geber.",
+    "Venceu moabitas e amonitas cantando louvores (2 Crônicas 20)."
+   ],
+   "refs": [
+    "1-reis 22:41-50",
+    "2-cronicas 17:1-19",
+    "2-cronicas 19:1-11",
+    "2-cronicas 20:1-37",
+    "2-reis 3:4-27"
+   ],
+   "contemporaneos": [
+    "mesa"
+   ]
+  },
+  {
+   "id": "jeorao-juda",
+   "nome": "Jeorão (de Judá)",
+   "povo": "juda",
+   "titulo": "rei",
+   "inicio": -853,
+   "fim": -841,
+   "aprox": true,
+   "corregencia": "Corregente com Josafá a partir de 853 a.C. (Thiele); por isso as sincronias com Jorão de Israel parecem se cruzar (2 Reis 1:17 e 8:16).",
+   "avaliacao": "fez o que era mau",
+   "resumo": "Filho de Josafá e marido de Atalia, filha de Acabe. Matou seus irmãos e andou nos caminhos dos reis de Israel; em seu tempo Edom e Libna se rebelaram.",
+   "particularidades": [
+    "Recebeu uma carta de Elias (2 Crônicas 21:12).",
+    "Morreu de doença grave nos intestinos."
+   ],
+   "refs": [
+    "2-reis 8:16-24",
+    "2-cronicas 21:1-20"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "acazias-juda",
+   "nome": "Acazias (de Judá)",
+   "povo": "juda",
+   "titulo": "rei",
+   "inicio": -841,
+   "fim": -841,
+   "aprox": true,
+   "avaliacao": "fez o que era mau",
+   "resumo": "Filho de Jeorão e Atalia; reinou um ano. Visitava Jorão de Israel em Jezreel quando Jeú se revoltou, e foi morto por ordem de Jeú.",
+   "particularidades": [
+    "Também chamado Jeoacaz em 2 Crônicas 21:17."
+   ],
+   "refs": [
+    "2-reis 8:25-29",
+    "2-reis 9:27-29",
+    "2-cronicas 22:1-9"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "atalia",
+   "nome": "Atalia",
+   "povo": "juda",
+   "titulo": "rainha",
+   "inicio": -841,
+   "fim": -835,
+   "aprox": true,
+   "nota": "O texto não usa a fórmula de avaliação para ela; 'fez o que era mau' resume 2 Crônicas 24:7.",
+   "avaliacao": "fez o que era mau",
+   "resumo": "Filha de Acabe (ou de Onri) e mãe de Acazias. Com a morte do filho, matou a descendência real e governou Judá seis anos; o menino Joás foi escondido no templo, e o sacerdote Joiada a derrubou.",
+   "particularidades": [
+    "Única mulher a reinar sozinha em Judá ou Israel.",
+    "Crônicas a chama de 'a ímpia Atalia'."
+   ],
+   "refs": [
+    "2-reis 11:1-20",
+    "2-cronicas 22:10-12",
+    "2-cronicas 23:12-21",
+    "2-cronicas 24:7"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "joas-juda",
+   "nome": "Joás (de Judá)",
+   "povo": "juda",
+   "titulo": "rei",
+   "inicio": -835,
+   "fim": -796,
+   "aprox": true,
+   "avaliacao": "misto",
+   "resumo": "Salvo menino e coroado aos sete anos. Reformou o templo enquanto viveu o sacerdote Joiada; depois deixou-se levar pelos príncipes, mandou apedrejar Zacarias, filho de Joiada, e pagou tributo a Hazael. Morreu assassinado.",
+   "particularidades": [
+    "Fez o que era reto 'todo o tempo que o sacerdote Joiada o conduziu'.",
+    "Também grafado Jeoás."
+   ],
+   "refs": [
+    "2-reis 11:21",
+    "2-reis 12:1-21",
+    "2-cronicas 24:1-27"
+   ],
+   "contemporaneos": [
+    "hazael"
+   ]
+  },
+  {
+   "id": "amazias",
+   "nome": "Amazias",
+   "povo": "juda",
+   "titulo": "rei",
+   "inicio": -796,
+   "fim": -767,
+   "aprox": true,
+   "avaliacao": "misto",
+   "resumo": "Filho de Joás. Venceu Edom no vale do Sal, mas trouxe deuses edomitas e desafiou Jeoás de Israel, que o derrotou e derrubou parte do muro de Jerusalém. Foi morto em Laquis.",
+   "particularidades": [
+    "'Fez o que era correto, ainda que não como Davi'.",
+    "Crônicas registra a adoração aos deuses de Edom."
+   ],
+   "refs": [
+    "2-reis 14:1-20",
+    "2-cronicas 25:1-28"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "uzias",
+   "nome": "Uzias (Azarias)",
+   "povo": "juda",
+   "titulo": "rei",
+   "inicio": -792,
+   "fim": -740,
+   "aprox": true,
+   "corregencia": "Thiele: corregente com Amazias desde 792 a.C.; depois Jotão governou por ele (2 Reis 15:5).",
+   "avaliacao": "fez o que era reto",
+   "resumo": "Filho de Amazias; reinou 52 anos e fortaleceu o reino. Por orgulho quis queimar incenso no templo e ficou leproso até a morte; seu filho Jotão governou em seu lugar.",
+   "particularidades": [
+    "Chamado Azarias em 2 Reis.",
+    "No ano de sua morte Isaías teve a visão do templo.",
+    "Amós e Oseias datam suas profecias pelo seu reinado."
+   ],
+   "refs": [
+    "2-reis 15:1-7",
+    "2-cronicas 26:1-23",
+    "isaias 6:1",
+    "amos 1:1"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "jotao",
+   "nome": "Jotão",
+   "povo": "juda",
+   "titulo": "rei",
+   "inicio": -750,
+   "fim": -732,
+   "aprox": true,
+   "corregencia": "Corregente com Uzias desde c. 750 a.C.; os números de 2 Reis 15:30 e 17:1 indicam sobreposição também com Acaz.",
+   "avaliacao": "fez o que era reto",
+   "resumo": "Filho de Uzias; governou enquanto o pai estava leproso e depois reinou. Construiu a porta superior do templo e submeteu os amonitas, embora o povo continuasse corrompido.",
+   "particularidades": [
+    "Reinou 16 anos.",
+    "No fim de seu tempo começaram os ataques de Rezim e Peca."
+   ],
+   "refs": [
+    "2-reis 15:5",
+    "2-reis 15:32-38",
+    "2-cronicas 27:1-9"
+   ],
+   "contemporaneos": [
+    "rezim"
+   ]
+  },
+  {
+   "id": "acaz",
+   "nome": "Acaz",
+   "povo": "juda",
+   "titulo": "rei",
+   "inicio": -735,
+   "fim": -715,
+   "aprox": true,
+   "datas_alternativas": "Thiele: 735-715 a.C. (com sobreposição a Jotão); outros cálculos dão 743-727 ou 732-716 a.C.",
+   "avaliacao": "fez o que era mau",
+   "resumo": "Filho de Jotão. Atacado por Rezim de Damasco e Peca de Israel, recusou o sinal oferecido por Isaías e comprou a proteção de Tiglate-Pileser III, tornando-se seu vassalo; copiou um altar de Damasco.",
+   "particularidades": [
+    "Passou o filho pelo fogo, segundo o texto.",
+    "A profecia do Emanuel (Isaías 7:14) foi dada no seu tempo."
+   ],
+   "refs": [
+    "2-reis 16:1-20",
+    "2-cronicas 28:1-27",
+    "isaias 7:1-17"
+   ],
+   "contemporaneos": [
+    "rezim",
+    "peca",
+    "tiglate-pileser-3"
+   ]
+  },
+  {
+   "id": "ezequias",
+   "nome": "Ezequias",
+   "povo": "juda",
+   "titulo": "rei",
+   "inicio": -716,
+   "fim": -687,
+   "aprox": true,
+   "corregencia": "Thiele: Manassés foi corregente nos últimos anos (697-687 a.C.).",
+   "datas_alternativas": "A data de início é a mais discutida da cronologia: 729 ou 716/715 a.C. 2 Reis 18:13 (14º ano = invasão de 701 a.C.) favorece 715; 2 Reis 18:9-10 favorece 729.",
+   "avaliacao": "fez o que era reto",
+   "resumo": "Filho de Acaz; purificou o templo, celebrou a Páscoa e removeu os altos e a serpente de bronze. Resistiu à invasão de Senaqueribe, que, segundo o texto, terminou com a morte de grande parte do exército assírio.",
+   "particularidades": [
+    "Recebeu 15 anos a mais de vida após adoecer.",
+    "Mostrou seus tesouros aos enviados de Merodaque-Baladã.",
+    "Mandou abrir um canal de água para Jerusalém (2 Reis 20:20)."
+   ],
+   "refs": [
+    "2-reis 18:1-20:21",
+    "2-cronicas 29:1-36",
+    "2-cronicas 32:1-33",
+    "isaias 36:1-39:8"
+   ],
+   "contemporaneos": [
+    "senaqueribe",
+    "merodaque-baladan",
+    "tiraca",
+    "salmanaser-5"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Prisma de Senaqueribe (anais assírios)",
+     "referencia": "relato da campanha contra Judá, que cita Ezequias",
+     "data": "c. 690 a.C."
+    },
+    {
+     "fonte": "Inscrição de Siloé (túnel de Ezequias)",
+     "referencia": "inscrição em hebraico no túnel de Jerusalém",
+     "data": "c. 700 a.C. (aprox.)"
+    }
+   ]
+  },
+  {
+   "id": "manasses",
+   "nome": "Manassés",
+   "povo": "juda",
+   "titulo": "rei",
+   "inicio": -697,
+   "fim": -643,
+   "aprox": true,
+   "corregencia": "Thiele: corregente com Ezequias de 697 a 687 a.C.",
+   "avaliacao": "fez o que era mau",
+   "resumo": "Filho de Ezequias; reinou 55 anos, o mais longo reinado de Judá. Restaurou cultos que o pai removera e derramou muito sangue; Crônicas conta que, levado preso à Babilônia, humilhou-se e foi restaurado.",
+   "particularidades": [
+    "Reis atribui a ele a causa principal da queda de Jerusalém.",
+    "Crônicas registra seu arrependimento."
+   ],
+   "refs": [
+    "2-reis 21:1-18",
+    "2-reis 23:26",
+    "2-cronicas 33:1-20"
+   ],
+   "contemporaneos": [
+    "esar-hadom"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Inscrições de Esar-Hadom e de Assurbanípal",
+     "referencia": "listas de reis vassalos que trazem tributo, incluindo 'Manassés de Judá'",
+     "data": "c. 673-667 a.C. (aprox.)"
+    }
+   ]
+  },
+  {
+   "id": "amom-juda",
+   "nome": "Amom (de Judá)",
+   "povo": "juda",
+   "titulo": "rei",
+   "inicio": -643,
+   "fim": -641,
+   "aprox": true,
+   "avaliacao": "fez o que era mau",
+   "resumo": "Filho de Manassés; reinou dois anos seguindo os ídolos do pai, sem se arrepender. Foi morto por seus servos, e o povo pôs seu filho Josias no trono.",
+   "particularidades": [],
+   "refs": [
+    "2-reis 21:19-26",
+    "2-cronicas 33:21-25"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "josias",
+   "nome": "Josias",
+   "povo": "juda",
+   "titulo": "rei",
+   "inicio": -641,
+   "fim": -609,
+   "aprox": true,
+   "avaliacao": "fez o que era reto",
+   "resumo": "Coroado aos oito anos. No seu 18º ano foi achado o livro da lei no templo, e ele fez uma grande reforma e celebrou a Páscoa. Morreu em Megido ao enfrentar o faraó Neco.",
+   "particularidades": [
+    "Destruiu o altar de Betel, como profetizado em 1 Reis 13:2.",
+    "Jeremias começou a profetizar no seu 13º ano."
+   ],
+   "refs": [
+    "2-reis 22:1-23:30",
+    "2-cronicas 34:1-35:27",
+    "jeremias 1:2"
+   ],
+   "contemporaneos": [
+    "neco-2"
+   ]
+  },
+  {
+   "id": "jeoacaz-juda",
+   "nome": "Jeoacaz (Salum)",
+   "povo": "juda",
+   "titulo": "rei",
+   "inicio": -609,
+   "fim": -609,
+   "aprox": true,
+   "avaliacao": "fez o que era mau",
+   "resumo": "Filho de Josias, escolhido pelo povo. Reinou três meses; o faraó Neco o prendeu em Ribla e o levou ao Egito, onde morreu.",
+   "particularidades": [
+    "Chamado Salum em Jeremias 22:11."
+   ],
+   "refs": [
+    "2-reis 23:31-34",
+    "2-cronicas 36:1-4",
+    "jeremias 22:11-12"
+   ],
+   "contemporaneos": [
+    "neco-2"
+   ]
+  },
+  {
+   "id": "jeoaquim",
+   "nome": "Jeoaquim",
+   "povo": "juda",
+   "titulo": "rei",
+   "inicio": -609,
+   "fim": -598,
+   "aprox": true,
+   "avaliacao": "fez o que era mau",
+   "resumo": "Eliaquim, filho de Josias, posto no trono por Neco, que mudou seu nome. Depois tornou-se vassalo de Nabucodonosor e se rebelou; queimou o rolo das profecias de Jeremias.",
+   "particularidades": [
+    "Cobrou impostos do povo para pagar o tributo ao Egito.",
+    "Daniel e outros jovens foram levados no seu tempo (Daniel 1:1)."
+   ],
+   "refs": [
+    "2-reis 23:34-24:7",
+    "2-cronicas 36:5-8",
+    "jeremias 22:18-19",
+    "jeremias 36:1-32",
+    "daniel 1:1-2"
+   ],
+   "contemporaneos": [
+    "neco-2",
+    "nabucodonosor-2"
+   ]
+  },
+  {
+   "id": "joaquim",
+   "nome": "Joaquim (Jeconias)",
+   "povo": "juda",
+   "titulo": "rei",
+   "inicio": -598,
+   "fim": -597,
+   "aprox": true,
+   "avaliacao": "fez o que era mau",
+   "resumo": "Filho de Jeoaquim; reinou três meses e se rendeu a Nabucodonosor, que o levou à Babilônia com a corte e os artesãos. Anos depois, Evil-Merodaque o tirou da prisão e o sustentou à sua mesa.",
+   "particularidades": [
+    "Chamado também Jeconias e Conias.",
+    "Ezequiel data suas visões pelo 'cativeiro do rei Joaquim'."
+   ],
+   "refs": [
+    "2-reis 24:8-17",
+    "2-reis 25:27-30",
+    "2-cronicas 36:9-10",
+    "jeremias 22:24-30",
+    "jeremias 52:31-34"
+   ],
+   "contemporaneos": [
+    "nabucodonosor-2",
+    "evil-merodaque"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Tabletes de rações da Babilônia (textos de Weidner)",
+     "referencia": "listas de rações que mencionam 'Iauquin, rei de Iaudu' e seus filhos",
+     "data": "c. 592 a.C. (aprox.)"
+    }
+   ]
+  },
+  {
+   "id": "zedequias",
+   "nome": "Zedequias",
+   "povo": "juda",
+   "titulo": "rei",
+   "inicio": -597,
+   "fim": -586,
+   "aprox": true,
+   "datas_alternativas": "A queda de Jerusalém é datada em 587 ou 586 a.C., conforme o modo de contar os anos de reinado.",
+   "avaliacao": "fez o que era mau",
+   "resumo": "Matanias, tio de Joaquim, posto no trono por Nabucodonosor, que mudou seu nome. Vacilou entre ouvir Jeremias e os príncipes, rebelou-se contra a Babilônia e viu Jerusalém e o templo serem destruídos; foi cegado e levado preso.",
+   "particularidades": [
+    "Último rei de Judá.",
+    "Consultou Jeremias em segredo (Jeremias 38)."
+   ],
+   "refs": [
+    "2-reis 24:17-25:7",
+    "2-cronicas 36:11-21",
+    "jeremias 37:1-21",
+    "jeremias 39:1-7",
+    "jeremias 52:1-11"
+   ],
+   "contemporaneos": [
+    "nabucodonosor-2",
+    "hofra",
+    "nergal-sarezer"
+   ]
+  },
+  {
+   "id": "gedalias",
+   "nome": "Gedalias",
+   "povo": "juda",
+   "titulo": "governador",
+   "inicio": -586,
+   "fim": -582,
+   "aprox": true,
+   "datas_alternativas": "O texto diz que foi morto no 7º mês, sem dizer o ano; muitos supõem o mesmo ano da queda (586) e outros c. 582 a.C. (Jeremias 52:30).",
+   "avaliacao": null,
+   "resumo": "Filho de Aicã, nomeado por Nabucodonosor governador dos que ficaram na terra, com sede em Mispá. Aconselhou o povo a servir aos caldeus e foi assassinado por Ismael, a mando de Baalis, rei de Amom.",
+   "particularidades": [
+    "Protegeu Jeremias após a queda de Jerusalém.",
+    "Após sua morte, muitos fugiram para o Egito."
+   ],
+   "refs": [
+    "2-reis 25:22-26",
+    "jeremias 40:5-16",
+    "jeremias 41:1-3"
+   ],
+   "contemporaneos": [
+    "baalis",
+    "nabucodonosor-2"
+   ]
+  },
+  {
+   "id": "jeroboao-1",
+   "nome": "Jeroboão I",
+   "povo": "israel",
+   "titulo": "rei",
+   "inicio": -931,
+   "fim": -910,
+   "aprox": true,
+   "avaliacao": "fez o que era mau",
+   "resumo": "Servo de Salomão de quem o profeta Aías predisse que reinaria sobre dez tribos. Feito rei em Siquém, pôs bezerros de ouro em Betel e Dã para que o povo não subisse a Jerusalém.",
+   "particularidades": [
+    "Fugiu para junto de Sisaque, no Egito.",
+    "O texto o lembra como 'o que fez Israel pecar'."
+   ],
+   "refs": [
+    "1-reis 11:26-40",
+    "1-reis 12:20-33",
+    "1-reis 13:1-6",
+    "1-reis 14:1-20"
+   ],
+   "contemporaneos": [
+    "sisaque"
+   ]
+  },
+  {
+   "id": "nadabe",
+   "nome": "Nadabe",
+   "povo": "israel",
+   "titulo": "rei",
+   "inicio": -910,
+   "fim": -909,
+   "aprox": true,
+   "avaliacao": "fez o que era mau",
+   "resumo": "Filho de Jeroboão; reinou dois anos. Foi morto por Baasa durante o cerco de Gibetom, e toda a casa de Jeroboão foi exterminada.",
+   "particularidades": [],
+   "refs": [
+    "1-reis 15:25-31"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "baasa",
+   "nome": "Baasa",
+   "povo": "israel",
+   "titulo": "rei",
+   "inicio": -909,
+   "fim": -886,
+   "aprox": true,
+   "datas_alternativas": "2 Crônicas 16:1 fala do '36º ano de Asa', o que choca com 1 Reis 16:8; as soluções propostas variam.",
+   "avaliacao": "fez o que era mau",
+   "resumo": "Da tribo de Issacar; tomou o trono matando Nadabe. Guerreou contra Asa e fortificou Ramá, até que Ben-Hadade, comprado por Asa, atacou o norte de Israel.",
+   "particularidades": [
+    "O profeta Jeú, filho de Hanani, anunciou o fim da sua casa."
+   ],
+   "refs": [
+    "1-reis 15:27-34",
+    "1-reis 16:1-7",
+    "2-cronicas 16:1-6"
+   ],
+   "contemporaneos": [
+    "ben-hadade-1"
+   ]
+  },
+  {
+   "id": "ela",
+   "nome": "Elá",
+   "povo": "israel",
+   "titulo": "rei",
+   "inicio": -886,
+   "fim": -885,
+   "aprox": true,
+   "avaliacao": "fez o que era mau",
+   "resumo": "Filho de Baasa; reinou dois anos em Tirsa. Foi morto, embriagado, por Zinri, comandante dos carros.",
+   "particularidades": [],
+   "refs": [
+    "1-reis 16:8-14"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "zinri",
+   "nome": "Zinri",
+   "povo": "israel",
+   "titulo": "rei",
+   "inicio": -885,
+   "fim": -885,
+   "aprox": true,
+   "avaliacao": "fez o que era mau",
+   "resumo": "Comandante que matou Elá e reinou sete dias em Tirsa. Quando o exército aclamou Onri, Zinri incendiou o palácio sobre si mesmo.",
+   "particularidades": [
+    "Reinado mais curto de Israel: sete dias."
+   ],
+   "refs": [
+    "1-reis 16:9-20"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "tibni",
+   "nome": "Tibni",
+   "povo": "israel",
+   "titulo": "rei",
+   "inicio": -885,
+   "fim": -880,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Filho de Ginate; metade do povo o quis rei depois da morte de Zinri. Disputou o trono com Onri até morrer.",
+   "particularidades": [
+    "Rival de Onri por cerca de cinco anos (comparando 1 Reis 16:15 e 16:23)."
+   ],
+   "refs": [
+    "1-reis 16:21-22"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "onri",
+   "nome": "Onri",
+   "povo": "israel",
+   "titulo": "rei",
+   "inicio": -885,
+   "fim": -874,
+   "aprox": true,
+   "corregencia": "Reinou em parte simultaneamente com Tibni (885-880 a.C.).",
+   "avaliacao": "fez o que era mau",
+   "resumo": "General aclamado pelo exército; venceu Tibni e comprou o monte de Samaria, onde fundou a nova capital. Fundou uma dinastia forte.",
+   "particularidades": [
+    "Fontes assírias chamaram Israel de 'casa de Onri' por muito tempo."
+   ],
+   "refs": [
+    "1-reis 16:15-28",
+    "miqueias 6:16"
+   ],
+   "contemporaneos": [],
+   "fonte_extra": [
+    {
+     "fonte": "Estela de Mesa (Moabe)",
+     "referencia": "menciona Onri, rei de Israel, que oprimiu Moabe",
+     "data": "c. 840 a.C. (aprox.)"
+    }
+   ]
+  },
+  {
+   "id": "acabe",
+   "nome": "Acabe",
+   "povo": "israel",
+   "titulo": "rei",
+   "inicio": -874,
+   "fim": -853,
+   "aprox": true,
+   "avaliacao": "fez o que era mau",
+   "resumo": "Filho de Onri; casou com Jezabel, filha de Etbaal, rei dos sidônios, e promoveu o culto a Baal. Enfrentou o profeta Elias, tomou a vinha de Nabote e morreu em batalha em Ramote de Gileade.",
+   "particularidades": [
+    "Venceu Ben-Hadade em Samaria e Afeque e depois fez aliança com ele.",
+    "Construiu uma 'casa de marfim' (1 Reis 22:39)."
+   ],
+   "refs": [
+    "1-reis 16:29-34",
+    "1-reis 18:1-46",
+    "1-reis 20:1-43",
+    "1-reis 21:1-29",
+    "1-reis 22:1-40"
+   ],
+   "contemporaneos": [
+    "etbaal",
+    "ben-hadade-2",
+    "josafa"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Monólito de Kurkh (Salmanaser III da Assíria)",
+     "referencia": "lista 'Acabe, o israelita' entre os aliados na batalha de Qarqar",
+     "data": "853 a.C."
+    }
+   ]
+  },
+  {
+   "id": "acazias-israel",
+   "nome": "Acazias (de Israel)",
+   "povo": "israel",
+   "titulo": "rei",
+   "inicio": -853,
+   "fim": -852,
+   "aprox": true,
+   "avaliacao": "fez o que era mau",
+   "resumo": "Filho de Acabe; reinou dois anos. Caiu de uma janela em Samaria e mandou consultar Baal-Zebube; Elias anunciou que morreria.",
+   "particularidades": [
+    "Em seu tempo Moabe se rebelou."
+   ],
+   "refs": [
+    "1-reis 22:51-53",
+    "2-reis 1:1-18"
+   ],
+   "contemporaneos": [
+    "mesa"
+   ]
+  },
+  {
+   "id": "jorao-israel",
+   "nome": "Jorão (de Israel)",
+   "povo": "israel",
+   "titulo": "rei",
+   "inicio": -852,
+   "fim": -841,
+   "aprox": true,
+   "avaliacao": "fez o que era mau",
+   "resumo": "Filho de Acabe; com Josafá e o rei de Edom, atacou Mesa de Moabe. Ferido em guerra contra Hazael, foi morto por Jeú em Jezreel.",
+   "particularidades": [
+    "Tirou a coluna de Baal, mas manteve os bezerros de Jeroboão.",
+    "Também chamado Jeorão."
+   ],
+   "refs": [
+    "2-reis 3:1-27",
+    "2-reis 6:8-7:20",
+    "2-reis 8:28-29",
+    "2-reis 9:14-26"
+   ],
+   "contemporaneos": [
+    "mesa",
+    "ben-hadade-2",
+    "hazael"
+   ]
+  },
+  {
+   "id": "jeu",
+   "nome": "Jeú",
+   "povo": "israel",
+   "titulo": "rei",
+   "inicio": -841,
+   "fim": -814,
+   "aprox": true,
+   "nota": "Avaliação 'misto': 2 Reis 10:30 elogia sua ação; 10:31 diz que não andou na lei de todo o coração.",
+   "avaliacao": "misto",
+   "resumo": "Comandante ungido por um enviado de Eliseu; matou Jorão, Acazias de Judá e Jezabel, e eliminou o culto a Baal em Israel. Manteve, porém, os bezerros de ouro de Jeroboão.",
+   "particularidades": [
+    "Deus prometeu quatro gerações a seus descendentes.",
+    "Hazael tomou dele as terras a leste do Jordão."
+   ],
+   "refs": [
+    "1-reis 19:16-17",
+    "2-reis 9:1-37",
+    "2-reis 10:1-36"
+   ],
+   "contemporaneos": [
+    "hazael"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Obelisco Negro de Salmanaser III",
+     "referencia": "mostra o tributo de 'Iaua (Jeú), da casa de Onri'",
+     "data": "c. 841 a.C."
+    }
+   ]
+  },
+  {
+   "id": "jeoacaz-israel",
+   "nome": "Jeoacaz (de Israel)",
+   "povo": "israel",
+   "titulo": "rei",
+   "inicio": -814,
+   "fim": -798,
+   "aprox": true,
+   "avaliacao": "fez o que era mau",
+   "resumo": "Filho de Jeú; Israel foi muito oprimido por Hazael e Ben-Hadade. Orou ao SENHOR, que deu a Israel um libertador.",
+   "particularidades": [
+    "Ficou com apenas 50 cavaleiros, 10 carros e 10 mil soldados."
+   ],
+   "refs": [
+    "2-reis 13:1-9"
+   ],
+   "contemporaneos": [
+    "hazael",
+    "ben-hadade-3"
+   ]
+  },
+  {
+   "id": "jeoas-israel",
+   "nome": "Jeoás (de Israel)",
+   "povo": "israel",
+   "titulo": "rei",
+   "inicio": -798,
+   "fim": -782,
+   "aprox": true,
+   "avaliacao": "fez o que era mau",
+   "resumo": "Filho de Jeoacaz; visitou Eliseu à morte do profeta e venceu Ben-Hadade três vezes. Derrotou Amazias de Judá em Bete-Semes e saqueou Jerusalém.",
+   "particularidades": [
+    "Também grafado Joás."
+   ],
+   "refs": [
+    "2-reis 13:10-25",
+    "2-reis 14:8-16"
+   ],
+   "contemporaneos": [
+    "ben-hadade-3",
+    "amazias"
+   ]
+  },
+  {
+   "id": "jeroboao-2",
+   "nome": "Jeroboão II",
+   "povo": "israel",
+   "titulo": "rei",
+   "inicio": -793,
+   "fim": -753,
+   "aprox": true,
+   "corregencia": "Thiele: corregente com Jeoás desde 793 a.C.",
+   "avaliacao": "fez o que era mau",
+   "resumo": "Filho de Jeoás; reinou 41 anos e restaurou as fronteiras de Israel, como Jonas havia profetizado. Foi tempo de prosperidade, que Amós e Oseias denunciaram pela injustiça.",
+   "particularidades": [
+    "Recuperou Damasco e Hamate para Israel (2 Reis 14:28)."
+   ],
+   "refs": [
+    "2-reis 14:23-29",
+    "amos 7:9-11",
+    "oseias 1:1"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "zacarias-israel",
+   "nome": "Zacarias (de Israel)",
+   "povo": "israel",
+   "titulo": "rei",
+   "inicio": -753,
+   "fim": -752,
+   "aprox": true,
+   "avaliacao": "fez o que era mau",
+   "resumo": "Filho de Jeroboão II; reinou seis meses e foi morto por Salum. Com ele terminou a dinastia de Jeú, como fora anunciado.",
+   "particularidades": [
+    "Quarta geração de Jeú (2 Reis 15:12)."
+   ],
+   "refs": [
+    "2-reis 15:8-12"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "salum",
+   "nome": "Salum",
+   "povo": "israel",
+   "titulo": "rei",
+   "inicio": -752,
+   "fim": -752,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Filho de Jabes; matou Zacarias e reinou um mês em Samaria, até ser morto por Menaém.",
+   "particularidades": [],
+   "refs": [
+    "2-reis 15:10-15"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "menaem",
+   "nome": "Menaém",
+   "povo": "israel",
+   "titulo": "rei",
+   "inicio": -752,
+   "fim": -742,
+   "aprox": true,
+   "avaliacao": "fez o que era mau",
+   "resumo": "Filho de Gadi; tomou o trono matando Salum e tratou com crueldade a cidade de Tifsa. Pagou mil talentos de prata a Pul (Tiglate-Pileser III) para ficar no poder.",
+   "particularidades": [
+    "Cobrou 50 siclos de cada homem rico para o tributo."
+   ],
+   "refs": [
+    "2-reis 15:14-22"
+   ],
+   "contemporaneos": [
+    "tiglate-pileser-3"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Anais de Tiglate-Pileser III",
+     "referencia": "listam 'Menaém de Samaria' entre os que pagaram tributo",
+     "data": "c. 738 a.C. (aprox.)"
+    }
+   ]
+  },
+  {
+   "id": "peca",
+   "nome": "Peca",
+   "povo": "israel",
+   "titulo": "rei",
+   "inicio": -752,
+   "fim": -732,
+   "aprox": true,
+   "datas_alternativas": "Os 20 anos de 2 Reis 15:27 só cabem se Peca governou parte de Israel (talvez Gileade) desde 752 a.C., em paralelo a Menaém e Pecaías (Thiele); outros reduzem o reinado.",
+   "avaliacao": "fez o que era mau",
+   "resumo": "Filho de Remalias; matou Pecaías e tomou o trono. Aliou-se a Rezim de Damasco contra Judá; Tiglate-Pileser III tomou a Galileia e Gileade e deportou o povo. Foi morto por Oseias.",
+   "particularidades": [
+    "A guerra contra Acaz é o pano de fundo de Isaías 7."
+   ],
+   "refs": [
+    "2-reis 15:25-31",
+    "2-reis 16:5",
+    "isaias 7:1-9"
+   ],
+   "contemporaneos": [
+    "rezim",
+    "tiglate-pileser-3",
+    "acaz"
+   ]
+  },
+  {
+   "id": "pecaias",
+   "nome": "Pecaías",
+   "povo": "israel",
+   "titulo": "rei",
+   "inicio": -742,
+   "fim": -740,
+   "aprox": true,
+   "avaliacao": "fez o que era mau",
+   "resumo": "Filho de Menaém; reinou dois anos e foi assassinado em Samaria por Peca, seu capitão.",
+   "particularidades": [],
+   "refs": [
+    "2-reis 15:23-26"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "oseias-rei",
+   "nome": "Oseias (rei)",
+   "povo": "israel",
+   "titulo": "rei",
+   "inicio": -732,
+   "fim": -722,
+   "aprox": true,
+   "datas_alternativas": "A queda de Samaria é datada em 723 ou 722 a.C.; Sargão II reivindicou a conquista em suas inscrições.",
+   "avaliacao": "fez o que era mau",
+   "resumo": "Filho de Elá; matou Peca e foi vassalo da Assíria. Buscou ajuda de Sô, rei do Egito, e parou de pagar tributo; Salmanaser o prendeu, cercou Samaria por três anos e Israel foi levado ao exílio.",
+   "particularidades": [
+    "Último rei de Israel.",
+    "Fez o mal, 'ainda que não como os reis de Israel antes dele'."
+   ],
+   "refs": [
+    "2-reis 15:30",
+    "2-reis 17:1-6",
+    "2-reis 18:9-11"
+   ],
+   "contemporaneos": [
+    "salmanaser-5",
+    "so",
+    "tiglate-pileser-3",
+    "sargao-2"
+   ]
+  },
+  {
+   "id": "hadadezer",
+   "nome": "Hadadezer",
+   "povo": "ara",
+   "titulo": "rei de Zobá",
+   "inicio": -1000,
+   "fim": -985,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Rei arameu de Zobá, derrotado por Davi quando ia estender seu domínio até o Eufrates; depois trouxe reforços de além do rio e foi vencido de novo.",
+   "particularidades": [
+    "Seus antigos vassalos passaram a servir a Davi."
+   ],
+   "refs": [
+    "2-samuel 8:3-12",
+    "2-samuel 10:16-19",
+    "1-reis 11:23"
+   ],
+   "contemporaneos": [
+    "davi"
+   ]
+  },
+  {
+   "id": "toi",
+   "nome": "Toí",
+   "povo": "ara",
+   "titulo": "rei de Hamate",
+   "inicio": -995,
+   "fim": -985,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Rei de Hamate, inimigo de Hadadezer, que enviou seu filho para felicitar Davi pela vitória e mandou presentes de prata, ouro e bronze.",
+   "particularidades": [
+    "Chamado Toú em 1 Crônicas 18:9."
+   ],
+   "refs": [
+    "2-samuel 8:9-10",
+    "1-cronicas 18:9-10"
+   ],
+   "contemporaneos": [
+    "davi"
+   ]
+  },
+  {
+   "id": "rezom",
+   "nome": "Rezom",
+   "povo": "ara",
+   "titulo": "rei (Damasco)",
+   "inicio": -965,
+   "fim": -930,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Ex-servo de Hadadezer que formou um bando, tomou Damasco e reinou ali, sendo adversário de Israel durante todo o reinado de Salomão.",
+   "particularidades": [
+    "Alguns o identificam com Heziom de 1 Reis 15:18 (hipótese)."
+   ],
+   "refs": [
+    "1-reis 11:23-25"
+   ],
+   "contemporaneos": [
+    "salomao"
+   ]
+  },
+  {
+   "id": "ben-hadade-1",
+   "nome": "Ben-Hadade I",
+   "povo": "ara",
+   "titulo": "rei (Damasco)",
+   "inicio": -900,
+   "fim": -860,
+   "aprox": true,
+   "datas_alternativas": "Há debate se o Ben-Hadade de Asa e o de Acabe eram a mesma pessoa ou dois reis diferentes.",
+   "avaliacao": null,
+   "resumo": "Filho de Tabrimom, rei de Damasco. A pedido de Asa, que lhe enviou os tesouros do templo, rompeu sua aliança com Baasa e atacou o norte de Israel.",
+   "particularidades": [
+    "'Ben-Hadade' significa 'filho de Hadade' e foi usado por vários reis."
+   ],
+   "refs": [
+    "1-reis 15:18-20",
+    "2-cronicas 16:2-4"
+   ],
+   "contemporaneos": [
+    "asa",
+    "baasa"
+   ]
+  },
+  {
+   "id": "ben-hadade-2",
+   "nome": "Ben-Hadade II",
+   "povo": "ara",
+   "titulo": "rei (Damasco)",
+   "inicio": -860,
+   "fim": -842,
+   "aprox": true,
+   "datas_alternativas": "As inscrições assírias chamam o rei de Damasco dessa época de Hadadezer (Adad-idri); alguns o identificam com este Ben-Hadade.",
+   "avaliacao": null,
+   "resumo": "Rei da Síria que cercou Samaria no tempo de Acabe e foi derrotado em Samaria e Afeque; mais tarde cercou de novo Samaria, causando grande fome. Doente, mandou Hazael consultar Eliseu e foi morto por ele.",
+   "particularidades": [
+    "Ofereceu a Acabe devolver cidades e abrir mercados em Damasco.",
+    "O general Naamã, curado por Eliseu, servia ao rei da Síria nessa época."
+   ],
+   "refs": [
+    "1-reis 20:1-34",
+    "2-reis 6:24-7:7",
+    "2-reis 8:7-15"
+   ],
+   "contemporaneos": [
+    "acabe",
+    "jorao-israel"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Monólito de Kurkh (Salmanaser III)",
+     "referencia": "cita Adad-idri de Damasco na batalha de Qarqar",
+     "data": "853 a.C."
+    }
+   ]
+  },
+  {
+   "id": "hazael",
+   "nome": "Hazael",
+   "povo": "ara",
+   "titulo": "rei (Damasco)",
+   "inicio": -842,
+   "fim": -796,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Oficial que Elias foi mandado ungir e a quem Eliseu anunciou, chorando, o mal que faria a Israel. Matou Ben-Hadade, reinou em Damasco e oprimiu Israel e Judá.",
+   "particularidades": [
+    "Tomou Gate e recebeu tributo de Joás de Judá.",
+    "Uma inscrição assíria o chama de 'filho de ninguém', isto é, usurpador."
+   ],
+   "refs": [
+    "1-reis 19:15-17",
+    "2-reis 8:7-15",
+    "2-reis 8:28-29",
+    "2-reis 10:32-33",
+    "2-reis 12:17-18",
+    "2-reis 13:3",
+    "2-reis 13:22-24"
+   ],
+   "contemporaneos": [
+    "jorao-israel",
+    "jeu",
+    "jeoacaz-israel",
+    "joas-juda"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Inscrições de Salmanaser III",
+     "referencia": "campanhas contra Hazael de Damasco",
+     "data": "c. 841 a.C."
+    },
+    {
+     "fonte": "Estela de Tel Dã",
+     "referencia": "inscrição aramaica que menciona a 'casa de Davi', atribuída por muitos a Hazael",
+     "data": "séc. IX a.C. (aprox.)"
+    }
+   ]
+  },
+  {
+   "id": "ben-hadade-3",
+   "nome": "Ben-Hadade (filho de Hazael)",
+   "povo": "ara",
+   "titulo": "rei (Damasco)",
+   "inicio": -796,
+   "fim": -770,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Filho e sucessor de Hazael. Continuou a oprimir Israel, mas Jeoás o derrotou três vezes e recuperou as cidades perdidas, como Eliseu predissera.",
+   "particularidades": [
+    "Chamado por muitos de Ben-Hadade III."
+   ],
+   "refs": [
+    "2-reis 13:3",
+    "2-reis 13:24-25",
+    "amos 1:4"
+   ],
+   "contemporaneos": [
+    "jeoacaz-israel",
+    "jeoas-israel"
+   ]
+  },
+  {
+   "id": "rezim",
+   "nome": "Rezim",
+   "povo": "ara",
+   "titulo": "rei (Damasco)",
+   "inicio": -750,
+   "fim": -732,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Último rei de Damasco. Aliou-se a Peca de Israel para atacar Judá; Acaz pediu ajuda à Assíria, e Tiglate-Pileser III tomou Damasco e o matou.",
+   "particularidades": [
+    "Grafado Resim em 2 Reis.",
+    "Isaías compara a aliança a 'dois tocos de tições fumegantes'."
+   ],
+   "refs": [
+    "2-reis 15:37",
+    "2-reis 16:5-9",
+    "isaias 7:1-8",
+    "isaias 8:6"
+   ],
+   "contemporaneos": [
+    "peca",
+    "acaz",
+    "jotao",
+    "tiglate-pileser-3"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Anais de Tiglate-Pileser III",
+     "referencia": "cerco de Damasco e morte de Rahiânu (Rezim)",
+     "data": "732 a.C."
+    }
+   ]
+  },
+  {
+   "id": "hirao",
+   "nome": "Hirão I",
+   "povo": "fenicia",
+   "titulo": "rei de Tiro",
+   "inicio": -980,
+   "fim": -947,
+   "aprox": true,
+   "datas_alternativas": "Datas a partir da lista dos reis de Tiro preservada por Josefo; variam alguns anos conforme o cálculo.",
+   "avaliacao": null,
+   "resumo": "Rei de Tiro, amigo de Davi e de Salomão. Enviou cedros e artesãos para o palácio de Davi e para o templo, e fez com Salomão expedições marítimas a Ofir.",
+   "particularidades": [
+    "Grafado Hurão em Crônicas.",
+    "Não confundir com o artesão Hirão (ou Hurão-Abi), de mesmo nome (1 Reis 7:13)."
+   ],
+   "refs": [
+    "2-samuel 5:11",
+    "1-reis 5:1-12",
+    "1-reis 9:11-14",
+    "1-reis 9:26-28",
+    "1-reis 10:22",
+    "2-cronicas 2:3-16"
+   ],
+   "contemporaneos": [
+    "davi",
+    "salomao"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Josefo, Contra Apião",
+     "referencia": "livro 1 (lista dos reis de Tiro, citando Menandro de Éfeso)",
+     "data": "séc. I d.C."
+    }
+   ]
+  },
+  {
+   "id": "etbaal",
+   "nome": "Etbaal",
+   "povo": "fenicia",
+   "titulo": "rei dos sidônios",
+   "inicio": -887,
+   "fim": -856,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Rei dos sidônios e pai de Jezabel, que se casou com Acabe e levou o culto de Baal a Israel.",
+   "particularidades": [
+    "Fontes antigas o chamam de Itobaal, rei de Tiro e Sidom, e dizem que foi sacerdote de Astarte."
+   ],
+   "refs": [
+    "1-reis 16:31"
+   ],
+   "contemporaneos": [
+    "acabe"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Josefo, Antiguidades Judaicas e Contra Apião",
+     "referencia": "Antiguidades livro 8; Contra Apião livro 1 (citando Menandro)",
+     "data": "séc. I d.C."
+    }
+   ]
+  },
+  {
+   "id": "principe-tiro",
+   "nome": "Príncipe de Tiro (Ezequiel 28)",
+   "povo": "fenicia",
+   "titulo": "rei de Tiro",
+   "inicio": -591,
+   "fim": -573,
+   "aprox": true,
+   "incerto": true,
+   "avaliacao": null,
+   "resumo": "Rei de Tiro contra quem Ezequiel profetizou por seu orgulho ('eu sou um deus'). O texto passa a uma lamentação com imagens do Éden, que muitos leem também como figura de um poder espiritual.",
+   "particularidades": [
+    "Provavelmente Itobaal III, rei durante o longo cerco de Nabucodonosor a Tiro (c. 13 anos)."
+   ],
+   "refs": [
+    "ezequiel 28:1-10",
+    "ezequiel 28:11-19",
+    "ezequiel 29:18"
+   ],
+   "contemporaneos": [
+    "nabucodonosor-2"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Josefo, Contra Apião",
+     "referencia": "livro 1 (Itobaal reinava quando Nabucodonosor cercou Tiro por 13 anos)",
+     "data": "séc. I d.C."
+    }
+   ]
+  },
+  {
+   "id": "rainha-saba",
+   "nome": "Rainha de Sabá",
+   "povo": "saba",
+   "titulo": "rainha",
+   "inicio": -950,
+   "fim": -950,
+   "aprox": true,
+   "incerto": true,
+   "avaliacao": null,
+   "resumo": "Rainha que veio de longe com muitos presentes para testar Salomão com perguntas difíceis, admirou sua sabedoria e louvou o Deus de Israel.",
+   "particularidades": [
+    "Jesus a chama de 'rainha do sul'.",
+    "Sabá ficava provavelmente no sul da Arábia (atual Iêmen); a tradição etíope a liga à Etiópia."
+   ],
+   "refs": [
+    "1-reis 10:1-13",
+    "2-cronicas 9:1-12",
+    "mateus 12:42"
+   ],
+   "contemporaneos": [
+    "salomao"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Inscrições sul-arábicas",
+     "referencia": "reino de Saba (Saba') no atual Iêmen",
+     "data": "I milênio a.C."
+    },
+    {
+     "fonte": "Kebra Nagast (tradição etíope)",
+     "referencia": "relato da rainha de Sabá e de seu filho Menelique",
+     "data": "séc. XIV d.C. (aprox.)"
+    }
+   ]
+  },
+  {
+   "id": "zera",
+   "nome": "Zerá, o etíope",
+   "povo": "cuxe",
+   "titulo": "comandante",
+   "inicio": -897,
+   "fim": -895,
+   "aprox": true,
+   "incerto": true,
+   "avaliacao": null,
+   "resumo": "Chefe de um grande exército cuxita que atacou Judá em Maressa no tempo de Asa e foi derrotado.",
+   "particularidades": [
+    "O texto não o chama de rei; não há identificação segura com nenhum governante conhecido (hipótese: um general a serviço do Egito, talvez de Osorcon I)."
+   ],
+   "refs": [
+    "2-cronicas 14:9-15"
+   ],
+   "contemporaneos": [
+    "asa"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Cronologia egípcia convencional (listas reais egípcias; Mâneton, conhecido por autores posteriores)",
+     "referencia": "datas das dinastias usadas nas hipóteses de identificação",
+     "data": "aproximado"
+    }
+   ]
+  },
+  {
+   "id": "candace",
+   "nome": "Candace, rainha dos etíopes",
+   "povo": "cuxe",
+   "titulo": "rainha",
+   "inicio": 30,
+   "fim": 40,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Rainha da Etiópia (o reino de Méroe, ao sul do Egito) cujo tesoureiro, um eunuco, foi batizado por Filipe no caminho de Gaza.",
+   "particularidades": [
+    "'Candace' era um título das rainhas de Méroe, não um nome próprio."
+   ],
+   "refs": [
+    "atos 8:26-39"
+   ],
+   "contemporaneos": [],
+   "fonte_extra": [
+    {
+     "fonte": "Estrabão e Plínio, o Velho (autores romanos)",
+     "referencia": "menções às rainhas de Méroe chamadas Candace",
+     "data": "séc. I a.C.-séc. I d.C."
+    }
+   ]
+  },
+  {
+   "id": "rei-ninive",
+   "nome": "Rei de Nínive (Jonas)",
+   "povo": "assiria",
+   "titulo": "rei",
+   "inicio": -780,
+   "fim": -760,
+   "aprox": true,
+   "incerto": true,
+   "nota": "Jonas é situado no tempo de Jeroboão II (2 Reis 14:25); o rei de Nínive não é identificado no texto.",
+   "avaliacao": null,
+   "resumo": "Rei sem nome que, ao ouvir a pregação de Jonas, cobriu-se de saco e ordenou jejum e arrependimento em Nínive.",
+   "particularidades": [
+    "Hipóteses: Adad-nirari III, Assur-dã III ou outro rei da primeira metade do séc. VIII a.C."
+   ],
+   "refs": [
+    "jonas 3:6-9",
+    "2-reis 14:25"
+   ],
+   "contemporaneos": [],
+   "fonte_extra": [
+    {
+     "fonte": "Lista real assíria",
+     "referencia": "reinados de Adad-nirari III e Assur-dã III",
+     "data": "séc. VIII a.C."
+    }
+   ]
+  },
+  {
+   "id": "tiglate-pileser-3",
+   "nome": "Tiglate-Pileser III (Pul)",
+   "povo": "assiria",
+   "titulo": "rei",
+   "inicio": -745,
+   "fim": -727,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Rei que fez da Assíria um grande império. Recebeu tributo de Menaém; a pedido de Acaz, tomou Damasco, matou Rezim e deportou parte de Israel.",
+   "particularidades": [
+    "Chamado Pul em 2 Reis 15:19; 'Pul' era seu nome como rei da Babilônia.",
+    "Grafado Tiglate-Pilneser em Crônicas."
+   ],
+   "refs": [
+    "2-reis 15:19-20",
+    "2-reis 15:29",
+    "2-reis 16:7-10",
+    "1-cronicas 5:26",
+    "2-cronicas 28:20-21"
+   ],
+   "contemporaneos": [
+    "menaem",
+    "peca",
+    "acaz",
+    "rezim",
+    "oseias-rei"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Lista real assíria e Crônicas Babilônicas",
+     "referencia": "identidade de Tiglate-Pileser III com Pulu",
+     "data": "séc. VIII-VII a.C."
+    }
+   ]
+  },
+  {
+   "id": "salmanaser-5",
+   "nome": "Salmanaser V",
+   "povo": "assiria",
+   "titulo": "rei",
+   "inicio": -727,
+   "fim": -722,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Sucessor de Tiglate-Pileser III. Prendeu Oseias, rei de Israel, e cercou Samaria por três anos.",
+   "particularidades": [
+    "A cidade caiu no fim do seu reinado ou no começo do de Sargão II."
+   ],
+   "refs": [
+    "2-reis 17:3-6",
+    "2-reis 18:9-10"
+   ],
+   "contemporaneos": [
+    "oseias-rei",
+    "ezequias"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Lista real assíria e Crônicas Babilônicas",
+     "referencia": "reinado de Salmanaser V e tomada de Samaria",
+     "data": "séc. VIII-VI a.C."
+    }
+   ]
+  },
+  {
+   "id": "sargao-2",
+   "nome": "Sargão II",
+   "povo": "assiria",
+   "titulo": "rei",
+   "inicio": -722,
+   "fim": -705,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Rei da Assíria citado por nome uma vez, quando seu general tomou Asdode. Em suas inscrições, diz ter conquistado Samaria e deportado seus habitantes.",
+   "particularidades": [
+    "Por muito tempo só era conhecido pela Bíblia; seu palácio em Corsabade foi descoberto no séc. XIX."
+   ],
+   "refs": [
+    "isaias 20:1"
+   ],
+   "contemporaneos": [
+    "oseias-rei"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Inscrições de Sargão II em Corsabade (Dur-Sharrukin)",
+     "referencia": "relato da tomada de Samaria e de Asdode",
+     "data": "c. 710 a.C. (aprox.)"
+    }
+   ]
+  },
+  {
+   "id": "senaqueribe",
+   "nome": "Senaqueribe",
+   "povo": "assiria",
+   "titulo": "rei",
+   "inicio": -705,
+   "fim": -681,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Invadiu Judá no 14º ano de Ezequias, tomou as cidades fortificadas e enviou o Rabsaqué para exigir a rendição de Jerusalém. Segundo o texto, o anjo do SENHOR feriu seu exército e ele voltou a Nínive, onde foi morto por dois filhos.",
+   "particularidades": [
+    "Cercou e tomou Laquis.",
+    "Em seus anais diz ter encerrado Ezequias em Jerusalém 'como um pássaro na gaiola', sem dizer que tomou a cidade."
+   ],
+   "refs": [
+    "2-reis 18:13-19:37",
+    "2-cronicas 32:1-22",
+    "isaias 36:1-37:38"
+   ],
+   "contemporaneos": [
+    "ezequias",
+    "tiraca"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Prisma de Senaqueribe (prismas de Taylor e de Chicago)",
+     "referencia": "relato da campanha de 701 a.C. contra Judá",
+     "data": "c. 690 a.C."
+    },
+    {
+     "fonte": "Relevos de Laquis do palácio de Nínive",
+     "referencia": "cenas do cerco de Laquis",
+     "data": "c. 700 a.C. (aprox.)"
+    }
+   ]
+  },
+  {
+   "id": "esar-hadom",
+   "nome": "Esar-Hadom",
+   "povo": "assiria",
+   "titulo": "rei",
+   "inicio": -681,
+   "fim": -669,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Filho de Senaqueribe que reinou depois do assassinato do pai. Os opositores de Zorobabel diziam ter sido trazidos para Samaria no seu tempo.",
+   "particularidades": [
+    "Conquistou o Egito, derrotando Tiraca.",
+    "Manassés aparece entre seus vassalos nas inscrições assírias."
+   ],
+   "refs": [
+    "2-reis 19:37",
+    "isaias 37:38",
+    "esdras 4:2"
+   ],
+   "contemporaneos": [
+    "manasses"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Prisma de Esar-Hadom (Nínive)",
+     "referencia": "lista de reis tributários, incluindo Manassés de Judá",
+     "data": "c. 673 a.C. (aprox.)"
+    }
+   ]
+  },
+  {
+   "id": "assurbanipal",
+   "nome": "Assurbanípal (Asnapar?)",
+   "povo": "assiria",
+   "titulo": "rei",
+   "inicio": -669,
+   "fim": -631,
+   "aprox": true,
+   "datas_alternativas": "O fim do reinado é incerto: c. 631 ou 627 a.C.",
+   "incerto": true,
+   "avaliacao": null,
+   "resumo": "Último grande rei da Assíria. A Bíblia cita 'o grande e famoso Asnapar', que deportou povos para Samaria; muitos o identificam com Assurbanípal.",
+   "particularidades": [
+    "Montou uma grande biblioteca em Nínive.",
+    "A identificação com Asnapar é provável, mas não certa."
+   ],
+   "refs": [
+    "esdras 4:10"
+   ],
+   "contemporaneos": [],
+   "fonte_extra": [
+    {
+     "fonte": "Inscrições de Assurbanípal (Nínive)",
+     "referencia": "anais do reinado; listam Manassés entre os vassalos",
+     "data": "séc. VII a.C."
+    }
+   ]
+  },
+  {
+   "id": "merodaque-baladan",
+   "nome": "Merodaque-Baladã",
+   "povo": "babilonia",
+   "titulo": "rei",
+   "inicio": -722,
+   "fim": -710,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Rei da Babilônia que enviou cartas e presentes a Ezequias quando este se recuperou da doença; Isaías advertiu que os tesouros mostrados seriam levados para a Babilônia.",
+   "particularidades": [
+    "Grafado Berodaque-Baladã em 2 Reis 20:12.",
+    "Inimigo constante da Assíria; voltou a reinar por pouco tempo em 703 a.C."
+   ],
+   "refs": [
+    "2-reis 20:12-19",
+    "isaias 39:1-8"
+   ],
+   "contemporaneos": [
+    "ezequias"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Crônicas Babilônicas e inscrições assírias",
+     "referencia": "reinados de Marduk-apla-iddina II (722-710 e 703 a.C.)",
+     "data": "séc. VIII-VII a.C."
+    }
+   ]
+  },
+  {
+   "id": "nabucodonosor-2",
+   "nome": "Nabucodonosor II",
+   "povo": "babilonia",
+   "titulo": "rei",
+   "inicio": -605,
+   "fim": -562,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "O maior rei neobabilônico. Venceu o Egito em Carquemis, submeteu Judá, levou Daniel, Joaquim e milhares de exilados e destruiu Jerusalém e o templo em 586 a.C. Daniel narra seus sonhos, sua loucura temporária e seu louvor ao Deus Altíssimo.",
+   "particularidades": [
+    "Sonhou com a estátua de quatro metais (Daniel 2).",
+    "Ergueu a estátua de ouro e mandou lançar três jovens na fornalha (Daniel 3).",
+    "Jeremias o chama de 'meu servo' (Jeremias 25:9)."
+   ],
+   "refs": [
+    "2-reis 24:1-25:21",
+    "2-cronicas 36:6-21",
+    "jeremias 25:1-11",
+    "jeremias 39:1-14",
+    "daniel 1:1-4:37"
+   ],
+   "contemporaneos": [
+    "jeoaquim",
+    "joaquim",
+    "zedequias",
+    "gedalias",
+    "neco-2",
+    "hofra"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Crônicas Babilônicas (tabuinha da Crônica de Nabucodonosor)",
+     "referencia": "registro da tomada de Jerusalém em adar do 7º ano",
+     "data": "597 a.C."
+    }
+   ]
+  },
+  {
+   "id": "evil-merodaque",
+   "nome": "Evil-Merodaque",
+   "povo": "babilonia",
+   "titulo": "rei",
+   "inicio": -562,
+   "fim": -560,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Filho e sucessor de Nabucodonosor. No ano em que começou a reinar, tirou Joaquim da prisão e lhe deu lugar à sua mesa.",
+   "particularidades": [
+    "Nome babilônico: Amel-Marduk."
+   ],
+   "refs": [
+    "2-reis 25:27-30",
+    "jeremias 52:31-34"
+   ],
+   "contemporaneos": [
+    "joaquim"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Listas reais babilônicas e Berosso (citado por Josefo)",
+     "referencia": "reinado curto de Amel-Marduk",
+     "data": "562-560 a.C."
+    }
+   ]
+  },
+  {
+   "id": "nergal-sarezer",
+   "nome": "Nergal-Sarezer",
+   "povo": "babilonia",
+   "titulo": "oficial / rei",
+   "inicio": -560,
+   "fim": -556,
+   "aprox": true,
+   "incerto": true,
+   "avaliacao": null,
+   "resumo": "Príncipe babilônico presente na tomada de Jerusalém, que ajudou a libertar Jeremias. Muitos o identificam com Neriglissar, genro de Nabucodonosor, que mais tarde foi rei.",
+   "particularidades": [
+    "Na Bíblia aparece como oficial ('Rabe-Mague'), não como rei.",
+    "A identificação com o rei Neriglissar é provável, mas debatida."
+   ],
+   "refs": [
+    "jeremias 39:3",
+    "jeremias 39:13-14"
+   ],
+   "contemporaneos": [
+    "zedequias"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Listas reais babilônicas",
+     "referencia": "reinado de Nergal-sharri-usur (Neriglissar)",
+     "data": "560-556 a.C."
+    }
+   ]
+  },
+  {
+   "id": "nabonido",
+   "nome": "Nabonido",
+   "povo": "babilonia",
+   "titulo": "rei",
+   "inicio": -556,
+   "fim": -539,
+   "aprox": true,
+   "nota": "Incluído como contexto: a ligação com Daniel 5 é dedução de estudiosos.",
+   "avaliacao": null,
+   "resumo": "Último rei da Babilônia, não citado por nome na Bíblia. Passou cerca de dez anos no oásis de Temá, na Arábia, deixando o governo da Babilônia com seu filho Belsazar.",
+   "particularidades": [
+    "Explica por que Belsazar podia oferecer a Daniel apenas o 'terceiro lugar' no reino (Daniel 5:16, 29)."
+   ],
+   "refs": [
+    "daniel 5:29"
+   ],
+   "contemporaneos": [],
+   "fonte_extra": [
+    {
+     "fonte": "Crônica de Nabonido",
+     "referencia": "estada do rei em Temá e queda da Babilônia",
+     "data": "séc. VI a.C."
+    },
+    {
+     "fonte": "Cilindro de Nabonido (Ur)",
+     "referencia": "oração por 'Bel-shar-usur, meu filho primogênito'",
+     "data": "c. 550 a.C. (aprox.)"
+    }
+   ]
+  },
+  {
+   "id": "belsazar",
+   "nome": "Belsazar",
+   "povo": "babilonia",
+   "titulo": "rei (corregente)",
+   "inicio": -553,
+   "fim": -539,
+   "aprox": true,
+   "corregencia": "Corregente de fato com Nabonido, enquanto este estava em Temá (c. 553-543 a.C.) e até 539 a.C.",
+   "avaliacao": null,
+   "resumo": "Filho de Nabonido que governava a Babilônia. Durante um banquete, bebeu nos vasos do templo de Jerusalém, viu a escrita na parede e foi morto na mesma noite em que a cidade caiu.",
+   "particularidades": [
+    "Daniel 5 chama Nabucodonosor de seu 'pai' (antepassado ou predecessor, no uso antigo).",
+    "Por muito tempo críticos duvidaram de sua existência, até achados cuneiformes o mencionarem."
+   ],
+   "refs": [
+    "daniel 5:1-30",
+    "daniel 7:1",
+    "daniel 8:1"
+   ],
+   "contemporaneos": [
+    "dario-medo"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Cilindro de Nabonido (Ur) e Relato em Versos de Nabonido",
+     "referencia": "mencionam Belsazar como filho e encarregado do reino",
+     "data": "séc. VI a.C."
+    }
+   ]
+  },
+  {
+   "id": "ciro",
+   "nome": "Ciro II, o Grande",
+   "povo": "persia",
+   "titulo": "rei",
+   "inicio": -559,
+   "fim": -530,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Fundador do Império Persa; tomou a Babilônia em 539 a.C. e, no seu primeiro ano, autorizou os judeus a voltarem e reconstruírem o templo, devolvendo os utensílios levados por Nabucodonosor.",
+   "particularidades": [
+    "Isaías o chama de 'ungido' e 'pastor' do SENHOR (Isaías 44:28; 45:1).",
+    "Rei da Pérsia desde c. 559; da Babilônia de 539 a 530 a.C."
+   ],
+   "refs": [
+    "2-cronicas 36:22-23",
+    "esdras 1:1-11",
+    "isaias 44:28",
+    "isaias 45:1-4",
+    "daniel 6:28",
+    "daniel 10:1"
+   ],
+   "contemporaneos": [
+    "sesbazar"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Cilindro de Ciro",
+     "referencia": "decreto que permite a povos deportados voltar e restaurar santuários",
+     "data": "c. 539 a.C."
+    }
+   ]
+  },
+  {
+   "id": "dario-medo",
+   "nome": "Dario, o medo",
+   "povo": "persia",
+   "titulo": "rei",
+   "inicio": -539,
+   "fim": -538,
+   "aprox": true,
+   "datas_alternativas": "Hipóteses: Gubaru (Ugbaru), governador posto por Ciro na Babilônia; o próprio Ciro com outro título (lendo Daniel 6:28 como 'Dario, isto é, Ciro'); Ciaxares II (citado por Xenofonte); ou figura literária, para críticos.",
+   "incerto": true,
+   "avaliacao": null,
+   "resumo": "Segundo Daniel, recebeu o reino da Babilônia aos 62 anos, organizou o governo em 120 sátrapas e, enganado por eles, lançou Daniel na cova dos leões; depois louvou o Deus de Daniel.",
+   "particularidades": [
+    "Daniel 9:1 o chama 'filho de Assuero, da nação dos medos'.",
+    "Não aparece com esse nome fora da Bíblia."
+   ],
+   "refs": [
+    "daniel 5:31",
+    "daniel 6:1-28",
+    "daniel 9:1",
+    "daniel 11:1"
+   ],
+   "contemporaneos": [
+    "belsazar"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Crônica de Nabonido",
+     "referencia": "menciona Ugbaru/Gubaru na tomada da Babilônia",
+     "data": "539 a.C."
+    }
+   ]
+  },
+  {
+   "id": "cambises-2",
+   "nome": "Cambises II",
+   "povo": "persia",
+   "titulo": "rei",
+   "inicio": -530,
+   "fim": -522,
+   "aprox": true,
+   "incerto": true,
+   "avaliacao": null,
+   "resumo": "Filho de Ciro, que conquistou o Egito. Não é citado por nome na Bíblia; aparece aqui para preencher a linha do tempo entre Ciro e Dario I.",
+   "particularidades": [
+    "Alguns antigos o identificaram com o 'Assuero' ou o 'Artaxerxes' de Esdras 4, hipótese hoje pouco aceita."
+   ],
+   "refs": [],
+   "contemporaneos": [],
+   "fonte_extra": [
+    {
+     "fonte": "Heródoto, Histórias",
+     "referencia": "livro 3 (reinado de Cambises)",
+     "data": "séc. V a.C."
+    }
+   ]
+  },
+  {
+   "id": "dario-1",
+   "nome": "Dario I",
+   "povo": "persia",
+   "titulo": "rei",
+   "inicio": -522,
+   "fim": -486,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Rei persa no tempo de Ageu e Zacarias. Mandou procurar o decreto de Ciro e confirmou a reconstrução do templo, concluída no seu sexto ano.",
+   "particularidades": [
+    "O templo foi terminado em 515 a.C. (Esdras 6:15).",
+    "Ageu e Zacarias datam profecias pelos seus anos."
+   ],
+   "refs": [
+    "esdras 4:5",
+    "esdras 4:24",
+    "esdras 5:5-6:15",
+    "ageu 1:1",
+    "zacarias 1:1"
+   ],
+   "contemporaneos": [
+    "zorobabel"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Inscrição de Behistun (Irã)",
+     "referencia": "relato da subida de Dario ao trono",
+     "data": "c. 520 a.C. (aprox.)"
+    }
+   ]
+  },
+  {
+   "id": "tatenai",
+   "nome": "Tatenai",
+   "povo": "persia",
+   "titulo": "governador",
+   "inicio": -520,
+   "fim": -515,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Governador da região 'além do rio' (a oeste do Eufrates) que questionou a reconstrução do templo e escreveu a Dario I; depois cumpriu a ordem do rei e ajudou a obra.",
+   "particularidades": [],
+   "refs": [
+    "esdras 5:3-17",
+    "esdras 6:6-13"
+   ],
+   "contemporaneos": [
+    "zorobabel"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Tabuinha babilônica de Tattannu",
+     "referencia": "documento que cita Tattannu, governador de 'Além do Rio'",
+     "data": "502 a.C. (aprox.)"
+    }
+   ]
+  },
+  {
+   "id": "xerxes-1",
+   "nome": "Xerxes I (Assuero)",
+   "povo": "persia",
+   "titulo": "rei",
+   "inicio": -486,
+   "fim": -465,
+   "aprox": true,
+   "datas_alternativas": "A identificação com Xerxes I é a mais aceita; antigos tradutores gregos pensaram em Artaxerxes.",
+   "avaliacao": null,
+   "resumo": "O Assuero do livro de Ester, que reinava 'da Índia até Cuxe' sobre 127 províncias. Depôs a rainha Vasti, fez Ester rainha e permitiu que os judeus se defendessem do decreto de Hamã.",
+   "particularidades": [
+    "Esdras 4:6 registra uma acusação contra Judá no início do seu reinado.",
+    "Assuero é a forma hebraica do nome persa Xsayarsa (Xerxes)."
+   ],
+   "refs": [
+    "esdras 4:6",
+    "ester 1:1-22",
+    "ester 2:16-18",
+    "ester 8:1-17",
+    "ester 10:1-3"
+   ],
+   "contemporaneos": [],
+   "fonte_extra": [
+    {
+     "fonte": "Heródoto, Histórias",
+     "referencia": "livros 7-9 (Xerxes e a guerra contra a Grécia)",
+     "data": "séc. V a.C."
+    }
+   ]
+  },
+  {
+   "id": "artaxerxes-1",
+   "nome": "Artaxerxes I",
+   "povo": "persia",
+   "titulo": "rei",
+   "inicio": -465,
+   "fim": -424,
+   "aprox": true,
+   "datas_alternativas": "Quase todos ligam Neemias a Artaxerxes I (445 a.C.); para Esdras, alguns preferem Artaxerxes II (398 a.C.) em vez de 458 a.C.",
+   "avaliacao": null,
+   "resumo": "Rei que primeiro mandou parar a reconstrução dos muros de Jerusalém e depois enviou Esdras (no seu 7º ano) e Neemias (no seu 20º ano), dando cartas e recursos.",
+   "particularidades": [
+    "Neemias era seu copeiro."
+   ],
+   "refs": [
+    "esdras 4:7-23",
+    "esdras 7:1-26",
+    "neemias 2:1-9",
+    "neemias 5:14",
+    "neemias 13:6"
+   ],
+   "contemporaneos": [
+    "neemias",
+    "esdras-escriba"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Cânon de Ptolomeu (lista de reis)",
+     "referencia": "anos de reinado de Artaxerxes I",
+     "data": "séc. II d.C."
+    },
+    {
+     "fonte": "Papiros de Elefantina",
+     "referencia": "documentos datados pelos anos de Artaxerxes",
+     "data": "séc. V a.C."
+    }
+   ]
+  },
+  {
+   "id": "dario-2",
+   "nome": "Dario II (ou Dario III)",
+   "povo": "persia",
+   "titulo": "rei",
+   "inicio": -423,
+   "fim": -404,
+   "aprox": true,
+   "incerto": true,
+   "avaliacao": null,
+   "resumo": "Neemias 12:22 menciona sacerdotes registrados 'até o reinado de Dario, o persa'. Muitos o identificam com Dario II; outros com Dario III (336-330 a.C.).",
+   "particularidades": [
+    "Única menção possível na Bíblia."
+   ],
+   "refs": [
+    "neemias 12:22"
+   ],
+   "contemporaneos": [],
+   "fonte_extra": [
+    {
+     "fonte": "Papiros de Elefantina (Egito)",
+     "referencia": "cartas judaicas datadas pelos anos de Dario II",
+     "data": "c. 410-407 a.C."
+    }
+   ]
+  },
+  {
+   "id": "dario-3",
+   "nome": "Dario III",
+   "povo": "persia",
+   "titulo": "rei",
+   "inicio": -336,
+   "fim": -330,
+   "aprox": true,
+   "incerto": true,
+   "interpretacao": true,
+   "avaliacao": null,
+   "resumo": "Último rei persa, vencido por Alexandre. Não é citado por nome; alguns veem nele o 'carneiro' de Daniel 8 em seu fim, e outros o 'Dario, o persa' de Neemias 12:22.",
+   "particularidades": [],
+   "refs": [
+    "daniel 8:6-7"
+   ],
+   "contemporaneos": [
+    "alexandre"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Arriano, Anábase de Alexandre",
+     "referencia": "derrota e morte de Dario III",
+     "data": "séc. II d.C."
+    }
+   ]
+  },
+  {
+   "id": "sesbazar",
+   "nome": "Sesbazar",
+   "povo": "judeia-persa",
+   "titulo": "príncipe / governador",
+   "inicio": -538,
+   "fim": -536,
+   "aprox": true,
+   "incerto": true,
+   "avaliacao": null,
+   "resumo": "'Príncipe de Judá' a quem Ciro entregou os utensílios do templo; liderou o primeiro grupo de retorno e lançou os alicerces do templo.",
+   "particularidades": [
+    "Há quem o identifique com Zorobabel; outros o veem como tio deste (Senazar, de 1 Crônicas 3:18)."
+   ],
+   "refs": [
+    "esdras 1:8-11",
+    "esdras 5:14-16"
+   ],
+   "contemporaneos": [
+    "ciro"
+   ]
+  },
+  {
+   "id": "zorobabel",
+   "nome": "Zorobabel",
+   "povo": "judeia-persa",
+   "titulo": "governador",
+   "inicio": -538,
+   "fim": -515,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Neto do rei Joaquim e governador de Judá. Com o sumo sacerdote Josué, liderou o retorno do exílio e a reconstrução do templo, animado pelas profecias de Ageu e Zacarias.",
+   "particularidades": [
+    "Aparece nas genealogias de Jesus em Mateus 1:12 e Lucas 3:27."
+   ],
+   "refs": [
+    "esdras 2:2",
+    "esdras 3:8",
+    "esdras 5:2",
+    "ageu 1:1",
+    "ageu 2:20-23",
+    "zacarias 4:6-10"
+   ],
+   "contemporaneos": [
+    "dario-1",
+    "ciro"
+   ]
+  },
+  {
+   "id": "esdras-escriba",
+   "nome": "Esdras",
+   "povo": "judeia-persa",
+   "titulo": "sacerdote e escriba (com autoridade do rei)",
+   "inicio": -458,
+   "fim": -440,
+   "aprox": true,
+   "datas_alternativas": "458 a.C. (7º ano de Artaxerxes I, a mais aceita) ou 398 a.C. (Artaxerxes II).",
+   "avaliacao": null,
+   "resumo": "Sacerdote e escriba enviado por Artaxerxes com autorização para ensinar a lei e nomear juízes. Liderou um grupo de retorno e leu publicamente a lei.",
+   "particularidades": [
+    "Não era governador, mas recebeu do rei autoridade oficial."
+   ],
+   "refs": [
+    "esdras 7:1-28",
+    "neemias 8:1-9"
+   ],
+   "contemporaneos": [
+    "artaxerxes-1"
+   ]
+  },
+  {
+   "id": "neemias",
+   "nome": "Neemias",
+   "povo": "judeia-persa",
+   "titulo": "governador",
+   "inicio": -445,
+   "fim": -432,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Copeiro de Artaxerxes I que foi nomeado governador de Judá. Reconstruiu os muros de Jerusalém em 52 dias, enfrentando Sambalate e Tobias, e fez reformas sociais e religiosas.",
+   "particularidades": [
+    "Não comeu o 'pão do governador' para não pesar ao povo.",
+    "Voltou a Jerusalém para um segundo período depois do 32º ano do rei."
+   ],
+   "refs": [
+    "neemias 1:1-2:20",
+    "neemias 5:14-19",
+    "neemias 6:15",
+    "neemias 13:6-7"
+   ],
+   "contemporaneos": [
+    "artaxerxes-1",
+    "sambalate"
+   ]
+  },
+  {
+   "id": "alexandre",
+   "nome": "Alexandre, o Grande",
+   "povo": "grecia",
+   "titulo": "rei da Macedônia",
+   "inicio": -336,
+   "fim": -323,
+   "aprox": true,
+   "interpretacao": true,
+   "nota": "Identificação interpretativa, mas quase universal entre os comentaristas.",
+   "avaliacao": null,
+   "resumo": "Rei macedônio que conquistou o Império Persa. Daniel não o nomeia, mas o bode que vem do ocidente e o 'rei poderoso' cujo reino é repartido 'aos quatro ventos' costumam ser lidos como Alexandre.",
+   "particularidades": [
+    "Daniel 8:21 diz que o bode é 'o rei da Grécia' e o grande chifre, 'o primeiro rei'.",
+    "Depois de sua morte o império foi dividido entre seus generais."
+   ],
+   "refs": [
+    "daniel 8:5-8",
+    "daniel 8:21-22",
+    "daniel 11:3-4"
+   ],
+   "contemporaneos": [
+    "dario-3"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Arriano, Anábase de Alexandre",
+     "referencia": "relato das campanhas de Alexandre",
+     "data": "séc. II d.C."
+    },
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livro 11 (Alexandre e Jerusalém)",
+     "data": "c. 93 d.C."
+    }
+   ]
+  },
+  {
+   "id": "ptolomeu-1",
+   "nome": "Ptolomeu I Sóter",
+   "povo": "ptolomeus",
+   "titulo": "rei do Egito",
+   "inicio": -305,
+   "fim": -282,
+   "aprox": true,
+   "interpretacao": true,
+   "nota": "Leitura interpretativa: Daniel 11 não dá nomes; a identificação com reis selêucidas e ptolomeus é a interpretação histórica mais comum (já feita por Jerônimo, séc. V d.C.), mas há leituras que veem parte do capítulo como profecia ainda futura.",
+   "avaliacao": null,
+   "resumo": "General de Alexandre que se tornou rei do Egito. É lido como o primeiro 'rei do sul' de Daniel 11:5.",
+   "particularidades": [
+    "Governou o Egito como sátrapa desde 323 a.C."
+   ],
+   "refs": [
+    "daniel 11:5"
+   ],
+   "contemporaneos": [
+    "seleuco-1"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Jerônimo, Comentário sobre Daniel",
+     "referencia": "comentário ao cap. 11 (identifica os reis do norte e do sul)",
+     "data": "c. 407 d.C."
+    },
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livro 12 (Ptolomeus, Selêucidas e os judeus)",
+     "data": "c. 93 d.C."
+    }
+   ]
+  },
+  {
+   "id": "ptolomeu-2",
+   "nome": "Ptolomeu II Filadelfo",
+   "povo": "ptolomeus",
+   "titulo": "rei do Egito",
+   "inicio": -285,
+   "fim": -246,
+   "aprox": true,
+   "interpretacao": true,
+   "nota": "Leitura interpretativa: Daniel 11 não dá nomes; a identificação com reis selêucidas e ptolomeus é a interpretação histórica mais comum (já feita por Jerônimo, séc. V d.C.), mas há leituras que veem parte do capítulo como profecia ainda futura.",
+   "avaliacao": null,
+   "resumo": "Lido como o 'rei do sul' que deu sua filha Berenice ao rei do norte (Antíoco II) para selar uma aliança que fracassou.",
+   "particularidades": [
+    "Segundo a tradição da Carta de Aristeias, a Lei judaica foi traduzida para o grego (Septuaginta) no seu tempo."
+   ],
+   "refs": [
+    "daniel 11:6"
+   ],
+   "contemporaneos": [
+    "antioco-2"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Jerônimo, Comentário sobre Daniel",
+     "referencia": "comentário ao cap. 11 (identifica os reis do norte e do sul)",
+     "data": "c. 407 d.C."
+    },
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livro 12 (Ptolomeus, Selêucidas e os judeus)",
+     "data": "c. 93 d.C."
+    },
+    {
+     "fonte": "Carta de Aristeias",
+     "referencia": "relato da tradução da Lei em Alexandria",
+     "data": "séc. II a.C. (aprox.)"
+    }
+   ]
+  },
+  {
+   "id": "ptolomeu-3",
+   "nome": "Ptolomeu III Evérgeta",
+   "povo": "ptolomeus",
+   "titulo": "rei do Egito",
+   "inicio": -246,
+   "fim": -222,
+   "aprox": true,
+   "interpretacao": true,
+   "nota": "Leitura interpretativa: Daniel 11 não dá nomes; a identificação com reis selêucidas e ptolomeus é a interpretação histórica mais comum (já feita por Jerônimo, séc. V d.C.), mas há leituras que veem parte do capítulo como profecia ainda futura.",
+   "avaliacao": null,
+   "resumo": "Irmão de Berenice; lido como o 'renovo de suas raízes' que invadiu a fortaleza do rei do norte e levou ao Egito deuses e tesouros.",
+   "particularidades": [],
+   "refs": [
+    "daniel 11:7-9"
+   ],
+   "contemporaneos": [
+    "seleuco-2"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Jerônimo, Comentário sobre Daniel",
+     "referencia": "comentário ao cap. 11 (identifica os reis do norte e do sul)",
+     "data": "c. 407 d.C."
+    },
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livro 12 (Ptolomeus, Selêucidas e os judeus)",
+     "data": "c. 93 d.C."
+    }
+   ]
+  },
+  {
+   "id": "ptolomeu-4",
+   "nome": "Ptolomeu IV Filopátor",
+   "povo": "ptolomeus",
+   "titulo": "rei do Egito",
+   "inicio": -221,
+   "fim": -204,
+   "aprox": true,
+   "interpretacao": true,
+   "nota": "Leitura interpretativa: Daniel 11 não dá nomes; a identificação com reis selêucidas e ptolomeus é a interpretação histórica mais comum (já feita por Jerônimo, séc. V d.C.), mas há leituras que veem parte do capítulo como profecia ainda futura.",
+   "avaliacao": null,
+   "resumo": "Lido como o 'rei do sul' que se enfureceu e venceu o rei do norte (Antíoco III) em batalha, a de Ráfia, em 217 a.C.",
+   "particularidades": [],
+   "refs": [
+    "daniel 11:11-12"
+   ],
+   "contemporaneos": [
+    "antioco-3"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Jerônimo, Comentário sobre Daniel",
+     "referencia": "comentário ao cap. 11 (identifica os reis do norte e do sul)",
+     "data": "c. 407 d.C."
+    },
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livro 12 (Ptolomeus, Selêucidas e os judeus)",
+     "data": "c. 93 d.C."
+    },
+    {
+     "fonte": "Políbio, Histórias",
+     "referencia": "livro 5 (batalha de Ráfia)",
+     "data": "séc. II a.C."
+    }
+   ]
+  },
+  {
+   "id": "ptolomeu-5",
+   "nome": "Ptolomeu V Epífanes",
+   "povo": "ptolomeus",
+   "titulo": "rei do Egito",
+   "inicio": -204,
+   "fim": -180,
+   "aprox": true,
+   "interpretacao": true,
+   "nota": "Leitura interpretativa: Daniel 11 não dá nomes; a identificação com reis selêucidas e ptolomeus é a interpretação histórica mais comum (já feita por Jerônimo, séc. V d.C.), mas há leituras que veem parte do capítulo como profecia ainda futura.",
+   "avaliacao": null,
+   "resumo": "Rei menino contra quem 'muitos se levantarão'; lido como o rei do sul que perdeu a Judeia para Antíoco III e recebeu a filha dele, Cleópatra I, em casamento.",
+   "particularidades": [],
+   "refs": [
+    "daniel 11:14-17"
+   ],
+   "contemporaneos": [
+    "antioco-3"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Jerônimo, Comentário sobre Daniel",
+     "referencia": "comentário ao cap. 11 (identifica os reis do norte e do sul)",
+     "data": "c. 407 d.C."
+    },
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livro 12 (Ptolomeus, Selêucidas e os judeus)",
+     "data": "c. 93 d.C."
+    }
+   ]
+  },
+  {
+   "id": "ptolomeu-6",
+   "nome": "Ptolomeu VI Filométor",
+   "povo": "ptolomeus",
+   "titulo": "rei do Egito",
+   "inicio": -180,
+   "fim": -145,
+   "aprox": true,
+   "interpretacao": true,
+   "nota": "Leitura interpretativa: Daniel 11 não dá nomes; a identificação com reis selêucidas e ptolomeus é a interpretação histórica mais comum (já feita por Jerônimo, séc. V d.C.), mas há leituras que veem parte do capítulo como profecia ainda futura.",
+   "avaliacao": null,
+   "resumo": "Lido como o 'rei do sul' vencido por Antíoco IV, com quem 'falará mentiras na mesma mesa'.",
+   "particularidades": [],
+   "refs": [
+    "daniel 11:25-27"
+   ],
+   "contemporaneos": [
+    "antioco-4"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Jerônimo, Comentário sobre Daniel",
+     "referencia": "comentário ao cap. 11 (identifica os reis do norte e do sul)",
+     "data": "c. 407 d.C."
+    },
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livro 12 (Ptolomeus, Selêucidas e os judeus)",
+     "data": "c. 93 d.C."
+    }
+   ]
+  },
+  {
+   "id": "seleuco-1",
+   "nome": "Seleuco I Nicátor",
+   "povo": "seleucidas",
+   "titulo": "rei (Síria e Mesopotâmia)",
+   "inicio": -305,
+   "fim": -281,
+   "aprox": true,
+   "interpretacao": true,
+   "nota": "Leitura interpretativa: Daniel 11 não dá nomes; a identificação com reis selêucidas e ptolomeus é a interpretação histórica mais comum (já feita por Jerônimo, séc. V d.C.), mas há leituras que veem parte do capítulo como profecia ainda futura.",
+   "avaliacao": null,
+   "resumo": "General de Alexandre, fundador do reino selêucida. Lido como o 'príncipe' do rei do sul que se tornou mais forte e teve 'grande domínio'.",
+   "particularidades": [
+    "A 'era selêucida' começa em 312/311 a.C."
+   ],
+   "refs": [
+    "daniel 11:5"
+   ],
+   "contemporaneos": [
+    "ptolomeu-1"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Jerônimo, Comentário sobre Daniel",
+     "referencia": "comentário ao cap. 11 (identifica os reis do norte e do sul)",
+     "data": "c. 407 d.C."
+    },
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livro 12 (Ptolomeus, Selêucidas e os judeus)",
+     "data": "c. 93 d.C."
+    }
+   ]
+  },
+  {
+   "id": "antioco-2",
+   "nome": "Antíoco II Theos",
+   "povo": "seleucidas",
+   "titulo": "rei",
+   "inicio": -261,
+   "fim": -246,
+   "aprox": true,
+   "interpretacao": true,
+   "nota": "Leitura interpretativa: Daniel 11 não dá nomes; a identificação com reis selêucidas e ptolomeus é a interpretação histórica mais comum (já feita por Jerônimo, séc. V d.C.), mas há leituras que veem parte do capítulo como profecia ainda futura.",
+   "avaliacao": null,
+   "resumo": "Lido como o 'rei do norte' que se casou com Berenice, filha de Ptolomeu II; o acordo terminou com a morte dela e do filho.",
+   "particularidades": [],
+   "refs": [
+    "daniel 11:6"
+   ],
+   "contemporaneos": [
+    "ptolomeu-2"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Jerônimo, Comentário sobre Daniel",
+     "referencia": "comentário ao cap. 11 (identifica os reis do norte e do sul)",
+     "data": "c. 407 d.C."
+    },
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livro 12 (Ptolomeus, Selêucidas e os judeus)",
+     "data": "c. 93 d.C."
+    }
+   ]
+  },
+  {
+   "id": "seleuco-2",
+   "nome": "Seleuco II Calínico",
+   "povo": "seleucidas",
+   "titulo": "rei",
+   "inicio": -246,
+   "fim": -225,
+   "aprox": true,
+   "interpretacao": true,
+   "nota": "Leitura interpretativa: Daniel 11 não dá nomes; a identificação com reis selêucidas e ptolomeus é a interpretação histórica mais comum (já feita por Jerônimo, séc. V d.C.), mas há leituras que veem parte do capítulo como profecia ainda futura.",
+   "avaliacao": null,
+   "resumo": "Lido como o 'rei do norte' cuja fortaleza foi invadida por Ptolomeu III.",
+   "particularidades": [],
+   "refs": [
+    "daniel 11:7-9"
+   ],
+   "contemporaneos": [
+    "ptolomeu-3"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Jerônimo, Comentário sobre Daniel",
+     "referencia": "comentário ao cap. 11 (identifica os reis do norte e do sul)",
+     "data": "c. 407 d.C."
+    },
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livro 12 (Ptolomeus, Selêucidas e os judeus)",
+     "data": "c. 93 d.C."
+    }
+   ]
+  },
+  {
+   "id": "seleuco-3",
+   "nome": "Seleuco III Cerauno",
+   "povo": "seleucidas",
+   "titulo": "rei",
+   "inicio": -225,
+   "fim": -223,
+   "aprox": true,
+   "interpretacao": true,
+   "nota": "Leitura interpretativa: Daniel 11 não dá nomes; a identificação com reis selêucidas e ptolomeus é a interpretação histórica mais comum (já feita por Jerônimo, séc. V d.C.), mas há leituras que veem parte do capítulo como profecia ainda futura.",
+   "avaliacao": null,
+   "resumo": "Lido como um dos 'filhos' do rei do norte que se preparam para a guerra (Daniel 11:10); morreu cedo.",
+   "particularidades": [],
+   "refs": [
+    "daniel 11:10"
+   ],
+   "contemporaneos": [],
+   "fonte_extra": [
+    {
+     "fonte": "Jerônimo, Comentário sobre Daniel",
+     "referencia": "comentário ao cap. 11 (identifica os reis do norte e do sul)",
+     "data": "c. 407 d.C."
+    },
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livro 12 (Ptolomeus, Selêucidas e os judeus)",
+     "data": "c. 93 d.C."
+    }
+   ]
+  },
+  {
+   "id": "antioco-3",
+   "nome": "Antíoco III, o Grande",
+   "povo": "seleucidas",
+   "titulo": "rei",
+   "inicio": -223,
+   "fim": -187,
+   "aprox": true,
+   "interpretacao": true,
+   "nota": "Leitura interpretativa: Daniel 11 não dá nomes; a identificação com reis selêucidas e ptolomeus é a interpretação histórica mais comum (já feita por Jerônimo, séc. V d.C.), mas há leituras que veem parte do capítulo como profecia ainda futura.",
+   "avaliacao": null,
+   "resumo": "Lido como o rei do norte que, vencido em Ráfia, voltou com exército maior, tomou a 'terra gloriosa' (Judeia) do Egito, deu sua filha ao rei do sul e foi detido por 'um príncipe' (o romano Lúcio Cipião).",
+   "particularidades": [
+    "A Judeia passou do domínio ptolomaico ao selêucida c. 198 a.C."
+   ],
+   "refs": [
+    "daniel 11:10-19"
+   ],
+   "contemporaneos": [
+    "ptolomeu-4",
+    "ptolomeu-5"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Jerônimo, Comentário sobre Daniel",
+     "referencia": "comentário ao cap. 11 (identifica os reis do norte e do sul)",
+     "data": "c. 407 d.C."
+    },
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livro 12 (Ptolomeus, Selêucidas e os judeus)",
+     "data": "c. 93 d.C."
+    },
+    {
+     "fonte": "Políbio, Histórias",
+     "referencia": "livros 5 e 16 (guerras de Antíoco III)",
+     "data": "séc. II a.C."
+    }
+   ]
+  },
+  {
+   "id": "seleuco-4",
+   "nome": "Seleuco IV Filopátor",
+   "povo": "seleucidas",
+   "titulo": "rei",
+   "inicio": -187,
+   "fim": -175,
+   "aprox": true,
+   "interpretacao": true,
+   "nota": "Leitura interpretativa: Daniel 11 não dá nomes; a identificação com reis selêucidas e ptolomeus é a interpretação histórica mais comum (já feita por Jerônimo, séc. V d.C.), mas há leituras que veem parte do capítulo como profecia ainda futura.",
+   "avaliacao": null,
+   "resumo": "Lido como o rei que 'fará passar um cobrador de impostos' — ligado ao episódio de Heliodoro e o tesouro do templo — e morreu 'não em ira nem em batalha'.",
+   "particularidades": [
+    "O episódio de Heliodoro está em 2 Macabeus 3 (livro deuterocanônico)."
+   ],
+   "refs": [
+    "daniel 11:20"
+   ],
+   "contemporaneos": [],
+   "fonte_extra": [
+    {
+     "fonte": "Jerônimo, Comentário sobre Daniel",
+     "referencia": "comentário ao cap. 11 (identifica os reis do norte e do sul)",
+     "data": "c. 407 d.C."
+    },
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livro 12 (Ptolomeus, Selêucidas e os judeus)",
+     "data": "c. 93 d.C."
+    },
+    {
+     "fonte": "2 Macabeus (deuterocanônico)",
+     "referencia": "capítulo 3 (Heliodoro)",
+     "data": "séc. II-I a.C."
+    }
+   ]
+  },
+  {
+   "id": "antioco-4",
+   "nome": "Antíoco IV Epífanes",
+   "povo": "seleucidas",
+   "titulo": "rei",
+   "inicio": -175,
+   "fim": -164,
+   "aprox": true,
+   "interpretacao": true,
+   "nota": "Leitura interpretativa: Daniel 11 não dá nomes; a identificação com reis selêucidas e ptolomeus é a interpretação histórica mais comum (já feita por Jerônimo, séc. V d.C.), mas há leituras que veem parte do capítulo como profecia ainda futura.",
+   "avaliacao": null,
+   "resumo": "Lido como o 'ser desprezível' de Daniel 11:21 e o 'chifre pequeno' de Daniel 8, que tirou o sacrifício contínuo e pôs a 'abominação assoladora' no templo (167 a.C.). A perseguição provocou a revolta dos Macabeus.",
+   "particularidades": [
+    "Muitos cristãos veem nele também uma prefiguração de um opositor final (Daniel 11:36-45 é lido de modos diferentes)."
+   ],
+   "refs": [
+    "daniel 8:9-12",
+    "daniel 8:23-25",
+    "daniel 11:21-35"
+   ],
+   "contemporaneos": [
+    "ptolomeu-6",
+    "judas-macabeu"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Jerônimo, Comentário sobre Daniel",
+     "referencia": "comentário ao cap. 11 (identifica os reis do norte e do sul)",
+     "data": "c. 407 d.C."
+    },
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livro 12 (Ptolomeus, Selêucidas e os judeus)",
+     "data": "c. 93 d.C."
+    },
+    {
+     "fonte": "1 Macabeus (deuterocanônico)",
+     "referencia": "capítulo 1 (profanação do templo)",
+     "data": "séc. II a.C."
+    }
+   ]
+  },
+  {
+   "id": "judas-macabeu",
+   "nome": "Judas Macabeu",
+   "povo": "hasmoneus",
+   "titulo": "líder militar",
+   "inicio": -166,
+   "fim": -160,
+   "aprox": true,
+   "nota": "Incluído como contexto histórico entre o Antigo e o Novo Testamento; não é citado nos livros do cânon protestante (aparece nos livros de Macabeus, aceitos por católicos e ortodoxos).",
+   "avaliacao": null,
+   "resumo": "Filho do sacerdote Matatias; liderou a revolta contra Antíoco IV e purificou o templo em 164 a.C., origem da festa de Hanucá.",
+   "particularidades": [
+    "João 10:22 cita a 'festa da dedicação' (Hanucá) em Jerusalém."
+   ],
+   "refs": [
+    "joao 10:22"
+   ],
+   "contemporaneos": [
+    "antioco-4"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "1 Macabeus (deuterocanônico)",
+     "referencia": "capítulos 2-16",
+     "data": "séc. II a.C."
+    },
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livros 12-14",
+     "data": "c. 93 d.C."
+    }
+   ]
+  },
+  {
+   "id": "jonatas-macabeu",
+   "nome": "Jônatas Macabeu",
+   "povo": "hasmoneus",
+   "titulo": "líder e sumo sacerdote",
+   "inicio": -160,
+   "fim": -143,
+   "aprox": true,
+   "nota": "Incluído como contexto histórico entre o Antigo e o Novo Testamento; não é citado nos livros do cânon protestante (aparece nos livros de Macabeus, aceitos por católicos e ortodoxos).",
+   "avaliacao": null,
+   "resumo": "Irmão de Judas; liderou os judeus após a morte dele e foi reconhecido como sumo sacerdote pelos selêucidas.",
+   "particularidades": [],
+   "refs": [],
+   "contemporaneos": [],
+   "fonte_extra": [
+    {
+     "fonte": "1 Macabeus (deuterocanônico)",
+     "referencia": "capítulos 2-16",
+     "data": "séc. II a.C."
+    },
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livros 12-14",
+     "data": "c. 93 d.C."
+    }
+   ]
+  },
+  {
+   "id": "simao-macabeu",
+   "nome": "Simão Macabeu",
+   "povo": "hasmoneus",
+   "titulo": "sumo sacerdote e etnarca",
+   "inicio": -142,
+   "fim": -135,
+   "aprox": true,
+   "nota": "Incluído como contexto histórico entre o Antigo e o Novo Testamento; não é citado nos livros do cânon protestante (aparece nos livros de Macabeus, aceitos por católicos e ortodoxos).",
+   "avaliacao": null,
+   "resumo": "Irmão de Judas e Jônatas; obteve a independência de fato da Judeia e foi aclamado líder e sumo sacerdote hereditário.",
+   "particularidades": [],
+   "refs": [],
+   "contemporaneos": [],
+   "fonte_extra": [
+    {
+     "fonte": "1 Macabeus (deuterocanônico)",
+     "referencia": "capítulos 2-16",
+     "data": "séc. II a.C."
+    },
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livros 12-14",
+     "data": "c. 93 d.C."
+    }
+   ]
+  },
+  {
+   "id": "joao-hircano-1",
+   "nome": "João Hircano I",
+   "povo": "hasmoneus",
+   "titulo": "sumo sacerdote e governante",
+   "inicio": -134,
+   "fim": -104,
+   "aprox": true,
+   "nota": "Incluído como contexto histórico entre o Antigo e o Novo Testamento; não é citado nos livros do cânon protestante (aparece nos livros de Macabeus, aceitos por católicos e ortodoxos).",
+   "avaliacao": null,
+   "resumo": "Filho de Simão; ampliou o território, conquistou Samaria e destruiu o templo samaritano do monte Gerizim, e forçou os idumeus a se converterem.",
+   "particularidades": [
+    "Contexto de João 4:20 ('nossos pais adoraram neste monte')."
+   ],
+   "refs": [],
+   "contemporaneos": [],
+   "fonte_extra": [
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livros 13-14",
+     "data": "c. 93 d.C."
+    },
+    {
+     "fonte": "Josefo, Guerra Judaica",
+     "referencia": "livro 1",
+     "data": "c. 75 d.C."
+    }
+   ]
+  },
+  {
+   "id": "aristobulo-1",
+   "nome": "Aristóbulo I",
+   "povo": "hasmoneus",
+   "titulo": "rei e sumo sacerdote",
+   "inicio": -104,
+   "fim": -103,
+   "aprox": true,
+   "nota": "Incluído como contexto histórico entre o Antigo e o Novo Testamento; não é citado nos livros do cânon protestante (aparece nos livros de Macabeus, aceitos por católicos e ortodoxos).",
+   "avaliacao": null,
+   "resumo": "Filho de Hircano; segundo Josefo, o primeiro hasmoneu a usar o título de rei.",
+   "particularidades": [],
+   "refs": [],
+   "contemporaneos": [],
+   "fonte_extra": [
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livros 13-14",
+     "data": "c. 93 d.C."
+    },
+    {
+     "fonte": "Josefo, Guerra Judaica",
+     "referencia": "livro 1",
+     "data": "c. 75 d.C."
+    }
+   ]
+  },
+  {
+   "id": "alexandre-janeu",
+   "nome": "Alexandre Janeu",
+   "povo": "hasmoneus",
+   "titulo": "rei e sumo sacerdote",
+   "inicio": -103,
+   "fim": -76,
+   "aprox": true,
+   "nota": "Incluído como contexto histórico entre o Antigo e o Novo Testamento; não é citado nos livros do cânon protestante (aparece nos livros de Macabeus, aceitos por católicos e ortodoxos).",
+   "avaliacao": null,
+   "resumo": "Rei guerreiro que expandiu o reino; entrou em conflito violento com os fariseus.",
+   "particularidades": [],
+   "refs": [],
+   "contemporaneos": [],
+   "fonte_extra": [
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livros 13-14",
+     "data": "c. 93 d.C."
+    },
+    {
+     "fonte": "Josefo, Guerra Judaica",
+     "referencia": "livro 1",
+     "data": "c. 75 d.C."
+    }
+   ]
+  },
+  {
+   "id": "salome-alexandra",
+   "nome": "Salomé Alexandra",
+   "povo": "hasmoneus",
+   "titulo": "rainha",
+   "inicio": -76,
+   "fim": -67,
+   "aprox": true,
+   "nota": "Incluído como contexto histórico entre o Antigo e o Novo Testamento; não é citado nos livros do cânon protestante (aparece nos livros de Macabeus, aceitos por católicos e ortodoxos).",
+   "avaliacao": null,
+   "resumo": "Viúva de Alexandre Janeu; governou em relativa paz e favoreceu os fariseus. Seu filho Hircano II foi sumo sacerdote.",
+   "particularidades": [],
+   "refs": [],
+   "contemporaneos": [],
+   "fonte_extra": [
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livros 13-14",
+     "data": "c. 93 d.C."
+    },
+    {
+     "fonte": "Josefo, Guerra Judaica",
+     "referencia": "livro 1",
+     "data": "c. 75 d.C."
+    }
+   ]
+  },
+  {
+   "id": "aristobulo-2",
+   "nome": "Aristóbulo II",
+   "povo": "hasmoneus",
+   "titulo": "rei e sumo sacerdote",
+   "inicio": -67,
+   "fim": -63,
+   "aprox": true,
+   "nota": "Incluído como contexto histórico entre o Antigo e o Novo Testamento; não é citado nos livros do cânon protestante (aparece nos livros de Macabeus, aceitos por católicos e ortodoxos).",
+   "avaliacao": null,
+   "resumo": "Filho de Salomé Alexandra; disputou o poder com o irmão Hircano II. O general romano Pompeu interveio e tomou Jerusalém em 63 a.C., colocando a Judeia sob Roma.",
+   "particularidades": [],
+   "refs": [],
+   "contemporaneos": [],
+   "fonte_extra": [
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livros 13-14",
+     "data": "c. 93 d.C."
+    },
+    {
+     "fonte": "Josefo, Guerra Judaica",
+     "referencia": "livro 1",
+     "data": "c. 75 d.C."
+    }
+   ]
+  },
+  {
+   "id": "hircano-2",
+   "nome": "Hircano II",
+   "povo": "hasmoneus",
+   "titulo": "sumo sacerdote e etnarca",
+   "inicio": -63,
+   "fim": -40,
+   "aprox": true,
+   "datas_alternativas": "Já fora sumo sacerdote antes (76-67 a.C.) e reinou brevemente em 67 a.C.",
+   "nota": "Incluído como contexto histórico entre o Antigo e o Novo Testamento; não é citado nos livros do cânon protestante (aparece nos livros de Macabeus, aceitos por católicos e ortodoxos).",
+   "avaliacao": null,
+   "resumo": "Mantido por Roma como sumo sacerdote e etnarca; seu ministro Antípatro, pai de Herodes, foi o verdadeiro poder por trás do trono.",
+   "particularidades": [],
+   "refs": [],
+   "contemporaneos": [],
+   "fonte_extra": [
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livros 13-14",
+     "data": "c. 93 d.C."
+    },
+    {
+     "fonte": "Josefo, Guerra Judaica",
+     "referencia": "livro 1",
+     "data": "c. 75 d.C."
+    }
+   ]
+  },
+  {
+   "id": "antigono-2",
+   "nome": "Antígono II Matatias",
+   "povo": "hasmoneus",
+   "titulo": "rei e sumo sacerdote",
+   "inicio": -40,
+   "fim": -37,
+   "aprox": true,
+   "nota": "Incluído como contexto histórico entre o Antigo e o Novo Testamento; não é citado nos livros do cânon protestante (aparece nos livros de Macabeus, aceitos por católicos e ortodoxos).",
+   "avaliacao": null,
+   "resumo": "Último rei hasmoneu, posto no trono com apoio dos partos; Herodes, com tropas romanas, tomou Jerusalém em 37 a.C. e ele foi executado.",
+   "particularidades": [],
+   "refs": [],
+   "contemporaneos": [
+    "herodes-grande"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livros 13-14",
+     "data": "c. 93 d.C."
+    },
+    {
+     "fonte": "Josefo, Guerra Judaica",
+     "referencia": "livro 1",
+     "data": "c. 75 d.C."
+    }
+   ]
+  },
+  {
+   "id": "herodes-grande",
+   "nome": "Herodes, o Grande",
+   "povo": "herodianos",
+   "titulo": "rei da Judeia",
+   "inicio": -37,
+   "fim": -4,
+   "aprox": true,
+   "datas_alternativas": "Morte geralmente datada em 4 a.C. (a partir de Josefo e de um eclipse); alguns propõem 1 a.C. Por isso Jesus nasceu provavelmente entre 7 e 4 a.C.",
+   "avaliacao": null,
+   "resumo": "Rei da Judeia vassalo de Roma, idumeu de origem. Recebeu os magos e, ao saber do nascimento do 'rei dos judeus', mandou matar os meninos de Belém.",
+   "particularidades": [
+    "Reconstruiu e ampliou o templo de Jerusalém (João 2:20 cita 46 anos de obras).",
+    "Construiu Cesareia Marítima e fortalezas como Massada e o Heródio."
+   ],
+   "refs": [
+    "mateus 2:1-22",
+    "lucas 1:5"
+   ],
+   "contemporaneos": [
+    "augusto",
+    "antigono-2"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livros 14-17",
+     "data": "c. 93 d.C."
+    },
+    {
+     "fonte": "Josefo, Guerra Judaica",
+     "referencia": "livro 1",
+     "data": "c. 75 d.C."
+    }
+   ]
+  },
+  {
+   "id": "arquelau",
+   "nome": "Arquelau",
+   "povo": "herodianos",
+   "titulo": "etnarca da Judeia",
+   "inicio": -4,
+   "fim": 6,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Filho de Herodes que governou a Judeia, Samaria e Idumeia. Por medo dele, José levou Maria e Jesus para Nazaré, na Galileia.",
+   "particularidades": [
+    "Mateus diz que 'reinava', mas Roma lhe deu o título de etnarca.",
+    "Foi deposto por Augusto e a Judeia passou a ser governada por prefeitos romanos."
+   ],
+   "refs": [
+    "mateus 2:22-23"
+   ],
+   "contemporaneos": [
+    "augusto"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livro 17 (governo e deposição de Arquelau)",
+     "data": "c. 93 d.C."
+    }
+   ]
+  },
+  {
+   "id": "filipe-tetrarca",
+   "nome": "Filipe, o tetrarca",
+   "povo": "herodianos",
+   "titulo": "tetrarca da Itureia e Traconites",
+   "inicio": -4,
+   "fim": 34,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Filho de Herodes que governou as regiões a nordeste do mar da Galileia; reconstruiu Cesareia de Filipe, onde Pedro confessou Jesus como o Cristo.",
+   "particularidades": [
+    "Não confundir com o 'Filipe' primeiro marido de Herodias (Mateus 14:3), que Josefo chama apenas de Herodes; a relação entre os dois é discutida."
+   ],
+   "refs": [
+    "lucas 3:1",
+    "mateus 16:13"
+   ],
+   "contemporaneos": [
+    "tiberio"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livro 18 (tetrarquia e morte de Filipe)",
+     "data": "c. 93 d.C."
+    }
+   ]
+  },
+  {
+   "id": "antipas",
+   "nome": "Herodes Antipas",
+   "povo": "herodianos",
+   "titulo": "tetrarca da Galileia e Pereia",
+   "inicio": -4,
+   "fim": 39,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Filho de Herodes, chamado na Bíblia 'Herodes, o tetrarca'. Prendeu e mandou decapitar João Batista, que o repreendera por se casar com Herodias; Jesus o chamou de 'aquela raposa' e foi interrogado por ele antes da crucificação.",
+   "particularidades": [
+    "Marcos o chama de 'rei', título popular; oficialmente era tetrarca.",
+    "Ficou amigo de Pilatos no dia do julgamento de Jesus."
+   ],
+   "refs": [
+    "mateus 14:1-12",
+    "marcos 6:14-29",
+    "lucas 3:1",
+    "lucas 3:19-20",
+    "lucas 13:31-32",
+    "lucas 23:6-12",
+    "atos 4:27"
+   ],
+   "contemporaneos": [
+    "tiberio",
+    "pilatos"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livro 18 (Antipas, Herodias e a morte de João Batista)",
+     "data": "c. 93 d.C."
+    }
+   ]
+  },
+  {
+   "id": "agripa-1",
+   "nome": "Herodes Agripa I",
+   "povo": "herodianos",
+   "titulo": "rei",
+   "inicio": 37,
+   "fim": 44,
+   "aprox": true,
+   "datas_alternativas": "Recebeu a tetrarquia de Filipe em 37, a Galileia em 39/40 e a Judeia em 41 d.C.",
+   "avaliacao": null,
+   "resumo": "Neto de Herodes, o Grande; Atos o chama de 'rei Herodes'. Mandou matar Tiago, irmão de João, e prendeu Pedro; morreu pouco depois em Cesareia, ferido por um anjo por aceitar ser aclamado como deus.",
+   "particularidades": [
+    "Reinou sobre toda a antiga terra de Herodes de 41 a 44 d.C."
+   ],
+   "refs": [
+    "atos 12:1-23"
+   ],
+   "contemporaneos": [
+    "claudio"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livro 19 (morte de Agripa em Cesareia)",
+     "data": "c. 93 d.C."
+    }
+   ]
+  },
+  {
+   "id": "berenice",
+   "nome": "Berenice",
+   "povo": "herodianos",
+   "titulo": "princesa (irmã de Agripa II)",
+   "inicio": 50,
+   "fim": 75,
+   "aprox": true,
+   "datas_alternativas": "Datas só indicativas do período em que aparece com Agripa II.",
+   "avaliacao": null,
+   "resumo": "Filha de Agripa I e irmã de Agripa II, que o acompanhou com grande pompa na audiência de Paulo diante de Festo.",
+   "particularidades": [
+    "Fontes romanas contam que mais tarde foi companheira do futuro imperador Tito."
+   ],
+   "refs": [
+    "atos 25:13",
+    "atos 25:23",
+    "atos 26:30"
+   ],
+   "contemporaneos": [
+    "festo"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livro 20",
+     "data": "c. 93 d.C."
+    },
+    {
+     "fonte": "Suetônio, Vida de Tito",
+     "referencia": "cap. 7",
+     "data": "séc. II d.C."
+    }
+   ]
+  },
+  {
+   "id": "agripa-2",
+   "nome": "Herodes Agripa II",
+   "povo": "herodianos",
+   "titulo": "rei",
+   "inicio": 50,
+   "fim": 93,
+   "aprox": true,
+   "datas_alternativas": "Fim do reinado incerto: entre 92 e 100 d.C.",
+   "avaliacao": null,
+   "resumo": "Filho de Agripa I. Com sua irmã Berenice, ouviu Paulo em Cesareia a convite de Festo e disse: 'Por pouco me convences a me tornar cristão'.",
+   "particularidades": [
+    "Concluiu que Paulo poderia ser solto se não tivesse apelado a César."
+   ],
+   "refs": [
+    "atos 25:13-27",
+    "atos 26:1-32"
+   ],
+   "contemporaneos": [
+    "festo",
+    "nero"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Josefo, Antiguidades Judaicas e Guerra Judaica",
+     "referencia": "Antiguidades livro 20; Guerra livro 2",
+     "data": "séc. I d.C."
+    }
+   ]
+  },
+  {
+   "id": "drusila",
+   "nome": "Drusila",
+   "povo": "herodianos",
+   "titulo": "princesa (esposa de Félix)",
+   "inicio": 53,
+   "fim": 60,
+   "aprox": true,
+   "datas_alternativas": "Datas só indicativas do tempo do casamento com Félix.",
+   "avaliacao": null,
+   "resumo": "Filha de Agripa I, 'que era judia', casada com o governador Félix. Estava com ele quando Paulo falou sobre justiça, domínio próprio e juízo.",
+   "particularidades": [],
+   "refs": [
+    "atos 24:24"
+   ],
+   "contemporaneos": [
+    "felix"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livro 20 (casamento com Félix)",
+     "data": "c. 93 d.C."
+    }
+   ]
+  },
+  {
+   "id": "aretas-4",
+   "nome": "Aretas IV",
+   "povo": "nabateus",
+   "titulo": "rei",
+   "inicio": -9,
+   "fim": 40,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Rei dos nabateus, com capital em Petra. Paulo conta que o governador (etnarca) de Aretas em Damasco guardou a cidade para prendê-lo, e ele fugiu num cesto pelo muro.",
+   "particularidades": [
+    "Era sogro de Herodes Antipas, que repudiou sua filha para se casar com Herodias."
+   ],
+   "refs": [
+    "2-corintios 11:32-33"
+   ],
+   "contemporaneos": [
+    "antipas"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livro 18 (guerra entre Aretas e Antipas)",
+     "data": "c. 93 d.C."
+    },
+    {
+     "fonte": "Moedas e inscrições nabateias",
+     "referencia": "datadas pelos anos de Aretas IV",
+     "data": "9 a.C.-40 d.C."
+    }
+   ]
+  },
+  {
+   "id": "augusto",
+   "nome": "César Augusto",
+   "povo": "roma",
+   "titulo": "imperador",
+   "inicio": -27,
+   "fim": 14,
+   "aprox": true,
+   "datas_alternativas": "Senhor de Roma desde 31 a.C.; recebeu o título de Augusto em 27 a.C.",
+   "avaliacao": null,
+   "resumo": "Primeiro imperador romano (Otaviano). Lucas diz que um decreto dele mandou registrar todo o império, o que levou José e Maria a Belém.",
+   "particularidades": [
+    "'Augusto' é título ('venerável'); Atos 25:21 usa a mesma palavra para Nero."
+   ],
+   "refs": [
+    "lucas 2:1-7"
+   ],
+   "contemporaneos": [
+    "herodes-grande",
+    "arquelau",
+    "quirino"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Res Gestae Divi Augusti",
+     "referencia": "relato de seus feitos, incluindo censos de cidadãos",
+     "data": "14 d.C."
+    }
+   ]
+  },
+  {
+   "id": "tiberio",
+   "nome": "Tibério César",
+   "povo": "roma",
+   "titulo": "imperador",
+   "inicio": 14,
+   "fim": 37,
+   "aprox": true,
+   "datas_alternativas": "O 15º ano de Tibério é 28/29 d.C. pela contagem mais comum; se contado desde uma corregência com Augusto, 26/27 d.C.",
+   "avaliacao": null,
+   "resumo": "Sucessor de Augusto. No 15º ano do seu governo começou o ministério de João Batista; era o 'César' das moedas do tributo e do julgamento de Jesus.",
+   "particularidades": [
+    "'Dai a César o que é de César' se refere ao tributo pago a ele."
+   ],
+   "refs": [
+    "lucas 3:1",
+    "mateus 22:17-21",
+    "joao 19:12-15"
+   ],
+   "contemporaneos": [
+    "pilatos",
+    "antipas",
+    "filipe-tetrarca"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Tácito, Anais",
+     "referencia": "livros 1-6",
+     "data": "c. 115 d.C."
+    }
+   ]
+  },
+  {
+   "id": "claudio",
+   "nome": "Cláudio",
+   "povo": "roma",
+   "titulo": "imperador",
+   "inicio": 41,
+   "fim": 54,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Imperador no tempo da grande fome predita por Ágabo e que expulsou os judeus de Roma, motivo por que Áquila e Priscila estavam em Corinto.",
+   "particularidades": [],
+   "refs": [
+    "atos 11:28",
+    "atos 18:2"
+   ],
+   "contemporaneos": [
+    "agripa-1",
+    "galio",
+    "felix"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Suetônio, Vida de Cláudio",
+     "referencia": "cap. 25 (expulsão dos judeus de Roma)",
+     "data": "séc. II d.C."
+    }
+   ]
+  },
+  {
+   "id": "nero",
+   "nome": "Nero",
+   "povo": "roma",
+   "titulo": "imperador",
+   "inicio": 54,
+   "fim": 68,
+   "aprox": true,
+   "nota": "Identificação pelo contexto e pelas datas (Festo governou c. 59-62 d.C.).",
+   "avaliacao": null,
+   "resumo": "Imperador a quem Paulo apelou como 'César' diante de Festo; a Bíblia não o nomeia. Paulo cita cristãos 'da casa de César'. A tradição cristã situa no seu tempo a morte de Pedro e Paulo em Roma.",
+   "particularidades": [
+    "Perseguiu os cristãos de Roma após o incêndio de 64 d.C. (fonte romana)."
+   ],
+   "refs": [
+    "atos 25:10-12",
+    "atos 25:21",
+    "atos 26:32",
+    "filipenses 4:22"
+   ],
+   "contemporaneos": [
+    "festo",
+    "agripa-2"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Tácito, Anais",
+     "referencia": "livro 15 (incêndio de Roma e perseguição aos cristãos)",
+     "data": "c. 115 d.C."
+    }
+   ]
+  },
+  {
+   "id": "quirino",
+   "nome": "Quirino",
+   "povo": "governadores",
+   "titulo": "governador da Síria",
+   "inicio": 6,
+   "fim": 7,
+   "aprox": true,
+   "datas_alternativas": "Governador da Síria em 6-7 d.C. segundo Josefo; alguns propõem uma missão anterior c. 6-4 a.C.",
+   "avaliacao": null,
+   "resumo": "Governador romano da Síria citado por Lucas para datar o recenseamento em que Jesus nasceu.",
+   "particularidades": [
+    "Josefo descreve um censo de Quirino na Judeia em 6 d.C., depois do nascimento de Jesus segundo Mateus; as soluções propostas incluem um cargo anterior de Quirino na região ou a leitura 'censo anterior ao de Quirino'."
+   ],
+   "refs": [
+    "lucas 2:1-2"
+   ],
+   "contemporaneos": [
+    "augusto"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livros 17-18 (censo de Quirino)",
+     "data": "c. 93 d.C."
+    }
+   ]
+  },
+  {
+   "id": "pilatos",
+   "nome": "Pôncio Pilatos",
+   "povo": "governadores",
+   "titulo": "governador (prefeito) da Judeia",
+   "inicio": 26,
+   "fim": 36,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Governador romano que julgou Jesus. Achou-o sem culpa, mas, pressionado pela multidão, lavou as mãos e o entregou para ser crucificado; mandou escrever na cruz 'Rei dos judeus'.",
+   "particularidades": [
+    "Lucas cita galileus 'cujo sangue Pilatos misturou com seus sacrifícios'.",
+    "É lembrado no Credo: 'padeceu sob Pôncio Pilatos'."
+   ],
+   "refs": [
+    "mateus 27:1-26",
+    "lucas 3:1",
+    "lucas 13:1",
+    "lucas 23:1-25",
+    "joao 18:28-19:22",
+    "atos 4:27"
+   ],
+   "contemporaneos": [
+    "tiberio",
+    "antipas"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Inscrição de Pilatos (Cesareia Marítima)",
+     "referencia": "pedra com 'Pôncio Pilatos, prefeito da Judeia'",
+     "data": "c. 26-36 d.C."
+    },
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livro 18",
+     "data": "c. 93 d.C."
+    }
+   ]
+  },
+  {
+   "id": "sergio-paulo",
+   "nome": "Sérgio Paulo",
+   "povo": "governadores",
+   "titulo": "procônsul de Chipre",
+   "inicio": 46,
+   "fim": 48,
+   "aprox": true,
+   "datas_alternativas": "Datas do mandato desconhecidas fora de Atos; a primeira viagem de Paulo é datada c. 46-48 d.C.",
+   "avaliacao": null,
+   "resumo": "Procônsul de Chipre, 'homem prudente', que quis ouvir a palavra de Deus; vendo o mago Elimas ficar cego, creu.",
+   "particularidades": [],
+   "refs": [
+    "atos 13:6-12"
+   ],
+   "contemporaneos": []
+  },
+  {
+   "id": "galio",
+   "nome": "Gálio",
+   "povo": "governadores",
+   "titulo": "procônsul da Acaia",
+   "inicio": 51,
+   "fim": 52,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "Procônsul da Acaia, em Corinto, que se recusou a julgar a acusação dos judeus contra Paulo por considerá-la questão de palavras e da lei judaica.",
+   "particularidades": [
+    "Irmão do filósofo Sêneca.",
+    "Sua data é um dos pontos fixos da cronologia de Paulo."
+   ],
+   "refs": [
+    "atos 18:12-17"
+   ],
+   "contemporaneos": [
+    "claudio"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Inscrição de Delfos (carta de Cláudio)",
+     "referencia": "cita 'Júnio Gálio, procônsul'",
+     "data": "c. 52 d.C."
+    }
+   ]
+  },
+  {
+   "id": "felix",
+   "nome": "Félix",
+   "povo": "governadores",
+   "titulo": "governador da Judeia",
+   "inicio": 52,
+   "fim": 59,
+   "aprox": true,
+   "datas_alternativas": "Fim do mandato entre 58 e 60 d.C.",
+   "avaliacao": null,
+   "resumo": "Governador que manteve Paulo preso em Cesareia por dois anos; ouviu-o falar com sua mulher Drusila, ficou com medo e esperava receber dinheiro para soltá-lo.",
+   "particularidades": [
+    "Seu sucessor foi Pórcio Festo."
+   ],
+   "refs": [
+    "atos 23:24-35",
+    "atos 24:1-27"
+   ],
+   "contemporaneos": [
+    "drusila",
+    "claudio"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Tácito, Histórias e Anais; Josefo, Antiguidades Judaicas",
+     "referencia": "Histórias livro 5; Antiguidades livro 20",
+     "data": "séc. I-II d.C."
+    }
+   ]
+  },
+  {
+   "id": "festo",
+   "nome": "Pórcio Festo",
+   "povo": "governadores",
+   "titulo": "governador da Judeia",
+   "inicio": 59,
+   "fim": 62,
+   "aprox": true,
+   "datas_alternativas": "Início entre 58 e 60 d.C.; morreu no cargo c. 62 d.C.",
+   "avaliacao": null,
+   "resumo": "Sucessor de Félix. Diante dele Paulo apelou a César; Festo apresentou o caso ao rei Agripa II e enviou Paulo a Roma.",
+   "particularidades": [
+    "Disse a Paulo: 'Tu estás louco, Paulo; as muitas escrituras te fizeram enlouquecer!' (Atos 26:24)."
+   ],
+   "refs": [
+    "atos 24:27",
+    "atos 25:1-27",
+    "atos 26:24-32"
+   ],
+   "contemporaneos": [
+    "agripa-2",
+    "berenice",
+    "nero"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livro 20",
+     "data": "c. 93 d.C."
+    }
+   ]
+  },
+  {
+   "id": "sambalate",
+   "nome": "Sambalate",
+   "povo": "outros",
+   "titulo": "líder (governador de Samaria, segundo fonte externa)",
+   "inicio": -445,
+   "fim": -407,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "O horonita que, com Tobias e Gesém, zombou e tramou contra a reconstrução dos muros por Neemias. Um neto do sumo sacerdote casou-se com sua filha.",
+   "particularidades": [
+    "A Bíblia não lhe dá título; uma carta de Elefantina o chama de governador de Samaria."
+   ],
+   "refs": [
+    "neemias 2:10",
+    "neemias 2:19",
+    "neemias 4:1-8",
+    "neemias 6:1-14",
+    "neemias 13:28"
+   ],
+   "contemporaneos": [
+    "neemias"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Papiros de Elefantina (carta a Bagoas, governador de Judá)",
+     "referencia": "menciona os filhos de Sambalate, governador de Samaria",
+     "data": "407 a.C."
+    }
+   ]
+  },
+  {
+   "id": "lisanias",
+   "nome": "Lisânias",
+   "povo": "outros",
+   "titulo": "tetrarca de Abilene",
+   "inicio": 26,
+   "fim": 29,
+   "aprox": true,
+   "datas_alternativas": "As datas de início e fim do seu governo são desconhecidas; a barra marca apenas o ano 15 de Tibério (c. 28-29 d.C.).",
+   "incerto": true,
+   "avaliacao": null,
+   "resumo": "Tetrarca de Abilene (ao norte de Damasco) citado por Lucas para situar o início do ministério de João Batista.",
+   "particularidades": [
+    "Por muito tempo se pensou que Lucas o confundia com um Lisânias anterior (séc. I a.C.), mas uma inscrição de Abila mostra um tetrarca Lisânias no tempo de Tibério."
+   ],
+   "refs": [
+    "lucas 3:1-2"
+   ],
+   "contemporaneos": [
+    "tiberio",
+    "pilatos",
+    "antipas",
+    "filipe-tetrarca"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Inscrição de Abila (Síria)",
+     "referencia": "dedicatória que menciona 'Lisânias, o tetrarca' no tempo de Tibério",
+     "data": "séc. I d.C."
+    }
+   ]
+  },
+  {
+   "id": "publio",
+   "nome": "Públio",
+   "povo": "outros",
+   "titulo": "principal da ilha de Malta",
+   "inicio": 59,
+   "fim": 60,
+   "aprox": true,
+   "avaliacao": null,
+   "resumo": "'O homem mais importante' da ilha de Malta, que hospedou Paulo e seus companheiros depois do naufrágio; Paulo curou seu pai.",
+   "particularidades": [
+    "O título grego 'primeiro da ilha' é atestado em inscrições de Malta."
+   ],
+   "refs": [
+    "atos 28:7-10"
+   ],
+   "contemporaneos": [],
+   "fonte_extra": [
+    {
+     "fonte": "Inscrições de Malta",
+     "referencia": "uso do título 'primeiro dos malteses' para autoridade local",
+     "data": "séc. I d.C. (aprox.)"
+    }
+   ]
+  }
+ ]
+}

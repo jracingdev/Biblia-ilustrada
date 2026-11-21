@@ -1,0 +1,2805 @@
+{
+ "titulo": "Objetos da Bíblia",
+ "nota": "Textos originais para o site. Fotos: 'foto.busca' é a consulta sugerida para o Wikimedia Commons; 'foto.anos' dá o período aproximado da peça (negativo = a.C.). 'reconstrucao: true' indica que não há peça real conhecida e a imagem deve ser representação antiga, réplica ou foto etnográfica, sempre identificada como tal. Datas arqueológicas são aproximadas e seguem a datação mais comum em publicações; onde há debate, o campo 'nota' do item diz. Referências conferidas na Bíblia Livre.",
+ "categorias": [
+  {
+   "id": "tabernaculo",
+   "nome": "Tabernáculo, templo e culto"
+  },
+  {
+   "id": "casa",
+   "nome": "Casa e cozinha"
+  },
+  {
+   "id": "campo",
+   "nome": "Campo e ofícios"
+  },
+  {
+   "id": "pesca",
+   "nome": "Pesca e navegação"
+  },
+  {
+   "id": "escrita",
+   "nome": "Escrita e selos"
+  },
+  {
+   "id": "musica",
+   "nome": "Música"
+  },
+  {
+   "id": "guerra",
+   "nome": "Armas e guerra"
+  },
+  {
+   "id": "moedas",
+   "nome": "Moedas, pesos e balanças"
+  },
+  {
+   "id": "vestuario",
+   "nome": "Vestuário e adornos"
+  },
+  {
+   "id": "sepultamento",
+   "nome": "Sepultamento e crucificação"
+  },
+  {
+   "id": "outros",
+   "nome": "Outros"
+  }
+ ],
+ "objetos": [
+  {
+   "id": "arca",
+   "nome": "Arca da Aliança",
+   "categoria": "tabernaculo",
+   "original": "אֲרוֹן הַבְּרִית aron haberit / κιβωτός kibōtos",
+   "descricao": "Caixa de madeira de acácia revestida de ouro, de cerca de 1,1 m de comprimento (dois côvados e meio), carregada com varas nas laterais. Guardava as tábuas do testemunho e ficava no lugar santíssimo do tabernáculo e, depois, do templo.",
+   "no_texto": "Era o sinal da presença de Deus no meio do povo, 'de onde' ele falaria a Moisés. Hebreus lembra o que havia dentro dela: o vaso do maná, a vara de Arão e as tábuas.",
+   "refs": [
+    "exodo 25:10-11",
+    "exodo 25:21-22",
+    "hebreus 9:4"
+   ],
+   "foto": {
+    "busca": "Dura-Europos synagogue Ark of the Covenant fresco",
+    "o_que_mostrar": "pintura antiga da arca (sinagoga de Dura-Europos) ou réplica moderna identificada como tal",
+    "epoca": "pintura do séc. III d.C.",
+    "anos": [
+     244,
+     245
+    ]
+   },
+   "reconstrucao": true,
+   "nota": "A arca desapareceu (provavelmente na destruição de Jerusalém em 586 a.C.); nenhuma peça real é conhecida. Só cabem representações e réplicas.",
+   "fonte_extra": [
+    {
+     "fonte": "Sinagoga de Dura-Europos, Síria (pinturas murais; hoje no Museu Nacional de Damasco)",
+     "referencia": "painéis com Arão, o tabernáculo e a arca",
+     "data": "c. 244-245 d.C."
+    }
+   ]
+  },
+  {
+   "id": "propiciatorio",
+   "nome": "Propiciatório e querubins",
+   "categoria": "tabernaculo",
+   "original": "כַּפֹּרֶת kapporet / ἱλαστήριον hilastērion; כְּרוּבִים keruvim",
+   "descricao": "Tampa de ouro maciço da arca, do mesmo tamanho dela, com dois querubins de ouro batido nas pontas, de asas estendidas e rostos voltados um para o outro.",
+   "no_texto": "Era o ponto onde Deus prometeu 'falar' e onde, no Dia da Expiação, se aspergia o sangue. Hebreus chama os querubins de 'querubins de glória' que faziam sombra ao propiciatório.",
+   "refs": [
+    "exodo 25:17-22",
+    "levitico 16:2",
+    "hebreus 9:5"
+   ],
+   "foto": {
+    "busca": "Megiddo ivory winged sphinx",
+    "o_que_mostrar": "marfim antigo com esfinge alada (criatura composta parecida com o que se imagina dos querubins), Megido, Idade do Bronze Recente",
+    "epoca": "séc. XIII-XII a.C.",
+    "anos": [
+     -1300,
+     -1150
+    ]
+   },
+   "reconstrucao": true,
+   "nota": "Não há peça real; a foto serve para mostrar como povos vizinhos representavam seres alados guardiões. A forma exata dos querubins bíblicos é desconhecida.",
+   "fonte_extra": [
+    {
+     "fonte": "Marfins de Megido (tesouro do palácio)",
+     "referencia": "esfinges aladas em placas de marfim, escavações do Instituto Oriental de Chicago",
+     "data": "achado de 1937; peças de c. séc. XIII-XII a.C."
+    }
+   ]
+  },
+  {
+   "id": "menora",
+   "nome": "Candelabro de ouro (menorá)",
+   "categoria": "tabernaculo",
+   "original": "מְנוֹרָה menorah / λυχνία lychnia",
+   "descricao": "Candelabro de ouro puro batido a martelo, com uma haste central e seis braços, decorados com copos em forma de flor de amendoeira. Sobre ele ficavam sete lâmpadas de azeite que iluminavam o lugar santo.",
+   "no_texto": "Mantinha a luz acesa diante de Deus. Zacarias vê um candelabro de ouro em visão, e no Apocalipse os sete candelabros representam as igrejas.",
+   "refs": [
+    "exodo 25:31",
+    "exodo 25:37",
+    "zacarias 4:2",
+    "apocalipse 1:12"
+   ],
+   "foto": {
+    "busca": "Arch of Titus menorah relief",
+    "o_que_mostrar": "relevo do Arco de Tito com soldados romanos carregando o candelabro do templo de Herodes",
+    "epoca": "relevo de c. 81-82 d.C.",
+    "anos": [
+     81,
+     82
+    ]
+   },
+   "reconstrucao": true,
+   "nota": "O candelabro original foi levado a Roma em 70 d.C. e se perdeu. O relevo romano e a pedra de Magdala são as representações mais antigas próximas do templo de Herodes.",
+   "fonte_extra": [
+    {
+     "fonte": "Arco de Tito, Roma (relevo)",
+     "referencia": "painel interno com o cortejo do espólio do templo de Jerusalém",
+     "data": "c. 81-82 d.C."
+    },
+    {
+     "fonte": "Pedra de Magdala",
+     "referencia": "bloco esculpido com menorá, encontrado na sinagoga de Magdala (Galileia)",
+     "data": "achado de 2009; peça do séc. I d.C."
+    }
+   ]
+  },
+  {
+   "id": "mesa-paes",
+   "nome": "Mesa dos pães da proposição",
+   "categoria": "tabernaculo",
+   "original": "שֻׁלְחָן shulchan; לֶחֶם הַפָּנִים lechem hapanim",
+   "descricao": "Mesa de madeira de acácia revestida de ouro, com cerca de 90 cm de comprimento, no lugar santo. Sobre ela ficavam doze pães em duas fileiras, trocados a cada sábado.",
+   "no_texto": "Os doze pães ficavam 'diante do SENHOR', lembrando as doze tribos. Davi, em fuga, recebeu esses pães sagrados, episódio que Jesus cita.",
+   "refs": [
+    "exodo 25:23",
+    "levitico 24:5-6",
+    "1-samuel 21:6"
+   ],
+   "foto": {
+    "busca": "Arch of Titus table showbread relief",
+    "o_que_mostrar": "detalhe do Arco de Tito com a mesa e as trombetas levadas de Jerusalém",
+    "epoca": "relevo de c. 81-82 d.C.",
+    "anos": [
+     81,
+     82
+    ]
+   },
+   "reconstrucao": true,
+   "fonte_extra": [
+    {
+     "fonte": "Arco de Tito, Roma (relevo)",
+     "referencia": "painel interno com o cortejo do espólio do templo de Jerusalém",
+     "data": "c. 81-82 d.C."
+    }
+   ]
+  },
+  {
+   "id": "altar-incenso",
+   "nome": "Altar do incenso",
+   "categoria": "tabernaculo",
+   "original": "מִזְבַּח הַקְּטֹרֶת mizbach haqetoret",
+   "descricao": "Pequeno altar quadrado de madeira revestida de ouro, com 'pontas' nos cantos, colocado diante do véu. Nele se queimava incenso aromático de manhã e à tarde.",
+   "no_texto": "Era o lugar da oração diária do sacerdote; Zacarias, pai de João Batista, viu o anjo à direita desse altar. No Apocalipse o incenso sobe com as orações dos santos.",
+   "refs": [
+    "exodo 30:1",
+    "lucas 1:9-11",
+    "apocalipse 8:3"
+   ],
+   "foto": {
+    "busca": "Tel Arad incense altars Israel Museum",
+    "o_que_mostrar": "dois altares de incenso de calcário do santuário da fortaleza de Arade",
+    "epoca": "Idade do Ferro (c. séc. VIII a.C.)",
+    "anos": [
+     -800,
+     -700
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "Os altares de Arade são de pedra e de um santuário fora de Jerusalém; servem como paralelo de forma e tamanho, não são peças do templo.",
+   "fonte_extra": [
+    {
+     "fonte": "Santuário de Tel Arade (escavações de Y. Aharoni)",
+     "referencia": "dois altares de incenso diante do nicho do santuário; hoje no Museu de Israel",
+     "data": "escavado nos anos 1960; datação discutida, c. séc. VIII a.C."
+    }
+   ]
+  },
+  {
+   "id": "altar-bronze",
+   "nome": "Altar dos holocaustos (altar de bronze)",
+   "categoria": "tabernaculo",
+   "original": "מִזְבַּח הַנְּחֹשֶׁת mizbach hanechoshet",
+   "descricao": "Grande altar quadrado (cerca de 2,2 m de lado) de madeira de acácia revestida de bronze, com pontas nos quatro cantos, no pátio do tabernáculo. Era onde se queimavam os sacrifícios.",
+   "no_texto": "Todo o culto passava por ele: sacrifícios de holocausto, de paz e de expiação. Agarrar as 'pontas do altar' era pedir proteção, como fez Adonias.",
+   "refs": [
+    "exodo 27:1-2",
+    "1-reis 1:50"
+   ],
+   "foto": {
+    "busca": "Beersheba horned altar",
+    "o_que_mostrar": "altar de pedra com quatro pontas (chifres), reconstruído a partir de blocos achados em Berseba",
+    "epoca": "Idade do Ferro (c. séc. VIII a.C.)",
+    "anos": [
+     -800,
+     -700
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "O altar de Berseba é de pedra, não de bronze, mas mostra as 'pontas' dos cantos descritas em Êxodo.",
+   "fonte_extra": [
+    {
+     "fonte": "Altar de chifres de Berseba (escavações de Y. Aharoni)",
+     "referencia": "blocos lavrados reaproveitados num muro e remontados; hoje no Museu de Israel",
+     "data": "achado de 1973; c. séc. VIII a.C."
+    }
+   ]
+  },
+  {
+   "id": "pia",
+   "nome": "Pia de bronze",
+   "categoria": "tabernaculo",
+   "original": "כִּיּוֹר kiyyor",
+   "descricao": "Bacia de bronze sobre uma base, entre a tenda e o altar. Os sacerdotes lavavam nela mãos e pés antes de servir; segundo Êxodo foi feita com os espelhos de bronze das mulheres que serviam à porta.",
+   "no_texto": "Mostra que só quem estava purificado podia se aproximar. No templo de Salomão houve dez pias sobre bases com rodas, além do grande 'mar'.",
+   "refs": [
+    "exodo 30:18",
+    "exodo 38:8",
+    "1-reis 7:38"
+   ],
+   "foto": {
+    "busca": "Cypriot bronze wheeled stand Late Bronze Age",
+    "o_que_mostrar": "suporte de bronze com rodas de Chipre, do tipo comparado às bases das pias de Salomão",
+    "epoca": "fim da Idade do Bronze (c. séc. XII a.C.)",
+    "anos": [
+     -1200,
+     -1100
+    ]
+   },
+   "reconstrucao": true,
+   "nota": "Não há pia do tabernáculo ou do templo; os suportes cipriotas são só paralelos de técnica.",
+   "fonte_extra": [
+    {
+     "fonte": "Suportes de bronze com rodas de Chipre",
+     "referencia": "carrinhos rituais de bronze em museus (p. ex., Museu Britânico)",
+     "data": "c. séc. XII a.C."
+    }
+   ]
+  },
+  {
+   "id": "mar-bronze",
+   "nome": "Mar de bronze",
+   "categoria": "tabernaculo",
+   "original": "יָם מוּצָק yam mutsaq",
+   "descricao": "Enorme tanque redondo de bronze fundido do templo de Salomão, com cerca de 4,5 m de diâmetro (dez côvados), apoiado sobre doze bois de bronze. Guardava água para as lavagens dos sacerdotes.",
+   "no_texto": "Mostra a grandeza do templo; foi quebrado e levado como bronze para a Babilônia em 586 a.C.",
+   "refs": [
+    "1-reis 7:23",
+    "2-reis 25:13"
+   ],
+   "foto": {
+    "busca": "Molten Sea Solomon's Temple reconstruction",
+    "o_que_mostrar": "ilustração ou maquete moderna identificada como reconstrução",
+    "epoca": "reconstrução moderna"
+   },
+   "reconstrucao": true,
+   "nota": "Nenhum vestígio é conhecido. As medidas do texto (10 côvados de diâmetro e 30 de circunferência) são arredondadas, como era comum."
+  },
+  {
+   "id": "colunas",
+   "nome": "Colunas Jaquim e Boaz",
+   "categoria": "tabernaculo",
+   "original": "יָכִין Yakhin, בֹּעַז Boaz",
+   "descricao": "Duas grandes colunas de bronze fundido na entrada do templo de Salomão, com capitéis decorados com romãs e lírios. Receberam nomes próprios.",
+   "no_texto": "Os nomes são geralmente entendidos como 'ele estabelece' (Jaquim) e 'nele há força' (Boaz), mas o sentido exato é discutido.",
+   "refs": [
+    "1-reis 7:21",
+    "2-cronicas 3:17",
+    "2-reis 25:13"
+   ],
+   "foto": {
+    "busca": "Ain Dara temple Syria",
+    "o_que_mostrar": "templo de Ain Dara (Síria), da Idade do Ferro, muito comparado à planta do templo de Salomão",
+    "epoca": "Idade do Ferro (séc. X-VIII a.C., aproximado)",
+    "anos": [
+     -1000,
+     -740
+    ]
+   },
+   "reconstrucao": true,
+   "nota": "Não há vestígio das colunas. Ain Dara é só um paralelo de arquitetura; ali não há colunas de bronze.",
+   "fonte_extra": [
+    {
+     "fonte": "Templo de Ain Dara, norte da Síria",
+     "referencia": "planta com pórtico, salão e santuário interno, comparada com 1 Reis 6-7",
+     "data": "fase principal c. séc. X-VIII a.C. (aproximado); danificado em 2018"
+    }
+   ]
+  },
+  {
+   "id": "veu",
+   "nome": "Véu do santuário",
+   "categoria": "tabernaculo",
+   "original": "פָּרֹכֶת parokhet / καταπέτασμα katapetasma",
+   "descricao": "Cortina de tecido azul, púrpura e carmesim, bordada com querubins, que separava o lugar santo do lugar santíssimo. Só o sumo sacerdote passava por ela, uma vez por ano.",
+   "no_texto": "Os evangelhos dizem que o véu do templo se rasgou de cima a baixo na morte de Jesus; Hebreus fala do caminho aberto 'além do véu'.",
+   "refs": [
+    "levitico 16:2",
+    "mateus 27:51",
+    "hebreus 9:3",
+    "hebreus 6:19"
+   ],
+   "foto": {
+    "busca": "Holyland Model of Jerusalem Second Temple",
+    "o_que_mostrar": "maquete do templo de Herodes no Museu de Israel (reconstrução em escala)",
+    "epoca": "reconstrução moderna do templo do séc. I"
+   },
+   "reconstrucao": true,
+   "nota": "Tecido não sobreviveu; só reconstruções.",
+   "fonte_extra": [
+    {
+     "fonte": "Flávio Josefo, Guerra dos Judeus",
+     "referencia": "livro 5, descrição do véu como tapeçaria babilônica colorida",
+     "data": "c. 75 d.C."
+    }
+   ]
+  },
+  {
+   "id": "tabuas-lei",
+   "nome": "Tábuas do testemunho",
+   "categoria": "tabernaculo",
+   "original": "לֻחֹת הָעֵדֻת luchot ha'edut",
+   "descricao": "Duas tábuas de pedra com as palavras da aliança (os Dez Mandamentos), escritas 'pelo dedo de Deus' segundo Êxodo. Foram guardadas dentro da arca.",
+   "no_texto": "Representam a aliança entre Deus e Israel; ficavam no centro do culto, dentro da arca.",
+   "refs": [
+    "exodo 31:18",
+    "hebreus 9:4"
+   ],
+   "foto": {
+    "busca": "Rembrandt Moses with the Ten Commandments",
+    "o_que_mostrar": "pintura de Rembrandt (1659) ou outra representação artística identificada como tal",
+    "epoca": "pintura de 1659",
+    "anos": [
+     1659,
+     1659
+    ]
+   },
+   "reconstrucao": true,
+   "nota": "Nenhuma peça real. O formato arredondado no topo, comum na arte, é convenção tardia; o texto não descreve a forma."
+  },
+  {
+   "id": "efode",
+   "nome": "Éfode do sumo sacerdote",
+   "categoria": "tabernaculo",
+   "original": "אֵפוֹד efod",
+   "descricao": "Veste sacerdotal tecida em ouro, azul, púrpura, carmesim e linho, presa nos ombros por duas pedras de ônix gravadas com os nomes das tribos. Sobre ela se prendia o peitoral.",
+   "no_texto": "Usado pelo sumo sacerdote no serviço; em Samuel aparece também como objeto de consulta a Deus ('Traze o éfode').",
+   "refs": [
+    "exodo 28:6",
+    "1-samuel 23:9"
+   ],
+   "foto": {
+    "busca": "Dura-Europos synagogue Aaron fresco",
+    "o_que_mostrar": "pintura de Arão em trajes sacerdotais na sinagoga de Dura-Europos",
+    "epoca": "pintura do séc. III d.C.",
+    "anos": [
+     244,
+     245
+    ]
+   },
+   "reconstrucao": true,
+   "nota": "Não sobreviveu nenhuma veste. A forma exata do éfode é discutida (avental, colete ou faixa).",
+   "fonte_extra": [
+    {
+     "fonte": "Sinagoga de Dura-Europos, Síria (pinturas murais; hoje no Museu Nacional de Damasco)",
+     "referencia": "painéis com Arão, o tabernáculo e a arca",
+     "data": "c. 244-245 d.C."
+    }
+   ]
+  },
+  {
+   "id": "peitoral",
+   "nome": "Peitoral do juízo",
+   "categoria": "tabernaculo",
+   "original": "חֹשֶׁן הַמִּשְׁפָּט choshen hamishpat",
+   "descricao": "Peça quadrada de tecido dobrado, presa ao éfode, com doze pedras preciosas em quatro fileiras, cada uma gravada com o nome de uma tribo de Israel.",
+   "no_texto": "O sumo sacerdote levava os nomes das tribos 'sobre o coração' diante de Deus; dentro do peitoral ficavam o Urim e o Tumim.",
+   "refs": [
+    "exodo 28:15",
+    "exodo 28:30"
+   ],
+   "foto": {
+    "busca": "high priest breastplate reconstruction",
+    "o_que_mostrar": "reconstrução moderna do peitoral, identificada como tal",
+    "epoca": "reconstrução moderna"
+   },
+   "reconstrucao": true,
+   "nota": "Sem peça real. A identificação de várias das doze pedras é incerta nas traduções."
+  },
+  {
+   "id": "urim-tumim",
+   "nome": "Urim e Tumim",
+   "categoria": "tabernaculo",
+   "original": "אוּרִים וְתֻמִּים urim vetummim",
+   "descricao": "Objetos guardados no peitoral do sumo sacerdote e usados para buscar a decisão de Deus. O texto não diz de que eram feitos nem como funcionavam.",
+   "no_texto": "Eram consultados em decisões importantes, como a liderança de Josué. Muitos estudiosos pensam em sortes do tipo 'sim/não', mas isso é hipótese.",
+   "refs": [
+    "exodo 28:30",
+    "numeros 27:21"
+   ],
+   "foto": {
+    "busca": "Urim and Thummim illustration",
+    "o_que_mostrar": "ilustração moderna identificada como hipótese",
+    "epoca": "reconstrução moderna"
+   },
+   "reconstrucao": true,
+   "nota": "Não há qualquer peça ou descrição antiga segura; o item pode ficar só com texto."
+  },
+  {
+   "id": "mitra",
+   "nome": "Mitra e placa de ouro",
+   "categoria": "tabernaculo",
+   "original": "מִצְנֶפֶת mitsnefet; צִיץ tsits",
+   "descricao": "Turbante de linho do sumo sacerdote, com uma placa de ouro fino na frente, presa por um cordão azul e gravada com 'SANTIDADE AO SENHOR'.",
+   "no_texto": "A inscrição na testa lembrava que o sacerdote se apresentava consagrado a Deus em nome do povo; Levítico chama a placa de 'coroa santa'.",
+   "refs": [
+    "exodo 28:36-37",
+    "levitico 8:9"
+   ],
+   "foto": {
+    "busca": "Dura-Europos synagogue Aaron fresco",
+    "o_que_mostrar": "pintura de Arão com a cabeça coberta, na sinagoga de Dura-Europos",
+    "epoca": "pintura do séc. III d.C.",
+    "anos": [
+     244,
+     245
+    ]
+   },
+   "reconstrucao": true,
+   "fonte_extra": [
+    {
+     "fonte": "Sinagoga de Dura-Europos, Síria (pinturas murais; hoje no Museu Nacional de Damasco)",
+     "referencia": "painéis com Arão, o tabernáculo e a arca",
+     "data": "c. 244-245 d.C."
+    }
+   ]
+  },
+  {
+   "id": "sinos-romas",
+   "nome": "Sinos de ouro e romãs",
+   "categoria": "tabernaculo",
+   "original": "פַּעֲמֹן paamon; רִמּוֹן rimmon",
+   "descricao": "Na barra do manto azul do sumo sacerdote alternavam-se pequenos sinos de ouro e romãs de fios coloridos. O som dos sinos acompanhava seus movimentos no santuário.",
+   "no_texto": "O texto liga o som dos sinos à entrada e saída do sacerdote diante de Deus. A romã é também motivo decorativo das colunas do templo.",
+   "refs": [
+    "exodo 28:33-34"
+   ],
+   "foto": {
+    "busca": "gold bell Jerusalem drainage channel 2011",
+    "o_que_mostrar": "pequeno sino de ouro do período do Segundo Templo achado em Jerusalém",
+    "epoca": "período do Segundo Templo (séc. I a.C.-I d.C., aproximado)",
+    "anos": [
+     -50,
+     70
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "Não se sabe se o sino veio de uma veste sacerdotal; é só uma peça da época. A 'romã de marfim' com inscrição, antes ligada ao templo, é considerada falsificação por muitos especialistas.",
+   "fonte_extra": [
+    {
+     "fonte": "Autoridade de Antiguidades de Israel",
+     "referencia": "sino de ouro achado no canal de drenagem perto da Cidade de Davi",
+     "data": "anúncio de 2011"
+    }
+   ]
+  },
+  {
+   "id": "incensario",
+   "nome": "Incensário (braseiro)",
+   "categoria": "tabernaculo",
+   "original": "מַחְתָּה machtah / λιβανωτός libanōtos",
+   "descricao": "Recipiente ou pá de metal para carregar brasas do altar e queimar incenso. No Dia da Expiação o sumo sacerdote o levava cheio de brasas para dentro do véu.",
+   "no_texto": "Usado no culto, mas também em episódios de alerta, como o 'fogo estranho' de Nadabe e Abiú. No Apocalipse um anjo oferece incenso com as orações dos santos.",
+   "refs": [
+    "levitico 16:12",
+    "levitico 10:1",
+    "apocalipse 8:3"
+   ],
+   "foto": {
+    "busca": "bronze incense shovel Cave of Letters",
+    "o_que_mostrar": "pá de incenso de bronze do período romano, da Caverna das Cartas (deserto da Judeia)",
+    "epoca": "séc. I-II d.C.",
+    "anos": [
+     70,
+     135
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "Em Hebreus 9:4 a palavra grega pode indicar o incensário ou o próprio altar do incenso; os intérpretes divergem.",
+   "fonte_extra": [
+    {
+     "fonte": "Caverna das Cartas, Nahal Hever (escavações de Y. Yadin)",
+     "referencia": "conjunto de utensílios de bronze, incluindo pás de incenso",
+     "data": "escavado em 1960-61; peças até 135 d.C."
+    }
+   ]
+  },
+  {
+   "id": "trombetas-prata",
+   "nome": "Trombetas de prata",
+   "categoria": "tabernaculo",
+   "original": "חֲצוֹצְרָה chatsotsrah",
+   "descricao": "Duas trombetas retas de prata batida, feitas por ordem de Moisés. Serviam para reunir o povo, mover o acampamento, dar alarme na guerra e anunciar festas.",
+   "no_texto": "O toque das trombetas era 'memória diante do SENHOR' nas festas e na guerra; no templo os sacerdotes as tocavam junto com os cantores.",
+   "refs": [
+    "numeros 10:2",
+    "numeros 10:9-10",
+    "2-cronicas 5:12-13"
+   ],
+   "foto": {
+    "busca": "Arch of Titus trumpets relief",
+    "o_que_mostrar": "detalhe do Arco de Tito com as trombetas retas carregadas junto à mesa do templo",
+    "epoca": "relevo de c. 81-82 d.C.",
+    "anos": [
+     81,
+     82
+    ]
+   },
+   "reconstrucao": true,
+   "fonte_extra": [
+    {
+     "fonte": "Arco de Tito, Roma (relevo)",
+     "referencia": "painel interno com o cortejo do espólio do templo de Jerusalém",
+     "data": "c. 81-82 d.C."
+    }
+   ]
+  },
+  {
+   "id": "shofar",
+   "nome": "Shofar (trombeta de chifre)",
+   "categoria": "tabernaculo",
+   "original": "שׁוֹפָר shofar",
+   "descricao": "Instrumento feito de chifre de carneiro, aquecido e moldado, que dá poucos sons fortes. Era usado em sinais, na guerra e em datas solenes, como o ano do jubileu.",
+   "no_texto": "Em Jericó sete sacerdotes tocaram 'trombetas de chifres de carneiros'; no Sinai houve 'som de trombeta muito forte'. A Bíblia Livre traduz shofar como 'trombeta'.",
+   "refs": [
+    "josue 6:4",
+    "exodo 19:16",
+    "levitico 25:9",
+    "salmos 81:3"
+   ],
+   "foto": {
+    "busca": "Beth Alpha synagogue mosaic shofar",
+    "o_que_mostrar": "shofar representado em mosaico de sinagoga antiga (Bet Alfa) ou shofar tradicional de chifre",
+    "epoca": "mosaico do séc. VI d.C.",
+    "anos": [
+     500,
+     600
+    ]
+   },
+   "reconstrucao": true,
+   "nota": "Chifre se decompõe; não se conhecem shofares do período bíblico. Shofares de hoje seguem a mesma técnica.",
+   "fonte_extra": [
+    {
+     "fonte": "Sinagoga de Bet Alfa (mosaico)",
+     "referencia": "painel com arca, menorás e shofar",
+     "data": "séc. VI d.C."
+    }
+   ]
+  },
+  {
+   "id": "altar-chifres",
+   "nome": "Pontas do altar",
+   "categoria": "tabernaculo",
+   "original": "קַרְנוֹת הַמִּזְבֵּחַ qarnot hamizbeach",
+   "descricao": "Saliências em forma de chifre nos quatro cantos dos altares israelitas. Recebiam o sangue dos sacrifícios de expiação.",
+   "no_texto": "Eram o ponto mais sagrado do altar; quem as agarrava pedia asilo, como Adonias diante de Salomão.",
+   "refs": [
+    "exodo 27:2",
+    "1-reis 1:50"
+   ],
+   "foto": {
+    "busca": "Megiddo horned altar limestone",
+    "o_que_mostrar": "pequeno altar de calcário com quatro chifres, de Megido",
+    "epoca": "Idade do Ferro (c. séc. X-IX a.C., aproximado)",
+    "anos": [
+     -1000,
+     -850
+    ]
+   },
+   "reconstrucao": false,
+   "fonte_extra": [
+    {
+     "fonte": "Altares de chifres de Megido",
+     "referencia": "altares de calcário com quatro pontas, escavações do Instituto Oriental de Chicago",
+     "data": "Idade do Ferro (datação aproximada)"
+    }
+   ]
+  },
+  {
+   "id": "serpente-bronze",
+   "nome": "Serpente de bronze",
+   "categoria": "tabernaculo",
+   "original": "נְחַשׁ נְחֹשֶׁת nechash nechoshet; נְחֻשְׁתָּן Nechushtan",
+   "descricao": "Figura de serpente de bronze que Moisés pôs numa haste no deserto: quem era mordido e olhava para ela vivia. Séculos depois, chamada Neustã, tinha virado objeto de culto e foi destruída por Ezequias.",
+   "no_texto": "Mostra a cura vinda de Deus e, depois, o perigo de transformar um sinal em ídolo. Jesus usa a imagem para falar de sua cruz (João 3:14).",
+   "refs": [
+    "numeros 21:9",
+    "2-reis 18:4",
+    "joao 3:14"
+   ],
+   "foto": {
+    "busca": "Timna copper snake",
+    "o_que_mostrar": "pequena serpente de cobre do santuário de Timna, no sul de Israel",
+    "epoca": "fim da Idade do Bronze / início do Ferro (c. séc. XII a.C.)",
+    "anos": [
+     -1200,
+     -1100
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "A serpente de Timna não é a de Moisés; é um paralelo de época e região. Ninguém comprovou ligação direta.",
+   "fonte_extra": [
+    {
+     "fonte": "Santuário de Timna (escavações de B. Rothenberg)",
+     "referencia": "serpente de cobre com cabeça dourada",
+     "data": "achado de 1969; c. séc. XII a.C."
+    }
+   ]
+  },
+  {
+   "id": "lamparina",
+   "nome": "Lamparina de óleo",
+   "categoria": "casa",
+   "original": "נֵר ner / λύχνος lychnos",
+   "descricao": "Pequeno recipiente de barro com um bico onde ficava o pavio, alimentado com azeite de oliva. Era a luz comum das casas; uma lamparina dava luz fraca por algumas horas e precisava ser reabastecida.",
+   "no_texto": "Na parábola das dez virgens, as prudentes levam azeite de reserva; o salmista compara a palavra de Deus a uma lâmpada para os pés. A Bíblia Livre usa 'lâmpada'.",
+   "refs": [
+    "mateus 25:1-4",
+    "salmos 119:105",
+    "lucas 15:8"
+   ],
+   "foto": {
+    "busca": "Herodian oil lamp terracotta",
+    "o_que_mostrar": "lamparina de barro 'herodiana', feita no torno, com bico em forma de espátula",
+    "epoca": "período herodiano (séc. I a.C.-I d.C.)",
+    "anos": [
+     -37,
+     70
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "No Antigo Testamento as lamparinas eram tigelas abertas com a borda dobrada (Idade do Ferro); a 'herodiana' é a da época de Jesus.",
+   "fonte_extra": [
+    {
+     "fonte": "Tipologia arqueológica de lamparinas da Judeia",
+     "referencia": "lamparinas 'herodianas' de bico espatulado, comuns em Jerusalém",
+     "data": "c. fim do séc. I a.C. a 70 d.C."
+    }
+   ]
+  },
+  {
+   "id": "luminaria",
+   "nome": "Luminária (suporte da lâmpada)",
+   "categoria": "casa",
+   "original": "λυχνία lychnia",
+   "descricao": "Suporte alto, de metal ou de barro, ou um nicho na parede, onde se colocava a lamparina para que iluminasse todo o cômodo.",
+   "no_texto": "Jesus diz que ninguém acende uma lâmpada para escondê-la debaixo de um cesto ou da cama, mas a põe na luminária: a luz existe para ser vista.",
+   "refs": [
+    "mateus 5:15",
+    "marcos 4:21",
+    "lucas 8:16"
+   ],
+   "foto": {
+    "busca": "Roman bronze lampstand",
+    "o_que_mostrar": "suporte de lamparina de bronze romano (séc. I d.C.), como os de Pompeia",
+    "epoca": "período romano (séc. I d.C.)",
+    "anos": [
+     1,
+     79
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "Numa casa simples da Galileia o suporte seria mais modesto; o bronze romano é o exemplo mais bem conservado.",
+   "fonte_extra": [
+    {
+     "fonte": "Pompeia e Herculano",
+     "referencia": "suportes de lamparina de bronze preservados pela erupção do Vesúvio",
+     "data": "79 d.C."
+    }
+   ]
+  },
+  {
+   "id": "mo-manual",
+   "nome": "Mó de mão (moinho caseiro)",
+   "categoria": "casa",
+   "original": "רֵחַיִם rechayim / μύλος mylos",
+   "descricao": "Duas pedras, geralmente de basalto: uma de baixo, maior e côncava, e uma de cima, menor, esfregada sobre ela para moer grãos. Moer era trabalho diário, em geral das mulheres.",
+   "no_texto": "A Lei proíbe tomar a mó como penhor, porque seria 'penhorar a vida'. Jesus fala de duas mulheres moendo juntas; uma pedra de mó caiu sobre Abimeleque.",
+   "refs": [
+    "deuteronomio 24:6",
+    "mateus 24:41",
+    "juizes 9:53",
+    "jeremias 25:10"
+   ],
+   "foto": {
+    "busca": "saddle quern basalt Iron Age",
+    "o_que_mostrar": "mó de sela de basalto com a pedra de mão, da Idade do Ferro",
+    "epoca": "Idade do Ferro (c. 1200-586 a.C.)",
+    "anos": [
+     -1200,
+     -586
+    ]
+   },
+   "reconstrucao": false,
+   "fonte_extra": [
+    {
+     "fonte": "Achados arqueológicos em Israel",
+     "referencia": "mós de sela de basalto em casas da Idade do Ferro",
+     "data": "c. 1200-586 a.C."
+    }
+   ]
+  },
+  {
+   "id": "forno",
+   "nome": "Forno de barro (tanur)",
+   "categoria": "casa",
+   "original": "תַּנּוּר tannur / κλίβανος klibanos",
+   "descricao": "Forno doméstico em forma de cilindro ou cone de barro, aquecido por dentro com lenha, palha ou esterco seco. As massas de pão eram coladas nas paredes quentes.",
+   "no_texto": "Levítico fala de ofertas 'cozidas no forno'; Jesus diz que a erva do campo é lançada no forno como combustível; Oseias compara os infiéis a um forno aceso.",
+   "refs": [
+    "levitico 2:4",
+    "levitico 26:26",
+    "mateus 6:30",
+    "oseias 7:4"
+   ],
+   "foto": {
+    "busca": "tabun oven archaeological",
+    "o_que_mostrar": "base de forno de barro (tabun/tanur) escavada em casa antiga",
+    "epoca": "Idade do Ferro ao período romano",
+    "anos": [
+     -1000,
+     100
+    ]
+   },
+   "reconstrucao": false,
+   "fonte_extra": [
+    {
+     "fonte": "Escavações em vilas da Idade do Ferro",
+     "referencia": "bases de fornos de barro em pátios de casas",
+     "data": "c. 1200-586 a.C."
+    }
+   ]
+  },
+  {
+   "id": "cantaro",
+   "nome": "Cântaro (jarro de água)",
+   "categoria": "casa",
+   "original": "כַּד kad / κεράμιον keramion; ὑδρία hydria",
+   "descricao": "Jarro de barro com uma ou duas alças, levado ao ombro ou à cabeça, para buscar água na fonte ou no poço. Servia também para guardar grãos e líquidos.",
+   "no_texto": "Rebeca vai à fonte com o cântaro ao ombro; a samaritana deixa seu vaso de água; os homens de Gideão escondem tochas dentro de cântaros e os quebram.",
+   "refs": [
+    "genesis 24:15-16",
+    "joao 4:28",
+    "marcos 14:13",
+    "juizes 7:16",
+    "juizes 7:20"
+   ],
+   "foto": {
+    "busca": "Iron Age water jug pottery Israel",
+    "o_que_mostrar": "jarro de barro de uso doméstico da Idade do Ferro, de Israel ou Judá",
+    "epoca": "Idade do Ferro (séc. X-VI a.C.)",
+    "anos": [
+     -1000,
+     -586
+    ]
+   },
+   "reconstrucao": false
+  },
+  {
+   "id": "jarros-pedra",
+   "nome": "Talhas de pedra (Caná)",
+   "categoria": "casa",
+   "original": "ὑδρίαι λίθιναι hydriai lithinai",
+   "descricao": "Grandes vasos de pedra calcária, lavrados à mão ou no torno, usados para guardar água da purificação ritual. Em Caná havia seis, cada um com duas ou três metretas (algo como 80 a 120 litros).",
+   "no_texto": "No primeiro sinal de Jesus a água das talhas da purificação vira vinho. A Bíblia Livre diz 'vasos de pedra'.",
+   "refs": [
+    "joao 2:6-7"
+   ],
+   "foto": {
+    "busca": "stone vessels Jerusalem chalk Second Temple",
+    "o_que_mostrar": "vasos e talhas de pedra calcária do período do Segundo Templo, de Jerusalém ou da Galileia",
+    "epoca": "séc. I a.C.-I d.C.",
+    "anos": [
+     -50,
+     135
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "A explicação de por que se usava pedra vem de fontes judaicas posteriores (Mixná) e é aceita pela maioria, mas não está no texto de João.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná, tratado Kelim",
+     "referencia": "utensílios de pedra não recebem impureza ritual",
+     "data": "compilação c. 200 d.C."
+    },
+    {
+     "fonte": "Arqueologia da Judeia e da Galileia",
+     "referencia": "oficinas de vasos de calcário e achados em Jerusalém e na Galileia",
+     "data": "séc. I a.C.-II d.C."
+    }
+   ]
+  },
+  {
+   "id": "odre",
+   "nome": "Odre",
+   "categoria": "casa",
+   "original": "נֹאד nod / ἀσκός askos",
+   "descricao": "Recipiente feito com o couro inteiro de cabra, costurado e virado do avesso, para guardar água, leite ou vinho. Com o tempo o couro endurecia e perdia a elasticidade.",
+   "no_texto": "Jesus diz que vinho novo, que ainda fermenta, rompe odres velhos; o salmista se sente 'como odre na fumaça', ressecado.",
+   "refs": [
+    "mateus 9:17",
+    "josue 9:4",
+    "salmos 119:83"
+   ],
+   "foto": {
+    "busca": "goatskin water bag traditional",
+    "o_que_mostrar": "odre tradicional de couro de cabra (foto etnográfica)",
+    "epoca": "uso tradicional (sem peça antiga)"
+   },
+   "reconstrucao": true,
+   "nota": "Couro raramente sobrevive; a foto deve ser de odre tradicional moderno ou de relevo antigo que mostre um."
+  },
+  {
+   "id": "bacia",
+   "nome": "Bacia",
+   "categoria": "casa",
+   "original": "νιπτήρ niptēr",
+   "descricao": "Vaso raso de barro ou de metal usado para lavar mãos e pés. Lavar os pés de hóspedes era tarefa de servos.",
+   "no_texto": "Jesus põe água numa bacia e lava os pés dos discípulos, invertendo os papéis de mestre e servo. Pilatos lava as mãos diante da multidão.",
+   "refs": [
+    "joao 13:5",
+    "mateus 27:24"
+   ],
+   "foto": {
+    "busca": "Roman bronze basin first century",
+    "o_que_mostrar": "bacia de bronze ou de barro do período romano",
+    "epoca": "período romano (séc. I d.C.)",
+    "anos": [
+     1,
+     100
+    ]
+   },
+   "reconstrucao": false
+  },
+  {
+   "id": "cesto",
+   "nome": "Cesto",
+   "categoria": "casa",
+   "original": "κόφινος kophinos; σπυρίς spyris; σαργάνη sarganē",
+   "descricao": "Recipientes trançados de vime, junco ou folhas de palmeira, de vários tamanhos, para levar pão, peixe ou mercadorias.",
+   "no_texto": "Depois da multiplicação sobraram doze cestos; Paulo foi descido num cesto pelo muro de Damasco.",
+   "refs": [
+    "marcos 6:43",
+    "atos 9:25",
+    "2-corintios 11:33"
+   ],
+   "foto": {
+    "busca": "Cave of Letters basket Bar Kokhba",
+    "o_que_mostrar": "cesto trançado preservado na Caverna das Cartas (deserto da Judeia)",
+    "epoca": "início do séc. II d.C.",
+    "anos": [
+     100,
+     135
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "Os evangelhos usam palavras diferentes para os cestos das duas multiplicações; a diferença exata de tamanho é discutida.",
+   "fonte_extra": [
+    {
+     "fonte": "Caverna das Cartas, Nahal Hever (escavações de Y. Yadin)",
+     "referencia": "cesto de fibras com utensílios de bronze",
+     "data": "escavado em 1960-61; até 135 d.C."
+    }
+   ]
+  },
+  {
+   "id": "almofariz",
+   "nome": "Pilão e almofariz",
+   "categoria": "casa",
+   "original": "מְדֹכָה medokhah; מַכְתֵּשׁ makhtesh",
+   "descricao": "Recipiente de pedra ou madeira em que se socavam grãos, ervas ou especiarias com uma mão de pilão.",
+   "no_texto": "No deserto o povo moía o maná 'em moinhos' ou o malhava 'em pilões'; Provérbios diz que nem socando o tolo no pilão se tira sua loucura.",
+   "refs": [
+    "numeros 11:8",
+    "proverbios 27:22"
+   ],
+   "foto": {
+    "busca": "basalt mortar pestle Iron Age",
+    "o_que_mostrar": "almofariz de basalto com mão de pilão, Idade do Ferro",
+    "epoca": "Idade do Ferro",
+    "anos": [
+     -1200,
+     -586
+    ]
+   },
+   "reconstrucao": false
+  },
+  {
+   "id": "chave",
+   "nome": "Chave",
+   "categoria": "casa",
+   "original": "מַפְתֵּחַ mafteach / κλείς kleis",
+   "descricao": "As chaves antigas eram de madeira ou de metal e moviam ferrolhos por dentro da porta; algumas eram grandes e levadas no ombro ou na cintura.",
+   "no_texto": "Abrir e fechar era sinal de autoridade: Isaías fala da 'chave da casa de Davi' sobre o ombro, e o Apocalipse aplica a imagem a Cristo.",
+   "refs": [
+    "juizes 3:25",
+    "isaias 22:22",
+    "apocalipse 3:7"
+   ],
+   "foto": {
+    "busca": "Roman bronze key",
+    "o_que_mostrar": "chave de bronze romana",
+    "epoca": "período romano (séc. I-III d.C.)",
+    "anos": [
+     1,
+     300
+    ]
+   },
+   "reconstrucao": false
+  },
+  {
+   "id": "alabastro",
+   "nome": "Vaso de alabastro",
+   "categoria": "casa",
+   "original": "ἀλάβαστρον alabastron",
+   "descricao": "Pequeno frasco de pedra translúcida (calcita, chamada alabastro), de gargalo fino, usado para perfumes caros. Para usar todo o conteúdo, às vezes se quebrava o gargalo.",
+   "no_texto": "Em Betânia uma mulher quebra um vaso de alabastro de nardo puro e o derrama sobre Jesus, um gesto de grande valor.",
+   "refs": [
+    "marcos 14:3"
+   ],
+   "foto": {
+    "busca": "alabastron calcite perfume vessel",
+    "o_que_mostrar": "frasco de perfume de alabastro (calcita) do período helenístico ou romano",
+    "epoca": "período helenístico-romano",
+    "anos": [
+     -300,
+     100
+    ]
+   },
+   "reconstrucao": false
+  },
+  {
+   "id": "espelho",
+   "nome": "Espelho de bronze",
+   "categoria": "casa",
+   "original": "מַרְאָה mar'ah / ἔσοπτρον esoptron",
+   "descricao": "Disco de bronze bem polido, com cabo, que refletia a imagem de modo imperfeito. Não havia espelhos de vidro como os de hoje.",
+   "no_texto": "A pia do tabernáculo foi feita com espelhos de bronze das mulheres; Paulo diz que agora vemos 'por espelho', de modo ainda obscuro.",
+   "refs": [
+    "exodo 38:8",
+    "1-corintios 13:12"
+   ],
+   "foto": {
+    "busca": "Egyptian bronze mirror New Kingdom",
+    "o_que_mostrar": "espelho de bronze egípcio com cabo",
+    "epoca": "Egito, Reino Novo (c. 1550-1070 a.C.)",
+    "anos": [
+     -1550,
+     -1070
+    ]
+   },
+   "reconstrucao": false
+  },
+  {
+   "id": "copo-calice",
+   "nome": "Taça e cálice",
+   "categoria": "casa",
+   "original": "גָּבִיעַ gavia / ποτήριον potērion",
+   "descricao": "Recipientes para beber, de barro, pedra, vidro ou metal. Taças de prata eram objetos de luxo.",
+   "no_texto": "A taça de prata de José põe à prova os irmãos; na última ceia Jesus toma o cálice e o dá aos discípulos.",
+   "refs": [
+    "genesis 44:2",
+    "mateus 26:27"
+   ],
+   "foto": {
+    "busca": "Roman glass cup first century",
+    "o_que_mostrar": "copo de vidro ou de pedra do séc. I d.C. (Judeia)",
+    "epoca": "séc. I d.C.",
+    "anos": [
+     1,
+     100
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "Não se sabe como era o cálice da última ceia; a foto mostra um copo da época."
+  },
+  {
+   "id": "leito-marfim",
+   "nome": "Camas de marfim",
+   "categoria": "casa",
+   "original": "מִטּוֹת שֵׁן mittot shen",
+   "descricao": "Móveis de luxo decorados com placas de marfim entalhado, importados ou feitos por artesãos fenícios. Eram sinal de riqueza da elite de Samaria.",
+   "no_texto": "Amós denuncia os que se deitam em camas de marfim enquanto o povo sofre; o livro dos Reis menciona a 'casa de marfim' de Acabe.",
+   "refs": [
+    "amos 6:4",
+    "1-reis 22:39"
+   ],
+   "foto": {
+    "busca": "Samaria ivories",
+    "o_que_mostrar": "placas de marfim entalhado achadas em Samaria",
+    "epoca": "Idade do Ferro (séc. IX-VIII a.C.)",
+    "anos": [
+     -900,
+     -722
+    ]
+   },
+   "reconstrucao": false,
+   "fonte_extra": [
+    {
+     "fonte": "Marfins de Samaria (expedição conjunta Harvard e outras instituições)",
+     "referencia": "centenas de fragmentos de marfim entalhado no palácio de Samaria",
+     "data": "escavados nos anos 1930; séc. IX-VIII a.C."
+    }
+   ]
+  },
+  {
+   "id": "arado",
+   "nome": "Arado",
+   "categoria": "campo",
+   "original": "מַחֲרֵשָׁה macharesha; אֵת et (relha) / ἄροτρον arotron",
+   "descricao": "Arado leve de madeira puxado por uma junta de bois, com uma ponta (relha) que, a partir da Idade do Ferro, passou a ser de ferro. Riscava a terra sem revirá-la profundamente; o lavrador guiava com uma mão e segurava a aguilhada com a outra.",
+   "no_texto": "Jesus diz que quem põe a mão no arado e olha para trás não serve para o Reino; os profetas anunciam espadas transformadas em instrumentos de lavoura.",
+   "refs": [
+    "lucas 9:62",
+    "1-reis 19:19",
+    "1-samuel 13:20",
+    "isaias 2:4"
+   ],
+   "foto": {
+    "busca": "iron plowshare Iron Age",
+    "o_que_mostrar": "ponta (relha) de arado de ferro da Idade do Ferro",
+    "epoca": "Idade do Ferro (séc. X-VI a.C.)",
+    "anos": [
+     -1000,
+     -586
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "Em Isaías 2:4 a Bíblia Livre traduz a palavra hebraica da relha como 'enxadas'.",
+   "fonte_extra": [
+    {
+     "fonte": "Achados arqueológicos no Levante",
+     "referencia": "relhas de arado de ferro em sítios da Idade do Ferro",
+     "data": "c. séc. X-VI a.C."
+    }
+   ]
+  },
+  {
+   "id": "aguilhada",
+   "nome": "Aguilhada",
+   "categoria": "campo",
+   "original": "מַלְמַד malmad; דָּרְבָן dorban / κέντρον kentron",
+   "descricao": "Vara comprida de madeira com ponta de metal, usada para tocar os bois no arado. Às vezes tinha na outra ponta uma pequena pá para limpar a relha.",
+   "no_texto": "Sangar derrotou filisteus com uma aguilhada; Jesus diz a Saulo que é duro 'dar coices contra os aguilhões'; as palavras dos sábios são como aguilhões que fazem andar.",
+   "refs": [
+    "juizes 3:31",
+    "1-samuel 13:21",
+    "atos 26:14",
+    "eclesiastes 12:11"
+   ],
+   "foto": {
+    "busca": "ox goad iron tip ancient",
+    "o_que_mostrar": "ponta de ferro de aguilhada ou foto etnográfica de lavrador com aguilhada",
+    "epoca": "Idade do Ferro / uso tradicional"
+   },
+   "reconstrucao": true,
+   "nota": "A haste de madeira não sobrevive; achados são só pontas de ferro, difíceis de identificar."
+  },
+  {
+   "id": "foice",
+   "nome": "Foice",
+   "categoria": "campo",
+   "original": "מַגָּל maggal / δρέπανον drepanon",
+   "descricao": "Lâmina curva para cortar o trigo e a cevada perto da espiga. As mais antigas tinham dentes de pedra lascada encaixados em madeira; na Idade do Ferro se generalizaram as de ferro.",
+   "no_texto": "Na colheita lança-se a foice quando o grão está maduro; profetas e o Apocalipse usam a ceifa como imagem do juízo.",
+   "refs": [
+    "marcos 4:29",
+    "joel 3:13",
+    "apocalipse 14:14-16"
+   ],
+   "foto": {
+    "busca": "Iron Age iron sickle",
+    "o_que_mostrar": "foice de ferro da Idade do Ferro (ou foice de lâminas de sílex encaixadas)",
+    "epoca": "Idade do Ferro",
+    "anos": [
+     -1200,
+     -586
+    ]
+   },
+   "reconstrucao": false,
+   "fonte_extra": [
+    {
+     "fonte": "Calendário de Gezer",
+     "referencia": "pequena tábua de calcário com os meses do ano agrícola, incluindo colheita da cevada",
+     "data": "c. séc. X a.C.; achado em 1908, hoje no Museu de Arqueologia de Istambul"
+    }
+   ]
+  },
+  {
+   "id": "debulhador",
+   "nome": "Trilho de debulhar",
+   "categoria": "campo",
+   "original": "מוֹרַג morag; חָרוּץ charuts",
+   "descricao": "Prancha pesada de madeira com pedras de sílex ou pontas de ferro cravadas por baixo, arrastada por bois sobre o grão espalhado na eira para soltá-lo da palha.",
+   "no_texto": "Araúna oferece a Davi os trilhos como lenha; Isaías fala de um 'debulhador afiado, com dentes'; Amós acusa Damasco de 'trilhar Gileade com trilhos de ferro'.",
+   "refs": [
+    "2-samuel 24:22",
+    "isaias 41:15",
+    "amos 1:3",
+    "deuteronomio 25:4"
+   ],
+   "foto": {
+    "busca": "threshing board tribulum flint",
+    "o_que_mostrar": "trilho de debulhar de madeira com pedras de sílex (tribulum), peça tradicional em museu",
+    "epoca": "uso tradicional; técnica antiga"
+   },
+   "reconstrucao": false,
+   "nota": "As peças de madeira que existem em museus são de uso tradicional recente; a técnica é antiga.",
+   "fonte_extra": [
+    {
+     "fonte": "Arqueologia do Oriente Próximo",
+     "referencia": "lâminas de sílex de trilhos (tribulum) achadas em sítios antigos",
+     "data": "desde a Idade do Bronze"
+    }
+   ]
+  },
+  {
+   "id": "pa-joeirar",
+   "nome": "Pá de joeirar e forcado",
+   "categoria": "campo",
+   "original": "מִזְרֶה mizreh / πτύον ptyon",
+   "descricao": "Na eira, depois de debulhar, o grão era jogado ao ar com forcado de madeira ou pá; o vento levava a palha leve e o grão caía. Fazia-se à tarde, quando soprava a brisa.",
+   "no_texto": "Boaz 'aventa' a cevada à noite; João Batista diz que o Messias tem a pá na mão para limpar a eira, separando trigo e palha.",
+   "refs": [
+    "rute 3:2",
+    "mateus 3:12",
+    "isaias 30:24"
+   ],
+   "foto": {
+    "busca": "winnowing fork wooden traditional",
+    "o_que_mostrar": "forcado de madeira de joeirar (peça etnográfica)",
+    "epoca": "uso tradicional"
+   },
+   "reconstrucao": true,
+   "nota": "Ferramentas de madeira não sobrevivem do período bíblico."
+  },
+  {
+   "id": "lagar",
+   "nome": "Lagar (prensa de uvas)",
+   "categoria": "campo",
+   "original": "גַּת gat; יֶקֶב yeqev / ληνός lēnos",
+   "descricao": "Tanque escavado na rocha onde se pisavam as uvas com os pés; o suco escorria por um canal para um tanque mais baixo, onde era recolhido.",
+   "no_texto": "O dono da vinha da parábola 'funda nela uma prensa de uvas'; Gideão malhava trigo escondido no lagar; o profeta usa o pisar das uvas como imagem do juízo.",
+   "refs": [
+    "isaias 5:2",
+    "mateus 21:33",
+    "juizes 6:11",
+    "isaias 63:3"
+   ],
+   "foto": {
+    "busca": "rock-cut winepress ancient Israel",
+    "o_que_mostrar": "lagar escavado na rocha com tanque de pisar e tanque coletor, em Israel",
+    "epoca": "Idade do Ferro ao período romano",
+    "anos": [
+     -1000,
+     300
+    ]
+   },
+   "reconstrucao": false,
+   "fonte_extra": [
+    {
+     "fonte": "Arqueologia de Israel",
+     "referencia": "centenas de lagares cavados na rocha em áreas de vinhedos",
+     "data": "Idade do Ferro ao período bizantino"
+    }
+   ]
+  },
+  {
+   "id": "prensa-azeite",
+   "nome": "Prensa de azeite",
+   "categoria": "campo",
+   "original": "בֵּית בַּד beit bad; Γεθσημανί Gethsēmani",
+   "descricao": "As azeitonas eram esmagadas numa bacia de pedra e a massa era prensada com uma viga e pesos de pedra, ou com parafuso na época romana. O azeite servia para comer, iluminar, ungir e no culto.",
+   "no_texto": "Miqueias fala de quem pisa azeitonas sem se ungir com o óleo; o nome Getsêmani é geralmente explicado como 'prensa de azeite', em aramaico.",
+   "refs": [
+    "miqueias 6:15",
+    "mateus 26:36"
+   ],
+   "foto": {
+    "busca": "Tel Miqne Ekron olive oil press",
+    "o_que_mostrar": "prensa de azeite de pedra da Idade do Ferro (Ecrom) ou prensa de basalto de Cafarnaum",
+    "epoca": "Idade do Ferro (séc. VII a.C.) ou período romano",
+    "anos": [
+     -700,
+     -604
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "O significado de Getsêmani como 'prensa de azeite' é a explicação mais comum, mas vem do nome, não do texto.",
+   "fonte_extra": [
+    {
+     "fonte": "Tel Miqne-Ecrom (escavações de S. Gitin e T. Dothan)",
+     "referencia": "mais de cem instalações de produção de azeite",
+     "data": "séc. VII a.C."
+    }
+   ]
+  },
+  {
+   "id": "tear",
+   "nome": "Tear",
+   "categoria": "campo",
+   "original": "אֶרֶג ereg; מַסֶּכֶת massekhet (teia)",
+   "descricao": "Os teares antigos podiam ser horizontais, presos ao chão, ou verticais, com os fios da urdidura esticados por pesos de barro. A lançadeira passava o fio da trama entre eles.",
+   "no_texto": "Dalila tece as tranças de Sansão na teia e prende com a estaca do tear; Jó diz que seus dias correm mais que a lançadeira do tecelão.",
+   "refs": [
+    "juizes 16:13-14",
+    "jo 7:6"
+   ],
+   "foto": {
+    "busca": "loom weights clay Iron Age",
+    "o_que_mostrar": "pesos de tear de barro da Idade do Ferro achados em fileira",
+    "epoca": "Idade do Ferro",
+    "anos": [
+     -1200,
+     -586
+    ]
+   },
+   "reconstrucao": false,
+   "fonte_extra": [
+    {
+     "fonte": "Escavações em casas da Idade do Ferro",
+     "referencia": "grupos de pesos de tear caídos em fileira, indicando teares verticais",
+     "data": "c. 1200-586 a.C."
+    }
+   ]
+  },
+  {
+   "id": "fuso",
+   "nome": "Fuso e roca",
+   "categoria": "campo",
+   "original": "כִּישׁוֹר kishor; פֶּלֶךְ pelekh",
+   "descricao": "Haste de madeira com um peso redondo (cossoiro) de pedra, osso ou barro, girada para torcer a lã ou o linho e formar o fio. A roca segurava a fibra ainda solta.",
+   "no_texto": "A mulher virtuosa de Provérbios 'estende as mãos' para fiar; a Bíblia Livre traduz como 'rolo de linha'.",
+   "refs": [
+    "proverbios 31:19"
+   ],
+   "foto": {
+    "busca": "spindle whorl ancient Israel",
+    "o_que_mostrar": "cossoiros (pesos de fuso) de pedra ou osso",
+    "epoca": "Idade do Ferro ao período romano",
+    "anos": [
+     -1200,
+     100
+    ]
+   },
+   "reconstrucao": false
+  },
+  {
+   "id": "roda-oleiro",
+   "nome": "Roda de oleiro",
+   "categoria": "campo",
+   "original": "אָבְנַיִם ovnayim",
+   "descricao": "Disco giratório onde o oleiro dava forma ao barro molhado. As mais antigas eram pares de pedras encaixadas, giradas com a mão; mais tarde surgiram rodas movidas com o pé.",
+   "no_texto": "Jeremias vê o oleiro refazer o vaso que se estragou; Paulo usa o oleiro e o barro para falar da liberdade de Deus.",
+   "refs": [
+    "jeremias 18:3-4",
+    "romanos 9:21",
+    "isaias 30:14"
+   ],
+   "foto": {
+    "busca": "basalt potter's wheel Bronze Age",
+    "o_que_mostrar": "roda de oleiro de basalto (par de pedras) da Idade do Bronze, de Canaã",
+    "epoca": "Idade do Bronze Recente",
+    "anos": [
+     -1550,
+     -1150
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "A palavra hebraica de Jeremias 18:3 significa literalmente 'as duas pedras'.",
+   "fonte_extra": [
+    {
+     "fonte": "Arqueologia de Canaã",
+     "referencia": "rodas de oleiro de pedra achadas em oficinas (p. ex., Hazor e Laquis)",
+     "data": "Idade do Bronze"
+    }
+   ]
+  },
+  {
+   "id": "cajado",
+   "nome": "Cajado e vara de pastor",
+   "categoria": "campo",
+   "original": "שֵׁבֶט shevet; מִשְׁעֶנֶת mish'enet",
+   "descricao": "O pastor carregava um bastão para se apoiar e conduzir o rebanho e uma vara mais curta, às vezes com ponta pesada, para defender as ovelhas de animais.",
+   "no_texto": "No Salmo 23 a vara e o cajado do pastor consolam; Davi vai ao encontro de Golias com seu cajado.",
+   "refs": [
+    "salmos 23:4",
+    "1-samuel 17:40",
+    "genesis 38:18"
+   ],
+   "foto": {
+    "busca": "shepherd staff traditional Palestine",
+    "o_que_mostrar": "foto etnográfica de pastor com cajado ou relevo antigo",
+    "epoca": "uso tradicional"
+   },
+   "reconstrucao": true,
+   "nota": "Madeira não sobrevive; só ilustração ou foto etnográfica. Em Gênesis 38:18 o 'bordão' de Judá funciona como sinal de identidade."
+  },
+  {
+   "id": "funda",
+   "nome": "Funda e pedras",
+   "categoria": "campo",
+   "original": "קֶלַע qela",
+   "descricao": "Duas tiras de couro ou corda com uma bolsa no meio; girada sobre a cabeça, soltava a pedra com grande força. Era arma de pastores e também de tropas especializadas.",
+   "no_texto": "Davi derruba Golias com uma pedra lançada com a funda.",
+   "refs": [
+    "1-samuel 17:40",
+    "1-samuel 17:49"
+   ],
+   "foto": {
+    "busca": "sling stones Lachish",
+    "o_que_mostrar": "pedras de funda de sílex achadas em Laquis ou retratadas no relevo de Laquis",
+    "epoca": "fim do séc. VIII a.C.",
+    "anos": [
+     -701,
+     -701
+    ]
+   },
+   "reconstrucao": false,
+   "fonte_extra": [
+    {
+     "fonte": "Laquis (escavações e relevo de Senaqueribe)",
+     "referencia": "centenas de pedras de funda no local do cerco; fundeiros retratados no relevo",
+     "data": "cerco de 701 a.C."
+    }
+   ]
+  },
+  {
+   "id": "jugo",
+   "nome": "Jugo",
+   "categoria": "campo",
+   "original": "עֹל ol / ζυγός zygos",
+   "descricao": "Peça de madeira colocada sobre o pescoço de dois animais, para que puxassem juntos o arado ou o carro. Era presa com correias ou varas.",
+   "no_texto": "Imagem de submissão e trabalho: Jeremias põe jugos no pescoço como sinal; Jesus convida a tomar o seu jugo, que é 'suave'. A Lei proíbe arar com boi e jumento juntos.",
+   "refs": [
+    "mateus 11:29-30",
+    "jeremias 27:2",
+    "deuteronomio 22:10"
+   ],
+   "foto": {
+    "busca": "wooden ox yoke traditional",
+    "o_que_mostrar": "jugo de madeira tradicional",
+    "epoca": "uso tradicional"
+   },
+   "reconstrucao": true,
+   "nota": "Jugos de madeira do período bíblico não sobreviveram; relevos egípcios e assírios mostram animais atrelados."
+  },
+  {
+   "id": "machado",
+   "nome": "Machado",
+   "categoria": "campo",
+   "original": "גַּרְזֶן garzen",
+   "descricao": "Lâmina de bronze ou ferro presa a um cabo de madeira, para cortar árvores e lavrar madeira. Ferramentas de ferro eram caras.",
+   "no_texto": "Um discípulo de Eliseu perde na água um machado emprestado, o que era grave prejuízo; os israelitas iam aos filisteus para afiar machados.",
+   "refs": [
+    "2-reis 6:5",
+    "1-samuel 13:20"
+   ],
+   "foto": {
+    "busca": "Iron Age iron axe head",
+    "o_que_mostrar": "cabeça de machado de ferro da Idade do Ferro",
+    "epoca": "Idade do Ferro",
+    "anos": [
+     -1200,
+     -586
+    ]
+   },
+   "reconstrucao": false
+  },
+  {
+   "id": "prumo",
+   "nome": "Prumo",
+   "categoria": "campo",
+   "original": "אֲנָךְ anakh",
+   "descricao": "Peso de pedra ou metal preso a um fio, usado por construtores para verificar se um muro estava reto.",
+   "no_texto": "Amós vê o Senhor com um prumo na mão: Israel seria 'medido' e não estava reto. O sentido exato da palavra hebraica é discutido (alguns traduzem 'estanho').",
+   "refs": [
+    "amos 7:7-8"
+   ],
+   "foto": {
+    "busca": "ancient plumb bob",
+    "o_que_mostrar": "prumo antigo de pedra ou bronze (Egito ou Oriente Próximo)",
+    "epoca": "antiguidade"
+   },
+   "reconstrucao": false
+  },
+  {
+   "id": "carro-boi",
+   "nome": "Carro de bois",
+   "categoria": "campo",
+   "original": "עֲגָלָה agalah",
+   "descricao": "Carroça de madeira de duas rodas, puxada por bois, para levar cargas e pessoas.",
+   "no_texto": "Os filisteus devolveram a arca num carro novo puxado por vacas; Isaías fala das rodas da carroça na debulha.",
+   "refs": [
+    "1-samuel 6:7",
+    "isaias 28:27-28"
+   ],
+   "foto": {
+    "busca": "Lachish relief ox cart deportees",
+    "o_que_mostrar": "detalhe do relevo de Laquis com famílias judaítas levadas em carros de bois",
+    "epoca": "relevo de c. 700-690 a.C.",
+    "anos": [
+     -700,
+     -690
+    ]
+   },
+   "reconstrucao": false,
+   "fonte_extra": [
+    {
+     "fonte": "Relevo de Laquis, palácio de Senaqueribe em Nínive (Museu Britânico)",
+     "referencia": "cenas do cerco e da deportação",
+     "data": "c. 700-690 a.C., sobre o cerco de 701 a.C."
+    }
+   ]
+  },
+  {
+   "id": "manjedoura",
+   "nome": "Manjedoura",
+   "categoria": "campo",
+   "original": "אֵבוּס evus / φάτνη phatnē",
+   "descricao": "Cocho onde se punha comida para os animais. Em Israel muitas eram escavadas em blocos de pedra calcária.",
+   "no_texto": "Maria deita o recém-nascido Jesus numa manjedoura; Isaías diz que até o jumento conhece a manjedoura do dono.",
+   "refs": [
+    "lucas 2:7",
+    "isaias 1:3"
+   ],
+   "foto": {
+    "busca": "Megiddo stone troughs",
+    "o_que_mostrar": "cochos de pedra dos grandes edifícios de pilares de Megido",
+    "epoca": "Idade do Ferro (séc. IX-VIII a.C., aproximado)",
+    "anos": [
+     -900,
+     -732
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "Se os edifícios de Megido eram estábulos é debatido.",
+   "fonte_extra": [
+    {
+     "fonte": "Megido, edifícios de pilares",
+     "referencia": "cochos de pedra entre pilares, interpretados como estábulos ou depósitos",
+     "data": "Idade do Ferro; função e data discutidas"
+    }
+   ]
+  },
+  {
+   "id": "mo-jumento",
+   "nome": "Pedra de moinho de jumento",
+   "categoria": "campo",
+   "original": "μύλος ὀνικός mylos onikos",
+   "descricao": "Grande moinho de basalto do período romano: uma pedra de baixo em forma de cone e uma de cima em forma de ampulheta, girada por um jumento. Pesava centenas de quilos.",
+   "no_texto": "Jesus diz que seria melhor ser lançado ao mar com uma grande pedra de moinho ao pescoço do que fazer tropeçar um pequenino. No grego é a mó 'de jumento'.",
+   "refs": [
+    "mateus 18:6",
+    "marcos 9:42"
+   ],
+   "foto": {
+    "busca": "Capernaum basalt mill donkey",
+    "o_que_mostrar": "moinho de basalto do tipo 'pompeiano' exposto em Cafarnaum",
+    "epoca": "período romano-bizantino",
+    "anos": [
+     1,
+     600
+    ]
+   },
+   "reconstrucao": false,
+   "fonte_extra": [
+    {
+     "fonte": "Cafarnaum (sítio arqueológico)",
+     "referencia": "moinhos e prensas de basalto expostos no sítio",
+     "data": "período romano e bizantino"
+    }
+   ]
+  },
+  {
+   "id": "rede",
+   "nome": "Rede de pesca",
+   "categoria": "pesca",
+   "original": "ἀμφίβληστρον amphiblēstron; δίκτυον diktyon; σαγήνη sagēnē",
+   "descricao": "Redes de linho com pesos de pedra ou chumbo nas bordas. Havia a tarrafa, lançada à mão, e a rede de arrasto, puxada por barcos até a margem.",
+   "no_texto": "Pedro e André lançavam a rede quando Jesus os chamou; o Reino é comparado a uma rede que recolhe peixes de toda espécie.",
+   "refs": [
+    "mateus 4:18",
+    "joao 21:6",
+    "mateus 13:47",
+    "marcos 1:19"
+   ],
+   "foto": {
+    "busca": "net sinkers ancient Galilee",
+    "o_que_mostrar": "pesos de rede de pedra ou chumbo do Mar da Galileia",
+    "epoca": "período romano",
+    "anos": [
+     -50,
+     100
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "A palavra grega muda conforme o tipo de rede, o que a tradução portuguesa não mostra."
+  },
+  {
+   "id": "anzol",
+   "nome": "Anzol",
+   "categoria": "pesca",
+   "original": "חַכָּה chakkah / ἄγκιστρον ankistron",
+   "descricao": "Gancho de bronze ou ferro preso a uma linha, usado para pesca individual.",
+   "no_texto": "Jesus manda Pedro lançar o anzol e achar a moeda na boca do peixe; Habacuque compara o conquistador a quem pesca povos com anzol e rede.",
+   "refs": [
+    "mateus 17:27",
+    "habacuque 1:15"
+   ],
+   "foto": {
+    "busca": "bronze fish hook ancient",
+    "o_que_mostrar": "anzóis de bronze antigos",
+    "epoca": "Idade do Bronze ao período romano"
+   },
+   "reconstrucao": false
+  },
+  {
+   "id": "barco-galileia",
+   "nome": "Barco de pesca da Galileia",
+   "categoria": "pesca",
+   "original": "πλοῖον ploion",
+   "descricao": "Barco de madeira a remo e vela, com cerca de 8 m de comprimento, usado pelos pescadores do lago. Um casco desse tipo foi preservado na lama do Mar da Galileia.",
+   "no_texto": "Jesus chama pescadores que estavam nos barcos e ensina a multidão sentado num deles.",
+   "refs": [
+    "lucas 5:2-3",
+    "marcos 1:19",
+    "joao 21:6"
+   ],
+   "foto": {
+    "busca": "Ancient Galilee Boat Ginosar",
+    "o_que_mostrar": "o 'Barco da Galileia' (chamado 'barco de Jesus') exposto em Ginosar",
+    "epoca": "séc. I a.C.-séc. I d.C.",
+    "anos": [
+     -100,
+     70
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "O apelido 'barco de Jesus' é popular; nada liga esse barco a Jesus ou aos discípulos, mas é da mesma época e tipo.",
+   "fonte_extra": [
+    {
+     "fonte": "Barco da Galileia, Museu Yigal Allon, Ginosar",
+     "referencia": "casco de madeira achado na margem do lago em seca",
+     "data": "achado de 1986; datado por carbono-14 e cerâmica entre séc. I a.C. e séc. I d.C. (aproximado)"
+    }
+   ]
+  },
+  {
+   "id": "ancora",
+   "nome": "Âncora",
+   "categoria": "pesca",
+   "original": "ἄγκυρα ankyra",
+   "descricao": "Nos navios romanos as âncoras eram de madeira com uma barra de chumbo ou de ferro; âncoras de pedra furada eram mais antigas e comuns em barcos menores.",
+   "no_texto": "No naufrágio de Paulo os marinheiros lançaram quatro âncoras da popa; Hebreus chama a esperança de 'âncora da alma'.",
+   "refs": [
+    "atos 27:29",
+    "atos 27:40",
+    "hebreus 6:19"
+   ],
+   "foto": {
+    "busca": "Roman lead anchor stock",
+    "o_que_mostrar": "cepo de chumbo de âncora romana ou âncora de pedra antiga",
+    "epoca": "período romano",
+    "anos": [
+     -100,
+     200
+    ]
+   },
+   "reconstrucao": false
+  },
+  {
+   "id": "rolo",
+   "nome": "Rolo (livro)",
+   "categoria": "escrita",
+   "original": "מְגִלַּת סֵפֶר megillat sefer / βιβλίον biblion",
+   "descricao": "Folhas de papiro coladas ou de pergaminho costuradas, formando uma faixa longa enrolada em uma ou duas varas. Escrevia-se em colunas; para ler, desenrolava-se de um lado e enrolava-se do outro.",
+   "no_texto": "Baruque escreve num rolo as palavras ditadas por Jeremias, e o rei o queima coluna por coluna; Jesus recebe o livro de Isaías na sinagoga e o abre.",
+   "refs": [
+    "jeremias 36:2",
+    "jeremias 36:4",
+    "jeremias 36:23",
+    "lucas 4:17",
+    "isaias 34:4"
+   ],
+   "foto": {
+    "busca": "Great Isaiah Scroll 1QIsa",
+    "o_que_mostrar": "o Grande Rolo de Isaías de Qumran (pergaminho), no Santuário do Livro, Jerusalém",
+    "epoca": "c. séc. II a.C.",
+    "anos": [
+     -150,
+     -100
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "A Bíblia Livre traduz 'livro' em vários textos onde o original indica um rolo; o códice (livro de páginas) só se espalha depois do séc. I.",
+   "fonte_extra": [
+    {
+     "fonte": "Grande Rolo de Isaías (1QIsaᵃ), Museu de Israel",
+     "referencia": "manuscrito completo de Isaías achado na Caverna 1 de Qumran",
+     "data": "achado em 1947; copiado c. séc. II a.C. (aproximado)"
+    }
+   ]
+  },
+  {
+   "id": "tinta-pena",
+   "nome": "Tinta, pena e estojo de escriba",
+   "categoria": "escrita",
+   "original": "דְּיוֹ deyo; קֶסֶת qeset / μέλαν melan; κάλαμος kalamos",
+   "descricao": "Escrevia-se com um cálamo (caniço cortado em ponta) e tinta preta feita de fuligem e goma, ou de outros ingredientes. O escriba levava na cintura um estojo com tinteiro e penas; uma pequena faca servia para aparar a pena e cortar o rolo.",
+   "no_texto": "Baruque escrevia 'com tinta'; o rei corta o rolo com 'lâmina de escrever'; o homem vestido de linho em Ezequiel traz um estojo de escrivão; João prefere falar pessoalmente a escrever 'com tinta e pena'.",
+   "refs": [
+    "jeremias 36:18",
+    "jeremias 36:23",
+    "ezequiel 9:2",
+    "3-joao 1:13"
+   ],
+   "foto": {
+    "busca": "Qumran inkwell",
+    "o_que_mostrar": "tinteiro de barro ou de bronze do período romano, como os achados em Qumran",
+    "epoca": "séc. I a.C.-I d.C.",
+    "anos": [
+     -100,
+     68
+    ]
+   },
+   "reconstrucao": false,
+   "fonte_extra": [
+    {
+     "fonte": "Qumran (escavações de R. de Vaux)",
+     "referencia": "tinteiros de cerâmica e bronze no sítio",
+     "data": "anos 1950; séc. I a.C.-I d.C."
+    }
+   ]
+  },
+  {
+   "id": "tabua-escrever",
+   "nome": "Tábua de escrever (tabuinha de cera)",
+   "categoria": "escrita",
+   "original": "לוּחַ luach / πινακίδιον pinakidion",
+   "descricao": "Placas de madeira com a superfície coberta de cera, presas em pares como um pequeno caderno. Escrevia-se riscando a cera com um estilete; depois podia-se alisar e reutilizar.",
+   "no_texto": "Zacarias, ainda mudo, pede uma tábua e escreve 'O seu nome é João'; Habacuque recebe ordem de escrever a visão em tábuas.",
+   "refs": [
+    "lucas 1:63",
+    "habacuque 2:2",
+    "isaias 30:8"
+   ],
+   "foto": {
+    "busca": "Roman wax tablet stylus",
+    "o_que_mostrar": "tabuinhas de cera romanas com estilete (p. ex., de Pompeia ou Herculano)",
+    "epoca": "séc. I d.C.",
+    "anos": [
+     1,
+     79
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "Em Habacuque e Isaías as tábuas podem ser de outro material (madeira, pedra, barro); o texto não diz."
+  },
+  {
+   "id": "ostraco",
+   "nome": "Óstraco (caco escrito)",
+   "categoria": "escrita",
+   "original": "חֶרֶשׂ cheres",
+   "descricao": "Caco de cerâmica quebrada usado como material barato para bilhetes, listas e cartas, escritos com tinta. Muitos documentos hebraicos antigos que sobreviveram são óstracos.",
+   "no_texto": "A Bíblia fala de cacos como coisa sem valor (Jó se raspa com um caco). As cartas de Laquis, em óstracos, são dos dias do cerco babilônico mencionado em Jeremias 34:7.",
+   "refs": [
+    "jo 2:8",
+    "isaias 30:14",
+    "jeremias 34:7"
+   ],
+   "foto": {
+    "busca": "Lachish letters ostraca",
+    "o_que_mostrar": "uma das cartas de Laquis, óstraco com escrita hebraica a tinta",
+    "epoca": "c. 588-586 a.C.",
+    "anos": [
+     -589,
+     -586
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "A ligação entre a carta 4 e Jeremias 34:7 (Laquis e Azeca como últimas cidades) é muito citada, mas a interpretação da carta tem detalhes discutidos.",
+   "fonte_extra": [
+    {
+     "fonte": "Cartas de Laquis (escavações de J. L. Starkey), Museu Britânico e Museu de Israel",
+     "referencia": "óstracos com cartas militares; a carta 4 diz não ver os sinais de Azeca",
+     "data": "achadas em 1935; c. 588-586 a.C."
+    }
+   ]
+  },
+  {
+   "id": "bula",
+   "nome": "Selo e bula",
+   "categoria": "escrita",
+   "original": "חוֹתָם chotam",
+   "descricao": "Documentos eram enrolados, amarrados e lacrados com um pedaço de argila (bula) em que se imprimia um selo gravado com o nome do dono. A bula mostrava se o documento havia sido aberto.",
+   "no_texto": "Jeremias sela a escritura da compra do campo diante de testemunhas. Gemarias, filho de Safã, em cuja câmara Baruque leu o rolo, aparece numa bula achada em Jerusalém.",
+   "refs": [
+    "jeremias 32:10",
+    "jeremias 36:10",
+    "apocalipse 5:1"
+   ],
+   "foto": {
+    "busca": "Gemaryahu son of Shaphan bulla City of David",
+    "o_que_mostrar": "bula de argila com o nome 'Gemaryahu filho de Shaphan' ou outras bulas hebraicas do fim da Idade do Ferro",
+    "epoca": "fim do séc. VII-início do séc. VI a.C.",
+    "anos": [
+     -620,
+     -586
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "A identificação da bula com o Gemarias de Jeremias é provável, mas não certa (os nomes eram comuns). Bulas vendidas no mercado de antiguidades, como a 'de Baruque', têm autenticidade discutida.",
+   "fonte_extra": [
+    {
+     "fonte": "Cidade de Davi, 'Casa das Bulas' (escavações de Y. Shiloh)",
+     "referencia": "dezenas de bulas hebraicas, uma com o nome Gemaryahu filho de Shaphan",
+     "data": "achado de 1982; fim do séc. VII-início do séc. VI a.C."
+    }
+   ]
+  },
+  {
+   "id": "anel-selar",
+   "nome": "Anel de selar (sinete)",
+   "categoria": "escrita",
+   "original": "טַבַּעַת tabba'at; חוֹתָם chotam",
+   "descricao": "Anel ou pedra gravada, usado no dedo ou pendurado num cordão, para imprimir a marca do dono em argila ou cera. Equivalia a uma assinatura.",
+   "no_texto": "Faraó dá seu anel a José como sinal de autoridade; um decreto selado com o anel do rei da Pérsia não podia ser revogado; Deus fará Zorobabel 'como anel de selar'.",
+   "refs": [
+    "genesis 41:42",
+    "ester 8:8",
+    "ageu 2:23",
+    "genesis 38:18",
+    "jeremias 22:24"
+   ],
+   "foto": {
+    "busca": "Egyptian gold signet ring New Kingdom",
+    "o_que_mostrar": "anel de selar egípcio de ouro ou selo hebraico de pedra da Idade do Ferro",
+    "epoca": "Egito, Reino Novo / Judá, Idade do Ferro"
+   },
+   "reconstrucao": false
+  },
+  {
+   "id": "vaso-documentos",
+   "nome": "Jarro para guardar documentos",
+   "categoria": "escrita",
+   "original": "כְּלִי חָרֶשׂ keli cheres",
+   "descricao": "Documentos importantes eram guardados em jarros de barro tampados, que os protegiam da umidade e de animais.",
+   "no_texto": "Jeremias manda pôr as escrituras da compra 'em um vaso de barro, para que durem muitos dias'. Foi assim que alguns rolos de Qumran se conservaram.",
+   "refs": [
+    "jeremias 32:14"
+   ],
+   "foto": {
+    "busca": "Qumran scroll jar",
+    "o_que_mostrar": "jarro cilíndrico de barro com tampa, de Qumran",
+    "epoca": "séc. I a.C.-I d.C.",
+    "anos": [
+     -100,
+     68
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "Os jarros de Qumran são de séculos depois de Jeremias; ilustram o mesmo costume.",
+   "fonte_extra": [
+    {
+     "fonte": "Cavernas de Qumran",
+     "referencia": "jarros cilíndricos com tampa associados aos rolos do mar Morto",
+     "data": "achados a partir de 1947; séc. I a.C.-I d.C."
+    }
+   ]
+  },
+  {
+   "id": "filacterio",
+   "nome": "Filactérios (tefilin)",
+   "categoria": "escrita",
+   "original": "טוֹטָפֹת totafot / φυλακτήριον phylaktērion",
+   "descricao": "Pequenas caixas de couro com tiras de pergaminho onde se escreviam trechos da Lei, presas ao braço e à testa durante a oração. A prática nasce da leitura literal de Deuteronômio 6:8.",
+   "no_texto": "Jesus critica quem 'alarga os filactérios' para ser visto; o problema não é o objeto, mas a ostentação.",
+   "refs": [
+    "deuteronomio 6:8",
+    "mateus 23:5"
+   ],
+   "foto": {
+    "busca": "Qumran tefillin",
+    "o_que_mostrar": "caixinhas de tefilin de couro e pergaminhos minúsculos achados em Qumran",
+    "epoca": "séc. I a.C.-I d.C.",
+    "anos": [
+     -100,
+     68
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "A Bíblia Livre traduz totafot em Deuteronômio como 'frontais'.",
+   "fonte_extra": [
+    {
+     "fonte": "Cavernas de Qumran",
+     "referencia": "caixas de filactérios e pergaminhos com textos da Lei",
+     "data": "achados a partir de 1947; séc. I a.C.-I d.C."
+    }
+   ]
+  },
+  {
+   "id": "amuleto-prata",
+   "nome": "Amuletos de prata (bênção sacerdotal)",
+   "categoria": "escrita",
+   "original": "לְחָשִׁים lechashim (amuletos)",
+   "descricao": "Pequenas lâminas de prata enroladas, usadas como amuleto no pescoço. Duas achadas em Jerusalém trazem uma forma da bênção sacerdotal de Números 6, as citações de um texto bíblico mais antigas já encontradas.",
+   "no_texto": "A bênção 'O SENHOR te abençoe e te guarde' era usada na vida diária. Isaías menciona amuletos entre os enfeites das mulheres de Jerusalém.",
+   "refs": [
+    "numeros 6:24-26",
+    "isaias 3:20"
+   ],
+   "foto": {
+    "busca": "Ketef Hinnom silver amulets",
+    "o_que_mostrar": "os dois amuletos de prata de Ketef Hinom (Museu de Israel)",
+    "epoca": "fim do séc. VII-início do séc. VI a.C. (datação discutida)",
+    "anos": [
+     -650,
+     -550
+    ]
+   },
+   "reconstrucao": false,
+   "fonte_extra": [
+    {
+     "fonte": "Ketef Hinom, Jerusalém (escavações de G. Barkay), Museu de Israel",
+     "referencia": "dois rolinhos de prata com o texto da bênção sacerdotal",
+     "data": "achados em 1979; datados c. fim do séc. VII-início do séc. VI a.C., alguns propõem data mais tardia"
+    }
+   ]
+  },
+  {
+   "id": "kinnor",
+   "nome": "Harpa (kinnor, lira)",
+   "categoria": "musica",
+   "original": "כִּנּוֹר kinnor / κιθάρα kithara",
+   "descricao": "Instrumento de cordas leve, de moldura de madeira, tocado com os dedos ou com palheta. Pelo que mostram as imagens antigas, era uma lira, não a harpa grande moderna.",
+   "no_texto": "Davi tocava o kinnor para acalmar Saul; no exílio os cativos penduram as harpas nos salgueiros; no Apocalipse os anciãos têm harpas.",
+   "refs": [
+    "1-samuel 16:23",
+    "salmos 137:2",
+    "genesis 4:21",
+    "apocalipse 5:8"
+   ],
+   "foto": {
+    "busca": "Bar Kokhba coin lyre",
+    "o_que_mostrar": "moeda da revolta de Bar Kokhba com lira, ou marfim de Megido com tocador de lira",
+    "epoca": "132-135 d.C. (moeda)",
+    "anos": [
+     132,
+     135
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "A Bíblia Livre traduz kinnor como 'harpa'; a identificação com a lira é a mais aceita.",
+   "fonte_extra": [
+    {
+     "fonte": "Moedas da revolta de Bar Kokhba",
+     "referencia": "moedas com liras de formatos diferentes",
+     "data": "132-135 d.C."
+    },
+    {
+     "fonte": "Marfim de Megido",
+     "referencia": "placa com músico tocando lira diante de um governante",
+     "data": "c. séc. XIII-XII a.C."
+    }
+   ]
+  },
+  {
+   "id": "nebel",
+   "nome": "Saltério (nebel)",
+   "categoria": "musica",
+   "original": "נֵבֶל nevel",
+   "descricao": "Instrumento de cordas maior que o kinnor, talvez uma lira grande ou uma harpa angular; o nome lembra a palavra 'odre', o que pode indicar uma caixa de ressonância bojuda.",
+   "no_texto": "Aparece com frequência junto ao kinnor no culto organizado por Davi e na dedicação do templo.",
+   "refs": [
+    "1-samuel 10:5",
+    "1-cronicas 15:16",
+    "2-cronicas 5:12",
+    "salmos 150:3"
+   ],
+   "foto": {
+    "busca": "Bar Kokhba coin lyre wide",
+    "o_que_mostrar": "moeda de Bar Kokhba com lira larga, frequentemente identificada como nebel",
+    "epoca": "132-135 d.C.",
+    "anos": [
+     132,
+     135
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "A forma do nebel é discutida (lira grande, harpa ou alaúde); não há consenso. A Bíblia Livre usa 'saltério' e, no Salmo 150, 'lira'.",
+   "fonte_extra": [
+    {
+     "fonte": "Moedas da revolta de Bar Kokhba",
+     "referencia": "moedas com liras de formatos diferentes",
+     "data": "132-135 d.C."
+    }
+   ]
+  },
+  {
+   "id": "cimbalos",
+   "nome": "Címbalos",
+   "categoria": "musica",
+   "original": "צֶלְצְלִים tseltselim; מְצִלְתַּיִם metsiltayim / κύμβαλον kymbalon",
+   "descricao": "Pares de pratos de bronze batidos um contra o outro, de som forte. No templo eram tocados por levitas para marcar o canto.",
+   "no_texto": "Davi organiza cantores 'com címbalos'; o Salmo 150 pede címbalos sonoros; Paulo diz que, sem amor, quem fala é 'metal que soa'.",
+   "refs": [
+    "1-cronicas 15:16",
+    "salmos 150:5",
+    "2-samuel 6:5",
+    "1-corintios 13:1"
+   ],
+   "foto": {
+    "busca": "bronze cymbals Iron Age Levant",
+    "o_que_mostrar": "par de címbalos de bronze antigos achados em Israel (p. ex., Megido ou Hazor)",
+    "epoca": "Idade do Bronze Recente / Idade do Ferro",
+    "anos": [
+     -1400,
+     -600
+    ]
+   },
+   "reconstrucao": false,
+   "fonte_extra": [
+    {
+     "fonte": "Achados arqueológicos em Israel",
+     "referencia": "címbalos de bronze em sítios como Megido e Hazor",
+     "data": "Idade do Bronze e do Ferro"
+    }
+   ]
+  },
+  {
+   "id": "pandeiro",
+   "nome": "Pandeiro (adufe, tof)",
+   "categoria": "musica",
+   "original": "תֹּף tof",
+   "descricao": "Tambor de moldura redonda com couro esticado, tocado com a mão, sem as platinelas do pandeiro moderno. Era tocado sobretudo por mulheres em celebrações.",
+   "no_texto": "Miriã toma o pandeiro e as mulheres dançam depois da travessia do mar; Davi dança diante da arca com adufes.",
+   "refs": [
+    "exodo 15:20",
+    "2-samuel 6:5",
+    "salmos 150:4"
+   ],
+   "foto": {
+    "busca": "terracotta figurine woman frame drum Iron Age",
+    "o_que_mostrar": "estatueta de barro de mulher segurando um tambor de moldura, da Idade do Ferro",
+    "epoca": "Idade do Ferro (séc. IX-VII a.C.)",
+    "anos": [
+     -900,
+     -600
+    ]
+   },
+   "reconstrucao": false,
+   "fonte_extra": [
+    {
+     "fonte": "Estatuetas de barro do Levante",
+     "referencia": "figuras femininas com tambor de moldura (p. ex., da costa fenícia e de Israel)",
+     "data": "c. séc. IX-VII a.C."
+    }
+   ]
+  },
+  {
+   "id": "flauta",
+   "nome": "Flauta (halil, aulo)",
+   "categoria": "musica",
+   "original": "חָלִיל chalil / αὐλός aulos",
+   "descricao": "Instrumento de sopro feito de cana, osso ou metal. Muitas vezes era duplo: dois tubos tocados ao mesmo tempo, com palheta, de som agudo e penetrante.",
+   "no_texto": "Era tocada nas festas e nos funerais: Jesus encontra tocadores de flauta na casa do chefe cuja filha morrera e cita crianças que tocam flauta na praça.",
+   "refs": [
+    "1-samuel 10:5",
+    "mateus 9:23",
+    "mateus 11:17",
+    "apocalipse 18:22"
+   ],
+   "foto": {
+    "busca": "aulos double pipe ancient",
+    "o_que_mostrar": "aulo grego (flauta dupla) em museu ou pintura de vaso",
+    "epoca": "período grego-romano",
+    "anos": [
+     -500,
+     100
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "O nome hebraico de Gênesis 4:21 (ugav) é outro instrumento de sopro, de forma desconhecida."
+  },
+  {
+   "id": "trombeta-salpinx",
+   "nome": "Trombeta (salpinge)",
+   "categoria": "musica",
+   "original": "σάλπιγξ salpinx",
+   "descricao": "Trombeta reta e longa, de bronze ou de osso e bronze, usada pelos gregos e romanos em sinais militares e cerimônias.",
+   "no_texto": "Paulo pergunta quem se preparará para a guerra se a trombeta der som incerto; a 'última trombeta' anuncia a ressurreição.",
+   "refs": [
+    "1-corintios 14:8",
+    "1-corintios 15:52",
+    "mateus 24:31"
+   ],
+   "foto": {
+    "busca": "ancient Greek salpinx bronze bone",
+    "o_que_mostrar": "salpinge grega de bronze e osso (p. ex., no Museu de Belas Artes de Boston)",
+    "epoca": "Grécia clássica (séc. V a.C., aproximado)",
+    "anos": [
+     -450,
+     -400
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "Ver também 'trombetas de prata' e 'shofar', instrumentos de Israel que a Bíblia Livre também chama de trombeta."
+  },
+  {
+   "id": "espada",
+   "nome": "Espada",
+   "categoria": "guerra",
+   "original": "חֶרֶב cherev / μάχαιρα machaira",
+   "descricao": "Arma de bronze e, a partir da Idade do Ferro, de ferro. Na época do Novo Testamento os soldados romanos usavam o gládio, espada curta de dois gumes; a 'machaira' grega podia ser também uma espada curta ou faca grande.",
+   "no_texto": "Pedro corta a orelha de Malco com a espada; Hebreus diz que a palavra de Deus é mais afiada que espada de dois gumes; Paulo fala da 'espada do Espírito'.",
+   "refs": [
+    "joao 18:10",
+    "hebreus 4:12",
+    "efesios 6:17",
+    "1-samuel 13:19"
+   ],
+   "foto": {
+    "busca": "Roman gladius Mainz type",
+    "o_que_mostrar": "gládio romano do séc. I d.C. (tipo 'Mainz' ou 'Pompeia') com bainha",
+    "epoca": "séc. I d.C.",
+    "anos": [
+     1,
+     100
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "Para o Antigo Testamento, uma espada de ferro ou bronze da Idade do Ferro do Levante seria a peça adequada."
+  },
+  {
+   "id": "lanca",
+   "nome": "Lança",
+   "categoria": "guerra",
+   "original": "חֲנִית chanit / λόγχη lonchē",
+   "descricao": "Haste longa de madeira com ponta de bronze ou ferro, para golpear de perto ou arremessar. A lança de Golias tinha ponta de ferro muito pesada.",
+   "no_texto": "Saul dormia com a lança fincada à cabeceira; na cruz um soldado fura o lado de Jesus com uma lança.",
+   "refs": [
+    "1-samuel 17:7",
+    "1-samuel 26:7",
+    "joao 19:34"
+   ],
+   "foto": {
+    "busca": "Iron Age spearhead iron",
+    "o_que_mostrar": "ponta de lança de ferro da Idade do Ferro ou ponta de lança romana",
+    "epoca": "Idade do Ferro / período romano"
+   },
+   "reconstrucao": false
+  },
+  {
+   "id": "escudo",
+   "nome": "Escudo",
+   "categoria": "guerra",
+   "original": "מָגֵן magen; צִנָּה tsinnah / θυρεός thyreos",
+   "descricao": "Havia escudos pequenos e redondos e escudos grandes, que cobriam o corpo inteiro. Eram de madeira e couro, às vezes com metal; os de ouro de Salomão eram cerimoniais.",
+   "no_texto": "Paulo fala do 'escudo da fé' usando a palavra do escudo grande romano, que lembra uma porta; Salomão fez escudos de ouro para o palácio.",
+   "refs": [
+    "efesios 6:16",
+    "1-reis 10:16-17",
+    "1-samuel 17:6"
+   ],
+   "foto": {
+    "busca": "Dura-Europos scutum Yale",
+    "o_que_mostrar": "escudo romano (scutum) de madeira pintada, achado em Dura-Europos",
+    "epoca": "meados do séc. III d.C.",
+    "anos": [
+     250,
+     256
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "O escudo de Dura-Europos é dois séculos posterior a Paulo, mas é o exemplar mais completo do tipo.",
+   "fonte_extra": [
+    {
+     "fonte": "Dura-Europos, Síria (Galeria de Arte da Universidade de Yale)",
+     "referencia": "único scutum romano curvo praticamente completo conhecido",
+     "data": "c. 250-256 d.C."
+    }
+   ]
+  },
+  {
+   "id": "arco-flechas",
+   "nome": "Arco e flechas",
+   "categoria": "guerra",
+   "original": "קֶשֶׁת qeshet; חֵץ chets",
+   "descricao": "Arco de madeira, às vezes composto de madeira, chifre e tendão, com flechas de ponta de bronze ou ferro levadas numa aljava.",
+   "no_texto": "Jônatas é lembrado pelo arco que 'nunca retrocedeu'; Jeú mata Jorão com uma flecha; Paulo fala das 'flechas inflamadas do maligno'.",
+   "refs": [
+    "2-samuel 1:22",
+    "2-reis 9:24",
+    "efesios 6:16"
+   ],
+   "foto": {
+    "busca": "Lachish relief Assyrian archers",
+    "o_que_mostrar": "arqueiros assírios no relevo de Laquis, ou pontas de flecha achadas em Laquis",
+    "epoca": "c. 700-690 a.C.",
+    "anos": [
+     -701,
+     -690
+    ]
+   },
+   "reconstrucao": false,
+   "fonte_extra": [
+    {
+     "fonte": "Relevo de Laquis, palácio de Senaqueribe em Nínive (Museu Britânico)",
+     "referencia": "painéis do cerco de Laquis",
+     "data": "c. 700-690 a.C., sobre o cerco de 701 a.C."
+    }
+   ]
+  },
+  {
+   "id": "ariete",
+   "nome": "Aríete",
+   "categoria": "guerra",
+   "original": "כַּר kar",
+   "descricao": "Grande viga com ponta de metal, protegida dentro de uma máquina coberta com rodas, empurrada contra muros e portas da cidade cercada.",
+   "no_texto": "Ezequiel encena o cerco de Jerusalém com 'aríetes ao redor'; o relevo de Laquis mostra aríetes assírios subindo rampas, no tempo de Ezequias.",
+   "refs": [
+    "ezequiel 4:2",
+    "ezequiel 21:22",
+    "2-reis 18:13-14"
+   ],
+   "foto": {
+    "busca": "Lachish relief siege battering ram",
+    "o_que_mostrar": "relevo de Laquis com aríetes assírios subindo rampas de cerco",
+    "epoca": "c. 700-690 a.C.",
+    "anos": [
+     -701,
+     -690
+    ]
+   },
+   "reconstrucao": false,
+   "fonte_extra": [
+    {
+     "fonte": "Relevo de Laquis, palácio de Senaqueribe em Nínive (Museu Britânico)",
+     "referencia": "painéis do cerco de Laquis",
+     "data": "c. 700-690 a.C., sobre o cerco de 701 a.C."
+    },
+    {
+     "fonte": "Rampa de cerco de Laquis",
+     "referencia": "rampa assíria ainda visível no sítio",
+     "data": "701 a.C."
+    }
+   ]
+  },
+  {
+   "id": "carro-guerra",
+   "nome": "Carro de guerra",
+   "categoria": "guerra",
+   "original": "רֶכֶב rekhev; מֶרְכָּבָה merkavah",
+   "descricao": "Carro leve de duas rodas, puxado por cavalos, com condutor e arqueiro ou lanceiro. Era a arma mais cara e temida dos exércitos do Egito, de Canaã e da Assíria.",
+   "no_texto": "Faraó persegue Israel com seiscentos carros; Salomão importava carros do Egito; o salmista diz que uns confiam em carros, 'mas nós no nome do SENHOR'.",
+   "refs": [
+    "exodo 14:7",
+    "1-reis 10:29",
+    "salmos 20:7",
+    "naum 2:3-4"
+   ],
+   "foto": {
+    "busca": "Tutankhamun chariot Egyptian Museum",
+    "o_que_mostrar": "carro de Tutancâmon (Egito) ou carro assírio em relevo",
+    "epoca": "c. séc. XIV a.C. (Tutancâmon)",
+    "anos": [
+     -1332,
+     -1323
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "Quando ocorreu o êxodo é discutido (séc. XV ou XIII a.C. são as datas mais citadas); o carro de Tutancâmon é do mesmo tipo geral do Egito do Reino Novo.",
+   "fonte_extra": [
+    {
+     "fonte": "Tumba de Tutancâmon (Museu Egípcio, Cairo / Grande Museu Egípcio)",
+     "referencia": "carros de madeira completos",
+     "data": "reinado c. 1332-1323 a.C.; tumba aberta em 1922"
+    }
+   ]
+  },
+  {
+   "id": "couraca",
+   "nome": "Couraça",
+   "categoria": "guerra",
+   "original": "שִׁרְיוֹן shiryon / θώραξ thōrax",
+   "descricao": "Proteção do tronco: no Antigo Testamento, couraças de escamas de bronze costuradas em couro; no Novo, a cota de malha ou a couraça de placas dos soldados romanos.",
+   "no_texto": "Golias vestia couraça de escamas; Paulo fala da 'couraça da justiça' e da 'couraça da fé e do amor'.",
+   "refs": [
+    "1-samuel 17:5",
+    "efesios 6:14",
+    "1-tessalonicenses 5:8"
+   ],
+   "foto": {
+    "busca": "Roman lorica segmentata Kalkriese",
+    "o_que_mostrar": "couraça romana de placas (lorica segmentata) ou cota de malha (lorica hamata)",
+    "epoca": "séc. I d.C.",
+    "anos": [
+     9,
+     100
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "As tropas romanas na Judeia eram em boa parte auxiliares, que usavam mais a cota de malha do que a couraça de placas.",
+   "fonte_extra": [
+    {
+     "fonte": "Kalkriese, Alemanha",
+     "referencia": "peças de lorica segmentata ligadas à batalha da floresta de Teutoburgo",
+     "data": "9 d.C."
+    }
+   ]
+  },
+  {
+   "id": "capacete",
+   "nome": "Capacete",
+   "categoria": "guerra",
+   "original": "כּוֹבַע kova / περικεφαλαία perikephalaia",
+   "descricao": "Proteção de metal para a cabeça: cônica entre assírios, de bronze entre filisteus e gregos, e com protetor de nuca e de face entre os romanos.",
+   "no_texto": "Golias tinha capacete de bronze; Isaías mostra Deus com o 'capacete da salvação', imagem retomada por Paulo.",
+   "refs": [
+    "1-samuel 17:5",
+    "isaias 59:17",
+    "efesios 6:17"
+   ],
+   "foto": {
+    "busca": "Roman galea Imperial Gallic helmet",
+    "o_que_mostrar": "capacete romano (galea) do séc. I d.C.",
+    "epoca": "séc. I d.C.",
+    "anos": [
+     1,
+     100
+    ]
+   },
+   "reconstrucao": false
+  },
+  {
+   "id": "siclo-tiro",
+   "nome": "Siclo de Tiro (estáter de prata)",
+   "categoria": "moedas",
+   "original": "ἀργύρια argyria; στατήρ statēr",
+   "descricao": "Moeda de prata de boa pureza cunhada em Tiro, com a cabeça do deus Melcarte de um lado e uma águia do outro. Pesava cerca de 14 g e valia quatro dracmas.",
+   "no_texto": "Era a moeda exigida para o imposto do templo; muitos pensam que as trinta moedas de prata de Judas e o estáter da boca do peixe eram desse tipo.",
+   "refs": [
+    "mateus 26:15",
+    "mateus 17:27"
+   ],
+   "foto": {
+    "busca": "Tyrian shekel silver coin",
+    "o_que_mostrar": "siclo de prata de Tiro com Melcarte e águia",
+    "epoca": "c. 126 a.C.-66 d.C.",
+    "anos": [
+     -126,
+     66
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "Que as trinta moedas fossem siclos de Tiro é hipótese provável, não certeza; o texto diz só 'moedas de prata'.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná, tratado Bekhorot",
+     "referencia": "8:7, pagamentos do santuário em moeda de Tiro",
+     "data": "compilação c. 200 d.C."
+    },
+    {
+     "fonte": "Numismática",
+     "referencia": "série de siclos de Tiro",
+     "data": "cunhados c. 126/125 a.C. a c. 65/66 d.C."
+    }
+   ]
+  },
+  {
+   "id": "didracma",
+   "nome": "Meio siclo (didracma)",
+   "categoria": "moedas",
+   "original": "δίδραχμον didrachmon",
+   "descricao": "Moeda de prata de duas dracmas, metade do siclo de Tiro. Era o valor anual do imposto do templo pago por todo homem judeu adulto.",
+   "no_texto": "Os cobradores perguntam a Pedro se seu mestre paga 'as duas dracmas'; o imposto remonta ao meio siclo do santuário de Êxodo.",
+   "refs": [
+    "mateus 17:24",
+    "exodo 38:26"
+   ],
+   "foto": {
+    "busca": "Tyrian half shekel silver",
+    "o_que_mostrar": "meio siclo de prata de Tiro",
+    "epoca": "c. 126 a.C.-66 d.C.",
+    "anos": [
+     -126,
+     66
+    ]
+   },
+   "reconstrucao": false,
+   "fonte_extra": [
+    {
+     "fonte": "Numismática",
+     "referencia": "meios siclos de Tiro",
+     "data": "c. 126/125 a.C. a 65/66 d.C."
+    }
+   ]
+  },
+  {
+   "id": "denario",
+   "nome": "Denário de Tibério",
+   "categoria": "moedas",
+   "original": "δηνάριον dēnarion",
+   "descricao": "Moeda romana de prata, cerca de 3,8 g, com a cabeça do imperador e uma inscrição. Era o salário comum de um dia de trabalho de um diarista.",
+   "no_texto": "Mostrando um denário com a imagem de César, Jesus diz: 'Dai a César o que é de César, e a Deus o que é de Deus'. Na parábola, o dono da vinha paga um denário por dia.",
+   "refs": [
+    "mateus 22:19-21",
+    "mateus 20:2"
+   ],
+   "foto": {
+    "busca": "Tiberius denarius tribute penny",
+    "o_que_mostrar": "denário de prata de Tibério cunhado em Lugduno (Lyon)",
+    "epoca": "14-37 d.C.",
+    "anos": [
+     14,
+     37
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "Identificar a moeda do episódio com o denário de Tibério é tradicional e provável; denários de Augusto também circulavam.",
+   "fonte_extra": [
+    {
+     "fonte": "Numismática romana",
+     "referencia": "denário de Tibério, reverso com figura feminina sentada (PONTIF MAXIM)",
+     "data": "reinado de Tibério, 14-37 d.C."
+    }
+   ]
+  },
+  {
+   "id": "lepto",
+   "nome": "Lepto e prutá (moedinha de bronze)",
+   "categoria": "moedas",
+   "original": "λεπτόν lepton; פְּרוּטָה prutah",
+   "descricao": "A menor moeda em circulação na Judeia, de bronze, com 1 a 2 g. Foi cunhada por reis asmoneus, por Herodes e pelos governadores romanos, como Pôncio Pilatos.",
+   "no_texto": "A viúva lança no gazofilácio 'duas pequenas moedas', tudo o que tinha; Jesus fala de pagar 'até a última moeda'.",
+   "refs": [
+    "marcos 12:42",
+    "lucas 21:2",
+    "lucas 12:59"
+   ],
+   "foto": {
+    "busca": "Pontius Pilate prutah coin",
+    "o_que_mostrar": "prutá de bronze de Pôncio Pilatos ou de Alexandre Janeu",
+    "epoca": "séc. I a.C.-I d.C.",
+    "anos": [
+     -103,
+     36
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "Não se sabe qual cunhagem a viúva usou; as duas são da época e muito comuns.",
+   "fonte_extra": [
+    {
+     "fonte": "Numismática da Judeia",
+     "referencia": "prutot de Alexandre Janeu (103-76 a.C.) e de Pôncio Pilatos (c. 29-31 d.C.)",
+     "data": "séc. I a.C.-I d.C."
+    }
+   ]
+  },
+  {
+   "id": "dracma",
+   "nome": "Dracma",
+   "categoria": "moedas",
+   "original": "δραχμή drachmē",
+   "descricao": "Moeda grega de prata, de valor próximo ao do denário romano. Em Lucas 15:8 o grego diz 'dez dracmas'.",
+   "no_texto": "A mulher que perde uma das dez moedas acende a lâmpada e varre a casa até achá-la; assim Deus se alegra com quem é encontrado.",
+   "refs": [
+    "lucas 15:8-9",
+    "atos 19:19"
+   ],
+   "foto": {
+    "busca": "ancient Greek silver drachm",
+    "o_que_mostrar": "dracma de prata grega ou de cidade do Oriente romano",
+    "epoca": "período helenístico-romano",
+    "anos": [
+     -300,
+     100
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "A Bíblia Livre traduz 'moedas de prata'. Em Esdras e Neemias aparecem 'dracmas de ouro' (ver dárico)."
+  },
+  {
+   "id": "darico",
+   "nome": "Dárico persa",
+   "categoria": "moedas",
+   "original": "דַּרְכְּמוֹנִים darkemonim; אֲדַרְכֹנִים adarkonim",
+   "descricao": "Moeda de ouro do Império Persa, com o rei como arqueiro ajoelhado, criada no reinado de Dario I. Pesava pouco mais de 8 g.",
+   "no_texto": "Os que voltaram do exílio deram ouro para reconstruir o templo; a Bíblia Livre traduz 'dracmas de ouro'. Em 1 Crônicas 29:7 o cronista expressa a oferta de Davi nessa moeda posterior.",
+   "refs": [
+    "esdras 2:69",
+    "neemias 7:70",
+    "1-cronicas 29:7"
+   ],
+   "foto": {
+    "busca": "Persian gold daric archer",
+    "o_que_mostrar": "dárico de ouro com o rei persa arqueiro",
+    "epoca": "c. 500-330 a.C.",
+    "anos": [
+     -515,
+     -330
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "Se darkemonim são dáricos persas ou dracmas gregas é discutido; muitos estudiosos preferem dáricos.",
+   "fonte_extra": [
+    {
+     "fonte": "Numismática persa",
+     "referencia": "dáricos de ouro dos reis aquemênidas",
+     "data": "introduzidos c. 515-500 a.C. (aproximado) até 330 a.C."
+    }
+   ]
+  },
+  {
+   "id": "balanca",
+   "nome": "Balança",
+   "categoria": "moedas",
+   "original": "מֹאזְנַיִם moznayim / ζυγός zygos",
+   "descricao": "Barra com dois pratos pendurados; num prato se punha a prata ou mercadoria, no outro os pesos de pedra ou metal. Antes das moedas, a prata era pesada em cada compra.",
+   "no_texto": "Abraão pesa a prata para comprar o campo; a Lei exige 'balanças justas'; em Daniel o rei é 'pesado na balança e achado em falta'.",
+   "refs": [
+    "genesis 23:16",
+    "levitico 19:36",
+    "proverbios 11:1",
+    "daniel 5:27",
+    "apocalipse 6:5"
+   ],
+   "foto": {
+    "busca": "ancient bronze balance scale pans",
+    "o_que_mostrar": "balança antiga de bronze com dois pratos",
+    "epoca": "Idade do Ferro ao período romano"
+   },
+   "reconstrucao": false
+  },
+  {
+   "id": "pesos-pedra",
+   "nome": "Pesos de pedra (siclo, beca, pim)",
+   "categoria": "moedas",
+   "original": "אֶבֶן even; שֶׁקֶל sheqel; בֶּקַע beqa; פִּים pim",
+   "descricao": "Pequenos pesos de calcário em forma de cúpula, marcados com sinais e números, usados com a balança. O siclo de Judá pesava cerca de 11,5 g; o pim, cerca de 7,8 g; o beca era meio siclo.",
+   "no_texto": "A Lei proíbe ter 'peso grande e peso pequeno' na bolsa. Em 1 Samuel 13:21 a palavra hebraica pim (traduzida 'certo preço') só foi entendida depois que pesos com essa inscrição foram achados.",
+   "refs": [
+    "deuteronomio 25:13-15",
+    "proverbios 16:11",
+    "1-samuel 13:21",
+    "exodo 38:26"
+   ],
+   "foto": {
+    "busca": "Judean inscribed shekel weights limestone",
+    "o_que_mostrar": "pesos de calcário inscritos de Judá (siclo, pim, beca)",
+    "epoca": "fim da Idade do Ferro (séc. VIII-VI a.C.)",
+    "anos": [
+     -750,
+     -586
+    ]
+   },
+   "reconstrucao": false,
+   "fonte_extra": [
+    {
+     "fonte": "Pesos inscritos de Judá",
+     "referencia": "pesos de calcário com marcas de siclo, pim e beca",
+     "data": "séc. VIII-VI a.C.; valores médios aproximados"
+    }
+   ]
+  },
+  {
+   "id": "franjas",
+   "nome": "Franjas (tsitsit)",
+   "categoria": "vestuario",
+   "original": "צִיצִית tsitsit / κράσπεδον kraspedon",
+   "descricao": "Borlas de fios presas aos quatro cantos do manto, com um cordão azul, para lembrar os mandamentos. O azul vinha de um corante caro, extraído de moluscos marinhos.",
+   "no_texto": "Os doentes pediam para tocar 'a borda' (a franja) da roupa de Jesus; Jesus critica quem faz franjas compridas para ser visto.",
+   "refs": [
+    "numeros 15:38",
+    "marcos 6:56",
+    "mateus 23:5"
+   ],
+   "foto": {
+    "busca": "Hexaplex trunculus murex shell dye",
+    "o_que_mostrar": "concha de múrex (Hexaplex trunculus), molusco do qual se tirava o corante azul e púrpura",
+    "epoca": "uso antigo (Idade do Ferro ao período romano)"
+   },
+   "reconstrucao": true,
+   "nota": "Não há franjas do período bíblico com certeza; a foto mostra a fonte do corante. Qual molusco dava o azul bíblico é discutido.",
+   "fonte_extra": [
+    {
+     "fonte": "Arqueologia da costa fenícia e de Israel",
+     "referencia": "montes de conchas de múrex e cubas de tingimento (p. ex., Tel Dor, Tel Shiqmona)",
+     "data": "Idade do Ferro ao período romano"
+    }
+   ]
+  },
+  {
+   "id": "anel",
+   "nome": "Anel",
+   "categoria": "vestuario",
+   "original": "טַבַּעַת tabba'at / δακτύλιος daktylios",
+   "descricao": "Anel de ouro, prata ou bronze, às vezes com pedra gravada. Além de enfeite, podia ser sinal de autoridade e servir de selo.",
+   "no_texto": "O pai do filho pródigo manda pôr um anel em sua mão, sinal de que volta como filho; Tiago critica o tratamento especial a quem entra com anéis de ouro.",
+   "refs": [
+    "lucas 15:22",
+    "tiago 2:2",
+    "isaias 3:21"
+   ],
+   "foto": {
+    "busca": "Roman gold ring first century",
+    "o_que_mostrar": "anel de ouro romano do séc. I d.C.",
+    "epoca": "séc. I d.C.",
+    "anos": [
+     1,
+     100
+    ]
+   },
+   "reconstrucao": false
+  },
+  {
+   "id": "brincos",
+   "nome": "Brincos e argolas",
+   "categoria": "vestuario",
+   "original": "נֶזֶם nezem",
+   "descricao": "Argolas de ouro ou prata usadas nas orelhas e às vezes no nariz, por mulheres e também por homens. Eram uma forma de guardar riqueza.",
+   "no_texto": "O servo de Abraão dá a Rebeca um pendente de ouro; o ouro dos brincos foi usado no bezerro de ouro; a família de Jacó entrega os brincos ligados a deuses estranhos.",
+   "refs": [
+    "genesis 24:22",
+    "genesis 35:4",
+    "exodo 32:2-3",
+    "isaias 3:19"
+   ],
+   "foto": {
+    "busca": "Iron Age gold earrings Levant",
+    "o_que_mostrar": "brincos de ouro da Idade do Ferro do Levante",
+    "epoca": "Idade do Ferro",
+    "anos": [
+     -1200,
+     -586
+    ]
+   },
+   "reconstrucao": false
+  },
+  {
+   "id": "coroa",
+   "nome": "Coroa e diadema",
+   "categoria": "vestuario",
+   "original": "עֲטָרָה atarah; נֵזֶר nezer / στέφανος stephanos",
+   "descricao": "A coroa real era de ouro, às vezes com pedras preciosas; o diadema podia ser uma faixa. No mundo grego, o 'stephanos' era a coroa de folhas dada aos vencedores dos jogos.",
+   "no_texto": "Davi recebe a coroa do rei de Rabá; Joás é coroado no templo; Paulo contrasta a coroa 'perecível' dos atletas com a que não perece; os soldados tecem uma coroa de espinhos para Jesus.",
+   "refs": [
+    "2-samuel 12:30",
+    "2-reis 11:12",
+    "1-corintios 9:25",
+    "apocalipse 2:10",
+    "marcos 15:17"
+   ],
+   "foto": {
+    "busca": "ancient Greek gold oak wreath",
+    "o_que_mostrar": "coroa de folhas de ouro grega (período helenístico)",
+    "epoca": "séc. IV-III a.C.",
+    "anos": [
+     -350,
+     -250
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "Não há coroa real de Israel ou Judá conhecida; a coroa grega de folhas ilustra o 'stephanos' do Novo Testamento."
+  },
+  {
+   "id": "sandalias",
+   "nome": "Sandálias",
+   "categoria": "vestuario",
+   "original": "נַעַל na'al / ὑπόδημα hypodēma",
+   "descricao": "Solas de couro presas ao pé por tiras. Desatar e carregar as sandálias de alguém era serviço de escravo.",
+   "no_texto": "João Batista diz não ser digno de desatar a tira das sandálias de Jesus; em Rute, tirar o sapato confirmava um negócio.",
+   "refs": [
+    "marcos 1:7",
+    "rute 4:7",
+    "lucas 15:22"
+   ],
+   "foto": {
+    "busca": "Masada leather sandal",
+    "o_que_mostrar": "sandália de couro preservada em Massada ou na Caverna das Cartas",
+    "epoca": "séc. I-II d.C.",
+    "anos": [
+     1,
+     135
+    ]
+   },
+   "reconstrucao": false,
+   "fonte_extra": [
+    {
+     "fonte": "Massada e cavernas do deserto da Judeia",
+     "referencia": "sandálias de couro preservadas pelo clima seco",
+     "data": "séc. I-II d.C."
+    }
+   ]
+  },
+  {
+   "id": "tunica",
+   "nome": "Túnica",
+   "categoria": "vestuario",
+   "original": "כְּתֹנֶת ketonet / χιτών chitōn",
+   "descricao": "Veste de lã ou linho usada junto ao corpo, até o joelho ou o tornozelo, por baixo do manto. Em geral era feita de duas peças costuradas; as melhores eram tecidas de uma só peça.",
+   "no_texto": "Os soldados sortearam a túnica de Jesus, 'sem costura, toda tecida desde cima'.",
+   "refs": [
+    "joao 19:23"
+   ],
+   "foto": {
+    "busca": "Cave of Letters textile tunic",
+    "o_que_mostrar": "túnica de lã do período romano achada no deserto da Judeia (Caverna das Cartas)",
+    "epoca": "início do séc. II d.C.",
+    "anos": [
+     100,
+     135
+    ]
+   },
+   "reconstrucao": false,
+   "fonte_extra": [
+    {
+     "fonte": "Caverna das Cartas, Nahal Hever (escavações de Y. Yadin)",
+     "referencia": "túnicas e mantos de lã com faixas coloridas",
+     "data": "até 135 d.C."
+    }
+   ]
+  },
+  {
+   "id": "ossuario",
+   "nome": "Ossuário",
+   "categoria": "sepultamento",
+   "original": "(não citado com nome na Bíblia)",
+   "descricao": "Caixa de pedra calcária onde se guardavam os ossos de um morto, cerca de um ano após o sepultamento, quando o corpo já havia se decomposto. Era costume dos judeus de Jerusalém do séc. I a.C. ao séc. I d.C.",
+   "no_texto": "A Bíblia não descreve ossuários, mas eles ilustram a sepultura judaica da época de Jesus. Um ossuário com o nome 'José filho de Caifás' é ligado por muitos ao sumo sacerdote Caifás.",
+   "refs": [
+    "mateus 26:57",
+    "joao 18:13"
+   ],
+   "foto": {
+    "busca": "Caiaphas ossuary Israel Museum",
+    "o_que_mostrar": "ossuário decorado com a inscrição 'Yehosef bar Qayafa' (Museu de Israel)",
+    "epoca": "séc. I d.C.",
+    "anos": [
+     1,
+     70
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "A identificação do ossuário com o Caifás dos evangelhos é amplamente aceita, mas alguns estudiosos questionam a leitura do nome.",
+   "fonte_extra": [
+    {
+     "fonte": "Ossuário de Caifás, Jerusalém (Museu de Israel)",
+     "referencia": "ossuário com inscrição aramaica do nome Caifás, achado em túmulo na Floresta da Paz",
+     "data": "achado em 1990; séc. I d.C."
+    },
+    {
+     "fonte": "Flávio Josefo, Antiguidades Judaicas",
+     "referencia": "livro 18, menciona 'José, chamado Caifás' como sumo sacerdote",
+     "data": "c. 93-94 d.C."
+    }
+   ]
+  },
+  {
+   "id": "pedra-rolante",
+   "nome": "Pedra que fecha o túmulo",
+   "categoria": "sepultamento",
+   "original": "λίθος lithos",
+   "descricao": "Túmulos escavados na rocha eram fechados por uma pedra grande na entrada. Em alguns casos ricos a pedra era redonda e rolava num canal; na maioria, era um bloco quadrado encaixado.",
+   "no_texto": "As mulheres perguntam quem rolaria a pedra 'muito grande' da porta do sepulcro e a encontram já rolada.",
+   "refs": [
+    "marcos 16:3-4",
+    "joao 19:41",
+    "mateus 23:27"
+   ],
+   "foto": {
+    "busca": "rolling stone tomb Herod's family Jerusalem",
+    "o_que_mostrar": "pedra redonda de túmulo do séc. I em Jerusalém (túmulo da família de Herodes) ou da Galileia",
+    "epoca": "séc. I a.C.-I d.C.",
+    "anos": [
+     -50,
+     70
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "Pedras redondas eram raras antes de 70 d.C.; Kloner propôs que o túmulo de Jesus pode ter tido pedra quadrada. O texto de Marcos diz que ela foi 'rolada'.",
+   "fonte_extra": [
+    {
+     "fonte": "Amos Kloner, Biblical Archaeology Review",
+     "referencia": "estudo sobre pedras redondas em túmulos de Jerusalém do período do Segundo Templo",
+     "data": "1999"
+    }
+   ]
+  },
+  {
+   "id": "calcanhar-yehohanan",
+   "nome": "Calcanhar com cravo (Yehohanan)",
+   "categoria": "sepultamento",
+   "original": "σταυρός stauros; ἧλος hēlos (cravo)",
+   "descricao": "Osso do calcanhar de um homem chamado Yehohanan, crucificado no séc. I d.C., ainda atravessado por um cravo de ferro de cerca de 11,5 cm, com restos de madeira. É a única evidência física direta de crucificação desse período em Jerusalém.",
+   "no_texto": "Os evangelhos dizem pouco sobre a técnica, mas João fala do 'sinal dos cravos' nas mãos de Jesus ressuscitado. O achado confirma que se usavam cravos nos pés.",
+   "refs": [
+    "joao 19:17-18",
+    "joao 20:25",
+    "lucas 24:39"
+   ],
+   "foto": {
+    "busca": "Yehohanan heel bone nail crucifixion Israel Museum",
+    "o_que_mostrar": "réplica do osso do calcanhar com o cravo (Museu de Israel), apresentada com sobriedade",
+    "epoca": "séc. I d.C.",
+    "anos": [
+     1,
+     70
+    ]
+   },
+   "reconstrucao": false,
+   "nota": "Os ossos foram sepultados de novo; o que se expõe é réplica. Mostrar sem detalhes chocantes.",
+   "fonte_extra": [
+    {
+     "fonte": "Giv'at ha-Mivtar, Jerusalém (túmulo com ossuário de Yehohanan)",
+     "referencia": "calcanhar com cravo; estudo de J. Zias e E. Sekeles no Israel Exploration Journal",
+     "data": "achado em 1968; estudo de 1985; séc. I d.C."
+    }
+   ]
+  },
+  {
+   "id": "correntes",
+   "nome": "Correntes e grilhões",
+   "categoria": "outros",
+   "original": "ἅλυσις halysis",
+   "descricao": "Correntes de ferro presas aos pulsos ou tornozelos de prisioneiros; às vezes o preso ficava acorrentado a um soldado. Prisões também tinham troncos de madeira para prender os pés.",
+   "no_texto": "Pedro dorme entre dois soldados, preso com duas correntes, que caem quando o anjo o desperta; em Filipos, Paulo e Silas ficam com os pés no tronco.",
+   "refs": [
+    "atos 12:6-7",
+    "atos 16:24",
+    "juizes 16:21"
+   ],
+   "foto": {
+    "busca": "Roman iron shackles",
+    "o_que_mostrar": "grilhões de ferro romanos",
+    "epoca": "período romano",
+    "anos": [
+     -50,
+     300
+    ]
+   },
+   "reconstrucao": false
+  },
+  {
+   "id": "freio",
+   "nome": "Freio de cavalo",
+   "categoria": "outros",
+   "original": "χαλινός chalinos",
+   "descricao": "Peça de metal posta na boca do cavalo, ligada às rédeas, para guiar o animal. Pequena, controla um animal grande.",
+   "no_texto": "Tiago usa o freio para ensinar que a língua, pequena, dirige toda a vida.",
+   "refs": [
+    "tiago 3:3"
+   ],
+   "foto": {
+    "busca": "ancient bronze horse bit",
+    "o_que_mostrar": "freio de cavalo de bronze antigo (Oriente Próximo ou romano)",
+    "epoca": "Idade do Ferro / período romano"
+   },
+   "reconstrucao": false
+  }
+ ]
+}
