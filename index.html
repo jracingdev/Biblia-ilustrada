@@ -471,6 +471,8 @@ details.lei > summary{ cursor:pointer; padding:.6rem .8rem; display:flex; flex-w
 .chave-livro{ margin:0; padding:1rem 1.2rem; border-left:4px solid var(--gold); background:var(--surface); border-radius:var(--radius); font-family:var(--f-text); font-size:1.15rem } .chave-livro p{ margin:0 0 .4rem } .chave-livro cite{ font-style:normal; font-family:var(--f-ui); font-weight:700; font-size:.9rem }
 .temas{ display:grid; grid-template-columns:repeat(auto-fill, minmax(min(16rem,100%),1fr)); gap:.5rem; padding:0; list-style:none; margin:0 } .temas li{ background:var(--surface); border:1px solid var(--line); border-radius:var(--radius); padding:.7rem .9rem; font-weight:700 }
 .sec .ico{ font-weight:700; font-size:1.25rem }
+.contador{ margin:.6rem 0 0; font-variant-numeric:tabular-nums }
+.contador b{ color:var(--fg) }
 </style>
 </head>
 <body>
@@ -510,6 +512,7 @@ details.lei > summary{ cursor:pointer; padding:.6rem .8rem; display:flex; flex-w
 <footer class="pe">
   <div class="wrap">
     Texto bíblico: Bíblia Livre (BLIVRE), © Diego Santos, Mario Sérgio e Marco Teles, licença <a href="https://creativecommons.org/licenses/by/4.0/br/" target="_blank" rel="noopener">CC BY 4.0 Brasil</a>. Veja a <a href="#sobre">fonte completa</a>. Protótipo: ilustrações em produção.
+    <p id="contador" class="contador" hidden></p>
   </div>
 </footer>
 
@@ -2305,6 +2308,24 @@ Promise.all(["data/fontes.json", "data/livros.json", "data/estudo/apocalipse.jso
     return Promise.all([`data/textos/${fontes.padrao}/apocalipse.json`, `data/textos/${fontes.padrao}/at-apocalipse.json`].map(u => fetch(u).then(r => r.json()))); })
   .then(([texto, atT]) => { D.texto = texto; D.atTextos = atT; render(); })
   .catch(err => { view.innerHTML = `<p class="carregando" role="alert">Não foi possível carregar o livro (${esc(err.message)}). Recarregue a página.</p>`; });
+})();
+
+/* ---------- Contador de acessos (anônimo, sem cookies; serviço Abacus) ---------- */
+(function contador(){
+  const el = document.getElementById("contador"); if (!el) return;
+  const API = "https://abacus.jasoncameron.dev", NS = "biblia-hakham-jracingdev";
+  const publico = location.hostname === "jracingdev.github.io";
+  const ls = (k, v) => { try { if (v === undefined) return localStorage.getItem(k); localStorage.setItem(k, v); } catch { return null; } };
+  const ss = (k, v) => { try { if (v === undefined) return sessionStorage.getItem(k); sessionStorage.setItem(k, v); } catch { return null; } };
+  const novoVisitante = publico && !ls("hk-visitante"), novaVisita = publico && !ss("hk-visita");
+  const pedir = (acao, chave) => fetch(`${API}/${acao}/${NS}/${chave}`).then(r => r.ok ? r.json() : null).then(j => j && typeof j.value === "number" ? j.value : null).catch(() => null);
+  Promise.all([pedir(novoVisitante ? "hit" : "get", "visitantes"), pedir(novaVisita ? "hit" : "get", "acessos")]).then(([v, a]) => {
+    if (v === null && a === null) return;
+    if (novoVisitante) ls("hk-visitante", "1"); if (novaVisita) ss("hk-visita", "1");
+    const f = n => n === null ? "—" : n.toLocaleString("pt-BR");
+    el.innerHTML = `<b>${f(v)}</b> pessoas já visitaram · <b>${f(a)}</b> acessos <small>(contagem anônima, sem cookies)</small>`;
+    el.hidden = false;
+  });
 })();
 </script>
 </body>
