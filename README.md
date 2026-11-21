@@ -1,4 +1,4 @@
-# Bíblia Ilustrada
+# Bíblia de Estudo Hakham
 
 Plataforma web pública, interativa e acessível para ler e estudar a Bíblia, livro por livro, com ilustrações. O primeiro livro é **Apocalipse**.
 

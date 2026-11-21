@@ -1,0 +1,1395 @@
+{
+ "titulo": "O tabernáculo",
+ "introducao": "O tabernáculo era o santuário portátil que Israel montou no deserto, depois da saída do Egito, para que Deus “habitasse entre eles” (Êx 25:8). Êxodo 25-31 traz as instruções dadas a Moisés no monte; Êxodo 35-40 conta como o povo ofertou e os artesãos fizeram tudo, até a nuvem da glória encher a tenda. Levítico explica o culto que acontecia ali, e Números mostra como os levitas o desmontavam, carregavam e montavam no centro do acampamento. Esta página segue o caminho de quem entrava: do portão no leste, passando pelo altar e pela pia, até o lugar santíssimo, onde estava a arca. Em cada parte separamos o que o próprio texto diz e a leitura que o Novo Testamento (sobretudo Hebreus) faz depois, marcada como interpretação.",
+ "nota_geral": "Referências conferidas na Bíblia Livre. Os nomes seguem essa tradução (ex.: “tabernáculo do testemunho”, “átrio”, “propiciatório”). Campos 'leitura_crista' trazem a interpretação cristã; 'interpretacao: true' indica que a parte depende bastante de reconstrução ou de leitura simbólica. Datas: negativo = a.C. Para o êxodo há duas propostas principais (cerca de -1446, a partir de 1 Rs 6:1, ou cerca de -1260, a partir de dados arqueológicos); por isso as datas antes de Salomão são dadas só de forma relativa.",
+ "cubito_cm": 45,
+ "nota_medidas": "O texto mede tudo em côvados (o comprimento do cotovelo à ponta dos dedos). Usamos o côvado comum de cerca de 45 cm, como faz a maioria das reconstruções: assim o pátio teria cerca de 45 × 22,5 m e a tenda cerca de 13,5 × 4,5 × 4,5 m. Havia variações: o côvado egípcio “real” tinha cerca de 52 cm, e Ezequiel fala de um côvado longo, “de um côvado e um palmo” (Ez 40:5; 43:13). Com o côvado longo, todas as medidas crescem cerca de 15%. Os valores em centímetros são aproximados.",
+ "medidas_extra": {
+  "nota": "Base extrabíblica para o tamanho do côvado.",
+  "fonte_extra": [
+   {
+    "fonte": "Inscrição do túnel de Siloé (Jerusalém), hoje no Museu Arqueológico de Istambul",
+    "referencia": "A inscrição diz que o túnel tinha 1.200 côvados; o túnel medido tem cerca de 533 m, o que dá um côvado de cerca de 44 cm (cálculo aproximado e discutido)",
+    "data": "cerca de -700"
+   },
+   {
+    "fonte": "Medidas egípcias (côvado real) atestadas em réguas de côvado do Egito antigo",
+    "referencia": "côvado real de cerca de 52 cm (aproximado)",
+    "data": "segundo milênio a.C."
+   }
+  ]
+ },
+ "planta": {
+  "nota": "Coordenadas em côvados. Eixo x de leste para oeste: x = 0 é o lado leste, onde fica o portão; x = 100 é o lado oeste. Eixo y de sul para norte: y = 0 é a cortina do lado sul e y = 50 a do lado norte; y = 25 é o eixo central. Desenhando com o leste à esquerda e y crescendo para baixo, o sul fica em cima e o norte embaixo, o que é a planta girada (não espelhada). Em 'posicoes', x e y são o CENTRO de cada objeto; w é a medida ao longo de x e h ao longo de y. O texto dá as medidas do pátio, da tenda e dos móveis, e a ordem dos objetos (altar diante da porta, pia entre o altar e a tenda, mesa ao norte, candelabro ao sul, altar do incenso diante do véu, arca atrás do véu), mas NÃO dá a distância exata entre eles. As posições abaixo seguem a reconstrução tradicional, que divide o pátio em dois quadrados de 50 × 50: a arca no centro do quadrado oeste e o altar no centro do quadrado leste. Onde o texto não dá medida (pia, candelabro), w e h são só um tamanho de desenho.",
+  "patio": {
+   "comprimento": 100,
+   "largura": 50,
+   "altura_cortinas": 5,
+   "colunas": 60,
+   "nota": "100 côvados no sul e no norte (20 colunas cada), 50 no oeste (10 colunas) e 50 no leste (15 + 15 de cortinas, com 3 colunas cada, e a porta de 20 côvados com 4 colunas). A soma de 60 colunas é a contagem tradicional; o texto não soma.",
+   "refs": [
+    "exodo 27:9-18",
+    "exodo 38:9-20"
+   ]
+  },
+  "porta_patio": {
+   "largura": 20,
+   "altura": 5,
+   "y_inicio": 15,
+   "y_fim": 35,
+   "colunas": 4,
+   "refs": [
+    "exodo 27:14-16",
+    "exodo 38:18-19"
+   ]
+  },
+  "tenda": {
+   "comprimento": 30,
+   "largura": 10,
+   "altura": 10,
+   "x_inicio": 50,
+   "x_fim": 80,
+   "y_inicio": 20,
+   "y_fim": 30,
+   "refs": [
+    "exodo 26:15-25",
+    "exodo 26:1-14"
+   ],
+   "nota": "Medidas deduzidas das tábuas (Êx 26:15-25): 20 tábuas de 1,5 côvado em cada lado comprido dão 30 côvados; no fundo, 6 tábuas (9 côvados) mais as 2 tábuas de canto dão cerca de 10; a altura é o comprimento de uma tábua, 10 côvados. O texto não dá a espessura das tábuas, e por isso há outras propostas: interior de 9 côvados de largura, paredes de 1 côvado de espessura (tradição rabínica) ou ainda uma tenda com telhado em duas águas. A colocação da tenda na metade oeste do pátio também é reconstrução; o texto só diz que ela ficava dentro do átrio, com o altar diante da porta."
+  },
+  "santo": {
+   "comprimento": 20,
+   "largura": 10,
+   "x_inicio": 50,
+   "x_fim": 70,
+   "refs": [
+    "exodo 26:33",
+    "exodo 26:6"
+   ],
+   "nota": "O véu fica “debaixo dos colchetes” (Êx 26:33). As 10 cortinas de linho formam duas peças de 20 côvados unidas por colchetes; se a primeira peça cobre o teto desde a entrada, os colchetes ficam a 20 côvados da porta. Daí o santo de 20 e o santíssimo de 10 côvados (dedução)."
+  },
+  "santissimo": {
+   "comprimento": 10,
+   "largura": 10,
+   "altura": 10,
+   "x_inicio": 70,
+   "x_fim": 80,
+   "nota": "Um cubo de 10 côvados pela dedução acima; o templo de Salomão terá um santíssimo cúbico de 20 côvados (1 Rs 6:20).",
+   "refs": [
+    "exodo 26:33-34",
+    "1-reis 6:20"
+   ]
+  },
+  "veu_x": 70,
+  "porta_santo_x": 50,
+  "posicoes": [
+   {
+    "id": "pos-altar",
+    "objeto": "altar",
+    "nome": "Altar de bronze",
+    "x": 25,
+    "y": 25,
+    "w": 5,
+    "h": 5,
+    "altura": 3,
+    "nota": "5 × 5 × 3 côvados (Êx 27:1); “diante da porta do tabernáculo” (Êx 40:6). Centro do quadrado leste: posição tradicional.",
+    "refs": [
+     "exodo 27:1",
+     "exodo 40:6",
+     "exodo 40:29"
+    ]
+   },
+   {
+    "id": "pos-pia",
+    "objeto": "pia",
+    "nome": "Pia de bronze",
+    "x": 37.5,
+    "y": 25,
+    "w": 2,
+    "h": 2,
+    "nota": "“Entre o tabernáculo do testemunho e o altar” (Êx 30:18). O texto não dá medidas: tamanho só de desenho.",
+    "refs": [
+     "exodo 30:18",
+     "exodo 40:7",
+     "exodo 40:30"
+    ]
+   },
+   {
+    "id": "pos-mesa",
+    "objeto": "mesa",
+    "nome": "Mesa dos pães",
+    "x": 60,
+    "y": 28,
+    "w": 2,
+    "h": 1,
+    "altura": 1.5,
+    "nota": "2 × 1 × 1,5 côvado (Êx 25:23); no lado norte do lugar santo (Êx 26:35; 40:22). A orientação do comprimento é suposição.",
+    "refs": [
+     "exodo 25:23",
+     "exodo 26:35",
+     "exodo 40:22"
+    ]
+   },
+   {
+    "id": "pos-candelabro",
+    "objeto": "candelabro",
+    "nome": "Candelabro",
+    "x": 60,
+    "y": 22,
+    "w": 1,
+    "h": 1,
+    "nota": "No lado sul, “em frente da mesa” (Êx 26:35; 40:24). O texto não dá medidas: tamanho só de desenho.",
+    "refs": [
+     "exodo 26:35",
+     "exodo 40:24"
+    ]
+   },
+   {
+    "id": "pos-altar-incenso",
+    "objeto": "altar-incenso",
+    "nome": "Altar do incenso",
+    "x": 68.5,
+    "y": 25,
+    "w": 1,
+    "h": 1,
+    "altura": 2,
+    "nota": "1 × 1 × 2 côvados (Êx 30:2); “diante do véu” (Êx 30:6; 40:26). A distância exata do véu não é dada.",
+    "refs": [
+     "exodo 30:2",
+     "exodo 30:6",
+     "exodo 40:26"
+    ]
+   },
+   {
+    "id": "pos-arca",
+    "objeto": "arca",
+    "nome": "Arca e propiciatório",
+    "x": 75,
+    "y": 25,
+    "w": 1.5,
+    "h": 2.5,
+    "altura": 1.5,
+    "nota": "2,5 × 1,5 × 1,5 côvado (Êx 25:10). Desenhada com o comprimento de norte a sul e as varas apontando para o leste, porque as pontas das varas podiam ser vistas do santo (1 Rs 8:8); outras reconstruções giram a arca.",
+    "refs": [
+     "exodo 25:10",
+     "exodo 26:33",
+     "1-reis 8:8"
+    ]
+   }
+  ],
+  "percurso": [
+   "porta",
+   "altar-bronze",
+   "pia",
+   "porta-santo",
+   "mesa",
+   "candelabro",
+   "altar-incenso",
+   "veu",
+   "santissimo",
+   "arca"
+  ],
+  "nota_percurso": "Ordem de quem entra pelo leste. Do altar em diante o caminho era só dos sacerdotes; além do véu, só do sumo sacerdote, uma vez por ano (Lv 16:2, 34; Hb 9:7)."
+ },
+ "partes": [
+  {
+   "id": "porta",
+   "nome": "A porta do pátio",
+   "ordem": 1,
+   "descricao": "A única entrada do pátio, no meio do lado leste: uma cortina bordada pendurada em quatro colunas, entre dois trechos de cortina branca de 15 côvados cada.",
+   "materiais": "Fios azul, púrpura e carmesim com linho torcido, “obra de bordador”; colunas com bases de bronze, capitéis e molduras de prata.",
+   "medidas": "20 côvados de largura por 5 de altura (cerca de 9 × 2,25 m).",
+   "funcao": "Por ali entrava o israelita que trazia sua oferta. Os sacrifícios eram apresentados “à porta do tabernáculo do testemunho, diante do SENHOR” (Lv 1:3).",
+   "significado_texto": "O texto não explica o simbolismo da porta. Mostra apenas que havia um único acesso, voltado para o leste, e que o povo se aproximava por ali para encontrar Deus no altar.",
+   "leitura_crista": "Interpretação cristã: muitos leem a porta única à luz de Jesus que diz “Eu sou a porta” e “Eu sou o caminho” (Jo 10:9; 14:6). O Novo Testamento não liga esses versículos diretamente à porta do tabernáculo; a ligação é tipologia tradicional.",
+   "refs": [
+    "exodo 27:16",
+    "exodo 38:18-19",
+    "levitico 1:3"
+   ],
+   "refs_nt": [
+    "joao 10:9",
+    "joao 14:6"
+   ],
+   "interpretacao": true
+  },
+  {
+   "id": "cortinas-patio",
+   "nome": "As cortinas do pátio (átrio)",
+   "ordem": 2,
+   "descricao": "Uma cerca de tecido branco, presa em 60 colunas, que fechava o átrio em volta da tenda.",
+   "materiais": "Linho torcido; colunas com bases de bronze, ganchos e molduras de prata; estacas e cordas de bronze.",
+   "medidas": "100 côvados nos lados sul e norte, 50 no oeste e 50 no leste (contando a porta); altura de 5 côvados (cerca de 2,25 m).",
+   "funcao": "Separava o espaço santo do resto do acampamento. Um adulto não via o interior por cima da cortina, mas via a tenda, mais alta, e a fumaça do altar.",
+   "significado_texto": "O texto só descreve a construção. A separação entre o acampamento e o espaço de Deus aparece em todo o livro de Números: “o estranho que se chegar, morrerá” (Nm 1:51).",
+   "leitura_crista": "Interpretação: alguns leem o linho branco como imagem de pureza ou justiça, lembrando o “linho fino” de Ap 19:8; o Novo Testamento não aplica isso ao átrio.",
+   "refs": [
+    "exodo 27:9-18",
+    "exodo 38:9-17",
+    "numeros 1:51"
+   ],
+   "refs_nt": [
+    "apocalipse 19:8"
+   ],
+   "interpretacao": true
+  },
+  {
+   "id": "altar-bronze",
+   "nome": "O altar de bronze (altar do holocausto)",
+   "ordem": 3,
+   "descricao": "O primeiro objeto depois da porta: um caixote oco de madeira coberto de bronze, com uma ponta (chifre) em cada canto e uma grelha de bronze no meio.",
+   "materiais": "Madeira de acácia revestida de bronze; grelha, anéis, varas e utensílios (caldeirões, pás, bacias, garfos, braseiros) de bronze.",
+   "medidas": "5 × 5 côvados, 3 de altura (cerca de 2,25 × 2,25 × 1,35 m).",
+   "funcao": "Ali se queimavam os sacrifícios: o holocausto da manhã e da tarde (Êx 29:38-42) e as ofertas trazidas pelo povo. O sangue era espargido ao redor do altar e o fogo não podia se apagar.",
+   "significado_texto": "O próprio texto diz que o sangue no altar serve para fazer expiação (“a vida da carne no sangue está... para expiar vossas pessoas sobre o altar”, Lv 17:11) e que ali Deus se encontra com o povo (Êx 29:42).",
+   "leitura_crista": "Leitura do Novo Testamento: Hebreus diz que o sangue de animais não podia aperfeiçoar a consciência e que Cristo “ofereceu a si mesmo” de uma vez por todas (Hb 9:13-14; 10:10-12). Hebreus 13:10 fala de “um altar” cristão. Essa é a releitura cristã, não o sentido do texto de Êxodo em si.",
+   "refs": [
+    "exodo 27:1-8",
+    "exodo 38:1-7",
+    "exodo 29:38-42",
+    "levitico 1:3-5",
+    "levitico 6:12-13",
+    "levitico 17:11"
+   ],
+   "refs_nt": [
+    "hebreus 9:13-14",
+    "hebreus 10:10-12",
+    "hebreus 13:10-12"
+   ],
+   "interpretacao": false
+  },
+  {
+   "id": "pia",
+   "nome": "A pia de bronze",
+   "ordem": 4,
+   "descricao": "Uma bacia de bronze sobre um pé (base) de bronze, cheia de água, entre o altar e a entrada da tenda.",
+   "materiais": "Bronze, feito dos espelhos das mulheres “que vigiavam à porta do tabernáculo” (Êx 38:8).",
+   "medidas": "O texto não dá forma nem tamanho.",
+   "funcao": "Os sacerdotes lavavam as mãos e os pés antes de entrar na tenda ou de servir no altar.",
+   "significado_texto": "O texto dá a razão: lavar-se “para que não morram” (Êx 30:20-21). A purificação era condição para se aproximar de Deus. Na consagração, Arão e seus filhos foram lavados com água (Êx 29:4).",
+   "leitura_crista": "Interpretação cristã: a pia é muitas vezes ligada à purificação “com água pura” de Hb 10:22 e ao “banho do novo nascimento” de Tt 3:5; nenhum dos dois cita a pia pelo nome.",
+   "refs": [
+    "exodo 30:17-21",
+    "exodo 38:8",
+    "exodo 40:30-32",
+    "exodo 29:4"
+   ],
+   "refs_nt": [
+    "hebreus 10:22",
+    "tito 3:5"
+   ],
+   "interpretacao": true
+  },
+  {
+   "id": "tenda-coberturas",
+   "nome": "A tenda e suas quatro coberturas",
+   "ordem": 5,
+   "descricao": "Sobre a armação de tábuas havia quatro camadas: (1) por dentro, cortinas de linho colorido com querubins bordados, que eram “o tabernáculo” propriamente; (2) por cima, cortinas de pelo de cabra, “a tenda”; (3) uma cobertura de peles de carneiro tingidas de vermelho; (4) por fora, uma cobertura de “couros finos”.",
+   "materiais": "(1) 10 cortinas de linho torcido, azul, púrpura e carmesim, unidas por 50 laçadas e 50 colchetes de ouro; (2) 11 cortinas de pelo de cabra unidas por colchetes de bronze; (3) peles de carneiro tingidas de vermelho; (4) couros finos. A palavra hebraica da 4ª camada (tachash) é discutida: peles de animal marinho (dugongo ou golfinho), couro de cabra tratado ou simplesmente couro fino.",
+   "medidas": "Linho: cada cortina 28 × 4 côvados, conjunto de 40 × 28. Pelo de cabra: cada cortina 30 × 4 côvados, conjunto de 44 × 30 (uma dobrada na frente e meia sobrando atrás). As peles não têm medidas no texto.",
+   "funcao": "Fechava e protegia o santuário. Por dentro, os sacerdotes viam o teto de linho com querubins; por fora, o povo via só as coberturas de couro.",
+   "significado_texto": "O texto chama a camada de linho de “tabernáculo” (mishkan, “morada”) e a de pelo de cabra de “tenda” (Êx 26:1, 7). O nome já diz a função: era a morada de Deus no meio do povo (Êx 25:8; 29:45).",
+   "leitura_crista": "Interpretação: há leituras devocionais de cada camada (por exemplo, o vermelho como sacrifício); elas não estão no texto. O Novo Testamento usa a palavra “tabernáculo/tenda” para o corpo humano (2 Co 5:1; 2 Pe 1:13-14) e para a encarnação (Jo 1:14).",
+   "refs": [
+    "exodo 26:1-14",
+    "exodo 36:8-19",
+    "exodo 25:8",
+    "exodo 29:45"
+   ],
+   "refs_nt": [
+    "joao 1:14",
+    "2-corintios 5:1"
+   ],
+   "interpretacao": false
+  },
+  {
+   "id": "tabuas-bases",
+   "nome": "As tábuas e as bases de prata",
+   "ordem": 6,
+   "descricao": "A estrutura da tenda: tábuas de madeira em pé, revestidas de ouro, encaixadas em bases de prata e travadas por barras horizontais.",
+   "materiais": "Madeira de acácia coberta de ouro; 2 encaixes por tábua; 2 bases de prata por tábua; 5 barras por lado (a do meio atravessando de ponta a ponta), também cobertas de ouro.",
+   "medidas": "Cada tábua: 10 côvados de altura por 1,5 de largura. 20 tábuas ao sul, 20 ao norte, 6 a oeste e 2 nos cantos: 48 tábuas e 96 bases; com as 4 bases das colunas do véu, 100 bases, cada uma de um talento de prata (Êx 38:27).",
+   "funcao": "Dava forma e firmeza à tenda, mas podia ser desmontada e levada nos carros dos meraritas (Nm 3:36; 7:8).",
+   "significado_texto": "O texto liga a prata ao resgate: cada israelita contado dava meio siclo “para fazer expiação por vossas pessoas”, e essa prata virou as bases (Êx 30:11-16; 38:25-27). Pelas contas do próprio texto (603.550 homens × meio siclo = 100 talentos e 1.775 siclos), um talento equivale a 3.000 siclos.",
+   "leitura_crista": "Interpretação: alguns leem as bases de prata do resgate como imagem da redenção sobre a qual o povo se apoia (cf. 1 Pe 1:18-19). É tipologia, não afirmação do texto.",
+   "refs": [
+    "exodo 26:15-30",
+    "exodo 36:20-34",
+    "exodo 30:11-16",
+    "exodo 38:25-28",
+    "numeros 3:36"
+   ],
+   "refs_nt": [
+    "1-pedro 1:18-19"
+   ],
+   "interpretacao": true
+  },
+  {
+   "id": "porta-santo",
+   "nome": "A porta do lugar santo",
+   "ordem": 7,
+   "descricao": "A entrada da tenda, no lado leste: uma cortina bordada em cinco colunas.",
+   "materiais": "Azul, púrpura, carmesim e linho torcido, obra de bordador; 5 colunas de acácia cobertas de ouro, com bases de bronze.",
+   "medidas": "10 côvados de largura (a largura da tenda); altura de cerca de 10 côvados, a das tábuas (dedução).",
+   "funcao": "Só os sacerdotes passavam por ela para cuidar das lâmpadas, do incenso e dos pães.",
+   "significado_texto": "O texto marca a mudança de material: as bases ainda são de bronze, como as do átrio (Êx 26:37), mas dali para dentro tudo é revestido de ouro.",
+   "leitura_crista": "Interpretação: tipologia tradicional; o Novo Testamento não comenta esta cortina.",
+   "refs": [
+    "exodo 26:36-37",
+    "exodo 36:37-38"
+   ],
+   "interpretacao": true
+  },
+  {
+   "id": "mesa",
+   "nome": "A mesa dos pães da proposição",
+   "ordem": 8,
+   "descricao": "Mesa de madeira coberta de ouro, com borda e moldura, e varas para transporte, no lado norte do lugar santo.",
+   "materiais": "Acácia revestida de ouro puro; pratos, colheres, jarros e bacias de ouro.",
+   "medidas": "2 côvados de comprimento, 1 de largura, 1,5 de altura (cerca de 90 × 45 × 68 cm).",
+   "funcao": "Sobre ela ficavam 12 pães em duas fileiras de seis, com incenso puro; eram trocados a cada sábado e comidos pelos sacerdotes no lugar santo.",
+   "significado_texto": "O texto chama os pães de pão “diante de mim continuamente” (Êx 25:30) e diz que são “pacto perpétuo” da parte dos filhos de Israel (Lv 24:8). O número 12 corresponde às tribos, embora o texto não diga isso com todas as letras.",
+   "leitura_crista": "Interpretação cristã: costuma-se ligar a mesa a Jesus, que diz “Eu sou o pão da vida” (Jo 6:35). Jesus cita o episódio de Davi comendo esses pães (Mt 12:3-4).",
+   "refs": [
+    "exodo 25:23-30",
+    "exodo 37:10-16",
+    "levitico 24:5-9",
+    "exodo 40:22-23"
+   ],
+   "refs_nt": [
+    "joao 6:35",
+    "mateus 12:3-4"
+   ],
+   "interpretacao": false
+  },
+  {
+   "id": "candelabro",
+   "nome": "O candelabro (menorá)",
+   "ordem": 9,
+   "descricao": "Peça única de ouro batido a martelo, com uma haste central e seis braços, decorados com copos em forma de flor de amendoeira, botões e flores, e sete lâmpadas de azeite. Ficava no lado sul, diante da mesa.",
+   "materiais": "Um talento de ouro puro, incluindo tenazes e apagadores (Êx 25:39); azeite puro de oliva prensado.",
+   "medidas": "O texto não dá altura nem largura.",
+   "funcao": "Era a única luz do lugar santo. Os sacerdotes preparavam as lâmpadas para que ardessem “desde a tarde até a manhã” (Êx 27:21; Lv 24:3).",
+   "significado_texto": "O texto destaca que a luz deve arder “continuamente” diante do SENHOR (Lv 24:2-4). A forma de amendoeira é descrita, mas seu significado não é explicado.",
+   "leitura_crista": "Leitura cristã: Jesus diz “Eu sou a luz do mundo” (Jo 8:12), e no Apocalipse os sete candelabros de ouro representam as igrejas (Ap 1:12-13, 20). A ligação com o candelabro do tabernáculo é interpretação.",
+   "refs": [
+    "exodo 25:31-40",
+    "exodo 37:17-24",
+    "exodo 27:20-21",
+    "levitico 24:2-4",
+    "exodo 40:24-25"
+   ],
+   "refs_nt": [
+    "joao 8:12",
+    "apocalipse 1:12-13",
+    "apocalipse 1:20"
+   ],
+   "interpretacao": false
+  },
+  {
+   "id": "altar-incenso",
+   "nome": "O altar do incenso (altar de ouro)",
+   "ordem": 10,
+   "descricao": "Pequeno altar quadrado, com pontas nos cantos e uma coroa (borda) de ouro, logo diante do véu.",
+   "materiais": "Acácia revestida de ouro puro; incenso feito com receita própria, que não podia ser imitada (Êx 30:34-38).",
+   "medidas": "1 × 1 côvado, 2 de altura (cerca de 45 × 45 × 90 cm).",
+   "funcao": "Arão queimava incenso de manhã e à tarde, quando cuidava das lâmpadas. Era proibido oferecer nele “incenso estranho”, holocausto ou libação. Uma vez por ano suas pontas recebiam sangue da expiação.",
+   "significado_texto": "O texto o põe “diante do propiciatório... onde eu te testificarei de mim” (Êx 30:6): é o ponto mais próximo da presença que o sacerdote comum alcançava. A morte de Nadabe e Abiú, que ofereceram “fogo estranho”, mostra a seriedade desse serviço (Lv 10:1-2). Salmos 141:2 compara a oração ao incenso.",
+   "leitura_crista": "Leitura do Novo Testamento: no Apocalipse, o incenso sobe com “as orações dos santos” no altar de ouro diante do trono (Ap 8:3-4). Hebreus 9:4 cita o “incensário de ouro” ligado ao santíssimo, o que gera debate: pode ser o altar, ligado ao santíssimo pela função, ou o incensário do Dia da Expiação.",
+   "refs": [
+    "exodo 30:1-10",
+    "exodo 37:25-28",
+    "exodo 40:26-27",
+    "levitico 10:1-2",
+    "salmos 141:2"
+   ],
+   "refs_nt": [
+    "apocalipse 8:3-4",
+    "hebreus 9:4"
+   ],
+   "interpretacao": false
+  },
+  {
+   "id": "veu",
+   "nome": "O véu",
+   "ordem": 11,
+   "descricao": "A cortina que separava o lugar santo do santíssimo, com querubins tecidos, pendurada em quatro colunas.",
+   "materiais": "Azul, púrpura, carmesim e linho torcido, “de primoroso trabalho, com querubins”; 4 colunas de acácia cobertas de ouro sobre bases de prata.",
+   "medidas": "10 côvados de largura; altura de cerca de 10 (dedução).",
+   "funcao": "Fechava o acesso à arca. Só o sumo sacerdote o atravessava, uma vez por ano, no Dia da Expiação (Lv 16). Quando o acampamento se mudava, o véu era usado para cobrir a arca (Nm 4:5).",
+   "significado_texto": "O próprio texto diz para que serve: “aquele véu vos fará separação entre o lugar santo e o santíssimo” (Êx 26:33). Entrar sem ordem era morte (Lv 16:2).",
+   "leitura_crista": "Leitura do Novo Testamento: na morte de Jesus, “o véu do Templo se rasgou em dois, de cima até embaixo” (Mt 27:51; Mc 15:38; Lc 23:45) — era o véu do templo de Herodes, não o do tabernáculo. Hebreus diz que o caminho ao santuário foi aberto “através do véu, isto é, pela sua carne” (Hb 10:19-20) e que, enquanto o primeiro tabernáculo estava de pé, esse caminho não estava manifesto (Hb 9:8).",
+   "refs": [
+    "exodo 26:31-33",
+    "exodo 36:35-36",
+    "levitico 16:2",
+    "numeros 4:5"
+   ],
+   "refs_nt": [
+    "mateus 27:51",
+    "hebreus 10:19-20",
+    "hebreus 9:8"
+   ],
+   "interpretacao": false
+  },
+  {
+   "id": "santissimo",
+   "nome": "O lugar santíssimo",
+   "ordem": 12,
+   "descricao": "A sala do fundo, sem janelas nem lâmpada, onde ficava apenas a arca com o propiciatório.",
+   "materiais": "As mesmas tábuas douradas e cortinas com querubins do restante da tenda.",
+   "medidas": "10 × 10 × 10 côvados (dedução a partir das tábuas e dos colchetes; ver 'planta').",
+   "funcao": "No Dia da Expiação (dia 10 do sétimo mês), o sumo sacerdote entrava com incenso, para que a nuvem cobrisse o propiciatório, e com o sangue do bezerro e do bode, que espargia sobre e diante do propiciatório. Ninguém mais podia estar na tenda nessa hora.",
+   "significado_texto": "O texto diz que esse rito purificava o santuário “das imundícias dos filhos de Israel” e reconciliava o povo “de todos os seus pecados” (Lv 16:16, 30, 34).",
+   "leitura_crista": "Leitura do Novo Testamento: Hebreus compara a entrada anual do sumo sacerdote, “não sem sangue”, com a entrada de Cristo “de uma vez por todas” no santuário celeste “pelo seu próprio sangue” (Hb 9:7, 11-12, 24-26), e convida os cristãos a se aproximarem “com confiança” (Hb 4:16; 10:19).",
+   "refs": [
+    "levitico 16:2-17",
+    "levitico 16:29-34",
+    "exodo 26:33-34"
+   ],
+   "refs_nt": [
+    "hebreus 9:7",
+    "hebreus 9:11-12",
+    "hebreus 9:24-26",
+    "hebreus 10:19"
+   ],
+   "interpretacao": false
+  },
+  {
+   "id": "arca",
+   "nome": "A arca do testemunho (arca da aliança)",
+   "ordem": 13,
+   "descricao": "Um baú de madeira coberto de ouro por dentro e por fora, com borda de ouro, quatro anéis e duas varas que nunca eram retiradas.",
+   "materiais": "Acácia revestida de ouro puro; varas de acácia cobertas de ouro.",
+   "medidas": "2,5 côvados de comprimento, 1,5 de largura e 1,5 de altura (cerca de 1,13 × 0,68 × 0,68 m).",
+   "funcao": "Guardava “o testemunho” (as tábuas da Lei). Nas marchas, ia à frente do povo (Nm 10:33-36) e era levada nos ombros pelos coatitas, coberta pelo véu, por peles e por um pano azul (Nm 4:5-6, 15).",
+   "significado_texto": "O texto diz que ali Deus se encontrava com Moisés e falava “de sobre o propiciatório, dentre os dois querubins” (Êx 25:22). Mais tarde a arca é chamada a arca “do SENHOR dos exércitos, que estava assentado entre os querubins” (1 Sm 4:4).",
+   "leitura_crista": "Leitura do Novo Testamento: Hebreus 9:4-5 descreve a arca e seu conteúdo e diz que não é hora de falar “em detalhes”. No Apocalipse, a arca aparece no templo celeste (Ap 11:19). Outras ligações (com Cristo ou com Maria, em certas tradições) são interpretações posteriores.",
+   "refs": [
+    "exodo 25:10-16",
+    "exodo 37:1-5",
+    "numeros 4:5-6",
+    "numeros 4:15",
+    "numeros 10:33-36",
+    "1-samuel 4:4"
+   ],
+   "refs_nt": [
+    "hebreus 9:4-5",
+    "apocalipse 11:19"
+   ],
+   "interpretacao": false
+  },
+  {
+   "id": "propiciatorio",
+   "nome": "O propiciatório",
+   "ordem": 14,
+   "descricao": "A tampa de ouro maciço da arca, do mesmo tamanho dela, feita numa só peça com os dois querubins.",
+   "materiais": "Ouro puro.",
+   "medidas": "2,5 × 1,5 côvados (Êx 25:17); a espessura não é dada.",
+   "funcao": "Era o lugar onde o sumo sacerdote espargia o sangue no Dia da Expiação (Lv 16:14-15) e de onde Deus falava (Êx 25:22; Nm 7:89).",
+   "significado_texto": "O nome hebraico kapporet vem da mesma raiz de “fazer expiação” (kipper), que domina Levítico 16. A tradução “propiciatório” vem da Bíblia grega (hilastērion) e da latina.",
+   "leitura_crista": "Leitura do Novo Testamento: Hebreus 9:5 usa a palavra hilastērion para o propiciatório, e Paulo usa a mesma palavra ao dizer que Deus “propôs Jesus por sacrifício de reconciliação” (Rm 3:25). Muitos tradutores e comentaristas entendem aí uma alusão ao propiciatório; outros traduzem só como “sacrifício de expiação”.",
+   "refs": [
+    "exodo 25:17-22",
+    "exodo 37:6-9",
+    "levitico 16:14-15",
+    "numeros 7:89"
+   ],
+   "refs_nt": [
+    "hebreus 9:5",
+    "romanos 3:25"
+   ],
+   "interpretacao": false
+  },
+  {
+   "id": "querubins",
+   "nome": "Os querubins",
+   "ordem": 15,
+   "descricao": "Duas figuras de ouro batido, uma em cada ponta do propiciatório, com as asas estendidas para cima e o rosto voltado para o propiciatório. Querubins também estavam tecidos nas cortinas de linho e no véu.",
+   "materiais": "Ouro batido a martelo, na mesma peça do propiciatório; nos tecidos, bordado ou tecelagem artística.",
+   "medidas": "O texto não dá a altura nem descreve o rosto ou o corpo.",
+   "funcao": "Cobriam o propiciatório com as asas e marcavam o lugar de onde Deus falava.",
+   "significado_texto": "Na Bíblia, querubins aparecem guardando o caminho da árvore da vida (Gn 3:24) e junto ao trono de Deus (Ez 10; Sl 80:1). No tabernáculo, o texto liga os querubins à presença: Deus fala “dentre os dois querubins” (Êx 25:22).",
+   "leitura_crista": "Hebreus os chama de “querubins de glória” (Hb 9:5). Leituras simbólicas mais detalhadas são interpretação.",
+   "refs": [
+    "exodo 25:18-20",
+    "exodo 37:7-9",
+    "exodo 26:1",
+    "exodo 26:31",
+    "genesis 3:24",
+    "salmos 80:1"
+   ],
+   "refs_nt": [
+    "hebreus 9:5"
+   ],
+   "interpretacao": false,
+   "fonte_extra": [
+    {
+     "fonte": "Arte do antigo Oriente Próximo (esfinges e seres alados junto a tronos, em marfins e relevos fenícios e sírios)",
+     "referencia": "paralelo iconográfico geral usado por estudiosos para imaginar a forma dos querubins; não há imagem israelita dos querubins da arca",
+     "data": "cerca de -1200 a -700 (aproximado)"
+    }
+   ]
+  },
+  {
+   "id": "conteudo-arca",
+   "nome": "O que havia na arca",
+   "ordem": 16,
+   "descricao": "Dentro da arca estavam as duas tábuas de pedra da aliança. O texto também manda guardar “diante do testemunho” um vaso com maná e a vara de Arão que floresceu; o livro da Lei ficava “ao lado da arca”.",
+   "materiais": "Tábuas de pedra; vaso com um gômer de maná; a vara de Arão.",
+   "medidas": "—",
+   "funcao": "Memória da aliança e dos atos de Deus no deserto: a Lei, o alimento dado no deserto e a escolha do sacerdócio de Arão (Nm 17).",
+   "significado_texto": "Êxodo e Números dizem que o maná e a vara ficavam “diante do testemunho” (Êx 16:33-34; Nm 17:10), o que pode significar dentro ou junto da arca. Hebreus 9:4 diz que estavam “nela”. No tempo de Salomão, “na arca nenhuma coisa havia mais das duas tábuas de pedra” (1 Rs 8:9; 2 Cr 5:10). Os textos podem refletir épocas diferentes, ou “diante” pode indicar ao lado.",
+   "leitura_crista": "Interpretação: leituras cristãs relacionam a Lei, o maná (cf. Jo 6:31-35) e a vara que brotou (vida que volta) a Cristo; não há texto do Novo Testamento que faça essa tríplice aplicação.",
+   "refs": [
+    "exodo 25:16",
+    "exodo 25:21",
+    "deuteronomio 10:1-5",
+    "exodo 16:33-34",
+    "numeros 17:10",
+    "deuteronomio 31:26",
+    "1-reis 8:9",
+    "2-cronicas 5:10"
+   ],
+   "refs_nt": [
+    "hebreus 9:4",
+    "joao 6:31-35"
+   ],
+   "interpretacao": true
+  }
+ ],
+ "sacerdocio": [
+  {
+   "id": "sumo-sacerdote",
+   "nome": "O sumo sacerdote",
+   "quem": "Arão e, depois dele, um descendente seu por vez (Eleazar foi o primeiro sucessor, Nm 20:25-28).",
+   "vestes": [
+    {
+     "id": "veste-efode",
+     "nome": "Éfode",
+     "descricao": "Peça tipo avental ou colete, de ouro, azul, púrpura, carmesim e linho torcido, com duas ombreiras e um cinto da mesma obra. Em cada ombreira, uma pedra de ônix com seis nomes das tribos, “para memória”: Arão levava os nomes do povo diante do SENHOR “em seus dois ombros”.",
+     "refs": [
+      "exodo 28:6-14",
+      "exodo 39:2-7"
+     ]
+    },
+    {
+     "id": "veste-peitoral",
+     "nome": "Peitoral do juízo, com 12 pedras",
+     "descricao": "Bolsa quadrada dobrada, de um palmo de lado, presa ao éfode por correntes e cordões azuis. Tinha 4 fileiras de 3 pedras, cada uma gravada com o nome de uma tribo. Arão levava esses nomes “sobre seu coração”. Dentro ficavam o Urim e o Tumim, usados para consultar a Deus (o texto não explica como funcionavam). A identificação moderna de várias pedras é incerta; os nomes variam muito entre as traduções.",
+     "pedras": [
+      [
+       "sárdio",
+       "topázio",
+       "carbúnculo"
+      ],
+      [
+       "esmeralda",
+       "safira",
+       "diamante"
+      ],
+      [
+       "rubi",
+       "ágata",
+       "ametista"
+      ],
+      [
+       "berilo",
+       "ônix",
+       "jaspe"
+      ]
+     ],
+     "nota_pedras": "Nomes como estão na Bíblia Livre (Êx 28:17-20). Outras traduções trocam vários deles.",
+     "refs": [
+      "exodo 28:15-30",
+      "exodo 39:8-21",
+      "levitico 8:8"
+     ]
+    },
+    {
+     "id": "veste-manto",
+     "nome": "Manto do éfode, com sinos e romãs",
+     "descricao": "Veste inteira de azul, com abertura reforçada para a cabeça. Na barra, romãs de fio colorido alternadas com sinos de ouro, para que “se ouvisse seu som” quando o sumo sacerdote entrasse e saísse do santuário, “porque não morra”.",
+     "refs": [
+      "exodo 28:31-35",
+      "exodo 39:22-26"
+     ]
+    },
+    {
+     "id": "veste-tunica",
+     "nome": "Túnica e cinto",
+     "descricao": "Túnica de linho bordada, presa por um cinto bordado. Por baixo, calções de linho “para cobrir a carne”, exigidos de todos os sacerdotes.",
+     "refs": [
+      "exodo 28:39",
+      "exodo 28:42-43",
+      "exodo 39:27-29"
+     ]
+    },
+    {
+     "id": "veste-mitra",
+     "nome": "Mitra e lâmina “Santidade ao SENHOR”",
+     "descricao": "Turbante de linho. Na frente, preso com cordão azul, uma lâmina (placa) de ouro puro gravada como um selo: SANTIDADE AO SENHOR. Assim Arão “levará o pecado das coisas santas” ofertadas pelo povo, para que fossem aceitas.",
+     "refs": [
+      "exodo 28:36-38",
+      "exodo 39:30-31",
+      "levitico 8:9"
+     ]
+    },
+    {
+     "id": "veste-linho-expiacao",
+     "nome": "Roupas de linho do Dia da Expiação",
+     "descricao": "Para entrar no santíssimo, o sumo sacerdote não usava as vestes de ouro e cores, mas túnica, calções, cinto e mitra de linho simples, depois de se lavar.",
+     "refs": [
+      "levitico 16:4",
+      "levitico 16:23-24"
+     ]
+    }
+   ],
+   "funcao": "Ungido com o azeite da unção, ele chefiava o culto, consultava a Deus pelo Urim e Tumim, cuidava do candelabro e do incenso e era o único que entrava no lugar santíssimo, uma vez por ano, no Dia da Expiação, fazendo reconciliação por si, por sua casa e por todo o povo. Tinha regras de pureza mais rígidas que os demais.",
+   "leitura_crista": "Interpretação do Novo Testamento: Hebreus apresenta Jesus como “grande Sumo Sacerdote” que “penetrou nos céus”, capaz de se compadecer das fraquezas e que ofereceu a si mesmo de uma vez por todas (Hb 4:14-16; 7:26-27; 8:1-2). Hebreus o liga à ordem de Melquisedeque, não à de Arão (Hb 7:11).",
+   "refs": [
+    "exodo 28:1-4",
+    "exodo 29:4-9",
+    "levitico 8:6-12",
+    "levitico 16:17",
+    "levitico 21:10-15",
+    "numeros 20:25-28"
+   ],
+   "refs_nt": [
+    "hebreus 4:14-16",
+    "hebreus 7:11",
+    "hebreus 7:26-27",
+    "hebreus 8:1-2"
+   ]
+  },
+  {
+   "id": "sacerdotes",
+   "nome": "Os sacerdotes (filhos de Arão)",
+   "quem": "Os filhos de Arão: Nadabe, Abiú, Eleazar e Itamar (Nadabe e Abiú morreram sem filhos, Lv 10:1-2; Nm 3:4) e seus descendentes.",
+   "vestes": [
+    "Túnica de linho",
+    "cinto",
+    "tiara (gorro) de linho",
+    "calções de linho"
+   ],
+   "funcao": "Ofereciam os sacrifícios no altar, espargiam o sangue, mantinham o fogo aceso, cuidavam das lâmpadas, do incenso e dos pães, comiam as porções santas, ensinavam ao povo a diferença entre santo e comum (Lv 10:10-11) e abençoavam o povo (Nm 6:22-27). Só eles podiam tocar os objetos santos e entrar na tenda.",
+   "leitura_crista": "Interpretação do Novo Testamento: a igreja é chamada “sacerdócio real” (1 Pe 2:9; cf. Ap 1:6).",
+   "refs": [
+    "exodo 28:1",
+    "exodo 28:40-43",
+    "numeros 3:2-4",
+    "levitico 10:10-11",
+    "numeros 6:22-27",
+    "numeros 18:1-7"
+   ],
+   "refs_nt": [
+    "1-pedro 2:9",
+    "apocalipse 1:6"
+   ]
+  },
+  {
+   "id": "levitas",
+   "nome": "Os levitas",
+   "quem": "Toda a tribo de Levi, separada no lugar dos primogênitos de Israel e “dada” a Arão e seus filhos para ajudá-los. Os homens a partir de um mês somavam 22.000 (Nm 3:39).",
+   "funcao": "Montavam, desmontavam, carregavam e guardavam o tabernáculo, acampando em volta dele. Não podiam tocar os utensílios santos nem servir no altar. Idade de serviço: de 30 a 50 anos na contagem de Nm 4 e a partir de 25 anos em Nm 8:24-25 (muitos entendem os 25 como início de um período de preparo ou como mudança de regra).",
+   "refs": [
+    "numeros 1:50-53",
+    "numeros 3:5-13",
+    "numeros 4:3",
+    "numeros 8:24-25",
+    "numeros 18:2-4"
+   ]
+  },
+  {
+   "id": "gersonitas",
+   "nome": "Gersonitas (filhos de Gérson)",
+   "quem": "Famílias de Libni e Simei; 7.500 homens de um mês para cima; chefe Eliasafe, filho de Lael.",
+   "acampavam": "oeste, atrás do tabernáculo",
+   "funcao": "Carregavam os tecidos: as cortinas do tabernáculo, a tenda e suas coberturas, a cortina da porta, as cortinas e a porta do átrio, com as cordas. Recebiam 2 carros e 4 bois. Ficavam sob a supervisão de Itamar.",
+   "refs": [
+    "numeros 3:21-26",
+    "numeros 4:24-28",
+    "numeros 7:7"
+   ]
+  },
+  {
+   "id": "coatitas",
+   "nome": "Coatitas (filhos de Coate)",
+   "quem": "Famílias dos anramitas (a de Moisés e Arão), izaritas, hebronitas e uzielitas; 8.600 homens de um mês para cima; chefe Elisafã, filho de Uziel.",
+   "acampavam": "sul",
+   "funcao": "Carregavam nos ombros os objetos mais santos: a arca, a mesa, o candelabro, os altares e os utensílios, depois que Arão e seus filhos os cobriam. Não podiam tocá-los nem vê-los descobertos, “para que não morram”. Por isso não receberam carros. Ficavam sob a supervisão de Eleazar.",
+   "refs": [
+    "numeros 3:27-32",
+    "numeros 4:1-20",
+    "numeros 7:9"
+   ]
+  },
+  {
+   "id": "meraritas",
+   "nome": "Meraritas (filhos de Merari)",
+   "quem": "Famílias dos malitas e musitas; 6.200 homens de um mês para cima; chefe Zuriel, filho de Abiail.",
+   "acampavam": "norte",
+   "funcao": "Carregavam a parte pesada: tábuas, barras, colunas, bases, estacas e cordas da tenda e do átrio. Recebiam 4 carros e 8 bois. Ficavam sob a supervisão de Itamar.",
+   "refs": [
+    "numeros 3:33-37",
+    "numeros 4:29-33",
+    "numeros 7:8"
+   ]
+  }
+ ],
+ "acampamento": [
+  {
+   "lado": "leste",
+   "tribos": [
+    "juda",
+    "issacar",
+    "zebulom"
+   ],
+   "lider": "Judá (chefe Naassom, filho de Aminadabe)",
+   "total": 186400,
+   "ordem_marcha": 1,
+   "refs": [
+    "numeros 2:3-9"
+   ]
+  },
+  {
+   "lado": "sul",
+   "tribos": [
+    "ruben",
+    "simeao",
+    "gade"
+   ],
+   "lider": "Rúben (chefe Elizur, filho de Sedeur)",
+   "total": 151450,
+   "ordem_marcha": 2,
+   "refs": [
+    "numeros 2:10-16"
+   ]
+  },
+  {
+   "lado": "centro",
+   "tribos": [
+    "levi"
+   ],
+   "lider": "Os levitas com o tabernáculo, no meio dos exércitos",
+   "ordem_marcha": "no meio. Nm 2:17 põe o tabernáculo depois do grupo de Rúben; Nm 10:17-21 detalha: gersonitas e meraritas, com a estrutura, saíam logo depois de Judá, e os coatitas, com os objetos santos, depois de Rúben, para que a tenda já estivesse armada quando eles chegassem.",
+   "refs": [
+    "numeros 2:17",
+    "numeros 10:17-21"
+   ]
+  },
+  {
+   "lado": "oeste",
+   "tribos": [
+    "efraim",
+    "manasses",
+    "benjamim"
+   ],
+   "lider": "Efraim (chefe Elisama, filho de Amiúde)",
+   "total": 108100,
+   "ordem_marcha": 3,
+   "refs": [
+    "numeros 2:18-24"
+   ]
+  },
+  {
+   "lado": "norte",
+   "tribos": [
+    "da",
+    "aser",
+    "naftali"
+   ],
+   "lider": "Dã (chefe Aiezer, filho de Amisadai)",
+   "total": 157600,
+   "ordem_marcha": 4,
+   "refs": [
+    "numeros 2:25-31"
+   ]
+  }
+ ],
+ "acampamento_levitas": [
+  {
+   "lado": "leste",
+   "quem": "Moisés, Arão e seus filhos, diante da entrada",
+   "refs": [
+    "numeros 3:38"
+   ]
+  },
+  {
+   "lado": "oeste",
+   "quem": "Gersonitas",
+   "refs": [
+    "numeros 3:23"
+   ]
+  },
+  {
+   "lado": "sul",
+   "quem": "Coatitas",
+   "refs": [
+    "numeros 3:29"
+   ]
+  },
+  {
+   "lado": "norte",
+   "quem": "Meraritas",
+   "refs": [
+    "numeros 3:35"
+   ]
+  }
+ ],
+ "nota_acampamento": {
+  "texto": "O texto dá os lados e a ordem, não as distâncias. Total dos contados (homens de 20 anos para cima, sem os levitas): 603.550 (Nm 2:32). O tamanho desses números é discutido: muitos os leem literalmente; outros propõem que a palavra hebraica traduzida por “mil” (elef) às vezes indique um clã ou unidade militar, o que daria números bem menores.",
+  "refs": [
+   "numeros 2:32-34",
+   "numeros 1:52-53"
+  ]
+ },
+ "historia": [
+  {
+   "id": "h-sinai",
+   "titulo": "Construído no Sinai",
+   "ref": "exodo 40:17",
+   "data_relativa": "1º dia do 1º mês do 2º ano depois da saída do Egito",
+   "resumo": "O povo deu ofertas voluntárias em tal quantidade que Moisés mandou parar (Êx 36:5-7). Bezalel, de Judá, e Aoliabe, de Dã, dirigiram a obra. A tenda foi levantada cerca de nove meses depois da chegada ao Sinai (Êx 19:1; 40:17), e a nuvem da glória a encheu. Antes disso, Moisés usava uma “tenda” provisória fora do acampamento para encontrar Deus (Êx 33:7).",
+   "refs": [
+    "exodo 40:17",
+    "exodo 40:34-38",
+    "exodo 36:5-7",
+    "exodo 31:1-6",
+    "exodo 19:1",
+    "exodo 33:7"
+   ]
+  },
+  {
+   "id": "h-deserto",
+   "titulo": "Quarenta anos no deserto",
+   "ref": "numeros 10:11-12",
+   "data_relativa": "do 2º ano até a entrada em Canaã",
+   "resumo": "Quando a nuvem se levantava, os levitas desmontavam a tenda e o povo seguia; quando ela parava, acampavam ao redor. A arca ia à frente, e Moisés dizia: “Levanta-te, SENHOR”.",
+   "refs": [
+    "numeros 9:15-23",
+    "numeros 10:11-12",
+    "numeros 10:33-36"
+   ]
+  },
+  {
+   "id": "h-gilgal",
+   "titulo": "Gilgal",
+   "ref": "josue 4:19",
+   "data_relativa": "anos da conquista, sob Josué",
+   "resumo": "Depois da travessia do Jordão, em que a arca foi à frente, o acampamento ficou em Gilgal, perto de Jericó, e ali se celebrou a Páscoa. O texto não diz expressamente que o tabernáculo foi armado em Gilgal; a maioria supõe que ficou no acampamento até ser levado a Siló.",
+   "refs": [
+    "josue 3:3",
+    "josue 4:19",
+    "josue 5:10",
+    "josue 9:6",
+    "josue 10:43"
+   ]
+  },
+  {
+   "id": "h-silo",
+   "titulo": "Siló",
+   "ref": "josue 18:1",
+   "data_relativa": "período dos juízes, até Eli e Samuel",
+   "resumo": "Toda a congregação armou o tabernáculo em Siló, onde as terras foram sorteadas “diante do SENHOR”. Ali Ana orou e o menino Samuel servia; o texto chama o santuário de “templo” e menciona portas e um pilar, o que pode indicar construções fixas ao redor da tenda. Salmos e Jeremias lembram depois que Deus abandonou Siló.",
+   "refs": [
+    "josue 18:1",
+    "josue 19:51",
+    "juizes 18:31",
+    "1-samuel 1:3",
+    "1-samuel 1:9",
+    "1-samuel 3:3",
+    "salmos 78:60",
+    "jeremias 7:12-14"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Escavações em Khirbet Seilun (antiga Siló): expedição dinamarquesa (1926-1932) e escavação de Israel Finkelstein (1981-1984)",
+     "referencia": "camada de destruição por incêndio no fim da Idade do Ferro I, que muitos associam à guerra com os filisteus; a ligação é discutida",
+     "data": "cerca de -1050 (aproximado)"
+    }
+   ]
+  },
+  {
+   "id": "h-filisteus",
+   "titulo": "A arca levada pelos filisteus",
+   "ref": "1-samuel 4:11",
+   "data_relativa": "fim da vida de Eli",
+   "resumo": "Israel levou a arca de Siló para a batalha de Ebenézer, como se fosse garantia de vitória. Foi derrotado, os filhos de Eli morreram e a arca foi tomada. Ficou sete meses entre os filisteus (Asdode, diante de Dagom, e outras cidades), que foram feridos com chagas e a devolveram num carro. Ela passou por Bete-Semes e ficou cerca de vinte anos em Quiriate-Jearim, na casa de Abinadabe, separada do tabernáculo.",
+   "refs": [
+    "1-samuel 4:3-11",
+    "1-samuel 5:1-7",
+    "1-samuel 6:1",
+    "1-samuel 6:13-15",
+    "1-samuel 6:21",
+    "1-samuel 7:1-2"
+   ]
+  },
+  {
+   "id": "h-nobe",
+   "titulo": "Nobe",
+   "ref": "1-samuel 21:1",
+   "data_relativa": "reinado de Saul",
+   "resumo": "Em Nobe, “cidade dos sacerdotes”, o sacerdote Aimeleque deu a Davi os pães da proposição e a espada de Golias, guardada atrás do éfode. O texto não usa a palavra “tabernáculo”, mas os pães e o éfode indicam que o santuário estava ali. Saul mandou matar os sacerdotes de Nobe.",
+   "refs": [
+    "1-samuel 21:1-6",
+    "1-samuel 21:9",
+    "1-samuel 22:9-19"
+   ],
+   "refs_nt": [
+    "mateus 12:3-4"
+   ]
+  },
+  {
+   "id": "h-gibeao",
+   "titulo": "Gibeão",
+   "ref": "1-cronicas 21:29",
+   "data_relativa": "reinados de Davi e começo de Salomão",
+   "resumo": "Segundo Crônicas, o tabernáculo de Moisés e o altar de bronze de Bezalel estavam “no alto de Gibeão”, onde Zadoque e os sacerdotes ofereciam os sacrifícios diários. Salomão ofereceu ali mil holocaustos. Nesse tempo a arca e o tabernáculo estavam em lugares diferentes.",
+   "refs": [
+    "1-cronicas 16:39-40",
+    "1-cronicas 21:29",
+    "2-cronicas 1:3-6",
+    "1-reis 3:4"
+   ]
+  },
+  {
+   "id": "h-davi",
+   "titulo": "Davi leva a arca a Jerusalém",
+   "ref": "2-samuel 6:17",
+   "data_relativa": "reinado de Davi",
+   "resumo": "A primeira tentativa, num carro novo, terminou com a morte de Uzá, que tocou a arca. Depois de três meses na casa de Obede-Edom, os levitas a levaram nos ombros, com as varas, “como Moisés tinha mandado”, e Davi a pôs numa tenda que armou na cidade de Davi. Deus responde a Davi que andou “em tenda e em tabernáculo” desde o Egito (2 Sm 7:6).",
+   "refs": [
+    "2-samuel 6:2-17",
+    "1-cronicas 15:1",
+    "1-cronicas 15:15",
+    "2-cronicas 1:4",
+    "2-samuel 7:5-7"
+   ]
+  },
+  {
+   "id": "h-templo",
+   "titulo": "O templo de Salomão substitui o tabernáculo",
+   "ref": "1-reis 8:4",
+   "data_relativa": "dedicação do templo; a construção começa no 4º ano de Salomão (1 Rs 6:1)",
+   "resumo": "Os sacerdotes e levitas levaram ao templo a arca, “o tabernáculo do testemunho” e os utensílios santos. A arca foi posta no santíssimo, debaixo das asas dos grandes querubins, e a nuvem encheu a casa como tinha enchido a tenda. O texto não diz o que foi feito da tenda; muitos supõem que foi guardada no templo.",
+   "refs": [
+    "1-reis 8:1-11",
+    "2-cronicas 5:5",
+    "1-reis 6:1"
+   ],
+   "data": -960,
+   "nota_data": "Data aproximada: na cronologia mais usada (E. Thiele e revisões), o 4º ano de Salomão cai por volta de -966; outras cronologias variam em cerca de dez a trinta anos.",
+   "fonte_extra": [
+    {
+     "fonte": "Cronologia dos reis de Israel e Judá (E. R. Thiele, The Mysterious Numbers of the Hebrew Kings, e revisões)",
+     "referencia": "4º ano de Salomão por volta de -966",
+     "data": "1951 (1ª ed.); aproximado"
+    }
+   ]
+  },
+  {
+   "id": "h-fim-arca",
+   "titulo": "O fim da arca: desconhecido",
+   "ref": "2-cronicas 35:3",
+   "data_relativa": "a última menção histórica é no reinado de Josias",
+   "resumo": "A Bíblia não conta o que aconteceu com a arca. A última menção é a ordem de Josias para recolocá-la no templo (2 Cr 35:3). As listas do saque babilônico de Jerusalém não a citam (2 Rs 24:13; 25:13-17), e Jeremias anuncia um tempo em que não se dirá mais “arca do pacto”, nem se fará outra (Jr 3:16). Leituras propostas: (1) foi destruída ou levada pelos babilônios em -586; (2) foi escondida, segundo tradições judaicas (por Jeremias, numa caverna do monte Nebo, em 2 Macabeus; ou sob o próprio templo, na Mixná); (3) foi levada antes, talvez no saque do faraó Sisaque (1 Rs 14:25-26), hipótese moderna; (4) a tradição etíope diz que está em Axum. Nenhuma tem prova. No Apocalipse, a arca aparece numa visão do templo celeste (Ap 11:19).",
+   "refs": [
+    "2-cronicas 35:3",
+    "2-reis 24:13",
+    "2-reis 25:13-17",
+    "jeremias 3:16",
+    "1-reis 14:25-26"
+   ],
+   "refs_nt": [
+    "apocalipse 11:19"
+   ],
+   "data": -586,
+   "nota_data": "Destruição do templo por Nabucodonosor em -586 (alguns preferem -587).",
+   "interpretacao": true,
+   "fonte_extra": [
+    {
+     "fonte": "2 Macabeus (livro deuterocanônico, aceito por católicos e ortodoxos; não faz parte do cânon protestante nem da Bíblia Livre usada neste site)",
+     "referencia": "2 Macabeus 2:4-8: Jeremias esconde a tenda, a arca e o altar do incenso numa caverna do monte de Moisés",
+     "data": "séc. II a.C. (aproximado)"
+    },
+    {
+     "fonte": "Mixná",
+     "referencia": "tratado Shekalim 6:1-2: tradição de que a arca foi escondida no seu próprio lugar, no templo",
+     "data": "cerca de 200 d.C."
+    },
+    {
+     "fonte": "Talmude Babilônico",
+     "referencia": "tratado Yoma 53b-54a: rabinos discutem se a arca foi escondida ou levada à Babilônia",
+     "data": "cerca de 500 d.C. (aproximado)"
+    },
+    {
+     "fonte": "Kebra Nagast (“A glória dos reis”), obra etíope",
+     "referencia": "narra que Menelique, filho de Salomão e da rainha de Sabá, levou a arca para a Etiópia; a igreja de Santa Maria de Sião, em Axum, afirma guardá-la, sem acesso público",
+     "data": "séc. XIV d.C. (redação final, aproximado)"
+    },
+    {
+     "fonte": "Cronologia babilônica (Crônicas babilônicas) e cálculo bíblico",
+     "referencia": "queda de Jerusalém em -587 ou -586, conforme o modo de contar os anos de Zedequias",
+     "data": "-587/-586"
+    }
+   ]
+  }
+ ],
+ "no_nt": [
+  {
+   "id": "nt-joao-1-14",
+   "ref": "joao 1:14",
+   "refs": [
+    "joao 1:14"
+   ],
+   "nota": "“Habitou entre nós”: o grego eskēnōsen significa literalmente “armou tenda” (de skēnē, tenda, a mesma palavra que a Bíblia grega usa para o tabernáculo). E logo vem “vimos sua glória”, como a glória que enchia a tenda (Êx 40:34).",
+   "refs_at": [
+    "exodo 40:34"
+   ]
+  },
+  {
+   "id": "nt-hebreus-8",
+   "ref": "hebreus 8:1-5",
+   "refs": [
+    "hebreus 8:1-6",
+    "exodo 25:40"
+   ],
+   "nota": "Hebreus chama o tabernáculo de “esboço” e “sombra das coisas celestiais”, citando a ordem de fazer tudo “conforme o modelo que te foi mostrado no monte” (Êx 25:40). Cristo serve no “verdadeiro Tabernáculo, que o Senhor ergueu, e não o homem”."
+  },
+  {
+   "id": "nt-hebreus-9",
+   "ref": "hebreus 9:1-12",
+   "refs": [
+    "hebreus 9:1-12",
+    "hebreus 9:24-26"
+   ],
+   "nota": "A descrição mais detalhada do tabernáculo no Novo Testamento: o lugar santo com candelabro, mesa e pães; o santo dos santos com a arca, o maná, a vara e as tábuas; a entrada anual do sumo sacerdote. O autor lê tudo como “figura para o tempo presente” e diz que Cristo entrou “de uma vez por todas” com o próprio sangue."
+  },
+  {
+   "id": "nt-hebreus-10",
+   "ref": "hebreus 10:19-22",
+   "refs": [
+    "hebreus 10:19-22",
+    "hebreus 10:1"
+   ],
+   "nota": "“Caminho novo e vivo... através do véu, isto é, pela sua carne”: o acesso que antes era só do sumo sacerdote é apresentado como aberto a todos os que creem."
+  },
+  {
+   "id": "nt-veu",
+   "ref": "mateus 27:51",
+   "refs": [
+    "mateus 27:51",
+    "marcos 15:38",
+    "lucas 23:45"
+   ],
+   "nota": "Os três evangelhos sinóticos contam que o véu do templo se rasgou quando Jesus morreu; Mateus e Marcos dizem “de cima até embaixo”. Era o véu do templo de Herodes, herdeiro do véu do tabernáculo. O sentido é lido de modos diferentes: acesso aberto a Deus (como em Hb 10:20), juízo sobre o templo, ou ambos."
+  },
+  {
+   "id": "nt-2-corintios-5",
+   "ref": "2-corintios 5:1",
+   "refs": [
+    "2-corintios 5:1",
+    "2-pedro 1:13-14"
+   ],
+   "nota": "Paulo chama o corpo mortal de “casa terrestre deste tabernáculo” (tenda), que se desfaz, em contraste com “um edifício de Deus... não feito por mãos”. Pedro usa a mesma imagem para a própria morte próxima."
+  },
+  {
+   "id": "nt-apocalipse-21",
+   "ref": "apocalipse 21:3",
+   "refs": [
+    "apocalipse 21:3",
+    "apocalipse 21:22",
+    "ezequiel 37:27",
+    "levitico 26:11-12"
+   ],
+   "nota": "“Eis que o tabernáculo de Deus está com os seres humanos”: o final da Bíblia retoma a promessa de Lv 26:11-12 e Ez 37:27. Na nova Jerusalém não há templo, “porque o templo dela é o Senhor Deus... e o Cordeiro”."
+  },
+  {
+   "id": "nt-atos-7",
+   "ref": "atos 7:44",
+   "refs": [
+    "atos 7:44",
+    "atos 7:48"
+   ],
+   "nota": "Estêvão lembra o “Tabernáculo do testemunho” feito “segundo o modelo” e afirma que o Altíssimo não habita em templos feitos por mãos."
+  },
+  {
+   "id": "nt-apocalipse-11-15",
+   "ref": "apocalipse 11:19",
+   "refs": [
+    "apocalipse 11:19",
+    "apocalipse 15:5"
+   ],
+   "nota": "Em visões, João vê no céu o templo aberto, a arca do pacto e “o templo do tabernáculo do testemunho”, usando o nome do santuário do deserto."
+  },
+  {
+   "id": "nt-propiciatorio",
+   "ref": "romanos 3:25",
+   "refs": [
+    "romanos 3:25",
+    "hebreus 9:5"
+   ],
+   "nota": "A palavra grega hilastērion, que em Hb 9:5 designa o propiciatório, aparece em Rm 3:25 aplicada a Jesus; muitos entendem uma alusão ao propiciatório, outros um sentido geral de “sacrifício de expiação”."
+  }
+ ],
+ "comparacao_templos": [
+  {
+   "aspecto": "Local e época",
+   "tabernaculo": "Tenda portátil, feita no Sinai no 2º ano após o êxodo; acompanhou Israel no deserto e em Canaã (Siló, Nobe, Gibeão).",
+   "salomao": "Edifício de pedra e cedro no monte Moriá, em Jerusalém; começado no 4º ano de Salomão (cerca de -966) e destruído pelos babilônios em -586.",
+   "ezequiel": "Templo visto em visão por Ezequiel no exílio, sobre “um monte muito alto” (Ez 40:2); nunca foi construído conforme a descrição. É lido como profecia literal futura, como visão simbólica ou como projeto ideal.",
+   "herodes": "O segundo templo, reconstruído após o exílio (terminado no 6º ano de Dario, Ed 6:15, cerca de -515), foi ampliado e embelezado por Herodes, o Grande, a partir de cerca de -20; era o templo do tempo de Jesus, destruído pelos romanos em 70 d.C.",
+   "refs": [
+    "exodo 40:17",
+    "2-cronicas 3:1",
+    "1-reis 6:1",
+    "ezequiel 40:2",
+    "esdras 6:15",
+    "joao 2:20"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Flávio Josefo, Antiguidades Judaicas",
+     "referencia": "livro 15, cap. 11: Herodes começa a reconstrução no 18º ano do seu reinado",
+     "data": "cerca de 93 d.C."
+    },
+    {
+     "fonte": "Flávio Josefo, Guerra dos Judeus",
+     "referencia": "livro 6: incêndio e destruição do templo",
+     "data": "cerca de 75 d.C."
+    }
+   ]
+  },
+  {
+   "aspecto": "Medidas da casa",
+   "tabernaculo": "30 × 10 côvados, 10 de altura (dedução das tábuas).",
+   "salomao": "60 × 20 côvados, 30 de altura, mais um pórtico de 20 × 10 (1 Rs 6:2-3): o dobro do tabernáculo em planta.",
+   "ezequiel": "Santo de 40 × 20 côvados e santíssimo de 20 × 20 (Ez 41:2, 4), com côvado longo (Ez 40:5); pátio interno de 100 × 100 (Ez 40:47).",
+   "herodes": "Segundo a Mixná, a casa tinha 100 côvados de comprimento, de largura e de altura (contando paredes e anexos); santo de 40 e santíssimo de 20 côvados. Ed 3:12 e Ag 2:3 mostram que o segundo templo, antes de Herodes, parecia modesto aos que viram o primeiro.",
+   "refs": [
+    "exodo 26:15-25",
+    "1-reis 6:2-3",
+    "ezequiel 41:2-4",
+    "ezequiel 40:5",
+    "ezequiel 40:47",
+    "esdras 3:12",
+    "ageu 2:3"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "tratado Middot, cap. 4 (medidas da casa)",
+     "data": "cerca de 200 d.C. (descreve o templo destruído em 70 d.C.)"
+    }
+   ]
+  },
+  {
+   "aspecto": "Lugar santíssimo",
+   "tabernaculo": "Cubo de 10 côvados (dedução), separado por um véu.",
+   "salomao": "Cubo de 20 côvados revestido de ouro (1 Rs 6:20), com véu (2 Cr 3:14) e portas de oliveira.",
+   "ezequiel": "20 × 20 côvados (Ez 41:4).",
+   "herodes": "20 × 20 côvados; segundo a Mixná, separado por duas cortinas com um côvado de espaço entre elas. Estava vazio: no lugar da arca havia só uma pedra (a “pedra da fundação”).",
+   "refs": [
+    "exodo 26:33",
+    "1-reis 6:20",
+    "1-reis 6:31",
+    "2-cronicas 3:14",
+    "ezequiel 41:4"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "tratado Yoma 5:1-2 (as duas cortinas; a pedra no lugar da arca)",
+     "data": "cerca de 200 d.C."
+    },
+    {
+     "fonte": "Flávio Josefo, Guerra dos Judeus",
+     "referencia": "livro 5, cap. 5: no santíssimo “não havia nada”",
+     "data": "cerca de 75 d.C."
+    }
+   ]
+  },
+  {
+   "aspecto": "Altar dos sacrifícios",
+   "tabernaculo": "Bronze sobre madeira, 5 × 5 × 3 côvados.",
+   "salomao": "Bronze, 20 × 20 × 10 côvados (2 Cr 4:1).",
+   "ezequiel": "Altar em degraus, com fornalha de 12 × 12 côvados e escada voltada para o leste (Ez 43:13-17).",
+   "herodes": "Grande altar de pedras não lavradas; a Mixná dá 32 × 32 côvados na base (medida aproximada e discutida).",
+   "refs": [
+    "exodo 27:1",
+    "2-cronicas 4:1",
+    "ezequiel 43:13-17"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "tratado Middot, cap. 3 (o altar)",
+     "data": "cerca de 200 d.C."
+    }
+   ]
+  },
+  {
+   "aspecto": "Água para purificação",
+   "tabernaculo": "Uma pia de bronze, sem medidas no texto.",
+   "salomao": "O “mar de fundição”, de 10 côvados de diâmetro, para os sacerdotes, e 10 pias sobre bases com rodas, para lavar as ofertas (1 Rs 7:23, 38; 2 Cr 4:6).",
+   "ezequiel": "Não há pia; em vez disso, um rio sai de debaixo do templo para o leste e dá vida por onde passa (Ez 47:1-12).",
+   "herodes": "Havia uma bacia (pia) para os sacerdotes entre o átrio e o altar, segundo a tradição judaica posterior.",
+   "refs": [
+    "exodo 30:18",
+    "1-reis 7:23",
+    "1-reis 7:38",
+    "2-cronicas 4:6",
+    "ezequiel 47:1-12"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "tratados Middot 3:6 e Yoma 3:10 (a pia/bacia e suas torneiras; referência aproximada)",
+     "data": "cerca de 200 d.C."
+    }
+   ]
+  },
+  {
+   "aspecto": "Móveis do lugar santo",
+   "tabernaculo": "Um candelabro de sete lâmpadas, uma mesa dos pães, um altar de incenso de ouro.",
+   "salomao": "Dez candelabros de ouro, cinco de cada lado; altar de ouro; uma mesa dos pães (1 Rs 7:48) ou dez mesas (2 Cr 4:8), conforme o livro.",
+   "ezequiel": "Só se descreve um “altar de madeira” chamado “a mesa que está diante do SENHOR” (Ez 41:22); não há candelabro nem arca.",
+   "herodes": "Um candelabro de sete braços, a mesa dos pães e o altar do incenso; o candelabro e a mesa aparecem no Arco de Tito, em Roma, entre os despojos levados em 70 d.C.",
+   "refs": [
+    "exodo 25:23-40",
+    "exodo 30:1-6",
+    "1-reis 7:48-49",
+    "2-cronicas 4:7-8",
+    "ezequiel 41:22"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Arco de Tito, Roma (relevo do cortejo triunfal)",
+     "referencia": "relevo que mostra o candelabro de sete braços, a mesa e trombetas levados de Jerusalém",
+     "data": "cerca de 81-82 d.C."
+    }
+   ]
+  },
+  {
+   "aspecto": "Arca e querubins",
+   "tabernaculo": "A arca com o propiciatório e dois querubins de ouro batido.",
+   "salomao": "A mesma arca, agora só com as tábuas (1 Rs 8:9), sob dois querubins de madeira de oliva de 10 côvados de altura, revestidos de ouro (1 Rs 6:23-28).",
+   "ezequiel": "Não há arca na descrição; querubins aparecem só como decoração nas paredes (Ez 41:18-20). A glória de Deus volta e enche o templo pelo leste (Ez 43:1-5).",
+   "herodes": "Sem arca (ver acima).",
+   "refs": [
+    "exodo 25:10-22",
+    "1-reis 8:9",
+    "1-reis 6:23-28",
+    "ezequiel 41:18-20",
+    "ezequiel 43:1-5"
+   ]
+  },
+  {
+   "aspecto": "Glória e presença",
+   "tabernaculo": "A nuvem cobriu a tenda e a glória a encheu, a ponto de Moisés não poder entrar (Êx 40:34-35).",
+   "salomao": "A nuvem encheu a casa e os sacerdotes não puderam ministrar (1 Rs 8:10-11); Salomão reconhece que nem os céus podem conter Deus (1 Rs 8:27).",
+   "ezequiel": "Ezequiel vê a glória sair do primeiro templo (Ez 10) e voltar ao templo da visão (Ez 43:1-5).",
+   "herodes": "Os textos do segundo templo não relatam a nuvem da glória enchendo a casa. Para o Novo Testamento, a glória se manifesta em Jesus, que chama o próprio corpo de templo (Jo 1:14; 2:19-21) — leitura cristã.",
+   "refs": [
+    "exodo 40:34-35",
+    "1-reis 8:10-11",
+    "1-reis 8:27",
+    "ezequiel 43:1-5",
+    "joao 1:14",
+    "joao 2:19-21"
+   ]
+  }
+ ],
+ "nota_comparacao": "As colunas 'salomao' e 'ezequiel' vêm do texto bíblico; a coluna 'herodes' depende sobretudo de Josefo e da Mixná (fontes posteriores, marcadas em fonte_extra), cujas medidas nem sempre concordam entre si.",
+ "arqueologia": [
+  {
+   "id": "arq-arade",
+   "nome": "Santuário de Arade (Tel Arad)",
+   "resumo": "Numa fortaleza de Judá no Neguev, os arqueólogos acharam um pequeno santuário: um pátio com altar de pedras e terra, uma sala larga e, ao fundo, um nicho elevado com degraus, onde estavam uma ou duas pedras erguidas (massebot) e, na entrada, dois altares de incenso de pedra. É um dos poucos santuários israelitas escavados e mostra a mesma ideia de áreas cada vez mais restritas. O escavador viu no altar medidas próximas das do altar de bronze (cerca de 5 × 5 côvados); a datação e o sentido do santuário são discutidos. Hoje está reconstituído no Museu de Israel, em Jerusalém.",
+   "paralelo_com": "altar de bronze; altar do incenso; divisão em áreas",
+   "fonte_extra": [
+    {
+     "fonte": "Escavações de Yohanan Aharoni em Tel Arad (1962-1967) e reavaliação de Ze'ev Herzog",
+     "referencia": "santuário da fortaleza israelita de Arade; datações propostas entre os séc. X e VIII a.C.",
+     "data": "cerca de -800 a -700 (datação discutida)"
+    }
+   ],
+   "refs": [
+    "exodo 27:1",
+    "exodo 30:1-2"
+   ]
+  },
+  {
+   "id": "arq-timna",
+   "nome": "Santuário em tenda de Timna",
+   "resumo": "No vale de Timna, região de minas de cobre ao sul do mar Morto, um pequeno templo egípcio da deusa Hathor foi reaproveitado, numa fase atribuída aos midianitas, como santuário coberto por uma tenda: acharam-se furos de postes, restos de tecido de lã vermelha e amarela e uma pequena serpente de cobre. É um exemplo de santuário em tenda no deserto, na mesma região e época aproximada das narrativas do êxodo. Lembrar que Jetro, sogro de Moisés, era sacerdote de Midiã (Êx 18:1) e que Moisés fez uma serpente de bronze (Nm 21:9) — paralelos citados por estudiosos, não prova de ligação direta.",
+   "paralelo_com": "tenda como santuário; tecidos coloridos",
+   "fonte_extra": [
+    {
+     "fonte": "Escavações de Beno Rothenberg no vale de Timna (a partir de 1969)",
+     "referencia": "templo de Hathor (sítio 200), fase midianita com tenda e serpente de cobre",
+     "data": "séc. XII a.C. (cerca de -1150, aproximado)"
+    }
+   ],
+   "refs": [
+    "exodo 18:1",
+    "numeros 21:9"
+   ]
+  },
+  {
+   "id": "arq-ramses",
+   "nome": "Acampamento de Ramsés II em Qadesh",
+   "resumo": "Os relevos egípcios da batalha de Qadesh mostram o acampamento militar do faraó: um recinto retangular, cerca de duas vezes mais comprido que largo, com a entrada num dos lados menores e, no centro, a tenda real com uma antessala e uma sala do trono onde aparecem figuras aladas. Alguns estudiosos veem aí um paralelo de forma para o tabernáculo (pátio 2 × 1, tenda com duas salas, seres alados junto ao trono, a tenda do rei no meio do acampamento), sugerindo que o modelo de uma tenda real de guerra do fim da Idade do Bronze estava ao alcance de Israel. É uma comparação, não uma fonte do texto bíblico.",
+   "paralelo_com": "proporção do pátio; tenda com duas salas; querubins junto ao trono; acampamento ao redor",
+   "fonte_extra": [
+    {
+     "fonte": "Relevos da batalha de Qadesh em templos de Ramsés II (Abu Simbel, Ramesseum, Luxor e outros)",
+     "referencia": "cena do acampamento egípcio diante de Qadesh",
+     "data": "cerca de -1274"
+    },
+    {
+     "fonte": "Michael M. Homan, To Your Tents, O Israel! (Leiden: Brill)",
+     "referencia": "estudo comparativo das tendas no Antigo Israel e no antigo Oriente Próximo, incluindo o acampamento de Ramsés II",
+     "data": "2002"
+    }
+   ],
+   "refs": [
+    "exodo 27:18",
+    "numeros 2:2"
+   ]
+  },
+  {
+   "id": "arq-josefo",
+   "nome": "Descrição antiga do tabernáculo por Josefo",
+   "resumo": "O historiador judeu Flávio Josefo, no séc. I d.C., recontou a construção do tabernáculo com detalhes e explicações simbólicas próprias (por exemplo, as três partes como imagem da terra, do mar e do céu). Mostra como o tabernáculo era lido por judeus da época do Novo Testamento, mas não é testemunha ocular.",
+   "paralelo_com": "interpretação antiga",
+   "fonte_extra": [
+    {
+     "fonte": "Flávio Josefo, Antiguidades Judaicas",
+     "referencia": "livro 3, caps. 6-7",
+     "data": "cerca de 93 d.C."
+    }
+   ],
+   "refs": [
+    "exodo 25:8-9"
+   ]
+  },
+  {
+   "id": "arq-tabuas-rabinicas",
+   "nome": "Tradição rabínica sobre as tábuas",
+   "resumo": "Textos rabínicos discutem as medidas que a Bíblia não dá, como a espessura das tábuas (um côvado embaixo, segundo uma opinião) e como as cortinas caíam sobre a armação. Daí vêm reconstruções com interior um pouco diferente de 30 × 10 côvados.",
+   "paralelo_com": "medidas da tenda",
+   "fonte_extra": [
+    {
+     "fonte": "Talmude Babilônico",
+     "referencia": "tratado Shabbat, por volta das folhas 98a-98b (discussão sobre as tábuas do tabernáculo; referência aproximada)",
+     "data": "cerca de 500 d.C. (aproximado)"
+    }
+   ],
+   "refs": [
+    "exodo 26:15-25"
+   ]
+  }
+ ]
+}

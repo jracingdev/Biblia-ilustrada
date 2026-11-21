@@ -1,0 +1,4211 @@
+{
+ "titulo": "As orientações de Paulo às igrejas",
+ "introducao": "Paulo, judeu de Tarso e fariseu, perseguiu os primeiros cristãos até que, segundo seu próprio relato, o Cristo ressuscitado lhe apareceu e o chamou para levar o evangelho às nações. Durante cerca de trinta anos, ele viajou pelo mundo romano fundando comunidades e mantendo contato com elas por meio de cartas, ditadas a secretários e levadas por colaboradores. Essas cartas não são tratados de teologia escritos de uma vez: cada uma responde a perguntas, conflitos e necessidades concretas de uma igreja ou de uma pessoa. Por isso, para entender o que Paulo ensina sobre um tema, é útil reunir o que ele disse em várias cartas e lembrar a situação de cada uma. Aqui as orientações estão organizadas por tema; onde as igrejas leem os textos de maneiras diferentes, as principais leituras são apresentadas sem escolher entre elas.",
+ "nota_cronologia": "Datas aproximadas, baseadas na cronologia mais usada, que parte de Atos e da inscrição de Gálio (Paulo em Corinto c. 50-52 d.C.). Os campos ano_min e ano_max são anos d.C. (positivos). Outras cronologias deslocam algumas cartas em poucos anos; para as cartas de autoria debatida, as datas indicadas valem para a hipótese de autoria de Paulo (quem as atribui a discípulos costuma datá-las entre c. 70 e 100 d.C.). A ordem das cartas na Bíblia segue o tamanho, não a data.",
+ "nota_hebreus": {
+  "slug": "hebreus",
+  "nota": "Hebreus não traz o nome do autor. Por muito tempo, sobretudo no Oriente e depois em toda a igreja, foi lida junto com as cartas de Paulo, e algumas tradições e bíblias a chamam de 'Epístola de Paulo aos Hebreus'. Já na antiguidade se notava que o estilo é diferente; nomes propostos incluem Barnabé, Apolo, Lucas, Priscila e outros. Por isso ela não entra aqui na sistematização dos ensinos de Paulo, embora tenha afinidades com ele (menciona Timóteo, 13:23).",
+  "refs": [
+   "hebreus 1:1-2",
+   "hebreus 2:3",
+   "hebreus 13:22-24"
+  ],
+  "fonte_extra": [
+   {
+    "fonte": "Papiro P46 (Chester Beatty / Universidade de Michigan)",
+    "referencia": "Um dos manuscritos mais antigos das cartas de Paulo; coloca Hebreus logo depois de Romanos.",
+    "data": "c. 200 d.C. (alguns estudiosos propõem data mais antiga)"
+   },
+   {
+    "fonte": "Eusébio de Cesareia, História Eclesiástica 6.25",
+    "referencia": "Cita Orígenes: os pensamentos de Hebreus são do apóstolo, mas 'quem escreveu a carta, só Deus sabe'.",
+    "data": "início do séc. IV d.C. (citando Orígenes, séc. III)"
+   }
+  ]
+ },
+ "grupos": [
+  "doutrina",
+  "vida cristã",
+  "igreja",
+  "família e sociedade",
+  "esperança"
+ ],
+ "cartas": [
+  {
+   "slug": "romanos",
+   "destinatarios": "igreja em Roma (cristãos de origem judaica e de outras nações)",
+   "de_onde": "Corinto (provavelmente)",
+   "quando": "c. 56-57 d.C.",
+   "ano_min": 56,
+   "ano_max": 57,
+   "ocasiao": "Paulo ainda não conhecia a igreja de Roma. Ia a Jerusalém levar uma oferta e depois pretendia passar por Roma a caminho da Espanha; escreve para se apresentar, expor o evangelho que pregava e ajudar judeus e não judeus a conviverem.",
+   "tema": "A justiça de Deus revelada no evangelho, para judeus e gregos, recebida pela fé; vida no Espírito; o lugar de Israel; amor prático na comunidade.",
+   "autoria": "Autoria de Paulo aceita praticamente por todos. Tércio escreveu a carta como secretário (16:22).",
+   "refs": [
+    "romanos 1:7",
+    "romanos 1:10-13",
+    "romanos 1:16-17",
+    "romanos 15:23-26",
+    "romanos 16:1-2",
+    "romanos 16:22-23"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Inscrição de Erasto (pavimento junto ao teatro de Corinto)",
+     "referencia": "Um Erasto que pavimentou a praça à própria custa como edil; se é o mesmo de Romanos 16:23 é debatido.",
+     "data": "séc. I d.C."
+    },
+    {
+     "fonte": "Suetônio, Vida de Cláudio 25.4",
+     "referencia": "Diz que Cláudio expulsou os judeus de Roma por tumultos ligados a um certo 'Cresto'; muitos o relacionam com Atos 18:2. A data de 49 d.C. vem de Orósio (séc. V) e é discutida.",
+     "data": "c. 49 d.C. (aproximado)"
+    }
+   ]
+  },
+  {
+   "slug": "1-corintios",
+   "destinatarios": "igreja em Corinto",
+   "de_onde": "Éfeso",
+   "quando": "c. 54-55 d.C.",
+   "ano_min": 54,
+   "ano_max": 55,
+   "ocasiao": "Paulo recebeu notícias de divisões e problemas morais (pessoal de Cloe) e uma carta da igreja com perguntas sobre casamento, comida sacrificada a ídolos, dons, a ressurreição e a coleta. Responde ponto por ponto.",
+   "tema": "Unidade da igreja sob a cruz de Cristo; santidade; liberdade guiada pelo amor; ordem no culto; a ressurreição.",
+   "autoria": "Autoria de Paulo aceita praticamente por todos. Sóstenes aparece como coautor (1:1). A carta cita uma carta anterior que se perdeu (5:9).",
+   "refs": [
+    "1-corintios 1:1-2",
+    "1-corintios 1:11",
+    "1-corintios 5:9",
+    "1-corintios 7:1",
+    "1-corintios 16:5-8"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Inscrição de Gálio (carta do imperador Cláudio gravada em pedra, encontrada em Delfos, Grécia)",
+     "referencia": "Menciona Lúcio Júnio Gálio como procônsul da Acaia; permite situar Atos 18:12 por volta de 51-52 d.C.",
+     "data": "c. 52 d.C."
+    }
+   ]
+  },
+  {
+   "slug": "2-corintios",
+   "destinatarios": "igreja em Corinto e os cristãos da Acaia",
+   "de_onde": "Macedônia",
+   "quando": "c. 55-56 d.C.",
+   "ano_min": 55,
+   "ano_max": 56,
+   "ocasiao": "Depois de uma visita dolorosa e de uma carta escrita 'com lágrimas', Tito trouxe notícias de reconciliação. Paulo defende seu ministério diante de críticos que se apresentavam como 'os mais excelentes apóstolos' e organiza a coleta para Jerusalém.",
+   "tema": "O ministério da reconciliação; a força de Deus na fraqueza; a generosidade.",
+   "autoria": "Autoria de Paulo aceita praticamente por todos. Muitos estudiosos pensam que a carta reúne duas ou mais cartas (especialmente os capítulos 10-13); outros a leem como uma unidade.",
+   "refs": [
+    "2-corintios 1:1",
+    "2-corintios 2:3-4",
+    "2-corintios 2:12-13",
+    "2-corintios 7:5-7",
+    "2-corintios 11:5"
+   ]
+  },
+  {
+   "slug": "galatas",
+   "destinatarios": "igrejas da Galácia",
+   "de_onde": "incerto (Antioquia, Éfeso ou Macedônia, conforme a data adotada)",
+   "quando": "c. 48-55 d.C. (debatido)",
+   "ano_min": 48,
+   "ano_max": 55,
+   "ocasiao": "Pregadores chegaram às igrejas ensinando que os cristãos não judeus precisavam se circuncidar e seguir a Lei de Moisés. Paulo reage com urgência: isso seria 'outro evangelho'.",
+   "tema": "Justificação pela fé em Cristo, sem as obras da Lei; liberdade cristã; vida guiada pelo Espírito.",
+   "autoria": "Autoria de Paulo aceita praticamente por todos. Debate-se se 'Galácia' é a região do norte (povo gálata) ou a província romana do sul (cidades de Atos 13-14); isso muda a data.",
+   "refs": [
+    "galatas 1:1-2",
+    "galatas 1:6-9",
+    "galatas 5:2-4",
+    "galatas 6:11-13"
+   ]
+  },
+  {
+   "slug": "efesios",
+   "destinatarios": "cristãos de Éfeso (e talvez de outras igrejas da região)",
+   "de_onde": "prisão (tradicionalmente Roma)",
+   "quando": "c. 60-62 d.C. (se de Paulo)",
+   "ano_min": 60,
+   "ano_max": 62,
+   "ocasiao": "Carta escrita da prisão, enviada por Tíquico. Não trata de um problema específico; apresenta o plano de Deus de unir tudo em Cristo e a vida da igreja como um só corpo de judeus e não judeus.",
+   "tema": "A igreja, corpo de Cristo, unida pela graça; vida nova no lar e no mundo.",
+   "autoria": "Tradicionalmente de Paulo, e muitos mantêm isso. Outros estudiosos pensam que foi escrita por um discípulo, por causa do estilo e da proximidade com Colossenses. Alguns manuscritos antigos não trazem 'em Éfeso' em 1:1, o que sugere uma carta circular.",
+   "refs": [
+    "efesios 1:1",
+    "efesios 3:1",
+    "efesios 4:1",
+    "efesios 6:20-22"
+   ]
+  },
+  {
+   "slug": "filipenses",
+   "destinatarios": "igreja em Filipos, com bispos e diáconos",
+   "de_onde": "prisão (tradicionalmente Roma; outros propõem Éfeso ou Cesareia)",
+   "quando": "c. 60-62 d.C. (mais cedo, c. 55, se de Éfeso)",
+   "ano_min": 55,
+   "ano_max": 62,
+   "ocasiao": "A igreja enviou ajuda por Epafrodito, que adoeceu gravemente. Paulo agradece, dá notícias da prisão, pede unidade e alerta contra quem exigia a circuncisão.",
+   "tema": "Alegria em meio ao sofrimento; o exemplo de Cristo que se humilhou; parceria no evangelho.",
+   "autoria": "Autoria de Paulo aceita praticamente por todos. Alguns sugerem que a carta junta mais de um bilhete.",
+   "refs": [
+    "filipenses 1:1",
+    "filipenses 1:12-14",
+    "filipenses 2:25-30",
+    "filipenses 4:10-18"
+   ]
+  },
+  {
+   "slug": "colossenses",
+   "destinatarios": "igreja em Colossos",
+   "de_onde": "prisão (tradicionalmente Roma)",
+   "quando": "c. 60-62 d.C. (se de Paulo)",
+   "ano_min": 60,
+   "ano_max": 62,
+   "ocasiao": "Epafras, que fundou a igreja, trouxe notícias de uma 'filosofia' que impunha regras de comida, dias festivos e culto a anjos. Paulo mostra que em Cristo já se tem tudo.",
+   "tema": "A supremacia e a suficiência de Cristo; vida nova com Cristo.",
+   "autoria": "Tradicionalmente de Paulo, e muitos mantêm isso. Parte dos estudiosos pensa que foi escrita por um colaborador ou discípulo, por diferenças de estilo e teologia.",
+   "refs": [
+    "colossenses 1:1-2",
+    "colossenses 1:7-8",
+    "colossenses 2:8",
+    "colossenses 2:16-18",
+    "colossenses 4:7-9",
+    "colossenses 4:18"
+   ]
+  },
+  {
+   "slug": "1-tessalonicenses",
+   "destinatarios": "igreja em Tessalônica",
+   "de_onde": "Corinto (provavelmente)",
+   "quando": "c. 50-51 d.C.",
+   "ano_min": 50,
+   "ano_max": 51,
+   "ocasiao": "Paulo teve de sair às pressas da cidade. Timóteo voltou com boas notícias da fé da igreja, mas também com a dúvida sobre os irmãos que tinham morrido antes da volta de Cristo.",
+   "tema": "Gratidão e encorajamento; santidade; esperança na volta do Senhor. Provavelmente o escrito mais antigo do Novo Testamento.",
+   "autoria": "Autoria de Paulo aceita praticamente por todos (com Silvano e Timóteo, 1:1).",
+   "refs": [
+    "1-tessalonicenses 1:1",
+    "1-tessalonicenses 2:17-18",
+    "1-tessalonicenses 3:6",
+    "1-tessalonicenses 4:13"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Inscrição de Gálio (carta do imperador Cláudio gravada em pedra, encontrada em Delfos, Grécia)",
+     "referencia": "Menciona Lúcio Júnio Gálio como procônsul da Acaia; permite situar Atos 18:12 por volta de 51-52 d.C.",
+     "data": "c. 52 d.C."
+    }
+   ]
+  },
+  {
+   "slug": "2-tessalonicenses",
+   "destinatarios": "igreja em Tessalônica",
+   "de_onde": "Corinto (se de Paulo)",
+   "quando": "c. 51 d.C. (se de Paulo)",
+   "ano_min": 51,
+   "ano_max": 52,
+   "ocasiao": "Alguns diziam que o Dia do Senhor já tinha chegado, e certos membros deixaram de trabalhar. Paulo corrige e consola uma igreja perseguida.",
+   "tema": "Perseverança na perseguição; o que deve acontecer antes do Dia do Senhor; trabalho honesto.",
+   "autoria": "Tradicionalmente de Paulo, e muitos mantêm isso. Alguns estudiosos acham que um discípulo a escreveu mais tarde, por diferenças com 1 Tessalonicenses sobre a volta de Cristo.",
+   "refs": [
+    "2-tessalonicenses 1:1",
+    "2-tessalonicenses 2:1-2",
+    "2-tessalonicenses 3:11",
+    "2-tessalonicenses 3:17"
+   ]
+  },
+  {
+   "slug": "1-timoteo",
+   "destinatarios": "Timóteo, colaborador de Paulo, em Éfeso",
+   "de_onde": "Macedônia (segundo 1:3)",
+   "quando": "c. 62-64 d.C. (se de Paulo; outros datam mais tarde)",
+   "ano_min": 62,
+   "ano_max": 64,
+   "ocasiao": "Paulo deixou Timóteo em Éfeso para conter mestres que ensinavam doutrinas estranhas e para orientar a organização da igreja.",
+   "tema": "Sã doutrina; oração; liderança (bispos e diáconos); cuidado com viúvas; perigo do amor ao dinheiro.",
+   "autoria": "1 e 2 Timóteo e Tito são chamadas 'Cartas Pastorais'. A tradição da igreja as atribui a Paulo, e muitos estudiosos mantêm isso (situando-as depois de uma primeira prisão em Roma). Outros, por diferenças de vocabulário, estilo e organização da igreja, pensam que foram escritas por discípulos de Paulo em seu nome. Há também quem proponha um secretário com mais liberdade.",
+   "refs": [
+    "1-timoteo 1:2-4",
+    "1-timoteo 3:14-15"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Eusébio de Cesareia, História Eclesiástica 2.22 e 2.25",
+     "referencia": "Registra a tradição de que Paulo foi libertado de uma primeira prisão em Roma e depois morto sob Nero.",
+     "data": "início do séc. IV d.C. (relatando tradições anteriores)"
+    }
+   ]
+  },
+  {
+   "slug": "2-timoteo",
+   "destinatarios": "Timóteo",
+   "de_onde": "prisão em Roma",
+   "quando": "c. 64-67 d.C. (se de Paulo)",
+   "ano_min": 64,
+   "ano_max": 67,
+   "ocasiao": "Preso e esperando a morte, Paulo encoraja Timóteo a não se envergonhar do evangelho, a guardar o ensino e a vir vê-lo logo.",
+   "tema": "Fidelidade até o fim; as Escrituras; passar o ensino adiante. Considerada a última carta de Paulo.",
+   "autoria": "1 e 2 Timóteo e Tito são chamadas 'Cartas Pastorais'. A tradição da igreja as atribui a Paulo, e muitos estudiosos mantêm isso (situando-as depois de uma primeira prisão em Roma). Outros, por diferenças de vocabulário, estilo e organização da igreja, pensam que foram escritas por discípulos de Paulo em seu nome. Há também quem proponha um secretário com mais liberdade.",
+   "refs": [
+    "2-timoteo 1:2",
+    "2-timoteo 1:8",
+    "2-timoteo 1:16-17",
+    "2-timoteo 4:6-9"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Eusébio de Cesareia, História Eclesiástica 2.22 e 2.25",
+     "referencia": "Registra a tradição de que Paulo foi libertado de uma primeira prisão em Roma e depois morto sob Nero.",
+     "data": "início do séc. IV d.C. (relatando tradições anteriores)"
+    },
+    {
+     "fonte": "1 Clemente 5",
+     "referencia": "Carta da igreja de Roma (atribuída a Clemente) que lembra o testemunho e a morte de Paulo e diz que ele chegou 'ao limite do Ocidente'.",
+     "data": "c. 95-96 d.C. (aproximado)"
+    }
+   ]
+  },
+  {
+   "slug": "tito",
+   "destinatarios": "Tito, colaborador de Paulo, em Creta",
+   "de_onde": "incerto (Paulo planejava passar o inverno em Nicópolis)",
+   "quando": "c. 62-64 d.C. (se de Paulo)",
+   "ano_min": 62,
+   "ano_max": 64,
+   "ocasiao": "Paulo deixou Tito em Creta para pôr ordem nas igrejas e estabelecer presbíteros em cada cidade, enfrentando mestres que buscavam lucro.",
+   "tema": "Líderes de bom caráter; boas obras como fruto da graça.",
+   "autoria": "1 e 2 Timóteo e Tito são chamadas 'Cartas Pastorais'. A tradição da igreja as atribui a Paulo, e muitos estudiosos mantêm isso (situando-as depois de uma primeira prisão em Roma). Outros, por diferenças de vocabulário, estilo e organização da igreja, pensam que foram escritas por discípulos de Paulo em seu nome. Há também quem proponha um secretário com mais liberdade.",
+   "refs": [
+    "tito 1:4-5",
+    "tito 1:10-11",
+    "tito 3:12"
+   ]
+  },
+  {
+   "slug": "filemom",
+   "destinatarios": "Filemom, Ápia, Arquipo e a igreja que se reunia em sua casa",
+   "de_onde": "prisão (Roma, Éfeso ou Cesareia; debatido)",
+   "quando": "c. 55-62 d.C. (conforme a prisão)",
+   "ano_min": 55,
+   "ano_max": 62,
+   "ocasiao": "Onésimo, escravo de Filemom, encontrou Paulo e se tornou cristão. Paulo o envia de volta pedindo que Filemom o receba 'não mais como servo', mas 'como amado irmão'.",
+   "tema": "Reconciliação e nova relação em Cristo.",
+   "autoria": "Autoria de Paulo aceita praticamente por todos.",
+   "refs": [
+    "filemom 1:1-2",
+    "filemom 1:10-18"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Plínio, o Jovem, Cartas 9.21",
+     "referencia": "Carta a Sabiniano pedindo perdão para um liberto que o ofendera; costuma ser comparada com Filemom.",
+     "data": "c. 100-110 d.C."
+    }
+   ]
+  }
+ ],
+ "temas": [
+  {
+   "id": "deus-pai",
+   "titulo": "Um só Deus, o Pai, Criador de tudo",
+   "grupo": "doutrina",
+   "resumo": "Paulo foi um judeu fiel à confissão de que há um só Deus. Para ele, esse Deus é o Criador, que se dá a conhecer na criação e é soberano sobre a história. Ao mesmo tempo, Paulo fala de Deus como Pai, de Jesus como Senhor e do Espírito, muitas vezes juntos na mesma frase.",
+   "pontos": [
+    {
+     "texto": "Há um só Deus, o Pai, de quem vêm todas as coisas, e um só Senhor, Jesus Cristo.",
+     "refs": [
+      "1-corintios 8:4-6"
+     ]
+    },
+    {
+     "texto": "Deus se deixa conhecer pelas coisas criadas, e por isso ninguém tem desculpa para não honrá-lo.",
+     "refs": [
+      "romanos 1:19-21"
+     ]
+    },
+    {
+     "texto": "Seus caminhos são mais profundos do que podemos compreender: dele, por ele e para ele são todas as coisas.",
+     "refs": [
+      "romanos 11:33-36"
+     ]
+    },
+    {
+     "texto": "Deus é o Rei eterno, imortal e invisível, digno de honra para sempre.",
+     "refs": [
+      "1-timoteo 1:17",
+      "1-timoteo 6:15-16"
+     ]
+    },
+    {
+     "texto": "Há um só Deus e um só mediador entre Deus e os seres humanos, Cristo Jesus.",
+     "refs": [
+      "1-timoteo 2:5"
+     ]
+    },
+    {
+     "texto": "Pai, Filho e Espírito aparecem juntos nas bênçãos e no ensino sobre a vida da igreja.",
+     "refs": [
+      "2-corintios 13:14",
+      "efesios 4:4-6"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 1:19-21",
+     "romanos 11:33-36"
+    ],
+    "1-corintios": [
+     "1-corintios 8:4-6"
+    ],
+    "2-corintios": [
+     "2-corintios 13:14"
+    ],
+    "efesios": [
+     "efesios 4:4-6"
+    ],
+    "1-timoteo": [
+     "1-timoteo 1:17",
+     "1-timoteo 2:5"
+    ]
+   },
+   "debates": "Paulo não usa a palavra 'Trindade'; a doutrina foi formulada pelas igrejas nos séculos seguintes a partir de textos como estes. A grande maioria das igrejas cristãs a aceita; alguns grupos leem esses textos de outra forma.",
+   "refs": [
+    "1-corintios 8:4-6",
+    "romanos 1:19-21",
+    "romanos 11:33-36",
+    "1-timoteo 1:17",
+    "1-timoteo 6:15-16",
+    "1-timoteo 2:5",
+    "2-corintios 13:14",
+    "efesios 4:4-6"
+   ]
+  },
+  {
+   "id": "cristo",
+   "titulo": "Jesus Cristo: quem ele é",
+   "grupo": "doutrina",
+   "resumo": "No centro das cartas está Jesus, descendente de Davi, crucificado e ressuscitado, a quem Paulo chama de Senhor. Em dois hinos famosos (Filipenses 2 e Colossenses 1), Paulo descreve Cristo como aquele que existia em forma de Deus, se humilhou até a morte de cruz e foi exaltado; e como imagem do Deus invisível, por meio de quem tudo foi criado e reconciliado.",
+   "pontos": [
+    {
+     "texto": "Cristo, sendo em forma de Deus, esvaziou-se, tornou-se servo e humano, e obedeceu até a morte de cruz; por isso Deus o exaltou, e todo joelho se dobrará diante dele.",
+     "refs": [
+      "filipenses 2:5-11"
+     ]
+    },
+    {
+     "texto": "Ele é a imagem do Deus invisível; nele, por ele e para ele tudo foi criado, e nele tudo subsiste.",
+     "refs": [
+      "colossenses 1:15-17"
+     ]
+    },
+    {
+     "texto": "Ele é a cabeça da igreja e o primeiro a ressuscitar; por meio dele Deus reconciliou consigo todas as coisas.",
+     "refs": [
+      "colossenses 1:18-20"
+     ]
+    },
+    {
+     "texto": "Nele habita corporalmente toda a plenitude da divindade.",
+     "refs": [
+      "colossenses 2:9"
+     ]
+    },
+    {
+     "texto": "Segundo a carne, descende de Davi; pela ressurreição, foi declarado Filho de Deus com poder.",
+     "refs": [
+      "romanos 1:3-4"
+     ]
+    },
+    {
+     "texto": "Sendo rico, fez-se pobre por nós.",
+     "refs": [
+      "2-corintios 8:9"
+     ]
+    },
+    {
+     "texto": "Confessar 'Jesus é Senhor' e crer que Deus o ressuscitou está no coração da fé.",
+     "refs": [
+      "romanos 10:9",
+      "1-corintios 12:3"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 1:3-4",
+     "romanos 9:5",
+     "romanos 10:9"
+    ],
+    "1-corintios": [
+     "1-corintios 8:6",
+     "1-corintios 12:3"
+    ],
+    "2-corintios": [
+     "2-corintios 4:4-6",
+     "2-corintios 8:9"
+    ],
+    "galatas": [
+     "galatas 4:4"
+    ],
+    "filipenses": [
+     "filipenses 2:5-11"
+    ],
+    "colossenses": [
+     "colossenses 1:15-20",
+     "colossenses 2:9"
+    ],
+    "1-timoteo": [
+     "1-timoteo 3:16"
+    ],
+    "tito": [
+     "tito 2:13"
+    ]
+   },
+   "debates": "Dois pontos são discutidos: o sentido de 'esvaziou-se' (Fp 2:7) — se Cristo deixou de lado o uso de prerrogativas divinas ou a glória visível, sem deixar de ser Deus, como lê a maioria das igrejas; e a pontuação de Romanos 9:5 e Tito 2:13, que muitos traduzem chamando Cristo de 'Deus', enquanto outros leem uma bênção separada a Deus.",
+   "refs": [
+    "filipenses 2:5-11",
+    "colossenses 1:15-17",
+    "colossenses 1:18-20",
+    "colossenses 2:9",
+    "romanos 1:3-4",
+    "2-corintios 8:9",
+    "romanos 10:9",
+    "1-corintios 12:3",
+    "romanos 9:5",
+    "1-corintios 8:6",
+    "2-corintios 4:4-6",
+    "galatas 4:4",
+    "colossenses 1:15-20",
+    "1-timoteo 3:16",
+    "tito 2:13"
+   ]
+  },
+  {
+   "id": "cruz",
+   "titulo": "A cruz: Cristo morreu por nós",
+   "grupo": "doutrina",
+   "resumo": "Paulo resume sua pregação como 'Cristo crucificado'. A morte de Jesus não foi um acidente: foi o modo como Deus mostrou seu amor e tratou com o pecado. Paulo usa várias imagens para explicar isso — sacrifício, resgate, reconciliação, vitória sobre os poderes — sem reduzir tudo a uma só.",
+   "pontos": [
+    {
+     "texto": "O evangelho que Paulo recebeu e transmitiu: Cristo morreu pelos nossos pecados, foi sepultado e ressuscitou ao terceiro dia.",
+     "refs": [
+      "1-corintios 15:3-4"
+     ]
+    },
+    {
+     "texto": "A mensagem da cruz parece loucura, mas é poder de Deus para os que são salvos.",
+     "refs": [
+      "1-corintios 1:18",
+      "1-corintios 1:22-24"
+     ]
+    },
+    {
+     "texto": "Deus prova seu amor: Cristo morreu por nós quando ainda éramos pecadores.",
+     "refs": [
+      "romanos 5:6-8"
+     ]
+    },
+    {
+     "texto": "Aquele que não conheceu pecado foi feito pecado por nós, para que nele fôssemos justiça de Deus.",
+     "refs": [
+      "2-corintios 5:21"
+     ]
+    },
+    {
+     "texto": "Cristo nos resgatou da maldição da Lei, fazendo-se maldição por nós.",
+     "refs": [
+      "galatas 3:13"
+     ]
+    },
+    {
+     "texto": "Na cruz, Cristo cancelou a dívida contra nós e despojou os poderes.",
+     "refs": [
+      "colossenses 2:13-15"
+     ]
+    },
+    {
+     "texto": "Paulo não quer se gloriar em nada a não ser na cruz.",
+     "refs": [
+      "galatas 6:14"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 3:24-25",
+     "romanos 5:6-8"
+    ],
+    "1-corintios": [
+     "1-corintios 1:18",
+     "1-corintios 2:2",
+     "1-corintios 15:3-4"
+    ],
+    "2-corintios": [
+     "2-corintios 5:14-15",
+     "2-corintios 5:21"
+    ],
+    "galatas": [
+     "galatas 2:20",
+     "galatas 3:13",
+     "galatas 6:14"
+    ],
+    "efesios": [
+     "efesios 1:7",
+     "efesios 5:2"
+    ],
+    "filipenses": [
+     "filipenses 2:8"
+    ],
+    "colossenses": [
+     "colossenses 1:20",
+     "colossenses 2:13-15"
+    ],
+    "1-tessalonicenses": [
+     "1-tessalonicenses 5:9-10"
+    ],
+    "1-timoteo": [
+     "1-timoteo 2:6"
+    ],
+    "tito": [
+     "tito 2:14"
+    ]
+   },
+   "debates": "As igrejas enfatizam de modo diferente as imagens de Paulo: substituição penal (Cristo levou o castigo), vitória sobre o mal, reconciliação, exemplo de amor. Muitas tradições veem essas imagens como complementares.",
+   "refs": [
+    "1-corintios 15:3-4",
+    "1-corintios 1:18",
+    "1-corintios 1:22-24",
+    "romanos 5:6-8",
+    "2-corintios 5:21",
+    "galatas 3:13",
+    "colossenses 2:13-15",
+    "galatas 6:14",
+    "romanos 3:24-25",
+    "1-corintios 2:2",
+    "2-corintios 5:14-15",
+    "galatas 2:20",
+    "efesios 1:7",
+    "efesios 5:2",
+    "filipenses 2:8",
+    "colossenses 1:20",
+    "1-tessalonicenses 5:9-10",
+    "1-timoteo 2:6",
+    "tito 2:14"
+   ]
+  },
+  {
+   "id": "espirito-santo",
+   "titulo": "O Espírito Santo",
+   "grupo": "doutrina",
+   "resumo": "Para Paulo, o Espírito de Deus é a marca de quem pertence a Cristo. Ele habita no cristão e na igreja, dá testemunho de que somos filhos de Deus, ajuda na oração, produz fruto e distribui dons. O Espírito é também 'garantia' do que Deus ainda vai completar.",
+   "pontos": [
+    {
+     "texto": "Quem não tem o Espírito de Cristo não é dele; o Espírito que ressuscitou Jesus dará vida também aos nossos corpos.",
+     "refs": [
+      "romanos 8:9-11"
+     ]
+    },
+    {
+     "texto": "O Espírito testemunha que somos filhos de Deus e nos faz clamar 'Aba, Pai'.",
+     "refs": [
+      "romanos 8:14-16",
+      "galatas 4:6"
+     ]
+    },
+    {
+     "texto": "O Espírito intercede por nós quando não sabemos orar como convém.",
+     "refs": [
+      "romanos 8:26-27"
+     ]
+    },
+    {
+     "texto": "O corpo do cristão, e a igreja reunida, são templo do Espírito Santo.",
+     "refs": [
+      "1-corintios 3:16",
+      "1-corintios 6:19"
+     ]
+    },
+    {
+     "texto": "Fomos selados com o Espírito, garantia da nossa herança; não devemos entristecê-lo.",
+     "refs": [
+      "efesios 1:13-14",
+      "efesios 4:30"
+     ]
+    },
+    {
+     "texto": "Andar no Espírito, deixar-se encher por ele e não apagá-lo.",
+     "refs": [
+      "galatas 5:16",
+      "galatas 5:25",
+      "efesios 5:18",
+      "1-tessalonicenses 5:19"
+     ]
+    },
+    {
+     "texto": "Ninguém pode dizer 'Jesus é Senhor' senão pelo Espírito.",
+     "refs": [
+      "1-corintios 12:3"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 8:9-16",
+     "romanos 8:26-27"
+    ],
+    "1-corintios": [
+     "1-corintios 2:10-12",
+     "1-corintios 6:19",
+     "1-corintios 12:3-13"
+    ],
+    "2-corintios": [
+     "2-corintios 1:21-22",
+     "2-corintios 3:17-18"
+    ],
+    "galatas": [
+     "galatas 4:6",
+     "galatas 5:16-25"
+    ],
+    "efesios": [
+     "efesios 1:13-14",
+     "efesios 4:30",
+     "efesios 5:18"
+    ],
+    "1-tessalonicenses": [
+     "1-tessalonicenses 5:19"
+    ],
+    "tito": [
+     "tito 3:5-6"
+    ]
+   },
+   "debates": "As igrejas divergem sobre se há uma experiência posterior à conversão chamada 'batismo no Espírito' (ênfase pentecostal e carismática) ou se todo cristão recebe o Espírito plenamente na conversão, com 'enchimentos' posteriores (1 Co 12:13; Ef 5:18).",
+   "refs": [
+    "romanos 8:9-11",
+    "romanos 8:14-16",
+    "galatas 4:6",
+    "romanos 8:26-27",
+    "1-corintios 3:16",
+    "1-corintios 6:19",
+    "efesios 1:13-14",
+    "efesios 4:30",
+    "galatas 5:16",
+    "galatas 5:25",
+    "efesios 5:18",
+    "1-tessalonicenses 5:19",
+    "1-corintios 12:3",
+    "romanos 8:9-16",
+    "1-corintios 2:10-12",
+    "1-corintios 12:3-13",
+    "2-corintios 1:21-22",
+    "2-corintios 3:17-18",
+    "galatas 5:16-25",
+    "tito 3:5-6"
+   ]
+  },
+  {
+   "id": "pecado",
+   "titulo": "O pecado e a condição humana",
+   "grupo": "doutrina",
+   "resumo": "Paulo descreve o pecado não só como atos errados, mas como um poder que escraviza toda a humanidade, judeus e não judeus. Ele começa com a recusa de honrar a Deus e se espalha em relações quebradas. O resultado é a morte; e é nesse quadro que Paulo apresenta a boa notícia.",
+   "pontos": [
+    {
+     "texto": "Todos pecaram e estão privados da glória de Deus.",
+     "refs": [
+      "romanos 3:23",
+      "romanos 3:9-12"
+     ]
+    },
+    {
+     "texto": "O pecado começa quando as pessoas não honram a Deus e trocam o Criador pelas coisas criadas.",
+     "refs": [
+      "romanos 1:21-25"
+     ]
+    },
+    {
+     "texto": "Por um só homem (Adão) o pecado e a morte entraram no mundo; por um só (Cristo) vem a graça.",
+     "refs": [
+      "romanos 5:12",
+      "romanos 5:18-19"
+     ]
+    },
+    {
+     "texto": "O salário do pecado é a morte, mas o dom de Deus é a vida eterna.",
+     "refs": [
+      "romanos 6:23"
+     ]
+    },
+    {
+     "texto": "Paulo descreve a luta de quem quer o bem e faz o mal: 'quem me livrará?'.",
+     "refs": [
+      "romanos 7:18-25"
+     ]
+    },
+    {
+     "texto": "Antes de Cristo estávamos 'mortos' em delitos, seguindo o curso deste mundo.",
+     "refs": [
+      "efesios 2:1-3"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 1:21-25",
+     "romanos 3:9-23",
+     "romanos 5:12-21",
+     "romanos 6:23",
+     "romanos 7:14-25"
+    ],
+    "1-corintios": [
+     "1-corintios 15:21-22",
+     "1-corintios 15:56"
+    ],
+    "galatas": [
+     "galatas 3:22"
+    ],
+    "efesios": [
+     "efesios 2:1-3"
+    ],
+    "colossenses": [
+     "colossenses 1:21"
+    ],
+    "tito": [
+     "tito 3:3"
+    ]
+   },
+   "debates": "Romanos 5:12 é a base da doutrina do 'pecado original', entendida de formas diferentes (culpa herdada, inclinação herdada ou solidariedade com Adão). Também se discute se o 'eu' de Romanos 7 é Paulo já cristão, Paulo antes da conversão, ou uma figura de Israel e da humanidade sob a Lei.",
+   "refs": [
+    "romanos 3:23",
+    "romanos 3:9-12",
+    "romanos 1:21-25",
+    "romanos 5:12",
+    "romanos 5:18-19",
+    "romanos 6:23",
+    "romanos 7:18-25",
+    "efesios 2:1-3",
+    "romanos 3:9-23",
+    "romanos 5:12-21",
+    "romanos 7:14-25",
+    "1-corintios 15:21-22",
+    "1-corintios 15:56",
+    "galatas 3:22",
+    "colossenses 1:21",
+    "tito 3:3"
+   ]
+  },
+  {
+   "id": "justificacao",
+   "titulo": "Justificação: salvação pela graça, por meio da fé",
+   "grupo": "doutrina",
+   "resumo": "Este é um dos temas mais conhecidos de Paulo. Ser 'justificado' é ser declarado justo, aceito por Deus. Paulo ensina que isso não se conquista pelas obras da Lei, mas é um presente de Deus (graça), recebido pela fé em Jesus Cristo, como aconteceu com Abraão. A graça, porém, não é desculpa para continuar no pecado: ela gera uma vida de boas obras.",
+   "pontos": [
+    {
+     "texto": "A justiça de Deus se manifestou sem a Lei, por meio da fé em Jesus Cristo, para todos os que creem.",
+     "refs": [
+      "romanos 3:21-24"
+     ]
+    },
+    {
+     "texto": "O ser humano é justificado pela fé, sem as obras da Lei.",
+     "refs": [
+      "romanos 3:28",
+      "galatas 2:16"
+     ]
+    },
+    {
+     "texto": "Abraão creu em Deus, e isso lhe foi contado como justiça — antes da circuncisão.",
+     "refs": [
+      "romanos 4:3-5",
+      "romanos 4:9-11",
+      "galatas 3:6-9"
+     ]
+    },
+    {
+     "texto": "Pela graça sois salvos, por meio da fé; não vem de vós, é dom de Deus; não por obras, para que ninguém se glorie.",
+     "refs": [
+      "efesios 2:8-9"
+     ]
+    },
+    {
+     "texto": "Fomos criados em Cristo para as boas obras.",
+     "refs": [
+      "efesios 2:10",
+      "tito 2:14"
+     ]
+    },
+    {
+     "texto": "Justificados pela fé, temos paz com Deus.",
+     "refs": [
+      "romanos 5:1-2"
+     ]
+    },
+    {
+     "texto": "A graça não é licença para pecar: 'permaneceremos no pecado? De modo nenhum'.",
+     "refs": [
+      "romanos 6:1-2"
+     ]
+    },
+    {
+     "texto": "Deus nos salvou não por obras de justiça que tivéssemos feito, mas por sua misericórdia.",
+     "refs": [
+      "tito 3:4-7",
+      "2-timoteo 1:9"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 1:16-17",
+     "romanos 3:21-28",
+     "romanos 4:3-5",
+     "romanos 5:1-2",
+     "romanos 11:6"
+    ],
+    "galatas": [
+     "galatas 2:16",
+     "galatas 3:6-11"
+    ],
+    "efesios": [
+     "efesios 2:8-10"
+    ],
+    "filipenses": [
+     "filipenses 3:8-9"
+    ],
+    "2-timoteo": [
+     "2-timoteo 1:9"
+    ],
+    "tito": [
+     "tito 3:4-7"
+    ]
+   },
+   "debates": "Católicos, ortodoxos e protestantes concordam que a salvação é pela graça, mas divergem sobre como a justificação se relaciona com a transformação interior, os sacramentos e as obras (e sobre como harmonizar Paulo com Tiago 2). Estudiosos discutem ainda se 'fé de Cristo' significa fé em Cristo ou a fidelidade do próprio Cristo, e se as 'obras da Lei' são sobretudo os marcadores judaicos (circuncisão, comida, sábado) — a chamada 'Nova Perspectiva' sobre Paulo.",
+   "refs": [
+    "romanos 3:21-24",
+    "romanos 3:28",
+    "galatas 2:16",
+    "romanos 4:3-5",
+    "romanos 4:9-11",
+    "galatas 3:6-9",
+    "efesios 2:8-9",
+    "efesios 2:10",
+    "tito 2:14",
+    "romanos 5:1-2",
+    "romanos 6:1-2",
+    "tito 3:4-7",
+    "2-timoteo 1:9",
+    "romanos 1:16-17",
+    "romanos 3:21-28",
+    "romanos 11:6",
+    "galatas 3:6-11",
+    "efesios 2:8-10",
+    "filipenses 3:8-9"
+   ]
+  },
+  {
+   "id": "a-lei",
+   "titulo": "A Lei de Moisés",
+   "grupo": "doutrina",
+   "resumo": "Paulo afirma ao mesmo tempo que a Lei é santa e boa e que ninguém é justificado por cumpri-la. A Lei revela o pecado e funcionou como um 'tutor' até Cristo. Quem vive no Espírito cumpre o coração da Lei, que é o amor ao próximo.",
+   "pontos": [
+    {
+     "texto": "A Lei é santa, e o mandamento é santo, justo e bom.",
+     "refs": [
+      "romanos 7:12",
+      "1-timoteo 1:8"
+     ]
+    },
+    {
+     "texto": "Pela Lei vem o conhecimento do pecado.",
+     "refs": [
+      "romanos 3:20",
+      "romanos 7:7"
+     ]
+    },
+    {
+     "texto": "A Lei foi como um tutor que nos conduziu até Cristo; vinda a fé, não estamos mais sob o tutor.",
+     "refs": [
+      "galatas 3:19",
+      "galatas 3:24-25"
+     ]
+    },
+    {
+     "texto": "Cristo é o fim da Lei, para justiça de todo aquele que crê.",
+     "refs": [
+      "romanos 10:4"
+     ]
+    },
+    {
+     "texto": "Quem ama o próximo cumpriu a Lei.",
+     "refs": [
+      "romanos 13:8-10",
+      "galatas 5:14"
+     ]
+    },
+    {
+     "texto": "Não anulamos a Lei pela fé; antes, a confirmamos.",
+     "refs": [
+      "romanos 3:31"
+     ]
+    },
+    {
+     "texto": "Cristo aboliu na sua carne a 'lei dos mandamentos' que separava judeus e gentios.",
+     "refs": [
+      "efesios 2:14-15"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 3:20",
+     "romanos 3:31",
+     "romanos 7:7-12",
+     "romanos 10:4",
+     "romanos 13:8-10"
+    ],
+    "1-corintios": [
+     "1-corintios 9:20-21"
+    ],
+    "2-corintios": [
+     "2-corintios 3:6-7"
+    ],
+    "galatas": [
+     "galatas 3:19-25",
+     "galatas 5:14"
+    ],
+    "efesios": [
+     "efesios 2:14-15"
+    ],
+    "filipenses": [
+     "filipenses 3:5-6"
+    ],
+    "1-timoteo": [
+     "1-timoteo 1:8-10"
+    ]
+   },
+   "debates": "O grego de Romanos 10:4 ('telos') pode significar 'fim' ou 'alvo/cumprimento'. As igrejas divergem sobre quais partes da Lei continuam valendo para cristãos (por exemplo, o sábado do sétimo dia, guardado por adventistas e outros grupos) e sobre a distinção entre lei moral, cerimonial e civil.",
+   "refs": [
+    "romanos 7:12",
+    "1-timoteo 1:8",
+    "romanos 3:20",
+    "romanos 7:7",
+    "galatas 3:19",
+    "galatas 3:24-25",
+    "romanos 10:4",
+    "romanos 13:8-10",
+    "galatas 5:14",
+    "romanos 3:31",
+    "efesios 2:14-15",
+    "romanos 7:7-12",
+    "1-corintios 9:20-21",
+    "2-corintios 3:6-7",
+    "galatas 3:19-25",
+    "filipenses 3:5-6",
+    "1-timoteo 1:8-10"
+   ]
+  },
+  {
+   "id": "israel-e-as-nacoes",
+   "titulo": "Israel e as nações (Romanos 9-11)",
+   "grupo": "doutrina",
+   "resumo": "Paulo, judeu, sofre porque a maioria de seu povo não reconheceu Jesus como Messias. Em Romanos 9-11 ele pergunta se Deus falhou em suas promessas e responde que não: sempre houve um 'remanescente', os não judeus foram 'enxertados' na oliveira de Israel, e os dons e o chamado de Deus são irrevogáveis. Em Cristo, judeus e gentios formam um só povo.",
+   "pontos": [
+    {
+     "texto": "Paulo tem grande tristeza pelo seu povo, a quem pertencem a adoção, as alianças, a Lei e as promessas.",
+     "refs": [
+      "romanos 9:1-5"
+     ]
+    },
+    {
+     "texto": "A palavra de Deus não falhou: nem todos os descendentes de Israel são 'Israel'.",
+     "refs": [
+      "romanos 9:6-8"
+     ]
+    },
+    {
+     "texto": "Deus não rejeitou seu povo; há um remanescente escolhido pela graça.",
+     "refs": [
+      "romanos 11:1-5"
+     ]
+    },
+    {
+     "texto": "Os gentios foram enxertados como ramos de oliveira brava; não devem se orgulhar contra os ramos naturais.",
+     "refs": [
+      "romanos 11:17-24"
+     ]
+    },
+    {
+     "texto": "Um endurecimento parcial veio sobre Israel até que entre a plenitude dos gentios, 'e assim todo Israel será salvo'.",
+     "refs": [
+      "romanos 11:25-27"
+     ]
+    },
+    {
+     "texto": "Os dons e o chamado de Deus são irrevogáveis.",
+     "refs": [
+      "romanos 11:28-29"
+     ]
+    },
+    {
+     "texto": "Cristo derrubou o muro de separação e fez dos dois um só povo.",
+     "refs": [
+      "efesios 2:11-16",
+      "galatas 3:28-29"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 9:1-8",
+     "romanos 10:1",
+     "romanos 11:1-5",
+     "romanos 11:17-29"
+    ],
+    "galatas": [
+     "galatas 3:28-29",
+     "galatas 6:16"
+    ],
+    "efesios": [
+     "efesios 2:11-16",
+     "efesios 3:6"
+    ],
+    "1-tessalonicenses": [
+     "1-tessalonicenses 2:14-16"
+    ]
+   },
+   "debates": "'Todo Israel será salvo' (Rm 11:26) é lido de formas diferentes: uma conversão futura do povo judeu, a soma dos judeus que creem ao longo da história, ou a igreja de judeus e gentios como 'Israel de Deus'. Isso se liga a visões diferentes sobre a relação entre Israel e a igreja.",
+   "refs": [
+    "romanos 9:1-5",
+    "romanos 9:6-8",
+    "romanos 11:1-5",
+    "romanos 11:17-24",
+    "romanos 11:25-27",
+    "romanos 11:28-29",
+    "efesios 2:11-16",
+    "galatas 3:28-29",
+    "romanos 9:1-8",
+    "romanos 10:1",
+    "romanos 11:17-29",
+    "galatas 6:16",
+    "efesios 3:6",
+    "1-tessalonicenses 2:14-16"
+   ]
+  },
+  {
+   "id": "eleicao",
+   "titulo": "Eleição e o propósito de Deus",
+   "grupo": "doutrina",
+   "resumo": "Paulo fala de Deus que escolhe, chama e conduz a salvação até o fim, para consolo dos cristãos: nada pode separá-los do amor de Deus. Ao mesmo tempo, ele prega a todos, ora pela salvação de todos e chama cada um a crer. Como essas afirmações se combinam é um dos debates mais antigos da teologia.",
+   "pontos": [
+    {
+     "texto": "Deus faz todas as coisas cooperarem para o bem dos que o amam; os que conheceu, predestinou, chamou, justificou e glorificou.",
+     "refs": [
+      "romanos 8:28-30"
+     ]
+    },
+    {
+     "texto": "Deus nos escolheu em Cristo antes da fundação do mundo, em amor, para sermos santos.",
+     "refs": [
+      "efesios 1:4-5",
+      "efesios 1:11"
+     ]
+    },
+    {
+     "texto": "A escolha de Jacó e não de Esaú mostra que o propósito de Deus não depende de obras.",
+     "refs": [
+      "romanos 9:10-16"
+     ]
+    },
+    {
+     "texto": "Deus deseja que todos sejam salvos e cheguem ao conhecimento da verdade.",
+     "refs": [
+      "1-timoteo 2:3-4"
+     ]
+    },
+    {
+     "texto": "Todo aquele que invocar o nome do Senhor será salvo; por isso é preciso pregar.",
+     "refs": [
+      "romanos 10:12-15"
+     ]
+    },
+    {
+     "texto": "Deus vos escolheu desde o princípio para a salvação, pela santificação do Espírito e pela fé na verdade.",
+     "refs": [
+      "2-tessalonicenses 2:13"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 8:28-30",
+     "romanos 9:10-16",
+     "romanos 10:12-15"
+    ],
+    "efesios": [
+     "efesios 1:4-11"
+    ],
+    "1-tessalonicenses": [
+     "1-tessalonicenses 1:4"
+    ],
+    "2-tessalonicenses": [
+     "2-tessalonicenses 2:13"
+    ],
+    "1-timoteo": [
+     "1-timoteo 2:3-4"
+    ],
+    "2-timoteo": [
+     "2-timoteo 1:9",
+     "2-timoteo 2:10"
+    ]
+   },
+   "debates": "Leituras principais: a reformada/calvinista (Deus elege incondicionalmente pessoas para a salvação), a arminiana e wesleyana (Deus elege prevendo a fé, e a graça pode ser resistida), a católica e ortodoxa (graça e liberdade cooperam) e a leitura 'corporativa' (Deus elege um povo em Cristo, e Rm 9 trata do papel de Israel e das nações na história). Há também diferenças sobre se a salvação pode ser perdida.",
+   "refs": [
+    "romanos 8:28-30",
+    "efesios 1:4-5",
+    "efesios 1:11",
+    "romanos 9:10-16",
+    "1-timoteo 2:3-4",
+    "romanos 10:12-15",
+    "2-tessalonicenses 2:13",
+    "efesios 1:4-11",
+    "1-tessalonicenses 1:4",
+    "2-timoteo 1:9",
+    "2-timoteo 2:10"
+   ]
+  },
+  {
+   "id": "perdao-e-reconciliacao",
+   "titulo": "Perdão e reconciliação",
+   "grupo": "vida cristã",
+   "resumo": "Paulo diz que Deus, em Cristo, reconciliou consigo pessoas que eram inimigas, e confiou à igreja a 'mensagem da reconciliação'. Quem foi perdoado deve perdoar. A carta a Filemom mostra isso numa situação concreta: Paulo pede que um senhor receba de volta, como irmão, o escravo que o deixara.",
+   "pontos": [
+    {
+     "texto": "Fomos reconciliados com Deus pela morte do seu Filho quando éramos inimigos.",
+     "refs": [
+      "romanos 5:10-11"
+     ]
+    },
+    {
+     "texto": "Deus estava em Cristo reconciliando o mundo; a nós confiou a palavra da reconciliação: 'reconciliai-vos com Deus'.",
+     "refs": [
+      "2-corintios 5:18-20"
+     ]
+    },
+    {
+     "texto": "Perdoai-vos uns aos outros, como Deus vos perdoou em Cristo.",
+     "refs": [
+      "efesios 4:32",
+      "colossenses 3:13"
+     ]
+    },
+    {
+     "texto": "Não deixeis o sol se pôr sobre a vossa ira.",
+     "refs": [
+      "efesios 4:26"
+     ]
+    },
+    {
+     "texto": "Quem causou tristeza e se arrependeu deve ser perdoado e consolado, para não ser consumido pela tristeza.",
+     "refs": [
+      "2-corintios 2:6-8"
+     ]
+    },
+    {
+     "texto": "Paulo pede a Filemom que receba Onésimo como receberia o próprio Paulo, e assume a dívida dele.",
+     "refs": [
+      "filemom 1:15-18"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 5:10-11"
+    ],
+    "2-corintios": [
+     "2-corintios 2:6-8",
+     "2-corintios 5:18-20"
+    ],
+    "efesios": [
+     "efesios 2:16",
+     "efesios 4:31-32"
+    ],
+    "colossenses": [
+     "colossenses 1:20-22",
+     "colossenses 3:13"
+    ],
+    "filemom": [
+     "filemom 1:15-18"
+    ]
+   },
+   "refs": [
+    "romanos 5:10-11",
+    "2-corintios 5:18-20",
+    "efesios 4:32",
+    "colossenses 3:13",
+    "efesios 4:26",
+    "2-corintios 2:6-8",
+    "filemom 1:15-18",
+    "efesios 2:16",
+    "efesios 4:31-32",
+    "colossenses 1:20-22"
+   ]
+  },
+  {
+   "id": "vida-nova",
+   "titulo": "Vida nova e o fruto do Espírito",
+   "grupo": "vida cristã",
+   "resumo": "Para Paulo, quem está em Cristo é 'nova criação'. Ele usa a imagem de tirar a roupa velha e vestir a nova: abandonar práticas como ira, mentira e imoralidade e revestir-se de bondade e amor. Essa mudança não é só esforço humano, mas fruto do Espírito, embora exija decisão diária de não 'oferecer o corpo' ao pecado.",
+   "pontos": [
+    {
+     "texto": "Se alguém está em Cristo, é nova criação; as coisas velhas passaram.",
+     "refs": [
+      "2-corintios 5:17"
+     ]
+    },
+    {
+     "texto": "Considerai-vos mortos para o pecado e vivos para Deus; não ofereçais vossos membros ao pecado.",
+     "refs": [
+      "romanos 6:11-13"
+     ]
+    },
+    {
+     "texto": "Oferecei o corpo como sacrifício vivo e não vos conformeis com este mundo, mas transformai-vos pela renovação da mente.",
+     "refs": [
+      "romanos 12:1-2"
+     ]
+    },
+    {
+     "texto": "O fruto do Espírito é amor, alegria, paz, paciência, bondade, benignidade, fidelidade, mansidão e domínio próprio.",
+     "refs": [
+      "galatas 5:22-23"
+     ]
+    },
+    {
+     "texto": "As obras da carne (imoralidade, idolatria, inimizades, inveja, bebedeiras...) contrastam com a vida no Espírito.",
+     "refs": [
+      "galatas 5:19-21"
+     ]
+    },
+    {
+     "texto": "Despir o velho homem e revestir-se do novo: falar a verdade, não furtar, palavras que edificam.",
+     "refs": [
+      "efesios 4:22-29"
+     ]
+    },
+    {
+     "texto": "Buscar as coisas do alto e revestir-se de compaixão, bondade, humildade, mansidão e paciência.",
+     "refs": [
+      "colossenses 3:1-3",
+      "colossenses 3:12"
+     ]
+    },
+    {
+     "texto": "Pensar no que é verdadeiro, honesto, justo, puro, amável e de boa fama.",
+     "refs": [
+      "filipenses 4:8"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 6:11-13",
+     "romanos 12:1-2"
+    ],
+    "2-corintios": [
+     "2-corintios 5:17"
+    ],
+    "galatas": [
+     "galatas 2:20",
+     "galatas 5:16-25"
+    ],
+    "efesios": [
+     "efesios 4:22-32"
+    ],
+    "filipenses": [
+     "filipenses 4:8"
+    ],
+    "colossenses": [
+     "colossenses 3:1-14"
+    ],
+    "tito": [
+     "tito 2:11-12"
+    ]
+   },
+   "debates": "As tradições diferem sobre quanto de santidade se pode alcançar nesta vida (por exemplo, a ênfase wesleyana na 'santificação inteira' e outras que destacam a luta contínua até o fim).",
+   "refs": [
+    "2-corintios 5:17",
+    "romanos 6:11-13",
+    "romanos 12:1-2",
+    "galatas 5:22-23",
+    "galatas 5:19-21",
+    "efesios 4:22-29",
+    "colossenses 3:1-3",
+    "colossenses 3:12",
+    "filipenses 4:8",
+    "galatas 2:20",
+    "galatas 5:16-25",
+    "efesios 4:22-32",
+    "colossenses 3:1-14",
+    "tito 2:11-12"
+   ]
+  },
+  {
+   "id": "amor",
+   "titulo": "O amor (1 Coríntios 13)",
+   "grupo": "vida cristã",
+   "resumo": "Paulo coloca o amor acima de todos os dons: sem amor, mesmo línguas, profecia, conhecimento e sacrifício não valem nada. Ele descreve o amor por suas atitudes concretas (paciente, bondoso, não invejoso, não orgulhoso) e diz que ele é o cumprimento da Lei e o 'vínculo da perfeição'.",
+   "pontos": [
+    {
+     "texto": "Sem amor, falar línguas, profetizar, ter fé ou dar tudo não adianta nada.",
+     "refs": [
+      "1-corintios 13:1-3"
+     ]
+    },
+    {
+     "texto": "O amor é paciente e bondoso; não inveja, não se orgulha, não busca seus interesses, não guarda rancor; tudo suporta.",
+     "refs": [
+      "1-corintios 13:4-7"
+     ]
+    },
+    {
+     "texto": "O amor nunca acaba; permanecem fé, esperança e amor, e o maior deles é o amor.",
+     "refs": [
+      "1-corintios 13:8",
+      "1-corintios 13:13"
+     ]
+    },
+    {
+     "texto": "O amor seja sem fingimento; amai-vos com amor fraternal.",
+     "refs": [
+      "romanos 12:9-10"
+     ]
+    },
+    {
+     "texto": "A ninguém devais nada, a não ser o amor; quem ama cumpre a Lei.",
+     "refs": [
+      "romanos 13:8-10"
+     ]
+    },
+    {
+     "texto": "Andai em amor, como Cristo nos amou e se entregou por nós.",
+     "refs": [
+      "efesios 5:2"
+     ]
+    },
+    {
+     "texto": "Acima de tudo, revesti-vos do amor, que é o vínculo da perfeição.",
+     "refs": [
+      "colossenses 3:14"
+     ]
+    },
+    {
+     "texto": "Tudo o que fizerdes, seja feito com amor.",
+     "refs": [
+      "1-corintios 16:14"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 12:9-10",
+     "romanos 13:8-10"
+    ],
+    "1-corintios": [
+     "1-corintios 8:1",
+     "1-corintios 13:1-13",
+     "1-corintios 16:14"
+    ],
+    "galatas": [
+     "galatas 5:13-14"
+    ],
+    "efesios": [
+     "efesios 3:17-19",
+     "efesios 5:2"
+    ],
+    "filipenses": [
+     "filipenses 1:9"
+    ],
+    "colossenses": [
+     "colossenses 3:14"
+    ],
+    "1-tessalonicenses": [
+     "1-tessalonicenses 3:12",
+     "1-tessalonicenses 4:9"
+    ],
+    "1-timoteo": [
+     "1-timoteo 1:5"
+    ]
+   },
+   "refs": [
+    "1-corintios 13:1-3",
+    "1-corintios 13:4-7",
+    "1-corintios 13:8",
+    "1-corintios 13:13",
+    "romanos 12:9-10",
+    "romanos 13:8-10",
+    "efesios 5:2",
+    "colossenses 3:14",
+    "1-corintios 16:14",
+    "1-corintios 8:1",
+    "1-corintios 13:1-13",
+    "galatas 5:13-14",
+    "efesios 3:17-19",
+    "filipenses 1:9",
+    "1-tessalonicenses 3:12",
+    "1-tessalonicenses 4:9",
+    "1-timoteo 1:5"
+   ]
+  },
+  {
+   "id": "liberdade-e-consciencia",
+   "titulo": "Liberdade cristã e consciência (comida e dias)",
+   "grupo": "vida cristã",
+   "resumo": "Nas igrejas de Paulo havia quem comesse de tudo e quem evitasse carne (inclusive a sacrificada a ídolos), quem guardasse certos dias e quem não. Paulo afirma a liberdade em Cristo, mas pede que ela seja usada com amor: não desprezar nem julgar o irmão, não ferir a consciência do mais 'fraco' e fazer tudo para a glória de Deus.",
+   "pontos": [
+    {
+     "texto": "Para a liberdade Cristo nos libertou; não volteis ao jugo da escravidão.",
+     "refs": [
+      "galatas 5:1"
+     ]
+    },
+    {
+     "texto": "Liberdade não é ocasião para a carne, mas para servir em amor.",
+     "refs": [
+      "galatas 5:13"
+     ]
+    },
+    {
+     "texto": "Quem come não despreze quem não come, e quem não come não julgue quem come; cada um esteja convicto em sua mente, inclusive sobre dias.",
+     "refs": [
+      "romanos 14:1-6"
+     ]
+    },
+    {
+     "texto": "Não ponhais tropeço ao irmão; o Reino de Deus não é comida e bebida, mas justiça, paz e alegria no Espírito.",
+     "refs": [
+      "romanos 14:13-17"
+     ]
+    },
+    {
+     "texto": "Tudo o que não vem da fé (da convicção) é pecado.",
+     "refs": [
+      "romanos 14:22-23"
+     ]
+    },
+    {
+     "texto": "O conhecimento incha, o amor edifica; cuidado para que a vossa liberdade não faça cair o fraco.",
+     "refs": [
+      "1-corintios 8:1",
+      "1-corintios 8:9-13"
+     ]
+    },
+    {
+     "texto": "Tudo é permitido, mas nem tudo convém; fazei tudo para a glória de Deus.",
+     "refs": [
+      "1-corintios 10:23-31"
+     ]
+    },
+    {
+     "texto": "Ninguém vos julgue por comida, bebida, festas, lua nova ou sábados: são sombra; a realidade é Cristo.",
+     "refs": [
+      "colossenses 2:16-17"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 14:1-23",
+     "romanos 15:1"
+    ],
+    "1-corintios": [
+     "1-corintios 8:1-13",
+     "1-corintios 10:23-31"
+    ],
+    "galatas": [
+     "galatas 4:9-10",
+     "galatas 5:1",
+     "galatas 5:13"
+    ],
+    "colossenses": [
+     "colossenses 2:16-17"
+    ],
+    "1-timoteo": [
+     "1-timoteo 4:3-5"
+    ]
+   },
+   "debates": "Igrejas aplicam esses textos de formas diferentes a dias (domingo, sábado, calendário litúrgico), a jejuns e restrições alimentares e a bebidas alcoólicas: algumas pedem abstinência por amor ao fraco, outras deixam à consciência de cada um.",
+   "refs": [
+    "galatas 5:1",
+    "galatas 5:13",
+    "romanos 14:1-6",
+    "romanos 14:13-17",
+    "romanos 14:22-23",
+    "1-corintios 8:1",
+    "1-corintios 8:9-13",
+    "1-corintios 10:23-31",
+    "colossenses 2:16-17",
+    "romanos 14:1-23",
+    "romanos 15:1",
+    "1-corintios 8:1-13",
+    "galatas 4:9-10",
+    "1-timoteo 4:3-5"
+   ]
+  },
+  {
+   "id": "santidade-sexual",
+   "titulo": "Santidade sexual",
+   "grupo": "vida cristã",
+   "resumo": "Paulo escreve a cidades onde a prática sexual fora do casamento era comum e até ligada a cultos. Ele ensina que o corpo pertence ao Senhor, que a vontade de Deus é a santificação, e pede que os cristãos fujam da imoralidade sexual. Ao mesmo tempo, lembra que muitos já viveram assim e foram 'lavados' e transformados.",
+   "pontos": [
+    {
+     "texto": "A vontade de Deus é a vossa santificação: que vos abstenhais da imoralidade sexual e cada um saiba controlar o próprio corpo em santidade.",
+     "refs": [
+      "1-tessalonicenses 4:3-7"
+     ]
+    },
+    {
+     "texto": "O corpo não é para a imoralidade, mas para o Senhor; fugi da imoralidade sexual; fostes comprados por preço.",
+     "refs": [
+      "1-corintios 6:13",
+      "1-corintios 6:18-20"
+     ]
+    },
+    {
+     "texto": "Paulo lista práticas que não herdam o Reino, mas acrescenta: 'tais fostes alguns de vós; mas fostes lavados... justificados'.",
+     "refs": [
+      "1-corintios 6:9-11"
+     ]
+    },
+    {
+     "texto": "Imoralidade e toda impureza nem se nomeiem entre vós.",
+     "refs": [
+      "efesios 5:3",
+      "colossenses 3:5"
+     ]
+    },
+    {
+     "texto": "Paulo repreende a igreja por tolerar um caso de incesto.",
+     "refs": [
+      "1-corintios 5:1-2"
+     ]
+    },
+    {
+     "texto": "Dentro do casamento, marido e mulher não se recusem um ao outro.",
+     "refs": [
+      "1-corintios 7:2-5"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 1:24-27",
+     "romanos 13:13"
+    ],
+    "1-corintios": [
+     "1-corintios 5:1-2",
+     "1-corintios 6:9-20",
+     "1-corintios 7:2-5"
+    ],
+    "2-corintios": [
+     "2-corintios 12:21"
+    ],
+    "galatas": [
+     "galatas 5:19"
+    ],
+    "efesios": [
+     "efesios 5:3-5"
+    ],
+    "colossenses": [
+     "colossenses 3:5"
+    ],
+    "1-tessalonicenses": [
+     "1-tessalonicenses 4:3-7"
+    ],
+    "1-timoteo": [
+     "1-timoteo 1:9-10"
+    ]
+   },
+   "debates": "O sentido exato de duas palavras gregas raras em 1 Coríntios 6:9 e 1 Timóteo 1:10 (malakoi e arsenokoitai), e a aplicação de Romanos 1:26-27 hoje, são debatidos. A maioria das igrejas as lê como condenação de toda relação homossexual; algumas igrejas e estudiosos as leem como referência a práticas específicas do mundo antigo, como exploração e prostituição.",
+   "refs": [
+    "1-tessalonicenses 4:3-7",
+    "1-corintios 6:13",
+    "1-corintios 6:18-20",
+    "1-corintios 6:9-11",
+    "efesios 5:3",
+    "colossenses 3:5",
+    "1-corintios 5:1-2",
+    "1-corintios 7:2-5",
+    "romanos 1:24-27",
+    "romanos 13:13",
+    "1-corintios 6:9-20",
+    "2-corintios 12:21",
+    "galatas 5:19",
+    "efesios 5:3-5",
+    "1-timoteo 1:9-10"
+   ]
+  },
+  {
+   "id": "oracao",
+   "titulo": "Oração",
+   "grupo": "vida cristã",
+   "resumo": "As cartas de Paulo estão cheias de orações: ação de graças pelas igrejas, pedidos por sabedoria e amor, intercessão. Ele pede que os cristãos orem sem cessar, apresentem suas preocupações a Deus com gratidão e orem por todos, inclusive pelas autoridades, e pede oração para si mesmo.",
+   "pontos": [
+    {
+     "texto": "Orai sem cessar; em tudo dai graças.",
+     "refs": [
+      "1-tessalonicenses 5:16-18"
+     ]
+    },
+    {
+     "texto": "Não andeis ansiosos; apresentai vossos pedidos a Deus com ação de graças, e a paz de Deus guardará vossos corações.",
+     "refs": [
+      "filipenses 4:6-7"
+     ]
+    },
+    {
+     "texto": "Orai em todo tempo no Espírito, com perseverança, por todos os santos.",
+     "refs": [
+      "efesios 6:18"
+     ]
+    },
+    {
+     "texto": "Perseverai na oração, vigiando com ação de graças; orai também por nós.",
+     "refs": [
+      "colossenses 4:2-4"
+     ]
+    },
+    {
+     "texto": "Façam-se orações por todas as pessoas, pelos reis e pelos que estão em autoridade.",
+     "refs": [
+      "1-timoteo 2:1-2"
+     ]
+    },
+    {
+     "texto": "O Espírito nos ajuda quando não sabemos orar.",
+     "refs": [
+      "romanos 8:26"
+     ]
+    },
+    {
+     "texto": "Paulo pediu três vezes que Deus tirasse um 'espinho na carne' e recebeu a resposta: 'a minha graça te basta'.",
+     "refs": [
+      "2-corintios 12:7-9"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 1:9-10",
+     "romanos 8:26",
+     "romanos 12:12",
+     "romanos 15:30"
+    ],
+    "2-corintios": [
+     "2-corintios 12:7-9"
+    ],
+    "efesios": [
+     "efesios 1:16-19",
+     "efesios 3:14-19",
+     "efesios 6:18"
+    ],
+    "filipenses": [
+     "filipenses 1:3-4",
+     "filipenses 1:9-11",
+     "filipenses 4:6-7"
+    ],
+    "colossenses": [
+     "colossenses 1:9-10",
+     "colossenses 4:2-4"
+    ],
+    "1-tessalonicenses": [
+     "1-tessalonicenses 5:16-18"
+    ],
+    "2-tessalonicenses": [
+     "2-tessalonicenses 3:1"
+    ],
+    "1-timoteo": [
+     "1-timoteo 2:1-2",
+     "1-timoteo 2:8"
+    ],
+    "filemom": [
+     "filemom 1:4"
+    ]
+   },
+   "refs": [
+    "1-tessalonicenses 5:16-18",
+    "filipenses 4:6-7",
+    "efesios 6:18",
+    "colossenses 4:2-4",
+    "1-timoteo 2:1-2",
+    "romanos 8:26",
+    "2-corintios 12:7-9",
+    "romanos 1:9-10",
+    "romanos 12:12",
+    "romanos 15:30",
+    "efesios 1:16-19",
+    "efesios 3:14-19",
+    "filipenses 1:3-4",
+    "filipenses 1:9-11",
+    "colossenses 1:9-10",
+    "2-tessalonicenses 3:1",
+    "1-timoteo 2:8",
+    "filemom 1:4"
+   ]
+  },
+  {
+   "id": "sofrimento",
+   "titulo": "Sofrimento e perseverança",
+   "grupo": "vida cristã",
+   "resumo": "Paulo foi açoitado, apedrejado, preso e passou fome. Ele não esconde o sofrimento nem o trata como sinal de falta de fé. Ensina que o sofrimento produz perseverança, que a força de Deus se mostra na fraqueza humana, e que nada pode separar o cristão do amor de Deus. A esperança da glória futura dá sentido à dor presente.",
+   "pontos": [
+    {
+     "texto": "A tribulação produz perseverança, a perseverança caráter, e o caráter esperança.",
+     "refs": [
+      "romanos 5:3-5"
+     ]
+    },
+    {
+     "texto": "Os sofrimentos do tempo presente não se comparam com a glória que será revelada.",
+     "refs": [
+      "romanos 8:18",
+      "2-corintios 4:17-18"
+     ]
+    },
+    {
+     "texto": "Nada — tribulação, perseguição, fome, morte — pode nos separar do amor de Deus em Cristo.",
+     "refs": [
+      "romanos 8:35-39"
+     ]
+    },
+    {
+     "texto": "Temos este tesouro em vasos de barro: atribulados, mas não angustiados; abatidos, mas não destruídos.",
+     "refs": [
+      "2-corintios 4:7-10"
+     ]
+    },
+    {
+     "texto": "O poder de Deus se aperfeiçoa na fraqueza: 'quando sou fraco, então sou forte'.",
+     "refs": [
+      "2-corintios 12:9-10"
+     ]
+    },
+    {
+     "texto": "Paulo enumera o que sofreu: prisões, açoites, naufrágios, perigos, fome e frio.",
+     "refs": [
+      "2-corintios 11:23-27"
+     ]
+    },
+    {
+     "texto": "Deus nos consola em toda tribulação, para que possamos consolar os outros.",
+     "refs": [
+      "2-corintios 1:3-4"
+     ]
+    },
+    {
+     "texto": "Todos os que querem viver piedosamente em Cristo serão perseguidos.",
+     "refs": [
+      "2-timoteo 3:12"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 5:3-5",
+     "romanos 8:18",
+     "romanos 8:35-39"
+    ],
+    "2-corintios": [
+     "2-corintios 1:3-4",
+     "2-corintios 4:7-18",
+     "2-corintios 11:23-27",
+     "2-corintios 12:9-10"
+    ],
+    "filipenses": [
+     "filipenses 1:29",
+     "filipenses 3:10"
+    ],
+    "colossenses": [
+     "colossenses 1:24"
+    ],
+    "1-tessalonicenses": [
+     "1-tessalonicenses 3:3-4"
+    ],
+    "2-tessalonicenses": [
+     "2-tessalonicenses 1:4-5"
+    ],
+    "2-timoteo": [
+     "2-timoteo 2:3",
+     "2-timoteo 3:12"
+    ]
+   },
+   "refs": [
+    "romanos 5:3-5",
+    "romanos 8:18",
+    "2-corintios 4:17-18",
+    "romanos 8:35-39",
+    "2-corintios 4:7-10",
+    "2-corintios 12:9-10",
+    "2-corintios 11:23-27",
+    "2-corintios 1:3-4",
+    "2-timoteo 3:12",
+    "2-corintios 4:7-18",
+    "filipenses 1:29",
+    "filipenses 3:10",
+    "colossenses 1:24",
+    "1-tessalonicenses 3:3-4",
+    "2-tessalonicenses 1:4-5",
+    "2-timoteo 2:3"
+   ]
+  },
+  {
+   "id": "armadura-de-deus",
+   "titulo": "A armadura de Deus e a luta espiritual",
+   "grupo": "vida cristã",
+   "resumo": "Escrevendo da prisão, Paulo usa a imagem da armadura para falar da luta do cristão. O inimigo não são pessoas ('carne e sangue'), mas poderes espirituais do mal. As 'armas' são verdade, justiça, o evangelho da paz, fé, salvação, a Palavra de Deus e a oração.",
+   "pontos": [
+    {
+     "texto": "Fortalecei-vos no Senhor e revesti-vos de toda a armadura de Deus.",
+     "refs": [
+      "efesios 6:10-11"
+     ]
+    },
+    {
+     "texto": "A nossa luta não é contra carne e sangue, mas contra os poderes espirituais do mal.",
+     "refs": [
+      "efesios 6:12"
+     ]
+    },
+    {
+     "texto": "Cinto da verdade, couraça da justiça, calçado do evangelho da paz, escudo da fé, capacete da salvação e espada do Espírito, que é a palavra de Deus — com oração.",
+     "refs": [
+      "efesios 6:13-18"
+     ]
+    },
+    {
+     "texto": "Revestidos da couraça da fé e do amor e do capacete da esperança da salvação.",
+     "refs": [
+      "1-tessalonicenses 5:8"
+     ]
+    },
+    {
+     "texto": "Revesti-vos das armas da luz.",
+     "refs": [
+      "romanos 13:12"
+     ]
+    },
+    {
+     "texto": "As armas da nossa milícia não são carnais, mas poderosas em Deus para destruir fortalezas e levar cativo todo pensamento a Cristo.",
+     "refs": [
+      "2-corintios 10:3-5"
+     ]
+    },
+    {
+     "texto": "Combate o bom combate da fé.",
+     "refs": [
+      "1-timoteo 6:12",
+      "2-timoteo 4:7"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 13:12"
+    ],
+    "2-corintios": [
+     "2-corintios 6:7",
+     "2-corintios 10:3-5"
+    ],
+    "efesios": [
+     "efesios 6:10-18"
+    ],
+    "1-tessalonicenses": [
+     "1-tessalonicenses 5:8"
+    ],
+    "1-timoteo": [
+     "1-timoteo 6:12"
+    ],
+    "2-timoteo": [
+     "2-timoteo 2:3-4",
+     "2-timoteo 4:7"
+    ]
+   },
+   "debates": "As igrejas variam em como entendem os 'principados e potestades': seres espirituais pessoais, estruturas de poder do mundo, ou as duas coisas. Também divergem sobre práticas de 'batalha espiritual'.",
+   "refs": [
+    "efesios 6:10-11",
+    "efesios 6:12",
+    "efesios 6:13-18",
+    "1-tessalonicenses 5:8",
+    "romanos 13:12",
+    "2-corintios 10:3-5",
+    "1-timoteo 6:12",
+    "2-timoteo 4:7",
+    "2-corintios 6:7",
+    "efesios 6:10-18",
+    "2-timoteo 2:3-4"
+   ]
+  },
+  {
+   "id": "dinheiro-e-contentamento",
+   "titulo": "Dinheiro, riqueza e contentamento",
+   "grupo": "vida cristã",
+   "resumo": "Paulo não condena ter bens, mas alerta fortemente contra a ganância, que chama de idolatria, e contra o amor ao dinheiro, 'raiz de todos os males'. Aos ricos, pede generosidade e esperança em Deus, não nas riquezas. Ele mesmo diz ter aprendido a viver contente tanto na fartura quanto na falta.",
+   "pontos": [
+    {
+     "texto": "O amor ao dinheiro é raiz de todos os males; quem quer ficar rico cai em tentação e laço.",
+     "refs": [
+      "1-timoteo 6:9-10"
+     ]
+    },
+    {
+     "texto": "Grande ganho é a piedade com contentamento; tendo alimento e roupa, estejamos contentes.",
+     "refs": [
+      "1-timoteo 6:6-8"
+     ]
+    },
+    {
+     "texto": "Aos ricos: não sejam orgulhosos nem ponham a esperança nas riquezas; sejam ricos em boas obras e generosos.",
+     "refs": [
+      "1-timoteo 6:17-19"
+     ]
+    },
+    {
+     "texto": "Aprendi a contentar-me em toda situação; posso tudo naquele que me fortalece.",
+     "refs": [
+      "filipenses 4:11-13"
+     ]
+    },
+    {
+     "texto": "A avareza (ganância) é idolatria.",
+     "refs": [
+      "colossenses 3:5",
+      "efesios 5:5"
+     ]
+    },
+    {
+     "texto": "Líderes da igreja não devem ser amantes do dinheiro nem buscar lucro desonesto.",
+     "refs": [
+      "1-timoteo 3:3",
+      "tito 1:7"
+     ]
+    },
+    {
+     "texto": "Não devais nada a ninguém, a não ser o amor.",
+     "refs": [
+      "romanos 13:8"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 13:8"
+    ],
+    "2-corintios": [
+     "2-corintios 6:10",
+     "2-corintios 8:9"
+    ],
+    "efesios": [
+     "efesios 5:5"
+    ],
+    "filipenses": [
+     "filipenses 4:11-13"
+    ],
+    "colossenses": [
+     "colossenses 3:5"
+    ],
+    "1-timoteo": [
+     "1-timoteo 3:3",
+     "1-timoteo 6:6-10",
+     "1-timoteo 6:17-19"
+    ],
+    "tito": [
+     "tito 1:7"
+    ]
+   },
+   "debates": "Romanos 13:8 é lido por uns como proibição de toda dívida e por outros como ordem de pagar o que se deve; e as igrejas avaliam de modos diferentes a chamada 'teologia da prosperidade', que muitos consideram contrária a 1 Timóteo 6.",
+   "refs": [
+    "1-timoteo 6:9-10",
+    "1-timoteo 6:6-8",
+    "1-timoteo 6:17-19",
+    "filipenses 4:11-13",
+    "colossenses 3:5",
+    "efesios 5:5",
+    "1-timoteo 3:3",
+    "tito 1:7",
+    "romanos 13:8",
+    "2-corintios 6:10",
+    "2-corintios 8:9",
+    "1-timoteo 6:6-10"
+   ]
+  },
+  {
+   "id": "trabalho",
+   "titulo": "Trabalho e ociosidade",
+   "grupo": "vida cristã",
+   "resumo": "Paulo, fabricante de tendas, trabalhou com as próprias mãos para não ser peso para as igrejas. Diante de membros que deixaram de trabalhar (talvez esperando a volta iminente de Cristo), ele é firme: quem não quer trabalhar também não coma. O trabalho honesto é testemunho e permite ajudar os necessitados; deve ser feito 'como para o Senhor'.",
+   "pontos": [
+    {
+     "texto": "Procurai viver em paz, cuidar dos vossos negócios e trabalhar com as próprias mãos, para serdes respeitados pelos de fora.",
+     "refs": [
+      "1-tessalonicenses 4:11-12"
+     ]
+    },
+    {
+     "texto": "Se alguém não quer trabalhar, também não coma; trabalhem tranquilamente e comam o próprio pão.",
+     "refs": [
+      "2-tessalonicenses 3:10-12"
+     ]
+    },
+    {
+     "texto": "Paulo trabalhou noite e dia para dar exemplo.",
+     "refs": [
+      "2-tessalonicenses 3:7-9",
+      "1-tessalonicenses 2:9",
+      "atos 18:3"
+     ]
+    },
+    {
+     "texto": "Quem furtava não furte mais, mas trabalhe, para ter o que repartir com o necessitado.",
+     "refs": [
+      "efesios 4:28"
+     ]
+    },
+    {
+     "texto": "Tudo o que fizerdes, fazei de coração, como para o Senhor.",
+     "refs": [
+      "colossenses 3:23-24"
+     ]
+    },
+    {
+     "texto": "Não vos canseis de fazer o bem.",
+     "refs": [
+      "2-tessalonicenses 3:13",
+      "galatas 6:9"
+     ]
+    }
+   ],
+   "por_carta": {
+    "1-corintios": [
+     "1-corintios 4:12"
+    ],
+    "efesios": [
+     "efesios 4:28"
+    ],
+    "colossenses": [
+     "colossenses 3:23-24"
+    ],
+    "1-tessalonicenses": [
+     "1-tessalonicenses 2:9",
+     "1-tessalonicenses 4:11-12"
+    ],
+    "2-tessalonicenses": [
+     "2-tessalonicenses 3:6-13"
+    ],
+    "tito": [
+     "tito 3:14"
+    ]
+   },
+   "refs": [
+    "1-tessalonicenses 4:11-12",
+    "2-tessalonicenses 3:10-12",
+    "2-tessalonicenses 3:7-9",
+    "1-tessalonicenses 2:9",
+    "atos 18:3",
+    "efesios 4:28",
+    "colossenses 3:23-24",
+    "2-tessalonicenses 3:13",
+    "galatas 6:9",
+    "1-corintios 4:12",
+    "2-tessalonicenses 3:6-13",
+    "tito 3:14"
+   ]
+  },
+  {
+   "id": "generosidade-e-coleta",
+   "titulo": "Generosidade e a coleta para Jerusalém",
+   "grupo": "vida cristã",
+   "resumo": "Durante anos Paulo organizou uma oferta das igrejas da Macedônia, Acaia e Galácia para os cristãos pobres de Jerusalém. Era ajuda material e também sinal de unidade entre gentios e judeus. Seus princípios: dar voluntariamente, conforme a possibilidade, com alegria, de forma regular e com prestação de contas transparente.",
+   "pontos": [
+    {
+     "texto": "Paulo combinou com os apóstolos em Jerusalém lembrar-se dos pobres.",
+     "refs": [
+      "galatas 2:10"
+     ]
+    },
+    {
+     "texto": "No primeiro dia da semana, cada um separe conforme a sua prosperidade; a oferta será levada por pessoas aprovadas pela igreja.",
+     "refs": [
+      "1-corintios 16:1-4"
+     ]
+    },
+    {
+     "texto": "Os macedônios, mesmo em pobreza extrema, deram além de suas posses, e primeiro se deram ao Senhor.",
+     "refs": [
+      "2-corintios 8:1-5"
+     ]
+    },
+    {
+     "texto": "O objetivo é igualdade: a fartura de uns supre a falta de outros.",
+     "refs": [
+      "2-corintios 8:13-15"
+     ]
+    },
+    {
+     "texto": "Paulo cuida para que tudo seja honesto diante do Senhor e das pessoas.",
+     "refs": [
+      "2-corintios 8:20-21"
+     ]
+    },
+    {
+     "texto": "Quem semeia pouco colhe pouco; cada um dê como decidiu no coração, não com tristeza nem por obrigação; Deus ama quem dá com alegria.",
+     "refs": [
+      "2-corintios 9:6-7"
+     ]
+    },
+    {
+     "texto": "Os gentios, que participaram das bênçãos espirituais dos judeus, devem servi-los com bens materiais.",
+     "refs": [
+      "romanos 15:25-27"
+     ]
+    },
+    {
+     "texto": "Façamos o bem a todos, principalmente aos da família da fé.",
+     "refs": [
+      "galatas 6:10"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 12:13",
+     "romanos 15:25-27"
+    ],
+    "1-corintios": [
+     "1-corintios 16:1-4"
+    ],
+    "2-corintios": [
+     "2-corintios 8:1-24",
+     "2-corintios 9:1-15"
+    ],
+    "galatas": [
+     "galatas 2:10",
+     "galatas 6:10"
+    ],
+    "filipenses": [
+     "filipenses 4:15-18"
+    ],
+    "1-timoteo": [
+     "1-timoteo 6:18"
+    ]
+   },
+   "debates": "Paulo não menciona o dízimo nas cartas. Algumas igrejas ensinam o dízimo como princípio permanente (com base no Antigo Testamento e em Mt 23:23); outras entendem que Paulo propõe uma oferta livre e proporcional, sem porcentagem fixa.",
+   "refs": [
+    "galatas 2:10",
+    "1-corintios 16:1-4",
+    "2-corintios 8:1-5",
+    "2-corintios 8:13-15",
+    "2-corintios 8:20-21",
+    "2-corintios 9:6-7",
+    "romanos 15:25-27",
+    "galatas 6:10",
+    "romanos 12:13",
+    "2-corintios 8:1-24",
+    "2-corintios 9:1-15",
+    "filipenses 4:15-18",
+    "1-timoteo 6:18"
+   ]
+  },
+  {
+   "id": "igreja-corpo",
+   "titulo": "A igreja como corpo de Cristo",
+   "grupo": "igreja",
+   "resumo": "A imagem preferida de Paulo para a igreja é a de um corpo: muitos membros diferentes, todos necessários, unidos a Cristo, que é a cabeça. Ele também a chama de templo de Deus, família (casa) de Deus e edifício construído sobre o fundamento dos apóstolos e profetas. Para Paulo, ninguém é cristão sozinho.",
+   "pontos": [
+    {
+     "texto": "Assim como o corpo tem muitos membros, vós sois o corpo de Cristo, e cada um é membro dele.",
+     "refs": [
+      "1-corintios 12:12-14",
+      "1-corintios 12:27"
+     ]
+    },
+    {
+     "texto": "Nenhum membro pode dizer ao outro 'não preciso de ti'; os que parecem mais fracos são necessários.",
+     "refs": [
+      "1-corintios 12:21-22"
+     ]
+    },
+    {
+     "texto": "Se um membro sofre, todos sofrem com ele; se um é honrado, todos se alegram.",
+     "refs": [
+      "1-corintios 12:26"
+     ]
+    },
+    {
+     "texto": "Somos um só corpo em Cristo e membros uns dos outros.",
+     "refs": [
+      "romanos 12:4-5"
+     ]
+    },
+    {
+     "texto": "Cristo é a cabeça; dele todo o corpo cresce em amor, cada parte cooperando.",
+     "refs": [
+      "efesios 1:22-23",
+      "efesios 4:15-16",
+      "colossenses 1:18"
+     ]
+    },
+    {
+     "texto": "A igreja é família de Deus e templo santo, edificada sobre os apóstolos e profetas, com Cristo como pedra angular.",
+     "refs": [
+      "efesios 2:19-22",
+      "1-timoteo 3:15"
+     ]
+    },
+    {
+     "texto": "Cristo amou a igreja e se entregou por ela.",
+     "refs": [
+      "efesios 5:25-27"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 12:4-5"
+    ],
+    "1-corintios": [
+     "1-corintios 3:16-17",
+     "1-corintios 10:17",
+     "1-corintios 12:12-27"
+    ],
+    "efesios": [
+     "efesios 1:22-23",
+     "efesios 2:19-22",
+     "efesios 4:15-16",
+     "efesios 5:25-27"
+    ],
+    "colossenses": [
+     "colossenses 1:18",
+     "colossenses 2:19"
+    ],
+    "1-timoteo": [
+     "1-timoteo 3:15"
+    ]
+   },
+   "refs": [
+    "1-corintios 12:12-14",
+    "1-corintios 12:27",
+    "1-corintios 12:21-22",
+    "1-corintios 12:26",
+    "romanos 12:4-5",
+    "efesios 1:22-23",
+    "efesios 4:15-16",
+    "colossenses 1:18",
+    "efesios 2:19-22",
+    "1-timoteo 3:15",
+    "efesios 5:25-27",
+    "1-corintios 3:16-17",
+    "1-corintios 10:17",
+    "1-corintios 12:12-27",
+    "colossenses 2:19"
+   ]
+  },
+  {
+   "id": "dons-espirituais",
+   "titulo": "Dons espirituais",
+   "grupo": "igreja",
+   "resumo": "Paulo ensina que o Espírito dá a cada cristão algum dom (capacidade) para o bem comum. Ele lista dons variados — sabedoria, fé, curas, profecia, línguas, ensino, serviço, liderança, misericórdia — sem uma lista única. Em Corinto, onde as línguas eram supervalorizadas, ele pede que tudo sirva para edificar a igreja e coloca o amor acima de todos os dons.",
+   "pontos": [
+    {
+     "texto": "Há diversidade de dons, mas o Espírito é o mesmo; a cada um é dada a manifestação do Espírito para o proveito comum.",
+     "refs": [
+      "1-corintios 12:4-7"
+     ]
+    },
+    {
+     "texto": "Lista de dons: palavra de sabedoria e de conhecimento, fé, curas, milagres, profecia, discernimento, línguas e interpretação.",
+     "refs": [
+      "1-corintios 12:8-11"
+     ]
+    },
+    {
+     "texto": "Nem todos têm os mesmos dons; buscai os melhores dons — e o caminho mais excelente é o amor.",
+     "refs": [
+      "1-corintios 12:29-31"
+     ]
+    },
+    {
+     "texto": "Outra lista: profecia, serviço, ensino, exortação, contribuição, liderança, misericórdia.",
+     "refs": [
+      "romanos 12:6-8"
+     ]
+    },
+    {
+     "texto": "Cristo deu apóstolos, profetas, evangelistas, pastores e mestres para preparar os santos para o serviço.",
+     "refs": [
+      "efesios 4:11-13"
+     ]
+    },
+    {
+     "texto": "Quem fala em línguas edifica a si mesmo; quem profetiza edifica a igreja; sem intérprete, cale-se na reunião.",
+     "refs": [
+      "1-corintios 14:1-5",
+      "1-corintios 14:27-28"
+     ]
+    },
+    {
+     "texto": "As profecias e as línguas cessarão 'quando vier o que é completo'.",
+     "refs": [
+      "1-corintios 13:8-10"
+     ]
+    },
+    {
+     "texto": "Não desprezeis as profecias; examinai tudo, retende o que é bom.",
+     "refs": [
+      "1-tessalonicenses 5:20-21"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 12:6-8"
+    ],
+    "1-corintios": [
+     "1-corintios 12:1-31",
+     "1-corintios 14:1-40"
+    ],
+    "efesios": [
+     "efesios 4:7-13"
+    ],
+    "1-tessalonicenses": [
+     "1-tessalonicenses 5:19-21"
+    ],
+    "1-timoteo": [
+     "1-timoteo 4:14"
+    ],
+    "2-timoteo": [
+     "2-timoteo 1:6"
+    ]
+   },
+   "debates": "Cessacionistas entendem que dons como línguas, profecia e curas foram próprios da era apostólica; continuístas (pentecostais, carismáticos e outros) entendem que continuam hoje. Grande parte da discussão gira em torno de 'o que é completo' (1 Co 13:10): a volta de Cristo, a maturidade da igreja ou o fechamento do Novo Testamento.",
+   "refs": [
+    "1-corintios 12:4-7",
+    "1-corintios 12:8-11",
+    "1-corintios 12:29-31",
+    "romanos 12:6-8",
+    "efesios 4:11-13",
+    "1-corintios 14:1-5",
+    "1-corintios 14:27-28",
+    "1-corintios 13:8-10",
+    "1-tessalonicenses 5:20-21",
+    "1-corintios 12:1-31",
+    "1-corintios 14:1-40",
+    "efesios 4:7-13",
+    "1-tessalonicenses 5:19-21",
+    "1-timoteo 4:14",
+    "2-timoteo 1:6"
+   ]
+  },
+  {
+   "id": "unidade-e-divisoes",
+   "titulo": "Unidade e divisões",
+   "grupo": "igreja",
+   "resumo": "Paulo enfrentou partidos ('eu sou de Paulo', 'eu de Apolo'), brigas entre líderes e tensões entre judeus e gentios, ricos e pobres. Ele insiste que Cristo não está dividido e que a unidade já existe no Espírito, mas precisa ser preservada com humildade, mansidão e paciência. Também alerta contra quem provoca divisões.",
+   "pontos": [
+    {
+     "texto": "Que não haja divisões entre vós; Cristo está dividido? Foi Paulo crucificado por vós?",
+     "refs": [
+      "1-corintios 1:10-13"
+     ]
+    },
+    {
+     "texto": "Paulo plantou, Apolo regou, mas Deus deu o crescimento; os líderes são apenas servos.",
+     "refs": [
+      "1-corintios 3:4-7"
+     ]
+    },
+    {
+     "texto": "Esforçai-vos para guardar a unidade do Espírito no vínculo da paz: um só corpo, um só Espírito, um só Senhor.",
+     "refs": [
+      "efesios 4:1-6"
+     ]
+    },
+    {
+     "texto": "Nada façais por rivalidade; considerai os outros superiores a vós mesmos.",
+     "refs": [
+      "filipenses 2:1-4"
+     ]
+    },
+    {
+     "texto": "Paulo pede a duas líderes, Evódia e Síntique, que tenham o mesmo modo de pensar no Senhor.",
+     "refs": [
+      "filipenses 4:2-3"
+     ]
+    },
+    {
+     "texto": "Acolhei-vos uns aos outros, como Cristo vos acolheu.",
+     "refs": [
+      "romanos 15:5-7"
+     ]
+    },
+    {
+     "texto": "Notai os que causam divisões contra o ensino recebido e afastai-vos deles.",
+     "refs": [
+      "romanos 16:17"
+     ]
+    },
+    {
+     "texto": "Em Cristo não há judeu nem grego, escravo nem livre, homem nem mulher: todos são um.",
+     "refs": [
+      "galatas 3:28",
+      "colossenses 3:11"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 15:5-7",
+     "romanos 16:17"
+    ],
+    "1-corintios": [
+     "1-corintios 1:10-13",
+     "1-corintios 3:3-7",
+     "1-corintios 11:18-19"
+    ],
+    "2-corintios": [
+     "2-corintios 13:11"
+    ],
+    "galatas": [
+     "galatas 2:11-14",
+     "galatas 3:28"
+    ],
+    "efesios": [
+     "efesios 4:1-6"
+    ],
+    "filipenses": [
+     "filipenses 2:1-4",
+     "filipenses 4:2-3"
+    ],
+    "colossenses": [
+     "colossenses 3:11"
+    ],
+    "tito": [
+     "tito 3:9-10"
+    ]
+   },
+   "debates": "As igrejas discordam sobre como essa unidade deve aparecer hoje: numa única estrutura visível (ênfase católica e ortodoxa), em cooperação entre denominações (movimento ecumênico), ou como unidade espiritual de todos os que creem, apesar das diferenças.",
+   "refs": [
+    "1-corintios 1:10-13",
+    "1-corintios 3:4-7",
+    "efesios 4:1-6",
+    "filipenses 2:1-4",
+    "filipenses 4:2-3",
+    "romanos 15:5-7",
+    "romanos 16:17",
+    "galatas 3:28",
+    "colossenses 3:11",
+    "1-corintios 3:3-7",
+    "1-corintios 11:18-19",
+    "2-corintios 13:11",
+    "galatas 2:11-14",
+    "tito 3:9-10"
+   ]
+  },
+  {
+   "id": "batismo",
+   "titulo": "Batismo",
+   "grupo": "igreja",
+   "resumo": "Paulo pressupõe que todos os cristãos foram batizados e usa o batismo para explicar a vida cristã: ser batizado é ser unido a Cristo em sua morte e ressurreição, 'revestir-se' de Cristo e entrar no único corpo. Ao mesmo tempo, diz que sua missão principal era pregar o evangelho, não batizar.",
+   "pontos": [
+    {
+     "texto": "Fomos batizados na morte de Cristo, sepultados com ele, para andarmos em novidade de vida.",
+     "refs": [
+      "romanos 6:3-4"
+     ]
+    },
+    {
+     "texto": "Todos os que fostes batizados em Cristo vos revestistes de Cristo.",
+     "refs": [
+      "galatas 3:27"
+     ]
+    },
+    {
+     "texto": "Num só Espírito fomos todos batizados em um só corpo.",
+     "refs": [
+      "1-corintios 12:13"
+     ]
+    },
+    {
+     "texto": "Há um só Senhor, uma só fé, um só batismo.",
+     "refs": [
+      "efesios 4:5"
+     ]
+    },
+    {
+     "texto": "Sepultados com ele no batismo, também ressuscitastes com ele pela fé; Paulo relaciona isso à 'circuncisão de Cristo'.",
+     "refs": [
+      "colossenses 2:11-12"
+     ]
+    },
+    {
+     "texto": "Paulo agradece por ter batizado poucos em Corinto: Cristo o enviou para pregar.",
+     "refs": [
+      "1-corintios 1:14-17"
+     ]
+    },
+    {
+     "texto": "Deus nos salvou pelo 'lavar da regeneração' e renovação do Espírito Santo.",
+     "refs": [
+      "tito 3:5"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 6:3-4"
+    ],
+    "1-corintios": [
+     "1-corintios 1:14-17",
+     "1-corintios 10:1-2",
+     "1-corintios 12:13",
+     "1-corintios 15:29"
+    ],
+    "galatas": [
+     "galatas 3:27"
+    ],
+    "efesios": [
+     "efesios 4:5",
+     "efesios 5:26"
+    ],
+    "colossenses": [
+     "colossenses 2:11-12"
+    ],
+    "tito": [
+     "tito 3:5"
+    ]
+   },
+   "debates": "As igrejas divergem sobre quem batizar (crianças de famílias cristãs, com base na ligação com a circuncisão em Cl 2 e nos batismos de 'casas' em 1 Co 1:16; ou só quem professa a fé), sobre a forma (imersão, aspersão, efusão) e sobre o que o batismo realiza (sacramento que comunica a graça ou sinal público da fé). O 'batismo pelos mortos' (1 Co 15:29) é obscuro e tem muitas interpretações.",
+   "refs": [
+    "romanos 6:3-4",
+    "galatas 3:27",
+    "1-corintios 12:13",
+    "efesios 4:5",
+    "colossenses 2:11-12",
+    "1-corintios 1:14-17",
+    "tito 3:5",
+    "1-corintios 10:1-2",
+    "1-corintios 15:29",
+    "efesios 5:26"
+   ]
+  },
+  {
+   "id": "ceia-do-senhor",
+   "titulo": "A Ceia do Senhor",
+   "grupo": "igreja",
+   "resumo": "Paulo transmite as palavras de Jesus na última ceia, o relato escrito mais antigo delas. Em Corinto, a ceia era feita junto com uma refeição em que os ricos comiam antes e os pobres ficavam com fome; Paulo diz que isso não é 'ceia do Senhor'. Comer o pão e beber o cálice é comunhão com Cristo e entre os irmãos, e anuncia a morte do Senhor até que ele venha.",
+   "pontos": [
+    {
+     "texto": "Na noite em que foi traído, Jesus tomou o pão... 'isto é o meu corpo'; e o cálice, 'a nova aliança no meu sangue'; 'fazei isto em memória de mim'.",
+     "refs": [
+      "1-corintios 11:23-25"
+     ]
+    },
+    {
+     "texto": "Todas as vezes que comerdes este pão e beberdes o cálice, anunciais a morte do Senhor até que ele venha.",
+     "refs": [
+      "1-corintios 11:26"
+     ]
+    },
+    {
+     "texto": "O cálice e o pão são comunhão (participação) no sangue e no corpo de Cristo; sendo um só pão, somos um só corpo.",
+     "refs": [
+      "1-corintios 10:16-17"
+     ]
+    },
+    {
+     "texto": "Não se pode participar da mesa do Senhor e da mesa dos demônios (dos ídolos).",
+     "refs": [
+      "1-corintios 10:21"
+     ]
+    },
+    {
+     "texto": "Desprezar os pobres na refeição comunitária é desprezar a igreja de Deus.",
+     "refs": [
+      "1-corintios 11:20-22"
+     ]
+    },
+    {
+     "texto": "Cada um examine a si mesmo; quem come sem discernir o corpo come juízo para si.",
+     "refs": [
+      "1-corintios 11:27-29"
+     ]
+    },
+    {
+     "texto": "Quando vos reunirdes para comer, esperai uns pelos outros.",
+     "refs": [
+      "1-corintios 11:33-34"
+     ]
+    }
+   ],
+   "por_carta": {
+    "1-corintios": [
+     "1-corintios 5:7-8",
+     "1-corintios 10:16-21",
+     "1-corintios 11:17-34"
+    ]
+   },
+   "debates": "As igrejas entendem a presença de Cristo de formas diferentes: transformação do pão e do vinho (católicos; ortodoxos falam de mistério), presença real 'com' o pão (luteranos), presença espiritual (reformados), ou memorial (muitas igrejas evangélicas). 'Discernir o corpo' (11:29) é lido como reconhecer Cristo no pão ou reconhecer a comunidade como corpo. Há também diferenças sobre frequência e sobre quem pode participar.",
+   "refs": [
+    "1-corintios 11:23-25",
+    "1-corintios 11:26",
+    "1-corintios 10:16-17",
+    "1-corintios 10:21",
+    "1-corintios 11:20-22",
+    "1-corintios 11:27-29",
+    "1-corintios 11:33-34",
+    "1-corintios 5:7-8",
+    "1-corintios 10:16-21",
+    "1-corintios 11:17-34"
+   ]
+  },
+  {
+   "id": "lideranca",
+   "titulo": "Liderança: presbíteros, bispos e diáconos",
+   "grupo": "igreja",
+   "resumo": "Paulo organizou líderes nas igrejas que fundou. Nas cartas a Timóteo e Tito aparecem dois serviços principais: o de 'bispo' (supervisor) ou 'presbítero' (ancião), que cuida e ensina, e o de 'diácono' (servidor). Os requisitos são quase todos de caráter — vida irrepreensível, família bem cuidada, hospitalidade, domínio próprio, não ser amante do dinheiro — e, para o bispo, ser apto para ensinar.",
+   "pontos": [
+    {
+     "texto": "Requisitos do bispo: irrepreensível, marido de uma só mulher, sóbrio, hospitaleiro, apto para ensinar, não dado ao vinho nem violento, não amante do dinheiro, que governe bem a própria casa, não recém-convertido, com bom testemunho dos de fora.",
+     "refs": [
+      "1-timoteo 3:1-7"
+     ]
+    },
+    {
+     "texto": "Requisitos dos diáconos: dignos, de uma só palavra, não cobiçosos, guardando a fé com consciência limpa, primeiro provados.",
+     "refs": [
+      "1-timoteo 3:8-13"
+     ]
+    },
+    {
+     "texto": "Tito deve estabelecer presbíteros em cada cidade, irrepreensíveis, apegados à palavra fiel para exortar e refutar.",
+     "refs": [
+      "tito 1:5-9"
+     ]
+    },
+    {
+     "texto": "Os presbíteros que governam bem e se dedicam ao ensino merecem dupla honra; acusação contra presbítero só com duas ou três testemunhas.",
+     "refs": [
+      "1-timoteo 5:17-19"
+     ]
+    },
+    {
+     "texto": "Não impor as mãos a ninguém precipitadamente.",
+     "refs": [
+      "1-timoteo 5:22",
+      "1-timoteo 4:14"
+     ]
+    },
+    {
+     "texto": "Reconhecei e estimai com amor os que trabalham entre vós e vos presidem no Senhor.",
+     "refs": [
+      "1-tessalonicenses 5:12-13"
+     ]
+    },
+    {
+     "texto": "Aos presbíteros de Éfeso: cuidai do rebanho do qual o Espírito vos fez bispos (supervisores).",
+     "refs": [
+      "atos 20:17",
+      "atos 20:28"
+     ]
+    },
+    {
+     "texto": "A carta aos Filipenses é dirigida aos santos 'com os bispos e diáconos'.",
+     "refs": [
+      "filipenses 1:1"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 12:8"
+    ],
+    "1-corintios": [
+     "1-corintios 16:15-16"
+    ],
+    "efesios": [
+     "efesios 4:11-12"
+    ],
+    "filipenses": [
+     "filipenses 1:1"
+    ],
+    "1-tessalonicenses": [
+     "1-tessalonicenses 5:12-13"
+    ],
+    "1-timoteo": [
+     "1-timoteo 3:1-13",
+     "1-timoteo 5:17-22"
+    ],
+    "2-timoteo": [
+     "2-timoteo 2:2"
+    ],
+    "tito": [
+     "tito 1:5-9"
+    ]
+   },
+   "debates": "Os modelos de governo variam: episcopal (bispos acima dos presbíteros, com sucessão), presbiteriano (conselho de presbíteros) e congregacional (assembleia local). Debate-se se 'bispo' e 'presbítero' eram o mesmo cargo em Paulo (Tt 1:5-7 e At 20:17,28 sugerem que sim para muitos), o sentido de 'marido de uma só mulher' (monogamia, não divorciado, ou fidelidade) e se as 'mulheres' de 1 Tm 3:11 são esposas dos diáconos ou diaconisas.",
+   "refs": [
+    "1-timoteo 3:1-7",
+    "1-timoteo 3:8-13",
+    "tito 1:5-9",
+    "1-timoteo 5:17-19",
+    "1-timoteo 5:22",
+    "1-timoteo 4:14",
+    "1-tessalonicenses 5:12-13",
+    "atos 20:17",
+    "atos 20:28",
+    "filipenses 1:1",
+    "romanos 12:8",
+    "1-corintios 16:15-16",
+    "efesios 4:11-12",
+    "1-timoteo 3:1-13",
+    "1-timoteo 5:17-22",
+    "2-timoteo 2:2"
+   ]
+  },
+  {
+   "id": "mulheres-na-igreja",
+   "titulo": "Mulheres na igreja",
+   "grupo": "igreja",
+   "resumo": "Este é um dos temas mais debatidos entre as igrejas. Paulo cita várias mulheres como colaboradoras: Febe, 'servidora' (diácona) da igreja de Cencreia; Priscila, que ensinou Apolo junto com Áquila; Júnia, 'notável entre os apóstolos'; Evódia e Síntique, que 'lutaram' com ele pelo evangelho. Ele pressupõe que mulheres oravam e profetizavam no culto. Ao mesmo tempo, há textos que pedem silêncio às mulheres na igreja e proíbem que a mulher ensine ou exerça autoridade sobre o homem.",
+   "pontos": [
+    {
+     "texto": "Em Cristo não há homem nem mulher: todos são um.",
+     "refs": [
+      "galatas 3:28"
+     ]
+    },
+    {
+     "texto": "Paulo recomenda Febe, servidora (em grego, diákonos) da igreja de Cencreia, que ajudou muitos.",
+     "refs": [
+      "romanos 16:1-2"
+     ]
+    },
+    {
+     "texto": "Saúda Priscila (Prisca) e Áquila, seus colaboradores, e a igreja em sua casa.",
+     "refs": [
+      "romanos 16:3-5",
+      "atos 18:26"
+     ]
+    },
+    {
+     "texto": "Saúda Andrônico e Júnia, 'notáveis entre os apóstolos'.",
+     "refs": [
+      "romanos 16:7"
+     ]
+    },
+    {
+     "texto": "Evódia e Síntique combateram com Paulo pelo evangelho.",
+     "refs": [
+      "filipenses 4:2-3"
+     ]
+    },
+    {
+     "texto": "Mulheres oram e profetizam no culto (com a cabeça coberta).",
+     "refs": [
+      "1-corintios 11:5"
+     ]
+    },
+    {
+     "texto": "'As mulheres fiquem caladas nas igrejas... perguntem em casa a seus maridos.'",
+     "refs": [
+      "1-corintios 14:34-35"
+     ]
+    },
+    {
+     "texto": "'Não permito que a mulher ensine, nem exerça autoridade sobre o homem', com referência a Adão e Eva.",
+     "refs": [
+      "1-timoteo 2:11-14"
+     ]
+    },
+    {
+     "texto": "As mulheres mais velhas devem ensinar o bem às mais novas.",
+     "refs": [
+      "tito 2:3-5"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 16:1-7"
+    ],
+    "1-corintios": [
+     "1-corintios 11:3-12",
+     "1-corintios 14:34-35"
+    ],
+    "galatas": [
+     "galatas 3:28"
+    ],
+    "filipenses": [
+     "filipenses 4:2-3"
+    ],
+    "1-timoteo": [
+     "1-timoteo 2:9-15",
+     "1-timoteo 3:11"
+    ],
+    "2-timoteo": [
+     "2-timoteo 1:5"
+    ],
+    "tito": [
+     "tito 2:3-5"
+    ]
+   },
+   "debates": "Leitura complementarista: homens e mulheres têm igual valor, mas o pastorado/presbiterato e o ensino com autoridade na igreja são reservados a homens (1 Tm 2:12 como princípio baseado na criação). Leitura igualitária: Gl 3:28 e as colaboradoras de Paulo mostram o princípio, e 1 Co 14 e 1 Tm 2 respondem a problemas locais (perguntas tumultuadas, falsos mestres em Éfeso). Há também posições intermediárias, e as igrejas católica e ortodoxa reservam o sacerdócio a homens por outros fundamentos. Outros pontos discutidos: se Júnia é mulher (a forma feminina é a mais antiga e hoje a mais aceita) e se era 'apóstola' ou 'estimada pelos apóstolos'; a posição de 1 Co 14:34-35, que alguns manuscritos colocam após o v. 40.",
+   "refs": [
+    "galatas 3:28",
+    "romanos 16:1-2",
+    "romanos 16:3-5",
+    "atos 18:26",
+    "romanos 16:7",
+    "filipenses 4:2-3",
+    "1-corintios 11:5",
+    "1-corintios 14:34-35",
+    "1-timoteo 2:11-14",
+    "tito 2:3-5",
+    "romanos 16:1-7",
+    "1-corintios 11:3-12",
+    "1-timoteo 2:9-15",
+    "1-timoteo 3:11",
+    "2-timoteo 1:5"
+   ]
+  },
+  {
+   "id": "culto-e-ordem",
+   "titulo": "Culto e ordem (inclusive o véu)",
+   "grupo": "igreja",
+   "resumo": "Paulo descreve reuniões participativas, com salmos, ensino, revelação, línguas e interpretação, e pede que tudo seja para edificação, 'com decência e ordem', porque Deus não é Deus de confusão. Recomenda leitura pública das Escrituras, cânticos e ação de graças. Em 1 Coríntios 11 trata do uso de cobertura na cabeça por mulheres que oram ou profetizam, um costume ligado a honra e vergonha naquela cultura.",
+   "pontos": [
+    {
+     "texto": "Quando vos reunis, cada um tem salmo, ensino, revelação, língua ou interpretação: tudo seja feito para edificação.",
+     "refs": [
+      "1-corintios 14:26"
+     ]
+    },
+    {
+     "texto": "Deus não é de confusão, mas de paz; fazei tudo com decência e ordem.",
+     "refs": [
+      "1-corintios 14:33",
+      "1-corintios 14:40"
+     ]
+    },
+    {
+     "texto": "Falai entre vós com salmos, hinos e cânticos espirituais, dando graças sempre.",
+     "refs": [
+      "efesios 5:19-20",
+      "colossenses 3:16"
+     ]
+    },
+    {
+     "texto": "Dedica-te à leitura pública, à exortação e ao ensino.",
+     "refs": [
+      "1-timoteo 4:13"
+     ]
+    },
+    {
+     "texto": "A mulher que ora ou profetiza com a cabeça descoberta desonra sua cabeça; o homem não deve cobrir a cabeça.",
+     "refs": [
+      "1-corintios 11:4-7"
+     ]
+    },
+    {
+     "texto": "Paulo apela à criação, aos anjos, à 'natureza' (cabelo longo) e ao costume das igrejas.",
+     "refs": [
+      "1-corintios 11:10",
+      "1-corintios 11:13-16"
+     ]
+    },
+    {
+     "texto": "O povo diz 'amém' à ação de graças; por isso é preciso falar de modo compreensível.",
+     "refs": [
+      "1-corintios 14:15-17"
+     ]
+    },
+    {
+     "texto": "No primeiro dia da semana, separar as ofertas.",
+     "refs": [
+      "1-corintios 16:2"
+     ]
+    }
+   ],
+   "por_carta": {
+    "1-corintios": [
+     "1-corintios 11:2-16",
+     "1-corintios 14:26-40",
+     "1-corintios 16:2"
+    ],
+    "efesios": [
+     "efesios 5:19-20"
+    ],
+    "colossenses": [
+     "colossenses 3:16",
+     "colossenses 4:16"
+    ],
+    "1-tessalonicenses": [
+     "1-tessalonicenses 5:27"
+    ],
+    "1-timoteo": [
+     "1-timoteo 2:8",
+     "1-timoteo 4:13"
+    ]
+   },
+   "debates": "Sobre o véu, algumas igrejas o mantêm como ordem permanente (em todo culto ou durante a oração); outras entendem que Paulo aplicava um princípio (honra, distinção entre homem e mulher, ordem) por meio de um costume da época, que hoje se expressa de outras formas. Também se discute se 'cabeça' (kefalé) significa autoridade ou origem. Quanto ao estilo de culto, a variedade entre igrejas litúrgicas e igrejas mais espontâneas reflete ênfases diferentes nesses mesmos textos.",
+   "refs": [
+    "1-corintios 14:26",
+    "1-corintios 14:33",
+    "1-corintios 14:40",
+    "efesios 5:19-20",
+    "colossenses 3:16",
+    "1-timoteo 4:13",
+    "1-corintios 11:4-7",
+    "1-corintios 11:10",
+    "1-corintios 11:13-16",
+    "1-corintios 14:15-17",
+    "1-corintios 16:2",
+    "1-corintios 11:2-16",
+    "1-corintios 14:26-40",
+    "colossenses 4:16",
+    "1-tessalonicenses 5:27",
+    "1-timoteo 2:8"
+   ]
+  },
+  {
+   "id": "disciplina",
+   "titulo": "Disciplina na igreja",
+   "grupo": "igreja",
+   "resumo": "Paulo pede que a igreja não ignore pecados graves e persistentes de seus membros. O objetivo não é punir, mas restaurar a pessoa e proteger a comunidade. Ele começa com a correção mansa e, em casos extremos, pede o afastamento da comunhão; mas também insiste em perdoar e acolher quem se arrepende.",
+   "pontos": [
+    {
+     "texto": "Se alguém for surpreendido em alguma falta, vós, que sois espirituais, corrigi-o com mansidão, cuidando de vós mesmos.",
+     "refs": [
+      "galatas 6:1"
+     ]
+    },
+    {
+     "texto": "Num caso de imoralidade grave, a igreja reunida deve afastar o culpado, 'para que o espírito seja salvo no dia do Senhor'.",
+     "refs": [
+      "1-corintios 5:3-5"
+     ]
+    },
+    {
+     "texto": "Não vos associeis com quem se diz irmão e vive em pecado grave; julgar os de fora cabe a Deus.",
+     "refs": [
+      "1-corintios 5:9-13"
+     ]
+    },
+    {
+     "texto": "Quem não obedece, notai-o e não vos associeis com ele, mas não o considereis inimigo: admoestai-o como irmão.",
+     "refs": [
+      "2-tessalonicenses 3:14-15"
+     ]
+    },
+    {
+     "texto": "Depois da repreensão, perdoai e confirmai o amor ao arrependido.",
+     "refs": [
+      "2-corintios 2:6-8"
+     ]
+    },
+    {
+     "texto": "Evita o homem que provoca divisões depois de uma e outra advertência.",
+     "refs": [
+      "tito 3:10-11"
+     ]
+    },
+    {
+     "texto": "Os que persistem no pecado sejam repreendidos diante de todos.",
+     "refs": [
+      "1-timoteo 5:20"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 16:17"
+    ],
+    "1-corintios": [
+     "1-corintios 5:1-13"
+    ],
+    "2-corintios": [
+     "2-corintios 2:6-8",
+     "2-corintios 13:2"
+    ],
+    "galatas": [
+     "galatas 6:1"
+    ],
+    "2-tessalonicenses": [
+     "2-tessalonicenses 3:6",
+     "2-tessalonicenses 3:14-15"
+    ],
+    "1-timoteo": [
+     "1-timoteo 1:20",
+     "1-timoteo 5:20"
+    ],
+    "tito": [
+     "tito 3:10-11"
+    ]
+   },
+   "debates": "'Entregar a Satanás para destruição da carne' (1 Co 5:5; 1 Tm 1:20) é entendido em geral como exclusão da comunhão, mas há leituras que incluem sofrimento físico. As igrejas variam na forma de aplicar a disciplina (excomunhão, suspensão da ceia, aconselhamento) e alguns grupos são criticados por usá-la de modo duro, o que os textos de restauração procuram evitar.",
+   "refs": [
+    "galatas 6:1",
+    "1-corintios 5:3-5",
+    "1-corintios 5:9-13",
+    "2-tessalonicenses 3:14-15",
+    "2-corintios 2:6-8",
+    "tito 3:10-11",
+    "1-timoteo 5:20",
+    "romanos 16:17",
+    "1-corintios 5:1-13",
+    "2-corintios 13:2",
+    "2-tessalonicenses 3:6",
+    "1-timoteo 1:20"
+   ]
+  },
+  {
+   "id": "falsos-mestres",
+   "titulo": "Falsos mestres e o ensino verdadeiro",
+   "grupo": "igreja",
+   "resumo": "Quase toda carta de Paulo alerta contra algum ensino que ameaçava as igrejas: exigir a circuncisão, regras ascéticas, especulações, negação da ressurreição, ou mestres que buscavam lucro. Paulo pede que se guarde o 'bom depósito' recebido, que se ensine a sã doutrina e que se examine tudo à luz do evangelho.",
+   "pontos": [
+    {
+     "texto": "Se alguém, mesmo um anjo, anunciar outro evangelho, seja maldito.",
+     "refs": [
+      "galatas 1:6-9"
+     ]
+    },
+    {
+     "texto": "Falsos apóstolos se disfarçam de apóstolos de Cristo, como Satanás se disfarça de anjo de luz.",
+     "refs": [
+      "2-corintios 11:13-15"
+     ]
+    },
+    {
+     "texto": "Cuidado com filosofias e tradições humanas que não são segundo Cristo, e com regras de 'não toques, não proves'.",
+     "refs": [
+      "colossenses 2:8",
+      "colossenses 2:20-23"
+     ]
+    },
+    {
+     "texto": "Haverá quem proíba o casamento e certos alimentos que Deus criou para serem recebidos com gratidão.",
+     "refs": [
+      "1-timoteo 4:1-5"
+     ]
+    },
+    {
+     "texto": "Alguns pensam que a piedade é fonte de lucro.",
+     "refs": [
+      "1-timoteo 6:3-5",
+      "tito 1:10-11"
+     ]
+    },
+    {
+     "texto": "Virá tempo em que não suportarão a sã doutrina e juntarão mestres segundo seus desejos.",
+     "refs": [
+      "2-timoteo 4:3-4"
+     ]
+    },
+    {
+     "texto": "Lobos cruéis entrarão no rebanho, e até do meio de vós se levantarão homens falando coisas perversas.",
+     "refs": [
+      "atos 20:29-30"
+     ]
+    },
+    {
+     "texto": "Guarda o bom depósito; toda Escritura é inspirada por Deus e útil para ensinar.",
+     "refs": [
+      "2-timoteo 1:13-14",
+      "2-timoteo 3:14-17"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 16:17-18"
+    ],
+    "1-corintios": [
+     "1-corintios 15:12"
+    ],
+    "2-corintios": [
+     "2-corintios 11:3-4",
+     "2-corintios 11:13-15"
+    ],
+    "galatas": [
+     "galatas 1:6-9",
+     "galatas 5:7-12"
+    ],
+    "efesios": [
+     "efesios 4:14"
+    ],
+    "filipenses": [
+     "filipenses 3:2",
+     "filipenses 3:18-19"
+    ],
+    "colossenses": [
+     "colossenses 2:8",
+     "colossenses 2:16-23"
+    ],
+    "2-tessalonicenses": [
+     "2-tessalonicenses 2:2-3"
+    ],
+    "1-timoteo": [
+     "1-timoteo 1:3-7",
+     "1-timoteo 4:1-5",
+     "1-timoteo 6:3-5"
+    ],
+    "2-timoteo": [
+     "2-timoteo 2:16-18",
+     "2-timoteo 3:1-9",
+     "2-timoteo 4:3-4"
+    ],
+    "tito": [
+     "tito 1:10-16"
+    ]
+   },
+   "debates": "Os estudiosos discutem quem eram exatamente os opositores de cada carta (judaizantes, grupos ascéticos, formas iniciais de gnosticismo). As igrejas também divergem sobre onde reside a autoridade para definir a 'sã doutrina': só nas Escrituras, nas Escrituras junto com a Tradição e o ensino da igreja, ou outras combinações.",
+   "refs": [
+    "galatas 1:6-9",
+    "2-corintios 11:13-15",
+    "colossenses 2:8",
+    "colossenses 2:20-23",
+    "1-timoteo 4:1-5",
+    "1-timoteo 6:3-5",
+    "tito 1:10-11",
+    "2-timoteo 4:3-4",
+    "atos 20:29-30",
+    "2-timoteo 1:13-14",
+    "2-timoteo 3:14-17",
+    "romanos 16:17-18",
+    "1-corintios 15:12",
+    "2-corintios 11:3-4",
+    "galatas 5:7-12",
+    "efesios 4:14",
+    "filipenses 3:2",
+    "filipenses 3:18-19",
+    "colossenses 2:16-23",
+    "2-tessalonicenses 2:2-3",
+    "1-timoteo 1:3-7",
+    "2-timoteo 2:16-18",
+    "2-timoteo 3:1-9",
+    "tito 1:10-16"
+   ]
+  },
+  {
+   "id": "sustento-dos-obreiros",
+   "titulo": "Sustento dos obreiros",
+   "grupo": "igreja",
+   "resumo": "Paulo defende que quem trabalha no evangelho tem direito de ser sustentado pela igreja, com argumentos da Lei, do bom senso e das palavras de Jesus. Mas ele próprio muitas vezes abriu mão desse direito, trabalhando com as mãos, para não ser peso e para que ninguém dissesse que pregava por dinheiro. Aceitou ajuda dos filipenses e a agradeceu.",
+   "pontos": [
+    {
+     "texto": "Quem serve ao altar participa do altar: o Senhor ordenou que os que anunciam o evangelho vivam do evangelho.",
+     "refs": [
+      "1-corintios 9:7-14"
+     ]
+    },
+    {
+     "texto": "Paulo não usou esse direito, para não pôr obstáculo ao evangelho.",
+     "refs": [
+      "1-corintios 9:12",
+      "1-corintios 9:15-18"
+     ]
+    },
+    {
+     "texto": "Não amordaces o boi que debulha; digno é o trabalhador do seu salário.",
+     "refs": [
+      "1-timoteo 5:17-18"
+     ]
+    },
+    {
+     "texto": "Quem é ensinado na palavra reparta todos os bens com quem o ensina.",
+     "refs": [
+      "galatas 6:6"
+     ]
+    },
+    {
+     "texto": "Paulo pregou em Corinto sem cobrar, sustentado por irmãos da Macedônia.",
+     "refs": [
+      "2-corintios 11:7-9"
+     ]
+    },
+    {
+     "texto": "Paulo trabalhou com as próprias mãos para servir de exemplo e ajudar os fracos.",
+     "refs": [
+      "atos 20:33-35",
+      "2-tessalonicenses 3:8-9"
+     ]
+    },
+    {
+     "texto": "Os filipenses o ajudaram mais de uma vez, e ele chama isso de 'sacrifício agradável a Deus'.",
+     "refs": [
+      "filipenses 4:15-18"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 15:27"
+    ],
+    "1-corintios": [
+     "1-corintios 9:3-18"
+    ],
+    "2-corintios": [
+     "2-corintios 11:7-9",
+     "2-corintios 12:13-14"
+    ],
+    "galatas": [
+     "galatas 6:6"
+    ],
+    "filipenses": [
+     "filipenses 4:15-18"
+    ],
+    "1-tessalonicenses": [
+     "1-tessalonicenses 2:9"
+    ],
+    "2-tessalonicenses": [
+     "2-tessalonicenses 3:8-9"
+    ],
+    "1-timoteo": [
+     "1-timoteo 5:17-18"
+    ]
+   },
+   "debates": "Algumas igrejas têm ministros de tempo integral sustentados; outras valorizam líderes que trabalham em outras profissões ('fazedores de tendas', como Paulo). Também se discute se a 'dupla honra' de 1 Tm 5:17 inclui pagamento.",
+   "refs": [
+    "1-corintios 9:7-14",
+    "1-corintios 9:12",
+    "1-corintios 9:15-18",
+    "1-timoteo 5:17-18",
+    "galatas 6:6",
+    "2-corintios 11:7-9",
+    "atos 20:33-35",
+    "2-tessalonicenses 3:8-9",
+    "filipenses 4:15-18",
+    "romanos 15:27",
+    "1-corintios 9:3-18",
+    "2-corintios 12:13-14",
+    "1-tessalonicenses 2:9"
+   ]
+  },
+  {
+   "id": "viuvas-e-necessitados",
+   "titulo": "Cuidado com viúvas e necessitados",
+   "grupo": "igreja",
+   "resumo": "No mundo antigo, a viúva sem família ficava muitas vezes sem sustento. Paulo orienta a igreja a 'honrar' (sustentar) as viúvas realmente desamparadas, mas pede primeiro que as famílias cuidem dos seus. Menciona também uma lista de viúvas com certos requisitos, que parece ter sido um grupo dedicado ao serviço e à oração. Junto com isso, pede hospitalidade e ajuda a todos os necessitados.",
+   "pontos": [
+    {
+     "texto": "Honra as viúvas que são verdadeiramente viúvas (desamparadas), que esperam em Deus e perseveram em oração.",
+     "refs": [
+      "1-timoteo 5:3",
+      "1-timoteo 5:5"
+     ]
+    },
+    {
+     "texto": "Filhos e netos devem cuidar primeiro da própria família; quem não cuida dos seus negou a fé.",
+     "refs": [
+      "1-timoteo 5:4",
+      "1-timoteo 5:8"
+     ]
+    },
+    {
+     "texto": "Para entrar na lista: mais de sessenta anos, mulher de um só marido, com testemunho de boas obras.",
+     "refs": [
+      "1-timoteo 5:9-10"
+     ]
+    },
+    {
+     "texto": "Se uma crente tem viúvas na família, que as ajude, para a igreja poder socorrer as desamparadas.",
+     "refs": [
+      "1-timoteo 5:16"
+     ]
+    },
+    {
+     "texto": "Compartilhai com os santos em suas necessidades; praticai a hospitalidade.",
+     "refs": [
+      "romanos 12:13"
+     ]
+    },
+    {
+     "texto": "Lembrar-se dos pobres e fazer o bem a todos.",
+     "refs": [
+      "galatas 2:10",
+      "galatas 6:10"
+     ]
+    },
+    {
+     "texto": "Levai as cargas uns dos outros.",
+     "refs": [
+      "galatas 6:2"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 12:13",
+     "romanos 15:26"
+    ],
+    "1-corintios": [
+     "1-corintios 7:8",
+     "1-corintios 7:39-40"
+    ],
+    "2-corintios": [
+     "2-corintios 8:13-15"
+    ],
+    "galatas": [
+     "galatas 2:10",
+     "galatas 6:2",
+     "galatas 6:10"
+    ],
+    "efesios": [
+     "efesios 4:28"
+    ],
+    "1-timoteo": [
+     "1-timoteo 5:3-16"
+    ]
+   },
+   "debates": "Não se sabe ao certo se a 'lista' de viúvas de 1 Timóteo 5:9 era apenas um registro de ajuda ou uma ordem de serviço na igreja; vários estudiosos a ligam às 'viúvas' que, em séculos seguintes, aparecem com funções na igreja.",
+   "refs": [
+    "1-timoteo 5:3",
+    "1-timoteo 5:5",
+    "1-timoteo 5:4",
+    "1-timoteo 5:8",
+    "1-timoteo 5:9-10",
+    "1-timoteo 5:16",
+    "romanos 12:13",
+    "galatas 2:10",
+    "galatas 6:10",
+    "galatas 6:2",
+    "romanos 15:26",
+    "1-corintios 7:8",
+    "1-corintios 7:39-40",
+    "2-corintios 8:13-15",
+    "efesios 4:28",
+    "1-timoteo 5:3-16"
+   ]
+  },
+  {
+   "id": "casamento",
+   "titulo": "Casamento",
+   "grupo": "família e sociedade",
+   "resumo": "Paulo trata o casamento com seriedade e realismo. Ele compara a relação entre marido e mulher à de Cristo com a igreja: o marido deve amar a esposa como Cristo amou a igreja, entregando-se por ela, e a esposa é chamada a se sujeitar ao marido, num quadro que começa com 'sujeitando-vos uns aos outros'. Em 1 Coríntios 7 ele fala de reciprocidade na vida sexual, de não se separar e do caso de casais em que só um é cristão.",
+   "pontos": [
+    {
+     "texto": "Sujeitai-vos uns aos outros no temor de Cristo.",
+     "refs": [
+      "efesios 5:21"
+     ]
+    },
+    {
+     "texto": "Mulheres, sujeitai-vos a vossos maridos como ao Senhor; maridos, amai vossas esposas como Cristo amou a igreja e se entregou por ela.",
+     "refs": [
+      "efesios 5:22-25"
+     ]
+    },
+    {
+     "texto": "O marido ame a esposa como ao próprio corpo; os dois serão uma só carne — mistério que se refere a Cristo e à igreja.",
+     "refs": [
+      "efesios 5:28-33"
+     ]
+    },
+    {
+     "texto": "Maridos, amai vossas esposas e não as trateis com amargura.",
+     "refs": [
+      "colossenses 3:18-19"
+     ]
+    },
+    {
+     "texto": "Marido e esposa têm direitos iguais sobre o corpo um do outro; não se privem, a não ser de comum acordo e por um tempo.",
+     "refs": [
+      "1-corintios 7:3-5"
+     ]
+    },
+    {
+     "texto": "A mulher não se separe do marido, e o marido não deixe a esposa; se se separar, fique sem casar ou se reconcilie.",
+     "refs": [
+      "1-corintios 7:10-11"
+     ]
+    },
+    {
+     "texto": "Se o cônjuge não cristão quiser viver junto, não se separem; se ele se separar, o irmão ou a irmã não está sujeito à servidão.",
+     "refs": [
+      "1-corintios 7:12-15"
+     ]
+    },
+    {
+     "texto": "A viúva está livre para casar com quem quiser, 'somente no Senhor'.",
+     "refs": [
+      "1-corintios 7:39"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 7:2-3"
+    ],
+    "1-corintios": [
+     "1-corintios 7:1-16",
+     "1-corintios 7:39"
+    ],
+    "2-corintios": [
+     "2-corintios 6:14"
+    ],
+    "efesios": [
+     "efesios 5:21-33"
+    ],
+    "colossenses": [
+     "colossenses 3:18-19"
+    ],
+    "1-tessalonicenses": [
+     "1-tessalonicenses 4:4"
+    ],
+    "1-timoteo": [
+     "1-timoteo 4:3"
+    ],
+    "tito": [
+     "tito 2:4-5"
+    ]
+   },
+   "debates": "Complementaristas leem Ef 5 como uma ordem de liderança amorosa do marido e submissão da esposa; igualitários destacam a sujeição mútua de 5:21 e entendem que Paulo transforma, por dentro, a estrutura familiar da época. Sobre divórcio e novo casamento, as igrejas divergem: algumas o proíbem (sobretudo a Católica, que pode declarar nulidade), outras o admitem em caso de adultério (com base em Mt 19:9) e de abandono pelo cônjuge não cristão (1 Co 7:15, o chamado 'privilégio paulino'). Também se discute se 2 Co 6:14 ('jugo desigual') trata do casamento.",
+   "fonte_extra": [
+    {
+     "fonte": "Códigos domésticos na ética greco-romana (ex.: Aristóteles, Política, livro I)",
+     "referencia": "Discussões antigas sobre as relações marido-mulher, pai-filhos e senhor-escravo na administração da casa; muitos estudiosos comparam com as listas de Efésios 5-6 e Colossenses 3-4.",
+     "data": "séc. IV a.C. (Aristóteles) e tradição posterior"
+    }
+   ],
+   "refs": [
+    "efesios 5:21",
+    "efesios 5:22-25",
+    "efesios 5:28-33",
+    "colossenses 3:18-19",
+    "1-corintios 7:3-5",
+    "1-corintios 7:10-11",
+    "1-corintios 7:12-15",
+    "1-corintios 7:39",
+    "romanos 7:2-3",
+    "1-corintios 7:1-16",
+    "2-corintios 6:14",
+    "efesios 5:21-33",
+    "1-tessalonicenses 4:4",
+    "1-timoteo 4:3",
+    "tito 2:4-5"
+   ]
+  },
+  {
+   "id": "solteirice",
+   "titulo": "Solteirice e celibato",
+   "grupo": "família e sociedade",
+   "resumo": "Num mundo em que o casamento era quase obrigatório, Paulo, ele próprio solteiro (ou viúvo) na época, diz que ficar sem casar é um bom caminho e um dom. Ele explica que o solteiro pode dedicar-se ao Senhor sem divisão de preocupações. Mas faz questão de dizer que casar não é pecado e que cada um tem seu próprio dom de Deus.",
+   "pontos": [
+    {
+     "texto": "Quisera que todos fossem como eu; mas cada um tem de Deus o seu próprio dom, um de um modo, outro de outro.",
+     "refs": [
+      "1-corintios 7:7"
+     ]
+    },
+    {
+     "texto": "Aos solteiros e viúvas é bom ficarem como Paulo; mas, se não conseguem se conter, casem-se.",
+     "refs": [
+      "1-corintios 7:8-9"
+     ]
+    },
+    {
+     "texto": "Por causa da 'angústia presente', Paulo aconselha cada um a permanecer como está; mas quem casa não peca.",
+     "refs": [
+      "1-corintios 7:26-28"
+     ]
+    },
+    {
+     "texto": "O solteiro se preocupa com as coisas do Senhor; o casado, também com agradar ao cônjuge. Paulo não quer pôr laço, mas ajudar a servir sem distração.",
+     "refs": [
+      "1-corintios 7:32-35"
+     ]
+    },
+    {
+     "texto": "Quem casa faz bem, e quem não casa faz melhor, conforme a situação.",
+     "refs": [
+      "1-corintios 7:36-38"
+     ]
+    },
+    {
+     "texto": "Paulo tinha direito de levar uma esposa crente, como outros apóstolos, mas não o fez.",
+     "refs": [
+      "1-corintios 9:5"
+     ]
+    }
+   ],
+   "por_carta": {
+    "1-corintios": [
+     "1-corintios 7:7-9",
+     "1-corintios 7:25-40",
+     "1-corintios 9:5"
+    ],
+    "1-timoteo": [
+     "1-timoteo 4:3",
+     "1-timoteo 5:14"
+    ]
+   },
+   "debates": "A tradição católica e ortodoxa (vida monástica, celibato clerical no rito latino) valoriza o celibato com base nesses textos; muitas igrejas protestantes destacam que é dom de alguns e não exigência. Discute-se se 'a angústia presente' (7:26) era uma crise local (como fome) ou a expectativa do fim, e se a 'virgem' de 7:36-38 é a noiva ou a filha de quem decide.",
+   "refs": [
+    "1-corintios 7:7",
+    "1-corintios 7:8-9",
+    "1-corintios 7:26-28",
+    "1-corintios 7:32-35",
+    "1-corintios 7:36-38",
+    "1-corintios 9:5",
+    "1-corintios 7:7-9",
+    "1-corintios 7:25-40",
+    "1-timoteo 4:3",
+    "1-timoteo 5:14"
+   ]
+  },
+  {
+   "id": "filhos-e-pais",
+   "titulo": "Filhos e pais",
+   "grupo": "família e sociedade",
+   "resumo": "Paulo pede que filhos obedeçam e honrem os pais, citando o mandamento com promessa. Mas, de modo marcante para a época, dirige-se também aos pais (o pai tinha enorme poder na família romana): não provoquem os filhos à ira, para que não desanimem, e os criem na disciplina e instrução do Senhor. Ele lembra ainda a fé passada de geração em geração, como na família de Timóteo.",
+   "pontos": [
+    {
+     "texto": "Filhos, obedecei a vossos pais no Senhor; honra teu pai e tua mãe, o primeiro mandamento com promessa.",
+     "refs": [
+      "efesios 6:1-3"
+     ]
+    },
+    {
+     "texto": "Pais, não provoqueis vossos filhos à ira, mas criai-os na disciplina e instrução do Senhor.",
+     "refs": [
+      "efesios 6:4"
+     ]
+    },
+    {
+     "texto": "Pais, não irriteis vossos filhos, para que não desanimem.",
+     "refs": [
+      "colossenses 3:20-21"
+     ]
+    },
+    {
+     "texto": "A fé sincera de Timóteo habitou antes em sua avó Loide e em sua mãe Eunice; desde criança ele conheceu as Escrituras.",
+     "refs": [
+      "2-timoteo 1:5",
+      "2-timoteo 3:14-15"
+     ]
+    },
+    {
+     "texto": "Filhos e netos devem retribuir aos pais e avós, cuidando deles.",
+     "refs": [
+      "1-timoteo 5:4"
+     ]
+    },
+    {
+     "texto": "Os líderes da igreja devem cuidar bem da própria casa e ter filhos bem orientados.",
+     "refs": [
+      "1-timoteo 3:4-5",
+      "tito 1:6"
+     ]
+    },
+    {
+     "texto": "Desobediência aos pais aparece em listas de vícios.",
+     "refs": [
+      "romanos 1:30",
+      "2-timoteo 3:2"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 1:30"
+    ],
+    "2-corintios": [
+     "2-corintios 12:14"
+    ],
+    "efesios": [
+     "efesios 6:1-4"
+    ],
+    "colossenses": [
+     "colossenses 3:20-21"
+    ],
+    "1-tessalonicenses": [
+     "1-tessalonicenses 2:7",
+     "1-tessalonicenses 2:11-12"
+    ],
+    "1-timoteo": [
+     "1-timoteo 3:4-5",
+     "1-timoteo 5:4"
+    ],
+    "2-timoteo": [
+     "2-timoteo 1:5",
+     "2-timoteo 3:14-15"
+    ],
+    "tito": [
+     "tito 1:6"
+    ]
+   },
+   "fonte_extra": [
+    {
+     "fonte": "Direito romano: o 'pátrio poder' (patria potestas)",
+     "referencia": "O pai de família tinha, em princípio, autoridade muito ampla sobre filhos e dependentes; na prática, era limitada por costume e leis ao longo do tempo.",
+     "data": "período republicano e imperial romano"
+    }
+   ],
+   "refs": [
+    "efesios 6:1-3",
+    "efesios 6:4",
+    "colossenses 3:20-21",
+    "2-timoteo 1:5",
+    "2-timoteo 3:14-15",
+    "1-timoteo 5:4",
+    "1-timoteo 3:4-5",
+    "tito 1:6",
+    "romanos 1:30",
+    "2-timoteo 3:2",
+    "2-corintios 12:14",
+    "efesios 6:1-4",
+    "1-tessalonicenses 2:7",
+    "1-tessalonicenses 2:11-12"
+   ]
+  },
+  {
+   "id": "servos-e-senhores",
+   "titulo": "Servos (escravos) e senhores",
+   "grupo": "família e sociedade",
+   "resumo": "No Império Romano, a escravidão era parte comum da economia; muitos cristãos eram escravos, e alguns eram senhores. A escravidão romana não se baseava em raça, e escravos podiam ser libertos, mas eram legalmente propriedade. Paulo não faz um programa político de abolição, mas dá orientações dentro dessa realidade: escravos devem servir com sinceridade 'como a Cristo'; senhores devem tratá-los com justiça, sem ameaças, lembrando que ambos têm o mesmo Senhor no céu. A carta a Filemom e Gálatas 3:28 apontam para uma nova relação, de irmãos.",
+   "pontos": [
+    {
+     "texto": "Servos, obedecei a vossos senhores com sinceridade, como a Cristo; o Senhor recompensará cada um, seja servo ou livre.",
+     "refs": [
+      "efesios 6:5-8"
+     ]
+    },
+    {
+     "texto": "Senhores, fazei o mesmo, deixando as ameaças, sabendo que o Senhor deles e vosso está no céu, e ele não faz acepção de pessoas.",
+     "refs": [
+      "efesios 6:9"
+     ]
+    },
+    {
+     "texto": "Senhores, dai aos servos o que é justo e igual.",
+     "refs": [
+      "colossenses 4:1"
+     ]
+    },
+    {
+     "texto": "Foste chamado sendo escravo? Não te preocupes; mas, se puderes ficar livre, aproveita a oportunidade; não vos torneis escravos de pessoas.",
+     "refs": [
+      "1-corintios 7:21-23"
+     ]
+    },
+    {
+     "texto": "Onésimo deve ser recebido 'não mais como servo', mas como amado irmão.",
+     "refs": [
+      "filemom 1:15-16"
+     ]
+    },
+    {
+     "texto": "Em Cristo não há escravo nem livre.",
+     "refs": [
+      "galatas 3:28",
+      "colossenses 3:11"
+     ]
+    },
+    {
+     "texto": "Entre os que agem contra a sã doutrina estão 'os que roubam a liberdade das pessoas' (sequestradores e traficantes de escravos).",
+     "refs": [
+      "1-timoteo 1:10"
+     ]
+    },
+    {
+     "texto": "Servos crentes não desprezem senhores crentes por serem irmãos, mas sirvam melhor ainda.",
+     "refs": [
+      "1-timoteo 6:1-2",
+      "tito 2:9-10"
+     ]
+    }
+   ],
+   "por_carta": {
+    "1-corintios": [
+     "1-corintios 7:20-24"
+    ],
+    "galatas": [
+     "galatas 3:28"
+    ],
+    "efesios": [
+     "efesios 6:5-9"
+    ],
+    "colossenses": [
+     "colossenses 3:22-25",
+     "colossenses 4:1"
+    ],
+    "1-timoteo": [
+     "1-timoteo 1:10",
+     "1-timoteo 6:1-2"
+    ],
+    "tito": [
+     "tito 2:9-10"
+    ],
+    "filemom": [
+     "filemom 1:15-16"
+    ]
+   },
+   "debates": "1 Coríntios 7:21 pode ser traduzido 'se puderes ficar livre, aproveita' ou 'mesmo que possas ficar livre, aproveita antes a tua condição'. Hoje praticamente todas as igrejas rejeitam a escravidão; elas divergem em como explicar por que Paulo não a condenou diretamente (estratégia missionária, limites de uma minoria sem poder, princípios que levariam ao fim da escravidão). Textos assim foram usados para defender a escravidão moderna e também, por outros cristãos, para combatê-la. Muitas igrejas aplicam o princípio às relações de trabalho.",
+   "fonte_extra": [
+    {
+     "fonte": "Códigos domésticos na ética greco-romana (ex.: Aristóteles, Política, livro I)",
+     "referencia": "Discussões antigas sobre as relações marido-mulher, pai-filhos e senhor-escravo na administração da casa; muitos estudiosos comparam com as listas de Efésios 5-6 e Colossenses 3-4.",
+     "data": "séc. IV a.C. (Aristóteles) e tradição posterior"
+    },
+    {
+     "fonte": "Plínio, o Jovem, Cartas 9.21",
+     "referencia": "Pedido a Sabiniano para perdoar um liberto; mostra como era comum interceder por um subordinado que ofendeu o patrão.",
+     "data": "c. 100-110 d.C."
+    }
+   ],
+   "refs": [
+    "efesios 6:5-8",
+    "efesios 6:9",
+    "colossenses 4:1",
+    "1-corintios 7:21-23",
+    "filemom 1:15-16",
+    "galatas 3:28",
+    "colossenses 3:11",
+    "1-timoteo 1:10",
+    "1-timoteo 6:1-2",
+    "tito 2:9-10",
+    "1-corintios 7:20-24",
+    "efesios 6:5-9",
+    "colossenses 3:22-25"
+   ]
+  },
+  {
+   "id": "autoridades-e-impostos",
+   "titulo": "Autoridades e impostos (Romanos 13)",
+   "grupo": "família e sociedade",
+   "resumo": "Paulo escreve a cristãos que viviam na capital do império. Ele ensina que as autoridades existem por ordenação de Deus para promover o bem e coibir o mal, e que por isso os cristãos devem se submeter a elas, pagar impostos e tributos, e dar respeito e honra. Pede também orações pelos governantes, para que haja uma vida tranquila. O próprio Paulo usou seus direitos de cidadão romano.",
+   "pontos": [
+    {
+     "texto": "Toda pessoa esteja sujeita às autoridades superiores, pois não há autoridade que não venha de Deus.",
+     "refs": [
+      "romanos 13:1-2"
+     ]
+    },
+    {
+     "texto": "A autoridade é serva de Deus para o bem; quem pratica o mal deve temê-la.",
+     "refs": [
+      "romanos 13:3-4"
+     ]
+    },
+    {
+     "texto": "Por isso pagai impostos e tributos, e dai respeito e honra a quem são devidos.",
+     "refs": [
+      "romanos 13:6-7"
+     ]
+    },
+    {
+     "texto": "Lembra-lhes que se sujeitem aos governantes e autoridades, que sejam obedientes e prontos para toda boa obra.",
+     "refs": [
+      "tito 3:1-2"
+     ]
+    },
+    {
+     "texto": "Orai pelos reis e por todos os que estão em autoridade.",
+     "refs": [
+      "1-timoteo 2:1-2"
+     ]
+    },
+    {
+     "texto": "A nossa cidadania, porém, está nos céus.",
+     "refs": [
+      "filipenses 3:20"
+     ]
+    },
+    {
+     "texto": "Paulo invocou a cidadania romana e apelou a César.",
+     "refs": [
+      "atos 22:25",
+      "atos 25:10-11"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 13:1-7"
+    ],
+    "filipenses": [
+     "filipenses 3:20"
+    ],
+    "1-timoteo": [
+     "1-timoteo 2:1-2"
+    ],
+    "tito": [
+     "tito 3:1-2"
+    ]
+   },
+   "debates": "As igrejas debatem os limites dessa submissão: quase todas admitem que, quando o Estado ordena o que Deus proíbe, 'importa obedecer a Deus' (At 5:29), mas divergem sobre resistência, desobediência civil, serviço militar e objeção de consciência (por exemplo, menonitas e outras igrejas pacifistas). Alguns também lembram que Paulo escreve antes da perseguição de Nero.",
+   "fonte_extra": [
+    {
+     "fonte": "Tácito, Anais 15.44",
+     "referencia": "Relata que Nero culpou os cristãos pelo incêndio de Roma e os puniu com crueldade.",
+     "data": "incêndio em 64 d.C.; obra escrita c. 115-120 d.C."
+    }
+   ],
+   "refs": [
+    "romanos 13:1-2",
+    "romanos 13:3-4",
+    "romanos 13:6-7",
+    "tito 3:1-2",
+    "1-timoteo 2:1-2",
+    "filipenses 3:20",
+    "atos 22:25",
+    "atos 25:10-11",
+    "romanos 13:1-7"
+   ]
+  },
+  {
+   "id": "relacao-com-os-de-fora",
+   "titulo": "Relação com os de fora",
+   "grupo": "família e sociedade",
+   "resumo": "Paulo quer que os cristãos tenham boa reputação entre os não cristãos: vida tranquila, trabalho honesto, palavras gentis, respeito. Ele mesmo se adaptava às pessoas para ganhá-las para Cristo. Diante da hostilidade, pede que abençoem os que perseguem e vençam o mal com o bem. Ao mesmo tempo, alerta contra se associar a práticas incompatíveis com a fé.",
+   "pontos": [
+    {
+     "texto": "Andai com sabedoria para com os de fora; que a vossa palavra seja sempre agradável, temperada com sal.",
+     "refs": [
+      "colossenses 4:5-6"
+     ]
+    },
+    {
+     "texto": "Vivei de modo digno diante dos de fora, sem depender de ninguém.",
+     "refs": [
+      "1-tessalonicenses 4:11-12"
+     ]
+    },
+    {
+     "texto": "Abençoai os que vos perseguem; não retribuais mal por mal; se possível, tende paz com todos; vencei o mal com o bem.",
+     "refs": [
+      "romanos 12:14",
+      "romanos 12:17-21"
+     ]
+    },
+    {
+     "texto": "Fiz-me tudo para com todos, para por todos os meios salvar alguns.",
+     "refs": [
+      "1-corintios 9:19-22"
+     ]
+    },
+    {
+     "texto": "Não sejais motivo de tropeço nem a judeus, nem a gregos, nem à igreja de Deus.",
+     "refs": [
+      "1-corintios 10:32-33"
+     ]
+    },
+    {
+     "texto": "Não é com os de fora deste mundo que se deve cortar o convívio — senão seria preciso sair do mundo.",
+     "refs": [
+      "1-corintios 5:9-10"
+     ]
+    },
+    {
+     "texto": "Não vos ponhais em jugo desigual com os incrédulos: que comunhão tem a luz com as trevas?",
+     "refs": [
+      "2-corintios 6:14-16"
+     ]
+    },
+    {
+     "texto": "Mostrai toda mansidão para com todas as pessoas, pois também nós já fomos insensatos.",
+     "refs": [
+      "tito 3:2-3"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 12:14-21"
+    ],
+    "1-corintios": [
+     "1-corintios 5:9-13",
+     "1-corintios 9:19-22",
+     "1-corintios 10:27",
+     "1-corintios 10:32-33",
+     "1-corintios 14:23-25"
+    ],
+    "2-corintios": [
+     "2-corintios 6:14-16"
+    ],
+    "filipenses": [
+     "filipenses 2:14-15"
+    ],
+    "colossenses": [
+     "colossenses 4:5-6"
+    ],
+    "1-tessalonicenses": [
+     "1-tessalonicenses 4:11-12"
+    ],
+    "1-timoteo": [
+     "1-timoteo 3:7"
+    ],
+    "tito": [
+     "tito 2:7-8",
+     "tito 3:2-3"
+    ]
+   },
+   "debates": "'Jugo desigual' (2 Co 6:14) é aplicado por umas igrejas ao casamento e a sociedades comerciais com não cristãos; outras o leem em seu contexto, como afastamento da idolatria e dos falsos apóstolos.",
+   "refs": [
+    "colossenses 4:5-6",
+    "1-tessalonicenses 4:11-12",
+    "romanos 12:14",
+    "romanos 12:17-21",
+    "1-corintios 9:19-22",
+    "1-corintios 10:32-33",
+    "1-corintios 5:9-10",
+    "2-corintios 6:14-16",
+    "tito 3:2-3",
+    "romanos 12:14-21",
+    "1-corintios 5:9-13",
+    "1-corintios 10:27",
+    "1-corintios 14:23-25",
+    "filipenses 2:14-15",
+    "1-timoteo 3:7",
+    "tito 2:7-8"
+   ]
+  },
+  {
+   "id": "ressurreicao",
+   "titulo": "A ressurreição",
+   "grupo": "esperança",
+   "resumo": "Para Paulo, tudo depende da ressurreição de Jesus: se Cristo não ressuscitou, a fé é inútil. Ele lista testemunhas que viram o Cristo ressuscitado, inclusive ele mesmo. Cristo é as 'primícias', a primeira parte da colheita, e os que são dele também ressuscitarão com um corpo transformado, incorruptível e 'espiritual'. A própria criação espera essa libertação.",
+   "pontos": [
+    {
+     "texto": "Cristo ressuscitou e apareceu a Pedro, aos doze, a mais de quinhentos irmãos, a Tiago, a todos os apóstolos e por último a Paulo.",
+     "refs": [
+      "1-corintios 15:3-8"
+     ]
+    },
+    {
+     "texto": "Se Cristo não ressuscitou, é vã a nossa pregação e vã a vossa fé.",
+     "refs": [
+      "1-corintios 15:12-17"
+     ]
+    },
+    {
+     "texto": "Cristo ressuscitou como primícias dos que dormem; assim como em Adão todos morrem, em Cristo todos serão vivificados.",
+     "refs": [
+      "1-corintios 15:20-23"
+     ]
+    },
+    {
+     "texto": "Como ressuscitam os mortos? Semeia-se corpo corruptível, ressuscita incorruptível; semeia-se corpo natural, ressuscita corpo espiritual.",
+     "refs": [
+      "1-corintios 15:35-44"
+     ]
+    },
+    {
+     "texto": "A morte foi tragada pela vitória.",
+     "refs": [
+      "1-corintios 15:54-57"
+     ]
+    },
+    {
+     "texto": "Aquele que ressuscitou Cristo dará vida também aos vossos corpos mortais.",
+     "refs": [
+      "romanos 8:11"
+     ]
+    },
+    {
+     "texto": "A criação geme e espera ser libertada, como nós esperamos a redenção do corpo.",
+     "refs": [
+      "romanos 8:19-23"
+     ]
+    },
+    {
+     "texto": "Partir e estar com Cristo é muito melhor; deixar o corpo é habitar com o Senhor.",
+     "refs": [
+      "filipenses 1:21-23",
+      "2-corintios 5:6-8"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 1:4",
+     "romanos 6:5",
+     "romanos 8:11",
+     "romanos 8:19-23"
+    ],
+    "1-corintios": [
+     "1-corintios 6:14",
+     "1-corintios 15:1-58"
+    ],
+    "2-corintios": [
+     "2-corintios 4:14",
+     "2-corintios 5:1-8"
+    ],
+    "filipenses": [
+     "filipenses 1:21-23",
+     "filipenses 3:10-11",
+     "filipenses 3:20-21"
+    ],
+    "colossenses": [
+     "colossenses 2:12",
+     "colossenses 3:1"
+    ],
+    "1-tessalonicenses": [
+     "1-tessalonicenses 4:14-16"
+    ],
+    "2-timoteo": [
+     "2-timoteo 2:8",
+     "2-timoteo 2:18"
+    ]
+   },
+   "debates": "As igrejas concordam sobre a ressurreição futura, mas divergem sobre o que acontece entre a morte e a ressurreição: consciência na presença de Cristo (maioria das igrejas, com base em Fp 1:23 e 2 Co 5:8), um estado de purificação (doutrina católica do purgatório) ou um 'sono' inconsciente (adventistas e outros), já que Paulo chama os mortos de 'os que dormem'.",
+   "refs": [
+    "1-corintios 15:3-8",
+    "1-corintios 15:12-17",
+    "1-corintios 15:20-23",
+    "1-corintios 15:35-44",
+    "1-corintios 15:54-57",
+    "romanos 8:11",
+    "romanos 8:19-23",
+    "filipenses 1:21-23",
+    "2-corintios 5:6-8",
+    "romanos 1:4",
+    "romanos 6:5",
+    "1-corintios 6:14",
+    "1-corintios 15:1-58",
+    "2-corintios 4:14",
+    "2-corintios 5:1-8",
+    "filipenses 3:10-11",
+    "filipenses 3:20-21",
+    "colossenses 2:12",
+    "colossenses 3:1",
+    "1-tessalonicenses 4:14-16",
+    "2-timoteo 2:8",
+    "2-timoteo 2:18"
+   ]
+  },
+  {
+   "id": "volta-de-cristo",
+   "titulo": "A volta de Cristo",
+   "grupo": "esperança",
+   "resumo": "Paulo vivia na expectativa da 'vinda' (parusia) do Senhor. Aos tessalonicenses, que choravam por irmãos falecidos, explica que os mortos em Cristo ressuscitarão primeiro e, junto com os vivos, se encontrarão com o Senhor. O dia virá 'como ladrão de noite', por isso é preciso vigiar; mas não se deve ficar alarmado com boatos de que já chegou. Essa esperança deve consolar e levar a uma vida sóbria.",
+   "pontos": [
+    {
+     "texto": "O Senhor descerá do céu; os mortos em Cristo ressuscitarão primeiro; depois os vivos serão arrebatados com eles para encontrar o Senhor. Consolai-vos com estas palavras.",
+     "refs": [
+      "1-tessalonicenses 4:13-18"
+     ]
+    },
+    {
+     "texto": "O Dia do Senhor vem como ladrão de noite; vós sois filhos da luz: vigiai e sede sóbrios.",
+     "refs": [
+      "1-tessalonicenses 5:1-6"
+     ]
+    },
+    {
+     "texto": "Nem todos dormiremos, mas todos seremos transformados, num instante, ao som da última trombeta.",
+     "refs": [
+      "1-corintios 15:51-52"
+     ]
+    },
+    {
+     "texto": "Não vos deixeis perturbar como se o Dia já tivesse chegado: antes vem a apostasia e se manifesta o 'homem da iniquidade'.",
+     "refs": [
+      "2-tessalonicenses 2:1-4"
+     ]
+    },
+    {
+     "texto": "Aguardamos a bendita esperança e a manifestação da glória do nosso Senhor.",
+     "refs": [
+      "tito 2:13",
+      "filipenses 3:20-21"
+     ]
+    },
+    {
+     "texto": "Está guardada a coroa da justiça para todos os que amam a sua vinda.",
+     "refs": [
+      "2-timoteo 4:8"
+     ]
+    },
+    {
+     "texto": "Cristo virá para julgar; Deus recompensará cada um.",
+     "refs": [
+      "2-corintios 5:10",
+      "romanos 2:6-7"
+     ]
+    },
+    {
+     "texto": "Na ceia, anunciamos a morte do Senhor 'até que ele venha'.",
+     "refs": [
+      "1-corintios 11:26"
+     ]
+    }
+   ],
+   "por_carta": {
+    "romanos": [
+     "romanos 13:11-12"
+    ],
+    "1-corintios": [
+     "1-corintios 1:7-8",
+     "1-corintios 11:26",
+     "1-corintios 15:23-28",
+     "1-corintios 15:51-52",
+     "1-corintios 16:22"
+    ],
+    "2-corintios": [
+     "2-corintios 5:10"
+    ],
+    "filipenses": [
+     "filipenses 3:20-21",
+     "filipenses 4:5"
+    ],
+    "colossenses": [
+     "colossenses 3:4"
+    ],
+    "1-tessalonicenses": [
+     "1-tessalonicenses 1:10",
+     "1-tessalonicenses 4:13-18",
+     "1-tessalonicenses 5:1-6"
+    ],
+    "2-tessalonicenses": [
+     "2-tessalonicenses 1:7-10",
+     "2-tessalonicenses 2:1-12"
+    ],
+    "1-timoteo": [
+     "1-timoteo 6:14"
+    ],
+    "2-timoteo": [
+     "2-timoteo 4:1",
+     "2-timoteo 4:8"
+    ],
+    "tito": [
+     "tito 2:13"
+    ]
+   },
+   "debates": "Há diferentes leituras sobre o 'arrebatamento' (1 Ts 4:17): um evento separado antes de uma grande tribulação (pré-tribulacionismo, comum em igrejas dispensacionalistas) ou o mesmo acontecimento da volta visível de Cristo (visão da maioria das tradições históricas). O 'homem da iniquidade' e 'o que o detém' (2 Ts 2) foram identificados de muitas formas, sem consenso. Paulo não fala de um milênio; esse debate (pré, pós e amilenismo) vem sobretudo de Apocalipse 20.",
+   "refs": [
+    "1-tessalonicenses 4:13-18",
+    "1-tessalonicenses 5:1-6",
+    "1-corintios 15:51-52",
+    "2-tessalonicenses 2:1-4",
+    "tito 2:13",
+    "filipenses 3:20-21",
+    "2-timoteo 4:8",
+    "2-corintios 5:10",
+    "romanos 2:6-7",
+    "1-corintios 11:26",
+    "romanos 13:11-12",
+    "1-corintios 1:7-8",
+    "1-corintios 15:23-28",
+    "1-corintios 16:22",
+    "filipenses 4:5",
+    "colossenses 3:4",
+    "1-tessalonicenses 1:10",
+    "2-tessalonicenses 1:7-10",
+    "2-tessalonicenses 2:1-12",
+    "1-timoteo 6:14",
+    "2-timoteo 4:1"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1079 @@
+{
+ "titulo": "A Nova Jerusalém (Apocalipse 21–22)",
+ "introducao": "Nos dois últimos capítulos da Bíblia, João vê um novo céu, uma nova terra e a cidade santa, a Nova Jerusalém, descendo do céu, da parte de Deus, preparada como uma noiva (Ap 21:1-2). A visão reúne imagens que atravessam toda a Escritura: o jardim do Éden com o rio e a árvore da vida, o tabernáculo e o templo onde Deus habitava, a Jerusalém restaurada anunciada por Isaías e a cidade com doze portas descrita por Ezequiel. O centro da cena não é o ouro nem as pedras, mas a promessa de que Deus habitará com o seu povo e enxugará toda lágrima (Ap 21:3-4). Cristãos de diferentes tradições leem as medidas e os materiais de modos diferentes — como descrição de uma cidade real, como linguagem simbólica ou como as duas coisas ao mesmo tempo; esta página apresenta as leituras sem escolher entre elas.",
+ "refs": [
+  "apocalipse 21:1-22:5"
+ ],
+ "leituras": [
+  {
+   "id": "literal",
+   "nome": "Cidade literal futura",
+   "resumo": "A Nova Jerusalém é uma cidade real, que Deus fará descer depois do juízo final, numa terra renovada. As medidas (12.000 estádios por lado, muro de 144 côvados), os materiais e as portas são tomados como descrição de uma construção concreta, ainda que gloriosa além da experiência humana. Essa leitura é comum entre intérpretes que leem o Apocalipse de modo principalmente futurista.",
+   "refs": [
+    "apocalipse 21:2",
+    "apocalipse 21:10",
+    "apocalipse 21:15-17"
+   ]
+  },
+  {
+   "id": "simbolica",
+   "nome": "Imagem simbólica do povo de Deus/da igreja glorificada",
+   "resumo": "O anjo promete mostrar 'a noiva, a mulher do Cordeiro' e mostra uma cidade (Ap 21:9-10); por isso a cidade seria o próprio povo de Deus, reunido e glorificado. Os números (12 tribos, 12 apóstolos, 12 x 1.000, 12 x 12) falam de plenitude e perfeição; o cubo lembra o lugar santíssimo, indicando que todo o povo vive na presença de Deus. Essa leitura aparece em muitos comentários de linha idealista e amilenista, mas também em outros.",
+   "refs": [
+    "apocalipse 21:9-10",
+    "apocalipse 21:12-14",
+    "efesios 2:19-22"
+   ]
+  },
+  {
+   "id": "mista",
+   "nome": "Realidade futura descrita em linguagem simbólica",
+   "resumo": "Muitos intérpretes combinam as duas leituras: a visão anuncia uma realidade futura e concreta — uma nova criação em que Deus habita com seu povo ressuscitado — mas a descreve com imagens e números simbólicos, que não devem ser tomados como planta de engenharia. Alguns acrescentam que essa realidade já é antecipada no presente, pois os cristãos 'chegaram' à Jerusalém celestial (Hb 12:22) e têm nela a sua 'mãe' (Gl 4:26).",
+   "refs": [
+    "apocalipse 21:1-5",
+    "hebreus 12:22",
+    "galatas 4:26"
+   ]
+  }
+ ],
+ "leituras_nota": "As três leituras são apresentadas lado a lado; cada uma é defendida por estudiosos sérios de várias igrejas. Nenhuma delas nega que a passagem fala da esperança final do povo de Deus.",
+ "medidas": [
+  {
+   "id": "cidade",
+   "descricao": "12.000 estádios de comprimento, largura e altura",
+   "ref": "apocalipse 21:16",
+   "refs": [
+    "apocalipse 21:16"
+   ],
+   "valor": 12000,
+   "unidade": "estádios",
+   "equivale": "cerca de 2.200 km por lado (aproximadamente a distância em linha reta de Jerusalém a Roma)",
+   "nota": "A cidade é quadrada e tem altura igual ao comprimento e à largura: um cubo, como o lugar santíssimo do templo de Salomão (1 Rs 6:20). 12.000 = 12 x 1.000, número de plenitude. Uma minoria de intérpretes entende os 12.000 estádios como o perímetro total (cerca de 555 km por lado); a maioria entende como a medida de cada lado. Alguns preferem imaginar uma pirâmide em vez de um cubo, mas o texto só diz que as três medidas são iguais.",
+   "fonte_extra": [
+    {
+     "fonte": "Metrologia grega antiga: o estádio equivalia a 600 pés gregos",
+     "referencia": "Valor moderno aproximado de 177 a 192 m, conforme a cidade e a época; aqui usado ~185 m",
+     "data": "Antiguidade (convenção); conversão moderna aproximada"
+    }
+   ]
+  },
+  {
+   "id": "muro",
+   "descricao": "Muro de 144 côvados, 'conforme a medida humana, que é também a do anjo'",
+   "ref": "apocalipse 21:17",
+   "refs": [
+    "apocalipse 21:17"
+   ],
+   "valor": 144,
+   "unidade": "côvados",
+   "equivale": "cerca de 65 a 75 m",
+   "nota": "O texto não diz se é altura ou espessura do muro; as duas opções são defendidas. 144 = 12 x 12. Diante de uma cidade de 2.200 km de altura, um muro de 65 m é desproporcional, o que muitos tomam como sinal de que os números são simbólicos; quem lê literalmente costuma entender os 144 côvados como espessura. O muro é de jaspe (21:18).",
+   "fonte_extra": [
+    {
+     "fonte": "Metrologia do antigo Oriente Próximo: o côvado (distância do cotovelo à ponta dos dedos)",
+     "referencia": "Valor moderno aproximado de 44 a 52 cm (côvado comum e côvado longo); aqui usado ~45-50 cm",
+     "data": "Antiguidade (convenção); conversão moderna aproximada"
+    }
+   ]
+  },
+  {
+   "id": "cana",
+   "descricao": "Cana de ouro usada pelo anjo para medir a cidade, as portas e o muro",
+   "ref": "apocalipse 21:15",
+   "refs": [
+    "apocalipse 21:15",
+    "ezequiel 40:3-5",
+    "zacarias 2:1-2",
+    "apocalipse 11:1"
+   ],
+   "equivale": "o texto não dá o comprimento; a cana de Ezequiel tinha 6 côvados longos (cerca de 3 m)",
+   "nota": "Medir é sinal de que Deus conhece, delimita e protege o que lhe pertence (Ez 40; Zc 2; Ap 11:1).",
+   "fonte_extra": [
+    {
+     "fonte": "Metrologia do antigo Oriente Próximo: o côvado (distância do cotovelo à ponta dos dedos)",
+     "referencia": "Valor moderno aproximado de 44 a 52 cm (côvado comum e côvado longo); aqui usado ~45-50 cm",
+     "data": "Antiguidade (convenção); conversão moderna aproximada"
+    }
+   ]
+  },
+  {
+   "id": "portas",
+   "descricao": "12 portas, 3 em cada lado, cada uma feita de uma só pérola",
+   "ref": "apocalipse 21:12-13",
+   "refs": [
+    "apocalipse 21:12-13",
+    "apocalipse 21:21"
+   ],
+   "valor": 12,
+   "unidade": "portas",
+   "equivale": "—",
+   "nota": "Nas portas há doze anjos e os nomes das doze tribos de Israel. Ver 'portas'."
+  },
+  {
+   "id": "fundamentos",
+   "descricao": "12 fundamentos do muro, com os nomes dos 12 apóstolos, adornados com 12 pedras preciosas",
+   "ref": "apocalipse 21:14",
+   "refs": [
+    "apocalipse 21:14",
+    "apocalipse 21:19-20"
+   ],
+   "valor": 12,
+   "unidade": "fundamentos",
+   "equivale": "—",
+   "nota": "Tribos (portas) e apóstolos (fundamentos) juntos mostram o povo de Deus do Antigo e do Novo Testamento numa só cidade. Ver 'fundamentos'."
+  },
+  {
+   "id": "lugar-santissimo",
+   "descricao": "Comparação: o lugar santíssimo do templo de Salomão media 20 côvados de comprimento, largura e altura",
+   "ref": "1-reis 6:20",
+   "refs": [
+    "1-reis 6:20"
+   ],
+   "valor": 20,
+   "unidade": "côvados",
+   "equivale": "cerca de 9 a 10 m de lado",
+   "nota": "Era o único espaço cúbico do templo, coberto de ouro, onde só o sumo sacerdote entrava uma vez por ano. Na Nova Jerusalém a cidade inteira tem essa forma.",
+   "fonte_extra": [
+    {
+     "fonte": "Metrologia do antigo Oriente Próximo: o côvado (distância do cotovelo à ponta dos dedos)",
+     "referencia": "Valor moderno aproximado de 44 a 52 cm (côvado comum e côvado longo); aqui usado ~45-50 cm",
+     "data": "Antiguidade (convenção); conversão moderna aproximada"
+    }
+   ]
+  },
+  {
+   "id": "cidade-ezequiel",
+   "descricao": "Comparação: a cidade de Ezequiel tinha 4.500 côvados por lado e 18.000 côvados ao redor",
+   "ref": "ezequiel 48:30-35",
+   "refs": [
+    "ezequiel 48:30-35"
+   ],
+   "valor": 18000,
+   "unidade": "côvados (perímetro)",
+   "equivale": "cerca de 2,3 km por lado (com o côvado longo de ~52 cm)",
+   "nota": "A cidade de Ezequiel também é quadrada, com três portas por lado. João retoma o modelo, mas em escala imensamente maior.",
+   "fonte_extra": [
+    {
+     "fonte": "Metrologia do antigo Oriente Próximo: o côvado (distância do cotovelo à ponta dos dedos)",
+     "referencia": "Valor moderno aproximado de 44 a 52 cm (côvado comum e côvado longo); aqui usado ~45-50 cm",
+     "data": "Antiguidade (convenção); conversão moderna aproximada"
+    }
+   ]
+  }
+ ],
+ "portas": [
+  {
+   "lado": "leste",
+   "n": 3,
+   "tribos_ezequiel": [
+    "José",
+    "Benjamim",
+    "Dã"
+   ],
+   "refs": [
+    "apocalipse 21:13",
+    "ezequiel 48:32"
+   ],
+   "nota": "Apocalipse começa a lista pelo oriente (21:13). Em Ezequiel, a glória de Deus volta ao templo pela porta do oriente (Ez 43:1-4). Apocalipse não diz qual tribo fica em qual porta; os nomes ao lado vêm de Ezequiel 48:31-34 e servem só como referência para o desenho."
+  },
+  {
+   "lado": "norte",
+   "n": 3,
+   "tribos_ezequiel": [
+    "Rúben",
+    "Judá",
+    "Levi"
+   ],
+   "refs": [
+    "apocalipse 21:13",
+    "ezequiel 48:31"
+   ],
+   "nota": "Ezequiel começa a lista pelo norte. Apocalipse não diz qual tribo fica em qual porta; os nomes ao lado vêm de Ezequiel 48:31-34 e servem só como referência para o desenho."
+  },
+  {
+   "lado": "sul",
+   "n": 3,
+   "tribos_ezequiel": [
+    "Simeão",
+    "Issacar",
+    "Zebulom"
+   ],
+   "refs": [
+    "apocalipse 21:13",
+    "ezequiel 48:33"
+   ],
+   "nota": "Apocalipse não diz qual tribo fica em qual porta; os nomes ao lado vêm de Ezequiel 48:31-34 e servem só como referência para o desenho."
+  },
+  {
+   "lado": "oeste",
+   "n": 3,
+   "tribos_ezequiel": [
+    "Gade",
+    "Aser",
+    "Naftali"
+   ],
+   "refs": [
+    "apocalipse 21:13",
+    "ezequiel 48:34"
+   ],
+   "nota": "O texto diz 'ocidente'. Apocalipse não diz qual tribo fica em qual porta; os nomes ao lado vêm de Ezequiel 48:31-34 e servem só como referência para o desenho."
+  }
+ ],
+ "portas_info": {
+  "material": "pérolas (cada porta é uma única pérola)",
+  "nomes": "das 12 tribos dos filhos de Israel",
+  "anjos": "um anjo em cada porta",
+  "abertas": "as portas nunca se fecham, porque ali não há noite",
+  "refs": [
+   "apocalipse 21:12-13",
+   "apocalipse 21:21",
+   "apocalipse 21:25",
+   "apocalipse 22:14"
+  ],
+  "raiz_at": "ezequiel 48:30-35",
+  "raiz_at_refs": [
+   "ezequiel 48:30-35",
+   "isaias 60:11",
+   "isaias 54:12",
+   "isaias 26:2"
+  ],
+  "nota": "Na Antiguidade a pérola era uma das joias mais caras; uma porta feita de uma só pérola é imagem de riqueza incomparável. Ezequiel lista as tribos com Levi e José (sem Efraim e Manassés separados); Apocalipse não dá a lista das tribos das portas. Em Ap 7:5-8 há outra lista das doze tribos, que omite Dã.",
+  "fonte_extra": [
+   {
+    "fonte": "Plínio, o Velho, História Natural",
+    "referencia": "livro 9 (sobre as pérolas, que ele coloca entre os bens de maior valor)",
+    "data": "c. 77 d.C."
+   }
+  ]
+ },
+ "fundamentos": [
+  {
+   "n": 1,
+   "pedra": "jaspe",
+   "original": "ἴασπις iaspis",
+   "identificacao": "Na Antiguidade 'iaspis' designava pedras opacas ou translúcidas de várias cores, muitas vezes verdes (variedades de quartzo/calcedônia). Como em Ap 21:11 o jaspe é 'como cristal brilhante', alguns propõem cristal de rocha ou até diamante; o jaspe moderno é opaco.",
+   "cor": "#8fc9b0",
+   "peitoral": "Sim. Na Bíblia Livre, 'jaspe' é a 3ª pedra da 4ª fileira (12ª posição). Na Septuaginta, 'iaspis' é a 3ª pedra da 2ª fileira (6ª posição).",
+   "refs": [
+    "apocalipse 21:19"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Septuaginta (tradução grega do Antigo Testamento)",
+     "referencia": "Êxodo 28:17-20 (lista das pedras do peitoral em grego)",
+     "data": "séc. III-II a.C."
+    },
+    {
+     "fonte": "Plínio, o Velho, História Natural",
+     "referencia": "livro 37 (verbete iaspis)",
+     "data": "c. 77 d.C."
+    },
+    {
+     "fonte": "Flávio Josefo, Antiguidades Judaicas",
+     "referencia": "livro 3 (descrição do peitoral do sumo sacerdote)",
+     "data": "c. 93-94 d.C."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "pedra": "safira",
+   "original": "σάπφειρος sappheiros",
+   "identificacao": "Provavelmente o lápis-lazúli, pedra azul-escura com pontos dourados, que os antigos chamavam 'sapphirus'. Outros entendem a safira moderna (coríndon azul).",
+   "cor": "#2f4f9e",
+   "peitoral": "Sim. 2ª pedra da 2ª fileira (5ª posição), tanto na Bíblia Livre quanto na Septuaginta.",
+   "refs": [
+    "apocalipse 21:19"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Septuaginta (tradução grega do Antigo Testamento)",
+     "referencia": "Êxodo 28:17-20 (lista das pedras do peitoral em grego)",
+     "data": "séc. III-II a.C."
+    },
+    {
+     "fonte": "Plínio, o Velho, História Natural",
+     "referencia": "livro 37 (verbete sapphirus)",
+     "data": "c. 77 d.C."
+    },
+    {
+     "fonte": "Flávio Josefo, Antiguidades Judaicas",
+     "referencia": "livro 3 (descrição do peitoral do sumo sacerdote)",
+     "data": "c. 93-94 d.C."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "pedra": "calcedônia",
+   "original": "χαλκηδών chalkēdōn",
+   "identificacao": "Identificação incerta; a palavra não aparece em textos mais antigos. Talvez uma pedra ligada à cidade de Calcedônia (Ásia Menor). Propostas: calcedônia cinza-azulada, ágata, ou um mineral verde de cobre.",
+   "cor": "#9db3c4",
+   "peitoral": "Não aparece no peitoral.",
+   "refs": [
+    "apocalipse 21:19"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Septuaginta (tradução grega do Antigo Testamento)",
+     "referencia": "Êxodo 28:17-20 (lista das pedras do peitoral em grego)",
+     "data": "séc. III-II a.C."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "pedra": "esmeralda",
+   "original": "σμάραγδος smaragdos",
+   "identificacao": "Pedra verde; provavelmente a esmeralda, mas os antigos davam esse nome a várias pedras verdes.",
+   "cor": "#2e8b57",
+   "peitoral": "Sim. Na Bíblia Livre, 'esmeralda' é a 1ª pedra da 2ª fileira (4ª posição). Na Septuaginta, 'smaragdos' é a 3ª pedra da 1ª fileira (3ª posição).",
+   "refs": [
+    "apocalipse 21:19"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Septuaginta (tradução grega do Antigo Testamento)",
+     "referencia": "Êxodo 28:17-20 (lista das pedras do peitoral em grego)",
+     "data": "séc. III-II a.C."
+    },
+    {
+     "fonte": "Plínio, o Velho, História Natural",
+     "referencia": "livro 37 (verbete smaragdus)",
+     "data": "c. 77 d.C."
+    },
+    {
+     "fonte": "Flávio Josefo, Antiguidades Judaicas",
+     "referencia": "livro 3 (descrição do peitoral do sumo sacerdote)",
+     "data": "c. 93-94 d.C."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "pedra": "sardônica",
+   "original": "σαρδόνυξ sardonyx",
+   "identificacao": "Ônix em camadas, com faixas vermelho-acastanhadas (sárdio) e brancas.",
+   "cor": "#a0522d",
+   "peitoral": "Não com este nome. O 'ônix' do peitoral (Bíblia Livre, 11ª posição) é pedra parecida, mas o nome é outro.",
+   "refs": [
+    "apocalipse 21:20"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Septuaginta (tradução grega do Antigo Testamento)",
+     "referencia": "Êxodo 28:17-20 (lista das pedras do peitoral em grego)",
+     "data": "séc. III-II a.C."
+    },
+    {
+     "fonte": "Plínio, o Velho, História Natural",
+     "referencia": "livro 37 (verbete sardonyx)",
+     "data": "c. 77 d.C."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "pedra": "sárdio",
+   "original": "σάρδιον sardion",
+   "identificacao": "Cornalina ou sárdio, calcedônia vermelha; o nome é associado à cidade de Sardes.",
+   "cor": "#b23a1e",
+   "peitoral": "Sim. 1ª pedra da 1ª fileira (1ª posição), tanto na Bíblia Livre quanto na Septuaginta.",
+   "refs": [
+    "apocalipse 21:20"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Septuaginta (tradução grega do Antigo Testamento)",
+     "referencia": "Êxodo 28:17-20 (lista das pedras do peitoral em grego)",
+     "data": "séc. III-II a.C."
+    },
+    {
+     "fonte": "Plínio, o Velho, História Natural",
+     "referencia": "livro 37 (verbete sarda)",
+     "data": "c. 77 d.C."
+    },
+    {
+     "fonte": "Flávio Josefo, Antiguidades Judaicas",
+     "referencia": "livro 3 (descrição do peitoral do sumo sacerdote)",
+     "data": "c. 93-94 d.C."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "pedra": "crisólito",
+   "original": "χρυσόλιθος chrysolithos",
+   "identificacao": "'Pedra de ouro': uma pedra amarelo-dourada (talvez topázio amarelo ou crisoberilo). Hoje 'crisólito' também designa o peridoto, verde-oliva.",
+   "cor": "#d4af37",
+   "peitoral": "Na Septuaginta, 'chrysolithos' é a 1ª pedra da 4ª fileira (10ª posição); na Bíblia Livre essa posição é traduzida 'berilo'.",
+   "refs": [
+    "apocalipse 21:20"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Septuaginta (tradução grega do Antigo Testamento)",
+     "referencia": "Êxodo 28:17-20 (lista das pedras do peitoral em grego)",
+     "data": "séc. III-II a.C."
+    },
+    {
+     "fonte": "Plínio, o Velho, História Natural",
+     "referencia": "livro 37 (verbete chrysolithos)",
+     "data": "c. 77 d.C."
+    },
+    {
+     "fonte": "Flávio Josefo, Antiguidades Judaicas",
+     "referencia": "livro 3 (descrição do peitoral do sumo sacerdote)",
+     "data": "c. 93-94 d.C."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "pedra": "berilo",
+   "original": "βήρυλλος bēryllos",
+   "identificacao": "Berilo verde-mar ou azul-esverdeado (como a água-marinha).",
+   "cor": "#7fc8c2",
+   "peitoral": "Na Bíblia Livre, 'berilo' é a 1ª pedra da 4ª fileira (10ª posição). Na Septuaginta, 'beryllion' é a 2ª pedra da 4ª fileira (11ª posição).",
+   "refs": [
+    "apocalipse 21:20"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Septuaginta (tradução grega do Antigo Testamento)",
+     "referencia": "Êxodo 28:17-20 (lista das pedras do peitoral em grego)",
+     "data": "séc. III-II a.C."
+    },
+    {
+     "fonte": "Plínio, o Velho, História Natural",
+     "referencia": "livro 37 (verbete beryllus)",
+     "data": "c. 77 d.C."
+    },
+    {
+     "fonte": "Flávio Josefo, Antiguidades Judaicas",
+     "referencia": "livro 3 (descrição do peitoral do sumo sacerdote)",
+     "data": "c. 93-94 d.C."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "pedra": "topázio",
+   "original": "τοπάζιον topazion",
+   "identificacao": "Os antigos chamavam 'topazos' uma pedra verde-amarelada (provavelmente o peridoto); o topázio moderno é geralmente amarelo ou dourado.",
+   "cor": "#c2c84a",
+   "peitoral": "Sim. 2ª pedra da 1ª fileira (2ª posição), tanto na Bíblia Livre quanto na Septuaginta.",
+   "refs": [
+    "apocalipse 21:20"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Septuaginta (tradução grega do Antigo Testamento)",
+     "referencia": "Êxodo 28:17-20 (lista das pedras do peitoral em grego)",
+     "data": "séc. III-II a.C."
+    },
+    {
+     "fonte": "Plínio, o Velho, História Natural",
+     "referencia": "livro 37 (verbete topazos)",
+     "data": "c. 77 d.C."
+    },
+    {
+     "fonte": "Flávio Josefo, Antiguidades Judaicas",
+     "referencia": "livro 3 (descrição do peitoral do sumo sacerdote)",
+     "data": "c. 93-94 d.C."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "pedra": "crisópraso",
+   "original": "χρυσόπρασος chrysoprasos",
+   "identificacao": "'Verde-dourado': provavelmente o crisópraso, calcedônia verde-maçã.",
+   "cor": "#7dbb6a",
+   "peitoral": "Não aparece no peitoral.",
+   "refs": [
+    "apocalipse 21:20"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Septuaginta (tradução grega do Antigo Testamento)",
+     "referencia": "Êxodo 28:17-20 (lista das pedras do peitoral em grego)",
+     "data": "séc. III-II a.C."
+    },
+    {
+     "fonte": "Plínio, o Velho, História Natural",
+     "referencia": "livro 37 (verbete chrysoprasus)",
+     "data": "c. 77 d.C."
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "pedra": "jacinto",
+   "original": "ὑάκινθος hyakinthos",
+   "identificacao": "Pedra azul ou violeta, talvez a safira azul (o nome lembra a flor jacinto). Hoje 'jacinto' é também o zircão alaranjado, mas o sentido antigo parece ser azul.",
+   "cor": "#4a5fb0",
+   "peitoral": "Não com este nome. Algumas traduções antigas e modernas usam 'jacinto' para a 1ª pedra da 3ª fileira (7ª posição), que a Bíblia Livre traduz 'rubi'.",
+   "refs": [
+    "apocalipse 21:20"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Septuaginta (tradução grega do Antigo Testamento)",
+     "referencia": "Êxodo 28:17-20 (lista das pedras do peitoral em grego)",
+     "data": "séc. III-II a.C."
+    },
+    {
+     "fonte": "Plínio, o Velho, História Natural",
+     "referencia": "livro 37 (verbete hyacinthos)",
+     "data": "c. 77 d.C."
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "pedra": "ametista",
+   "original": "ἀμέθυστος amethystos",
+   "identificacao": "Ametista: quartzo roxo ou violeta. Das doze, é das identificações mais seguras.",
+   "cor": "#8a4fa3",
+   "peitoral": "Sim. 3ª pedra da 3ª fileira (9ª posição), tanto na Bíblia Livre quanto na Septuaginta.",
+   "refs": [
+    "apocalipse 21:20"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Septuaginta (tradução grega do Antigo Testamento)",
+     "referencia": "Êxodo 28:17-20 (lista das pedras do peitoral em grego)",
+     "data": "séc. III-II a.C."
+    },
+    {
+     "fonte": "Plínio, o Velho, História Natural",
+     "referencia": "livro 37 (verbete amethystus)",
+     "data": "c. 77 d.C."
+    },
+    {
+     "fonte": "Flávio Josefo, Antiguidades Judaicas",
+     "referencia": "livro 3 (descrição do peitoral do sumo sacerdote)",
+     "data": "c. 93-94 d.C."
+    }
+   ]
+  }
+ ],
+ "fundamentos_info": {
+  "nomes": "os nomes dos doze apóstolos do Cordeiro",
+  "refs": [
+   "apocalipse 21:14",
+   "apocalipse 21:19-20",
+   "efesios 2:20"
+  ],
+  "raiz_at_refs": [
+   "exodo 28:17-21",
+   "isaias 54:11-12",
+   "ezequiel 28:13"
+  ],
+  "nota": "A identificação exata das pedras antigas é incerta: os nomes gregos nem sempre correspondem às gemas que hoje têm o mesmo nome, e as cores indicadas aqui são aproximadas, só para o desenho. A comparação com o peitoral também depende da tradução: as bíblias em português seguem o hebraico, e a Septuaginta usa nomes gregos próprios; por isso a 'posição no peitoral' é dada nas duas formas. Cerca de oito das doze pedras do Apocalipse têm nome igual ou próximo a pedras do peitoral na Septuaginta, que levava os nomes das doze tribos (Êx 28:21) — sinal de que a cidade inteira é um povo sacerdotal diante de Deus."
+ },
+ "elementos": [
+  {
+   "id": "novo-ceu-terra",
+   "nome": "Novo céu e nova terra",
+   "descricao": "João vê um novo céu e uma nova terra, porque os primeiros já passaram. Deus diz: 'Eis que eu faço novas todas as coisas'.",
+   "refs": [
+    "apocalipse 21:1",
+    "apocalipse 21:5"
+   ],
+   "raiz_at": [
+    "isaias 65:17",
+    "isaias 66:22"
+   ],
+   "significado": "A esperança bíblica não é só ir para o céu, mas a renovação de toda a criação. Os intérpretes discutem se será uma criação totalmente nova ou a criação atual renovada e libertada (Rm 8:19-21)."
+  },
+  {
+   "id": "sem-mar",
+   "nome": "O mar que já não existe",
+   "descricao": "'E já não havia mar.'",
+   "refs": [
+    "apocalipse 21:1"
+   ],
+   "raiz_at": [
+    "isaias 57:20",
+    "daniel 7:2-3"
+   ],
+   "significado": "No Apocalipse o mar é de onde sobe a besta (13:1) e onde estão os mortos (20:13); nos profetas, imagem de agitação e ameaça. Sua ausência indica o fim de todo caos e perigo. Alguns leem também em sentido físico."
+  },
+  {
+   "id": "noiva",
+   "nome": "A noiva, esposa do Cordeiro",
+   "descricao": "A cidade desce 'preparada como noiva, adornada para seu marido'; o anjo promete mostrar 'a noiva' e mostra a cidade.",
+   "refs": [
+    "apocalipse 21:2",
+    "apocalipse 21:9-10",
+    "apocalipse 19:7-8",
+    "apocalipse 22:17"
+   ],
+   "raiz_at": [
+    "isaias 62:4-5",
+    "isaias 61:10"
+   ],
+   "significado": "A cidade é, antes de tudo, gente: o povo amado e unido ao seu Senhor. No NT a igreja é apresentada a Cristo como noiva (Ef 5:25-27; 2 Co 11:2)."
+  },
+  {
+   "id": "lagrimas",
+   "nome": "Deus enxugará toda lágrima",
+   "descricao": "Não haverá mais morte, pranto, clamor nem dor, 'porque as primeiras coisas já passaram'.",
+   "refs": [
+    "apocalipse 21:4",
+    "apocalipse 7:17"
+   ],
+   "raiz_at": [
+    "isaias 25:8",
+    "isaias 65:19",
+    "isaias 35:10"
+   ],
+   "significado": "É a promessa mais pessoal da visão: o próprio Deus consola cada um. O sofrimento não tem a última palavra."
+  },
+  {
+   "id": "trono",
+   "nome": "Trono de Deus e do Cordeiro",
+   "descricao": "No centro da cidade está o trono de Deus e do Cordeiro; dele sai o rio. Seus servos o servirão.",
+   "refs": [
+    "apocalipse 22:1",
+    "apocalipse 22:3",
+    "apocalipse 21:5"
+   ],
+   "raiz_at": [
+    "ezequiel 43:7",
+    "jeremias 3:17"
+   ],
+   "significado": "Deus reina de forma plena e visível; o Cordeiro (Cristo) partilha o mesmo trono. No desenho, o trono fica no centro."
+  },
+  {
+   "id": "sem-templo",
+   "nome": "Sem templo",
+   "descricao": "João não vê templo na cidade, 'porque o templo dela é o Senhor Deus Todo-Poderoso, e o Cordeiro'.",
+   "refs": [
+    "apocalipse 21:22",
+    "apocalipse 21:3"
+   ],
+   "raiz_at": [
+    "levitico 26:11-12",
+    "ezequiel 37:27",
+    "exodo 25:8"
+   ],
+   "significado": "O templo era o lugar de encontro com Deus. Agora o encontro é direto e em toda parte: a cidade inteira é como o lugar santíssimo."
+  },
+  {
+   "id": "sem-sol-lua",
+   "nome": "Sem sol nem lua",
+   "descricao": "A cidade não precisa de sol nem de lua, porque a glória de Deus a ilumina e sua lâmpada é o Cordeiro. Ali não haverá noite.",
+   "refs": [
+    "apocalipse 21:23",
+    "apocalipse 21:25",
+    "apocalipse 22:5"
+   ],
+   "raiz_at": [
+    "isaias 60:19-20"
+   ],
+   "significado": "A luz vem da presença de Deus. Muitos leem isso como afirmação de que a glória de Deus supera toda luz criada, não necessariamente como ausência física dos astros."
+  },
+  {
+   "id": "gloria",
+   "nome": "A glória de Deus",
+   "descricao": "A cidade tem 'a glória de Deus'; seu brilho é como de jaspe, 'como cristal brilhante'.",
+   "refs": [
+    "apocalipse 21:11",
+    "apocalipse 21:23"
+   ],
+   "raiz_at": [
+    "isaias 60:1-2",
+    "ezequiel 43:2-5"
+   ],
+   "significado": "A glória que enchia o tabernáculo e o templo agora enche a cidade inteira."
+  },
+  {
+   "id": "rua-ouro",
+   "nome": "Rua (praça) de ouro",
+   "descricao": "'A praça da cidade era de ouro puro, como vidro transparente'; a própria cidade é de ouro puro, semelhante a vidro.",
+   "refs": [
+    "apocalipse 21:18",
+    "apocalipse 21:21"
+   ],
+   "raiz_at": [
+    "1-reis 6:20-22"
+   ],
+   "significado": "A palavra grega (plateia) pode significar rua larga ou praça; algumas bíblias traduzem 'rua'. O ouro, que no templo revestia o lugar santíssimo, é aqui o chão por onde todos andam. O ouro 'transparente' indica pureza além do conhecido."
+  },
+  {
+   "id": "rio",
+   "nome": "Rio da água da vida",
+   "descricao": "Um rio puro da água da vida, claro como cristal, sai do trono de Deus e do Cordeiro e corre pelo meio da praça.",
+   "refs": [
+    "apocalipse 22:1-2",
+    "apocalipse 21:6",
+    "apocalipse 22:17"
+   ],
+   "raiz_at": [
+    "ezequiel 47:1-12",
+    "zacarias 14:8",
+    "genesis 2:10",
+    "salmos 46:4"
+   ],
+   "significado": "A vida que Deus dá flui da sua presença e é oferecida 'de graça' a quem tem sede."
+  },
+  {
+   "id": "arvore",
+   "nome": "Árvore da vida",
+   "descricao": "De um lado e do outro do rio está a árvore da vida, que dá doze frutos, um a cada mês; suas folhas são para a cura das nações.",
+   "refs": [
+    "apocalipse 22:2",
+    "apocalipse 22:14",
+    "apocalipse 2:7"
+   ],
+   "raiz_at": [
+    "genesis 2:9",
+    "genesis 3:22-24",
+    "ezequiel 47:12"
+   ],
+   "significado": "O acesso à árvore, fechado depois da queda (Gn 3:24), é reaberto. 'Árvore' pode ser entendida no singular ou como espécie (muitas árvores nas margens, como em Ez 47:12); as duas leituras existem."
+  },
+  {
+   "id": "nacoes",
+   "nome": "As nações e os reis da terra",
+   "descricao": "As nações andarão na luz da cidade; os reis da terra trarão a ela sua glória e honra; as portas não se fecham.",
+   "refs": [
+    "apocalipse 21:24-26",
+    "apocalipse 22:2"
+   ],
+   "raiz_at": [
+    "isaias 60:3",
+    "isaias 60:5",
+    "isaias 60:11",
+    "isaias 2:2-3"
+   ],
+   "significado": "A cidade é aberta a todos os povos; o que houve de bom na cultura das nações é trazido para dentro, purificado. Os intérpretes discutem quem são essas 'nações' depois do juízo final."
+  },
+  {
+   "id": "nada-impuro",
+   "nome": "Nada impuro entra",
+   "descricao": "Não entrará nela nada que contamine, nem quem pratica abominação e mentira, mas só os inscritos no livro da vida do Cordeiro. Fora estão os que amam e praticam a mentira.",
+   "refs": [
+    "apocalipse 21:27",
+    "apocalipse 21:8",
+    "apocalipse 22:14-15",
+    "apocalipse 20:15"
+   ],
+   "raiz_at": [
+    "isaias 52:1",
+    "daniel 12:1"
+   ],
+   "significado": "A cidade é santa. O convite é aberto (22:17), mas a entrada é marcada pela purificação: 'os que lavam as suas vestes' (22:14)."
+  },
+  {
+   "id": "nome-fronte",
+   "nome": "O nome de Deus na testa",
+   "descricao": "Os servos de Deus verão o seu rosto, e o nome dele estará em suas testas.",
+   "refs": [
+    "apocalipse 22:4",
+    "apocalipse 3:12",
+    "apocalipse 14:1",
+    "apocalipse 7:3"
+   ],
+   "raiz_at": [
+    "exodo 28:36-38",
+    "exodo 33:20",
+    "salmos 17:15"
+   ],
+   "significado": "No AT só o sumo sacerdote levava na testa 'Santidade ao SENHOR', e ninguém podia ver o rosto de Deus e viver. Agora todos são como sacerdotes e veem a Deus face a face (1 Co 13:12). É o oposto da marca da besta (13:16)."
+  },
+  {
+   "id": "sem-maldicao",
+   "nome": "Não haverá mais maldição",
+   "descricao": "'E não haverá mais maldição alguma.'",
+   "refs": [
+    "apocalipse 22:3"
+   ],
+   "raiz_at": [
+    "genesis 3:17",
+    "zacarias 14:11"
+   ],
+   "significado": "A maldição que entrou com a queda é desfeita; a história bíblica que começou num jardim termina numa cidade-jardim."
+  },
+  {
+   "id": "muro-jaspe",
+   "nome": "Muro de jaspe e cidade de ouro",
+   "descricao": "O muro é de jaspe, a cidade de ouro puro; os fundamentos levam pedras preciosas e as portas são pérolas.",
+   "refs": [
+    "apocalipse 21:18-21"
+   ],
+   "raiz_at": [
+    "isaias 54:11-12",
+    "ezequiel 28:13"
+   ],
+   "significado": "Isaías já prometia a Jerusalém alicerces de safira e portas de pedras preciosas. Os materiais falam de beleza, valor e permanência."
+  }
+ ],
+ "raizes_at": [
+  {
+   "tema": "Novos céus, nova terra e uma Jerusalém de alegria",
+   "refs": [
+    "isaias 65:17-19",
+    "isaias 66:22"
+   ],
+   "nota": "Isaías já ligava a nova criação a uma Jerusalém sem choro; Ap 21:1-4 retoma as duas coisas juntas."
+  },
+  {
+   "tema": "Luz que não vem do sol",
+   "refs": [
+    "isaias 60:19-20",
+    "isaias 60:1-3"
+   ],
+   "nota": "'O SENHOR será tua luz eterna': base de Ap 21:23 e 22:5."
+  },
+  {
+   "tema": "Visão de uma cidade sobre um monte muito alto, medida por um mensageiro",
+   "refs": [
+    "ezequiel 40:2-5",
+    "zacarias 2:1-5"
+   ],
+   "nota": "João, como Ezequiel, é levado a um alto monte e vê alguém medir a cidade (Ap 21:10, 15)."
+  },
+  {
+   "tema": "O nome da cidade: 'O SENHOR Está Ali'",
+   "refs": [
+    "ezequiel 48:35"
+   ],
+   "nota": "A última frase de Ezequiel resume Ap 21:3: Deus habita com o seu povo."
+  },
+  {
+   "tema": "Doze portas com os nomes das tribos",
+   "refs": [
+    "ezequiel 48:30-34"
+   ],
+   "nota": "Três portas por lado em Ezequiel e em Apocalipse; João não repete a distribuição das tribos."
+  },
+  {
+   "tema": "O rio que sai do santuário e as árvores que curam",
+   "refs": [
+    "ezequiel 47:1-12",
+    "zacarias 14:8",
+    "joel 3:18",
+    "salmos 46:4"
+   ],
+   "nota": "Em Ezequiel a água sai do templo; em Apocalipse sai do trono de Deus e do Cordeiro, porque não há templo."
+  },
+  {
+   "tema": "O jardim do Éden e a árvore da vida",
+   "refs": [
+    "genesis 2:8-10",
+    "genesis 3:22-24"
+   ],
+   "nota": "A Bíblia começa com um jardim regado por um rio e termina com uma cidade-jardim; o caminho da árvore da vida, antes guardado, é reaberto."
+  },
+  {
+   "tema": "Deus habitando no meio do povo",
+   "refs": [
+    "exodo 25:8",
+    "levitico 26:11-12",
+    "ezequiel 37:27",
+    "zacarias 2:10-11"
+   ],
+   "nota": "'Eu serei vosso Deus, e vós sereis meu povo' é a fórmula da aliança repetida em Ap 21:3 e 21:7."
+  },
+  {
+   "tema": "Jerusalém adornada com pedras preciosas",
+   "refs": [
+    "isaias 54:11-12",
+    "exodo 28:17-21"
+   ],
+   "nota": "Os alicerces de safira de Isaías e as doze pedras do peitoral, com os nomes das tribos, ecoam nos fundamentos da cidade."
+  },
+  {
+   "tema": "Jerusalém como noiva",
+   "refs": [
+    "isaias 62:1-5",
+    "isaias 61:10"
+   ],
+   "nota": "Deus se alegra com Jerusalém como o noivo com a noiva; ela recebe um nome novo."
+  },
+  {
+   "tema": "Fim da morte e das lágrimas",
+   "refs": [
+    "isaias 25:8",
+    "isaias 35:10"
+   ],
+   "nota": "'O Senhor DEUS enxugará as lágrimas de todos os rostos' é praticamente citado em Ap 21:4."
+  },
+  {
+   "tema": "As nações vêm à luz de Jerusalém; nada impuro entra",
+   "refs": [
+    "isaias 60:3",
+    "isaias 60:11",
+    "isaias 2:2-3",
+    "isaias 52:1"
+   ],
+   "nota": "Portas sempre abertas para as riquezas das nações, e santidade da cidade: as duas ideias estão em Ap 21:24-27."
+  },
+  {
+   "tema": "O lugar santíssimo em forma de cubo",
+   "refs": [
+    "1-reis 6:20"
+   ],
+   "nota": "Vinte côvados em cada dimensão, revestido de ouro: modelo da cidade cúbica e de ouro."
+  }
+ ],
+ "no_nt": [
+  {
+   "id": "hb-11-10",
+   "texto": "Abraão esperava a cidade que tem fundamentos, cujo arquiteto e construtor é Deus.",
+   "refs": [
+    "hebreus 11:10"
+   ]
+  },
+  {
+   "id": "hb-11-16",
+   "texto": "Os patriarcas desejavam uma pátria celestial; Deus 'já lhes preparou uma cidade'.",
+   "refs": [
+    "hebreus 11:16"
+   ]
+  },
+  {
+   "id": "hb-12-22",
+   "texto": "Os cristãos já 'chegaram' ao monte Sião, à Jerusalém celestial: a cidade é também uma realidade presente pela fé.",
+   "refs": [
+    "hebreus 12:22-23"
+   ]
+  },
+  {
+   "id": "hb-13-14",
+   "texto": "'Não temos aqui cidade permanente, mas buscamos a futura.'",
+   "refs": [
+    "hebreus 13:14"
+   ]
+  },
+  {
+   "id": "gl-4-26",
+   "texto": "Paulo contrasta a 'Jerusalém de agora' com 'a Jerusalém de cima', que é livre e é 'nossa mãe'.",
+   "refs": [
+    "galatas 4:25-26"
+   ]
+  },
+  {
+   "id": "jo-14-2",
+   "texto": "Jesus vai preparar lugar na casa do Pai, onde há muitas moradas, e voltará para levar os seus.",
+   "refs": [
+    "joao 14:2-3"
+   ]
+  },
+  {
+   "id": "2pe-3-13",
+   "texto": "'Aguardamos novos céus e nova terra, em que a justiça habita.'",
+   "refs": [
+    "2-pedro 3:13"
+   ]
+  },
+  {
+   "id": "fp-3-20",
+   "texto": "'Nós somos cidadãos dos céus', de onde esperamos o Salvador.",
+   "refs": [
+    "filipenses 3:20"
+   ]
+  },
+  {
+   "id": "ef-2-19",
+   "texto": "Os crentes são concidadãos dos santos, edificados sobre o fundamento dos apóstolos e profetas, para ser morada de Deus (compare os fundamentos com os nomes dos apóstolos, Ap 21:14).",
+   "refs": [
+    "efesios 2:19-22"
+   ]
+  },
+  {
+   "id": "ap-3-12",
+   "texto": "Ao vencedor Jesus promete escrever 'o nome da cidade do meu Deus, Nova Jerusalém' — a única outra menção do nome no NT.",
+   "refs": [
+    "apocalipse 3:12"
+   ]
+  }
+ ],
+ "contraste_babilonia": [
+  {
+   "babilonia": "A grande prostituta",
+   "nova_jerusalem": "A noiva, esposa do Cordeiro",
+   "refs": [
+    "apocalipse 17:1",
+    "apocalipse 21:9"
+   ],
+   "nota": "Um dos anjos das sete taças apresenta as duas, com a mesma fórmula: 'Vem, eu te mostrarei'."
+  },
+  {
+   "babilonia": "João é levado a um deserto",
+   "nova_jerusalem": "João é levado a um grande e alto monte",
+   "refs": [
+    "apocalipse 17:3",
+    "apocalipse 21:10"
+   ]
+  },
+  {
+   "babilonia": "Enfeitada com ouro, pedras preciosas e pérolas para seduzir",
+   "nova_jerusalem": "Feita de ouro, pedras preciosas e pérolas pela glória de Deus",
+   "refs": [
+    "apocalipse 17:4",
+    "apocalipse 18:16",
+    "apocalipse 21:18-21"
+   ]
+  },
+  {
+   "babilonia": "Na testa, o nome 'Mistério: a grande Babilônia'",
+   "nova_jerusalem": "Na testa dos servos, o nome de Deus",
+   "refs": [
+    "apocalipse 17:5",
+    "apocalipse 22:4"
+   ]
+  },
+  {
+   "babilonia": "Habitação de demônios e de todo espírito imundo",
+   "nova_jerusalem": "Tabernáculo de Deus com os seres humanos; nada impuro entra",
+   "refs": [
+    "apocalipse 18:2",
+    "apocalipse 21:3",
+    "apocalipse 21:27"
+   ]
+  },
+  {
+   "babilonia": "As nações bebem o vinho da sua prostituição, e os reis da terra se prostituem com ela",
+   "nova_jerusalem": "As nações andam na sua luz e são curadas, e os reis da terra lhe trazem sua glória",
+   "refs": [
+    "apocalipse 18:3",
+    "apocalipse 18:23",
+    "apocalipse 21:24",
+    "apocalipse 22:2"
+   ]
+  },
+  {
+   "babilonia": "'Saí dela, povo meu!'",
+   "nova_jerusalem": "Benditos os que entram na cidade pelas portas",
+   "refs": [
+    "apocalipse 18:4",
+    "apocalipse 22:14"
+   ]
+  },
+  {
+   "babilonia": "Não haverá mais luz de lâmpada nem voz de noivo e de noiva",
+   "nova_jerusalem": "Sua lâmpada é o Cordeiro; a noiva diz: 'Vem!'",
+   "refs": [
+    "apocalipse 18:23",
+    "apocalipse 21:23",
+    "apocalipse 22:17"
+   ]
+  }
+ ],
+ "contraste_nota": "O Apocalipse descreve duas cidades-mulheres em paralelo deliberado. Babilônia é geralmente entendida como imagem do poder humano que se opõe a Deus (muitos a relacionam com a Roma do séc. I; outros a entendem de modo mais geral ou futuro).",
+ "licoes": [
+  "A esperança final da Bíblia é Deus habitando com o seu povo: 'O SENHOR Está Ali' (Ez 48:35; Ap 21:3).",
+  "A promessa inclui consolo pessoal: Deus enxugará toda lágrima, e a morte não terá a última palavra (Ap 21:4).",
+  "O que se perdeu no Éden — a árvore da vida, a presença de Deus — é restaurado e ampliado (Gn 3:24; Ap 22:2-3).",
+  "O povo de Deus é um só: os nomes das doze tribos e dos doze apóstolos estão na mesma cidade (Ap 21:12-14).",
+  "O convite é gratuito e aberto: 'Quem tem sede, venha' (Ap 22:17), e a cidade é santa: só entram os que lavam as suas vestes (Ap 22:14).",
+  "O contraste com Babilônia chama a não pôr o coração na riqueza e no poder que passam, mas na cidade que permanece (Ap 18:4; Hb 13:14).",
+  "Esperar a nova criação dá sentido à vida presente: somos 'cidadãos dos céus' e aguardamos 'novos céus e nova terra, em que a justiça habita' (Fp 3:20; 2 Pe 3:13)."
+ ],
+ "nota_geral": "Equivalências modernas (km, m) são aproximadas: estádio ~185 m (variava de 177 a 192 m) e côvado ~45-52 cm. Não há datas históricas neste estudo; as identificações das pedras seguem propostas usuais e são incertas. Textos citados conforme a Bíblia Livre."
+}

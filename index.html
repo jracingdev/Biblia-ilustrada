@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Bíblia Ilustrada</title>
+<title>Bíblia de Estudo Hakham</title>
 <meta name="description" content="Bíblia ilustrada, interativa e acessível: os 66 livros com estudo, quadros, línguas originais e conexões.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -227,7 +227,7 @@ aside.estudo{ display:grid; gap:1rem; position:sticky; top:calc(env(safe-area-in
 .prosa{ max-width:72ch }
 .prosa h2{ font-family:var(--f-display); letter-spacing:.04em; margin-top:2.2rem }
 .credito{ overflow-wrap:anywhere; font-family:var(--f-text); background:var(--surface); border:1px solid var(--line); border-radius:var(--radius); padding:1rem; font-size:.95rem }
-.tbl{ max-width:100%; overflow-x:auto; border:1px solid var(--line); border-radius:var(--radius) }
+.tbl{ position:relative; max-width:100%; overflow-x:auto; border:1px solid var(--line); border-radius:var(--radius) }
 .tbl table{ border-collapse:collapse; width:100%; background:var(--surface) }
 .tbl th,.tbl td{ text-align:left; padding:.6rem .8rem; border-bottom:1px solid var(--line); vertical-align:top; font-size:.93rem }
 .tbl th{ font-size:.78rem; text-transform:uppercase; letter-spacing:.08em; color:var(--muted) }
@@ -398,13 +398,51 @@ footer.pe{ border-top:1px solid var(--line); padding-block:1.5rem; color:var(--m
 .meses{ list-style:none; padding:0; display:grid; grid-template-columns:repeat(auto-fill, minmax(min(16rem,100%),1fr)); gap:.8rem }
 .mes{ background:var(--surface); border:1px solid var(--line); border-radius:var(--radius); padding:.9rem 1rem } .mes h3{ margin:.2rem 0 .3rem } .mes p{ margin:.3rem 0 }
 .chips-f{ display:flex; flex-wrap:wrap; gap:.3rem } .chip-f{ font-size:.8rem; border:1px solid var(--gold); border-radius:99px; padding:.15rem .6rem; text-decoration:none; color:var(--fg); min-height:24px; display:inline-flex; align-items:center }
+.hakham{ font-size:.95rem; opacity:.85; margin:.2rem 0 .6rem } .hakham span{ font-size:1.15em }
+.nj-plan{ display:grid; gap:1.2rem; grid-template-columns:repeat(auto-fit, minmax(min(20rem,100%),1fr)); align-items:start }
+.nj-svg{ width:100%; max-width:30rem; height:auto; color:var(--fg) } .nj-plan figure{ margin:0 }
+.nj-fund{ list-style:none; padding:0; display:grid; gap:.8rem; grid-template-columns:repeat(auto-fill, minmax(min(24rem,100%),1fr)) }
+.nj-fund li{ display:grid; grid-template-columns:2.4rem 1fr; gap:.8rem; align-items:start }
+.nj-fund .gema{ width:2.4rem; height:2.4rem; border-radius:.4rem; border:1px solid var(--line); box-shadow:inset 0 0 0 3px rgba(255,255,255,.25) }
+.nj-fund h3{ margin:0 0 .2rem }
+.tab-fig{ margin:0 } .tab-svg{ width:100%; max-width:60rem; height:auto; color:var(--fg); display:block }
+.tab-leg{ columns:2 22rem; column-gap:2rem } .tab-leg li{ break-inside:avoid; margin:.3rem 0 }
+.tab-partes{ list-style:none; padding:0; display:grid; gap:1rem; grid-template-columns:repeat(auto-fill, minmax(min(26rem,100%),1fr)) }
+.tab-partes h3{ margin:.1rem 0 .3rem } .leit-crista{ border-left:3px solid var(--lapis); padding-left:.7rem }
+.acampa{ display:grid; grid-template-columns:repeat(3,1fr); gap:.5rem; max-width:44rem; margin:1rem 0 }
+.acp{ border:1px solid var(--line); border-radius:.6rem; padding:.6rem; display:grid; gap:.15rem; background:var(--surface); min-width:0; overflow-wrap:anywhere }
+.acp-sul{ grid-column:2 } .acp-leste{ grid-column:1; grid-row:2 } .acp-centro{ grid-column:2; grid-row:2; background:var(--surface-2); text-align:center } .acp-oeste{ grid-column:3; grid-row:2 } .acp-norte{ grid-column:2; grid-row:3 }
+.acp small{ color:var(--muted) }
+.mat td, .mat thead th{ text-align:center; padding:.3rem .35rem } .mat tbody th{ text-align:left; font-weight:400; min-width:12rem }
+.mat .pt{ color:var(--gold); font-size:calc(.7rem + var(--n) * .15rem) }
+.meta > a:only-child, .apar li > a:first-child{ display:inline-block; min-height:24px; line-height:24px }
+.le-num{ margin:1rem 0 } .home-num.le-num div{ background:var(--surface); border-color:var(--line) } .home-num.le-num dt{ color:var(--muted) } .home-num.le-num dd{ color:var(--fg) }
+.le-filtros{ display:flex; flex-wrap:wrap; gap:.6rem 1rem; align-items:end; margin:.6rem 0 }
+.le-filtros label{ display:grid; gap:.2rem; font-size:.9rem; font-weight:600 } .le-filtros .busca{ margin:0; flex:1 1 16rem } .le-filtros .busca label{ font-weight:600 }
+.le-filtros select{ min-height:2.6rem; padding:.3rem .5rem; border:1px solid var(--line); border-radius:.5rem; background:var(--surface); color:var(--fg); font:inherit; max-width:100% }
+.le-g{ margin-top:1.4rem } .le-sg h4{ margin:1rem 0 .4rem; color:var(--muted); font-size:.95rem; text-transform:uppercase; letter-spacing:.05em }
+details.lei{ border:1px solid var(--line); border-radius:.6rem; background:var(--surface); margin:.35rem 0 }
+details.lei > summary{ cursor:pointer; padding:.6rem .8rem; display:flex; flex-wrap:wrap; gap:.4rem .6rem; align-items:baseline; min-height:24px }
+.lei-tit{ font-weight:600; flex:1 1 12rem } .lei-in{ padding:0 .9rem .8rem }
+.lei-tipo{ font-size:.72rem; font-weight:700; text-transform:uppercase; letter-spacing:.05em; padding:.1rem .45rem; border-radius:99px; border:1px solid currentColor }
+.lei-tipo.positivo{ color:var(--ok) } .lei-tipo.negativo{ color:var(--lapis) }
+.lei-pena{ font-size:.8rem; color:var(--muted) }
+.est-cap-h{ font-size:.95rem; margin:.8rem 0 .2rem }
+.intro-est{ color:var(--muted); max-width:75ch }
+.sumario ul{ display:flex; flex-wrap:wrap; gap:.4rem .9rem; list-style:none; padding:0; margin:1rem 0 }
+.sumario a{ display:inline-block; padding:.35rem 0; min-height:24px }
+.apar{ margin:.4rem 0; padding-left:1.1rem } .apar li{ margin:.2rem 0 }
+.linha-apar{ list-style:none; padding:0; display:grid; gap:.8rem; grid-template-columns:repeat(auto-fill, minmax(min(26rem,100%),1fr)) }
+.linha-apar li{ border-left:3px solid var(--gold); padding:.2rem 0 .2rem .9rem }
+.linha-apar h3{ margin:.1rem 0 }
+.licoes li{ margin:.45rem 0; max-width:80ch }
 .festas, .cos-list{ display:grid; grid-template-columns:repeat(auto-fill, minmax(min(22rem,100%),1fr)); gap:1rem }
 .festa h3{ margin:.2rem 0 .5rem } .dl-f dt{ font-weight:700; margin-top:.4rem } .dl-f dd{ margin:.1rem 0 0 }
 .festa:target, .festa:focus{ outline:3px solid var(--gold) }
 .meta{ font-size:.88rem; color:var(--muted) }
 .obj-grid{ display:grid; grid-template-columns:repeat(auto-fill, minmax(min(19rem,100%),1fr)); gap:1rem }
 .obj{ background:var(--surface); border:1px solid var(--line); border-radius:var(--radius); overflow:hidden; display:flex; flex-direction:column }
-.obj.alvo{ outline:3px solid var(--gold) }
+.obj.alvo, .card.alvo, details.lei.alvo, li.alvo{ outline:3px solid var(--gold); outline-offset:2px }
 .obj-foto{ position:relative; aspect-ratio:4 / 3; background:var(--surface-2) } .obj-foto img{ width:100%; height:100%; object-fit:cover; display:block }
 .sem-foto{ width:100%; height:100%; display:grid; place-items:center; color:var(--muted); font-family:var(--f-display); text-align:center; padding:1rem }
 .obj-in{ padding:.9rem 1rem } .obj-in h3{ margin:.2rem 0 .3rem }
@@ -438,9 +476,9 @@ footer.pe{ border-top:1px solid var(--line); padding-block:1.5rem; color:var(--m
 <a class="skip" href="#conteudo">Pular para o conteúdo</a>
 <header class="top">
   <div class="wrap">
-    <a class="brand" href="#inicio" aria-label="Bíblia Ilustrada, início">
+    <a class="brand" href="#inicio" aria-label="Bíblia de Estudo Hakham, início">
       <svg style="width:1.6em;height:1.6em" width="26" height="26" viewBox="0 0 32 32" aria-hidden="true"><path d="M16 3v26M8 10h16" stroke="currentColor" stroke-width="3" stroke-linecap="round"/><circle cx="16" cy="10" r="13" fill="none" stroke="var(--gold)" stroke-width="2"/></svg>
-      Bíblia <span>Ilustrada</span>
+      Bíblia de Estudo <span>Hakham</span>
     </a>
     <nav class="main" aria-label="Seções">
       <ul>
@@ -452,6 +490,7 @@ footer.pe{ border-top:1px solid var(--line); padding-block:1.5rem; color:var(--m
         <li><a href="#calendario" data-r="calendario">Calendário e festas</a></li>
         <li><a href="#costumes" data-r="costumes">Costumes</a></li>
         <li><a href="#objetos" data-r="objetos">Objetos</a></li>
+        <li><a href="#estudos" data-r="estudos">Estudos</a></li>
         <li><a href="#sobre" data-r="sobre">Sobre</a></li>
       </ul>
     </nav>
@@ -1220,7 +1259,7 @@ async function renderBiblia(r){
     else if ((m = r.match(/^livro-(.+?)(?:-(\d+))?(?:-v(\d+))?$/)) && livroPorSlug(m[1])){
       const slug = m[1]; if (slug === "apocalipse"){ location.replace(m[2] ? "#cap-" + m[2] + (m[3] ? "-v" + m[3] : "") : "#apocalipse"); return; }
       const [T, E] = await Promise.all([carregarTexto(slug), carregarEstudo(slug), carregarExtras(slug)]), c = Math.min(Math.max(1, +(m[2] || 1)), T.c.length);
-      if (!m[2] && E){ html = telaIntroLivro(slug); view.innerHTML = html; document.querySelectorAll("nav.main a").forEach(a => a.dataset.r === "livros" ? a.setAttribute("aria-current", "page") : a.removeAttribute("aria-current")); document.title = `${livroPorSlug(slug).nome} · Bíblia Ilustrada`; anunciar("Página: " + livroPorSlug(slug).nome); window.scrollTo(0, 0); $("#conteudo").focus({ preventScroll:true }); ligarSeletor(s => s === "apocalipse" ? "apocalipse" : "livro-" + s); return; }
+      if (!m[2] && E){ html = telaIntroLivro(slug); view.innerHTML = html; document.querySelectorAll("nav.main a").forEach(a => a.dataset.r === "livros" ? a.setAttribute("aria-current", "page") : a.removeAttribute("aria-current")); document.title = `${livroPorSlug(slug).nome} · Bíblia de Estudo Hakham`; anunciar("Página: " + livroPorSlug(slug).nome); window.scrollTo(0, 0); $("#conteudo").focus({ preventScroll:true }); ligarSeletor(s => s === "apocalipse" ? "apocalipse" : "livro-" + s); return; }
       html = telaLeitura(slug, c); ativo = "livros";
       pos = async () => {
         store.set("ultimo", { s:slug, c }); preencherContexto(slug, c);
@@ -1230,12 +1269,12 @@ async function renderBiblia(r){
         const F = await carregarFoco(slug), M = Object.entries(F.alvos).map(([t, a]) => [+t, a.n]).sort((a, b) => b[1] - a[1]).slice(0, 6);
         const box = $("#lv-top"); if (box) box.innerHTML = `<ol class="mini-rank">${M.map(([t, n]) => `<li><a href="#conexoes-${slug}">${esc(B.estr.livros[t].nome)}</a> <small>${n} ligações</small></li>`).join("")}</ol>`;
       };
-      document.title = `${livroPorSlug(slug).nome} ${c} · Bíblia Ilustrada`;
+      document.title = `${livroPorSlug(slug).nome} ${c} · Bíblia de Estudo Hakham`;
     }
     else { location.replace("#livros"); return; }
     view.innerHTML = html;
     document.querySelectorAll("nav.main a").forEach(a => a.dataset.r === ativo ? a.setAttribute("aria-current", "page") : a.removeAttribute("aria-current"));
-    if (r === "inicio") document.title = "Bíblia Ilustrada"; else if (!/^livro-/.test(r)) document.title = view.querySelector("h1").textContent + " · Bíblia Ilustrada";
+    if (r === "inicio") document.title = "Bíblia de Estudo Hakham"; else if (!/^livro-/.test(r)) document.title = view.querySelector("h1").textContent + " · Bíblia de Estudo Hakham";
     const h1 = view.querySelector("h1"); if (h1) anunciar("Página: " + h1.textContent);
     if (!/-v\d+$/.test(r)) window.scrollTo(0, 0);
     if (r !== "inicio") $("#conteudo").focus({ preventScroll:true });
@@ -1475,14 +1514,226 @@ function ligarFiltroCards(qSel, cardSel, countSel, attrBtn, txt){
 /* ---------- No capítulo: lugares, reis, objetos, festas e costumes citados ---------- */
 async function preencherContexto(slug, c){
   const box = $("#ctx-cap"); if (!box) return;
-  await Promise.all([carregarMapa(), carregarTema("reis"), carregarTema("objetos"), carregarTema("calendario"), carregarTema("costumes")]);
+  await Promise.all([carregarMapa(), carregarTema("reis"), carregarTema("objetos"), carregarTema("calendario"), carregarTema("costumes"), carregarTema("estudos-indice")]);
   const lug = lugaresDoLivro(slug, c).sort((a, b) => b.n - a.n), rs = T.reis ? T.reis.reis.filter(r => refNoCap(r.refs, slug, c)) : [], ob = T.objetos ? T.objetos.objetos.filter(o => refNoCap(o.refs, slug, c)) : [], fe = T.calendario ? T.calendario.festas.filter(f => refNoCap(f.refs, slug, c)) : [], co = T.costumes ? T.costumes.costumes.filter(x => refNoCap(x.refs, slug, c)) : [], me = T.costumes ? T.costumes.medidas.filter(x => refNoCap(x.refs, slug, c)) : [];
   let h = "";
   if (lug.length) h += `<section class="card" aria-labelledby="t-lug"><h2 id="t-lug">Lugares neste capítulo</h2>${mapaSVG(lug.map(x => ({ id:x.l.id, nome:x.l.n, ll:x.l.ll, peso:x.l.r.length })), { maxRot:8, escala:2, min:[8, 6], rotulo:"Mapa dos lugares do capítulo; a lista abaixo traz os mesmos lugares." })}<ul class="lug-mini">${lug.map(x => `<li><button type="button" class="lk" data-lugar="${x.l.id}">${esc(x.l.n)}</button></li>`).join("")}</ul><a class="btn" href="#mapas-${slug}">Mapa do livro</a></section>`;
   if (rs.length) h += `<section class="card" aria-labelledby="t-reis"><h2 id="t-reis">Reis neste capítulo</h2><ul>${rs.map(r => `<li><button type="button" class="lk" data-rei="${r.id}">${esc(r.nome)}</button> <small>${fmtAno(r.inicio)} a ${fmtAno(r.fim)}</small></li>`).join("")}</ul></section>`;
   if (ob.length) h += `<section class="card" aria-labelledby="t-obj"><h2 id="t-obj">Objetos citados</h2><ul>${ob.map(o => `<li><a href="#objetos-${o.id}">${esc(o.nome)}</a></li>`).join("")}</ul></section>`;
   if (fe.length || co.length || me.length) h += `<section class="card" aria-labelledby="t-cos"><h2 id="t-cos">Festas e costumes</h2><ul>${fe.map(f => `<li><a href="#festa-${f.id}">${esc(f.nome)}</a></li>`).join("")}${co.map(x => `<li><a href="#costumes">${esc(x.titulo)}</a></li>`).join("")}${me.map(x => `<li><a href="#medidas">${esc(x.nome)}</a> <small>${esc(x.equivale)}</small></li>`).join("")}</ul></section>`;
+  const EI = T["estudos-indice"], ei = EI && EI.caps[slug] && EI.caps[slug][c];
+  if (ei && ei.length){ const por = new Map(); ei.forEach(k => { const [e, id, t] = EI.itens[k]; if (!por.has(e)) por.set(e, []); por.get(e).push([id, t]); });
+    h += `<section class="card" aria-labelledby="t-est-cap"><h2 id="t-est-cap">Nos estudos especiais</h2>${[...por].map(([e, L]) => `<h3 class="est-cap-h">${esc((ESTUDOS.find(x => x[1] === e) || [0, 0, e])[2])}</h3><ul>${L.slice(0, 12).map(([id, t]) => `<li><a href="#${e}-${id}">${esc(t)}</a></li>`).join("")}${L.length > 12 ? `<li><a href="#${e}">e mais ${L.length - 12}</a></li>` : ""}</ul>`).join("")}</section>`; }
   box.innerHTML = h;
+}
+
+/* ---------- Estudos temáticos ---------- */
+const ESTUDOS = [
+  ["animais", "animais", "Animais da Bíblia", "dos mais comuns aos simbólicos e mitológicos"],
+  ["anjos", "anjos", "Anjos", "palavras, tipos, nomes, aparições, caídos e mitos"],
+  ["tabernaculo", "tabernaculo", "O tabernáculo", "planta desenhada, peças, sacerdócio e o templo"],
+  ["nova-jerusalem", "nova-jerusalem", "A Nova Jerusalém", "a cidade de Apocalipse 21 e 22 com raízes no AT"],
+  ["paulo", "paulo", "Paulo às igrejas", "as orientações das cartas, organizadas por tema"],
+  ["leis", "leis", "As leis da Torá", "todas as leis por tema, com penas e casos julgados"]
+];
+const leituras = x => x && x.leituras && x.leituras.length ? `<details class="mais"><summary>Leituras diferentes (${x.leituras.length})</summary><ul>${x.leituras.map(l => `<li>${esc(l)}</li>`).join("")}</ul></details>` : "";
+const selInt = x => x && x.interpretacao ? ' <span class="badge int">Envolve interpretação</span>' : "";
+const aparLista = a => a && a.length ? `<ul class="apar">${a.map(p => `<li>${refsGerais([p.ref])}${p.nota ? ": " + esc(p.nota) : ""}</li>`).join("")}</ul>` : "";
+const buscaTxt = (...p) => esc(p.flat().filter(Boolean).join(" ").toLowerCase());
+function cabEstudo(eyebrow, titulo, intro){ return `<header class="cap-h"><span class="eyebrow">${esc(eyebrow)}</span><h1>${esc(titulo)}</h1></header>${intro ? `<div class="intro-est">${notaLonga(intro)}</div>` : ""}`; }
+function sumario(itens){ return `<nav class="sumario" aria-label="Nesta página"><ul>${itens.map(([id, n]) => `<li><a href="#" data-ir="${id}">${esc(n)}</a></li>`).join("")}</ul></nav>`; }
+document.addEventListener("click", e => { const a = e.target.closest("[data-ir]"); if (!a) return; e.preventDefault(); const el = document.getElementById(a.dataset.ir); if (el){ el.scrollIntoView({ block:"start" }); el.setAttribute("tabindex", "-1"); el.focus({ preventScroll:true }); } });
+
+function irPara(id){ const el = document.getElementById(id); if (!el) return; if (el.tagName === "DETAILS") el.open = true; el.scrollIntoView({ block:"start" }); el.setAttribute("tabindex", "-1"); el.focus({ preventScroll:true }); el.classList.add("alvo"); setTimeout(() => el.classList.remove("alvo"), 2500); }
+const PREF = { animais:"ani-", anjos:"an-", tabernaculo:"tb-", "nova-jerusalem":"nj-", paulo:"pa-", leis:"lei-" };
+function telaEstudos(){
+  return `${cabEstudo("Estudos temáticos", "Estudos especiais", "Temas que atravessam a Bíblia inteira, cada um com as referências ligadas aos capítulos. O que vem de fora da Bíblia está marcado com a fonte e a data, e onde as igrejas leem de modo diferente as leituras principais são mostradas lado a lado.")}
+  <div class="explorar">${ESTUDOS.map(([h, t, n, d]) => T[t] ? `<a class="card" href="#${h}"><b>${esc(n)}</b><small>${esc(d)}</small></a>` : `<div class="card" aria-disabled="true"><b>${esc(n)}</b><small>Em preparação</small></div>`).join("")}</div>`;
+}
+
+function telaAnjos(){
+  const A = T.anjos;
+  const cardP = p => `<article class="card"><h3 id="an-${p.id}">${esc(p.original)}</h3><p><b>${esc(p.sentido)}</b></p>${p.nota ? `<p>${esc(p.nota)}</p>` : ""}<p class="meta">${refsGerais(p.refs, 6)}</p>${fonteExtra(p.fonte_extra)}</article>`;
+  const cardT = t => `<article class="card" id="an-${t.id}" aria-labelledby="ant-${t.id}"><h3 id="ant-${t.id}">${esc(t.nome)}${selInt(t)}</h3><p>${esc(t.descricao)}</p>${t.funcao ? `<p><b>Função:</b> ${esc(t.funcao)}</p>` : ""}${t.nota ? `<p class="meta">${esc(t.nota)}</p>` : ""}${aparLista(t.aparicoes)}${leituras(t)}<p class="meta">${refsGerais(t.refs, 6)}</p>${fonteExtra(t.fonte_extra)}</article>`;
+  return `${cabEstudo("Estudo temático", "Anjos", A.introducao)}
+  ${sumario([["an-s-pal", "As palavras"], ["an-s-tip", "Tipos de seres"], ["an-s-nom", "Anjos com nome"], ["an-s-cai", "Os caídos"], ["an-s-apa", "Aparições"], ["an-s-ens", "O que ensinam"], ["an-s-mit", "Mitos e verdades"]])}
+  <section class="block" aria-labelledby="an-s-pal"><h2 id="an-s-pal">As palavras</h2><div class="festas">${A.palavras.map(cardP).join("")}</div></section>
+  <section class="block" aria-labelledby="an-s-tip"><h2 id="an-s-tip">Tipos de seres celestiais</h2><div class="festas">${A.tipos.map(cardT).join("")}</div></section>
+  <section class="block" aria-labelledby="an-s-nom"><h2 id="an-s-nom">Anjos com nome</h2><div class="festas">${A.nomeados.map(cardT).join("")}</div></section>
+  <section class="block" aria-labelledby="an-s-cai"><h2 id="an-s-cai">Satanás e os anjos caídos</h2><div class="festas">${A.caidos.map(cardT).join("")}</div></section>
+  <section class="block" aria-labelledby="an-s-apa"><h2 id="an-s-apa">Aparições, em ordem bíblica</h2>
+    <div class="busca"><label class="sr" for="q-apa">Buscar aparição</label><input id="q-apa" type="search" placeholder="Buscar: Gabriel, Daniel, sepulcro…" autocomplete="off"></div><p class="sr" id="apa-count" role="status" aria-live="polite"></p>
+    <ol class="linha-apar">${A.aparicoes.map(p => `<li class="apa" id="an-${p.id}" data-cat="x" data-busca="${buscaTxt(p.titulo, p.resumo, p.ref)}"><h3>${esc(p.titulo)}</h3><p class="meta">${refsGerais([p.ref])}${p.ano != null ? " · " + fmtAno(p.ano) : ""}</p><p>${esc(p.resumo)}</p>${p.nota ? `<p class="meta">${esc(p.nota)}</p>` : ""}${p.nota_cronologia ? `<p class="meta">${esc(p.nota_cronologia)}</p>` : ""}${fonteExtra(p.fonte_extra)}</li>`).join("")}</ol></section>
+  <section class="block" aria-labelledby="an-s-ens"><h2 id="an-s-ens">O que os textos ensinam</h2><ol class="licoes">${A.o_que_ensinam.map(l => `<li>${esc(l.texto)} <span class="meta">${refsGerais(l.refs, 4)}</span></li>`).join("")}</ol></section>
+  <section class="block" aria-labelledby="an-s-mit"><h2 id="an-s-mit">Mitos e o que a Bíblia diz</h2><div class="festas">${A.mitos.map(m => `<article class="card"><span class="eyebrow">Ideia popular</span><h3>${esc(m.afirmacao)}</h3><p>${esc(m.o_que_a_biblia_diz)}</p><p class="meta">${refsGerais(m.refs, 6)}</p>${fonteExtra(m.fonte_extra)}</article>`).join("")}</div></section>`;
+}
+
+function svgNovaJerusalem(N){
+  const L = { leste:[1, 0], norte:[0, -1], sul:[0, 1], oeste:[-1, 0] }, c = 200, h = 120;
+  let g = "";
+  N.portas.forEach(p => { const [dx, dy] = L[p.lado] || [0, 0]; (p.tribos_ezequiel || []).forEach((t, i) => {
+    const o = (i - 1) * 70, x = c + dx * h + (dy ? o : 0), y = c + dy * h + (dx ? o : 0), lx = c + dx * (h + 18) + (dy ? o : 0), ly = c + dy * (h + 30) + (dx ? o : 0) + 4, an = dx > 0 ? "start" : dx < 0 ? "end" : "middle";
+    g += `<circle cx="${x}" cy="${y}" r="11" fill="#f3efe6" stroke="#9c8f73" stroke-width="2"/><text x="${lx}" y="${ly}" text-anchor="${an}" font-size="13" fill="currentColor">${esc(t)}</text>`; }); });
+  const lab = (t, x, y) => `<text x="${x}" y="${y}" text-anchor="middle" font-size="13" font-weight="700" fill="currentColor" letter-spacing="2">${t}</text>`;
+  return `<svg class="nj-svg" viewBox="0 0 400 400" role="img" aria-label="Planta esquemática da cidade: um quadrado com três portas de pérola em cada lado e o trono e o rio no centro. A lista abaixo traz as portas e os nomes.">
+    <rect x="${c - h}" y="${c - h}" width="${2 * h}" height="${2 * h}" fill="#e9d8a6" fill-opacity=".35" stroke="#b8963e" stroke-width="5"/>
+    <path d="M${c} ${c - 8}V${c + h - 6}" stroke="#4a90c2" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="${c}" cy="${c - 14}" r="16" fill="#fff6d5" stroke="#d4a72c" stroke-width="3"/>
+    <text x="${c}" y="${c + 34}" text-anchor="middle" font-size="11" fill="currentColor">trono e rio</text>
+    <circle cx="${c - 22}" cy="${c + 60}" r="9" fill="#5c9a4a"/><circle cx="${c + 22}" cy="${c + 60}" r="9" fill="#5c9a4a"/>
+    ${g}${lab("NORTE", c, 22)}${lab("SUL", c, 392)}${lab("OESTE", 40, c - 40)}${lab("LESTE", 360, c - 40)}</svg>`;
+}
+function telaNovaJerusalem(){
+  const N = T["nova-jerusalem"], FI = N.fundamentos_info || {}, PI = N.portas_info || {};
+  return `${cabEstudo("Estudo temático", N.titulo || "A Nova Jerusalém", N.introducao)}
+  <p class="meta">${refsGerais(N.refs)}</p>
+  ${sumario([["nj-s-lei", "Como ler"], ["nj-s-pla", "Planta e medidas"], ["nj-s-fun", "Os 12 fundamentos"], ["nj-s-ele", "O que há na cidade"], ["nj-s-raz", "Raízes no AT"], ["nj-s-nt", "No NT"], ["nj-s-bab", "Babilônia x Nova Jerusalém"], ["nj-s-lic", "Lições"]])}
+  <section class="block" aria-labelledby="nj-s-lei"><h2 id="nj-s-lei">Três maneiras de ler</h2>${N.leituras_nota ? `<p class="intro-est">${esc(N.leituras_nota)}</p>` : ""}<div class="festas">${N.leituras.map(l => `<article class="card"><h3>${esc(l.nome)}</h3><p>${esc(l.resumo)}</p><p class="meta">${refsGerais(l.refs, 5)}</p></article>`).join("")}</div></section>
+  <section class="block" aria-labelledby="nj-s-pla"><h2 id="nj-s-pla">Planta e medidas</h2>
+    <div class="nj-plan"><figure>${svgNovaJerusalem(N)}<figcaption class="meta">Desenho esquemático. O Apocalipse não diz qual tribo fica em cada porta: os nomes seguem Ezequiel 48:31-34, só como referência.</figcaption></figure>
+    <div><h3>As portas</h3><dl class="dl-f">${[["Material", PI.material], ["Nomes", PI.nomes], ["Guardas", PI.anjos], ["Sempre abertas", PI.abertas]].filter(x => x[1]).map(([k, v]) => `<dt>${k}</dt><dd>${esc(v)}</dd>`).join("")}</dl>${PI.nota ? `<p>${notaLonga(PI.nota)}</p>` : ""}<p class="meta">${refsGerais(PI.refs)}${PI.raiz_at_refs ? " · Raízes: " + refsGerais(PI.raiz_at_refs) : ""}</p>
+    <ul class="apar">${N.portas.map(p => `<li><b>${esc(p.lado[0].toUpperCase() + p.lado.slice(1))}</b>: ${p.n} portas${p.tribos_ezequiel ? " (em Ezequiel: " + esc(p.tribos_ezequiel.join(", ")) + ")" : ""}</li>`).join("")}</ul></div></div>
+    <div class="tbl"><table><caption class="sr">Medidas da cidade</caption><thead><tr><th>Medida</th><th>Hoje, aproximado</th><th>Nota</th><th>Texto</th></tr></thead><tbody>${N.medidas.map(m => `<tr><td><b>${esc(m.descricao)}</b></td><td>${esc(m.equivale || "")}</td><td>${notaLonga(m.nota || "")}</td><td>${refsGerais(m.refs || [m.ref])}</td></tr>`).join("")}</tbody></table></div>
+    ${N.nota_geral ? `<p class="meta">${esc(N.nota_geral)}</p>` : ""}</section>
+  <section class="block" aria-labelledby="nj-s-fun"><h2 id="nj-s-fun">Os 12 fundamentos</h2><p>${esc(FI.nomes ? "Sobre eles estão " + FI.nomes + "." : "")} ${FI.nota ? notaLonga(FI.nota) : ""}</p><p class="meta">${refsGerais(FI.refs)}${FI.raiz_at_refs ? " · Raízes: " + refsGerais(FI.raiz_at_refs) : ""}</p>
+    <ol class="nj-fund">${N.fundamentos.map(f => `<li><span class="gema" style="background:${esc(f.cor || "#999")}" aria-hidden="true"></span><div><h3>${f.n}. ${esc(f.pedra)} <small lang="grc">${esc(f.original || "")}</small></h3><p>${esc(f.identificacao || "")}</p>${f.peitoral ? `<p class="meta"><b>No peitoral do sumo sacerdote:</b> ${esc(f.peitoral)}</p>` : ""}${fonteExtra(f.fonte_extra)}</div></li>`).join("")}</ol></section>
+  <section class="block" aria-labelledby="nj-s-ele"><h2 id="nj-s-ele">O que há (e o que não há) na cidade</h2><div class="festas">${N.elementos.map(e => `<article class="card" id="nj-${e.id}"><h3>${esc(e.nome)}</h3><p>${esc(e.descricao)}</p>${e.significado ? `<p>${esc(e.significado)}</p>` : ""}<p class="meta">${refsGerais(e.refs)}${e.raiz_at && e.raiz_at.length ? `<br>Raízes no AT: ${refsGerais(e.raiz_at)}` : ""}</p>${fonteExtra(e.fonte_extra)}</article>`).join("")}</div></section>
+  <section class="block" aria-labelledby="nj-s-raz"><h2 id="nj-s-raz">Raízes no Antigo Testamento</h2><ul class="licoes">${N.raizes_at.map(x => `<li><b>${esc(x.tema)}</b>: ${esc(x.nota || "")} <span class="meta">${refsGerais(x.refs)}</span></li>`).join("")}</ul></section>
+  <section class="block" aria-labelledby="nj-s-nt"><h2 id="nj-s-nt">A cidade esperada no Novo Testamento</h2><ul class="licoes">${N.no_nt.map(x => `<li>${esc(x.texto)} <span class="meta">${refsGerais(x.refs)}</span></li>`).join("")}</ul></section>
+  <section class="block" aria-labelledby="nj-s-bab"><h2 id="nj-s-bab">Duas cidades: Babilônia e Nova Jerusalém</h2>${N.contraste_nota ? `<p class="intro-est">${esc(N.contraste_nota)}</p>` : ""}<div class="tbl"><table><caption class="sr">Contraste entre Babilônia e a Nova Jerusalém</caption><thead><tr><th>Babilônia</th><th>Nova Jerusalém</th><th>Texto</th></tr></thead><tbody>${N.contraste_babilonia.map(x => `<tr><td>${esc(x.babilonia)}</td><td>${esc(x.nova_jerusalem)}</td><td>${refsGerais(x.refs)}${x.nota ? `<br><small>${esc(x.nota)}</small>` : ""}</td></tr>`).join("")}</tbody></table></div></section>
+  <section class="block" aria-labelledby="nj-s-lic"><h2 id="nj-s-lic">Lições</h2><ol class="licoes">${N.licoes.map(l => `<li>${esc(typeof l === "string" ? l : l.texto)}</li>`).join("")}</ol></section>`;
+}
+
+const TRIBOS = { ruben:"Rúben", simeao:"Simeão", levi:"Levi", juda:"Judá", da:"Dã", naftali:"Naftali", gade:"Gade", aser:"Aser", issacar:"Issacar", zebulom:"Zebulom", jose:"José", benjamim:"Benjamim", efraim:"Efraim", manasses:"Manassés" };
+const nomeTribo = t => TRIBOS[t] || t.charAt(0).toUpperCase() + t.slice(1);
+function svgTabernaculo(P){
+  const pa = P.patio, te = P.tenda, pp = P.porta_patio;
+  const cor = { altar:"#a0703c", pia:"#b08a4a", mesa:"#d4a72c", candelabro:"#d4a72c", "altar-incenso":"#d4a72c", arca:"#d4a72c" };
+  const num = new Map(P.posicoes.map((p, i) => [p.id, i + 1]));
+  return `<svg class="tab-svg" viewBox="-14 -12 128 76" role="img" aria-label="Planta do tabernáculo vista de cima, com o leste à esquerda: o pátio de 100 por 50 côvados, a porta no lado leste, o altar, a pia e a tenda com o lugar santo e o santíssimo. A legenda numerada abaixo traz os mesmos objetos.">
+    <rect x="0" y="0" width="${pa.comprimento}" height="${pa.largura}" fill="#f6f1e4" stroke="#8d8370" stroke-width=".6"/>
+    ${[...Array(21)].map((_, i) => `<circle cx="${i * 5}" cy="0" r=".45" fill="#8d8370"/><circle cx="${i * 5}" cy="${pa.largura}" r=".45" fill="#8d8370"/>`).join("")}
+    ${[...Array(11)].map((_, i) => `<circle cx="${pa.comprimento}" cy="${i * 5}" r=".45" fill="#8d8370"/>`).join("")}
+    <line x1="0" y1="${pp.y_inicio}" x2="0" y2="${pp.y_fim}" stroke="#3b5ba8" stroke-width="2.2"/><line x1="0" y1="${pp.y_inicio}" x2="0" y2="${pp.y_fim}" stroke="#8a2b4c" stroke-width="1" stroke-dasharray="1.5 1.5"/>
+    <rect x="${te.x_inicio}" y="${te.y_inicio}" width="${te.comprimento}" height="${te.largura}" fill="#e9dcc0" stroke="#7a5b2e" stroke-width=".8"/>
+    <rect x="${P.veu_x}" y="${te.y_inicio}" width="${te.x_fim - P.veu_x}" height="${te.largura}" fill="#efe2b8" stroke="none"/>
+    <line x1="${P.veu_x}" y1="${te.y_inicio}" x2="${P.veu_x}" y2="${te.y_fim}" stroke="#3b5ba8" stroke-width=".9"/>
+    <line x1="${P.porta_santo_x}" y1="${te.y_inicio + .5}" x2="${P.porta_santo_x}" y2="${te.y_fim - .5}" stroke="#8a2b4c" stroke-width=".9"/>
+    ${P.posicoes.map(p => `<rect x="${p.x - p.w / 2}" y="${p.y - p.h / 2}" width="${p.w}" height="${p.h}" fill="${cor[p.objeto] || "#c9a64a"}" stroke="#5a4520" stroke-width=".25" rx="${p.objeto === "pia" ? p.w / 2 : .1}"/>`).join("")}
+    ${P.posicoes.map(p => { const top = p.y < 25 || p.objeto === "altar" || p.objeto === "pia", ly = p.objeto === "altar" ? p.y - p.h / 2 - 3 : top ? p.y - p.h / 2 - 2.2 : p.y + p.h / 2 + 3.8; return `<g aria-hidden="true"><circle cx="${p.x}" cy="${ly - 1.1}" r="2" fill="#1a1f33"/><text x="${p.x}" y="${ly}" text-anchor="middle" font-size="2.8" font-weight="700" fill="#fff">${num.get(p.id)}</text></g>`; }).join("")}
+    <text x="60" y="${te.y_fim + 7.5}" text-anchor="middle" font-size="2.6" fill="currentColor">lugar santo</text><text x="75" y="${te.y_inicio - 1.5}" text-anchor="middle" font-size="2.6" fill="currentColor">santíssimo</text>
+    <text x="-3" y="25" text-anchor="end" font-size="3" font-weight="700" fill="currentColor">LESTE</text><text x="-3" y="29" text-anchor="end" font-size="2.4" fill="currentColor">(porta)</text>
+    <text x="103" y="26" font-size="3" font-weight="700" fill="currentColor">OESTE</text>
+    <text x="50" y="-4" text-anchor="middle" font-size="3" font-weight="700" fill="currentColor">SUL</text><text x="50" y="57" text-anchor="middle" font-size="3" font-weight="700" fill="currentColor">NORTE</text>
+    <g fill="currentColor" font-size="2.4"><line x1="0" y1="61" x2="20" y2="61" stroke="currentColor" stroke-width=".4"/><text x="0" y="64.5">0</text><text x="20" y="64.5" text-anchor="middle">20 côvados (≈ 9 m)</text></g>
+  </svg>`;
+}
+function telaTabernaculo(){
+  const D_ = T.tabernaculo, P = D_.planta, partes = [...D_.partes].sort((a, b) => a.ordem - b.ordem);
+  const lado = l => D_.acampamento.find(a => a.lado === l), lv = l => (D_.acampamento_levitas || []).find(a => a.lado === l);
+  const cel = l => { const a = lado(l); if (!a) return `<div></div>`; return `<div class="acp acp-${l}"><span class="eyebrow">${esc(l)}</span><b>${a.tribos.map(nomeTribo).join(", ")}</b>${a.total ? `<small>${a.total.toLocaleString("pt-BR")} homens</small>` : ""}${lv(l) ? `<small>Levitas: ${esc(lv(l).quem)}</small>` : ""}</div>`; };
+  return `${cabEstudo("Estudo temático", D_.titulo || "O tabernáculo", D_.introducao)}
+  ${sumario([["tb-s-pla", "Planta"], ["tb-s-par", "As partes, da porta à arca"], ["tb-s-sac", "Sacerdócio"], ["tb-s-acp", "O acampamento"], ["tb-s-his", "História"], ["tb-s-nt", "No Novo Testamento"], ["tb-s-tem", "Tabernáculo e templos"], ["tb-s-arq", "Arqueologia"]])}
+  <section class="block" aria-labelledby="tb-s-pla"><h2 id="tb-s-pla">A planta</h2>
+    <figure class="tab-fig">${svgTabernaculo(P)}<figcaption class="meta">Escala em côvados (côvado de cerca de ${D_.cubito_cm || 45} cm). ${esc(P.nota_percurso || "")}</figcaption></figure>
+    <ol class="tab-leg">${P.posicoes.map(p => `<li><b>${esc(p.nome)}</b>${p.nota ? `: ${esc(p.nota)}` : ""} <span class="meta">${refsGerais(p.refs, 3)}</span></li>`).join("")}</ol>
+    <details class="mais"><summary>Como a planta foi montada</summary><p>${esc(P.nota)}</p><p>${esc(P.patio.nota || "")}</p><p>${esc(P.tenda.nota || "")}</p><p>${esc(P.santo.nota || "")}</p><p>${esc(D_.nota_medidas || "")}</p>${fonteExtra((D_.medidas_extra || {}).fonte_extra)}</details></section>
+  <section class="block" aria-labelledby="tb-s-par"><h2 id="tb-s-par">As partes, da porta à arca</h2><ol class="tab-partes">${partes.map(p => `<li class="card" id="tb-${p.id}"><span class="eyebrow">${p.ordem} de ${partes.length}</span><h3>${esc(p.nome)}${selInt(p)}</h3><p>${esc(p.descricao)}</p>
+    <dl class="dl-f">${[["Materiais", p.materiais], ["Medidas", p.medidas], ["Função", p.funcao], ["O que o texto diz do sentido", p.significado_texto]].filter(x => x[1]).map(([k, v]) => `<dt>${k}</dt><dd>${esc(v)}</dd>`).join("")}</dl>
+    ${p.leitura_crista ? `<p class="leit-crista"><span class="badge int">Leitura cristã</span> ${esc(p.leitura_crista)}${p.refs_nt && p.refs_nt.length ? ` <span class="meta">${refsGerais(p.refs_nt, 4)}</span>` : ""}</p>` : ""}
+    <p class="meta">${refsGerais(p.refs, 6)}</p>${fonteExtra(p.fonte_extra)}</li>`).join("")}</ol></section>
+  <section class="block" aria-labelledby="tb-s-sac"><h2 id="tb-s-sac">O sacerdócio</h2><div class="festas">${D_.sacerdocio.map(s => `<article class="card"><h3>${esc(s.nome)}</h3><p><b>Quem:</b> ${esc(s.quem)}</p><p><b>Função:</b> ${esc(s.funcao)}</p>${s.acampavam ? `<p><b>Acampavam:</b> ${esc(s.acampavam)}</p>` : ""}
+    ${s.vestes && s.vestes.length ? (typeof s.vestes[0] === "string" ? `<p><b>Vestes:</b> ${esc(s.vestes.join(", "))}</p>` : `<details class="mais"><summary>As ${s.vestes.length} vestes</summary><dl class="dl-f">${s.vestes.map(v => `<dt>${esc(v.nome)}</dt><dd>${esc(v.descricao)} <span class="meta">${refsGerais(v.refs, 3)}</span></dd>`).join("")}</dl></details>`) : ""}
+    ${s.leitura_crista ? `<p class="leit-crista"><span class="badge int">Leitura cristã</span> ${esc(s.leitura_crista)}${s.refs_nt ? ` <span class="meta">${refsGerais(s.refs_nt, 3)}</span>` : ""}</p>` : ""}<p class="meta">${refsGerais(s.refs, 6)}</p></article>`).join("")}</div></section>
+  <section class="block" aria-labelledby="tb-s-acp"><h2 id="tb-s-acp">O acampamento ao redor (Números 2)</h2>
+    <div class="acampa" role="group" aria-label="Disposição das tribos, com o leste à esquerda como na planta">${cel("sul")}<div></div>${cel("leste")}<div class="acp acp-centro"><b>Tabernáculo</b><small>${esc((lado("centro") || {}).lider || "Levi")}</small></div>${cel("oeste")}<div></div>${cel("norte")}</div>
+    <div class="tbl"><table><caption class="sr">Ordem de marcha</caption><thead><tr><th>Lado</th><th>Tribos</th><th>Líder</th><th>Marcha</th><th>Texto</th></tr></thead><tbody>${D_.acampamento.map(a => `<tr><td>${esc(a.lado)}</td><td>${a.tribos.map(nomeTribo).join(", ")}</td><td>${esc(a.lider)}</td><td>${esc(String(a.ordem_marcha))}</td><td>${refsGerais(a.refs)}</td></tr>`).join("")}</tbody></table></div>
+    ${D_.nota_acampamento ? `<p class="meta">${esc(D_.nota_acampamento.texto)} ${refsGerais(D_.nota_acampamento.refs)}</p>` : ""}</section>
+  <section class="block" aria-labelledby="tb-s-his"><h2 id="tb-s-his">A história do tabernáculo</h2><ol class="linha-apar">${D_.historia.map(h => `<li><h3>${esc(h.titulo)}${selInt(h)}</h3><p class="meta">${esc(h.data_relativa || "")}${h.data != null ? " · " + fmtAno(h.data) : ""}</p><p>${esc(h.resumo)}</p>${h.nota_data ? `<p class="meta">${esc(h.nota_data)}</p>` : ""}<p class="meta">${refsGerais(h.refs, 6)}${h.refs_nt ? " · " + refsGerais(h.refs_nt) : ""}</p>${fonteExtra(h.fonte_extra)}</li>`).join("")}</ol></section>
+  <section class="block" aria-labelledby="tb-s-nt"><h2 id="tb-s-nt">O tabernáculo no Novo Testamento</h2><ul class="licoes">${D_.no_nt.map(x => `<li><b>${refsGerais(x.refs)}</b>: ${esc(x.nota)}${x.refs_at ? ` <span class="meta">AT: ${refsGerais(x.refs_at)}</span>` : ""}</li>`).join("")}</ul></section>
+  <section class="block" aria-labelledby="tb-s-tem"><h2 id="tb-s-tem">Tabernáculo e templos</h2>${D_.nota_comparacao ? `<p class="intro-est">${esc(D_.nota_comparacao)}</p>` : ""}<div class="tbl"><table><caption class="sr">Comparação entre o tabernáculo e os templos</caption><thead><tr><th>Aspecto</th><th>Tabernáculo</th><th>Templo de Salomão</th><th>Visão de Ezequiel</th><th>Segundo templo e Herodes</th></tr></thead><tbody>${D_.comparacao_templos.map(c => `<tr><th scope="row">${esc(c.aspecto)}</th><td>${esc(c.tabernaculo)}</td><td>${esc(c.salomao)}</td><td>${esc(c.ezequiel)}</td><td>${esc(c.herodes)}${fonteExtra(c.fonte_extra)}</td></tr>`).join("")}</tbody></table></div></section>
+  <section class="block" aria-labelledby="tb-s-arq"><h2 id="tb-s-arq">Arqueologia e paralelos</h2><div class="festas">${D_.arqueologia.map(a => `<article class="card"><span class="badge ext">Fora da Bíblia</span><h3>${esc(a.nome)}</h3><p>${esc(a.resumo)}</p>${a.paralelo_com ? `<p class="meta">Paralelo com: ${esc(a.paralelo_com)}</p>` : ""}<p class="meta">${refsGerais(a.refs, 4)}</p>${fonteExtra(a.fonte_extra)}</article>`).join("")}</div></section>
+  ${D_.nota_geral ? `<p class="meta">${esc(D_.nota_geral)}</p>` : ""}`;
+}
+
+function telaPaulo(){
+  const P = T.paulo, nomeL = s => (livroPorSlug(s) || { nome:s }).nome, abrev = s => nomeL(s).replace(/^(\d) /, "$1 ").replace("Coríntios", "Co").replace("Tessalonicenses", "Ts").replace("Timóteo", "Tm").replace("Romanos", "Rm").replace("Gálatas", "Gl").replace("Efésios", "Ef").replace("Filipenses", "Fp").replace("Colossenses", "Cl").replace("Tito", "Tt").replace("Filemom", "Fm");
+  const cartas = P.cartas;
+  return `${cabEstudo("Estudo temático", P.titulo || "Paulo às igrejas", P.introducao)}
+  ${sumario([["pa-s-car", "As 13 cartas"], ["pa-s-tem", "Os temas"], ["pa-s-mat", "Tema por carta"]])}
+  <section class="block" aria-labelledby="pa-s-car"><h2 id="pa-s-car">As 13 cartas</h2>
+    <div class="tbl"><table><caption class="sr">Cartas de Paulo: destinatários, origem, data e ocasião</caption><thead><tr><th>Carta</th><th>Para</th><th>De onde, quando</th><th>Ocasião e tema</th></tr></thead><tbody>${cartas.map(c => `<tr><th scope="row"><a href="${linkLivro(livroPorSlug(c.slug))}">${esc(nomeL(c.slug))}</a></th><td>${esc(c.destinatarios)}</td><td>${esc(c.de_onde)}<br><small>${esc(c.quando)}</small></td><td>${esc(c.ocasiao)} <b>Tema:</b> ${esc(c.tema)}${c.autoria ? `<details class="mais"><summary>Autoria</summary><p>${esc(c.autoria)}</p></details>` : ""}<p class="meta">${refsGerais(c.refs, 4)}</p>${fonteExtra(c.fonte_extra)}</td></tr>`).join("")}</tbody></table></div>
+    ${P.nota_cronologia ? `<p class="meta">${esc(P.nota_cronologia)}</p>` : ""}${P.nota_hebreus ? `<p class="meta"><b>E Hebreus?</b> ${esc(P.nota_hebreus.nota || P.nota_hebreus)}</p>` : ""}</section>
+  <section class="block" aria-labelledby="pa-s-tem"><h2 id="pa-s-tem">Os temas</h2>
+    <div class="busca"><label class="sr" for="q-pa">Buscar tema</label><input id="q-pa" type="search" placeholder="Buscar: casamento, dons, ceia, autoridades…" autocomplete="off"></div><p class="sr" id="pa-count" role="status" aria-live="polite"></p>
+    <div class="filtros" role="group" aria-label="Grupos de temas"><button class="btn" type="button" data-fp="todos" aria-pressed="true">Todos</button>${P.grupos.map(g => `<button class="btn" type="button" data-fp="${esc(g)}" aria-pressed="false">${esc(g[0].toUpperCase() + g.slice(1))}</button>`).join("")}</div>
+    <div class="tab-partes">${P.temas.map(t => `<article class="card pa-t" id="pa-${t.id}" data-cat="${esc(t.grupo)}" data-busca="${buscaTxt(t.titulo, t.resumo, t.pontos.map(p => p.texto))}" aria-labelledby="pat-${t.id}"><span class="eyebrow">${esc(t.grupo)}</span><h3 id="pat-${t.id}">${esc(t.titulo)}</h3><p>${esc(t.resumo)}</p>
+      <ul class="apar">${t.pontos.map(p => `<li>${esc(p.texto)} <span class="meta">${refsGerais(p.refs, 3)}</span></li>`).join("")}</ul>
+      ${t.debates ? `<p class="leit-crista"><span class="badge int">Leituras entre igrejas</span> ${esc(t.debates)}</p>` : ""}
+      <details class="mais"><summary>Onde aparece em cada carta</summary><ul class="apar">${Object.entries(t.por_carta || {}).map(([s, rs]) => `<li><b>${esc(nomeL(s))}</b>: ${refsGerais(rs, 6)}</li>`).join("")}</ul></details>${fonteExtra(t.fonte_extra)}</article>`).join("")}</div></section>
+  <section class="block" aria-labelledby="pa-s-mat"><h2 id="pa-s-mat">Tema por carta</h2><p class="intro-est">Cada ponto mostra que a carta trata do tema. Toque no nome do tema para ir até ele.</p>
+    <div class="tbl mat"><table><caption class="sr">Presença de cada tema em cada carta</caption><thead><tr><th scope="col">Tema</th>${cartas.map(c => `<th scope="col"><abbr title="${esc(nomeL(c.slug))}">${esc(abrev(c.slug))}</abbr></th>`).join("")}</tr></thead><tbody>${P.temas.map(t => `<tr><th scope="row"><a href="#" data-ir="pa-${t.id}">${esc(t.titulo)}</a></th>${cartas.map(c => { const n = ((t.por_carta || {})[c.slug] || []).length; return `<td>${n ? `<span class="pt" style="--n:${Math.min(n, 4)}" aria-label="${n} passagem${n > 1 ? "ns" : ""}">●</span>` : `<span class="sr">não</span>`}</td>`; }).join("")}</tr>`).join("")}</tbody></table></div></section>`;
+}
+
+function telaAnimais(){
+  const A = T.animais, cn = id => (A.categorias.find(c => c.id === id) || {}).nome || id;
+  const pur = a => a.puro === "puro" ? `<span class="badge exp">Puro (para comer)</span>` : a.puro === "impuro" ? `<span class="badge ext">Impuro</span>` : "";
+  return `${cabEstudo("Estudo temático", "Animais da Bíblia", A.nota)}
+  <div class="busca"><label class="sr" for="q-ani">Buscar animal</label><input id="q-ani" type="search" placeholder="Buscar: leão, águia, Leviatã, gafanhoto…" autocomplete="off"></div><p class="sr" id="ani-count" role="status" aria-live="polite"></p>
+  <div class="filtros" role="group" aria-label="Categorias"><button class="btn" type="button" data-fa="todos" aria-pressed="true">Todos (${A.animais.length})</button>${A.categorias.map(c => `<button class="btn" type="button" data-fa="${c.id}" aria-pressed="false">${esc(c.nome)} (${A.animais.filter(a => a.categoria === c.id).length})</button>`).join("")}</div>
+  <h2 class="sr">Animais</h2>
+  <div class="tab-partes">${A.animais.map(a => `<article class="card ani" id="ani-${a.id}" data-cat="${a.categoria}" data-busca="${buscaTxt(a.nome, a.nome_biblia_livre, a.original, a.identificacao)}" aria-labelledby="anit-${a.id}">
+    <span class="eyebrow">${esc(cn(a.categoria))}</span><h3 id="anit-${a.id}">${esc(a.nome)}${selInt(a)}</h3>
+    <p class="meta">${pur(a)} Na Bíblia Livre: ${esc(a.nome_biblia_livre)}</p><p class="meta" lang="he">${esc(a.original)}</p>
+    <p>${esc(a.identificacao)}</p>
+    <details class="mais"><summary>Na época, simbolismo e passagens${a.passagens.length ? ` (${a.passagens.length})` : ""}</summary>
+      ${a.na_epoca ? `<p><b>Na época:</b> ${esc(a.na_epoca)}</p>` : ""}${a.simbolismo ? `<p><b>No texto:</b> ${esc(a.simbolismo)}</p>` : ""}${a.nota_pureza ? `<p class="meta">${esc(a.nota_pureza)}</p>` : ""}${a.nota_canon ? `<p class="meta">${esc(a.nota_canon)}</p>` : ""}
+      ${aparLista(a.passagens)}${a.ver_tambem ? `<p class="meta">Veja também o estudo sobre <a href="#anjos">anjos</a>.</p>` : ""}</details>
+    ${a.refs.length ? `<p class="meta">${refsGerais(a.refs, 5)}</p>` : ""}${fonteExtra(a.fonte_extra)}</article>`).join("")}</div>`;
+}
+
+const SANCAO = { "morte-apedrejamento":"Morte por apedrejamento", "morte":"Morte", "morte-fogo":"Morte pelo fogo", "extirpacao":"Extirpação (eliminado do povo)", "acoites":"Açoites", "restituicao":"Restituição ou reparação", "oferta":"Oferta de expiação", "impureza":"Impureza e purificação", "maldicao":"Maldição", "divina":"Juízo de Deus", "nenhuma-declarada":"Sem pena declarada" };
+const sancNome = t => SANCAO[t] || t;
+function leiHTML(l){
+  const s = l.sancao || {};
+  return `<details class="lei" id="lei-${l.id}" data-g="${l.grupo}" data-t="${l.tipo}" data-s="${s.tipo}" data-busca="${buscaTxt(l.titulo, l.texto, l.quem, l.nota, l.refs)}"><summary><span class="lei-tipo ${l.tipo}" aria-label="${l.tipo === "positivo" ? "Mandamento positivo" : "Mandamento negativo"}">${l.tipo === "positivo" ? "Faça" : "Não"}</span> <span class="lei-tit">${esc(l.titulo)}</span>${s.tipo && s.tipo !== "nenhuma-declarada" ? ` <span class="lei-pena">${esc(sancNome(s.tipo))}</span>` : ""}</summary>
+    <div class="lei-in"><p>${esc(l.texto)}</p><dl class="dl-f">${[["Quem", l.quem], ["Quando vale", l.condicao], ["Motivo dado pelo texto", l.motivo]].filter(x => x[1]).map(([k, v]) => `<dt>${k}</dt><dd>${esc(v)}</dd>`).join("")}
+      <dt>Pena</dt><dd><b>${esc(sancNome(s.tipo))}</b>${s.descricao ? ". " + esc(s.descricao) : ""}${s.refs && s.refs.length ? ` <span class="meta">${refsGerais(s.refs, 4)}</span>` : ""}</dd>
+      <dt>Texto</dt><dd>${refsGerais(l.refs)}${l.paralelos && l.paralelos.length ? `<br><small>Paralelos: ${refsGerais(l.paralelos, 6)}</small>` : ""}</dd></dl>
+      ${l.casos && l.casos.length ? `<p><b>Aplicada na Bíblia:</b></p><ul class="apar">${l.casos.map(c => `<li>${esc(c.descricao)} <span class="meta">${refsGerais(c.refs, 3)}</span></li>`).join("")}</ul>` : ""}
+      ${l.associacoes && l.associacoes.length ? `<p><b>Associações:</b></p><ul class="apar">${l.associacoes.map(c => `<li>${esc(c.texto)} <span class="meta">${refsGerais(c.refs, 4)}</span></li>`).join("")}</ul>` : ""}
+      ${l.nota ? `<p class="meta">${esc(l.nota)}</p>` : ""}${l.rambam ? `<p class="meta">Na lista de Maimônides: ${esc(l.rambam)} <span class="badge ext">tradição judaica posterior</span></p>` : ""}${fonteExtra(l.fonte_extra)}</div></details>`;
+}
+function telaLeis(gsel){
+  const L = T.leis, pos = L.leis.filter(l => l.tipo === "positivo").length, tipos = [...new Set(L.leis.map(l => (l.sancao || {}).tipo))].filter(Boolean);
+  return `${cabEstudo("Estudo temático", "As leis da Torá", L.introducao)}
+  ${fonteExtra(L.fonte_extra_intro)}
+  ${sumario([["le-s-dec", "Os Dez Mandamentos"], ["le-s-tod", "Todas as leis"], ["le-s-pen", "Penas e sanções"], ["le-s-cas", "Casos julgados"]])}
+  <dl class="home-num le-num"><div><dt>leis</dt><dd>${L.leis.length}</dd></div><div><dt>positivas (faça)</dt><dd>${pos}</dd></div><div><dt>negativas (não faça)</dt><dd>${L.leis.length - pos}</dd></div><div><dt>temas</dt><dd>${L.grupos.length}</dd></div></dl>
+  <section class="block" aria-labelledby="le-s-dec"><h2 id="le-s-dec">Os Dez Mandamentos</h2><ol class="licoes">${L.decalogo.map(d => `<li><b>${esc(d.texto)}</b> <span class="meta">${refsGerais(d.refs)}</span>${d.leis_relacionadas ? `<br><small>Leis ligadas: ${esc(d.leis_relacionadas)}</small>` : ""}</li>`).join("")}</ol>${L.decalogo_nota ? `<p class="meta">${notaLonga(L.decalogo_nota)}</p>` : ""}</section>
+  <section class="block" aria-labelledby="le-s-tod"><h2 id="le-s-tod">Todas as leis, por tema</h2>
+    <div class="le-filtros">
+      <div class="busca"><label for="q-lei">Buscar</label><input id="q-lei" type="search" placeholder="sábado, juros, viúva, Levítico 19…" autocomplete="off"></div>
+      <label>Tema <select id="f-lei-g"><option value="">Todos</option>${L.grupos.map(g => `<option value="${g.id}"${g.id === gsel ? " selected" : ""}>${esc(g.titulo)}</option>`).join("")}</select></label>
+      <label>Tipo <select id="f-lei-t"><option value="">Todos</option><option value="positivo">Positivas (faça)</option><option value="negativo">Negativas (não faça)</option></select></label>
+      <label>Pena <select id="f-lei-s"><option value="">Todas</option>${tipos.map(t => `<option value="${t}">${esc(sancNome(t))}</option>`).join("")}</select></label>
+    </div><p id="lei-count" role="status" aria-live="polite" class="meta"></p>
+    ${L.grupos.map(g => `<section class="le-g" data-g="${g.id}" aria-labelledby="leg-${g.id}"><h3 id="leg-${g.id}">${esc(g.titulo)} <small>(${L.leis.filter(l => l.grupo === g.id).length})</small></h3><p class="intro-est">${esc(g.resumo || "")}</p>
+      ${g.subgrupos.map(sg => { const ls = L.leis.filter(l => l.subgrupo === sg.id); return ls.length ? `<div class="le-sg"><h4>${esc(sg.titulo)}</h4>${ls.map(leiHTML).join("")}</div>` : ""; }).join("")}
+      ${(() => { const sem = L.leis.filter(l => l.grupo === g.id && !g.subgrupos.some(sg => sg.id === l.subgrupo)); return sem.length ? `<div class="le-sg"><h4>Outras</h4>${sem.map(leiHTML).join("")}</div>` : ""; })()}</section>`).join("")}
+  </section>
+  <section class="block" aria-labelledby="le-s-pen"><h2 id="le-s-pen">Penas e sanções</h2><div class="festas">${L.sancoes.map(s => `<article class="card"><h3>${esc(s.titulo || sancNome(s.tipo))}</h3><p>${esc(s.descricao)}</p>${s.crimes ? `<p><b>Para:</b> ${esc(s.crimes)}</p>` : ""}${SANCAO[s.tipo] ? `<p><button type="button" class="btn" data-pena="${s.tipo}">Ver as ${L.leis.filter(l => (l.sancao || {}).tipo === s.tipo).length} leis com esta pena</button></p>` : ""}<p class="meta">${refsGerais(s.refs, 6)}</p>${fonteExtra(s.fonte_extra)}</article>`).join("")}</div></section>
+  <section class="block" aria-labelledby="le-s-cas"><h2 id="le-s-cas">Casos julgados e sentenças na Bíblia</h2><div class="tab-partes">${L.casos.map(c => `<article class="card" id="${c.id}"><h3>${esc(c.titulo)}</h3><p>${esc(c.descricao)}</p><dl class="dl-f">${c.lei ? `<dt>Lei em jogo</dt><dd>${esc(c.lei)}</dd>` : ""}${c.sentenca ? `<dt>Sentença</dt><dd>${esc(c.sentenca)}</dd>` : ""}</dl>${c.nota ? `<p class="meta">${esc(c.nota)}</p>` : ""}<p class="meta">${refsGerais(c.refs, 5)}</p>${fonteExtra(c.fonte_extra)}</article>`).join("")}</div></section>
+  ${L.notas && L.notas.length ? `<details class="mais"><summary>Notas sobre este estudo</summary>${L.notas.map(n => `<p>${esc(n)}</p>`).join("")}</details>` : ""}`;
+}
+function montarLeis(){
+  const q = $("#q-lei"), fg = $("#f-lei-g"), ft = $("#f-lei-t"), fs = $("#f-lei-s"), itens = [...document.querySelectorAll("details.lei")], secs = [...document.querySelectorAll(".le-g")], sgs = [...document.querySelectorAll(".le-sg")];
+  const ap = () => { const t = q.value.trim().toLowerCase(); let k = 0;
+    itens.forEach(d => { const ok = (!t || d.dataset.busca.includes(t)) && (!fg.value || d.dataset.g === fg.value) && (!ft.value || d.dataset.t === ft.value) && (!fs.value || d.dataset.s === fs.value); d.hidden = !ok; if (ok) k++; });
+    sgs.forEach(s => s.hidden = !s.querySelector("details.lei:not([hidden])")); secs.forEach(s => s.hidden = !s.querySelector("details.lei:not([hidden])"));
+    $("#lei-count").textContent = k + (k === 1 ? " lei" : " leis"); };
+  [q, fg, ft, fs].forEach(e => e.addEventListener(e === q ? "input" : "change", ap)); ap();
+  document.querySelectorAll("[data-pena]").forEach(b => b.addEventListener("click", () => { fs.value = b.dataset.pena; fg.value = ""; ft.value = ""; q.value = ""; ap(); $("#le-s-tod").scrollIntoView(); fs.focus({ preventScroll:true }); }));
 }
 
 /* ---------- Roteamento das telas de contexto ---------- */
@@ -1503,10 +1754,17 @@ async function renderContexto(r){
     else if ((m = r.match(/^reis(?:-(.+))?$/))){ if (!await carregarTema("reis")) throw new Error("reis"); html = telaReis(m[1]); ativo = "reis"; pos = montarReis; }
     else if ((m = r.match(/^(calendario|festa-(.+))$/))){ if (!await carregarTema("calendario")) throw new Error("calendário"); html = telaCalendario(); ativo = "calendario"; if (m[2]) pos = () => { const el = document.getElementById("festa-" + m[2]); if (el){ el.scrollIntoView({ block:"start" }); el.focus({ preventScroll:true }); } }; }
     else if (r === "costumes" || r === "medidas"){ if (!await carregarTema("costumes")) throw new Error("costumes"); html = telaCostumes(); ativo = "costumes"; pos = () => { ligarFiltroCards("#q-cos", ".cos", "#cos-count", "data-fc", " costumes"); if (r === "medidas") $("#medidas").scrollIntoView(); }; }
+    else if (r === "estudos"){ await Promise.all(ESTUDOS.map(e => carregarTema(e[1]))); html = telaEstudos(); ativo = "estudos"; }
+    else if ((m = r.match(/^nova-jerusalem(?:-(.+))?$/))){ if (!await carregarTema("nova-jerusalem")) throw new Error("Nova Jerusalém"); html = telaNovaJerusalem(); ativo = "estudos"; if (m[1]) pos = () => irPara("nj-" + m[1]); }
+    else if ((m = r.match(/^tabernaculo(?:-(.+))?$/))){ if (!await carregarTema("tabernaculo")) throw new Error("tabernáculo"); html = telaTabernaculo(); ativo = "estudos"; if (m[1]) pos = () => irPara("tb-" + m[1]); }
+    else if ((m = r.match(/^paulo(?:-(.+))?$/))){ if (!await carregarTema("paulo")) throw new Error("Paulo"); html = telaPaulo(); ativo = "estudos"; pos = () => { ligarFiltroCards("#q-pa", ".pa-t", "#pa-count", "data-fp", " temas"); if (m[1]) irPara("pa-" + m[1]); }; }
+    else if ((m = r.match(/^animais(?:-(.+))?$/))){ if (!await carregarTema("animais")) throw new Error("animais"); html = telaAnimais(); ativo = "estudos"; pos = () => { ligarFiltroCards("#q-ani", ".ani", "#ani-count", "data-fa", " animais"); if (m[1]){ const el = document.getElementById("ani-" + m[1]); if (el){ el.scrollIntoView({ block:"start" }); el.setAttribute("tabindex", "-1"); el.focus({ preventScroll:true }); } } }; }
+    else if ((m = r.match(/^leis(?:-(.+))?$/))){ if (!await carregarTema("leis")) throw new Error("leis"); html = telaLeis(m[1]); ativo = "estudos"; pos = () => { montarLeis(); if (m[1]){ if (document.getElementById("lei-" + m[1])) irPara("lei-" + m[1]); else if (document.getElementById(m[1])) irPara(m[1]); else $("#le-s-tod").scrollIntoView(); } }; }
+    else if ((m = r.match(/^anjos(?:-(.+))?$/))){ if (!await carregarTema("anjos")) throw new Error("anjos"); html = telaAnjos(); ativo = "estudos"; pos = () => { ligarFiltroCards("#q-apa", ".apa", "#apa-count", "data-x-nada", " aparições"); if (m[1]) irPara("an-" + m[1]); }; }
     else if ((m = r.match(/^objetos(?:-(.+))?$/))){ if (!await carregarTema("objetos")) throw new Error("objetos"); html = telaObjetos(); ativo = "objetos"; pos = () => { ligarFiltroCards("#q-obj", ".obj", "#obj-count", "data-fo", " objetos"); if (m[1]){ const el = document.getElementById("obj-" + m[1]); if (el){ el.scrollIntoView({ block:"start" }); el.classList.add("alvo"); setTimeout(() => el.classList.remove("alvo"), 2500); } } }; }
     view.innerHTML = html;
     document.querySelectorAll("nav.main a").forEach(a => a.dataset.r === ativo ? a.setAttribute("aria-current", "page") : a.removeAttribute("aria-current"));
-    const h1 = view.querySelector("h1"); document.title = h1.textContent + " · Bíblia Ilustrada"; anunciar("Página: " + h1.textContent);
+    const h1 = view.querySelector("h1"); document.title = h1.textContent + " · Bíblia de Estudo Hakham"; anunciar("Página: " + h1.textContent);
     window.scrollTo(0, 0); $("#conteudo").focus({ preventScroll:true }); pos();
   } catch (err){ view.innerHTML = `<p class="carregando" role="alert">Não foi possível carregar (${esc(err.message)}). Verifique a conexão e recarregue.</p>`; }
 }
@@ -1578,7 +1836,8 @@ function telaHome(){
     <svg class="hero-stars" aria-hidden="true" width="100%" height="100%">${stars}</svg>
     <div style="position:relative">
       <span class="eyebrow">Antigo e Novo Testamento</span>
-      <h1 id="t-home">Bíblia Ilustrada</h1>
+      <h1 id="t-home">Bíblia de Estudo Hakham</h1>
+      <p class="hakham"><span lang="he" dir="rtl">חָכָם</span> <i>hakham</i>: “sábio”, em hebraico (Provérbios 1:5).</p>
       <p>Os 66 livros da Bíblia para ler, entender e ver. Cada livro tem introdução, resumo e lições por capítulo, quadros para ilustração, símbolos, palavras nas línguas originais, fontes históricas e as conexões com o resto da Escritura.</p>
       <dl class="home-num"><div><dt>livros</dt><dd>66</dd></div><div><dt>capítulos</dt><dd>${fmt(caps)}</dd></div><div><dt>versículos</dt><dd>${fmt(E.total_versiculos)}</dd></div><div><dt>grupos</dt><dd>${E.grupos.length}</dd></div></dl>
       <div class="acts">
@@ -1613,7 +1872,7 @@ function telaHome(){
   <section class="block" aria-labelledby="t-ctx">
     <h2 id="t-ctx">O mundo da Bíblia</h2>
     <p class="lead">Para entender o texto no seu lugar e no seu tempo.</p>
-    <div class="explorar">${[["mapas", "Mapas e viagens", "1.278 lugares com foto e 30 rotas, de Abraão a Paulo"], ["reis", "Reis e governantes", "todos os povos em raias paralelas, com quem reinava ao mesmo tempo"], ["calendario", "Calendário e festas", "os meses, as festas e as horas do dia"], ["costumes", "Costumes, pesos e medidas", "casamento, refeições, trabalho, moedas e medidas"], ["objetos", "Objetos e utensílios", "peças reais de museus ligadas aos textos"]].map(([h, n, d]) => `<a class="card" href="#${h}"><b>${n}</b><small>${d}</small></a>`).join("")}</div>
+    <div class="explorar">${[["mapas", "Mapas e viagens", "1.278 lugares com foto e 30 rotas, de Abraão a Paulo"], ["reis", "Reis e governantes", "todos os povos em raias paralelas, com quem reinava ao mesmo tempo"], ["calendario", "Calendário e festas", "os meses, as festas e as horas do dia"], ["costumes", "Costumes, pesos e medidas", "casamento, refeições, trabalho, moedas e medidas"], ["objetos", "Objetos e utensílios", "peças reais de museus ligadas aos textos"], ["estudos", "Estudos especiais", "animais, anjos, tabernáculo, Nova Jerusalém, Paulo e as leis da Torá"]].map(([h, n, d]) => `<a class="card" href="#${h}"><b>${n}</b><small>${d}</small></a>`).join("")}</div>
   </section>
 
   <section class="block" aria-labelledby="t-cada">
@@ -1966,7 +2225,7 @@ function rotaAtual(){ return (location.hash || "#inicio").slice(1) || "inicio"; 
 function render(){
   pararFala();
   const r = rotaAtual();
-  if (/^(mapas(-.+)?|rota-.+|reis(-.+)?|calendario|festa-.+|costumes|medidas|objetos(-.+)?)$/.test(r)){ renderContexto(r); return; }
+  if (/^(mapas(-.+)?|rota-.+|reis(-.+)?|calendario|festa-.+|costumes|medidas|objetos(-.+)?|estudos|anjos(-.+)?|animais(-.+)?|tabernaculo(-.+)?|nova-jerusalem(-.+)?|paulo(-.+)?|leis(-.+)?)$/.test(r)){ renderContexto(r); return; }
   if (/^(inicio|livros|biblia|conexoes-.+|livro-.+|extras-.+)$/.test(r) || !/^(cap-\d+(-v\d+)?|igrejas|simbolos|palavras|historia|raizes|quadros|quiz|sobre|apocalipse)$/.test(r)){ renderBiblia(r); return; }
   let m, html, ativo;
   if ((m = r.match(/^cap-(\d+)(?:-v(\d+))?$/)) && +m[1] >= 1 && +m[1] <= 22){ html = telaCapitulo(+m[1]); ativo = "cap"; }
@@ -1982,7 +2241,7 @@ function render(){
   view.innerHTML = html;
   const navAtivo = ativo === "sobre" ? "sobre" : "livros";
   document.querySelectorAll("nav.main a").forEach(a => a.dataset.r === navAtivo ? a.setAttribute("aria-current", "page") : a.removeAttribute("aria-current"));
-  document.title = (ativo === "cap" ? `Apocalipse ${m[1]} · ` : ativo === "apocalipse" ? "Apocalipse · " : "") + "Bíblia Ilustrada";
+  document.title = (ativo === "cap" ? `Apocalipse ${m[1]} · ` : ativo === "apocalipse" ? "Apocalipse · " : "") + "Bíblia de Estudo Hakham";
   const h1 = view.querySelector("h1"); if (h1) anunciar("Página: " + h1.textContent);
   posRender(ativo, m);
 }
