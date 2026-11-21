@@ -302,7 +302,14 @@
      "referencia": "carrinhos rituais de bronze em museus (p. ex., Museu Britânico)",
      "data": "c. séc. XII a.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Suporte de bronze com rodas, Chipre",
+    "descricao": "Suporte de bronze com rodas, Chipre (Bronze Recente), parecido com as bases de bronze do templo (1 Rs 7).",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Arheologicheski-Stand.jpg",
+    "autor": "Молли",
+    "licenca": "CC BY-SA 4.0"
+   }
   },
   {
    "id": "mar-bronze",
@@ -542,7 +549,14 @@
      "referencia": "painéis com Arão, o tabernáculo e a arca",
      "data": "c. 244-245 d.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Arão com a mitra, pintura da sinagoga de Dura-Europos",
+    "descricao": "Arão com a mitra, pintura da sinagoga de Dura-Europos (séc. III d.C.).",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Aaron_Dura_Europos.jpg",
+    "autor": "Unknown authorUnknown author",
+    "licenca": "CC0"
+   }
   },
   {
    "id": "sinos-romas",
@@ -639,7 +653,14 @@
      "referencia": "painel interno com o cortejo do espólio do templo de Jerusalém",
      "data": "c. 81-82 d.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Desenho do séc. XIX das trombetas no relevo do Arco de Tito",
+    "descricao": "Desenho do séc. XIX das trombetas no relevo do Arco de Tito.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Ferculum.jpg",
+    "autor": "Anthony Rich (1803 or 1804-1891)",
+    "licenca": "Public domain"
+   }
   },
   {
    "id": "shofar",
@@ -1422,7 +1443,14 @@
      "referencia": "centenas de lagares cavados na rocha em áreas de vinhedos",
      "data": "Idade do Ferro ao período bizantino"
     }
-   ]
+   ],
+   "img": {
+    "alt": "Lagar escavado na rocha, montes da Judeia",
+    "descricao": "Lagar escavado na rocha, montes da Judeia.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Ancient_winepress_near_Jerusalem,_Israel.jpg",
+    "autor": "Tombah",
+    "licenca": "CC BY-SA 4.0"
+   }
   },
   {
    "id": "prensa-azeite",
@@ -1547,7 +1575,14 @@
      "referencia": "rodas de oleiro de pedra achadas em oficinas (p. ex., Hazor e Laquis)",
      "data": "Idade do Bronze"
     }
-   ]
+   ],
+   "img": {
+    "alt": "Mancais de pedra de roda de oleiro do Egito antigo",
+    "descricao": "Mancais de pedra de roda de oleiro do Egito antigo.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Ancient_Egyptn_Potter%27s_Wheel.png",
+    "autor": "Hypnôs",
+    "licenca": "CC BY-SA 4.0"
+   }
   },
   {
    "id": "cajado",
@@ -1778,7 +1813,14 @@
      "referencia": "moinhos e prensas de basalto expostos no sítio",
      "data": "período romano e bizantino"
     }
-   ]
+   ],
+   "img": {
+    "alt": "Pedra de baixo de um moinho romano de basalto, Cafarnaum",
+    "descricao": "Pedra de baixo de um moinho romano de basalto, Cafarnaum.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Lower_mill-stone_at_Capernaum_(5830976474).jpg",
+    "autor": "Ian Scott",
+    "licenca": "CC BY-SA 2.0"
+   }
   },
   {
    "id": "rede",
@@ -1821,7 +1863,14 @@
     "o_que_mostrar": "anzóis de bronze antigos",
     "epoca": "Idade do Bronze ao período romano"
    },
-   "reconstrucao": false
+   "reconstrucao": false,
+   "img": {
+    "alt": "Anzol com farpa, Metropolitan Museum",
+    "descricao": "Anzol com farpa, Metropolitan Museum.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Barbed_fishhook_MET_97-4-142.jpeg",
+    "autor": "Wikimedia Commons",
+    "licenca": "CC0"
+   }
   },
   {
    "id": "barco-galileia",
@@ -2088,7 +2137,14 @@
     "o_que_mostrar": "anel de selar egípcio de ouro ou selo hebraico de pedra da Idade do Ferro",
     "epoca": "Egito, Reino Novo / Judá, Idade do Ferro"
    },
-   "reconstrucao": false
+   "reconstrucao": false,
+   "img": {
+    "alt": "Anel de selar de ouro com o nome do faraó Aquenáton",
+    "descricao": "Anel de selar de ouro com o nome do faraó Aquenáton (c. 1350 a.C.).",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Signet_Ring_with_Name_of_King_Akhenaten_-_Walters_571471_-_Top.jpg",
+    "autor": "Anonymous (Egypt)Unknown author",
+    "licenca": "Public domain"
+   }
   },
   {
    "id": "vaso-documentos",
@@ -2297,7 +2353,14 @@
      "referencia": "címbalos de bronze em sítios como Megido e Hazor",
      "data": "Idade do Bronze e do Ferro"
     }
-   ]
+   ],
+   "img": {
+    "alt": "Címbalos de bronze, Museu de Belas Artes de Boston",
+    "descricao": "Címbalos de bronze, Museu de Belas Artes de Boston.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Bronze_finger_cymbals_(Boston_MFA_96.670).jpg",
+    "autor": "Mark Landon",
+    "licenca": "CC BY 4.0"
+   }
   },
   {
    "id": "pandeiro",
@@ -2327,7 +2390,14 @@
      "referencia": "figuras femininas com tambor de moldura (p. ex., da costa fenícia e de Israel)",
      "data": "c. séc. IX-VII a.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Estatueta de terracota de mulher com pandeiro",
+    "descricao": "Estatueta de terracota de mulher com pandeiro (Idade do Ferro II), Museu Marítimo de Haifa.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Israeli_National_Maritime_Museum-_Fgurine_Iron_Age_IIb.jpg",
+    "autor": "Israeli National Maritime Museum",
+    "licenca": "CC BY-SA 3.0"
+   }
   },
   {
    "id": "flauta",
@@ -2383,7 +2453,14 @@
     ]
    },
    "reconstrucao": false,
-   "nota": "Ver também 'trombetas de prata' e 'shofar', instrumentos de Israel que a Bíblia Livre também chama de trombeta."
+   "nota": "Ver também 'trombetas de prata' e 'shofar', instrumentos de Israel que a Bíblia Livre também chama de trombeta.",
+   "img": {
+    "alt": "Guerreiro tocando a salpinge em vaso grego",
+    "descricao": "Guerreiro tocando a salpinge em vaso grego (séc. VI-V a.C.), Palermo.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Salpinx_player_MAR_Palermo_NI1853.jpg",
+    "autor": "Wikimedia Commons",
+    "licenca": "CC BY 2.5"
+   }
   },
   {
    "id": "espada",
@@ -2621,7 +2698,14 @@
      "referencia": "peças de lorica segmentata ligadas à batalha da floresta de Teutoburgo",
      "data": "9 d.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Restos e reconstituição de uma couraça romana",
+    "descricao": "Restos e reconstituição de uma couraça romana (lorica segmentata), Corbridge.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Lorica_segmentata_remains_and_recreation.jpg",
+    "autor": "FropFrop",
+    "licenca": "CC BY-SA 4.0"
+   }
   },
   {
    "id": "capacete",
@@ -2644,7 +2728,14 @@
      100
     ]
    },
-   "reconstrucao": false
+   "reconstrucao": false,
+   "img": {
+    "alt": "Capacete romano de cavaleiro, Rijksmuseum van Oudheden",
+    "descricao": "Capacete romano de cavaleiro, Rijksmuseum van Oudheden.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Rijksmuseum_van_Oudheden,_Romeinse_schat_uit_Bodegraven._Romeinse_ruiterhelm_(cropped).jpg",
+    "autor": "Download by Agaath",
+    "licenca": "CC BY-SA 4.0"
+   }
   },
   {
    "id": "siclo-tiro",
@@ -3005,7 +3096,14 @@
      -586
     ]
    },
-   "reconstrucao": false
+   "reconstrucao": false,
+   "img": {
+    "alt": "Brinco de ouro da Idade do Ferro",
+    "descricao": "Brinco de ouro da Idade do Ferro (Inglaterra).",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Iron_Age_gold_earring_(FindID_251246).jpg",
+    "autor": "Lincolnshire County Council, Adam Daubney, 2010-06-29 11:18:05",
+    "licenca": "CC BY-SA 2.0"
+   }
   },
   {
    "id": "coroa",
@@ -3068,7 +3166,14 @@
      "referencia": "sandálias de couro preservadas pelo clima seco",
      "data": "séc. I-II d.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Sandálias, tranças e pente do palácio de Massada",
+    "descricao": "Sandálias, tranças e pente do palácio de Massada (73 d.C.), Museu de Israel.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Sandals,_Braids_of_Hair,_%26_Comb,_Northern_Palace,_Masada,_73_AD_(42500848064).jpg",
+    "autor": "Gary Todd from Xinzheng, China",
+    "licenca": "CC0"
+   }
   },
   {
    "id": "tunica",
@@ -3096,7 +3201,14 @@
      "referencia": "túnicas e mantos de lã com faixas coloridas",
      "data": "até 135 d.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Roupas da Caverna das Cartas, Nahal Hever",
+    "descricao": "Roupas da Caverna das Cartas, Nahal Hever (132-135 d.C.), Museu de Israel.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Clothes._Nahal_Hever._Israel_Museum,_Jerusalem.JPG",
+    "autor": "Chamberi",
+    "licenca": "CC BY-SA 3.0"
+   }
   },
   {
    "id": "ossuario",
@@ -3207,7 +3319,14 @@
      "referencia": "calcanhar com cravo; estudo de J. Zias e E. Sekeles no Israel Exploration Journal",
      "data": "achado em 1968; estudo de 1985; séc. I d.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Calcanhar de Yehohanan com o cravo",
+    "descricao": "Calcanhar de Yehohanan com o cravo (réplica), única prova arqueológica de crucificação, Museu de Israel.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Nail_%26_Heel_Bone_Only_Known_Evidence_of_Crucifixion,_Jerusalem,_1st_C._AD_(29347803498).jpg",
+    "autor": "Gary Todd from Xinzheng, China",
+    "licenca": "CC0"
+   }
   },
   {
    "id": "correntes",
@@ -3230,7 +3349,14 @@
      300
     ]
    },
-   "reconstrucao": false
+   "reconstrucao": false,
+   "img": {
+    "alt": "Grilhão romano de ferro",
+    "descricao": "Grilhão romano de ferro.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Roman_shackle_(FindID_517294).jpg",
+    "autor": "Norfolk County Council, Erica Darch, 2012-08-21 15:05:50",
+    "licenca": "CC BY-SA 4.0"
+   }
   },
   {
    "id": "freio",
@@ -3247,7 +3373,14 @@
     "o_que_mostrar": "freio de cavalo de bronze antigo (Oriente Próximo ou romano)",
     "epoca": "Idade do Ferro / período romano"
    },
-   "reconstrucao": false
+   "reconstrucao": false,
+   "img": {
+    "alt": "Freio de cavalo de bronze, Chipre",
+    "descricao": "Freio de cavalo de bronze, Chipre.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Bronze_bit_MET_DP2245.jpg",
+    "autor": "Wikimedia Commons",
+    "licenca": "CC0"
+   }
   }
  ]
 }
