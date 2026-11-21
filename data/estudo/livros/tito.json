@@ -1,0 +1,139 @@
+{
+ "livro": "tito",
+ "nome": "Tito",
+ "subtitulo": "Sã doutrina que produz boas obras",
+ "introducao": "Paulo escreve a Tito, que ficou na ilha de Creta para organizar as igrejas recém-formadas. A carta trata da escolha de líderes, da correção de falsos mestres e do modo de vida que convém a cada grupo da igreja. Em poucas palavras, mostra como a graça de Deus nos salva e nos ensina a viver.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Tradicionalmente atribuído a Paulo; alguns estudiosos debatem a autoria (1:1)"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Se de Paulo, por volta de 63–65 d.C."
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Escrita em viagem; Paulo planejava passar o inverno em Nicópolis (3:12)"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "Tito, colaborador de Paulo, em Creta (1:4-5)"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Carta pastoral"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "3 capítulos e 46 versículos"
+  }
+ ],
+ "chave": "2:11-12",
+ "temas": [
+  "Líderes de caráter provado",
+  "Sã doutrina e vida coerente",
+  "A graça que salva e educa",
+  "Boas obras como fruto da fé"
+ ],
+ "cristo": "Tito apresenta Jesus Cristo como \"o grande Deus e nosso Salvador\", que se entregou por nós para nos libertar e purificar um povo dedicado às boas obras (2:13-14). Somos salvos por sua misericórdia e justificados por sua graça (3:5-7).",
+ "secoes": [
+  {
+   "id": "lideres",
+   "titulo": "Ordem na igreja",
+   "capitulos": [
+    1
+   ],
+   "resumo": "Qualidades dos líderes e correção dos falsos mestres."
+  },
+  {
+   "id": "vida",
+   "titulo": "A vida que convém à sã doutrina",
+   "capitulos": [
+    2,
+    3
+   ],
+   "resumo": "Conduta de cada grupo, a graça que ensina e as boas obras."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Líderes para as igrejas de Creta",
+   "chave": "1:9",
+   "resumo": "Paulo saúda Tito, seu filho na fé, e lembra que o deixou em Creta para organizar as igrejas e nomear presbíteros em cada cidade. Os líderes devem ser irrepreensíveis, hospitaleiros, equilibrados e firmes na palavra fiel, capazes de ensinar e refutar os que a contradizem. Muitos enganadores, movidos pela ganância, perturbavam famílias inteiras, e Tito deve repreendê-los para que sejam sadios na fé.",
+   "licoes": [
+    "Deus, que não pode mentir, prometeu a vida eterna antes dos tempos (1:2).",
+    "O líder cristão é administrador da casa de Deus e precisa ter caráter provado (1:7-8).",
+    "Os líderes devem conhecer bem a palavra para encorajar e corrigir (1:9).",
+    "Há quem diga conhecer a Deus, mas o negue com suas obras (1:16)."
+   ],
+   "reflexao": "Suas obras confirmam ou contradizem o que você diz crer?",
+   "quiz": [
+    {
+     "pergunta": "Em que ilha Paulo deixou Tito?",
+     "opcoes": [
+      "Malta",
+      "Creta",
+      "Patmos",
+      "Chipre"
+     ],
+     "correta": 1,
+     "ref": "1:5"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "A graça que ensina a viver",
+   "chave": "2:11-12",
+   "resumo": "Paulo orienta Tito a ensinar o que convém à sã doutrina para cada grupo: idosos, idosas, mulheres jovens, rapazes e servos, de modo que a vida deles honre o evangelho. O próprio Tito deve ser exemplo de boas obras e integridade. A base de tudo é a graça de Deus, que se manifestou trazendo salvação e nos ensina a viver com sobriedade e justiça enquanto aguardamos a vinda de Jesus Cristo.",
+   "licoes": [
+    "Cada geração tem algo a ensinar e a aprender na igreja (2:2-6).",
+    "Quem ensina deve ser exemplo de boas obras e integridade (2:7-8).",
+    "A conduta dos cristãos pode \"adornar\" a doutrina de Deus (2:10).",
+    "A graça de Deus não só salva, mas ensina a viver de modo sóbrio, justo e piedoso (2:11-14)."
+   ],
+   "reflexao": "Como a graça de Deus tem ensinado você a viver de modo diferente?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Paulo, o que a graça de Deus nos ensina a renunciar?",
+     "opcoes": [
+      "O descanso",
+      "O trabalho",
+      "A irreverência e os maus desejos mundanos",
+      "A família"
+     ],
+     "correta": 2,
+     "ref": "2:12"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Salvos pela misericórdia para as boas obras",
+   "chave": "3:5",
+   "resumo": "Paulo pede que os cristãos se submetam às autoridades, sejam pacíficos e mansos com todos. Lembra que todos já viveram em desobediência e maldade, mas Deus nos salvou por sua misericórdia, não por nossas obras, pelo novo nascimento e pela renovação do Espírito Santo. Os que creem devem se dedicar às boas obras, evitar discussões inúteis e afastar quem causa divisão; a carta termina com recados pessoais.",
+   "licoes": [
+    "Os cristãos devem ser mansos e cordiais com todos (3:1-2).",
+    "Deus nos salvou por sua misericórdia, não por obras de justiça nossas (3:4-5).",
+    "Justificados pela graça, somos herdeiros da vida eterna (3:7).",
+    "A fé verdadeira se dedica às boas obras e evita brigas inúteis (3:8-9, 3:14)."
+   ],
+   "reflexao": "Que boa obra concreta você pode fazer nesta semana?",
+   "quiz": [
+    {
+     "pergunta": "Em que cidade Paulo decidiu passar o inverno?",
+     "opcoes": [
+      "Roma",
+      "Corinto",
+      "Éfeso",
+      "Nicópolis"
+     ],
+     "correta": 3,
+     "ref": "3:12"
+    }
+   ]
+  }
+ ]
+}

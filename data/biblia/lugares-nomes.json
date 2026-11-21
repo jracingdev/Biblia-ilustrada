@@ -1,0 +1,5620 @@
+{
+ "aea17b7": {
+  "pt": "Abana",
+  "tipo_pt": "rio"
+ },
+ "aa8275b": {
+  "pt": "Abarim",
+  "tipo_pt": "monte",
+  "resumo": "Cadeia de montes de Moabe, a leste do mar Salgado, de onde Moisés viu a terra prometida."
+ },
+ "a72a1ff": {
+  "pt": "Abdom",
+  "tipo_pt": "cidade"
+ },
+ "abffcaa": {
+  "pt": "Abel-Bete-Maaca",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade do norte onde Joabe cercou o rebelde Seba e uma mulher sábia salvou a cidade."
+ },
+ "a957c5b": {
+  "pt": "Abel-Queramim",
+  "tipo_pt": "cidade"
+ },
+ "a5a1bdd": {
+  "pt": "Abel-Meolá",
+  "tipo_pt": "cidade"
+ },
+ "a70ac98": {
+  "pt": "Abel-Mizraim",
+  "tipo_pt": "cidade"
+ },
+ "a51d1fa": {
+  "pt": "Abel-Sitim",
+  "tipo_pt": "acampamento"
+ },
+ "a549c0f": {
+  "pt": "Abiezer",
+  "tipo_pt": "região"
+ },
+ "a818a40": {
+  "pt": "Abila",
+  "tipo_pt": "cidade"
+ },
+ "a276d01": {
+  "pt": "Abila de Lisânias",
+  "tipo_pt": "cidade"
+ },
+ "a498faa": {
+  "pt": "Abilene",
+  "tipo_pt": "região"
+ },
+ "a7560c2": {
+  "pt": "Abrona",
+  "tipo_pt": "acampamento"
+ },
+ "a8b7a6b": {
+  "pt": "Acade",
+  "tipo_pt": "cidade"
+ },
+ "a5f4dfc": {
+  "pt": "Aco",
+  "tipo_pt": "cidade"
+ },
+ "aef4242": {
+  "pt": "Acaia",
+  "tipo_pt": "região",
+  "resumo": "Província romana do sul da Grécia, com capital em Corinto."
+ },
+ "a8ce5c4": {
+  "pt": "Acsafe",
+  "tipo_pt": "cidade"
+ },
+ "a2270e4": {
+  "pt": "Aczibe",
+  "tipo_pt": "cidade"
+ },
+ "ad0d82f": {
+  "pt": "Aczibe",
+  "tipo_pt": "cidade"
+ },
+ "abf4481": {
+  "pt": "Adada",
+  "tipo_pt": "cidade"
+ },
+ "adc31c7": {
+  "pt": "Adã",
+  "tipo_pt": "cidade"
+ },
+ "afe1143": {
+  "pt": "Adama",
+  "tipo_pt": "cidade"
+ },
+ "a2c780b": {
+  "pt": "Adami-Neguebe",
+  "tipo_pt": "cidade"
+ },
+ "a6e831d": {
+  "pt": "Adasa",
+  "tipo_pt": "cidade"
+ },
+ "aaee94d": {
+  "pt": "Adar",
+  "tipo_pt": "cidade"
+ },
+ "a95b373": {
+  "pt": "Adom",
+  "tipo_pt": "cidade"
+ },
+ "a845493": {
+  "pt": "Aditaim",
+  "tipo_pt": "cidade"
+ },
+ "a41a054": {
+  "pt": "Admá",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade da planície destruída com Sodoma e Gomorra."
+ },
+ "ae16cf5": {
+  "pt": "Adoraim",
+  "tipo_pt": "cidade"
+ },
+ "a184f3a": {
+  "pt": "Adramítio",
+  "tipo_pt": "cidade"
+ },
+ "adc77fb": {
+  "pt": "Adriático",
+  "tipo_pt": "mar"
+ },
+ "ab7c40f": {
+  "pt": "Adúlis",
+  "tipo_pt": "cidade"
+ },
+ "af82614": {
+  "pt": "Adulão",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade da Sefelá; numa caverna perto dela Davi se escondeu de Saul."
+ },
+ "acf8790": {
+  "pt": "Adumim",
+  "tipo_pt": "outro"
+ },
+ "a112fe3": {
+  "pt": "Enom",
+  "tipo_pt": "cidade"
+ },
+ "a6c3859": {
+  "pt": "Aava",
+  "tipo_pt": "rio"
+ },
+ "a36348c": {
+  "pt": "Alabe",
+  "tipo_pt": "cidade"
+ },
+ "a7e13e1": {
+  "pt": "Ai",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade perto de Betel onde Israel foi derrotado por causa do pecado de Acã e depois venceu com uma emboscada."
+ },
+ "a2526f8": {
+  "pt": "Ai",
+  "tipo_pt": "cidade"
+ },
+ "a63c70b": {
+  "pt": "Ai",
+  "tipo_pt": "cidade"
+ },
+ "ad053dd": {
+  "pt": "Aiate",
+  "tipo_pt": "cidade"
+ },
+ "aa884e2": {
+  "pt": "Aia",
+  "tipo_pt": "cidade"
+ },
+ "a1c600b": {
+  "pt": "Aijalom",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade no vale onde Josué pediu que a lua parasse."
+ },
+ "a2e7975": {
+  "pt": "Aijalom",
+  "tipo_pt": "cidade"
+ },
+ "a89511f": {
+  "pt": "Aim",
+  "tipo_pt": "cidade"
+ },
+ "afb265c": {
+  "pt": "Aim",
+  "tipo_pt": "cidade"
+ },
+ "adbc931": {
+  "pt": "Aim",
+  "tipo_pt": "cidade"
+ },
+ "a040ba5": {
+  "pt": "Aceldama",
+  "tipo_pt": "outro"
+ },
+ "a39267b": {
+  "pt": "Acrabim",
+  "tipo_pt": "outro"
+ },
+ "ad4ad26": {
+  "pt": "Alemete",
+  "tipo_pt": "cidade"
+ },
+ "aee7248": {
+  "pt": "Alexandria",
+  "tipo_pt": "cidade"
+ },
+ "a84cafa": {
+  "pt": "Alameleque",
+  "tipo_pt": "cidade"
+ },
+ "a00de1e": {
+  "pt": "Alom",
+  "tipo_pt": "outro"
+ },
+ "af9a894": {
+  "pt": "Alom-Bacute",
+  "tipo_pt": "outro"
+ },
+ "ada3369": {
+  "pt": "Almom",
+  "tipo_pt": "cidade"
+ },
+ "aeb052c": {
+  "pt": "Almom-Diblataim",
+  "tipo_pt": "cidade"
+ },
+ "a32397f": {
+  "pt": "Alus",
+  "tipo_pt": "acampamento"
+ },
+ "a8527ba": {
+  "pt": "Ama",
+  "tipo_pt": "cidade"
+ },
+ "a2f1fa1": {
+  "pt": "Amade",
+  "tipo_pt": "cidade"
+ },
+ "ab95484": {
+  "pt": "Amaleque",
+  "tipo_pt": "região",
+  "resumo": "Território dos amalequitas, povo nômade do sul que atacou Israel no deserto e enfrentou Saul e Davi."
+ },
+ "a3e2b20": {
+  "pt": "Amã",
+  "tipo_pt": "cidade"
+ },
+ "ab428de": {
+  "pt": "Amaná",
+  "tipo_pt": "monte"
+ },
+ "adc3294": {
+  "pt": "Amate",
+  "tipo_pt": "cidade"
+ },
+ "ac5cab3": {
+  "pt": "Amave",
+  "tipo_pt": "região"
+ },
+ "a8e4a15": {
+  "pt": "Amá",
+  "tipo_pt": "monte"
+ },
+ "a6046fa": {
+  "pt": "Amom",
+  "tipo_pt": "região",
+  "resumo": "Terra dos amonitas, descendentes de Ló, a leste do Jordão, com capital em Rabá."
+ },
+ "a4bdea7": {
+  "pt": "Anfípolis",
+  "tipo_pt": "cidade"
+ },
+ "a234727": {
+  "pt": "Anabe",
+  "tipo_pt": "cidade"
+ },
+ "ac07206": {
+  "pt": "Anaarate",
+  "tipo_pt": "cidade"
+ },
+ "a79606b": {
+  "pt": "Ananias",
+  "tipo_pt": "cidade"
+ },
+ "ab34789": {
+  "pt": "Anatote",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade de sacerdotes em Benjamim, terra natal do profeta Jeremias, que ali comprou um campo como sinal de esperança."
+ },
+ "ad13f27": {
+  "pt": "Aném",
+  "tipo_pt": "cidade"
+ },
+ "a2a145b": {
+  "pt": "Aner",
+  "tipo_pt": "cidade"
+ },
+ "aac6cda": {
+  "pt": "Ângulo do muro",
+  "tipo_pt": "construção",
+  "resumo": "Ponto do muro de Jerusalém onde ele faz um ângulo, reparado no tempo de Neemias."
+ },
+ "ac22b90": {
+  "pt": "Anim",
+  "tipo_pt": "cidade"
+ },
+ "ae41ab4": {
+  "pt": "Antioquia",
+  "tipo_pt": "cidade",
+  "resumo": "Grande cidade da Síria onde os discípulos foram chamados cristãos pela primeira vez e de onde Paulo partiu em suas viagens."
+ },
+ "a6c704a": {
+  "pt": "Antioquia da Pisídia",
+  "tipo_pt": "cidade"
+ },
+ "ac4f712": {
+  "pt": "Afeque",
+  "tipo_pt": "cidade"
+ },
+ "a7b2e63": {
+  "pt": "Afeque",
+  "tipo_pt": "cidade"
+ },
+ "a6fc60d": {
+  "pt": "Afeque",
+  "tipo_pt": "cidade"
+ },
+ "a4cf129": {
+  "pt": "Afeque",
+  "tipo_pt": "cidade"
+ },
+ "ae46bcd": {
+  "pt": "Afeca",
+  "tipo_pt": "cidade"
+ },
+ "a012133": {
+  "pt": "Afeque",
+  "tipo_pt": "cidade"
+ },
+ "ab20df9": {
+  "pt": "Apolônia",
+  "tipo_pt": "cidade"
+ },
+ "a38ad07": {
+  "pt": "Ar",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade de Moabe junto ao Arnom."
+ },
+ "adbc03e": {
+  "pt": "Arabe",
+  "tipo_pt": "cidade"
+ },
+ "a2bb5ef": {
+  "pt": "Arabá",
+  "tipo_pt": "deserto",
+  "resumo": "Vale profundo e seco do Jordão e do mar Salgado (o \"mar de Arabá\"), que continua para o sul em direção ao mar Vermelho."
+ },
+ "a59f6f5": {
+  "pt": "Arábia",
+  "tipo_pt": "região",
+  "resumo": "A península do deserto ao sul e a leste de Israel; Paulo foi para a Arábia depois de sua conversão."
+ },
+ "a0f4ea8": {
+  "pt": "Arábia",
+  "tipo_pt": "região"
+ },
+ "abc358b": {
+  "pt": "Arade",
+  "tipo_pt": "cidade"
+ },
+ "a4cea2a": {
+  "pt": "Arade",
+  "tipo_pt": "cidade"
+ },
+ "a3e66cd": {
+  "pt": "Arã",
+  "tipo_pt": "região",
+  "resumo": "Terra dos arameus, a nordeste de Israel; a palavra também aparece nos nomes Padã-Arã e Arã-Naraim."
+ },
+ "a3c7b44": {
+  "pt": "Arã-Naraim",
+  "tipo_pt": "região"
+ },
+ "ab89be9": {
+  "pt": "Ararate",
+  "tipo_pt": "região"
+ },
+ "a576db3": {
+  "pt": "Arbela",
+  "tipo_pt": "cidade"
+ },
+ "a815d89": {
+  "pt": "Areópago",
+  "tipo_pt": "monte"
+ },
+ "a42a5b2": {
+  "pt": "Argobe",
+  "tipo_pt": "região"
+ },
+ "a8754c4": {
+  "pt": "Ariel",
+  "tipo_pt": "cidade"
+ },
+ "af3d9fc": {
+  "pt": "Arimateia",
+  "tipo_pt": "cidade"
+ },
+ "a105543": {
+  "pt": "Armagedom",
+  "tipo_pt": "monte"
+ },
+ "a4cc324": {
+  "pt": "Arnom",
+  "tipo_pt": "rio",
+  "resumo": "Rio que desce para o mar Salgado pelo leste, fronteira entre Moabe e os amorreus."
+ },
+ "ae46f2e": {
+  "pt": "Aroer",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade à beira do vale do Arnom, limite sul das terras conquistadas por Israel a leste do Jordão."
+ },
+ "af74969": {
+  "pt": "Aroer",
+  "tipo_pt": "cidade"
+ },
+ "a1b9ca6": {
+  "pt": "Aroer",
+  "tipo_pt": "cidade"
+ },
+ "a620b14": {
+  "pt": "Aroer",
+  "tipo_pt": "cidade"
+ },
+ "a173c40": {
+  "pt": "Arpade",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade do norte da Síria conquistada pelos assírios, lembrada por eles como exemplo do seu poder."
+ },
+ "a6bd641": {
+  "pt": "Arsínoe",
+  "tipo_pt": "cidade"
+ },
+ "a30e7ea": {
+  "pt": "Arubote",
+  "tipo_pt": "cidade"
+ },
+ "af536fb": {
+  "pt": "Aruma",
+  "tipo_pt": "cidade"
+ },
+ "afbf1b5": {
+  "pt": "Arvade",
+  "tipo_pt": "cidade"
+ },
+ "ab5175f": {
+  "pt": "Asã",
+  "tipo_pt": "cidade"
+ },
+ "a30c937": {
+  "pt": "Asdode",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade filisteia para onde foi levada a arca capturada, onde a estátua de Dagom caiu diante dela."
+ },
+ "ac87d4c": {
+  "pt": "Asquelom",
+  "tipo_pt": "cidade",
+  "resumo": "Uma das cinco cidades principais dos filisteus, no litoral."
+ },
+ "aec9225": {
+  "pt": "Asquenaz",
+  "tipo_pt": "região"
+ },
+ "a1e3eff": {
+  "pt": "Asná",
+  "tipo_pt": "cidade"
+ },
+ "a9a57b7": {
+  "pt": "Asná",
+  "tipo_pt": "cidade"
+ },
+ "a6fea11": {
+  "pt": "Astarote",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade de Basã, residência de Ogue, rei de Basã."
+ },
+ "afe4be0": {
+  "pt": "Asterote-Carnaim",
+  "tipo_pt": "cidade"
+ },
+ "a197f19": {
+  "pt": "Ásia",
+  "tipo_pt": "região",
+  "resumo": "No Novo Testamento, a província romana no oeste da atual Turquia, com Éfeso e as sete igrejas do Apocalipse."
+ },
+ "a874951": {
+  "pt": "Assur",
+  "tipo_pt": "cidade"
+ },
+ "a0a2ca7": {
+  "pt": "Assôs",
+  "tipo_pt": "cidade"
+ },
+ "a3d1321": {
+  "pt": "Assíria",
+  "tipo_pt": "região",
+  "resumo": "Império do norte da Mesopotâmia que destruiu o reino de Israel e levou seu povo cativo, e que cercou Jerusalém nos dias de Ezequias."
+ },
+ "a2f186d": {
+  "pt": "Atade",
+  "tipo_pt": "cidade"
+ },
+ "abc9a1d": {
+  "pt": "Atarote",
+  "tipo_pt": "cidade"
+ },
+ "a919ab0": {
+  "pt": "Atarote",
+  "tipo_pt": "cidade"
+ },
+ "aaf998e": {
+  "pt": "Atarote",
+  "tipo_pt": "cidade"
+ },
+ "a2bf0f8": {
+  "pt": "Atarote-Adar",
+  "tipo_pt": "cidade"
+ },
+ "a0e21ff": {
+  "pt": "Atace",
+  "tipo_pt": "cidade"
+ },
+ "a2c34ce": {
+  "pt": "Atarim",
+  "tipo_pt": "outro"
+ },
+ "a1fe6e7": {
+  "pt": "Atenas",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade grega onde Paulo falou aos filósofos no Areópago."
+ },
+ "a03afe1": {
+  "pt": "Atarote-Bete-Joabe",
+  "tipo_pt": "cidade"
+ },
+ "afdb74b": {
+  "pt": "Atarote-Sofã",
+  "tipo_pt": "cidade"
+ },
+ "ac744c1": {
+  "pt": "Atália",
+  "tipo_pt": "cidade"
+ },
+ "af3ccdf": {
+  "pt": "Áven",
+  "tipo_pt": "cidade"
+ },
+ "aae8a95": {
+  "pt": "Avite",
+  "tipo_pt": "cidade"
+ },
+ "a4b500d": {
+  "pt": "Hava",
+  "tipo_pt": "cidade"
+ },
+ "a6d7a41": {
+  "pt": "Avim",
+  "tipo_pt": "cidade"
+ },
+ "aba3717": {
+  "pt": "Aia",
+  "tipo_pt": "cidade"
+ },
+ "ad041dd": {
+  "pt": "Azal",
+  "tipo_pt": "rio"
+ },
+ "ab9a5ec": {
+  "pt": "Azazel",
+  "tipo_pt": "outro"
+ },
+ "af2ca0c": {
+  "pt": "Azeca",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade da Sefelá; perto dela Davi venceu Golias."
+ },
+ "a3d7871": {
+  "pt": "Azmavete",
+  "tipo_pt": "cidade"
+ },
+ "a8f6a28": {
+  "pt": "Azmom",
+  "tipo_pt": "cidade"
+ },
+ "a9fd165": {
+  "pt": "Aznote-Tabor",
+  "tipo_pt": "cidade"
+ },
+ "a289254": {
+  "pt": "Baalá",
+  "tipo_pt": "cidade"
+ },
+ "ac2f5ea": {
+  "pt": "Baalá",
+  "tipo_pt": "cidade"
+ },
+ "abc1b7c": {
+  "pt": "Baalate",
+  "tipo_pt": "monte"
+ },
+ "a99875b": {
+  "pt": "Baalate",
+  "tipo_pt": "cidade"
+ },
+ "a03cc2d": {
+  "pt": "Baalate-Beer",
+  "tipo_pt": "cidade"
+ },
+ "a66f19c": {
+  "pt": "Baal de Judá",
+  "tipo_pt": "cidade"
+ },
+ "ae12e43": {
+  "pt": "Baal-Gade",
+  "tipo_pt": "cidade"
+ },
+ "a304bb7": {
+  "pt": "Baal-Hamom",
+  "tipo_pt": "cidade"
+ },
+ "a366989": {
+  "pt": "Baal-Hazor",
+  "tipo_pt": "monte"
+ },
+ "a979444": {
+  "pt": "Baal-Hermom",
+  "tipo_pt": "monte"
+ },
+ "a76f7b7": {
+  "pt": "Baal-Meom",
+  "tipo_pt": "cidade"
+ },
+ "a3d6e81": {
+  "pt": "Baal-Peor",
+  "tipo_pt": "monte"
+ },
+ "a6bf059": {
+  "pt": "Baal-Perazim",
+  "tipo_pt": "cidade"
+ },
+ "ad3d9fc": {
+  "pt": "Baal-Salisa",
+  "tipo_pt": "cidade"
+ },
+ "a66136c": {
+  "pt": "Baal-Tamar",
+  "tipo_pt": "cidade"
+ },
+ "a22663b": {
+  "pt": "Baal-Zefom",
+  "tipo_pt": "acampamento"
+ },
+ "ab8fdbc": {
+  "pt": "Babel",
+  "tipo_pt": "cidade"
+ },
+ "a217d18": {
+  "pt": "Babilônia",
+  "tipo_pt": "cidade",
+  "resumo": "Capital do império que destruiu Jerusalém e levou o povo de Judá ao exílio; nos profetas e no Apocalipse, também símbolo do poder orgulhoso contra Deus."
+ },
+ "ae5ede9": {
+  "pt": "Babilônia",
+  "tipo_pt": "cidade"
+ },
+ "a3f0756": {
+  "pt": "Babilônia",
+  "tipo_pt": "cidade",
+  "resumo": "A \"grande Babilônia\" do Apocalipse, imagem de um poder mundano que se opõe a Deus; muitos intérpretes a ligam a Roma, e outros a leem de forma mais geral."
+ },
+ "a8394b8": {
+  "pt": "Babilônia",
+  "tipo_pt": "região",
+  "resumo": "A terra da Babilônia, no sul da Mesopotâmia, para onde Judá foi levado em exílio."
+ },
+ "a9ed5a4": {
+  "pt": "Baurim",
+  "tipo_pt": "cidade",
+  "resumo": "Aldeia perto de Jerusalém onde Simei amaldiçoou Davi na fuga de Absalão."
+ },
+ "a8ac29f": {
+  "pt": "Balá",
+  "tipo_pt": "cidade"
+ },
+ "a849ca2": {
+  "pt": "Bamá",
+  "tipo_pt": "construção"
+ },
+ "a1db553": {
+  "pt": "Bamote",
+  "tipo_pt": "cidade"
+ },
+ "a577c27": {
+  "pt": "Bamote-Baal",
+  "tipo_pt": "cidade"
+ },
+ "aa7a40a": {
+  "pt": "Basã",
+  "tipo_pt": "região",
+  "resumo": "Planalto fértil a leste e nordeste do mar da Galileia, conhecido pelo gado forte e pelos carvalhos; foi reino de Ogue."
+ },
+ "a249453": {
+  "pt": "Bataneia",
+  "tipo_pt": "região"
+ },
+ "abaa030": {
+  "pt": "Bate-Rabim",
+  "tipo_pt": "porta"
+ },
+ "a14325e": {
+  "pt": "Bealote",
+  "tipo_pt": "cidade"
+ },
+ "a800159": {
+  "pt": "Alote",
+  "tipo_pt": "cidade"
+ },
+ "a5c37fd": {
+  "pt": "Porta Formosa",
+  "tipo_pt": "porta"
+ },
+ "a656cb6": {
+  "pt": "Beer",
+  "tipo_pt": "acampamento"
+ },
+ "a520374": {
+  "pt": "Beer",
+  "tipo_pt": "cidade"
+ },
+ "ac401ea": {
+  "pt": "Beer-Elim",
+  "tipo_pt": "acampamento"
+ },
+ "a70e842": {
+  "pt": "Beer-Laai-Roi",
+  "tipo_pt": "outro"
+ },
+ "a046454": {
+  "pt": "Beerote",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade dos gibeonitas, depois de Benjamim."
+ },
+ "a280f83": {
+  "pt": "Beerote-Bene-Jacacã",
+  "tipo_pt": "cidade"
+ },
+ "ad2f6c2": {
+  "pt": "Berseba",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade do sul onde Abraão cavou um poço e fez aliança com Abimeleque; \"de Dã a Berseba\" indicava toda a terra de Israel."
+ },
+ "a075d61": {
+  "pt": "Berseba",
+  "tipo_pt": "cidade",
+  "resumo": "Berseba nas histórias dos patriarcas: ali Abraão plantou uma tamargueira, Agar vagou pelo deserto e Isaque e Jacó também habitaram."
+ },
+ "a293fbf": {
+  "pt": "Beesterá",
+  "tipo_pt": "cidade"
+ },
+ "a2b2564": {
+  "pt": "Belamom",
+  "tipo_pt": "cidade"
+ },
+ "ae83378": {
+  "pt": "Bene-Beraque",
+  "tipo_pt": "cidade"
+ },
+ "a0fe2be": {
+  "pt": "Bene-Jaacã",
+  "tipo_pt": "cidade"
+ },
+ "ae04aa8": {
+  "pt": "Porta de Benjamim",
+  "tipo_pt": "porta"
+ },
+ "a882ef5": {
+  "pt": "Beom",
+  "tipo_pt": "cidade"
+ },
+ "a62fe31": {
+  "pt": "Bereia",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade da Macedônia cujos judeus examinavam as Escrituras todos os dias para ver se o que Paulo dizia era verdade."
+ },
+ "aa3ff18": {
+  "pt": "Berede",
+  "tipo_pt": "monte"
+ },
+ "a14b9f1": {
+  "pt": "Berota",
+  "tipo_pt": "cidade"
+ },
+ "a942d07": {
+  "pt": "Beerote",
+  "tipo_pt": "cidade"
+ },
+ "a57df09": {
+  "pt": "Besor",
+  "tipo_pt": "rio"
+ },
+ "aafc721": {
+  "pt": "Béten",
+  "tipo_pt": "cidade"
+ },
+ "ae6cef8": {
+  "pt": "Bete-Anate",
+  "tipo_pt": "cidade"
+ },
+ "aa2fea1": {
+  "pt": "Bete-Anote",
+  "tipo_pt": "cidade"
+ },
+ "a4f35bc": {
+  "pt": "Betânia",
+  "tipo_pt": "cidade",
+  "resumo": "Aldeia perto de Jerusalém, casa de Marta, Maria e Lázaro, a quem Jesus ressuscitou."
+ },
+ "a6e060d": {
+  "pt": "Betábara",
+  "tipo_pt": "outro"
+ },
+ "a3f8916": {
+  "pt": "Bete-Arabá",
+  "tipo_pt": "cidade"
+ },
+ "a2da675": {
+  "pt": "Bete-Arbel",
+  "tipo_pt": "cidade"
+ },
+ "ac0254c": {
+  "pt": "Bete-Asbeia",
+  "tipo_pt": "cidade"
+ },
+ "a03cb21": {
+  "pt": "Bete-Áven",
+  "tipo_pt": "cidade"
+ },
+ "a696a95": {
+  "pt": "Bete-Áven",
+  "tipo_pt": "cidade"
+ },
+ "a0d1977": {
+  "pt": "Bete-Bara",
+  "tipo_pt": "outro"
+ },
+ "af623fd": {
+  "pt": "Bete-Birai",
+  "tipo_pt": "cidade"
+ },
+ "a5f4608": {
+  "pt": "Bete-Car",
+  "tipo_pt": "cidade"
+ },
+ "a561af4": {
+  "pt": "Bete-Dagom",
+  "tipo_pt": "cidade"
+ },
+ "a0cc925": {
+  "pt": "Bete-Dagom",
+  "tipo_pt": "cidade"
+ },
+ "ac99af3": {
+  "pt": "Bete-Diblataim",
+  "tipo_pt": "cidade"
+ },
+ "a84c5a4": {
+  "pt": "Bete-Éden",
+  "tipo_pt": "região"
+ },
+ "a7abec7": {
+  "pt": "Casa de tosa dos pastores",
+  "tipo_pt": "cidade"
+ },
+ "a64f355": {
+  "pt": "Betel",
+  "tipo_pt": "cidade",
+  "resumo": "Lugar onde Jacó sonhou com a escada até o céu; mais tarde, centro de culto com um bezerro de ouro no reino do norte."
+ },
+ "aeb5f24": {
+  "pt": "Betel",
+  "tipo_pt": "cidade"
+ },
+ "abcc0cf": {
+  "pt": "Betel",
+  "tipo_pt": "cidade"
+ },
+ "a587ea0": {
+  "pt": "Bete-Emeque",
+  "tipo_pt": "cidade"
+ },
+ "ac9fb6d": {
+  "pt": "Beter",
+  "tipo_pt": "cidade"
+ },
+ "a6c8205": {
+  "pt": "Beter",
+  "tipo_pt": "cidade"
+ },
+ "a0aa8cf": {
+  "pt": "Betesda",
+  "tipo_pt": "construção"
+ },
+ "a0a178b": {
+  "pt": "Bete-Ezel",
+  "tipo_pt": "cidade"
+ },
+ "a571072": {
+  "pt": "Bete-Gader",
+  "tipo_pt": "cidade"
+ },
+ "a367677": {
+  "pt": "Bete-Gamul",
+  "tipo_pt": "cidade"
+ },
+ "aea5552": {
+  "pt": "Bete-Gilgal",
+  "tipo_pt": "cidade"
+ },
+ "a30f9a0": {
+  "pt": "Bete-Haquerém",
+  "tipo_pt": "cidade"
+ },
+ "aaa2f54": {
+  "pt": "Casa da horta",
+  "tipo_pt": "cidade"
+ },
+ "a4590cd": {
+  "pt": "Bete-Harã",
+  "tipo_pt": "cidade"
+ },
+ "aabd0ba": {
+  "pt": "Bete-Hogla",
+  "tipo_pt": "cidade"
+ },
+ "a75b45e": {
+  "pt": "Bete-Horom",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade numa subida importante do oeste para as montanhas, onde Josué perseguiu os amorreus."
+ },
+ "a30f37b": {
+  "pt": "Bete-Jesimote",
+  "tipo_pt": "cidade"
+ },
+ "a95a37b": {
+  "pt": "Bete-Le-Afra",
+  "tipo_pt": "cidade"
+ },
+ "a289a5b": {
+  "pt": "Bete-Lebaote",
+  "tipo_pt": "cidade"
+ },
+ "a112427": {
+  "pt": "Belém",
+  "tipo_pt": "cidade",
+  "resumo": "Pequena cidade de Judá onde Rute viveu com Boaz, onde nasceu Davi e onde nasceu Jesus."
+ },
+ "a308715": {
+  "pt": "Belém",
+  "tipo_pt": "cidade"
+ },
+ "ab1a343": {
+  "pt": "Belém",
+  "tipo_pt": "cidade"
+ },
+ "a87f8f5": {
+  "pt": "Bete-Marcabote",
+  "tipo_pt": "cidade"
+ },
+ "a78580c": {
+  "pt": "Bete-Meom",
+  "tipo_pt": "cidade"
+ },
+ "a53f299": {
+  "pt": "Casa de Milo",
+  "tipo_pt": "construção"
+ },
+ "af66b89": {
+  "pt": "Bete-Ninra",
+  "tipo_pt": "cidade"
+ },
+ "ac814fb": {
+  "pt": "Bete-Pazez",
+  "tipo_pt": "cidade"
+ },
+ "ac4b767": {
+  "pt": "Bete-Pelete",
+  "tipo_pt": "cidade"
+ },
+ "af3ce34": {
+  "pt": "Bete-Peor",
+  "tipo_pt": "cidade"
+ },
+ "abff59d": {
+  "pt": "Betfagé",
+  "tipo_pt": "cidade"
+ },
+ "ad44b24": {
+  "pt": "Bete-Reobe",
+  "tipo_pt": "região"
+ },
+ "a91b732": {
+  "pt": "Betsaida",
+  "tipo_pt": "cidade"
+ },
+ "a9fc13a": {
+  "pt": "Betsaida",
+  "tipo_pt": "cidade"
+ },
+ "a2a8df0": {
+  "pt": "Bete-Seã",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade onde os filisteus penduraram os corpos de Saul e de seus filhos."
+ },
+ "a3b5b53": {
+  "pt": "Bete-Semes",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade de Judá na fronteira com os filisteus, para onde as vacas levaram a arca devolvida."
+ },
+ "a3bb26d": {
+  "pt": "Bete-Semes",
+  "tipo_pt": "cidade"
+ },
+ "a85cbab": {
+  "pt": "Bete-Semes",
+  "tipo_pt": "cidade"
+ },
+ "a83d789": {
+  "pt": "Bete-Sita",
+  "tipo_pt": "cidade"
+ },
+ "adac973": {
+  "pt": "Bete-Tapua",
+  "tipo_pt": "cidade"
+ },
+ "a263e60": {
+  "pt": "Togarma",
+  "tipo_pt": "cidade"
+ },
+ "a55cec0": {
+  "pt": "Betuel",
+  "tipo_pt": "cidade"
+ },
+ "a92de65": {
+  "pt": "Betul",
+  "tipo_pt": "cidade"
+ },
+ "addba2a": {
+  "pt": "Bete-Zur",
+  "tipo_pt": "cidade"
+ },
+ "a079478": {
+  "pt": "Betonim",
+  "tipo_pt": "cidade"
+ },
+ "a88310a": {
+  "pt": "Dalém do Rio",
+  "tipo_pt": "região",
+  "resumo": "Expressão usada em Esdras e Neemias para as terras a oeste do rio Eufrates, incluindo Judá."
+ },
+ "af48fdd": {
+  "pt": "Bezeque",
+  "tipo_pt": "cidade"
+ },
+ "a206291": {
+  "pt": "Bezeque",
+  "tipo_pt": "cidade"
+ },
+ "a0cd098": {
+  "pt": "Bezer",
+  "tipo_pt": "cidade"
+ },
+ "ac959b2": {
+  "pt": "Bileã",
+  "tipo_pt": "cidade"
+ },
+ "a20bd85": {
+  "pt": "Bila",
+  "tipo_pt": "cidade"
+ },
+ "a5c0cb0": {
+  "pt": "Bitínia",
+  "tipo_pt": "região"
+ },
+ "a2227ba": {
+  "pt": "Biziotiá",
+  "tipo_pt": "cidade"
+ },
+ "a859268": {
+  "pt": "Boquim",
+  "tipo_pt": "cidade"
+ },
+ "ab624f3": {
+  "pt": "Corasã",
+  "tipo_pt": "cidade"
+ },
+ "abde10e": {
+  "pt": "Bozez",
+  "tipo_pt": "outro"
+ },
+ "a58252b": {
+  "pt": "Bozcate",
+  "tipo_pt": "cidade"
+ },
+ "a871210": {
+  "pt": "Bozra",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade importante de Edom, citada pelos profetas no juízo contra Edom."
+ },
+ "a8adc43": {
+  "pt": "Bosra",
+  "tipo_pt": "cidade"
+ },
+ "ab0d85b": {
+  "pt": "Muro Largo",
+  "tipo_pt": "construção"
+ },
+ "a7a59b4": {
+  "pt": "Ribeiro do Egito",
+  "tipo_pt": "rio",
+  "resumo": "Ribeiro seco que marcava a fronteira sudoeste da terra prometida, perto do Egito."
+ },
+ "a5983ec": {
+  "pt": "Ribeiro de Arabá",
+  "tipo_pt": "rio"
+ },
+ "a0f88fb": {
+  "pt": "Ribeiro dos Salgueiros",
+  "tipo_pt": "rio"
+ },
+ "a087a14": {
+  "pt": "Buz",
+  "tipo_pt": "região"
+ },
+ "a7ed00e": {
+  "pt": "Cabom",
+  "tipo_pt": "cidade"
+ },
+ "a978a24": {
+  "pt": "Cabul",
+  "tipo_pt": "cidade"
+ },
+ "a08144e": {
+  "pt": "Cabul",
+  "tipo_pt": "região"
+ },
+ "a58735e": {
+  "pt": "Cesareia",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade portuária no litoral, onde Pedro batizou Cornélio e onde Paulo ficou preso por dois anos."
+ },
+ "ab7bf48": {
+  "pt": "Cesareia de Filipe",
+  "tipo_pt": "cidade"
+ },
+ "ae1f807": {
+  "pt": "Calá",
+  "tipo_pt": "cidade"
+ },
+ "abf6e12": {
+  "pt": "Calebe-Efrata",
+  "tipo_pt": "cidade"
+ },
+ "aee80af": {
+  "pt": "Calné",
+  "tipo_pt": "cidade"
+ },
+ "a7be664": {
+  "pt": "Calné",
+  "tipo_pt": "cidade"
+ },
+ "a031bda": {
+  "pt": "Caná",
+  "tipo_pt": "cidade"
+ },
+ "a581f0c": {
+  "pt": "Canaã",
+  "tipo_pt": "região",
+  "resumo": "Terra prometida por Deus a Abraão e a seus descendentes, entre o rio Jordão e o mar Grande."
+ },
+ "ae83efa": {
+  "pt": "Cané",
+  "tipo_pt": "cidade"
+ },
+ "af2161c": {
+  "pt": "Cafarnaum",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade à beira do mar da Galileia que serviu de base para Jesus; ali ele chamou discípulos e fez muitos milagres."
+ },
+ "a329990": {
+  "pt": "Caftor",
+  "tipo_pt": "ilha",
+  "resumo": "Terra de onde vieram os filisteus, em geral identificada com Creta ou ilhas próximas."
+ },
+ "a33fbde": {
+  "pt": "Capadócia",
+  "tipo_pt": "região"
+ },
+ "af6c730": {
+  "pt": "Carquemis",
+  "tipo_pt": "cidade"
+ },
+ "a053f15": {
+  "pt": "Carmelo",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade de Judá onde vivia Nabal, marido de Abigail, e onde Saul ergueu um monumento."
+ },
+ "aa56bd1": {
+  "pt": "Cartago",
+  "tipo_pt": "cidade"
+ },
+ "addb84c": {
+  "pt": "Casifia",
+  "tipo_pt": "cidade"
+ },
+ "aca2b0a": {
+  "pt": "Clauda",
+  "tipo_pt": "ilha"
+ },
+ "aa31dd3": {
+  "pt": "Cencreia",
+  "tipo_pt": "cidade"
+ },
+ "a527d04": {
+  "pt": "Cálcis",
+  "tipo_pt": "cidade"
+ },
+ "a32a4f8": {
+  "pt": "Caldeia",
+  "tipo_pt": "região",
+  "resumo": "Terra dos caldeus, no sul da Mesopotâmia, de onde saiu Abraão (Ur dos caldeus) e cujo povo depois dominou a Babilônia."
+ },
+ "a08d4af": {
+  "pt": "Carmande",
+  "tipo_pt": "cidade"
+ },
+ "a3d2f0a": {
+  "pt": "Quebar",
+  "tipo_pt": "rio",
+  "resumo": "Rio (ou canal) da Babilônia, perto do qual o profeta Ezequiel teve suas visões entre os exilados."
+ },
+ "a2cb16b": {
+  "pt": "Quefar-Amonai",
+  "tipo_pt": "cidade"
+ },
+ "a2e5054": {
+  "pt": "Quefira",
+  "tipo_pt": "cidade"
+ },
+ "aa7bee8": {
+  "pt": "Querite",
+  "tipo_pt": "cidade"
+ },
+ "ab3ad14": {
+  "pt": "Querube",
+  "tipo_pt": "cidade"
+ },
+ "a42c452": {
+  "pt": "Quesalom",
+  "tipo_pt": "cidade"
+ },
+ "acf2fac": {
+  "pt": "Quesil",
+  "tipo_pt": "cidade"
+ },
+ "ac3d92d": {
+  "pt": "Quesulote",
+  "tipo_pt": "cidade"
+ },
+ "ab41e6b": {
+  "pt": "Quezibe",
+  "tipo_pt": "cidade"
+ },
+ "a961693": {
+  "pt": "Quilmade",
+  "tipo_pt": "região"
+ },
+ "a2bb265": {
+  "pt": "Quinerete",
+  "tipo_pt": "mar"
+ },
+ "a4c2c75": {
+  "pt": "Quios",
+  "tipo_pt": "ilha"
+ },
+ "a898f06": {
+  "pt": "Quislote-Tabor",
+  "tipo_pt": "cidade"
+ },
+ "a0ff819": {
+  "pt": "Quitilis",
+  "tipo_pt": "cidade"
+ },
+ "a593a48": {
+  "pt": "Corazim",
+  "tipo_pt": "cidade"
+ },
+ "ad63819": {
+  "pt": "Cilícia",
+  "tipo_pt": "região",
+  "resumo": "Região do sudeste da Ásia Menor, terra natal de Paulo, cuja cidade era Tarso."
+ },
+ "a84f426": {
+  "pt": "Cidade de Davi",
+  "tipo_pt": "cidade",
+  "resumo": "Nome da fortaleza de Sião, em Jerusalém, depois que Davi a conquistou e ali morou; em Lucas, também nome de Belém."
+ },
+ "adca4b1": {
+  "pt": "Cidade da Destruição",
+  "tipo_pt": "cidade"
+ },
+ "a529e92": {
+  "pt": "Cidade das Palmeiras",
+  "tipo_pt": "cidade"
+ },
+ "ac4ff01": {
+  "pt": "Cidade das Palmeiras",
+  "tipo_pt": "cidade"
+ },
+ "acc1702": {
+  "pt": "Cidade do Sal",
+  "tipo_pt": "cidade"
+ },
+ "ab793ce": {
+  "pt": "Cnido",
+  "tipo_pt": "cidade"
+ },
+ "a4e5a69": {
+  "pt": "Colossos",
+  "tipo_pt": "cidade"
+ },
+ "a6f437a": {
+  "pt": "Corinto",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade grega onde Paulo ficou um ano e meio; recebeu duas cartas dele."
+ },
+ "a68aa8f": {
+  "pt": "Porta da Esquina",
+  "tipo_pt": "porta",
+  "resumo": "Porta do muro de Jerusalém citada em Reis, Crônicas, Jeremias e Zacarias."
+ },
+ "a398e5d": {
+  "pt": "Cós",
+  "tipo_pt": "ilha"
+ },
+ "a44cac9": {
+  "pt": "Cozeba",
+  "tipo_pt": "cidade"
+ },
+ "a26aa94": {
+  "pt": "Creta",
+  "tipo_pt": "ilha",
+  "resumo": "Grande ilha do Mediterrâneo, perto da qual passou o navio de Paulo; ali Tito trabalhou."
+ },
+ "a70f9d3": {
+  "pt": "Cum",
+  "tipo_pt": "cidade"
+ },
+ "ac5a1ec": {
+  "pt": "Cuxe",
+  "tipo_pt": "região",
+  "resumo": "Terra ao sul do Egito, ao longo do Nilo (muitas traduções dizem Etiópia), de onde veio o rei Tiraca."
+ },
+ "a74ee0d": {
+  "pt": "Cuxe",
+  "tipo_pt": "região"
+ },
+ "a567e0e": {
+  "pt": "Cusã",
+  "tipo_pt": "região"
+ },
+ "a538831": {
+  "pt": "Cuta",
+  "tipo_pt": "cidade"
+ },
+ "a2e7601": {
+  "pt": "Chipre",
+  "tipo_pt": "ilha",
+  "resumo": "Ilha do Mediterrâneo, terra de Barnabé, onde Paulo e Barnabé pregaram na primeira viagem."
+ },
+ "a81cdb5": {
+  "pt": "Cirene",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade do norte da África, terra de Simão, que carregou a cruz de Jesus."
+ },
+ "a411151": {
+  "pt": "Dabesete",
+  "tipo_pt": "cidade"
+ },
+ "a6a5e97": {
+  "pt": "Daberate",
+  "tipo_pt": "cidade"
+ },
+ "ae8d09d": {
+  "pt": "Dalmanuta",
+  "tipo_pt": "cidade"
+ },
+ "ae86cd7": {
+  "pt": "Dalmácia",
+  "tipo_pt": "região"
+ },
+ "a69c1d4": {
+  "pt": "Damasco",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade principal da Síria (Arã); no caminho para lá, Saulo encontrou Jesus ressuscitado."
+ },
+ "a513646": {
+  "pt": "Dã",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade do extremo norte de Israel, tomada pela tribo de Dã; Jeroboão pôs ali um bezerro de ouro. \"De Dã a Berseba\" indicava o país inteiro."
+ },
+ "a65c305": {
+  "pt": "Dana",
+  "tipo_pt": "cidade"
+ },
+ "ad2048e": {
+  "pt": "Debir",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade de Judá também chamada Quiriate-Sefer, conquistada por Otniel."
+ },
+ "ad334c4": {
+  "pt": "Debir",
+  "tipo_pt": "cidade"
+ },
+ "ac6416d": {
+  "pt": "Debir",
+  "tipo_pt": "cidade"
+ },
+ "ae733a2": {
+  "pt": "Decápolis",
+  "tipo_pt": "região"
+ },
+ "a3a2a75": {
+  "pt": "Dedã",
+  "tipo_pt": "cidade",
+  "resumo": "Povo e terra de mercadores citados pelos profetas."
+ },
+ "aa401a9": {
+  "pt": "Derbe",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade da Licaônia onde Paulo e Barnabé fizeram muitos discípulos."
+ },
+ "a0d784a": {
+  "pt": "Dibom",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade de Moabe ao norte do Arnom, reconstruída pela tribo de Gade."
+ },
+ "a3d1c99": {
+  "pt": "Dibom",
+  "tipo_pt": "cidade"
+ },
+ "ae8badb": {
+  "pt": "Dimom",
+  "tipo_pt": "cidade"
+ },
+ "aecc492": {
+  "pt": "Dileã",
+  "tipo_pt": "cidade"
+ },
+ "a971a54": {
+  "pt": "Dimna",
+  "tipo_pt": "cidade"
+ },
+ "ac17675": {
+  "pt": "Dimona",
+  "tipo_pt": "cidade"
+ },
+ "ae28fc7": {
+  "pt": "Dinabá",
+  "tipo_pt": "cidade"
+ },
+ "a0dc90b": {
+  "pt": "Meonenim",
+  "tipo_pt": "outro"
+ },
+ "afcb77d": {
+  "pt": "Di-Zaabe",
+  "tipo_pt": "cidade"
+ },
+ "a070c7b": {
+  "pt": "Dofca",
+  "tipo_pt": "cidade"
+ },
+ "a70c56b": {
+  "pt": "Dor",
+  "tipo_pt": "cidade"
+ },
+ "ab635e4": {
+  "pt": "Dotã",
+  "tipo_pt": "cidade"
+ },
+ "ab9580e": {
+  "pt": "Fonte do Dragão",
+  "tipo_pt": "outro"
+ },
+ "a75d2ab": {
+  "pt": "Dumá",
+  "tipo_pt": "cidade"
+ },
+ "a0a6365": {
+  "pt": "Dumá",
+  "tipo_pt": "região"
+ },
+ "a1611b6": {
+  "pt": "Porta do Esterco",
+  "tipo_pt": "porta"
+ },
+ "a3bcd66": {
+  "pt": "Dura",
+  "tipo_pt": "outro"
+ },
+ "ab0b2dd": {
+  "pt": "Oriente",
+  "tipo_pt": "região",
+  "resumo": "\"O Oriente\": as terras a leste de Israel, de onde vinham os \"filhos do Oriente\" e para onde Abraão enviou os filhos de suas concubinas."
+ },
+ "a4e8401": {
+  "pt": "Porta Oriental",
+  "tipo_pt": "porta"
+ },
+ "a6bb890": {
+  "pt": "Praça Oriental",
+  "tipo_pt": "outro"
+ },
+ "abfdefc": {
+  "pt": "Ebenézer",
+  "tipo_pt": "cidade"
+ },
+ "aadaf09": {
+  "pt": "Ebenézer",
+  "tipo_pt": "outro"
+ },
+ "acd9b19": {
+  "pt": "Ebes",
+  "tipo_pt": "cidade"
+ },
+ "a728e07": {
+  "pt": "Hebrom",
+  "tipo_pt": "cidade"
+ },
+ "a212ef7": {
+  "pt": "Ecbatana",
+  "tipo_pt": "cidade"
+ },
+ "af3daeb": {
+  "pt": "Éden",
+  "tipo_pt": "outro",
+  "resumo": "Jardim plantado por Deus onde viveram Adão e Eva antes de serem expulsos."
+ },
+ "a7409b9": {
+  "pt": "Éden",
+  "tipo_pt": "região"
+ },
+ "ab80fa1": {
+  "pt": "Migdal-Eder",
+  "tipo_pt": "cidade"
+ },
+ "a1b30e1": {
+  "pt": "Éder",
+  "tipo_pt": "cidade"
+ },
+ "a2735ff": {
+  "pt": "Edom",
+  "tipo_pt": "região",
+  "resumo": "Terra montanhosa ao sul do mar Salgado, habitada pelos descendentes de Esaú, vizinhos e muitas vezes rivais de Israel."
+ },
+ "aaa6f7a": {
+  "pt": "Edrei",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade de Basã onde Israel derrotou o rei Ogue."
+ },
+ "a85eb38": {
+  "pt": "Edrei",
+  "tipo_pt": "cidade"
+ },
+ "aacbcf0": {
+  "pt": "Eglaim",
+  "tipo_pt": "cidade"
+ },
+ "af7eb92": {
+  "pt": "Eglate-Selísia",
+  "tipo_pt": "cidade"
+ },
+ "a244d8f": {
+  "pt": "Eglom",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade de Judá cujo rei se aliou contra Gibeão e foi vencido por Josué."
+ },
+ "af301ca": {
+  "pt": "Egito",
+  "tipo_pt": "região",
+  "resumo": "Terra do Nilo onde José governou, onde os israelitas foram escravizados e de onde Deus os tirou no Êxodo."
+ },
+ "a3fc47a": {
+  "pt": "Ecrom",
+  "tipo_pt": "cidade",
+  "resumo": "A mais ao norte das cinco cidades filisteias, a última para onde foi levada a arca antes de ser devolvida a Israel."
+ },
+ "a7e3a59": {
+  "pt": "Elão",
+  "tipo_pt": "região",
+  "resumo": "Terra a leste da Babilônia, com capital em Susã; elamitas estavam em Jerusalém no dia de Pentecostes."
+ },
+ "af0ac29": {
+  "pt": "Elate",
+  "tipo_pt": "cidade",
+  "resumo": "Porto no golfo do mar Vermelho, junto a Eziom-Geber."
+ },
+ "a30b045": {
+  "pt": "El-Betel",
+  "tipo_pt": "construção"
+ },
+ "a5ccd34": {
+  "pt": "Eleale",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade a leste do Jordão, perto de Hesbom, citada nos lamentos sobre Moabe."
+ },
+ "a2410c1": {
+  "pt": "Elim",
+  "tipo_pt": "cidade"
+ },
+ "a71d65f": {
+  "pt": "Elisá",
+  "tipo_pt": "ilha"
+ },
+ "a221d82": {
+  "pt": "Elcos",
+  "tipo_pt": "cidade"
+ },
+ "a6f4a6d": {
+  "pt": "Elasar",
+  "tipo_pt": "região"
+ },
+ "ae180d8": {
+  "pt": "Elom",
+  "tipo_pt": "cidade"
+ },
+ "a8e6824": {
+  "pt": "Elom-Bete-Hanã",
+  "tipo_pt": "cidade"
+ },
+ "a738bf1": {
+  "pt": "El-Parã",
+  "tipo_pt": "cidade"
+ },
+ "a3c4559": {
+  "pt": "Elteque",
+  "tipo_pt": "cidade"
+ },
+ "a26cd81": {
+  "pt": "Eltecom",
+  "tipo_pt": "cidade"
+ },
+ "a5709da": {
+  "pt": "Eltolade",
+  "tipo_pt": "cidade"
+ },
+ "a774e50": {
+  "pt": "Emeque-Queziz",
+  "tipo_pt": "cidade"
+ },
+ "ae7274b": {
+  "pt": "Emaús",
+  "tipo_pt": "cidade"
+ },
+ "a59fdf2": {
+  "pt": "Enaim",
+  "tipo_pt": "cidade"
+ },
+ "a26921e": {
+  "pt": "Enã",
+  "tipo_pt": "cidade"
+ },
+ "aca444b": {
+  "pt": "En-Dor",
+  "tipo_pt": "cidade"
+ },
+ "ad44943": {
+  "pt": "En-Eglaim",
+  "tipo_pt": "cidade"
+ },
+ "abe5f95": {
+  "pt": "En-Ganim",
+  "tipo_pt": "cidade"
+ },
+ "a8eae19": {
+  "pt": "En-Ganim",
+  "tipo_pt": "cidade"
+ },
+ "a51df0e": {
+  "pt": "En-Gedi",
+  "tipo_pt": "região",
+  "resumo": "Oásis junto ao mar Salgado onde Davi se escondeu de Saul numa caverna."
+ },
+ "a009e7d": {
+  "pt": "En-Hadá",
+  "tipo_pt": "cidade"
+ },
+ "a0e33a3": {
+  "pt": "En-Hacoré",
+  "tipo_pt": "outro"
+ },
+ "a156070": {
+  "pt": "En-Hazor",
+  "tipo_pt": "cidade"
+ },
+ "ab28e2e": {
+  "pt": "En-Rimom",
+  "tipo_pt": "cidade"
+ },
+ "af9cfc9": {
+  "pt": "En-Rogel",
+  "tipo_pt": "outro",
+  "resumo": "Fonte junto a Jerusalém, onde se escondiam os mensageiros de Davi e onde Adonias se proclamou rei."
+ },
+ "a34e870": {
+  "pt": "En-Semes",
+  "tipo_pt": "outro"
+ },
+ "ad6b2b7": {
+  "pt": "En-Tapua",
+  "tipo_pt": "outro"
+ },
+ "ac25afc": {
+  "pt": "Efá",
+  "tipo_pt": "região"
+ },
+ "aafd7c4": {
+  "pt": "Efes-Damim",
+  "tipo_pt": "cidade"
+ },
+ "a5feb15": {
+  "pt": "Éfeso",
+  "tipo_pt": "cidade",
+  "resumo": "Grande cidade da Ásia onde Paulo ensinou por cerca de dois anos; recebeu a carta aos Efésios e uma das cartas do Apocalipse."
+ },
+ "a507da9": {
+  "pt": "Efraim",
+  "tipo_pt": "monte"
+ },
+ "ad14500": {
+  "pt": "Efraim",
+  "tipo_pt": "cidade"
+ },
+ "aa24ad4": {
+  "pt": "Efraim",
+  "tipo_pt": "região"
+ },
+ "a7b6270": {
+  "pt": "Porta de Efraim",
+  "tipo_pt": "porta"
+ },
+ "af4e985": {
+  "pt": "Efrata",
+  "tipo_pt": "cidade"
+ },
+ "af6c09e": {
+  "pt": "Efrata",
+  "tipo_pt": "cidade"
+ },
+ "a9a6f72": {
+  "pt": "Efrom",
+  "tipo_pt": "cidade"
+ },
+ "a1230e5": {
+  "pt": "Efraim",
+  "tipo_pt": "cidade"
+ },
+ "a5db1a6": {
+  "pt": "Ereque",
+  "tipo_pt": "cidade"
+ },
+ "a4c6f72": {
+  "pt": "Eridu",
+  "tipo_pt": "cidade"
+ },
+ "a43608b": {
+  "pt": "Eseque",
+  "tipo_pt": "outro"
+ },
+ "acd9498": {
+  "pt": "Esã",
+  "tipo_pt": "cidade"
+ },
+ "a355b6e": {
+  "pt": "Estaol",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade perto de Zorá; entre as duas Sansão foi sepultado."
+ },
+ "ad68510": {
+  "pt": "Estemoa",
+  "tipo_pt": "cidade"
+ },
+ "ae05348": {
+  "pt": "Etã",
+  "tipo_pt": "cidade"
+ },
+ "a47f86c": {
+  "pt": "Etã",
+  "tipo_pt": "cidade"
+ },
+ "aa21f26": {
+  "pt": "Etã",
+  "tipo_pt": "cidade"
+ },
+ "a27d0e0": {
+  "pt": "Etã",
+  "tipo_pt": "cidade"
+ },
+ "a82f7b4": {
+  "pt": "Eter",
+  "tipo_pt": "cidade"
+ },
+ "a16596e": {
+  "pt": "Eter",
+  "tipo_pt": "cidade"
+ },
+ "ab45bd3": {
+  "pt": "Etiópia",
+  "tipo_pt": "região",
+  "resumo": "Nome usado em muitas traduções para Cuxe; no Novo Testamento, terra do eunuco batizado por Filipe."
+ },
+ "a2ca712": {
+  "pt": "Ete-Cazim",
+  "tipo_pt": "cidade"
+ },
+ "a5eafe1": {
+  "pt": "Etrúria",
+  "tipo_pt": "região"
+ },
+ "a62dec4": {
+  "pt": "Eufrates",
+  "tipo_pt": "rio",
+  "resumo": "Grande rio da Mesopotâmia, citado como limite norte da terra prometida a Abraão."
+ },
+ "acb3716": {
+  "pt": "Ezel",
+  "tipo_pt": "outro"
+ },
+ "a573b95": {
+  "pt": "Ezém",
+  "tipo_pt": "cidade"
+ },
+ "a8e53d5": {
+  "pt": "Eziom-Geber",
+  "tipo_pt": "cidade",
+  "resumo": "Porto junto ao mar Vermelho onde Salomão construiu navios; Israel passou por ali no deserto."
+ },
+ "aae626a": {
+  "pt": "Bons Portos",
+  "tipo_pt": "cidade"
+ },
+ "a6057f5": {
+  "pt": "Porta do Peixe",
+  "tipo_pt": "porta"
+ },
+ "a121d5e": {
+  "pt": "Praça de Ápio",
+  "tipo_pt": "cidade"
+ },
+ "a2fc4c4": {
+  "pt": "Porta da Fonte",
+  "tipo_pt": "porta"
+ },
+ "ab05a42": {
+  "pt": "Gaás",
+  "tipo_pt": "monte"
+ },
+ "aec23b1": {
+  "pt": "Gabatá",
+  "tipo_pt": "construção"
+ },
+ "afed46a": {
+  "pt": "Gadara",
+  "tipo_pt": "cidade"
+ },
+ "a0f440a": {
+  "pt": "Galácia",
+  "tipo_pt": "região",
+  "resumo": "Região da Ásia Menor cujas igrejas receberam a carta aos Gálatas."
+ },
+ "a9cf1e8": {
+  "pt": "Galileia",
+  "tipo_pt": "região",
+  "resumo": "Região do norte de Israel, em volta do mar da Galileia, onde Jesus cresceu e fez a maior parte de seu ministério."
+ },
+ "a4e39f6": {
+  "pt": "Gilgal",
+  "tipo_pt": "região"
+ },
+ "ac10bcf": {
+  "pt": "Galim",
+  "tipo_pt": "cidade"
+ },
+ "a764256": {
+  "pt": "Gamade",
+  "tipo_pt": "cidade"
+ },
+ "ad4607c": {
+  "pt": "Garebe",
+  "tipo_pt": "monte"
+ },
+ "a753c3b": {
+  "pt": "Porta do Fundamento",
+  "tipo_pt": "porta"
+ },
+ "a4eb961": {
+  "pt": "Porta da Prisão",
+  "tipo_pt": "porta"
+ },
+ "a2fa712": {
+  "pt": "Porta Velha",
+  "tipo_pt": "porta"
+ },
+ "a18873f": {
+  "pt": "Gate",
+  "tipo_pt": "cidade",
+  "resumo": "Uma das cinco cidades principais dos filisteus, terra do gigante Golias; Davi se refugiou ali fugindo de Saul."
+ },
+ "a2e1bc0": {
+  "pt": "Gate",
+  "tipo_pt": "cidade"
+ },
+ "a0ac467": {
+  "pt": "Gate",
+  "tipo_pt": "cidade"
+ },
+ "ac51cec": {
+  "pt": "Gate-Hefer",
+  "tipo_pt": "cidade"
+ },
+ "ab56b36": {
+  "pt": "Gate-Padala",
+  "tipo_pt": "cidade"
+ },
+ "a046c70": {
+  "pt": "Gate-Rimom",
+  "tipo_pt": "cidade"
+ },
+ "ab33b54": {
+  "pt": "Gate-Rimom",
+  "tipo_pt": "cidade"
+ },
+ "aa8edd2": {
+  "pt": "Gaza",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade filisteia no litoral sul, onde Sansão arrancou as portas da cidade e morreu derrubando o templo de Dagom."
+ },
+ "a264254": {
+  "pt": "Geba",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade de Benjamim junto à fronteira norte de Judá; \"de Geba a Berseba\" indicava todo o reino de Judá."
+ },
+ "a2d3ca1": {
+  "pt": "Gibeá",
+  "tipo_pt": "cidade"
+ },
+ "a33cfcc": {
+  "pt": "Geba",
+  "tipo_pt": "cidade"
+ },
+ "ae14b1d": {
+  "pt": "Geba",
+  "tipo_pt": "cidade"
+ },
+ "a9a2541": {
+  "pt": "Gebal",
+  "tipo_pt": "cidade"
+ },
+ "a59b2e2": {
+  "pt": "Gebal",
+  "tipo_pt": "região"
+ },
+ "a58df35": {
+  "pt": "Gebim",
+  "tipo_pt": "cidade"
+ },
+ "a55d681": {
+  "pt": "Geder",
+  "tipo_pt": "cidade"
+ },
+ "a12012d": {
+  "pt": "Gederá",
+  "tipo_pt": "cidade"
+ },
+ "a52e310": {
+  "pt": "Gedera",
+  "tipo_pt": "cidade"
+ },
+ "a0a5b78": {
+  "pt": "Gedera",
+  "tipo_pt": "cidade"
+ },
+ "a728f1b": {
+  "pt": "Gederote",
+  "tipo_pt": "cidade"
+ },
+ "ac36af4": {
+  "pt": "Gederotaim",
+  "tipo_pt": "cidade"
+ },
+ "af054ba": {
+  "pt": "Gedor",
+  "tipo_pt": "cidade"
+ },
+ "a2fc530": {
+  "pt": "Gedor",
+  "tipo_pt": "cidade"
+ },
+ "aa9be2b": {
+  "pt": "Gedor",
+  "tipo_pt": "cidade"
+ },
+ "a47678a": {
+  "pt": "Gedor",
+  "tipo_pt": "cidade"
+ },
+ "abf0690": {
+  "pt": "Vale dos Artesãos",
+  "tipo_pt": "outro"
+ },
+ "a0c9a06": {
+  "pt": "Gelilote",
+  "tipo_pt": "cidade"
+ },
+ "a7de69e": {
+  "pt": "Genesaré",
+  "tipo_pt": "região"
+ },
+ "a3f5814": {
+  "pt": "Gerar",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade dos filisteus no sul onde Abraão e Isaque moraram e cavaram poços."
+ },
+ "ada6b64": {
+  "pt": "Gerasa",
+  "tipo_pt": "cidade"
+ },
+ "aabf84a": {
+  "pt": "Gergesa",
+  "tipo_pt": "cidade"
+ },
+ "a1c28f1": {
+  "pt": "Gerute-Quimã",
+  "tipo_pt": "outro"
+ },
+ "af6c325": {
+  "pt": "Gesur",
+  "tipo_pt": "região",
+  "resumo": "Pequeno reino arameu a leste do Jordão, terra de Maaca, mãe de Absalão, para onde ele fugiu."
+ },
+ "a42418f": {
+  "pt": "Getsêmani",
+  "tipo_pt": "outro"
+ },
+ "aed6538": {
+  "pt": "Gezer",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade cananeia que o faraó tomou e deu como dote à filha, esposa de Salomão, que depois a reconstruiu."
+ },
+ "ac66d7a": {
+  "pt": "Gia",
+  "tipo_pt": "outro"
+ },
+ "af0ee3a": {
+  "pt": "Gibar",
+  "tipo_pt": "cidade"
+ },
+ "a6f048c": {
+  "pt": "Gibetom",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade dos filisteus cercada por reis de Israel, onde Nadabe foi morto por Baasa."
+ },
+ "ad15169": {
+  "pt": "Gibeá",
+  "tipo_pt": "cidade"
+ },
+ "ac24f5f": {
+  "pt": "Gibeá",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade de Benjamim, terra natal do rei Saul e lugar do crime que levou à guerra contra Benjamim em Juízes."
+ },
+ "a2f0f05": {
+  "pt": "Gibeá",
+  "tipo_pt": "cidade"
+ },
+ "a3bba31": {
+  "pt": "Morro de Fineias",
+  "tipo_pt": "cidade"
+ },
+ "ac25f34": {
+  "pt": "Gibeá",
+  "tipo_pt": "monte"
+ },
+ "a45b692": {
+  "pt": "Morro de Deus",
+  "tipo_pt": "cidade"
+ },
+ "a97126d": {
+  "pt": "Monte dos Prepúcios",
+  "tipo_pt": "monte"
+ },
+ "aede336": {
+  "pt": "Gibeão",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade cujos habitantes enganaram Josué para fazer aliança; ali o sol parou, e ali Salomão pediu sabedoria a Deus."
+ },
+ "ae87a54": {
+  "pt": "Gidom",
+  "tipo_pt": "outro"
+ },
+ "a71d79b": {
+  "pt": "Giom",
+  "tipo_pt": "rio"
+ },
+ "a2a303c": {
+  "pt": "Giom",
+  "tipo_pt": "outro",
+  "resumo": "Fonte junto a Jerusalém onde Salomão foi ungido rei; Ezequias desviou suas águas por um canal."
+ },
+ "ae73b90": {
+  "pt": "Gileade",
+  "tipo_pt": "região",
+  "resumo": "Região montanhosa a leste do Jordão, conhecida por suas pastagens e por seu bálsamo, onde se estabeleceram Rúben, Gade e metade de Manassés."
+ },
+ "a19ec8c": {
+  "pt": "Gileade",
+  "tipo_pt": "região"
+ },
+ "ab94aea": {
+  "pt": "Gilgal",
+  "tipo_pt": "cidade",
+  "resumo": "Primeiro acampamento de Israel depois de atravessar o Jordão, onde foram erguidas doze pedras; ali Saul foi confirmado como rei."
+ },
+ "a6399b3": {
+  "pt": "Gilgal",
+  "tipo_pt": "cidade"
+ },
+ "aed8df9": {
+  "pt": "Gilgal",
+  "tipo_pt": "cidade"
+ },
+ "a84a509": {
+  "pt": "Gilgal",
+  "tipo_pt": "cidade"
+ },
+ "a6df20a": {
+  "pt": "Gilo",
+  "tipo_pt": "cidade"
+ },
+ "a5dd9e3": {
+  "pt": "Ginzo",
+  "tipo_pt": "cidade"
+ },
+ "ab98f8c": {
+  "pt": "Gitaim",
+  "tipo_pt": "cidade"
+ },
+ "a5627a3": {
+  "pt": "Goa",
+  "tipo_pt": "monte"
+ },
+ "aea4530": {
+  "pt": "Gobe",
+  "tipo_pt": "cidade"
+ },
+ "a858723": {
+  "pt": "Gogue",
+  "tipo_pt": "região"
+ },
+ "a9796ee": {
+  "pt": "Nações",
+  "tipo_pt": "região"
+ },
+ "a3cefc6": {
+  "pt": "Nações",
+  "tipo_pt": "região"
+ },
+ "abb5c1e": {
+  "pt": "Golã",
+  "tipo_pt": "cidade"
+ },
+ "a631d35": {
+  "pt": "Gólgota",
+  "tipo_pt": "monte"
+ },
+ "a80bf37": {
+  "pt": "Gômer",
+  "tipo_pt": "região"
+ },
+ "aa572e2": {
+  "pt": "Gomorra",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade da planície do Jordão destruída com Sodoma, lembrada em toda a Bíblia como exemplo do juízo de Deus."
+ },
+ "a60f092": {
+  "pt": "Gósen",
+  "tipo_pt": "região",
+  "resumo": "Região do Egito onde Jacó e sua família foram morar no tempo de José."
+ },
+ "ad3e63c": {
+  "pt": "Gósen",
+  "tipo_pt": "região"
+ },
+ "a81a10a": {
+  "pt": "Gósen",
+  "tipo_pt": "cidade"
+ },
+ "a924b16": {
+  "pt": "Gozã",
+  "tipo_pt": "cidade",
+  "resumo": "Região do rio Habor, no norte da Mesopotâmia, para onde os assírios levaram os israelitas."
+ },
+ "aa805fb": {
+  "pt": "Mar Grande",
+  "tipo_pt": "mar",
+  "resumo": "Nome bíblico do mar Mediterrâneo, limite ocidental da terra prometida."
+ },
+ "a4492a0": {
+  "pt": "Grécia",
+  "tipo_pt": "região",
+  "resumo": "A terra dos gregos (Javã), citada em Daniel e onde Paulo passou três meses."
+ },
+ "aaa3eca": {
+  "pt": "Fontes de águas",
+  "tipo_pt": "outro"
+ },
+ "a878fea": {
+  "pt": "Gur",
+  "tipo_pt": "monte"
+ },
+ "a763368": {
+  "pt": "Gur-Baal",
+  "tipo_pt": "cidade"
+ },
+ "a654e6d": {
+  "pt": "Gútio",
+  "tipo_pt": "região"
+ },
+ "af19252": {
+  "pt": "Habor",
+  "tipo_pt": "rio"
+ },
+ "a28a7df": {
+  "pt": "Haquilá",
+  "tipo_pt": "cidade"
+ },
+ "a05ee76": {
+  "pt": "Hadade-Rimom",
+  "tipo_pt": "cidade"
+ },
+ "a785680": {
+  "pt": "Hadasa",
+  "tipo_pt": "cidade"
+ },
+ "a044272": {
+  "pt": "Hadide",
+  "tipo_pt": "cidade"
+ },
+ "a3e8d63": {
+  "pt": "Hadraque",
+  "tipo_pt": "cidade"
+ },
+ "ae1d208": {
+  "pt": "Elefe",
+  "tipo_pt": "cidade"
+ },
+ "a607415": {
+  "pt": "Quefirim",
+  "tipo_pt": "cidade"
+ },
+ "abf176f": {
+  "pt": "Hala",
+  "tipo_pt": "região"
+ },
+ "a1d5a28": {
+  "pt": "Halaha",
+  "tipo_pt": "cidade"
+ },
+ "afca9ce": {
+  "pt": "Halul",
+  "tipo_pt": "cidade"
+ },
+ "a79d6a5": {
+  "pt": "Hali",
+  "tipo_pt": "cidade"
+ },
+ "a8c2deb": {
+  "pt": "Pórtico do Juízo",
+  "tipo_pt": "construção"
+ },
+ "a493f37": {
+  "pt": "Pórtico de Colunas",
+  "tipo_pt": "construção"
+ },
+ "a5e2c12": {
+  "pt": "Pórtico do Trono",
+  "tipo_pt": "construção"
+ },
+ "a7a5f29": {
+  "pt": "Hã",
+  "tipo_pt": "cidade"
+ },
+ "a2f3001": {
+  "pt": "Cam",
+  "tipo_pt": "região"
+ },
+ "ac62cbc": {
+  "pt": "Hamate",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade do reino arameu no vale do rio Orontes; \"a entrada de Hamate\" marcava o limite norte de Israel."
+ },
+ "aa9c505": {
+  "pt": "Hamate",
+  "tipo_pt": "cidade"
+ },
+ "ab6a417": {
+  "pt": "Hamate-Zobá",
+  "tipo_pt": "região"
+ },
+ "a2d6bfc": {
+  "pt": "Hamate",
+  "tipo_pt": "cidade"
+ },
+ "abd2a8d": {
+  "pt": "Hamate",
+  "tipo_pt": "cidade"
+ },
+ "a9d4f8e": {
+  "pt": "Hamom",
+  "tipo_pt": "cidade"
+ },
+ "a62236c": {
+  "pt": "Hamom",
+  "tipo_pt": "cidade"
+ },
+ "a7d3e84": {
+  "pt": "Hamote-Dor",
+  "tipo_pt": "cidade"
+ },
+ "a154d7b": {
+  "pt": "Hamoná",
+  "tipo_pt": "cidade"
+ },
+ "abf97ba": {
+  "pt": "Hanes",
+  "tipo_pt": "cidade"
+ },
+ "a412c43": {
+  "pt": "Hanatom",
+  "tipo_pt": "cidade"
+ },
+ "a6309c7": {
+  "pt": "Hafaraim",
+  "tipo_pt": "cidade"
+ },
+ "ab786f4": {
+  "pt": "Hara",
+  "tipo_pt": "monte"
+ },
+ "a73af5f": {
+  "pt": "Harada",
+  "tipo_pt": "acampamento"
+ },
+ "a6d9af3": {
+  "pt": "Harã",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade no norte da Mesopotâmia onde Terá morreu e de onde Abraão partiu para Canaã; ali Jacó viveu com Labão."
+ },
+ "adeff6d": {
+  "pt": "Harhar",
+  "tipo_pt": "região"
+ },
+ "addc3e7": {
+  "pt": "Harim",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade de Judá cujos descendentes voltaram do exílio com Zorobabel."
+ },
+ "a553fe6": {
+  "pt": "Harmom",
+  "tipo_pt": "monte"
+ },
+ "ae3cace": {
+  "pt": "Harode",
+  "tipo_pt": "outro"
+ },
+ "afd8b40": {
+  "pt": "Harode",
+  "tipo_pt": "cidade"
+ },
+ "a49c017": {
+  "pt": "Harosete das Nações",
+  "tipo_pt": "região"
+ },
+ "aaa8a88": {
+  "pt": "Hasmona",
+  "tipo_pt": "acampamento"
+ },
+ "a4b8b4d": {
+  "pt": "Hatti",
+  "tipo_pt": "região"
+ },
+ "a0e8903": {
+  "pt": "Haurã",
+  "tipo_pt": "região"
+ },
+ "ad7e819": {
+  "pt": "Havilá",
+  "tipo_pt": "região"
+ },
+ "ac5e5c4": {
+  "pt": "Havilá",
+  "tipo_pt": "região"
+ },
+ "a1d9047": {
+  "pt": "Havilá",
+  "tipo_pt": "região"
+ },
+ "a26c8f2": {
+  "pt": "Havote-Jair",
+  "tipo_pt": "região",
+  "resumo": "\"Aldeias de Jair\", conjunto de aldeias a leste do Jordão tomadas por Jair, de Manassés."
+ },
+ "a3f301c": {
+  "pt": "Hazar-Adar",
+  "tipo_pt": "cidade"
+ },
+ "a1ce1b7": {
+  "pt": "Hazar-Enã",
+  "tipo_pt": "cidade"
+ },
+ "a7672d8": {
+  "pt": "Hazar-Gada",
+  "tipo_pt": "cidade"
+ },
+ "a89005a": {
+  "pt": "Hazar-Sual",
+  "tipo_pt": "cidade"
+ },
+ "ab270f6": {
+  "pt": "Hazar-Susa",
+  "tipo_pt": "cidade"
+ },
+ "a4d6a38": {
+  "pt": "Hazazom-Tamar",
+  "tipo_pt": "região"
+ },
+ "a887a2d": {
+  "pt": "Hazazom-Tamar",
+  "tipo_pt": "região"
+ },
+ "aae18d7": {
+  "pt": "Hazer-Haticom",
+  "tipo_pt": "cidade"
+ },
+ "a1b6474": {
+  "pt": "Hazerote",
+  "tipo_pt": "cidade",
+  "resumo": "Acampamento no deserto onde Miriã e Arão murmuraram contra Moisés e Miriã ficou leprosa."
+ },
+ "a6f33c5": {
+  "pt": "Hazor",
+  "tipo_pt": "cidade",
+  "resumo": "Principal cidade cananeia do norte, do rei Jabim, queimada por Josué."
+ },
+ "ae5657c": {
+  "pt": "Hazor",
+  "tipo_pt": "cidade"
+ },
+ "a4d3e40": {
+  "pt": "Hazor",
+  "tipo_pt": "cidade"
+ },
+ "ae9b9bc": {
+  "pt": "Hazor",
+  "tipo_pt": "monte"
+ },
+ "a3088c2": {
+  "pt": "Hazor",
+  "tipo_pt": "região"
+ },
+ "acce8c8": {
+  "pt": "Hazor-Hadata",
+  "tipo_pt": "cidade"
+ },
+ "a85151a": {
+  "pt": "Hebrom",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade nas montanhas de Judá onde Abraão, Isaque e Jacó foram sepultados; ali Davi reinou primeiro sobre Judá."
+ },
+ "aeb09c0": {
+  "pt": "Helã",
+  "tipo_pt": "cidade"
+ },
+ "a3cb036": {
+  "pt": "Helba",
+  "tipo_pt": "cidade"
+ },
+ "a8a8e54": {
+  "pt": "Helbom",
+  "tipo_pt": "cidade"
+ },
+ "ab5f357": {
+  "pt": "Heleque",
+  "tipo_pt": "região"
+ },
+ "a8687ff": {
+  "pt": "Helefe",
+  "tipo_pt": "cidade"
+ },
+ "acd9137": {
+  "pt": "Om",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade egípcia de Om, cujo sacerdote Potífera foi sogro de José."
+ },
+ "a1d1918": {
+  "pt": "Helcate",
+  "tipo_pt": "cidade"
+ },
+ "ac722b9": {
+  "pt": "Helcate-Hazurim",
+  "tipo_pt": "outro"
+ },
+ "aab9a5e": {
+  "pt": "Hena",
+  "tipo_pt": "cidade"
+ },
+ "a2ebe1c": {
+  "pt": "Héfer",
+  "tipo_pt": "cidade"
+ },
+ "a542fc2": {
+  "pt": "Heracleópolis Magna",
+  "tipo_pt": "cidade"
+ },
+ "acd64ca": {
+  "pt": "Heracleópolis Parva",
+  "tipo_pt": "cidade"
+ },
+ "a2466e4": {
+  "pt": "Heres",
+  "tipo_pt": "monte"
+ },
+ "a7df136": {
+  "pt": "Herete",
+  "tipo_pt": "outro"
+ },
+ "a72ca28": {
+  "pt": "Palácio de Herodes",
+  "tipo_pt": "construção"
+ },
+ "abf2fc1": {
+  "pt": "Hesbom",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade de Seom, rei dos amorreus, conquistada por Israel a leste do Jordão; depois foi cidade de Moabe."
+ },
+ "ad2d29f": {
+  "pt": "Hesmom",
+  "tipo_pt": "cidade"
+ },
+ "a1ab517": {
+  "pt": "Hetlom",
+  "tipo_pt": "cidade"
+ },
+ "ad5c4a1": {
+  "pt": "Hezrom",
+  "tipo_pt": "cidade"
+ },
+ "a11bbbe": {
+  "pt": "Hierápolis",
+  "tipo_pt": "cidade"
+ },
+ "ad1c917": {
+  "pt": "Hilacu",
+  "tipo_pt": "região"
+ },
+ "a6779cd": {
+  "pt": "Hobá",
+  "tipo_pt": "região"
+ },
+ "a8819e0": {
+  "pt": "Holom",
+  "tipo_pt": "cidade"
+ },
+ "a2a444a": {
+  "pt": "Holom",
+  "tipo_pt": "cidade"
+ },
+ "a13cde9": {
+  "pt": "Lugar Santo",
+  "tipo_pt": "construção",
+  "resumo": "Primeira sala do tabernáculo, onde ficavam o candelabro, a mesa dos pães e o altar do incenso, separada do Lugar Santíssimo por um véu."
+ },
+ "ab60a74": {
+  "pt": "Lugar Santo",
+  "tipo_pt": "construção",
+  "resumo": "Sala principal do templo de Salomão, onde ficavam os candelabros, a mesa dos pães e o altar do incenso."
+ },
+ "a9cdd53": {
+  "pt": "Horém",
+  "tipo_pt": "cidade"
+ },
+ "a23db8d": {
+  "pt": "Horesa",
+  "tipo_pt": "outro"
+ },
+ "a5e36e6": {
+  "pt": "Hor-Gidgade",
+  "tipo_pt": "acampamento"
+ },
+ "ada25df": {
+  "pt": "Hormá",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade do sul onde Israel foi derrotado pelos cananeus e que depois foi destruída (\"Hormá\" lembra destruição)."
+ },
+ "a9dd823": {
+  "pt": "Horonaim",
+  "tipo_pt": "cidade"
+ },
+ "a159029": {
+  "pt": "Horonaim",
+  "tipo_pt": "cidade"
+ },
+ "af8b51e": {
+  "pt": "Porta dos Cavalos",
+  "tipo_pt": "porta"
+ },
+ "a2feddf": {
+  "pt": "Hosa",
+  "tipo_pt": "cidade"
+ },
+ "a966bdf": {
+  "pt": "Casa do Bosque do Líbano",
+  "tipo_pt": "construção",
+  "resumo": "Grande salão do palácio de Salomão, construído com colunas de cedro do Líbano."
+ },
+ "a901903": {
+  "pt": "Hucoque",
+  "tipo_pt": "cidade"
+ },
+ "a5c4318": {
+  "pt": "Hucoque",
+  "tipo_pt": "cidade"
+ },
+ "a5a846f": {
+  "pt": "Hunta",
+  "tipo_pt": "cidade"
+ },
+ "a54fdd6": {
+  "pt": "Husá",
+  "tipo_pt": "cidade",
+  "resumo": "Lugar de origem de Sibecai, um dos valentes de Davi."
+ },
+ "a878d66": {
+  "pt": "Ibleão",
+  "tipo_pt": "cidade"
+ },
+ "ae425aa": {
+  "pt": "Icônio",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade da Ásia Menor onde Paulo e Barnabé pregaram e foram perseguidos."
+ },
+ "ae8fac6": {
+  "pt": "Idala",
+  "tipo_pt": "cidade"
+ },
+ "a2517a0": {
+  "pt": "Idumeia",
+  "tipo_pt": "região"
+ },
+ "ad161d1": {
+  "pt": "Iim",
+  "tipo_pt": "cidade"
+ },
+ "a062b95": {
+  "pt": "Ijom",
+  "tipo_pt": "cidade"
+ },
+ "ac405c0": {
+  "pt": "Ilírico",
+  "tipo_pt": "região"
+ },
+ "ae4d198": {
+  "pt": "Imer",
+  "tipo_pt": "cidade"
+ },
+ "a878481": {
+  "pt": "Índia",
+  "tipo_pt": "região"
+ },
+ "a67bd13": {
+  "pt": "Iftá",
+  "tipo_pt": "cidade"
+ },
+ "a6c0a5f": {
+  "pt": "Cidade de Moabe",
+  "tipo_pt": "cidade"
+ },
+ "a31913c": {
+  "pt": "Ir-Naás",
+  "tipo_pt": "cidade"
+ },
+ "a21b934": {
+  "pt": "Irpeel",
+  "tipo_pt": "cidade"
+ },
+ "ad6cc26": {
+  "pt": "Ir-Semes",
+  "tipo_pt": "cidade"
+ },
+ "a7184a7": {
+  "pt": "Itália",
+  "tipo_pt": "região"
+ },
+ "abf8060": {
+  "pt": "Itla",
+  "tipo_pt": "cidade"
+ },
+ "ac333a2": {
+  "pt": "Itnã",
+  "tipo_pt": "cidade"
+ },
+ "aa9e265": {
+  "pt": "Itureia",
+  "tipo_pt": "região"
+ },
+ "a9ac5f9": {
+  "pt": "Iva",
+  "tipo_pt": "cidade"
+ },
+ "a0574da": {
+  "pt": "Ijé-Abarim",
+  "tipo_pt": "acampamento"
+ },
+ "a8fe6a4": {
+  "pt": "Jaar",
+  "tipo_pt": "cidade"
+ },
+ "aca7bd9": {
+  "pt": "Jaboque",
+  "tipo_pt": "rio",
+  "resumo": "Ribeiro a leste do Jordão onde Jacó lutou com Deus e recebeu o nome Israel."
+ },
+ "af92088": {
+  "pt": "Jabes-Gileade",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade de Gileade que Saul livrou dos amonitas; seus moradores depois resgataram e sepultaram o corpo de Saul."
+ },
+ "aedf531": {
+  "pt": "Jabez",
+  "tipo_pt": "cidade"
+ },
+ "a7adb01": {
+  "pt": "Jabneel",
+  "tipo_pt": "cidade"
+ },
+ "abff89f": {
+  "pt": "Jabneel",
+  "tipo_pt": "cidade"
+ },
+ "a907232": {
+  "pt": "Jagur",
+  "tipo_pt": "cidade"
+ },
+ "ad9b1cd": {
+  "pt": "Jaza",
+  "tipo_pt": "cidade",
+  "resumo": "Lugar onde Israel venceu Seom, rei dos amorreus."
+ },
+ "a175f4b": {
+  "pt": "Janim",
+  "tipo_pt": "cidade"
+ },
+ "a0bcd48": {
+  "pt": "Janoa",
+  "tipo_pt": "cidade"
+ },
+ "a4f2291": {
+  "pt": "Janoa",
+  "tipo_pt": "cidade"
+ },
+ "adb6f6b": {
+  "pt": "Jânua",
+  "tipo_pt": "cidade"
+ },
+ "ab15bb3": {
+  "pt": "Jafia",
+  "tipo_pt": "cidade"
+ },
+ "a539e01": {
+  "pt": "Jarmute",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade de Judá cujo rei se aliou contra Gibeão e foi vencido por Josué."
+ },
+ "a1eb300": {
+  "pt": "Jarmute",
+  "tipo_pt": "cidade"
+ },
+ "ad6eb0b": {
+  "pt": "Jatir",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade de Judá dada aos sacerdotes, a quem Davi enviou parte dos despojos."
+ },
+ "a116c5c": {
+  "pt": "Javã",
+  "tipo_pt": "região"
+ },
+ "a095b6e": {
+  "pt": "Jazer",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade dos amorreus a leste do Jordão, tomada por Israel e dada à tribo de Gade, numa região boa para o gado."
+ },
+ "a403c45": {
+  "pt": "Jebus",
+  "tipo_pt": "cidade",
+  "resumo": "Antigo nome de Jerusalém, quando era cidade dos jebuseus."
+ },
+ "aa0ef78": {
+  "pt": "Jeúde",
+  "tipo_pt": "cidade"
+ },
+ "a231f80": {
+  "pt": "Jericó",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade perto do Jordão cujos muros caíram diante de Josué; mais tarde Eliseu purificou ali as águas da fonte."
+ },
+ "aaf03fa": {
+  "pt": "Jericó",
+  "tipo_pt": "cidade",
+  "resumo": "Jericó no tempo de Jesus, onde ele curou o cego Bartimeu e se hospedou na casa de Zaqueu."
+ },
+ "a8ccbf2": {
+  "pt": "Jeruel",
+  "tipo_pt": "região"
+ },
+ "a15257a": {
+  "pt": "Jerusalém",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade que Davi tomou dos jebuseus e fez capital; ali Salomão construiu o templo, e ali Jesus foi crucificado e ressuscitou."
+ },
+ "a5f5b06": {
+  "pt": "Jesana",
+  "tipo_pt": "cidade"
+ },
+ "ad41f6e": {
+  "pt": "Jesimom",
+  "tipo_pt": "deserto",
+  "resumo": "\"O ermo\", região deserta de Judá onde Davi se escondeu de Saul."
+ },
+ "ab8473d": {
+  "pt": "Jesua",
+  "tipo_pt": "cidade"
+ },
+ "ad94cc9": {
+  "pt": "Jezreel",
+  "tipo_pt": "cidade"
+ },
+ "ae0bf4a": {
+  "pt": "Jezreel",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade do vale de Jezreel onde o rei Acabe tinha um palácio e tomou a vinha de Nabote; ali morreu Jezabel."
+ },
+ "ac644e9": {
+  "pt": "Jezreel",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade de Judá, terra de Ainoã, mulher de Davi."
+ },
+ "acf6e00": {
+  "pt": "Jogbeá",
+  "tipo_pt": "cidade"
+ },
+ "a56cad5": {
+  "pt": "Jocdeão",
+  "tipo_pt": "cidade"
+ },
+ "ab2e402": {
+  "pt": "Jocmeão",
+  "tipo_pt": "cidade"
+ },
+ "aaa8b2e": {
+  "pt": "Jocmeão",
+  "tipo_pt": "cidade"
+ },
+ "a5c92e1": {
+  "pt": "Jocneão",
+  "tipo_pt": "cidade"
+ },
+ "a45dd20": {
+  "pt": "Jocteel",
+  "tipo_pt": "cidade"
+ },
+ "ae023a9": {
+  "pt": "Jope",
+  "tipo_pt": "cidade",
+  "resumo": "Porto onde Jonas embarcou para fugir; ali Pedro ressuscitou Tabita e teve a visão do lençol."
+ },
+ "ae686c9": {
+  "pt": "Jordão",
+  "tipo_pt": "rio",
+  "resumo": "Principal rio da terra de Israel, atravessado por Josué na entrada em Canaã e lugar onde João batizou Jesus."
+ },
+ "aa54aa4": {
+  "pt": "Planície do Jordão",
+  "tipo_pt": "vale",
+  "resumo": "A planície bem regada do Jordão que Ló escolheu para morar."
+ },
+ "a2b389a": {
+  "pt": "Jorqueão",
+  "tipo_pt": "cidade"
+ },
+ "adbbb54": {
+  "pt": "Jotbá",
+  "tipo_pt": "cidade"
+ },
+ "a7384d7": {
+  "pt": "Jotbatá",
+  "tipo_pt": "cidade"
+ },
+ "a149f13": {
+  "pt": "Judeia",
+  "tipo_pt": "região",
+  "resumo": "Nome usado no Novo Testamento para a região de Judá, no sul, em volta de Jerusalém."
+ },
+ "ab86a69": {
+  "pt": "Judeia",
+  "tipo_pt": "região"
+ },
+ "acc7184": {
+  "pt": "Jutá",
+  "tipo_pt": "cidade"
+ },
+ "a2715db": {
+  "pt": "Cabzeel",
+  "tipo_pt": "cidade"
+ },
+ "adc9b5a": {
+  "pt": "Hodsi",
+  "tipo_pt": "cidade"
+ },
+ "ac2cef0": {
+  "pt": "Cades-Barneia",
+  "tipo_pt": "cidade",
+  "resumo": "Oásis no deserto ao sul de Canaã, onde Israel acampou por longo tempo e de onde saíram os doze espias."
+ },
+ "a765bd8": {
+  "pt": "Caim",
+  "tipo_pt": "cidade"
+ },
+ "a804aeb": {
+  "pt": "Camom",
+  "tipo_pt": "cidade"
+ },
+ "a373106": {
+  "pt": "Caná",
+  "tipo_pt": "rio"
+ },
+ "ac3233c": {
+  "pt": "Caná",
+  "tipo_pt": "cidade"
+ },
+ "a438f5e": {
+  "pt": "Carca",
+  "tipo_pt": "cidade"
+ },
+ "a0415e8": {
+  "pt": "Carcor",
+  "tipo_pt": "cidade"
+ },
+ "adf5c7b": {
+  "pt": "Carnaim",
+  "tipo_pt": "cidade"
+ },
+ "ac0f6e7": {
+  "pt": "Cartá",
+  "tipo_pt": "cidade"
+ },
+ "a4959d5": {
+  "pt": "Cartã",
+  "tipo_pt": "cidade"
+ },
+ "a6536c9": {
+  "pt": "Catate",
+  "tipo_pt": "cidade"
+ },
+ "a68d1a9": {
+  "pt": "Quedar",
+  "tipo_pt": "região",
+  "resumo": "Terra das tribos de Quedar, descendentes de Ismael, nômades do deserto conhecidos por suas tendas e rebanhos."
+ },
+ "a416b43": {
+  "pt": "Quedemote",
+  "tipo_pt": "cidade"
+ },
+ "a321cb8": {
+  "pt": "Quedes",
+  "tipo_pt": "cidade"
+ },
+ "a4fa255": {
+  "pt": "Quedes",
+  "tipo_pt": "cidade"
+ },
+ "adb5ae4": {
+  "pt": "Quedes",
+  "tipo_pt": "cidade"
+ },
+ "ad74690": {
+  "pt": "Quedes",
+  "tipo_pt": "cidade"
+ },
+ "a662eed": {
+  "pt": "Quedes",
+  "tipo_pt": "cidade"
+ },
+ "a48191b": {
+  "pt": "Quedes de Naftali",
+  "tipo_pt": "cidade"
+ },
+ "a32d25a": {
+  "pt": "Queelata",
+  "tipo_pt": "acampamento"
+ },
+ "ad9df93": {
+  "pt": "Queila",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade da Sefelá que Davi livrou dos filisteus, mas cujos moradores estavam dispostos a entregá-lo a Saul."
+ },
+ "a4f650b": {
+  "pt": "Quenate",
+  "tipo_pt": "cidade"
+ },
+ "a2d84de": {
+  "pt": "Queriote",
+  "tipo_pt": "cidade"
+ },
+ "af66926": {
+  "pt": "Queriote-Hezrom",
+  "tipo_pt": "cidade"
+ },
+ "ae7836a": {
+  "pt": "Quibrote-Hataavá",
+  "tipo_pt": "cidade",
+  "resumo": "\"Sepulcros da cobiça\", lugar onde morreram os que desejaram carne no deserto."
+ },
+ "a5187a4": {
+  "pt": "Quibzaim",
+  "tipo_pt": "cidade"
+ },
+ "a553110": {
+  "pt": "Cedrom",
+  "tipo_pt": "rio",
+  "resumo": "Vale com riacho a leste de Jerusalém, atravessado por Davi na fuga de Absalão e por Jesus a caminho do Getsêmani."
+ },
+ "ae8f9cf": {
+  "pt": "Quiná",
+  "tipo_pt": "cidade"
+ },
+ "a057d59": {
+  "pt": "Caminho Real",
+  "tipo_pt": "outro"
+ },
+ "ac9f98d": {
+  "pt": "Vale do Rei",
+  "tipo_pt": "vale"
+ },
+ "ab92800": {
+  "pt": "Quir",
+  "tipo_pt": "monte"
+ },
+ "a1a57d0": {
+  "pt": "Quir-Moabe",
+  "tipo_pt": "cidade"
+ },
+ "ab55371": {
+  "pt": "Quir-Haresete",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade fortificada de Moabe, cercada por Israel, Judá e Edom no tempo de Eliseu."
+ },
+ "ad54201": {
+  "pt": "Quiriataim",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade a leste do Jordão, construída por Rúben e depois tomada por Moabe."
+ },
+ "a8f428d": {
+  "pt": "Quiriataim",
+  "tipo_pt": "cidade"
+ },
+ "aeb19d6": {
+  "pt": "Quiriate-Huzote",
+  "tipo_pt": "cidade"
+ },
+ "a9bba61": {
+  "pt": "Quiriate-Jearim",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade onde a arca da aliança ficou por cerca de vinte anos, na casa de Abinadabe, até Davi levá-la a Jerusalém."
+ },
+ "a20364a": {
+  "pt": "Quisiom",
+  "tipo_pt": "cidade"
+ },
+ "a5a6458": {
+  "pt": "Quisom",
+  "tipo_pt": "rio",
+  "resumo": "Ribeiro do vale de Jezreel que arrastou o exército de Sísera e onde Elias matou os profetas de Baal."
+ },
+ "ae5cc46": {
+  "pt": "Quitrom",
+  "tipo_pt": "cidade"
+ },
+ "aeb46a8": {
+  "pt": "Quitim",
+  "tipo_pt": "ilha"
+ },
+ "afe6972": {
+  "pt": "Coa",
+  "tipo_pt": "região"
+ },
+ "af133c0": {
+  "pt": "Coa",
+  "tipo_pt": "região"
+ },
+ "adb1dcf": {
+  "pt": "Cumidi",
+  "tipo_pt": "cidade"
+ },
+ "a8778a3": {
+  "pt": "Laás",
+  "tipo_pt": "cidade"
+ },
+ "ad763b1": {
+  "pt": "Labã",
+  "tipo_pt": "acampamento"
+ },
+ "a3cc590": {
+  "pt": "Laquis",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade fortificada de Judá, conquistada por Josué e depois cercada pelos assírios no tempo do rei Ezequias."
+ },
+ "a62aa3a": {
+  "pt": "Laamás",
+  "tipo_pt": "cidade"
+ },
+ "a7e39d2": {
+  "pt": "Laís",
+  "tipo_pt": "cidade"
+ },
+ "abe5dde": {
+  "pt": "Lacum",
+  "tipo_pt": "cidade"
+ },
+ "a83fb1e": {
+  "pt": "Laodiceia",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade da Ásia Menor cuja igreja, \"morna\", recebeu uma das cartas do Apocalipse."
+ },
+ "a56788c": {
+  "pt": "Laseia",
+  "tipo_pt": "cidade"
+ },
+ "adaef13": {
+  "pt": "Lasa",
+  "tipo_pt": "região"
+ },
+ "a8bbf2b": {
+  "pt": "Lasarom",
+  "tipo_pt": "região"
+ },
+ "a730058": {
+  "pt": "Líbano",
+  "tipo_pt": "região",
+  "resumo": "Cadeia de montanhas ao norte de Israel, famosa pelos cedros usados no templo e nos palácios de Jerusalém."
+ },
+ "ac3ac4e": {
+  "pt": "Lebaote",
+  "tipo_pt": "cidade"
+ },
+ "a9de8b7": {
+  "pt": "Lebe-Camai",
+  "tipo_pt": "região"
+ },
+ "a5eb047": {
+  "pt": "Lebo-Hamate",
+  "tipo_pt": "cidade",
+  "resumo": "\"A entrada de Hamate\", ponto que marcava o limite norte da terra de Israel."
+ },
+ "ab6bb68": {
+  "pt": "Lebona",
+  "tipo_pt": "cidade"
+ },
+ "a9ea180": {
+  "pt": "Leem",
+  "tipo_pt": "cidade"
+ },
+ "aeeaca0": {
+  "pt": "Leí",
+  "tipo_pt": "cidade"
+ },
+ "a97b595": {
+  "pt": "Libna",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade de Judá conquistada por Josué, que depois se rebelou contra o rei Jeorão e foi cercada pelos assírios."
+ },
+ "a3e94bd": {
+  "pt": "Libna",
+  "tipo_pt": "acampamento"
+ },
+ "ac12af9": {
+  "pt": "Líbia",
+  "tipo_pt": "região"
+ },
+ "a2c5cc7": {
+  "pt": "Lode",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade perto de Jope (no Novo Testamento, Lida), onde Pedro curou Eneias."
+ },
+ "a376eed": {
+  "pt": "Lo-Debar",
+  "tipo_pt": "cidade"
+ },
+ "a094036": {
+  "pt": "Bete-Horom de Baixo",
+  "tipo_pt": "cidade",
+  "resumo": "A parte baixa de Bete-Horom, na subida entre a planície e as montanhas."
+ },
+ "aacc081": {
+  "pt": "Fontes de baixo",
+  "tipo_pt": "outro"
+ },
+ "a1ae20f": {
+  "pt": "Tanque de Baixo",
+  "tipo_pt": "construção"
+ },
+ "a38776a": {
+  "pt": "Lude",
+  "tipo_pt": "região"
+ },
+ "a359997": {
+  "pt": "Lude",
+  "tipo_pt": "região"
+ },
+ "a91d516": {
+  "pt": "Luíte",
+  "tipo_pt": "cidade"
+ },
+ "a397042": {
+  "pt": "Luz",
+  "tipo_pt": "cidade",
+  "resumo": "Antigo nome de Betel, onde Jacó teve o sonho da escada."
+ },
+ "a422a1f": {
+  "pt": "Luz",
+  "tipo_pt": "cidade"
+ },
+ "a3668b6": {
+  "pt": "Licaônia",
+  "tipo_pt": "região"
+ },
+ "a19fd03": {
+  "pt": "Lícia",
+  "tipo_pt": "região"
+ },
+ "a2d7b73": {
+  "pt": "Lídia",
+  "tipo_pt": "região"
+ },
+ "af0719d": {
+  "pt": "Listra",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade da Licaônia onde Paulo curou um aleijado, foi apedrejado e conheceu Timóteo."
+ },
+ "acae7cb": {
+  "pt": "Maaca",
+  "tipo_pt": "região",
+  "resumo": "Pequeno reino arameu ao norte, que enviou soldados contra Davi."
+ },
+ "ae60c0c": {
+  "pt": "Maarate",
+  "tipo_pt": "cidade"
+ },
+ "a5e9c87": {
+  "pt": "Prado de Gibeá",
+  "tipo_pt": "outro"
+ },
+ "a69e1b8": {
+  "pt": "Macedônia",
+  "tipo_pt": "região",
+  "resumo": "Região do norte da Grécia que Paulo visitou após uma visão; ali fundou as igrejas de Filipos, Tessalônica e Bereia."
+ },
+ "a3b7885": {
+  "pt": "Macbena",
+  "tipo_pt": "cidade"
+ },
+ "ae00861": {
+  "pt": "Macpela",
+  "tipo_pt": "cidade",
+  "resumo": "Campo com caverna, perto de Hebrom, que Abraão comprou para sepultar Sara; ali foram enterrados os patriarcas."
+ },
+ "abf5daf": {
+  "pt": "Madiama",
+  "tipo_pt": "cidade"
+ },
+ "a8661e2": {
+  "pt": "Madmana",
+  "tipo_pt": "cidade"
+ },
+ "a73a74f": {
+  "pt": "Madmém",
+  "tipo_pt": "cidade"
+ },
+ "a67297a": {
+  "pt": "Madmena",
+  "tipo_pt": "cidade"
+ },
+ "a6c2936": {
+  "pt": "Madom",
+  "tipo_pt": "cidade"
+ },
+ "ad14067": {
+  "pt": "Magadã",
+  "tipo_pt": "cidade"
+ },
+ "ac041e2": {
+  "pt": "Magbis",
+  "tipo_pt": "cidade"
+ },
+ "af75e9e": {
+  "pt": "Magdala",
+  "tipo_pt": "cidade"
+ },
+ "a0d1a62": {
+  "pt": "Magdalsena",
+  "tipo_pt": "cidade"
+ },
+ "ad876c2": {
+  "pt": "Magdolo",
+  "tipo_pt": "cidade"
+ },
+ "ae3d487": {
+  "pt": "Magogue",
+  "tipo_pt": "região"
+ },
+ "ac6f1a8": {
+  "pt": "Maalabe",
+  "tipo_pt": "cidade"
+ },
+ "ae5bfe9": {
+  "pt": "Maanaim",
+  "tipo_pt": "cidade",
+  "resumo": "Lugar onde Jacó viu anjos de Deus; depois, refúgio de Isbosete e de Davi na fuga de Absalão."
+ },
+ "ab3fd96": {
+  "pt": "Acampamento de Dã",
+  "tipo_pt": "acampamento"
+ },
+ "a67325d": {
+  "pt": "Acampamento de Dã",
+  "tipo_pt": "acampamento"
+ },
+ "ac2bb0c": {
+  "pt": "Macaz",
+  "tipo_pt": "cidade"
+ },
+ "ac1fbba": {
+  "pt": "Maquelote",
+  "tipo_pt": "acampamento"
+ },
+ "abf8e4e": {
+  "pt": "Maquedá",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade onde cinco reis amorreus se esconderam numa caverna e foram mortos por Josué."
+ },
+ "a57835d": {
+  "pt": "Malta",
+  "tipo_pt": "ilha"
+ },
+ "aeb9e97": {
+  "pt": "Manre",
+  "tipo_pt": "cidade",
+  "resumo": "Lugar dos carvalhos perto de Hebrom onde Abraão morou e recebeu três visitantes."
+ },
+ "a6e2c95": {
+  "pt": "Manaate",
+  "tipo_pt": "cidade"
+ },
+ "a6845b1": {
+  "pt": "Maom",
+  "tipo_pt": "cidade"
+ },
+ "ad3970d": {
+  "pt": "Mara",
+  "tipo_pt": "mar"
+ },
+ "ad04336": {
+  "pt": "Maralá",
+  "tipo_pt": "cidade"
+ },
+ "a5cda86": {
+  "pt": "Maressa",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade da Sefelá, fortificada por Roboão; terra do profeta Eliézer."
+ },
+ "a1ba491": {
+  "pt": "Marote",
+  "tipo_pt": "cidade"
+ },
+ "a57e0a0": {
+  "pt": "Masreca",
+  "tipo_pt": "cidade"
+ },
+ "a296e06": {
+  "pt": "Massá",
+  "tipo_pt": "acampamento"
+ },
+ "a033373": {
+  "pt": "Mataná",
+  "tipo_pt": "cidade"
+ },
+ "a8c3105": {
+  "pt": "Meara",
+  "tipo_pt": "cidade"
+ },
+ "aa87ef6": {
+  "pt": "Meconá",
+  "tipo_pt": "cidade"
+ },
+ "af4f21c": {
+  "pt": "Medeba",
+  "tipo_pt": "cidade"
+ },
+ "ad2fadf": {
+  "pt": "Média",
+  "tipo_pt": "região",
+  "resumo": "Terra dos medos, povo aliado aos persas; \"a lei dos medos e persas\" não podia ser revogada."
+ },
+ "a8554e3": {
+  "pt": "Megido",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade fortificada junto ao vale de Jezreel, onde morreram os reis Acazias e Josias; seu nome é geralmente ligado a Armagedom."
+ },
+ "a7d1972": {
+  "pt": "Me-Jarcom",
+  "tipo_pt": "rio"
+ },
+ "a8ec269": {
+  "pt": "Mênfis",
+  "tipo_pt": "cidade",
+  "resumo": "Grande cidade do Egito (Nofe em várias traduções), citada pelos profetas e destino de judeus que fugiram para o Egito."
+ },
+ "a97cb23": {
+  "pt": "Mefaate",
+  "tipo_pt": "cidade"
+ },
+ "a8eaad5": {
+  "pt": "Merataim",
+  "tipo_pt": "cidade"
+ },
+ "a505743": {
+  "pt": "Meribá",
+  "tipo_pt": "cidade",
+  "resumo": "Lugar onde o povo brigou com Moisés por falta de água; \"Meribá\" significa \"contenda\"."
+ },
+ "a65db0f": {
+  "pt": "Meribá",
+  "tipo_pt": "acampamento"
+ },
+ "acea44c": {
+  "pt": "Merom",
+  "tipo_pt": "cidade"
+ },
+ "a662bda": {
+  "pt": "Meronote",
+  "tipo_pt": "cidade"
+ },
+ "a8bc4e3": {
+  "pt": "Meroz",
+  "tipo_pt": "cidade"
+ },
+ "a6b4fb2": {
+  "pt": "Messa",
+  "tipo_pt": "região"
+ },
+ "a5f9092": {
+  "pt": "Meseque",
+  "tipo_pt": "região",
+  "resumo": "Povo e terra distante do norte, citados com Tubal nas profecias de Ezequiel."
+ },
+ "a43f60f": {
+  "pt": "Mesopotâmia",
+  "tipo_pt": "região",
+  "resumo": "\"Terra entre os rios\", nome grego da região do Eufrates e do Tigre; de lá era Abraão."
+ },
+ "a0a52ec": {
+  "pt": "Metegue-Ama",
+  "tipo_pt": "cidade"
+ },
+ "a3498b5": {
+  "pt": "Mezaabe",
+  "tipo_pt": "cidade"
+ },
+ "adea06c": {
+  "pt": "Micmás",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade de Benjamim onde Jônatas e seu escudeiro atacaram sozinhos a guarnição filisteia."
+ },
+ "a2f0a70": {
+  "pt": "Micmetá",
+  "tipo_pt": "monte"
+ },
+ "aec139c": {
+  "pt": "Midim",
+  "tipo_pt": "cidade"
+ },
+ "abee1b4": {
+  "pt": "Porta do Meio",
+  "tipo_pt": "porta"
+ },
+ "acc6d8e": {
+  "pt": "Midiã",
+  "tipo_pt": "região",
+  "resumo": "Terra dos midianitas, onde Moisés viveu como pastor depois de fugir do Egito e se casou com Zípora."
+ },
+ "a5f0bc3": {
+  "pt": "Migdal-Ele",
+  "tipo_pt": "cidade"
+ },
+ "a571ca0": {
+  "pt": "Migdal-Gade",
+  "tipo_pt": "cidade"
+ },
+ "a411283": {
+  "pt": "Migdol",
+  "tipo_pt": "cidade"
+ },
+ "aa6d1bd": {
+  "pt": "Migdol",
+  "tipo_pt": "cidade"
+ },
+ "a15973c": {
+  "pt": "Migdol",
+  "tipo_pt": "cidade"
+ },
+ "a4335ba": {
+  "pt": "Migrom",
+  "tipo_pt": "região"
+ },
+ "ade6a96": {
+  "pt": "Migrom",
+  "tipo_pt": "rio"
+ },
+ "a55027d": {
+  "pt": "Mileto",
+  "tipo_pt": "cidade"
+ },
+ "a734b66": {
+  "pt": "Milo",
+  "tipo_pt": "construção",
+  "resumo": "Aterro ou fortificação em Jerusalém, construído por Davi e reforçado por Salomão."
+ },
+ "ae1054e": {
+  "pt": "Mini",
+  "tipo_pt": "região"
+ },
+ "a222545": {
+  "pt": "Minite",
+  "tipo_pt": "cidade"
+ },
+ "a7719f8": {
+  "pt": "Misgabe",
+  "tipo_pt": "cidade"
+ },
+ "a93f8b6": {
+  "pt": "Misal",
+  "tipo_pt": "cidade"
+ },
+ "a5bf0bd": {
+  "pt": "Misrefote-Maim",
+  "tipo_pt": "monte"
+ },
+ "aa5f658": {
+  "pt": "Mitca",
+  "tipo_pt": "acampamento"
+ },
+ "a33910d": {
+  "pt": "Mitilene",
+  "tipo_pt": "cidade"
+ },
+ "a0f8af9": {
+  "pt": "Mispá",
+  "tipo_pt": "cidade"
+ },
+ "aad0fa0": {
+  "pt": "Mispá",
+  "tipo_pt": "região"
+ },
+ "a736f6c": {
+  "pt": "Mispá",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade de Benjamim onde Samuel reunia o povo e onde Saul foi escolhido rei; depois do exílio, sede do governador Gedalias."
+ },
+ "a694ea2": {
+  "pt": "Mispá",
+  "tipo_pt": "outro"
+ },
+ "afc2466": {
+  "pt": "Mispá",
+  "tipo_pt": "cidade"
+ },
+ "a67990c": {
+  "pt": "Mispá",
+  "tipo_pt": "cidade"
+ },
+ "ac702f1": {
+  "pt": "Mispá",
+  "tipo_pt": "cidade"
+ },
+ "aa0b1d6": {
+  "pt": "Moabe",
+  "tipo_pt": "região",
+  "resumo": "Terra a leste do mar Salgado, habitada pelos descendentes de Ló; dali era Rute, e ali Moisés morreu sem entrar em Canaã."
+ },
+ "aca767b": {
+  "pt": "Campos de Moabe",
+  "tipo_pt": "região",
+  "resumo": "As planícies de Moabe junto ao Jordão, diante de Jericó, último acampamento de Israel antes de entrar em Canaã."
+ },
+ "a03a5d0": {
+  "pt": "Moladá",
+  "tipo_pt": "cidade"
+ },
+ "a38ad9f": {
+  "pt": "Moré",
+  "tipo_pt": "outro"
+ },
+ "a772880": {
+  "pt": "Moré",
+  "tipo_pt": "monte"
+ },
+ "a6ac675": {
+  "pt": "Moresete-Gate",
+  "tipo_pt": "cidade"
+ },
+ "adaf385": {
+  "pt": "Moriá",
+  "tipo_pt": "região"
+ },
+ "abcd5f2": {
+  "pt": "Mactés",
+  "tipo_pt": "outro"
+ },
+ "a88331e": {
+  "pt": "Moserote",
+  "tipo_pt": "acampamento"
+ },
+ "a378ddd": {
+  "pt": "Lugar Santíssimo",
+  "tipo_pt": "construção"
+ },
+ "a9acaaf": {
+  "pt": "Lugar Santíssimo",
+  "tipo_pt": "construção",
+  "resumo": "Sala interna do templo de Salomão onde ficava a arca da aliança, onde só o sumo sacerdote entrava uma vez por ano."
+ },
+ "ac2b4ef": {
+  "pt": "Monte Baalá",
+  "tipo_pt": "monte"
+ },
+ "ac8955e": {
+  "pt": "Monte Baal-Hermom",
+  "tipo_pt": "monte"
+ },
+ "aac759d": {
+  "pt": "Monte Basã",
+  "tipo_pt": "monte"
+ },
+ "a3e21c6": {
+  "pt": "Monte Carmelo",
+  "tipo_pt": "monte",
+  "resumo": "Monte junto ao litoral onde Elias desafiou os profetas de Baal e Deus respondeu com fogo."
+ },
+ "aa5cc66": {
+  "pt": "Monte Ebal",
+  "tipo_pt": "monte"
+ },
+ "ac0d1a5": {
+  "pt": "Monte de Efraim",
+  "tipo_pt": "região"
+ },
+ "a75aff4": {
+  "pt": "Monte Efrom",
+  "tipo_pt": "monte"
+ },
+ "a8e843f": {
+  "pt": "Monte Esaú",
+  "tipo_pt": "monte"
+ },
+ "a30e967": {
+  "pt": "Monte Gerizim",
+  "tipo_pt": "monte"
+ },
+ "acf57c5": {
+  "pt": "Monte Gilboa",
+  "tipo_pt": "monte",
+  "resumo": "Monte onde Saul e seus filhos morreram em batalha contra os filisteus."
+ },
+ "a954735": {
+  "pt": "Monte Gileade",
+  "tipo_pt": "monte"
+ },
+ "a11fadd": {
+  "pt": "Monte Halaque",
+  "tipo_pt": "monte"
+ },
+ "aeea26d": {
+  "pt": "Monte Heres",
+  "tipo_pt": "cidade"
+ },
+ "a341fe8": {
+  "pt": "Monte Hermom",
+  "tipo_pt": "monte",
+  "resumo": "Monte alto no extremo norte, limite das conquistas de Israel e lembrado nos Salmos pelo seu orvalho."
+ },
+ "ad8027f": {
+  "pt": "Monte Hor",
+  "tipo_pt": "monte",
+  "resumo": "Monte na fronteira de Edom onde morreu Arão."
+ },
+ "a62fa2d": {
+  "pt": "Monte Hor",
+  "tipo_pt": "monte"
+ },
+ "a9bb03e": {
+  "pt": "Monte Horebe",
+  "tipo_pt": "monte",
+  "resumo": "Outro nome do monte de Deus (Sinai), onde Moisés viu a sarça ardente e para onde Elias fugiu."
+ },
+ "a3587ba": {
+  "pt": "Monte Jearim",
+  "tipo_pt": "monte"
+ },
+ "ac54760": {
+  "pt": "Monte Líbano",
+  "tipo_pt": "monte"
+ },
+ "a597123": {
+  "pt": "Monte Mizar",
+  "tipo_pt": "monte"
+ },
+ "aac1fcf": {
+  "pt": "Monte Moriá",
+  "tipo_pt": "monte"
+ },
+ "aefaa2d": {
+  "pt": "Monte Nebo",
+  "tipo_pt": "monte"
+ },
+ "ac2c4c5": {
+  "pt": "Monte das Oliveiras",
+  "tipo_pt": "monte",
+  "resumo": "Monte a leste de Jerusalém, do outro lado do Cedrom, onde Jesus ensinava, orou antes da prisão e de onde subiu ao céu."
+ },
+ "af693b8": {
+  "pt": "Monte Parã",
+  "tipo_pt": "monte"
+ },
+ "a991067": {
+  "pt": "Monte Perazim",
+  "tipo_pt": "monte"
+ },
+ "ae981db": {
+  "pt": "Monte Seir",
+  "tipo_pt": "monte",
+  "resumo": "Região montanhosa ao sul do mar Salgado onde morou Esaú, identificada com Edom."
+ },
+ "a36c283": {
+  "pt": "Monte Seir",
+  "tipo_pt": "monte"
+ },
+ "a39fe14": {
+  "pt": "Monte Séfer",
+  "tipo_pt": "monte"
+ },
+ "abfba2a": {
+  "pt": "Monte Sinai",
+  "tipo_pt": "monte",
+  "resumo": "Monte onde Deus deu a Lei a Moisés e fez aliança com Israel depois da saída do Egito."
+ },
+ "acd63ee": {
+  "pt": "Monte Tabor",
+  "tipo_pt": "monte",
+  "resumo": "Monte isolado no norte onde Débora e Baraque reuniram o exército contra Sísera."
+ },
+ "a884255": {
+  "pt": "Monte Salmom",
+  "tipo_pt": "monte"
+ },
+ "a5a92d1": {
+  "pt": "Monte Zemaraim",
+  "tipo_pt": "monte"
+ },
+ "abd9596": {
+  "pt": "Monte Sião",
+  "tipo_pt": "monte",
+  "resumo": "O monte de Jerusalém onde ficava a cidade de Davi; nos Salmos e profetas, sinal da presença de Deus com seu povo."
+ },
+ "af35635": {
+  "pt": "Moza",
+  "tipo_pt": "cidade"
+ },
+ "aa9e65f": {
+  "pt": "Porta da Inspeção",
+  "tipo_pt": "porta"
+ },
+ "aa4b3e2": {
+  "pt": "Mira",
+  "tipo_pt": "cidade"
+ },
+ "a2d9bc8": {
+  "pt": "Mísia",
+  "tipo_pt": "região"
+ },
+ "ae7bd8b": {
+  "pt": "Naamá",
+  "tipo_pt": "cidade"
+ },
+ "ac6b210": {
+  "pt": "Naamá",
+  "tipo_pt": "monte"
+ },
+ "a179865": {
+  "pt": "Naarate",
+  "tipo_pt": "cidade"
+ },
+ "a9f5289": {
+  "pt": "Naarã",
+  "tipo_pt": "cidade"
+ },
+ "ac69561": {
+  "pt": "Naalal",
+  "tipo_pt": "cidade"
+ },
+ "a8dafd6": {
+  "pt": "Naaliel",
+  "tipo_pt": "acampamento"
+ },
+ "aff43ac": {
+  "pt": "Naor",
+  "tipo_pt": "cidade"
+ },
+ "ac6cefa": {
+  "pt": "Nauru",
+  "tipo_pt": "cidade"
+ },
+ "aee679c": {
+  "pt": "Naim",
+  "tipo_pt": "cidade"
+ },
+ "ae1c9ea": {
+  "pt": "Naiote",
+  "tipo_pt": "cidade",
+  "resumo": "Lugar em Ramá onde Samuel vivia com um grupo de profetas e onde Davi se refugiou."
+ },
+ "ad05040": {
+  "pt": "Regiões de Dor",
+  "tipo_pt": "região"
+ },
+ "af5884f": {
+  "pt": "Nazaré",
+  "tipo_pt": "cidade",
+  "resumo": "Aldeia da Galileia onde morava Maria, onde Jesus cresceu e de onde veio seu nome \"Jesus de Nazaré\"."
+ },
+ "a2a77d2": {
+  "pt": "Neá",
+  "tipo_pt": "cidade"
+ },
+ "a6a7150": {
+  "pt": "Neápolis",
+  "tipo_pt": "cidade"
+ },
+ "acd682e": {
+  "pt": "Nebalate",
+  "tipo_pt": "cidade"
+ },
+ "ab5bd29": {
+  "pt": "Nebo",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade de Moabe perto do monte Nebo."
+ },
+ "accdd09": {
+  "pt": "Nebo",
+  "tipo_pt": "cidade"
+ },
+ "ac51ba3": {
+  "pt": "Nebo",
+  "tipo_pt": "cidade"
+ },
+ "a1cb244": {
+  "pt": "Negueve",
+  "tipo_pt": "deserto",
+  "resumo": "Região seca do sul de Judá, por onde Abraão e Isaque andaram com seus rebanhos."
+ },
+ "a071cb2": {
+  "pt": "Neelã",
+  "tipo_pt": "cidade"
+ },
+ "ab571de": {
+  "pt": "Neiel",
+  "tipo_pt": "cidade"
+ },
+ "ac1fef1": {
+  "pt": "Neftoa",
+  "tipo_pt": "outro"
+ },
+ "aaa0f54": {
+  "pt": "Netaim",
+  "tipo_pt": "cidade"
+ },
+ "a9ad5ae": {
+  "pt": "Netofá",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade perto de Belém, terra de dois dos valentes de Davi."
+ },
+ "aa85961": {
+  "pt": "Porta Nova",
+  "tipo_pt": "porta"
+ },
+ "aafe3bd": {
+  "pt": "Nezibe",
+  "tipo_pt": "cidade"
+ },
+ "ad96dd4": {
+  "pt": "Nibsã",
+  "tipo_pt": "cidade"
+ },
+ "af43cde": {
+  "pt": "Nicópolis",
+  "tipo_pt": "cidade"
+ },
+ "a012705": {
+  "pt": "Nilo",
+  "tipo_pt": "rio",
+  "resumo": "Grande rio do Egito, em cujas águas o menino Moisés foi colocado num cesto e que foi transformado em sangue na primeira praga."
+ },
+ "a314731": {
+  "pt": "Ninra",
+  "tipo_pt": "cidade"
+ },
+ "ace3edc": {
+  "pt": "Ninrim",
+  "tipo_pt": "rio"
+ },
+ "a8518f1": {
+  "pt": "Ninrode",
+  "tipo_pt": "região"
+ },
+ "a70fd5d": {
+  "pt": "Nínive",
+  "tipo_pt": "cidade",
+  "resumo": "Grande cidade da Assíria, para onde Deus enviou o profeta Jonas e cuja queda foi anunciada por Naum."
+ },
+ "afdda14": {
+  "pt": "Nobe",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade de sacerdotes onde Davi comeu os pães sagrados; Saul mandou matar seus sacerdotes."
+ },
+ "aa23a3e": {
+  "pt": "Noba",
+  "tipo_pt": "cidade"
+ },
+ "a9bf50d": {
+  "pt": "Noba",
+  "tipo_pt": "cidade"
+ },
+ "a1ad8e1": {
+  "pt": "Node",
+  "tipo_pt": "região"
+ },
+ "ab4d194": {
+  "pt": "Menuá",
+  "tipo_pt": "cidade"
+ },
+ "aed6b0e": {
+  "pt": "Nofá",
+  "tipo_pt": "cidade"
+ },
+ "a244929": {
+  "pt": "Norte",
+  "tipo_pt": "região",
+  "resumo": "\"O rei do norte\" em Daniel 11 e as terras do norte, de onde os profetas viam vir invasores."
+ },
+ "aa4589b": {
+  "pt": "Porta do Norte",
+  "tipo_pt": "porta"
+ },
+ "ab66f81": {
+  "pt": "Nuhasse",
+  "tipo_pt": "região"
+ },
+ "a0ef1e1": {
+  "pt": "Obote",
+  "tipo_pt": "acampamento"
+ },
+ "a51e3b0": {
+  "pt": "Tanque Velho",
+  "tipo_pt": "construção"
+ },
+ "ae6bfe2": {
+  "pt": "Ono",
+  "tipo_pt": "cidade"
+ },
+ "af96edd": {
+  "pt": "Ofel",
+  "tipo_pt": "monte"
+ },
+ "a104820": {
+  "pt": "Ofir",
+  "tipo_pt": "região",
+  "resumo": "Terra distante, famosa por seu ouro, para onde iam os navios de Salomão; sua localização é desconhecida."
+ },
+ "a1f2174": {
+  "pt": "Ofni",
+  "tipo_pt": "cidade"
+ },
+ "a53b82d": {
+  "pt": "Ofra",
+  "tipo_pt": "cidade"
+ },
+ "abd637f": {
+  "pt": "Ofra",
+  "tipo_pt": "cidade"
+ },
+ "a8ec7ba": {
+  "pt": "Padã-Arã",
+  "tipo_pt": "região",
+  "resumo": "Região do norte da Mesopotâmia, em volta de Harã, de onde vieram Rebeca, Lia e Raquel."
+ },
+ "aa95188": {
+  "pt": "Panfília",
+  "tipo_pt": "região"
+ },
+ "a314765": {
+  "pt": "Pafo",
+  "tipo_pt": "cidade"
+ },
+ "a2ec6b7": {
+  "pt": "Pará",
+  "tipo_pt": "cidade"
+ },
+ "aa6b19b": {
+  "pt": "Parã",
+  "tipo_pt": "região",
+  "resumo": "Deserto ao sul de Canaã, de onde Moisés enviou os espias."
+ },
+ "ab1d701": {
+  "pt": "Parbar",
+  "tipo_pt": "construção"
+ },
+ "a938779": {
+  "pt": "Parvaim",
+  "tipo_pt": "cidade"
+ },
+ "ade301b": {
+  "pt": "Pátara",
+  "tipo_pt": "cidade"
+ },
+ "aab30ec": {
+  "pt": "Patros",
+  "tipo_pt": "região"
+ },
+ "a8f60f3": {
+  "pt": "Patmos",
+  "tipo_pt": "ilha"
+ },
+ "a880de2": {
+  "pt": "Paú",
+  "tipo_pt": "cidade"
+ },
+ "a4b9865": {
+  "pt": "Pecode",
+  "tipo_pt": "região"
+ },
+ "aa32a17": {
+  "pt": "Pelúsio",
+  "tipo_pt": "cidade"
+ },
+ "a8a9ff9": {
+  "pt": "Peniel",
+  "tipo_pt": "cidade",
+  "resumo": "\"Face de Deus\", nome que Jacó deu ao lugar onde lutou com Deus junto ao Jaboque."
+ },
+ "a6f94a6": {
+  "pt": "Porta dos Filhos do Povo",
+  "tipo_pt": "porta"
+ },
+ "a9ef72b": {
+  "pt": "Peor",
+  "tipo_pt": "monte",
+  "resumo": "Monte de Moabe de onde Balaão olhou para o acampamento de Israel; também ligado ao culto a Baal-Peor."
+ },
+ "ae67841": {
+  "pt": "Perez-Uzá",
+  "tipo_pt": "cidade"
+ },
+ "aff04b8": {
+  "pt": "Perges",
+  "tipo_pt": "cidade"
+ },
+ "a75d2c1": {
+  "pt": "Pérgamo",
+  "tipo_pt": "cidade"
+ },
+ "ab9696f": {
+  "pt": "Pérsia",
+  "tipo_pt": "região",
+  "resumo": "Império que, com Ciro, venceu a Babilônia e permitiu a volta dos judeus; é o cenário de Ester, Esdras e Neemias."
+ },
+ "aa9e754": {
+  "pt": "Petor",
+  "tipo_pt": "cidade"
+ },
+ "a8d054a": {
+  "pt": "Farpar",
+  "tipo_pt": "rio"
+ },
+ "a1c7cc1": {
+  "pt": "Filadélfia",
+  "tipo_pt": "cidade"
+ },
+ "a49e1d0": {
+  "pt": "Filipos",
+  "tipo_pt": "cidade"
+ },
+ "ac71e65": {
+  "pt": "Filístia",
+  "tipo_pt": "região",
+  "resumo": "Faixa do litoral sul de Canaã onde viviam os filisteus, com suas cinco cidades principais."
+ },
+ "a33d53e": {
+  "pt": "Fenícia",
+  "tipo_pt": "região"
+ },
+ "a9ee958": {
+  "pt": "Fênix",
+  "tipo_pt": "cidade"
+ },
+ "ab8ae56": {
+  "pt": "Frígia",
+  "tipo_pt": "região"
+ },
+ "a2cd991": {
+  "pt": "Pibesete",
+  "tipo_pt": "cidade"
+ },
+ "ababfd2": {
+  "pt": "Pi-Hairote",
+  "tipo_pt": "monte"
+ },
+ "a40647c": {
+  "pt": "Piratom",
+  "tipo_pt": "cidade"
+ },
+ "afd9259": {
+  "pt": "Pisga",
+  "tipo_pt": "monte",
+  "resumo": "Cume dos montes de Abarim de onde Moisés viu a terra prometida antes de morrer."
+ },
+ "a19b076": {
+  "pt": "Pisom",
+  "tipo_pt": "mar"
+ },
+ "a55aded": {
+  "pt": "Pisídia",
+  "tipo_pt": "região"
+ },
+ "a3870fe": {
+  "pt": "Pitom",
+  "tipo_pt": "cidade"
+ },
+ "a63c21e": {
+  "pt": "Pitru",
+  "tipo_pt": "cidade"
+ },
+ "a83a43e": {
+  "pt": "Ponto",
+  "tipo_pt": "região"
+ },
+ "a70e895": {
+  "pt": "Porta dos Cacos",
+  "tipo_pt": "porta"
+ },
+ "abc2af0": {
+  "pt": "Ptolemaida",
+  "tipo_pt": "cidade"
+ },
+ "a9ecc26": {
+  "pt": "Punom",
+  "tipo_pt": "cidade"
+ },
+ "a737810": {
+  "pt": "Punte",
+  "tipo_pt": "região"
+ },
+ "ad0520f": {
+  "pt": "Pute",
+  "tipo_pt": "região",
+  "resumo": "Povo e terra da África, citados entre os aliados do Egito."
+ },
+ "a4488e9": {
+  "pt": "Putéoli",
+  "tipo_pt": "cidade"
+ },
+ "a57bb2e": {
+  "pt": "Raamá",
+  "tipo_pt": "cidade"
+ },
+ "ae067b5": {
+  "pt": "Rabá",
+  "tipo_pt": "cidade",
+  "resumo": "Capital dos amonitas, cercada pelo exército de Davi, que ali mandou colocar Urias na linha de frente."
+ },
+ "a28d652": {
+  "pt": "Rabá",
+  "tipo_pt": "cidade"
+ },
+ "a13ffd4": {
+  "pt": "Rabite",
+  "tipo_pt": "cidade"
+ },
+ "a446973": {
+  "pt": "Racal",
+  "tipo_pt": "cidade"
+ },
+ "a9664ba": {
+  "pt": "Ragmate",
+  "tipo_pt": "cidade"
+ },
+ "a204528": {
+  "pt": "Racate",
+  "tipo_pt": "cidade"
+ },
+ "aa3e5ae": {
+  "pt": "Racom",
+  "tipo_pt": "rio"
+ },
+ "a6d57ed": {
+  "pt": "Ramá",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade de Benjamim, perto de Gibeá, onde se ouviu \"Raquel chorando por seus filhos\"."
+ },
+ "a664d03": {
+  "pt": "Ramá",
+  "tipo_pt": "cidade"
+ },
+ "a010244": {
+  "pt": "Ramá",
+  "tipo_pt": "cidade"
+ },
+ "a90f6e1": {
+  "pt": "Ramá",
+  "tipo_pt": "cidade",
+  "resumo": "Ramá de Efraim, cidade natal de Samuel, onde ele morava e foi sepultado."
+ },
+ "ad27541": {
+  "pt": "Ramá",
+  "tipo_pt": "cidade"
+ },
+ "aaa4c6e": {
+  "pt": "Ramá",
+  "tipo_pt": "cidade"
+ },
+ "a75be6f": {
+  "pt": "Ramá",
+  "tipo_pt": "cidade"
+ },
+ "a15bdfd": {
+  "pt": "Ramá",
+  "tipo_pt": "monte"
+ },
+ "ad42cdc": {
+  "pt": "Ramá",
+  "tipo_pt": "cidade"
+ },
+ "a54ef72": {
+  "pt": "Ramataim-Zofim",
+  "tipo_pt": "cidade"
+ },
+ "a601121": {
+  "pt": "Ramate-Leí",
+  "tipo_pt": "cidade"
+ },
+ "a63c954": {
+  "pt": "Ramate-Mispa",
+  "tipo_pt": "cidade"
+ },
+ "a079b21": {
+  "pt": "Ramessés",
+  "tipo_pt": "cidade"
+ },
+ "ada2a0b": {
+  "pt": "Ramote",
+  "tipo_pt": "cidade"
+ },
+ "ab049cf": {
+  "pt": "Ramote",
+  "tipo_pt": "cidade"
+ },
+ "a95147f": {
+  "pt": "Ramote",
+  "tipo_pt": "cidade"
+ },
+ "a2fe63c": {
+  "pt": "Ramote de Gileade",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade de refúgio em Gileade, disputada com os arameus, onde o rei Acabe morreu em batalha."
+ },
+ "a53c3ce": {
+  "pt": "Reca",
+  "tipo_pt": "cidade"
+ },
+ "a3d18b2": {
+  "pt": "Mar Vermelho",
+  "tipo_pt": "mar",
+  "resumo": "Mar que Deus abriu para que Israel atravessasse a pé seco ao sair do Egito (em hebraico, \"mar dos Juncos\")."
+ },
+ "ad64d75": {
+  "pt": "Mar Vermelho",
+  "tipo_pt": "mar"
+ },
+ "a3ba698": {
+  "pt": "Mar Vermelho",
+  "tipo_pt": "mar"
+ },
+ "ae4cd38": {
+  "pt": "Reobe",
+  "tipo_pt": "cidade"
+ },
+ "aaf5fef": {
+  "pt": "Reobe",
+  "tipo_pt": "cidade"
+ },
+ "ab71288": {
+  "pt": "Reobe",
+  "tipo_pt": "cidade"
+ },
+ "ab1d954": {
+  "pt": "Reobote",
+  "tipo_pt": "outro"
+ },
+ "a17e154": {
+  "pt": "Reobote",
+  "tipo_pt": "cidade"
+ },
+ "a260ff1": {
+  "pt": "Reobote-Ir",
+  "tipo_pt": "cidade"
+ },
+ "a1b5486": {
+  "pt": "Requém",
+  "tipo_pt": "cidade"
+ },
+ "ae259d9": {
+  "pt": "Remete",
+  "tipo_pt": "cidade"
+ },
+ "a05ebb7": {
+  "pt": "Refidim",
+  "tipo_pt": "acampamento"
+ },
+ "abd8ada": {
+  "pt": "Resém",
+  "tipo_pt": "cidade"
+ },
+ "aefdac1": {
+  "pt": "Rezefe",
+  "tipo_pt": "cidade"
+ },
+ "a63bb26": {
+  "pt": "Régio",
+  "tipo_pt": "cidade"
+ },
+ "a4218ee": {
+  "pt": "Rodes",
+  "tipo_pt": "ilha"
+ },
+ "a8c207b": {
+  "pt": "Rodes",
+  "tipo_pt": "ilha"
+ },
+ "ab2bde8": {
+  "pt": "Ribla",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade no norte onde o faraó Neco prendeu o rei Jeoacaz e Nabucodonosor julgou o rei Zedequias."
+ },
+ "ac95bd8": {
+  "pt": "Ribla",
+  "tipo_pt": "cidade"
+ },
+ "a45acc3": {
+  "pt": "Rimom",
+  "tipo_pt": "outro"
+ },
+ "a8da370": {
+  "pt": "Rimom",
+  "tipo_pt": "cidade"
+ },
+ "a813f22": {
+  "pt": "Rimom",
+  "tipo_pt": "cidade"
+ },
+ "a655b28": {
+  "pt": "Rimono",
+  "tipo_pt": "cidade"
+ },
+ "ac79b33": {
+  "pt": "Rimom-Perez",
+  "tipo_pt": "acampamento"
+ },
+ "af04ad9": {
+  "pt": "Rissa",
+  "tipo_pt": "acampamento"
+ },
+ "a2e73ba": {
+  "pt": "Ritmá",
+  "tipo_pt": "acampamento"
+ },
+ "a669096": {
+  "pt": "Rio Eufrates",
+  "tipo_pt": "rio"
+ },
+ "a3bb384": {
+  "pt": "Rio Eufrates",
+  "tipo_pt": "rio"
+ },
+ "a897bdb": {
+  "pt": "Selá-Hamalecote",
+  "tipo_pt": "outro"
+ },
+ "a7d0e71": {
+  "pt": "Rogelim",
+  "tipo_pt": "cidade"
+ },
+ "afc8e7a": {
+  "pt": "Roma",
+  "tipo_pt": "cidade",
+  "resumo": "Capital do Império Romano, para onde Paulo escreveu uma carta e onde chegou preso, pregando ali por dois anos."
+ },
+ "a0009b3": {
+  "pt": "Ruma",
+  "tipo_pt": "cidade"
+ },
+ "af9e903": {
+  "pt": "Saar",
+  "tipo_pt": "cidade"
+ },
+ "afa863b": {
+  "pt": "Salamina",
+  "tipo_pt": "cidade"
+ },
+ "ac3bc41": {
+  "pt": "Salcá",
+  "tipo_pt": "cidade"
+ },
+ "aad7e4e": {
+  "pt": "Salém",
+  "tipo_pt": "cidade"
+ },
+ "a86e0b0": {
+  "pt": "Salim",
+  "tipo_pt": "cidade"
+ },
+ "a1c44ea": {
+  "pt": "Salmone",
+  "tipo_pt": "outro"
+ },
+ "a49cd82": {
+  "pt": "Salona",
+  "tipo_pt": "cidade"
+ },
+ "abed304": {
+  "pt": "Mar Salgado",
+  "tipo_pt": "mar",
+  "resumo": "Nome bíblico do mar Morto, lago muito salgado no ponto mais baixo do vale do Jordão."
+ },
+ "a041bb3": {
+  "pt": "Samaria",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade fundada pelo rei Onri como capital do reino do norte (Israel); no tempo de Jesus, nome também da região entre a Judeia e a Galileia."
+ },
+ "a282dce": {
+  "pt": "Samaria",
+  "tipo_pt": "região",
+  "resumo": "A região montanhosa em volta da cidade de Samaria; no Novo Testamento, terra dos samaritanos, por onde Jesus passou."
+ },
+ "acf6ec0": {
+  "pt": "Samos",
+  "tipo_pt": "ilha"
+ },
+ "a68750d": {
+  "pt": "Samotrácia",
+  "tipo_pt": "ilha"
+ },
+ "aeedde4": {
+  "pt": "Sansana",
+  "tipo_pt": "cidade"
+ },
+ "acf15b3": {
+  "pt": "Saparda",
+  "tipo_pt": "cidade"
+ },
+ "a9042c4": {
+  "pt": "Saparre",
+  "tipo_pt": "cidade"
+ },
+ "aab4a5f": {
+  "pt": "Sardes",
+  "tipo_pt": "cidade"
+ },
+ "ab5b542": {
+  "pt": "Saride",
+  "tipo_pt": "cidade"
+ },
+ "a8d18cf": {
+  "pt": "Cítia",
+  "tipo_pt": "região"
+ },
+ "a702ab6": {
+  "pt": "Mar do Egito",
+  "tipo_pt": "mar"
+ },
+ "a562fcc": {
+  "pt": "Mar da Galileia",
+  "tipo_pt": "mar",
+  "resumo": "Lago de água doce no norte (também chamado mar de Quinerete, lago de Genesaré e mar de Tiberíades), onde Jesus acalmou a tempestade e andou sobre as águas."
+ },
+ "ad259d1": {
+  "pt": "Mar de Jazer",
+  "tipo_pt": "mar"
+ },
+ "af74b9f": {
+  "pt": "Secacá",
+  "tipo_pt": "cidade"
+ },
+ "a5ab519": {
+  "pt": "Segunda Parte da cidade",
+  "tipo_pt": "outro"
+ },
+ "a4052df": {
+  "pt": "Secu",
+  "tipo_pt": "cidade"
+ },
+ "a1aff30": {
+  "pt": "Seirá",
+  "tipo_pt": "outro"
+ },
+ "a98b02e": {
+  "pt": "Selá",
+  "tipo_pt": "cidade"
+ },
+ "af8ce6a": {
+  "pt": "Selá",
+  "tipo_pt": "cidade"
+ },
+ "a6343cc": {
+  "pt": "Sela",
+  "tipo_pt": "cidade"
+ },
+ "a6d306d": {
+  "pt": "Selêucia",
+  "tipo_pt": "cidade"
+ },
+ "ac5ba1a": {
+  "pt": "Senaá",
+  "tipo_pt": "cidade"
+ },
+ "a311f80": {
+  "pt": "Sené",
+  "tipo_pt": "outro"
+ },
+ "ad27e17": {
+  "pt": "Senir",
+  "tipo_pt": "monte"
+ },
+ "a3cae2c": {
+  "pt": "Sefar",
+  "tipo_pt": "cidade"
+ },
+ "a0a98de": {
+  "pt": "Sefarade",
+  "tipo_pt": "cidade"
+ },
+ "a282c15": {
+  "pt": "Sefarvaim",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade de onde os assírios trouxeram povos para morar em Samaria."
+ },
+ "a8bb3d8": {
+  "pt": "Penha de Zoelete",
+  "tipo_pt": "outro"
+ },
+ "ae89331": {
+  "pt": "Saalbim",
+  "tipo_pt": "cidade"
+ },
+ "a1303a4": {
+  "pt": "Saalbom",
+  "tipo_pt": "cidade"
+ },
+ "ab6f1f0": {
+  "pt": "Saalim",
+  "tipo_pt": "região"
+ },
+ "a28da66": {
+  "pt": "Saaraim",
+  "tipo_pt": "cidade"
+ },
+ "a488856": {
+  "pt": "Saaraim",
+  "tipo_pt": "cidade"
+ },
+ "a5b01f4": {
+  "pt": "Saazima",
+  "tipo_pt": "cidade"
+ },
+ "a25f8e2": {
+  "pt": "Salisa",
+  "tipo_pt": "região"
+ },
+ "a5d4629": {
+  "pt": "Salequete",
+  "tipo_pt": "porta"
+ },
+ "a846a2a": {
+  "pt": "Samir",
+  "tipo_pt": "cidade"
+ },
+ "af6476f": {
+  "pt": "Samir",
+  "tipo_pt": "cidade"
+ },
+ "a7b3f5d": {
+  "pt": "Safir",
+  "tipo_pt": "cidade"
+ },
+ "a83fd43": {
+  "pt": "Sarom",
+  "tipo_pt": "região",
+  "resumo": "Planície fértil do litoral, famosa pela \"rosa de Sarom\"."
+ },
+ "aa4e69f": {
+  "pt": "Sarom",
+  "tipo_pt": "região"
+ },
+ "a887d36": {
+  "pt": "Saruém",
+  "tipo_pt": "cidade"
+ },
+ "a86d49f": {
+  "pt": "Savé-Quiriataim",
+  "tipo_pt": "outro"
+ },
+ "a81ab85": {
+  "pt": "Sabá",
+  "tipo_pt": "região",
+  "resumo": "Reino distante, cuja rainha visitou Salomão para conhecer sua sabedoria."
+ },
+ "ae44746": {
+  "pt": "Seba",
+  "tipo_pt": "cidade"
+ },
+ "ac53696": {
+  "pt": "Sebarim",
+  "tipo_pt": "outro"
+ },
+ "adf74d4": {
+  "pt": "Siquém",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade entre os montes Ebal e Gerizim onde Abraão ergueu um altar e Josué renovou a aliança; ali Roboão perdeu as tribos do norte."
+ },
+ "aa3d425": {
+  "pt": "Porta das Ovelhas",
+  "tipo_pt": "porta"
+ },
+ "a55136c": {
+  "pt": "Sema",
+  "tipo_pt": "cidade"
+ },
+ "a78f72b": {
+  "pt": "Sem",
+  "tipo_pt": "cidade"
+ },
+ "a9ba60c": {
+  "pt": "Sefã",
+  "tipo_pt": "cidade"
+ },
+ "af084cf": {
+  "pt": "Sefelá",
+  "tipo_pt": "região",
+  "resumo": "Região de colinas baixas entre as montanhas de Judá e a planície do litoral, palco de muitas lutas contra os filisteus."
+ },
+ "ab58876": {
+  "pt": "Sesaque",
+  "tipo_pt": "cidade"
+ },
+ "a305f43": {
+  "pt": "Sior",
+  "tipo_pt": "rio"
+ },
+ "a475518": {
+  "pt": "Sior",
+  "tipo_pt": "rio"
+ },
+ "ac6b338": {
+  "pt": "Sior-Libnate",
+  "tipo_pt": "outro"
+ },
+ "afd2396": {
+  "pt": "Sicrom",
+  "tipo_pt": "cidade"
+ },
+ "a8fe47a": {
+  "pt": "Silim",
+  "tipo_pt": "cidade"
+ },
+ "ae71673": {
+  "pt": "Siloé",
+  "tipo_pt": "construção"
+ },
+ "aa4680a": {
+  "pt": "Siló",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade de Efraim onde ficou o tabernáculo nos tempos de Josué e dos juízes; ali o menino Samuel serviu a Deus."
+ },
+ "a072bae": {
+  "pt": "Sinrom",
+  "tipo_pt": "cidade"
+ },
+ "ae20466": {
+  "pt": "Sinrom-Merom",
+  "tipo_pt": "cidade"
+ },
+ "af725b1": {
+  "pt": "Sinear",
+  "tipo_pt": "região",
+  "resumo": "Antigo nome da Babilônia; ali foi construída a torre de Babel."
+ },
+ "a03f6cf": {
+  "pt": "Siom",
+  "tipo_pt": "cidade"
+ },
+ "af64fb3": {
+  "pt": "Sitim",
+  "tipo_pt": "acampamento"
+ },
+ "aa3bc1e": {
+  "pt": "Soa",
+  "tipo_pt": "região"
+ },
+ "ad16b1e": {
+  "pt": "Sual",
+  "tipo_pt": "região"
+ },
+ "ac86af5": {
+  "pt": "Suném",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade de Issacar, onde Eliseu ressuscitou o filho da mulher que o hospedava."
+ },
+ "acdbce0": {
+  "pt": "Sur",
+  "tipo_pt": "região",
+  "resumo": "Deserto entre o Egito e Canaã, onde o anjo encontrou Agar e por onde Israel passou depois do mar."
+ },
+ "aa10f27": {
+  "pt": "Sibma",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade de Moabe famosa por suas vinhas, lamentada por Isaías e Jeremias."
+ },
+ "ab5d319": {
+  "pt": "Sibraim",
+  "tipo_pt": "cidade"
+ },
+ "a98e4d7": {
+  "pt": "Sidom",
+  "tipo_pt": "cidade",
+  "resumo": "Antiga cidade portuária dos fenícios, ao norte de Tiro; Jesus passou por sua região, e Paulo parou ali a caminho de Roma."
+ },
+ "ab56451": {
+  "pt": "Sila",
+  "tipo_pt": "construção"
+ },
+ "a294859": {
+  "pt": "Siloé",
+  "tipo_pt": "construção"
+ },
+ "a0f54e4": {
+  "pt": "Sim",
+  "tipo_pt": "região"
+ },
+ "a077262": {
+  "pt": "Sifmote",
+  "tipo_pt": "cidade"
+ },
+ "a63b8c7": {
+  "pt": "Sirá",
+  "tipo_pt": "outro"
+ },
+ "aa454f7": {
+  "pt": "Sitna",
+  "tipo_pt": "outro"
+ },
+ "a2e65fb": {
+  "pt": "Esmirna",
+  "tipo_pt": "cidade"
+ },
+ "a39a6b9": {
+  "pt": "Socó",
+  "tipo_pt": "cidade"
+ },
+ "ac9c090": {
+  "pt": "Socó",
+  "tipo_pt": "cidade"
+ },
+ "a64ff72": {
+  "pt": "Socó",
+  "tipo_pt": "cidade"
+ },
+ "a0aa664": {
+  "pt": "Sodoma",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade da planície do Jordão onde morou Ló, destruída por Deus junto com Gomorra por causa de sua maldade."
+ },
+ "a47c817": {
+  "pt": "Pórtico de Salomão",
+  "tipo_pt": "construção"
+ },
+ "a2d4170": {
+  "pt": "Sul",
+  "tipo_pt": "região"
+ },
+ "a422f1c": {
+  "pt": "Sul",
+  "tipo_pt": "região"
+ },
+ "a1c0469": {
+  "pt": "Sul",
+  "tipo_pt": "região",
+  "resumo": "\"O rei do sul\" em Daniel 11, o poder rival ao sul, em geral entendido como o Egito."
+ },
+ "a092025": {
+  "pt": "Porta do Sul",
+  "tipo_pt": "porta"
+ },
+ "a3f0f69": {
+  "pt": "Espanha",
+  "tipo_pt": "região"
+ },
+ "a7aafda": {
+  "pt": "Esparta",
+  "tipo_pt": "cidade"
+ },
+ "af23dbb": {
+  "pt": "Rua Direita",
+  "tipo_pt": "outro"
+ },
+ "a0905b5": {
+  "pt": "Sucote",
+  "tipo_pt": "cidade",
+  "resumo": "Lugar a leste do Jordão onde Jacó construiu cabanas para o gado; seus chefes zombaram de Gideão."
+ },
+ "aa28709": {
+  "pt": "Sucote",
+  "tipo_pt": "cidade"
+ },
+ "af725bb": {
+  "pt": "Sufe",
+  "tipo_pt": "mar"
+ },
+ "a88bcb2": {
+  "pt": "Sufa",
+  "tipo_pt": "mar"
+ },
+ "aadfb8f": {
+  "pt": "Sur",
+  "tipo_pt": "porta"
+ },
+ "a033b84": {
+  "pt": "Susã",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade real do Império Persa, onde se passa a história de Ester e onde Neemias servia ao rei."
+ },
+ "abef753": {
+  "pt": "Sutu",
+  "tipo_pt": "região"
+ },
+ "a27b472": {
+  "pt": "Sicar",
+  "tipo_pt": "cidade"
+ },
+ "a8a6a5b": {
+  "pt": "Sevene",
+  "tipo_pt": "cidade"
+ },
+ "a1e3697": {
+  "pt": "Siracusa",
+  "tipo_pt": "cidade"
+ },
+ "a159fa4": {
+  "pt": "Síria",
+  "tipo_pt": "região",
+  "resumo": "Nome dado em muitas traduções a Arã, o reino arameu com capital em Damasco, vizinho do norte de Israel."
+ },
+ "a890adf": {
+  "pt": "Síria",
+  "tipo_pt": "região",
+  "resumo": "A província romana da Síria no Novo Testamento, onde ficava Antioquia e por onde Paulo passou várias vezes."
+ },
+ "ad36371": {
+  "pt": "Sirte",
+  "tipo_pt": "mar"
+ },
+ "a6f05f6": {
+  "pt": "Taanaque",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade cananeia junto ao vale de Jezreel, perto de onde Débora e Baraque venceram Sísera."
+ },
+ "a5d37f9": {
+  "pt": "Taanate-Siló",
+  "tipo_pt": "cidade"
+ },
+ "ab5c435": {
+  "pt": "Tabate",
+  "tipo_pt": "cidade"
+ },
+ "a5948b2": {
+  "pt": "Meio da Terra",
+  "tipo_pt": "monte"
+ },
+ "a028191": {
+  "pt": "Taberá",
+  "tipo_pt": "acampamento"
+ },
+ "af614df": {
+  "pt": "Tabor",
+  "tipo_pt": "monte"
+ },
+ "a8530e9": {
+  "pt": "Tabor",
+  "tipo_pt": "outro"
+ },
+ "ad797fe": {
+  "pt": "Tadmor",
+  "tipo_pt": "cidade"
+ },
+ "abe40d1": {
+  "pt": "Taate",
+  "tipo_pt": "acampamento"
+ },
+ "adb008c": {
+  "pt": "Tafnes",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade do Egito para onde Jeremias foi levado por judeus que fugiram depois da queda de Jerusalém."
+ },
+ "ab066d7": {
+  "pt": "Tamar",
+  "tipo_pt": "cidade"
+ },
+ "a5947d7": {
+  "pt": "Tamar",
+  "tipo_pt": "cidade"
+ },
+ "a03be2e": {
+  "pt": "Tapua",
+  "tipo_pt": "cidade"
+ },
+ "a2e9e40": {
+  "pt": "Tapua",
+  "tipo_pt": "cidade"
+ },
+ "acfcf28": {
+  "pt": "Tarala",
+  "tipo_pt": "cidade"
+ },
+ "a5f43dd": {
+  "pt": "Társis",
+  "tipo_pt": "região",
+  "resumo": "Lugar distante no ocidente, alcançado por navios, para onde Jonas tentou fugir de Deus; sua localização é debatida."
+ },
+ "af79c1d": {
+  "pt": "Társis",
+  "tipo_pt": "região"
+ },
+ "a666ea0": {
+  "pt": "Tarso",
+  "tipo_pt": "cidade"
+ },
+ "a86d7c7": {
+  "pt": "Tartesso",
+  "tipo_pt": "cidade"
+ },
+ "acfe0a6": {
+  "pt": "Tegarama",
+  "tipo_pt": "cidade"
+ },
+ "a2e3aa0": {
+  "pt": "Tecoa",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade de Judá, ao sul de Belém, terra da mulher sábia que falou a Davi e do profeta Amós."
+ },
+ "a10147d": {
+  "pt": "Tel-Abibe",
+  "tipo_pt": "cidade"
+ },
+ "a0e11c1": {
+  "pt": "Telassar",
+  "tipo_pt": "cidade"
+ },
+ "a6ef6a9": {
+  "pt": "Telém",
+  "tipo_pt": "cidade"
+ },
+ "a0c97c0": {
+  "pt": "Tel-Harsa",
+  "tipo_pt": "cidade"
+ },
+ "a2b5ee9": {
+  "pt": "Tel-Melá",
+  "tipo_pt": "cidade"
+ },
+ "acd48d6": {
+  "pt": "Temã",
+  "tipo_pt": "cidade"
+ },
+ "a831506": {
+  "pt": "Temã",
+  "tipo_pt": "região",
+  "resumo": "Região de Edom, conhecida por seus sábios; Elifaz, amigo de Jó, era temanita."
+ },
+ "a944b90": {
+  "pt": "Tera",
+  "tipo_pt": "acampamento"
+ },
+ "aa4fca2": {
+  "pt": "Tápsaco",
+  "tipo_pt": "cidade"
+ },
+ "a9674fc": {
+  "pt": "Nô",
+  "tipo_pt": "cidade",
+  "resumo": "Grande cidade do sul do Egito (Tebas), anunciada pelos profetas como alvo do juízo de Deus."
+ },
+ "a5d1690": {
+  "pt": "Tebes",
+  "tipo_pt": "cidade"
+ },
+ "a2ebfdf": {
+  "pt": "Telme",
+  "tipo_pt": "cidade"
+ },
+ "a012194": {
+  "pt": "O SENHOR Está Ali",
+  "tipo_pt": "cidade"
+ },
+ "a559399": {
+  "pt": "O SENHOR Proverá",
+  "tipo_pt": "monte"
+ },
+ "afa9d8e": {
+  "pt": "Tessalônica",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade da Macedônia onde Paulo fundou uma igreja, à qual escreveu duas cartas."
+ },
+ "aac5280": {
+  "pt": "Tisbe",
+  "tipo_pt": "cidade"
+ },
+ "afef438": {
+  "pt": "Três Tavernas",
+  "tipo_pt": "cidade"
+ },
+ "a94b661": {
+  "pt": "Tiatira",
+  "tipo_pt": "cidade"
+ },
+ "ac9adc9": {
+  "pt": "Tibérias",
+  "tipo_pt": "cidade"
+ },
+ "a7cdf52": {
+  "pt": "Tibate",
+  "tipo_pt": "cidade"
+ },
+ "a38ebfd": {
+  "pt": "Tigre",
+  "tipo_pt": "rio"
+ },
+ "a21f909": {
+  "pt": "Timna",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade da fronteira de Judá e Dã; uma das Timnas é ligada à história de Sansão."
+ },
+ "ae3f164": {
+  "pt": "Timna",
+  "tipo_pt": "cidade"
+ },
+ "a17c178": {
+  "pt": "Timna",
+  "tipo_pt": "cidade"
+ },
+ "a6e6528": {
+  "pt": "Timnate-Heres",
+  "tipo_pt": "cidade"
+ },
+ "aab8f2d": {
+  "pt": "Tifsa",
+  "tipo_pt": "cidade"
+ },
+ "abf2443": {
+  "pt": "Tifsa",
+  "tipo_pt": "cidade"
+ },
+ "a80d317": {
+  "pt": "Tirsa",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade que foi capital do reino do norte antes de Samaria, nos dias de Jeroboão, Baasa e Zinri."
+ },
+ "a4199a1": {
+  "pt": "Tisbe",
+  "tipo_pt": "cidade"
+ },
+ "aab527c": {
+  "pt": "Tjaru",
+  "tipo_pt": "cidade"
+ },
+ "aaff3e1": {
+  "pt": "Tobe",
+  "tipo_pt": "cidade"
+ },
+ "a23a2e6": {
+  "pt": "Toquém",
+  "tipo_pt": "cidade"
+ },
+ "a7ecf6c": {
+  "pt": "Tofel",
+  "tipo_pt": "cidade"
+ },
+ "ad81b79": {
+  "pt": "Tofete",
+  "tipo_pt": "construção",
+  "resumo": "Lugar no vale de Hinom onde crianças eram queimadas em sacrifício, profanado pelo rei Josias."
+ },
+ "af58391": {
+  "pt": "Torre de Hananel",
+  "tipo_pt": "construção"
+ },
+ "a939939": {
+  "pt": "Torre de Siquém",
+  "tipo_pt": "construção"
+ },
+ "a50eea4": {
+  "pt": "Torre de Meá",
+  "tipo_pt": "construção"
+ },
+ "a721f7f": {
+  "pt": "Torre dos Fornos",
+  "tipo_pt": "construção"
+ },
+ "a85a60a": {
+  "pt": "Traconites",
+  "tipo_pt": "região"
+ },
+ "a91c509": {
+  "pt": "Trôade",
+  "tipo_pt": "cidade",
+  "resumo": "Porto da Ásia onde Paulo viu um macedônio em visão e onde ressuscitou Êutico."
+ },
+ "a6f61d3": {
+  "pt": "Trogílio",
+  "tipo_pt": "outro"
+ },
+ "aaaaead": {
+  "pt": "Tubal",
+  "tipo_pt": "região"
+ },
+ "a160272": {
+  "pt": "Tiro",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade portuária dos fenícios, famosa pelo comércio marítimo; seu rei Hirão forneceu cedros para o templo de Salomão."
+ },
+ "a7a7549": {
+  "pt": "Ulai",
+  "tipo_pt": "rio"
+ },
+ "afa792e": {
+  "pt": "Umá",
+  "tipo_pt": "cidade"
+ },
+ "a72819f": {
+  "pt": "Umman-Manda",
+  "tipo_pt": "região"
+ },
+ "af55829": {
+  "pt": "Ufaz",
+  "tipo_pt": "região"
+ },
+ "ab682e6": {
+  "pt": "Bete-Horom de Cima",
+  "tipo_pt": "cidade"
+ },
+ "a380434": {
+  "pt": "Fontes de cima",
+  "tipo_pt": "outro"
+ },
+ "a532b99": {
+  "pt": "Tanque de Cima",
+  "tipo_pt": "construção"
+ },
+ "ade3503": {
+  "pt": "Upu",
+  "tipo_pt": "região"
+ },
+ "abb1e21": {
+  "pt": "Uqnu",
+  "tipo_pt": "rio"
+ },
+ "a6cf75c": {
+  "pt": "Ur dos Caldeus",
+  "tipo_pt": "região"
+ },
+ "aa01373": {
+  "pt": "Ur",
+  "tipo_pt": "cidade"
+ },
+ "a78592e": {
+  "pt": "Ura",
+  "tipo_pt": "cidade"
+ },
+ "a324c4d": {
+  "pt": "Uz",
+  "tipo_pt": "região"
+ },
+ "a217cc5": {
+  "pt": "Uzal",
+  "tipo_pt": "monte"
+ },
+ "adfab55": {
+  "pt": "Uzá",
+  "tipo_pt": "outro"
+ },
+ "a57ea5f": {
+  "pt": "Uzém-Seerá",
+  "tipo_pt": "cidade"
+ },
+ "a81b7b1": {
+  "pt": "Porta do Vale",
+  "tipo_pt": "porta"
+ },
+ "a31492f": {
+  "pt": "Vale de Acor",
+  "tipo_pt": "vale"
+ },
+ "a2e6de9": {
+  "pt": "Vale de Aijalom",
+  "tipo_pt": "vale"
+ },
+ "a0c71dc": {
+  "pt": "Vale de Áven",
+  "tipo_pt": "vale"
+ },
+ "a1f363e": {
+  "pt": "Vale de Baca",
+  "tipo_pt": "vale"
+ },
+ "a71f834": {
+  "pt": "Vale de Beraca",
+  "tipo_pt": "vale"
+ },
+ "a49037e": {
+  "pt": "Vale da Decisão",
+  "tipo_pt": "vale"
+ },
+ "ab183f8": {
+  "pt": "Vale de Elá",
+  "tipo_pt": "vale"
+ },
+ "a38ecff": {
+  "pt": "Vale de Escol",
+  "tipo_pt": "vale"
+ },
+ "a816ed9": {
+  "pt": "Vale de Gerar",
+  "tipo_pt": "vale"
+ },
+ "a8c579d": {
+  "pt": "Vale de Gibeão",
+  "tipo_pt": "vale"
+ },
+ "a2109c3": {
+  "pt": "Vale da Multidão de Gogue",
+  "tipo_pt": "vale"
+ },
+ "a375f5a": {
+  "pt": "Vale de Hebrom",
+  "tipo_pt": "vale"
+ },
+ "a37c8e6": {
+  "pt": "Vale de Hinom",
+  "tipo_pt": "vale",
+  "resumo": "Vale ao sul de Jerusalém onde se ofereciam crianças em sacrifício a deuses estrangeiros, condenado pelos profetas."
+ },
+ "a3e0180": {
+  "pt": "Vale de Iftá-El",
+  "tipo_pt": "vale"
+ },
+ "a324282": {
+  "pt": "Vale de Josafá",
+  "tipo_pt": "vale"
+ },
+ "ac9a77c": {
+  "pt": "Vale de Jericó",
+  "tipo_pt": "vale"
+ },
+ "aa516c2": {
+  "pt": "Vale de Jezreel",
+  "tipo_pt": "vale"
+ },
+ "ac2192b": {
+  "pt": "Vale de Líbano",
+  "tipo_pt": "vale"
+ },
+ "ae32196": {
+  "pt": "Vale de Mispá",
+  "tipo_pt": "vale"
+ },
+ "a7559e6": {
+  "pt": "Vale de Refaim",
+  "tipo_pt": "vale",
+  "resumo": "Vale perto de Jerusalém onde Davi venceu os filisteus."
+ },
+ "af936bd": {
+  "pt": "Vale do Sal",
+  "tipo_pt": "vale"
+ },
+ "a402ee4": {
+  "pt": "Vale de Savé",
+  "tipo_pt": "vale"
+ },
+ "a01769f": {
+  "pt": "Vale de Sitim",
+  "tipo_pt": "rio"
+ },
+ "a4a5cce": {
+  "pt": "Vale de Sidim",
+  "tipo_pt": "vale"
+ },
+ "a339971": {
+  "pt": "Vale de Soreque",
+  "tipo_pt": "vale"
+ },
+ "aa24fbf": {
+  "pt": "Vale de Sucote",
+  "tipo_pt": "vale"
+ },
+ "af4c2cd": {
+  "pt": "Vale de Arnom",
+  "tipo_pt": "vale",
+  "resumo": "O vale profundo do rio Arnom, fronteira de Moabe."
+ },
+ "a7c5927": {
+  "pt": "Vale de Zeboim",
+  "tipo_pt": "vale"
+ },
+ "a6bf8d4": {
+  "pt": "Vale de Zefatá",
+  "tipo_pt": "vale"
+ },
+ "aaa2177": {
+  "pt": "Vale de Zerede",
+  "tipo_pt": "vale"
+ },
+ "adec54b": {
+  "pt": "Vaebe",
+  "tipo_pt": "acampamento"
+ },
+ "a84c559": {
+  "pt": "Campo do Lavandeiro",
+  "tipo_pt": "outro"
+ },
+ "a0293ff": {
+  "pt": "Porta das Águas",
+  "tipo_pt": "porta"
+ },
+ "a70e38b": {
+  "pt": "Águas de Jericó",
+  "tipo_pt": "rio"
+ },
+ "a6ee047": {
+  "pt": "Águas de Merom",
+  "tipo_pt": "mar"
+ },
+ "a207807": {
+  "pt": "Caminho da Santidade",
+  "tipo_pt": "outro"
+ },
+ "a55c970": {
+  "pt": "Caminho do Mar Vermelho",
+  "tipo_pt": "outro"
+ },
+ "a61d405": {
+  "pt": "Porta do Ocidente",
+  "tipo_pt": "porta"
+ },
+ "ae11a0d": {
+  "pt": "Deserto de Maom",
+  "tipo_pt": "deserto"
+ },
+ "ae50cf1": {
+  "pt": "Deserto do Sinai",
+  "tipo_pt": "deserto",
+  "resumo": "Deserto ao pé do monte Sinai onde Israel acampou quase um ano e recebeu a Lei."
+ },
+ "a50057d": {
+  "pt": "Deserto de Zife",
+  "tipo_pt": "deserto"
+ },
+ "adea7b0": {
+  "pt": "Penhascos das Cabras Montesas",
+  "tipo_pt": "outro"
+ },
+ "a78b87e": {
+  "pt": "Irom",
+  "tipo_pt": "cidade"
+ },
+ "a4e7fa8": {
+  "pt": "Zaanã",
+  "tipo_pt": "cidade"
+ },
+ "a0c4f5e": {
+  "pt": "Zaanim",
+  "tipo_pt": "cidade"
+ },
+ "a74c453": {
+  "pt": "Zair",
+  "tipo_pt": "cidade"
+ },
+ "a93ed69": {
+  "pt": "Salmom",
+  "tipo_pt": "monte"
+ },
+ "a1c6a50": {
+  "pt": "Zalmona",
+  "tipo_pt": "acampamento"
+ },
+ "a28f432": {
+  "pt": "Zanoa",
+  "tipo_pt": "cidade"
+ },
+ "afe28fe": {
+  "pt": "Zanoa",
+  "tipo_pt": "cidade"
+ },
+ "ab49753": {
+  "pt": "Zafom",
+  "tipo_pt": "cidade"
+ },
+ "a78e845": {
+  "pt": "Zafom",
+  "tipo_pt": "monte"
+ },
+ "a6fa2d3": {
+  "pt": "Sarepta",
+  "tipo_pt": "cidade"
+ },
+ "afa84ca": {
+  "pt": "Zaretã",
+  "tipo_pt": "cidade"
+ },
+ "abfbfb9": {
+  "pt": "Zeboim",
+  "tipo_pt": "cidade"
+ },
+ "a7e3823": {
+  "pt": "Zeboim",
+  "tipo_pt": "cidade"
+ },
+ "aab92ca": {
+  "pt": "Zedade",
+  "tipo_pt": "cidade"
+ },
+ "a597dd0": {
+  "pt": "Zela",
+  "tipo_pt": "cidade"
+ },
+ "a44c89d": {
+  "pt": "Zelza",
+  "tipo_pt": "cidade"
+ },
+ "a811a10": {
+  "pt": "Zemaraim",
+  "tipo_pt": "cidade"
+ },
+ "a5e1150": {
+  "pt": "Zenã",
+  "tipo_pt": "cidade"
+ },
+ "a6163e0": {
+  "pt": "Zefate",
+  "tipo_pt": "cidade"
+ },
+ "a061538": {
+  "pt": "Zer",
+  "tipo_pt": "cidade"
+ },
+ "ab5161f": {
+  "pt": "Zerede",
+  "tipo_pt": "rio"
+ },
+ "a07ae2d": {
+  "pt": "Zeredá",
+  "tipo_pt": "cidade"
+ },
+ "a6dc035": {
+  "pt": "Zeredá",
+  "tipo_pt": "cidade"
+ },
+ "a0bccbd": {
+  "pt": "Zererá",
+  "tipo_pt": "cidade"
+ },
+ "a31a510": {
+  "pt": "Zerete-Saar",
+  "tipo_pt": "cidade"
+ },
+ "a8248e0": {
+  "pt": "Zidim",
+  "tipo_pt": "cidade"
+ },
+ "a0ed7ff": {
+  "pt": "Ziclague",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade dada a Davi pelo rei filisteu Aquis, onde ele morou e que os amalequitas saquearam."
+ },
+ "a5bbf9c": {
+  "pt": "Zinri",
+  "tipo_pt": "região"
+ },
+ "a0b5c50": {
+  "pt": "Zim",
+  "tipo_pt": "região",
+  "resumo": "Deserto ao sul de Canaã onde ficava Cades, limite sul da terra."
+ },
+ "a190097": {
+  "pt": "Zim",
+  "tipo_pt": "região"
+ },
+ "af20c46": {
+  "pt": "Sião",
+  "tipo_pt": "cidade",
+  "resumo": "Nome do monte da fortaleza que Davi conquistou em Jerusalém; nos Salmos e profetas, nome poético da própria Jerusalém e do povo de Deus."
+ },
+ "ac2907d": {
+  "pt": "Zior",
+  "tipo_pt": "cidade"
+ },
+ "a9b852f": {
+  "pt": "Zife",
+  "tipo_pt": "cidade"
+ },
+ "aab3ff0": {
+  "pt": "Zife",
+  "tipo_pt": "cidade"
+ },
+ "adf05b8": {
+  "pt": "Zifrom",
+  "tipo_pt": "cidade"
+ },
+ "a4446f1": {
+  "pt": "Ziz",
+  "tipo_pt": "região"
+ },
+ "ac31fee": {
+  "pt": "Zoã",
+  "tipo_pt": "cidade",
+  "resumo": "Antiga cidade do Egito, em cujos campos Deus fez maravilhas segundo o Salmo 78."
+ },
+ "aacfcda": {
+  "pt": "Zoar",
+  "tipo_pt": "cidade",
+  "resumo": "Pequena cidade para onde Ló fugiu quando Sodoma foi destruída."
+ },
+ "a4aa78a": {
+  "pt": "Zobá",
+  "tipo_pt": "região",
+  "resumo": "Reino arameu ao norte de Damasco, vencido por Saul e por Davi."
+ },
+ "ae7f7b5": {
+  "pt": "Zofim",
+  "tipo_pt": "outro"
+ },
+ "a08174b": {
+  "pt": "Zorá",
+  "tipo_pt": "cidade",
+  "resumo": "Cidade da Sefelá, terra natal de Sansão."
+ },
+ "a4d0250": {
+  "pt": "Zufe",
+  "tipo_pt": "região"
+ }
+}

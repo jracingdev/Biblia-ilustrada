@@ -1,0 +1,1062 @@
+{
+ "nota": "O calendário de Israel era lunissolar: cada mês começava com a lua nova (o primeiro fino crescente visto depois do pôr do sol) e tinha 29 ou 30 dias, mas as festas estavam presas às colheitas, que seguem o sol. Doze meses lunares somam cerca de 354 dias, uns 11 a menos que o ano solar; por isso, de tempos em tempos (em média 7 vezes a cada 19 anos, no sistema judaico posterior) acrescentava-se um 13º mês, o Adar II, para que a Páscoa não caísse antes da colheita da cevada. A Bíblia não descreve essa regra; ela é conhecida por fontes judaicas posteriores. Havia dois começos de ano: o ano religioso começava na primavera, em Nisã (Êxodo 12:2), e é por ele que a Bíblia numera os meses ('primeiro mês', 'sétimo mês'); o ano agrícola e civil virava no outono, em Tisri (Êxodo 23:16 fala da colheita 'à saída do ano'), e é aí que o judaísmo posterior celebra o Ano Novo (Rosh Hashaná). Os nomes mudaram com o tempo: antes do exílio a Bíblia usa nomes cananeus/fenícios (Abibe, Zive, Etanim, Bul) ou só números; depois do exílio aparecem nomes de origem babilônica (Nisã, Sivã, Elul, Quisleu, Tebete, Sebate, Adar). Quatro dos nomes usados hoje (Iyar, Tamuz, Av, Marchesvã/Heshvan) não aparecem como nomes de mês no texto bíblico. Incertezas: as equivalências com o nosso calendário são sempre aproximadas (um mês hebraico cai em parte de dois meses nossos e 'anda' de ano para ano); não sabemos exatamente como e por quem a intercalação era decidida no período do Antigo Testamento; e grupos judeus antigos chegaram a usar calendários diferentes (por exemplo, um calendário solar de 364 dias em textos achados em Qumran). O dia começava ao pôr do sol (Gênesis 1:5; Levítico 23:32).",
+ "nota_fonte_extra": [
+  {
+   "fonte": "Calendário babilônico (textos cuneiformes)",
+   "referencia": "nomes dos meses Nisannu, Ayyaru, Simanu, Du'uzu, Abu, Ululu, Tashritu, Arahsamnu, Kislimu, Tebetu, Shabatu, Addaru",
+   "data": "1º milênio a.C."
+  },
+  {
+   "fonte": "Talmude de Jerusalém",
+   "referencia": "Rosh Hashaná 1:2 (afirma que os nomes dos meses 'subiram com eles de Babilônia')",
+   "data": "c. séc. IV-V d.C."
+  },
+  {
+   "fonte": "Calendário de Gezer (inscrição em pedra calcária)",
+   "referencia": "achado em Gezer em 1908; lista as tarefas agrícolas do ano em meses ou bimestres; hoje no Museu Arqueológico de Istambul",
+   "data": "c. séc. X a.C. (aproximado)"
+  },
+  {
+   "fonte": "Manuscritos do mar Morto (Qumran)",
+   "referencia": "textos calendáricos e Livro dos Jubileus, que defendem um ano de 364 dias",
+   "data": "c. séc. II a.C. a séc. I d.C."
+  }
+ ],
+ "meses": [
+  {
+   "id": "nisa",
+   "n": 1,
+   "nome": "Nisã",
+   "outros_nomes": [
+    "Abibe"
+   ],
+   "hebraico": "נִיסָן",
+   "nome_antigo_hebraico": "אָבִיב",
+   "equivale": "março-abril",
+   "estacao": "primavera; fim das chuvas tardias (serôdias)",
+   "agricultura": "Começa a colheita da cevada; 'Abibe' quer dizer espigas verdes/maduras. O linho também estava pronto nesta época (Êxodo 9:31). O Jordão costumava estar cheio pelas chuvas e pelo degelo do Hermom (Josué 3:15).",
+   "festas": [
+    "pascoa",
+    "paes-asmos",
+    "primicias"
+   ],
+   "refs": [
+    "exodo 12:2",
+    "exodo 13:4",
+    "exodo 23:15",
+    "deuteronomio 16:1",
+    "neemias 2:1",
+    "ester 3:7",
+    "exodo 9:31-32",
+    "josue 3:15"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Calendário babilônico (textos cuneiformes)",
+     "referencia": "nomes dos meses Nisannu, Ayyaru, Simanu, Du'uzu, Abu, Ululu, Tashritu, Arahsamnu, Kislimu, Tebetu, Shabatu, Addaru",
+     "data": "1º milênio a.C."
+    }
+   ]
+  },
+  {
+   "id": "iyar",
+   "n": 2,
+   "nome": "Iyar",
+   "outros_nomes": [
+    "Zive (Zife)"
+   ],
+   "hebraico": "אִיָּר",
+   "nome_antigo_hebraico": "זִו",
+   "equivale": "abril-maio",
+   "estacao": "primavera; estação seca começando",
+   "agricultura": "Continua a colheita da cevada e se prepara a do trigo. 'Zive' tem a ver com brilho/florescimento.",
+   "festas": [
+    "pascoa"
+   ],
+   "obs": "Quem estava impuro ou em viagem celebrava a Páscoa um mês depois, em 14 de Iyar (Números 9:10-11); Ezequias fez assim (2 Crônicas 30). O nome Iyar não aparece na Bíblia.",
+   "refs": [
+    "1-reis 6:1",
+    "1-reis 6:37",
+    "numeros 9:10-11",
+    "2-cronicas 30:2",
+    "2-cronicas 30:15"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Calendário babilônico (textos cuneiformes)",
+     "referencia": "nomes dos meses Nisannu, Ayyaru, Simanu, Du'uzu, Abu, Ululu, Tashritu, Arahsamnu, Kislimu, Tebetu, Shabatu, Addaru",
+     "data": "1º milênio a.C."
+    }
+   ]
+  },
+  {
+   "id": "siva",
+   "n": 3,
+   "nome": "Sivã",
+   "outros_nomes": [],
+   "hebraico": "סִיוָן",
+   "equivale": "maio-junho",
+   "estacao": "início do verão seco",
+   "agricultura": "Colheita do trigo. A festa das Semanas (Pentecostes) marca o fim da colheita de cereais (Rute 2:23 mostra as duas colheitas seguidas).",
+   "festas": [
+    "pentecostes"
+   ],
+   "refs": [
+    "ester 8:9",
+    "exodo 19:1",
+    "exodo 34:22",
+    "rute 2:23"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Calendário babilônico (textos cuneiformes)",
+     "referencia": "nomes dos meses Nisannu, Ayyaru, Simanu, Du'uzu, Abu, Ululu, Tashritu, Arahsamnu, Kislimu, Tebetu, Shabatu, Addaru",
+     "data": "1º milênio a.C."
+    }
+   ]
+  },
+  {
+   "id": "tamuz",
+   "n": 4,
+   "nome": "Tamuz",
+   "outros_nomes": [
+    "quarto mês"
+   ],
+   "hebraico": "תַּמּוּז",
+   "equivale": "junho-julho",
+   "estacao": "verão, quente e seco",
+   "agricultura": "Tempo de cuidar das vinhas e de colher as primeiras uvas e figos; os campos de cereal já estão colhidos.",
+   "festas": [
+    "jejuns-zacarias"
+   ],
+   "obs": "Na Bíblia é só 'o quarto mês'. Tamuz aparece como nome de um deus babilônico chorado pelas mulheres (Ezequiel 8:14), não como mês. O muro de Jerusalém foi rompido em 9 do quarto mês (Jeremias 39:2), origem do jejum do quarto mês (Zacarias 8:19).",
+   "refs": [
+    "jeremias 39:2",
+    "zacarias 8:19",
+    "ezequiel 8:14"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Calendário babilônico (textos cuneiformes)",
+     "referencia": "nomes dos meses Nisannu, Ayyaru, Simanu, Du'uzu, Abu, Ululu, Tashritu, Arahsamnu, Kislimu, Tebetu, Shabatu, Addaru",
+     "data": "1º milênio a.C."
+    },
+    {
+     "fonte": "Mixná",
+     "referencia": "Taanit 4:6 (calamidades lembradas em 17 de Tamuz e 9 de Av)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "av",
+   "n": 5,
+   "nome": "Av (Abe)",
+   "outros_nomes": [
+    "quinto mês"
+   ],
+   "hebraico": "אָב",
+   "equivale": "julho-agosto",
+   "estacao": "auge do verão",
+   "agricultura": "Colheita de uvas, figos e azeitonas verdes; muito calor e nenhuma chuva.",
+   "festas": [
+    "jejuns-zacarias"
+   ],
+   "obs": "Na Bíblia é 'o quinto mês'. O templo de Salomão foi queimado neste mês (2 Reis 25:8 diz dia 7; Jeremias 52:12 diz dia 10). A tradição judaica posterior fixou o luto em 9 de Av.",
+   "refs": [
+    "2-reis 25:8",
+    "jeremias 52:12",
+    "zacarias 7:3-5",
+    "zacarias 8:19"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Calendário babilônico (textos cuneiformes)",
+     "referencia": "nomes dos meses Nisannu, Ayyaru, Simanu, Du'uzu, Abu, Ululu, Tashritu, Arahsamnu, Kislimu, Tebetu, Shabatu, Addaru",
+     "data": "1º milênio a.C."
+    },
+    {
+     "fonte": "Mixná",
+     "referencia": "Taanit 4:6 (calamidades lembradas em 17 de Tamuz e 9 de Av)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "elul",
+   "n": 6,
+   "nome": "Elul",
+   "outros_nomes": [],
+   "hebraico": "אֱלוּל",
+   "equivale": "agosto-setembro",
+   "estacao": "fim do verão",
+   "agricultura": "Vindima (colheita das uvas) e pisa no lagar; colheita de tâmaras e figos de verão.",
+   "festas": [],
+   "refs": [
+    "neemias 6:15"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Calendário babilônico (textos cuneiformes)",
+     "referencia": "nomes dos meses Nisannu, Ayyaru, Simanu, Du'uzu, Abu, Ululu, Tashritu, Arahsamnu, Kislimu, Tebetu, Shabatu, Addaru",
+     "data": "1º milênio a.C."
+    }
+   ]
+  },
+  {
+   "id": "tisri",
+   "n": 7,
+   "nome": "Tisri",
+   "outros_nomes": [
+    "Etanim"
+   ],
+   "hebraico": "תִּשְׁרֵי",
+   "nome_antigo_hebraico": "אֵתָנִים",
+   "equivale": "setembro-outubro",
+   "estacao": "outono; chegam as primeiras chuvas",
+   "agricultura": "Fim da colheita de frutos (uvas, azeitonas) e início da aradura, assim que a primeira chuva amolece a terra. 'Etanim' costuma ser explicado como 'mês dos rios perenes'.",
+   "festas": [
+    "trombetas",
+    "expiacao",
+    "tabernaculos",
+    "jejuns-zacarias"
+   ],
+   "obs": "Mês mais cheio de festas. Começo do ano civil e agrícola (Êxodo 23:16). O jejum do sétimo mês lembra o assassinato de Gedalias (2 Reis 25:25).",
+   "refs": [
+    "1-reis 8:2",
+    "levitico 23:24-25",
+    "levitico 23:27",
+    "levitico 23:34",
+    "exodo 23:16",
+    "2-reis 25:25",
+    "jeremias 41:1-2"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Calendário babilônico (textos cuneiformes)",
+     "referencia": "nomes dos meses Nisannu, Ayyaru, Simanu, Du'uzu, Abu, Ululu, Tashritu, Arahsamnu, Kislimu, Tebetu, Shabatu, Addaru",
+     "data": "1º milênio a.C."
+    },
+    {
+     "fonte": "Mixná",
+     "referencia": "Rosh Hashaná 1:1 (1º de Tisri como início de ano para contagem dos anos)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "marchesva",
+   "n": 8,
+   "nome": "Marchesvã (Heshvan)",
+   "outros_nomes": [
+    "Bul"
+   ],
+   "hebraico": "מַרְחֶשְׁוָן",
+   "nome_antigo_hebraico": "בּוּל",
+   "equivale": "outubro-novembro",
+   "estacao": "outono; primeiras chuvas (a 'chuva temporã')",
+   "agricultura": "Semeadura do trigo e da cevada; colheita final das azeitonas e preparo do azeite.",
+   "festas": [],
+   "obs": "Jeroboão criou no norte uma festa no dia 15 do oitavo mês, imitando Tabernáculos (1 Reis 12:32-33). O nome Marchesvã não aparece na Bíblia.",
+   "refs": [
+    "1-reis 6:38",
+    "1-reis 12:32-33",
+    "deuteronomio 11:14",
+    "joel 2:23"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Calendário babilônico (textos cuneiformes)",
+     "referencia": "nomes dos meses Nisannu, Ayyaru, Simanu, Du'uzu, Abu, Ululu, Tashritu, Arahsamnu, Kislimu, Tebetu, Shabatu, Addaru",
+     "data": "1º milênio a.C."
+    }
+   ]
+  },
+  {
+   "id": "quisleu",
+   "n": 9,
+   "nome": "Quisleu",
+   "outros_nomes": [],
+   "hebraico": "כִּסְלֵו",
+   "equivale": "novembro-dezembro",
+   "estacao": "início do inverno chuvoso",
+   "agricultura": "Ainda se semeia; chuvas e frio; o rei Jeoaquim se aquecia num braseiro no nono mês (Jeremias 36:22).",
+   "festas": [
+    "hanuca"
+   ],
+   "refs": [
+    "neemias 1:1",
+    "zacarias 7:1",
+    "jeremias 36:22",
+    "joao 10:22-23"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Calendário babilônico (textos cuneiformes)",
+     "referencia": "nomes dos meses Nisannu, Ayyaru, Simanu, Du'uzu, Abu, Ululu, Tashritu, Arahsamnu, Kislimu, Tebetu, Shabatu, Addaru",
+     "data": "1º milênio a.C."
+    }
+   ]
+  },
+  {
+   "id": "tebete",
+   "n": 10,
+   "nome": "Tebete",
+   "outros_nomes": [],
+   "hebraico": "טֵבֵת",
+   "equivale": "dezembro-janeiro",
+   "estacao": "inverno; chuvas mais fortes",
+   "agricultura": "Os cereais semeados brotam; pouco trabalho no campo além de cuidar do rebanho.",
+   "festas": [
+    "hanuca",
+    "jejuns-zacarias"
+   ],
+   "obs": "O cerco babilônico de Jerusalém começou no dia 10 do décimo mês (2 Reis 25:1; Ezequiel 24:1-2), origem do jejum do décimo mês.",
+   "refs": [
+    "ester 2:16",
+    "2-reis 25:1",
+    "ezequiel 24:1-2"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Calendário babilônico (textos cuneiformes)",
+     "referencia": "nomes dos meses Nisannu, Ayyaru, Simanu, Du'uzu, Abu, Ululu, Tashritu, Arahsamnu, Kislimu, Tebetu, Shabatu, Addaru",
+     "data": "1º milênio a.C."
+    }
+   ]
+  },
+  {
+   "id": "sebate",
+   "n": 11,
+   "nome": "Sebate",
+   "outros_nomes": [],
+   "hebraico": "שְׁבָט",
+   "equivale": "janeiro-fevereiro",
+   "estacao": "inverno; chuvas",
+   "agricultura": "As amendoeiras começam a florir; os campos estão verdes.",
+   "festas": [],
+   "refs": [
+    "zacarias 1:7",
+    "deuteronomio 1:3"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Calendário babilônico (textos cuneiformes)",
+     "referencia": "nomes dos meses Nisannu, Ayyaru, Simanu, Du'uzu, Abu, Ululu, Tashritu, Arahsamnu, Kislimu, Tebetu, Shabatu, Addaru",
+     "data": "1º milênio a.C."
+    }
+   ]
+  },
+  {
+   "id": "adar",
+   "n": 12,
+   "nome": "Adar",
+   "outros_nomes": [],
+   "hebraico": "אֲדָר",
+   "equivale": "fevereiro-março",
+   "estacao": "fim do inverno; chuvas tardias (serôdias)",
+   "agricultura": "As chuvas tardias enchem as espigas; o linho se aproxima da colheita; a cevada amadurece no fim do mês ou no seguinte.",
+   "festas": [
+    "purim"
+   ],
+   "refs": [
+    "ester 3:7",
+    "ester 9:1",
+    "ester 9:21",
+    "esdras 6:15"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Calendário babilônico (textos cuneiformes)",
+     "referencia": "nomes dos meses Nisannu, Ayyaru, Simanu, Du'uzu, Abu, Ululu, Tashritu, Arahsamnu, Kislimu, Tebetu, Shabatu, Addaru",
+     "data": "1º milênio a.C."
+    }
+   ]
+  },
+  {
+   "id": "adar-ii",
+   "n": 13,
+   "nome": "Adar II (Veadar)",
+   "outros_nomes": [
+    "segundo Adar",
+    "mês intercalar"
+   ],
+   "hebraico": "אֲדָר ב׳",
+   "equivale": "março-abril, só nos anos com 13 meses",
+   "estacao": "fim do inverno / início da primavera",
+   "agricultura": "Era acrescentado quando a cevada, os frutos ou o sol indicavam que a primavera ainda não tinha chegado, para que a Páscoa caísse no tempo da colheita.",
+   "festas": [
+    "purim"
+   ],
+   "obs": "Não é mencionado na Bíblia; a necessidade dele decorre de um calendário lunar preso às colheitas. No calendário judaico fixo (adotado séculos depois de Cristo) entra em 7 de cada 19 anos, e nesses anos o Purim é celebrado no Adar II.",
+   "refs": [],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Meguilá 1:4 (se o ano for intercalado depois da leitura de Ester no primeiro Adar, lê-se de novo no segundo)",
+     "data": "c. 200 d.C."
+    },
+    {
+     "fonte": "Talmude Babilônico",
+     "referencia": "Sanhedrin 11a-b (critérios para intercalar o ano, como o amadurecimento da cevada)",
+     "data": "c. séc. V-VI d.C."
+    }
+   ]
+  }
+ ],
+ "festas": [
+  {
+   "id": "sabado",
+   "nome": "Sábado",
+   "hebraico": "שַׁבָּת",
+   "translit": "Shabbat",
+   "quando": "todo sétimo dia da semana, do pôr do sol de sexta ao pôr do sol de sábado",
+   "duracao": "1 dia",
+   "origem": "Ligado ao descanso de Deus no sétimo dia da criação (Gênesis 2:2-3) e à libertação do Egito (Deuteronômio 5:15); aparece como mandamento no Decálogo e é chamado 'sinal' entre Deus e Israel.",
+   "como": "Ninguém trabalhava: nem a família, nem os servos, nem os estrangeiros, nem os animais. O maná não caía no sábado e devia ser recolhido em dobro na sexta (Êxodo 16). Era também dia de 'santa convocação' e, mais tarde, de leitura e oração na sinagoga.",
+   "simbolismo": "Descanso, liberdade (escravos não têm descanso) e lembrança de que o tempo pertence a Deus.",
+   "no_nt": "Jesus frequentava a sinagoga no sábado, curava nesse dia e discutia com fariseus sobre o que era permitido, dizendo que 'o sábado foi feito por causa do ser humano'. Os primeiros cristãos também se reuniam no 'primeiro dia da semana', dia da ressurreição. Hebreus fala de um 'repouso' que ainda resta ao povo de Deus.",
+   "hoje": "Os judeus guardam o Shabat de sexta à noite a sábado à noite. A maioria dos cristãos se reúne no domingo; algumas igrejas (como adventistas e batistas do sétimo dia) guardam o sábado. O modo de entender a relação entre sábado e domingo varia entre as tradições.",
+   "refs": [
+    "genesis 2:2-3",
+    "exodo 16:23-30",
+    "exodo 20:8-11",
+    "exodo 31:13",
+    "deuteronomio 5:12-15",
+    "levitico 23:3",
+    "neemias 13:19",
+    "marcos 2:27",
+    "lucas 4:16",
+    "lucas 13:10-16",
+    "atos 20:7",
+    "hebreus 4:9"
+   ]
+  },
+  {
+   "id": "lua-nova",
+   "nome": "Lua nova (começo do mês)",
+   "hebraico": "רֹאשׁ חֹדֶשׁ",
+   "translit": "Rosh Chodesh",
+   "quando": "1º dia de cada mês, quando aparecia o novo crescente",
+   "duracao": "1 dia (às vezes 2, como na mesa de Saul)",
+   "origem": "Como os meses eram lunares, o aparecimento da lua nova marcava o início do mês; a Lei mandava sacrifícios e o toque de trombetas.",
+   "como": "Ofereciam-se holocaustos especiais e tocavam-se trombetas. Era dia de banquete (Davi era esperado à mesa de Saul), de visitar profetas e de pausa no comércio, segundo Amós.",
+   "simbolismo": "Consagrar a Deus o começo de cada novo período de tempo.",
+   "no_nt": "Paulo menciona a lua nova junto com festas e sábados como 'sombra das coisas futuras' (Colossenses 2:16-17).",
+   "hoje": "No judaísmo, o Rosh Chodesh é um dia de orações e leituras próprias, sem descanso obrigatório. Não é observado pelas igrejas cristãs.",
+   "refs": [
+    "numeros 10:10",
+    "numeros 28:11",
+    "1-samuel 20:5",
+    "1-samuel 20:18",
+    "2-reis 4:23",
+    "amos 8:5",
+    "salmos 81:3",
+    "isaias 66:23",
+    "ezequiel 46:1",
+    "colossenses 2:16-17"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Rosh Hashaná 1-2 (testemunhas que viam a lua nova eram interrogadas pelo tribunal em Jerusalém)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "pascoa",
+   "nome": "Páscoa",
+   "hebraico": "פֶּסַח",
+   "translit": "Pessach",
+   "quando": "14 de Nisã, ao entardecer",
+   "duracao": "uma noite; emendava com os 7 dias dos Pães Asmos, e os dois nomes passaram a designar a festa inteira",
+   "origem": "A noite da saída do Egito: o sangue do cordeiro nas portas fez o Senhor 'passar por cima' (pessach) das casas dos israelitas na décima praga.",
+   "como": "Cada família escolhia um cordeiro (ou cabrito) sem defeito no dia 10, sacrificava-o no dia 14 ao entardecer e o comia assado, com pães sem fermento e ervas amargas, sem quebrar os ossos. Na primeira Páscoa, comeram em pé, prontos para a viagem. Os filhos perguntavam o sentido do rito e os pais contavam a história. Depois, a Páscoa passou a ser celebrada em Jerusalém, uma das três festas de peregrinação.",
+   "simbolismo": "Libertação, redenção pelo sangue e memória de um povo que nasce saindo da escravidão.",
+   "no_nt": "Jesus foi a Jerusalém para a Páscoa desde menino e morreu numa semana de Páscoa. Na última ceia, deu ao pão e ao cálice um novo sentido (seu corpo e seu sangue). Paulo chama Cristo de 'nosso cordeiro da páscoa', e João liga a cruz à regra de não quebrar os ossos do cordeiro. Os Evangelhos sinóticos apresentam a última ceia como refeição pascal; o de João situa a crucificação no dia em que os cordeiros eram preparados (João 18:28; 19:14). Os estudiosos propõem várias maneiras de harmonizar ou explicar essa diferença.",
+   "hoje": "Os judeus celebram o Pessach com o Sêder, uma refeição em família que reconta a saída do Egito. Os cristãos celebram a Páscoa como festa da ressurreição de Jesus, e a Ceia do Senhor (Eucaristia) recorda a última ceia.",
+   "refs": [
+    "exodo 12:1-14",
+    "exodo 12:24-27",
+    "exodo 12:46",
+    "levitico 23:5",
+    "deuteronomio 16:1",
+    "lucas 2:41-42",
+    "lucas 22:7-8",
+    "lucas 22:15",
+    "mateus 26:26-28",
+    "joao 18:28",
+    "joao 19:14",
+    "joao 19:36",
+    "1-corintios 5:7"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "tratado Pesachim (regras do sacrifício e da refeição pascal no tempo do segundo templo)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "paes-asmos",
+   "nome": "Pães Asmos (Pães Ázimos)",
+   "hebraico": "חַג הַמַּצּוֹת",
+   "translit": "Chag haMatsot",
+   "quando": "15 a 21 de Nisã",
+   "duracao": "7 dias; o primeiro e o sétimo eram dias de 'santa convocação', sem trabalho servil",
+   "origem": "Lembra a pressa da saída do Egito, quando a massa não teve tempo de levedar.",
+   "como": "Todo fermento era retirado das casas e se comia apenas pão sem fermento durante sete dias. Havia ofertas diárias no santuário. Era uma das três festas em que os homens deviam se apresentar diante do Senhor.",
+   "simbolismo": "Começo novo e puro; o fermento passou a servir de imagem da corrupção que se espalha.",
+   "no_nt": "Os Evangelhos chamam a semana da Paixão de 'festa dos pães sem fermento'. Paulo usa a imagem: 'limpai o velho fermento... façamos festa com pães não levedados de sinceridade e de verdade'.",
+   "hoje": "Os judeus comem matsá e evitam fermento durante os dias de Pessach. Muitas igrejas usam pão ázimo na Ceia.",
+   "refs": [
+    "exodo 12:15-20",
+    "exodo 23:15",
+    "exodo 34:18",
+    "levitico 23:6-8",
+    "deuteronomio 16:16",
+    "mateus 26:17",
+    "marcos 14:12",
+    "1-corintios 5:7-8"
+   ]
+  },
+  {
+   "id": "primicias",
+   "nome": "Primícias (oferta do primeiro feixe)",
+   "hebraico": "רֵאשִׁית / עֹמֶר",
+   "translit": "Reshit / Omer",
+   "quando": "'no dia seguinte ao sábado' da semana dos Pães Asmos",
+   "duracao": "1 dia",
+   "origem": "Ordenada para quando Israel estivesse na terra e colhesse a primeira cevada.",
+   "como": "O sacerdote movia diante do Senhor um feixe (ômer) da primeira cevada; antes disso não se podia comer grão novo. Dessa data se contavam sete semanas até Pentecostes.",
+   "simbolismo": "Reconhecer que a colheita inteira vem de Deus, entregando a ele a primeira parte.",
+   "no_nt": "Paulo chama Cristo ressuscitado de 'primícias dos que dormiram'. Como Jesus ressuscitou 'no primeiro dia da semana' durante os Pães Asmos, muitos leitores veem aí uma ligação com esta oferta.",
+   "hoje": "Os judeus fazem a 'contagem do ômer' entre Pessach e Shavuot. Para os cristãos, a data se aproxima do domingo de Páscoa.",
+   "nota": "Já na Antiguidade se discutia qual 'sábado' é este: os fariseus entendiam o primeiro dia festivo dos Pães Asmos (a oferta cairia sempre em 16 de Nisã); outros grupos (como os saduceus/boetusianos) entendiam o sábado semanal (a oferta cairia sempre num domingo).",
+   "refs": [
+    "levitico 23:10-14",
+    "1-corintios 15:20",
+    "marcos 16:1-2"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Menachot 10:3 (polêmica com os boetusianos sobre a data do ômer)",
+     "data": "c. 200 d.C."
+    },
+    {
+     "fonte": "Flávio Josefo",
+     "referencia": "Antiguidades Judaicas 3.10.5 (ômer oferecido no dia 16 do mês)",
+     "data": "c. 93-94 d.C."
+    }
+   ]
+  },
+  {
+   "id": "pentecostes",
+   "nome": "Pentecostes (festa das Semanas)",
+   "hebraico": "שָׁבוּעוֹת",
+   "translit": "Shavuot",
+   "quando": "50 dias depois da oferta das primícias (em Sivã)",
+   "duracao": "1 dia",
+   "origem": "Festa da colheita do trigo, ao fim de 'sete semanas completas' de colheita. 'Pentecostes' vem do grego e quer dizer 'quinquagésimo'.",
+   "como": "Ofereciam-se dois pães levedados feitos com o trigo novo, além de sacrifícios. Era dia de alegria para toda a casa, incluindo servos, levitas, estrangeiros, órfãos e viúvas, e uma das três festas de peregrinação.",
+   "simbolismo": "Gratidão pela colheita completa e partilha com os necessitados.",
+   "no_nt": "No Pentecostes depois da ressurreição, o Espírito Santo veio sobre os discípulos em Jerusalém, cheia de judeus peregrinos de muitas nações. Paulo também organizava viagens em torno da festa.",
+   "hoje": "Os judeus celebram o Shavuot e, por tradição, ligam a festa à entrega da Lei no Sinai (Israel chegou ao Sinai no terceiro mês, Êxodo 19:1). Os cristãos celebram Pentecostes como festa do Espírito Santo, 50 dias depois da Páscoa.",
+   "refs": [
+    "exodo 34:22",
+    "levitico 23:15-21",
+    "numeros 28:26",
+    "deuteronomio 16:9-12",
+    "exodo 19:1",
+    "atos 2:1-4",
+    "atos 2:5-11",
+    "atos 20:16",
+    "1-corintios 16:8"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Talmude Babilônico",
+     "referencia": "Pesachim 68b (Shavuot como 'o dia em que a Torá foi dada')",
+     "data": "c. séc. V-VI d.C."
+    }
+   ]
+  },
+  {
+   "id": "trombetas",
+   "nome": "Festa das Trombetas",
+   "hebraico": "יוֹם תְּרוּעָה",
+   "translit": "Yom Teruá (depois, Rosh Hashaná)",
+   "quando": "1º de Tisri (7º mês)",
+   "duracao": "1 dia",
+   "origem": "A Lei manda um dia de descanso e 'memorial com toque de trombetas' no primeiro dia do sétimo mês; o texto não explica o motivo histórico.",
+   "como": "Descanso, santa convocação, ofertas e toque de trombetas/chifres. Foi nesse dia que Esdras leu a Lei ao povo depois do exílio.",
+   "simbolismo": "Chamado de atenção ao início do mês das grandes festas, preparando para o Dia da Expiação.",
+   "no_nt": "O NT não menciona esta festa pelo nome. A imagem da trombeta aparece ligada à volta de Cristo e à ressurreição (1 Tessalonicenses 4:16; 1 Coríntios 15:52); alguns intérpretes relacionam isso à festa, outros não.",
+   "hoje": "Os judeus celebram Rosh Hashaná, o Ano Novo, com o toque do shofar e início dos 'Dez Dias de Arrependimento'.",
+   "refs": [
+    "levitico 23:24-25",
+    "numeros 29:1",
+    "neemias 8:2",
+    "1-tessalonicenses 4:16",
+    "1-corintios 15:52"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Rosh Hashaná 1:1 e cap. 3-4 (ano novo em 1º de Tisri; regras do shofar)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "expiacao",
+   "nome": "Dia da Expiação",
+   "hebraico": "יוֹם הַכִּפֻּרִים",
+   "translit": "Yom Kipur",
+   "quando": "10 de Tisri",
+   "duracao": "1 dia, 'de tarde a tarde'",
+   "origem": "Instituído na Lei como purificação anual do santuário e do povo.",
+   "como": "Dia de jejum ('afligireis as vossas almas') e descanso total. Só nesse dia o sumo sacerdote entrava no Santo dos Santos, com sangue, por si e pelo povo. Dois bodes: um era sacrificado; sobre o outro, o sumo sacerdote confessava os pecados do povo e o mandava para o deserto, 'para Azazel' (sentido da palavra é discutido).",
+   "simbolismo": "Perdão, purificação e retirada do pecado para longe do povo.",
+   "no_nt": "Hebreus compara a obra de Cristo com este dia: ele entra 'uma vez por todas' no santuário celestial com o próprio sangue. Atos 27:9 chama esta data simplesmente de 'o jejum', usada para indicar o começo do período perigoso de navegação no outono.",
+   "hoje": "É o dia mais solene do judaísmo, com jejum de cerca de 25 horas e orações na sinagoga. Os cristãos o leem como figura da obra de Cristo, sem celebrá-lo.",
+   "refs": [
+    "levitico 16:2",
+    "levitico 16:8-10",
+    "levitico 16:21-22",
+    "levitico 16:29-34",
+    "levitico 23:27-32",
+    "hebreus 9:7",
+    "hebreus 9:11-12",
+    "hebreus 9:24-26",
+    "atos 27:9"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "tratado Yoma (o ritual do sumo sacerdote no segundo templo)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "tabernaculos",
+   "nome": "Tabernáculos (Cabanas, Tendas)",
+   "hebraico": "סֻכּוֹת",
+   "translit": "Sukot",
+   "quando": "15 a 21 de Tisri, mais um 8º dia solene (22 de Tisri)",
+   "duracao": "7 dias + 1",
+   "origem": "Festa da colheita final de frutos ('festa da colheita à saída do ano') e memória dos anos no deserto, quando Israel morou em tendas.",
+   "como": "O povo morava sete dias em cabanas de ramos, levava ramos de palmeiras e de outras árvores e se alegrava diante do Senhor com toda a família, os pobres e os estrangeiros. Era a maior festa de peregrinação; a cada sete anos, a Lei era lida em público nela. Depois do exílio, o povo voltou a fazer as cabanas nos terraços e praças.",
+   "simbolismo": "Gratidão pela colheita, dependência de Deus no caminho e alegria comunitária.",
+   "no_nt": "Jesus foi a Jerusalém nesta festa (João 7). No 'último e grande dia' ele convidou quem tivesse sede a vir a ele, e depois se disse 'a luz do mundo'. Muitos comentaristas ligam essas falas a ritos de água e de luz que a Mixná descreve para esta festa.",
+   "hoje": "Os judeus constroem a sucá (cabana) e fazem refeições nela durante Sukot. Não é uma festa cristã, mas é lembrada em leituras e por alguns grupos cristãos.",
+   "refs": [
+    "exodo 23:16",
+    "levitico 23:34-36",
+    "levitico 23:39-43",
+    "numeros 29:12",
+    "deuteronomio 16:13-15",
+    "deuteronomio 31:10-13",
+    "neemias 8:14-17",
+    "zacarias 14:16",
+    "joao 7:2",
+    "joao 7:37-38",
+    "joao 8:12"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Sucá 4:9 (libação de água) e 5:1-4 (iluminação do pátio do templo)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "ano-sabatico",
+   "nome": "Ano sabático (ano da remissão)",
+   "hebraico": "שְׁמִטָּה",
+   "translit": "Shemitá",
+   "quando": "cada sétimo ano",
+   "duracao": "1 ano",
+   "origem": "O princípio do sábado aplicado à terra e às dívidas.",
+   "como": "A terra não era semeada nem a vinha podada; o que nascesse sozinho ficava para os pobres, os servos, os estrangeiros e os animais. Dívidas entre israelitas eram perdoadas (ou suspensas, conforme a interpretação), e a Lei era lida na festa dos Tabernáculos desse ano.",
+   "simbolismo": "A terra pertence a Deus; ninguém deve ficar preso para sempre à pobreza.",
+   "no_nt": "Não é citado diretamente. Os profetas e as Crônicas veem o exílio como o tempo em que a terra 'descansou' os sábados negligenciados.",
+   "hoje": "Em Israel, agricultores judeus religiosos observam a shemitá de formas adaptadas. Não é praticado pelas igrejas.",
+   "nota": "Fontes judaicas e gregas antigas mostram que o ano sabático foi de fato observado no período do segundo templo; o quanto foi cumprido antes do exílio é incerto (2 Crônicas 36:21 sugere que foi negligenciado).",
+   "refs": [
+    "exodo 23:10-11",
+    "levitico 25:1-7",
+    "deuteronomio 15:1-2",
+    "deuteronomio 31:10-13",
+    "neemias 10:31",
+    "jeremias 34:8-14",
+    "2-cronicas 36:21"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "1 Macabeus (deuterocanônico)",
+     "referencia": "1 Macabeus 6:49, 53 (falta de alimento 'porque era ano sabático')",
+     "data": "evento c. 163-162 a.C."
+    },
+    {
+     "fonte": "Flávio Josefo",
+     "referencia": "Antiguidades Judaicas 14.10.6 (decreto de Júlio César isentando de tributo no ano sabático)",
+     "data": "c. 93-94 d.C."
+    }
+   ]
+  },
+  {
+   "id": "jubileu",
+   "nome": "Ano do Jubileu",
+   "hebraico": "יוֹבֵל",
+   "translit": "Yovel",
+   "quando": "depois de sete ciclos de sete anos, anunciado no Dia da Expiação",
+   "duracao": "1 ano",
+   "origem": "Ordenado na Lei para impedir que as famílias perdessem para sempre sua terra.",
+   "como": "A trombeta (chifre de carneiro, yovel) era tocada no Dia da Expiação. Proclamava-se liberdade: servos hebreus voltavam para casa e as terras vendidas voltavam à família original, porque 'a terra é minha'. Os preços de venda de terra eram calculados pelos anos que faltavam até o jubileu.",
+   "simbolismo": "Restauração, libertação e recomeço para todos.",
+   "no_nt": "Na sinagoga de Nazaré, Jesus leu Isaías 61, que usa linguagem de jubileu ('proclamar liberdade... o ano aceitável do Senhor'), e disse que se cumpria naquele dia.",
+   "hoje": "Não é observado no judaísmo atual. A Igreja Católica tem 'anos jubilares' inspirados nele; outras igrejas usam a ideia em ensino social.",
+   "nota": "Discute-se se o jubileu era o 49º ano (coincidindo com o sétimo ano sabático) ou o 50º ('o ano cinquenta', Levítico 25:10), e se chegou a ser praticado de forma regular; não há relato bíblico de um jubileu sendo celebrado.",
+   "refs": [
+    "levitico 25:8-17",
+    "levitico 25:23",
+    "isaias 61:1-2",
+    "lucas 4:16",
+    "lucas 4:18-19"
+   ]
+  },
+  {
+   "id": "purim",
+   "nome": "Purim",
+   "hebraico": "פּוּרִים",
+   "translit": "Purim",
+   "quando": "14 de Adar (15 de Adar nas cidades muradas, como Susã); no ano com 13 meses, no Adar II",
+   "duracao": "2 dias",
+   "origem": "Livramento dos judeus do decreto de extermínio de Hamã, no Império Persa, no tempo de Ester e Mardoqueu. O nome vem de 'pur', a sorte lançada por Hamã.",
+   "como": "Dias de banquete e alegria, de enviar porções de comida uns aos outros e de dar presentes aos pobres, por decisão de Mardoqueu e Ester.",
+   "simbolismo": "A reviravolta da tristeza em alegria; Deus age mesmo onde seu nome não é citado (o livro de Ester não menciona Deus diretamente).",
+   "no_nt": "Não aparece com clareza no NT. Alguns cogitam que a 'festa dos judeus' de João 5:1 seja Purim, mas outras festas também são propostas.",
+   "hoje": "Os judeus leem o rolo de Ester (Meguilá) na sinagoga, fazem barulho quando o nome de Hamã é lido, usam fantasias, trocam comidas e dão esmolas.",
+   "refs": [
+    "ester 3:7",
+    "ester 9:1",
+    "ester 9:20-32",
+    "joao 5:1"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "tratado Meguilá (leitura do rolo de Ester em 14 ou 15 de Adar)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "hanuca",
+   "nome": "Dedicação (Hanucá)",
+   "hebraico": "חֲנֻכָּה",
+   "translit": "Chanucá",
+   "quando": "25 de Quisleu, por 8 dias (até o início de Tebete)",
+   "duracao": "8 dias",
+   "origem": "Comemora a purificação e nova dedicação do templo de Jerusalém por Judas Macabeu, depois que o rei selêucida Antíoco IV o profanara. Esse relato está em 1 e 2 Macabeus, livros que fazem parte do cânon católico e ortodoxo (deuterocanônicos), mas não do cânon judaico nem do protestante; para estes, a origem da festa é extrabíblica.",
+   "como": "Na Bíblia protestante, só é mencionada em João 10:22 ('a festa da renovação do Templo... e era inverno'). Segundo 1 Macabeus, celebrou-se com sacrifícios, cânticos e alegria por oito dias, e decidiu-se repetir a festa todos os anos.",
+   "simbolismo": "Fidelidade a Deus sob perseguição e restauração do culto.",
+   "no_nt": "Jesus estava no templo, no Pórtico de Salomão, durante esta festa, quando lhe perguntaram se ele era o Cristo e ele falou de sua unidade com o Pai.",
+   "hoje": "Os judeus acendem a hanukiá (candelabro de nove braços), uma vela a mais por noite. A lembrança de um milagre do óleo que durou oito dias vem do Talmude, não dos Macabeus.",
+   "refs": [
+    "joao 10:22-23"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "1 Macabeus (deuterocanônico)",
+     "referencia": "1 Macabeus 4:36-59 (purificação e dedicação do altar em 25 de Quisleu; festa anual de oito dias)",
+     "data": "evento c. 164 a.C.; livro c. 100 a.C."
+    },
+    {
+     "fonte": "2 Macabeus (deuterocanônico)",
+     "referencia": "2 Macabeus 10:1-8 (festa de oito dias com ramos, à maneira dos Tabernáculos)",
+     "data": "c. séc. II-I a.C."
+    },
+    {
+     "fonte": "Flávio Josefo",
+     "referencia": "Antiguidades Judaicas 12.7.7 (chama a festa de 'Luzes')",
+     "data": "c. 93-94 d.C."
+    },
+    {
+     "fonte": "Talmude Babilônico",
+     "referencia": "Shabat 21b (relato do óleo que durou oito dias)",
+     "data": "c. séc. V-VI d.C."
+    }
+   ]
+  },
+  {
+   "id": "jejuns-zacarias",
+   "nome": "Jejuns do 4º, 5º, 7º e 10º mês",
+   "hebraico": "צוֹם",
+   "translit": "Tsom",
+   "quando": "4º mês (Tamuz), 5º mês (Av), 7º mês (Tisri) e 10º mês (Tebete)",
+   "duracao": "1 dia cada",
+   "origem": "Jejuns de luto criados durante o exílio para lembrar a queda de Jerusalém: o início do cerco (10º mês), a brecha no muro (4º mês), o incêndio do templo (5º mês) e o assassinato do governador Gedalias (7º mês).",
+   "como": "Os judeus de Betel perguntaram se ainda deviam jejuar no quinto mês, agora que o templo estava sendo reconstruído. Deus responde por Zacarias que esses jejuns se tornarão festas de alegria, e lembra que o que ele quer é justiça, misericórdia, verdade e paz.",
+   "simbolismo": "Luto pela perda, mas com a esperança de que Deus transforma lamento em alegria.",
+   "no_nt": "Não são citados diretamente. Jesus fala de jejum e de alegria ao comparar seus discípulos a convidados de um casamento (Mateus 9:14-15).",
+   "hoje": "Os judeus mantêm jejuns em 17 de Tamuz, 9 de Av (Tishá beAv, o mais sério), 3 de Tisri (jejum de Gedalias) e 10 de Tebete. As datas de 17 de Tamuz e 9 de Av vêm da tradição rabínica; a Bíblia dá 9 do 4º mês e 7 ou 10 do 5º mês.",
+   "refs": [
+    "zacarias 7:3-5",
+    "zacarias 8:19",
+    "2-reis 25:1",
+    "jeremias 39:2",
+    "2-reis 25:8",
+    "jeremias 52:12",
+    "2-reis 25:25",
+    "jeremias 41:1-2",
+    "mateus 9:14-15"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Taanit 4:6 (desgraças lembradas em 17 de Tamuz e 9 de Av)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  }
+ ],
+ "horas": [
+  {
+   "id": "dia-comeca-tarde",
+   "nome": "o dia começa à tarde",
+   "equivale": "do pôr do sol ao pôr do sol seguinte",
+   "nota": "Por isso o sábado e as festas começavam ao anoitecer da véspera.",
+   "refs": [
+    "genesis 1:5",
+    "levitico 23:32",
+    "neemias 13:19",
+    "marcos 15:42"
+   ]
+  },
+  {
+   "id": "entre-as-duas-tardes",
+   "nome": "entre as duas tardes",
+   "equivale": "fim da tarde, entre o declínio do sol e o anoitecer (cerca de 15h-18h)",
+   "nota": "Hora do sacrifício da Páscoa. Já na Antiguidade se discutia se era do meio da tarde ao pôr do sol ou do pôr do sol ao escurecer.",
+   "refs": [
+    "exodo 12:6",
+    "levitico 23:5",
+    "numeros 9:11"
+   ]
+  },
+  {
+   "id": "tres-oracoes",
+   "nome": "tarde, manhã e meio-dia",
+   "equivale": "três momentos de oração diária",
+   "nota": "Costume de orar três vezes ao dia, que no período do NT se ligava às horas dos sacrifícios no templo.",
+   "refs": [
+    "salmos 55:17",
+    "daniel 6:10",
+    "atos 3:1"
+   ]
+  },
+  {
+   "id": "doze-horas",
+   "nome": "as doze horas do dia",
+   "equivale": "do nascer ao pôr do sol, dividido em 12 partes",
+   "nota": "No período do NT (costume romano e judaico), as horas do dia eram contadas a partir do nascer do sol (cerca de 6h). Eram 'horas sazonais': mais longas no verão e mais curtas no inverno. As equivalências abaixo são aproximadas.",
+   "refs": [
+    "joao 11:9",
+    "mateus 20:1-6"
+   ]
+  },
+  {
+   "id": "madrugada",
+   "nome": "madrugada / ao nascer do sol",
+   "equivale": "cerca de 5h-6h",
+   "refs": [
+    "mateus 20:1",
+    "marcos 1:35",
+    "marcos 16:2"
+   ]
+  },
+  {
+   "id": "hora-terceira",
+   "nome": "hora terceira",
+   "equivale": "cerca de 9h",
+   "refs": [
+    "mateus 20:3",
+    "marcos 15:25",
+    "atos 2:15"
+   ]
+  },
+  {
+   "id": "hora-sexta",
+   "nome": "hora sexta",
+   "equivale": "cerca de 12h (meio-dia)",
+   "nota": "Em João 19:14, Jesus ainda está diante de Pilatos 'quase à hora sexta', enquanto Marcos 15:25 diz que foi crucificado na hora terceira. Uns explicam pela contagem aproximada das horas (por blocos de três horas); outros (posição minoritária) propõem que João contasse a partir da meia-noite.",
+   "refs": [
+    "mateus 20:5",
+    "marcos 15:33",
+    "lucas 23:44",
+    "joao 4:6",
+    "joao 19:14",
+    "atos 10:9"
+   ]
+  },
+  {
+   "id": "hora-setima",
+   "nome": "hora sétima",
+   "equivale": "cerca de 13h",
+   "refs": [
+    "joao 4:52"
+   ]
+  },
+  {
+   "id": "hora-nona",
+   "nome": "hora nona",
+   "equivale": "cerca de 15h",
+   "nota": "Hora da oração da tarde no templo, junto com o sacrifício vespertino.",
+   "refs": [
+    "mateus 27:45-46",
+    "marcos 15:34",
+    "atos 3:1",
+    "atos 10:3",
+    "atos 10:30"
+   ]
+  },
+  {
+   "id": "hora-decima",
+   "nome": "hora décima",
+   "equivale": "cerca de 16h",
+   "refs": [
+    "joao 1:39"
+   ]
+  },
+  {
+   "id": "hora-undecima",
+   "nome": "hora undécima (décima primeira)",
+   "equivale": "cerca de 17h, uma hora antes do fim do trabalho",
+   "refs": [
+    "mateus 20:6",
+    "mateus 20:9",
+    "mateus 20:12"
+   ]
+  },
+  {
+   "id": "tarde",
+   "nome": "ao entardecer / ao pôr do sol",
+   "equivale": "cerca de 18h",
+   "refs": [
+    "marcos 1:32",
+    "marcos 15:42"
+   ]
+  },
+  {
+   "id": "vigilias-at",
+   "nome": "as três vigílias da noite (AT)",
+   "equivale": "a noite dividida em três turnos de guarda de cerca de 4 horas",
+   "nota": "Costume israelita mais antigo: princípio das vigílias (cerca de 18h-22h), vigília do meio (cerca de 22h-2h) e vigília da manhã (cerca de 2h-6h).",
+   "refs": [
+    "lamentacoes 2:19",
+    "juizes 7:19",
+    "exodo 14:24",
+    "1-samuel 11:11",
+    "salmos 90:4"
+   ]
+  },
+  {
+   "id": "vigilia-principio",
+   "nome": "princípio das vigílias",
+   "equivale": "cerca de 18h-22h",
+   "refs": [
+    "lamentacoes 2:19"
+   ]
+  },
+  {
+   "id": "vigilia-meio",
+   "nome": "vigília do meio",
+   "equivale": "cerca de 22h-2h",
+   "refs": [
+    "juizes 7:19"
+   ]
+  },
+  {
+   "id": "vigilia-manha",
+   "nome": "vigília da manhã",
+   "equivale": "cerca de 2h-6h",
+   "refs": [
+    "exodo 14:24",
+    "1-samuel 11:11"
+   ]
+  },
+  {
+   "id": "vigilias-nt",
+   "nome": "as quatro vigílias da noite (NT)",
+   "equivale": "a noite dividida em quatro turnos de cerca de 3 horas, segundo o costume romano",
+   "nota": "Marcos 13:35 dá os nomes populares: 'à tarde', 'à meia-noite', 'ao cantar do galo' e 'pela manhã'.",
+   "refs": [
+    "marcos 13:35",
+    "lucas 12:38",
+    "mateus 14:25"
+   ]
+  },
+  {
+   "id": "primeira-vigilia",
+   "nome": "primeira vigília ('à tarde')",
+   "equivale": "cerca de 18h-21h",
+   "refs": [
+    "marcos 13:35"
+   ]
+  },
+  {
+   "id": "terceira-hora-noite",
+   "nome": "terceira hora da noite",
+   "equivale": "cerca de 21h",
+   "nota": "As horas da noite também se contavam a partir do pôr do sol.",
+   "refs": [
+    "atos 23:23"
+   ]
+  },
+  {
+   "id": "segunda-vigilia",
+   "nome": "segunda vigília ('meia-noite')",
+   "equivale": "cerca de 21h-24h",
+   "refs": [
+    "lucas 12:38",
+    "marcos 13:35"
+   ]
+  },
+  {
+   "id": "meia-noite",
+   "nome": "meia-noite",
+   "equivale": "cerca de 0h",
+   "refs": [
+    "exodo 12:29",
+    "atos 16:25",
+    "atos 20:7"
+   ]
+  },
+  {
+   "id": "terceira-vigilia",
+   "nome": "terceira vigília ('ao cantar do galo')",
+   "equivale": "cerca de 0h-3h",
+   "refs": [
+    "lucas 12:38",
+    "marcos 13:35"
+   ]
+  },
+  {
+   "id": "quarta-vigilia",
+   "nome": "quarta vigília ('pela manhã')",
+   "equivale": "cerca de 3h-6h",
+   "refs": [
+    "mateus 14:25",
+    "marcos 13:35"
+   ]
+  }
+ ],
+ "horas_nota": "Não havia relógios mecânicos: as horas eram estimadas pelo sol (ou por relógios de sol e de água, onde existiam). Todas as equivalências são aproximadas."
+}

@@ -1,0 +1,74 @@
+{
+ "livro": "obadias",
+ "nome": "Obadias",
+ "subtitulo": "O orgulho cai e o reino é do SENHOR",
+ "introducao": "Obadias é o livro mais curto do Antigo Testamento. Ele é uma única visão contra Edom, o povo vizinho que, em vez de socorrer Judá, celebrou e explorou sua queda. A mensagem mostra que Deus resiste ao orgulho, defende os injustiçados e reinará sobre todas as nações.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Obadias, cujo nome significa \"servo do SENHOR\"; nada mais se sabe sobre ele"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "A maioria o liga à queda de Jerusalém diante da Babilônia (586 a.C.); alguns pensam num ataque anterior"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "Fala contra Edom, mas consola o povo de Judá"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Profecia de juízo contra uma nação, com promessa de salvação"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "1 capítulo e 21 versículos"
+  }
+ ],
+ "chave": "1:15",
+ "temas": [
+  "O orgulho que precede a queda",
+  "Deus defende os injustiçados",
+  "O dia do SENHOR sobre as nações",
+  "O reino pertence ao SENHOR"
+ ],
+ "cristo": "A promessa final, \"o reino pertencerá ao SENHOR\", aponta para o reino de Deus anunciado por Jesus, em que os orgulhosos são humilhados e os humildes exaltados. Em Cristo, a rivalidade entre irmãos dá lugar à reconciliação.",
+ "secoes": [
+  {
+   "id": "juizo-e-reino",
+   "titulo": "O juízo de Edom e o reino do SENHOR",
+   "capitulos": [
+    1
+   ],
+   "resumo": "Edom cai por seu orgulho e crueldade, e Deus estabelece o seu reino."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "O orgulho de Edom e o reino do SENHOR",
+   "chave": "1:15",
+   "resumo": "Obadias anuncia o juízo de Deus sobre Edom, povo descendente de Esaú, que se julgava seguro em suas fortalezas nas rochas. Edom é condenado por se alegrar com a ruína de Judá, saquear Jerusalém e entregar os fugitivos no dia da angústia. O dia do SENHOR virá sobre todas as nações, mas no monte Sião haverá livramento, e o reino pertencerá ao SENHOR.",
+   "licoes": [
+    "O orgulho engana o coração e faz a pessoa se achar intocável (1:3-4).",
+    "Alegrar-se com a desgraça do irmão e aproveitar-se dela é pecado grave (1:12-13).",
+    "O princípio do juízo é claro: \"como tu fizeste, assim se fará a ti\" (1:15).",
+    "A história caminha para o reinado de Deus, com livramento em Sião (1:17, 1:21)."
+   ],
+   "reflexao": "Você já sentiu prazer na queda de alguém que o feriu? Como Deus vê isso?",
+   "quiz": [
+    {
+     "pergunta": "Qual é a última frase do livro de Obadias?",
+     "opcoes": [
+      "Buscai-me e vivereis",
+      "O reino pertencerá ao SENHOR",
+      "Edom será como Sodoma",
+      "O justo viverá pela fé"
+     ],
+     "correta": 1,
+     "ref": "1:21"
+    }
+   ]
+  }
+ ]
+}

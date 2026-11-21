@@ -1,0 +1,260 @@
+{
+  "livro": "apocalipse",
+  "nome": "Apocalipse",
+  "subtitulo": "A revelação de Jesus Cristo",
+  "introducao": "Apocalipse quer dizer \"revelação\": tirar o véu. O livro mostra, por meio de visões e símbolos, quem realmente governa a história. Foi escrito a igrejas que sofriam pressão e perseguição, e sua mensagem central é que o Cordeiro venceu e Deus fará novas todas as coisas.",
+  "fatos": [
+    {"rotulo": "Autor", "valor": "João (1:1, 1:9), tradicionalmente identificado como o apóstolo"},
+    {"rotulo": "Onde", "valor": "Na ilha de Patmos, no mar Egeu (1:9)"},
+    {"rotulo": "Quando", "valor": "Por volta de 95 d.C. segundo a maioria; alguns estudiosos defendem cerca de 68 d.C."},
+    {"rotulo": "Para quem", "valor": "Sete igrejas da província da Ásia, na atual Turquia (1:4, 1:11)"},
+    {"rotulo": "Gênero", "valor": "Profecia (1:3), carta (1:4) e literatura apocalíptica, cheia de símbolos"},
+    {"rotulo": "Tamanho", "valor": "22 capítulos e 404 versículos"}
+  ],
+  "chave": {"ref": "1:19", "explicacao": "O próprio livro dá seu roteiro: o que João viu (cap. 1), as coisas que são (as igrejas, caps. 2–3) e as que hão de acontecer (caps. 4–22)."},
+  "secoes": [
+    {"id": "visao", "titulo": "A visão do Cristo vivo", "capitulos": [1], "cor": "#C9A227", "icone": "castical", "resumo": "Jesus glorificado aparece a João no meio das igrejas."},
+    {"id": "igrejas", "titulo": "Cartas às sete igrejas", "capitulos": [2, 3], "cor": "#B5652B", "icone": "carta", "resumo": "Elogios, correções e promessas para cada igreja."},
+    {"id": "trono", "titulo": "O trono e o Cordeiro", "capitulos": [4, 5], "cor": "#3E7CB1", "icone": "trono", "resumo": "Uma porta se abre no céu: Deus reina e o Cordeiro é digno."},
+    {"id": "selos", "titulo": "Os sete selos", "capitulos": [6, 7], "cor": "#8C3B3B", "icone": "selo", "resumo": "O livro é aberto selo por selo. Uma pausa mostra o povo de Deus protegido."},
+    {"id": "trombetas", "titulo": "As sete trombetas", "capitulos": [8, 9, 10, 11], "cor": "#4F7A52", "icone": "trombeta", "resumo": "Avisos que chamam ao arrependimento, o livrinho e as duas testemunhas."},
+    {"id": "conflito", "titulo": "O grande conflito", "capitulos": [12, 13, 14], "cor": "#6B4C9A", "icone": "dragao", "resumo": "Os bastidores espirituais da história: a mulher, o dragão e as bestas."},
+    {"id": "tacas", "titulo": "As sete taças", "capitulos": [15, 16], "cor": "#A23E48", "icone": "taca", "resumo": "Os vencedores cantam e os juízos finais são derramados."},
+    {"id": "babilonia", "titulo": "A queda da Babilônia", "capitulos": [17, 18], "cor": "#7A6A52", "icone": "torre", "resumo": "O sistema sedutor do mundo cai num instante."},
+    {"id": "vitoria", "titulo": "A vitória final", "capitulos": [19, 20], "cor": "#2F6F8F", "icone": "coroa", "resumo": "As bodas do Cordeiro, a volta do Rei e o juízo final."},
+    {"id": "nova-criacao", "titulo": "Novo céu e nova terra", "capitulos": [21, 22], "cor": "#2E8B7A", "icone": "arvore", "resumo": "Deus habita com seu povo. O rio e a árvore da vida."}
+  ],
+  "interpretacoes": [
+    {"nome": "Preterista", "resumo": "Lê a maior parte das visões como acontecimentos do primeiro século, como a queda de Jerusalém em 70 d.C. e a perseguição romana."},
+    {"nome": "Historicista", "resumo": "Lê o livro como um panorama da história da Igreja, do primeiro século até a volta de Cristo."},
+    {"nome": "Futurista", "resumo": "Entende a partir do capítulo 4 como acontecimentos ainda futuros, ligados ao fim dos tempos."},
+    {"nome": "Idealista", "resumo": "Vê nas visões princípios que se repetem em toda época: o conflito entre o bem e o mal e a vitória de Deus."}
+  ],
+  "nota_interpretacoes": "Cristãos sérios divergem sobre os detalhes. A plataforma apresenta o que o texto diz e indica quando algo é leitura de uma escola. Em todas elas, a mensagem central é a mesma: Jesus venceu, reina e voltará.",
+  "igrejas": [
+    {"nome": "Éfeso", "ref": "2:1-7", "lat": 37.94, "lon": 27.34, "elogio": "Trabalho, perseverança, não tolera os maus e rejeitou falsos apóstolos.", "critica": "Abandonou o primeiro amor.", "chamado": "Lembra-te de onde caíste, arrepende-te e pratica as primeiras obras.", "promessa": "Comer da árvore da vida."},
+    {"nome": "Esmirna", "ref": "2:8-11", "lat": 38.42, "lon": 27.14, "elogio": "Fiel na tribulação e na pobreza. \"Mas tu és rico.\"", "critica": null, "chamado": "Não temas. Sê fiel até a morte.", "promessa": "A coroa da vida. Não sofrerá a segunda morte."},
+    {"nome": "Pérgamo", "ref": "2:12-17", "lat": 39.12, "lon": 27.18, "elogio": "Retém o nome de Cristo e não negou a fé, mesmo onde está o trono de Satanás.", "critica": "Tolera a doutrina de Balaão e dos nicolaítas.", "chamado": "Arrepende-te.", "promessa": "O maná escondido e uma pedra branca com um novo nome."},
+    {"nome": "Tiatira", "ref": "2:18-29", "lat": 38.92, "lon": 27.84, "elogio": "Amor, serviço, fé e perseverança, e obras que crescem.", "critica": "Tolera Jezabel, que ensina a idolatria.", "chamado": "Retende o que tendes até que eu venha.", "promessa": "Autoridade sobre as nações e a estrela da manhã."},
+    {"nome": "Sardes", "ref": "3:1-6", "lat": 38.49, "lon": 28.04, "elogio": "Algumas pessoas não contaminaram suas vestes.", "critica": "Tem fama de estar viva, mas está morta.", "chamado": "Sê vigilante, fortalece o que resta e arrepende-te.", "promessa": "Vestes brancas e o nome mantido no livro da vida."},
+    {"nome": "Filadélfia", "ref": "3:7-13", "lat": 38.35, "lon": 28.52, "elogio": "Com pouca força, guardou a palavra e não negou o nome de Cristo.", "critica": null, "chamado": "Guarda o que tens, para que ninguém tome a tua coroa.", "promessa": "Ser coluna no templo de Deus, com o nome de Deus e da nova Jerusalém."},
+    {"nome": "Laodiceia", "ref": "3:14-22", "lat": 37.84, "lon": 29.11, "elogio": null, "critica": "Morna. Diz ser rica, mas é pobre, cega e nua.", "chamado": "Sê zeloso e arrepende-te. \"Eis que estou à porta e bato.\"", "promessa": "Sentar-se com Cristo no seu trono."}
+  ],
+  "patmos": {"lat": 37.31, "lon": 26.55},
+  "simbolos": [
+    {"id": "castical", "termo": "Sete castiçais de ouro", "busca": ["castiçais", "castiçal"], "ref": "1:20", "explicado": true, "significado": "O próprio texto explica: os sete castiçais são as sete igrejas. A igreja existe para levar luz."},
+    {"id": "estrelas", "termo": "Sete estrelas", "busca": ["sete estrelas"], "ref": "1:20", "explicado": true, "significado": "São os anjos ou mensageiros das sete igrejas, seguros na mão direita de Cristo."},
+    {"id": "alfa", "termo": "Alfa e Ômega", "busca": ["Alfa"], "ref": "1:8", "explicado": true, "significado": "Primeira e última letras do alfabeto grego. Deus é o princípio e o fim de tudo (22:13)."},
+    {"id": "cordeiro", "termo": "O Cordeiro", "busca": ["Cordeiro"], "ref": "5:6", "explicado": false, "significado": "Jesus, apresentado como o cordeiro do sacrifício que \"parecia ter sido morto\" e mesmo assim está de pé no centro do trono. Sua vitória veio pela entrega da vida (5:9)."},
+    {"id": "leao", "termo": "Leão da tribo de Judá", "busca": ["Leão da tribo"], "ref": "5:5", "explicado": false, "significado": "Título do Messias, ligado à promessa feita a Judá (Gênesis 49:9). João ouve \"Leão\" e vê um Cordeiro: o poder de Cristo se mostra no sacrifício."},
+    {"id": "anciaos", "termo": "Vinte e quatro anciãos", "busca": ["anciãos"], "ref": "4:4", "explicado": false, "significado": "Leitura comum: representam o povo de Deus completo, as 12 tribos e os 12 apóstolos, adorando ao redor do trono."},
+    {"id": "animais", "termo": "Quatro animais (seres viventes)", "busca": ["quatro animais"], "ref": "4:6", "explicado": false, "significado": "Seres celestiais cheios de olhos que adoram sem parar (4:8). Lembram os querubins de Ezequiel 1 e os serafins de Isaías 6."},
+    {"id": "mar-vidro", "termo": "Mar de vidro", "busca": ["mar de vidro"], "ref": "4:6", "explicado": false, "significado": "Imagem de calma e majestade diante do trono. Em 15:2 é o lugar onde os vencedores cantam."},
+    {"id": "perfumes", "termo": "Perfumes e incenso", "busca": ["perfumes", "incensos"], "ref": "5:8", "explicado": true, "significado": "O texto explica: são as orações dos santos, que sobem diante de Deus (8:3-4)."},
+    {"id": "selos", "termo": "Livro com sete selos", "busca": ["selos"], "ref": "5:1", "explicado": false, "significado": "Um rolo lacrado com os planos de Deus para a história. Só o Cordeiro é digno de abri-lo."},
+    {"id": "cavalos", "termo": "Quatro cavaleiros", "busca": ["cavalo branco", "cavalo vermelho", "cavalo preto", "cavalo amarelo"], "ref": "6:1-8", "explicado": false, "significado": "Leitura comum: conquista, guerra, fome e morte. O texto repete que a autoridade \"lhes foi dada\": o mal tem limites."},
+    {"id": "144mil", "termo": "Cento e quarenta e quatro mil", "busca": ["cento e quarenta e quatro mil"], "ref": "7:4", "explicado": false, "significado": "12 × 12 × 1000. Há várias leituras: Israel étnico, ou o povo de Deus completo. Logo depois, João vê uma multidão que ninguém podia contar (7:9)."},
+    {"id": "selo-testa", "termo": "Sinal de Deus na testa", "busca": ["sinal de Deus", "selo do Deus"], "ref": "7:3", "explicado": false, "significado": "Marca de pertencimento e proteção. Contrasta com a marca da besta (13:16)."},
+    {"id": "trombetas", "termo": "Sete trombetas", "busca": ["trombetas"], "ref": "8:2", "explicado": false, "significado": "Na Bíblia, a trombeta anuncia e alerta. Os juízos atingem \"a terça parte\": são parciais e chamam ao arrependimento (9:20)."},
+    {"id": "testemunhas", "termo": "Duas testemunhas", "busca": ["duas testemunhas"], "ref": "11:3", "explicado": true, "significado": "O texto as chama de duas oliveiras e dois castiçais (11:4). Lembram Moisés e Elias. Muitos as leem como a Igreja que testemunha."},
+    {"id": "dragao", "termo": "O dragão", "busca": ["dragão"], "ref": "12:9", "explicado": true, "significado": "O texto explica: é a antiga serpente, chamada o diabo e Satanás, que engana o mundo inteiro."},
+    {"id": "mulher-sol", "termo": "Mulher vestida do sol", "busca": ["mulher vestida do sol"], "ref": "12:1", "explicado": false, "significado": "Leituras comuns: o povo de Deus (Israel e a Igreja), de quem vem o Messias. Algumas tradições também veem nela Maria."},
+    {"id": "besta-mar", "termo": "A besta que sobe do mar", "busca": ["besta"], "ref": "13:1", "explicado": false, "significado": "Poder político que recebe autoridade do dragão e exige adoração. Lembra os animais de Daniel 7."},
+    {"id": "falso-profeta", "termo": "Falso profeta", "busca": ["falso profeta"], "ref": "19:20", "explicado": true, "significado": "A besta que sobe da terra (13:11) é depois chamada falso profeta: parece cordeiro, mas fala como dragão."},
+    {"id": "666", "termo": "O número 666", "busca": ["seiscentos e sessenta e seis"], "ref": "13:18", "explicado": false, "significado": "\"Número de homem\". Muitos o ligam a Nero pela soma das letras em hebraico. Outros veem o 6 repetido como o humano que tenta ser perfeito e falha."},
+    {"id": "marca", "termo": "Marca da besta", "busca": ["marca"], "ref": "13:16-17", "explicado": false, "significado": "Sinal de lealdade à besta, exigido para comprar e vender. É o oposto do sinal de Deus na testa."},
+    {"id": "tacas", "termo": "Sete taças", "busca": ["taças", "taça"], "ref": "15:7", "explicado": false, "significado": "Os juízos finais, completos. Diferente das trombetas, não atingem só uma parte."},
+    {"id": "armagedom", "termo": "Armagedom", "busca": ["Armagedom"], "ref": "16:16", "explicado": false, "significado": "Do hebraico \"monte de Megido\", vale de batalhas famosas em Israel. Símbolo da reunião final contra Deus."},
+    {"id": "babilonia", "termo": "Babilônia, a grande", "busca": ["Babilônia"], "ref": "17:5", "explicado": true, "significado": "O texto explica que a mulher é a grande cidade que reina sobre os reis da terra (17:18). Para os primeiros leitores, lembrava Roma. Representa o mundo organizado contra Deus."},
+    {"id": "aguas", "termo": "Muitas águas", "busca": ["águas que viste"], "ref": "17:15", "explicado": true, "significado": "O texto explica: são povos, multidões, nações e línguas."},
+    {"id": "linho", "termo": "Linho fino", "busca": ["linho fino"], "ref": "19:8", "explicado": true, "significado": "O texto explica: são as justiças dos santos, as vestes da noiva do Cordeiro."},
+    {"id": "mil-anos", "termo": "Mil anos (milênio)", "busca": ["mil anos"], "ref": "20:2", "explicado": false, "significado": "Há três leituras principais: pré-milenista (reino futuro literal após a volta de Cristo), pós-milenista e amilenista (o reinado atual de Cristo, em linguagem simbólica)."},
+    {"id": "lago-fogo", "termo": "Lago de fogo", "busca": ["lago de fogo"], "ref": "20:14", "explicado": true, "significado": "O texto chama de \"segunda morte\". É o destino final do mal, da morte e do Xeol."},
+    {"id": "livro-vida", "termo": "Livro da vida", "busca": ["livro da vida"], "ref": "20:12", "explicado": false, "significado": "Registro dos que pertencem a Deus. Aparece desde 3:5 como promessa ao que vencer."},
+    {"id": "nova-jerusalem", "termo": "Nova Jerusalém", "busca": ["nova Jerusalém", "Nova Jerusalém"], "ref": "21:2", "explicado": false, "significado": "A cidade santa que desce do céu, \"preparada como noiva\". É ao mesmo tempo lugar e povo: Deus morando com os seus."},
+    {"id": "arvore-vida", "termo": "Árvore da vida", "busca": ["árvore da vida"], "ref": "22:2", "explicado": false, "significado": "Estava no Éden (Gênesis 2:9) e reaparece no fim. O que se perdeu no começo da Bíblia é restaurado no final."},
+    {"id": "agua-vida", "termo": "Água da vida", "busca": ["água da vida"], "ref": "22:1", "explicado": false, "significado": "Vida que vem do trono de Deus e do Cordeiro, oferecida de graça a quem tem sede (22:17)."}
+  ],
+  "capitulos": [
+    {"n": 1, "titulo": "A revelação de Jesus Cristo", "secao": "visao", "chave": "1:17-18",
+     "resumo": "João, exilado em Patmos por causa da palavra de Deus, é arrebatado em espírito no dia do Senhor. Ele vê Jesus glorificado no meio de sete castiçais de ouro, com sete estrelas na mão direita, e recebe a ordem de escrever às sete igrejas.",
+     "licoes": ["O livro promete bênção a quem lê, ouve e guarda o que está escrito (1:3).", "Cristo vivo está no meio das suas igrejas (1:13, 1:20).", "\"Não temas\": quem venceu a morte tem as chaves da morte e do Xeol (1:17-18)."],
+     "reflexao": "Jesus diz a João \"Não temas\" antes de mostrar qualquer visão difícil. Que medo seu precisa ouvir essas palavras hoje?",
+     "cenas": [
+       {"titulo": "João em Patmos", "ref": "1:9-11", "descricao": "Um homem idoso em uma ilha rochosa do mar Egeu, ao amanhecer, voltando-se para uma voz forte como trombeta atrás dele."},
+       {"titulo": "O Filho do homem entre os castiçais", "ref": "1:12-16", "descricao": "Uma figura luminosa com veste longa e cinto de ouro, de pé entre sete castiçais de ouro, segurando sete estrelas na mão direita. O rosto é luz, sem traços definidos."}
+     ],
+     "quiz": [{"pergunta": "Em que ilha João estava quando recebeu a revelação?", "opcoes": ["Creta", "Patmos", "Chipre", "Malta"], "correta": 1, "ref": "1:9"}]},
+    {"n": 2, "titulo": "Cartas a Éfeso, Esmirna, Pérgamo e Tiatira", "secao": "igrejas", "chave": "2:10",
+     "resumo": "Jesus conhece as obras de cada igreja. Para cada uma, elogia o que está certo, corrige o que está errado e faz uma promessa \"ao que vencer\". Éfeso perdeu o primeiro amor, Esmirna sofre e é fiel, Pérgamo e Tiatira toleram falsos ensinos.",
+     "licoes": ["Fazer as coisas certas sem amor não é suficiente (2:4).", "Fidelidade no sofrimento recebe a coroa da vida (2:10).", "Tolerar o erro dentro da igreja também é cobrado (2:14, 2:20)."],
+     "reflexao": "Se Jesus escrevesse uma carta para você, o que estaria no elogio e o que estaria na correção?",
+     "cenas": [
+       {"titulo": "O mensageiro na estrada", "ref": "2:1", "descricao": "Um mensageiro com um rolo de pergaminho caminha por uma estrada romana entre colinas, rumo a uma cidade portuária antiga."},
+       {"titulo": "A coroa da vida", "ref": "2:10", "descricao": "Uma pequena comunidade reunida à luz de lamparinas, pobre e perseguida, enquanto uma coroa de louros dourada brilha acima dela."}
+     ],
+     "quiz": [{"pergunta": "O que Jesus reprova na igreja de Éfeso?", "opcoes": ["Ser morna", "Ter deixado o primeiro amor", "Tolerar Jezabel", "Estar morta"], "correta": 1, "ref": "2:4"}]},
+    {"n": 3, "titulo": "Cartas a Sardes, Filadélfia e Laodiceia", "secao": "igrejas", "chave": "3:20",
+     "resumo": "Sardes parece viva, mas está morta. Filadélfia tem pouca força, mas guardou a palavra e recebe uma porta aberta. Laodiceia se acha rica, mas é morna, e Jesus está do lado de fora, batendo à porta.",
+     "licoes": ["Aparência de vida não é vida (3:1).", "Pouca força com fidelidade abre portas que ninguém fecha (3:8).", "Jesus bate à porta e convida à comunhão pessoal (3:20)."],
+     "reflexao": "Em que áreas da sua vida você tem sido morno, nem frio nem quente?",
+     "cenas": [
+       {"titulo": "Estou à porta e bato", "ref": "3:20", "descricao": "Uma porta de madeira simples, fechada, à noite. Do lado de fora, uma mão bate suavemente, e uma luz quente passa pelas frestas."}
+     ],
+     "quiz": [{"pergunta": "Como Jesus descreve a igreja de Laodiceia?", "opcoes": ["Fria", "Quente", "Morna", "Fiel"], "correta": 2, "ref": "3:16"}]},
+    {"n": 4, "titulo": "O trono no céu", "secao": "trono", "chave": "4:11",
+     "resumo": "Uma porta se abre no céu. João vê um trono ocupado, cercado por um arco-íris de cor de esmeralda, vinte e quatro anciãos e quatro seres cheios de olhos que repetem dia e noite: \"Santo, Santo, Santo\".",
+     "licoes": ["Antes de mostrar as crises da terra, o livro mostra quem governa: o trono está ocupado (4:2).", "Deus é digno de adoração porque é o Criador de todas as coisas (4:11)."],
+     "reflexao": "Como seria enfrentar as notícias desta semana lembrando que o trono do céu não está vazio?",
+     "cenas": [
+       {"titulo": "O trono e o arco-íris", "ref": "4:2-6", "descricao": "Um trono envolto em luz de jaspe e sárdio, com um arco-íris verde-esmeralda ao redor, relâmpagos e um mar de vidro como cristal à frente. A presença de Deus aparece só como luz, sem figura humana."}
+     ],
+     "quiz": [{"pergunta": "Quantos anciãos estavam ao redor do trono?", "opcoes": ["7", "12", "24", "144"], "correta": 2, "ref": "4:4"}]},
+    {"n": 5, "titulo": "O livro selado e o Cordeiro", "secao": "trono", "chave": "5:9",
+     "resumo": "Ninguém no céu ou na terra é digno de abrir o livro de sete selos, e João chora. Então anunciam o Leão da tribo de Judá, mas João vê um Cordeiro que parecia ter sido morto. Todo o céu e toda a criação o adoram.",
+     "licoes": ["A vitória de Cristo veio pelo sacrifício (5:5-6).", "A redenção alcança gente de toda tribo, língua, povo e nação (5:9).", "As orações dos santos sobem diante de Deus como perfume (5:8)."],
+     "reflexao": "João esperava um leão e viu um cordeiro. O que isso ensina sobre o tipo de força que Deus valoriza?",
+     "cenas": [
+       {"titulo": "O Cordeiro diante do trono", "ref": "5:6-8", "descricao": "Um cordeiro de pé no centro de um círculo de anciãos prostrados com harpas e taças de ouro, recebendo um rolo selado com sete lacres vermelhos."}
+     ],
+     "quiz": [{"pergunta": "Quem é digno de abrir o livro de sete selos?", "opcoes": ["Um dos anciãos", "O anjo forte", "O Cordeiro", "João"], "correta": 2, "ref": "5:9"}]},
+    {"n": 6, "titulo": "Os seis primeiros selos", "secao": "selos", "chave": "6:17",
+     "resumo": "O Cordeiro abre os selos. Saem quatro cavaleiros: branco, vermelho, preto e amarelo. As almas dos que morreram pela fé clamam debaixo do altar. No sexto selo, um grande terremoto abala céu e terra, e as pessoas tentam se esconder.",
+     "licoes": ["O mal na história tem limites: a autoridade dos cavaleiros \"lhes foi dada\" (6:4, 6:8).", "Os que sofreram por fidelidade são ouvidos e recebem vestes brancas (6:9-11).", "A pergunta final é \"quem poderá ficar de pé?\" (6:17)."],
+     "reflexao": "Os mártires perguntam \"até quando?\". Você também já fez essa pergunta a Deus? Como o capítulo responde?",
+     "cenas": [
+       {"titulo": "Os quatro cavaleiros", "ref": "6:1-8", "descricao": "Quatro cavalos em galope num céu tempestuoso: branco com arqueiro coroado, vermelho com espada, preto com balança e amarelo-pálido com um cavaleiro sombrio."},
+       {"titulo": "As almas debaixo do altar", "ref": "6:9-11", "descricao": "Pessoas de várias épocas e povos sob um altar de ouro recebem vestes brancas das mãos de um anjo."}
+     ],
+     "quiz": [{"pergunta": "Qual era a cor do cavalo cujo cavaleiro se chamava Morte?", "opcoes": ["Branco", "Vermelho", "Preto", "Amarelo"], "correta": 3, "ref": "6:8"}]},
+    {"n": 7, "titulo": "Os selados e a grande multidão", "secao": "selos", "chave": "7:17",
+     "resumo": "Antes do sétimo selo há uma pausa. Os servos de Deus são selados na testa: 144 mil das tribos de Israel. Depois João vê uma multidão que ninguém podia contar, de todas as nações, com vestes brancas e palmas, louvando a Deus e ao Cordeiro.",
+     "licoes": ["Deus marca e protege os seus antes do juízo (7:3).", "O povo de Deus é incontável e vem de todas as nações (7:9).", "O Cordeiro será pastor, e Deus limpará toda lágrima (7:17)."],
+     "reflexao": "Imagine pessoas de todas as línguas louvando juntas. Como isso muda a forma de ver quem é diferente de você?",
+     "cenas": [
+       {"titulo": "A multidão de todas as nações", "ref": "7:9-10", "descricao": "Uma multidão imensa, de todas as etnias e idades, vestida de branco, erguendo ramos de palmeira diante de um trono de luz."}
+     ],
+     "quiz": [{"pergunta": "O que a grande multidão tinha nas mãos?", "opcoes": ["Espadas", "Ramos de palmas", "Harpas", "Lâmpadas"], "correta": 1, "ref": "7:9"}]},
+    {"n": 8, "titulo": "O sétimo selo e as primeiras trombetas", "secao": "trombetas", "chave": "8:4",
+     "resumo": "Ao abrir o sétimo selo há silêncio no céu por meia hora. Um anjo oferece incenso com as orações dos santos e lança fogo sobre a terra. Quatro anjos tocam trombetas e um terço da terra, do mar, dos rios e dos astros é atingido.",
+     "licoes": ["As orações dos santos fazem parte de como Deus age na história (8:3-5).", "Os juízos parciais (\"a terça parte\") são avisos que chamam ao arrependimento."],
+     "reflexao": "Antes das trombetas, o céu fica em silêncio para ouvir orações. Que lugar a oração tem na sua rotina?",
+     "cenas": [
+       {"titulo": "O incenso e as orações", "ref": "8:3-5", "descricao": "Um anjo junto a um altar de ouro segura um incensário. A fumaça sobe em espiral levando pequenas luzes, as orações, até o alto."}
+     ],
+     "quiz": [{"pergunta": "O que aconteceu no céu quando o sétimo selo foi aberto?", "opcoes": ["Um grande trovão", "Silêncio por cerca de meia hora", "Um cântico novo", "Um terremoto"], "correta": 1, "ref": "8:1"}]},
+    {"n": 9, "titulo": "A quinta e a sexta trombetas", "secao": "trombetas", "chave": "9:20",
+     "resumo": "Do abismo saem gafanhotos que atormentam apenas quem não tem o sinal de Deus na testa. Depois, um enorme exército de cavaleiros vem do rio Eufrates. Mesmo assim, o restante da humanidade não se arrepende.",
+     "licoes": ["Quem tem o sinal de Deus está protegido (9:4).", "O coração endurecido pode resistir mesmo diante de grandes sinais (9:20-21)."],
+     "reflexao": "Por que tantas pessoas não se arrependem mesmo diante de sofrimento? O que ajuda um coração a mudar?",
+     "cenas": [
+       {"titulo": "O poço do abismo", "ref": "9:1-3", "descricao": "Uma estrela caída abre um poço. Fumaça escura sobe e escurece o sol, e dela saem nuvens de gafanhotos com coroas douradas."}
+     ],
+     "quiz": [{"pergunta": "Quem os gafanhotos não podiam atingir?", "opcoes": ["Os reis", "As árvores e a erva, e quem tinha o sinal de Deus", "Os anjos", "Os mercadores"], "correta": 1, "ref": "9:4"}]},
+    {"n": 10, "titulo": "O anjo e o livrinho", "secao": "trombetas", "chave": "10:10",
+     "resumo": "Um anjo forte, com um pé no mar e outro na terra, segura um livrinho aberto e jura que não haverá mais demora. João recebe ordem de comer o livrinho: é doce na boca e amargo no estômago. Ele deve profetizar de novo.",
+     "licoes": ["A palavra de Deus é doce de receber e pode ser amarga de viver e anunciar (10:9-10).", "O plano de Deus se cumpre no tempo certo (10:7)."],
+     "reflexao": "Que parte da palavra de Deus tem sido doce para você? E qual tem sido difícil de colocar em prática?",
+     "cenas": [
+       {"titulo": "O anjo entre o mar e a terra", "ref": "10:1-2", "descricao": "Um anjo gigantesco envolto em nuvem, com um arco-íris sobre a cabeça, rosto como o sol, um pé no mar e outro na praia, segurando um livrinho aberto."}
+     ],
+     "quiz": [{"pergunta": "Que sabor o livrinho teve na boca de João?", "opcoes": ["Amargo", "Salgado", "Doce como mel", "Sem sabor"], "correta": 2, "ref": "10:10"}]},
+    {"n": 11, "titulo": "As duas testemunhas e a sétima trombeta", "secao": "trombetas", "chave": "11:15",
+     "resumo": "João mede o templo. Duas testemunhas profetizam por 1.260 dias, são mortas pela besta e o mundo comemora. Depois de três dias e meio, Deus as levanta. A sétima trombeta soa: os reinos do mundo passam a ser do Senhor e do seu Cristo.",
+     "licoes": ["O testemunho fiel continua mesmo quando o mundo celebra a derrota (11:7-12).", "No fim, o reino é de Cristo e ele reinará para sempre (11:15)."],
+     "reflexao": "As testemunhas pareciam derrotadas por três dias e meio. Como isso ajuda a esperar quando a vitória parece distante?",
+     "cenas": [
+       {"titulo": "As testemunhas se levantam", "ref": "11:11-12", "descricao": "Duas pessoas vestidas de pano de saco se levantam numa praça de cidade antiga, sob um sopro de luz, enquanto a multidão recua assustada."}
+     ],
+     "quiz": [{"pergunta": "Por quantos dias as duas testemunhas profetizam?", "opcoes": ["40", "144", "1.000", "1.260"], "correta": 3, "ref": "11:3"}]},
+    {"n": 12, "titulo": "A mulher, o filho e o dragão", "secao": "conflito", "chave": "12:11",
+     "resumo": "Uma mulher vestida do sol dá à luz um filho que vai reger as nações. Um grande dragão vermelho tenta devorá-lo, mas o filho é levado até o trono de Deus. Há guerra no céu: Miguel vence e o dragão é lançado na terra, onde persegue a mulher e seus descendentes.",
+     "licoes": ["Por trás dos conflitos visíveis há um conflito espiritual (12:7-9).", "Os fiéis vencem pelo sangue do Cordeiro e pela palavra do testemunho (12:11).", "O inimigo está furioso porque sabe que tem pouco tempo (12:12)."],
+     "reflexao": "O capítulo diz que se vence \"pelo sangue do Cordeiro e pela palavra do testemunho\". Qual é o seu testemunho?",
+     "cenas": [
+       {"titulo": "A mulher e o dragão", "ref": "12:1-4", "descricao": "No céu noturno, uma mulher envolta em luz solar, com a lua sob os pés e uma coroa de doze estrelas. Diante dela, um dragão vermelho de sete cabeças arrasta estrelas com a cauda."},
+       {"titulo": "Miguel contra o dragão", "ref": "12:7-9", "descricao": "Anjos com armaduras de luz, liderados por Miguel, lançam o dragão para fora do céu em direção à terra."}
+     ],
+     "quiz": [{"pergunta": "Quem lutou contra o dragão no céu?", "opcoes": ["Gabriel e seus anjos", "Miguel e seus anjos", "Os 24 anciãos", "As duas testemunhas"], "correta": 1, "ref": "12:7"}]},
+    {"n": 13, "titulo": "As duas bestas", "secao": "conflito", "chave": "13:10",
+     "resumo": "Uma besta de sete cabeças e dez chifres sobe do mar, recebe poder do dragão e é adorada pelo mundo. Outra besta sobe da terra: parece um cordeiro, mas fala como dragão. Ela faz sinais e obriga todos a receber uma marca para comprar e vender. O número da besta é 666.",
+     "licoes": ["O mal imita o sagrado e busca adoração (13:4, 13:11-12).", "Pressão econômica e social pode ser usada para forçar lealdade (13:16-17).", "O capítulo pede perseverança e fé dos santos (13:10)."],
+     "reflexao": "Que pressões do dia a dia tentam conquistar a sua lealdade? Como permanecer fiel sem medo?",
+     "cenas": [
+       {"titulo": "A besta que sobe do mar", "ref": "13:1-2", "descricao": "Da arrebentação de um mar agitado surge uma criatura com sete cabeças e dez chifres coroados, com traços de leopardo, urso e leão, enquanto João observa da areia."}
+     ],
+     "quiz": [{"pergunta": "Qual é o número da besta?", "opcoes": ["144", "666", "777", "1.260"], "correta": 1, "ref": "13:18"}]},
+    {"n": 14, "titulo": "O Cordeiro no monte Sião e a colheita", "secao": "conflito", "chave": "14:13",
+     "resumo": "O Cordeiro está no monte Sião com os 144 mil. Três anjos voam anunciando o evangelho eterno, a queda da Babilônia e um alerta contra a marca da besta. Uma voz declara felizes os que morrem no Senhor. Por fim, a terra é ceifada.",
+     "licoes": ["O evangelho eterno é anunciado a toda nação, tribo, língua e povo (14:6-7).", "Os que morrem no Senhor descansam, e suas obras os seguem (14:13)."],
+     "reflexao": "\"Suas obras os seguem.\" O que você gostaria que o acompanhasse ao final da vida?",
+     "cenas": [
+       {"titulo": "Os três anjos", "ref": "14:6-9", "descricao": "Três anjos voando em sequência sobre o mundo, o primeiro levando um rolo aberto do evangelho, sobre povos de todos os continentes que olham para cima."}
+     ],
+     "quiz": [{"pergunta": "O que o primeiro anjo leva para anunciar?", "opcoes": ["O evangelho eterno", "Uma foice", "Uma taça", "Um livrinho"], "correta": 0, "ref": "14:6"}]},
+    {"n": 15, "titulo": "O cântico dos vencedores", "secao": "tacas", "chave": "15:3",
+     "resumo": "Os que venceram a besta estão de pé junto ao mar de vidro misturado com fogo e cantam o cântico de Moisés e do Cordeiro. O templo no céu se abre e sete anjos recebem sete taças de ouro.",
+     "licoes": ["Os caminhos de Deus são justos e verdadeiros (15:3).", "Antes do juízo final, o livro mostra adoração: quem venceu canta."],
+     "reflexao": "Moisés cantou depois de atravessar o mar. De que \"travessia\" Deus já livrou você?",
+     "cenas": [
+       {"titulo": "O mar de vidro e fogo", "ref": "15:2-3", "descricao": "Pessoas vestidas de branco com harpas, de pé às margens de um mar como vidro com reflexos de fogo, cantando."}
+     ],
+     "quiz": [{"pergunta": "Que cântico os vencedores cantam?", "opcoes": ["O cântico de Davi", "O cântico de Moisés e do Cordeiro", "O cântico de Maria", "O cântico dos anjos"], "correta": 1, "ref": "15:3"}]},
+    {"n": 16, "titulo": "As sete taças", "secao": "tacas", "chave": "16:15",
+     "resumo": "As sete taças são derramadas: feridas, mar e rios em sangue, sol que queima, trevas sobre o trono da besta, o rio Eufrates seca e os reis se reúnem no Armagedom. Na sétima taça, uma voz do trono diz: \"Está feito\".",
+     "licoes": ["O juízo de Deus é justo (16:5-7).", "Mesmo sob juízo, muitos blasfemam em vez de se arrepender (16:9, 16:11).", "Jesus lembra: vigiem, porque ele vem como ladrão (16:15)."],
+     "reflexao": "No meio das taças, Jesus interrompe para dizer \"vigiai\". O que significa vigiar no seu dia a dia?",
+     "cenas": [
+       {"titulo": "Está feito", "ref": "16:17-18", "descricao": "Um anjo derrama uma taça de ouro no ar; relâmpagos e um terremoto partem a paisagem, e uma luz forte sai do templo celeste."}
+     ],
+     "quiz": [{"pergunta": "Em que lugar os reis da terra são reunidos?", "opcoes": ["Babilônia", "Patmos", "Armagedom", "Sião"], "correta": 2, "ref": "16:16"}]},
+    {"n": 17, "titulo": "A grande prostituta e a besta", "secao": "babilonia", "chave": "17:14",
+     "resumo": "Um anjo mostra uma mulher luxuosa montada numa besta escarlate. Na testa dela está escrito \"Babilônia, a grande\". Ela está embriagada do sangue dos santos. O anjo explica a visão e anuncia que o Cordeiro vencerá, porque é Senhor dos senhores e Rei dos reis.",
+     "licoes": ["O poder sedutor do mundo parece glorioso, mas destrói a si mesmo (17:16-17).", "O Cordeiro vence, e os que estão com ele são chamados, escolhidos e fiéis (17:14)."],
+     "reflexao": "Que brilho do mundo tem mais atraído o seu coração? O que o capítulo revela por trás dele?",
+     "cenas": [
+       {"titulo": "A mulher sobre a besta", "ref": "17:3-4", "descricao": "No deserto, uma mulher em púrpura e escarlate, coberta de ouro e pérolas, ergue um cálice dourado, montada numa besta vermelha de sete cabeças. Tratamento sóbrio, sem sensualidade."}
+     ],
+     "quiz": [{"pergunta": "Segundo o anjo, o que são as águas onde a mulher está sentada?", "opcoes": ["Os rios da Babilônia", "Povos, multidões, nações e línguas", "O mar de vidro", "As lágrimas dos santos"], "correta": 1, "ref": "17:15"}]},
+    {"n": 18, "titulo": "A queda da Babilônia", "secao": "babilonia", "chave": "18:4",
+     "resumo": "Um anjo anuncia: \"Caiu a Babilônia\". Uma voz chama o povo de Deus para sair dela. Reis, mercadores e marinheiros choram ao ver a cidade rica destruída em uma hora. Um anjo lança uma grande pedra de moinho ao mar como sinal da queda definitiva.",
+     "licoes": ["Riqueza construída sobre injustiça cai num instante (18:10, 18:17).", "Deus chama seu povo a não participar dos pecados do mundo (18:4)."],
+     "reflexao": "\"Saí dela, povo meu.\" De que hábito ou sistema Deus pode estar chamando você para sair?",
+     "cenas": [
+       {"titulo": "A pedra de moinho", "ref": "18:21", "descricao": "Um anjo forte lança uma enorme pedra de moinho em um mar escuro, enquanto ao longe uma cidade portuária rica arde e navios observam."}
+     ],
+     "quiz": [{"pergunta": "O que o anjo forte lança ao mar como sinal da queda da Babilônia?", "opcoes": ["Uma taça", "Uma coroa", "Uma grande pedra de moinho", "Uma espada"], "correta": 2, "ref": "18:21"}]},
+    {"n": 19, "titulo": "As bodas do Cordeiro e o cavaleiro fiel", "secao": "vitoria", "chave": "19:7",
+     "resumo": "O céu canta \"Aleluia\" e anuncia as bodas do Cordeiro: a noiva se veste de linho fino, as justiças dos santos. O céu se abre e surge um cavalo branco. Seu cavaleiro se chama Fiel e Verdadeiro, Palavra de Deus, Rei dos reis. A besta e o falso profeta são derrotados.",
+     "licoes": ["A história caminha para uma festa de casamento (19:7-9).", "Jesus vence com a palavra: a espada sai da sua boca (19:15).", "Ele é Fiel e Verdadeiro (19:11)."],
+     "reflexao": "O livro chama a vitória final de \"festa de casamento\". O que isso diz sobre o tipo de relação que Deus quer com você?",
+     "cenas": [
+       {"titulo": "O cavaleiro Fiel e Verdadeiro", "ref": "19:11-16", "descricao": "O céu se rasga e um cavaleiro em cavalo branco avança com muitas coroas, manto tingido de sangue e a inscrição \"Rei dos reis e Senhor dos senhores\", seguido de exércitos vestidos de linho branco."}
+     ],
+     "quiz": [{"pergunta": "Como é chamado o cavaleiro do cavalo branco?", "opcoes": ["Fiel e Verdadeiro", "Leão de Judá", "Estrela da manhã", "Alfa e Ômega"], "correta": 0, "ref": "19:11"}]},
+    {"n": 20, "titulo": "Os mil anos e o juízo final", "secao": "vitoria", "chave": "20:12",
+     "resumo": "Satanás é preso por mil anos enquanto os fiéis reinam com Cristo. Depois é solto, engana as nações e é derrotado de vez. João vê um grande trono branco: os mortos são julgados pelos livros, e quem não está no livro da vida é lançado no lago de fogo, assim como a morte e o Xeol.",
+     "licoes": ["O mal tem limites e um fim definido (20:2, 20:10).", "Todos prestarão contas a Deus (20:12).", "O que decide é estar escrito no livro da vida (20:15)."],
+     "reflexao": "Até a morte é lançada fora (20:14). Como a certeza de que a morte terá fim muda a forma de viver hoje?",
+     "cenas": [
+       {"titulo": "O grande trono branco", "ref": "20:11-12", "descricao": "Um trono branco imenso e luminoso diante do qual céu e terra se dissolvem. Uma multidão de pessoas, grandes e pequenas, está de pé diante de livros abertos."}
+     ],
+     "quiz": [{"pergunta": "Por quanto tempo o dragão é amarrado?", "opcoes": ["Sete anos", "Três dias e meio", "Mil anos", "1.260 dias"], "correta": 2, "ref": "20:2"}]},
+    {"n": 21, "titulo": "Novo céu e nova terra", "secao": "nova-criacao", "chave": "21:4",
+     "resumo": "João vê um novo céu e uma nova terra, e a nova Jerusalém descendo do céu como uma noiva. Deus passa a morar com as pessoas: não haverá mais morte, choro nem dor. A cidade tem portas de pérola e praça de ouro, e não tem templo, porque Deus e o Cordeiro são o seu templo.",
+     "licoes": ["O destino final é Deus morando com seu povo (21:3).", "\"Eis que faço novas todas as coisas\" (21:5).", "A água da vida é oferecida de graça a quem tem sede (21:6)."],
+     "reflexao": "Que lágrima você mais anseia que Deus enxugue?",
+     "cenas": [
+       {"titulo": "A cidade que desce do céu", "ref": "21:2", "descricao": "Uma cidade de luz cristalina, com muralhas de jaspe e doze portas de pérola, descendo suavemente do céu sobre uma terra renovada e sem mar."}
+     ],
+     "quiz": [{"pergunta": "Por que a nova Jerusalém não tem templo?", "opcoes": ["Porque foi destruído", "Porque o templo dela é o Senhor Deus e o Cordeiro", "Porque ainda será construído", "Porque está no céu"], "correta": 1, "ref": "21:22"}]},
+    {"n": 22, "titulo": "O rio da vida e \"Venho em breve\"", "secao": "nova-criacao", "chave": "22:17",
+     "resumo": "Um rio de água da vida sai do trono de Deus e do Cordeiro, e a árvore da vida dá frutos todo mês. Os servos de Deus verão o seu rosto. Jesus repete: \"Venho em breve\". O livro termina com um convite, \"quem tem sede, venha\", e uma oração: \"Vem, Senhor Jesus\".",
+     "licoes": ["O que se perdeu no Éden é restaurado: a árvore da vida volta (22:2).", "O convite é gratuito: quem quiser, tome de graça da água da vida (22:17).", "A Bíblia termina com esperança e uma oração (22:20)."],
+     "reflexao": "O livro termina com um convite: \"quem tem sede, venha\". Como você responde a esse convite hoje?",
+     "cenas": [
+       {"titulo": "O rio e a árvore da vida", "ref": "22:1-2", "descricao": "Um rio cristalino corre pelo meio de uma praça dourada; dos dois lados, árvores carregadas de frutos de doze tipos, e pessoas de todas as nações descansando à sombra."}
+     ],
+     "quiz": [{"pergunta": "Qual é a oração no final do livro?", "opcoes": ["Pai nosso", "Santo, Santo, Santo", "Vem, Senhor Jesus", "Aleluia"], "correta": 2, "ref": "22:20"}]}
+  ]
+}

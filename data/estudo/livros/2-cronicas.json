@@ -1,0 +1,1039 @@
+{
+ "livro": "2-cronicas",
+ "nome": "2 Crônicas",
+ "subtitulo": "De Salomão ao exílio, com os olhos no templo",
+ "introducao": "2 Crônicas acompanha o reinado de Salomão, a construção do templo e a história dos reis de Judá até a destruição de Jerusalém. O cronista mostra que os reis que buscaram o SENHOR prosperaram e os que o abandonaram trouxeram ruína, destacando reformas como as de Ezequias e Josias. O livro termina com o decreto de Ciro, abrindo o caminho para a volta do exílio.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Anônimo, chamado de \"o cronista\"; a tradição judaica atribui a Esdras"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Escrito depois do exílio, provavelmente entre os séculos V e IV a.C.; termina com o decreto de Ciro (c. 538 a.C.)"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Provavelmente Jerusalém, na comunidade que voltou da Babilônia"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "Os judeus que voltaram do exílio e precisavam reconstruir a fé, o templo e o culto"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Narrativa histórica"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "36 capítulos e 822 versículos"
+  }
+ ],
+ "chave": "7:14",
+ "temas": [
+  "Buscar a Deus traz restauração",
+  "O templo e o culto no centro da vida do povo",
+  "Humildade e arrependimento",
+  "Reformas que voltam à palavra de Deus",
+  "Deus adverte antes do juízo e abre caminho para a volta"
+ ],
+ "cristo": "O templo cheio da glória de Deus aponta para Jesus, que falou do próprio corpo como templo, como em João 2, e em quem Deus habita entre nós. O chamado de 7:14 a se humilhar, orar e se converter encontra sua resposta plena no perdão oferecido em Cristo.",
+ "secoes": [
+  {
+   "id": "salomao-e-templo",
+   "titulo": "Salomão e o templo",
+   "capitulos": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "resumo": "Salomão recebe sabedoria, constrói e dedica o templo."
+  },
+  {
+   "id": "divisao-e-primeiros-reis",
+   "titulo": "A divisão e os primeiros reis de Judá",
+   "capitulos": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ],
+   "resumo": "O reino se divide; Roboão, Abias e Asa alternam fidelidade e falhas."
+  },
+  {
+   "id": "josafa-a-acaz",
+   "titulo": "De Josafá a Acaz",
+   "capitulos": [
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+   ],
+   "resumo": "Reis que buscam a Deus e reis que o abandonam."
+  },
+  {
+   "id": "ezequias-e-josias",
+   "titulo": "As reformas de Ezequias e Josias",
+   "capitulos": [
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "resumo": "Purificação do templo, grandes Páscoas e o arrependimento de Manassés."
+  },
+  {
+   "id": "exilio-e-esperanca",
+   "titulo": "Exílio e esperança",
+   "capitulos": [
+    36
+   ],
+   "resumo": "Jerusalém cai, mas Ciro autoriza a volta."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Salomão pede sabedoria",
+   "chave": "1:10",
+   "resumo": "Salomão é firmado no reino e vai com todo Israel a Gibeão, onde estava o tabernáculo de Moisés e o altar de bronze. Deus lhe aparece de noite e diz para pedir o que quiser; ele pede sabedoria e conhecimento para governar o povo. Deus lhe dá isso e também riquezas e glória, e o capítulo descreve sua prosperidade.",
+   "licoes": [
+    "Salomão começa o reinado buscando a Deus junto com o povo (1:3).",
+    "Pedir sabedoria para servir bem aos outros agrada a Deus (1:10-11).",
+    "Deus dá generosamente, além do que foi pedido (1:12)."
+   ],
+   "reflexao": "Que tipo de sabedoria você precisa pedir a Deus para suas responsabilidades?",
+   "quiz": [
+    {
+     "pergunta": "O que Salomão pediu a Deus em Gibeão?",
+     "opcoes": [
+      "Sabedoria e conhecimento",
+      "Vitória sobre os inimigos",
+      "Muitos anos de vida",
+      "Um grande exército"
+     ],
+     "correta": 0,
+     "ref": "1:10"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Acordo com Hirão para o templo",
+   "chave": "2:5-6",
+   "resumo": "Salomão decide construir o templo e um palácio e pede a Hirão, rei de Tiro, madeira do Líbano e um artífice habilidoso. Ele reconhece que nem os céus podem conter a Deus. Hirão bendiz o SENHOR, criador dos céus e da terra, e envia Hurão-Abi, mestre em várias artes.",
+   "licoes": [
+    "A grandeza da casa quer refletir a grandeza de Deus (2:5).",
+    "Salomão reconhece sua pequenez diante do Deus que os céus não contêm (2:6).",
+    "Até um rei estrangeiro reconhece o Deus de Israel como criador (2:12)."
+   ],
+   "reflexao": "Como a grandeza de Deus influencia a maneira como você o serve?",
+   "quiz": [
+    {
+     "pergunta": "O que Salomão disse que os céus dos céus não podem fazer?",
+     "opcoes": [
+      "Conter a Deus",
+      "Ver a Deus",
+      "Ouvir a Deus",
+      "Esconder a Deus"
+     ],
+     "correta": 0,
+     "ref": "2:6"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "A construção do templo no monte Moriá",
+   "chave": "3:1",
+   "resumo": "Salomão começa a construir o templo no monte Moriá, na eira de Ornã, lugar mostrado a Davi. O texto dá as medidas, descreve o revestimento de ouro, o lugar santíssimo com dois grandes querubins e o véu colorido. Diante da casa ficam as duas colunas, Jaquim e Boaz.",
+   "licoes": [
+    "O templo foi erguido no lugar onde Deus havia mostrado misericórdia a Davi (3:1).",
+    "O véu separava o lugar santíssimo, lembrando a santidade de Deus (3:14).",
+    "As colunas Jaquim e Boaz marcam a entrada da casa de Deus (3:17)."
+   ],
+   "reflexao": "O que lembra você, no dia a dia, da santidade e da presença de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Onde Salomão construiu o templo?",
+     "opcoes": [
+      "No monte Sião",
+      "No monte Moriá",
+      "No monte Carmelo",
+      "No monte das Oliveiras"
+     ],
+     "correta": 1,
+     "ref": "3:1"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Os utensílios do templo",
+   "chave": "4:19",
+   "resumo": "O capítulo descreve o altar de bronze, o grande mar de fundição sobre doze bois, as pias para lavar os sacrifícios, os dez candelabros e as dez mesas de ouro. Hurão termina as obras de bronze, e Salomão faz os objetos de ouro para a casa de Deus.",
+   "licoes": [
+    "Cada objeto tinha uma função no culto, como as pias para purificação (4:6).",
+    "Os candelabros iluminavam o santuário diante do SENHOR (4:7, 4:20).",
+    "O trabalho foi feito com abundância e cuidado (4:18)."
+   ],
+   "reflexao": "Que detalhes da sua vida podem ser oferecidos a Deus com cuidado?",
+   "quiz": [
+    {
+     "pergunta": "Sobre quantos bois estava assentado o mar de fundição?",
+     "opcoes": [
+      "Quatro",
+      "Sete",
+      "Doze",
+      "Vinte"
+     ],
+     "correta": 2,
+     "ref": "4:4"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "A arca entra no templo",
+   "chave": "5:13",
+   "resumo": "Terminada a obra, a arca é levada pelos levitas ao lugar santíssimo; nela só estão as duas tábuas da lei. Sacerdotes e levitas cantores louvam juntos com instrumentos: \"porque é bom, porque sua misericórdia é para sempre\". Então a nuvem da glória do SENHOR enche a casa.",
+   "licoes": [
+    "A arca guarda as tábuas da aliança, sinal do compromisso de Deus com o povo (5:10).",
+    "O louvor em unidade, \"todos a uma\", precede a manifestação da glória (5:13).",
+    "Diante da glória de Deus, até os sacerdotes não conseguem ficar em pé (5:14)."
+   ],
+   "reflexao": "Quando foi a última vez que você louvou a Deus junto com outros de coração?",
+   "quiz": [
+    {
+     "pergunta": "Qual era o refrão do louvor quando a nuvem encheu a casa?",
+     "opcoes": [
+      "Porque é bom, porque sua misericórdia é para sempre",
+      "Santo, santo, santo",
+      "O SENHOR é meu pastor",
+      "Aleluia, amém"
+     ],
+     "correta": 0,
+     "ref": "5:13"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "A oração de Salomão",
+   "chave": "6:18",
+   "resumo": "Salomão abençoa o povo e lembra que Deus cumpriu a promessa feita a Davi. De joelhos sobre uma plataforma de bronze, ora reconhecendo que os céus não podem conter a Deus e pede que ele ouça as orações feitas voltadas para aquela casa: em pecado, derrota, seca, praga, guerra e exílio, e também as do estrangeiro.",
+   "licoes": [
+    "Deus cumpre com as mãos o que promete com a boca (6:4, 6:15).",
+    "Deus está acima de qualquer templo, mas ouve quem ora (6:18-19).",
+    "\"Não há ser humano que não peque\": a oração inclui arrependimento (6:36-38).",
+    "A casa de Deus está aberta também ao estrangeiro (6:32-33)."
+   ],
+   "reflexao": "Em que situação difícil você precisa voltar seu coração a Deus em oração?",
+   "quiz": [
+    {
+     "pergunta": "Em que posição Salomão orou diante da congregação?",
+     "opcoes": [
+      "Deitado no chão",
+      "Sentado no trono",
+      "De joelhos, com as mãos estendidas ao céu",
+      "De pé, de costas para o povo"
+     ],
+     "correta": 2,
+     "ref": "6:13"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "Fogo do céu e a resposta de Deus",
+   "chave": "7:14",
+   "resumo": "Quando Salomão termina de orar, fogo desce do céu e a glória do SENHOR enche o templo; o povo se prostra e louva. Há sete dias de dedicação e festa. Depois, Deus aparece a Salomão de noite e promete: se o povo se humilhar, orar, buscar sua face e se converter, ele ouvirá, perdoará e sarará a terra. Também adverte contra a idolatria.",
+   "licoes": [
+    "Deus responde à oração com sinais de sua presença (7:1).",
+    "Humilhar-se, orar, buscar a face de Deus e converter-se é o caminho da restauração (7:14).",
+    "Os olhos e ouvidos de Deus estão atentos à oração (7:15).",
+    "Abandonar o SENHOR traria ruína até para a casa mais ilustre (7:19-22)."
+   ],
+   "reflexao": "Qual dos passos de 7:14 você mais precisa praticar agora?",
+   "quiz": [
+    {
+     "pergunta": "O que aconteceu quando Salomão acabou de orar?",
+     "opcoes": [
+      "Começou a chover",
+      "Um profeta apareceu",
+      "A terra tremeu",
+      "Fogo desceu do céu e consumiu o holocausto"
+     ],
+     "correta": 3,
+     "ref": "7:1"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "As obras e o culto no reino de Salomão",
+   "chave": "8:13",
+   "resumo": "Depois de vinte anos de construções, Salomão reconstrói cidades, funda cidades-armazéns e impõe trabalho aos povos remanescentes, não aos israelitas. Transfere a filha de Faraó para outra casa, porque os lugares onde esteve a arca eram sagrados. Organiza os sacrifícios e os turnos de sacerdotes e levitas conforme Moisés e Davi, e envia navios a Ofir.",
+   "licoes": [
+    "Salomão organiza o culto regular conforme o mandamento de Moisés (8:12-13).",
+    "O serviço no templo segue a ordem estabelecida por Davi (8:14).",
+    "Salomão reconhece a santidade dos lugares ligados à arca (8:11)."
+   ],
+   "reflexao": "Que ritmo de culto e oração você mantém em sua semana?",
+   "quiz": [
+    {
+     "pergunta": "Por que Salomão não quis que a filha de Faraó morasse na casa de Davi?",
+     "opcoes": [
+      "Porque era pequena",
+      "Porque ela pediu outra casa",
+      "Porque os lugares onde entrou a arca eram sagrados",
+      "Porque Hirão aconselhou"
+     ],
+     "correta": 2,
+     "ref": "8:11"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "A rainha de Sabá e a glória de Salomão",
+   "chave": "9:8",
+   "resumo": "A rainha de Sabá visita Jerusalém, faz perguntas difíceis e se admira com a sabedoria e a organização da corte de Salomão. Ela bendiz o SENHOR, que pôs Salomão no trono para fazer juízo e justiça. O capítulo descreve a riqueza do rei e termina com sua morte, após quarenta anos de reinado.",
+   "licoes": [
+    "A sabedoria vinda de Deus atrai pessoas de longe (9:1).",
+    "O rei está no trono \"por rei para o SENHOR\", para praticar juízo e justiça (9:8).",
+    "Toda a fama de Salomão vem da sabedoria que Deus pôs em seu coração (9:23)."
+   ],
+   "reflexao": "Que qualidades de Deus as pessoas podem ver refletidas em sua vida?",
+   "quiz": [
+    {
+     "pergunta": "Quanto ouro Salomão recebia por ano?",
+     "opcoes": [
+      "Cento e vinte talentos",
+      "Quatrocentos e vinte talentos",
+      "Seiscentos e sessenta e seis talentos",
+      "Mil talentos"
+     ],
+     "correta": 2,
+     "ref": "9:13"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "titulo": "A divisão do reino",
+   "chave": "10:7",
+   "resumo": "Em Siquém, Jeroboão e o povo pedem a Roboão que alivie o jugo imposto por Salomão. Roboão rejeita o conselho dos anciãos de tratar o povo com bondade e responde com dureza, seguindo os jovens. As tribos do norte se separam da casa de Davi, cumprindo a palavra dita por Aías.",
+   "licoes": [
+    "Os anciãos aconselham: bondade e boas palavras conquistam o povo (10:7).",
+    "A arrogância leva à perda do que parecia garantido (10:13-14).",
+    "Deus conduz a história e cumpre sua palavra mesmo nas decisões humanas (10:15)."
+   ],
+   "reflexao": "Como você trata as pessoas que estão sob sua responsabilidade?",
+   "quiz": [
+    {
+     "pergunta": "O que os anciãos aconselharam Roboão a fazer?",
+     "opcoes": [
+      "Aumentar os impostos",
+      "Fugir para o Egito",
+      "Convocar o exército",
+      "Tratar o povo com bondade e boas palavras"
+     ],
+     "correta": 3,
+     "ref": "10:7"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "titulo": "Roboão fortalece Judá",
+   "chave": "11:16",
+   "resumo": "Deus proíbe Roboão de lutar contra as tribos do norte, e ele obedece. Roboão fortifica cidades de Judá. Sacerdotes, levitas e pessoas de todas as tribos que buscavam o SENHOR vêm para Jerusalém, rejeitando o culto aos bezerros de Jeroboão, e isso fortalece Judá por três anos.",
+   "licoes": [
+    "Obedecer a Deus pode significar desistir de uma guerra (11:4).",
+    "Quem busca o SENHOR de coração está disposto a deixar tudo por ele (11:14, 11:16).",
+    "O reino se fortalece enquanto anda nos caminhos de Davi e Salomão (11:17)."
+   ],
+   "reflexao": "O que você estaria disposto a deixar para buscar a Deus de verdade?",
+   "quiz": [
+    {
+     "pergunta": "Por que muitos de todas as tribos vieram a Jerusalém?",
+     "opcoes": [
+      "Para fugir da fome",
+      "Para servir no exército",
+      "Porque buscavam o SENHOR de coração",
+      "Para comerciar"
+     ],
+     "correta": 2,
+     "ref": "11:16"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "titulo": "Sisaque ataca, e Roboão se humilha",
+   "chave": "12:7",
+   "resumo": "Fortalecido, Roboão abandona a lei do SENHOR, e Sisaque, rei do Egito, ataca Judá. O profeta Semaías diz que o abandono de Deus trouxe o abandono. O rei e os príncipes se humilham, e Deus os livra da destruição, mas eles se tornam servos do Egito e perdem os tesouros. Roboão fez o mal porque não dispôs o coração para buscar o SENHOR.",
+   "licoes": [
+    "O sucesso pode levar ao descuido espiritual (12:1).",
+    "A humildade diante de Deus muda o rumo do juízo (12:6-7).",
+    "Servir a Deus é bem diferente de servir aos reinos do mundo (12:8).",
+    "O problema de Roboão foi não preparar o coração para buscar a Deus (12:14)."
+   ],
+   "reflexao": "Seu coração está disposto a buscar o SENHOR, ou só reage nas crises?",
+   "quiz": [
+    {
+     "pergunta": "Por que Roboão fez o mal, segundo o resumo do cronista?",
+     "opcoes": [
+      "Porque não dispôs seu coração para buscar o SENHOR",
+      "Por falta de riqueza",
+      "Por causa do Egito",
+      "Por influência de Jeroboão"
+     ],
+     "correta": 0,
+     "ref": "12:14"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "titulo": "Abias vence Jeroboão",
+   "chave": "13:18",
+   "resumo": "Abias, rei de Judá, enfrenta Jeroboão com um exército menor. No monte Zemaraim, discursa lembrando a aliança com Davi e acusando Israel de abandonar os sacerdotes do SENHOR e adorar bezerros. Cercados por uma emboscada, os de Judá clamam ao SENHOR e gritam, e Deus derrota Jeroboão.",
+   "licoes": [
+    "Abias lembra que o reino foi dado a Davi por aliança (13:5).",
+    "Lutar contra o SENHOR nunca dá certo (13:12).",
+    "Cercados, eles clamaram ao SENHOR (13:14-15).",
+    "Judá prevaleceu porque se apoiou no SENHOR (13:18)."
+   ],
+   "reflexao": "Quando se sente cercado, a quem você recorre primeiro?",
+   "quiz": [
+    {
+     "pergunta": "Por que os filhos de Judá prevaleceram, segundo o texto?",
+     "opcoes": [
+      "Porque eram mais numerosos",
+      "Porque se apoiaram no SENHOR",
+      "Porque tinham carros de ferro",
+      "Porque o Egito ajudou"
+     ],
+     "correta": 1,
+     "ref": "13:18"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "titulo": "Asa confia no SENHOR",
+   "chave": "14:11",
+   "resumo": "Asa faz o que é bom e reto: remove altares estranhos e manda Judá buscar o SENHOR, e o reino tem paz. Aproveita o descanso para fortificar cidades. Quando Zerá, o etíope, ataca com um exército enorme, Asa clama ao SENHOR, reconhecendo que só ele pode ajudar o fraco, e Deus derrota os etíopes.",
+   "licoes": [
+    "A reforma começa removendo os ídolos e chamando o povo a buscar a Deus (14:3-4).",
+    "Tempos de paz são oportunidade de se preparar (14:6-7).",
+    "Para Deus não faz diferença ajudar o forte ou quem não tem força (14:11)."
+   ],
+   "reflexao": "Em que situação você precisa dizer a Deus: \"em ti nos apoiamos\"?",
+   "quiz": [
+    {
+     "pergunta": "Qual foi o clamor de Asa diante do exército etíope?",
+     "opcoes": [
+      "\"Dá-nos mais soldados\"",
+      "\"Ninguém há como tu para ajudar o fraco; em ti nos apoiamos\"",
+      "\"Envia o Egito em nosso socorro\"",
+      "\"Faze-nos fugir\""
+     ],
+     "correta": 1,
+     "ref": "14:11"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "titulo": "A aliança de Asa com o SENHOR",
+   "chave": "15:2",
+   "resumo": "O profeta Azarias, filho de Obede, diz a Asa que o SENHOR está com quem está com ele e se deixa achar por quem o busca. Encorajado, Asa remove os ídolos e reúne Judá, Benjamim e pessoas do norte para renovar a aliança de buscar a Deus de todo o coração, com grande alegria. Ele até depõe a avó Maaca por idolatria.",
+   "licoes": [
+    "\"Se o buscardes, será achado de vós\" (15:2).",
+    "Em tempos de crise, voltar-se a Deus abre caminho para encontrá-lo (15:4).",
+    "Coragem e perseverança na obra de Deus têm recompensa (15:7).",
+    "Buscar a Deus de todo o coração traz alegria e descanso (15:15)."
+   ],
+   "reflexao": "O que significa, na prática, buscar a Deus de todo o coração nesta fase da sua vida?",
+   "quiz": [
+    {
+     "pergunta": "Quem Asa depôs da posição de rainha por causa de um ídolo?",
+     "opcoes": [
+      "Sua esposa",
+      "Jezabel",
+      "A filha de Faraó",
+      "Maaca, mãe do rei"
+     ],
+     "correta": 3,
+     "ref": "15:16"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "titulo": "O erro de Asa no fim da vida",
+   "chave": "16:9",
+   "resumo": "Ameaçado por Baasa, Asa paga com os tesouros do templo uma aliança com Ben-Hadade da Síria. O vidente Hanani o repreende por confiar no rei da Síria e não no SENHOR, lembrando que os olhos de Deus percorrem a terra para fortalecer os de coração íntegro. Asa se irrita, prende o profeta e, doente, não busca o SENHOR.",
+   "licoes": [
+    "Quem já viu Deus agir pode, com o tempo, voltar a confiar só em recursos humanos (16:7-8).",
+    "Os olhos do SENHOR buscam fortalecer os que têm coração íntegro (16:9).",
+    "Rejeitar a correção endurece o coração (16:10).",
+    "O problema na doença não foi buscar médicos, mas deixar de buscar o SENHOR (16:12)."
+   ],
+   "reflexao": "Como você reage quando alguém corrige você em nome de Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que o vidente Hanani disse que os olhos do SENHOR fazem?",
+     "opcoes": [
+      "Contam as estrelas",
+      "Contemplam toda a terra para fortalecer os de coração íntegro",
+      "Procuram os culpados",
+      "Vigiam os templos"
+     ],
+     "correta": 1,
+     "ref": "16:9"
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "titulo": "Josafá ensina a lei ao povo",
+   "chave": "17:9",
+   "resumo": "Josafá sucede a Asa, anda nos primeiros caminhos de Davi e busca o Deus de seu pai. Remove altos e bosques e envia príncipes, levitas e sacerdotes para ensinar a lei do SENHOR em todas as cidades de Judá. O temor do SENHOR cai sobre os reinos vizinhos, e Josafá se fortalece.",
+   "licoes": [
+    "Josafá prospera porque busca o Deus de seu pai e não os baalins (17:3-5).",
+    "Um coração animado nos caminhos do SENHOR leva à ação (17:6).",
+    "Ensinar a palavra de Deus ao povo é uma prioridade (17:9)."
+   ],
+   "reflexao": "Como você pode ajudar alguém a conhecer melhor a palavra de Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que os enviados de Josafá levavam ao ensinar nas cidades?",
+     "opcoes": [
+      "Espadas",
+      "Presentes do rei",
+      "A arca",
+      "O livro da lei do SENHOR"
+     ],
+     "correta": 3,
+     "ref": "17:9"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "titulo": "Josafá, Acabe e o profeta Micaías",
+   "chave": "18:13",
+   "resumo": "Josafá faz aliança com Acabe por casamento e aceita ir com ele à guerra contra Ramote de Gileade. Pede um profeta do SENHOR, e Micaías, contrariando quatrocentos profetas, anuncia a derrota. Acabe vai disfarçado e morre ferido por uma flecha ao acaso; Josafá, cercado, clama e é socorrido por Deus.",
+   "licoes": [
+    "Josafá insiste em ouvir um profeta do SENHOR (18:6).",
+    "Micaías se compromete a dizer só o que Deus disser (18:13).",
+    "Alianças com quem rejeita a Deus podem nos colocar em perigo (18:1, 18:31).",
+    "Deus ouve o clamor de Josafá no meio da batalha (18:31)."
+   ],
+   "reflexao": "Que alianças ou parcerias podem estar afastando você de Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que Micaías prometeu falar?",
+     "opcoes": [
+      "O que o rei quisesse",
+      "O que seu Deus lhe dissesse",
+      "O que os outros profetas disseram",
+      "Nada"
+     ],
+     "correta": 1,
+     "ref": "18:13"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "titulo": "Josafá organiza a justiça",
+   "chave": "19:7",
+   "resumo": "Ao voltar, Josafá é repreendido pelo vidente Jeú por ajudar o ímpio, mas também elogiado por buscar a Deus. Ele percorre o reino chamando o povo de volta ao SENHOR e nomeia juízes, lembrando que julgam em nome de Deus, que não faz acepção de pessoas nem aceita suborno. Em Jerusalém, organiza um tribunal com levitas, sacerdotes e chefes.",
+   "licoes": [
+    "Deus repreende e reconhece o bem ao mesmo tempo (19:2-3).",
+    "Josafá vai pessoalmente ao povo para trazê-lo de volta ao SENHOR (19:4).",
+    "Quem julga o faz diante de Deus, que não aceita suborno nem favoritismo (19:6-7).",
+    "A justiça deve ser exercida com temor do SENHOR, verdade e coração íntegro (19:9)."
+   ],
+   "reflexao": "Onde você precisa agir com mais justiça e sem favoritismo?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Josafá, em lugar de quem os juízes julgavam?",
+     "opcoes": [
+      "Do rei",
+      "Dos anciãos",
+      "Do povo",
+      "Do SENHOR"
+     ],
+     "correta": 3,
+     "ref": "19:6"
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "titulo": "A batalha é de Deus",
+   "chave": "20:15",
+   "resumo": "Uma grande coalizão de moabitas, amonitas e outros ataca Judá. Josafá tem medo, mas proclama jejum e ora diante do povo: \"não sabemos o que fazer, mas a ti voltamos nossos olhos\". O levita Jaaziel anuncia que a batalha é de Deus. Judá sai cantando louvores, os inimigos se destroem entre si, e o povo bendiz o SENHOR no vale de Beraca.",
+   "licoes": [
+    "O medo pode levar à oração em vez do desespero (20:3).",
+    "Reconhecer a própria fraqueza e olhar para Deus é o começo da vitória (20:12).",
+    "\"Não é vossa a guerra, mas sim de Deus\" (20:15, 20:17).",
+    "Crer em Deus e em sua palavra traz firmeza (20:20-21)."
+   ],
+   "reflexao": "Em que situação você precisa dizer: \"não sei o que fazer, mas meus olhos estão em ti\"?",
+   "quiz": [
+    {
+     "pergunta": "O que Judá cantava enquanto saía para a batalha?",
+     "opcoes": [
+      "Um hino de guerra",
+      "\"Glorificai ao SENHOR, porque sua misericórdia é para sempre\"",
+      "Os nomes dos inimigos",
+      "Um lamento"
+     ],
+     "correta": 1,
+     "ref": "20:21"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "titulo": "O reinado infiel de Jeorão",
+   "chave": "21:7",
+   "resumo": "Jeorão, filho de Josafá, mata seus irmãos ao se firmar no trono e segue os caminhos da casa de Acabe, por causa de seu casamento. Mesmo assim, Deus não destrói a casa de Davi por causa da aliança. Edom e Libna se rebelam, uma carta do profeta Elias anuncia juízo, e Jeorão morre de uma doença terrível, sem deixar saudade.",
+   "licoes": [
+    "Más influências no casamento e na família podem desviar um líder (21:6).",
+    "A fidelidade de Deus à aliança com Davi permanece mesmo com reis infiéis (21:7).",
+    "Abandonar o SENHOR traz consequências pessoais e coletivas (21:10, 21:14).",
+    "Uma vida sem amor e sem justiça termina sem deixar saudade (21:20)."
+   ],
+   "reflexao": "Que lembrança você gostaria de deixar nas pessoas?",
+   "quiz": [
+    {
+     "pergunta": "Quem enviou uma carta de advertência a Jeorão?",
+     "opcoes": [
+      "O profeta Isaías",
+      "O sacerdote Joiada",
+      "O profeta Elias",
+      "O vidente Jeú"
+     ],
+     "correta": 2,
+     "ref": "21:12"
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "titulo": "Acazias e Atalia",
+   "chave": "22:3",
+   "resumo": "Acazias reina apenas um ano, aconselhado por sua mãe Atalia e pela casa de Acabe a agir mal. Ao visitar Jorão de Israel, é morto por Jeú. Atalia então tenta eliminar toda a família real de Judá, mas Jeosebate esconde o pequeno Joás no templo por seis anos.",
+   "licoes": [
+    "Conselheiros maus levam à ruína (22:3-4).",
+    "Deus usa a coragem de Jeosebate para preservar a linhagem de Davi (22:11).",
+    "Mesmo quando o mal parece reinar, Deus está guardando seu propósito em segredo (22:12)."
+   ],
+   "reflexao": "De quem são os conselhos que mais influenciam suas escolhas?",
+   "quiz": [
+    {
+     "pergunta": "Quem aconselhava Acazias a agir impiamente?",
+     "opcoes": [
+      "Sua mãe Atalia",
+      "Joiada",
+      "Jeú",
+      "Os sacerdotes"
+     ],
+     "correta": 0,
+     "ref": "22:3"
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "titulo": "Joás é coroado",
+   "chave": "23:16",
+   "resumo": "No sétimo ano, o sacerdote Joiada faz aliança com chefes militares e levitas e coroa Joás no templo, com cuidado para que só os consagrados entrem na casa do SENHOR. Atalia é morta, o templo de Baal é derrubado, e Joiada faz um pacto para que o rei e o povo sejam do SENHOR. Ele reorganiza o culto, e a cidade fica em paz.",
+   "licoes": [
+    "Joiada age com coragem e respeito à santidade do templo (23:6).",
+    "A coroa e o \"testemunho\", a lei, são dados juntos ao novo rei (23:11).",
+    "A renovação começa com o compromisso de ser povo do SENHOR (23:16).",
+    "Quando o culto é restaurado, há alegria e paz (23:18, 23:21)."
+   ],
+   "reflexao": "O que você precisa \"derrubar\" para ser inteiramente do SENHOR?",
+   "quiz": [
+    {
+     "pergunta": "Que pacto Joiada fez com o povo e o rei?",
+     "opcoes": [
+      "De pagar tributo à Síria",
+      "De reconstruir o muro",
+      "Que seriam povo do SENHOR",
+      "De guerrear contra Israel"
+     ],
+     "correta": 2,
+     "ref": "23:16"
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "titulo": "Joás: bom começo, triste fim",
+   "chave": "24:2",
+   "resumo": "Joás faz o que é reto enquanto vive o sacerdote Joiada e organiza a restauração do templo com uma caixa de ofertas, recebida com alegria pelo povo. Após a morte de Joiada, aos 130 anos, Joás segue os príncipes e volta à idolatria. Manda apedrejar Zacarias, filho de Joiada, que o repreendia. A Síria derrota Judá, e Joás é morto por seus servos.",
+   "licoes": [
+    "A fé que depende só de outra pessoa pode não resistir quando ela se vai (24:2, 24:17-18).",
+    "Ofertar com alegria faz a obra de Deus avançar (24:10).",
+    "Deus envia profetas para chamar o povo de volta antes do juízo (24:19-20).",
+    "A ingratidão de Joás para com Joiada é lembrada com tristeza (24:22)."
+   ],
+   "reflexao": "Sua fé tem raízes próprias ou depende só de outras pessoas?",
+   "quiz": [
+    {
+     "pergunta": "Com quantos anos morreu o sacerdote Joiada?",
+     "opcoes": [
+      "Setenta",
+      "Noventa",
+      "Cento e vinte",
+      "Cento e trinta"
+     ],
+     "correta": 3,
+     "ref": "24:15"
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "titulo": "Amazias: obediência pela metade",
+   "chave": "25:2",
+   "resumo": "Amazias faz o que é reto, mas não de coração íntegro. Contrata soldados de Israel, mas, avisado por um homem de Deus, os despede, confiando que o SENHOR pode lhe dar muito mais que o dinheiro perdido. Vence Edom, mas leva os deuses edomitas e os adora. Rejeita o profeta, desafia Joás de Israel, é derrotado e acaba morto numa conspiração.",
+   "licoes": [
+    "Fazer o certo sem coração íntegro deixa a vida vulnerável (25:2).",
+    "Deus pode dar muito mais do que aquilo que perdemos para obedecê-lo (25:9).",
+    "Adorar os deuses de um povo vencido não faz sentido (25:14-15).",
+    "Quem recusa ouvir a correção caminha para a queda (25:16, 25:20)."
+   ],
+   "reflexao": "Que \"perda\" você teme ao obedecer a Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que o homem de Deus respondeu sobre os cem talentos perdidos?",
+     "opcoes": [
+      "Que o SENHOR podia dar muito mais",
+      "Que seriam devolvidos",
+      "Que o rei devia esquecer",
+      "Que Israel pagaria"
+     ],
+     "correta": 0,
+     "ref": "25:9"
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "titulo": "O orgulho de Uzias",
+   "chave": "26:16",
+   "resumo": "Uzias reina 52 anos e prospera enquanto busca a Deus, orientado por Zacarias: vence inimigos, constrói torres, cava cisternas e organiza o exército. Mas, fortalecido, seu coração se exalta e ele entra no templo para queimar incenso, função dos sacerdotes. Ao se irar contra os sacerdotes que o advertem, fica leproso até a morte.",
+   "licoes": [
+    "Enquanto buscou o SENHOR, Deus o fez prosperar (26:5).",
+    "A ajuda de Deus é a razão do sucesso de Uzias (26:7, 26:15).",
+    "O orgulho pode surgir justamente depois do sucesso (26:16).",
+    "Ninguém, nem um rei, está acima da ordem que Deus estabeleceu para o culto (26:18)."
+   ],
+   "reflexao": "Como você se protege do orgulho quando as coisas vão bem?",
+   "quiz": [
+    {
+     "pergunta": "Onde surgiu a lepra em Uzias?",
+     "opcoes": [
+      "Nas mãos",
+      "Nos pés",
+      "Na testa",
+      "No peito"
+     ],
+     "correta": 2,
+     "ref": "26:19"
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "titulo": "Jotão prepara seus caminhos",
+   "chave": "27:6",
+   "resumo": "Jotão reina dezesseis anos e faz o que é reto, sem entrar no templo como o pai. Constrói a porta superior da casa do SENHOR, cidades e torres, e vence os amonitas. O texto resume que ele se fortaleceu porque preparou seus caminhos diante do SENHOR, embora o povo continuasse a se corromper.",
+   "licoes": [
+    "Jotão aprende com o erro do pai e não invade o templo (27:2).",
+    "A força de Jotão vem de preparar seus caminhos diante de Deus (27:6).",
+    "Um líder fiel nem sempre muda o coração de todo o povo (27:2)."
+   ],
+   "reflexao": "Como você pode \"preparar seus caminhos\" diante de Deus nesta semana?",
+   "quiz": [
+    {
+     "pergunta": "Por que Jotão se fortaleceu?",
+     "opcoes": [
+      "Porque tinha muitos soldados",
+      "Porque ficou rico",
+      "Porque fez aliança com a Assíria",
+      "Porque preparou seus caminhos diante do SENHOR"
+     ],
+     "correta": 3,
+     "ref": "27:6"
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "titulo": "Acaz e a misericórdia de Samaria",
+   "chave": "28:15",
+   "resumo": "Acaz pratica a idolatria, até queimando os filhos no fogo, e Judá sofre derrotas para a Síria e Israel, que leva duzentos mil cativos. O profeta Obede repreende o exército de Israel, e líderes de Efraim vestem, alimentam e devolvem os cativos. Acaz busca a Assíria, que só o oprime, e, na angústia, peca ainda mais, fechando as portas do templo.",
+   "licoes": [
+    "O profeta lembra que os de Judá são irmãos e devem ser libertados (28:10-11).",
+    "Líderes de Efraim mostram compaixão concreta aos cativos (28:15).",
+    "Na angústia, Acaz se afasta ainda mais de Deus em vez de voltar a ele (28:22-23).",
+    "Fechar as portas da casa de Deus é o ponto mais baixo de seu reinado (28:24)."
+   ],
+   "reflexao": "Quando está em crise, você se aproxima ou se afasta de Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que os líderes de Efraim fizeram com os cativos de Judá?",
+     "opcoes": [
+      "Venderam como escravos",
+      "Vestiram, alimentaram e os levaram de volta até Jericó",
+      "Levaram para Samaria",
+      "Entregaram à Assíria"
+     ],
+     "correta": 1,
+     "ref": "28:15"
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "titulo": "Ezequias purifica o templo",
+   "chave": "29:11",
+   "resumo": "No primeiro mês de seu reinado, Ezequias reabre e repara as portas do templo. Chama sacerdotes e levitas a se santificarem e limparem a casa do SENHOR, reconhecendo o pecado dos pais. Em dezesseis dias o templo é purificado; são oferecidos sacrifícios de expiação por todo Israel, com cânticos de Davi e Asafe, e o povo se alegra.",
+   "licoes": [
+    "Ezequias não adia: começa a reforma logo no primeiro mês (29:3).",
+    "Reconhecer o pecado dos pais é o primeiro passo para a restauração (29:6).",
+    "Deus escolheu os levitas para estarem diante dele e servi-lo (29:11).",
+    "A alegria do povo vem de perceber que foi Deus quem o preparou (29:36)."
+   ],
+   "reflexao": "Que \"porta\" da sua vida espiritual precisa ser reaberta?",
+   "quiz": [
+    {
+     "pergunta": "Quando Ezequias abriu as portas da casa do SENHOR?",
+     "opcoes": [
+      "No primeiro mês do primeiro ano",
+      "No décimo ano",
+      "Depois da Páscoa",
+      "Depois da guerra com a Assíria"
+     ],
+     "correta": 0,
+     "ref": "29:3"
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "titulo": "A grande Páscoa de Ezequias",
+   "chave": "30:9",
+   "resumo": "Ezequias envia cartas a todo Israel e Judá, inclusive às tribos do norte, convidando para a Páscoa em Jerusalém no segundo mês. Muitos zombam, mas alguns se humilham e vêm. Como vários não estavam purificados, Ezequias ora para que Deus perdoe quem buscou a Deus de coração, e o SENHOR o ouve. A festa é prolongada por mais sete dias, com uma alegria não vista desde Salomão.",
+   "licoes": [
+    "O convite de Deus é para todos, até para quem havia se afastado (30:6, 30:9).",
+    "Deus é clemente e misericordioso com quem se volta a ele (30:9).",
+    "Alguns zombam, outros se humilham: cada um decide como responder (30:10-11).",
+    "Deus olha para o coração que o busca, mais do que para a forma perfeita (30:18-20)."
+   ],
+   "reflexao": "A quem você pode levar um convite para voltar a Deus?",
+   "quiz": [
+    {
+     "pergunta": "Como muitos reagiram às cartas de Ezequias em Efraim e Manassés?",
+     "opcoes": [
+      "Riam e zombavam dos mensageiros",
+      "Vieram todos com alegria",
+      "Prenderam os mensageiros",
+      "Pediram mais tempo"
+     ],
+     "correta": 0,
+     "ref": "30:10"
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "titulo": "Ofertas em abundância",
+   "chave": "31:21",
+   "resumo": "Depois da Páscoa, o povo destrói ídolos e altares em Judá e até no norte. Ezequias organiza os turnos de sacerdotes e levitas e manda o povo trazer sua parte para sustentá-los. As ofertas e dízimos chegam em tal quantidade que formam montes; o sumo sacerdote diz que comeram, se fartaram e ainda sobrou. Ezequias faz tudo de todo o coração e prospera.",
+   "licoes": [
+    "A renovação espiritual leva a mudanças práticas (31:1).",
+    "Sustentar quem serve a Deus permite que se dedique à lei do SENHOR (31:4).",
+    "Quando o povo oferta com generosidade, há sustento e ainda sobra (31:10).",
+    "Ezequias buscou a Deus de todo o coração em tudo o que começou (31:21)."
+   ],
+   "reflexao": "O que significa para você ofertar com generosidade?",
+   "quiz": [
+    {
+     "pergunta": "O que disse o sumo sacerdote Azarias sobre as ofertas?",
+     "opcoes": [
+      "Que faltava muito",
+      "Que comeram, se fartaram e sobrou muito",
+      "Que deviam ser enviadas à Assíria",
+      "Que eram pequenas demais"
+     ],
+     "correta": 1,
+     "ref": "31:10"
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "titulo": "O livramento de Senaqueribe",
+   "chave": "32:8",
+   "resumo": "Senaqueribe invade Judá. Ezequias tapa as fontes de água, reforça os muros e encoraja o povo: com o inimigo está o força da carne, mas conosco está o SENHOR. Os assírios zombam de Deus, mas Ezequias e o profeta Isaías oram, e um anjo derrota o exército assírio. Ezequias adoece, é curado, se orgulha, depois se humilha; Deus o prova no episódio dos enviados da Babilônia.",
+   "licoes": [
+    "Fé e preparo andam juntos: Ezequias planeja e confia (32:3-5).",
+    "Mais são os que estão conosco do que com o inimigo (32:7-8).",
+    "A oração de Ezequias e Isaías precede o livramento (32:20-21).",
+    "Deus prova o coração para revelar o que há nele (32:31)."
+   ],
+   "reflexao": "Em que área você precisa unir preparo prático e confiança em Deus?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Ezequias, o que estava com o rei da Assíria?",
+     "opcoes": [
+      "Os deuses das nações",
+      "O Egito",
+      "Os anjos",
+      "O força da carne"
+     ],
+     "correta": 3,
+     "ref": "32:8"
+    }
+   ]
+  },
+  {
+   "n": 33,
+   "titulo": "Manassés se arrepende",
+   "chave": "33:12-13",
+   "resumo": "Manassés reina 55 anos e faz grandes males: reconstrói altos, ergue altares pagãos no templo, sacrifica filhos e consulta espíritos. Não ouve a Deus e é levado preso pelos assírios à Babilônia. Na angústia, humilha-se e ora; Deus o ouve e o traz de volta, e ele remove os ídolos. Seu filho Amom, porém, não se humilha e é morto.",
+   "licoes": [
+    "Nenhum pecado está além do alcance da misericórdia de Deus para quem se humilha (33:12-13).",
+    "A angústia pode ser o lugar onde alguém finalmente busca a Deus (33:12).",
+    "O arrependimento verdadeiro aparece em mudanças concretas (33:15-16).",
+    "Amom repete os pecados do pai, mas não o seu arrependimento (33:23)."
+   ],
+   "reflexao": "Há alguém que você considera \"longe demais\" de Deus? O que esta história diz sobre isso?",
+   "quiz": [
+    {
+     "pergunta": "Para onde Manassés foi levado preso?",
+     "opcoes": [
+      "Para Nínive",
+      "Para a Babilônia",
+      "Para o Egito",
+      "Para Damasco"
+     ],
+     "correta": 1,
+     "ref": "33:11"
+    }
+   ]
+  },
+  {
+   "n": 34,
+   "titulo": "Josias busca a Deus desde jovem",
+   "chave": "34:31",
+   "resumo": "Josias, rei aos oito anos, começa a buscar a Deus ainda jovem e, aos doze anos de reinado, purifica Judá e Jerusalém dos ídolos, chegando até as terras do norte. Durante a reforma do templo, Hilquias encontra o livro da lei. Josias rasga as vestes, consulta a profetisa Hulda e reúne o povo para renovar a aliança de seguir o SENHOR de todo o coração.",
+   "licoes": [
+    "Nunca é cedo demais para buscar a Deus (34:3).",
+    "A obra de Deus avança com pessoas que trabalham com fidelidade (34:12).",
+    "Deus ouve o coração quebrantado diante de sua palavra (34:27).",
+    "Josias leva o povo a assumir um compromisso público com a aliança (34:31-32)."
+   ],
+   "reflexao": "O que a palavra de Deus tem mostrado que você precisa mudar?",
+   "quiz": [
+    {
+     "pergunta": "Com quantos anos Josias começou a reinar?",
+     "opcoes": [
+      "Oito",
+      "Doze",
+      "Dezoito",
+      "Vinte e cinco"
+     ],
+     "correta": 0,
+     "ref": "34:1"
+    }
+   ]
+  },
+  {
+   "n": 35,
+   "titulo": "A Páscoa de Josias e sua morte",
+   "chave": "35:18",
+   "resumo": "Josias celebra uma Páscoa grandiosa, organizando sacerdotes e levitas segundo as instruções de Davi e doando milhares de animais ao povo. Não houvera Páscoa assim desde Samuel. Depois, Josias insiste em enfrentar o Faraó Neco, mesmo avisado de que a palavra vinha de Deus, e é ferido em Megido. Jeremias e todo o povo o lamentam.",
+   "licoes": [
+    "Josias dá generosamente para que todo o povo possa celebrar (35:7).",
+    "A celebração bem preparada envolve cada um em seu posto (35:10, 35:15).",
+    "Mesmo um rei fiel pode errar ao não ouvir a direção de Deus (35:22).",
+    "A morte de Josias é chorada por todo o povo (35:24-25)."
+   ],
+   "reflexao": "Como você discerne a vontade de Deus quando ela vem por meios inesperados?",
+   "quiz": [
+    {
+     "pergunta": "Quem lamentou a morte de Josias com cânticos?",
+     "opcoes": [
+      "Isaías",
+      "Hulda",
+      "Jeremias",
+      "Hilquias"
+     ],
+     "correta": 2,
+     "ref": "35:25"
+    }
+   ]
+  },
+  {
+   "n": 36,
+   "titulo": "O exílio e o decreto de Ciro",
+   "chave": "36:15-16",
+   "resumo": "Os últimos reis de Judá, Jeoacaz, Jeoaquim, Joaquim e Zedequias, fazem o que é mau, e Zedequias não se humilha diante de Jeremias. Deus envia mensageiros insistentemente, por compaixão, mas o povo zomba deles. Os babilônios destroem o templo e Jerusalém, e o povo vai para o exílio por setenta anos. O livro termina com Ciro, rei da Pérsia, autorizando a volta e a reconstrução do templo.",
+   "licoes": [
+    "Deus enviou avisos insistentes porque tinha compaixão de seu povo (36:15).",
+    "Desprezar a palavra de Deus leva a uma situação sem remédio (36:16).",
+    "O exílio cumpre a palavra dita por Jeremias (36:21).",
+    "O livro termina com esperança: Deus move o coração de Ciro para permitir a volta (36:22-23)."
+   ],
+   "reflexao": "Como você tem respondido às vezes em que Deus insiste em falar com você?",
+   "quiz": [
+    {
+     "pergunta": "Qual rei da Pérsia proclamou a volta para construir a casa do SENHOR?",
+     "opcoes": [
+      "Dario",
+      "Assuero",
+      "Artaxerxes",
+      "Ciro"
+     ],
+     "correta": 3,
+     "ref": "36:22-23"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,162 @@
+{
+ "livro": "malaquias",
+ "nome": "Malaquias",
+ "subtitulo": "Deus ama e chama de volta um povo cansado",
+ "introducao": "Malaquias fala a uma geração que voltou do exílio e reconstruiu o templo, mas esfriou na fé. Em forma de diálogo, Deus responde às objeções do povo e denuncia ofertas desprezíveis, sacerdotes negligentes, infidelidade no casamento e descaso com os dízimos. O livro encerra o Antigo Testamento, na ordem cristã, com a promessa de um mensageiro que preparará o caminho do Senhor.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Malaquias (1:1); o nome significa \"meu mensageiro\", e há quem o entenda como título"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Após a reconstrução do templo, provavelmente por volta de 460–430 a.C., perto da época de Esdras e Neemias"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "Israel após o exílio, especialmente os sacerdotes (1:1, 1:6)"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Profecia em forma de diálogos e disputas"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "4 capítulos e 55 versículos"
+  }
+ ],
+ "chave": "3:1",
+ "temas": [
+  "O amor de Deus por seu povo",
+  "Adoração sincera e de qualidade",
+  "Fidelidade no casamento e na aliança",
+  "Voltar para Deus",
+  "O mensageiro que prepara o caminho"
+ ],
+ "cristo": "Os Evangelhos identificam João Batista como o mensageiro que prepara o caminho e como o \"Elias\" prometido, e Jesus como o Senhor que vem ao seu templo. Assim, Malaquias liga o Antigo Testamento à vinda de Cristo.",
+ "secoes": [
+  {
+   "id": "amor-e-honra",
+   "titulo": "Amor de Deus e culto desonrado",
+   "capitulos": [
+    1,
+    2
+   ],
+   "resumo": "Deus afirma seu amor e denuncia sacerdotes e infidelidade."
+  },
+  {
+   "id": "o-dia-que-vem",
+   "titulo": "O mensageiro e o dia que vem",
+   "capitulos": [
+    3,
+    4
+   ],
+   "resumo": "O Senhor virá para purificar, lembrar os fiéis e restaurar corações."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Onde está a minha honra?",
+   "chave": "1:6",
+   "resumo": "Deus começa declarando seu amor por Israel, mas o povo pergunta: \"Em que nos amaste?\". Ele lembra que escolheu Jacó e não Esaú (Edom). Em seguida, acusa os sacerdotes de desprezar seu nome trazendo ao altar animais cegos, aleijados e doentes, algo que nem o governador aceitaria. Deus anuncia que seu nome será grande entre as nações, de onde nasce o sol até onde se põe.",
+   "licoes": [
+    "O amor de Deus vem antes de qualquer exigência (1:2).",
+    "Oferecer a Deus o que sobra ou o que é defeituoso é desprezá-lo (1:7-8).",
+    "Servir a Deus por obrigação cansada esvazia a adoração (1:13).",
+    "O nome de Deus será honrado entre todas as nações (1:11)."
+   ],
+   "reflexao": "Você tem dado a Deus o seu melhor ou o que sobra?",
+   "quiz": [
+    {
+     "pergunta": "Que tipo de animais os sacerdotes traziam para o sacrifício?",
+     "opcoes": [
+      "Cegos, aleijados e enfermos",
+      "Os primogênitos do rebanho",
+      "Cordeiros sem defeito",
+      "Bois gordos"
+     ],
+     "correta": 0,
+     "ref": "1:8"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Infidelidade no altar e no casamento",
+   "chave": "2:16",
+   "resumo": "Deus adverte os sacerdotes: eles deveriam ensinar a verdade, como Levi, mas se desviaram e fizeram muitos tropeçar. Depois, denuncia a infidelidade do povo: casamentos com quem adorava outros deuses e homens que traíam e abandonavam a esposa da juventude. Deus é testemunha da aliança matrimonial e odeia o divórcio feito com traição e violência. O povo ainda cansa o SENHOR dizendo que ele aprova quem faz o mal.",
+   "licoes": [
+    "Quem ensina a palavra de Deus tem grande responsabilidade (2:6-7).",
+    "Somos criados pelo mesmo Deus; trair o irmão é quebrar a aliança (2:10).",
+    "O casamento é uma aliança da qual Deus é testemunha (2:14).",
+    "A fidelidade ao cônjuge é guardada \"no espírito\", isto é, no interior (2:15-16)."
+   ],
+   "reflexao": "Em que relações você precisa praticar mais fidelidade?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Malaquias, quem foi testemunha entre o homem e a mulher da sua juventude?",
+     "opcoes": [
+      "Os sacerdotes",
+      "Os anciãos",
+      "O SENHOR",
+      "Os pais"
+     ],
+     "correta": 2,
+     "ref": "2:14"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "O mensageiro e o livro de memória",
+   "chave": "3:1",
+   "resumo": "Deus promete enviar seu mensageiro para preparar o caminho, e então o Senhor virá ao seu templo como fogo de ourives para purificar e julgar. Porque Deus não muda, o povo não foi consumido; ele chama: \"Voltai-vos a mim\". O povo roubava a Deus nos dízimos e ofertas, e é desafiado a prová-lo. Quando alguns dizem que é inútil servir a Deus, os que o temem conversam entre si e Deus registra seus nomes num livro de memória.",
+   "licoes": [
+    "A vinda do Senhor purifica como fogo de ourives (3:2-3).",
+    "A fidelidade de Deus é a razão de o povo ainda existir (3:6).",
+    "Deus convida a confiar nele também com os bens materiais (3:10).",
+    "Deus ouve e se lembra dos que o temem, mesmo quando o mal parece prosperar (3:16-17)."
+   ],
+   "reflexao": "O que você conversa com outros sobre Deus quando a fé está difícil?",
+   "quiz": [
+    {
+     "pergunta": "O que foi escrito diante de Deus para os que temem ao SENHOR?",
+     "opcoes": [
+      "Uma nova lei",
+      "Uma carta aos reis",
+      "Um livro de memória",
+      "Uma lista de dízimos"
+     ],
+     "correta": 2,
+     "ref": "3:16"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "O Sol da justiça e o profeta Elias",
+   "chave": "4:2",
+   "resumo": "O dia do SENHOR virá ardendo como forno contra os soberbos e os maus. Mas, para os que temem o nome de Deus, nascerá o Sol da justiça trazendo cura, e eles saltarão de alegria. O livro termina pedindo que lembrem a lei de Moisés e prometendo enviar o profeta Elias antes do grande dia, para converter o coração dos pais aos filhos e dos filhos aos pais.",
+   "licoes": [
+    "O mesmo dia que traz juízo aos soberbos traz cura aos que temem a Deus (4:1-2).",
+    "Lembrar a palavra de Deus é a forma de esperar bem (4:4).",
+    "Deus deseja reconciliação entre as gerações (4:6)."
+   ],
+   "reflexao": "Que relação familiar precisa de reconciliação na sua vida?",
+   "quiz": [
+    {
+     "pergunta": "Que profeta Deus promete enviar antes do grande dia do SENHOR?",
+     "opcoes": [
+      "Elias",
+      "Moisés",
+      "Isaías",
+      "Samuel"
+     ],
+     "correta": 0,
+     "ref": "4:5"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,717 @@
+{
+ "livro": "2-samuel",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:11-12",
+   "titulo": "Como caíram os valentes",
+   "descricao": "Ao saber da morte de Saul e Jônatas, Davi e seus homens rasgam as vestes, choram e jejuam até a tarde.",
+   "alt": "Davi e seus homens, de vestes rasgadas, choram sentados no chão.",
+   "prompt": "David and his men in the camp at Ziklag mourning, garments torn, seated on the ground with heads bowed, David with his face lifted in grief, a messenger kneeling nearby, a broken bow lying at his feet, muted dusk light"
+  },
+  {
+   "id": "q02",
+   "capitulo": 5,
+   "ref": "5:3",
+   "titulo": "Davi ungido rei sobre Israel",
+   "descricao": "Em Hebrom, os anciãos de todas as tribos fazem aliança com Davi diante do SENHOR e o ungem rei sobre Israel.",
+   "alt": "Anciãos derramam óleo sobre a cabeça de Davi, adulto e barbado, diante de uma grande assembleia.",
+   "prompt": "At Hebron, David, now a bearded man of thirty, kneeling as elders of all the tribes of Israel pour oil from a horn over his head, a great assembly of tribesmen with banners around them, solemn joyful atmosphere, bright morning light"
+  },
+  {
+   "id": "q03",
+   "capitulo": 5,
+   "ref": "5:7-9",
+   "titulo": "A fortaleza de Sião",
+   "descricao": "Davi toma a fortaleza de Sião dos jebuseus e a chama Cidade de Davi.",
+   "alt": "Uma cidade fortificada sobre uma colina íngreme, com Davi e seus homens diante das muralhas.",
+   "prompt": "The ancient walled Jebusite stronghold of Zion on a steep ridge above the Kidron valley, David and his soldiers standing before the walls looking up at the fortress, terraced slopes and olive trees, golden evening light, panoramic view"
+  },
+  {
+   "id": "q04",
+   "capitulo": 6,
+   "ref": "6:14-15",
+   "titulo": "Davi dança diante da arca",
+   "descricao": "Davi dança com toda a força, vestido com um éfode de linho, enquanto a arca entra na cidade com júbilo e som de trombeta.",
+   "alt": "Um rei vestido com uma túnica de linho dança à frente de uma procissão que carrega a arca dourada.",
+   "prompt": "King David in a simple white linen ephod dancing joyfully with all his might at the head of a procession, priests carrying the golden Ark of the Covenant on poles behind him, musicians with lyres, tambourines and trumpets, crowds of rejoicing people, Michal watching coldly from a window above"
+  },
+  {
+   "id": "q05",
+   "capitulo": 7,
+   "ref": "7:18",
+   "titulo": "Quem sou eu, Senhor DEUS?",
+   "descricao": "Depois da promessa feita por Natã, Davi entra e se senta diante do SENHOR, maravilhado com a graça recebida.",
+   "alt": "Davi, sozinho e ajoelhado, diante de uma tenda iluminada por dentro.",
+   "prompt": "King David kneeling alone in humble prayer inside the tent sheltering the Ark of the Covenant, his crown set aside on the ground, warm golden light glowing from within the tent curtains, quiet awe and gratitude on his face"
+  },
+  {
+   "id": "q06",
+   "capitulo": 9,
+   "ref": "9:6-7",
+   "titulo": "Mefibosete à mesa do rei",
+   "descricao": "Por causa de Jônatas, Davi acolhe Mefibosete, neto de Saul e coxo dos pés, e lhe dá lugar permanente à sua mesa.",
+   "alt": "Um jovem com muletas se curva diante do rei, que estende a mão para levantá-lo.",
+   "prompt": "In the royal hall, Mephibosheth, a young man lame in both feet with a wooden crutch, bowing fearfully before King David, who leans forward kindly with an outstretched hand, a laid table in the background, warm light"
+  },
+  {
+   "id": "q07",
+   "capitulo": 12,
+   "ref": "12:7",
+   "titulo": "Tu és aquele homem",
+   "descricao": "Depois de contar a parábola da cordeirinha do pobre, o profeta Natã diz a Davi: tu és aquele homem.",
+   "alt": "Um profeta aponta para o rei sentado no trono, que fica atônito.",
+   "prompt": "The prophet Nathan, an austere man in a plain cloak, pointing directly at King David seated on his throne, David's face shifting from anger to shock and shame, a courtier frozen in the background, dramatic side light"
+  },
+  {
+   "id": "q08",
+   "capitulo": 12,
+   "ref": "12:16",
+   "titulo": "Davi jejua pelo filho",
+   "descricao": "Davi jejua e passa as noites deitado no chão, suplicando a Deus pela vida do menino.",
+   "alt": "Um rei de roupas simples prostrado no chão de um quarto escuro, enquanto servos o observam da porta.",
+   "prompt": "King David lying prostrate on the stone floor of a dim chamber in sackcloth, praying and fasting, untouched food nearby, elders of his household standing at the doorway pleading with him to rise, a single oil lamp"
+  },
+  {
+   "id": "q09",
+   "capitulo": 15,
+   "ref": "15:30",
+   "titulo": "A subida do monte das Oliveiras",
+   "descricao": "Fugindo de Absalão, Davi sobe o monte das Oliveiras chorando, de cabeça coberta e pés descalços, e o povo chora com ele.",
+   "alt": "Um rei descalço, com a cabeça coberta, sobe chorando uma encosta de oliveiras com seu povo.",
+   "prompt": "Aged King David walking barefoot up the Mount of Olives with his head covered, weeping, followed by his loyal people also weeping with covered heads, olive trees along the path, Jerusalem behind them, gray somber light"
+  },
+  {
+   "id": "q10",
+   "capitulo": 18,
+   "ref": "18:33",
+   "titulo": "Absalão, meu filho",
+   "descricao": "Ao saber da morte de Absalão, Davi sobe à sala sobre a porta e chora: quem me dera ter morrido em teu lugar.",
+   "alt": "Um rei idoso chora sozinho numa sala sobre a porta da cidade, com o rosto entre as mãos.",
+   "prompt": "In a small chamber above the city gate of Mahanaim, old King David weeping alone, face in his hands, a messenger at the stairway bowing his head, soldiers below in silence, fading evening light"
+  },
+  {
+   "id": "q11",
+   "capitulo": 19,
+   "ref": "19:37-39",
+   "titulo": "A despedida de Barzilai",
+   "descricao": "O idoso Barzilai acompanha o rei até o Jordão e pede para voltar e morrer em sua cidade; Davi o beija e abençoa.",
+   "alt": "Davi beija e abençoa um homem muito idoso à margem do rio.",
+   "prompt": "On the bank of the Jordan river, King David embracing and blessing the very old Barzilai, a white-bearded man of eighty, while the people cross the river behind them and young Chimham waits nearby, soft afternoon light"
+  },
+  {
+   "id": "q12",
+   "capitulo": 21,
+   "ref": "21:10",
+   "titulo": "A vigília de Rispa",
+   "descricao": "Rispa estende um pano de saco sobre a rocha e protege os corpos dos filhos, dia e noite, desde a colheita até as chuvas.",
+   "alt": "Uma mulher enlutada sentada sobre um pano numa rocha, espantando aves com um galho.",
+   "prompt": "Rizpah, a grieving mother in dark sackcloth, sitting on a rock spread with sackcloth on a hillside, keeping vigil, waving a branch to drive away birds, harvest fields below, distant storm clouds approaching, the bodies not shown, poignant and dignified"
+  },
+  {
+   "id": "q13",
+   "capitulo": 22,
+   "ref": "22:1-3",
+   "titulo": "O SENHOR é minha rocha",
+   "descricao": "No fim da vida, Davi canta ao SENHOR, sua rocha, fortaleza e libertador.",
+   "alt": "Davi idoso canta com uma lira, sentado sobre uma grande rocha diante de um vale.",
+   "prompt": "Elderly King David seated on a great rock outcrop singing with a lyre, eyes lifted to the sky, rugged cliffs and a fortress-like mountain behind him, sunlight breaking through clouds, sense of gratitude and strength"
+  },
+  {
+   "id": "q14",
+   "capitulo": 23,
+   "ref": "23:16-17",
+   "titulo": "A água de Belém",
+   "descricao": "Três valentes atravessam o acampamento filisteu para trazer água do poço de Belém; Davi não bebe e a derrama ao SENHOR.",
+   "alt": "Davi derrama no chão a água de um cântaro diante de três guerreiros cansados.",
+   "prompt": "Inside the stronghold near the cave of Adullam, David pouring water from a clay jug onto the ground as an offering, three exhausted warriors with dusty armor kneeling before him watching in surprise and reverence, warm firelight"
+  },
+  {
+   "id": "q15",
+   "capitulo": 24,
+   "ref": "24:24-25",
+   "titulo": "O altar na eira de Araúna",
+   "descricao": "Davi compra a eira de Araúna por cinquenta siclos de prata, ergue um altar e a praga cessa.",
+   "alt": "Davi entrega prata a um homem numa eira e, ao lado, se ergue um altar com fumaça subindo.",
+   "prompt": "On a high threshing floor overlooking Jerusalem, King David handing silver to Araunah the Jebusite, a new stone altar beside them with smoke of sacrifice rising to the sky, oxen and threshing sledges nearby, clouds parting with soft light"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "arco",
+   "termo": "O canto do arco",
+   "ref": "1:18",
+   "explicado": false,
+   "significado": "O lamento por Saul e Jônatas é chamado \"o arco\" e citado do livro de Jasar (1:18). Jônatas era arqueiro (1:22), e o arco simboliza a força militar que caiu."
+  },
+  {
+   "id": "siao",
+   "termo": "Sião, cidade de Davi",
+   "ref": "5:7",
+   "explicado": false,
+   "significado": "A fortaleza tomada dos jebuseus vira a capital do reino. Mais tarde \"Sião\" passa a significar Jerusalém, o povo de Deus e, na esperança dos profetas e do Novo Testamento, a cidade de Deus."
+  },
+  {
+   "id": "pastor",
+   "termo": "Davi pastor do povo",
+   "ref": "5:2",
+   "explicado": false,
+   "significado": "Deus diz a Davi: \"tu apascentarás a meu povo\" (5:2). O pastor que guardava ovelhas passa a guardar Israel; a imagem do rei-pastor volta em Ezequiel 34 e em João 10."
+  },
+  {
+   "id": "arca",
+   "termo": "A arca em Jerusalém",
+   "ref": "6:12-15",
+   "explicado": false,
+   "significado": "Levar a arca para Jerusalém une o centro político ao centro de culto. A morte de Uzá (6:6-7) mostra que a presença de Deus não pode ser tratada com descuido."
+  },
+  {
+   "id": "efode-linho",
+   "termo": "Éfode de linho",
+   "ref": "6:14",
+   "explicado": false,
+   "significado": "Veste simples de serviço no culto. Davi dança vestido como servo, não como rei, o que Mical despreza (6:16, 20-22)."
+  },
+  {
+   "id": "casa",
+   "termo": "Casa: palácio, templo e dinastia",
+   "ref": "7:11",
+   "explicado": true,
+   "significado": "O texto explica o jogo de palavras: Davi quer fazer uma casa (templo) para Deus, e Deus promete fazer a Davi uma casa (dinastia) para sempre (7:11-16)."
+  },
+  {
+   "id": "trono",
+   "termo": "Trono eterno",
+   "ref": "7:16",
+   "explicado": false,
+   "significado": "A promessa de que o trono de Davi seria firme para sempre (7:13, 16) alimentou a esperança messiânica de Israel e a fé cristã em Jesus como Filho de Davi (Lc 1:32-33)."
+  },
+  {
+   "id": "mesa",
+   "termo": "A mesa do rei",
+   "ref": "9:7",
+   "explicado": false,
+   "significado": "Comer \"sempre à mesa do rei\" (9:7, 13) é sinal de acolhida e proteção. Davi cumpre a aliança com Jônatas (1Sm 20:15) favorecendo um descendente de Saul."
+  },
+  {
+   "id": "cordeira",
+   "termo": "Cordeirinha do pobre",
+   "ref": "12:3",
+   "explicado": true,
+   "significado": "Natã explica a parábola: o homem rico é Davi, e a cordeira representa Bate-Seba, tomada de Urias (12:7-9)."
+  },
+  {
+   "id": "jedidias",
+   "termo": "Jedidias, amado do SENHOR",
+   "ref": "12:25",
+   "explicado": true,
+   "significado": "O texto diz que o nome dado a Salomão por meio de Natã significa ser amado \"por causa do SENHOR\" (12:24-25). Depois da queda de Davi, é um sinal de que a graça continua."
+  },
+  {
+   "id": "aguas-derramadas",
+   "termo": "Águas derramadas no chão",
+   "ref": "14:14",
+   "explicado": false,
+   "significado": "A mulher de Tecoa compara a morte a águas derramadas que não se recolhem e diz que Deus busca meios para que o desterrado não fique excluído (14:14)."
+  },
+  {
+   "id": "cabelo-absalao",
+   "termo": "Cabelo de Absalão e o carvalho",
+   "ref": "18:9",
+   "explicado": false,
+   "significado": "Absalão, admirado pela beleza e pelo cabelo (14:25-26), fica preso pela cabeça num carvalho (18:9). Muitos leem aí uma ironia: aquilo de que se orgulhava torna-se armadilha. O texto não faz o comentário."
+  },
+  {
+   "id": "coluna-absalao",
+   "termo": "Coluna de Absalão",
+   "ref": "18:18",
+   "explicado": true,
+   "significado": "O texto explica: Absalão a levantou porque não tinha filho para conservar seu nome (18:18). O monumento conhecido hoje como Túmulo de Absalão, em Jerusalém, é muito posterior (séc. I d.C.)."
+  },
+  {
+   "id": "rocha",
+   "termo": "Rocha e fortaleza",
+   "ref": "22:2",
+   "explicado": false,
+   "significado": "No cântico de Davi (paralelo ao Salmo 18), Deus é rocha, fortaleza, escudo e refúgio (22:2-3, 47): imagens de segurança tiradas da vida de quem se escondeu em cavernas e penhascos."
+  },
+  {
+   "id": "agua-belem",
+   "termo": "Água derramada ao SENHOR",
+   "ref": "23:16-17",
+   "explicado": true,
+   "significado": "Davi explica por que não bebe: seria como beber o sangue dos homens que arriscaram a vida (23:17). Derramar a água é transformá-la em oferta."
+  },
+  {
+   "id": "eira-arauna",
+   "termo": "Eira de Araúna",
+   "ref": "24:18",
+   "explicado": false,
+   "significado": "Lugar onde a praga para e Davi ergue um altar. 2 Crônicas 3:1 identifica esse lugar com o monte onde Salomão construiu o templo."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "bayit",
+   "pt": "Casa",
+   "refs": [
+    "7:5",
+    "7:11",
+    "7:16"
+   ],
+   "hebraico": {
+    "lema": "בַּיִת",
+    "translit": "bayit",
+    "strong": "H1004"
+   },
+   "grego": {
+    "lema": "οἶκος",
+    "translit": "oîkos",
+    "strong": "G3624"
+   },
+   "sentido": "casa; família; dinastia; templo",
+   "latim": {
+    "forma": "domus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "No capítulo 7 a palavra tem três sentidos: o palácio de Davi (7:2), o templo que ele quer construir (7:5) e a dinastia que Deus promete (7:11, 16).",
+   "interpretacao": false
+  },
+  {
+   "id": "olam",
+   "pt": "Para sempre",
+   "refs": [
+    "7:13",
+    "7:16",
+    "23:5"
+   ],
+   "hebraico": {
+    "lema": "עוֹלָם",
+    "translit": "olam",
+    "strong": "H5769"
+   },
+   "sentido": "tempo indefinido, longínquo; perpétuo",
+   "latim": {
+    "forma": "in aeternum",
+    "nota": "Em 7:16: usque in aeternum."
+   },
+   "outras": [],
+   "explicacao": "A promessa a Davi repete \"para sempre\" (7:13, 16). Nas últimas palavras de Davi, ela é chamada \"pacto perpétuo\" (berit olam, 23:5).",
+   "interpretacao": false
+  },
+  {
+   "id": "zera",
+   "pt": "Descendência, semente",
+   "refs": [
+    "7:12",
+    "22:51"
+   ],
+   "hebraico": {
+    "lema": "זֶרַע",
+    "translit": "zera",
+    "strong": "H2233"
+   },
+   "sentido": "semente; descendência",
+   "latim": {
+    "forma": "semen",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Deus promete levantar a \"semente\" de Davi (7:12). No contexto imediato é Salomão (7:13); o Novo Testamento vê o cumprimento pleno em Jesus (At 13:22-23).",
+   "interpretacao": true
+  },
+  {
+   "id": "av-ben",
+   "pt": "Pai e filho",
+   "refs": [
+    "7:14"
+   ],
+   "hebraico": {
+    "lema": "אָב ... בֵּן",
+    "translit": "av ... ben"
+   },
+   "sentido": "pai ... filho",
+   "latim": {
+    "forma": "ego ero ei in patrem et ipse erit mihi in filium",
+    "nota": ""
+   },
+   "outras": [
+    {
+     "lingua": "hebraico",
+     "forma": "אָב (av, H1); בֵּן (ben, H1121)",
+     "nota": "pai; filho"
+    }
+   ],
+   "explicacao": "Deus diz do rei: \"eu serei pai para ele, e ele me será filho\" (7:14), fórmula de adoção do rei davídico. Hebreus 1:5 aplica o verso a Jesus.",
+   "interpretacao": true
+  },
+  {
+   "id": "chesed",
+   "pt": "Misericórdia",
+   "refs": [
+    "7:15",
+    "9:1",
+    "9:7"
+   ],
+   "hebraico": {
+    "lema": "חֶסֶד",
+    "translit": "chesed",
+    "strong": "H2617"
+   },
+   "sentido": "amor leal, bondade fiel à aliança",
+   "latim": {
+    "forma": "misericordia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Deus promete não retirar seu chesed da casa de Davi (7:15). Davi imita isso ao fazer chesed à casa de Saul, por causa de Jônatas (9:1, 3, 7).",
+   "interpretacao": false
+  },
+  {
+   "id": "raah",
+   "pt": "Apascentar",
+   "refs": [
+    "5:2",
+    "7:7"
+   ],
+   "hebraico": {
+    "lema": "רָעָה",
+    "translit": "ra'ah",
+    "strong": "H7462"
+   },
+   "sentido": "apascentar, pastorear, guiar",
+   "latim": {
+    "forma": "pasces populum meum",
+    "nota": "Em 5:2: tu pasces populum meum Israhel."
+   },
+   "outras": [],
+   "explicacao": "Governar é apresentado como pastorear. Em 7:7 Deus lembra que mandou os juízes \"apascentar\" o povo.",
+   "interpretacao": false
+  },
+  {
+   "id": "tsiyyon",
+   "pt": "Sião",
+   "refs": [
+    "5:7"
+   ],
+   "hebraico": {
+    "lema": "צִיּוֹן",
+    "translit": "Tsiyyon",
+    "strong": "H6726"
+   },
+   "grego": {
+    "lema": "Σιών",
+    "translit": "Siṓn",
+    "strong": "G4622"
+   },
+   "sentido": "Sião: nome da fortaleza, depois de Jerusalém",
+   "latim": {
+    "forma": "arcem Sion",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "É a primeira menção de Sião na Bíblia. A etimologia é incerta; talvez \"fortaleza\" ou \"lugar seco\".",
+   "interpretacao": true
+  },
+  {
+   "id": "tsinnor",
+   "pt": "Canal",
+   "refs": [
+    "5:8"
+   ],
+   "hebraico": {
+    "lema": "צִנּוֹר",
+    "translit": "tsinnor",
+    "strong": "H6794"
+   },
+   "sentido": "canal, conduto de água (sentido discutido)",
+   "latim": {
+    "forma": "fistulas",
+    "nota": "A Vulgata traz \"tetigisset domatum fistulas\"."
+   },
+   "outras": [],
+   "explicacao": "A palavra aparece só aqui e em Sl 42:7. Muitos entendem que os homens de Davi entraram pelo sistema de água da cidade; outros pensam em uma arma ou ferramenta. A tradução continua debatida.",
+   "interpretacao": true
+  },
+  {
+   "id": "chata",
+   "pt": "Pecar",
+   "refs": [
+    "12:13",
+    "24:10",
+    "24:17"
+   ],
+   "hebraico": {
+    "lema": "חָטָא",
+    "translit": "chata",
+    "strong": "H2398"
+   },
+   "grego": {
+    "lema": "ἁμαρτάνω",
+    "translit": "hamartánō",
+    "strong": "G264"
+   },
+   "sentido": "errar o alvo; pecar",
+   "latim": {
+    "forma": "peccavi Domino",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Davi responde a Natã com apenas duas palavras em hebraico (chata'ti laYHWH): \"Pequei contra o SENHOR\" (12:13). O Salmo 51 é tradicionalmente ligado a esse momento. Em 24:17 Davi pede que o castigo caia sobre ele, não sobre o povo.",
+   "interpretacao": false
+  },
+  {
+   "id": "mashiach",
+   "pt": "Ungido",
+   "refs": [
+    "1:14",
+    "19:21",
+    "23:1"
+   ],
+   "hebraico": {
+    "lema": "מָשִׁיחַ",
+    "translit": "mashiach",
+    "strong": "H4899"
+   },
+   "grego": {
+    "lema": "χριστός",
+    "translit": "christós",
+    "strong": "G5547"
+   },
+   "sentido": "ungido; o rei escolhido",
+   "latim": {
+    "forma": "christus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Davi trata Saul como \"ungido do SENHOR\" mesmo depois de morto (1:14-16) e se apresenta como \"ungido do Deus de Jacó\" (23:1).",
+   "interpretacao": false
+  },
+  {
+   "id": "qinah",
+   "pt": "Lamentação",
+   "refs": [
+    "1:17",
+    "3:33"
+   ],
+   "hebraico": {
+    "lema": "קִינָה",
+    "translit": "qinah",
+    "strong": "H7015"
+   },
+   "sentido": "canto fúnebre, lamento",
+   "latim": {
+    "forma": "planctus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Davi compõe lamentos por Saul e Jônatas (1:17-27) e por Abner (3:33-34). O lamento de 1:19-27 tem um refrão: \"Como caíram os valentes!\"",
+   "interpretacao": false
+  },
+  {
+   "id": "gibbor",
+   "pt": "Valente",
+   "refs": [
+    "1:19",
+    "1:27",
+    "23:8"
+   ],
+   "hebraico": {
+    "lema": "גִּבּוֹר",
+    "translit": "gibbor",
+    "strong": "H1368"
+   },
+   "sentido": "guerreiro forte, herói",
+   "latim": {
+    "forma": "fortes",
+    "nota": "Em 1:19: quomodo ceciderunt fortes."
+   },
+   "outras": [],
+   "explicacao": "O refrão \"como caíram os valentes\" abre o livro, e a lista dos \"valentes de Davi\" quase o fecha (23:8-39).",
+   "interpretacao": false
+  },
+  {
+   "id": "tsur",
+   "pt": "Rocha",
+   "refs": [
+    "22:2",
+    "22:32",
+    "23:3"
+   ],
+   "hebraico": {
+    "lema": "צוּר",
+    "translit": "tsur",
+    "strong": "H6697"
+   },
+   "sentido": "rocha, penhasco; refúgio",
+   "latim": {
+    "forma": "petra",
+    "nota": "Em 22:2: Dominus petra mea."
+   },
+   "outras": [
+    {
+     "lingua": "hebraico",
+     "forma": "סֶלַע (sela, H5553)",
+     "nota": "outra palavra para rocha, em 22:2"
+    }
+   ],
+   "explicacao": "O cântico de Davi chama Deus de rocha várias vezes. Em 23:3, \"o Forte de Israel\" traduz literalmente \"a Rocha de Israel\".",
+   "interpretacao": false
+  },
+  {
+   "id": "goren",
+   "pt": "Eira",
+   "refs": [
+    "6:6",
+    "24:18",
+    "24:24"
+   ],
+   "hebraico": {
+    "lema": "גֹּרֶן",
+    "translit": "goren",
+    "strong": "H1637"
+   },
+   "sentido": "eira, lugar onde se debulha o grão",
+   "latim": {
+    "forma": "area",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Duas eiras marcam o livro: a de Nacom, onde Uzá morre (6:6), e a de Araúna, onde a praga para (24:16-25). O lugar do trabalho comum torna-se lugar de encontro com Deus.",
+   "interpretacao": false
+  },
+  {
+   "id": "avshalom",
+   "pt": "Absalão",
+   "refs": [
+    "13:1",
+    "18:33"
+   ],
+   "hebraico": {
+    "lema": "אַבְשָׁלוֹם",
+    "translit": "Avshalom",
+    "strong": "H53"
+   },
+   "sentido": "\"meu pai é paz\" ou \"pai de paz\"",
+   "latim": {
+    "forma": "Absalom",
+    "nota": "Em 18:33: fili mi Absalom ... quis mihi tribuat ut ego moriar pro te."
+   },
+   "outras": [],
+   "explicacao": "O nome fala de paz, mas Absalão traz guerra contra o próprio pai. O grito de Davi (18:33) mostra que o amor de pai persiste apesar da traição.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "tel-dan",
+   "titulo": "Estela de Tel Dan: a \"Casa de Davi\"",
+   "refs": [
+    "7:16",
+    "5:3"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Estela de Tel Dan",
+   "referencia": "Museu de Israel, Jerusalém",
+   "data_fonte": "c. 840 a.C.",
+   "data_evento": "fragmentos descobertos em 1993 e 1994",
+   "resumo": "Inscrição em aramaico, provavelmente de Hazael, rei de Damasco, que se gaba de ter derrotado um rei de Israel e um rei da \"Casa de Davi\" (bytdwd).",
+   "relacao": "É a primeira menção segura a Davi fora da Bíblia. Cerca de 150 anos depois de sua morte, a dinastia de Judá era conhecida como \"Casa de Davi\", o que combina com a promessa de 7:11-16. Houve debate inicial sobre a leitura, hoje aceita pela maioria.",
+   "grau": "documentado"
+  },
+  {
+   "id": "mesa-davi",
+   "titulo": "Estela de Mesa: possível menção a Davi",
+   "refs": [
+    "8:2"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Estela de Mesa (Pedra Moabita)",
+   "referencia": "Museu do Louvre, Paris (AO 5066)",
+   "data_fonte": "c. 840 a.C.",
+   "data_evento": "reinado de Mesa de Moabe",
+   "resumo": "A estela fala das guerras entre Moabe e Israel. Em 1994 André Lemaire propôs ler numa linha danificada \"Casa de [D]avi\".",
+   "relacao": "Se a leitura estiver certa, seria outra menção à dinastia de Davi. A linha está danificada e a proposta é discutida. 2 Samuel 8:2 diz que Davi submeteu Moabe.",
+   "grau": "associacao"
+  },
+  {
+   "id": "qumran-2sm",
+   "titulo": "4QSam(a) e o anjo na eira",
+   "refs": [
+    "24:16-17"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Manuscritos do Mar Morto, rolo 4QSam(a) (4Q51)",
+   "referencia": "caverna 4 de Qumran",
+   "data_fonte": "c. 50–25 a.C.",
+   "data_evento": "descoberto em 1952",
+   "resumo": "Em 24:16-17 o rolo traz uma frase ausente do texto massorético: Davi vê o anjo do SENHOR entre a terra e o céu, com a espada estendida sobre Jerusalém, como em 1 Crônicas 21:16.",
+   "relacao": "Mostra que o autor de Crônicas usou um texto de Samuel parecido com o de Qumran, e que havia formas diferentes do livro em circulação.",
+   "grau": "documentado"
+  },
+  {
+   "id": "amarna-jerusalem",
+   "titulo": "Jerusalém nas Cartas de Amarna",
+   "refs": [
+    "5:6-7"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Cartas de Amarna, cartas de Abdi-Heba de Jerusalém",
+   "referencia": "tabletes EA 285–290",
+   "data_fonte": "c. 1360–1330 a.C.",
+   "data_evento": "séc. XIV a.C.",
+   "resumo": "Abdi-Heba, governante de Jerusalém (Urusalim), escreve ao faraó pedindo tropas contra inimigos e os habiru.",
+   "relacao": "Mostra que Jerusalém já era uma cidade com governante próprio séculos antes de Davi, como pressupõe a conquista da fortaleza dos jebuseus (5:6-9).",
+   "grau": "associacao"
+  },
+  {
+   "id": "poco-warren",
+   "titulo": "O Poço de Warren e o \"canal\"",
+   "refs": [
+    "5:8"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Sistema de água de Jerusalém (Poço de Warren)",
+   "referencia": "Cidade de Davi, Jerusalém",
+   "data_fonte": "sistema escavado na rocha; datação discutida",
+   "data_evento": "descoberto por Charles Warren em 1867",
+   "resumo": "Um poço vertical ligado a túneis que levam à fonte de Giom, usado durante muito tempo como possível rota de entrada na cidade.",
+   "relacao": "Durante décadas foi associado ao \"canal\" (tsinnor) por onde os homens de Davi teriam subido (5:8). Escavações de Ronny Reich e Eli Shukron (desde 1995) mostraram que o poço provavelmente não era usado na época de Davi, e a associação ficou enfraquecida.",
+   "grau": "associacao"
+  },
+  {
+   "id": "estrutura-pedra",
+   "titulo": "Estruturas de pedra na Cidade de Davi",
+   "refs": [
+    "5:9",
+    "5:11"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Estrutura de Pedra em Degraus e Grande Estrutura de Pedra",
+   "referencia": "Cidade de Davi, Jerusalém (escavações de Kathleen Kenyon, Yigal Shiloh e Eilat Mazar, esta em 2005)",
+   "data_fonte": "c. séc. XII–IX a.C. (datação discutida)",
+   "data_evento": "escavações no séc. XX e XXI",
+   "resumo": "Grandes estruturas de pedra no alto da antiga colina de Jerusalém. Eilat Mazar interpretou a Grande Estrutura de Pedra como parte do palácio de Davi.",
+   "relacao": "Pode se relacionar à \"casa de Davi\" construída com ajuda de Hirão (5:11) e ao Milo (5:9). A datação e a interpretação são muito debatidas.",
+   "grau": "associacao"
+  },
+  {
+   "id": "josefo-davi",
+   "titulo": "Josefo sobre o reinado de Davi",
+   "refs": [
+    "5:6-7",
+    "18:33"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 7",
+   "data_fonte": "c. 93–94 d.C.",
+   "data_evento": "c. 1010–970 a.C. (cronologia mais comum)",
+   "resumo": "Josefo narra o reinado de Davi, a conquista de Jerusalém, o caso de Bate-Seba, a revolta de Absalão e o censo.",
+   "relacao": "Mostra a leitura judaica do séc. I e a importância de Davi para a identidade judaica. Josefo segue a Bíblia e não é fonte independente.",
+   "grau": "documentado"
+  }
+ ]
+}

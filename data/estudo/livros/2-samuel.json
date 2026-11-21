@@ -1,0 +1,723 @@
+{
+ "livro": "2-samuel",
+ "nome": "2 Samuel",
+ "subtitulo": "O reinado de Davi: aliança, queda e restauração",
+ "introducao": "2 Samuel narra o reinado de Davi, desde a morte de Saul até os últimos anos do rei. Davi é coroado em Hebrom, une as tribos, conquista Jerusalém e recebe de Deus a promessa de uma dinastia eterna. Mas seu pecado com Bate-Seba traz consequências dolorosas para a família e para o reino, como a revolta de Absalão. O livro mostra um rei grande e falho, que encontra perdão no arrependimento e esperança na fidelidade de Deus.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Anônimo; originalmente um só livro com 1 Samuel. A tradição judaica liga a obra a Samuel, Natã e Gade; muitos estudiosos veem compilação posterior a partir de fontes antigas"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Os fatos cobrem os cerca de 40 anos do reinado de Davi (por volta de 1010 a 970 a.C., segundo a cronologia mais comum); a redação final é posterior"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Israel e Judá: Hebrom, Jerusalém, Maanaim e os povos vizinhos"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Narrativa histórica com cânticos e poemas"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "24 capítulos e 695 versículos"
+  }
+ ],
+ "chave": "7:16",
+ "temas": [
+  "A aliança de Deus com Davi",
+  "Pecado, consequências e arrependimento",
+  "Graça e lealdade (hesed)",
+  "Liderança e poder",
+  "Deus como rocha e libertador"
+ ],
+ "cristo": "Pelo profeta Natã, Deus promete a Davi um descendente cujo reino será firme para sempre (7:12-16). Essa promessa sustenta a esperança no Messias, e o Novo Testamento apresenta Jesus como o Filho de Davi, o Rei justo que cumpre o que Davi apenas prefigurou.",
+ "secoes": [
+  {
+   "id": "davi-em-hebrom",
+   "titulo": "Davi rei em Hebrom",
+   "capitulos": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "resumo": "Davi lamenta Saul, reina sobre Judá e enfrenta a guerra com a casa de Saul."
+  },
+  {
+   "id": "reino-firmado",
+   "titulo": "O reino firmado",
+   "capitulos": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "resumo": "Jerusalém, a arca, a aliança davídica, as vitórias e a bondade com Mefibosete."
+  },
+  {
+   "id": "pecado-de-davi",
+   "titulo": "O pecado de Davi",
+   "capitulos": [
+    11,
+    12
+   ],
+   "resumo": "O adultério com Bate-Seba, a morte de Urias e a repreensão de Natã."
+  },
+  {
+   "id": "crises-no-reino",
+   "titulo": "Crises na família e no reino",
+   "capitulos": [
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+   ],
+   "resumo": "Amnom, Absalão e sua revolta, o retorno de Davi e a rebelião de Seba."
+  },
+  {
+   "id": "apendices",
+   "titulo": "Apêndices do reinado",
+   "capitulos": [
+    21,
+    22,
+    23,
+    24
+   ],
+   "resumo": "Episódios, cânticos, a lista dos valentes e o censo que leva ao altar de Araúna."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Como caíram os valentes!",
+   "chave": "1:26-27",
+   "resumo": "Um amalequita chega a Ziclague com a coroa e o bracelete de Saul e diz que o matou a pedido do próprio rei; sua versão difere do relato de 1 Samuel 31, e muitos entendem que ele mentiu esperando recompensa. Davi e seus homens choram e jejuam, e Davi manda executar o amalequita por ter dito que matou o ungido do SENHOR. Em seguida, Davi compõe um lamento por Saul e Jônatas, com o refrão \"Como caíram os valentes!\".",
+   "licoes": [
+    "Davi não se alegra com a queda do inimigo, mas chora por ele (1:11-12).",
+    "Davi mantém o respeito pelo ungido do SENHOR até depois de sua morte (1:14-16).",
+    "É saudável expressar o luto com palavras sinceras (1:19, 1:25).",
+    "A amizade de Jônatas marcou profundamente a vida de Davi (1:26)."
+   ],
+   "reflexao": "Como você reage quando alguém que lhe fez mal enfrenta uma derrota?",
+   "quiz": [
+    {
+     "pergunta": "O que o amalequita trouxe a Davi como prova da morte de Saul?",
+     "opcoes": [
+      "A coroa e o bracelete",
+      "A espada e o escudo",
+      "A lança e a botija",
+      "O manto real"
+     ],
+     "correta": 0,
+     "ref": "1:10"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Davi, rei em Hebrom",
+   "chave": "2:1",
+   "resumo": "Davi consulta o SENHOR e vai para Hebrom, onde os homens de Judá o ungem rei. Ele agradece aos homens de Jabes de Gileade por terem sepultado Saul. Enquanto isso, Abner faz Is-Bosete, filho de Saul, rei sobre o restante de Israel. Os exércitos se enfrentam em Gibeão; Asael, irmão de Joabe, persegue Abner e é morto por ele, e Abner pede o fim da luta entre irmãos.",
+   "licoes": [
+    "Davi pede direção a Deus até para escolher onde morar (2:1).",
+    "Davi honra quem agiu com bondade, mesmo com seu antigo perseguidor (2:5-6).",
+    "A divisão entre irmãos produz violência e amargura (2:26).",
+    "A teimosia de Asael em perseguir Abner terminou em tragédia (2:21-23)."
+   ],
+   "reflexao": "Você tem consultado a Deus também nas decisões práticas do dia a dia?",
+   "quiz": [
+    {
+     "pergunta": "Em que cidade Davi foi ungido rei sobre a casa de Judá?",
+     "opcoes": [
+      "Hebrom",
+      "Belém",
+      "Jerusalém",
+      "Ziclague"
+     ],
+     "correta": 0,
+     "ref": "2:1-4"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Abner muda de lado e é morto",
+   "chave": "3:1",
+   "resumo": "A guerra entre as casas de Saul e Davi se prolonga, com Davi se fortalecendo. Nascem seus filhos em Hebrom. Ofendido por Is-Bosete, Abner propõe aliança a Davi, que exige a volta de sua esposa Mical. Abner convence os anciãos de Israel a apoiar Davi, mas Joabe, para vingar a morte do irmão Asael, mata Abner à traição. Davi lamenta publicamente, jejua e declara-se inocente desse sangue.",
+   "licoes": [
+    "Deus fortalece aos poucos quem Ele escolheu (3:1).",
+    "A vingança pessoal, como a de Joabe, atrapalha os planos de paz (3:27).",
+    "Davi mostrou publicamente que não aprovava o assassinato (3:28, 3:31-32).",
+    "Davi entrega a Deus a retribuição pelo mal (3:39)."
+   ],
+   "reflexao": "Há algum rancor antigo que pode estar levando você a atitudes injustas?",
+   "quiz": [
+    {
+     "pergunta": "Quem matou Abner em Hebrom?",
+     "opcoes": [
+      "Davi",
+      "Is-Bosete",
+      "Joabe",
+      "Asael"
+     ],
+     "correta": 2,
+     "ref": "3:27"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "A morte de Is-Bosete",
+   "chave": "4:9",
+   "resumo": "Com a morte de Abner, Is-Bosete perde a coragem. O texto apresenta Mefibosete, filho de Jônatas, que ficou aleijado aos cinco anos ao cair quando sua ama fugia. Dois capitães, Recabe e Baaná, matam Is-Bosete enquanto ele dormia e levam sua cabeça a Davi, esperando recompensa. Davi os condena por assassinarem um homem justo em sua própria casa.",
+   "licoes": [
+    "Davi não aceita conquistar o reino por meio de crimes (4:11).",
+    "Davi confia que é o SENHOR quem o livra de toda angústia (4:9).",
+    "O texto prepara a história de Mefibosete, que mais tarde receberá bondade (4:4)."
+   ],
+   "reflexao": "Você tem buscado alcançar seus objetivos de forma honesta e justa diante de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Como se chamava o filho aleijado de Jônatas?",
+     "opcoes": [
+      "Is-Bosete",
+      "Mefibosete",
+      "Abner",
+      "Asael"
+     ],
+     "correta": 1,
+     "ref": "4:4"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "Davi, rei de todo Israel",
+   "chave": "5:10",
+   "resumo": "Todas as tribos vão a Hebrom e ungem Davi rei sobre todo Israel, lembrando que Deus o chamou para apascentar o povo. Aos trinta anos, Davi começa um reinado de quarenta anos. Ele conquista a fortaleza de Sião, dos jebuseus, que passa a se chamar Cidade de Davi. Hirão, rei de Tiro, ajuda a construir seu palácio. Davi consulta o SENHOR e vence duas vezes os filisteus.",
+   "licoes": [
+    "O rei é chamado para apascentar o povo, como um pastor (5:2).",
+    "Davi crescia porque o SENHOR estava com ele (5:10).",
+    "Davi entendeu que Deus o exaltou por causa do povo, e não para si mesmo (5:12).",
+    "Mesmo vitorioso, Davi continuou consultando o SENHOR antes de cada batalha (5:19, 5:23)."
+   ],
+   "reflexao": "Você vê suas conquistas como meio de servir aos outros ou só como mérito pessoal?",
+   "quiz": [
+    {
+     "pergunta": "Que idade Davi tinha quando começou a reinar?",
+     "opcoes": [
+      "Vinte anos",
+      "Trinta anos",
+      "Quarenta anos",
+      "Cinquenta anos"
+     ],
+     "correta": 1,
+     "ref": "5:4"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "A arca chega a Jerusalém",
+   "chave": "6:14",
+   "resumo": "Davi tenta levar a arca para Jerusalém num carro novo, com grande festa. Quando os bois tropeçam, Uzá segura a arca e morre. Com medo, Davi deixa a arca na casa de Obede-Edom, que é abençoada. Três meses depois, a arca é levada com sacrifícios e alegria, e Davi dança com toda a força diante do SENHOR. Mical, filha de Saul, o despreza, e Davi responde que dançou diante de Deus.",
+   "licoes": [
+    "Boas intenções não dispensam a forma que Deus estabeleceu para tratar as coisas santas (6:3, 6:6-7).",
+    "A presença de Deus traz bênção à casa que a recebe (6:11).",
+    "Adorar a Deus com alegria e entrega vale mais que a opinião dos outros (6:14, 6:21).",
+    "Humildade diante de Deus é verdadeira honra (6:22)."
+   ],
+   "reflexao": "Sua adoração a Deus é livre e sincera, ou presa ao que os outros vão pensar?",
+   "quiz": [
+    {
+     "pergunta": "Na casa de quem a arca ficou por três meses?",
+     "opcoes": [
+      "Abinadabe",
+      "Obede-Edom",
+      "Natã",
+      "Uzá"
+     ],
+     "correta": 1,
+     "ref": "6:11"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "A aliança de Deus com Davi",
+   "chave": "7:16",
+   "resumo": "Já em paz, Davi deseja construir uma casa para a arca de Deus. Por meio do profeta Natã, Deus responde que não é Davi quem lhe construirá uma casa, mas Deus é quem fará a Davi uma \"casa\", uma dinastia. Um descendente de Davi construirá o templo, e seu trono será firmado para sempre. Davi responde com uma oração humilde de gratidão e louvor.",
+   "licoes": [
+    "Deus lembra Davi de onde o tirou: de trás das ovelhas (7:8).",
+    "Deus responde ao desejo de servi-lo com uma promessa ainda maior (7:11-13).",
+    "A promessa de um reino eterno aponta para além de Salomão (7:16).",
+    "Diante da graça, a resposta é humildade: \"Quem sou eu?\" (7:18)."
+   ],
+   "reflexao": "Quando você pensa em tudo o que Deus fez por você, o que lhe vem ao coração?",
+   "quiz": [
+    {
+     "pergunta": "Por meio de qual profeta Deus fez a promessa a Davi?",
+     "opcoes": [
+      "Samuel",
+      "Gade",
+      "Elias",
+      "Natã"
+     ],
+     "correta": 3,
+     "ref": "7:4-5"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "As vitórias de Davi",
+   "chave": "8:15",
+   "resumo": "Davi vence os filisteus, Moabe, Hadadezer de Zobá, os sírios de Damasco e Edom, ampliando seu domínio. Ele dedica ao SENHOR a prata, o ouro e o bronze recebidos das nações. O texto repete que o SENHOR guardava Davi por onde quer que fosse. Davi reina fazendo direito e justiça, e o capítulo lista os principais oficiais do reino.",
+   "licoes": [
+    "As vitórias de Davi são atribuídas ao cuidado do SENHOR (8:6, 8:14).",
+    "Davi consagrou a Deus as riquezas que recebeu (8:11).",
+    "Governar bem é praticar direito e justiça para todo o povo (8:15).",
+    "Um bom reino precisa de uma equipe organizada de servidores (8:16-18)."
+   ],
+   "reflexao": "O que você tem consagrado a Deus daquilo que Ele lhe deu?",
+   "quiz": [
+    {
+     "pergunta": "Que expressão descreve o governo de Davi sobre o povo?",
+     "opcoes": [
+      "Fazia guerra e conquista",
+      "Fazia direito e justiça",
+      "Cobrava muitos tributos",
+      "Construía muitos palácios"
+     ],
+     "correta": 1,
+     "ref": "8:15"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "Bondade para Mefibosete",
+   "chave": "9:7",
+   "resumo": "Davi pergunta se resta alguém da casa de Saul a quem possa mostrar bondade por causa de Jônatas. Ziba fala de Mefibosete, filho de Jônatas, aleijado dos dois pés, que vivia em Lo-Debar. Davi o chama, devolve-lhe as terras de Saul e o convida a comer sempre à mesa do rei, como um de seus filhos. Ziba e sua família passam a cultivar as terras para Mefibosete.",
+   "licoes": [
+    "Davi cumpre a aliança feita com Jônatas, mesmo anos depois (9:1, 9:7).",
+    "A bondade de Deus alcança quem se vê como \"um cão morto\" (9:8).",
+    "Ser convidado à mesa do rei é imagem da graça que acolhe e restaura (9:11, 9:13).",
+    "A bondade de Davi vai além das palavras: inclui terras e sustento (9:9-10)."
+   ],
+   "reflexao": "A quem você pode demonstrar uma bondade que essa pessoa não pode retribuir?",
+   "quiz": [
+    {
+     "pergunta": "Onde Mefibosete passou a comer?",
+     "opcoes": [
+      "Na casa de Ziba",
+      "Sempre à mesa do rei",
+      "Em Lo-Debar",
+      "No templo"
+     ],
+     "correta": 1,
+     "ref": "9:13"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "titulo": "Guerra contra Amom e Síria",
+   "chave": "10:12",
+   "resumo": "Davi envia mensageiros para consolar Hanum, novo rei de Amom, pela morte do pai. Mal aconselhado, Hanum os humilha raspando metade de suas barbas e cortando suas roupas. Davi cuida dos mensageiros envergonhados. Os amonitas contratam tropas sírias, mas Joabe e Abisai os enfrentam, encorajando-se mutuamente, e Israel vence. Depois Davi derrota de novo os sírios, que fazem paz com Israel.",
+   "licoes": [
+    "A desconfiança e os maus conselhos transformaram um gesto de bondade em guerra (10:3-4).",
+    "Davi protegeu a dignidade de seus servos humilhados (10:5).",
+    "Irmãos que se ajudam enfrentam juntos as batalhas (10:11).",
+    "Fazemos nossa parte e confiamos o resultado a Deus (10:12)."
+   ],
+   "reflexao": "Você costuma interpretar com desconfiança as boas intenções dos outros?",
+   "quiz": [
+    {
+     "pergunta": "O que Hanum fez com os mensageiros de Davi?",
+     "opcoes": [
+      "Prendeu-os",
+      "Matou-os",
+      "Mandou-os de volta com presentes",
+      "Rapou metade da barba e cortou suas roupas"
+     ],
+     "correta": 3,
+     "ref": "10:4"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "titulo": "Davi e Bate-Seba",
+   "chave": "11:27",
+   "resumo": "Na época da guerra, Davi fica em Jerusalém. Do terraço, vê Bate-Seba, mulher de Urias, manda buscá-la e se deita com ela, e ela engravida. Davi tenta encobrir o caso trazendo Urias da guerra para casa, mas Urias, leal, se recusa a ir para casa enquanto seus companheiros estão no campo. Davi então manda Joabe colocá-lo na frente da batalha para que morra. Depois casa-se com Bate-Seba, mas o que fez desagradou ao SENHOR.",
+   "licoes": [
+    "Estar no lugar errado, sem cumprir a própria responsabilidade, abre espaço para a tentação (11:1-2).",
+    "Um pecado escondido costuma puxar outros para encobri-lo (11:8, 11:15).",
+    "A integridade de Urias contrasta com a queda do rei (11:11).",
+    "Ninguém está acima do olhar de Deus: \"foi desagradável aos olhos do SENHOR\" (11:27)."
+   ],
+   "reflexao": "Há algo que você está tentando encobrir em vez de confessar?",
+   "quiz": [
+    {
+     "pergunta": "Por que Urias não quis ir para sua casa?",
+     "opcoes": [
+      "Estava doente",
+      "Porque a arca e seus companheiros estavam em tendas no campo",
+      "Porque desconfiava de Davi",
+      "Porque estava de luto"
+     ],
+     "correta": 1,
+     "ref": "11:11"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "titulo": "Tu és aquele homem",
+   "chave": "12:13",
+   "resumo": "Deus envia o profeta Natã, que conta a Davi a história de um rico que tomou a única cordeira de um pobre. Indignado, Davi condena o rico, e Natã responde: \"Tu és aquele homem\". Natã anuncia que a espada não se afastará da casa de Davi. Davi confessa seu pecado e é perdoado, mas o filho nascido de Bate-Seba adoece e morre. Depois nasce Salomão, amado pelo SENHOR, e Davi toma Rabá dos amonitas.",
+   "licoes": [
+    "É fácil ver o pecado nos outros e não em nós mesmos (12:5-7).",
+    "Confessar sem desculpas abre caminho para o perdão: \"Pequei contra o SENHOR\" (12:13).",
+    "O perdão de Deus não apaga todas as consequências do pecado (12:10, 12:14).",
+    "Davi buscou a Deus enquanto havia esperança e aceitou com fé o desfecho (12:22-23)."
+   ],
+   "reflexao": "Há algum \"tu és aquele homem\" que Deus está tentando lhe mostrar?",
+   "quiz": [
+    {
+     "pergunta": "Na parábola de Natã, o que o homem rico tomou do pobre?",
+     "opcoes": [
+      "Sua casa",
+      "Seu boi",
+      "Seu campo",
+      "Sua única cordeira"
+     ],
+     "correta": 3,
+     "ref": "12:3-4"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "titulo": "Amnom, Tamar e Absalão",
+   "chave": "13:21-22",
+   "resumo": "Amnom, filho de Davi, se apaixona por sua meia-irmã Tamar e, com um plano sugerido pelo primo Jonadabe, finge-se doente e a violenta. Depois passa a odiá-la e a expulsa. Davi fica irado, mas não toma providências. Absalão, irmão de Tamar, guarda ódio e, dois anos depois, manda matar Amnom numa festa. Absalão foge para Gesur, e Davi chora por seus filhos.",
+   "licoes": [
+    "Desejo sem amor verdadeiro pode virar abuso e desprezo (13:14-15).",
+    "Maus conselheiros podem empurrar alguém para o pecado (13:3-5).",
+    "Tamar foi vítima e expressou sua dor; o texto não a culpa (13:12-13, 13:19).",
+    "Indignação sem ação justa deixa feridas abertas e alimenta a vingança (13:21-22, 13:28)."
+   ],
+   "reflexao": "Há injustiças na sua família ou comunidade que estão sendo ignoradas em vez de tratadas?",
+   "quiz": [
+    {
+     "pergunta": "Para onde Absalão fugiu depois da morte de Amnom?",
+     "opcoes": [
+      "Para o Egito",
+      "Para Hebrom",
+      "Para Gesur",
+      "Para Moabe"
+     ],
+     "correta": 2,
+     "ref": "13:37"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "titulo": "A volta de Absalão",
+   "chave": "14:14",
+   "resumo": "Percebendo que Davi sente falta de Absalão, Joabe envia uma mulher sábia de Tecoa para contar ao rei uma história inventada sobre dois filhos. Por meio dela, Davi é levado a permitir a volta de Absalão, mas não aceita vê-lo. Depois de dois anos, Absalão, famoso por sua beleza, manda queimar o campo de Joabe para obrigá-lo a interceder. Finalmente Davi recebe Absalão e o beija.",
+   "licoes": [
+    "Deus \"planeja meio para que seu desviado não seja dele excluído\" (14:14).",
+    "Uma reconciliação pela metade deixa ressentimentos crescendo (14:24, 14:28).",
+    "Beleza exterior não revela o caráter (14:25).",
+    "Absalão usa a força para conseguir o que quer, sinal do que viria (14:30)."
+   ],
+   "reflexao": "Há alguém com quem você reatou só pela metade? O que falta para uma reconciliação real?",
+   "quiz": [
+    {
+     "pergunta": "De que cidade era a mulher sábia enviada por Joabe a Davi?",
+     "opcoes": [
+      "Belém",
+      "Ramá",
+      "Gibeão",
+      "Tecoa"
+     ],
+     "correta": 3,
+     "ref": "14:2"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "titulo": "Absalão rouba o coração do povo",
+   "chave": "15:25-26",
+   "resumo": "Absalão se coloca à porta da cidade, promete justiça a quem chega e assim \"rouba o coração\" dos israelitas. Com a desculpa de cumprir um voto, vai a Hebrom e se proclama rei, atraindo o conselheiro Aitofel. Davi foge de Jerusalém chorando. Itai, um estrangeiro, decide segui-lo na vida ou na morte. Davi manda a arca de volta, confiando em Deus, e pede a Husai que volte para frustrar o conselho de Aitofel.",
+   "licoes": [
+    "Bajulação e promessas fáceis podem enganar muita gente (15:4-6).",
+    "A lealdade de Itai, um estrangeiro, é exemplo de fidelidade (15:21).",
+    "Davi entrega seu futuro a Deus: \"faça de mim o que bem lhe parecer\" (15:25-26).",
+    "Davi ora e também age com sabedoria (15:31, 15:34)."
+   ],
+   "reflexao": "Em tempos de crise, você consegue dizer a Deus \"faça de mim o que bem lhe parecer\"?",
+   "quiz": [
+    {
+     "pergunta": "Que estrangeiro jurou seguir Davi na vida ou na morte?",
+     "opcoes": [
+      "Itai, o giteu",
+      "Husai",
+      "Ziba",
+      "Aitofel"
+     ],
+     "correta": 0,
+     "ref": "15:19-21"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "titulo": "Ziba, Simei e o conselho de Aitofel",
+   "chave": "16:11-12",
+   "resumo": "Ziba encontra Davi com provisões e acusa Mefibosete de querer o reino; Davi lhe dá os bens do seu senhor. Simei, da família de Saul, amaldiçoa Davi e atira pedras nele. Abisai quer matá-lo, mas Davi o impede, dizendo que talvez Deus veja sua aflição. Em Jerusalém, Husai se apresenta a Absalão, e Aitofel aconselha Absalão a tomar publicamente as concubinas do pai, cumprindo o que Natã havia anunciado.",
+   "licoes": [
+    "Decisões tomadas com pressa, ouvindo só um lado, podem ser injustas (16:3-4).",
+    "Davi suporta a ofensa com humildade e entrega sua causa a Deus (16:11-12).",
+    "O pecado de Davi tem consequências públicas, como Deus havia anunciado (16:22).",
+    "Até um conselho considerado muito sábio pode servir ao mal (16:21, 16:23)."
+   ],
+   "reflexao": "Como você reage quando é insultado injustamente?",
+   "quiz": [
+    {
+     "pergunta": "Quem amaldiçoou Davi e atirou pedras nele durante a fuga?",
+     "opcoes": [
+      "Ziba",
+      "Mefibosete",
+      "Abisai",
+      "Simei"
+     ],
+     "correta": 3,
+     "ref": "16:5-6"
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "titulo": "Deus frustra o conselho de Aitofel",
+   "chave": "17:14",
+   "resumo": "Aitofel aconselha atacar Davi imediatamente, enquanto ele está cansado. Husai, porém, convence Absalão a esperar e reunir todo Israel, e o texto explica que o SENHOR havia decidido frustrar o bom conselho de Aitofel. Husai avisa Davi pelos sacerdotes; os mensageiros se escondem num poço e Davi atravessa o Jordão. Aitofel se enforca. Em Maanaim, Barzilai e outros trazem comida e utensílios para Davi e seu povo.",
+   "licoes": [
+    "Deus governa por trás dos acontecimentos e pode frustrar planos humanos (17:14).",
+    "Pessoas comuns, como a mulher de Baurim, participam do cuidado de Deus (17:19-20).",
+    "O orgulho ferido pode levar ao desespero, como no caso de Aitofel (17:23).",
+    "Deus envia ajuda pelas mãos de amigos generosos nos momentos difíceis (17:27-29)."
+   ],
+   "reflexao": "Quem Deus usou para cuidar de você num momento de cansaço e necessidade?",
+   "quiz": [
+    {
+     "pergunta": "Onde Jônatas e Aimaás se esconderam dos servos de Absalão?",
+     "opcoes": [
+      "Num poço",
+      "Numa caverna",
+      "Num celeiro",
+      "Debaixo de uma ponte"
+     ],
+     "correta": 0,
+     "ref": "17:18-19"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "titulo": "Absalão, meu filho!",
+   "chave": "18:33",
+   "resumo": "Davi organiza o exército em três grupos e pede aos comandantes que tratem Absalão com brandura. A batalha acontece no bosque de Efraim, e os homens de Absalão são derrotados. Absalão fica preso pela cabeça num carvalho, e Joabe, contra a ordem do rei, o mata. Dois mensageiros levam a notícia a Davi, que, ao saber da morte do filho, chora amargamente desejando ter morrido em seu lugar.",
+   "licoes": [
+    "Davi continua amando o filho rebelde, mesmo depois da traição (18:5).",
+    "A rebeldia de Absalão terminou de forma trágica e humilhante (18:9, 18:17).",
+    "Joabe agiu por conta própria contra a ordem do rei (18:14).",
+    "A dor de um pai por um filho perdido é retratada com honestidade (18:33)."
+   ],
+   "reflexao": "Há alguém que se afastou de você e por quem você ainda pode orar com amor?",
+   "quiz": [
+    {
+     "pergunta": "Em que árvore Absalão ficou preso pela cabeça?",
+     "opcoes": [
+      "Um carvalho",
+      "Uma figueira",
+      "Uma oliveira",
+      "Um cedro"
+     ],
+     "correta": 0,
+     "ref": "18:9"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "titulo": "A volta de Davi a Jerusalém",
+   "chave": "19:22-23",
+   "resumo": "O luto de Davi transforma a vitória em tristeza, e Joabe o repreende duramente, levando-o a se apresentar ao povo. As tribos discutem a volta do rei, e Davi atrai Judá, prometendo o comando do exército a Amasa. Na travessia do Jordão, Davi perdoa Simei, ouve Mefibosete, que diz ter sido caluniado por Ziba, e agradece ao idoso Barzilai. Surge uma rivalidade entre Judá e as demais tribos.",
+   "licoes": [
+    "Um líder precisa equilibrar a dor pessoal com o cuidado pelos que o servem (19:5-8).",
+    "Davi escolhe a misericórdia para com Simei em um dia de restauração (19:22-23).",
+    "Mefibosete mostra gratidão maior que o interesse pelos bens (19:28, 19:30).",
+    "Barzilai é exemplo de generosidade e de contentamento na velhice (19:32, 19:35)."
+   ],
+   "reflexao": "Em um momento de vitória, você costuma escolher a vingança ou a misericórdia?",
+   "quiz": [
+    {
+     "pergunta": "Que idade tinha Barzilai, que sustentou Davi em Maanaim?",
+     "opcoes": [
+      "Sessenta anos",
+      "Setenta anos",
+      "Oitenta anos",
+      "Noventa anos"
+     ],
+     "correta": 2,
+     "ref": "19:32"
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "titulo": "A revolta de Seba",
+   "chave": "20:19",
+   "resumo": "Seba, um benjamita, toca a trombeta e incita as tribos de Israel a abandonarem Davi; só Judá permanece fiel. Davi manda Amasa reunir o exército, mas ele demora, e Joabe o mata à traição. Joabe persegue Seba até a cidade de Abel de Bete-Maaca. Uma mulher sábia negocia com Joabe, convence os moradores a entregar a cabeça de Seba e salva a cidade da destruição.",
+   "licoes": [
+    "Divisões nascem facilmente quando há ressentimentos não resolvidos (20:1-2).",
+    "Joabe repete o padrão de violência traiçoeira (20:9-10).",
+    "Uma pessoa sábia pode salvar uma cidade inteira com uma conversa (20:16, 20:22).",
+    "Buscar a paz é proteger \"a herança do SENHOR\" (20:19)."
+   ],
+   "reflexao": "Em que conflito você poderia ser uma voz de sabedoria e paz?",
+   "quiz": [
+    {
+     "pergunta": "Quem convenceu os moradores de Abel a entregar Seba?",
+     "opcoes": [
+      "Um sacerdote",
+      "O rei Davi",
+      "Uma mulher sábia",
+      "Amasa"
+     ],
+     "correta": 2,
+     "ref": "20:16-22"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "titulo": "Os gibeonitas e as guerras contra os gigantes",
+   "chave": "21:14",
+   "resumo": "Uma fome de três anos atinge Israel, e o SENHOR revela que a causa é a matança dos gibeonitas feita por Saul, contra o juramento antigo de Israel. Davi entrega sete descendentes de Saul aos gibeonitas, mas poupa Mefibosete por causa do juramento feito a Jônatas. Rispa vigia os corpos dos filhos, e Davi sepulta com honra os ossos de Saul e Jônatas; então Deus se aplaca com a terra. O capítulo termina com batalhas contra gigantes filisteus vencidos pelos homens de Davi.",
+   "licoes": [
+    "Juramentos feitos em nome de Deus importam, mesmo gerações depois (21:1-2).",
+    "Davi honra sua aliança com Jônatas ao poupar Mefibosete (21:7).",
+    "A fidelidade silenciosa de Rispa comove o rei e leva a um sepultamento digno (21:10-14).",
+    "Até o grande guerreiro precisa ser socorrido pelos companheiros (21:16-17)."
+   ],
+   "reflexao": "Há alguma promessa antiga que você precisa honrar ou alguma injustiça que precisa reparar?",
+   "quiz": [
+    {
+     "pergunta": "Por que os homens de Davi juraram que ele não sairia mais à batalha?",
+     "opcoes": [
+      "Porque ele estava doente",
+      "Para que não se apagasse a lâmpada de Israel",
+      "Porque Joabe queria a glória",
+      "Porque o profeta Gade proibiu"
+     ],
+     "correta": 1,
+     "ref": "21:17"
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "titulo": "O cântico de livramento de Davi",
+   "chave": "22:2",
+   "resumo": "Davi canta um longo salmo de gratidão depois que o SENHOR o livrou de todos os seus inimigos e de Saul. Ele descreve Deus como rocha, fortaleza e libertador, narra em imagens poderosas como Deus desceu para salvá-lo das águas da morte e celebra a força que recebeu para vencer. O cântico termina louvando a Deus, que dá grandes vitórias ao seu rei e usa de misericórdia com seu ungido e sua descendência para sempre.",
+   "licoes": [
+    "Deus é refúgio seguro para quem clama a ele na angústia (22:2-4, 22:7).",
+    "O caminho de Deus é perfeito e sua palavra é provada (22:31).",
+    "A força e a vitória vêm de Deus, não apenas da habilidade humana (22:30, 22:40).",
+    "A misericórdia de Deus com o ungido se estende à sua descendência para sempre (22:51)."
+   ],
+   "reflexao": "De que livramento na sua vida você poderia fazer um cântico de gratidão?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o cântico, o que Davi diz que fará com o seu Deus?",
+     "opcoes": [
+      "Saltará uma muralha",
+      "Atravessará o mar",
+      "Derrubará torres",
+      "Andará sobre as águas"
+     ],
+     "correta": 0,
+     "ref": "22:30"
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "titulo": "As últimas palavras de Davi e seus valentes",
+   "chave": "23:5",
+   "resumo": "Davi pronuncia suas últimas palavras em forma de poema profético: quem governa com justiça e no temor de Deus é como a luz da manhã sem nuvens, e Deus fez com a casa de Davi uma aliança perpétua. Em seguida o texto lista os valentes de Davi e seus feitos, como Eleazar, Samá e Benaia. Destaca-se o episódio da água de Belém, que Davi se recusa a beber e derrama ao SENHOR. A lista termina com Urias, o heteu.",
+   "licoes": [
+    "Governar com justiça e temor de Deus traz vida, como a luz após a chuva (23:3-4).",
+    "A esperança de Davi está na aliança perpétua que Deus fez com ele (23:5).",
+    "Davi honra o sacrifício de seus homens, recusando-se a usá-lo para si mesmo (23:16-17).",
+    "As vitórias dos valentes são atribuídas ao SENHOR (23:10, 23:12)."
+   ],
+   "reflexao": "Como você pode honrar o esforço e o sacrifício das pessoas que o servem?",
+   "quiz": [
+    {
+     "pergunta": "O que Davi fez com a água que os três valentes trouxeram da cisterna de Belém?",
+     "opcoes": [
+      "Bebeu com gratidão",
+      "Deu aos soldados feridos",
+      "Derramou-a ao SENHOR",
+      "Guardou-a no tabernáculo"
+     ],
+     "correta": 2,
+     "ref": "23:16"
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "titulo": "O censo e o altar na eira de Araúna",
+   "chave": "24:24",
+   "resumo": "Davi manda Joabe recensear Israel e Judá, apesar da objeção dele; depois de quase dez meses, o número é apresentado, e Davi sente o coração pesar e confessa seu pecado. Por meio do profeta Gade, Deus lhe oferece três castigos, e Davi prefere cair nas mãos do SENHOR, cujas misericórdias são muitas. Uma peste mata setenta mil, mas Deus detém o anjo junto a Jerusalém. Davi compra a eira de Araúna, recusando recebê-la de graça, e ali oferece sacrifícios, e a praga cessa.",
+   "licoes": [
+    "A consciência sensível leva ao arrependimento sincero (24:10).",
+    "É melhor confiar na misericórdia de Deus do que na dos homens (24:14).",
+    "Um líder verdadeiro assume a culpa para proteger o povo (24:17).",
+    "A adoração verdadeira tem custo; não se oferece a Deus o que nada custa (24:24)."
+   ],
+   "reflexao": "O que custa algo para você na sua forma de adorar e servir a Deus?",
+   "quiz": [
+    {
+     "pergunta": "Por quanto Davi comprou a eira e os bois de Araúna?",
+     "opcoes": [
+      "Seiscentos siclos de ouro",
+      "De graça, como presente",
+      "Cem siclos de prata",
+      "Cinquenta siclos de prata"
+     ],
+     "correta": 3,
+     "ref": "24:24"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1182 @@
+{
+ "livro": "jo",
+ "nome": "Jó",
+ "subtitulo": "Fé no meio do sofrimento sem explicação",
+ "introducao": "Jó é a história de um homem íntegro que perde bens, filhos e saúde sem saber por quê. Em longos poemas, ele e seus amigos discutem a justiça de Deus e a causa do sofrimento, até que o próprio Deus responde do meio de um redemoinho. O livro ensina a confiar em Deus quando as respostas fáceis não servem e dá voz ao lamento honesto.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Desconhecido; antigas tradições judaicas atribuem a Moisés, mas o livro não diz quem o escreveu"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "A história se passa num tempo antigo, parecido com o dos patriarcas; a data da escrita é muito debatida, entre o tempo de Salomão e o período após o exílio"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Terra de Uz, a leste de Israel (1:1)"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Literatura de sabedoria: moldura em prosa (cap. 1–2 e 42) e diálogos em poesia"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "42 capítulos e 1070 versículos"
+  }
+ ],
+ "chave": "19:25",
+ "temas": [
+  "O sofrimento do justo",
+  "Os limites da sabedoria humana",
+  "O lamento honesto diante de Deus",
+  "A soberania e a sabedoria de Deus na criação",
+  "Consolar sem acusar"
+ ],
+ "cristo": "Jó anseia por um árbitro entre ele e Deus e declara que seu Redentor vive (9:33; 19:25). O Novo Testamento apresenta Jesus como o mediador entre Deus e os homens, o justo que sofreu sem culpa e foi vindicado, e cita Jó como exemplo de perseverança na carta de Tiago 5.",
+ "secoes": [
+  {
+   "id": "prologo",
+   "titulo": "A prova de Jó",
+   "capitulos": [
+    1,
+    2
+   ],
+   "resumo": "Na cena do céu e na terra, Jó perde tudo e os amigos chegam."
+  },
+  {
+   "id": "primeiro-ciclo",
+   "titulo": "Lamento e primeiro ciclo de debates",
+   "capitulos": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ],
+   "resumo": "Jó amaldiçoa seu dia e responde a Elifaz, Bildade e Zofar."
+  },
+  {
+   "id": "segundo-ciclo",
+   "titulo": "Segundo ciclo de debates",
+   "capitulos": [
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+   ],
+   "resumo": "Os amigos insistem no destino do perverso; Jó declara que seu Redentor vive."
+  },
+  {
+   "id": "terceiro-ciclo",
+   "titulo": "Terceiro ciclo e o poema da sabedoria",
+   "capitulos": [
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+   ],
+   "resumo": "As acusações se esgotam e um poema mostra que a sabedoria vem de Deus."
+  },
+  {
+   "id": "defesa-final",
+   "titulo": "A defesa final de Jó",
+   "capitulos": [
+    29,
+    30,
+    31
+   ],
+   "resumo": "Jó compara o passado com o presente e jura sua inocência."
+  },
+  {
+   "id": "eliu",
+   "titulo": "Os discursos de Eliú",
+   "capitulos": [
+    32,
+    33,
+    34,
+    35,
+    36,
+    37
+   ],
+   "resumo": "Um jovem defende a justiça de Deus e o valor da correção."
+  },
+  {
+   "id": "deus-responde",
+   "titulo": "Deus responde e restaura",
+   "capitulos": [
+    38,
+    39,
+    40,
+    41,
+    42
+   ],
+   "resumo": "O SENHOR fala do redemoinho, Jó se humilha e é restaurado."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Jó perde tudo e adora",
+   "chave": "1:21",
+   "resumo": "Jó, homem íntegro de Uz, é rico e cuida espiritualmente dos filhos. Numa cena no céu, Satanás insinua que Jó só teme a Deus por interesse, e Deus permite que seus bens sejam tocados. Em um só dia Jó perde rebanhos, servos e os dez filhos, mas se prostra e bendiz o nome do SENHOR.",
+   "licoes": [
+    "A fé verdadeira não depende das bênçãos: a pergunta \"Jó teme a Deus em troca de nada?\" está no centro do livro (1:9).",
+    "Satanás age apenas dentro dos limites que Deus estabelece (1:12).",
+    "Jó lamenta com sinais de luto e, ao mesmo tempo, adora: \"o SENHOR deu, e o SENHOR tomou\" (1:20-21)."
+   ],
+   "reflexao": "Você amaria a Deus se ele não lhe desse mais nada além de si mesmo?",
+   "quiz": [
+    {
+     "pergunta": "Quantos filhos e filhas Jó tinha?",
+     "opcoes": [
+      "Três filhos e sete filhas",
+      "Sete filhos e três filhas",
+      "Dez filhos",
+      "Doze filhos"
+     ],
+     "correta": 1,
+     "ref": "1:2"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "A doença e os três amigos",
+   "chave": "2:10",
+   "resumo": "Satanás volta a acusar Jó e recebe permissão para ferir seu corpo, mas não para tirar sua vida. Coberto de chagas, Jó se senta na cinza e rejeita o conselho da esposa de amaldiçoar a Deus. Três amigos, Elifaz, Bildade e Zofar, vêm consolá-lo e ficam em silêncio com ele por sete dias.",
+   "licoes": [
+    "Jó aceita receber de Deus tanto o bem quanto o mal, sem pecar com os lábios (2:10).",
+    "Deus reconhece que Jó foi atingido \"sem causa\", o que desmonta a ideia de que todo sofrimento é castigo (2:3).",
+    "O silêncio solidário dos amigos é a melhor parte de sua visita (2:13)."
+   ],
+   "reflexao": "Diante da dor de alguém, você sabe simplesmente ficar ao lado sem precisar explicar?",
+   "quiz": [
+    {
+     "pergunta": "Quanto tempo os amigos ficaram sentados com Jó sem falar?",
+     "opcoes": [
+      "Um dia inteiro",
+      "Três dias",
+      "Sete dias e sete noites",
+      "Quarenta dias"
+     ],
+     "correta": 2,
+     "ref": "2:13"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Jó amaldiçoa o dia em que nasceu",
+   "chave": "3:11",
+   "resumo": "Neste lamento poético, Jó rompe o silêncio e amaldiçoa o dia do seu nascimento. Ele pergunta por que não morreu ao nascer e imagina a sepultura como lugar de descanso. Termina dizendo que aquilo que mais temia lhe aconteceu e que não tem paz.",
+   "licoes": [
+    "A Bíblia dá espaço para o lamento honesto: Jó fala sua dor sem amaldiçoar a Deus (3:1-3).",
+    "No sofrimento extremo, a morte pode parecer alívio; o livro registra esse sentimento sem escondê-lo (3:20-22).",
+    "A angústia de Jó é real e contínua: \"não tenho tido descanso\" (3:26)."
+   ],
+   "reflexao": "Você se permite contar a Deus, com sinceridade, o que realmente sente?",
+   "quiz": [
+    {
+     "pergunta": "O que Jó amaldiçoou no começo deste capítulo?",
+     "opcoes": [
+      "Seus amigos",
+      "O dia em que nasceu",
+      "Sua esposa",
+      "A terra de Uz"
+     ],
+     "correta": 1,
+     "ref": "3:1-3"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Elifaz e a visão noturna",
+   "chave": "4:7",
+   "resumo": "Elifaz, o primeiro amigo a falar, lembra que Jó costumava fortalecer os outros e agora desanima. Ele afirma que os inocentes não perecem e que quem semeia injustiça colhe desgraça. Conta uma visão noturna em que ouviu que nenhum ser humano é puro diante do Criador.",
+   "licoes": [
+    "Elifaz parte de uma regra simples: quem sofre deve ter semeado o mal; o resto do livro mostra que isso não explica tudo (4:7-8).",
+    "É fácil aconselhar os outros e difícil enfrentar a própria dor; Elifaz percebe isso, mas usa a observação para acusar (4:3-5).",
+    "É verdade que o ser humano é frágil e não é mais justo que Deus, mas uma verdade aplicada sem amor fere (4:17-19)."
+   ],
+   "reflexao": "Você costuma procurar culpados quando vê alguém sofrendo?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Elifaz, o que colhem os que lavram injustiça?",
+     "opcoes": [
+      "Riqueza",
+      "Honra",
+      "Longa vida",
+      "O mesmo que semearam"
+     ],
+     "correta": 3,
+     "ref": "4:8"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "Bem-aventurado o que Deus corrige",
+   "chave": "5:17",
+   "resumo": "Elifaz continua: a aflição não brota do chão, e o sábio busca a Deus e lhe entrega sua causa. Ele descreve Deus como quem faz maravilhas, levanta os humildes e frustra os astutos. Aconselha Jó a aceitar a correção do Todo-Poderoso, prometendo paz e prosperidade.",
+   "licoes": [
+    "Buscar a Deus e entregar-lhe a causa é um bom conselho, mesmo vindo de quem julgou mal (5:8).",
+    "Deus é poderoso para ferir e curar, para corrigir e restaurar (5:17-18).",
+    "Elifaz tem razão em vários pontos, mas erra ao supor que conhece o motivo do sofrimento de Jó (5:27)."
+   ],
+   "reflexao": "Quando você ouve um conselho verdadeiro, mas dado na hora errada, como reage?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Elifaz, quem é bem-aventurado?",
+     "opcoes": [
+      "O homem rico",
+      "Quem nunca sofre",
+      "O homem a quem Deus corrige",
+      "Quem tem muitos filhos"
+     ],
+     "correta": 2,
+     "ref": "5:17"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "Amigos como ribeiros secos",
+   "chave": "6:14",
+   "resumo": "Jó responde que sua dor pesa mais que a areia do mar e que por isso suas palavras são impulsivas. Pede que Deus acabe com sua vida e se queixa de que os amigos o decepcionaram como riachos que secam no calor. Desafia-os a mostrar onde errou.",
+   "licoes": [
+    "A dor intensa explica palavras duras; quem consola deve ouvir com paciência (6:2-3, 6:26).",
+    "O aflito merece misericórdia dos amigos, e Jó sente falta dela (6:14).",
+    "Jó pede que lhe ensinem com verdade em que errou, em vez de repetirem acusações (6:24)."
+   ],
+   "reflexao": "Você tem sido para alguém um riacho que seca ou uma fonte que permanece?",
+   "quiz": [
+    {
+     "pergunta": "Com o que Jó compara os amigos que o decepcionaram?",
+     "opcoes": [
+      "Com ribeiros que secam",
+      "Com leões",
+      "Com nuvens de chuva",
+      "Com pedras"
+     ],
+     "correta": 0,
+     "ref": "6:15"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "O que é o ser humano?",
+   "chave": "7:17",
+   "resumo": "Jó descreve a vida como trabalho duro de assalariado, com noites sem sono e um corpo coberto de feridas. Lembra que a vida é um sopro e decide não calar sua queixa. Dirige-se a Deus perguntando por que ele vigia tanto o ser humano e não o deixa em paz.",
+   "licoes": [
+    "A vida humana é breve como um sopro, e Jó leva essa fragilidade a Deus (7:7).",
+    "Jó transforma a pergunta do Salmo 8 em queixa: por que Deus se ocupa tanto do homem? (7:17-18).",
+    "Falar a Deus na amargura da alma também é uma forma de oração (7:11)."
+   ],
+   "reflexao": "Que queixa você precisa trazer a Deus em vez de guardá-la?",
+   "quiz": [
+    {
+     "pergunta": "Com o que Jó compara a rapidez dos seus dias?",
+     "opcoes": [
+      "Com o voo da águia",
+      "Com a lançadeira do tecelão",
+      "Com um rio",
+      "Com o vento sul"
+     ],
+     "correta": 1,
+     "ref": "7:6"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "Bildade e a sabedoria dos antigos",
+   "chave": "8:20",
+   "resumo": "Bildade acusa Jó de falar como vento e defende que Deus nunca perverte a justiça. Sugere que os filhos de Jó morreram por seus pecados e promete restauração se Jó buscar a Deus e for puro. Apela à tradição dos antepassados e compara o ímpio a um junco que seca sem água.",
+   "licoes": [
+    "Deus é justo e não perverte o direito; Bildade afirma algo verdadeiro (8:3).",
+    "Mas ele aplica a verdade de forma cruel, insinuando que os filhos de Jó mereceram morrer (8:4).",
+    "Aprender com as gerações passadas tem valor, desde que não substitua a escuta do caso real (8:8-10)."
+   ],
+   "reflexao": "Você já usou uma verdade bíblica para ferir alguém em vez de ajudá-lo?",
+   "quiz": [
+    {
+     "pergunta": "Com o que Bildade compara a confiança do ímpio?",
+     "opcoes": [
+      "Com uma rocha",
+      "Com um cedro",
+      "Com uma teia de aranha",
+      "Com uma muralha"
+     ],
+     "correta": 2,
+     "ref": "8:14"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "Quem pode ser justo diante de Deus?",
+   "chave": "9:33",
+   "resumo": "Jó concorda que Deus é justo, mas pergunta como alguém poderia vencer uma disputa com ele. Descreve o poder de Deus sobre montanhas, mar e estrelas e sente que nada que diga será ouvido. Lamenta que não haja um árbitro que ponha a mão sobre ambos.",
+   "licoes": [
+    "Diante da grandeza de Deus, o ser humano não tem como se justificar por si mesmo (9:2-3).",
+    "Deus é o Criador das constelações e das maravilhas incontáveis (9:8-10).",
+    "Jó deseja um mediador entre ele e Deus, um anseio que o evangelho responde em Cristo (9:33)."
+   ],
+   "reflexao": "Você sente falta de alguém que interceda por você diante de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Do que Jó sente falta entre ele e Deus?",
+     "opcoes": [
+      "De um árbitro",
+      "De um sacerdote",
+      "De um profeta",
+      "De um rei"
+     ],
+     "correta": 0,
+     "ref": "9:33"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "titulo": "Tuas mãos me formaram",
+   "chave": "10:8",
+   "resumo": "Jó fala com Deus na amargura da alma e pede para saber por que é tratado como inimigo. Lembra que Deus o formou com cuidado, como barro, tecendo pele, carne, ossos e nervos. Pergunta por que nasceu e pede um pouco de alívio antes de partir para a terra das sombras.",
+   "licoes": [
+    "Jó pede a Deus que lhe revele a razão da luta, em vez de se afastar dele (10:2).",
+    "A vida humana é obra cuidadosa das mãos de Deus (10:8-12).",
+    "Mesmo em desespero, Jó reconhece que recebeu vida e misericórdia de Deus (10:12)."
+   ],
+   "reflexao": "Como saber que Deus o formou com cuidado muda sua forma de enfrentar a dor?",
+   "quiz": [
+    {
+     "pergunta": "Com o que Jó diz que Deus o preparou?",
+     "opcoes": [
+      "Como a pedra",
+      "Como o ferro",
+      "Como a madeira",
+      "Como o barro"
+     ],
+     "correta": 3,
+     "ref": "10:9"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "titulo": "Zofar e os mistérios de Deus",
+   "chave": "11:7",
+   "resumo": "Zofar, o terceiro amigo, acusa Jó de falar demais e de se dizer puro. Afirma que Deus o castigou até menos do que merecia e exalta a sabedoria divina, mais alta que os céus e mais profunda que o Xeol. Promete que, se Jó afastar a maldade, sua vida brilhará como o meio-dia.",
+   "licoes": [
+    "A sabedoria de Deus está acima de toda compreensão humana (11:7-9).",
+    "Zofar, porém, fala como se soubesse o que só Deus sabe, ao dizer que Jó merecia mais castigo (11:6).",
+    "Preparar o coração e afastar o mal é um bom caminho, mas não uma fórmula que explica todo sofrimento (11:13-15)."
+   ],
+   "reflexao": "Você reconhece os limites do que sabe sobre a vida dos outros?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Zofar, a sabedoria de Deus é mais profunda que o quê?",
+     "opcoes": [
+      "O mar",
+      "O Xeol",
+      "A terra",
+      "O abismo das águas"
+     ],
+     "correta": 1,
+     "ref": "11:8"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "titulo": "Com Deus está a sabedoria",
+   "chave": "12:13",
+   "resumo": "Jó responde com ironia que os amigos não são os únicos sábios. Diz que até os animais sabem que tudo está na mão do SENHOR. Descreve Deus como soberano sobre reis, juízes, sacerdotes e nações, que levanta e derruba.",
+   "licoes": [
+    "A criação inteira testemunha que a vida de todos está na mão de Deus (12:9-10).",
+    "Sabedoria e força pertencem, antes de tudo, a Deus (12:13).",
+    "O justo pode virar motivo de riso, o que mostra que prosperidade não mede retidão (12:4-6)."
+   ],
+   "reflexao": "O que a natureza ao seu redor lhe ensina sobre Deus?",
+   "quiz": [
+    {
+     "pergunta": "A quem Jó manda perguntar, pois eles ensinariam?",
+     "opcoes": [
+      "Aos reis",
+      "Aos sacerdotes",
+      "Aos anciãos de Temã",
+      "Aos animais e às aves"
+     ],
+     "correta": 3,
+     "ref": "12:7"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "titulo": "Ainda que ele me mate",
+   "chave": "13:15",
+   "resumo": "Jó chama os amigos de médicos inúteis e diz que defender Deus com mentiras é perigoso. Decide apresentar sua causa ao próprio Deus, confiando nele mesmo que morra. Pede que Deus lhe mostre seus pecados e pergunta por que esconde o rosto.",
+   "licoes": [
+    "Defender Deus com argumentos falsos não o honra (13:7-8).",
+    "Jó mantém a esperança em Deus mesmo sem entender: \"ainda que ele me mate, nele esperarei\" (13:15).",
+    "Jó prefere falar diretamente com Deus a falar só sobre Deus (13:3, 13:22)."
+   ],
+   "reflexao": "Você conversa com Deus sobre suas dúvidas ou só fala delas com os outros?",
+   "quiz": [
+    {
+     "pergunta": "Como Jó chama os amigos?",
+     "opcoes": [
+      "Juízes justos",
+      "Sábios de Temã",
+      "Médicos inúteis",
+      "Irmãos fiéis"
+     ],
+     "correta": 2,
+     "ref": "13:4"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "titulo": "Se o homem morrer, voltará a viver?",
+   "chave": "14:14",
+   "resumo": "Jó medita sobre a vida breve e cheia de inquietação, como uma flor cortada. Observa que uma árvore cortada pode brotar de novo, mas o homem morre e não se levanta. Ainda assim pergunta se o homem voltará a viver e imagina Deus chamando-o de volta.",
+   "licoes": [
+    "O ser humano é curto de dias e frágil como a flor e a sombra (14:1-2).",
+    "Jó faz a grande pergunta: \"se o homem morrer, voltará a viver?\" (14:14).",
+    "Mesmo no escuro, ele imagina Deus desejando a obra de suas mãos (14:15)."
+   ],
+   "reflexao": "Que esperança você tem diante da morte?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Jó, o que pode brotar de novo depois de cortado?",
+     "opcoes": [
+      "A árvore",
+      "A flor",
+      "O junco",
+      "O homem"
+     ],
+     "correta": 0,
+     "ref": "14:7"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "titulo": "Elifaz endurece o tom",
+   "chave": "15:14",
+   "resumo": "No segundo ciclo de discursos, Elifaz acusa Jó de destruir o temor a Deus e diz que a própria boca de Jó o condena. Pergunta se ele se acha mais sábio que os anciãos. Descreve longamente o destino do perverso, que vive em angústia e perde tudo.",
+   "licoes": [
+    "Elifaz confunde a sinceridade de Jó com rebeldia, e assim deixa de consolar (15:4-6).",
+    "É verdade que nenhum nascido de mulher é puro por si mesmo diante de Deus (15:14).",
+    "Ele diz que oferece \"mansas palavras\", mas fala com dureza; consolo exige mais que boa intenção (15:11)."
+   ],
+   "reflexao": "Suas palavras de \"consolo\" soam mansas para quem as recebe?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Elifaz, o que condena Jó?",
+     "opcoes": [
+      "Seus filhos",
+      "Sua própria boca",
+      "Seus servos",
+      "Os anjos"
+     ],
+     "correta": 1,
+     "ref": "15:6"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "titulo": "Minha testemunha está nos céus",
+   "chave": "16:19",
+   "resumo": "Jó chama os amigos de \"consoladores miseráveis\" e diz que, no lugar deles, ele os confortaria. Descreve seu sofrimento como um ataque de Deus, que o fez de alvo. Ainda assim afirma que tem nos céus uma testemunha e um defensor.",
+   "licoes": [
+    "Consolar é aliviar, não amontoar palavras contra quem sofre (16:4-5).",
+    "Jó mantém que suas mãos estão limpas e sua oração é pura (16:17).",
+    "Mesmo sentindo Deus contra si, Jó crê que há no céu quem defenda sua causa (16:19-21)."
+   ],
+   "reflexao": "Quem você poderia consolar esta semana com palavras que aliviam?",
+   "quiz": [
+    {
+     "pergunta": "Como Jó chama os amigos neste capítulo?",
+     "opcoes": [
+      "Sábios de verdade",
+      "Juízes justos",
+      "Consoladores miseráveis",
+      "Profetas falsos"
+     ],
+     "correta": 2,
+     "ref": "16:2"
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "titulo": "Onde está minha esperança?",
+   "chave": "17:15",
+   "resumo": "Jó sente o espírito arruinado e a sepultura próxima, cercado por zombadores. Pede a Deus uma garantia, pois ninguém mais lhe estende a mão. Afirma que o justo prosseguirá seu caminho, mas pergunta onde estaria sua esperança se o Xeol é seu destino.",
+   "licoes": [
+    "Jó pede a Deus que seja seu fiador, já que os amigos falharam (17:3).",
+    "Mesmo na escuridão, ele afirma que o justo seguirá firme em seu caminho (17:9).",
+    "A pergunta \"onde está minha esperança?\" fica aberta e prepara a resposta que vem mais tarde (17:15)."
+   ],
+   "reflexao": "Quando a esperança parece sumir, a quem você recorre?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Jó, o que fará o justo?",
+     "opcoes": [
+      "Prosseguirá seu caminho",
+      "Desistirá",
+      "Fugirá para o deserto",
+      "Ficará rico"
+     ],
+     "correta": 0,
+     "ref": "17:9"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "titulo": "O destino do perverso, segundo Bildade",
+   "chave": "18:5",
+   "resumo": "Bildade se ofende com Jó e repete que a luz do perverso se apagará. Usa imagens de laços, armadilhas e redes para mostrar que o ímpio cai em seus próprios planos. Termina dizendo que essa é a morada de quem não reconhece a Deus, insinuando que esse é o caso de Jó.",
+   "licoes": [
+    "O mal costuma prender quem o pratica, como uma armadilha nos próprios pés (18:7-8).",
+    "Bildade, porém, descreve a desgraça de Jó como prova de impiedade, sem provas (18:21).",
+    "Há um alerta real: quem não reconhece a Deus caminha para as trevas (18:18)."
+   ],
+   "reflexao": "Você tem julgado a vida dos outros pelas aparências?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Bildade, o que acontecerá com a luz do perverso?",
+     "opcoes": [
+      "Brilhará mais",
+      "Subirá aos céus",
+      "Será dada aos filhos",
+      "Se apagará"
+     ],
+     "correta": 3,
+     "ref": "18:5"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "titulo": "Eu sei que meu Redentor vive",
+   "chave": "19:25",
+   "resumo": "Jó se queixa de que os amigos o humilharam dez vezes e de que Deus fechou seu caminho. Descreve o abandono de irmãos, servos, esposa e até das crianças, e pede compaixão. No auge da dor, declara que sabe que seu Redentor vive e que, mesmo depois de consumida sua pele, verá a Deus.",
+   "licoes": [
+    "A solidão é parte profunda do sofrimento de Jó: todos se afastaram (19:13-19).",
+    "Jó pede compaixão, não explicações (19:21).",
+    "Sua fé alcança além da morte: \"eu sei que meu Redentor vive\" e \"verei a Deus\" (19:25-26)."
+   ],
+   "reflexao": "O que muda em sua vida saber que seu Redentor vive?",
+   "quiz": [
+    {
+     "pergunta": "O que Jó afirma saber neste capítulo?",
+     "opcoes": [
+      "Que seus amigos têm razão",
+      "Que seu Redentor vive",
+      "Que morrerá logo",
+      "Que será rico de novo"
+     ],
+     "correta": 1,
+     "ref": "19:25"
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "titulo": "Zofar e a alegria breve do ímpio",
+   "chave": "20:5",
+   "resumo": "Zofar responde agitado que a alegria do perverso dura só um momento. Diz que o mal parece doce na boca, mas vira veneno nas entranhas. Afirma que quem oprime os pobres perderá toda a riqueza, insinuando que esse seria o caso de Jó.",
+   "licoes": [
+    "O prazer do pecado é passageiro e acaba amargo (20:5, 20:12-14).",
+    "Oprimir os pobres e roubar o que não se construiu atrai o juízo de Deus (20:19).",
+    "A regra de Zofar é verdadeira em geral, mas ele erra ao aplicá-la a Jó sem conhecer seu caso (20:29)."
+   ],
+   "reflexao": "Há algum \"mal doce\" que você guarda debaixo da língua?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Zofar, quanto tempo dura a alegria do hipócrita?",
+     "opcoes": [
+      "Toda a vida",
+      "Até a velhice",
+      "Sete anos",
+      "Apenas um momento"
+     ],
+     "correta": 3,
+     "ref": "20:5"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "titulo": "Por que os perversos prosperam?",
+   "chave": "21:7",
+   "resumo": "Jó contesta a tese dos amigos: muitos perversos vivem bem, envelhecem em paz e morrem tranquilos. Eles até dizem a Deus que não querem conhecer seus caminhos. Jó conclui que a morte iguala a todos e que as respostas dos amigos são falsas.",
+   "licoes": [
+    "A experiência mostra que nem sempre os maus sofrem nesta vida (21:7-13).",
+    "Mesmo vendo isso, Jó rejeita o conselho dos perversos (21:16).",
+    "Ninguém pode ensinar a Deus como governar o mundo (21:22)."
+   ],
+   "reflexao": "Como você lida com a injustiça de ver o mal prosperar?",
+   "quiz": [
+    {
+     "pergunta": "O que os perversos dizem a Deus, segundo Jó?",
+     "opcoes": [
+      "Obrigado por tudo",
+      "Perdoa-nos",
+      "Afasta-te de nós",
+      "Mostra-nos o caminho"
+     ],
+     "correta": 2,
+     "ref": "21:14"
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "titulo": "Elifaz acusa Jó de injustiça",
+   "chave": "22:21",
+   "resumo": "No terceiro ciclo, Elifaz passa a acusar Jó de pecados concretos: explorar irmãos, negar pão ao faminto e despedir viúvas vazias. Diz que Jó pensa que Deus não vê o que acontece. Termina chamando-o a reconciliar-se com Deus, prometendo que o Todo-Poderoso será seu tesouro.",
+   "licoes": [
+    "Quando a teoria não se encaixa, Elifaz inventa culpas; julgar sem fatos é injusto (22:5-9).",
+    "O convite a reconciliar-se com Deus e receber sua palavra no coração é bom em si mesmo (22:21-22).",
+    "Ter o próprio Deus como tesouro vale mais que o ouro de Ofir (22:24-26)."
+   ],
+   "reflexao": "Deus é, para você, mais precioso que qualquer riqueza?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Elifaz, o que Jó teria negado ao faminto?",
+     "opcoes": [
+      "Pão",
+      "Água",
+      "Roupa",
+      "Abrigo"
+     ],
+     "correta": 0,
+     "ref": "22:7"
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "titulo": "Sairei como ouro",
+   "chave": "23:10",
+   "resumo": "Jó deseja encontrar Deus e apresentar sua causa diante do trono, certo de que seria ouvido. Procura por ele no oriente e no ocidente, no norte e no sul, e não o encontra. Mesmo assim confia que Deus conhece seu caminho e que, provado, sairá como ouro.",
+   "licoes": [
+    "Há momentos em que Deus parece escondido, e a Bíblia reconhece essa experiência (23:8-9).",
+    "Mesmo sem ver a Deus, Jó confia que é visto por ele e que a prova o purificará (23:10).",
+    "Jó valorizou a palavra de Deus mais que o alimento de cada dia (23:12)."
+   ],
+   "reflexao": "Você confia que Deus conhece seu caminho mesmo quando não o sente perto?",
+   "quiz": [
+    {
+     "pergunta": "Como Jó diz que sairá depois de provado?",
+     "opcoes": [
+      "Como prata",
+      "Como ouro",
+      "Como bronze",
+      "Como cristal"
+     ],
+     "correta": 1,
+     "ref": "23:10"
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "titulo": "O clamor dos oprimidos",
+   "chave": "24:12",
+   "resumo": "Jó descreve a injustiça do mundo: gente que muda marcos de terra, toma o boi da viúva e deixa os pobres nus e famintos. Também fala do assassino, do ladrão e do adúltero que agem no escuro. Pergunta por que Deus parece demorar, embora afirme que no fim os maus são abatidos.",
+   "licoes": [
+    "A Bíblia não ignora a opressão dos pobres, das viúvas e dos órfãos (24:3-4, 24:9-10).",
+    "Quem faz o mal ama as trevas e foge da luz (24:13-16).",
+    "Os olhos de Deus estão sobre os caminhos dos maus, ainda que eles pareçam seguros por um tempo (24:23-24)."
+   ],
+   "reflexao": "Que injustiça perto de você Deus pode estar chamando você a enxergar?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Jó, o que fazem com o boi da viúva?",
+     "opcoes": [
+      "Compram",
+      "Matam",
+      "Penhoram",
+      "Devolvem"
+     ],
+     "correta": 2,
+     "ref": "24:3"
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "titulo": "Bildade: quem é puro diante de Deus?",
+   "chave": "25:4",
+   "resumo": "Bildade faz um discurso curtíssimo sobre a grandeza de Deus, que domina e faz paz nas alturas. Pergunta como alguém nascido de mulher poderia ser justo diante dele. Compara o ser humano a uma larva e a um verme.",
+   "licoes": [
+    "Deus é soberano sobre tudo e seus exércitos são incontáveis (25:2-3).",
+    "A pergunta sobre como o ser humano pode ser justo diante de Deus é profunda e real (25:4).",
+    "Bildade, porém, só rebaixa o homem e não oferece consolo nem esperança (25:6)."
+   ],
+   "reflexao": "Sua visão de Deus leva você ao desprezo ou à confiança?",
+   "quiz": [
+    {
+     "pergunta": "Com o que Bildade compara o ser humano?",
+     "opcoes": [
+      "Com uma larva",
+      "Com uma flor",
+      "Com um leão",
+      "Com uma sombra"
+     ],
+     "correta": 0,
+     "ref": "25:6"
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "titulo": "As bordas dos caminhos de Deus",
+   "chave": "26:14",
+   "resumo": "Jó responde com ironia à pouca ajuda de Bildade. Em seguida descreve o poder de Deus, que suspende a terra sobre o nada, guarda as águas nas nuvens e acalma o mar. Conclui que tudo isso é apenas a borda dos caminhos de Deus.",
+   "licoes": [
+    "Palavras bonitas não ajudam quem não tem forças, se não vierem com amor (26:2-3).",
+    "Deus sustenta a criação de forma admirável: \"suspende a terra sobre o nada\" (26:7).",
+    "O que conhecemos de Deus é só uma pequena parte, como um sussurro diante do trovão (26:14)."
+   ],
+   "reflexao": "O que na criação faz você perceber que conhece só um pouco de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Sobre o que Deus suspende a terra, segundo Jó?",
+     "opcoes": [
+      "Sobre colunas",
+      "Sobre as águas",
+      "Sobre os montes",
+      "Sobre o nada"
+     ],
+     "correta": 3,
+     "ref": "26:7"
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "titulo": "Não abrirei mão da minha integridade",
+   "chave": "27:5",
+   "resumo": "Jó jura por Deus que não falará engano e que nunca dará razão aos amigos, mantendo sua integridade até morrer. Depois descreve a falta de esperança do hipócrita e a porção do perverso, cuja riqueza passa ao justo. Alguns estudiosos pensam que os versículos 13 a 23 seriam a fala de Zofar, que não aparece no terceiro ciclo.",
+   "licoes": [
+    "Jó se recusa a confessar um pecado que não cometeu só para encerrar a discussão (27:5-6).",
+    "O hipócrita não tem esperança verdadeira quando a vida é tirada (27:8-10).",
+    "As riquezas acumuladas com violência não permanecem (27:16-19)."
+   ],
+   "reflexao": "Você é tentado a dizer o que os outros querem ouvir, mesmo sem ser verdade?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Jó, quem vestirá as roupas preparadas pelo perverso?",
+     "opcoes": [
+      "Seus filhos",
+      "O justo",
+      "O rei",
+      "Ninguém"
+     ],
+     "correta": 1,
+     "ref": "27:17"
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "titulo": "Onde se achará a sabedoria?",
+   "chave": "28:28",
+   "resumo": "Este poema compara a habilidade humana de achar metais e pedras preciosas no fundo da terra com a dificuldade de achar a sabedoria. Ela não se compra com ouro nem se acha no abismo ou no mar. Só Deus conhece seu caminho, e ele diz ao homem que o temor do Senhor é a sabedoria.",
+   "licoes": [
+    "O ser humano é capaz de grandes feitos técnicos, mas isso não o torna sábio (28:1-12).",
+    "A sabedoria vale mais que ouro, rubis e qualquer joia (28:15-18).",
+    "A verdadeira sabedoria é temer ao Senhor e afastar-se do mal (28:28)."
+   ],
+   "reflexao": "Você busca a sabedoria com o mesmo empenho com que se busca um tesouro?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o poema, o que é a sabedoria?",
+     "opcoes": [
+      "Conhecer as minas",
+      "Ser rico",
+      "Ter muitos anos",
+      "O temor ao Senhor"
+     ],
+     "correta": 3,
+     "ref": "28:28"
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "titulo": "Saudade dos dias passados",
+   "chave": "29:15",
+   "resumo": "Jó começa seu discurso final lembrando o tempo em que Deus o guardava e seus filhos estavam ao seu redor. Era respeitado na porta da cidade por jovens, idosos e príncipes. Esse respeito vinha de sua justiça: socorria o pobre, o órfão, a viúva, o cego e o manco.",
+   "licoes": [
+    "Jó lembra que a amizade de Deus sobre sua casa era sua maior riqueza (29:4-5).",
+    "A justiça verdadeira se mostra no cuidado com os mais fracos (29:12-16).",
+    "Ser \"olhos para o cego e pés para o manco\" é um retrato de amor prático (29:15)."
+   ],
+   "reflexao": "Para quem você pode ser \"olhos\" ou \"pés\" nesta fase da vida?",
+   "quiz": [
+    {
+     "pergunta": "O que Jó diz que era para o cego?",
+     "opcoes": [
+      "Mão",
+      "Pai",
+      "Olhos",
+      "Luz"
+     ],
+     "correta": 2,
+     "ref": "29:15"
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "titulo": "Agora riem de mim",
+   "chave": "30:20",
+   "resumo": "Em contraste com o passado, Jó descreve o desprezo que sofre agora, até de jovens marginalizados que cospem em seu rosto. Sente o corpo arder de dor dia e noite. Clama a Deus e não recebe resposta; sua harpa virou lamento.",
+   "licoes": [
+    "A perda da honra e o desprezo dos outros também fazem parte do sofrimento (30:9-10).",
+    "Jó fala com franqueza a Deus: \"clamo a ti, porém tu não me respondes\" (30:20).",
+    "Ele lembra que sempre chorou com os aflitos, e agora espera a mesma compaixão (30:25-26)."
+   ],
+   "reflexao": "Como você trata quem perdeu posição e prestígio?",
+   "quiz": [
+    {
+     "pergunta": "Em que se transformou a harpa de Jó?",
+     "opcoes": [
+      "Em lamentação",
+      "Em instrumento de festa",
+      "Em lenha",
+      "Em presente"
+     ],
+     "correta": 0,
+     "ref": "30:31"
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "titulo": "O juramento de inocência",
+   "chave": "31:6",
+   "resumo": "Jó faz uma série de juramentos, chamando sobre si maldições caso tenha pecado. Declara ter guardado os olhos da cobiça, respeitado os servos, alimentado o órfão, vestido o pobre, recusado confiar no ouro e acolhido o estrangeiro. Termina pedindo que o Todo-Poderoso lhe responda.",
+   "licoes": [
+    "A integridade começa no coração e nos olhos, não só nas ações visíveis (31:1, 31:7).",
+    "Servo e senhor foram feitos pelo mesmo Deus, por isso merecem o mesmo respeito (31:13-15).",
+    "Confiar no ouro e alegrar-se com a desgraça do inimigo são pecados que Jó rejeita (31:24-25, 31:29-30)."
+   ],
+   "reflexao": "Que \"pacto com seus olhos\" você precisa fazer?",
+   "quiz": [
+    {
+     "pergunta": "Com quem Jó diz ter feito um pacto?",
+     "opcoes": [
+      "Com seus amigos",
+      "Com seus olhos",
+      "Com o rei",
+      "Com seus servos"
+     ],
+     "correta": 1,
+     "ref": "31:1"
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "titulo": "Entra Eliú",
+   "chave": "32:8",
+   "resumo": "Surge Eliú, um jovem que esperou os mais velhos terminarem. Ele está irado com Jó, que se justifica mais que a Deus, e com os amigos, que o condenaram sem argumentos. Diz que a sabedoria vem do espírito que Deus dá, não apenas da idade.",
+   "licoes": [
+    "Saber esperar e ouvir antes de falar é sinal de respeito (32:4, 32:11).",
+    "A sabedoria é dom de Deus e não depende só da idade (32:8-9).",
+    "Eliú promete falar sem bajular ninguém (32:21-22)."
+   ],
+   "reflexao": "Você valoriza a sabedoria de quem é mais jovem que você?",
+   "quiz": [
+    {
+     "pergunta": "Por que Eliú esperou para falar?",
+     "opcoes": [
+      "Estava doente",
+      "Não tinha opinião",
+      "Os outros eram mais velhos",
+      "Estava viajando"
+     ],
+     "correta": 2,
+     "ref": "32:4"
+    }
+   ]
+  },
+  {
+   "n": 33,
+   "titulo": "Deus fala de muitas maneiras",
+   "chave": "33:14",
+   "resumo": "Eliú se dirige a Jó como igual, também formado do barro. Contesta a ideia de que Deus não responde: Deus fala por sonhos, por advertências e até pela dor, para afastar o homem do orgulho e da cova. Fala de um mediador, \"um dentre mil\", e de um resgate que traz a pessoa de volta à luz.",
+   "licoes": [
+    "Deus fala de várias maneiras, mesmo quando não percebemos (33:14-16).",
+    "O sofrimento pode ser usado por Deus para livrar alguém da soberba e da destruição (33:17-19).",
+    "Eliú fala de um intérprete e de um resgate que leva a pessoa a ver de novo a luz (33:23-24, 33:28)."
+   ],
+   "reflexao": "De que maneiras Deus pode estar falando com você agora?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Eliú, Deus fala em que situações?",
+     "opcoes": [
+      "Em sonho ou visão noturna",
+      "Só no templo",
+      "Apenas pelos reis",
+      "Nunca"
+     ],
+     "correta": 0,
+     "ref": "33:15"
+    }
+   ]
+  },
+  {
+   "n": 34,
+   "titulo": "Deus não faz injustiça",
+   "chave": "34:12",
+   "resumo": "Eliú convida os sábios a julgar as palavras de Jó. Defende que Deus jamais pratica o mal, paga a cada um segundo suas obras e não favorece o rico em vez do pobre. Conclui que Jó fala sem conhecimento e acrescenta rebeldia ao seu sofrimento.",
+   "licoes": [
+    "Deus é justo e não perverte o direito (34:10-12).",
+    "Deus não faz acepção de pessoas: ricos e pobres são obras de suas mãos (34:19).",
+    "Nada fica escondido dos olhos de Deus (34:21-22)."
+   ],
+   "reflexao": "Você confia na justiça de Deus mesmo quando não entende o que acontece?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Eliú, Deus valoriza mais o rico que o pobre?",
+     "opcoes": [
+      "Sim, sempre",
+      "Só nos dias de festa",
+      "Só os príncipes",
+      "Não, todos são obra de suas mãos"
+     ],
+     "correta": 3,
+     "ref": "34:19"
+    }
+   ]
+  },
+  {
+   "n": 35,
+   "titulo": "Deus que dá canções na noite",
+   "chave": "35:10",
+   "resumo": "Eliú pergunta se Jó acha sua justiça maior que a de Deus. Lembra que Deus, mais alto que os céus, não ganha nem perde com o pecado ou a justiça humana. Diz que muitos clamam na opressão, mas não buscam o Criador que dá canções na noite.",
+   "licoes": [
+    "Deus não depende de nós; nossas ações afetam sobretudo outras pessoas (35:6-8).",
+    "Deus é o Criador que \"dá canções na noite\", mesmo nas horas escuras (35:10).",
+    "Esperar em Deus é o caminho, pois o juízo está diante dele (35:14)."
+   ],
+   "reflexao": "Que \"canção na noite\" Deus já lhe deu num tempo difícil?",
+   "quiz": [
+    {
+     "pergunta": "Como Eliú descreve Deus neste capítulo?",
+     "opcoes": [
+      "O que dorme nas alturas",
+      "O que dá canções na noite",
+      "O que não ouve ninguém",
+      "O que só ama os sábios"
+     ],
+     "correta": 1,
+     "ref": "35:10"
+    }
+   ]
+  },
+  {
+   "n": 36,
+   "titulo": "Deus é grande e ensina pela aflição",
+   "chave": "36:15",
+   "resumo": "Eliú diz que tem mais a dizer em favor de Deus. Afirma que Deus não despreza ninguém, cuida do justo e usa a aflição para abrir o ouvido das pessoas e chamá-las ao arrependimento. Termina exaltando a grandeza de Deus na chuva, nas nuvens e nos relâmpagos.",
+   "licoes": [
+    "Deus é grande, mas não despreza ninguém (36:5).",
+    "A dor pode ser um meio pelo qual Deus nos ensina e nos liberta (36:15).",
+    "Deus é maior do que conseguimos entender; seus anos não se contam (36:26)."
+   ],
+   "reflexao": "O que você já aprendeu com Deus num tempo de aflição?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus faz com o aflito, segundo Eliú?",
+     "opcoes": [
+      "Abandona",
+      "Castiga mais",
+      "Ignora",
+      "Livra de sua aflição"
+     ],
+     "correta": 3,
+     "ref": "36:15"
+    }
+   ]
+  },
+  {
+   "n": 37,
+   "titulo": "Considera as maravilhas de Deus",
+   "chave": "37:14",
+   "resumo": "Eliú descreve o trovão, a neve, a chuva forte, o gelo e o redemoinho como obras da voz de Deus. Pede que Jó pare e considere as maravilhas divinas. Conclui que o Todo-Poderoso é inalcançável e justo, e por isso as pessoas o temem.",
+   "licoes": [
+    "A criação obedece à voz de Deus, da neve ao relâmpago (37:5-6).",
+    "Parar para contemplar as maravilhas de Deus muda nossa perspectiva (37:14).",
+    "Deus é grande em poder, mas não oprime ninguém em seu juízo (37:23)."
+   ],
+   "reflexao": "Quando foi a última vez que você parou para contemplar a obra de Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que Eliú pede que Jó faça?",
+     "opcoes": [
+      "Fuja",
+      "Ofereça sacrifícios",
+      "Considere as maravilhas de Deus",
+      "Chame seus amigos"
+     ],
+     "correta": 2,
+     "ref": "37:14"
+    }
+   ]
+  },
+  {
+   "n": 38,
+   "titulo": "O SENHOR responde do redemoinho",
+   "chave": "38:4",
+   "resumo": "Finalmente o SENHOR fala com Jó desde um redemoinho. Em vez de explicar o sofrimento, faz perguntas: onde estava Jó quando a terra foi fundada, quem pôs limites ao mar, quem governa a luz, a neve, a chuva e as estrelas. Termina perguntando quem alimenta os leões e os corvos.",
+   "licoes": [
+    "Deus responde a Jó; o silêncio de Deus não é definitivo (38:1).",
+    "As perguntas mostram que o ser humano conhece muito pouco do governo do mundo (38:4, 38:18).",
+    "Deus cuida até dos filhotes dos corvos, e Jesus fala de algo parecido em Lucas 12 (38:41)."
+   ],
+   "reflexao": "O que muda quando você lembra que Deus governa coisas que você nem imagina?",
+   "quiz": [
+    {
+     "pergunta": "De onde o SENHOR respondeu a Jó?",
+     "opcoes": [
+      "De um redemoinho",
+      "De uma sarça",
+      "Do templo",
+      "De uma nuvem de fogo"
+     ],
+     "correta": 0,
+     "ref": "38:1"
+    }
+   ]
+  },
+  {
+   "n": 39,
+   "titulo": "Os animais selvagens",
+   "chave": "39:19",
+   "resumo": "Deus continua suas perguntas mostrando animais que Jó não controla: cabras montesas, o asno selvagem, o boi selvagem, a avestruz, o cavalo de guerra, o gavião e a águia. Cada um vive de um jeito próprio, com dons dados por Deus.",
+   "licoes": [
+    "Deus conhece e sustenta a vida selvagem que o ser humano nem observa (39:1-2).",
+    "A criação tem liberdade e força que não servem ao homem, mas a Deus (39:9-12).",
+    "Até as diferenças estranhas entre os animais fazem parte da sabedoria do Criador (39:17-18)."
+   ],
+   "reflexao": "Que animal ou detalhe da natureza mais lembra você do cuidado de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Qual animal deixa seus ovos na terra e se esquece deles?",
+     "opcoes": [
+      "A águia",
+      "A avestruz",
+      "A cegonha",
+      "O gavião"
+     ],
+     "correta": 1,
+     "ref": "39:13-14"
+    }
+   ]
+  },
+  {
+   "n": 40,
+   "titulo": "Ponho a mão sobre a boca",
+   "chave": "40:4",
+   "resumo": "Deus desafia Jó a responder, e Jó reconhece que é pequeno e põe a mão sobre a boca. O SENHOR continua: pergunta se Jó o condenaria para se justificar e se teria poder para abater todos os soberbos. Depois apresenta o beemote, criatura enorme e forte que só o Criador domina.",
+   "licoes": [
+    "Diante de Deus, o silêncio humilde às vezes é a resposta mais sábia (40:4-5).",
+    "Não é preciso condenar a Deus para afirmar a própria inocência (40:8).",
+    "O beemote, obra-prima dos caminhos de Deus, mostra um poder que só o Criador controla (40:15, 40:19)."
+   ],
+   "reflexao": "Há algo em que você precisa parar de discutir com Deus e simplesmente confiar?",
+   "quiz": [
+    {
+     "pergunta": "O que Jó faz quando Deus o desafia a responder?",
+     "opcoes": [
+      "Foge",
+      "Oferece um sacrifício",
+      "Põe a mão sobre a boca",
+      "Chama os amigos"
+     ],
+     "correta": 2,
+     "ref": "40:4"
+    }
+   ]
+  },
+  {
+   "n": 41,
+   "titulo": "O leviatã",
+   "chave": "41:11",
+   "resumo": "Deus descreve o leviatã, uma criatura marinha poderosa que nenhum ser humano consegue pescar, domar ou ferir. Suas escamas são como escudos, sua boca solta fogo e ele não teme arma alguma. Se ninguém ousa enfrentar o leviatã, quem ousaria se opor ao seu Criador?",
+   "licoes": [
+    "Se o ser humano não domina uma criatura, menos ainda pode enfrentar o Criador (41:10).",
+    "Tudo o que existe debaixo dos céus pertence a Deus, e ele não deve nada a ninguém (41:11).",
+    "As forças que nos assustam continuam sob o governo de Deus (41:33-34)."
+   ],
+   "reflexao": "Que força ameaçadora em sua vida você precisa lembrar que está sob o governo de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Deus, a quem pertence tudo o que há debaixo dos céus?",
+     "opcoes": [
+      "A Deus",
+      "Aos reis",
+      "Ao leviatã",
+      "A Jó"
+     ],
+     "correta": 0,
+     "ref": "41:11"
+    }
+   ]
+  },
+  {
+   "n": 42,
+   "titulo": "Agora meus olhos te veem",
+   "chave": "42:5",
+   "resumo": "Jó reconhece que Deus tudo pode e que falou de coisas maravilhosas demais para ele; antes só ouvira falar de Deus, mas agora o vê. O SENHOR repreende os três amigos, que não falaram dele o que era correto, e manda que Jó ore por eles. Deus restaura Jó, dá-lhe o dobro dos bens, novos filhos e filhas, e ele morre velho e farto de dias.",
+   "licoes": [
+    "O encontro pessoal com Deus vale mais que todas as respostas: \"agora meus olhos te veem\" (42:5).",
+    "Deus diz que os amigos não falaram corretamente dele, ao contrário de Jó, que foi honesto em sua queixa (42:7).",
+    "A restauração começa quando Jó ora por quem o feriu (42:10)."
+   ],
+   "reflexao": "Você conhece a Deus só \"de ouvir falar\" ou de um encontro pessoal?",
+   "quiz": [
+    {
+     "pergunta": "Quando o SENHOR livrou Jó de seu infortúnio?",
+     "opcoes": [
+      "Quando ele ofereceu sacrifícios",
+      "Quando ele se calou",
+      "Quando os filhos voltaram",
+      "Enquanto orava por seus amigos"
+     ],
+     "correta": 3,
+     "ref": "42:10"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,545 @@
+{
+ "livro": "cantares",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:5-8",
+   "titulo": "A jovem morena das vinhas",
+   "descricao": "A jovem, queimada pelo sol por cuidar das vinhas, pergunta ao amado onde ele apascenta o rebanho.",
+   "alt": "Jovem de pele morena e lenço na cabeça, entre videiras, olhando ao longe para tendas de pastores.",
+   "prompt": "A young woman with sun-darkened skin and a simple headscarf stands among grapevines on a terraced hillside, shading her eyes as she looks toward distant black goat-hair tents of shepherds and a flock of goats; modest dress, warm midday light"
+  },
+  {
+   "id": "q02",
+   "capitulo": 2,
+   "ref": "2:8-13",
+   "titulo": "O inverno já passou",
+   "descricao": "O amado vem saltando sobre os montes como um corço, olha pela janela e a chama para ver a primavera chegar.",
+   "alt": "Rapaz junto a uma janela gradeada de uma casa de pedra chamando a amada, com campos floridos e figueiras ao fundo.",
+   "prompt": "A young shepherd in a short tunic stands outside the lattice window of a stone house, calling to his beloved who looks out shyly; behind him spring hills with wildflowers, a fig tree with green figs, blossoming vines and turtledoves; a gazelle on a distant ridge; fresh spring light"
+  },
+  {
+   "id": "q03",
+   "capitulo": 3,
+   "ref": "3:6-11",
+   "titulo": "O cortejo de Salomão",
+   "descricao": "Do deserto sobe, como colunas de fumaça perfumada, a liteira do rei Salomão, cercada por sessenta guerreiros.",
+   "alt": "Cortejo real com uma liteira dourada carregada por servos e escoltada por soldados, subindo do deserto entre nuvens de incenso.",
+   "prompt": "A royal wedding procession rising from the desert: an ornate palanquin of cedar with silver posts and purple cushions carried by bearers, escorted by sixty guards with sheathed swords, columns of fragrant incense smoke rising; women of Jerusalem watching from the city gate; golden dusk"
+  },
+  {
+   "id": "q04",
+   "capitulo": 4,
+   "ref": "4:12-16",
+   "titulo": "Jardim fechado, fonte selada",
+   "descricao": "O amado compara a amada a um jardim fechado e uma fonte selada, cheio de romãs, nardo, açafrão e mirra.",
+   "alt": "Jardim murado com uma fonte de pedra, romãzeiras e plantas aromáticas, com uma porta entreaberta.",
+   "prompt": "A walled garden of the ancient Near East with a sealed stone fountain at its centre, pomegranate trees in fruit, beds of saffron crocus, nard and myrrh shrubs, a gentle breeze moving the leaves; a wooden gate slightly ajar; dappled light, serene and lush"
+  },
+  {
+   "id": "q05",
+   "capitulo": 5,
+   "ref": "5:2-6",
+   "titulo": "A porta aberta tarde demais",
+   "descricao": "De noite, o amado bate à porta; ela hesita, depois abre com as mãos gotejando mirra, mas ele já tinha ido embora.",
+   "alt": "Jovem segurando uma lamparina diante de uma porta aberta à noite, olhando a rua vazia.",
+   "prompt": "At night a young woman in a modest long robe and shawl stands in an open doorway holding a small oil lamp, her face full of longing as she looks down an empty moonlit street; dew on the stone threshold; deep blue night"
+  },
+  {
+   "id": "q06",
+   "capitulo": 6,
+   "ref": "6:2-3",
+   "titulo": "O amado no jardim de lírios",
+   "descricao": "O amado desce ao seu jardim para colher lírios; ela declara: \"Eu sou do meu amado, e meu amado é meu\".",
+   "alt": "Jovem pastor colhendo lírios num jardim, observado com alegria pela amada.",
+   "prompt": "A young shepherd gathers white lilies among beds of spices in a garden, while his beloved watches joyfully from beneath a pomegranate tree, both modestly dressed; soft morning light"
+  },
+  {
+   "id": "q07",
+   "capitulo": 7,
+   "ref": "7:11-13",
+   "titulo": "Vamos ao campo",
+   "descricao": "A amada convida o amado a sair de madrugada às vinhas, para ver se as videiras e romãzeiras já floresceram.",
+   "alt": "Casal caminhando de mãos dadas ao amanhecer entre vinhas e romãzeiras floridas perto de uma aldeia.",
+   "prompt": "At dawn a young couple walks hand in hand along a path between flowering vineyards and budding pomegranate trees near a small village, mandrake plants by the path; mist in the valleys, soft pink light"
+  },
+  {
+   "id": "q08",
+   "capitulo": 8,
+   "ref": "8:5-7",
+   "titulo": "Forte como a morte é o amor",
+   "descricao": "A amada sobe do deserto apoiada no amado e pede: \"Põe-me como selo sobre o teu coração\".",
+   "alt": "Casal subindo do deserto, a mulher apoiada no braço do homem, com um selo de pedra pendurado ao pescoço dele.",
+   "prompt": "A young woman leans on the arm of her beloved as they walk up from the desert toward green hills, an engraved stone seal hanging on a cord at his chest; behind them a calm river; a bright warm flame-like sunset glowing in the sky; tender and dignified"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "vinha",
+   "termo": "Vinha",
+   "ref": "1:6",
+   "explicado": false,
+   "significado": "A vinha aparece como lugar de trabalho e de encontro, e também como imagem da própria jovem (\"minha vinha, que me pertence\", 1:6; 8:12). Na Bíblia, a vinha também representa Israel (Is 5)."
+  },
+  {
+   "id": "pomba",
+   "termo": "Pomba",
+   "ref": "2:14",
+   "explicado": false,
+   "significado": "O amado chama a amada de \"minha pomba\" e compara seus olhos a pombas. A imagem sugere ternura, beleza e fidelidade."
+  },
+  {
+   "id": "lirio",
+   "termo": "Lírio e rosa de Sarom",
+   "ref": "2:1",
+   "explicado": false,
+   "significado": "Ela se chama \"rosa de Sarom, lírio dos vales\": uma flor comum do campo. Ele responde que ela é como lírio entre espinhos (2:2). Muitos cristãos aplicaram depois \"rosa de Sarom\" a Cristo, mas no texto quem fala é a jovem."
+  },
+  {
+   "id": "macieira",
+   "termo": "Macieira",
+   "ref": "2:3",
+   "explicado": false,
+   "significado": "O amado é como a macieira entre as árvores do bosque: dá sombra e fruto doce. Em 8:5 a macieira é lugar de lembrança e de nascimento."
+  },
+  {
+   "id": "gazela",
+   "termo": "Corço e gazela",
+   "ref": "2:9",
+   "explicado": false,
+   "significado": "O amado salta sobre os montes como corço. No refrão, as filhas de Jerusalém juram pelas corças do campo, animais ligados à beleza e ao amor livre."
+  },
+  {
+   "id": "primavera",
+   "termo": "A primavera",
+   "ref": "2:11",
+   "explicado": false,
+   "significado": "O inverno passou, as flores aparecem, a figueira dá figos: a chegada da primavera acompanha o despertar do amor."
+  },
+  {
+   "id": "raposinhas",
+   "termo": "As raposinhas",
+   "ref": "2:15",
+   "explicado": false,
+   "significado": "As raposinhas estragam as vinhas em flor. Muitos leem como os pequenos problemas que ameaçam o amor; o texto não explica."
+  },
+  {
+   "id": "refrao",
+   "termo": "\"Não desperteis o amor\"",
+   "ref": "2:7",
+   "explicado": false,
+   "significado": "O refrão repetido (2:7; 3:5; 8:4) pede que não se desperte o amor antes do tempo. É um conselho de paciência e respeito ao momento certo."
+  },
+  {
+   "id": "jardim",
+   "termo": "Jardim fechado",
+   "ref": "4:12",
+   "explicado": false,
+   "significado": "A amada é um jardim fechado e uma fonte selada: imagem de intimidade guardada e exclusiva. Depois ela convida o amado a entrar no seu jardim (4:16)."
+  },
+  {
+   "id": "especiarias",
+   "termo": "Mirra, nardo e especiarias",
+   "ref": "4:14",
+   "explicado": false,
+   "significado": "Perfumes caros e exóticos enchem o livro. Indicam o valor, o prazer e a alegria do amor."
+  },
+  {
+   "id": "selo",
+   "termo": "Selo sobre o coração",
+   "ref": "8:6",
+   "explicado": false,
+   "significado": "O selo era usado no peito ou no braço e identificava o dono. Pedir para ser selo é pedir pertença total e permanente."
+  },
+  {
+   "id": "fogo-aguas",
+   "termo": "Fogo que muitas águas não apagam",
+   "ref": "8:7",
+   "explicado": false,
+   "significado": "O amor é como chama intensa que muitas águas não apagam. É a imagem mais forte do livro para a força do amor."
+  },
+  {
+   "id": "torre",
+   "termo": "Torre de Davi",
+   "ref": "4:4",
+   "explicado": false,
+   "significado": "O pescoço da amada é comparado à torre de Davi com escudos pendurados: imagem de dignidade e nobreza, não de dureza. As comparações do livro seguem o gosto poético do antigo Oriente."
+  },
+  {
+   "id": "rei",
+   "termo": "O rei Salomão",
+   "ref": "3:11",
+   "explicado": false,
+   "significado": "Salomão aparece como rei em seu casamento (3:11) e como dono de vinha (8:11-12). Alguns leem o livro como história de Salomão e da Sulamita; outros, como cânticos de um casal comum que se vê como rei e rainha."
+  },
+  {
+   "id": "esposo-deus",
+   "termo": "Esposo e esposa",
+   "ref": "4:8",
+   "explicado": false,
+   "significado": "O texto fala do amor entre homem e mulher. A leitura judaica antiga viu também o amor entre Deus e Israel; muitos cristãos veem o amor entre Cristo e a igreja. As duas leituras são complementares para muitos, mas não substituem o sentido direto."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "shir-hashirim",
+   "pt": "Cântico dos Cânticos",
+   "refs": [
+    "1:1"
+   ],
+   "hebraico": {
+    "lema": "שִׁיר הַשִּׁירִים",
+    "translit": "shir hashirim",
+    "strong": "H7892"
+   },
+   "grego": {
+    "lema": "ᾆσμα ᾀσμάτων",
+    "translit": "ásma asmátōn"
+   },
+   "sentido": "o cântico mais excelente",
+   "latim": {
+    "forma": "Canticum canticorum",
+    "nota": "Daí o nome \"Cânticos\" ou \"Cantares\"."
+   },
+   "outras": [],
+   "explicacao": "A forma \"cântico dos cânticos\" é um superlativo hebraico, como \"santo dos santos\": o mais belo de todos os cânticos.",
+   "interpretacao": false
+  },
+  {
+   "id": "dod",
+   "pt": "amado",
+   "refs": [
+    "1:14",
+    "2:16",
+    "5:10"
+   ],
+   "hebraico": {
+    "lema": "דּוֹד",
+    "translit": "dod",
+    "strong": "H1730"
+   },
+   "sentido": "amado, querido; no plural, carícias, amores",
+   "latim": {
+    "forma": "dilectus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A palavra aparece mais de trinta vezes. No plural (dodim) significa as expressões de amor (1:2 \"teu amor é melhor do que o vinho\"). O nome Davi vem da mesma raiz.",
+   "interpretacao": false
+  },
+  {
+   "id": "rayah",
+   "pt": "querida",
+   "refs": [
+    "1:15",
+    "2:10",
+    "6:4"
+   ],
+   "hebraico": {
+    "lema": "רַעְיָה",
+    "translit": "ra'yah",
+    "strong": "H7474"
+   },
+   "sentido": "companheira, amiga querida",
+   "latim": {
+    "forma": "amica mea",
+    "nota": "Amica: \"amiga\"."
+   },
+   "outras": [],
+   "explicacao": "É o modo como ele a chama: \"minha querida\". A raiz indica amizade e companheirismo, não só atração.",
+   "interpretacao": false
+  },
+  {
+   "id": "kallah",
+   "pt": "esposa",
+   "refs": [
+    "4:8",
+    "4:12",
+    "5:1"
+   ],
+   "hebraico": {
+    "lema": "כַּלָּה",
+    "translit": "kallah",
+    "strong": "H3618"
+   },
+   "sentido": "noiva, esposa",
+   "latim": {
+    "forma": "sponsa",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Aparece só nos capítulos 4–5, quando ele a chama de \"minha irmã, minha esposa\". \"Irmã\" era termo de carinho para a amada no antigo Oriente.",
+   "interpretacao": false
+  },
+  {
+   "id": "ahavah",
+   "pt": "amor",
+   "refs": [
+    "2:4",
+    "2:7",
+    "8:6",
+    "8:7"
+   ],
+   "hebraico": {
+    "lema": "אַהֲבָה",
+    "translit": "ahavah",
+    "strong": "H160"
+   },
+   "grego": {
+    "lema": "ἀγάπη",
+    "translit": "agápē",
+    "strong": "G26"
+   },
+   "sentido": "amor",
+   "latim": {
+    "forma": "fortis est ut mors dilectio",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "É a palavra do refrão \"não desperteis o amor\" e da grande afirmação de 8:6. A Septuaginta usa agápē, palavra que o Novo Testamento usaria muito.",
+   "interpretacao": false
+  },
+  {
+   "id": "chotam",
+   "pt": "selo",
+   "refs": [
+    "8:6"
+   ],
+   "hebraico": {
+    "lema": "חוֹתָם",
+    "translit": "chotam",
+    "strong": "H2368"
+   },
+   "sentido": "sinete, carimbo pessoal",
+   "latim": {
+    "forma": "pone me ut signaculum super cor tuum ut signaculum super brachium tuum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O selo levava a marca do dono e funcionava como assinatura. Era guardado junto ao corpo. A amada quer pertencer ao amado desse modo.",
+   "interpretacao": false
+  },
+  {
+   "id": "shalhevetyah",
+   "pt": "labaredas intensas",
+   "refs": [
+    "8:6"
+   ],
+   "hebraico": {
+    "lema": "שַׁלְהֶבֶתְיָה",
+    "translit": "shalhevetyah",
+    "strong": "H7957"
+   },
+   "sentido": "chama fortíssima; talvez \"chama do SENHOR\"",
+   "latim": {
+    "forma": "lampades eius lampades ignis atque flammarum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A palavra termina em -yah, que pode ser abreviação do nome de Deus, dando \"chama do SENHOR\", ou só reforço de intensidade. Seria a única menção a Deus no livro; os estudiosos discutem.",
+   "interpretacao": true
+  },
+  {
+   "id": "gan-naul",
+   "pt": "jardim fechado",
+   "refs": [
+    "4:12"
+   ],
+   "hebraico": {
+    "lema": "גַּן נָעוּל",
+    "translit": "gan na'ul",
+    "strong": "H1588, H5274"
+   },
+   "sentido": "jardim trancado",
+   "latim": {
+    "forma": "hortus conclusus soror mea sponsa, hortus conclusus, fons signatus",
+    "nota": "Tema de muitas pinturas medievais."
+   },
+   "outras": [],
+   "explicacao": "A expressão latina hortus conclusus virou tema famoso da arte medieval, muitas vezes ligado a Maria. No texto, é imagem da amada e de sua intimidade.",
+   "interpretacao": false
+  },
+  {
+   "id": "shulammit",
+   "pt": "Sulamita",
+   "refs": [
+    "6:13"
+   ],
+   "hebraico": {
+    "lema": "הַשּׁוּלַמִּית",
+    "translit": "hashulammit",
+    "strong": "H7759"
+   },
+   "sentido": "a sulamita",
+   "latim": {
+    "forma": "Sulamitis",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O sentido do nome é discutido: mulher de Suném, forma feminina de Salomão (Shelomoh), ou ligada a shalom, \"paz\".",
+   "interpretacao": true
+  },
+  {
+   "id": "chavatselet",
+   "pt": "rosa de Sarom",
+   "refs": [
+    "2:1"
+   ],
+   "hebraico": {
+    "lema": "חֲבַצֶּלֶת הַשָּׁרוֹן",
+    "translit": "chavatselet hasharon",
+    "strong": "H2261"
+   },
+   "sentido": "uma flor da planície de Sarom",
+   "latim": {
+    "forma": "Ego flos campi et lilium convallium",
+    "nota": "A Vulgata traduz \"flor do campo\"."
+   },
+   "outras": [],
+   "explicacao": "Ninguém sabe ao certo que flor era: talvez açafrão, narciso ou tulipa silvestre. Era uma flor simples da planície costeira, não a rosa de jardim.",
+   "interpretacao": false
+  },
+  {
+   "id": "yonah",
+   "pt": "pomba",
+   "refs": [
+    "1:15",
+    "2:14",
+    "5:2"
+   ],
+   "hebraico": {
+    "lema": "יוֹנָה",
+    "translit": "yonah",
+    "strong": "H3123"
+   },
+   "grego": {
+    "lema": "περιστερά",
+    "translit": "peristerá",
+    "strong": "G4058"
+   },
+   "sentido": "pomba",
+   "latim": {
+    "forma": "columba mea",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Termo de carinho repetido. O nome do profeta Jonas é a mesma palavra.",
+   "interpretacao": false
+  },
+  {
+   "id": "qinah",
+   "pt": "ciúme",
+   "refs": [
+    "8:6"
+   ],
+   "hebraico": {
+    "lema": "קִנְאָה",
+    "translit": "qin'ah",
+    "strong": "H7068"
+   },
+   "sentido": "zelo, ardor, ciúme",
+   "latim": {
+    "forma": "dura sicut inferus aemulatio",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Aqui não é desconfiança, e sim o zelo de quem não aceita perder quem ama. A Bíblia usa a mesma palavra para o zelo de Deus por seu povo.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "yadayim-akiva",
+   "titulo": "\"O Cântico é o santo dos santos\"",
+   "refs": [
+    "1:1"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Mishná, tratado Yadayim",
+   "referencia": "capítulo 3, mishná 5",
+   "data_fonte": "c. 200 d.C. (redação)",
+   "data_evento": "começo do séc. II d.C. (debate relatado)",
+   "resumo": "Rabi Akiva defende Cantares dizendo que todos os Escritos são santos, mas o Cântico dos Cânticos é o santo dos santos.",
+   "relacao": "Mostra que a inclusão de Cantares entre os livros sagrados foi discutida e firmemente defendida, já com uma leitura que via no livro o amor entre Deus e Israel.",
+   "grau": "documentado"
+  },
+  {
+   "id": "sinedrio-101a",
+   "titulo": "Contra cantar o Cântico em banquetes",
+   "refs": [
+    "1:1"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Talmude Babilônico, tratado Sinédrio",
+   "referencia": "folha 101a",
+   "data_fonte": "séc. III–VI d.C. (redação)",
+   "data_evento": "—",
+   "resumo": "Uma tradição antiga critica quem lê um verso do Cântico como canção profana ou o canta em banquetes.",
+   "relacao": "Indica que os poemas também eram cantados como canções de amor, e que os sábios queriam preservar seu caráter de Escritura.",
+   "grau": "associacao"
+  },
+  {
+   "id": "chester-beatty",
+   "titulo": "Canções de amor egípcias",
+   "refs": [
+    "2:8",
+    "4:12"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Papiro Chester Beatty I (canções de amor)",
+   "referencia": "Biblioteca Chester Beatty, Dublin",
+   "data_fonte": "c. 1150 a.C. (aprox.)",
+   "data_evento": "—",
+   "resumo": "Coletânea de poemas em que dois amantes se chamam de \"irmão\" e \"irmã\", falam de jardins, perfumes e da espera pelo encontro.",
+   "relacao": "Paralelo de gênero muito próximo: Cantares também usa \"irmã\" para a amada e imagens de jardim. Mostra que a poesia de amor era uma tradição antiga na região.",
+   "grau": "associacao"
+  },
+  {
+   "id": "qumran-cantares",
+   "titulo": "Cópias de Cantares em Qumran",
+   "refs": [
+    "1:1",
+    "4:12"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Manuscritos 4QCantª, 4QCantᵇ e 4QCantᶜ, caverna 4 de Qumran",
+   "referencia": "Manuscritos do Mar Morto",
+   "data_fonte": "séc. I a.C.–I d.C. (cópias)",
+   "data_evento": "descobertos em 1952",
+   "resumo": "Restos de três ou quatro cópias de Cantares. Algumas parecem abreviar o livro, saltando trechos.",
+   "relacao": "Confirmam que o livro era lido antes da era cristã; as cópias abreviadas levantam debates sobre seu uso, talvez em leitura litúrgica ou de estudo.",
+   "grau": "documentado"
+  },
+  {
+   "id": "origenes",
+   "titulo": "Orígenes e a leitura espiritual",
+   "refs": [
+    "1:2"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Orígenes de Alexandria, Comentário ao Cântico dos Cânticos",
+   "referencia": "preservado em parte na tradução latina de Rufino",
+   "data_fonte": "c. 240 d.C.",
+   "data_evento": "—",
+   "resumo": "Orígenes explica o Cântico como diálogo de amor entre Cristo e a igreja, e entre o Verbo e a alma.",
+   "relacao": "Essa obra marcou séculos de leitura cristã do livro. Ajuda a entender por que muitas igrejas leem Cantares também em sentido espiritual.",
+   "grau": "associacao"
+  },
+  {
+   "id": "tirza",
+   "titulo": "Tirza, cidade de beleza",
+   "refs": [
+    "6:4"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Escavações de Tell el-Far'ah (Norte)",
+   "referencia": "escavações de Roland de Vaux",
+   "data_fonte": "Idade do Ferro (séc. X–IX a.C.)",
+   "data_evento": "escavado de 1946 a 1960",
+   "resumo": "O sítio é identificado com Tirza, primeira capital do reino do norte antes de Samaria (1Rs 16:23-24).",
+   "relacao": "Em 6:4 a amada é comparada a Tirza e a Jerusalém, as duas capitais. Para alguns estudiosos, a menção a Tirza é indício de data antiga do poema; outros não aceitam esse argumento.",
+   "grau": "associacao"
+  }
+ ]
+}

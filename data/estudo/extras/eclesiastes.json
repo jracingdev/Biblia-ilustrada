@@ -1,0 +1,574 @@
+{
+ "livro": "eclesiastes",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:1-2",
+   "titulo": "O Pregador observa Jerusalém",
+   "descricao": "O Pregador, filho de Davi e rei em Jerusalém, começa com a frase que resume o livro: \"Futilidade das futilidades\".",
+   "alt": "Homem maduro em vestes reais, pensativo, olhando a cidade de Jerusalém do alto de um terraço.",
+   "prompt": "A mature king in simple royal robes and a thin gold circlet leans on the parapet of a palace terrace, looking pensively over the roofs of ancient Jerusalem in hazy afternoon light; a wisp of vapour drifts through the air before him"
+  },
+  {
+   "id": "q02",
+   "capitulo": 1,
+   "ref": "1:4-7",
+   "titulo": "O sol, o vento e os rios",
+   "descricao": "O sol nasce e se põe, o vento gira, os rios correm para o mar e o mar não se enche: tudo se repete.",
+   "alt": "Paisagem ampla com o sol nascendo, um rio correndo para o mar e árvores dobradas pelo vento.",
+   "prompt": "A vast landscape at sunrise: a river winding down from hills into a calm sea that never fills, wind bending trees along the shore, gulls circling; a small solitary figure sits on a rock watching; cyclical, contemplative mood"
+  },
+  {
+   "id": "q03",
+   "capitulo": 2,
+   "ref": "2:4-8",
+   "titulo": "As grandes obras do rei",
+   "descricao": "O Pregador construiu casas, plantou vinhas, jardins e pomares, fez tanques de água e juntou riquezas e cantores.",
+   "alt": "Jardins reais com tanques de água, árvores frutíferas e um palácio, com o rei observando.",
+   "prompt": "Lavish royal gardens with stone water pools irrigating rows of fruit trees and vineyards, a palace with colonnades behind, musicians playing under a pavilion; the king stands alone among the splendour with a thoughtful, unsatisfied expression; golden light"
+  },
+  {
+   "id": "q04",
+   "capitulo": 3,
+   "ref": "3:1-8",
+   "titulo": "Um tempo para tudo",
+   "descricao": "Há tempo de nascer e de morrer, de plantar e de arrancar, de chorar e de rir, de calar e de falar.",
+   "alt": "Cenas de uma aldeia: plantio e colheita, um bebê nos braços da mãe e um cortejo de luto ao longe.",
+   "prompt": "A panoramic village scene in ancient Israel showing life's seasons at once: farmers planting on one side and harvesting on the other, a mother holding a newborn, a quiet funeral procession in the distance, children dancing, an old man seated in silence; soft balanced light"
+  },
+  {
+   "id": "q05",
+   "capitulo": 4,
+   "ref": "4:9-12",
+   "titulo": "O cordão de três dobras",
+   "descricao": "Dois são melhores que um: se um cai, o outro o levanta; e o cordão de três dobras não se rompe depressa.",
+   "alt": "Viajante ajudando um companheiro caído a se levantar numa estrada pedregosa, com uma corda trançada em primeiro plano.",
+   "prompt": "On a rocky road a traveller reaches down to help his fallen companion to his feet, both in dusty travel cloaks; in the foreground a thick rope braided of three strands lies coiled over a stone; warm evening light"
+  },
+  {
+   "id": "q06",
+   "capitulo": 5,
+   "ref": "5:1-2",
+   "titulo": "Poucas palavras diante de Deus",
+   "descricao": "Ao entrar na casa de Deus, é melhor chegar para ouvir; que as palavras sejam poucas, porque Deus está nos céus.",
+   "alt": "Homem entrando no pátio do templo em silêncio, de cabeça baixa, enquanto outros oferecem sacrifícios ao fundo.",
+   "prompt": "A man in a plain robe walks quietly up the steps into the temple courtyard with head bowed and hand on his chest, listening, while in the background others noisily bring offerings; a calm shaft of light from above"
+  },
+  {
+   "id": "q07",
+   "capitulo": 7,
+   "ref": "7:2",
+   "titulo": "A casa do luto",
+   "descricao": "É melhor ir à casa do luto do que à casa do banquete, porque ali se pensa no fim de todos.",
+   "alt": "Família reunida em luto numa casa simples, enquanto pela janela se vê uma festa ruidosa.",
+   "prompt": "Inside a modest house a family sits in mourning around a covered bier, a lamp burning, faces thoughtful; through the open window across the street a noisy banquet with musicians is visible; contrast of quiet and revelry, subdued light"
+  },
+  {
+   "id": "q08",
+   "capitulo": 9,
+   "ref": "9:7-9",
+   "titulo": "Come o teu pão com alegria",
+   "descricao": "O Pregador aconselha comer o pão com alegria, vestir roupas brancas e aproveitar a vida com a pessoa amada.",
+   "alt": "Casal em roupas brancas partilhando pão e vinho sob uma videira.",
+   "prompt": "A married couple dressed in clean white garments sit beneath a grapevine arbour sharing bread and wine at a simple table, oil glistening on their hair, smiling at each other; children playing nearby; warm late-afternoon light"
+  },
+  {
+   "id": "q09",
+   "capitulo": 9,
+   "ref": "9:14-16",
+   "titulo": "O pobre sábio que salvou a cidade",
+   "descricao": "Uma pequena cidade cercada por um grande rei foi salva pela sabedoria de um homem pobre, mas ninguém se lembrou dele.",
+   "alt": "Homem pobre falando aos anciãos sobre o muro de uma pequena cidade cercada por um grande exército.",
+   "prompt": "On the wall of a small walled town a poor man in a patched cloak points and advises the anxious elders, while a great army camp with siege mounds surrounds the town below at a distance; later light, no fighting shown"
+  },
+  {
+   "id": "q10",
+   "capitulo": 11,
+   "ref": "11:4-6",
+   "titulo": "Semeia pela manhã",
+   "descricao": "Quem fica olhando o vento não semeia; o Pregador aconselha semear de manhã e à tarde, porque ninguém sabe o que vai dar certo.",
+   "alt": "Agricultor espalhando sementes num campo arado, com nuvens e vento no céu.",
+   "prompt": "A farmer strides across a ploughed field scattering seed from a bag at his side, his cloak blowing in the wind under shifting clouds; morning light breaking through; a second figure hesitates at the field's edge looking at the sky"
+  },
+  {
+   "id": "q11",
+   "capitulo": 12,
+   "ref": "12:1-7",
+   "titulo": "Antes que se rompa o fio de prata",
+   "descricao": "O Pregador descreve a velhice e a morte com imagens: a amendoeira em flor, o vaso quebrado junto à fonte, a roda partida junto ao poço.",
+   "alt": "Idoso sentado junto a um poço com uma roda quebrada e um cântaro partido, sob uma amendoeira florida.",
+   "prompt": "An aged man with white hair sits beside an old well where the wooden wheel is broken and a clay pitcher lies shattered; above him an almond tree in white blossom; a silver cord and golden bowl lie on the stone; twilight, serene melancholy"
+  },
+  {
+   "id": "q12",
+   "capitulo": 12,
+   "ref": "12:9-12",
+   "titulo": "O Pregador ensina o povo",
+   "descricao": "O Pregador ouviu, investigou e pôs em ordem muitos provérbios, procurando palavras agradáveis e verdadeiras.",
+   "alt": "Mestre idoso escrevendo e ensinando a um grupo de jovens, com rolos e uma vara de pastor ao lado.",
+   "prompt": "An elderly teacher sits with a scroll and reed pen, ordering proverbs, while young students listen around him; a shepherd's goad and nails rest against the wall; afternoon light through a window"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "hevel",
+   "termo": "Sopro, vapor (hevel)",
+   "ref": "1:2",
+   "explicado": false,
+   "significado": "A palavra que a Bíblia Livre traduz por \"futilidade\" quer dizer literalmente sopro ou vapor: algo que não se segura e logo passa. O livro não diz que a vida não vale nada, e sim que ela é passageira e escapa ao controle humano."
+  },
+  {
+   "id": "sol",
+   "termo": "Debaixo do sol",
+   "ref": "1:3",
+   "explicado": false,
+   "significado": "A expressão aparece cerca de trinta vezes e marca o ponto de vista do livro: a vida observada aqui na terra. Muitos leitores veem nela o limite do que se vê sem olhar para além da morte."
+  },
+  {
+   "id": "vento",
+   "termo": "Correr atrás do vento",
+   "ref": "1:14",
+   "explicado": false,
+   "significado": "Tentar segurar o vento é impossível. O Pregador usa a imagem para descrever esforços que não dão o resultado prometido."
+  },
+  {
+   "id": "ciclo",
+   "termo": "Rios, sol e vento em círculo",
+   "ref": "1:7",
+   "explicado": false,
+   "significado": "O mundo gira e repete seus movimentos sem chegar a um fim (1:5-7). A imagem mostra que \"nada há de novo debaixo do sol\" (1:9)."
+  },
+  {
+   "id": "jardins",
+   "termo": "Jardins e obras do rei",
+   "ref": "2:5",
+   "explicado": false,
+   "significado": "Casas, jardins, tanques e riquezas mostram o rei que tentou tudo. O próprio texto avalia: tudo era como perseguir o vento (2:11)."
+  },
+  {
+   "id": "tempos",
+   "termo": "Um tempo para tudo",
+   "ref": "3:1",
+   "explicado": false,
+   "significado": "Os 14 pares de opostos (nascer/morrer, plantar/arrancar...) mostram que a vida tem estações que o homem não controla. Deus faz tudo belo a seu tempo (3:11)."
+  },
+  {
+   "id": "eternidade",
+   "termo": "A eternidade no coração",
+   "ref": "3:11",
+   "explicado": false,
+   "significado": "Deus pôs no coração humano o anseio pela eternidade, mas o homem não consegue entender toda a obra de Deus. É uma das frases mais lembradas do livro."
+  },
+  {
+   "id": "po",
+   "termo": "O pó",
+   "ref": "3:20",
+   "explicado": false,
+   "significado": "Todos vieram do pó e voltam ao pó, ecoando Gênesis 3:19. No fim, o livro acrescenta que o espírito volta a Deus que o deu (12:7)."
+  },
+  {
+   "id": "cordao",
+   "termo": "Cordão de três dobras",
+   "ref": "4:12",
+   "explicado": false,
+   "significado": "O versículo fala de companheirismo: dois resistem melhor que um. Muitos aplicam o \"terceiro fio\" ao casamento com Deus no centro, mas isso é aplicação posterior, não o sentido direto."
+  },
+  {
+   "id": "espinhos",
+   "termo": "Espinhos debaixo da panela",
+   "ref": "7:6",
+   "explicado": true,
+   "significado": "O riso dos tolos é como espinhos que estalam no fogo: barulho e pouca brasa. O texto mesmo faz a comparação e conclui que isso também é sopro."
+  },
+  {
+   "id": "roupas-brancas",
+   "termo": "Roupas brancas e óleo",
+   "ref": "9:8",
+   "explicado": false,
+   "significado": "Roupas brancas e óleo na cabeça eram sinais de festa e alegria. O Pregador convida a desfrutar a vida como dom de Deus (9:7)."
+  },
+  {
+   "id": "pao-aguas",
+   "termo": "Pão sobre as águas",
+   "ref": "11:1",
+   "explicado": false,
+   "significado": "\"Lança teu pão sobre as águas\" é entendido por muitos como incentivo à generosidade, por outros como investir com ousadia no comércio por mar. O texto não explica."
+  },
+  {
+   "id": "amendoeira",
+   "termo": "A amendoeira em flor",
+   "ref": "12:5",
+   "explicado": false,
+   "significado": "Na alegoria da velhice, a amendoeira florida (de flores brancas) é geralmente lida como os cabelos brancos. Outras imagens: guardas trêmulos (mãos e pernas), moedores que cessam (dentes)."
+  },
+  {
+   "id": "fio-prata",
+   "termo": "Fio de prata, vaso de ouro, roda do poço",
+   "ref": "12:6",
+   "explicado": false,
+   "significado": "Imagens de algo precioso e frágil que se rompe: o fim da vida. O versículo seguinte explica o sentido geral: o pó volta à terra e o espírito volta a Deus (12:7)."
+  },
+  {
+   "id": "aguilhoes",
+   "termo": "Aguilhões e pregos",
+   "ref": "12:11",
+   "explicado": true,
+   "significado": "As palavras dos sábios são como aguilhões que empurram e pregos que fixam. O próprio texto aplica a imagem às palavras dos sábios, dadas por um único Pastor."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "hevel",
+   "pt": "futilidade, vaidade",
+   "refs": [
+    "1:2",
+    "12:8"
+   ],
+   "hebraico": {
+    "lema": "הֶבֶל",
+    "translit": "hevel",
+    "strong": "H1892"
+   },
+   "grego": {
+    "lema": "ματαιότης",
+    "translit": "mataiótēs",
+    "strong": "G3153"
+   },
+   "sentido": "sopro, vapor, névoa",
+   "latim": {
+    "forma": "Vanitas vanitatum, dixit Ecclesiastes, vanitas vanitatum, omnia vanitas",
+    "nota": "Da Vulgata vem a famosa expressão \"vaidade das vaidades\"."
+   },
+   "outras": [],
+   "explicacao": "Hevel aparece mais de trinta vezes. É o mesmo nome de Abel, cuja vida passou depressa. \"Futilidade das futilidades\" é um superlativo hebraico: o sopro mais passageiro de todos.",
+   "interpretacao": false
+  },
+  {
+   "id": "qohelet",
+   "pt": "Pregador",
+   "refs": [
+    "1:1",
+    "1:12",
+    "12:9"
+   ],
+   "hebraico": {
+    "lema": "קֹהֶלֶת",
+    "translit": "qohelet",
+    "strong": "H6953"
+   },
+   "grego": {
+    "lema": "Ἐκκλησιαστής",
+    "translit": "Ekklēsiastḗs"
+   },
+   "sentido": "o que reúne a assembleia; o que fala à assembleia",
+   "latim": {
+    "forma": "Verba Ecclesiastae filii David regis Hierusalem",
+    "nota": "A Vulgata manteve o nome grego, Ecclesiastes."
+   },
+   "outras": [],
+   "explicacao": "Vem de qahal, \"assembleia\". A Septuaginta traduziu por Ekklesiastes, \"membro ou orador da assembleia\", e daí vem o nome do livro em português.",
+   "interpretacao": false
+  },
+  {
+   "id": "yitron",
+   "pt": "proveito",
+   "refs": [
+    "1:3",
+    "2:11"
+   ],
+   "hebraico": {
+    "lema": "יִתְרוֹן",
+    "translit": "yitron",
+    "strong": "H3504"
+   },
+   "sentido": "lucro, o que sobra, vantagem",
+   "latim": {
+    "forma": "Quid habet amplius homo de universo labore suo",
+    "nota": "Amplius: \"a mais\"."
+   },
+   "outras": [],
+   "explicacao": "Palavra do mundo do comércio: o saldo positivo. O Pregador pergunta se, no fim, sobra algum lucro de todo o trabalho humano.",
+   "interpretacao": false
+  },
+  {
+   "id": "amal",
+   "pt": "trabalho",
+   "refs": [
+    "1:3",
+    "2:11",
+    "2:24"
+   ],
+   "hebraico": {
+    "lema": "עָמָל",
+    "translit": "'amal",
+    "strong": "H5999"
+   },
+   "sentido": "labuta cansativa, fadiga",
+   "latim": {
+    "forma": "labor",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Não é qualquer trabalho, e sim a labuta que cansa. O livro alterna entre lamentar esse esforço e recebê-lo como dom quando há alegria nele (2:24).",
+   "interpretacao": false
+  },
+  {
+   "id": "et",
+   "pt": "tempo",
+   "refs": [
+    "3:1",
+    "3:11",
+    "9:11"
+   ],
+   "hebraico": {
+    "lema": "עֵת",
+    "translit": "'et",
+    "strong": "H6256"
+   },
+   "grego": {
+    "lema": "καιρός",
+    "translit": "kairós",
+    "strong": "G2540"
+   },
+   "sentido": "momento certo, ocasião",
+   "latim": {
+    "forma": "Omnia tempus habent",
+    "nota": "Frase famosa da Vulgata: \"Todas as coisas têm seu tempo\"."
+   },
+   "outras": [],
+   "explicacao": "Não é o tempo do relógio, e sim a ocasião própria de cada coisa. Em 9:11 aparece \"o tempo e a ocasião imprevista\" que alcança a todos.",
+   "interpretacao": false
+  },
+  {
+   "id": "olam",
+   "pt": "eternidade",
+   "refs": [
+    "3:11"
+   ],
+   "hebraico": {
+    "lema": "עֹלָם",
+    "translit": "'olam",
+    "strong": "H5769"
+   },
+   "sentido": "duração sem fim, tempo remoto",
+   "latim": {
+    "forma": "et mundum tradidit disputationi eorum",
+    "nota": "A Vulgata entendeu \"o mundo\" e traduziu mundum."
+   },
+   "outras": [],
+   "explicacao": "A frase de 3:11 é difícil: \"pôs a eternidade no coração deles\". Alguns traduzem \"pôs o mundo\" ou \"pôs o mistério\". A maioria das versões modernas mantém \"eternidade\".",
+   "interpretacao": true
+  },
+  {
+   "id": "reut-ruach",
+   "pt": "aflição de espírito",
+   "refs": [
+    "1:14",
+    "2:11"
+   ],
+   "hebraico": {
+    "lema": "רְעוּת רוּחַ",
+    "translit": "re'ut ruach",
+    "strong": "H7469, H7307"
+   },
+   "sentido": "perseguir o vento; desejo de vento",
+   "latim": {
+    "forma": "afflictio spiritus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A expressão é traduzida como \"aflição de espírito\" ou \"correr atrás do vento\". Ruach pode ser vento ou espírito; o contexto favorece a imagem do vento que não se pega.",
+   "interpretacao": true
+  },
+  {
+   "id": "cheleq",
+   "pt": "parte, porção",
+   "refs": [
+    "2:10",
+    "3:22",
+    "9:9"
+   ],
+   "hebraico": {
+    "lema": "חֵלֶק",
+    "translit": "cheleq",
+    "strong": "H2506"
+   },
+   "sentido": "a parte que cabe a alguém, como herança",
+   "latim": {
+    "forma": "pars",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O Pregador não acha \"lucro\" que fique, mas reconhece uma \"parte\": o prazer de comer, beber e trabalhar com alegria, recebido como dom de Deus.",
+   "interpretacao": false
+  },
+  {
+   "id": "miqreh",
+   "pt": "destino comum",
+   "refs": [
+    "2:14",
+    "3:19"
+   ],
+   "hebraico": {
+    "lema": "מִקְרֶה",
+    "translit": "miqreh",
+    "strong": "H4745"
+   },
+   "sentido": "o que acontece, o que sobrevém",
+   "latim": {
+    "forma": "interitus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O sábio e o tolo, o homem e o animal: a todos acontece a mesma coisa, a morte. É uma das observações mais duras do livro.",
+   "interpretacao": false
+  },
+  {
+   "id": "simchah",
+   "pt": "alegria",
+   "refs": [
+    "2:24",
+    "8:15",
+    "9:7"
+   ],
+   "hebraico": {
+    "lema": "שִׂמְחָה",
+    "translit": "simchah",
+    "strong": "H8057"
+   },
+   "sentido": "alegria, contentamento",
+   "latim": {
+    "forma": "laetitia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Apesar do tom grave, o livro repete sete vezes o convite à alegria simples como dom de Deus (por exemplo 2:24; 3:22; 8:15; 9:7). Muitos estudiosos veem aí uma chave de leitura.",
+   "interpretacao": false
+  },
+  {
+   "id": "yare-elohim",
+   "pt": "teme a Deus",
+   "refs": [
+    "5:7",
+    "12:13"
+   ],
+   "hebraico": {
+    "lema": "אֶת־הָאֱלֹהִים יְרָא",
+    "translit": "et-ha'elohim yera",
+    "strong": "H3372"
+   },
+   "sentido": "reverencia a Deus",
+   "latim": {
+    "forma": "Deum time et mandata eius observa",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "É a conclusão do livro: teme a Deus e guarda os mandamentos, porque Deus julgará toda obra (12:13-14).",
+   "interpretacao": false
+  },
+  {
+   "id": "shemesh",
+   "pt": "sol",
+   "refs": [
+    "1:3",
+    "1:9"
+   ],
+   "hebraico": {
+    "lema": "תַּחַת הַשָּׁמֶשׁ",
+    "translit": "tachat hashemesh",
+    "strong": "H8121"
+   },
+   "sentido": "debaixo do sol",
+   "latim": {
+    "forma": "sub sole",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A expressão \"debaixo do sol\" é quase exclusiva de Eclesiastes na Bíblia. Indica a vida humana na terra, vista com olhos de observador.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "gilgames-siduri",
+   "titulo": "O conselho de Siduri no Épico de Gilgamés",
+   "refs": [
+    "9:7",
+    "9:8",
+    "9:9"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Épico de Gilgamés, versão babilônica antiga",
+   "referencia": "tabuleta de Sippar (conhecida como fragmento Meissner), coluna iii",
+   "data_fonte": "c. 1800 a.C. (cópia)",
+   "data_evento": "—",
+   "resumo": "A taberneira Siduri diz a Gilgamés, que busca a vida eterna, que a vida sem fim é dos deuses; ao homem cabe comer, festejar, vestir roupas limpas, lavar a cabeça e alegrar a esposa.",
+   "relacao": "A semelhança com Eclesiastes 9:7-9 é notável e muito citada. Mostra um tema comum no antigo Oriente. Eclesiastes, porém, liga a alegria ao dom de Deus e termina com o temor a ele.",
+   "grau": "associacao"
+  },
+  {
+   "id": "harpista",
+   "titulo": "A Canção do Harpista",
+   "refs": [
+    "2:24",
+    "9:7"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Canção do Harpista (do túmulo do rei Intef)",
+   "referencia": "Papiro Harris 500, Museu Britânico",
+   "data_fonte": "c. 1300 a.C. (cópia); composição anterior",
+   "data_evento": "—",
+   "resumo": "Canção egípcia de banquete que lembra que ninguém volta da morte e convida a aproveitar o dia, pôr perfume e vestir linho fino.",
+   "relacao": "Paralelo com o convite do Pregador a desfrutar a vida diante da morte certa. É paralelo de tema, não fonte do livro.",
+   "grau": "associacao"
+  },
+  {
+   "id": "qumran-eclesiastes",
+   "titulo": "Uma das cópias mais antigas de Eclesiastes",
+   "refs": [
+    "1:1"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Manuscrito 4QQohª (4Q109), caverna 4 de Qumran",
+   "referencia": "Manuscritos do Mar Morto",
+   "data_fonte": "c. 175–150 a.C. (datação pela escrita; debatida)",
+   "data_evento": "descoberto em 1952",
+   "resumo": "Fragmentos de Eclesiastes estão entre os manuscritos mais antigos achados em Qumran.",
+   "relacao": "Dão um limite para a data do livro: ele já existia e era copiado no séc. II a.C. Quem defende data tardia e quem defende autoria salomônica usam esse dado de modos diferentes.",
+   "grau": "documentado"
+  },
+  {
+   "id": "yadayim",
+   "titulo": "O debate sobre a santidade de Eclesiastes",
+   "refs": [
+    "1:1",
+    "12:13"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Mishná, tratado Yadayim",
+   "referencia": "capítulo 3, mishná 5",
+   "data_fonte": "c. 200 d.C. (redação)",
+   "data_evento": "séc. I–II d.C. (debates relatados)",
+   "resumo": "A Mishná registra que as escolas de Shammai e Hillel discordavam sobre se Eclesiastes \"torna as mãos impuras\", expressão para livro sagrado.",
+   "relacao": "Mostra que a aceitação do livro foi discutida no judaísmo antigo, até ser confirmada. O mesmo trecho trata de Cantares.",
+   "grau": "documentado"
+  },
+  {
+   "id": "shabat-30b",
+   "titulo": "\"Quiseram esconder o livro de Coélet\"",
+   "refs": [
+    "12:13",
+    "12:14"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Talmude Babilônico, tratado Shabat",
+   "referencia": "folha 30b",
+   "data_fonte": "séc. III–VI d.C. (redação)",
+   "data_evento": "—",
+   "resumo": "Os sábios contam que se pensou em esconder Eclesiastes porque suas palavras pareciam se contradizer, mas ele foi mantido porque começa e termina com palavras da Lei.",
+   "relacao": "Antigo testemunho de como o fim do livro (teme a Deus e guarda os mandamentos) foi lido como chave para entender o resto.",
+   "grau": "associacao"
+  }
+ ]
+}

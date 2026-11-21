@@ -1,0 +1,143 @@
+{
+ "livro": "sofonias",
+ "nome": "Sofonias",
+ "subtitulo": "O dia do SENHOR e a alegria de Deus no seu povo",
+ "introducao": "Sofonias anuncia o dia do SENHOR como juízo sobre Judá e sobre as nações por causa da idolatria, da violência e da indiferença espiritual. Ele chama os humildes a buscarem a Deus enquanto há tempo. O livro termina com uma das imagens mais ternas da Bíblia: Deus cantando de alegria pelo seu povo restaurado.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Sofonias, descendente de um Ezequias, possivelmente o rei (1:1)"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Nos dias do rei Josias, por volta de 640–620 a.C., provavelmente antes ou no início de suas reformas (1:1)"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Jerusalém e Judá"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Profecia de juízo e salvação"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "3 capítulos e 53 versículos"
+  }
+ ],
+ "chave": "3:17",
+ "temas": [
+  "O dia do SENHOR",
+  "Contra a fé dividida e a acomodação",
+  "Buscar justiça e mansidão",
+  "Um remanescente humilde",
+  "Deus se alegra no seu povo"
+ ],
+ "cristo": "A promessa do Rei que está \"no meio de ti\" encontra eco em Jesus, Deus conosco. A reunião de povos com lábios purificados para invocar o nome do SENHOR antecipa a igreja formada por pessoas de todas as nações.",
+ "secoes": [
+  {
+   "id": "juizo-sobre-juda",
+   "titulo": "Juízo sobre Judá",
+   "capitulos": [
+    1
+   ],
+   "resumo": "O dia do SENHOR contra a idolatria e a indiferença."
+  },
+  {
+   "id": "chamado-e-nacoes",
+   "titulo": "Chamado aos mansos e juízo das nações",
+   "capitulos": [
+    2
+   ],
+   "resumo": "Convite a buscar o SENHOR e oráculos contra os vizinhos."
+  },
+  {
+   "id": "jerusalem-e-restauracao",
+   "titulo": "Jerusalém julgada e restaurada",
+   "capitulos": [
+    3
+   ],
+   "resumo": "A cidade é corrigida e Deus se alegra no seu povo."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "O grande dia do SENHOR está perto",
+   "chave": "1:14",
+   "resumo": "Sofonias profetiza nos dias do rei Josias. Deus anuncia um juízo amplo sobre a terra e, especialmente, sobre Judá e Jerusalém, por causa da adoração a Baal, aos astros e a Milcom, misturada com o culto ao SENHOR. Deus fará busca em Jerusalém com lâmpadas contra os acomodados que acham que ele não age. O dia do SENHOR será de angústia e trevas, e nem prata nem ouro livrarão.",
+   "licoes": [
+    "Deus rejeita a fé dividida, que jura pelo SENHOR e por outros deuses ao mesmo tempo (1:5).",
+    "Afastar-se de Deus inclui simplesmente deixar de buscá-lo (1:6).",
+    "A indiferença que diz \"Deus nem faz bem nem mal\" é perigosa (1:12).",
+    "No dia do juízo, a riqueza não salva ninguém (1:18)."
+   ],
+   "reflexao": "Há sinais de acomodação espiritual na sua vida?",
+   "quiz": [
+    {
+     "pergunta": "Com que Deus diz que fará busca em Jerusalém?",
+     "opcoes": [
+      "Com espadas",
+      "Com trombetas",
+      "Com redes",
+      "Com lâmpadas"
+     ],
+     "correta": 3,
+     "ref": "1:12"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Buscai ao SENHOR, vós mansos",
+   "chave": "2:3",
+   "resumo": "Antes que o dia da ira chegue, Sofonias chama o povo a se reunir e convida os mansos da terra a buscar o SENHOR, a justiça e a humildade. Em seguida, anuncia juízo sobre as nações vizinhas: filisteus, Moabe e Amom, cuxitas e Assíria. Nínive, a cidade orgulhosa que dizia \"não há outra como eu\", se tornará deserto.",
+   "licoes": [
+    "Ainda há tempo de buscar a Deus antes do juízo (2:2-3).",
+    "Deus valoriza a justiça e a mansidão (2:3).",
+    "O orgulho e o desprezo pelo povo de Deus são julgados (2:10).",
+    "A cidade que se achava única e segura acaba em ruínas (2:15)."
+   ],
+   "reflexao": "O que significa, para você, buscar a mansidão?",
+   "quiz": [
+    {
+     "pergunta": "O que dizia Nínive em seu coração?",
+     "opcoes": [
+      "Nenhuma outra há como eu sou",
+      "Eu sou do SENHOR",
+      "Eu me arrependerei",
+      "Eu sou pequena"
+     ],
+     "correta": 0,
+     "ref": "2:15"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "O SENHOR se alegra em ti",
+   "chave": "3:17",
+   "resumo": "Jerusalém é chamada de cidade opressora: não ouve, não confia no SENHOR, e seus líderes, juízes, profetas e sacerdotes são corruptos. Mas, depois do juízo, Deus dará lábios puros aos povos e deixará um povo humilde que confia no seu nome. O livro termina com um cântico de alegria: o SENHOR, Rei de Israel, está no meio do seu povo e se alegra nele com júbilo.",
+   "licoes": [
+    "Deus permanece justo mesmo quando os líderes falham (3:3-5).",
+    "Deus deseja povos de todas as nações invocando o seu nome (3:9).",
+    "O remanescente fiel é humilde e confia no nome do SENHOR (3:12).",
+    "Deus não só salva, mas se alegra com seu povo e o aquieta em amor (3:17)."
+   ],
+   "reflexao": "Como muda o seu dia saber que Deus se alegra em você?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o capítulo 3, o que o SENHOR fará com seu povo \"com júbilo\"?",
+     "opcoes": [
+      "Afastá-lo para longe",
+      "Julgá-lo de novo",
+      "Encher-se de alegria por causa dele",
+      "Esquecê-lo"
+     ],
+     "correta": 2,
+     "ref": "3:17"
+    }
+   ]
+  }
+ ]
+}

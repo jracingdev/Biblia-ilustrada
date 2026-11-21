@@ -1,0 +1,194 @@
+{
+ "livro": "1-tessalonicenses",
+ "nome": "1 Tessalonicenses",
+ "subtitulo": "Fé, amor e esperança enquanto esperamos Jesus",
+ "introducao": "Uma das primeiras cartas de Paulo, escrita a uma igreja jovem que tinha recebido o evangelho em meio à perseguição. Paulo agradece pela fé deles, relembra seu ministério carinhoso e os encoraja a viver em santidade. Também responde a dúvidas sobre os cristãos que morreram e sobre a volta de Jesus.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Paulo, com Silvano e Timóteo (1:1)"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Por volta de 50–51 d.C.; está entre os escritos mais antigos do Novo Testamento"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Provavelmente escrita em Corinto, pouco depois de Paulo passar por Atenas (3:1)"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "A igreja de Tessalônica, na Macedônia (1:1)"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Carta"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "5 capítulos e 89 versículos"
+  }
+ ],
+ "chave": "4:16-17",
+ "temas": [
+  "Fé, amor e esperança em ação",
+  "O cuidado pastoral de Paulo",
+  "Santidade no dia a dia",
+  "A esperança na volta de Jesus",
+  "Vigilância como filhos da luz"
+ ],
+ "cristo": "A carta lembra que Jesus morreu e ressuscitou e que nos livra da ira futura (1:10, 4:14). A esperança cristã é estar com o Senhor para sempre, porque ele morreu por nós para que vivamos com ele (4:17, 5:10).",
+ "secoes": [
+  {
+   "id": "memoria",
+   "titulo": "Gratidão e memórias",
+   "capitulos": [
+    1,
+    2,
+    3
+   ],
+   "resumo": "A fé dos tessalonicenses, o ministério de Paulo e as notícias de Timóteo."
+  },
+  {
+   "id": "exortacao",
+   "titulo": "Vida santa e esperança",
+   "capitulos": [
+    4,
+    5
+   ],
+   "resumo": "Santidade, a vinda do Senhor e exortações finais."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Uma igreja exemplar",
+   "chave": "1:9-10",
+   "resumo": "Paulo, Silvano e Timóteo agradecem a Deus pela fé ativa, pelo amor trabalhador e pela esperança perseverante dos tessalonicenses. O evangelho chegou a eles com poder e com o Espírito Santo, e eles o receberam com alegria mesmo em meio à aflição. Sua conversão, deixando os ídolos para servir ao Deus vivo e esperar a volta de Jesus, tornou-se conhecida em toda parte.",
+   "licoes": [
+    "Fé, amor e esperança se mostram em obras, trabalho e perseverança (1:3).",
+    "O evangelho não é só palavra, mas poder do Espírito Santo (1:5).",
+    "Uma igreja fiel se torna exemplo para outras (1:7-8).",
+    "A conversão é deixar os ídolos para servir ao Deus vivo e esperar o Filho dos céus (1:9-10)."
+   ],
+   "reflexao": "Que \"ídolos\" você precisa deixar para servir somente ao Deus vivo?",
+   "quiz": [
+    {
+     "pergunta": "Para quem os tessalonicenses se tornaram exemplo?",
+     "opcoes": [
+      "Para os gálatas",
+      "Para os judeus de Jerusalém",
+      "Para os crentes da Macedônia e Acaia",
+      "Para os romanos"
+     ],
+     "correta": 2,
+     "ref": "1:7"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "O ministério de Paulo entre eles",
+   "chave": "2:8",
+   "resumo": "Paulo lembra como, depois de sofrer em Filipos, pregou em Tessalônica com ousadia, sem engano, lisonja ou ganância, buscando agradar a Deus. Foi carinhoso como uma mãe e encorajador como um pai, e trabalhou noite e dia para não ser um peso. Ele agradece porque receberam a mensagem como palavra de Deus e conta que deseja muito revê-los, pois são sua alegria e coroa.",
+   "licoes": [
+    "O verdadeiro ministério busca agradar a Deus, e não às pessoas (2:4).",
+    "Compartilhar o evangelho inclui compartilhar a própria vida (2:7-8).",
+    "A palavra de Deus age eficazmente em quem a recebe com fé (2:13).",
+    "As pessoas que ajudamos na fé são nossa alegria e coroa diante de Jesus (2:19-20)."
+   ],
+   "reflexao": "Com quem você tem compartilhado não só palavras, mas a sua vida?",
+   "quiz": [
+    {
+     "pergunta": "Com que imagens Paulo descreve seu cuidado com os tessalonicenses?",
+     "opcoes": [
+      "Como um pastor e um soldado",
+      "Como um mestre e um servo",
+      "Como um rei e um juiz",
+      "Como uma mãe e um pai"
+     ],
+     "correta": 3,
+     "ref": "2:7-11"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Notícias de Timóteo",
+   "chave": "3:12-13",
+   "resumo": "Preocupado com as perseguições que os tessalonicenses sofriam, Paulo enviou Timóteo de Atenas para fortalecê-los na fé. Timóteo voltou com boas notícias sobre a fé e o amor deles, e Paulo se sentiu consolado em meio às próprias aflições. Ele ora para revê-los e para que o Senhor os faça crescer no amor e os fortaleça em santidade até a vinda de Jesus.",
+   "licoes": [
+    "As aflições fazem parte da vida cristã, e Paulo havia avisado sobre elas (3:3-4).",
+    "Boas notícias sobre a fé dos irmãos trazem consolo e vida (3:6-8).",
+    "Paulo ora para que o amor cresça e transborde para todos (3:12).",
+    "O alvo é estar irrepreensível em santidade na vinda de Jesus (3:13)."
+   ],
+   "reflexao": "Por quem você pode orar hoje pedindo que cresça no amor?",
+   "quiz": [
+    {
+     "pergunta": "De que cidade Paulo enviou Timóteo a Tessalônica?",
+     "opcoes": [
+      "Atenas",
+      "Filipos",
+      "Bereia",
+      "Corinto"
+     ],
+     "correta": 0,
+     "ref": "3:1-2"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Santidade e a esperança na volta de Jesus",
+   "chave": "4:16-17",
+   "resumo": "Paulo exorta os tessalonicenses a viverem para agradar a Deus em santidade, evitando a imoralidade sexual, amando os irmãos e trabalhando com as próprias mãos. Em seguida consola os que choravam pelos cristãos que já tinham morrido: assim como Jesus morreu e ressuscitou, Deus trará com ele os que morreram. Na vinda do Senhor, os mortos em Cristo ressuscitarão primeiro, e os vivos serão arrebatados com eles para estar com o Senhor para sempre; os cristãos interpretam de formas diferentes os detalhes desse evento.",
+   "licoes": [
+    "A vontade de Deus é a nossa santificação (4:3, 4:7).",
+    "O amor fraterno deve crescer cada vez mais (4:9-10).",
+    "Uma vida tranquila e trabalhadora dá bom testemunho aos de fora (4:11-12).",
+    "Os cristãos choram seus mortos, mas com esperança, pois estarão com o Senhor para sempre (4:13-14, 4:17)."
+   ],
+   "reflexao": "Como a esperança da volta de Jesus consola você diante da perda de alguém?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Paulo, quem ressuscitará primeiro na vinda do Senhor?",
+     "opcoes": [
+      "Os apóstolos",
+      "Os mortos em Cristo",
+      "Os profetas",
+      "Os vivos"
+     ],
+     "correta": 1,
+     "ref": "4:16"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "Filhos da luz",
+   "chave": "5:16-18",
+   "resumo": "O dia do Senhor virá como um ladrão de noite, de surpresa, mas os cristãos são filhos da luz e devem viver vigilantes e sóbrios, vestidos com fé, amor e esperança. Deus não os destinou para a ira, mas para a salvação por meio de Jesus. Paulo dá exortações finais: respeitar os líderes, cuidar dos fracos, não retribuir o mal, alegrar-se sempre, orar sem cessar, dar graças em tudo e examinar tudo.",
+   "licoes": [
+    "O dia do Senhor virá de surpresa, por isso devemos estar vigilantes (5:2, 5:6).",
+    "Deus nos destinou para a salvação, por meio de Jesus, que morreu por nós (5:9-10).",
+    "A comunidade cuida de todos: adverte, consola, apoia e tem paciência (5:14).",
+    "Alegria constante, oração contínua e gratidão em tudo são a vontade de Deus para nós (5:16-18)."
+   ],
+   "reflexao": "Em que circunstância difícil você pode começar a dar graças hoje?",
+   "quiz": [
+    {
+     "pergunta": "Como Paulo diz que virá o dia do Senhor?",
+     "opcoes": [
+      "No sábado",
+      "Com aviso prévio",
+      "Como um ladrão de noite",
+      "Depois de mil anos"
+     ],
+     "correta": 2,
+     "ref": "5:2"
+    }
+   ]
+  }
+ ]
+}

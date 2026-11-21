@@ -1,0 +1,511 @@
+{
+ "grupos": [
+  {
+   "id": "etica-proximo",
+   "titulo": "Amor ao próximo e ética",
+   "resumo": "Leis que tratam do que se passa dentro da pessoa e entre vizinhos: não odiar no coração, falar com franqueza em vez de guardar mágoa, não se vingar, não mentir, não fazer o mal às escondidas. Quase todas estão em Levítico 19, o capítulo que começa com \"Santos sereis\" e repete \"Eu sou o SENHOR\". Este grupo completa as leis sociais já registradas em outros grupos (amar o próximo e o estrangeiro, surdo e cego, idoso, boatos, sangue do próximo, achados).",
+   "subgrupos": [
+    {
+     "id": "principios",
+     "titulo": "O princípio: ser santo"
+    },
+    {
+     "id": "coracao",
+     "titulo": "Ódio, repreensão, vingança e rancor"
+    },
+    {
+     "id": "verdade",
+     "titulo": "Verdade e males às escondidas"
+    }
+   ]
+  }
+ ],
+ "leis": [
+  {
+   "id": "d-ser-santos",
+   "grupo": "etica-proximo",
+   "subgrupo": "principios",
+   "titulo": "Ser santo, porque o SENHOR é santo",
+   "tipo": "positivo",
+   "texto": "Israel deve ser santo, isto é, separado para Deus e diferente nas práticas, porque o próprio SENHOR é santo. A ordem abre o capítulo das leis sobre o próximo (Lv 19) e volta como resumo de leis de alimentos e de conduta sexual.",
+   "refs": [
+    "levitico 19:2"
+   ],
+   "paralelos": [
+    "levitico 11:44-45",
+    "levitico 20:7",
+    "levitico 20:26"
+   ],
+   "quem": "toda a congregação de Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "É um princípio geral, sem pena própria; as penas estão nas leis particulares que ele resume."
+   },
+   "associacoes": [
+    {
+     "texto": "Pedro cita a frase para os cristãos: \"Sede santos, porque eu sou santo\", aplicada a todo o comportamento.",
+     "refs": [
+      "1-pedro 1:15-16"
+     ]
+    }
+   ],
+   "motivo": "\"Porque santo sou eu o SENHOR vosso Deus\" (Lv 19:2); \"vos separei dos povos, para que sejais meus\" (Lv 20:26).",
+   "nota": "Muitos leem esta frase como o título das leis de Lv 19-20, e não como uma lei a mais.",
+   "fonte_extra": [
+    {
+     "fonte": "Maimônides, Sefer HaMitzvot",
+     "referencia": "Princípio (Shoresh) 4: ordens gerais que abrangem toda a Torá, como \"sede santos\", não entram na contagem dos 613",
+     "data": "c. 1170 d.C."
+    }
+   ]
+  },
+  {
+   "id": "d-nao-odiar-no-coracao",
+   "grupo": "etica-proximo",
+   "subgrupo": "coracao",
+   "titulo": "Não odiar o irmão no coração",
+   "tipo": "negativo",
+   "texto": "Não alimentar ódio escondido contra o irmão. A lei alcança o sentimento guardado por dentro, não só o ato.",
+   "refs": [
+    "levitico 19:17"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena humana (o sentimento não é julgável em tribunal); o versículo seguinte termina com \"Eu sou o SENHOR\"."
+   },
+   "casos": [
+    {
+     "descricao": "Absalão odeia Amnom pelo estupro de Tamar, mas \"não falou com ele nem mal nem bem\"; dois anos depois manda matá-lo. É o caminho que a lei quer cortar: ódio calado que vira homicídio.",
+     "refs": [
+      "2-samuel 13:22",
+      "2-samuel 13:28-29"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Provérbios: quem esconde o ódio tem lábios mentirosos.",
+     "refs": [
+      "proverbios 10:18",
+      "proverbios 26:24-26"
+     ]
+    },
+    {
+     "texto": "Jesus liga a ira contra o irmão ao mandamento de não matar; João diz que quem odeia o irmão é homicida.",
+     "refs": [
+      "mateus 5:21-22",
+      "1-joao 3:15",
+      "1-joao 2:9-11"
+     ]
+    }
+   ],
+   "nota": "Esta lei e as três seguintes desdobram Lv 19:17-18, que outro grupo deste estudo registra em conjunto (amar o próximo como a si mesmo).",
+   "rambam": "N 302",
+   "fonte_extra": [
+    {
+     "fonte": "Maimônides, Sefer HaMitzvot",
+     "referencia": "lista dos 613 mandamentos (contagem rabínica; Talmude, Makot 23b)",
+     "data": "c. 1170 d.C."
+    }
+   ]
+  },
+  {
+   "id": "d-repreender-o-proximo",
+   "grupo": "etica-proximo",
+   "subgrupo": "coracao",
+   "titulo": "Repreender o próximo com franqueza",
+   "tipo": "positivo",
+   "texto": "Em vez de guardar ódio, falar abertamente com o próximo que errou, \"para não levar pecado por causa dele\" (o texto pode significar não se tornar cúmplice do erro dele, ou não pecar contra ele ao repreender).",
+   "refs": [
+    "levitico 19:17"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada; quem se cala \"leva pecado\" (culpa diante de Deus)."
+   },
+   "casos": [
+    {
+     "descricao": "O profeta Natã repreende o rei Davi face a face por Bate-Seba e Urias: \"Tu és aquele homem\".",
+     "refs": [
+      "2-samuel 12:7"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Provérbios elogia a repreensão aberta; o salmista aceita a repreensão do justo como óleo na cabeça.",
+     "refs": [
+      "proverbios 27:5-6",
+      "salmos 141:5"
+     ]
+    },
+    {
+     "texto": "Ezequiel, como sentinela, responde pelo perverso que não avisou.",
+     "refs": [
+      "ezequiel 3:18-19"
+     ]
+    },
+    {
+     "texto": "Jesus manda repreender o irmão primeiro a sós e perdoar se ele se arrepender; Paulo pede que se restaure com mansidão.",
+     "refs": [
+      "mateus 18:15",
+      "lucas 17:3",
+      "galatas 6:1"
+     ]
+    }
+   ],
+   "rambam": "P 205",
+   "fonte_extra": [
+    {
+     "fonte": "Maimônides, Sefer HaMitzvot",
+     "referencia": "lista dos 613 mandamentos (contagem rabínica; Talmude, Makot 23b)",
+     "data": "c. 1170 d.C."
+    },
+    {
+     "fonte": "Talmude Babilônico",
+     "referencia": "Arakhin 16b (repreender até muitas vezes, mas sem envergonhar em público; tradição posterior)",
+     "data": "c. séc. V-VI d.C."
+    },
+    {
+     "fonte": "Maimônides, Sefer HaMitzvot",
+     "referencia": "conta à parte, a partir do mesmo versículo, a proibição de envergonhar o próximo (N 303; leitura rabínica de \"não levarás pecado por causa dele\")",
+     "data": "c. 1170 d.C."
+    }
+   ]
+  },
+  {
+   "id": "d-nao-se-vingar",
+   "grupo": "etica-proximo",
+   "subgrupo": "coracao",
+   "titulo": "Não se vingar",
+   "tipo": "negativo",
+   "texto": "Não devolver o mal recebido por conta própria contra \"os filhos de teu povo\". A frase seguinte dá a alternativa: amar o próximo como a si mesmo.",
+   "refs": [
+    "levitico 19:18"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena; \"Eu sou o SENHOR\". A vingança pertence a Deus (Dt 32:35)."
+   },
+   "casos": [
+    {
+     "descricao": "Davi poupa Saul duas vezes, deixando o juízo com o SENHOR: \"vingue-me de ti o SENHOR; porém minha mão não será contra ti\".",
+     "refs": [
+      "1-samuel 24:10-12",
+      "1-samuel 26:9-11"
+     ]
+    },
+    {
+     "descricao": "Abigail impede Davi de \"vingar-se por sua própria mão\" contra Nabal, e Davi agradece a Deus por isso.",
+     "refs": [
+      "1-samuel 25:32-34"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Provérbios: não diga \"devolverei o mal\"; espere pelo SENHOR.",
+     "refs": [
+      "proverbios 20:22",
+      "proverbios 24:29"
+     ]
+    },
+    {
+     "texto": "Paulo: \"Não vos vingueis\", citando Dt 32:35, e manda vencer o mal com o bem; Jesus fala de não revidar.",
+     "refs": [
+      "romanos 12:17-21",
+      "deuteronomio 32:35",
+      "mateus 5:38-39"
+     ]
+    }
+   ],
+   "nota": "A lei não anula a justiça pública: tribunais, restituições e o \"vingador do sangue\" têm regras próprias em outras leis; o que se proíbe é a revanche pessoal.",
+   "rambam": "N 304",
+   "fonte_extra": [
+    {
+     "fonte": "Maimônides, Sefer HaMitzvot",
+     "referencia": "lista dos 613 mandamentos (contagem rabínica; Talmude, Makot 23b)",
+     "data": "c. 1170 d.C."
+    },
+    {
+     "fonte": "Talmude Babilônico",
+     "referencia": "Yoma 23a (exemplo: negar um favor a quem antes o negou é vingança; fazê-lo jogando isso na cara é guardar rancor; tradição posterior)",
+     "data": "c. séc. V-VI d.C."
+    }
+   ]
+  },
+  {
+   "id": "d-nao-guardar-rancor",
+   "grupo": "etica-proximo",
+   "subgrupo": "coracao",
+   "titulo": "Não guardar rancor",
+   "tipo": "negativo",
+   "texto": "Não manter guardada a ofensa recebida contra os do próprio povo, mesmo sem chegar a revidar.",
+   "refs": [
+    "levitico 19:18"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena; \"Eu sou o SENHOR\"."
+   },
+   "associacoes": [
+    {
+     "texto": "José, após a morte de Jacó, não cobra dos irmãos o mal que lhe fizeram (episódio anterior à lei de Moisés, lido como exemplo).",
+     "refs": [
+      "genesis 50:15-21"
+     ]
+    },
+    {
+     "texto": "Paulo pede que se tire toda amargura e que se perdoe como Deus perdoou; Hebreus alerta contra a \"raiz de amargura\".",
+     "refs": [
+      "efesios 4:31-32",
+      "colossenses 3:13",
+      "hebreus 12:15"
+     ]
+    }
+   ],
+   "rambam": "N 305",
+   "fonte_extra": [
+    {
+     "fonte": "Maimônides, Sefer HaMitzvot",
+     "referencia": "lista dos 613 mandamentos (contagem rabínica; Talmude, Makot 23b)",
+     "data": "c. 1170 d.C."
+    },
+    {
+     "fonte": "Talmude Babilônico",
+     "referencia": "Yoma 23a (distinção entre vingança e rancor; tradição posterior)",
+     "data": "c. séc. V-VI d.C."
+    }
+   ]
+  },
+  {
+   "id": "d-nao-enganar-nem-mentir",
+   "grupo": "etica-proximo",
+   "subgrupo": "verdade",
+   "titulo": "Não enganar nem mentir ao próximo",
+   "tipo": "negativo",
+   "texto": "Ao lado de \"não furtareis\", Levítico proíbe enganar o próximo e mentir a ele. O contexto é sobretudo o de bens e negócios (negar o que se deve, iludir), mas a frase é ampla.",
+   "refs": [
+    "levitico 19:11"
+   ],
+   "paralelos": [
+    "levitico 6:2-3"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "restituicao",
+    "descricao": "Quando a mentira serve para negar um depósito, um achado ou uma dívida, quem confessa devolve tudo com um quinto a mais e traz oferta pela culpa (Lv 6:2-7).",
+    "refs": [
+     "levitico 6:2-3"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Geazi mente a Eliseu para esconder os presentes que tomou de Naamã e fica leproso.",
+     "refs": [
+      "2-reis 5:25-27"
+     ]
+    },
+    {
+     "descricao": "Ananias mente sobre o valor da propriedade vendida; Pedro diz que ele mentiu \"a Deus\".",
+     "refs": [
+      "atos 5:3-4"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Zacarias: falai verdade cada um com seu próximo; o Salmo 15 descreve quem fala a verdade de coração.",
+     "refs": [
+      "zacarias 8:16-17",
+      "salmos 15:2-3"
+     ]
+    },
+    {
+     "texto": "Paulo: deixai a mentira e falai a verdade cada um a seu próximo.",
+     "refs": [
+      "efesios 4:25",
+      "colossenses 3:9"
+     ]
+    }
+   ],
+   "nota": "Outro grupo deste estudo registra o mesmo versículo sob \"não furtar\"; aqui fica a parte sobre engano e mentira.",
+   "fonte_extra": [
+    {
+     "fonte": "Maimônides, Sefer HaMitzvot",
+     "referencia": "conta \"não enganareis\" e \"não mentireis\" de Lv 19:11 como dois mandamentos negativos sobre negar dinheiro alheio e jurar falsamente sobre ele (leitura rabínica; numeração não indicada aqui)",
+     "data": "c. 1170 d.C."
+    }
+   ]
+  },
+  {
+   "id": "d-nao-ferir-ocultamente",
+   "grupo": "etica-proximo",
+   "subgrupo": "verdade",
+   "titulo": "Não ferir o próximo às escondidas",
+   "tipo": "negativo",
+   "texto": "Na lista de maldições lida pelos levitas entre os montes Gerizim e Ebal, é maldito quem fere o próximo em segredo. Como outras da lista, visa o crime que escapa às testemunhas e ao tribunal.",
+   "refs": [
+    "deuteronomio 27:24"
+   ],
+   "quem": "todo Israel (o povo responde \"Amém\")",
+   "condicao": "Proclamada na cerimônia de Siquém, ao entrar na terra (Dt 27:11-14).",
+   "sancao": {
+    "tipo": "maldicao",
+    "descricao": "\"Maldito o que ferir a seu próximo ocultamente\"; o povo confirma com \"Amém\". O juízo fica com Deus, porque o ato é secreto.",
+    "refs": [
+     "deuteronomio 27:24"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Joabe mata Abner e Amasa à traição, fingindo paz; Davi pede a Salomão que não o deixe impune, e Salomão manda executá-lo.",
+     "refs": [
+      "2-samuel 3:27",
+      "2-samuel 20:9-10",
+      "1-reis 2:5-6",
+      "1-reis 2:31-33"
+     ]
+    },
+    {
+     "descricao": "Davi faz Urias morrer na batalha por carta secreta; Natã anuncia: \"tu o fizeste em secreto; mas eu farei isto diante de todo Israel\".",
+     "refs": [
+      "2-samuel 11:14-17",
+      "2-samuel 12:9-12"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Salmos e profetas descrevem quem mata ou arma ciladas às escondidas e quem fala paz com a boca enquanto trama por dentro.",
+     "refs": [
+      "salmos 10:8-9",
+      "salmos 101:5",
+      "jeremias 9:8"
+     ]
+    }
+   ],
+   "motivo": "O próprio padrão das maldições: atos feitos \"em oculto\" (compare Dt 27:15).",
+   "fonte_extra": [
+    {
+     "fonte": "Rashi",
+     "referencia": "comentário a Dt 27:24 (lê \"ferir ocultamente\" também como difamar o próximo pelas costas; tradição posterior)",
+     "data": "c. 1100 d.C."
+    }
+   ]
+  },
+  {
+   "id": "d-circuncidar-coracao",
+   "grupo": "deus-fe",
+   "subgrupo": "unico-deus",
+   "titulo": "Circuncidar o coração",
+   "tipo": "positivo",
+   "texto": "Circuncidar o \"prepúcio do coração\" e não endurecer mais a cerviz: a obediência que vem de dentro, não só do sinal no corpo.",
+   "refs": [
+    "deuteronomio 10:16"
+   ],
+   "paralelos": [
+    "deuteronomio 30:6"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana."
+   },
+   "associacoes": [
+    {
+     "texto": "Jeremias retoma a imagem, e Paulo fala da circuncisão \"do coração, no espírito\".",
+     "refs": [
+      "jeremias 4:4",
+      "romanos 2:29"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d-ser-integro",
+   "grupo": "deus-fe",
+   "subgrupo": "ocultismo",
+   "titulo": "Ser íntegro com o SENHOR",
+   "tipo": "positivo",
+   "texto": "Depois de proibir adivinhos e feiticeiros, a lei manda ser íntegro (inteiro, sem divisão) com o SENHOR, confiando nele e não em práticas ocultas.",
+   "refs": [
+    "deuteronomio 18:13"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana."
+   },
+   "associacoes": [
+    {
+     "texto": "Deus pede o mesmo a Abraão: \"anda diante de mim, e sê íntegro\".",
+     "refs": [
+      "genesis 17:1"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d-escrever-lei-nas-pedras",
+   "grupo": "deus-fe",
+   "subgrupo": "estudo-sinais",
+   "titulo": "Escrever a lei em pedras caiadas ao entrar na terra",
+   "tipo": "positivo",
+   "texto": "Ao passar o Jordão, levantar pedras grandes, rebocá-las com cal e escrever nelas \"todas as palavras desta lei muito claramente\", no monte Ebal, junto com um altar; e realizar a cerimônia das bênçãos (Gerizim) e maldições (Ebal).",
+   "refs": [
+    "deuteronomio 27:2-8"
+   ],
+   "paralelos": [
+    "deuteronomio 11:29",
+    "deuteronomio 27:11-14"
+   ],
+   "quem": "todo Israel (uma vez, na entrada da terra)",
+   "condicao": "ao entrar na terra",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena."
+   },
+   "casos": [
+    {
+     "descricao": "Josué cumpre a ordem: constrói o altar no Ebal, escreve a lei nas pedras e lê bênçãos e maldições diante do povo.",
+     "refs": [
+      "josue 8:30-35"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d-confirmar-a-lei",
+   "grupo": "deus-fe",
+   "subgrupo": "estudo-sinais",
+   "titulo": "Confirmar as palavras da lei para cumpri-las",
+   "tipo": "positivo",
+   "texto": "A última das doze maldições do Ebal resume todas: \"Maldito o que não confirmar as palavras desta lei para as cumprir\", e o povo responde \"Amém\".",
+   "refs": [
+    "deuteronomio 27:26"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "maldicao",
+    "descricao": "Maldição pronunciada pelo povo diante de Deus.",
+    "refs": [
+     "deuteronomio 27:26"
+    ]
+   },
+   "associacoes": [
+    {
+     "texto": "Paulo cita este versículo (pela Bíblia grega) ao falar da lei e da maldição que Cristo tomou sobre si.",
+     "refs": [
+      "galatas 3:10",
+      "galatas 3:13"
+     ]
+    }
+   ]
+  }
+ ]
+}

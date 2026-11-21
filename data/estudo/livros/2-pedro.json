@@ -1,0 +1,143 @@
+{
+ "livro": "2-pedro",
+ "nome": "2 Pedro",
+ "subtitulo": "Crescer na graça e esperar o dia do Senhor",
+ "introducao": "Escrita como uma despedida, 2 Pedro chama os cristãos a crescerem na fé e a se lembrarem das verdades que receberam. A carta alerta contra falsos mestres que negavam o Senhor e zombavam da promessa de sua volta. Ela reafirma a confiabilidade das Escrituras e a certeza de novos céus e nova terra.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Apresenta-se como Simão Pedro (1:1); a autoria é bastante debatida entre os estudiosos"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Se de Pedro, pouco antes de sua morte, por volta de 64–68 d.C.; outros propõem data posterior"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "Cristãos que já tinham recebido uma carta anterior de Pedro (3:1)"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Carta de despedida"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "3 capítulos e 61 versículos"
+  }
+ ],
+ "chave": "3:18",
+ "temas": [
+  "Crescimento nas virtudes cristãs",
+  "A confiabilidade das Escrituras e dos apóstolos",
+  "Discernimento diante de falsos mestres",
+  "A paciência de Deus e a volta de Jesus",
+  "Vida santa à espera de novos céus e nova terra"
+ ],
+ "cristo": "Pedro testemunha a glória de Jesus no monte e chama-o \"nosso Deus e Salvador Jesus Cristo\" (1:1, 1:16-17). A carta termina convidando a crescer no conhecimento dele, a quem pertence a glória agora e para sempre (3:18).",
+ "secoes": [
+  {
+   "id": "crescimento",
+   "titulo": "Crescer na fé",
+   "capitulos": [
+    1
+   ],
+   "resumo": "As virtudes cristãs e a confiabilidade da palavra."
+  },
+  {
+   "id": "falsos-mestres",
+   "titulo": "Falsos mestres",
+   "capitulos": [
+    2
+   ],
+   "resumo": "Alerta contra quem distorce a verdade e o julgamento de Deus."
+  },
+  {
+   "id": "volta",
+   "titulo": "A volta do Senhor",
+   "capitulos": [
+    3
+   ],
+   "resumo": "Resposta aos zombadores e chamado à santidade."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Crescer na fé e confiar na palavra",
+   "chave": "1:5-7",
+   "resumo": "Pedro lembra que o poder de Deus nos deu tudo o que é necessário para a vida e a piedade, e chama os leitores a acrescentar à fé virtude, conhecimento, domínio próprio, perseverança, piedade, fraternidade e amor. Sabendo que sua morte está próxima, quer deixá-los bem lembrados dessas verdades. Ele afirma que não seguiu fábulas, pois foi testemunha ocular da glória de Jesus no monte santo, e que as Escrituras proféticas vieram de Deus, por homens movidos pelo Espírito Santo.",
+   "licoes": [
+    "Deus nos deu tudo o que precisamos para uma vida de piedade (1:3).",
+    "A fé deve crescer em virtudes concretas, até chegar ao amor (1:5-7).",
+    "O evangelho não se baseia em fábulas, mas em testemunhas oculares (1:16-18).",
+    "A profecia das Escrituras veio de Deus, por homens movidos pelo Espírito Santo (1:20-21)."
+   ],
+   "reflexao": "Qual virtude da lista de Pedro você mais precisa acrescentar à sua fé?",
+   "quiz": [
+    {
+     "pergunta": "Onde Pedro diz ter ouvido a voz do céu sobre Jesus?",
+     "opcoes": [
+      "No mar da Galileia",
+      "No Jordão",
+      "No santo monte",
+      "No Templo"
+     ],
+     "correta": 2,
+     "ref": "1:17-18"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Alerta contra falsos mestres",
+   "chave": "2:9",
+   "resumo": "Assim como houve falsos profetas em Israel, surgirão falsos mestres que introduzirão heresias, negarão o Senhor e explorarão as pessoas por ganância. Pedro lembra que Deus julgou os anjos que pecaram, o mundo no dilúvio e Sodoma e Gomorra, mas livrou Noé e Ló. Os falsos mestres são descritos como arrogantes, imorais e gananciosos, como Balaão; prometem liberdade, mas são escravos da corrupção.",
+   "licoes": [
+    "Falsos mestres agem de forma disfarçada e por ganância (2:1-3).",
+    "O Senhor sabe livrar os piedosos e julgar os injustos, como fez com Noé e Ló (2:5-9).",
+    "Quem promete liberdade sem Cristo é, na verdade, escravo da corrupção (2:19).",
+    "Voltar à antiga vida depois de conhecer a Cristo é como o cão que volta ao vômito (2:20-22)."
+   ],
+   "reflexao": "Como você tem se protegido de ensinos que distorcem o evangelho?",
+   "quiz": [
+    {
+     "pergunta": "Qual profeta é citado como exemplo de quem amou o pagamento da injustiça?",
+     "opcoes": [
+      "Elias",
+      "Natã",
+      "Jonas",
+      "Balaão"
+     ],
+     "correta": 3,
+     "ref": "2:15"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "A promessa da vinda do Senhor",
+   "chave": "3:9",
+   "resumo": "Pedro avisa que nos últimos dias surgirão zombadores perguntando onde está a promessa da vinda de Jesus. Ele responde que para o Senhor um dia é como mil anos, e que a demora é paciência, pois Deus não quer que ninguém pereça, mas que todos se arrependam. O dia do Senhor virá como ladrão, e os cristãos, que esperam novos céus e nova terra, devem viver em santidade e crescer na graça e no conhecimento de Jesus.",
+   "licoes": [
+    "Para o Senhor, um dia é como mil anos e mil anos como um dia (3:8).",
+    "A aparente demora de Deus é paciência, pois ele deseja que todos se arrependam (3:9).",
+    "A esperança de novos céus e nova terra leva a uma vida santa (3:11-13).",
+    "Devemos crescer na graça e no conhecimento de nosso Senhor Jesus Cristo (3:18)."
+   ],
+   "reflexao": "Como a paciência de Deus com o mundo muda a forma como você vê as pessoas ao redor?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Pedro, para o Senhor um dia é como quanto tempo?",
+     "opcoes": [
+      "Um momento",
+      "Sete anos",
+      "Cem anos",
+      "Mil anos"
+     ],
+     "correta": 3,
+     "ref": "3:8"
+    }
+   ]
+  }
+ ]
+}

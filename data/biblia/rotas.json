@@ -1,0 +1,2245 @@
+{
+ "fonte": "Coordenadas e ids dos lugares: OpenBible.info (CC BY 4.0), via lugares-base.json",
+ "rotas": [
+  {
+   "id": "abraao",
+   "titulo": "A viagem de Terá e Abraão",
+   "periodo": "c. séc. XX-XIX a.C. (datas debatidas)",
+   "resumo": "Terá sai de Ur dos caldeus com Abrão, Sarai e Ló e para em Harã. Depois da morte do pai, Abrão obedece ao chamado de Deus, atravessa Canaã de norte a sul, desce ao Egito por causa da fome e volta para Betel e Hebrom.",
+   "certeza": "média",
+   "nota": "A localização de Ur dos caldeus é debatida: a maioria a identifica com a Ur do sul da Mesopotâmia, mas alguns propõem um lugar no norte, perto de Harã. As datas dos patriarcas variam conforme a cronologia adotada; não há como fixá-las com precisão.",
+   "paradas": [
+    {
+     "lugar": "a6cf75c",
+     "nome": "Ur dos Caldeus",
+     "refs": [
+      "genesis 11:31"
+     ]
+    },
+    {
+     "lugar": "a6d9af3",
+     "nome": "Harã",
+     "refs": [
+      "genesis 11:31"
+     ],
+     "nota": "Terá morre em Harã (Gn 11:32)."
+    },
+    {
+     "lugar": "adf74d4",
+     "nome": "Siquém",
+     "refs": [
+      "genesis 12:6"
+     ],
+     "nota": "Primeiro altar de Abrão em Canaã, junto ao carvalho de Moré."
+    },
+    {
+     "lugar": "a64f355",
+     "nome": "Betel",
+     "refs": [
+      "genesis 12:8"
+     ]
+    },
+    {
+     "lugar": "a1cb244",
+     "nome": "Negueve",
+     "refs": [
+      "genesis 12:9"
+     ]
+    },
+    {
+     "lugar": "af301ca",
+     "nome": "Egito",
+     "refs": [
+      "genesis 12:10"
+     ],
+     "nota": "Desce por causa da fome."
+    },
+    {
+     "lugar": "a1cb244",
+     "nome": "Negueve",
+     "refs": [
+      "genesis 13:1"
+     ]
+    },
+    {
+     "lugar": "a64f355",
+     "nome": "Betel",
+     "refs": [
+      "genesis 13:3"
+     ],
+     "nota": "Volta ao lugar do altar; Abrão e Ló se separam."
+    },
+    {
+     "lugar": "a85151a",
+     "nome": "Hebrom",
+     "refs": [
+      "genesis 13:18"
+     ],
+     "nota": "Abrão se estabelece nos carvalhais de Manre."
+    }
+   ],
+   "refs": [
+    "genesis 11:31-13:18"
+   ]
+  },
+  {
+   "id": "jaco",
+   "titulo": "Jacó: fuga para Harã e volta a Canaã",
+   "periodo": "c. séc. XIX-XVIII a.C. (datas debatidas)",
+   "resumo": "Jacó foge de Esaú, sai de Berseba e, no caminho, sonha com a escada em Betel. Vive vinte anos com Labão em Harã e, na volta, encontra anjos em Maanaim, luta com Deus em Peniel, para em Sucote e Siquém e volta a Betel e Hebrom.",
+   "certeza": "média",
+   "nota": "Mispá e Galeede, onde Jacó e Labão fizeram aliança, ficavam em Gileade, mas o local exato é incerto. As datas dependem da cronologia adotada para os patriarcas.",
+   "paradas": [
+    {
+     "lugar": "a075d61",
+     "nome": "Berseba",
+     "refs": [
+      "genesis 28:10"
+     ]
+    },
+    {
+     "lugar": "a64f355",
+     "nome": "Betel",
+     "refs": [
+      "genesis 28:19"
+     ],
+     "nota": "Sonho da escada; Luz passa a se chamar Betel."
+    },
+    {
+     "lugar": "a6d9af3",
+     "nome": "Harã",
+     "refs": [
+      "genesis 29:4"
+     ],
+     "nota": "Jacó serve a Labão e se casa com Lia e Raquel."
+    },
+    {
+     "lugar": "ae5bfe9",
+     "nome": "Maanaim",
+     "refs": [
+      "genesis 32:2"
+     ]
+    },
+    {
+     "lugar": "a8a9ff9",
+     "nome": "Peniel",
+     "refs": [
+      "genesis 32:30"
+     ],
+     "nota": "Jacó luta com Deus e recebe o nome Israel."
+    },
+    {
+     "lugar": "a0905b5",
+     "nome": "Sucote",
+     "refs": [
+      "genesis 33:17"
+     ]
+    },
+    {
+     "lugar": "adf74d4",
+     "nome": "Siquém",
+     "refs": [
+      "genesis 33:18"
+     ]
+    },
+    {
+     "lugar": "a64f355",
+     "nome": "Betel",
+     "refs": [
+      "genesis 35:6"
+     ]
+    },
+    {
+     "lugar": "af4e985",
+     "nome": "Efrata",
+     "refs": [
+      "genesis 35:19"
+     ],
+     "nota": "Raquel morre no caminho de Efrata, que é Belém."
+    },
+    {
+     "lugar": "a85151a",
+     "nome": "Hebrom",
+     "refs": [
+      "genesis 35:27"
+     ],
+     "nota": "Jacó chega à casa de Isaque."
+    }
+   ],
+   "refs": [
+    "genesis 28:10-35:29"
+   ]
+  },
+  {
+   "id": "jose",
+   "titulo": "José vendido para o Egito",
+   "periodo": "c. séc. XVIII a.C. (datas debatidas)",
+   "resumo": "Jacó envia José do vale de Hebrom para ver os irmãos em Siquém; ele os encontra em Dotã, onde é vendido a mercadores ismaelitas que o levam ao Egito.",
+   "certeza": "média",
+   "nota": "Os mercadores seguiam uma rota de caravanas de Gileade para o Egito (Gn 37:25); o trajeto exato não é descrito.",
+   "paradas": [
+    {
+     "lugar": "a85151a",
+     "nome": "Hebrom",
+     "refs": [
+      "genesis 37:14"
+     ]
+    },
+    {
+     "lugar": "adf74d4",
+     "nome": "Siquém",
+     "refs": [
+      "genesis 37:14"
+     ]
+    },
+    {
+     "lugar": "ab635e4",
+     "nome": "Dotã",
+     "refs": [
+      "genesis 37:17"
+     ],
+     "nota": "José é jogado numa cisterna e vendido."
+    },
+    {
+     "lugar": "af301ca",
+     "nome": "Egito",
+     "refs": [
+      "genesis 37:28"
+     ]
+    }
+   ],
+   "refs": [
+    "genesis 37:12-36"
+   ]
+  },
+  {
+   "id": "jaco-egito",
+   "titulo": "Jacó e sua família descem ao Egito",
+   "periodo": "c. séc. XVIII-XVII a.C. (datas debatidas)",
+   "resumo": "Ao saber que José está vivo, Jacó parte com toda a família, oferece sacrifícios em Berseba e desce ao Egito, onde se estabelece na terra de Gósen.",
+   "certeza": "média",
+   "nota": "As datas dependem da cronologia adotada para os patriarcas e para o Êxodo.",
+   "paradas": [
+    {
+     "lugar": "a85151a",
+     "nome": "Hebrom",
+     "refs": [
+      "genesis 37:14"
+     ],
+     "nota": "Jacó morava no vale de Hebrom (ponto de partida provável)."
+    },
+    {
+     "lugar": "a075d61",
+     "nome": "Berseba",
+     "refs": [
+      "genesis 46:1"
+     ],
+     "nota": "Deus fala a Jacó em visão."
+    },
+    {
+     "lugar": "a60f092",
+     "nome": "Gósen",
+     "refs": [
+      "genesis 46:28"
+     ]
+    },
+    {
+     "lugar": "af301ca",
+     "nome": "Egito",
+     "refs": [
+      "genesis 47:6"
+     ]
+    }
+   ],
+   "refs": [
+    "genesis 45:25-47:12"
+   ]
+  },
+  {
+   "id": "exodo",
+   "titulo": "O Êxodo: do Egito ao monte Sinai",
+   "periodo": "séc. XV ou XIII a.C. (datas debatidas)",
+   "resumo": "Os israelitas partem de Ramessés, acampam em Sucote, Etã e Pi-Hairote e atravessam o mar. Passam por Mara, Elim, o deserto de Sim e Refidim até chegar ao deserto do Sinai, onde recebem a Lei.",
+   "certeza": "baixa",
+   "nota": "Esta é a rota tradicional, pelo sul da península do Sinai, com o monte Sinai no Jebel Musa. Outras propostas: uma rota pelo norte, ao longo das lagoas do litoral do Mediterrâneo; uma rota central; e a localização do monte Sinai na Arábia (atual Arábia Saudita), na terra de Midiã. O ponto exato da travessia do mar também é discutido. A data varia: cerca de 1446 a.C. (leitura de 1 Reis 6:1) ou cerca de 1260 a.C. (outros estudiosos).",
+   "fonte_extra": [
+    {
+     "fonte": "Itinerário de Egéria (relato de peregrinação)",
+     "referencia": "Itinerarium Egeriae, caps. 1-5 (visita ao monte identificado como Sinai)",
+     "data": "c. 381-384 d.C."
+    }
+   ],
+   "paradas": [
+    {
+     "lugar": "a079b21",
+     "nome": "Ramessés",
+     "refs": [
+      "exodo 12:37"
+     ]
+    },
+    {
+     "lugar": "aa28709",
+     "nome": "Sucote",
+     "refs": [
+      "exodo 12:37"
+     ]
+    },
+    {
+     "lugar": "a27d0e0",
+     "nome": "Etã",
+     "refs": [
+      "exodo 13:20"
+     ],
+     "nota": "\"À entrada do deserto\"."
+    },
+    {
+     "lugar": "ababfd2",
+     "nome": "Pi-Hairote",
+     "refs": [
+      "exodo 14:2"
+     ],
+     "nota": "Acampamento junto ao mar, diante de Baal-Zefom."
+    },
+    {
+     "lugar": "a3d18b2",
+     "nome": "Mar Vermelho",
+     "refs": [
+      "exodo 15:4"
+     ],
+     "nota": "Travessia do mar."
+    },
+    {
+     "lugar": "ad3970d",
+     "nome": "Mara",
+     "refs": [
+      "exodo 15:23"
+     ],
+     "nota": "Águas amargas tornadas doces."
+    },
+    {
+     "lugar": "a2410c1",
+     "nome": "Elim",
+     "refs": [
+      "exodo 15:27"
+     ],
+     "nota": "Doze fontes e setenta palmeiras."
+    },
+    {
+     "lugar": "a0f54e4",
+     "nome": "Sim",
+     "refs": [
+      "exodo 16:1"
+     ],
+     "nota": "Começa o maná."
+    },
+    {
+     "lugar": "a05ebb7",
+     "nome": "Refidim",
+     "refs": [
+      "exodo 17:1"
+     ],
+     "nota": "Água da rocha e batalha contra Amaleque."
+    },
+    {
+     "lugar": "abfba2a",
+     "nome": "Monte Sinai",
+     "refs": [
+      "exodo 19:20"
+     ]
+    }
+   ],
+   "refs": [
+    "exodo 12:37-19:2",
+    "numeros 33:3-15"
+   ]
+  },
+  {
+   "id": "peregrinacao",
+   "titulo": "Os quarenta anos: do Sinai às campinas de Moabe",
+   "periodo": "séc. XV ou XIII a.C. (datas debatidas)",
+   "resumo": "Do Sinai o povo segue para Quibrote-Hataavá, Hazerote e o deserto de Parã, de onde envia os espias. Depois de anos no deserto em torno de Cades, contorna Edom, passa pelo monte Hor e por Eziom-Geber e sobe pelo leste até as campinas de Moabe, diante de Jericó.",
+   "certeza": "baixa",
+   "nota": "Números 33 lista mais de quarenta paradas, a maioria de localização desconhecida. A ordem de Cades e Eziom-Geber na lista e o caminho para contornar Edom são interpretados de formas diferentes. Aqui só aparecem paradas com localização proposta.",
+   "paradas": [
+    {
+     "lugar": "ae50cf1",
+     "nome": "Deserto do Sinai",
+     "refs": [
+      "numeros 10:12"
+     ]
+    },
+    {
+     "lugar": "ae7836a",
+     "nome": "Quibrote-Hataavá",
+     "refs": [
+      "numeros 11:34"
+     ]
+    },
+    {
+     "lugar": "a1b6474",
+     "nome": "Hazerote",
+     "refs": [
+      "numeros 11:35"
+     ]
+    },
+    {
+     "lugar": "aa6b19b",
+     "nome": "Parã",
+     "refs": [
+      "numeros 12:16"
+     ]
+    },
+    {
+     "lugar": "ac2cef0",
+     "nome": "Cades-Barneia",
+     "refs": [
+      "numeros 32:8"
+     ],
+     "nota": "Envio dos espias; o povo fica muitos anos no deserto."
+    },
+    {
+     "lugar": "a8e53d5",
+     "nome": "Eziom-Geber",
+     "refs": [
+      "numeros 33:35"
+     ]
+    },
+    {
+     "lugar": "ad8027f",
+     "nome": "Monte Hor",
+     "refs": [
+      "numeros 20:22"
+     ],
+     "nota": "Morte de Arão."
+    },
+    {
+     "lugar": "a9ecc26",
+     "nome": "Punom",
+     "refs": [
+      "numeros 33:42"
+     ]
+    },
+    {
+     "lugar": "a0ef1e1",
+     "nome": "Obote",
+     "refs": [
+      "numeros 21:10"
+     ]
+    },
+    {
+     "lugar": "a0574da",
+     "nome": "Ijé-Abarim",
+     "refs": [
+      "numeros 21:11"
+     ]
+    },
+    {
+     "lugar": "a4cc324",
+     "nome": "Arnom",
+     "refs": [
+      "numeros 21:13"
+     ]
+    },
+    {
+     "lugar": "ad9b1cd",
+     "nome": "Jaza",
+     "refs": [
+      "numeros 21:23"
+     ],
+     "nota": "Vitória sobre Seom."
+    },
+    {
+     "lugar": "aca767b",
+     "nome": "Campos de Moabe",
+     "refs": [
+      "numeros 22:1"
+     ],
+     "nota": "Campos de Moabe, diante de Jericó."
+    },
+    {
+     "lugar": "aefaa2d",
+     "nome": "Monte Nebo",
+     "refs": [
+      "deuteronomio 34:1"
+     ],
+     "nota": "Moisés vê a terra e morre."
+    }
+   ],
+   "refs": [
+    "numeros 10:11-22:1",
+    "numeros 33:16-49",
+    "deuteronomio 34:1-5"
+   ]
+  },
+  {
+   "id": "josue-centro",
+   "titulo": "Conquista de Josué: a campanha central",
+   "periodo": "séc. XV ou XIII a.C. (datas debatidas)",
+   "resumo": "Israel parte de Sitim, atravessa o Jordão e acampa em Gilgal. Toma Jericó e Ai e renova a aliança entre os montes Ebal e Gerizim.",
+   "certeza": "média",
+   "nota": "A data e a extensão da conquista são debatidas; arqueólogos discordam sobre a destruição de Jericó e de Ai e sobre a identificação de Ai.",
+   "paradas": [
+    {
+     "lugar": "af64fb3",
+     "nome": "Sitim",
+     "refs": [
+      "josue 3:1"
+     ]
+    },
+    {
+     "lugar": "ae686c9",
+     "nome": "Jordão",
+     "refs": [
+      "josue 3:17"
+     ],
+     "nota": "As águas param e o povo passa a pé seco."
+    },
+    {
+     "lugar": "ab94aea",
+     "nome": "Gilgal",
+     "refs": [
+      "josue 4:19"
+     ]
+    },
+    {
+     "lugar": "a231f80",
+     "nome": "Jericó",
+     "refs": [
+      "josue 6:2"
+     ]
+    },
+    {
+     "lugar": "a7e13e1",
+     "nome": "Ai",
+     "refs": [
+      "josue 8:1"
+     ]
+    },
+    {
+     "lugar": "aa5cc66",
+     "nome": "Monte Ebal",
+     "refs": [
+      "josue 8:30"
+     ],
+     "nota": "Altar e leitura da Lei."
+    }
+   ],
+   "refs": [
+    "josue 2:1-8:35"
+   ]
+  },
+  {
+   "id": "josue-sul",
+   "titulo": "Conquista de Josué: a campanha do sul",
+   "periodo": "séc. XV ou XIII a.C. (datas debatidas)",
+   "resumo": "Josué sai de Gilgal para socorrer Gibeão contra cinco reis amorreus, persegue-os pela subida de Bete-Horom até Azeca e Maquedá e depois toma Libna, Laquis, Eglom, Hebrom e Debir.",
+   "certeza": "média",
+   "nota": "O texto resume uma campanha rápida; muitos estudiosos entendem que a ocupação efetiva foi mais lenta (compare Josué 15:63 e Juízes 1).",
+   "paradas": [
+    {
+     "lugar": "ab94aea",
+     "nome": "Gilgal",
+     "refs": [
+      "josue 10:7"
+     ]
+    },
+    {
+     "lugar": "aede336",
+     "nome": "Gibeão",
+     "refs": [
+      "josue 10:10"
+     ],
+     "nota": "O sol e a lua param (Js 10:12-13)."
+    },
+    {
+     "lugar": "a75b45e",
+     "nome": "Bete-Horom",
+     "refs": [
+      "josue 10:11"
+     ]
+    },
+    {
+     "lugar": "af2ca0c",
+     "nome": "Azeca",
+     "refs": [
+      "josue 10:10"
+     ]
+    },
+    {
+     "lugar": "abf8e4e",
+     "nome": "Maquedá",
+     "refs": [
+      "josue 10:16"
+     ],
+     "nota": "Os cinco reis na caverna."
+    },
+    {
+     "lugar": "a97b595",
+     "nome": "Libna",
+     "refs": [
+      "josue 10:29"
+     ]
+    },
+    {
+     "lugar": "a3cc590",
+     "nome": "Laquis",
+     "refs": [
+      "josue 10:31"
+     ]
+    },
+    {
+     "lugar": "a244d8f",
+     "nome": "Eglom",
+     "refs": [
+      "josue 10:34"
+     ]
+    },
+    {
+     "lugar": "a85151a",
+     "nome": "Hebrom",
+     "refs": [
+      "josue 10:36"
+     ]
+    },
+    {
+     "lugar": "ad2048e",
+     "nome": "Debir",
+     "refs": [
+      "josue 10:38"
+     ]
+    },
+    {
+     "lugar": "ab94aea",
+     "nome": "Gilgal",
+     "refs": [
+      "josue 10:43"
+     ]
+    }
+   ],
+   "refs": [
+    "josue 10:1-43"
+   ]
+  },
+  {
+   "id": "josue-norte",
+   "titulo": "Conquista de Josué: a campanha do norte",
+   "periodo": "séc. XV ou XIII a.C. (datas debatidas)",
+   "resumo": "Jabim, rei de Hazor, reúne os reis do norte junto às águas de Merom. Josué os derrota, persegue-os até Sidom e Misrefote-Maim e queima Hazor.",
+   "certeza": "média",
+   "nota": "A localização das águas de Merom é incerta.",
+   "paradas": [
+    {
+     "lugar": "ab94aea",
+     "nome": "Gilgal",
+     "refs": [
+      "josue 10:43"
+     ],
+     "nota": "Ponto de partida provável."
+    },
+    {
+     "lugar": "a6ee047",
+     "nome": "Águas de Merom",
+     "refs": [
+      "josue 11:7"
+     ]
+    },
+    {
+     "lugar": "a98e4d7",
+     "nome": "Sidom",
+     "refs": [
+      "josue 11:8"
+     ]
+    },
+    {
+     "lugar": "a5bf0bd",
+     "nome": "Misrefote-Maim",
+     "refs": [
+      "josue 11:8"
+     ]
+    },
+    {
+     "lugar": "a6f33c5",
+     "nome": "Hazor",
+     "refs": [
+      "josue 11:10"
+     ],
+     "nota": "Hazor é queimada."
+    }
+   ],
+   "refs": [
+    "josue 11:1-15"
+   ]
+  },
+  {
+   "id": "rute",
+   "titulo": "Noemi e Rute: de Moabe a Belém",
+   "periodo": "tempo dos juízes (c. séc. XII-XI a.C.)",
+   "resumo": "Por causa da fome, Elimeleque e Noemi deixam Belém e vão para Moabe. Viúva, Noemi volta a Belém com a nora moabita Rute, que se casa com Boaz.",
+   "certeza": "alta",
+   "nota": "O livro não descreve o caminho; a rota mais provável cruzava o Jordão perto de Jericó.",
+   "paradas": [
+    {
+     "lugar": "a112427",
+     "nome": "Belém",
+     "refs": [
+      "rute 1:1"
+     ]
+    },
+    {
+     "lugar": "aa0b1d6",
+     "nome": "Moabe",
+     "refs": [
+      "rute 1:2"
+     ]
+    },
+    {
+     "lugar": "a112427",
+     "nome": "Belém",
+     "refs": [
+      "rute 1:19"
+     ],
+     "nota": "Chegam no começo da colheita da cevada."
+    }
+   ],
+   "refs": [
+    "rute 1:1-22"
+   ]
+  },
+  {
+   "id": "arca",
+   "titulo": "A arca entre os filisteus e a volta a Israel",
+   "periodo": "c. séc. XI a.C.",
+   "resumo": "Os filisteus capturam a arca em Ebenézer e a levam a Asdode, Gate e Ecrom, onde cada cidade sofre pragas. Devolvida num carro puxado por vacas, ela chega a Bete-Semes e depois fica em Quiriate-Jearim, até Davi levá-la a Jerusalém.",
+   "certeza": "alta",
+   "nota": "Ebenézer e Afeque ficavam perto um do outro; a identificação exata de Ebenézer é incerta.",
+   "paradas": [
+    {
+     "lugar": "abfdefc",
+     "nome": "Ebenézer",
+     "refs": [
+      "1-samuel 4:1"
+     ],
+     "nota": "Israel acampa em Ebenézer; os filisteus, em Afeque."
+    },
+    {
+     "lugar": "a30c937",
+     "nome": "Asdode",
+     "refs": [
+      "1-samuel 5:1"
+     ],
+     "nota": "A imagem de Dagom cai diante da arca."
+    },
+    {
+     "lugar": "a18873f",
+     "nome": "Gate",
+     "refs": [
+      "1-samuel 5:8"
+     ]
+    },
+    {
+     "lugar": "a3fc47a",
+     "nome": "Ecrom",
+     "refs": [
+      "1-samuel 5:10"
+     ]
+    },
+    {
+     "lugar": "a3b5b53",
+     "nome": "Bete-Semes",
+     "refs": [
+      "1-samuel 6:12"
+     ]
+    },
+    {
+     "lugar": "a9bba61",
+     "nome": "Quiriate-Jearim",
+     "refs": [
+      "1-samuel 7:1"
+     ],
+     "nota": "A arca fica na casa de Abinadabe."
+    },
+    {
+     "lugar": "a84f426",
+     "nome": "Cidade de Davi",
+     "refs": [
+      "2-samuel 6:12"
+     ],
+     "nota": "Davi leva a arca para a cidade de Davi, em Jerusalém."
+    }
+   ],
+   "refs": [
+    "1-samuel 4:1-7:2",
+    "2-samuel 6:1-17"
+   ]
+  },
+  {
+   "id": "davi-fuga",
+   "titulo": "Davi fugindo de Saul",
+   "periodo": "c. 1020-1010 a.C. (aproximado)",
+   "resumo": "Perseguido por Saul, Davi vai a Ramá, a Nobe e à cidade filisteia de Gate, esconde-se na caverna de Adulão, leva os pais a Moabe e anda pelos desertos de Judá (Zife, Maom, En-Gedi) até se refugiar em Ziclague.",
+   "certeza": "média",
+   "nota": "A ordem segue o texto de 1 Samuel. Muitos lugares (Horesa, o bosque de Herete) têm localização incerta. As datas de Davi seguem a cronologia mais comum (reinado c. 1010-970 a.C.).",
+   "paradas": [
+    {
+     "lugar": "ac24f5f",
+     "nome": "Gibeá",
+     "refs": [
+      "1-samuel 15:34"
+     ],
+     "nota": "Casa de Saul em Gibeá, ponto de partida."
+    },
+    {
+     "lugar": "a90f6e1",
+     "nome": "Ramá",
+     "refs": [
+      "1-samuel 19:18"
+     ],
+     "nota": "Davi se refugia com Samuel."
+    },
+    {
+     "lugar": "afdda14",
+     "nome": "Nobe",
+     "refs": [
+      "1-samuel 21:1"
+     ],
+     "nota": "Davi recebe os pães sagrados e a espada de Golias."
+    },
+    {
+     "lugar": "a18873f",
+     "nome": "Gate",
+     "refs": [
+      "1-samuel 21:10"
+     ]
+    },
+    {
+     "lugar": "af82614",
+     "nome": "Adulão",
+     "refs": [
+      "1-samuel 22:1"
+     ]
+    },
+    {
+     "lugar": "ac702f1",
+     "nome": "Mispá",
+     "refs": [
+      "1-samuel 22:3"
+     ],
+     "nota": "Davi deixa os pais com o rei de Moabe."
+    },
+    {
+     "lugar": "ad9df93",
+     "nome": "Queila",
+     "refs": [
+      "1-samuel 23:5"
+     ]
+    },
+    {
+     "lugar": "a50057d",
+     "nome": "Deserto de Zife",
+     "refs": [
+      "1-samuel 23:14"
+     ]
+    },
+    {
+     "lugar": "ae11a0d",
+     "nome": "Deserto de Maom",
+     "refs": [
+      "1-samuel 23:24"
+     ]
+    },
+    {
+     "lugar": "a51df0e",
+     "nome": "En-Gedi",
+     "refs": [
+      "1-samuel 24:1"
+     ],
+     "nota": "Davi poupa a vida de Saul na caverna."
+    },
+    {
+     "lugar": "a053f15",
+     "nome": "Carmelo",
+     "refs": [
+      "1-samuel 25:2"
+     ],
+     "nota": "Nabal e Abigail."
+    },
+    {
+     "lugar": "a18873f",
+     "nome": "Gate",
+     "refs": [
+      "1-samuel 27:2"
+     ]
+    },
+    {
+     "lugar": "a0ed7ff",
+     "nome": "Ziclague",
+     "refs": [
+      "1-samuel 27:6"
+     ]
+    }
+   ],
+   "refs": [
+    "1-samuel 19:18-27:7"
+   ]
+  },
+  {
+   "id": "elias",
+   "titulo": "Elias: do Carmelo ao Horebe",
+   "periodo": "c. 860-850 a.C. (reinado de Acabe; aproximado)",
+   "resumo": "Durante a seca, Elias se esconde junto ao ribeiro de Querite e vive em Sarepta. No Carmelo, Deus responde com fogo; Elias corre diante de Acabe até Jezreel, foge de Jezabel para Berseba e caminha quarenta dias até o Horebe, de onde é enviado ao deserto de Damasco.",
+   "certeza": "média",
+   "nota": "A localização do ribeiro de Querite e do monte Horebe é incerta. As datas de Acabe seguem a cronologia mais comum dos reis (c. 874-853 a.C.).",
+   "paradas": [
+    {
+     "lugar": "aa7bee8",
+     "nome": "Querite",
+     "refs": [
+      "1-reis 17:3"
+     ]
+    },
+    {
+     "lugar": "a6fa2d3",
+     "nome": "Sarepta",
+     "refs": [
+      "1-reis 17:9"
+     ],
+     "nota": "A viúva de Sarepta."
+    },
+    {
+     "lugar": "a3e21c6",
+     "nome": "Monte Carmelo",
+     "refs": [
+      "1-reis 18:19"
+     ]
+    },
+    {
+     "lugar": "ae0bf4a",
+     "nome": "Jezreel",
+     "refs": [
+      "1-reis 18:46"
+     ]
+    },
+    {
+     "lugar": "ad2f6c2",
+     "nome": "Berseba",
+     "refs": [
+      "1-reis 19:3"
+     ]
+    },
+    {
+     "lugar": "a9bb03e",
+     "nome": "Monte Horebe",
+     "refs": [
+      "1-reis 19:8"
+     ],
+     "nota": "Deus fala a Elias num murmúrio suave."
+    },
+    {
+     "lugar": "a69c1d4",
+     "nome": "Damasco",
+     "refs": [
+      "1-reis 19:15"
+     ],
+     "nota": "Enviado a ungir Hazael."
+    }
+   ],
+   "refs": [
+    "1-reis 17:1-19:18"
+   ]
+  },
+  {
+   "id": "jonas",
+   "titulo": "Jonas: fuga para Társis e missão em Nínive",
+   "periodo": "séc. VIII a.C. (Jeroboão II, c. 793-753 a.C.)",
+   "resumo": "Jonas, de Gate-Hefer, recebe a ordem de pregar em Nínive, mas desce a Jope e embarca para Társis. Depois da tempestade e do grande peixe, vai a Nínive, que se arrepende.",
+   "certeza": "média",
+   "nota": "Társis é um lugar distante no ocidente; muitos a identificam com Tartesso, no sul da Espanha, mas há outras propostas. O livro não diz onde Jonas foi lançado em terra, nem o caminho até Nínive.",
+   "paradas": [
+    {
+     "lugar": "ac51cec",
+     "nome": "Gate-Hefer",
+     "refs": [
+      "2-reis 14:25"
+     ],
+     "nota": "Terra de Jonas."
+    },
+    {
+     "lugar": "ae023a9",
+     "nome": "Jope",
+     "refs": [
+      "jonas 1:3"
+     ]
+    },
+    {
+     "lugar": "a5f43dd",
+     "nome": "Társis",
+     "refs": [
+      "jonas 1:3"
+     ],
+     "nota": "Destino pretendido; Jonas não chegou lá."
+    },
+    {
+     "lugar": "a70fd5d",
+     "nome": "Nínive",
+     "refs": [
+      "jonas 3:3"
+     ]
+    }
+   ],
+   "refs": [
+    "2-reis 14:25",
+    "jonas 1:1-3:10"
+   ]
+  },
+  {
+   "id": "exilio-israel",
+   "titulo": "O exílio de Israel para a Assíria",
+   "periodo": "c. 733-722 a.C.",
+   "resumo": "Tiglate-Pileser toma cidades da Galileia e de Gileade e deporta seus moradores. Depois, a Assíria cerca Samaria por três anos e leva os israelitas para Hala, para o Habor, rio de Gozã, e para as cidades dos medos.",
+   "certeza": "alta",
+   "nota": "Datas pela cronologia mais comum: campanha de Tiglate-Pileser III c. 733-732 a.C. e queda de Samaria em 722 a.C. (alguns preferem 721/720 a.C.). Os textos assírios atribuem a deportação também a Sargão II.",
+   "fonte_extra": [
+    {
+     "fonte": "Inscrições de Sargão II",
+     "referencia": "anais e inscrições do palácio de Dur-Sharrukin (Khorsabad)",
+     "data": "final do séc. VIII a.C."
+    }
+   ],
+   "paradas": [
+    {
+     "lugar": "a062b95",
+     "nome": "Ijom",
+     "refs": [
+      "2-reis 15:29"
+     ]
+    },
+    {
+     "lugar": "abffcaa",
+     "nome": "Abel-Bete-Maaca",
+     "refs": [
+      "2-reis 15:29"
+     ]
+    },
+    {
+     "lugar": "a6f33c5",
+     "nome": "Hazor",
+     "refs": [
+      "2-reis 15:29"
+     ]
+    },
+    {
+     "lugar": "a041bb3",
+     "nome": "Samaria",
+     "refs": [
+      "2-reis 17:5"
+     ],
+     "nota": "Cerco de três anos."
+    },
+    {
+     "lugar": "abf176f",
+     "nome": "Hala",
+     "refs": [
+      "2-reis 17:6"
+     ]
+    },
+    {
+     "lugar": "a924b16",
+     "nome": "Gozã",
+     "refs": [
+      "2-reis 17:6"
+     ],
+     "nota": "Junto ao rio Habor."
+    },
+    {
+     "lugar": "ad2fadf",
+     "nome": "Média",
+     "refs": [
+      "2-reis 17:6"
+     ],
+     "nota": "\"As cidades dos medos\"."
+    }
+   ],
+   "refs": [
+    "2-reis 15:29",
+    "2-reis 17:5-6",
+    "2-reis 18:9-11"
+   ]
+  },
+  {
+   "id": "exilio-juda",
+   "titulo": "O exílio de Judá para a Babilônia",
+   "periodo": "597-586 a.C.",
+   "resumo": "Nabucodonosor leva o rei Joaquim e muitos de Jerusalém em 597 a.C. Depois de novo cerco, a cidade cai; o rei Zedequias é levado a Ribla, cegado e levado à Babilônia, e o povo é deportado. Entre os exilados, junto ao rio Quebar, Ezequiel profetiza.",
+   "certeza": "alta",
+   "nota": "A queda de Jerusalém é datada em 587 ou 586 a.C., conforme o modo de contar os anos dos reis. A data de 597 a.C. é confirmada por uma crônica babilônica.",
+   "fonte_extra": [
+    {
+     "fonte": "Crônica Babilônica (crônica dos primeiros anos de Nabucodonosor)",
+     "referencia": "tabuinha BM 21946, Museu Britânico",
+     "data": "séc. VI a.C."
+    }
+   ],
+   "paradas": [
+    {
+     "lugar": "a15257a",
+     "nome": "Jerusalém",
+     "refs": [
+      "2-reis 25:1"
+     ]
+    },
+    {
+     "lugar": "ab2bde8",
+     "nome": "Ribla",
+     "refs": [
+      "2-reis 25:6"
+     ],
+     "nota": "Zedequias é julgado diante de Nabucodonosor."
+    },
+    {
+     "lugar": "a217d18",
+     "nome": "Babilônia",
+     "refs": [
+      "2-reis 25:7"
+     ]
+    },
+    {
+     "lugar": "a3d2f0a",
+     "nome": "Quebar",
+     "refs": [
+      "ezequiel 1:1"
+     ]
+    },
+    {
+     "lugar": "a10147d",
+     "nome": "Tel-Abibe",
+     "refs": [
+      "ezequiel 3:15"
+     ]
+    }
+   ],
+   "refs": [
+    "2-reis 24:10-25:21",
+    "ezequiel 1:1-3",
+    "ezequiel 3:15"
+   ]
+  },
+  {
+   "id": "retorno",
+   "titulo": "O retorno do exílio com Zorobabel e Esdras",
+   "periodo": "538 a.C. (Zorobabel) e c. 458 a.C. (Esdras)",
+   "resumo": "Com o decreto de Ciro, um primeiro grupo volta da Babilônia a Jerusalém com Zorobabel para reconstruir o templo. Décadas depois, Esdras reúne outro grupo junto ao rio Aava, jejua pedindo proteção e chega a Jerusalém com os utensílios do templo.",
+   "certeza": "alta",
+   "nota": "A data de Esdras depende de qual rei Artaxerxes é citado em Esdras 7:7: a maioria pensa em Artaxerxes I (458 a.C.), outros em Artaxerxes II (398 a.C.). A localização do rio (ou canal) Aava é desconhecida.",
+   "fonte_extra": [
+    {
+     "fonte": "Cilindro de Ciro",
+     "referencia": "Museu Britânico (inscrição sobre a política de Ciro após tomar a Babilônia)",
+     "data": "c. 539 a.C."
+    }
+   ],
+   "paradas": [
+    {
+     "lugar": "a217d18",
+     "nome": "Babilônia",
+     "refs": [
+      "esdras 2:1"
+     ]
+    },
+    {
+     "lugar": "a6c3859",
+     "nome": "Aava",
+     "refs": [
+      "esdras 8:15"
+     ],
+     "nota": "Grupo de Esdras."
+    },
+    {
+     "lugar": "a15257a",
+     "nome": "Jerusalém",
+     "refs": [
+      "esdras 8:32"
+     ]
+    }
+   ],
+   "refs": [
+    "esdras 1:1-2:70",
+    "esdras 7:1-8:36"
+   ]
+  },
+  {
+   "id": "neemias",
+   "titulo": "Neemias: de Susã a Jerusalém",
+   "periodo": "445 a.C.",
+   "resumo": "Neemias, copeiro do rei persa em Susã, recebe permissão para reconstruir os muros de Jerusalém, viaja com cartas aos governadores dalém do rio e inspeciona os muros à noite.",
+   "certeza": "alta",
+   "nota": "Data pelo vigésimo ano de Artaxerxes I (Ne 2:1). O caminho não é descrito; a rota mais provável subia pelo Eufrates e descia pela Síria.",
+   "paradas": [
+    {
+     "lugar": "a033b84",
+     "nome": "Susã",
+     "refs": [
+      "neemias 1:1"
+     ]
+    },
+    {
+     "lugar": "a88310a",
+     "nome": "Dalém do Rio",
+     "refs": [
+      "neemias 2:9"
+     ],
+     "nota": "Cartas aos governadores."
+    },
+    {
+     "lugar": "a15257a",
+     "nome": "Jerusalém",
+     "refs": [
+      "neemias 2:11"
+     ]
+    }
+   ],
+   "refs": [
+    "neemias 1:1-2:20"
+   ]
+  },
+  {
+   "id": "belem",
+   "titulo": "Maria e José vão a Belém",
+   "periodo": "c. 6-4 a.C. (aproximado)",
+   "resumo": "Por causa do recenseamento, José sobe com Maria de Nazaré, na Galileia, a Belém, cidade de Davi, onde Jesus nasce. Quarenta dias depois, apresentam o menino no templo em Jerusalém.",
+   "certeza": "alta",
+   "nota": "Jesus nasceu antes da morte de Herodes, o Grande, geralmente datada em 4 a.C.; por isso a maioria propõe entre 6 e 4 a.C. A data do recenseamento de Quirino (Lc 2:2) é um problema discutido.",
+   "fonte_extra": [
+    {
+     "fonte": "Flávio Josefo, Antiguidades Judaicas",
+     "referencia": "livro 17 (morte de Herodes, ligada a um eclipse lunar)",
+     "data": "c. 93-94 d.C."
+    }
+   ],
+   "paradas": [
+    {
+     "lugar": "af5884f",
+     "nome": "Nazaré",
+     "refs": [
+      "lucas 2:4"
+     ]
+    },
+    {
+     "lugar": "a112427",
+     "nome": "Belém",
+     "refs": [
+      "lucas 2:4"
+     ],
+     "nota": "Nascimento de Jesus."
+    },
+    {
+     "lugar": "a15257a",
+     "nome": "Jerusalém",
+     "refs": [
+      "lucas 2:22"
+     ],
+     "nota": "Apresentação no templo."
+    },
+    {
+     "lugar": "af5884f",
+     "nome": "Nazaré",
+     "refs": [
+      "lucas 2:39"
+     ]
+    }
+   ],
+   "refs": [
+    "lucas 2:1-39"
+   ]
+  },
+  {
+   "id": "magos-egito",
+   "titulo": "Os magos, a fuga para o Egito e a volta a Nazaré",
+   "periodo": "c. 6-4 a.C. (aproximado)",
+   "resumo": "Magos vindos do oriente chegam a Jerusalém e são guiados pela estrela a Belém. Avisado em sonho, José foge com Maria e o menino para o Egito e, depois da morte de Herodes, vai morar em Nazaré.",
+   "certeza": "média",
+   "nota": "O texto não diz de onde vieram os magos (Pérsia, Babilônia e Arábia são propostas) nem onde a família ficou no Egito.",
+   "paradas": [
+    {
+     "lugar": "a15257a",
+     "nome": "Jerusalém",
+     "refs": [
+      "mateus 2:1"
+     ],
+     "nota": "Os magos perguntam pelo rei que nasceu."
+    },
+    {
+     "lugar": "a112427",
+     "nome": "Belém",
+     "refs": [
+      "mateus 2:5"
+     ]
+    },
+    {
+     "lugar": "af301ca",
+     "nome": "Egito",
+     "refs": [
+      "mateus 2:14"
+     ]
+    },
+    {
+     "lugar": "af5884f",
+     "nome": "Nazaré",
+     "refs": [
+      "mateus 2:23"
+     ]
+    }
+   ],
+   "refs": [
+    "mateus 2:1-23"
+   ]
+  },
+  {
+   "id": "ministerio",
+   "titulo": "O ministério de Jesus",
+   "periodo": "c. 27-30 d.C. ou 30-33 d.C.",
+   "resumo": "Jesus é batizado no Jordão, faz seu primeiro sinal em Caná e passa a morar em Cafarnaum, de onde percorre a Galileia. Vai a Betsaida e à região de Cesareia de Filipe e, por fim, sobe a Jerusalém, passando por Jericó e Betânia.",
+   "certeza": "média",
+   "nota": "Os evangelhos não dão um itinerário completo; esta ordem é uma reconstrução simplificada. João menciona várias idas a Jerusalém. A duração do ministério (um a três anos) e o ano da crucificação (30 ou 33 d.C.) são debatidos.",
+   "paradas": [
+    {
+     "lugar": "af5884f",
+     "nome": "Nazaré",
+     "refs": [
+      "lucas 4:16"
+     ],
+     "nota": "Jesus lê o profeta Isaías na sinagoga."
+    },
+    {
+     "lugar": "a6e060d",
+     "nome": "Betábara",
+     "refs": [
+      "joao 1:28"
+     ],
+     "nota": "Betábara (Betânia além do Jordão), onde João batizava."
+    },
+    {
+     "lugar": "a031bda",
+     "nome": "Caná",
+     "refs": [
+      "joao 2:1"
+     ],
+     "nota": "Água transformada em vinho."
+    },
+    {
+     "lugar": "af2161c",
+     "nome": "Cafarnaum",
+     "refs": [
+      "mateus 4:13"
+     ]
+    },
+    {
+     "lugar": "a9fc13a",
+     "nome": "Betsaida",
+     "refs": [
+      "marcos 8:22"
+     ]
+    },
+    {
+     "lugar": "ab7bf48",
+     "nome": "Cesareia de Filipe",
+     "refs": [
+      "mateus 16:13"
+     ],
+     "nota": "Confissão de Pedro."
+    },
+    {
+     "lugar": "aaf03fa",
+     "nome": "Jericó",
+     "refs": [
+      "lucas 19:1"
+     ],
+     "nota": "Zaqueu."
+    },
+    {
+     "lugar": "a4f35bc",
+     "nome": "Betânia",
+     "refs": [
+      "joao 12:1"
+     ]
+    },
+    {
+     "lugar": "a15257a",
+     "nome": "Jerusalém",
+     "refs": [
+      "mateus 21:10"
+     ]
+    }
+   ],
+   "refs": [
+    "mateus 4:12-25",
+    "joao 1:28-2:12",
+    "mateus 16:13-20",
+    "lucas 19:1-28"
+   ]
+  },
+  {
+   "id": "ultima-semana",
+   "titulo": "A última semana de Jesus em Jerusalém",
+   "periodo": "c. 30 ou 33 d.C.",
+   "resumo": "Jesus sai de Betânia, entra em Jerusalém por Betfagé e pelo monte das Oliveiras e purifica o templo. Depois da ceia, atravessa o ribeiro de Cedrom até o Getsêmani, onde é preso, e é crucificado no Gólgota.",
+   "certeza": "alta",
+   "nota": "Os lugares exatos da última ceia, do julgamento e do Gólgota são discutidos; a tradição mais antiga liga o Gólgota à área da Igreja do Santo Sepulcro.",
+   "paradas": [
+    {
+     "lugar": "a4f35bc",
+     "nome": "Betânia",
+     "refs": [
+      "joao 12:1"
+     ]
+    },
+    {
+     "lugar": "abff59d",
+     "nome": "Betfagé",
+     "refs": [
+      "mateus 21:1"
+     ]
+    },
+    {
+     "lugar": "ac2c4c5",
+     "nome": "Monte das Oliveiras",
+     "refs": [
+      "mateus 21:1"
+     ]
+    },
+    {
+     "lugar": "a15257a",
+     "nome": "Jerusalém",
+     "refs": [
+      "mateus 21:10"
+     ],
+     "nota": "Entrada triunfal e purificação do templo."
+    },
+    {
+     "lugar": "a4f35bc",
+     "nome": "Betânia",
+     "refs": [
+      "mateus 21:17"
+     ],
+     "nota": "Jesus passa a noite em Betânia."
+    },
+    {
+     "lugar": "a553110",
+     "nome": "Cedrom",
+     "refs": [
+      "joao 18:1"
+     ]
+    },
+    {
+     "lugar": "a42418f",
+     "nome": "Getsêmani",
+     "refs": [
+      "mateus 26:36"
+     ]
+    },
+    {
+     "lugar": "a631d35",
+     "nome": "Gólgota",
+     "refs": [
+      "mateus 27:33"
+     ]
+    }
+   ],
+   "refs": [
+    "mateus 21:1-17",
+    "joao 18:1",
+    "mateus 26:36-27:33"
+   ]
+  },
+  {
+   "id": "emaus",
+   "titulo": "O caminho de Emaús",
+   "periodo": "c. 30 ou 33 d.C.",
+   "resumo": "No dia da ressurreição, dois discípulos vão de Jerusalém a Emaús; Jesus caminha com eles, e eles o reconhecem ao partir o pão. Na mesma hora voltam a Jerusalém.",
+   "certeza": "média",
+   "nota": "Lucas diz que Emaús ficava a cerca de sessenta estádios (uns 11 km) de Jerusalém; há várias propostas de localização (alguns manuscritos dizem cento e sessenta estádios).",
+   "paradas": [
+    {
+     "lugar": "a15257a",
+     "nome": "Jerusalém",
+     "refs": [
+      "lucas 24:13"
+     ]
+    },
+    {
+     "lugar": "ae7274b",
+     "nome": "Emaús",
+     "refs": [
+      "lucas 24:13"
+     ]
+    },
+    {
+     "lugar": "a15257a",
+     "nome": "Jerusalém",
+     "refs": [
+      "lucas 24:33"
+     ]
+    }
+   ],
+   "refs": [
+    "lucas 24:13-35"
+   ]
+  },
+  {
+   "id": "filipe",
+   "titulo": "Filipe: Samaria, o eunuco e Cesareia",
+   "periodo": "c. 33-35 d.C. (aproximado)",
+   "resumo": "Filipe prega em Samaria. Um anjo o manda ao caminho que desce de Jerusalém a Gaza, onde ele explica Isaías ao eunuco etíope e o batiza. Depois aparece em Azoto e anuncia o evangelho até Cesareia.",
+   "certeza": "média",
+   "nota": "O lugar do batismo do eunuco não é identificado. Azoto é o nome grego de Asdode.",
+   "paradas": [
+    {
+     "lugar": "a282dce",
+     "nome": "Samaria",
+     "refs": [
+      "atos 8:5"
+     ]
+    },
+    {
+     "lugar": "a15257a",
+     "nome": "Jerusalém",
+     "refs": [
+      "atos 8:26"
+     ]
+    },
+    {
+     "lugar": "aa8edd2",
+     "nome": "Gaza",
+     "refs": [
+      "atos 8:26"
+     ],
+     "nota": "Caminho deserto onde encontra o eunuco."
+    },
+    {
+     "lugar": "a30c937",
+     "nome": "Azoto",
+     "refs": [
+      "atos 8:40"
+     ],
+     "nota": "Azoto é o nome grego de Asdode."
+    },
+    {
+     "lugar": "a58735e",
+     "nome": "Cesareia",
+     "refs": [
+      "atos 8:40"
+     ]
+    }
+   ],
+   "refs": [
+    "atos 8:4-40"
+   ]
+  },
+  {
+   "id": "pedro",
+   "titulo": "Pedro: Lida, Jope e Cesareia",
+   "periodo": "c. 35-40 d.C. (aproximado)",
+   "resumo": "Pedro cura Eneias em Lida, ressuscita Tabita em Jope e ali tem a visão do lençol. Chamado por Cornélio, vai a Cesareia, onde gentios recebem o Espírito Santo, e depois presta contas em Jerusalém.",
+   "certeza": "alta",
+   "nota": "As datas são aproximadas.",
+   "paradas": [
+    {
+     "lugar": "a2c5cc7",
+     "nome": "Lida",
+     "refs": [
+      "atos 9:32"
+     ],
+     "nota": "Lida é a antiga Lode."
+    },
+    {
+     "lugar": "ae023a9",
+     "nome": "Jope",
+     "refs": [
+      "atos 9:38"
+     ]
+    },
+    {
+     "lugar": "a58735e",
+     "nome": "Cesareia",
+     "refs": [
+      "atos 10:24"
+     ]
+    },
+    {
+     "lugar": "a15257a",
+     "nome": "Jerusalém",
+     "refs": [
+      "atos 11:2"
+     ]
+    }
+   ],
+   "refs": [
+    "atos 9:32-11:18"
+   ]
+  },
+  {
+   "id": "paulo-conversao",
+   "titulo": "A conversão de Paulo e os primeiros anos",
+   "periodo": "c. 33-36 d.C. (aproximado)",
+   "resumo": "Saulo sai de Jerusalém com cartas contra os cristãos; perto de Damasco vê Jesus ressuscitado e fica cego. Em Damasco, na rua Direita, Ananias o batiza. Depois vai à Arábia, volta a Damasco, foge para Jerusalém e é enviado a Tarso, passando por Cesareia.",
+   "certeza": "média",
+   "nota": "Atos e Gálatas se completam: só Gálatas cita a ida à Arábia e os três anos antes da visita a Jerusalém. As datas são aproximadas.",
+   "paradas": [
+    {
+     "lugar": "a15257a",
+     "nome": "Jerusalém",
+     "refs": [
+      "atos 9:2"
+     ]
+    },
+    {
+     "lugar": "a69c1d4",
+     "nome": "Damasco",
+     "refs": [
+      "atos 9:3"
+     ],
+     "nota": "Encontro com Jesus no caminho."
+    },
+    {
+     "lugar": "af23dbb",
+     "nome": "Rua Direita",
+     "refs": [
+      "atos 9:11"
+     ]
+    },
+    {
+     "lugar": "a0f4ea8",
+     "nome": "Arábia",
+     "refs": [
+      "galatas 1:17"
+     ]
+    },
+    {
+     "lugar": "a69c1d4",
+     "nome": "Damasco",
+     "refs": [
+      "galatas 1:17"
+     ]
+    },
+    {
+     "lugar": "a15257a",
+     "nome": "Jerusalém",
+     "refs": [
+      "atos 9:26"
+     ]
+    },
+    {
+     "lugar": "a58735e",
+     "nome": "Cesareia",
+     "refs": [
+      "atos 9:30"
+     ]
+    },
+    {
+     "lugar": "a666ea0",
+     "nome": "Tarso",
+     "refs": [
+      "atos 9:30"
+     ]
+    }
+   ],
+   "refs": [
+    "atos 9:1-30",
+    "galatas 1:15-21"
+   ]
+  },
+  {
+   "id": "paulo-1",
+   "titulo": "Primeira viagem missionária de Paulo",
+   "periodo": "c. 46-48 d.C. (aproximado)",
+   "resumo": "Enviados pela igreja de Antioquia, Paulo e Barnabé atravessam Chipre de Salamina a Pafo, seguem para Perge e para Antioquia da Pisídia, Icônio, Listra e Derbe, e voltam pelo mesmo caminho, embarcando em Atália.",
+   "certeza": "alta",
+   "nota": "Datas aproximadas, calculadas a partir da inscrição de Gálio (procônsul da Acaia por volta de 51-52 d.C.; veja Atos 18:12); os estudiosos variam um ou dois anos.",
+   "fonte_extra": [
+    {
+     "fonte": "Inscrição de Gálio em Delfos",
+     "referencia": "carta do imperador Cláudio que cita Gálio como procônsul da Acaia",
+     "data": "c. 52 d.C."
+    }
+   ],
+   "paradas": [
+    {
+     "lugar": "ae41ab4",
+     "nome": "Antioquia",
+     "refs": [
+      "atos 13:1"
+     ]
+    },
+    {
+     "lugar": "a6d306d",
+     "nome": "Selêucia",
+     "refs": [
+      "atos 13:4"
+     ]
+    },
+    {
+     "lugar": "afa863b",
+     "nome": "Salamina",
+     "refs": [
+      "atos 13:5"
+     ]
+    },
+    {
+     "lugar": "a314765",
+     "nome": "Pafo",
+     "refs": [
+      "atos 13:6"
+     ],
+     "nota": "O procônsul Sérgio Paulo crê."
+    },
+    {
+     "lugar": "aff04b8",
+     "nome": "Perges",
+     "refs": [
+      "atos 13:13"
+     ],
+     "nota": "João Marcos volta a Jerusalém."
+    },
+    {
+     "lugar": "a6c704a",
+     "nome": "Antioquia da Pisídia",
+     "refs": [
+      "atos 13:14"
+     ],
+     "nota": "Antioquia da Pisídia."
+    },
+    {
+     "lugar": "ae425aa",
+     "nome": "Icônio",
+     "refs": [
+      "atos 13:51"
+     ]
+    },
+    {
+     "lugar": "af0719d",
+     "nome": "Listra",
+     "refs": [
+      "atos 14:8"
+     ],
+     "nota": "Paulo é apedrejado."
+    },
+    {
+     "lugar": "aa401a9",
+     "nome": "Derbe",
+     "refs": [
+      "atos 14:20"
+     ]
+    },
+    {
+     "lugar": "af0719d",
+     "nome": "Listra",
+     "refs": [
+      "atos 14:21"
+     ]
+    },
+    {
+     "lugar": "ae425aa",
+     "nome": "Icônio",
+     "refs": [
+      "atos 14:21"
+     ]
+    },
+    {
+     "lugar": "a6c704a",
+     "nome": "Antioquia da Pisídia",
+     "refs": [
+      "atos 14:21"
+     ]
+    },
+    {
+     "lugar": "aff04b8",
+     "nome": "Perges",
+     "refs": [
+      "atos 14:25"
+     ]
+    },
+    {
+     "lugar": "ac744c1",
+     "nome": "Atália",
+     "refs": [
+      "atos 14:25"
+     ]
+    },
+    {
+     "lugar": "ae41ab4",
+     "nome": "Antioquia",
+     "refs": [
+      "atos 14:26"
+     ]
+    }
+   ],
+   "refs": [
+    "atos 13:1-14:28"
+   ]
+  },
+  {
+   "id": "paulo-2",
+   "titulo": "Segunda viagem missionária de Paulo",
+   "periodo": "c. 49-52 d.C. (aproximado)",
+   "resumo": "Paulo e Silas revisitam as igrejas, recebem Timóteo em Listra e, impedidos de pregar na Ásia, chegam a Trôade, onde Paulo vê o macedônio em visão. Pregam em Filipos, Tessalônica e Bereia; Paulo fala em Atenas, fica um ano e meio em Corinto e volta por Éfeso e Cesareia.",
+   "certeza": "alta",
+   "nota": "Datas aproximadas, calculadas a partir da inscrição de Gálio (procônsul da Acaia por volta de 51-52 d.C.; veja Atos 18:12); os estudiosos variam um ou dois anos. O trajeto pela Frígia e Galácia (At 16:6) é interpretado de formas diferentes.",
+   "fonte_extra": [
+    {
+     "fonte": "Inscrição de Gálio em Delfos",
+     "referencia": "carta do imperador Cláudio que cita Gálio como procônsul da Acaia",
+     "data": "c. 52 d.C."
+    }
+   ],
+   "paradas": [
+    {
+     "lugar": "ae41ab4",
+     "nome": "Antioquia",
+     "refs": [
+      "atos 15:35"
+     ]
+    },
+    {
+     "lugar": "a890adf",
+     "nome": "Síria",
+     "refs": [
+      "atos 15:41"
+     ]
+    },
+    {
+     "lugar": "ad63819",
+     "nome": "Cilícia",
+     "refs": [
+      "atos 15:41"
+     ]
+    },
+    {
+     "lugar": "aa401a9",
+     "nome": "Derbe",
+     "refs": [
+      "atos 16:1"
+     ]
+    },
+    {
+     "lugar": "af0719d",
+     "nome": "Listra",
+     "refs": [
+      "atos 16:1"
+     ],
+     "nota": "Timóteo junta-se ao grupo."
+    },
+    {
+     "lugar": "ab8ae56",
+     "nome": "Frígia",
+     "refs": [
+      "atos 16:6"
+     ]
+    },
+    {
+     "lugar": "a0f440a",
+     "nome": "Galácia",
+     "refs": [
+      "atos 16:6"
+     ]
+    },
+    {
+     "lugar": "a2d9bc8",
+     "nome": "Mísia",
+     "refs": [
+      "atos 16:7"
+     ]
+    },
+    {
+     "lugar": "a91c509",
+     "nome": "Trôade",
+     "refs": [
+      "atos 16:8"
+     ],
+     "nota": "Visão do macedônio."
+    },
+    {
+     "lugar": "a68750d",
+     "nome": "Samotrácia",
+     "refs": [
+      "atos 16:11"
+     ]
+    },
+    {
+     "lugar": "a6a7150",
+     "nome": "Neápolis",
+     "refs": [
+      "atos 16:11"
+     ]
+    },
+    {
+     "lugar": "a49e1d0",
+     "nome": "Filipos",
+     "refs": [
+      "atos 16:12"
+     ],
+     "nota": "Lídia; prisão e terremoto."
+    },
+    {
+     "lugar": "a4bdea7",
+     "nome": "Anfípolis",
+     "refs": [
+      "atos 17:1"
+     ]
+    },
+    {
+     "lugar": "ab20df9",
+     "nome": "Apolônia",
+     "refs": [
+      "atos 17:1"
+     ]
+    },
+    {
+     "lugar": "afa9d8e",
+     "nome": "Tessalônica",
+     "refs": [
+      "atos 17:1"
+     ]
+    },
+    {
+     "lugar": "a62fe31",
+     "nome": "Bereia",
+     "refs": [
+      "atos 17:10"
+     ]
+    },
+    {
+     "lugar": "a1fe6e7",
+     "nome": "Atenas",
+     "refs": [
+      "atos 17:15"
+     ],
+     "nota": "Discurso no Areópago."
+    },
+    {
+     "lugar": "a6f437a",
+     "nome": "Corinto",
+     "refs": [
+      "atos 18:1"
+     ],
+     "nota": "Áquila e Priscila."
+    },
+    {
+     "lugar": "aa31dd3",
+     "nome": "Cencreia",
+     "refs": [
+      "atos 18:18"
+     ]
+    },
+    {
+     "lugar": "a5feb15",
+     "nome": "Éfeso",
+     "refs": [
+      "atos 18:19"
+     ]
+    },
+    {
+     "lugar": "a58735e",
+     "nome": "Cesareia",
+     "refs": [
+      "atos 18:22"
+     ]
+    },
+    {
+     "lugar": "ae41ab4",
+     "nome": "Antioquia",
+     "refs": [
+      "atos 18:22"
+     ]
+    }
+   ],
+   "refs": [
+    "atos 15:36-18:22"
+   ]
+  },
+  {
+   "id": "paulo-3",
+   "titulo": "Terceira viagem missionária de Paulo",
+   "periodo": "c. 53-57 d.C. (aproximado)",
+   "resumo": "Paulo atravessa a Galácia e a Frígia e fica cerca de três anos em Éfeso. Depois visita a Macedônia e a Grécia e, na volta, para em Trôade, despede-se dos presbíteros de Éfeso em Mileto e navega por Cós, Rodes, Pátara, Tiro e Ptolemaida até Cesareia e Jerusalém.",
+   "certeza": "alta",
+   "nota": "Datas aproximadas, calculadas a partir da inscrição de Gálio (procônsul da Acaia por volta de 51-52 d.C.; veja Atos 18:12); os estudiosos variam um ou dois anos.",
+   "fonte_extra": [
+    {
+     "fonte": "Inscrição de Gálio em Delfos",
+     "referencia": "carta do imperador Cláudio que cita Gálio como procônsul da Acaia",
+     "data": "c. 52 d.C."
+    }
+   ],
+   "paradas": [
+    {
+     "lugar": "ae41ab4",
+     "nome": "Antioquia",
+     "refs": [
+      "atos 18:22"
+     ]
+    },
+    {
+     "lugar": "a0f440a",
+     "nome": "Galácia",
+     "refs": [
+      "atos 18:23"
+     ]
+    },
+    {
+     "lugar": "ab8ae56",
+     "nome": "Frígia",
+     "refs": [
+      "atos 18:23"
+     ]
+    },
+    {
+     "lugar": "a5feb15",
+     "nome": "Éfeso",
+     "refs": [
+      "atos 19:1"
+     ],
+     "nota": "Cerca de três anos (At 20:31)."
+    },
+    {
+     "lugar": "a69e1b8",
+     "nome": "Macedônia",
+     "refs": [
+      "atos 20:1"
+     ]
+    },
+    {
+     "lugar": "a4492a0",
+     "nome": "Grécia",
+     "refs": [
+      "atos 20:2"
+     ],
+     "nota": "Três meses."
+    },
+    {
+     "lugar": "a49e1d0",
+     "nome": "Filipos",
+     "refs": [
+      "atos 20:6"
+     ]
+    },
+    {
+     "lugar": "a91c509",
+     "nome": "Trôade",
+     "refs": [
+      "atos 20:6"
+     ],
+     "nota": "Êutico cai da janela."
+    },
+    {
+     "lugar": "a0a2ca7",
+     "nome": "Assôs",
+     "refs": [
+      "atos 20:13"
+     ]
+    },
+    {
+     "lugar": "a33910d",
+     "nome": "Mitilene",
+     "refs": [
+      "atos 20:14"
+     ]
+    },
+    {
+     "lugar": "a4c2c75",
+     "nome": "Quios",
+     "refs": [
+      "atos 20:15"
+     ]
+    },
+    {
+     "lugar": "acf6ec0",
+     "nome": "Samos",
+     "refs": [
+      "atos 20:15"
+     ]
+    },
+    {
+     "lugar": "a55027d",
+     "nome": "Mileto",
+     "refs": [
+      "atos 20:15"
+     ],
+     "nota": "Despedida dos presbíteros de Éfeso."
+    },
+    {
+     "lugar": "a398e5d",
+     "nome": "Cós",
+     "refs": [
+      "atos 21:1"
+     ]
+    },
+    {
+     "lugar": "a4218ee",
+     "nome": "Rodes",
+     "refs": [
+      "atos 21:1"
+     ]
+    },
+    {
+     "lugar": "ade301b",
+     "nome": "Pátara",
+     "refs": [
+      "atos 21:1"
+     ]
+    },
+    {
+     "lugar": "a160272",
+     "nome": "Tiro",
+     "refs": [
+      "atos 21:3"
+     ]
+    },
+    {
+     "lugar": "abc2af0",
+     "nome": "Ptolemaida",
+     "refs": [
+      "atos 21:7"
+     ]
+    },
+    {
+     "lugar": "a58735e",
+     "nome": "Cesareia",
+     "refs": [
+      "atos 21:8"
+     ],
+     "nota": "Casa de Filipe; profecia de Ágabo."
+    },
+    {
+     "lugar": "a15257a",
+     "nome": "Jerusalém",
+     "refs": [
+      "atos 21:17"
+     ]
+    }
+   ],
+   "refs": [
+    "atos 18:23-21:17"
+   ]
+  },
+  {
+   "id": "paulo-roma",
+   "titulo": "A viagem de Paulo a Roma e o naufrágio em Malta",
+   "periodo": "c. 59-60 d.C. (aproximado)",
+   "resumo": "Preso, Paulo apela a César e embarca em Cesareia. O navio passa por Sidom e Mirra, segue com dificuldade por Cnido e Creta, é apanhado por uma tempestade de catorze dias e naufraga em Malta. Na primavera seguinte, Paulo segue por Siracusa, Régio e Putéoli até Roma.",
+   "certeza": "alta",
+   "nota": "Datas aproximadas, calculadas a partir da inscrição de Gálio (procônsul da Acaia por volta de 51-52 d.C.; veja Atos 18:12); os estudiosos variam um ou dois anos. A maioria identifica o lugar do naufrágio com Malta; há quem proponha outras ilhas, como Cefalônia.",
+   "fonte_extra": [
+    {
+     "fonte": "Inscrição de Gálio em Delfos",
+     "referencia": "carta do imperador Cláudio que cita Gálio como procônsul da Acaia",
+     "data": "c. 52 d.C."
+    }
+   ],
+   "paradas": [
+    {
+     "lugar": "a58735e",
+     "nome": "Cesareia",
+     "refs": [
+      "atos 25:13"
+     ],
+     "nota": "Paulo estava preso em Cesareia."
+    },
+    {
+     "lugar": "a98e4d7",
+     "nome": "Sidom",
+     "refs": [
+      "atos 27:3"
+     ]
+    },
+    {
+     "lugar": "aa4b3e2",
+     "nome": "Mira",
+     "refs": [
+      "atos 27:5"
+     ],
+     "nota": "Troca de navio."
+    },
+    {
+     "lugar": "ab793ce",
+     "nome": "Cnido",
+     "refs": [
+      "atos 27:7"
+     ]
+    },
+    {
+     "lugar": "a1c44ea",
+     "nome": "Salmone",
+     "refs": [
+      "atos 27:7"
+     ]
+    },
+    {
+     "lugar": "aae626a",
+     "nome": "Bons Portos",
+     "refs": [
+      "atos 27:8"
+     ]
+    },
+    {
+     "lugar": "aca2b0a",
+     "nome": "Clauda",
+     "refs": [
+      "atos 27:16"
+     ]
+    },
+    {
+     "lugar": "a57835d",
+     "nome": "Malta",
+     "refs": [
+      "atos 28:1"
+     ],
+     "nota": "Naufrágio; três meses na ilha."
+    },
+    {
+     "lugar": "a1e3697",
+     "nome": "Siracusa",
+     "refs": [
+      "atos 28:12"
+     ]
+    },
+    {
+     "lugar": "a63bb26",
+     "nome": "Régio",
+     "refs": [
+      "atos 28:13"
+     ]
+    },
+    {
+     "lugar": "a4488e9",
+     "nome": "Putéoli",
+     "refs": [
+      "atos 28:13"
+     ]
+    },
+    {
+     "lugar": "a121d5e",
+     "nome": "Praça de Ápio",
+     "refs": [
+      "atos 28:15"
+     ]
+    },
+    {
+     "lugar": "afef438",
+     "nome": "Três Tavernas",
+     "refs": [
+      "atos 28:15"
+     ]
+    },
+    {
+     "lugar": "afc8e7a",
+     "nome": "Roma",
+     "refs": [
+      "atos 28:16"
+     ]
+    }
+   ],
+   "refs": [
+    "atos 27:1-28:16"
+   ]
+  }
+ ]
+}

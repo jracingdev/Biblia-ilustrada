@@ -1,0 +1,903 @@
+{
+ "livro": "exodo",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:11-14",
+   "titulo": "A servidão no Egito",
+   "descricao": "Os israelitas são obrigados a fazer barro e tijolos para as cidades de armazenamento de Faraó.",
+   "alt": "Trabalhadores semitas moldando tijolos de barro sob o sol, vigiados por capatazes egípcios.",
+   "prompt": "ancient Semitic laborers making mud bricks under a scorching sun, kneading clay and straw, rows of drying bricks, Egyptian taskmasters with staffs watching, unfinished storehouse walls in the background, weary faces, dusty light"
+  },
+  {
+   "id": "q02",
+   "capitulo": 2,
+   "ref": "2:5-6",
+   "titulo": "Moisés salvo das águas",
+   "descricao": "A filha de Faraó encontra entre os juncos do Nilo um cesto com um bebê hebreu e se compadece dele.",
+   "alt": "Princesa egípcia à beira do rio olhando um bebê num cesto de junco, com servas ao lado.",
+   "prompt": "an Egyptian princess in fine white linen at the reeds of the Nile, her maidservants lifting a small papyrus basket sealed with pitch, a crying baby inside, a young Hebrew girl watching hidden among the reeds, soft morning light on the water"
+  },
+  {
+   "id": "q03",
+   "capitulo": 3,
+   "ref": "3:1-6",
+   "titulo": "A sarça ardente",
+   "descricao": "No monte Horebe, Moisés vê uma sarça que arde sem se consumir e tira as sandálias, pois o lugar é santo.",
+   "alt": "Pastor descalço ajoelhado diante de um arbusto envolto em chamas brilhantes no deserto.",
+   "prompt": "a bearded shepherd kneeling barefoot on rocky ground, sandals beside him, covering his face, before a desert bush engulfed in brilliant flames that do not consume it, the light of the fire as the only divine presence, sheep grazing nearby, mountain slopes of Horeb"
+  },
+  {
+   "id": "q04",
+   "capitulo": 5,
+   "ref": "5:1-2",
+   "titulo": "Moisés e Arão diante de Faraó",
+   "descricao": "Moisés e Arão pedem: Deixa ir meu povo. Faraó responde: Quem é o SENHOR?",
+   "alt": "Dois homens hebreus de pé diante de um faraó altivo em seu trono.",
+   "prompt": "two elderly Hebrew men with staffs standing firm before an arrogant Egyptian pharaoh on a gilded throne, in a grand hall with painted columns, courtiers and guards, tense atmosphere, shafts of light"
+  },
+  {
+   "id": "q05",
+   "capitulo": 7,
+   "ref": "7:10-12",
+   "titulo": "A vara de Arão diante dos magos",
+   "descricao": "A vara de Arão se transforma em serpente e engole as serpentes dos magos do Egito.",
+   "alt": "Serpentes no chão de um salão egípcio, uma maior engolindo as outras, diante de Faraó e magos.",
+   "prompt": "in an Egyptian throne room a large serpent on the stone floor swallowing smaller serpents, Aaron and Moses standing calmly, the pharaoh and his magicians in astonishment, torchlight on painted walls"
+  },
+  {
+   "id": "q06",
+   "capitulo": 10,
+   "ref": "10:21-23",
+   "titulo": "Trevas sobre o Egito",
+   "descricao": "Durante três dias, trevas espessas cobrem o Egito, mas há luz nas casas dos israelitas.",
+   "alt": "Cidade egípcia mergulhada em escuridão, com casas iluminadas de um bairro hebreu ao lado.",
+   "prompt": "an ancient Egyptian city plunged in thick palpable darkness, temples barely visible, while nearby a cluster of humble Hebrew mud houses glows with warm light from within, families at the doorways, dramatic contrast"
+  },
+  {
+   "id": "q07",
+   "capitulo": 12,
+   "ref": "12:7-11",
+   "titulo": "A primeira Páscoa",
+   "descricao": "Com as roupas de viagem, sandálias nos pés e cajado na mão, uma família come às pressas o cordeiro, os pães sem fermento e as ervas amargas.",
+   "alt": "Família hebreia de pé ao redor de uma mesa simples, à noite, vestida para viajar.",
+   "prompt": "a Hebrew family standing around a low table at night in a humble house, dressed for travel with belts fastened, sandals on and staffs in hand, eating roasted lamb, flat unleavened bread and bitter herbs by lamplight, the doorframe marked with a dark red stripe, solemn urgency"
+  },
+  {
+   "id": "q08",
+   "capitulo": 13,
+   "ref": "13:21-22",
+   "titulo": "A coluna de nuvem e de fogo",
+   "descricao": "O povo sai do Egito guiado de dia por uma coluna de nuvem e de noite por uma coluna de fogo.",
+   "alt": "Multidão acampada no deserto à noite sob uma alta coluna de fogo.",
+   "prompt": "a vast multitude of Israelites with tents, carts and flocks in the desert at night, a towering pillar of fire glowing above the camp and lighting the sand, people looking up in awe, deep blue sky"
+  },
+  {
+   "id": "q09",
+   "capitulo": 14,
+   "ref": "14:21-22",
+   "titulo": "A travessia do mar",
+   "descricao": "O mar se abre por um forte vento oriental, e Israel atravessa em terra seca entre muralhas de água.",
+   "alt": "Multidão atravessando um caminho seco entre duas paredes de água, com Moisés estendendo a mão.",
+   "prompt": "Moses standing on a rock with his arm and staff stretched over the sea, a multitude of Israelite families with animals walking on a dry seabed between towering walls of water, strong wind, dawn light breaking through dark clouds"
+  },
+  {
+   "id": "q10",
+   "capitulo": 15,
+   "ref": "15:20-21",
+   "titulo": "O cântico de Miriã",
+   "descricao": "Do outro lado do mar, Miriã toma um pandeiro, e as mulheres a seguem cantando e dançando.",
+   "alt": "Mulheres dançando com pandeiros na praia, lideradas por uma mulher mais velha.",
+   "prompt": "an older Hebrew woman leading a joyful group of women dancing with tambourines on the shore of the sea, flowing robes, the calm sea behind them, families celebrating, bright morning light"
+  },
+  {
+   "id": "q11",
+   "capitulo": 16,
+   "ref": "16:13-18",
+   "titulo": "O maná no deserto",
+   "descricao": "De manhã, o chão do deserto aparece coberto de grãos miúdos e brancos, e cada família recolhe o pão do dia.",
+   "alt": "Famílias recolhendo pequenos grãos brancos do chão do deserto ao amanhecer.",
+   "prompt": "Israelite men, women and children at dawn gathering small round white flakes covering the desert ground like frost, filling baskets and jars, tents of the camp behind them, soft pink morning light"
+  },
+  {
+   "id": "q12",
+   "capitulo": 17,
+   "ref": "17:10-13",
+   "titulo": "As mãos erguidas de Moisés",
+   "descricao": "Sentado numa pedra no alto do morro, Moisés tem as mãos sustentadas por Arão e Hur enquanto Josué combate Amaleque no vale.",
+   "alt": "Homem idoso sentado numa pedra no alto de um morro, com os braços erguidos apoiados por dois homens.",
+   "prompt": "on a hilltop an old bearded man seated on a stone with his arms raised holding a staff, two men on either side holding up his tired arms, far below in the valley a battle seen from a great distance as dust and banners, sunset light"
+  },
+  {
+   "id": "q13",
+   "capitulo": 19,
+   "ref": "19:16-20",
+   "titulo": "O monte Sinai em fogo",
+   "descricao": "No terceiro dia, há trovões, relâmpagos, nuvem espessa e som de trombeta; o monte fumega e o povo treme ao pé dele.",
+   "alt": "Povo à distância diante de um monte coberto de fumaça, fogo e relâmpagos.",
+   "prompt": "a great multitude standing at the foot of a rugged mountain, the summit wrapped in thick dark cloud, smoke rising like a furnace, flashes of lightning and fire, people trembling and covering their faces, a lone figure climbing the slope"
+  },
+  {
+   "id": "q14",
+   "capitulo": 25,
+   "ref": "25:10-22",
+   "titulo": "A arca da aliança",
+   "descricao": "Uma caixa de madeira de acácia coberta de ouro, com dois querubins de ouro voltados um para o outro sobre a tampa.",
+   "alt": "Arca dourada com dois querubins de asas estendidas sobre a tampa, num ambiente escuro iluminado.",
+   "prompt": "the ark of the covenant, a wooden chest overlaid with gold with carrying poles, two hammered gold cherubim facing each other with wings stretched over the lid, resting in a dim sanctuary behind a woven curtain, a soft radiant glow above the cover"
+  },
+  {
+   "id": "q15",
+   "capitulo": 28,
+   "ref": "28:2-30",
+   "titulo": "As vestes do sumo sacerdote",
+   "descricao": "Arão vestido com éfode, peitoral de doze pedras, manto azul e mitra com a lâmina de ouro.",
+   "alt": "Sacerdote idoso com vestes coloridas e um peitoral de doze pedras preciosas.",
+   "prompt": "an elderly bearded high priest in sacred vestments, a blue robe with golden bells and pomegranates at the hem, a woven ephod of gold blue purple and scarlet, a square breastplate with twelve engraved gemstones in four rows, a linen turban with a gold plate, standing in the court of a tent sanctuary"
+  },
+  {
+   "id": "q16",
+   "capitulo": 32,
+   "ref": "32:1-6",
+   "titulo": "O bezerro de ouro",
+   "descricao": "Ao pé do monte, o povo oferece sacrifícios e festeja diante de um bezerro de ouro feito por Arão.",
+   "alt": "Multidão festejando ao redor de uma estátua dourada de bezerro num pedestal no deserto.",
+   "prompt": "a crowd of Israelites feasting and dancing around a golden calf idol on a stone pedestal in the desert camp, an altar with smoke, Aaron standing uneasily nearby, the dark mountain looming behind, harsh light"
+  },
+  {
+   "id": "q17",
+   "capitulo": 32,
+   "ref": "32:19",
+   "titulo": "Moisés quebra as tábuas",
+   "descricao": "Ao descer e ver o bezerro e as danças, Moisés lança as tábuas de pedra e as quebra ao pé do monte.",
+   "alt": "Homem idoso no alto de uma encosta erguendo duas tábuas de pedra acima da cabeça, com o acampamento abaixo.",
+   "prompt": "an old bearded man on a rocky slope raising two stone tablets above his head in grief and anger, about to cast them down, below him the camp with the golden calf and dancing crowd, a young assistant beside him, stormy sky"
+  },
+  {
+   "id": "q18",
+   "capitulo": 34,
+   "ref": "34:29-35",
+   "titulo": "O rosto resplandecente de Moisés",
+   "descricao": "Moisés desce do Sinai com as novas tábuas, sem saber que seu rosto brilha; o povo tem medo de se aproximar.",
+   "alt": "Homem descendo do monte com tábuas de pedra e o rosto iluminado, enquanto o povo recua.",
+   "prompt": "an old bearded man descending a mountain path holding two stone tablets, his face shining with a soft radiant glow, Aaron and the people below stepping back in fear and wonder, morning light"
+  },
+  {
+   "id": "q19",
+   "capitulo": 35,
+   "ref": "35:20-29",
+   "titulo": "O povo traz ofertas",
+   "descricao": "Homens e mulheres de coração generoso trazem ouro, tecidos, peles e madeira para a obra do tabernáculo.",
+   "alt": "Pessoas trazendo joias, tecidos coloridos e madeira e depositando diante de artesãos.",
+   "prompt": "Israelite men and women bringing gifts to a workshop in the desert camp, gold jewelry, rolls of blue purple and scarlet yarn, fine linen, ram skins and acacia wood, women spinning goat hair, craftsmen receiving the offerings, joyful generosity"
+  },
+  {
+   "id": "q20",
+   "capitulo": 40,
+   "ref": "40:34-38",
+   "titulo": "A glória enche o tabernáculo",
+   "descricao": "Terminada a obra, a nuvem cobre a tenda do encontro e a glória do SENHOR enche o tabernáculo.",
+   "alt": "Tenda sagrada no deserto coberta por uma nuvem luminosa, com o povo olhando de longe.",
+   "prompt": "the completed tabernacle tent in its courtyard of linen curtains in the middle of a desert camp, a luminous cloud descending and covering it, radiant light filling the sanctuary, Moses standing outside unable to enter, tribes in their tents watching in reverence"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "sarca-ardente",
+   "termo": "Sarça ardente",
+   "ref": "3:2",
+   "explicado": false,
+   "significado": "O texto diz que a sarça ardia e não se consumia, e que ali estava o anjo do SENHOR. Muitos leram nela a imagem de um Deus santo que se aproxima sem destruir; é interpretação."
+  },
+  {
+   "id": "vara",
+   "termo": "Vara (cajado) de Moisés",
+   "ref": "4:2-4",
+   "explicado": false,
+   "significado": "O cajado comum do pastor se torna \"a vara de Deus\" (4:20) pela qual vêm os sinais. Representa que o poder é de Deus, não de Moisés."
+  },
+  {
+   "id": "coracao-endurecido",
+   "termo": "Coração endurecido de Faraó",
+   "ref": "7:13",
+   "explicado": false,
+   "significado": "O texto diz ora que Faraó endureceu o coração, ora que Deus o endureceu (7:3; 8:15; 9:12). Como conciliar as duas coisas é discutido por teólogos."
+  },
+  {
+   "id": "sangue-nos-umbrais",
+   "termo": "Sangue nos umbrais",
+   "ref": "12:13",
+   "explicado": true,
+   "significado": "O próprio texto explica: o sangue será sinal nas casas, e o SENHOR passará adiante delas (12:13, 23)."
+  },
+  {
+   "id": "cordeiro-pascal",
+   "termo": "Cordeiro da Páscoa",
+   "ref": "12:3-11",
+   "explicado": true,
+   "significado": "O texto explica o rito aos filhos: é o sacrifício da Páscoa, porque o SENHOR passou sobre as casas de Israel (12:26-27). O Novo Testamento chama Cristo de \"nossa Páscoa\" (1 Co 5:7), leitura cristã posterior."
+  },
+  {
+   "id": "pao-sem-fermento",
+   "termo": "Pão sem fermento",
+   "ref": "12:39",
+   "explicado": true,
+   "significado": "O texto explica que a massa não teve tempo de levedar porque saíram às pressas (12:39), e a festa lembra essa saída (13:8). Mais tarde o fermento virou também imagem de corrupção (1 Co 5:8)."
+  },
+  {
+   "id": "coluna-nuvem-fogo",
+   "termo": "Coluna de nuvem e de fogo",
+   "ref": "13:21",
+   "explicado": true,
+   "significado": "O texto diz para que serve: guiar de dia e iluminar de noite, mostrando a presença do SENHOR à frente do povo (13:21-22)."
+  },
+  {
+   "id": "mar-aberto",
+   "termo": "O mar aberto",
+   "ref": "14:21-22",
+   "explicado": false,
+   "significado": "A passagem pelo mar marca a libertação definitiva do Egito. Paulo a compara ao batismo (1 Co 10:1-2), uma leitura posterior."
+  },
+  {
+   "id": "mana",
+   "termo": "Maná",
+   "ref": "16:31",
+   "explicado": true,
+   "significado": "O texto o chama de \"pão do céu\" e diz que era uma prova de confiança diária (16:4); um gômer foi guardado como memória (16:32). Jesus se apresenta como o pão do céu em João 6."
+  },
+  {
+   "id": "maos-erguidas",
+   "termo": "Mãos erguidas de Moisés",
+   "ref": "17:11-12",
+   "explicado": false,
+   "significado": "Enquanto Moisés mantém as mãos erguidas, Israel prevalece. O texto não explica o gesto; costuma ser lido como imagem de oração e de dependência de Deus, e da ajuda mútua de Arão e Hur."
+  },
+  {
+   "id": "monte-sinai",
+   "termo": "Monte Sinai em fogo e nuvem",
+   "ref": "19:18",
+   "explicado": false,
+   "significado": "Fogo, fumaça, trovões e trombeta mostram a santidade de Deus que desce ao monte. O povo deve manter distância (19:12)."
+  },
+  {
+   "id": "tabuas-da-lei",
+   "termo": "Tábuas de pedra",
+   "ref": "31:18",
+   "explicado": false,
+   "significado": "São chamadas \"tábuas do testemunho\", escritas pelo dedo de Deus (31:18), e contêm \"os dez dizeres\" (34:28). Quebradas e refeitas, mostram aliança rompida e renovada."
+  },
+  {
+   "id": "arca-da-alianca",
+   "termo": "Arca da aliança",
+   "ref": "25:10-22",
+   "explicado": false,
+   "significado": "Guarda o testemunho (25:16) e é o lugar de onde Deus diz que falará a Moisés (25:22). É lida como o trono de Deus entre o povo."
+  },
+  {
+   "id": "propiciatorio",
+   "termo": "Propiciatório",
+   "ref": "25:17-22",
+   "explicado": false,
+   "significado": "A tampa de ouro da arca, entre os querubins. Seu nome se liga à expiação (Lv 16:14-15). Em Romanos 3:25 a mesma palavra grega é aplicada a Cristo."
+  },
+  {
+   "id": "candelabro",
+   "termo": "Candelabro de ouro",
+   "ref": "25:31",
+   "explicado": false,
+   "significado": "Feito como uma árvore com ramos, botões e flores, ilumina o lugar santo. Alguns veem nele a lembrança da árvore da vida; o texto não explica."
+  },
+  {
+   "id": "pao-da-proposicao",
+   "termo": "Pão da proposição",
+   "ref": "25:30",
+   "explicado": false,
+   "significado": "Pães colocados continuamente \"diante de mim\" sobre a mesa. Costuma ser lido como sinal da comunhão entre Deus e as doze tribos (ver Lv 24:5-9)."
+  },
+  {
+   "id": "veu",
+   "termo": "Véu do santuário",
+   "ref": "26:31-33",
+   "explicado": true,
+   "significado": "O texto diz sua função: separar o lugar santo do santíssimo (26:33). Os Evangelhos contam que o véu do templo se rasgou na morte de Jesus."
+  },
+  {
+   "id": "peitoral",
+   "termo": "Peitoral com doze pedras",
+   "ref": "28:29",
+   "explicado": true,
+   "significado": "O texto explica: Arão leva os nomes das doze tribos sobre o coração, \"para memória diante do SENHOR\" (28:21, 29)."
+  },
+  {
+   "id": "sabado",
+   "termo": "Sábado",
+   "ref": "31:13",
+   "explicado": true,
+   "significado": "O texto o chama de \"sinal entre mim e vós\", para que saibam que o SENHOR os santifica (31:13), e lembra o descanso de Deus na criação (20:11)."
+  },
+  {
+   "id": "bezerro-de-ouro",
+   "termo": "Bezerro de ouro",
+   "ref": "32:4",
+   "explicado": false,
+   "significado": "Imagem feita para representar o deus que os tirou do Egito, quebrando o mandamento contra imagens (20:4). Em Canaã e no Egito o touro era símbolo de força divina."
+  },
+  {
+   "id": "rosto-resplandecente",
+   "termo": "Rosto resplandecente e véu de Moisés",
+   "ref": "34:29-35",
+   "explicado": false,
+   "significado": "Depois de falar com Deus, o rosto de Moisés brilha e ele o cobre com um véu. Paulo retoma a cena em 2 Coríntios 3, com leitura própria."
+  },
+  {
+   "id": "nuvem-gloria",
+   "termo": "Nuvem e glória no tabernáculo",
+   "ref": "40:34",
+   "explicado": false,
+   "significado": "A nuvem cobre a tenda e a glória do SENHOR a enche: Deus passa a habitar no meio do povo, como prometido em 29:45."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "yhwh",
+   "pt": "SENHOR (o nome divino)",
+   "refs": [
+    "3:15",
+    "6:2"
+   ],
+   "hebraico": {
+    "lema": "יהוה",
+    "translit": "YHWH",
+    "strong": "H3068"
+   },
+   "grego": {
+    "lema": "κύριος",
+    "translit": "kyrios",
+    "strong": "G2962"
+   },
+   "sentido": "o nome próprio do Deus de Israel",
+   "latim": {
+    "forma": "Dominus",
+    "nota": "A Vulgata segue a Septuaginta e traduz o nome por Dominus."
+   },
+   "outras": [],
+   "explicacao": "Por respeito, os judeus deixaram de pronunciar o nome e liam Adonai (\"Senhor\"). Por isso muitas Bíblias escrevem SENHOR em maiúsculas. A pronúncia original é incerta.",
+   "interpretacao": false
+  },
+  {
+   "id": "ehyeh",
+   "pt": "EU SOU O QUE SOU",
+   "refs": [
+    "3:14"
+   ],
+   "hebraico": {
+    "lema": "אֶהְיֶה אֲשֶׁר אֶהְיֶה",
+    "translit": "ehyeh asher ehyeh",
+    "strong": "H1961"
+   },
+   "grego": {
+    "lema": "ἐγώ εἰμι ὁ ὤν",
+    "translit": "egō eimi ho ōn"
+   },
+   "sentido": "eu sou o que sou / serei o que serei",
+   "latim": {
+    "forma": "Ego sum qui sum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O verbo \"ser\" no hebraico também pode indicar futuro: \"serei o que serei\". Por isso há quem leia aqui o ser eterno de Deus e quem leia a promessa de presença (\"eu serei contigo\", 3:12). As duas leituras têm defensores.",
+   "interpretacao": true
+  },
+  {
+   "id": "pesach",
+   "pt": "Páscoa",
+   "refs": [
+    "12:11",
+    "12:27"
+   ],
+   "hebraico": {
+    "lema": "פֶּסַח",
+    "translit": "pesach",
+    "strong": "H6453"
+   },
+   "grego": {
+    "lema": "πάσχα",
+    "translit": "pascha",
+    "strong": "G3957"
+   },
+   "sentido": "passagem; o verbo ligado significa passar por cima, poupar",
+   "latim": {
+    "forma": "est enim Phase id est transitus Domini",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O texto liga o nome ao SENHOR \"passar\" sobre as casas marcadas (12:13, 27). O grego pascha transcreve a forma aramaica.",
+   "interpretacao": false
+  },
+  {
+   "id": "matsah",
+   "pt": "Pão sem fermento",
+   "refs": [
+    "12:8",
+    "12:15"
+   ],
+   "hebraico": {
+    "lema": "מַצָּה",
+    "translit": "matsah",
+    "strong": "H4682"
+   },
+   "sentido": "pão ázimo, não levedado",
+   "latim": {
+    "forma": "azyma",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Dá nome à festa dos Pães Ázimos (23:15), unida à Páscoa. O pão achatado lembra a pressa da saída.",
+   "interpretacao": false
+  },
+  {
+   "id": "gaal",
+   "pt": "Resgatar",
+   "refs": [
+    "6:6",
+    "15:13"
+   ],
+   "hebraico": {
+    "lema": "גָּאַל",
+    "translit": "ga'al",
+    "strong": "H1350"
+   },
+   "sentido": "resgatar, agir como parente protetor",
+   "latim": {
+    "forma": "redimam in brachio excelso",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O go'el era o parente que resgatava um familiar escravizado ou endividado. Deus se apresenta como o parente que resgata Israel da escravidão.",
+   "interpretacao": false
+  },
+  {
+   "id": "chazaq",
+   "pt": "Endurecer",
+   "refs": [
+    "4:21",
+    "9:12"
+   ],
+   "hebraico": {
+    "lema": "חָזַק",
+    "translit": "chazaq",
+    "strong": "H2388"
+   },
+   "sentido": "tornar firme, forte, obstinado",
+   "latim": {
+    "forma": "ego indurabo cor eius",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Êxodo usa três verbos diferentes para o coração de Faraó (endurecer, tornar pesado, tornar duro). A relação entre a decisão de Faraó e a ação de Deus é debatida.",
+   "interpretacao": true
+  },
+  {
+   "id": "ot",
+   "pt": "Sinal",
+   "refs": [
+    "3:12",
+    "12:13",
+    "31:13"
+   ],
+   "hebraico": {
+    "lema": "אוֹת",
+    "translit": "ot",
+    "strong": "H226"
+   },
+   "grego": {
+    "lema": "σημεῖον",
+    "translit": "sēmeion",
+    "strong": "G4592"
+   },
+   "sentido": "sinal, marca, prova",
+   "latim": {
+    "forma": "signum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Sinais acompanham o chamado de Moisés, as pragas (7:3), o sangue da Páscoa e o sábado. Um sinal aponta para algo além de si.",
+   "interpretacao": false
+  },
+  {
+   "id": "man",
+   "pt": "Maná",
+   "refs": [
+    "16:15",
+    "16:31"
+   ],
+   "hebraico": {
+    "lema": "מָן",
+    "translit": "man",
+    "strong": "H4478"
+   },
+   "sentido": "\"que é isto?\"",
+   "latim": {
+    "forma": "Manhu quod significat quid est hoc",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Ao ver o alimento, o povo pergunta: \"Que é isto?\" (16:15). O nome maná costuma ser explicado a partir dessa pergunta.",
+   "interpretacao": false
+  },
+  {
+   "id": "segullah",
+   "pt": "Especial tesouro",
+   "refs": [
+    "19:5"
+   ],
+   "hebraico": {
+    "lema": "סְגֻלָּה",
+    "translit": "segullah",
+    "strong": "H5459"
+   },
+   "sentido": "propriedade particular, tesouro pessoal",
+   "latim": {
+    "forma": "eritis mihi in peculium de cunctis populis",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A palavra era usada para o tesouro pessoal de um rei. Israel é escolhido não por ser maior, mas para ser \"reino de sacerdotes\" no meio dos povos (19:6).",
+   "interpretacao": false
+  },
+  {
+   "id": "torah",
+   "pt": "Lei / instrução",
+   "refs": [
+    "12:49",
+    "13:9",
+    "24:12"
+   ],
+   "hebraico": {
+    "lema": "תּוֹרָה",
+    "translit": "torah",
+    "strong": "H8451"
+   },
+   "grego": {
+    "lema": "νόμος",
+    "translit": "nomos",
+    "strong": "G3551"
+   },
+   "sentido": "instrução, ensino, lei",
+   "latim": {
+    "forma": "lex",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Torah é mais que código legal: é o ensino de Deus para a vida do povo. A Septuaginta traduziu por nomos (\"lei\"), o que influenciou a leitura posterior.",
+   "interpretacao": false
+  },
+  {
+   "id": "devarim",
+   "pt": "Os dez dizeres",
+   "refs": [
+    "34:28",
+    "20:1"
+   ],
+   "hebraico": {
+    "lema": "עֲשֶׂרֶת הַדְּבָרִים",
+    "translit": "aseret hadevarim",
+    "strong": "H1697"
+   },
+   "grego": {
+    "lema": "δέκα λόγοι",
+    "translit": "deka logoi"
+   },
+   "sentido": "as dez palavras",
+   "latim": {
+    "forma": "verba foederis decem",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O texto não chama de \"mandamentos\", mas de \"palavras\" ou \"dizeres\". Daí o nome grego \"Decálogo\". Judeus, católicos e protestantes dividem as dez palavras de modo um pouco diferente.",
+   "interpretacao": false
+  },
+  {
+   "id": "shabbat",
+   "pt": "Sábado / dia do repouso",
+   "refs": [
+    "20:8",
+    "31:13"
+   ],
+   "hebraico": {
+    "lema": "שַׁבָּת",
+    "translit": "shabbat",
+    "strong": "H7676"
+   },
+   "grego": {
+    "lema": "σάββατον",
+    "translit": "sabbaton",
+    "strong": "G4521"
+   },
+   "sentido": "cessação, descanso",
+   "latim": {
+    "forma": "Memento ut diem sabbati sanctifices",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Vem do verbo \"cessar\". Em Êxodo 20:11 o motivo é o descanso de Deus na criação; em Deuteronômio 5:15 é a libertação do Egito.",
+   "interpretacao": false
+  },
+  {
+   "id": "mishkan",
+   "pt": "Tabernáculo",
+   "refs": [
+    "25:9",
+    "40:34"
+   ],
+   "hebraico": {
+    "lema": "מִשְׁכָּן",
+    "translit": "mishkan",
+    "strong": "H4908"
+   },
+   "grego": {
+    "lema": "σκηνή",
+    "translit": "skēnē",
+    "strong": "G4633"
+   },
+   "sentido": "morada, habitação",
+   "latim": {
+    "forma": "tabernaculum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Vem do verbo shakan, \"habitar\": \"farão para mim um santuário, e eu habitarei entre eles\" (25:8). João 1:14 usa uma imagem parecida: o Verbo \"armou sua tenda\" entre nós.",
+   "interpretacao": false
+  },
+  {
+   "id": "kapporet",
+   "pt": "Propiciatório",
+   "refs": [
+    "25:17",
+    "25:21"
+   ],
+   "hebraico": {
+    "lema": "כַּפֹּרֶת",
+    "translit": "kapporet",
+    "strong": "H3727"
+   },
+   "grego": {
+    "lema": "ἱλαστήριον",
+    "translit": "hilastērion",
+    "strong": "G2435"
+   },
+   "sentido": "tampa da arca; ligada a kipper, fazer expiação",
+   "latim": {
+    "forma": "propitiatorium",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O termo hebraico liga a tampa da arca ao rito de expiação. A Septuaginta usou hilastērion, palavra que Paulo aplica a Cristo em Romanos 3:25.",
+   "interpretacao": false
+  },
+  {
+   "id": "kavod",
+   "pt": "Glória",
+   "refs": [
+    "16:10",
+    "33:18",
+    "40:34"
+   ],
+   "hebraico": {
+    "lema": "כָּבוֹד",
+    "translit": "kavod",
+    "strong": "H3519"
+   },
+   "grego": {
+    "lema": "δόξα",
+    "translit": "doxa",
+    "strong": "G1391"
+   },
+   "sentido": "peso, importância, esplendor",
+   "latim": {
+    "forma": "gloria Domini",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A raiz significa \"ser pesado\": a glória é o \"peso\" da presença de Deus, que se manifesta na nuvem e enche o tabernáculo.",
+   "interpretacao": false
+  },
+  {
+   "id": "qadosh",
+   "pt": "Santo",
+   "refs": [
+    "3:5",
+    "19:6",
+    "28:36"
+   ],
+   "hebraico": {
+    "lema": "קָדוֹשׁ",
+    "translit": "qadosh",
+    "strong": "H6918"
+   },
+   "sentido": "separado, consagrado, pertencente a Deus",
+   "latim": {
+    "forma": "sanctus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Terra santa, nação santa, \"Santidade ao SENHOR\": santo é o que pertence a Deus e é separado para Ele. Esse tema se desenvolve em Levítico.",
+   "interpretacao": false
+  },
+  {
+   "id": "chesed-emet",
+   "pt": "Misericórdia e verdade",
+   "refs": [
+    "34:6-7"
+   ],
+   "hebraico": {
+    "lema": "חֶסֶד וֶאֱמֶת",
+    "translit": "chesed ve'emet",
+    "strong": "H2617, H571"
+   },
+   "sentido": "amor leal e fidelidade",
+   "latim": {
+    "forma": "multae miserationis ac verus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Na proclamação do nome em 34:6-7, Deus se descreve como misericordioso e fiel. Esta fórmula é repetida muitas vezes no Antigo Testamento (por exemplo, Sl 86:15; Jn 4:2).",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "merneptah",
+   "titulo": "Estela de Merneptá: a primeira menção a Israel",
+   "refs": [
+    "1:7"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Estela de Merneptá",
+   "referencia": "Museu Egípcio do Cairo, JE 31408",
+   "data_fonte": "c. 1208 a.C.",
+   "data_evento": "campanha de Merneptá em Canaã; estela encontrada por Flinders Petrie em 1896",
+   "resumo": "Num hino de vitória do faraó Merneptá, uma linha diz: \"Israel está devastado, sua semente não existe\". O sinal hieroglífico indica um povo, não uma cidade.",
+   "relacao": "É a menção mais antiga de Israel fora da Bíblia e mostra um povo já presente em Canaã no fim do séc. XIII a.C. Não fala do êxodo, mas é usada nos debates sobre quando ele teria acontecido.",
+   "grau": "associacao"
+  },
+  {
+   "id": "shasu-yhw",
+   "titulo": "\"Terra dos shasu de Yhw\" nas listas egípcias",
+   "refs": [
+    "3:15"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Lista topográfica do templo de Amenófis III em Soleb",
+   "referencia": "Soleb, Núbia (atual Sudão)",
+   "data_fonte": "c. séc. XIV a.C.",
+   "data_evento": "grupos de nômades shasu ao sul de Canaã",
+   "resumo": "Entre os povos inimigos do Egito aparece a \"terra dos shasu de Yhw\", nome de um lugar ou grupo de nômades de pastores.",
+   "relacao": "Muitos estudiosos ligam \"Yhw\" ao nome divino YHWH e à região de Edom e Midiã, onde Moisés encontra Deus (3:1). A ligação é discutida e não prova nada sobre Moisés.",
+   "grau": "associacao"
+  },
+  {
+   "id": "sargao-cesto",
+   "titulo": "A lenda do nascimento de Sargão",
+   "refs": [
+    "2:3"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Lenda de Sargão de Acade",
+   "referencia": "cópias neoassírias de Nínive; British Museum",
+   "data_fonte": "cópias do séc. VII a.C. (composição anterior, data debatida)",
+   "data_evento": "infância lendária de Sargão (séc. XXIV a.C.)",
+   "resumo": "Sargão conta que a mãe o colocou num cesto de juncos vedado com betume e o lançou ao rio, de onde foi tirado e criado por outro homem.",
+   "relacao": "O paralelo com Moisés (2:3) é notável. Alguns veem empréstimo literário; outros lembram que abandonar bebês em rios era um tema conhecido. Não decide a historicidade de nenhum dos dois relatos.",
+   "grau": "associacao"
+  },
+  {
+   "id": "rekhmire-tijolos",
+   "titulo": "Fabricação de tijolos no túmulo de Rekhmire",
+   "refs": [
+    "1:14",
+    "5:7"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Pinturas do túmulo de Rekhmire, vizir de Tutmés III",
+   "referencia": "Tebas Ocidental, Egito (túmulo TT100)",
+   "data_fonte": "c. séc. XV a.C.",
+   "data_evento": "trabalho forçado de estrangeiros no Egito",
+   "resumo": "As pinturas mostram trabalhadores estrangeiros, entre eles semitas, buscando água, moldando tijolos de barro e construindo, sob a vigilância de capatazes com varas.",
+   "relacao": "Ilustra o tipo de trabalho descrito em 1:14 e 5:7 (barro, tijolos, capatazes). Não fala dos israelitas.",
+   "grau": "associacao"
+  },
+  {
+   "id": "leiden-348-apiru",
+   "titulo": "Os \"apiru\" que arrastavam pedras para Ramessés",
+   "refs": [
+    "1:11"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Papiro Leiden I 348",
+   "referencia": "Rijksmuseum van Oudheden, Leiden",
+   "data_fonte": "séc. XIII a.C. (reinado de Ramessés II)",
+   "data_evento": "obras de Ramessés II",
+   "resumo": "Uma carta manda distribuir trigo aos soldados e aos \"apiru\" que arrastam pedras para o grande pilone de uma construção de Ramessés.",
+   "relacao": "Mostra grupos estrangeiros em trabalhos pesados no tempo de Ramessés, cujo nome aparece em 1:11. Se \"apiru\" tem relação com \"hebreu\" é um debate antigo e não resolvido; a maioria pensa que o termo era mais amplo.",
+   "grau": "associacao"
+  },
+  {
+   "id": "pi-ramesses",
+   "titulo": "Pi-Ramessés, a cidade de Ramessés",
+   "refs": [
+    "1:11"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Escavações de Qantir e Tell el-Dab'a",
+   "referencia": "delta oriental do Nilo, Egito",
+   "data_fonte": "cidade construída no séc. XIII a.C.; escavações sistemáticas a partir do séc. XX",
+   "data_evento": "construção da capital de Ramessés II",
+   "resumo": "As escavações identificaram em Qantir a grande capital Pi-Ramessés, ao lado da antiga Avaris, cidade com forte presença de povos vindos de Canaã.",
+   "relacao": "Muitos identificam a \"Ramessés\" de 1:11 com essa cidade. Quem defende uma data mais antiga para o êxodo explica o nome como atualização posterior. A arqueologia mostra o lugar e a presença semita na região, não o êxodo em si.",
+   "grau": "associacao"
+  },
+  {
+   "id": "ipuwer",
+   "titulo": "As Admoestações de Ipuwer",
+   "refs": [
+    "7:20-21"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Admoestações de Ipuwer",
+   "referencia": "Papiro Leiden I 344 (recto), Rijksmuseum van Oudheden, Leiden",
+   "data_fonte": "cópia do séc. XIII a.C.; composição mais antiga (data debatida)",
+   "data_evento": "lamento literário sobre um Egito em caos",
+   "resumo": "Um sábio descreve o Egito virado de cabeça para baixo: \"o rio é sangue\", os pobres ficam ricos, há fome e desordem.",
+   "relacao": "Às vezes é apresentado como prova das pragas, mas a maioria dos egiptólogos o vê como texto literário de lamento, mais antigo e sem ligação com o êxodo. Serve como paralelo de linguagem, não como confirmação.",
+   "grau": "associacao"
+  },
+  {
+   "id": "hamurabi-alianca",
+   "titulo": "Leis paralelas no Código de Hamurabi",
+   "refs": [
+    "21:23-25",
+    "21:28-32"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Código de Hamurabi",
+   "referencia": "estela no Museu do Louvre (Sb 8), §196-200 e §250-252",
+   "data_fonte": "c. 1754 a.C.",
+   "data_evento": "direito da Mesopotâmia antiga",
+   "resumo": "As leis estabelecem a pena de \"olho por olho\" e \"dente por dente\" e tratam do boi que chifra uma pessoa, distinguindo o caso do boi já conhecido por chifrar.",
+   "relacao": "O Livro da Aliança (Êx 21-23) usa formas e casos parecidos. A comparação mostra o pano de fundo jurídico comum e também diferenças, como o valor igual da vida do escravo e do livre em alguns casos bíblicos.",
+   "grau": "associacao"
+  },
+  {
+   "id": "josefo-maneton",
+   "titulo": "Josefo, Maneton e os hicsos",
+   "refs": [
+    "12:37-41"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Contra Apião",
+   "referencia": "livro 1, §73-105 e §227-287",
+   "data_fonte": "c. 95-100 d.C.",
+   "data_evento": "a expulsão dos hicsos do Egito (c. séc. XVI a.C.) e relatos egípcios sobre a saída dos judeus",
+   "resumo": "Josefo cita o sacerdote egípcio Maneton (séc. III a.C.) sobre os hicsos, governantes estrangeiros expulsos do Egito, e os identifica com os antepassados dos judeus. Também rebate versões egípcias hostis sobre Moisés.",
+   "relacao": "Mostra como o êxodo era discutido na Antiguidade. A identificação dos hicsos com Israel é de Josefo e é rejeitada ou vista com cautela pela maioria dos estudiosos.",
+   "grau": "associacao"
+  },
+  {
+   "id": "serabit-protossinaitico",
+   "titulo": "Inscrições protossinaíticas de Serabit el-Khadim",
+   "refs": [
+    "24:4"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Inscrições protossinaíticas",
+   "referencia": "Serabit el-Khadim, península do Sinai (descobertas por Flinders Petrie em 1904-1905)",
+   "data_fonte": "c. séc. XIX-XV a.C. (data debatida)",
+   "data_evento": "trabalhadores semitas nas minas de turquesa do Sinai",
+   "resumo": "Pequenas inscrições feitas por trabalhadores semitas nas minas egípcias usam uma das formas mais antigas de alfabeto conhecidas.",
+   "relacao": "Mostra que semitas no Sinai já escreviam com alfabeto no 2º milênio a.C., dado usado no debate sobre a escrita nos tempos de Moisés (24:4). Não menciona Israel.",
+   "grau": "associacao"
+  }
+ ]
+}

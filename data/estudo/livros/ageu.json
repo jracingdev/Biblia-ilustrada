@@ -1,0 +1,112 @@
+{
+ "livro": "ageu",
+ "nome": "Ageu",
+ "subtitulo": "Prioridades certas: reconstruir a casa de Deus",
+ "introducao": "Ageu fala aos judeus que voltaram do exílio na Babilônia e deixaram a reconstrução do templo parada por anos. Em quatro mensagens datadas, ele os chama a rever suas prioridades e a retomar a obra. Deus promete sua presença, sua bênção e uma glória futura maior que a do passado.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "O profeta Ageu (1:1)"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Segundo ano do rei persa Dario, em 520 a.C.; as mensagens são datadas com precisão (1:1, 2:1, 2:10)"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Jerusalém, após a volta do exílio"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "O governador Zorobabel, o sumo sacerdote Josué e o povo (1:1, 2:2)"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Profecia em forma de mensagens datadas"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "2 capítulos e 38 versículos"
+  }
+ ],
+ "chave": "1:5",
+ "temas": [
+  "Prioridades diante de Deus",
+  "A presença de Deus com o seu povo",
+  "Ânimo para obras pequenas",
+  "A glória futura da casa de Deus"
+ ],
+ "cristo": "A promessa de que Deus encheria aquela casa de glória e daria paz naquele lugar se relaciona, na leitura cristã, com a presença de Jesus no templo e com ele mesmo como o lugar do encontro com Deus. Zorobabel, da linhagem de Davi, aparece nas genealogias de Jesus.",
+ "secoes": [
+  {
+   "id": "chamado-a-reconstruir",
+   "titulo": "O chamado a reconstruir",
+   "capitulos": [
+    1
+   ],
+   "resumo": "O povo é confrontado e começa a obra."
+  },
+  {
+   "id": "animo-e-promessas",
+   "titulo": "Ânimo e promessas",
+   "capitulos": [
+    2
+   ],
+   "resumo": "Deus anima, ensina sobre pureza e promete glória e bênção."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Considerai vossos caminhos",
+   "chave": "1:5",
+   "resumo": "No segundo ano do rei Dario, Ageu fala ao governador Zorobabel e ao sumo sacerdote Josué. O povo dizia que ainda não era tempo de reconstruir o templo, enquanto morava em casas bem acabadas. Deus mostra que a escassez das colheitas tinha ligação com essa negligência. O povo ouve, teme ao SENHOR, recebe a promessa \"Eu estou convosco\" e começa a obra.",
+   "licoes": [
+    "É fácil adiar as coisas de Deus enquanto cuidamos bem das nossas (1:2, 1:4).",
+    "Deus nos chama a refletir sobre nossas prioridades (1:5-7).",
+    "Muito esforço sem Deus no centro pode render pouco (1:6, 1:9).",
+    "Quando o povo obedece, Deus garante sua presença e desperta ânimo (1:13-14)."
+   ],
+   "reflexao": "Que área da sua vida está recebendo atenção enquanto a vida com Deus fica para depois?",
+   "quiz": [
+    {
+     "pergunta": "Que desculpa o povo dava para não reconstruir o templo?",
+     "opcoes": [
+      "O tempo ainda não chegou",
+      "Falta de madeira",
+      "Os persas proibiram",
+      "Os sacerdotes não queriam"
+     ],
+     "correta": 0,
+     "ref": "1:2"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "A glória da última casa",
+   "chave": "2:9",
+   "resumo": "Quase dois meses depois, alguns se desanimam porque o novo templo parece nada comparado ao de Salomão. Deus os anima: \"esforçai-vos... porque eu estou convosco\", e promete encher a casa de glória maior que a primeira. Uma pergunta aos sacerdotes mostra que a impureza contamina o que se oferece, mas a partir daquele dia Deus abençoaria. Por fim, Zorobabel recebe a promessa de ser como um anel de selar escolhido por Deus.",
+   "licoes": [
+    "Comparar com o passado pode desanimar, mas Deus fala ao presente (2:3-4).",
+    "A presença do Espírito de Deus afasta o medo (2:5).",
+    "A santidade não passa por contato, mas a impureza contamina (2:12-14).",
+    "Deus promete bênção a partir do dia da obediência (2:18-19)."
+   ],
+   "reflexao": "Você tem desprezado um começo pequeno que Deus está abençoando?",
+   "quiz": [
+    {
+     "pergunta": "Como seria a glória da última casa, segundo Deus?",
+     "opcoes": [
+      "Igual à da primeira",
+      "Menor que a da primeira",
+      "Desconhecida",
+      "Maior que a da primeira"
+     ],
+     "correta": 3,
+     "ref": "2:9"
+    }
+   ]
+  }
+ ]
+}

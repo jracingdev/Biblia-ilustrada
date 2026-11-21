@@ -1,0 +1,205 @@
+{
+ "livro": "tiago",
+ "nome": "Tiago",
+ "subtitulo": "Uma fé que se vê na prática",
+ "introducao": "Tiago é uma carta prática, com conselhos diretos sobre como a fé se mostra no dia a dia. Trata de provações, sabedoria, favoritismo, uso da língua, riqueza, orgulho e oração. Seu tema central é que a fé verdadeira não fica só nas palavras: ela produz obras de amor e misericórdia.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Tradicionalmente atribuído a Tiago, irmão de Jesus e líder da igreja de Jerusalém (1:1)"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Data debatida: alguns a situam nos anos 40 d.C., outros mais tarde, até o fim do século I"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "\"Às doze tribos que estão na dispersão\", provavelmente cristãos judeus espalhados (1:1)"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Carta com estilo de sabedoria"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "5 capítulos e 108 versículos"
+  }
+ ],
+ "chave": "2:17",
+ "temas": [
+  "Alegria e perseverança nas provações",
+  "Ser praticante da palavra",
+  "Fé que se prova pelas obras",
+  "O poder da língua",
+  "Humildade e dependência de Deus",
+  "Oração da fé"
+ ],
+ "cristo": "Tiago chama Jesus de \"nosso glorioso Senhor Jesus Cristo\" e aguarda sua vinda (2:1, 5:8). Sua ênfase na fé viva, na misericórdia e no cuidado dos pobres ecoa muito do ensino de Jesus, como o Sermão do Monte.",
+ "secoes": [
+  {
+   "id": "provacoes",
+   "titulo": "Provações e a palavra",
+   "capitulos": [
+    1
+   ],
+   "resumo": "Perseverança, sabedoria, tentação e prática da palavra."
+  },
+  {
+   "id": "fe-obras",
+   "titulo": "Fé e obras",
+   "capitulos": [
+    2
+   ],
+   "resumo": "Contra o favoritismo; a fé sem obras está morta."
+  },
+  {
+   "id": "lingua-sabedoria",
+   "titulo": "A língua e a sabedoria",
+   "capitulos": [
+    3,
+    4
+   ],
+   "resumo": "O poder das palavras, a sabedoria do alto e a humildade diante de Deus."
+  },
+  {
+   "id": "paciencia",
+   "titulo": "Paciência e oração",
+   "capitulos": [
+    5
+   ],
+   "resumo": "Advertência aos ricos opressores, paciência e oração."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Provações e prática da palavra",
+   "chave": "1:22",
+   "resumo": "Tiago escreve às doze tribos da dispersão e as encoraja a ter alegria nas provações, que produzem perseverança. Quem tem falta de sabedoria deve pedir a Deus com fé. A tentação não vem de Deus, mas do próprio desejo; de Deus vêm todos os dons bons e perfeitos. Os cristãos devem ser prontos para ouvir, tardios para falar e para se irar, e praticantes da palavra, não apenas ouvintes, cuidando dos órfãos e das viúvas.",
+   "licoes": [
+    "As provações testam a fé e produzem perseverança (1:2-4).",
+    "Deus dá sabedoria generosamente a quem pede com fé (1:5-6).",
+    "A tentação nasce do nosso próprio desejo, não de Deus (1:13-14).",
+    "Ouvir a palavra sem praticá-la é enganar a si mesmo (1:22-25)."
+   ],
+   "reflexao": "Que parte da palavra de Deus você já ouviu, mas ainda não pratica?",
+   "quiz": [
+    {
+     "pergunta": "Com o que Tiago compara quem ouve a palavra e não pratica?",
+     "opcoes": [
+      "Com uma casa na areia",
+      "Com quem se olha no espelho e esquece como é",
+      "Com uma árvore sem fruto",
+      "Com um navio sem leme"
+     ],
+     "correta": 1,
+     "ref": "1:23-24"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Sem favoritismo; fé com obras",
+   "chave": "2:17",
+   "resumo": "Tiago condena a acepção de pessoas na igreja, como dar lugar de honra ao rico e desprezar o pobre, pois isso viola a \"lei real\" de amar o próximo como a si mesmo. Em seguida mostra que a fé verdadeira se manifesta em obras: desejar o bem a alguém necessitado sem ajudá-lo não serve de nada. Abraão e Raabe são exemplos de fé que agiu; a fé sem obras está morta. Os cristãos entendem de maneiras diferentes como isso se harmoniza com o ensino de Paulo, mas concordam que a fé viva produz obras.",
+   "licoes": [
+    "Favorecer os ricos e desprezar os pobres é contrário à fé em Cristo (2:1-4).",
+    "A misericórdia triunfa sobre o juízo (2:13).",
+    "Fé que não ajuda o necessitado é inútil (2:15-17).",
+    "Abraão e Raabe mostram que a fé verdadeira se expressa em ação (2:21-25)."
+   ],
+   "reflexao": "Como sua fé tem se mostrado em ações concretas pelos necessitados?",
+   "quiz": [
+    {
+     "pergunta": "Qual mulher Tiago cita como exemplo de fé com obras?",
+     "opcoes": [
+      "Sara",
+      "Rute",
+      "Raabe",
+      "Débora"
+     ],
+     "correta": 2,
+     "ref": "2:25"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "O poder da língua e a sabedoria do alto",
+   "chave": "3:17",
+   "resumo": "Tiago adverte que nem todos devem ser mestres, pois serão julgados com mais rigor. A língua é pequena, mas, como o freio do cavalo ou o leme do navio, dirige grandes coisas, e como uma faísca pode incendiar uma floresta. Não convém que da mesma boca saiam bênção e maldição. Ele contrasta a sabedoria terrena, cheia de inveja e rivalidade, com a sabedoria do alto, que é pura, pacífica, misericordiosa e sem hipocrisia.",
+   "licoes": [
+    "As palavras têm grande poder para o bem e para o mal (3:4-6).",
+    "É incoerente usar a mesma boca para bendizer a Deus e amaldiçoar pessoas feitas à sua imagem (3:9-10).",
+    "Inveja e rivalidade geram confusão e todo tipo de mal (3:16).",
+    "A sabedoria do alto é pura, pacífica, moderada e cheia de misericórdia (3:17)."
+   ],
+   "reflexao": "Suas palavras de hoje foram mais como fonte de água doce ou de água amarga?",
+   "quiz": [
+    {
+     "pergunta": "A que Tiago compara a língua por dirigir algo grande sendo pequena?",
+     "opcoes": [
+      "A uma vela",
+      "A um remo",
+      "A uma âncora",
+      "Ao leme de um navio"
+     ],
+     "correta": 3,
+     "ref": "3:4-5"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Humildade diante de Deus",
+   "chave": "4:7-8",
+   "resumo": "Tiago explica que as brigas vêm dos desejos egoístas e que muitos não recebem porque não pedem ou pedem com más intenções. A amizade com o mundo é inimizade contra Deus, mas Deus dá graça aos humildes. Ele chama a se submeter a Deus, resistir ao diabo, aproximar-se de Deus e se humilhar, a não falar mal dos irmãos e a não fazer planos arrogantes, lembrando que a vida é um vapor e que devemos dizer \"se o Senhor quiser\".",
+   "licoes": [
+    "Brigas nascem de desejos egoístas no coração (4:1-2).",
+    "Deus resiste aos soberbos, mas dá graça aos humildes (4:6).",
+    "Quem se aproxima de Deus encontra Deus se aproximando dele (4:7-8).",
+    "A vida é breve como um vapor, por isso nossos planos devem depender do Senhor (4:14-15)."
+   ],
+   "reflexao": "Seus planos para o futuro levam em conta a vontade de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Com o que Tiago compara a nossa vida?",
+     "opcoes": [
+      "Com um vapor",
+      "Com uma sombra",
+      "Com uma onda",
+      "Com uma flor"
+     ],
+     "correta": 0,
+     "ref": "4:14"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "Paciência e oração da fé",
+   "chave": "5:16",
+   "resumo": "Tiago denuncia os ricos que acumulam riquezas e retêm o salário dos trabalhadores, pois o clamor deles chegou aos ouvidos do Senhor. Ele chama os irmãos a serem pacientes até a vinda do Senhor, como o lavrador que espera as chuvas, e lembra a paciência dos profetas e de Jó. Por fim, ensina a falar com sinceridade, a orar na aflição, a chamar os anciãos para orar pelos doentes e a confessar os pecados uns aos outros, lembrando o exemplo de Elias.",
+   "licoes": [
+    "Deus ouve o clamor dos trabalhadores explorados (5:4).",
+    "A paciência cristã espera a vinda do Senhor como o lavrador espera a colheita (5:7-8).",
+    "O sim deve ser sim, e o não, não (5:12).",
+    "A oração de um justo é poderosa, como mostra Elias (5:16-17)."
+   ],
+   "reflexao": "Por quem você pode orar hoje, confiando que a oração do justo pode muito?",
+   "quiz": [
+    {
+     "pergunta": "Por quanto tempo não choveu depois da oração de Elias?",
+     "opcoes": [
+      "Um ano",
+      "Três anos e seis meses",
+      "Sete anos",
+      "Quarenta dias"
+     ],
+     "correta": 1,
+     "ref": "5:17"
+    }
+   ]
+  }
+ ]
+}

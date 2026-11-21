@@ -1,0 +1,740 @@
+{
+ "livro": "2-reis",
+ "nome": "2 Reis",
+ "subtitulo": "Profetas, reis e o caminho até o exílio",
+ "introducao": "2 Reis continua a história dos reinos de Israel e Judá, desde o ministério de Elias e Eliseu até a destruição de Jerusalém. Israel, o reino do norte, cai diante da Assíria; Judá vive reformas com Ezequias e Josias, mas acaba levado para a Babilônia. O livro explica que a perda da terra veio da infidelidade à aliança, mas termina com um sinal de esperança para a casa de Davi.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Anônimo; continuação de 1 Reis, tradicionalmente atribuída a Jeremias por parte da tradição judaica; muitos falam de um historiador que usou crônicas reais"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Narra de c. 850 a 560 a.C.; a forma final costuma ser datada durante o exílio, pois cita fatos do 37º ano do cativeiro de Joaquim (25:27)"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Israel (Samaria), Judá (Jerusalém), Síria, Assíria e Babilônia"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "O povo no exílio, que precisava entender por que perdeu a terra e o templo"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Narrativa histórica com relatos proféticos"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "25 capítulos e 719 versículos"
+  }
+ ],
+ "chave": "17:13",
+ "temas": [
+  "Deus fala e age por meio dos profetas",
+  "A infidelidade leva ao exílio",
+  "Reformas que voltam à palavra de Deus",
+  "A misericórdia de Deus em meio ao juízo",
+  "A promessa a Davi não é esquecida"
+ ],
+ "cristo": "Os milagres de Eliseu, que alimenta famintos, cura um estrangeiro e devolve a vida a um menino, antecipam o ministério de Jesus, que cita Naamã em Lucas 4. O livro termina com o herdeiro de Davi vivo e honrado no exílio, mantendo acesa a esperança do Rei prometido.",
+ "secoes": [
+  {
+   "id": "elias-e-eliseu",
+   "titulo": "De Elias a Eliseu",
+   "capitulos": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "resumo": "Elias é levado ao céu e Eliseu continua sua obra com muitos sinais."
+  },
+  {
+   "id": "jeu-e-joas",
+   "titulo": "Jeú, Atalia e Joás",
+   "capitulos": [
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "resumo": "Juízo sobre a casa de Acabe e restauração da linhagem de Davi em Judá."
+  },
+  {
+   "id": "queda-de-israel",
+   "titulo": "O declínio e a queda de Israel",
+   "capitulos": [
+    14,
+    15,
+    16,
+    17
+   ],
+   "resumo": "Reis instáveis e idolatria levam Israel ao exílio assírio."
+  },
+  {
+   "id": "ezequias-e-josias",
+   "titulo": "Judá entre a fé e a infidelidade",
+   "capitulos": [
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ],
+   "resumo": "Ezequias e Josias promovem reformas, mas Manassés leva o povo ao mal."
+  },
+  {
+   "id": "queda-de-juda",
+   "titulo": "A queda de Jerusalém",
+   "capitulos": [
+    24,
+    25
+   ],
+   "resumo": "Babilônia destrói Jerusalém e leva Judá ao exílio."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Acazias consulta Baal-Zebube",
+   "chave": "1:3",
+   "resumo": "O rei Acazias cai de uma sacada e manda consultar Baal-Zebube, deus de Ecrom, sobre sua cura. Elias intercepta os mensageiros e anuncia que o rei morrerá. Dois grupos de cinquenta soldados enviados para prender Elias são consumidos por fogo; o terceiro capitão suplica humildemente e é poupado. Acazias morre como foi dito.",
+   "licoes": [
+    "Buscar socorro em outros deuses é tratar Israel como se não houvesse Deus nele (1:3).",
+    "A humildade do terceiro capitão contrasta com a arrogância dos anteriores (1:13-14).",
+    "A palavra do SENHOR dita por Elias se cumpre (1:17)."
+   ],
+   "reflexao": "Quando está em crise, onde você procura respostas primeiro?",
+   "quiz": [
+    {
+     "pergunta": "Quem Acazias mandou consultar sobre sua doença?",
+     "opcoes": [
+      "Elias",
+      "Baal-Zebube, deus de Ecrom",
+      "Eliseu",
+      "Os profetas de Samaria"
+     ],
+     "correta": 1,
+     "ref": "1:2"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Elias é levado ao céu",
+   "chave": "2:9",
+   "resumo": "Elias e Eliseu passam por Gilgal, Betel, Jericó e o Jordão, e Eliseu se recusa a deixar seu mestre. Eliseu pede porção dobrada do espírito de Elias. Um carro de fogo os separa, e Elias sobe num redemoinho. Eliseu pega o manto, divide o Jordão, purifica as águas de Jericó e é zombado por rapazes em Betel.",
+   "licoes": [
+    "A perseverança de Eliseu mostra compromisso com o chamado (2:2, 2:6).",
+    "Eliseu pede algo espiritual, não riqueza: porção dobrada do espírito de Elias (2:9).",
+    "O Deus de Elias continua presente com a nova geração (2:14).",
+    "Zombar do mensageiro de Deus é coisa séria (2:23-24)."
+   ],
+   "reflexao": "Quem foi um \"Elias\" na sua vida, alguém que lhe ensinou a seguir a Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que Eliseu pediu a Elias antes de ele ser levado?",
+     "opcoes": [
+      "Uma porção dobrada do seu espírito",
+      "O seu manto",
+      "Que não fosse embora",
+      "Que ungisse um rei"
+     ],
+     "correta": 0,
+     "ref": "2:9"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Água no deserto e vitória sobre Moabe",
+   "chave": "3:17-18",
+   "resumo": "Moabe se rebela contra Israel, e Jorão se une a Josafá de Judá e ao rei de Edom. No deserto, sem água, Josafá pede um profeta, e Eliseu manda cavar valas: a água vem sem vento nem chuva. Os moabitas veem a água vermelha ao sol, pensam que é sangue e são derrotados.",
+   "licoes": [
+    "Josafá busca a palavra do SENHOR na hora da crise (3:11).",
+    "Deus pode prover de maneira inesperada, sem sinais visíveis (3:17).",
+    "O que é difícil para nós é \"coisa pouca\" aos olhos do SENHOR (3:18)."
+   ],
+   "reflexao": "Que \"vala\" você pode cavar hoje, preparando-se para o que Deus vai fazer?",
+   "quiz": [
+    {
+     "pergunta": "O que Eliseu mandou fazer no vale?",
+     "opcoes": [
+      "Construir um altar",
+      "Cavar muitas covas",
+      "Acender fogueiras",
+      "Tocar trombetas"
+     ],
+     "correta": 1,
+     "ref": "3:16"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Os milagres de Eliseu",
+   "chave": "4:7",
+   "resumo": "Eliseu multiplica o azeite de uma viúva endividada para salvar seus filhos. Uma mulher de Suném o hospeda, recebe a promessa de um filho e, quando o menino morre, busca o profeta com fé, e ele o ressuscita. Eliseu também torna comestível um guisado envenenado e alimenta cem homens com vinte pães.",
+   "licoes": [
+    "Deus usa o pouco que temos: \"uma botija de azeite\" (4:2-6).",
+    "A hospitalidade da sunamita é generosa e desinteressada (4:9-10).",
+    "A fé persevera na dor e busca a Deus sem desistir (4:30).",
+    "Deus pode fazer sobrar onde parecia faltar (4:43-44)."
+   ],
+   "reflexao": "O que você tem \"em casa\" que Deus pode usar?",
+   "quiz": [
+    {
+     "pergunta": "Com quantos pães de cevada Eliseu alimentou cem homens?",
+     "opcoes": [
+      "Cinco",
+      "Sete",
+      "Doze",
+      "Vinte"
+     ],
+     "correta": 3,
+     "ref": "4:42-44"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "A cura de Naamã",
+   "chave": "5:14",
+   "resumo": "Naamã, general sírio, tem lepra. Uma menina israelita cativa indica o profeta de Samaria. Eliseu manda que ele se lave sete vezes no Jordão; Naamã se irrita, mas, aconselhado por seus servos, obedece e é curado, confessando que só há Deus em Israel. Geazi, servo de Eliseu, aceita presentes com mentiras e fica leproso.",
+   "licoes": [
+    "Deus usa uma menina estrangeira e cativa para levar esperança (5:2-3).",
+    "O orgulho quase impediu a cura: a obediência simples é o caminho (5:11-14).",
+    "Naamã reconhece que não há Deus em toda a terra senão em Israel (5:15).",
+    "A ganância e a mentira de Geazi trazem consequências graves (5:26-27)."
+   ],
+   "reflexao": "Que orgulho pode estar impedindo você de obedecer a algo simples?",
+   "quiz": [
+    {
+     "pergunta": "Quantas vezes Naamã se lavou no Jordão?",
+     "opcoes": [
+      "Uma",
+      "Três",
+      "Sete",
+      "Dez"
+     ],
+     "correta": 2,
+     "ref": "5:14"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "Olhos abertos para o exército de Deus",
+   "chave": "6:16",
+   "resumo": "Eliseu faz flutuar um machado emprestado que caiu no Jordão. Ele revela ao rei de Israel os planos dos sírios, e o rei da Síria manda cercar Dotã. O servo de Eliseu se apavora, mas Deus abre seus olhos para ver cavalos e carros de fogo; os sírios são cegados, levados a Samaria e libertados depois de alimentados. Mais tarde, Samaria sofre um cerco com fome terrível.",
+   "licoes": [
+    "Deus se importa até com um machado emprestado (6:5-7).",
+    "\"Mais são os que estão conosco\": a fé enxerga a proteção invisível de Deus (6:16-17).",
+    "Eliseu responde aos inimigos com misericórdia, e as incursões cessam (6:22-23).",
+    "O cerco revela o desespero de quem culpa o profeta em vez de buscar a Deus (6:31)."
+   ],
+   "reflexao": "Que medo hoje precisa ser visto com os \"olhos abertos\" da fé?",
+   "quiz": [
+    {
+     "pergunta": "O que o servo de Eliseu viu quando Deus abriu seus olhos?",
+     "opcoes": [
+      "Um anjo com espada",
+      "A cidade de Samaria",
+      "O monte cheio de cavalos e carros de fogo",
+      "Um rio no deserto"
+     ],
+     "correta": 2,
+     "ref": "6:17"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "Os leprosos e a boa notícia",
+   "chave": "7:9",
+   "resumo": "Eliseu anuncia que no dia seguinte haverá comida farta em Samaria; um oficial zomba. Quatro leprosos vão ao acampamento sírio e o encontram vazio, pois Deus fez os sírios ouvirem barulho de um grande exército. Os leprosos percebem que não podem calar a boa notícia. O povo saqueia o acampamento, os preços caem como Eliseu disse, e o oficial incrédulo morre pisoteado.",
+   "licoes": [
+    "Para Deus, a reviravolta pode acontecer \"amanhã a estas horas\" (7:1).",
+    "Deus pode vencer sem que Israel lute (7:6-7).",
+    "\"Hoje é dia de boa nova, e nós calamos\": a boa notícia deve ser compartilhada (7:9).",
+    "A incredulidade do oficial o impediu de desfrutar da provisão (7:2, 7:20)."
+   ],
+   "reflexao": "Que boa notícia você tem guardado só para si?",
+   "quiz": [
+    {
+     "pergunta": "Quantos leprosos foram ao acampamento dos sírios?",
+     "opcoes": [
+      "Dois",
+      "Três",
+      "Quatro",
+      "Sete"
+     ],
+     "correta": 2,
+     "ref": "7:3"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "A sunamita, Hazael e os reis de Judá",
+   "chave": "8:19",
+   "resumo": "A sunamita, que fugira da fome a conselho de Eliseu, recebe de volta sua terra quando Geazi conta ao rei o milagre de seu filho. Em Damasco, Eliseu chora ao prever a violência que Hazael fará contra Israel; Hazael mata Ben-Hadade e reina. Em Judá, Jeorão e Acazias seguem os caminhos da casa de Acabe.",
+   "licoes": [
+    "Deus cuida da sunamita nos detalhes do tempo certo (8:5-6).",
+    "Eliseu chora diante do mal que virá sobre o povo (8:11-12).",
+    "Mesmo com reis infiéis, Deus preserva Judá por amor de Davi (8:19)."
+   ],
+   "reflexao": "Como você reage quando vê o mal que pode atingir outras pessoas?",
+   "quiz": [
+    {
+     "pergunta": "Quem matou Ben-Hadade e reinou em seu lugar?",
+     "opcoes": [
+      "Jeú",
+      "Hazael",
+      "Naamã",
+      "Jorão"
+     ],
+     "correta": 1,
+     "ref": "8:15"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "Jeú é ungido rei",
+   "chave": "9:6-7",
+   "resumo": "Eliseu envia um jovem profeta para ungir Jeú como rei de Israel, com a missão de executar o juízo sobre a casa de Acabe. Jeú avança sobre Jezreel, mata o rei Jorão na propriedade que fora de Nabote e fere também Acazias, rei de Judá. Jezabel é lançada de uma janela e morre, como Elias havia anunciado.",
+   "licoes": [
+    "Deus não esquece o sangue dos inocentes, como o de Nabote (9:26).",
+    "Não há paz verdadeira onde o pecado reina sem arrependimento (9:22).",
+    "A palavra dita por Elias sobre Jezabel se cumpre (9:36)."
+   ],
+   "reflexao": "Que promessa ou advertência de Deus você precisa levar mais a sério?",
+   "quiz": [
+    {
+     "pergunta": "Em que propriedade Jeú mandou lançar o corpo de Jorão?",
+     "opcoes": [
+      "Na de Elias",
+      "Na de Acabe",
+      "Na de Nabote",
+      "Na de Obadias"
+     ],
+     "correta": 2,
+     "ref": "9:25"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "titulo": "Jeú elimina o culto a Baal",
+   "chave": "10:30-31",
+   "resumo": "Jeú elimina os descendentes de Acabe em Samaria e Jezreel. Com astúcia, reúne todos os servos de Baal num grande culto e os mata, destruindo o templo de Baal. Deus reconhece o que ele fez, mas Jeú não segue a lei de todo o coração e mantém os bezerros de ouro de Jeroboão. Hazael começa a tomar territórios de Israel.",
+   "licoes": [
+    "Deus cumpre a palavra dita contra a casa de Acabe (10:10).",
+    "Zelo exterior não substitui um coração inteiro diante de Deus (10:31).",
+    "Remover um ídolo e manter outro é uma reforma pela metade (10:28-29)."
+   ],
+   "reflexao": "Há alguma área da sua vida em que sua obediência está \"pela metade\"?",
+   "quiz": [
+    {
+     "pergunta": "Que pecado Jeú manteve mesmo após destruir o culto a Baal?",
+     "opcoes": [
+      "O culto a Moloque",
+      "A aliança com a Síria",
+      "Os bezerros de ouro de Betel e Dã",
+      "O templo de Samaria"
+     ],
+     "correta": 2,
+     "ref": "10:29"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "titulo": "Atalia e o menino rei Joás",
+   "chave": "11:17",
+   "resumo": "Após a morte de Acazias, sua mãe Atalia tenta exterminar a família real e reina em Judá. Jeoseba esconde o pequeno Joás no templo durante seis anos. No sétimo ano, o sacerdote Joiada organiza a guarda, coroa Joás, e Atalia é morta. Joiada renova a aliança entre o SENHOR, o rei e o povo, e o templo de Baal é derrubado.",
+   "licoes": [
+    "Deus preserva a linhagem de Davi por meio da coragem de uma mulher (11:2-3).",
+    "Joiada age com planejamento e responsabilidade para restaurar o trono legítimo (11:4-9).",
+    "A verdadeira restauração começa com a renovação da aliança com o SENHOR (11:17)."
+   ],
+   "reflexao": "Quem precisa da sua proteção e do seu cuidado neste momento?",
+   "quiz": [
+    {
+     "pergunta": "Quantos anos tinha Joás quando começou a reinar?",
+     "opcoes": [
+      "Cinco",
+      "Sete",
+      "Doze",
+      "Dezesseis"
+     ],
+     "correta": 1,
+     "ref": "11:21"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "titulo": "Joás restaura o templo",
+   "chave": "12:2",
+   "resumo": "Joás faz o que é reto enquanto é orientado pelo sacerdote Joiada. Ele organiza a coleta de ofertas para reparar o templo, e Joiada coloca uma caixa com um furo na tampa junto ao altar. Quando Hazael ameaça Jerusalém, Joás entrega os tesouros sagrados como tributo. Por fim, é morto por seus servos.",
+   "licoes": [
+    "Uma boa liderança espiritual influencia toda uma vida (12:2).",
+    "A obra de Deus pede organização e honestidade no uso do dinheiro (12:9-11, 12:15).",
+    "Comprar segurança com os tesouros do templo revela uma fé enfraquecida (12:18)."
+   ],
+   "reflexao": "Quem tem sido um \"Joiada\" orientando você na fé?",
+   "quiz": [
+    {
+     "pergunta": "O que Joiada fez para recolher o dinheiro dos reparos?",
+     "opcoes": [
+      "Colocou uma arca com um furo na tampa junto ao altar",
+      "Cobrou um imposto",
+      "Vendeu objetos do templo",
+      "Pediu ajuda ao rei da Síria"
+     ],
+     "correta": 0,
+     "ref": "12:9"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "titulo": "A morte de Eliseu",
+   "chave": "13:23",
+   "resumo": "Jeoacaz e Joás reinam em Israel e seguem os pecados de Jeroboão, e Israel sofre sob a Síria; ainda assim, Deus ouve a oração de Jeoacaz. Doente, Eliseu manda o rei Joás atirar uma flecha e ferir a terra; ele bate só três vezes, e terá apenas três vitórias. Eliseu morre, e um morto lançado em seu sepulcro revive ao tocar seus ossos.",
+   "licoes": [
+    "Deus ouve até a oração de um rei infiel e vê a aflição do povo (13:4).",
+    "A falta de empenho do rei limitou a vitória (13:18-19).",
+    "A misericórdia de Deus nasce de sua aliança com Abraão, Isaque e Jacó (13:23)."
+   ],
+   "reflexao": "Em que área você tem \"ferido a terra\" só três vezes, sem perseverar?",
+   "quiz": [
+    {
+     "pergunta": "Quantas vezes o rei Joás feriu a terra com as flechas?",
+     "opcoes": [
+      "Uma",
+      "Três",
+      "Cinco",
+      "Sete"
+     ],
+     "correta": 1,
+     "ref": "13:18"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "titulo": "Amazias e Jeroboão II",
+   "chave": "14:27",
+   "resumo": "Amazias reina em Judá, faz o que é reto em parte, pune os assassinos do pai respeitando a lei de Moisés e vence Edom. Orgulhoso, desafia Joás de Israel, que responde com a parábola do cardo e do cedro e o derrota, saqueando Jerusalém. Em Israel, Jeroboão II recupera territórios, conforme a palavra do profeta Jonas.",
+   "licoes": [
+    "Amazias obedece à lei ao não punir os filhos pelos pecados dos pais (14:6).",
+    "A vitória pode envaidecer o coração e levar a desastres (14:10-12).",
+    "Deus salva Israel por compaixão, mesmo com um rei infiel (14:26-27)."
+   ],
+   "reflexao": "Como você lida com o sucesso para que ele não o encha de orgulho?",
+   "quiz": [
+    {
+     "pergunta": "Qual profeta havia anunciado a recuperação dos territórios de Israel por Jeroboão II?",
+     "opcoes": [
+      "Eliseu",
+      "Jonas",
+      "Isaías",
+      "Amós"
+     ],
+     "correta": 1,
+     "ref": "14:25"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "titulo": "Reis em sequência e a ameaça assíria",
+   "chave": "15:12",
+   "resumo": "Em Judá, Azarias (Uzias) reina 52 anos e faz o que é reto, mas é ferido de lepra; seu filho Jotão também é fiel. Em Israel, a instabilidade cresce: Zacarias, Salum, Menaém, Pecaías e Peca se sucedem com conspirações e assassinatos. A Assíria entra em cena, cobra tributos e leva cativos.",
+   "licoes": [
+    "A palavra a Jeú sobre quatro gerações se cumpre (15:12).",
+    "Quem toma o poder pela força costuma perdê-lo da mesma forma (15:10, 15:30).",
+    "Obediência parcial deixa brechas: \"os altos não foram tirados\" (15:4, 15:35)."
+   ],
+   "reflexao": "O que essa sequência de golpes ensina sobre buscar poder a qualquer custo?",
+   "quiz": [
+    {
+     "pergunta": "Quantos anos Azarias reinou em Jerusalém?",
+     "opcoes": [
+      "Dezesseis",
+      "Vinte e nove",
+      "Quarenta",
+      "Cinquenta e dois"
+     ],
+     "correta": 3,
+     "ref": "15:2"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "titulo": "Acaz e o altar de Damasco",
+   "chave": "16:3",
+   "resumo": "Acaz reina em Judá sem fazer o que é reto: chega a fazer passar o filho pelo fogo. Atacado pela Síria e por Israel, pede socorro ao rei da Assíria e lhe paga com a prata e o ouro do templo. Em Damasco, copia um altar pagão e manda instalá-lo no templo, alterando o culto para agradar ao rei assírio.",
+   "licoes": [
+    "Confiar em potências humanas no lugar de Deus custa caro (16:7-8).",
+    "Acaz imita práticas abomináveis das nações, até sacrificando o filho (16:3).",
+    "Mudar o culto para agradar aos poderosos é desviar-se de Deus (16:10-11, 16:18)."
+   ],
+   "reflexao": "Que modelos do mundo você tem copiado sem perguntar se agradam a Deus?",
+   "quiz": [
+    {
+     "pergunta": "A quem Acaz pediu socorro contra a Síria e Israel?",
+     "opcoes": [
+      "Ao Faraó do Egito",
+      "A Ben-Hadade",
+      "A Hirão de Tiro",
+      "A Tiglate-Pileser, rei da Assíria"
+     ],
+     "correta": 3,
+     "ref": "16:7"
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "titulo": "A queda de Samaria",
+   "chave": "17:13-14",
+   "resumo": "Oseias, último rei de Israel, conspira contra a Assíria; Salmaneser cerca Samaria por três anos e leva o povo cativo. O texto explica a causa: Israel abandonou o SENHOR, serviu ídolos e não ouviu os profetas que Deus enviou. Os povos trazidos pela Assíria para Samaria passam a temer o SENHOR e, ao mesmo tempo, servir seus próprios deuses.",
+   "licoes": [
+    "A queda de Israel é explicada como fruto de longa desobediência (17:7-8).",
+    "Deus advertiu muitas vezes por meio dos profetas antes do juízo (17:13).",
+    "Temer ao SENHOR e servir a outros deuses ao mesmo tempo não é fé verdadeira (17:33).",
+    "O chamado continua claro: \"temei ao SENHOR vosso Deus\" (17:39)."
+   ],
+   "reflexao": "Que advertências de Deus você tem ouvido repetidas vezes?",
+   "quiz": [
+    {
+     "pergunta": "Por quanto tempo o rei da Assíria cercou Samaria?",
+     "opcoes": [
+      "Um ano",
+      "Três anos",
+      "Sete anos",
+      "Dez anos"
+     ],
+     "correta": 1,
+     "ref": "17:5"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "titulo": "Ezequias e a ameaça de Senaqueribe",
+   "chave": "18:5",
+   "resumo": "Ezequias faz o que é reto como Davi: remove os altos e até despedaça a serpente de bronze que o povo cultuava. Ele confia no SENHOR como nenhum outro rei de Judá. Senaqueribe, rei da Assíria, invade Judá, e seu porta-voz, Rabsaqué, zomba diante dos muros de Jerusalém, dizendo que nenhum deus livrou seu povo da Assíria.",
+   "licoes": [
+    "Até um objeto ligado à história da fé pode virar ídolo e precisar ser removido (18:4).",
+    "Ezequias se destaca por pôr sua esperança no SENHOR (18:5-6).",
+    "O inimigo tenta abalar a confiança com perguntas e zombarias (18:19, 18:30)."
+   ],
+   "reflexao": "Em que você realmente confia quando sua segurança é ameaçada?",
+   "quiz": [
+    {
+     "pergunta": "Que objeto antigo Ezequias despedaçou porque o povo lhe queimava incenso?",
+     "opcoes": [
+      "A arca",
+      "A vara de Arão",
+      "O altar de Damasco",
+      "A serpente de bronze"
+     ],
+     "correta": 3,
+     "ref": "18:4"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "titulo": "A oração de Ezequias e o livramento",
+   "chave": "19:19",
+   "resumo": "Ezequias leva ao templo a carta ameaçadora de Senaqueribe, a estende diante do SENHOR e ora para que todos os reinos saibam que só ele é Deus. Isaías responde que o rei assírio não entrará em Jerusalém. Naquela noite, o anjo do SENHOR fere o acampamento assírio, e Senaqueribe volta a Nínive, onde é morto por seus filhos.",
+   "licoes": [
+    "Diante da ameaça, Ezequias leva o problema ao SENHOR (19:14).",
+    "A oração busca a glória de Deus, não só o alívio (19:19).",
+    "Deus vê o orgulho de quem se levanta contra ele (19:27-28).",
+    "Deus defende a cidade por causa de si mesmo e de Davi (19:34)."
+   ],
+   "reflexao": "Que \"carta\" de angústia você precisa estender diante de Deus hoje?",
+   "quiz": [
+    {
+     "pergunta": "Para onde Senaqueribe voltou depois do livramento de Jerusalém?",
+     "opcoes": [
+      "Babilônia",
+      "Damasco",
+      "Laquis",
+      "Nínive"
+     ],
+     "correta": 3,
+     "ref": "19:36"
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "titulo": "A doença de Ezequias e os enviados da Babilônia",
+   "chave": "20:5",
+   "resumo": "Ezequias adoece de morte, ora com lágrimas, e Deus acrescenta quinze anos à sua vida, dando como sinal a sombra que volta dez degraus. Depois, ele mostra todos os seus tesouros aos enviados da Babilônia. Isaías anuncia que tudo será levado para a Babilônia, e Ezequias se conforma por haver paz em seus dias.",
+   "licoes": [
+    "Deus ouve a oração e vê as lágrimas (20:5).",
+    "A cura veio com promessa e também com um remédio simples (20:6-7).",
+    "Exibir riquezas por vaidade abre a porta para perdas futuras (20:13, 20:17).",
+    "Pensar só no próprio tempo é uma visão estreita (20:19)."
+   ],
+   "reflexao": "Você tem pensado nas consequências das suas escolhas para as próximas gerações?",
+   "quiz": [
+    {
+     "pergunta": "Quantos anos Deus acrescentou à vida de Ezequias?",
+     "opcoes": [
+      "Cinco",
+      "Dez",
+      "Quinze",
+      "Vinte"
+     ],
+     "correta": 2,
+     "ref": "20:6"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "titulo": "Manassés e Amom",
+   "chave": "21:9",
+   "resumo": "Manassés reina 55 anos e desfaz as reformas do pai: reconstrói os altos, ergue altares a Baal e aos astros dentro do templo, sacrifica o filho e pratica adivinhação. Os profetas anunciam que Jerusalém sofrerá o mesmo destino de Samaria. Seu filho Amom segue o mesmo caminho e é morto por seus servos após dois anos.",
+   "licoes": [
+    "Uma geração pode desfazer rapidamente o bem construído pela anterior (21:3).",
+    "Um líder pode arrastar o povo a fazer mais mal que as nações (21:9).",
+    "Deus vê o sangue inocente derramado (21:16)."
+   ],
+   "reflexao": "Que bem recebido de outros você precisa guardar com cuidado?",
+   "quiz": [
+    {
+     "pergunta": "Quantos anos tinha Manassés quando começou a reinar?",
+     "opcoes": [
+      "Oito",
+      "Doze",
+      "Dezesseis",
+      "Vinte e dois"
+     ],
+     "correta": 1,
+     "ref": "21:1"
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "titulo": "O livro da lei é encontrado",
+   "chave": "22:19",
+   "resumo": "Josias, que começou a reinar aos oito anos, manda reparar o templo. O sumo sacerdote Hilquias encontra o livro da lei, e o escriba Safã o lê ao rei, que rasga suas roupas. Consultada, a profetisa Hulda confirma o juízo sobre Judá, mas diz que Josias será poupado de vê-lo por ter se humilhado.",
+   "licoes": [
+    "A palavra de Deus esquecida pode ser redescoberta e mudar uma nação (22:8).",
+    "Ouvir a palavra com o coração sensível leva ao arrependimento (22:11).",
+    "Deus usa uma profetisa, Hulda, para falar ao rei (22:14).",
+    "Deus honra o coração que se humilha diante dele (22:19)."
+   ],
+   "reflexao": "Como você reage quando a palavra de Deus confronta sua vida?",
+   "quiz": [
+    {
+     "pergunta": "Quem encontrou o livro da lei na casa do SENHOR?",
+     "opcoes": [
+      "Safã, o escriba",
+      "Hulda, a profetisa",
+      "Hilquias, o sumo sacerdote",
+      "O rei Josias"
+     ],
+     "correta": 2,
+     "ref": "22:8"
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "titulo": "A grande reforma de Josias",
+   "chave": "23:25",
+   "resumo": "Josias reúne o povo, lê o livro da aliança e renova o compromisso com o SENHOR. Ele remove ídolos, altares e práticas pagãs de Judá e destrói o altar de Betel, cumprindo a profecia do homem de Deus. Celebra uma Páscoa como não houve desde os juízes. Mesmo assim, o juízo sobre Judá permanece, e Josias morre em Megido diante do Faraó Neco.",
+   "licoes": [
+    "A reforma começa com a leitura pública da palavra e a renovação da aliança (23:2-3).",
+    "A profecia contra o altar de Betel se cumpre séculos depois (23:15-16).",
+    "Josias se volta ao SENHOR de todo o coração, alma e força (23:25).",
+    "A fidelidade de um rei não apaga sozinha o pecado acumulado de um povo (23:26-27)."
+   ],
+   "reflexao": "Que compromisso com Deus você precisa renovar hoje?",
+   "quiz": [
+    {
+     "pergunta": "Onde Josias foi morto?",
+     "opcoes": [
+      "Em Megido",
+      "Em Betel",
+      "Em Jerusalém",
+      "Em Ribla"
+     ],
+     "correta": 0,
+     "ref": "23:29"
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "titulo": "Nabucodonosor e o primeiro exílio",
+   "chave": "24:3",
+   "resumo": "Jeoaquim serve a Nabucodonosor, se rebela, e o SENHOR envia bandos inimigos contra Judá por causa dos pecados de Manassés. Seu filho Joaquim reina três meses e se rende; Nabucodonosor leva para a Babilônia o rei, os tesouros, os príncipes e os artesãos. Zedequias é posto como rei e também faz o mal.",
+   "licoes": [
+    "O texto lê os acontecimentos como juízo anunciado de Deus sobre Judá (24:2-3).",
+    "O sangue inocente derramado não foi esquecido (24:4).",
+    "O exílio leva até os mais capazes, deixando só \"os pobres do povo da terra\" (24:14)."
+   ],
+   "reflexao": "O que esta história ensina sobre as consequências do pecado coletivo?",
+   "quiz": [
+    {
+     "pergunta": "Que nome o rei da Babilônia deu a Matanias ao fazê-lo rei?",
+     "opcoes": [
+      "Jeoaquim",
+      "Zedequias",
+      "Joaquim",
+      "Gedalias"
+     ],
+     "correta": 1,
+     "ref": "24:17"
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "titulo": "A queda de Jerusalém",
+   "chave": "25:21",
+   "resumo": "Nabucodonosor cerca Jerusalém, a fome toma a cidade e Zedequias é capturado; seus filhos são mortos e ele é cegado. O templo, o palácio e as casas são queimados, os muros derrubados e o povo levado ao exílio. Gedalias é nomeado governador e assassinado. O livro termina com o rei Joaquim libertado da prisão na Babilônia e honrado à mesa do rei.",
+   "licoes": [
+    "O que Deus anunciou pelos profetas se cumpre: Judá é levado da sua terra (25:21).",
+    "Até o templo, sinal da presença de Deus, é destruído quando o povo abandona a aliança (25:9).",
+    "O final com Joaquim honrado deixa uma pequena luz de esperança para a linhagem de Davi (25:27-29)."
+   ],
+   "reflexao": "Onde você vê sinais de esperança mesmo em tempos de perda?",
+   "quiz": [
+    {
+     "pergunta": "Em que ano do cativeiro Joaquim foi libertado da prisão?",
+     "opcoes": [
+      "No sétimo",
+      "No décimo nono",
+      "No trigésimo sétimo",
+      "No septuagésimo"
+     ],
+     "correta": 2,
+     "ref": "25:27"
+    }
+   ]
+  }
+ ]
+}

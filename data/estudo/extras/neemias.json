@@ -1,0 +1,578 @@
+{
+ "livro": "neemias",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:3-4",
+   "titulo": "Neemias chora em Susã",
+   "descricao": "Na fortaleza de Susã, Neemias ouve que o muro de Jerusalém está fendido e as portas queimadas; senta-se, chora, jejua e ora.",
+   "alt": "Um homem em vestes persas está sentado chorando num pátio de palácio enquanto viajantes lhe dão notícias.",
+   "prompt": "Courtyard of the Persian palace at Susa with glazed brick walls and columns, Nehemiah, a Jewish official in Persian court dress, sitting on a bench weeping with his head in his hands, dusty travelers from Judah standing before him with sad faces, late afternoon light"
+  },
+  {
+   "id": "q02",
+   "capitulo": 2,
+   "ref": "2:1-6",
+   "titulo": "O copeiro diante do rei",
+   "descricao": "Ao servir o vinho, Neemias está triste pela primeira vez diante de Artaxerxes; com medo, ora a Deus e pede licença para reconstruir Jerusalém.",
+   "alt": "Um copeiro oferece uma taça ao rei persa, que o observa com atenção ao lado da rainha.",
+   "prompt": "Throne room of King Artaxerxes in Susa, the king seated on a high throne with the queen beside him, the cupbearer Nehemiah offering a golden wine cup with a sorrowful face, the king looking at him with curiosity, guards and attendants, rich lamplight"
+  },
+  {
+   "id": "q03",
+   "capitulo": 2,
+   "ref": "2:12-15",
+   "titulo": "Inspeção noturna dos muros",
+   "descricao": "De noite, montado num animal e com poucos homens, Neemias percorre em segredo os muros fendidos e as portas consumidas pelo fogo.",
+   "alt": "À luz da lua, um homem montado examina ruínas de muralhas e portas queimadas.",
+   "prompt": "Night in Jerusalem under moonlight, Nehemiah riding a donkey with a few companions holding torches, examining broken city walls and burned gates near the Valley Gate, rubble blocking the path, the Kidron valley below, quiet secrecy"
+  },
+  {
+   "id": "q04",
+   "capitulo": 3,
+   "ref": "3:1-5",
+   "titulo": "Todos constroem o muro",
+   "descricao": "O sumo sacerdote Eliasibe e os sacerdotes reconstroem a Porta das Ovelhas, e famílias, ourives e comerciantes trabalham cada um no seu trecho.",
+   "alt": "Sacerdotes, artesãos e famílias trabalham lado a lado erguendo um trecho de muralha.",
+   "prompt": "Rebuilding the walls of Jerusalem, priests in robes lifting stones at the Sheep Gate, goldsmiths, merchants, men and women working side by side on their sections, wooden gates being hung, ropes and baskets of stones, energetic cooperative scene, bright daylight"
+  },
+  {
+   "id": "q05",
+   "capitulo": 4,
+   "ref": "4:17-18",
+   "titulo": "Uma mão na obra, outra na arma",
+   "descricao": "Diante das ameaças, os construtores trabalham com uma mão e seguram a arma com a outra, com a espada à cintura e o trombeteiro ao lado de Neemias.",
+   "alt": "Pedreiros carregam pedras com uma mão e seguram lanças com a outra sobre a muralha.",
+   "prompt": "Jewish builders on the half-finished wall of Jerusalem carrying stones with one hand and holding spears with the other, swords at their belts, a trumpeter standing beside Nehemiah who watches the horizon, families behind, tense but determined, dusk light"
+  },
+  {
+   "id": "q06",
+   "capitulo": 5,
+   "ref": "5:1-13",
+   "titulo": "O clamor dos pobres",
+   "descricao": "O povo pobre se queixa de dívidas e servidão; Neemias repreende os nobres, que prometem devolver campos e casas, e sacode a dobra da roupa como sinal.",
+   "alt": "Um líder sacode a própria veste diante de nobres e do povo reunido.",
+   "prompt": "Assembly in Jerusalem, Nehemiah shaking out the fold of his robe as a solemn sign before wealthy nobles and officials, poor farmers, women and children watching with hope, the crowd raising hands and saying amen, stone buildings, daylight"
+  },
+  {
+   "id": "q07",
+   "capitulo": 6,
+   "ref": "6:15",
+   "titulo": "O muro terminado em 52 dias",
+   "descricao": "No dia 25 de Elul o muro é concluído, em cinquenta e dois dias, e os inimigos percebem que a obra foi feita com a ajuda de Deus.",
+   "alt": "A muralha de Jerusalém completa, com portas novas, brilha ao sol enquanto o povo observa.",
+   "prompt": "The completed walls of Jerusalem with new wooden gates and towers glowing in golden late summer light, weary but joyful builders resting on the wall, Nehemiah looking out over the city, hills around, sense of accomplishment"
+  },
+  {
+   "id": "q08",
+   "capitulo": 8,
+   "ref": "8:4-6",
+   "titulo": "Esdras lê a lei ao povo",
+   "descricao": "Sobre uma plataforma de madeira, Esdras abre o livro da lei; todo o povo se levanta, responde \"Amém! Amém!\" com as mãos erguidas e se prostra.",
+   "alt": "Um escriba numa plataforma de madeira abre um rolo enquanto uma multidão ergue as mãos.",
+   "prompt": "Square before the Water Gate in Jerusalem at dawn, Ezra the scribe standing on a tall wooden platform opening a large Torah scroll, thirteen men standing beside him, a vast crowd of men, women and children standing with hands raised saying amen, some bowing to the ground, early morning light"
+  },
+  {
+   "id": "q09",
+   "capitulo": 8,
+   "ref": "8:15-16",
+   "titulo": "As tendas nos terraços",
+   "descricao": "O povo colhe ramos de oliveira, murta e palmeira e faz tendas nos terraços, nos pátios e nas praças para a festa do sétimo mês.",
+   "alt": "Famílias montam cabanas de ramos sobre terraços de casas de pedra.",
+   "prompt": "Jerusalem rooftops and courtyards covered with booths made of olive, myrtle and palm branches, families building and decorating them, children carrying branches, people sharing food inside the booths, festive autumn light"
+  },
+  {
+   "id": "q10",
+   "capitulo": 9,
+   "ref": "9:1-3",
+   "titulo": "Jejum e confissão",
+   "descricao": "No dia 24, os israelitas se reúnem em jejum, com sacos e terra sobre a cabeça, leem a lei e confessam seus pecados.",
+   "alt": "Uma multidão vestida de saco, com terra sobre a cabeça, está de pé ouvindo a leitura da lei.",
+   "prompt": "Gathering of Israelites in Jerusalem dressed in rough sackcloth with dust on their heads, standing and kneeling in confession, Levites on a stairway reading aloud from a scroll and crying out in prayer, solemn gray morning light"
+  },
+  {
+   "id": "q11",
+   "capitulo": 9,
+   "ref": "9:38",
+   "titulo": "O pacto selado",
+   "descricao": "Os líderes fazem um pacto fiel por escrito, e príncipes, levitas e sacerdotes o selam.",
+   "alt": "Líderes pressionam selos sobre um documento numa mesa diante do povo.",
+   "prompt": "Leaders of Jerusalem, princes, Levites and priests, pressing their seals into clay on a written covenant document on a wooden table, Nehemiah first among them, the people watching solemnly, soft interior light"
+  },
+  {
+   "id": "q12",
+   "capitulo": 11,
+   "ref": "11:1-2",
+   "titulo": "Sortes para morar em Jerusalém",
+   "descricao": "Para repovoar a cidade, o povo lança sortes: um de cada dez vai morar em Jerusalém, e o povo abençoa quem se oferece.",
+   "alt": "Famílias tiram sortes de um jarro numa praça, observadas por líderes.",
+   "prompt": "Village square in Judah, families gathered as lots are drawn from a clay jar by elders, one family chosen embracing and preparing to move to Jerusalem, others blessing them, Jerusalem visible on a distant hill, warm light"
+  },
+  {
+   "id": "q13",
+   "capitulo": 12,
+   "ref": "12:31-43",
+   "titulo": "A dedicação dos muros",
+   "descricao": "Dois grandes coros caminham em procissão sobre o muro, em direções opostas, com instrumentos; a alegria de Jerusalém é ouvida de longe.",
+   "alt": "Dois coros com instrumentos caminham sobre a muralha da cidade enquanto famílias celebram embaixo.",
+   "prompt": "Two great choirs of Levites in white robes walking in procession on top of the walls of Jerusalem in opposite directions, with trumpets, cymbals, lyres and harps, leaders following, women and children rejoicing below, joyful sound rising, bright festive light"
+  },
+  {
+   "id": "q14",
+   "capitulo": 13,
+   "ref": "13:15-19",
+   "titulo": "As portas fechadas no sábado",
+   "descricao": "Neemias vê comércio no sábado e manda fechar as portas de Jerusalém ao entardecer, pondo guardas para que nenhuma carga entre.",
+   "alt": "Guardas fecham as grandes portas da cidade ao anoitecer, deixando mercadores do lado de fora.",
+   "prompt": "Dusk at a gate of Jerusalem, guards closing heavy wooden gates, Nehemiah giving orders, merchants with donkeys loaded with wine, grapes, figs and fish left waiting outside the walls, the first stars appearing, calm firmness"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "muro",
+   "termo": "Muro de Jerusalém",
+   "ref": "1:3",
+   "explicado": false,
+   "significado": "O muro fendido é sinal de \"miséria e desprezo\" (1:3). Reconstruí-lo devolve segurança e dignidade ao povo; muitos leitores o veem também como imagem de restauração espiritual."
+  },
+  {
+   "id": "portas-queimadas",
+   "termo": "Portas queimadas",
+   "ref": "2:13",
+   "explicado": false,
+   "significado": "Lembram a destruição de 586 a.C. ainda não reparada. Restaurar e depois fechar as portas no sábado (13:19) mostra a cidade reorganizada."
+  },
+  {
+   "id": "taca",
+   "termo": "Taça do rei",
+   "ref": "2:1",
+   "explicado": false,
+   "significado": "Como copeiro, Neemias tinha acesso direto ao rei. A taça é o ponto em que sua tristeza aparece e sua oportunidade começa."
+  },
+  {
+   "id": "espada-obra",
+   "termo": "Espada e ferramenta",
+   "ref": "4:17",
+   "explicado": false,
+   "significado": "Os construtores trabalham e vigiam ao mesmo tempo. O texto narra o fato; muitos tiram dele a lição de que oração e vigilância andam juntas (4:9)."
+  },
+  {
+   "id": "roupa-sacudida",
+   "termo": "Roupa sacudida",
+   "ref": "5:13",
+   "explicado": true,
+   "significado": "Neemias explica o gesto: assim Deus sacuda e esvazie quem não cumprir a promessa. O povo responde \"Amém\"."
+  },
+  {
+   "id": "plataforma",
+   "termo": "Plataforma de madeira",
+   "ref": "8:4",
+   "explicado": false,
+   "significado": "Feita para que Esdras fosse visto e ouvido por todos. A leitura pública e a explicação (8:8) tornam a lei acessível ao povo."
+  },
+  {
+   "id": "maos-erguidas",
+   "termo": "Mãos erguidas e amém",
+   "ref": "8:6",
+   "explicado": false,
+   "significado": "O povo responde à leitura com o corpo: de pé, mãos erguidas e depois rosto em terra. Sinal de adesão e reverência."
+  },
+  {
+   "id": "tendas",
+   "termo": "Tendas de ramos",
+   "ref": "8:15",
+   "explicado": true,
+   "significado": "O próprio texto remete à lei (8:14): morar em tendas lembra a peregrinação no deserto, segundo Levítico 23:42-43."
+  },
+  {
+   "id": "saco-terra",
+   "termo": "Saco e terra na cabeça",
+   "ref": "9:1",
+   "explicado": false,
+   "significado": "Sinais de luto e arrependimento. Acompanham a longa confissão do capítulo 9."
+  },
+  {
+   "id": "pacto-selado",
+   "termo": "Pacto selado",
+   "ref": "9:38",
+   "explicado": false,
+   "significado": "O compromisso é escrito e selado pelos líderes, como um contrato. O capítulo 10 detalha o que prometeram."
+  },
+  {
+   "id": "sortes",
+   "termo": "Sortes",
+   "ref": "11:1",
+   "explicado": false,
+   "significado": "Decidir por sorte quem moraria na cidade deixava a escolha nas mãos de Deus. Quem se oferecia voluntariamente era abençoado (11:2)."
+  },
+  {
+   "id": "dois-coros",
+   "termo": "Dois coros sobre o muro",
+   "ref": "12:31",
+   "explicado": false,
+   "significado": "Percorrem o muro em direções opostas e se encontram no templo, consagrando toda a obra com louvor."
+  },
+  {
+   "id": "portas-sabado",
+   "termo": "Portas fechadas no sábado",
+   "ref": "13:19",
+   "explicado": false,
+   "significado": "Neemias protege o descanso do sábado fechando a cidade ao comércio. O texto mostra que a reforma exigia vigilância constante."
+  },
+  {
+   "id": "lembra-te",
+   "termo": "\"Lembra-te de mim\"",
+   "ref": "13:31",
+   "explicado": false,
+   "significado": "Oração breve que Neemias repete (5:19; 13:14, 22, 31). Não é imagem, mas funciona como refrão do livro: ele confia seu trabalho à memória de Deus."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "chomah",
+   "pt": "Muro",
+   "refs": [
+    "1:3",
+    "2:17"
+   ],
+   "hebraico": {
+    "lema": "חוֹמָה",
+    "translit": "chomah",
+    "strong": "H2346"
+   },
+   "sentido": "muralha de cidade",
+   "latim": {
+    "forma": "murus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Palavra central do livro. Sem muralha, uma cidade antiga ficava exposta e envergonhada.",
+   "interpretacao": false
+  },
+  {
+   "id": "cherpah",
+   "pt": "Opróbrio, humilhação",
+   "refs": [
+    "2:17",
+    "4:4"
+   ],
+   "hebraico": {
+    "lema": "חֶרְפָּה",
+    "translit": "cherpah",
+    "strong": "H2781"
+   },
+   "sentido": "vergonha, desprezo público",
+   "latim": {
+    "forma": "opprobrium",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Neemias convida a reconstruir \"e não sejamos mais humilhados\" (2:17). A vergonha do povo atingia também a honra de Deus.",
+   "interpretacao": false
+  },
+  {
+   "id": "banah",
+   "pt": "Edificar",
+   "refs": [
+    "2:18",
+    "2:20"
+   ],
+   "hebraico": {
+    "lema": "בָּנָה",
+    "translit": "banah",
+    "strong": "H1129"
+   },
+   "sentido": "construir, edificar",
+   "latim": {
+    "forma": "aedificare",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "\"Levantemo-nos e edifiquemos\" (2:18) resume o livro. O mesmo verbo foi usado para a casa (dinastia) de Davi e para o templo.",
+   "interpretacao": false
+  },
+  {
+   "id": "zakhar",
+   "pt": "Lembrar",
+   "refs": [
+    "1:8",
+    "5:19",
+    "13:31"
+   ],
+   "hebraico": {
+    "lema": "זָכַר",
+    "translit": "zakhar",
+    "strong": "H2142"
+   },
+   "sentido": "lembrar, trazer à memória e agir",
+   "latim": {
+    "forma": "memento",
+    "nota": "Vulgata: \"memento mei, Deus meus\"."
+   },
+   "outras": [],
+   "explicacao": "Na Bíblia, Deus \"lembrar\" significa agir conforme o compromisso. Neemias pede que Deus lembre a promessa (1:8) e lembre dele (13:31).",
+   "interpretacao": false
+  },
+  {
+   "id": "chesed",
+   "pt": "Bondade",
+   "refs": [
+    "1:5",
+    "9:17"
+   ],
+   "hebraico": {
+    "lema": "חֶסֶד",
+    "translit": "chesed",
+    "strong": "H2617"
+   },
+   "sentido": "amor leal, fidelidade à aliança",
+   "latim": {
+    "forma": "misericordia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Neemias começa a oração com \"Deus que guarda o pacto e a bondade\" (1:5). Em 9:17 é \"grande em bondade\", eco de Êxodo 34:6.",
+   "interpretacao": false
+  },
+  {
+   "id": "selichot",
+   "pt": "Perdões",
+   "refs": [
+    "9:17"
+   ],
+   "hebraico": {
+    "lema": "סְלִיחוֹת",
+    "translit": "selichot",
+    "strong": "H5547"
+   },
+   "sentido": "perdão",
+   "latim": {
+    "forma": "propitius",
+    "nota": "Vulgata: \"tu Deus propitius\"."
+   },
+   "outras": [],
+   "explicacao": "Literalmente \"Deus de perdões\". Hoje a palavra dá nome às orações penitenciais judaicas antes do Dia da Expiação.",
+   "interpretacao": false
+  },
+  {
+   "id": "parash",
+   "pt": "Claramente, explicando",
+   "refs": [
+    "8:8"
+   ],
+   "hebraico": {
+    "lema": "פָּרַשׁ",
+    "translit": "parash",
+    "strong": "H6567"
+   },
+   "sentido": "separar, tornar claro, traduzir",
+   "latim": {
+    "forma": "distincte",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Os levitas liam \"declarando e explicando o sentido\". Muitos pensam em tradução para o aramaico falado pelo povo, além da explicação; a tradição judaica viu aqui a origem do targum.",
+   "interpretacao": true
+  },
+  {
+   "id": "chedvah",
+   "pt": "Alegria",
+   "refs": [
+    "8:10"
+   ],
+   "hebraico": {
+    "lema": "חֶדְוָה",
+    "translit": "chedvah",
+    "strong": "H2304"
+   },
+   "sentido": "alegria, contentamento",
+   "latim": {
+    "forma": "gaudium",
+    "nota": "Vulgata: \"gaudium etenim Domini est fortitudo vestra\"."
+   },
+   "outras": [],
+   "explicacao": "Palavra rara, comum no aramaico. \"A alegria do SENHOR é vossa força\": a festa, e não só o choro, é a resposta certa à palavra ouvida.",
+   "interpretacao": false
+  },
+  {
+   "id": "maoz",
+   "pt": "Força, fortaleza",
+   "refs": [
+    "8:10"
+   ],
+   "hebraico": {
+    "lema": "מָעוֹז",
+    "translit": "ma'oz",
+    "strong": "H4581"
+   },
+   "sentido": "refúgio, lugar forte",
+   "latim": {
+    "forma": "fortitudo",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Num livro sobre muros, a verdadeira fortaleza do povo é a alegria que vem de Deus.",
+   "interpretacao": false
+  },
+  {
+   "id": "sukkah",
+   "pt": "Tenda, cabana",
+   "refs": [
+    "8:14",
+    "8:16"
+   ],
+   "hebraico": {
+    "lema": "סֻכָּה",
+    "translit": "sukkah",
+    "strong": "H5521"
+   },
+   "sentido": "abrigo de ramos",
+   "latim": {
+    "forma": "tabernaculum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Dá nome à festa de Sucot (Tabernáculos). O texto diz que desde Josué não se celebrava assim (8:17).",
+   "interpretacao": false
+  },
+  {
+   "id": "shabbat",
+   "pt": "Sábado",
+   "refs": [
+    "13:15",
+    "13:19"
+   ],
+   "hebraico": {
+    "lema": "שַׁבָּת",
+    "translit": "shabbat",
+    "strong": "H7676"
+   },
+   "sentido": "descanso, cessação",
+   "latim": {
+    "forma": "sabbatum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Neemias defende o sábado contra o comércio. O descanso semanal era sinal da aliança e da identidade do povo.",
+   "interpretacao": false
+  },
+  {
+   "id": "amanah",
+   "pt": "Pacto fiel",
+   "refs": [
+    "9:38"
+   ],
+   "hebraico": {
+    "lema": "אֲמָנָה",
+    "translit": "amanah",
+    "strong": "H548"
+   },
+   "sentido": "acordo firme, compromisso",
+   "latim": {
+    "forma": "foedus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Da mesma raiz de \"amém\" e \"crer\": um compromisso firme. Na Bíblia hebraica é 10:1, por diferença de numeração.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "elefantina-sambalate",
+   "titulo": "Sambalate, governador de Samaria",
+   "refs": [
+    "2:10",
+    "4:1-2"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Papiros de Elefantina (petição a Bagoas)",
+   "referencia": "Papiros Cowley 30-31; coleções de Berlim e outras",
+   "data_fonte": "407 a.C.",
+   "data_evento": "séc. V a.C.",
+   "resumo": "Judeus de Elefantina, no Egito, pedem ajuda a Bagoas, governador de Judá, e dizem ter escrito também aos filhos de Sambalate, governador de Samaria. A carta cita o sumo sacerdote Joanã.",
+   "relacao": "Confirma Sambalate como líder de Samaria, uma geração depois de Neemias, e Joanã como sumo sacerdote (12:22). Bate com a cronologia de Neemias sob Artaxerxes I.",
+   "grau": "documentado"
+  },
+  {
+   "id": "tigela-gesem",
+   "titulo": "Gesém, o árabe",
+   "refs": [
+    "2:19",
+    "6:1"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Tigela de prata de Tell el-Maskhuta",
+   "referencia": "Museu do Brooklyn, Nova York",
+   "data_fonte": "c. séc. V a.C.",
+   "data_evento": "séc. V a.C.",
+   "resumo": "Tigela com inscrição aramaica dedicada por \"Qainu, filho de Gesém, rei de Quedar\".",
+   "relacao": "Muitos estudiosos identificam esse Gesém com o adversário de Neemias, um chefe árabe poderoso. A identificação é provável, mas não absoluta.",
+   "grau": "associacao"
+  },
+  {
+   "id": "josefo-neemias",
+   "titulo": "Josefo sobre Neemias",
+   "refs": [
+    "2:1",
+    "6:15"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 11, cap. 5",
+   "data_fonte": "c. 93-94 d.C.",
+   "data_evento": "séc. V a.C.",
+   "resumo": "Josefo conta a missão de Neemias e a reconstrução dos muros, situando-a no reinado de Xerxes e dando duração bem maior à obra.",
+   "relacao": "Mostra a memória judaica de Neemias como construtor dos muros, mas difere do livro na data e na duração (6:15), o que lembra que Josefo trabalhava com tradições variadas.",
+   "grau": "associacao"
+  },
+  {
+   "id": "ben-sira",
+   "titulo": "Neemias lembrado por Ben Sirá",
+   "refs": [
+    "2:17",
+    "6:15"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Eclesiástico (Sabedoria de Ben Sirá)",
+   "referencia": "cap. 49, v. 13",
+   "data_fonte": "c. 180 a.C.",
+   "data_evento": "séc. V a.C.",
+   "resumo": "No elogio aos antepassados, Ben Sirá lembra Neemias como quem levantou os muros caídos e reergueu portas e trancas.",
+   "relacao": "É uma das memórias mais antigas de Neemias fora do livro. O Eclesiástico faz parte da Bíblia católica e ortodoxa, mas não da Bíblia hebraica nem das bíblias protestantes.",
+   "grau": "documentado"
+  },
+  {
+   "id": "yehud",
+   "titulo": "Selos e moedas da província de Yehud",
+   "refs": [
+    "5:14"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Impressões de selo e moedas com a inscrição \"Yehud\"",
+   "referencia": "Encontradas em Jerusalém, Ramat Rahel e outros sítios",
+   "data_fonte": "séc. V-IV a.C.",
+   "data_evento": "período persa",
+   "resumo": "Jarros e pequenas moedas trazem o nome aramaico da província, \"Yehud\", e às vezes o título de governador.",
+   "relacao": "Mostram Judá como província persa com governador próprio, como Neemias (5:14). Não citam Neemias.",
+   "grau": "associacao"
+  },
+  {
+   "id": "muro-cidade-davi",
+   "titulo": "Restos do muro do período persa",
+   "refs": [
+    "3:1",
+    "6:15"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Trechos de muralha na encosta leste da Cidade de Davi",
+   "referencia": "Escavações de K. Kenyon e E. Mazar, Jerusalém",
+   "data_fonte": "séc. V a.C. (datação debatida)",
+   "data_evento": "escavados no séc. XX e em 2007",
+   "resumo": "Escavações acharam trechos de muro e uma torre que alguns atribuem à reconstrução de Neemias.",
+   "relacao": "A atribuição é debatida: outros arqueólogos datam essas estruturas em outras épocas. O que se sabe é que a Jerusalém da época era pequena, o que combina com a pouca população de 7:4.",
+   "grau": "associacao"
+  }
+ ]
+}

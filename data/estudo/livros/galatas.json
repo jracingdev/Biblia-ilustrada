@@ -1,0 +1,224 @@
+{
+ "livro": "galatas",
+ "nome": "Gálatas",
+ "subtitulo": "A liberdade do evangelho da graça",
+ "introducao": "Paulo escreve com urgência às igrejas da Galácia, que estavam sendo convencidas de que os gentios precisavam se circuncidar e seguir a Lei de Moisés para serem aceitos por Deus. Ele defende que a justificação é pela fé em Cristo, e não pelas obras da Lei. A carta mostra que a liberdade cristã leva a uma vida guiada pelo Espírito e marcada pelo amor.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Paulo, apóstolo (1:1)"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Data debatida: entre cerca de 48 e 55 d.C., conforme a região que se entende por \"Galácia\""
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "As igrejas da Galácia, na Ásia Menor (1:2)"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Carta"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "6 capítulos e 149 versículos"
+  }
+ ],
+ "chave": "2:16",
+ "temas": [
+  "Há um só evangelho, o da graça",
+  "Justificação pela fé, não pelas obras da Lei",
+  "Filhos e herdeiros pela fé, como Abraão",
+  "Liberdade cristã a serviço do amor",
+  "O fruto do Espírito"
+ ],
+ "cristo": "Gálatas coloca a cruz no centro: Cristo se entregou por nossos pecados e se fez maldição por nós, para que recebêssemos a bênção de Abraão e o Espírito pela fé (1:4, 3:13-14). A vida cristã é viver pela fé no Filho de Deus, que nos amou (2:20).",
+ "secoes": [
+  {
+   "id": "defesa",
+   "titulo": "A origem do evangelho de Paulo",
+   "capitulos": [
+    1,
+    2
+   ],
+   "resumo": "Paulo mostra que seu evangelho veio de Cristo e defende a justificação pela fé."
+  },
+  {
+   "id": "argumento",
+   "titulo": "Fé, Lei e promessa",
+   "capitulos": [
+    3,
+    4
+   ],
+   "resumo": "A promessa a Abraão, o papel da Lei e a adoção como filhos."
+  },
+  {
+   "id": "pratica",
+   "titulo": "A vida em liberdade",
+   "capitulos": [
+    5,
+    6
+   ],
+   "resumo": "Liberdade no Espírito, amor ao próximo e a glória da cruz."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Não há outro evangelho",
+   "chave": "1:6-7",
+   "resumo": "Paulo se apresenta como apóstolo enviado por Jesus Cristo e por Deus Pai, e se admira de que os gálatas estejam abandonando tão depressa o evangelho da graça por \"outro evangelho\". Ele declara maldito quem anunciar um evangelho diferente, mesmo que seja um anjo. Para mostrar que sua mensagem vem de Deus, conta como era um perseguidor zeloso e como Deus lhe revelou seu Filho, sem que ele dependesse dos apóstolos de Jerusalém.",
+   "licoes": [
+    "Jesus se entregou por nossos pecados para nos livrar da presente era maligna (1:4).",
+    "Não existe outro evangelho; alterar a mensagem da graça é pervertê-la (1:6-9).",
+    "Servir a Cristo é buscar a aprovação de Deus, e não agradar às pessoas (1:10).",
+    "A conversão de Paulo, de perseguidor a pregador, levou as igrejas a glorificar a Deus (1:23-24)."
+   ],
+   "reflexao": "Em que situações você tende a buscar mais a aprovação das pessoas do que a de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Para onde Paulo foi logo após sua conversão, antes de voltar a Damasco?",
+     "opcoes": [
+      "Jerusalém",
+      "Tarso",
+      "Arábia",
+      "Antioquia"
+     ],
+     "correta": 2,
+     "ref": "1:17"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Justificados pela fé, não pelas obras",
+   "chave": "2:20",
+   "resumo": "Paulo conta que, catorze anos depois, foi a Jerusalém com Barnabé e Tito, e os líderes reconheceram seu chamado aos gentios sem exigir a circuncisão de Tito. Depois, em Antioquia, ele confrontou Pedro publicamente por deixar de comer com os gentios por medo dos que defendiam a circuncisão. Paulo afirma que ninguém é justificado pelas obras da Lei, mas pela fé em Cristo, e que agora é Cristo quem vive nele.",
+   "licoes": [
+    "A verdade do evangelho deve ser preservada mesmo diante de pressões (2:5).",
+    "Até líderes respeitados podem agir com hipocrisia e precisar ser corrigidos (2:11-13).",
+    "A pessoa é justificada pela fé em Cristo, e não pelas obras da Lei (2:16).",
+    "A vida cristã é viver pela fé no Filho de Deus, que nos amou e se entregou por nós (2:20)."
+   ],
+   "reflexao": "O que muda no seu dia a dia ao lembrar que Cristo vive em você?",
+   "quiz": [
+    {
+     "pergunta": "Quem Paulo confrontou face a face em Antioquia?",
+     "opcoes": [
+      "Barnabé",
+      "Tiago",
+      "João",
+      "Cefas (Pedro)"
+     ],
+     "correta": 3,
+     "ref": "2:11"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "A promessa a Abraão e o papel da Lei",
+   "chave": "3:28",
+   "resumo": "Paulo pergunta aos gálatas se receberam o Espírito pelas obras da Lei ou pela fé, e lembra que Abraão foi justificado por crer. Cristo nos resgatou da maldição da Lei, fazendo-se maldição por nós, para que a bênção de Abraão chegasse aos gentios. A Lei veio depois da promessa e serviu como tutor até Cristo; agora, pela fé, todos são filhos de Deus e um em Cristo Jesus.",
+   "licoes": [
+    "A vida no Espírito começa e continua pela fé, não pelo esforço humano (3:2-3).",
+    "Cristo se fez maldição por nós para nos libertar da maldição da Lei (3:13).",
+    "A Lei foi um tutor que nos conduziu a Cristo (3:24).",
+    "Em Cristo não há judeu nem grego, escravo nem livre, homem nem mulher: todos são um (3:28)."
+   ],
+   "reflexao": "Que barreiras entre pessoas a sua comunidade ainda precisa derrubar em Cristo?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Paulo, quantos anos depois da promessa veio a Lei?",
+     "opcoes": [
+      "Quarenta",
+      "Quatrocentos",
+      "Quatrocentos e trinta",
+      "Mil"
+     ],
+     "correta": 2,
+     "ref": "3:17"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Filhos, não escravos",
+   "chave": "4:6-7",
+   "resumo": "Paulo compara a vida sob a Lei à de um herdeiro ainda criança, que não difere de um escravo. Na plenitude do tempo, Deus enviou seu Filho para resgatar os que estavam sob a Lei e enviou o Espírito que clama \"Aba, Pai\". Paulo lamenta que os gálatas queiram voltar à escravidão, lembra o carinho com que o receberam e usa a ilustração de Agar e Sara para mostrar que os cristãos são filhos da promessa e da liberdade.",
+   "licoes": [
+    "Deus enviou seu Filho na plenitude do tempo para nos adotar como filhos (4:4-5).",
+    "O Espírito em nós clama \"Aba, Pai\", e por isso somos filhos e herdeiros (4:6-7).",
+    "Paulo sofre como em dores de parto até que Cristo seja formado nos gálatas (4:19).",
+    "Os que creem são filhos da promessa, como Isaque, e não da escravidão (4:28, 4:31)."
+   ],
+   "reflexao": "Você se relaciona com Deus mais como filho ou como escravo com medo?",
+   "quiz": [
+    {
+     "pergunta": "Com que mulher Paulo associa a aliança do monte Sinai?",
+     "opcoes": [
+      "Sara",
+      "Agar",
+      "Rebeca",
+      "Raquel"
+     ],
+     "correta": 1,
+     "ref": "4:24-25"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "Liberdade e fruto do Espírito",
+   "chave": "5:22-23",
+   "resumo": "Paulo exorta os gálatas a permanecerem firmes na liberdade que Cristo conquistou, sem se submeterem à circuncisão como meio de justificação. Em Cristo vale a fé que age pelo amor. A liberdade não é desculpa para a carne, mas para servir uns aos outros em amor; quem anda no Espírito não satisfaz os desejos da carne, e o Espírito produz amor, alegria, paz, paciência e outras virtudes.",
+   "licoes": [
+    "Cristo nos libertou para que vivamos livres, e não voltemos ao jugo da escravidão (5:1).",
+    "O que vale em Cristo é a fé que opera por meio do amor (5:6).",
+    "A liberdade cristã se expressa em servir uns aos outros pelo amor (5:13-14).",
+    "O fruto do Espírito é amor, alegria, paz, paciência, benignidade, bondade, fidelidade, mansidão e domínio próprio (5:22-23)."
+   ],
+   "reflexao": "Qual aspecto do fruto do Espírito você mais deseja ver crescer em você?",
+   "quiz": [
+    {
+     "pergunta": "Qual destes NÃO está na lista do fruto do Espírito?",
+     "opcoes": [
+      "Paciência",
+      "Mansidão",
+      "Prosperidade",
+      "Domínio próprio"
+     ],
+     "correta": 2,
+     "ref": "5:22-23"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "Levar as cargas uns dos outros",
+   "chave": "6:2",
+   "resumo": "Paulo ensina os cristãos espirituais a restaurar com mansidão quem cai em pecado e a levar as cargas uns dos outros. Lembra que cada um colherá o que semear e encoraja a não se cansar de fazer o bem. Escrevendo de próprio punho, denuncia os que exigem a circuncisão para evitar perseguição e declara que só se gloria na cruz de Cristo, pois o que importa é ser nova criatura.",
+   "licoes": [
+    "Quem cai deve ser restaurado com mansidão, e quem restaura deve vigiar a si mesmo (6:1).",
+    "Levar as cargas uns dos outros é cumprir a lei de Cristo (6:2).",
+    "O que a pessoa semeia, isso colherá; por isso não devemos nos cansar de fazer o bem (6:7-9).",
+    "O único motivo de glória é a cruz de Cristo, e o que vale é ser nova criatura (6:14-15)."
+   ],
+   "reflexao": "Que carga de alguém você poderia ajudar a carregar nesta semana?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Paulo, o que o ser humano colherá?",
+     "opcoes": [
+      "Apenas coisas boas",
+      "O que a igreja plantar",
+      "O que seus pais semearam",
+      "O que ele mesmo semear"
+     ],
+     "correta": 3,
+     "ref": "6:7"
+    }
+   ]
+  }
+ ]
+}

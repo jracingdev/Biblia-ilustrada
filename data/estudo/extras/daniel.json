@@ -1,0 +1,811 @@
+{
+ "livro": "daniel",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:12-15",
+   "titulo": "Legumes e água",
+   "descricao": "Daniel e seus amigos pedem dez dias de legumes e água em vez da comida do rei; ao fim, estão mais saudáveis que os outros jovens.",
+   "alt": "Quatro jovens judeus comem legumes e bebem água diante de um oficial babilônio surpreso.",
+   "prompt": "Four young Judean noblemen in simple robes seated at a low table in a Babylonian palace chamber with bowls of vegetables and cups of water, a court official in rich Babylonian dress looking at them with surprise, other youths with lavish dishes in the background, glazed brick walls, warm light"
+  },
+  {
+   "id": "q02",
+   "capitulo": 2,
+   "ref": "2:27-28",
+   "titulo": "Daniel diante de Nabucodonosor",
+   "descricao": "Daniel diz ao rei que nenhum sábio pode revelar o mistério, mas há um Deus nos céus que revela os mistérios.",
+   "alt": "Um jovem judeu fala com o dedo apontado para o céu diante de um rei babilônio no trono.",
+   "prompt": "A young Judean man standing before Nebuchadnezzar on a throne in a vast Babylonian hall with lion reliefs on blue glazed bricks, the young man pointing upward toward heaven as he speaks, magicians and astrologers standing aside humbled, torchlight"
+  },
+  {
+   "id": "q03",
+   "capitulo": 2,
+   "ref": "2:31-35",
+   "titulo": "A estátua e a pedra",
+   "descricao": "No sonho do rei, uma pedra cortada sem auxílio de mãos atinge os pés de uma grande estátua de ouro, prata, bronze, ferro e barro, que vira pó; a pedra se torna um monte que enche a terra.",
+   "alt": "Uma estátua gigante de vários metais se desfaz em pó atingida por uma pedra, que cresce até virar montanha.",
+   "prompt": "Dreamlike vision of an immense statue with a head of gold, chest and arms of silver, belly of bronze, legs of iron and feet of iron mixed with clay, a great stone cut from a mountain without hands striking its feet, the metals crumbling into dust blown by the wind, the stone growing into a vast mountain filling the earth, night sky"
+  },
+  {
+   "id": "q04",
+   "capitulo": 3,
+   "ref": "3:12-18",
+   "titulo": "Os três que não se curvaram",
+   "descricao": "Na planície de Dura, todos se prostram diante da estátua de ouro, mas Sadraque, Mesaque e Abednego permanecem de pé.",
+   "alt": "Uma multidão prostrada diante de uma estátua dourada enquanto três jovens continuam de pé.",
+   "prompt": "On the wide plain of Dura, an enormous golden statue towering over a vast crowd of officials and peoples bowing face down, while three young Judean men in robes and turbans remain standing upright, calm and resolute, musicians with horns and harps nearby, bright sunlight"
+  },
+  {
+   "id": "q05",
+   "capitulo": 3,
+   "ref": "3:24-25",
+   "titulo": "Quatro homens no fogo",
+   "descricao": "O rei se espanta ao ver quatro homens soltos andando no meio da fornalha, sem dano, e o quarto com aparência de um ser divino.",
+   "alt": "Através da boca de uma fornalha, quatro figuras caminham ilesas entre as chamas; o rei olha espantado.",
+   "prompt": "Through the opening of a great furnace, four figures walking unharmed in the midst of the flames, three young men in robes and a fourth radiant luminous figure beside them, the king rising from his seat in astonishment with his counselors, intense orange light, no injury shown"
+  },
+  {
+   "id": "q06",
+   "capitulo": 4,
+   "ref": "4:10-12",
+   "titulo": "A grande árvore",
+   "descricao": "O rei sonha com uma árvore enorme no meio da terra, que alcança o céu e dá sombra e alimento a animais e aves.",
+   "alt": "Uma árvore gigantesca, cheia de frutos, com aves nos ramos e animais à sua sombra.",
+   "prompt": "An immense tree rising from the center of the earth to the sky, its branches full of fruit and birds, wild animals resting in its shade, the whole world visible around it, dreamlike golden light"
+  },
+  {
+   "id": "q07",
+   "capitulo": 4,
+   "ref": "4:33-34",
+   "titulo": "O rei no campo",
+   "descricao": "Nabucodonosor é afastado dos homens e vive no campo como os bois, até que levanta os olhos ao céu e recupera o entendimento.",
+   "alt": "Um homem de cabelo longo e roupas rasgadas, no campo ao amanhecer, ergue os olhos para o céu.",
+   "prompt": "A disheveled king with very long matted hair and beard, wearing torn royal garments, kneeling in a dewy meadow among grazing oxen at dawn, lifting his eyes to the sky as understanding returns to his face, Babylon's walls far in the distance, dignified and sober"
+  },
+  {
+   "id": "q08",
+   "capitulo": 5,
+   "ref": "5:5",
+   "titulo": "A escrita na parede",
+   "descricao": "No banquete em que se bebe nos vasos do templo, dedos de uma mão escrevem na parede diante do castiçal, e o rei Belsazar empalidece.",
+   "alt": "Num banquete, uma mão luminosa escreve na parede enquanto o rei e os convidados olham aterrorizados.",
+   "prompt": "A lavish royal banquet hall in Babylon at night, nobles reclining with gold and silver vessels from the Jerusalem temple, a mysterious glowing hand writing strange letters on the white plaster wall beside a large lampstand, the young king Belshazzar pale and trembling, guests frozen in fear"
+  },
+  {
+   "id": "q09",
+   "capitulo": 6,
+   "ref": "6:10",
+   "titulo": "Daniel ora à janela",
+   "descricao": "Mesmo sabendo do decreto, Daniel ora três vezes ao dia, ajoelhado, com as janelas abertas voltadas para Jerusalém.",
+   "alt": "Um homem idoso ajoelhado ora diante de uma janela aberta voltada para o poente.",
+   "prompt": "An elderly Daniel kneeling in prayer in an upper room before an open lattice window facing west toward Jerusalem, hands raised, evening light streaming in, men watching secretly from a neighboring rooftop"
+  },
+  {
+   "id": "q10",
+   "capitulo": 6,
+   "ref": "6:22",
+   "titulo": "Na cova dos leões",
+   "descricao": "Daniel passa a noite na cova; um anjo fecha a boca dos leões, e de manhã ele está ileso.",
+   "alt": "Um homem de pé, sereno, entre leões deitados numa cova iluminada por um anjo.",
+   "prompt": "Inside a stone pit at dawn, an elderly man standing calmly with lions lying peacefully around him, a dignified angel in white with a gentle radiance standing nearby, the king peering anxiously from the opening above, shaft of morning light"
+  },
+  {
+   "id": "q11",
+   "capitulo": 7,
+   "ref": "7:2-7",
+   "titulo": "Quatro animais saem do mar",
+   "descricao": "Os quatro ventos agitam o grande mar e dele sobem quatro animais: um leão com asas de águia, um urso, um leopardo de quatro cabeças e uma besta terrível com dentes de ferro.",
+   "alt": "Quatro animais estranhos emergem de um mar revolto sob céu escuro de tempestade.",
+   "prompt": "Night vision of a great sea churned by winds from four directions, rising from the waves a winged lion with eagle wings, a bear raised up on one side, a four-headed leopard with four bird wings, and a terrifying fourth beast with iron teeth and ten horns, stormy apocalyptic sky, the prophet small on a cliff watching"
+  },
+  {
+   "id": "q12",
+   "capitulo": 7,
+   "ref": "7:9-14",
+   "titulo": "O Ancião de dias e o Filho do homem",
+   "descricao": "Tronos são postos; do trono de chamas sai um rio de fogo e milhares servem diante dele. Alguém como um filho do homem vem com as nuvens e recebe um reino eterno.",
+   "alt": "Um trono de fogo envolto em luz branca, multidões celestiais ao redor e uma figura humana chegando nas nuvens.",
+   "prompt": "A heavenly court with a throne of blazing flames and wheels of fire, the throne itself veiled in overwhelming white light with no visible face or body, a river of fire flowing from before it, countless angelic attendants in white, books opened, and approaching on the clouds of heaven one like a son of man in radiant garments, majestic and reverent"
+  },
+  {
+   "id": "q13",
+   "capitulo": 8,
+   "ref": "8:3-8",
+   "titulo": "O carneiro e o bode",
+   "descricao": "Junto ao rio Ulai, Daniel vê um carneiro de dois chifres derrubado por um bode com um grande chifre, que corre sem tocar o chão.",
+   "alt": "Um bode com um chifre ataca um carneiro de dois chifres à beira de um rio.",
+   "prompt": "On the bank of the Ulai river near the fortress city of Susa, a powerful ram with two long horns, one higher than the other, being charged by a male goat with a single prominent horn between its eyes, the goat seeming to fly above the ground, the prophet watching from the riverbank, dramatic sky"
+  },
+  {
+   "id": "q14",
+   "capitulo": 9,
+   "ref": "9:20-21",
+   "titulo": "Gabriel vem durante a oração",
+   "descricao": "Enquanto Daniel confessa os pecados do povo, Gabriel chega voando perto da hora do sacrifício da tarde.",
+   "alt": "Um homem idoso em oração recebe a visita de um anjo que desce em luz ao entardecer.",
+   "prompt": "An elderly Daniel kneeling with an open scroll of the prophet Jeremiah beside him, praying with bowed head, the angel Gabriel descending swiftly in a dignified human-like form with soft radiance, touching his shoulder, evening sky glowing through a window"
+  },
+  {
+   "id": "q15",
+   "capitulo": 10,
+   "ref": "10:4-6",
+   "titulo": "O homem vestido de linho",
+   "descricao": "À margem do Tigre, Daniel vê um homem vestido de linho, com cinto de ouro, rosto como relâmpago e olhos como tochas.",
+   "alt": "Às margens de um grande rio, uma figura luminosa vestida de linho aparece diante de um homem que cai de joelhos.",
+   "prompt": "On the bank of the great Tigris river, a radiant heavenly figure dressed in linen with a belt of fine gold, his face shining like lightning and eyes like torches, arms gleaming like polished bronze, Daniel falling to his knees while his companions flee in fear, reeds and wide water"
+  },
+  {
+   "id": "q16",
+   "capitulo": 12,
+   "ref": "12:5-7",
+   "titulo": "O juramento sobre o rio",
+   "descricao": "Dois seres estão nas margens do rio; o homem vestido de linho, sobre as águas, ergue as mãos ao céu e jura por aquele que vive para sempre.",
+   "alt": "Uma figura de linho sobre as águas de um rio ergue as duas mãos ao céu, com duas figuras nas margens.",
+   "prompt": "A luminous figure in white linen standing above the waters of a river with both hands raised toward heaven, two other heavenly beings standing on opposite banks, the aged Daniel kneeling on the shore with a sealed scroll, stars appearing in the twilight sky"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "estatua",
+   "termo": "A estátua de quatro metais",
+   "ref": "2:31",
+   "explicado": true,
+   "significado": "Daniel explica: o ouro é Nabucodonosor, e os outros metais são reinos seguintes (2:37-43). A identificação dos reinos varia: muitos leem Babilônia, Média-Pérsia, Grécia e Roma; outros, Babilônia, Média, Pérsia e Grécia."
+  },
+  {
+   "id": "pedra",
+   "termo": "Pedra cortada sem mãos",
+   "ref": "2:34",
+   "explicado": true,
+   "significado": "O texto explica: o Deus do céu levantará um reino que nunca será destruído (2:44-45). Leitores judeus e cristãos o aplicaram ao reino de Deus e ao Messias."
+  },
+  {
+   "id": "fornalha",
+   "termo": "Fornalha de fogo",
+   "ref": "3:6",
+   "explicado": false,
+   "significado": "Prova extrema de fidelidade. O ponto central do relato é a resposta dos três: Deus pode livrar, 'e se não', ainda assim não adorariam a estátua (3:17-18)."
+  },
+  {
+   "id": "quarto-homem",
+   "termo": "O quarto homem no fogo",
+   "ref": "3:25",
+   "explicado": false,
+   "significado": "O rei diz que parece 'um filho de deuses' e depois fala de um anjo (3:28). Muitos cristãos viram aqui uma aparição de Cristo; outros entendem um anjo."
+  },
+  {
+   "id": "arvore",
+   "termo": "A grande árvore cortada",
+   "ref": "4:10",
+   "explicado": true,
+   "significado": "Daniel explica: a árvore é o próprio rei, cuja grandeza chegou ao céu (4:22). O toco que fica indica que o reino lhe seria devolvido."
+  },
+  {
+   "id": "vigilante",
+   "termo": "O vigilante e santo",
+   "ref": "4:13",
+   "explicado": false,
+   "significado": "Ser celestial que anuncia a sentença. Esse uso de 'vigilantes' para anjos só aparece aqui na Bíblia e se tornou comum em textos judaicos posteriores."
+  },
+  {
+   "id": "escrita",
+   "termo": "Mene, mene, tequel, parsim",
+   "ref": "5:25",
+   "explicado": true,
+   "significado": "Daniel lê e interpreta as palavras: contado, pesado, dividido (5:26-28)."
+  },
+  {
+   "id": "balanca",
+   "termo": "A balança",
+   "ref": "5:27",
+   "explicado": true,
+   "significado": "O rei foi pesado e achado em falta: imagem de julgamento moral."
+  },
+  {
+   "id": "janela",
+   "termo": "Janelas abertas para Jerusalém",
+   "ref": "6:10",
+   "explicado": false,
+   "significado": "Orar voltado para Jerusalém ecoa a oração de Salomão (1 Rs 8:48). Mostra fidelidade pública mesmo sob proibição."
+  },
+  {
+   "id": "leoes",
+   "termo": "Cova dos leões",
+   "ref": "6:16",
+   "explicado": false,
+   "significado": "Perigo de morte do qual Deus livra o fiel. O próprio rei pagão termina reconhecendo o 'Deus vivente' (6:26)."
+  },
+  {
+   "id": "quatro-animais",
+   "termo": "Quatro animais do mar",
+   "ref": "7:3",
+   "explicado": true,
+   "significado": "O anjo explica: são quatro reis ou reinos (7:17). O mar agitado é imagem do caos. A identificação de cada animal é debatida, de modo paralelo à estátua do capítulo 2."
+  },
+  {
+   "id": "chifre-pequeno",
+   "termo": "O chifre pequeno",
+   "ref": "7:8",
+   "explicado": true,
+   "significado": "Explicado como um rei que fala contra o Altíssimo e persegue os santos (7:24-25). Muitos estudiosos o identificam com Antíoco IV Epifânio; outros veem também uma figura futura."
+  },
+  {
+   "id": "anciao",
+   "termo": "Ancião de dias",
+   "ref": "7:9",
+   "explicado": false,
+   "significado": "Imagem de Deus como juiz eterno, de cabelos brancos e trono de fogo. Fala de sabedoria e eternidade, não de idade avançada."
+  },
+  {
+   "id": "filho-homem",
+   "termo": "Alguém como filho do homem",
+   "ref": "7:13",
+   "explicado": false,
+   "significado": "Figura humana que recebe um reino eterno, em contraste com os animais. O texto a liga aos 'santos do Altíssimo' (7:18, 27); Jesus usa o título para si nos evangelhos."
+  },
+  {
+   "id": "carneiro-bode",
+   "termo": "Carneiro e bode",
+   "ref": "8:3",
+   "explicado": true,
+   "significado": "Gabriel explica: o carneiro são os reis da Média e da Pérsia; o bode, o rei da Grécia, e o grande chifre, o primeiro rei (8:20-21), geralmente entendido como Alexandre."
+  },
+  {
+   "id": "setenta-semanas",
+   "termo": "Setenta semanas",
+   "ref": "9:24",
+   "explicado": false,
+   "significado": "Setenta 'setes' de anos, ampliando os setenta anos de Jeremias (9:2). Há várias leituras: muitos cristãos chegam a Cristo; muitos estudiosos chegam à crise sob Antíoco IV; outros fazem leituras simbólicas."
+  },
+  {
+   "id": "abominacao",
+   "termo": "Abominação assoladora",
+   "ref": "11:31",
+   "explicado": false,
+   "significado": "Profanação do santuário com fim do sacrifício contínuo. Muitos a ligam ao altar pagão posto no templo por Antíoco IV (167 a.C.); Jesus retoma a expressão em Mateus 24:15."
+  },
+  {
+   "id": "miguel",
+   "termo": "Miguel, o grande príncipe",
+   "ref": "12:1",
+   "explicado": false,
+   "significado": "Anjo protetor do povo de Daniel (10:13, 21; 12:1). Reaparece em Judas 9 e Apocalipse 12:7."
+  },
+  {
+   "id": "estrelas",
+   "termo": "Os sábios brilharão como estrelas",
+   "ref": "12:3",
+   "explicado": true,
+   "significado": "O próprio verso aplica a imagem: os sábios e os que conduzem muitos à justiça brilharão para sempre. É uma das primeiras afirmações claras de ressurreição no Antigo Testamento (12:2)."
+  },
+  {
+   "id": "livro-selado",
+   "termo": "Livro selado",
+   "ref": "12:4",
+   "explicado": false,
+   "significado": "Guardar e selar indica que a visão é para o 'tempo do fim' e só será entendida plenamente depois (12:9)."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "raz",
+   "pt": "Mistério",
+   "refs": [
+    "2:18",
+    "2:28",
+    "2:47"
+   ],
+   "aramaico": {
+    "lema": "רָז",
+    "translit": "raz",
+    "strong": "H7328"
+   },
+   "grego": {
+    "lema": "μυστήριον",
+    "translit": "mystḗrion"
+   },
+   "sentido": "segredo, plano escondido",
+   "latim": {
+    "forma": "est Deus in caelo revelans mysteria",
+    "nota": "Vulgata de 2:28."
+   },
+   "outras": [],
+   "explicacao": "Palavra de origem persa. No capítulo 2 o 'mistério' é o sentido do sonho, que só Deus pode revelar. A Septuaginta usa mystērion, termo que Paulo usará muito.",
+   "interpretacao": false
+  },
+  {
+   "id": "tselem",
+   "pt": "Estátua, imagem",
+   "refs": [
+    "2:31",
+    "3:1"
+   ],
+   "aramaico": {
+    "lema": "צְלֵם",
+    "translit": "tselem",
+    "strong": "H6755"
+   },
+   "grego": {
+    "lema": "εἰκών",
+    "translit": "eikṓn"
+   },
+   "sentido": "imagem, figura",
+   "latim": {
+    "forma": "statua",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A mesma palavra (em hebraico) aparece em Gênesis 1:27: o ser humano criado à 'imagem' de Deus. Em Daniel, reis fazem imagens e exigem adoração.",
+   "interpretacao": false
+  },
+  {
+   "id": "malkhu",
+   "pt": "Reino",
+   "refs": [
+    "2:44",
+    "4:34",
+    "7:14"
+   ],
+   "aramaico": {
+    "lema": "מַלְכוּ",
+    "translit": "malkhu",
+    "strong": "H4437"
+   },
+   "grego": {
+    "lema": "βασιλεία",
+    "translit": "basileía"
+   },
+   "sentido": "reinado, domínio real",
+   "latim": {
+    "forma": "regnum quod in aeternum non dissipabitur",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Tema central do livro: reinos humanos sobem e caem, mas o reino de Deus 'nunca será destruído'.",
+   "interpretacao": false
+  },
+  {
+   "id": "illaya",
+   "pt": "Altíssimo",
+   "refs": [
+    "4:17",
+    "4:34",
+    "7:25"
+   ],
+   "aramaico": {
+    "lema": "עִלָּאָה",
+    "translit": "ʿillaʾah",
+    "strong": "H5943"
+   },
+   "sentido": "o mais alto, o supremo",
+   "latim": {
+    "forma": "Excelsus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Título de Deus típico das partes em aramaico. O capítulo 4 insiste: 'o Altíssimo tem o domínio dos reinos humanos'.",
+   "interpretacao": false
+  },
+  {
+   "id": "ir",
+   "pt": "Vigilante",
+   "refs": [
+    "4:13",
+    "4:17"
+   ],
+   "aramaico": {
+    "lema": "עִיר",
+    "translit": "ʿir",
+    "strong": "H5894"
+   },
+   "sentido": "o que está acordado, o que vigia",
+   "latim": {
+    "forma": "vigil et sanctus",
+    "nota": "Vulgata de 4:13."
+   },
+   "outras": [],
+   "explicacao": "Termo para um ser celestial, só neste capítulo da Bíblia. Livros judaicos posteriores, como 1 Enoque, desenvolvem muito a ideia dos 'vigilantes'.",
+   "interpretacao": false
+  },
+  {
+   "id": "mene-tequel",
+   "pt": "Mene, Tequel, Parsim",
+   "refs": [
+    "5:25",
+    "5:28"
+   ],
+   "aramaico": {
+    "lema": "מְנֵא תְּקֵל וּפַרְסִין",
+    "translit": "mene teqel ufarsin",
+    "strong": "H4484, H8625, H6537"
+   },
+   "sentido": "contado, pesado, dividido; também nomes de pesos",
+   "latim": {
+    "forma": "Mane, Thecel, Fares",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "As palavras podem ser lidas como unidades de peso (mina, siclo, meia-mina) ou como verbos. Daniel joga com os dois sentidos, e 'peres' ainda lembra 'persas'.",
+   "interpretacao": false
+  },
+  {
+   "id": "bar-enash",
+   "pt": "Filho do homem",
+   "refs": [
+    "7:13"
+   ],
+   "aramaico": {
+    "lema": "בַּר אֱנָשׁ",
+    "translit": "bar enash",
+    "strong": "H1247, H606"
+   },
+   "grego": {
+    "lema": "υἱὸς ἀνθρώπου",
+    "translit": "huiós anthrṓpou"
+   },
+   "sentido": "ser humano",
+   "latim": {
+    "forma": "quasi filius hominis veniebat",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "No aramaico significa simplesmente 'um ser humano'. Aqui, porém, essa figura vem com as nuvens, algo dito em geral de Deus. Jesus adota o título, e os evangelhos citam este verso (Mc 14:62).",
+   "interpretacao": true
+  },
+  {
+   "id": "attiq-yomin",
+   "pt": "Ancião de dias",
+   "refs": [
+    "7:9",
+    "7:13"
+   ],
+   "aramaico": {
+    "lema": "עַתִּיק יוֹמִין",
+    "translit": "ʿattiq yomin",
+    "strong": "H6268, H3118"
+   },
+   "sentido": "antigo em dias, o que existe desde sempre",
+   "latim": {
+    "forma": "antiquus dierum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Imagem de Deus como juiz eterno. A descrição (veste branca, cabelo como lã) volta em Apocalipse 1:14, aplicada a Cristo.",
+   "interpretacao": false
+  },
+  {
+   "id": "chazon",
+   "pt": "Visão",
+   "refs": [
+    "8:1",
+    "9:24"
+   ],
+   "hebraico": {
+    "lema": "חָזוֹן",
+    "translit": "chazon",
+    "strong": "H2377"
+   },
+   "grego": {
+    "lema": "ὅρασις",
+    "translit": "hórasis"
+   },
+   "sentido": "visão profética, revelação",
+   "latim": {
+    "forma": "visio",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Na segunda metade do livro (cap. 8 a 12, de novo em hebraico), Daniel deixa de interpretar sonhos de reis e passa a receber visões que precisam ser explicadas por anjos.",
+   "interpretacao": false
+  },
+  {
+   "id": "shavua",
+   "pt": "Semanas (setes)",
+   "refs": [
+    "9:24",
+    "9:25"
+   ],
+   "hebraico": {
+    "lema": "שָׁבוּעַ",
+    "translit": "shavuaʿ",
+    "strong": "H7620"
+   },
+   "sentido": "período de sete; semana",
+   "latim": {
+    "forma": "septuaginta ebdomades",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Literalmente 'setes'. O contexto (os 70 anos de Jeremias em 9:2) leva a maioria a entender períodos de sete anos. O modo de contar é muito debatido.",
+   "interpretacao": true
+  },
+  {
+   "id": "mashiach-nagid",
+   "pt": "Ungido, príncipe",
+   "refs": [
+    "9:25",
+    "9:26"
+   ],
+   "hebraico": {
+    "lema": "מָשִׁיחַ נָגִיד",
+    "translit": "mashiach nagid",
+    "strong": "H4899, H5057"
+   },
+   "sentido": "um ungido que é líder",
+   "latim": {
+    "forma": "usque ad christum ducem",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Sem artigo no hebraico: 'um ungido, um príncipe'. Já foi identificado com Ciro, com o sumo sacerdote Josué, com Onias III e, na tradição cristã, com Jesus.",
+   "interpretacao": true
+  },
+  {
+   "id": "sar",
+   "pt": "Príncipe (anjo)",
+   "refs": [
+    "10:13",
+    "12:1"
+   ],
+   "hebraico": {
+    "lema": "שַׂר",
+    "translit": "sar",
+    "strong": "H8269"
+   },
+   "sentido": "chefe, comandante, príncipe",
+   "latim": {
+    "forma": "princeps",
+    "nota": "Vulgata: Michahel unus de principibus primis."
+   },
+   "outras": [],
+   "explicacao": "Em Daniel 10 a palavra designa tanto o anjo Miguel quanto o 'príncipe da Pérsia', sugerindo um conflito espiritual por trás dos reinos.",
+   "interpretacao": true
+  },
+  {
+   "id": "shiqquts-meshomem",
+   "pt": "Abominação assoladora",
+   "refs": [
+    "11:31",
+    "12:11"
+   ],
+   "hebraico": {
+    "lema": "שִׁקּוּץ מְשֹׁמֵם",
+    "translit": "shiqquts meshomem",
+    "strong": "H8251, H8074"
+   },
+   "grego": {
+    "lema": "βδέλυγμα ἐρημώσεως",
+    "translit": "bdélygma erēmṓseōs"
+   },
+   "sentido": "coisa detestável que causa devastação",
+   "latim": {
+    "forma": "abominatio desolationis",
+    "nota": "Forma que a Vulgata usa em Mt 24:15."
+   },
+   "outras": [],
+   "explicacao": "Talvez um jogo com o nome do deus Baal Shamem ('senhor dos céus'), cujo culto Antíoco IV introduziu no templo. Jesus cita a expressão (Mt 24:15).",
+   "interpretacao": true
+  },
+  {
+   "id": "maskilim",
+   "pt": "Sábios, entendidos",
+   "refs": [
+    "11:33",
+    "12:3"
+   ],
+   "hebraico": {
+    "lema": "מַשְׂכִּילִים",
+    "translit": "maskilim",
+    "strong": "H7919"
+   },
+   "sentido": "os que têm discernimento e o ensinam",
+   "latim": {
+    "forma": "docti",
+    "nota": "Vulgata de 12:3: qui autem docti fuerint fulgebunt quasi splendor firmamenti."
+   },
+   "outras": [],
+   "explicacao": "Grupo fiel que ensina a muitos em tempos de perseguição. Daniel e seus amigos são o modelo (1:17).",
+   "interpretacao": false
+  },
+  {
+   "id": "qets",
+   "pt": "Fim",
+   "refs": [
+    "8:17",
+    "12:4",
+    "12:13"
+   ],
+   "hebraico": {
+    "lema": "קֵץ",
+    "translit": "qets",
+    "strong": "H7093"
+   },
+   "sentido": "fim, término, prazo",
+   "latim": {
+    "forma": "finis",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Palavra que se repete nas visões: 'o tempo do fim'. O livro termina com uma promessa pessoal a Daniel: 'repousarás e ressuscitarás no fim dos dias'.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "cronica-carquemis",
+   "titulo": "Crônica babilônica: Nabucodonosor assume o trono",
+   "refs": [
+    "1:1",
+    "2:1"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Crônica Babilônica de Nabucodonosor (ABC 5)",
+   "referencia": "British Museum, BM 21946",
+   "data_fonte": "séc. VI–V a.C.",
+   "data_evento": "605–604 a.C.",
+   "resumo": "Narra a vitória de Nabucodonosor em Carquemis, a morte de seu pai, sua subida ao trono e campanhas em 'Hatti' (Síria e Palestina), quando reis locais lhe pagaram tributo.",
+   "relacao": "Confirma o contexto de 1:1: Nabucodonosor dominando a região em 605 a.C. A crônica não cita um cerco a Jerusalém nesse ano; a data de Daniel ('terceiro ano de Jeoaquim') é discutida e pode seguir outro modo de contar os anos de reinado.",
+   "grau": "associacao"
+  },
+  {
+   "id": "cilindro-nabonido",
+   "titulo": "Cilindro de Nabonido de Ur: Belsazar",
+   "refs": [
+    "5:1",
+    "8:1"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Cilindro de Nabonido, templo de Sin em Ur",
+   "referencia": "British Museum, BM 91128",
+   "data_fonte": "c. 550–540 a.C.",
+   "data_evento": "Reinado de Nabonido (556–539 a.C.)",
+   "resumo": "Nabonido ora ao deus Sin por si mesmo e por 'Bel-shar-usur, meu filho primogênito'.",
+   "relacao": "Confirma a existência de Belsazar, que durante muito tempo era conhecido só por Daniel. Daniel o chama de 'rei'; os textos babilônicos o mostram como príncipe herdeiro que governava a Babilônia na ausência do pai.",
+   "grau": "documentado"
+  },
+  {
+   "id": "cronica-nabonido",
+   "titulo": "Crônica de Nabonido: a queda da Babilônia",
+   "refs": [
+    "5:30",
+    "5:31"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Crônica de Nabonido (ABC 7)",
+   "referencia": "British Museum, BM 35382",
+   "data_fonte": "séc. VI–IV a.C.",
+   "data_evento": "539 a.C.",
+   "resumo": "Relata que o rei ficou anos em Tema, enquanto 'o príncipe herdeiro' estava na Babilônia, e que o exército de Ciro, sob Ugbaru, entrou na cidade sem batalha em outubro de 539 a.C.",
+   "relacao": "Documenta a mesma noite histórica de Daniel 5, a queda da Babilônia para os medos e persas. Não menciona 'Dario, o medo'; sua identidade (Ugbaru, Gubaru, o próprio Ciro ou outro) é um dos debates do livro.",
+   "grau": "documentado"
+  },
+  {
+   "id": "cilindro-ciro",
+   "titulo": "Cilindro de Ciro",
+   "refs": [
+    "6:28",
+    "10:1"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Cilindro de Ciro",
+   "referencia": "British Museum, BM 90920",
+   "data_fonte": "c. 539–538 a.C.",
+   "data_evento": "Conquista da Babilônia por Ciro",
+   "resumo": "Ciro apresenta sua entrada na Babilônia como pacífica e diz que devolveu deuses e povos deportados às suas terras.",
+   "relacao": "Confirma o reinado de Ciro citado em 1:21, 6:28 e 10:1, e a política de retorno dos deportados que está por trás da oração de Daniel 9.",
+   "grau": "documentado"
+  },
+  {
+   "id": "herodoto-babilonia",
+   "titulo": "Heródoto: a cidade tomada durante uma festa",
+   "refs": [
+    "5:1",
+    "5:30"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Heródoto, Histórias",
+   "referencia": "livro 1, caps. 190–191",
+   "data_fonte": "c. 430 a.C.",
+   "data_evento": "539 a.C.",
+   "resumo": "Heródoto conta que Ciro desviou o Eufrates e entrou pelo leito do rio, enquanto os moradores do centro da cidade celebravam uma festa e não perceberam a invasão.",
+   "relacao": "Paralelo com o banquete de Belsazar na noite da queda. O relato de Heródoto tem traços lendários; Xenofonte (Ciropédia, livro 7) conta algo parecido.",
+   "grau": "associacao"
+  },
+  {
+   "id": "oracao-nabonido",
+   "titulo": "Oração de Nabonido (Qumran)",
+   "refs": [
+    "4:33",
+    "4:34"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Manuscritos do Mar Morto, 4Q242 (Oração de Nabonido)",
+   "referencia": "Caverna 4 de Qumran; Museu de Israel / Autoridade de Antiguidades de Israel",
+   "data_fonte": "c. séc. I a.C.",
+   "data_evento": "Tradição sobre Nabonido",
+   "resumo": "Texto fragmentário em aramaico em que o rei Nabonido conta que foi atingido por uma doença por sete anos em Tema e curado quando um judeu exilado o orientou a honrar o Deus Altíssimo.",
+   "relacao": "Lembra muito Daniel 4, mas com outro rei. Alguns estudiosos pensam que a história de Nabucodonosor e a de Nabonido vêm de tradições aparentadas; outros as tratam como relatos independentes.",
+   "grau": "associacao"
+  },
+  {
+   "id": "qumran-daniel",
+   "titulo": "Daniel entre os Manuscritos do Mar Morto",
+   "refs": [
+    "2:4",
+    "7:28"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Manuscritos do Mar Morto",
+   "referencia": "Fragmentos de Daniel das cavernas 1, 4 e 6 de Qumran",
+   "data_fonte": "séc. II a.C. – séc. I d.C.",
+   "data_evento": "Descobertos entre 1947 e 1956",
+   "resumo": "Foram achadas cerca de oito cópias de Daniel. Os fragmentos conservam as mesmas mudanças entre hebraico e aramaico do texto tradicional.",
+   "relacao": "Mostram que o livro era muito lido pouco depois da época em que muitos estudiosos o datam, e que o texto já existia com a forma bilíngue atual.",
+   "grau": "associacao"
+  },
+  {
+   "id": "josefo-alexandre",
+   "titulo": "Josefo: Alexandre e o livro de Daniel",
+   "refs": [
+    "8:5",
+    "8:21"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 11, cap. 8, §5",
+   "data_fonte": "c. 93 d.C.",
+   "data_evento": "332 a.C.",
+   "resumo": "Josefo narra que, em Jerusalém, mostraram a Alexandre o livro de Daniel, onde estava escrito que um grego destruiria o império persa, e ele se viu ali.",
+   "relacao": "Mostra que no séc. I os judeus liam o bode de Daniel 8 como Alexandre, como o próprio texto sugere (8:21). A visita de Alexandre a Jerusalém é considerada lendária pela maioria dos historiadores.",
+   "grau": "associacao"
+  },
+  {
+   "id": "porfirio-jeronimo",
+   "titulo": "Porfírio e Jerônimo: o debate sobre a data",
+   "refs": [
+    "11:31",
+    "11:36"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Jerônimo, Comentário sobre Daniel",
+   "referencia": "Prólogo",
+   "data_fonte": "c. 407 d.C.",
+   "data_evento": "Debate do séc. III d.C.",
+   "resumo": "Jerônimo registra que o filósofo Porfírio defendia que Daniel foi escrito na época de Antíoco IV Epifânio e responde a ele.",
+   "relacao": "É o registro mais antigo do debate sobre a data do livro: séc. VI a.C. (posição tradicional) ou séc. II a.C. (posição de muitos estudiosos modernos). Ambas as posições continuam defendidas.",
+   "grau": "associacao"
+  },
+  {
+   "id": "polibio-popilio",
+   "titulo": "Políbio: o 'círculo de Popílio'",
+   "refs": [
+    "11:30"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Políbio, Histórias",
+   "referencia": "livro 29, cap. 27",
+   "data_fonte": "séc. II a.C.",
+   "data_evento": "168 a.C.",
+   "resumo": "O embaixador romano Popílio Lenas, chegado por mar, traçou um círculo na areia em volta de Antíoco IV perto de Alexandria e exigiu resposta antes que ele saísse dali; Antíoco recuou do Egito.",
+   "relacao": "Muitos estudiosos leem 'navios de Quitim virão contra ele' (11:30) como referência a esse episódio. A identificação depende de ler Daniel 11 como descrição das guerras entre selêucidas e ptolomeus.",
+   "grau": "associacao"
+  },
+  {
+   "id": "babilonia-nabucodonosor",
+   "titulo": "Inscrições de construção de Nabucodonosor",
+   "refs": [
+    "4:30"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Inscrição da Casa da Índia Oriental e tijolos estampados da Babilônia",
+   "referencia": "British Museum; a Porta de Ishtar reconstruída está no Pergamonmuseum, Berlim",
+   "data_fonte": "c. 600–562 a.C.",
+   "data_evento": "Reinado de Nabucodonosor II",
+   "resumo": "Nabucodonosor descreve longamente como reconstruiu templos, palácios, muralhas e portas da Babilônia; milhares de tijolos levam seu nome.",
+   "relacao": "Combinam com a fala orgulhosa de 4:30: 'não é esta a grande Babilônia que eu edifiquei?'. Mostram a imagem que o rei queria deixar de si.",
+   "grau": "associacao"
+  }
+ ]
+}

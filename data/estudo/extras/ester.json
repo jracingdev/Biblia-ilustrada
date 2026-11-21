@@ -1,0 +1,579 @@
+{
+ "livro": "ester",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:5-6",
+   "titulo": "O banquete de Assuero em Susã",
+   "descricao": "O rei oferece um banquete de sete dias no jardim do palácio de Susã, entre cortinas de linho branco e azul, colunas de mármore e leitos de ouro e prata.",
+   "alt": "Convidados reclinados em leitos de ouro num pátio de palácio persa, entre colunas e cortinas azuis e brancas.",
+   "prompt": "Garden court of the Persian palace at Susa during a great feast, white and blue linen curtains tied with purple cords to silver rings on marble columns, guests reclining on gold and silver couches over a mosaic pavement, golden cups, King Ahasuerus presiding, warm evening lamplight"
+  },
+  {
+   "id": "q02",
+   "capitulo": 1,
+   "ref": "1:10-12",
+   "titulo": "Vasti recusa vir",
+   "descricao": "No sétimo dia, o rei manda buscar a rainha Vasti para exibir sua beleza aos convidados, mas ela se recusa a vir.",
+   "alt": "Uma rainha persa, cercada de mulheres, recusa com firmeza a ordem trazida por servos do rei.",
+   "prompt": "Queen Vashti in royal Persian garments and crown seated among noblewomen at her own banquet hall, calmly but firmly refusing, raising her hand to stop seven royal servants who bring the king's command, tension on their faces, rich interior"
+  },
+  {
+   "id": "q03",
+   "capitulo": 2,
+   "ref": "2:17",
+   "titulo": "Ester é coroada rainha",
+   "descricao": "O rei ama Ester mais que todas as jovens e põe a coroa real em sua cabeça, fazendo-a rainha no lugar de Vasti.",
+   "alt": "Um rei persa coloca uma coroa na cabeça de uma jovem judia diante da corte.",
+   "prompt": "Throne hall of the Persian palace, King Ahasuerus placing a royal crown on the head of young Esther, who wears modest elegant robes and kneels gracefully, courtiers and attendants watching, Mordecai visible far in the background near a gate, soft golden light"
+  },
+  {
+   "id": "q04",
+   "capitulo": 2,
+   "ref": "2:21-23",
+   "titulo": "Mardoqueu descobre a conspiração",
+   "descricao": "Sentado à porta do rei, Mardoqueu percebe que dois guardas planejam matar o rei e avisa Ester; o caso é registrado nas crônicas.",
+   "alt": "Um homem sentado junto a um grande portão escuta discretamente dois guardas que cochicham.",
+   "prompt": "The monumental gate of the palace at Susa, Mordecai, a Jewish official in Persian dress, seated near the gate quietly overhearing two palace guards whispering in the shadows, glazed brick walls with lion reliefs, late afternoon light, suspense"
+  },
+  {
+   "id": "q05",
+   "capitulo": 3,
+   "ref": "3:1-2",
+   "titulo": "Mardoqueu não se inclina",
+   "descricao": "Todos os servos do rei se prostram diante de Hamã, exaltado pelo rei, mas Mardoqueu permanece de pé.",
+   "alt": "Diante de um alto oficial, todos se prostram, menos um homem que permanece de pé.",
+   "prompt": "Palace gate court at Susa, the proud official Haman in magnificent robes passing by, all royal servants bowing low to the ground before him, while Mordecai alone stands upright and calm, Haman glaring at him, bright daylight"
+  },
+  {
+   "id": "q06",
+   "capitulo": 3,
+   "ref": "3:7",
+   "titulo": "Hamã lança o Pur",
+   "descricao": "No primeiro mês, lança-se o Pur, a sorte, diante de Hamã, para escolher o dia; a sorte cai no décimo segundo mês, Adar.",
+   "alt": "Um oficial persa observa atentamente enquanto um adivinho lança pequenos dados sobre uma mesa.",
+   "prompt": "A dim chamber in Haman's residence, Haman leaning over a table watching intently as an attendant casts small clay lots or dice, a calendar tablet and scrolls on the table, oil lamp light casting shadows, ominous calm mood"
+  },
+  {
+   "id": "q07",
+   "capitulo": 4,
+   "ref": "4:1-3",
+   "titulo": "Saco e cinza",
+   "descricao": "Ao saber do decreto, Mardoqueu rasga as vestes, veste saco e cinza e clama pela cidade; nas províncias os judeus jejuam e choram.",
+   "alt": "Um homem vestido de saco, com cinza na cabeça, clama diante do portão do palácio.",
+   "prompt": "Mordecai in rough sackcloth with ashes on his head, his garments torn, standing before the palace gate of Susa crying out with a loud bitter cry, Jewish townspeople mourning and sitting in sackcloth nearby, gray overcast light"
+  },
+  {
+   "id": "q08",
+   "capitulo": 5,
+   "ref": "5:1-2",
+   "titulo": "Ester diante do rei",
+   "descricao": "Depois de três dias de jejum, Ester se veste de vestes reais e se põe no pátio interno; o rei estende o cetro de ouro e ela toca a ponta.",
+   "alt": "Uma rainha se aproxima do trono e toca a ponta do cetro de ouro estendido pelo rei.",
+   "prompt": "Inner court of the Persian palace, Queen Esther in royal robes approaching with courage and humility, King Ahasuerus on his throne extending a golden scepter toward her, Esther reaching out to touch its tip, guards motionless, light falling on her"
+  },
+  {
+   "id": "q09",
+   "capitulo": 6,
+   "ref": "6:10-11",
+   "titulo": "Hamã conduz Mardoqueu",
+   "descricao": "Obrigado pelo rei, Hamã veste Mardoqueu com o manto real, o põe no cavalo do rei e proclama pelas ruas: \"Assim se fará ao homem a quem o rei deseja honrar!\"",
+   "alt": "Um oficial contrariado conduz pela rédea um cavalo onde vai um homem com manto real.",
+   "prompt": "Street of Susa, Mordecai seated on the king's richly adorned horse wearing a royal robe, Haman in fine robes leading the horse by the bridle with a humiliated expression, proclaiming to the crowd, onlookers amazed, bright daylight"
+  },
+  {
+   "id": "q10",
+   "capitulo": 7,
+   "ref": "7:3-6",
+   "titulo": "Ester denuncia Hamã",
+   "descricao": "No segundo banquete, Ester pede pela própria vida e pela de seu povo e aponta: \"O opressor e inimigo é este malvado Hamã\".",
+   "alt": "Numa mesa de banquete, uma rainha aponta para um oficial apavorado diante do rei indignado.",
+   "prompt": "Intimate banquet hall, Queen Esther rising from her couch and pointing at Haman, who recoils in terror, King Ahasuerus rising in anger, wine cups and fruit on low tables, servants frozen, dramatic lamplight"
+  },
+  {
+   "id": "q11",
+   "capitulo": 8,
+   "ref": "8:10",
+   "titulo": "Os correios do novo decreto",
+   "descricao": "Escrito em nome do rei e selado com o anel real, o novo decreto parte em velozes cavalos para todas as províncias.",
+   "alt": "Mensageiros montados em cavalos velozes partem do palácio levando rolos selados.",
+   "prompt": "Royal couriers on swift horses galloping out of the gates of Susa carrying sealed scrolls, dust rising, scribes and Mordecai watching from the palace steps, the royal signet seal visible on a scroll, morning light"
+  },
+  {
+   "id": "q12",
+   "capitulo": 9,
+   "ref": "9:20-22",
+   "titulo": "A festa de Purim",
+   "descricao": "Mardoqueu escreve aos judeus para celebrarem todos os anos os dias de Purim, com banquetes, alegria, presentes uns aos outros e doações aos pobres.",
+   "alt": "Famílias judias festejam, trocam presentes de comida e dão esmolas aos pobres.",
+   "prompt": "Jewish families in a Persian city celebrating Purim, sharing festive meals, children carrying baskets of food gifts to neighbors, people giving alms to the poor, Mordecai's letter being read aloud, joyful warm light"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "cetro",
+   "termo": "Cetro de ouro",
+   "ref": "4:11",
+   "explicado": true,
+   "significado": "O texto explica: quem entrava sem ser chamado morria, a menos que o rei estendesse o cetro. Tocá-lo significava ser aceito e poupado (5:2)."
+  },
+  {
+   "id": "anel",
+   "termo": "Anel do rei",
+   "ref": "3:10",
+   "explicado": true,
+   "significado": "Com ele se selavam decretos, que assim não podiam ser revogados (8:8). Passar o anel de Hamã para Mardoqueu (8:2) marca a inversão de poder."
+  },
+  {
+   "id": "pur",
+   "termo": "Pur, a sorte",
+   "ref": "3:7",
+   "explicado": true,
+   "significado": "O próprio texto explica: \"Pur, isto é, a sorte\", e daí vem o nome da festa de Purim (9:24-26)."
+  },
+  {
+   "id": "lei-irrevogavel",
+   "termo": "Leis da Pérsia e da Média",
+   "ref": "1:19",
+   "explicado": true,
+   "significado": "O livro diz que não podiam ser revogadas. Por isso o rei não anula o primeiro decreto, mas emite outro que permite aos judeus se defenderem (8:8-11)."
+  },
+  {
+   "id": "saco-cinza",
+   "termo": "Saco e cinza",
+   "ref": "4:1",
+   "explicado": false,
+   "significado": "Sinais de luto e súplica. Embora o nome de Deus não apareça no livro, o jejum e o lamento sugerem que o povo clamava a ele."
+  },
+  {
+   "id": "banquetes",
+   "termo": "Banquetes",
+   "ref": "1:3",
+   "explicado": false,
+   "significado": "O livro é marcado por banquetes: de Assuero, de Ester e, no fim, de Purim. Começa com o luxo do rei e termina com a festa do povo livre."
+  },
+  {
+   "id": "coroa",
+   "termo": "Coroa real",
+   "ref": "2:17",
+   "explicado": false,
+   "significado": "A coroa que Vasti não quis exibir passa a Ester. O texto não lhe dá sentido especial; a posição dada a Ester será decisiva para salvar o povo (4:14)."
+  },
+  {
+   "id": "insonia",
+   "termo": "Noite sem sono do rei",
+   "ref": "6:1",
+   "explicado": false,
+   "significado": "Por uma noite de insônia o rei descobre que Mardoqueu nunca foi recompensado. Muitos leitores veem aqui a mão de Deus agindo nos detalhes, mesmo sem ser nomeado."
+  },
+  {
+   "id": "cavalo-manto",
+   "termo": "Cavalo e manto do rei",
+   "ref": "6:8",
+   "explicado": false,
+   "significado": "Honra que Hamã imaginava para si mesmo acaba dada a Mardoqueu. É uma das muitas inversões irônicas da história."
+  },
+  {
+   "id": "forca",
+   "termo": "Forca de cinquenta côvados",
+   "ref": "5:14",
+   "explicado": false,
+   "significado": "Preparada por Hamã para Mardoqueu, acaba sendo usada contra o próprio Hamã (7:10). Ilustra o princípio de que o mal se volta contra quem o planeja."
+  },
+  {
+   "id": "cronicas",
+   "termo": "Livro das crônicas",
+   "ref": "6:1",
+   "explicado": false,
+   "significado": "Os registros oficiais guardaram o bem feito por Mardoqueu (2:23). No fim, o próprio livro de Ester remete às crônicas da Média e da Pérsia (10:2)."
+  },
+  {
+   "id": "inversao",
+   "termo": "Sucedeu o contrário",
+   "ref": "9:1",
+   "explicado": true,
+   "significado": "O texto diz explicitamente que o dia planejado para a destruição dos judeus \"tornou-se o contrário\", e o mês de tristeza virou alegria (9:22)."
+  },
+  {
+   "id": "hadassa",
+   "termo": "Hadassa (murta)",
+   "ref": "2:7",
+   "explicado": false,
+   "significado": "Nome hebraico de Ester, que significa \"murta\". O texto não explora o sentido; a murta é planta perfumada citada em profecias de restauração (Isaías 55:13)."
+  },
+  {
+   "id": "presentes-pobres",
+   "termo": "Presentes e doações aos pobres",
+   "ref": "9:22",
+   "explicado": false,
+   "significado": "A festa inclui partilhar comida e ajudar os pobres. A alegria da salvação se transforma em generosidade."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "pur",
+   "pt": "Pur, sorte",
+   "refs": [
+    "3:7",
+    "9:24"
+   ],
+   "hebraico": {
+    "lema": "פּוּר",
+    "translit": "pur",
+    "strong": "H6332"
+   },
+   "sentido": "sorte, dado",
+   "latim": {
+    "forma": "sors",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Palavra de origem acadiana (puru), explicada pelo próprio texto. Seu plural, Purim, deu nome à festa (9:26).",
+   "interpretacao": false
+  },
+  {
+   "id": "purim",
+   "pt": "Purim",
+   "refs": [
+    "9:26"
+   ],
+   "hebraico": {
+    "lema": "פּוּרִים",
+    "translit": "purim",
+    "strong": "H6332"
+   },
+   "sentido": "\"sortes\"",
+   "latim": {
+    "forma": "Phurim",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A festa recorda que o dia escolhido pela sorte para destruir os judeus virou dia de livramento. É celebrada até hoje, em Adar, com leitura do livro de Ester.",
+   "interpretacao": false
+  },
+  {
+   "id": "mishteh",
+   "pt": "Banquete",
+   "refs": [
+    "1:3",
+    "5:4",
+    "9:22"
+   ],
+   "hebraico": {
+    "lema": "מִשְׁתֶּה",
+    "translit": "mishteh",
+    "strong": "H4960"
+   },
+   "sentido": "banquete, festa com bebida",
+   "latim": {
+    "forma": "convivium",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A palavra aparece cerca de vinte vezes no livro. A história se move de banquete em banquete, até chegar à festa anual de Purim.",
+   "interpretacao": false
+  },
+  {
+   "id": "dat",
+   "pt": "Lei, decreto",
+   "refs": [
+    "1:19",
+    "3:8",
+    "4:16"
+   ],
+   "hebraico": {
+    "lema": "דָּת",
+    "translit": "dat",
+    "strong": "H1881"
+   },
+   "sentido": "lei, decreto real",
+   "latim": {
+    "forma": "lex",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Palavra de origem persa, muito frequente em Ester. Hamã acusa os judeus de terem leis diferentes (3:8), e Ester decide ir ao rei \"contra a lei\" (4:16).",
+   "interpretacao": false
+  },
+  {
+   "id": "et",
+   "pt": "Tempo",
+   "refs": [
+    "4:14"
+   ],
+   "hebraico": {
+    "lema": "עֵת",
+    "translit": "et",
+    "strong": "H6256"
+   },
+   "sentido": "tempo, momento oportuno",
+   "latim": {
+    "forma": "tempus",
+    "nota": "Vulgata: \"ad hoc ipsum ut in tali tempore parareris\"."
+   },
+   "outras": [],
+   "explicacao": "\"Quem sabe se foi para tempo como este?\" Mardoqueu sugere que a posição de Ester não é acaso; o texto deixa a ideia de providência implícita.",
+   "interpretacao": true
+  },
+  {
+   "id": "revach",
+   "pt": "Alívio, libertação",
+   "refs": [
+    "4:14"
+   ],
+   "hebraico": {
+    "lema": "רֶוַח וְהַצָּלָה",
+    "translit": "revach vehatsalah",
+    "strong": "H7305, H2020"
+   },
+   "sentido": "espaço, alívio; e livramento",
+   "latim": {
+    "forma": "refrigerium et liberatio",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Mardoqueu tem certeza de que a libertação virá \"de outra parte\". Muitos leem aqui uma alusão discreta a Deus, sem nomeá-lo; outros, apenas confiança no destino do povo.",
+   "interpretacao": true
+  },
+  {
+   "id": "tsom",
+   "pt": "Jejum",
+   "refs": [
+    "4:3",
+    "4:16"
+   ],
+   "hebraico": {
+    "lema": "צוֹם",
+    "translit": "tsom",
+    "strong": "H6685"
+   },
+   "sentido": "jejum",
+   "latim": {
+    "forma": "ieiunium",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O jejum de três dias antes de Ester ir ao rei. Embora a oração não seja citada, o jejum costumava acompanhá-la.",
+   "interpretacao": false
+  },
+  {
+   "id": "sharvit",
+   "pt": "Cetro",
+   "refs": [
+    "4:11",
+    "5:2"
+   ],
+   "hebraico": {
+    "lema": "שַׁרְבִיט",
+    "translit": "sharvit",
+    "strong": "H8275"
+   },
+   "sentido": "cetro",
+   "latim": {
+    "forma": "virga aurea",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Termo quase exclusivo de Ester. O cetro estendido decide entre vida e morte.",
+   "interpretacao": false
+  },
+  {
+   "id": "taba-at",
+   "pt": "Anel de selar",
+   "refs": [
+    "3:10",
+    "8:8"
+   ],
+   "hebraico": {
+    "lema": "טַבַּעַת",
+    "translit": "tabba'at",
+    "strong": "H2885"
+   },
+   "sentido": "anel, sinete",
+   "latim": {
+    "forma": "anulus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Quem tinha o anel podia selar decretos em nome do rei. O anel passa de Hamã para Mardoqueu.",
+   "interpretacao": false
+  },
+  {
+   "id": "hafakh",
+   "pt": "Tornar-se o contrário",
+   "refs": [
+    "9:1",
+    "9:22"
+   ],
+   "hebraico": {
+    "lema": "הָפַךְ",
+    "translit": "hafakh",
+    "strong": "H2015"
+   },
+   "sentido": "virar, inverter",
+   "latim": {
+    "forma": "versa vice",
+    "nota": "Vulgata em 9:1: \"versa vice\"."
+   },
+   "outras": [],
+   "explicacao": "Verbo-chave da reviravolta do livro: o mês \"tornou-se\" de tristeza em alegria (9:22). Toda a narrativa é construída com inversões.",
+   "interpretacao": false
+  },
+  {
+   "id": "yehudim",
+   "pt": "Judeus",
+   "refs": [
+    "3:6",
+    "8:17"
+   ],
+   "hebraico": {
+    "lema": "יְהוּדִים",
+    "translit": "yehudim",
+    "strong": "H3064"
+   },
+   "sentido": "os de Judá, judeus",
+   "latim": {
+    "forma": "Iudaei",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Ester é o livro que mais usa a palavra \"judeu\". Em 8:17 muitos dos povos \"se faziam judeus\", talvez se identificando com eles por medo ou adesão.",
+   "interpretacao": false
+  },
+  {
+   "id": "hadassah",
+   "pt": "Hadassa",
+   "refs": [
+    "2:7"
+   ],
+   "hebraico": {
+    "lema": "הֲדַסָּה",
+    "translit": "hadassah",
+    "strong": "H1919"
+   },
+   "sentido": "murta",
+   "latim": {
+    "forma": "Edissa",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Nome hebraico de Ester. \"Ester\" é provavelmente nome persa, ligado à palavra para \"estrela\" ou à deusa Ishtar; as explicações variam.",
+   "interpretacao": true
+  }
+ ],
+ "historia": [
+  {
+   "id": "herodoto-xerxes",
+   "titulo": "Xerxes I, o Assuero de Ester",
+   "refs": [
+    "1:1",
+    "1:3"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Heródoto, Histórias",
+   "referencia": "livro 7",
+   "data_fonte": "c. 430 a.C.",
+   "data_evento": "486-465 a.C.",
+   "resumo": "Heródoto narra o reinado de Xerxes I, seu império da Índia à Etiópia e os preparativos da invasão da Grécia, com reuniões de nobres de todo o império.",
+   "relacao": "A maioria dos estudiosos identifica Assuero com Xerxes I (em persa, Khshayarsha). O banquete do terceiro ano (1:3, c. 483 a.C.) pode coincidir com a reunião do império antes da campanha grega, mas é uma hipótese.",
+   "grau": "associacao"
+  },
+  {
+   "id": "herodoto-amestris",
+   "titulo": "A rainha Amestris",
+   "refs": [
+    "1:9",
+    "2:17"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Heródoto, Histórias",
+   "referencia": "livro 9, §§108-113; livro 7, §114",
+   "data_fonte": "c. 430 a.C.",
+   "data_evento": "séc. V a.C.",
+   "resumo": "Heródoto apresenta Amestris como esposa de Xerxes, sem mencionar Vasti nem Ester.",
+   "relacao": "É uma das principais objeções à historicidade de detalhes de Ester. Alguns identificam Amestris com Vasti; outros pensam que Heródoto só fala da esposa principal; outros leem Ester como narrativa com liberdade literária. O debate continua.",
+   "grau": "associacao"
+  },
+  {
+   "id": "herodoto-correios",
+   "titulo": "O correio real persa",
+   "refs": [
+    "3:13",
+    "8:10"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Heródoto, Histórias",
+   "referencia": "livro 8, §98",
+   "data_fonte": "c. 430 a.C.",
+   "data_evento": "séc. V a.C.",
+   "resumo": "Heródoto descreve os mensageiros a cavalo do rei persa, com cavalos e homens dispostos em etapas, que nem neve nem chuva detinham.",
+   "relacao": "Combina com os \"correios a cavalo\" que levam os decretos por todo o império em 3:13 e 8:10.",
+   "grau": "associacao"
+  },
+  {
+   "id": "susa-palacio",
+   "titulo": "O palácio de Susã",
+   "refs": [
+    "1:2",
+    "1:5-6"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Escavações do palácio de Dario I e Xerxes em Susa",
+   "referencia": "Missões de M. Dieulafoy (1884-1886) e posteriores; Museu do Louvre, Paris",
+   "data_fonte": "séc. VI-V a.C.",
+   "data_evento": "descoberto no séc. XIX",
+   "resumo": "Escavações revelaram a grande sala de colunas (apadana), pátios e frisos de tijolos vidrados com arqueiros e leões.",
+   "relacao": "Mostram o ambiente luxuoso descrito em 1:5-6, com colunas, pátios e decoração rica.",
+   "grau": "associacao"
+  },
+  {
+   "id": "marduka",
+   "titulo": "Um oficial chamado Marduka",
+   "refs": [
+    "2:21",
+    "3:2"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Tabletes administrativos persas (Persépolis e outros arquivos)",
+   "referencia": "Tabletes elamitas e babilônicos do início do séc. V a.C.",
+   "data_fonte": "c. 500-470 a.C.",
+   "data_evento": "séc. V a.C.",
+   "resumo": "Documentos administrativos persas mencionam funcionários com o nome Marduka (forma de Mardoqueu) na época de Dario I e Xerxes.",
+   "relacao": "Mostra que o nome era usado entre funcionários da corte. Não é possível afirmar que algum deles seja o Mardoqueu de Ester; o nome era comum.",
+   "grau": "associacao"
+  },
+  {
+   "id": "dado-iahali",
+   "titulo": "O dado de Iahali",
+   "refs": [
+    "3:7",
+    "9:24"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Dado (puru) de Iahali",
+   "referencia": "Coleção Babilônica de Yale, EUA",
+   "data_fonte": "c. séc. IX a.C.",
+   "data_evento": "séc. IX a.C.",
+   "resumo": "Pequeno cubo de argila assírio com inscrição que o chama de \"puru\" (sorte) de Iahali, alto oficial, usado para escolher um ano oficial.",
+   "relacao": "Ilustra a palavra pur (3:7) e o costume mesopotâmico de lançar sortes em decisões oficiais. É bem anterior a Ester.",
+   "grau": "associacao"
+  },
+  {
+   "id": "josefo-ester",
+   "titulo": "Josefo reconta Ester",
+   "refs": [
+    "1:1",
+    "9:26"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 11, cap. 6",
+   "data_fonte": "c. 93-94 d.C.",
+   "data_evento": "séc. V a.C.",
+   "resumo": "Josefo narra a história de Ester incluindo trechos das adições gregas e identifica o rei como Artaxerxes.",
+   "relacao": "Mostra que a festa e a história eram bem conhecidas no séc. I. A identificação do rei difere da maioria dos estudiosos atuais (Xerxes I).",
+   "grau": "associacao"
+  }
+ ]
+}

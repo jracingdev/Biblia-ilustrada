@@ -1,0 +1,1051 @@
+{
+ "livro": "numeros",
+ "nome": "Números",
+ "subtitulo": "A caminhada pelo deserto rumo à promessa",
+ "introducao": "Números acompanha Israel do monte Sinai até as planícies de Moabe, às portas da terra prometida. O nome vem dos dois recenseamentos do povo. Entre eles, a geração que saiu do Egito se rebela, recusa entrar em Canaã e vaga quarenta anos no deserto, enquanto Deus continua guiando, sustentando e preparando uma nova geração.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Tradicionalmente atribuído a Moisés (33:2); muitos estudiosos veem também fontes e edição posterior"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Cobre cerca de quarenta anos no deserto; a data da escrita é debatida"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Do deserto do Sinai às planícies de Moabe, junto ao Jordão (1:1, 36:13)"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "Israel, especialmente a nova geração prestes a entrar na terra"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Narrativa histórica, listas, leis e oráculos poéticos"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "36 capítulos e 1288 versículos"
+  }
+ ],
+ "chave": "14:18",
+ "temas": [
+  "Deus guia e sustenta seu povo no deserto",
+  "As consequências da incredulidade e da murmuração",
+  "A intercessão e a misericórdia de Deus",
+  "A fidelidade de Deus às suas promessas",
+  "Ordem, santidade e liderança no povo de Deus"
+ ],
+ "cristo": "No Evangelho de João, Jesus compara sua cruz à serpente de bronze levantada no deserto: quem olha para ele com fé recebe vida (21:8-9). A profecia da estrela de Jacó (24:17) foi lida por judeus e cristãos como anúncio de um rei futuro, e o Novo Testamento usa as falhas de Israel no deserto como alerta para a fé perseverante.",
+ "secoes": [
+  {
+   "id": "preparacao-sinai",
+   "titulo": "Preparação no Sinai",
+   "capitulos": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "resumo": "O povo é contado, organizado e consagrado antes de partir."
+  },
+  {
+   "id": "murmuracao-e-rebeliao",
+   "titulo": "Murmuração e rebelião",
+   "capitulos": [
+    11,
+    12,
+    13,
+    14
+   ],
+   "resumo": "Queixas, críticas a Moisés e a recusa em entrar na terra."
+  },
+  {
+   "id": "anos-no-deserto",
+   "titulo": "Os anos no deserto",
+   "capitulos": [
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+   ],
+   "resumo": "Leis, rebeliões, a morte de Miriã e Arão e a serpente de bronze."
+  },
+  {
+   "id": "balaao-e-peor",
+   "titulo": "Balaão e Peor",
+   "capitulos": [
+    22,
+    23,
+    24,
+    25
+   ],
+   "resumo": "Deus transforma maldição em bênção, mas o povo cai em idolatria."
+  },
+  {
+   "id": "nova-geracao",
+   "titulo": "Uma nova geração",
+   "capitulos": [
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36
+   ],
+   "resumo": "Novo censo, novo líder e preparação para a herança da terra."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "O recenseamento no deserto",
+   "chave": "1:2-3",
+   "resumo": "No segundo ano após a saída do Egito, Deus manda Moisés contar todos os homens de vinte anos para cima, aptos para a guerra, tribo por tribo, com a ajuda de um líder de cada tribo. O total é de seiscentos e três mil quinhentos e cinquenta. Os levitas não são contados com os demais, pois ficam encarregados do tabernáculo e acampam ao redor dele.",
+   "licoes": [
+    "Deus conhece seu povo pelo nome, família e tribo (1:2, 1:18).",
+    "A contagem prepara o povo para a caminhada e para as batalhas à frente (1:3).",
+    "Os levitas são separados para cuidar da habitação de Deus (1:49-50).",
+    "O povo faz tudo conforme o SENHOR havia ordenado a Moisés (1:54)."
+   ],
+   "reflexao": "Você se vê como parte de um povo que Deus conhece e organiza?",
+   "quiz": [
+    {
+     "pergunta": "Qual foi o total de homens contados?",
+     "opcoes": [
+      "Um milhão",
+      "Setenta mil",
+      "Seiscentos mil",
+      "Seiscentos e três mil quinhentos e cinquenta"
+     ],
+     "correta": 3,
+     "ref": "1:46"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "O acampamento em ordem",
+   "chave": "2:2",
+   "resumo": "Deus organiza o acampamento: cada tribo acampa sob sua bandeira, em quatro grupos de três tribos ao redor do tabernáculo, voltados para leste, sul, oeste e norte. Judá fica a leste, à frente na marcha. Os levitas e o tabernáculo ficam no centro, e o povo obedece a tudo.",
+   "licoes": [
+    "Deus é um Deus de ordem, até na forma de acampar e caminhar (2:2, 2:34).",
+    "A presença de Deus, no tabernáculo, está no centro da vida do povo (2:17).",
+    "Cada tribo tem seu lugar e sua função no conjunto (2:3, 2:10)."
+   ],
+   "reflexao": "O que está no centro da sua vida, em torno do que tudo se organiza?",
+   "quiz": [
+    {
+     "pergunta": "Qual tribo acampava ao oriente, à frente?",
+     "opcoes": [
+      "Rúben",
+      "Efraim",
+      "Judá",
+      "Dã"
+     ],
+     "correta": 2,
+     "ref": "2:3"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Os levitas no lugar dos primogênitos",
+   "chave": "3:12",
+   "resumo": "O capítulo lembra os filhos de Arão e a morte de Nadabe e Abiú. Deus coloca os levitas a serviço de Arão para cuidar do tabernáculo, tomando-os para si no lugar de todos os primogênitos de Israel. Os levitas são contados por famílias, Gérson, Coate e Merari, cada uma com suas tarefas. Como havia mais primogênitos do que levitas, os excedentes são resgatados com dinheiro.",
+   "licoes": [
+    "Os primogênitos pertencem a Deus desde a libertação do Egito (3:13).",
+    "Os levitas são dados a Deus como representantes de todo o povo (3:12, 3:45).",
+    "Cada família levita tem uma função específica no serviço (3:25, 3:31, 3:36).",
+    "O resgate mostra que Deus leva a sério o que é dele (3:46-48)."
+   ],
+   "reflexao": "O que muda em sua vida saber que você pertence a Deus?",
+   "quiz": [
+    {
+     "pergunta": "Os levitas foram tomados por Deus no lugar de quem?",
+     "opcoes": [
+      "Dos sacerdotes",
+      "Dos estrangeiros",
+      "Dos anciãos",
+      "Dos primogênitos de Israel"
+     ],
+     "correta": 3,
+     "ref": "3:12"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "O serviço das famílias levitas",
+   "chave": "4:49",
+   "resumo": "Deus manda contar os levitas de trinta a cinquenta anos, idade do serviço no tabernáculo. Os coatitas carregam os objetos mais santos, mas só depois que Arão e seus filhos os cobrem, para que não morram ao tocá-los. Os gersonitas levam as cortinas e coberturas, e os meraritas, as tábuas, colunas e bases. Ao todo, são oito mil quinhentos e oitenta levitas em serviço.",
+   "licoes": [
+    "Cada um tem uma tarefa no serviço de Deus, e todas são necessárias (4:4, 4:24, 4:31).",
+    "As coisas santas devem ser tratadas com reverência e cuidado (4:15, 4:20).",
+    "Os sacerdotes orientam e protegem os que servem (4:19, 4:27).",
+    "Tudo é feito conforme o SENHOR mandou por meio de Moisés (4:49)."
+   ],
+   "reflexao": "Você valoriza as tarefas \"menos visíveis\" no serviço a Deus?",
+   "quiz": [
+    {
+     "pergunta": "Qual era a faixa de idade dos levitas contados para o serviço do tabernáculo?",
+     "opcoes": [
+      "De trinta a cinquenta anos",
+      "De vinte a quarenta anos",
+      "De vinte e cinco a sessenta anos",
+      "De dezoito a trinta anos"
+     ],
+     "correta": 0,
+     "ref": "4:3"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "Pureza, restituição e a lei do ciúme",
+   "chave": "5:6-7",
+   "resumo": "Deus manda afastar do acampamento as pessoas impuras, para que o lugar onde ele habita não seja contaminado. Quem prejudica o próximo deve confessar, restituir o valor com um quinto a mais e, se não houver parente para receber, entregar ao sacerdote. O capítulo descreve ainda um ritual antigo para quando um marido suspeitava de adultério da esposa sem provas, deixando o julgamento nas mãos de Deus.",
+   "licoes": [
+    "A santidade do acampamento reflete a presença de Deus no meio do povo (5:3).",
+    "Ofender o próximo é também ser infiel ao SENHOR (5:6).",
+    "O arrependimento inclui confissão e reparação concreta (5:7).",
+    "Em casos sem testemunhas, o ritual tirava o julgamento das mãos do marido e o entregava a Deus (5:14-16)."
+   ],
+   "reflexao": "Você costuma confessar e reparar quando prejudica alguém?",
+   "quiz": [
+    {
+     "pergunta": "Quanto devia ser acrescentado à restituição de uma ofensa?",
+     "opcoes": [
+      "Um quinto",
+      "Um décimo",
+      "O dobro",
+      "Nada"
+     ],
+     "correta": 0,
+     "ref": "5:7"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "O voto de nazireu e a bênção sacerdotal",
+   "chave": "6:24-26",
+   "resumo": "Homens ou mulheres podiam fazer um voto especial de nazireu, consagrando-se ao SENHOR por um tempo: não beberiam vinho nem nada da videira, não cortariam o cabelo e não tocariam em mortos. O capítulo explica o que fazer se o voto fosse interrompido e como encerrá-lo. Termina com a bênção que os sacerdotes deviam pronunciar sobre Israel: \"O SENHOR te abençoe e te guarde\".",
+   "licoes": [
+    "Qualquer pessoa, homem ou mulher, podia se consagrar a Deus de forma especial (6:2).",
+    "A consagração envolve renúncias visíveis e concretas (6:3-5).",
+    "Deus quer abençoar, guardar, mostrar sua graça e dar paz ao seu povo (6:24-26).",
+    "Pôr o nome de Deus sobre o povo é sinal de que ele pertence ao SENHOR (6:27)."
+   ],
+   "reflexao": "De que forma concreta você poderia expressar sua consagração a Deus nesta fase?",
+   "quiz": [
+    {
+     "pergunta": "O que o nazireu não devia passar sobre a cabeça durante o voto?",
+     "opcoes": [
+      "Azeite",
+      "Cinza",
+      "Navalha",
+      "Água"
+     ],
+     "correta": 2,
+     "ref": "6:5"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "As ofertas dos príncipes",
+   "chave": "7:89",
+   "resumo": "Quando o tabernáculo é consagrado, os líderes das doze tribos trazem carros e bois para ajudar os levitas a transportá-lo. Depois, durante doze dias, cada príncipe apresenta, em seu dia, a mesma oferta para a dedicação do altar: pratos e bacias de prata, uma colher de ouro com incenso e diversos animais. Ao final, Moisés entra na tenda e ouve a voz de Deus falando de cima do propiciatório.",
+   "licoes": [
+    "Os líderes dão o exemplo de generosidade (7:2-3).",
+    "Os recursos são distribuídos conforme a necessidade de cada serviço (7:5, 7:7-9).",
+    "Cada tribo é lembrada individualmente, mesmo com ofertas iguais (7:11-12).",
+    "Depois das ofertas, Deus fala com Moisés de sobre o propiciatório (7:89)."
+   ],
+   "reflexao": "Que exemplo de generosidade você tem dado a quem está perto de você?",
+   "quiz": [
+    {
+     "pergunta": "Durante quantos dias os príncipes apresentaram suas ofertas?",
+     "opcoes": [
+      "Sete",
+      "Dez",
+      "Doze",
+      "Quarenta"
+     ],
+     "correta": 2,
+     "ref": "7:78"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "O candelabro e a consagração dos levitas",
+   "chave": "8:14",
+   "resumo": "Arão acende as sete lâmpadas do candelabro para iluminar à frente dele. Em seguida, os levitas são purificados com água, raspam o corpo, lavam as roupas e são apresentados diante do SENHOR; os israelitas impõem as mãos sobre eles, e eles são oferecidos como oferta movida. Deus confirma que os levitas são dele, no lugar dos primogênitos, e estabelece a idade de serviço, a partir dos vinte e cinco anos até os cinquenta.",
+   "licoes": [
+    "A luz do candelabro deve iluminar o caminho à frente (8:2).",
+    "Antes de servir, os levitas são purificados (8:6-7, 8:21).",
+    "Os levitas representam todo o povo, que impõe as mãos sobre eles (8:10, 8:14).",
+    "Mesmo depois de deixar a tarefa principal, os mais velhos continuam ajudando (8:25-26)."
+   ],
+   "reflexao": "Como você pode continuar servindo em diferentes fases da vida?",
+   "quiz": [
+    {
+     "pergunta": "A partir de que idade os levitas começavam o serviço, segundo este capítulo?",
+     "opcoes": [
+      "Vinte anos",
+      "Vinte e cinco anos",
+      "Trinta anos",
+      "Quarenta anos"
+     ],
+     "correta": 1,
+     "ref": "8:24"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "A Páscoa e a nuvem que guia",
+   "chave": "9:18",
+   "resumo": "No segundo ano, Israel celebra a Páscoa no deserto. Alguns homens, impuros por terem tocado num morto, perguntam como participar, e Deus estabelece uma segunda data, um mês depois, para quem estivesse impuro ou viajando; o estrangeiro também podia celebrar. O capítulo descreve como a nuvem sobre o tabernáculo guiava o povo: quando ela se levantava, partiam; quando parava, acampavam, por um dia ou por muito tempo.",
+   "licoes": [
+    "Diante de uma dúvida, Moisés espera ouvir a orientação do SENHOR (9:8).",
+    "Deus abre caminho para que mais pessoas possam participar da Páscoa (9:10-11, 9:14).",
+    "O povo se move e para conforme a ordem do SENHOR (9:18).",
+    "Seguir a Deus exige disposição tanto para esperar quanto para partir (9:22-23)."
+   ],
+   "reflexao": "Você tem mais dificuldade de esperar ou de avançar quando Deus orienta?",
+   "quiz": [
+    {
+     "pergunta": "O que indicava que o povo devia partir?",
+     "opcoes": [
+      "O som de um shofar no Egito",
+      "Uma ordem dos anciãos",
+      "A nuvem se erguer do tabernáculo",
+      "O nascer do sol"
+     ],
+     "correta": 2,
+     "ref": "9:17"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "titulo": "As trombetas e a partida do Sinai",
+   "chave": "10:35",
+   "resumo": "Deus manda fazer duas trombetas de prata para convocar a congregação, dar sinal de partida, chamar para a guerra e marcar as festas. No segundo ano, a nuvem se ergue, e Israel parte do Sinai na ordem estabelecida, com Judá à frente. Moisés convida Hobabe, seu cunhado, para acompanhá-los e servir de guia. A arca vai adiante do povo, e Moisés ora a cada partida e parada.",
+   "licoes": [
+    "Deus dá meios para que o povo se organize e se lembre dele (10:2, 10:9-10).",
+    "A partida segue a ordem e o tempo de Deus (10:11, 10:13).",
+    "Moisés convida outros a compartilhar das bênçãos de Deus (10:29, 10:32).",
+    "A caminhada é acompanhada de oração pela presença de Deus (10:35-36)."
+   ],
+   "reflexao": "Você começa e termina suas jornadas com oração?",
+   "quiz": [
+    {
+     "pergunta": "Quantas trombetas de prata Moisés devia fazer?",
+     "opcoes": [
+      "Uma",
+      "Duas",
+      "Sete",
+      "Doze"
+     ],
+     "correta": 1,
+     "ref": "10:2"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "titulo": "Queixas, codornizes e setenta anciãos",
+   "chave": "11:23",
+   "resumo": "O povo se queixa, e fogo do SENHOR atinge o acampamento até Moisés orar. Depois, todos choram desejando a carne e as verduras do Egito e desprezando o maná. Moisés, esgotado, diz que não pode carregar o povo sozinho. Deus reparte o Espírito que estava sobre Moisés com setenta anciãos, que profetizam, e envia codornizes em abundância; mas a ganância do povo é punida com uma praga em Quibrote-Hataavá.",
+   "licoes": [
+    "A ingratidão faz desprezar a provisão de Deus e idealizar a escravidão (11:5-6).",
+    "Moisés leva honestamente a Deus seu cansaço e limite (11:14-15).",
+    "Deus reparte o Espírito para que o fardo seja compartilhado (11:17, 11:25).",
+    "O poder do SENHOR não é curto (11:23)."
+   ],
+   "reflexao": "Você tem desprezado alguma provisão de Deus por desejar o que deixou para trás?",
+   "quiz": [
+    {
+     "pergunta": "Como se chamavam os dois homens que profetizaram no acampamento?",
+     "opcoes": [
+      "Eldade e Medade",
+      "Josué e Calebe",
+      "Nadabe e Abiú",
+      "Datã e Abirão"
+     ],
+     "correta": 0,
+     "ref": "11:26"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "titulo": "Miriã e Arão contra Moisés",
+   "chave": "12:3",
+   "resumo": "Miriã e Arão criticam Moisés por causa da mulher cuxita e questionam se Deus falou apenas por ele. O texto observa que Moisés era o homem mais manso da terra. Deus chama os três à tenda e afirma que fala com Moisés face a face, porque ele é fiel em toda a sua casa. Miriã fica leprosa; Arão pede perdão, Moisés intercede por ela, e ela fica sete dias fora do acampamento antes de ser restaurada.",
+   "licoes": [
+    "Críticas podem esconder ciúme e desejo de posição (12:1-2).",
+    "Moisés, criticado, não se defende; é descrito como muito manso (12:3).",
+    "Deus defende seu servo fiel (12:7-8).",
+    "Moisés ora pela irmã que o criticou (12:13)."
+   ],
+   "reflexao": "Como você reage quando é criticado injustamente?",
+   "quiz": [
+    {
+     "pergunta": "Por quantos dias Miriã ficou fora do acampamento?",
+     "opcoes": [
+      "Três",
+      "Sete",
+      "Trinta",
+      "Quarenta"
+     ],
+     "correta": 1,
+     "ref": "12:15"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "titulo": "Os doze espiões",
+   "chave": "13:30",
+   "resumo": "Deus manda enviar um líder de cada tribo para explorar Canaã; entre eles estão Calebe e Oseias, a quem Moisés chama Josué. Após quarenta dias, voltam com um enorme cacho de uvas carregado por dois homens, romãs e figos, confirmando que a terra é boa. Mas dez espiões dizem que os habitantes são fortes e as cidades muradas, e que se sentiram como gafanhotos. Calebe insiste que podem conquistá-la.",
+   "licoes": [
+    "A terra prometida é realmente boa, como Deus disse (13:23, 13:27).",
+    "O medo faz exagerar os obstáculos e esquecer Deus (13:31-33).",
+    "Calebe enxerga os mesmos problemas, mas com fé (13:30).",
+    "A forma como nos vemos influencia como enfrentamos os desafios (13:33)."
+   ],
+   "reflexao": "Você tem olhado para seus desafios com os olhos do medo ou da fé?",
+   "quiz": [
+    {
+     "pergunta": "Como os espiões trouxeram o cacho de uvas de Escol?",
+     "opcoes": [
+      "Carregado por dois numa vara",
+      "Num cesto",
+      "Num carro de bois",
+      "No lombo de um jumento"
+     ],
+     "correta": 0,
+     "ref": "13:23"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "titulo": "A rebelião em Cades",
+   "chave": "14:24",
+   "resumo": "O povo chora a noite toda, murmura contra Moisés e Arão e propõe escolher um líder para voltar ao Egito. Josué e Calebe dizem que a terra é muito boa e que, com o SENHOR, não há o que temer, mas o povo quer apedrejá-los. Deus ameaça destruir o povo; Moisés intercede apelando à misericórdia de Deus, e ele perdoa, mas determina que aquela geração vagará quarenta anos no deserto, e só Josué, Calebe e os filhos entrarão na terra. Depois, o povo tenta subir por conta própria e é derrotado.",
+   "licoes": [
+    "A incredulidade leva a desejar voltar à escravidão (14:3-4).",
+    "Josué e Calebe confiam que, com o SENHOR, a vitória é possível (14:8-9).",
+    "Moisés intercede apelando ao caráter misericordioso de Deus (14:18-19).",
+    "Calebe é honrado por ter \"outro espírito\" e seguir a Deus por inteiro (14:24)."
+   ],
+   "reflexao": "Em que área você precisa seguir a Deus \"por inteiro\", como Calebe?",
+   "quiz": [
+    {
+     "pergunta": "Por quantos anos o povo vagaria no deserto?",
+     "opcoes": [
+      "Sete",
+      "Doze",
+      "Quarenta",
+      "Setenta"
+     ],
+     "correta": 2,
+     "ref": "14:34"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "titulo": "Leis para a terra e as franjas",
+   "chave": "15:39-40",
+   "resumo": "Mesmo após a rebelião, Deus dá leis para quando o povo entrar na terra, o que reafirma que a promessa continua. Há instruções sobre as ofertas que acompanham os sacrifícios, iguais para israelitas e estrangeiros, sobre as primícias da massa e sobre pecados cometidos por ignorância. Quem peca deliberadamente, desprezando a palavra do SENHOR, é punido, como o homem que recolhia lenha no sábado. Os israelitas devem usar franjas com um cordão azul para lembrar os mandamentos.",
+   "licoes": [
+    "Deus fala da terra mesmo depois do fracasso: sua promessa permanece (15:2).",
+    "A mesma lei vale para o natural e o estrangeiro (15:15-16).",
+    "Há diferença entre o pecado por fraqueza e o desprezo deliberado da palavra de Deus (15:27-28, 15:30-31).",
+    "Sinais visíveis ajudam a lembrar dos mandamentos e não seguir os próprios desejos (15:39)."
+   ],
+   "reflexao": "Que \"lembretes\" ajudam você a não seguir apenas o que seu coração e seus olhos desejam?",
+   "quiz": [
+    {
+     "pergunta": "De que cor devia ser o cordão nas franjas das roupas?",
+     "opcoes": [
+      "Vermelho",
+      "Branco",
+      "Dourado",
+      "Azul"
+     ],
+     "correta": 3,
+     "ref": "15:38"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "titulo": "A rebelião de Coré",
+   "chave": "16:48",
+   "resumo": "Coré, um levita, junto com Datã, Abirão e duzentos e cinquenta líderes, se rebela contra Moisés e Arão, dizendo que toda a congregação é santa. Moisés propõe que Deus mostre quem ele escolheu, com incensários diante do SENHOR. A terra se abre e engole Coré, Datã, Abirão e suas casas, e fogo consome os duzentos e cinquenta. No dia seguinte o povo murmura de novo e começa uma praga; Arão corre com o incensário e se põe entre os mortos e os vivos, e a praga cessa.",
+   "licoes": [
+    "A ambição pode se disfarçar de discurso de igualdade (16:3, 16:10).",
+    "Desprezar o chamado que Deus deu é rebelar-se contra o próprio SENHOR (16:9-11).",
+    "Moisés e Arão intercedem até pelo povo rebelde (16:22, 16:46).",
+    "Arão se coloca entre os mortos e os vivos, e a praga cessa (16:48)."
+   ],
+   "reflexao": "Você tem se contentado com o lugar e o serviço que Deus lhe confiou?",
+   "quiz": [
+    {
+     "pergunta": "O que aconteceu com Coré, Datã e Abirão?",
+     "opcoes": [
+      "Foram exilados",
+      "A terra se abriu e os tragou",
+      "Ficaram leprosos",
+      "Foram perdoados"
+     ],
+     "correta": 1,
+     "ref": "16:32"
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "titulo": "A vara de Arão floresce",
+   "chave": "17:8",
+   "resumo": "Para encerrar as murmurações, Deus manda que cada tribo entregue uma vara com o nome de seu líder; a de Levi leva o nome de Arão. As varas são colocadas no tabernáculo, e no dia seguinte a vara de Arão brotou, floresceu e deu amêndoas. Ela é guardada diante do testemunho como sinal contra os rebeldes, e o povo fica com medo de se aproximar do tabernáculo.",
+   "licoes": [
+    "Deus mesmo confirma quem ele escolheu para servir (17:5).",
+    "Da vara seca, Deus faz brotar vida (17:8).",
+    "O sinal serve para acabar com as murmurações e preservar o povo (17:10).",
+    "O povo percebe a seriedade de se aproximar do Deus santo (17:12-13)."
+   ],
+   "reflexao": "O que Deus tem feito florescer em áreas da sua vida que pareciam secas?",
+   "quiz": [
+    {
+     "pergunta": "O que a vara de Arão produziu?",
+     "opcoes": [
+      "Uvas",
+      "Figos",
+      "Amêndoas",
+      "Romãs"
+     ],
+     "correta": 2,
+     "ref": "17:8"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "titulo": "Sacerdotes e levitas: deveres e sustento",
+   "chave": "18:20",
+   "resumo": "Deus define as responsabilidades de Arão e dos levitas: os sacerdotes cuidam do santuário e do altar, e os levitas os ajudam, para que a ira de Deus não venha sobre o povo. Como sustento, os sacerdotes recebem partes das ofertas, as primícias e os primogênitos, e os levitas recebem os dízimos de Israel. Eles não terão terra como herança, pois o SENHOR é a sua parte; e os levitas também devem dar o dízimo do que recebem.",
+   "licoes": [
+    "Servir a Deus é um presente e uma responsabilidade (18:7).",
+    "O SENHOR é a herança de quem foi separado para servi-lo (18:20).",
+    "Os dízimos sustentam os que servem no tabernáculo (18:21, 18:24).",
+    "Até os levitas devem dar a Deus o melhor do que recebem (18:26, 18:29)."
+   ],
+   "reflexao": "O que significa, para você, ter o próprio Deus como \"parte e herança\"?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus disse ser a herança de Arão?",
+     "opcoes": [
+      "Uma cidade em Canaã",
+      "O ouro do Egito",
+      "Os rebanhos de Israel",
+      "O próprio SENHOR"
+     ],
+     "correta": 3,
+     "ref": "18:20"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "titulo": "A novilha vermelha",
+   "chave": "19:9",
+   "resumo": "Deus estabelece um rito para a purificação de quem tocasse em um morto. Uma novilha vermelha sem defeito era queimada fora do acampamento, com cedro, hissopo e escarlate, e suas cinzas eram guardadas para preparar a \"água da purificação\". Quem se contaminasse com um morto devia ser aspergido com essa água no terceiro e no sétimo dia para ficar limpo.",
+   "licoes": [
+    "A morte, consequência do pecado, era tratada como fonte de impureza (19:11).",
+    "Deus providencia um meio de purificação acessível a todos (19:9, 19:17).",
+    "A purificação era um processo, no terceiro e no sétimo dia (19:12, 19:19).",
+    "Recusar a purificação era desprezar o santuário de Deus (19:20)."
+   ],
+   "reflexao": "O que esse rito ensina sobre a necessidade de purificação diante de Deus?",
+   "quiz": [
+    {
+     "pergunta": "De que cor devia ser a novilha usada no rito?",
+     "opcoes": [
+      "Branca",
+      "Preta",
+      "Malhada",
+      "Vermelha"
+     ],
+     "correta": 3,
+     "ref": "19:2"
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "titulo": "As águas de Meribá e a morte de Arão",
+   "chave": "20:12",
+   "resumo": "Em Cades morre Miriã. Falta água, e o povo briga com Moisés. Deus manda Moisés falar à rocha, mas ele, irritado, fala com aspereza ao povo e fere a rocha duas vezes; a água sai, mas Deus diz que Moisés e Arão não entrarão na terra por não o terem honrado diante do povo. Edom recusa passagem a Israel. No monte Hor, Arão morre depois de passar suas vestes a Eleazar, e o povo chora por trinta dias.",
+   "licoes": [
+    "Mesmo grandes líderes podem falhar num momento de frustração (20:10-11).",
+    "Deus leva a sério a obediência de quem lidera e o representa (20:12).",
+    "Israel evita o conflito com Edom, povo irmão (20:17, 20:21).",
+    "A transição de liderança é feita conforme a ordem de Deus (20:26, 20:28)."
+   ],
+   "reflexao": "Como você tem lidado com a irritação quando as pessoas o pressionam?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus mandou Moisés fazer à rocha?",
+     "opcoes": [
+      "Feri-la duas vezes",
+      "Falar à rocha",
+      "Ungi-la com azeite",
+      "Cobri-la com o manto"
+     ],
+     "correta": 1,
+     "ref": "20:8"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "titulo": "A serpente de bronze",
+   "chave": "21:8-9",
+   "resumo": "Israel derrota o rei de Arade. No caminho, o povo se cansa e fala contra Deus e Moisés, e serpentes venenosas atacam o acampamento. O povo reconhece seu pecado, Moisés ora, e Deus manda fazer uma serpente de bronze sobre uma haste: quem olhasse para ela vivia. Depois Israel segue viagem, canta junto ao poço de Beer e vence Seom, rei dos amorreus, e Ogue, rei de Basã.",
+   "licoes": [
+    "A murmuração revela ingratidão pelo cuidado de Deus (21:5).",
+    "Reconhecer o pecado e pedir intercessão abre caminho para a cura (21:7).",
+    "A salvação vem de olhar com fé para o meio que Deus providenciou (21:8-9).",
+    "Deus dá vitória e diz \"não tenhas medo\" diante de inimigos fortes (21:34)."
+   ],
+   "reflexao": "Para onde você tem olhado em busca de cura e salvação?",
+   "quiz": [
+    {
+     "pergunta": "O que acontecia com quem olhava para a serpente de bronze?",
+     "opcoes": [
+      "Vivia",
+      "Ficava cego",
+      "Era expulso",
+      "Ficava impuro"
+     ],
+     "correta": 0,
+     "ref": "21:9"
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "titulo": "Balaão e a jumenta",
+   "chave": "22:38",
+   "resumo": "Com medo de Israel, Balaque, rei de Moabe, manda chamar o adivinho Balaão para amaldiçoar o povo. Deus proíbe Balaão de ir, mas, diante de nova insistência, permite que vá, desde que fale só o que ele mandar. No caminho, o anjo do SENHOR se coloca à frente; a jumenta o vê e se desvia três vezes, e Balaão a espanca. Deus abre a boca da jumenta e depois os olhos de Balaão, que reconhece seu erro.",
+   "licoes": [
+    "Ninguém pode amaldiçoar quem Deus abençoou (22:12).",
+    "O coração dividido de Balaão se inclina pela recompensa (22:17-19).",
+    "Deus pode usar até uma jumenta para falar e abrir os olhos de alguém (22:28, 22:31).",
+    "O profeta só pode falar o que Deus coloca em sua boca (22:35, 22:38)."
+   ],
+   "reflexao": "Há algum caminho que você insiste em seguir mesmo sentindo Deus o impedir?",
+   "quiz": [
+    {
+     "pergunta": "Quantas vezes Balaão bateu na jumenta?",
+     "opcoes": [
+      "Uma",
+      "Duas",
+      "Três",
+      "Sete"
+     ],
+     "correta": 2,
+     "ref": "22:28"
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "titulo": "Bênção no lugar de maldição",
+   "chave": "23:19",
+   "resumo": "Balaque leva Balaão a lugares altos para ver Israel e amaldiçoá-lo, oferecendo sacrifícios em sete altares. Mas Deus coloca palavras na boca de Balaão, que abençoa Israel duas vezes. Ele declara que não pode amaldiçoar quem Deus não amaldiçoou e que Deus não mente nem volta atrás. Balaque, frustrado, leva Balaão a um terceiro lugar.",
+   "licoes": [
+    "O que Deus abençoou ninguém pode revogar (23:8, 23:20).",
+    "Deus não é como o ser humano, que mente ou muda de ideia (23:19).",
+    "O SENHOR está com seu povo como Rei (23:21).",
+    "Mudar de lugar não muda a vontade de Deus (23:13, 23:27)."
+   ],
+   "reflexao": "Que conforto há em saber que Deus não volta atrás em suas promessas?",
+   "quiz": [
+    {
+     "pergunta": "Quantos altares Balaão pediu que Balaque construísse?",
+     "opcoes": [
+      "Dois",
+      "Três",
+      "Sete",
+      "Doze"
+     ],
+     "correta": 2,
+     "ref": "23:1"
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "titulo": "A estrela de Jacó",
+   "chave": "24:17",
+   "resumo": "Vendo que Deus queria abençoar Israel, Balaão olha para as tendas do povo e, movido pelo Espírito de Deus, exalta sua beleza e força. Balaque, irado, o manda embora, mas Balaão ainda anuncia um futuro distante: \"sairá estrela de Jacó, e se levantará cetro de Israel\". Ele fala também sobre Moabe, Edom, Amaleque e outros povos, e depois volta para sua terra.",
+   "licoes": [
+    "A beleza do povo de Deus vem da bênção do SENHOR (24:5-6).",
+    "Quem abençoa Israel é abençoado, e quem o amaldiçoa é amaldiçoado (24:9).",
+    "Nenhuma riqueza pode fazer o profeta ir além da palavra do SENHOR (24:13).",
+    "A profecia da estrela e do cetro aponta para um rei futuro (24:17)."
+   ],
+   "reflexao": "Que esperança a promessa de um rei vindo de Jacó traz para você?",
+   "quiz": [
+    {
+     "pergunta": "O que Balaão disse que sairia de Jacó?",
+     "opcoes": [
+      "Um rio",
+      "Uma árvore",
+      "Um leão",
+      "Uma estrela"
+     ],
+     "correta": 3,
+     "ref": "24:17"
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "titulo": "O pecado em Baal-Peor",
+   "chave": "25:11",
+   "resumo": "Em Sitim, o povo se envolve com mulheres moabitas, participa dos sacrifícios aos deuses delas e adora Baal-Peor. A ira do SENHOR se acende, e uma praga atinge o povo. Quando um israelita traz uma midianita para sua tenda diante de todos, Fineias, neto de Arão, mata os dois, e a praga cessa; vinte e quatro mil morrem. Deus faz com Fineias um pacto de paz e de sacerdócio perpétuo.",
+   "licoes": [
+    "O que a maldição de Balaão não conseguiu, a sedução da idolatria conseguiu (25:1-3).",
+    "A idolatria e a imoralidade andam juntas e destroem o povo (25:2).",
+    "O pecado coletivo traz consequências graves (25:9).",
+    "Deus honra o zelo de Fineias por sua honra (25:11-13)."
+   ],
+   "reflexao": "Que tipo de sedução tem afastado você, aos poucos, da fidelidade a Deus?",
+   "quiz": [
+    {
+     "pergunta": "Quem fez cessar a praga com seu zelo pelo SENHOR?",
+     "opcoes": [
+      "Josué",
+      "Calebe",
+      "Eleazar",
+      "Fineias"
+     ],
+     "correta": 3,
+     "ref": "25:11"
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "titulo": "O segundo recenseamento",
+   "chave": "26:65",
+   "resumo": "Depois da praga, Deus manda contar de novo os homens de vinte anos para cima, agora nas planícies de Moabe, junto ao Jordão. O total é de seiscentos e um mil setecentos e trinta. A terra será repartida por sorteio, conforme o tamanho de cada tribo. Os levitas são contados à parte. Nenhum dos contados no primeiro censo está vivo, exceto Calebe e Josué, como Deus havia dito.",
+   "licoes": [
+    "Uma nova geração é contada para entrar na terra (26:2-4).",
+    "A herança é distribuída com justiça, conforme o tamanho de cada tribo (26:54-55).",
+    "Os filhos de Coré não morreram com o pai: cada um responde por si (26:11).",
+    "A palavra de Deus se cumpre exatamente, tanto no juízo quanto na promessa (26:64-65)."
+   ],
+   "reflexao": "Que promessa de Deus você já viu se cumprir na sua vida ou na de sua família?",
+   "quiz": [
+    {
+     "pergunta": "Quais homens do primeiro censo ainda estavam vivos?",
+     "opcoes": [
+      "Moisés e Arão",
+      "Eleazar e Fineias",
+      "Calebe e Josué",
+      "Datã e Abirão"
+     ],
+     "correta": 2,
+     "ref": "26:65"
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "titulo": "As filhas de Zelofeade e o novo líder",
+   "chave": "27:7",
+   "resumo": "As cinco filhas de Zelofeade, que morreu sem filhos homens, pedem para herdar a terra do pai, para que seu nome não desapareça. Moisés leva o caso a Deus, que lhes dá razão e cria uma lei de herança para casos semelhantes. Depois, Deus mostra a Moisés a terra do alto do monte e anuncia que ele vai morrer. Moisés pede um pastor para o povo, e Deus escolhe Josué, que é apresentado diante de todos e recebe a imposição de mãos.",
+   "licoes": [
+    "Pessoas que pareciam sem voz levam seu pedido com coragem, e Deus as ouve (27:2-4).",
+    "Deus reconhece o direito das filhas: \"Bem dizem\" (27:7).",
+    "Moisés se preocupa com o povo depois dele, para que não fique como ovelhas sem pastor (27:16-17).",
+    "A liderança passa de forma pública e ordenada, com imposição de mãos (27:22-23)."
+   ],
+   "reflexao": "Há alguém sem voz ao seu redor cuja causa você poderia ajudar a levar adiante?",
+   "quiz": [
+    {
+     "pergunta": "Quem Deus escolheu para suceder Moisés?",
+     "opcoes": [
+      "Calebe",
+      "Josué",
+      "Eleazar",
+      "Fineias"
+     ],
+     "correta": 1,
+     "ref": "27:18"
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "titulo": "Ofertas diárias e das festas",
+   "chave": "28:2",
+   "resumo": "Deus estabelece o calendário de ofertas: o holocausto contínuo, com um cordeiro de manhã e outro à tarde; ofertas a mais no sábado e no início de cada mês; e as ofertas da Páscoa, dos sete dias dos Pães sem Fermento e do dia das primícias. Cada oferta vinha acompanhada de cereais, azeite e vinho.",
+   "licoes": [
+    "A adoração começa e termina o dia: manhã e tarde (28:3-4).",
+    "O sábado e o início de cada mês são tempos especiais diante de Deus (28:9-11).",
+    "As festas lembram a libertação e a provisão de Deus (28:16-17, 28:26).",
+    "Deus pede que as ofertas sejam trazidas no tempo certo (28:2)."
+   ],
+   "reflexao": "Que ritmo de adoração diária você tem cultivado?",
+   "quiz": [
+    {
+     "pergunta": "Quantos cordeiros por dia eram oferecidos no holocausto contínuo?",
+     "opcoes": [
+      "Um",
+      "Dois",
+      "Sete",
+      "Doze"
+     ],
+     "correta": 1,
+     "ref": "28:3"
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "titulo": "As festas do sétimo mês",
+   "chave": "29:39",
+   "resumo": "O capítulo descreve as ofertas das festas do sétimo mês: o dia das trombetas, o Dia da Expiação e a festa dos Tabernáculos, com oito dias de celebração. Na festa dos Tabernáculos, o número de bezerros diminui a cada dia, de treze no primeiro dia até sete no sétimo. Moisés transmite tudo ao povo.",
+   "licoes": [
+    "O sétimo mês é marcado por celebração, arrependimento e alegria (29:1, 29:7, 29:12).",
+    "A abundância das ofertas na festa dos Tabernáculos expressa gratidão pela colheita (29:13).",
+    "As festas se somam às ofertas diárias, sem substituí-las (29:39).",
+    "Moisés transmite fielmente ao povo tudo o que Deus mandou (29:40)."
+   ],
+   "reflexao": "Como você celebra a bondade de Deus nas \"colheitas\" da sua vida?",
+   "quiz": [
+    {
+     "pergunta": "Quantos bezerros eram oferecidos no primeiro dia da festa dos Tabernáculos?",
+     "opcoes": [
+      "Sete",
+      "Dez",
+      "Treze",
+      "Catorze"
+     ],
+     "correta": 2,
+     "ref": "29:13"
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "titulo": "Votos e juramentos",
+   "chave": "30:2",
+   "resumo": "Moisés ensina que quem faz um voto ao SENHOR deve cumprir o que prometeu. O capítulo explica, conforme a estrutura familiar da época, como os votos de uma jovem que vivia com o pai ou de uma mulher casada podiam ser confirmados ou anulados pelo pai ou pelo marido no dia em que ficassem sabendo. Os votos de viúvas e divorciadas valiam por si mesmos.",
+   "licoes": [
+    "Palavras dadas a Deus devem ser cumpridas (30:2).",
+    "A família compartilhava a responsabilidade pelos compromissos assumidos (30:4-5).",
+    "Quem anula um voto depois de tê-lo aceitado assume a culpa (30:15).",
+    "Viúvas e divorciadas respondiam diretamente por seus votos (30:9)."
+   ],
+   "reflexao": "Você tem levado a sério as promessas que faz, a Deus e às pessoas?",
+   "quiz": [
+    {
+     "pergunta": "O que devia fazer quem fizesse um voto ao SENHOR?",
+     "opcoes": [
+      "Cumprir tudo o que saiu de sua boca",
+      "Pagar ao sacerdote para anulá-lo",
+      "Esperar o ano do jubileu",
+      "Repeti-lo sete vezes"
+     ],
+     "correta": 0,
+     "ref": "30:2"
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "titulo": "A guerra contra Midiã",
+   "chave": "31:16",
+   "resumo": "Deus manda Moisés executar juízo sobre os midianitas, que haviam levado Israel à idolatria em Peor por conselho de Balaão. Mil homens de cada tribo vão à guerra com Fineias e as trombetas, e Balaão é morto. O relato inclui ordens duras de destruição, que fazem parte do contexto de guerra do mundo antigo e são difíceis para o leitor de hoje. Depois, os soldados passam por purificação, e os despojos são divididos entre os combatentes e a congregação, com uma parte para o SENHOR.",
+   "licoes": [
+    "O texto liga a guerra ao pecado de Peor, mostrando a seriedade de desviar o povo de Deus (31:16).",
+    "Mesmo depois da batalha, os soldados precisam de purificação (31:19, 31:24).",
+    "Os despojos são repartidos com justiça entre quem lutou e quem ficou (31:27).",
+    "Os comandantes reconhecem que nenhum soldado faltou e trazem uma oferta de gratidão (31:49-50)."
+   ],
+   "reflexao": "Como lidar com passagens bíblicas difíceis sem ignorá-las nem perder a confiança em Deus?",
+   "quiz": [
+    {
+     "pergunta": "Por conselho de quem as midianitas levaram Israel a pecar em Peor?",
+     "opcoes": [
+      "De Balaão",
+      "De Balaque",
+      "De Coré",
+      "De Zinri"
+     ],
+     "correta": 0,
+     "ref": "31:16"
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "titulo": "As tribos do lado leste do Jordão",
+   "chave": "32:23",
+   "resumo": "As tribos de Rúben e Gade, que tinham muito gado, pedem para ficar nas terras férteis a leste do Jordão. Moisés teme que isso desanime o povo, como aconteceu com os espiões. Eles se comprometem a deixar as famílias e os rebanhos em cidades fortificadas e lutar à frente dos irmãos até que todos recebam sua herança. Moisés aceita, avisando que, se não cumprirem, o pecado deles os alcançará; metade de Manassés também se estabelece ali.",
+   "licoes": [
+    "Escolhas individuais podem afetar o ânimo de toda a comunidade (32:7).",
+    "Moisés lembra a história para evitar repetir os erros dos pais (32:8-9).",
+    "Os irmãos que já receberam devem continuar lutando pelos que ainda não receberam (32:17-18).",
+    "Promessas não cumpridas diante de Deus têm consequência: \"vos alcançará vosso pecado\" (32:23)."
+   ],
+   "reflexao": "Você tem se comprometido com o bem dos irmãos, e não só com o seu próprio?",
+   "quiz": [
+    {
+     "pergunta": "Que tribos pediram para ficar do lado leste do Jordão?",
+     "opcoes": [
+      "Judá e Benjamim",
+      "Efraim e Dã",
+      "Rúben e Gade",
+      "Levi e Simeão"
+     ],
+     "correta": 2,
+     "ref": "32:1-2"
+    }
+   ]
+  },
+  {
+   "n": 33,
+   "titulo": "As etapas da jornada",
+   "chave": "33:2",
+   "resumo": "Por ordem do SENHOR, Moisés registra as etapas da caminhada de Israel, do Egito até as planícies de Moabe: a saída de Ramessés, a travessia do mar, Mara, Elim, o Sinai, Cades, o monte Hor, onde Arão morreu aos cento e vinte e três anos, e muitos outros lugares. Depois, Deus ordena que, ao entrar em Canaã, o povo destrua os ídolos e reparta a terra por sorteio, advertindo que os povos que permanecessem seriam como espinhos.",
+   "licoes": [
+    "Lembrar o caminho percorrido ajuda a reconhecer a fidelidade de Deus (33:1-2).",
+    "Deus conduziu o povo em cada etapa, das fontes de Elim aos lugares sem água (33:9, 33:14).",
+    "Entrar na promessa exige romper com a idolatria (33:52).",
+    "O que não é tratado se torna espinho e aflição mais tarde (33:55)."
+   ],
+   "reflexao": "Quais foram as principais \"etapas\" da sua jornada com Deus até aqui?",
+   "quiz": [
+    {
+     "pergunta": "Com que idade Arão morreu no monte Hor?",
+     "opcoes": [
+      "Cento e dez",
+      "Cento e vinte",
+      "Cento e vinte e três",
+      "Cento e trinta"
+     ],
+     "correta": 2,
+     "ref": "33:39"
+    }
+   ]
+  },
+  {
+   "n": 34,
+   "titulo": "As fronteiras da terra",
+   "chave": "34:2",
+   "resumo": "Deus descreve as fronteiras da terra de Canaã que Israel vai receber: ao sul, a partir do deserto de Zim; a oeste, o Mar Grande; ao norte, até a entrada de Hamate; e a leste, descendo pelo Jordão até o Mar Salgado. Como Rúben, Gade e metade de Manassés já tinham recebido terras a leste do Jordão, a terra será dividida entre nove tribos e meia. Eleazar, Josué e um líder de cada tribo farão a partilha.",
+   "licoes": [
+    "As promessas de Deus têm contornos concretos, com limites definidos (34:2-3).",
+    "A terra é dada pelo SENHOR como herança, e não conquistada apenas pela força humana (34:13).",
+    "A partilha é feita com representantes de todas as tribos, de forma justa (34:17-18).",
+    "Calebe, que confiou em Deus, está entre os que repartem a terra (34:19)."
+   ],
+   "reflexao": "Que promessas concretas de Deus você está esperando ver realizadas?",
+   "quiz": [
+    {
+     "pergunta": "Quem eram os principais responsáveis por repartir a terra?",
+     "opcoes": [
+      "Moisés e Arão",
+      "Eleazar e Josué",
+      "Calebe e Fineias",
+      "Balaão e Balaque"
+     ],
+     "correta": 1,
+     "ref": "34:17"
+    }
+   ]
+  },
+  {
+   "n": 35,
+   "titulo": "Cidades levitas e cidades de refúgio",
+   "chave": "35:11-12",
+   "resumo": "Deus manda que as tribos deem quarenta e oito cidades aos levitas, com pastagens ao redor. Seis delas serão cidades de refúgio, três de cada lado do Jordão, para onde poderia fugir quem matasse alguém sem querer, protegendo-se do vingador até ser julgado. O assassino intencional não tinha proteção. O homicida acidental devia ficar na cidade até a morte do sumo sacerdote. O sangue inocente contamina a terra onde Deus habita.",
+   "licoes": [
+    "Os levitas, sem território próprio, recebem cidades espalhadas entre o povo (35:2, 35:7).",
+    "Deus distingue o homicídio intencional do acidental (35:20-23).",
+    "As cidades de refúgio protegem a vida e garantem um julgamento justo (35:12, 35:24-25).",
+    "A justiça exige testemunhas e não aceita resgate pela vida do assassino (35:30-31)."
+   ],
+   "reflexao": "Como sua comunidade pode ser um \"refúgio\" para quem precisa de proteção e justiça?",
+   "quiz": [
+    {
+     "pergunta": "Quantas cidades de refúgio deviam existir?",
+     "opcoes": [
+      "Três",
+      "Seis",
+      "Doze",
+      "Quarenta e oito"
+     ],
+     "correta": 1,
+     "ref": "35:6"
+    }
+   ]
+  },
+  {
+   "n": 36,
+   "titulo": "A herança das filhas de Zelofeade",
+   "chave": "36:7",
+   "resumo": "Os chefes da família de Gileade se preocupam: se as filhas de Zelofeade se casassem com homens de outras tribos, a terra passaria para essas tribos. Por ordem do SENHOR, Moisés decide que elas podem se casar com quem quiserem, desde que seja dentro da tribo de seu pai, para que cada tribo mantenha sua herança. As cinco irmãs obedecem, e o livro termina lembrando que esses mandamentos foram dados nas planícies de Moabe.",
+   "licoes": [
+    "Deus se importa com a preservação da herança de cada família e tribo (36:7, 36:9).",
+    "As leis podem ser ajustadas com sabedoria diante de novas situações (36:2-5).",
+    "As filhas de Zelofeade tinham liberdade de escolha, dentro de um limite (36:6).",
+    "O livro termina com obediência: as irmãs fazem como o SENHOR mandou (36:10)."
+   ],
+   "reflexao": "Como você equilibra sua liberdade pessoal com o bem da sua comunidade?",
+   "quiz": [
+    {
+     "pergunta": "Com quem as filhas de Zelofeade deviam se casar?",
+     "opcoes": [
+      "Com estrangeiros",
+      "Com levitas",
+      "Com homens da tribo de seu pai",
+      "Com quem Moisés escolhesse"
+     ],
+     "correta": 2,
+     "ref": "36:6"
+    }
+   ]
+  }
+ ]
+}

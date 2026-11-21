@@ -1,0 +1,4214 @@
+{
+ "nota": "Estudo da legislação da Torá, parte A (grupos: Deus e fé; sábado e festas; votos; alimentos). Referências na numeração das bíblias em português (Bíblia Livre). O campo \"rambam\" só aparece quando o número na lista de Maimônides é seguro; a contagem de 613 é rabínica e outras listas (ex.: Nahmânides) diferem.",
+ "fonte_extra": [
+  {
+   "fonte": "Talmude Babilônico",
+   "referencia": "Makot 23b (613 mandamentos: 248 positivos e 365 negativos)",
+   "data": "c. 500 d.C."
+  },
+  {
+   "fonte": "Maimônides",
+   "referencia": "Sefer HaMitsvot (lista clássica; campo \"rambam\" = P/N + número)",
+   "data": "c. 1170 d.C."
+  }
+ ],
+ "grupos": [
+  {
+   "id": "deus-fe",
+   "titulo": "Deus, fé e idolatria",
+   "resumo": "O centro da lei é a relação com o único Deus que tirou Israel do Egito: amá-lo, temê-lo, servi-lo e não ter outros deuses. Daí vêm as proibições de imagens, de idolatria, de falsos profetas, de magia e de blasfêmia, as penas mais duras da Torá. Também aqui estão os sinais que lembram a lei no dia a dia (palavras no coração, tefilin, mezuzá, franjas) e a circuncisão, sinal da aliança com Abraão.",
+   "subgrupos": [
+    {
+     "id": "unico-deus",
+     "titulo": "O único Deus: amar, temer, servir"
+    },
+    {
+     "id": "idolatria",
+     "titulo": "Idolatria e imagens"
+    },
+    {
+     "id": "falsos-profetas",
+     "titulo": "Falsos profetas e incitação"
+    },
+    {
+     "id": "ocultismo",
+     "titulo": "Adivinhação, magia e consulta aos mortos"
+    },
+    {
+     "id": "costumes-pagaos",
+     "titulo": "Costumes pagãos (cortes, tatuagens, cabelo, roupas)"
+    },
+    {
+     "id": "blasfemia",
+     "titulo": "O nome de Deus e a blasfêmia"
+    },
+    {
+     "id": "estudo-sinais",
+     "titulo": "Estudo da lei e sinais (tefilin, mezuzá, franjas)"
+    },
+    {
+     "id": "circuncisao",
+     "titulo": "Circuncisão"
+    }
+   ]
+  },
+  {
+   "id": "sabado-festas",
+   "titulo": "Sábado e festas",
+   "resumo": "O sábado semanal é sinal da aliança e lembra a criação e a libertação do Egito. O calendário de Levítico 23 organiza o ano em festas: Páscoa e Pães Asmos, o primeiro feixe e as Semanas (Pentecostes), o toque das Trombetas, o Dia da Expiação e as Cabanas, além das luas novas. Várias festas exigiam o santuário e a peregrinação; o descanso e a alegria incluem servos, estrangeiros, órfãos e viúvas.",
+   "subgrupos": [
+    {
+     "id": "sabado",
+     "titulo": "O sábado"
+    },
+    {
+     "id": "festas-gerais",
+     "titulo": "Regras comuns às festas"
+    },
+    {
+     "id": "pascoa",
+     "titulo": "A Páscoa"
+    },
+    {
+     "id": "paes-asmos",
+     "titulo": "Os Pães Asmos"
+    },
+    {
+     "id": "semanas",
+     "titulo": "Primeiro feixe e festa das Semanas (Pentecostes)"
+    },
+    {
+     "id": "trombetas",
+     "titulo": "O dia das Trombetas"
+    },
+    {
+     "id": "expiacao",
+     "titulo": "O Dia da Expiação"
+    },
+    {
+     "id": "tabernaculos",
+     "titulo": "A festa das Cabanas (Tabernáculos)"
+    },
+    {
+     "id": "lua-nova",
+     "titulo": "Lua nova e calendário"
+    }
+   ]
+  },
+  {
+   "id": "votos",
+   "titulo": "Votos, juramentos e consagrações",
+   "resumo": "A palavra dada a Deus obriga: o voto deve ser cumprido sem demora, embora não votar não seja pecado. A lei regula os votos de mulheres sob tutela, o juramento pelo nome de Deus, o juramento impensado e o voto especial do nazireu. Levítico 27 fixa os valores de resgate de pessoas, animais, casas e campos prometidos ao santuário, e trata do anátema.",
+   "subgrupos": [
+    {
+     "id": "votos-gerais",
+     "titulo": "Votos"
+    },
+    {
+     "id": "juramentos",
+     "titulo": "Juramentos"
+    },
+    {
+     "id": "nazireado",
+     "titulo": "O nazireu"
+    },
+    {
+     "id": "consagracoes",
+     "titulo": "Consagrações e resgates (Levítico 27)"
+    }
+   ]
+  },
+  {
+   "id": "alimentos",
+   "titulo": "Leis alimentares",
+   "resumo": "Levítico 11 e Deuteronômio 14 separam animais puros e impuros por sinais (casco fendido e ruminação, barbatanas e escamas) e por listas (aves, insetos). O sangue, sede da vida, nunca se come, nem a gordura do sacrifício; também são proibidos o animal morto por si ou dilacerado, o nervo do quadril e cozinhar o cabrito no leite da mãe. O motivo dado é a santidade: \"sereis santos, porque eu sou santo\".",
+   "subgrupos": [
+    {
+     "id": "animais",
+     "titulo": "Animais puros e impuros"
+    },
+    {
+     "id": "sangue-gordura",
+     "titulo": "Sangue e gordura"
+    },
+    {
+     "id": "abate",
+     "titulo": "Abate"
+    },
+    {
+     "id": "nervo",
+     "titulo": "O nervo do quadril"
+    },
+    {
+     "id": "leite",
+     "titulo": "O cabrito e o leite"
+    },
+    {
+     "id": "morto-dilacerado",
+     "titulo": "Animal morto ou dilacerado e a impureza de cadáveres"
+    }
+   ]
+  }
+ ],
+ "leis": [
+  {
+   "id": "a-crer-no-senhor",
+   "grupo": "deus-fe",
+   "subgrupo": "unico-deus",
+   "titulo": "Reconhecer o SENHOR como o seu Deus",
+   "tipo": "positivo",
+   "texto": "O SENHOR se apresenta como o Deus que tirou Israel do Egito; Israel deve reconhecê-lo e saber no coração que ele é Deus no céu e na terra, e não há outro.",
+   "refs": [
+    "exodo 20:2"
+   ],
+   "paralelos": [
+    "deuteronomio 5:6",
+    "deuteronomio 4:39"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "motivo": "A libertação do Egito: \"que te tirei da terra do Egito, de casa de servos\".",
+   "rambam": "P 1",
+   "nota": "Na contagem judaica, Êx 20:2 é o primeiro mandamento (crer em Deus); para muitas igrejas é o prólogo do primeiro mandamento. A divisão dos Dez Mandamentos varia entre tradições.",
+   "fonte_extra": [
+    {
+     "fonte": "Maimônides",
+     "referencia": "Sefer HaMitsvot, mandamento positivo 1",
+     "data": "c. 1170 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-deus-unico-shema",
+   "grupo": "deus-fe",
+   "subgrupo": "unico-deus",
+   "titulo": "Confessar que o SENHOR é um só (Shemá)",
+   "tipo": "positivo",
+   "texto": "\"Ouve, Israel: o SENHOR nosso Deus, o SENHOR um é.\" Israel deve confessar a unicidade de Deus.",
+   "refs": [
+    "deuteronomio 6:4"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "associacoes": [
+    {
+     "texto": "Jesus cita o Shemá como início do primeiro mandamento.",
+     "refs": [
+      "marcos 12:29-30"
+     ]
+    }
+   ],
+   "rambam": "P 2",
+   "nota": "A recitação diária do Shemá (com Dt 6:4-9; 11:13-21; Nm 15:37-41) é prática judaica descrita em fontes posteriores; ver também o item sobre falar destas palavras.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Berakhot 1:1-2:2 (recitação do Shemá à tarde e de manhã)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-amar-a-deus",
+   "grupo": "deus-fe",
+   "subgrupo": "unico-deus",
+   "titulo": "Amar a Deus de todo o coração",
+   "tipo": "positivo",
+   "texto": "Amar o SENHOR de todo o coração, de toda a alma e com toda a força, guardando os seus mandamentos.",
+   "refs": [
+    "deuteronomio 6:5"
+   ],
+   "paralelos": [
+    "deuteronomio 10:12",
+    "deuteronomio 11:1",
+    "deuteronomio 11:13",
+    "deuteronomio 11:22",
+    "deuteronomio 13:3",
+    "deuteronomio 30:6",
+    "deuteronomio 30:16",
+    "deuteronomio 30:20"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "associacoes": [
+    {
+     "texto": "Jesus chama este de \"o grande e primeiro mandamento\".",
+     "refs": [
+      "mateus 22:37-38"
+     ]
+    },
+    {
+     "texto": "Deuteronômio promete que o próprio Deus circuncidará o coração para que Israel o ame.",
+     "refs": [
+      "deuteronomio 30:6"
+     ]
+    }
+   ],
+   "motivo": "Deus amou os pais e escolheu seus descendentes (Dt 10:15); o amor responde ao amor.",
+   "rambam": "P 3"
+  },
+  {
+   "id": "a-temer-a-deus",
+   "grupo": "deus-fe",
+   "subgrupo": "unico-deus",
+   "titulo": "Temer ao SENHOR",
+   "tipo": "positivo",
+   "texto": "Temer (reverenciar) o SENHOR, guardando todos os seus estatutos todos os dias da vida.",
+   "refs": [
+    "deuteronomio 6:13"
+   ],
+   "paralelos": [
+    "deuteronomio 6:2",
+    "deuteronomio 6:24",
+    "deuteronomio 10:12",
+    "deuteronomio 10:20",
+    "deuteronomio 13:4",
+    "levitico 19:14",
+    "levitico 19:32"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "motivo": "\"Para que seu temor esteja em vossa presença para que não pequeis\" (Êx 20:20).",
+   "rambam": "P 4"
+  },
+  {
+   "id": "a-servir-a-deus",
+   "grupo": "deus-fe",
+   "subgrupo": "unico-deus",
+   "titulo": "Servir somente ao SENHOR",
+   "tipo": "positivo",
+   "texto": "Servir ao SENHOR de todo o coração e de toda a alma; a ele somente servir e cultuar.",
+   "refs": [
+    "deuteronomio 11:13"
+   ],
+   "paralelos": [
+    "exodo 23:25",
+    "deuteronomio 6:13",
+    "deuteronomio 10:12",
+    "deuteronomio 10:20",
+    "deuteronomio 13:4"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "divina",
+    "descricao": "Promessa de chuva e fartura a quem serve; ameaça de céus fechados e perda da terra a quem serve outros deuses.",
+    "refs": [
+     "deuteronomio 11:14-17"
+    ]
+   },
+   "associacoes": [
+    {
+     "texto": "Jesus responde ao tentador citando Dt 6:13: \"Ao Senhor teu Deus adorarás, e só a ele cultuarás\".",
+     "refs": [
+      "mateus 4:10",
+      "lucas 4:8"
+     ]
+    }
+   ],
+   "nota": "A tradição judaica entende este \"serviço do coração\" sobretudo como oração.",
+   "fonte_extra": [
+    {
+     "fonte": "Talmude Babilônico",
+     "referencia": "Taanit 2a (\"serviço do coração\" = oração)",
+     "data": "c. 500 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-apegar-se-a-deus",
+   "grupo": "deus-fe",
+   "subgrupo": "unico-deus",
+   "titulo": "Apegar-se a Deus e jurar por seu nome",
+   "tipo": "positivo",
+   "texto": "Achegar-se ao SENHOR, segui-lo e, quando jurar, jurar pelo seu nome (e não pelo de outros deuses).",
+   "refs": [
+    "deuteronomio 10:20"
+   ],
+   "paralelos": [
+    "deuteronomio 6:13",
+    "deuteronomio 13:4",
+    "deuteronomio 11:22",
+    "deuteronomio 30:20"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "nota": "O juramento em si é tratado no grupo \"votos\" (juramentos)."
+  },
+  {
+   "id": "a-andar-nos-caminhos",
+   "grupo": "deus-fe",
+   "subgrupo": "unico-deus",
+   "titulo": "Andar nos caminhos de Deus",
+   "tipo": "positivo",
+   "texto": "Andar em todos os caminhos do SENHOR, fazendo o que é reto e bom aos seus olhos.",
+   "refs": [
+    "deuteronomio 28:9"
+   ],
+   "paralelos": [
+    "deuteronomio 10:12",
+    "deuteronomio 11:22",
+    "deuteronomio 26:17",
+    "deuteronomio 30:16",
+    "deuteronomio 6:18"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "motivo": "Ser \"povo santo\" do SENHOR (Dt 28:9); \"sereis santos, porque eu sou santo\" (Lv 19:2).",
+   "fonte_extra": [
+    {
+     "fonte": "Talmude Babilônico",
+     "referencia": "Sotá 14a (imitar os atributos de Deus: vestir o nu, visitar o doente, consolar, sepultar)",
+     "data": "c. 500 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-santificar-o-nome",
+   "grupo": "deus-fe",
+   "subgrupo": "unico-deus",
+   "titulo": "Santificar o nome de Deus e não profaná-lo",
+   "tipo": "positivo",
+   "texto": "Não profanar o santo nome de Deus; ele deve ser santificado no meio dos filhos de Israel.",
+   "refs": [
+    "levitico 22:32"
+   ],
+   "paralelos": [
+    "levitico 18:21",
+    "levitico 19:12",
+    "levitico 20:3"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "motivo": "\"Eu sou o SENHOR que vos santifico, que vos tirei da terra do Egito.\"",
+   "nota": "A tradição judaica lê aqui dois mandamentos: santificar o Nome (inclusive até o martírio) e não profaná-lo.",
+   "fonte_extra": [
+    {
+     "fonte": "Talmude Babilônico",
+     "referencia": "Sanhedrin 74a (quando se deve morrer em vez de transgredir)",
+     "data": "c. 500 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-nao-tentar-a-deus",
+   "grupo": "deus-fe",
+   "subgrupo": "unico-deus",
+   "titulo": "Não tentar (pôr à prova) o SENHOR",
+   "tipo": "negativo",
+   "texto": "Não pôr Deus à prova, como Israel fez em Massá, exigindo sinais de que ele está presente.",
+   "refs": [
+    "deuteronomio 6:16"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "casos": [
+    {
+     "descricao": "Em Massá e Meribá o povo contendeu com Moisés por água e tentou o SENHOR, dizendo: \"Está o SENHOR no meio de nós, ou não?\"",
+     "refs": [
+      "exodo 17:7"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Jesus cita este verso ao recusar lançar-se do pináculo do templo.",
+     "refs": [
+      "mateus 4:7"
+     ]
+    }
+   ],
+   "rambam": "N 64"
+  },
+  {
+   "id": "a-nao-esquecer-o-senhor",
+   "grupo": "deus-fe",
+   "subgrupo": "unico-deus",
+   "titulo": "Não esquecer o SENHOR na fartura",
+   "tipo": "negativo",
+   "texto": "Quando comer e se fartar na terra boa, guardar-se de esquecer o SENHOR e de deixar de observar seus mandamentos.",
+   "refs": [
+    "deuteronomio 8:11"
+   ],
+   "paralelos": [
+    "deuteronomio 6:12",
+    "deuteronomio 4:9",
+    "deuteronomio 4:23"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "divina",
+    "descricao": "\"Certamente perecereis\" se, esquecendo-o, servirem outros deuses.",
+    "refs": [
+     "deuteronomio 8:19"
+    ]
+   }
+  },
+  {
+   "id": "a-bendizer-apos-comer",
+   "grupo": "deus-fe",
+   "subgrupo": "unico-deus",
+   "titulo": "Bendizer a Deus depois de comer",
+   "tipo": "positivo",
+   "texto": "\"E comerás e te fartarás, e bendirás ao SENHOR teu Deus pela boa terra que te haverá dado.\"",
+   "refs": [
+    "deuteronomio 8:10"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "rambam": "P 19",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Berakhot 7 (bênção comum após a refeição)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-nao-acrescentar-nem-tirar",
+   "grupo": "deus-fe",
+   "subgrupo": "unico-deus",
+   "titulo": "Não acrescentar nem tirar dos mandamentos",
+   "tipo": "negativo",
+   "texto": "Não acrescentar à palavra que Moisés ordena nem diminuir dela, mas guardar tudo o que foi mandado.",
+   "refs": [
+    "deuteronomio 4:2"
+   ],
+   "paralelos": [
+    "deuteronomio 12:32"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "associacoes": [
+    {
+     "texto": "Provérbios e o Apocalipse usam a mesma fórmula sobre as palavras de Deus.",
+     "refs": [
+      "proverbios 30:6",
+      "apocalipse 22:18-19"
+     ]
+    }
+   ],
+   "nota": "Na numeração hebraica, Dt 12:32 é Dt 13:1."
+  },
+  {
+   "id": "a-nao-ter-outros-deuses",
+   "grupo": "deus-fe",
+   "subgrupo": "idolatria",
+   "titulo": "Não ter outros deuses",
+   "tipo": "negativo",
+   "texto": "\"Não terás deuses alheios diante de mim.\" Não andar atrás dos deuses dos povos vizinhos.",
+   "refs": [
+    "exodo 20:3"
+   ],
+   "paralelos": [
+    "deuteronomio 5:7",
+    "deuteronomio 6:14",
+    "deuteronomio 11:16",
+    "exodo 34:14"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "divina",
+    "descricao": "Deus é \"zeloso\": o furor do SENHOR destruiria o povo da face da terra; ameaça de perecer e perder a terra.",
+    "refs": [
+     "deuteronomio 6:15",
+     "deuteronomio 8:19",
+     "deuteronomio 30:17-18"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Em Baal-Peor o povo comeu dos sacrifícios dos deuses de Moabe e se inclinou a eles; morreram 24 mil na praga, e os juízes mandaram matar os que aderiram.",
+     "refs": [
+      "numeros 25:1-9"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "\"Fugi da idolatria\"; \"guardai-vos dos ídolos\".",
+     "refs": [
+      "1-corintios 10:14",
+      "1-joao 5:21"
+     ]
+    }
+   ],
+   "rambam": "N 1"
+  },
+  {
+   "id": "a-nao-fazer-imagem",
+   "grupo": "deus-fe",
+   "subgrupo": "idolatria",
+   "titulo": "Não fazer imagem para culto",
+   "tipo": "negativo",
+   "texto": "Não fazer escultura nem semelhança de coisa no céu, na terra ou nas águas; Israel não viu forma alguma no Horebe, quando Deus falou do meio do fogo.",
+   "refs": [
+    "exodo 20:4"
+   ],
+   "paralelos": [
+    "deuteronomio 5:8",
+    "deuteronomio 4:15-18",
+    "deuteronomio 4:23",
+    "exodo 20:23",
+    "exodo 34:17",
+    "levitico 19:4",
+    "levitico 26:1"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "maldicao",
+    "descricao": "\"Maldito o homem que fizer escultura ou imagem de fundição... e a puser em oculto\"; o povo responde Amém.",
+    "refs": [
+     "deuteronomio 27:15"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "O bezerro de ouro: Arão fez um bezerro de fundição e proclamou festa; os levitas mataram cerca de três mil.",
+     "refs": [
+      "exodo 32:4-6",
+      "exodo 32:25-28"
+     ]
+    },
+    {
+     "descricao": "Jeroboão fez dois bezerros de ouro em Betel e Dã.",
+     "refs": [
+      "1-reis 12:28"
+     ]
+    },
+    {
+     "descricao": "Ezequias despedaçou a serpente de bronze de Moisés, porque lhe queimavam incenso.",
+     "refs": [
+      "2-reis 18:4"
+     ]
+    }
+   ],
+   "motivo": "\"Nenhuma forma vistes no dia que o SENHOR falou convosco\" (Dt 4:15).",
+   "rambam": "N 2",
+   "nota": "Igrejas leem diferente o alcance deste mandamento: católicos e ortodoxos o entendem como proibição de adorar imagens (não de toda imagem sacra); tradições reformadas tendem a uma leitura mais restritiva; o judaísmo também evita imagens no culto."
+  },
+  {
+   "id": "a-nao-se-curvar-a-idolos",
+   "grupo": "deus-fe",
+   "subgrupo": "idolatria",
+   "titulo": "Não se curvar a ídolos nem servi-los",
+   "tipo": "negativo",
+   "texto": "Não se inclinar diante de imagens nem lhes prestar culto, nem aos astros (sol, lua e exército do céu).",
+   "refs": [
+    "exodo 20:5"
+   ],
+   "paralelos": [
+    "deuteronomio 5:9",
+    "exodo 23:24",
+    "exodo 34:14",
+    "deuteronomio 4:19",
+    "deuteronomio 11:16"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "divina",
+    "descricao": "\"Visito a maldade dos pais sobre os filhos... aos que me aborrecem\"; misericórdia a milhares dos que o amam.",
+    "refs": [
+     "exodo 20:5-6"
+    ]
+   },
+   "rambam": "N 5"
+  },
+  {
+   "id": "a-idolatra-apedrejado",
+   "grupo": "deus-fe",
+   "subgrupo": "idolatria",
+   "titulo": "Quem serve a outros deuses deve ser julgado e morto",
+   "tipo": "negativo",
+   "texto": "Se homem ou mulher servir outros deuses ou adorar o sol, a lua ou os astros, o caso deve ser investigado; comprovado por duas ou três testemunhas, a pessoa é apedrejada às portas da cidade.",
+   "refs": [
+    "deuteronomio 17:2-7"
+   ],
+   "paralelos": [
+    "exodo 22:20"
+   ],
+   "quem": "todo Israel (homem ou mulher)",
+   "sancao": {
+    "tipo": "morte-apedrejamento",
+    "descricao": "Apedrejamento fora, às portas; as testemunhas lançam a primeira pedra, depois todo o povo; nunca pelo dito de uma só testemunha.",
+    "refs": [
+     "deuteronomio 17:5-7"
+    ]
+   },
+   "motivo": "\"Assim tirarás o mal do meio de ti.\"",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Sanhedrin 7:4 (lista dos crimes punidos com apedrejamento)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-nao-sacrificar-a-outros-deuses",
+   "grupo": "deus-fe",
+   "subgrupo": "idolatria",
+   "titulo": "Não sacrificar a outros deuses nem a demônios",
+   "tipo": "negativo",
+   "texto": "Quem oferecer sacrifício a deuses, exceto ao SENHOR, será morto; Israel não deve mais sacrificar \"aos demônios\" (literalmente, bodes/sátiros) no campo.",
+   "refs": [
+    "exodo 22:20"
+   ],
+   "paralelos": [
+    "levitico 17:7",
+    "exodo 34:15"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "\"Será morto\" (o hebraico fala em destruição total, \"anátema\").",
+    "refs": [
+     "exodo 22:20"
+    ]
+   }
+  },
+  {
+   "id": "a-nao-mencionar-outros-deuses",
+   "grupo": "deus-fe",
+   "subgrupo": "idolatria",
+   "titulo": "Não invocar nem jurar pelo nome de outros deuses",
+   "tipo": "negativo",
+   "texto": "\"Nome de outros deuses não mencionareis, nem se ouvirá de vossa boca.\"",
+   "refs": [
+    "exodo 23:13"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "associacoes": [
+    {
+     "texto": "Josué repete a advertência: não fazer menção nem jurar pelo nome dos deuses das nações.",
+     "refs": [
+      "josue 23:7"
+     ]
+    }
+   ],
+   "nota": "A tradição judaica lê aqui a proibição de jurar por um ídolo e de incitar outros a servi-lo."
+  },
+  {
+   "id": "a-nao-erguer-coluna-asera",
+   "grupo": "deus-fe",
+   "subgrupo": "idolatria",
+   "titulo": "Não erguer coluna sagrada, aserá nem pedra pintada",
+   "tipo": "negativo",
+   "texto": "Não plantar árvore que sirva de aserá (mastro de culto) junto ao altar do SENHOR, não levantar coluna sagrada de pedra e não pôr na terra pedra figurada para se inclinar a ela.",
+   "refs": [
+    "deuteronomio 16:21-22"
+   ],
+   "paralelos": [
+    "levitico 26:1"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "motivo": "Coluna \"a qual o SENHOR, teu Deus, odeia\".",
+   "nota": "Antes da lei, os patriarcas ergueram colunas memoriais (Gn 28:18); a proibição visa colunas de culto cananeu."
+  },
+  {
+   "id": "a-destruir-idolos",
+   "grupo": "deus-fe",
+   "subgrupo": "idolatria",
+   "titulo": "Destruir altares e imagens dos ídolos na terra",
+   "tipo": "positivo",
+   "texto": "Ao entrar na terra, derrubar os altares, quebrar as colunas, cortar as aserás e queimar as imagens das nações, apagando o nome dos ídolos daqueles lugares.",
+   "refs": [
+    "deuteronomio 12:2-3"
+   ],
+   "paralelos": [
+    "deuteronomio 7:5",
+    "exodo 23:24",
+    "exodo 34:13",
+    "numeros 33:52"
+   ],
+   "quem": "todo Israel",
+   "condicao": "Na terra de Canaã, quanto aos cultos das sete nações.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "casos": [
+    {
+     "descricao": "Josias profanou Tofete e expulsou necromantes e ídolos, cumprindo o livro achado no templo.",
+     "refs": [
+      "2-reis 23:10",
+      "2-reis 23:24"
+     ]
+    }
+   ],
+   "nota": "Leis sobre alianças e guerra com os cananeus estão no grupo \"tribunais-governo\"."
+  },
+  {
+   "id": "a-nao-destruir-o-que-e-de-deus",
+   "grupo": "deus-fe",
+   "subgrupo": "idolatria",
+   "titulo": "Não tratar as coisas do SENHOR como as dos ídolos",
+   "tipo": "negativo",
+   "texto": "Depois de mandar apagar o nome dos ídolos, a lei diz: \"Não fareis assim ao SENHOR vosso Deus\" — não destruir seu altar nem apagar seu nome.",
+   "refs": [
+    "deuteronomio 12:4"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "rambam": "N 65",
+   "nota": "A leitura \"não apagar o nome de Deus\" é a da tradição judaica (por isso textos com o Nome não são destruídos)."
+  },
+  {
+   "id": "a-nao-aproveitar-ouro-de-idolos",
+   "grupo": "deus-fe",
+   "subgrupo": "idolatria",
+   "titulo": "Não cobiçar nem levar para casa o ouro dos ídolos",
+   "tipo": "negativo",
+   "texto": "Queimar as esculturas dos deuses; não cobiçar a prata e o ouro que as cobrem nem levar a \"abominação\" para casa, para não se tornar anátema como ela.",
+   "refs": [
+    "deuteronomio 7:25-26"
+   ],
+   "paralelos": [
+    "deuteronomio 13:17"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "divina",
+    "descricao": "Quem traz o objeto se torna \"anátema como isso\".",
+    "refs": [
+     "deuteronomio 7:26"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Acã tomou do anátema de Jericó; foi apedrejado com sua família.",
+     "refs": [
+      "josue 7:1",
+      "josue 7:25"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a-nao-imitar-culto-das-nacoes",
+   "grupo": "deus-fe",
+   "subgrupo": "idolatria",
+   "titulo": "Não imitar o culto das nações",
+   "tipo": "negativo",
+   "texto": "Não indagar como as nações serviam a seus deuses para fazer o mesmo ao SENHOR, porque elas faziam o que ele abomina, até queimar os filhos.",
+   "refs": [
+    "deuteronomio 12:30-31"
+   ],
+   "paralelos": [
+    "deuteronomio 18:9",
+    "levitico 20:23",
+    "levitico 18:3",
+    "levitico 18:24-30"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "associacoes": [
+    {
+     "texto": "\"Não aprendais o caminho das nações.\"",
+     "refs": [
+      "jeremias 10:2"
+     ]
+    }
+   ],
+   "rambam": "N 30"
+  },
+  {
+   "id": "a-nao-dar-filho-a-moloque",
+   "grupo": "deus-fe",
+   "subgrupo": "idolatria",
+   "titulo": "Não oferecer filhos a Moloque",
+   "tipo": "negativo",
+   "texto": "Não fazer passar filho ou filha pelo fogo a Moloque; isso contamina o santuário e profana o nome de Deus.",
+   "refs": [
+    "levitico 18:21"
+   ],
+   "paralelos": [
+    "levitico 20:2-5",
+    "deuteronomio 12:31",
+    "deuteronomio 18:10"
+   ],
+   "quem": "todo Israel e estrangeiro residente",
+   "sancao": {
+    "tipo": "morte-apedrejamento",
+    "descricao": "\"O povo da terra o apedrejará\"; se o povo fechar os olhos, Deus mesmo eliminará o homem e sua família (extirpação).",
+    "refs": [
+     "levitico 20:2-5"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Salomão construiu um alto a Moloque; Manassés passou o filho pelo fogo; Josias profanou Tofete.",
+     "refs": [
+      "1-reis 11:7",
+      "2-reis 21:6",
+      "2-reis 23:10"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Jeremias: queimar filhos em Tofete é \"o que eu nunca mandei, nem pensei em meu coração\".",
+     "refs": [
+      "jeremias 7:31"
+     ]
+    }
+   ],
+   "rambam": "N 7"
+  },
+  {
+   "id": "a-seguir-coracao-e-olhos",
+   "grupo": "deus-fe",
+   "subgrupo": "idolatria",
+   "titulo": "Não seguir o próprio coração e os olhos para se desviar",
+   "tipo": "negativo",
+   "texto": "As franjas servem para lembrar os mandamentos, \"e não olheis segundo vosso coração e vossos olhos, atrás dos quais prostituís\".",
+   "refs": [
+    "numeros 15:39"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "rambam": "N 47"
+  },
+  {
+   "id": "a-nao-casar-com-cananeus",
+   "grupo": "deus-fe",
+   "subgrupo": "idolatria",
+   "titulo": "Não fazer casamentos com os povos de Canaã",
+   "tipo": "negativo",
+   "texto": "Não dar as filhas aos filhos dos povos da terra nem tomar suas filhas para os filhos, porque desviariam Israel para outros deuses.",
+   "refs": [
+    "deuteronomio 7:3-4"
+   ],
+   "paralelos": [
+    "exodo 34:16"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "divina",
+    "descricao": "\"O furor do SENHOR se acenderá sobre vós, e te destruirá logo.\"",
+    "refs": [
+     "deuteronomio 7:4"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "As mulheres estrangeiras de Salomão desviaram seu coração para outros deuses.",
+     "refs": [
+      "1-reis 11:1-4"
+     ]
+    },
+    {
+     "descricao": "Esdras e Neemias enfrentaram os casamentos com povos vizinhos após o exílio.",
+     "refs": [
+      "esdras 9:1-2",
+      "neemias 13:23-26"
+     ]
+    }
+   ],
+   "motivo": "\"Porque desviará a teu filho de me seguir, e servirão a deuses alheios\" (Dt 7:4).",
+   "nota": "O motivo dado é religioso (idolatria), não étnico: Rute, a moabita, e Raabe são integradas a Israel. As uniões proibidas por parentesco estão no grupo \"familia-sexualidade\"."
+  },
+  {
+   "id": "a-profeta-de-outros-deuses",
+   "grupo": "deus-fe",
+   "subgrupo": "falsos-profetas",
+   "titulo": "Não ouvir profeta que chama a outros deuses, mesmo com sinais",
+   "tipo": "negativo",
+   "texto": "Se profeta ou sonhador der sinal que se cumpre, mas convidar a seguir outros deuses, não se deve ouvi-lo: Deus está provando se Israel o ama. O profeta deve morrer.",
+   "refs": [
+    "deuteronomio 13:1-5"
+   ],
+   "paralelos": [
+    "deuteronomio 18:20"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "\"O tal profeta ou sonhador de sonhos será morto.\"",
+    "refs": [
+     "deuteronomio 13:5"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Elias mandou prender e matar os profetas de Baal junto ao ribeiro de Quisom.",
+     "refs": [
+      "1-reis 18:40"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Jesus adverte contra falsos profetas que farão grandes sinais; João manda provar os espíritos.",
+     "refs": [
+      "mateus 24:24",
+      "mateus 7:15",
+      "1-joao 4:1"
+     ]
+    }
+   ],
+   "motivo": "\"O SENHOR vosso Deus vos prova, para saber se amais ao SENHOR\" (Dt 13:3).",
+   "nota": "Na numeração hebraica, Dt 13:1-5 é 13:2-6."
+  },
+  {
+   "id": "a-profeta-presuncoso",
+   "grupo": "deus-fe",
+   "subgrupo": "falsos-profetas",
+   "titulo": "O profeta que fala sem ter sido enviado",
+   "tipo": "negativo",
+   "texto": "O profeta que presumir falar em nome do SENHOR o que ele não mandou, ou falar em nome de outros deuses, morrerá. Sinal: se o que anunciou não acontece, a palavra não veio do SENHOR, e não se deve temer esse profeta.",
+   "refs": [
+    "deuteronomio 18:20-22"
+   ],
+   "quem": "profetas",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "\"O tal profeta morrerá\" (o texto não diz se por tribunal ou por Deus).",
+    "refs": [
+     "deuteronomio 18:20"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Jeremias anuncia a Hananias, que profetizava paz sem ter sido enviado, que morreria naquele ano; ele morreu no sétimo mês.",
+     "refs": [
+      "jeremias 28:15-17"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Os profetas denunciam os que profetizam \"falsidade em meu nome\".",
+     "refs": [
+      "jeremias 14:14"
+     ]
+    }
+   ],
+   "nota": "A promessa de um profeta \"como Moisés\" e o dever de ouvi-lo (Dt 18:15-19) estão no grupo \"tribunais-governo\". O NT lê Dt 18:15 como cumprido em Jesus (At 3:22).",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Sanhedrin 11:1 e 11:5 (o falso profeta, morte por estrangulamento — tradição posterior)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-incitador-a-idolatria",
+   "grupo": "deus-fe",
+   "subgrupo": "falsos-profetas",
+   "titulo": "Não poupar quem incita em segredo à idolatria",
+   "tipo": "negativo",
+   "texto": "Se até um irmão, filho, esposa ou amigo íntimo convidar em segredo a servir outros deuses, não consentir, não ouvir, não ter compaixão nem encobrir; denunciá-lo, para que seja apedrejado.",
+   "refs": [
+    "deuteronomio 13:6-11"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "morte-apedrejamento",
+    "descricao": "Apedrejamento; \"tua mão será primeira sobre ele\", depois a de todo o povo.",
+    "refs": [
+     "deuteronomio 13:9-10"
+    ]
+   },
+   "motivo": "\"Para que todo Israel ouça, e tema\" (Dt 13:11).",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Sanhedrin 7:10 (o mesit, incitador)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-cidade-apostata",
+   "grupo": "deus-fe",
+   "subgrupo": "falsos-profetas",
+   "titulo": "A cidade que se desvia para a idolatria",
+   "tipo": "negativo",
+   "texto": "Se homens perversos levarem uma cidade inteira a servir outros deuses, investigar com cuidado; se for verdade, destruir a cidade como anátema, queimar o despojo e não reconstruí-la; nada do anátema pode ficar na mão.",
+   "refs": [
+    "deuteronomio 13:12-18"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "Moradores mortos à espada, cidade queimada como anátema e nunca reedificada.",
+    "refs": [
+     "deuteronomio 13:15-16"
+    ]
+   },
+   "fonte_extra": [
+    {
+     "fonte": "Talmude Babilônico",
+     "referencia": "Sanhedrin 71a (opinião de que a cidade apóstata \"nunca existiu e nunca existirá\")",
+     "data": "c. 500 d.C."
+    },
+    {
+     "fonte": "Mixná",
+     "referencia": "Sanhedrin 10:4-6",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-nao-adivinhar",
+   "grupo": "deus-fe",
+   "subgrupo": "ocultismo",
+   "titulo": "Não praticar adivinhação, agouro nem feitiçaria",
+   "tipo": "negativo",
+   "texto": "Não haja em Israel quem pratique adivinhação, agouro, interpretação de presságios, feitiçaria, encantamentos ou magia; quem faz isso é abominação ao SENHOR.",
+   "refs": [
+    "deuteronomio 18:10-12"
+   ],
+   "paralelos": [
+    "levitico 19:26",
+    "deuteronomio 18:14"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Nenhuma pena humana fixada para todas as formas; para a feiticeira e o médium, ver os itens próprios."
+   },
+   "casos": [
+    {
+     "descricao": "Manassés praticou agouros e instituiu necromantes e adivinhos.",
+     "refs": [
+      "2-reis 21:6"
+     ]
+    },
+    {
+     "descricao": "Em Éfeso, os que praticavam ocultismo queimaram seus livros.",
+     "refs": [
+      "atos 19:19"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Paulo lista a feitiçaria entre as obras da carne; Simão e Elimas são magos confrontados em Atos.",
+     "refs": [
+      "galatas 5:20",
+      "atos 8:9",
+      "atos 13:8"
+     ]
+    }
+   ],
+   "motivo": "Por essas abominações as nações foram expulsas; \"serás íntegro com o SENHOR teu Deus\" (Dt 18:12-13).",
+   "nota": "Os termos hebraicos (qosem, me'onen, menahesh, mekhashef, hover haver) são traduzidos de modos diferentes nas bíblias; a tradição judaica conta cada um como mandamento separado."
+  },
+  {
+   "id": "a-nao-consultar-mortos",
+   "grupo": "deus-fe",
+   "subgrupo": "ocultismo",
+   "titulo": "Não consultar médiuns nem os mortos",
+   "tipo": "negativo",
+   "texto": "Não se voltar aos que consultam espíritos ou os mortos, nem se contaminar com eles.",
+   "refs": [
+    "levitico 19:31"
+   ],
+   "paralelos": [
+    "levitico 20:6",
+    "deuteronomio 18:11"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "extirpacao",
+    "descricao": "\"Eu porei o meu rosto contra aquela pessoa, e a eliminarei do meio do seu povo.\"",
+    "refs": [
+     "levitico 20:6"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Saul, que havia expulsado os médiuns, consultou a necromante de En-Dor; o Cronista diz que ele morreu também por ter buscado a médium.",
+     "refs": [
+      "1-samuel 28:3",
+      "1-samuel 28:7",
+      "1-cronicas 10:13"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Isaías: \"Por acaso não deveria o povo consultar ao seu Deus?\"",
+     "refs": [
+      "isaias 8:19"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a-medium-morto",
+   "grupo": "deus-fe",
+   "subgrupo": "ocultismo",
+   "titulo": "O médium ou adivinho deve ser morto",
+   "tipo": "negativo",
+   "texto": "Homem ou mulher em que houver espírito de médium ou de adivinhação deve ser apedrejado.",
+   "refs": [
+    "levitico 20:27"
+   ],
+   "quem": "homens e mulheres",
+   "sancao": {
+    "tipo": "morte-apedrejamento",
+    "descricao": "\"Os apedrejarão com pedras; seu próprio sangue será sobre eles.\"",
+    "refs": [
+     "levitico 20:27"
+    ]
+   },
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Sanhedrin 7:4 e 7:7 (ov e yidoni entre os apedrejados)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-feiticeira-nao-vivera",
+   "grupo": "deus-fe",
+   "subgrupo": "ocultismo",
+   "titulo": "Não deixar viver a feiticeira",
+   "tipo": "negativo",
+   "texto": "\"À feiticeira não deixarás que viva.\"",
+   "refs": [
+    "exodo 22:18"
+   ],
+   "quem": "juízes / comunidade",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "Pena de morte, sem método especificado no texto.",
+    "refs": [
+     "exodo 22:18"
+    ]
+   },
+   "nota": "O texto usa o feminino; a tradição judaica aplica a lei a homens e mulheres. Usos históricos deste verso (como as caças às bruxas na Europa) não fazem parte do texto bíblico.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Sanhedrin 7:11 (o feiticeiro que realmente pratica o ato)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-nao-cortar-se-por-morto",
+   "grupo": "deus-fe",
+   "subgrupo": "costumes-pagaos",
+   "titulo": "Não fazer cortes na pele nem tatuagens por um morto",
+   "tipo": "negativo",
+   "texto": "Não fazer incisões no corpo por um morto nem imprimir marcas (tatuagens) na pele.",
+   "refs": [
+    "levitico 19:28"
+   ],
+   "paralelos": [
+    "deuteronomio 14:1"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "associacoes": [
+    {
+     "texto": "Os profetas de Baal se cortavam com espadas e lancetas segundo seu costume.",
+     "refs": [
+      "1-reis 18:28"
+     ]
+    }
+   ],
+   "motivo": "\"Filhos sois do SENHOR vosso Deus... povo santo\" (Dt 14:1-2).",
+   "rambam": "N 41",
+   "nota": "Para sacerdotes há regra própria (Lv 21:5, grupo \"santuario-sacerdocio\"). Igrejas e comunidades divergem sobre se a proibição de tatuagens vale hoje fora do contexto de luto pagão."
+  },
+  {
+   "id": "a-nao-rapar-cabeca-barba",
+   "grupo": "deus-fe",
+   "subgrupo": "costumes-pagaos",
+   "titulo": "Não rapar em redondo a cabeça nem danificar a barba",
+   "tipo": "negativo",
+   "texto": "Não cortar em redondo as extremidades da cabeça, não danificar as pontas da barba e não fazer calva entre os olhos por um morto.",
+   "refs": [
+    "levitico 19:27"
+   ],
+   "paralelos": [
+    "deuteronomio 14:1"
+   ],
+   "quem": "homens (todo Israel)",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "nota": "A tradição judaica entende \"extremidades da cabeça\" como as têmporas (origem dos peot); detalhe de tradição posterior.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Makot 3:5 (cantos da cabeça e da barba)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-nao-trocar-roupas-de-sexo",
+   "grupo": "deus-fe",
+   "subgrupo": "costumes-pagaos",
+   "titulo": "Não usar roupa do outro sexo",
+   "tipo": "negativo",
+   "texto": "A mulher não vestirá roupa de homem nem o homem roupa de mulher; quem o faz é abominação ao SENHOR.",
+   "refs": [
+    "deuteronomio 22:5"
+   ],
+   "quem": "homens e mulheres",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "nota": "O texto não explica o motivo. Maimônides a classifica entre as leis contra práticas idólatras; outros a leem como lei de distinção entre os sexos. O que conta como \"roupa de homem\" varia entre culturas e igrejas."
+  },
+  {
+   "id": "a-nao-tomar-nome-em-vao",
+   "grupo": "deus-fe",
+   "subgrupo": "blasfemia",
+   "titulo": "Não tomar o nome do SENHOR em vão",
+   "tipo": "negativo",
+   "texto": "Não usar o nome de Deus de modo vão ou falso.",
+   "refs": [
+    "exodo 20:7"
+   ],
+   "paralelos": [
+    "deuteronomio 5:11",
+    "levitico 19:12"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "divina",
+    "descricao": "\"Não dará por inocente o SENHOR ao que tomar seu nome em vão.\"",
+    "refs": [
+     "exodo 20:7"
+    ]
+   },
+   "nota": "A tradição judaica liga este mandamento sobretudo ao juramento inútil ou falso (ver grupo \"votos\"); muitos cristãos o aplicam também ao uso leviano do nome divino."
+  },
+  {
+   "id": "a-nao-blasfemar",
+   "grupo": "deus-fe",
+   "subgrupo": "blasfemia",
+   "titulo": "Não amaldiçoar a Deus nem blasfemar o Nome",
+   "tipo": "negativo",
+   "texto": "Quem amaldiçoar o seu Deus levará sua culpa; quem blasfemar o nome do SENHOR será morto — tanto o estrangeiro como o natural.",
+   "refs": [
+    "levitico 24:15-16"
+   ],
+   "paralelos": [
+    "exodo 22:28"
+   ],
+   "quem": "todo Israel e estrangeiro residente",
+   "sancao": {
+    "tipo": "morte-apedrejamento",
+    "descricao": "Toda a congregação apedreja o blasfemo fora do acampamento; os que ouviram põem as mãos sobre a cabeça dele.",
+    "refs": [
+     "levitico 24:14",
+     "levitico 24:16"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "O filho de Selomite e de um egípcio pronunciou o Nome e amaldiçoou numa briga; ficou preso até Deus decidir, e foi apedrejado.",
+     "refs": [
+      "levitico 24:10-14",
+      "levitico 24:23"
+     ]
+    },
+    {
+     "descricao": "Nabote foi condenado por falsas testemunhas que o acusaram de blasfemar contra Deus e o rei.",
+     "refs": [
+      "1-reis 21:13"
+     ]
+    },
+    {
+     "descricao": "O sumo sacerdote declarou blasfêmia a resposta de Jesus, e o conselho o julgou réu de morte.",
+     "refs": [
+      "marcos 14:61-64"
+     ]
+    },
+    {
+     "descricao": "Estêvão, acusado por testemunhas subornadas de falar blasfêmias, foi apedrejado.",
+     "refs": [
+      "atos 6:11",
+      "atos 7:58"
+     ]
+    }
+   ],
+   "rambam": "N 60",
+   "nota": "Em Êx 22:28 o hebraico elohim, traduzido aqui por \"juízes\", também pode significar \"Deus\"; a tradição judaica lê ali a proibição de amaldiçoar a Deus.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Sanhedrin 7:5 (só é culpado quem pronuncia o Nome)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-pecado-mao-levantada",
+   "grupo": "deus-fe",
+   "subgrupo": "blasfemia",
+   "titulo": "O pecado \"de mão soberba\"",
+   "tipo": "negativo",
+   "texto": "Quem transgride deliberadamente, \"com mão levantada\", despreza a palavra do SENHOR e o blasfema; não há para isso a oferta prevista para o erro involuntário.",
+   "refs": [
+    "numeros 15:30-31"
+   ],
+   "quem": "natural e estrangeiro",
+   "sancao": {
+    "tipo": "extirpacao",
+    "descricao": "\"Inteiramente será eliminada a tal pessoa: sua iniquidade será sobre ela.\"",
+    "refs": [
+     "numeros 15:30-31"
+    ]
+   },
+   "nota": "Contrasta com as ofertas pelo pecado por erro (Nm 15:22-29), tratadas no grupo \"santuario-sacerdocio\"."
+  },
+  {
+   "id": "a-palavras-no-coracao",
+   "grupo": "deus-fe",
+   "subgrupo": "estudo-sinais",
+   "titulo": "Guardar as palavras no coração e falar delas",
+   "tipo": "positivo",
+   "texto": "As palavras ordenadas devem estar no coração, e deve-se falar delas em casa e no caminho, ao deitar e ao levantar.",
+   "refs": [
+    "deuteronomio 6:6-7"
+   ],
+   "paralelos": [
+    "deuteronomio 11:18-19"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "associacoes": [
+    {
+     "texto": "\"O livro desta lei nunca se apartará de tua boca\"; o justo medita na lei dia e noite.",
+     "refs": [
+      "josue 1:8",
+      "salmos 1:2"
+     ]
+    }
+   ],
+   "rambam": "P 10",
+   "nota": "\"Ao deitar e ao levantar\" é a base da recitação do Shemá à noite e de manhã na tradição judaica.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Berakhot 1:1-3",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-ensinar-aos-filhos",
+   "grupo": "deus-fe",
+   "subgrupo": "estudo-sinais",
+   "titulo": "Ensinar a lei aos filhos e estudá-la",
+   "tipo": "positivo",
+   "texto": "Ensinar os mandamentos aos filhos e aos netos, não esquecendo o que se viu no Horebe, e responder quando o filho perguntar o que significam.",
+   "refs": [
+    "deuteronomio 6:7"
+   ],
+   "paralelos": [
+    "deuteronomio 4:9-10",
+    "deuteronomio 11:19",
+    "deuteronomio 6:20-25"
+   ],
+   "quem": "pais; todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "motivo": "\"Para que aprendam a me temer todos os dias que viverem sobre a terra\" (Dt 4:10).",
+   "rambam": "P 11"
+  },
+  {
+   "id": "a-tefilin-mao",
+   "grupo": "deus-fe",
+   "subgrupo": "estudo-sinais",
+   "titulo": "Atar as palavras como sinal na mão (tefilin)",
+   "tipo": "positivo",
+   "texto": "Atar \"estas palavras\" por sinal na mão.",
+   "refs": [
+    "deuteronomio 6:8"
+   ],
+   "paralelos": [
+    "deuteronomio 11:18",
+    "exodo 13:9",
+    "exodo 13:16"
+   ],
+   "quem": "todo Israel (na prática judaica, os homens)",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "associacoes": [
+    {
+     "texto": "Jesus critica quem alarga os filactérios para ser visto.",
+     "refs": [
+      "mateus 23:5"
+     ]
+    }
+   ],
+   "rambam": "P 13",
+   "nota": "Muitos intérpretes cristãos leem estes versos de modo figurado (ter a lei sempre presente); o judaísmo rabínico os cumpre literalmente com caixinhas de couro.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Menahot 3:7 (quatro trechos nos tefilin, dois na mezuzá)",
+     "data": "c. 200 d.C."
+    },
+    {
+     "fonte": "Manuscritos do mar Morto",
+     "referencia": "filactérios achados nas grutas de Qumran",
+     "data": "aprox. séc. I a.C.–séc. I d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-tefilin-cabeca",
+   "grupo": "deus-fe",
+   "subgrupo": "estudo-sinais",
+   "titulo": "Pôr as palavras como frontais entre os olhos",
+   "tipo": "positivo",
+   "texto": "As palavras \"estarão por frontais entre teus olhos\".",
+   "refs": [
+    "deuteronomio 6:8"
+   ],
+   "paralelos": [
+    "deuteronomio 11:18",
+    "exodo 13:9",
+    "exodo 13:16"
+   ],
+   "quem": "todo Israel (na prática judaica, os homens)",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "rambam": "P 12",
+   "nota": "Ver o item anterior: leitura literal (judaica) ou figurada."
+  },
+  {
+   "id": "a-mezuza",
+   "grupo": "deus-fe",
+   "subgrupo": "estudo-sinais",
+   "titulo": "Escrever as palavras nos umbrais da casa (mezuzá)",
+   "tipo": "positivo",
+   "texto": "Escrever as palavras nos umbrais (batentes) da casa e nas portas.",
+   "refs": [
+    "deuteronomio 6:9"
+   ],
+   "paralelos": [
+    "deuteronomio 11:20"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "motivo": "\"Para que sejam aumentados vossos dias... sobre a terra\" (Dt 11:21).",
+   "rambam": "P 15",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Menahot 3:7",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-franjas-tsitsit",
+   "grupo": "deus-fe",
+   "subgrupo": "estudo-sinais",
+   "titulo": "Fazer franjas nas pontas das roupas (tsitsit)",
+   "tipo": "positivo",
+   "texto": "Fazer franjas nos cantos das roupas, com um cordão azul em cada uma, nos quatro cantos do manto; ao vê-las, lembrar e cumprir todos os mandamentos.",
+   "refs": [
+    "numeros 15:38-40"
+   ],
+   "paralelos": [
+    "deuteronomio 22:12"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "associacoes": [
+    {
+     "texto": "A mulher doente toca a \"borda\" (franja) da roupa de Jesus; Jesus critica quem alonga as franjas para ser visto.",
+     "refs": [
+      "mateus 9:20",
+      "mateus 14:36",
+      "mateus 23:5"
+     ]
+    }
+   ],
+   "motivo": "\"Para que vos lembreis, e façais todos meus mandamentos, e sejais santos\" (Nm 15:40).",
+   "rambam": "P 14",
+   "nota": "O corante azul (tekhelet) vinha de um molusco marinho; sua identificação se perdeu e é discutida hoje.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Menahot 4:1 (fios azuis e brancos)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-ler-a-lei-ao-povo",
+   "grupo": "deus-fe",
+   "subgrupo": "estudo-sinais",
+   "titulo": "Ler a lei ao povo reunido a cada sete anos",
+   "tipo": "positivo",
+   "texto": "Ao fim de cada sete anos, no ano da remissão, na festa das Cabanas, ler esta lei diante de todo Israel — homens, mulheres, crianças e estrangeiros — para que ouçam, aprendam e temam.",
+   "refs": [
+    "deuteronomio 31:10-13"
+   ],
+   "quem": "todo Israel (leitura feita por líderes)",
+   "condicao": "Com o santuário: quando todo Israel vem ao lugar escolhido.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "casos": [
+    {
+     "descricao": "Esdras leu a lei ao povo no primeiro dia do sétimo mês e durante toda a festa das Cabanas.",
+     "refs": [
+      "neemias 8:2",
+      "neemias 8:18"
+     ]
+    }
+   ],
+   "rambam": "P 16",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Sotá 7:8 (a leitura do rei, chamada hakhel)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-circuncidar-oitavo-dia",
+   "grupo": "deus-fe",
+   "subgrupo": "circuncisao",
+   "titulo": "Circuncidar todo menino no oitavo dia",
+   "tipo": "positivo",
+   "texto": "Todo macho deve ser circuncidado aos oito dias, inclusive os servos nascidos em casa ou comprados; é o sinal da aliança com Abraão.",
+   "refs": [
+    "genesis 17:10-13"
+   ],
+   "paralelos": [
+    "levitico 12:3",
+    "exodo 12:44",
+    "exodo 12:48"
+   ],
+   "quem": "pais (todo menino de Israel e servos da casa)",
+   "sancao": {
+    "tipo": "extirpacao",
+    "descricao": "\"O macho incircunciso... será exterminado de seu povo; violou meu pacto.\"",
+    "refs": [
+     "genesis 17:14"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "No caminho para o Egito, Zípora circuncidou o filho de Moisés.",
+     "refs": [
+      "exodo 4:24-26"
+     ]
+    },
+    {
+     "descricao": "Josué circuncidou a geração nascida no deserto antes da Páscoa em Gilgal.",
+     "refs": [
+      "josue 5:2-3",
+      "josue 5:10"
+     ]
+    },
+    {
+     "descricao": "Jesus foi circuncidado ao oitavo dia; Paulo também.",
+     "refs": [
+      "lucas 2:21",
+      "filipenses 3:5"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Moisés e os profetas falam de circuncidar o coração.",
+     "refs": [
+      "deuteronomio 10:16",
+      "deuteronomio 30:6",
+      "jeremias 4:4"
+     ]
+    },
+    {
+     "texto": "Jesus lembra que se circuncida até no sábado.",
+     "refs": [
+      "joao 7:22-23"
+     ]
+    },
+    {
+     "texto": "O concílio de Jerusalém não exigiu a circuncisão dos gentios; Paulo ensina que em Cristo o que vale é a fé que age pelo amor e a circuncisão do coração.",
+     "refs": [
+      "atos 15:1",
+      "atos 15:28-29",
+      "galatas 5:6",
+      "romanos 2:28-29",
+      "1-corintios 7:19",
+      "colossenses 2:11"
+     ]
+    }
+   ],
+   "motivo": "\"Será por sinal do pacto entre mim e vós\" (Gn 17:11).",
+   "rambam": "P 215",
+   "nota": "Para o judaísmo a lei continua em vigor; para as igrejas cristãs ela não é exigida dos cristãos, com leituras diferentes sobre seu sentido (algumas veem o batismo como correspondente).",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Shabat 19 (circuncisão no oitavo dia mesmo no sábado)",
+     "data": "c. 200 d.C."
+    },
+    {
+     "fonte": "Heródoto",
+     "referencia": "Histórias 2.104 (circuncisão entre egípcios e outros povos)",
+     "data": "c. 430 a.C."
+    }
+   ]
+  },
+  {
+   "id": "a-lembrar-santificar-sabado",
+   "grupo": "sabado-festas",
+   "subgrupo": "sabado",
+   "titulo": "Lembrar-se do sábado para santificá-lo",
+   "tipo": "positivo",
+   "texto": "Lembrar e guardar o dia de repouso, separando-o como santo ao SENHOR; o sábado é sinal perpétuo entre Deus e Israel.",
+   "refs": [
+    "exodo 20:8"
+   ],
+   "paralelos": [
+    "deuteronomio 5:12",
+    "exodo 31:13",
+    "exodo 31:16-17",
+    "levitico 19:3",
+    "levitico 19:30",
+    "levitico 26:2"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "associacoes": [
+    {
+     "texto": "Isaías chama o sábado de \"agradável\" e promete bênção a quem o honra; Ezequiel o chama de sinal.",
+     "refs": [
+      "isaias 58:13",
+      "ezequiel 20:12"
+     ]
+    },
+    {
+     "texto": "Jesus ia à sinagoga no sábado, \"conforme o seu costume\".",
+     "refs": [
+      "lucas 4:16"
+     ]
+    },
+    {
+     "texto": "Hebreus fala de \"um repouso como o do sábado\" que resta ao povo de Deus.",
+     "refs": [
+      "hebreus 4:9-10"
+     ]
+    }
+   ],
+   "motivo": "Em seis dias Deus fez o céu e a terra e repousou no sétimo (Êx 20:11); Deuteronômio acrescenta: \"lembra-te que foste servo em terra do Egito\" (Dt 5:15).",
+   "rambam": "P 155",
+   "nota": "Igrejas e tradições leem diferente a validade atual: o judaísmo e cristãos sabatistas guardam o sétimo dia; a maioria das igrejas cristãs celebra o domingo (dia da ressurreição) como dia do Senhor, com visões distintas sobre a ligação com este mandamento.",
+   "fonte_extra": [
+    {
+     "fonte": "Talmude Babilônico",
+     "referencia": "Pesahim 106a (santificar o sábado com palavras: o kidush)",
+     "data": "c. 500 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-descansar-no-sabado",
+   "grupo": "sabado-festas",
+   "subgrupo": "sabado",
+   "titulo": "Descansar no sétimo dia, com a casa, os servos e os animais",
+   "tipo": "positivo",
+   "texto": "Trabalhar seis dias e descansar no sétimo, para que descansem também o boi, o jumento, o filho da serva e o estrangeiro.",
+   "refs": [
+    "exodo 23:12"
+   ],
+   "paralelos": [
+    "exodo 34:21",
+    "deuteronomio 5:14",
+    "exodo 20:9-10"
+   ],
+   "quem": "todo Israel, inclusive servos, estrangeiro residente e animais",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "associacoes": [
+    {
+     "texto": "\"O sábado foi feito por causa do ser humano, não o ser humano por causa do sábado.\"",
+     "refs": [
+      "marcos 2:27-28"
+     ]
+    }
+   ],
+   "motivo": "\"A fim que descanse teu boi e teu asno, e tome refrigério o filho de tua serva, e o estrangeiro\".",
+   "rambam": "P 154"
+  },
+  {
+   "id": "a-nao-trabalhar-no-sabado",
+   "grupo": "sabado-festas",
+   "subgrupo": "sabado",
+   "titulo": "Não fazer trabalho algum no sábado",
+   "tipo": "negativo",
+   "texto": "No sétimo dia não fazer obra alguma — nem o chefe da casa, nem filhos, servos, animais ou o estrangeiro da cidade —, nem mesmo na época de arar e de colher.",
+   "refs": [
+    "exodo 20:10"
+   ],
+   "paralelos": [
+    "deuteronomio 5:14",
+    "exodo 31:14-15",
+    "exodo 34:21",
+    "exodo 35:2",
+    "levitico 23:3"
+   ],
+   "quem": "todo Israel e estrangeiro residente",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "\"O que o profanar, certamente morrerá\"; \"aquela alma será cortada\"; no caso narrado, por apedrejamento.",
+    "refs": [
+     "exodo 31:14-15",
+     "exodo 35:2",
+     "numeros 15:35"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Um homem que recolhia lenha no sábado ficou detido até a decisão divina e foi apedrejado fora do acampamento.",
+     "refs": [
+      "numeros 15:32-36"
+     ]
+    },
+    {
+     "descricao": "Neemias viu gente pisando uvas e vendendo no sábado e mandou fechar as portas de Jerusalém.",
+     "refs": [
+      "neemias 13:15",
+      "neemias 13:19"
+     ]
+    },
+    {
+     "descricao": "Os que voltaram do exílio se comprometeram a não comprar nada no sábado.",
+     "refs": [
+      "neemias 10:31"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Jeremias proíbe carregar cargas pelas portas no sábado; Amós denuncia quem espera o fim do sábado para fraudar.",
+     "refs": [
+      "jeremias 17:21-22",
+      "amos 8:5"
+     ]
+    },
+    {
+     "texto": "Jesus defende curar e fazer o bem no sábado diante de críticas.",
+     "refs": [
+      "mateus 12:11-12",
+      "lucas 13:14-16",
+      "joao 5:9-10"
+     ]
+    },
+    {
+     "texto": "Paulo trata a guarda de dias como questão de consciência que não deve servir para julgar os outros.",
+     "refs": [
+      "romanos 14:5-6",
+      "colossenses 2:16-17"
+     ]
+    }
+   ],
+   "rambam": "N 320",
+   "nota": "A Torá não define \"obra\" em detalhes. Igrejas e tradições leem diferente a validade atual: o judaísmo e cristãos sabatistas guardam o sétimo dia; a maioria das igrejas cristãs celebra o domingo (dia da ressurreição) como dia do Senhor, com visões distintas sobre a ligação com este mandamento.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Shabat 7:2 (39 categorias de trabalho proibido — tradição posterior)",
+     "data": "c. 200 d.C."
+    },
+    {
+     "fonte": "Mixná",
+     "referencia": "Sanhedrin 7:4 (profanação do sábado entre os crimes punidos com apedrejamento)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-nao-acender-fogo-sabado",
+   "grupo": "sabado-festas",
+   "subgrupo": "sabado",
+   "titulo": "Não acender fogo no sábado",
+   "tipo": "negativo",
+   "texto": "\"Não acendereis fogo em todas as vossas moradas no dia do sábado.\" Comida devia ser assada e cozida no sexto dia.",
+   "refs": [
+    "exodo 35:3"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Esta frase não traz pena própria; vale a pena geral do sábado (Êx 35:2)."
+   },
+   "casos": [
+    {
+     "descricao": "No deserto, o maná do sexto dia vinha em dobro: \"o que houverdes de assar, assai-o hoje\".",
+     "refs": [
+      "exodo 16:22-23"
+     ]
+    }
+   ],
+   "nota": "A tradição rabínica permite manter acesa uma chama acesa antes do sábado; grupos caraítas leram o verso de modo mais estrito.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Shabat 2 (lâmpadas acesas antes do sábado)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-nao-sair-do-lugar-sabado",
+   "grupo": "sabado-festas",
+   "subgrupo": "sabado",
+   "titulo": "Não sair do seu lugar no sétimo dia",
+   "tipo": "negativo",
+   "texto": "No episódio do maná: \"fique cada um em sua morada, e ninguém saia de seu lugar no sétimo dia\".",
+   "refs": [
+    "exodo 16:29"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "casos": [
+    {
+     "descricao": "Alguns saíram para recolher maná no sétimo dia e nada acharam; Deus repreendeu: \"Até quando não querereis guardar meus mandamentos?\"",
+     "refs": [
+      "exodo 16:27-28"
+     ]
+    }
+   ],
+   "rambam": "N 321",
+   "nota": "A tradição judaica deriva daqui o limite de caminhada no sábado; Atos 1:12 menciona o \"caminho de sábado\".",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Eruvin 4-5 (limite de 2.000 côvados fora da cidade)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-tres-peregrinacoes",
+   "grupo": "sabado-festas",
+   "subgrupo": "festas-gerais",
+   "titulo": "Comparecer três vezes por ano diante do SENHOR",
+   "tipo": "positivo",
+   "texto": "Três vezes ao ano — nos Pães Asmos, nas Semanas e nas Cabanas — todo homem deve comparecer diante do SENHOR no lugar que ele escolher.",
+   "refs": [
+    "deuteronomio 16:16"
+   ],
+   "paralelos": [
+    "exodo 23:14",
+    "exodo 23:17",
+    "exodo 34:23-24"
+   ],
+   "quem": "homens de Israel",
+   "condicao": "Com o santuário / no lugar escolhido.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "associacoes": [
+    {
+     "texto": "Jesus subia a Jerusalém nas festas.",
+     "refs": [
+      "lucas 2:41",
+      "joao 7:2"
+     ]
+    }
+   ],
+   "motivo": "Promessa: \"ninguém cobiçará tua terra, quando tu subires\" (Êx 34:24).",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Hagigá 1:1 (quem está isento da peregrinação)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-nao-comparecer-vazio",
+   "grupo": "sabado-festas",
+   "subgrupo": "festas-gerais",
+   "titulo": "Não comparecer de mãos vazias",
+   "tipo": "negativo",
+   "texto": "Ninguém comparecerá vazio diante do SENHOR; cada um dá conforme a bênção que recebeu.",
+   "refs": [
+    "deuteronomio 16:16-17"
+   ],
+   "paralelos": [
+    "exodo 23:15",
+    "exodo 34:20"
+   ],
+   "quem": "homens de Israel",
+   "condicao": "Com o santuário.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "nota": "As ofertas obrigatórias de cada festa (Nm 28-29) estão no grupo \"santuario-sacerdocio\"."
+  },
+  {
+   "id": "a-alegrar-se-nas-festas",
+   "grupo": "sabado-festas",
+   "subgrupo": "festas-gerais",
+   "titulo": "Alegrar-se nas festas com os de fora e os pobres",
+   "tipo": "positivo",
+   "texto": "Alegrar-se diante do SENHOR nas festas com filhos, servos, o levita, o estrangeiro, o órfão e a viúva.",
+   "refs": [
+    "deuteronomio 16:14"
+   ],
+   "paralelos": [
+    "deuteronomio 16:11",
+    "deuteronomio 16:15",
+    "levitico 23:40"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "motivo": "\"Lembra-te que foste servo no Egito\" (Dt 16:12).",
+   "fonte_extra": [
+    {
+     "fonte": "Talmude Babilônico",
+     "referencia": "Pesahim 109a (alegria da festa: carne e vinho no tempo do templo)",
+     "data": "c. 500 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-santas-convocacoes",
+   "grupo": "sabado-festas",
+   "subgrupo": "festas-gerais",
+   "titulo": "Proclamar as festas do SENHOR nos seus tempos",
+   "tipo": "positivo",
+   "texto": "As solenidades do SENHOR são \"santas convocações\" a proclamar no tempo certo; nelas não se faz obra servil (só o preparo da comida é permitido nos Pães Asmos).",
+   "refs": [
+    "levitico 23:2"
+   ],
+   "paralelos": [
+    "levitico 23:4",
+    "levitico 23:37-38",
+    "exodo 12:16"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "nota": "A diferença entre \"nenhuma obra\" (sábado e Expiação) e \"nenhuma obra servil\" (demais festas) é a base, na tradição judaica, da permissão de cozinhar nos dias de festa.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Meguilá 1:5 (entre festa e sábado só difere o preparo da comida)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-imolar-pascoa",
+   "grupo": "sabado-festas",
+   "subgrupo": "pascoa",
+   "titulo": "Imolar o cordeiro da Páscoa no dia 14 do primeiro mês",
+   "tipo": "positivo",
+   "texto": "No dia 14 do primeiro mês (Abibe/Nisã), \"entre as duas tardes\", cada família imola o cordeiro pascal — macho de um ano, sem defeito, das ovelhas ou das cabras, separado no dia 10.",
+   "refs": [
+    "exodo 12:3-6"
+   ],
+   "paralelos": [
+    "levitico 23:5",
+    "numeros 9:2-3",
+    "numeros 28:16",
+    "deuteronomio 16:1-2",
+    "exodo 12:21"
+   ],
+   "quem": "todo Israel (por famílias)",
+   "sancao": {
+    "tipo": "extirpacao",
+    "descricao": "Quem está puro e não está em viagem e deixa de fazer a Páscoa \"será eliminado de seus povos\".",
+    "refs": [
+     "numeros 9:13"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Israel celebrou a Páscoa no deserto do Sinai, em Gilgal ao entrar na terra, sob Josias e na volta do exílio.",
+     "refs": [
+      "numeros 9:5",
+      "josue 5:10",
+      "2-reis 23:21-22",
+      "esdras 6:19-20"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Jesus celebra a Páscoa com os discípulos; Paulo chama Cristo de \"nosso cordeiro da páscoa\".",
+     "refs": [
+      "lucas 22:7-8",
+      "1-corintios 5:7"
+     ]
+    }
+   ],
+   "rambam": "P 55",
+   "nota": "A separação do cordeiro no dia 10 e o sangue nas portas são entendidos pela tradição judaica como exclusivos da Páscoa do Egito.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Pesahim 5 (a imolação no templo em três turnos)",
+     "data": "c. 200 d.C."
+    },
+    {
+     "fonte": "Flávio Josefo",
+     "referencia": "Guerra dos Judeus 6.9.3 (contagem muito alta de cordeiros numa Páscoa do séc. I; cifra discutida)",
+     "data": "c. 75 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-pascoa-no-lugar-escolhido",
+   "grupo": "sabado-festas",
+   "subgrupo": "pascoa",
+   "titulo": "Imolar a Páscoa só no lugar que Deus escolher",
+   "tipo": "negativo",
+   "texto": "Não sacrificar a Páscoa em qualquer cidade, mas só no lugar escolhido para o nome de Deus, ao pôr do sol.",
+   "refs": [
+    "deuteronomio 16:5-6"
+   ],
+   "quem": "todo Israel",
+   "condicao": "Depois de estabelecido o santuário central.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "nota": "Por isso, após a destruição do templo (70 d.C.), o judaísmo deixou de sacrificar o cordeiro e celebra a refeição (sêder) sem ele; samaritanos ainda o sacrificam no monte Gerizim."
+  },
+  {
+   "id": "a-sangue-nos-umbrais",
+   "grupo": "sabado-festas",
+   "subgrupo": "pascoa",
+   "titulo": "O sangue nos umbrais e a refeição apressada",
+   "tipo": "positivo",
+   "texto": "Com um molho de hissopo, pôr o sangue do cordeiro nos dois batentes e na verga da porta; comer com os lombos cingidos, sandálias nos pés e cajado na mão, sem sair de casa até a manhã.",
+   "refs": [
+    "exodo 12:7"
+   ],
+   "paralelos": [
+    "exodo 12:11",
+    "exodo 12:22-23"
+   ],
+   "quem": "todo Israel (no Egito)",
+   "condicao": "Na primeira Páscoa, no Egito (segundo a tradição judaica, só ali).",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "associacoes": [
+    {
+     "texto": "Hebreus diz que Moisés, pela fé, celebrou a Páscoa e o derramamento do sangue.",
+     "refs": [
+      "hebreus 11:28"
+     ]
+    }
+   ],
+   "motivo": "\"O sangue vos será por sinal... e verei o sangue, e passarei de vós\" (Êx 12:13)."
+  },
+  {
+   "id": "a-comer-pascoa",
+   "grupo": "sabado-festas",
+   "subgrupo": "pascoa",
+   "titulo": "Comer a carne da Páscoa assada, com pães asmos e ervas amargas",
+   "tipo": "positivo",
+   "texto": "Comer naquela noite a carne assada ao fogo, com pães sem levedura e ervas amargas.",
+   "refs": [
+    "exodo 12:8"
+   ],
+   "paralelos": [
+    "numeros 9:11",
+    "deuteronomio 16:7"
+   ],
+   "quem": "todo Israel (os circuncidados)",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "rambam": "P 56",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Pesahim 10 (a refeição da noite pascal, as perguntas do filho e os salmos do Halel)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-nao-comer-crua-ou-cozida",
+   "grupo": "sabado-festas",
+   "subgrupo": "pascoa",
+   "titulo": "Não comer a Páscoa crua nem cozida em água",
+   "tipo": "negativo",
+   "texto": "Nada do cordeiro será comido cru nem cozido em água, mas assado inteiro ao fogo, com cabeça, pés e entranhas.",
+   "refs": [
+    "exodo 12:9"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "nota": "Dt 16:7 usa um verbo que pode significar \"cozinhar\" ou \"assar\"; 2Cr 35:13 harmoniza dizendo \"assaram ao fogo\"."
+  },
+  {
+   "id": "a-nao-deixar-sobras-pascoa",
+   "grupo": "sabado-festas",
+   "subgrupo": "pascoa",
+   "titulo": "Não deixar sobras da Páscoa até a manhã",
+   "tipo": "negativo",
+   "texto": "Nada do cordeiro deve ficar até a manhã; o que sobrar é queimado no fogo.",
+   "refs": [
+    "exodo 12:10"
+   ],
+   "paralelos": [
+    "exodo 34:25",
+    "numeros 9:12",
+    "deuteronomio 16:4"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   }
+  },
+  {
+   "id": "a-nao-quebrar-osso",
+   "grupo": "sabado-festas",
+   "subgrupo": "pascoa",
+   "titulo": "Não quebrar osso do cordeiro pascal",
+   "tipo": "negativo",
+   "texto": "Não quebrar nenhum osso do cordeiro da Páscoa.",
+   "refs": [
+    "exodo 12:46"
+   ],
+   "paralelos": [
+    "numeros 9:12"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "associacoes": [
+    {
+     "texto": "João vê este verso cumprido em Jesus, cujas pernas não foram quebradas na cruz.",
+     "refs": [
+      "joao 19:36"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a-nao-levar-carne-para-fora",
+   "grupo": "sabado-festas",
+   "subgrupo": "pascoa",
+   "titulo": "Comer a Páscoa numa só casa",
+   "tipo": "negativo",
+   "texto": "Cada cordeiro se come numa casa; não levar a carne para fora (famílias pequenas se juntam ao vizinho).",
+   "refs": [
+    "exodo 12:46"
+   ],
+   "paralelos": [
+    "exodo 12:4"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   }
+  },
+  {
+   "id": "a-estrangeiro-nao-come-pascoa",
+   "grupo": "sabado-festas",
+   "subgrupo": "pascoa",
+   "titulo": "Quem não pertence à aliança não come a Páscoa",
+   "tipo": "negativo",
+   "texto": "Nenhum estrangeiro (não convertido), morador de passagem ou assalariado come da Páscoa; nenhum incircunciso a come. O estrangeiro circuncidado celebra como o natural: \"a mesma lei\".",
+   "refs": [
+    "exodo 12:43"
+   ],
+   "paralelos": [
+    "exodo 12:45",
+    "exodo 12:48-49",
+    "numeros 9:14"
+   ],
+   "quem": "estrangeiros, residentes temporários e assalariados",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "nota": "Ver também o item sobre circuncisão e Páscoa no grupo \"deus-fe\"."
+  },
+  {
+   "id": "a-nao-imolar-com-levedura",
+   "grupo": "sabado-festas",
+   "subgrupo": "pascoa",
+   "titulo": "Não oferecer o sangue da Páscoa com pão levedado",
+   "tipo": "negativo",
+   "texto": "Não oferecer o sangue do sacrifício (pascal) junto com fermento, nem deixar a gordura até a manhã.",
+   "refs": [
+    "exodo 23:18"
+   ],
+   "paralelos": [
+    "exodo 34:25"
+   ],
+   "quem": "todo Israel / sacerdotes",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   }
+  },
+  {
+   "id": "a-pascoa-segundo-mes",
+   "grupo": "sabado-festas",
+   "subgrupo": "pascoa",
+   "titulo": "A Páscoa do segundo mês para os impedidos",
+   "tipo": "positivo",
+   "texto": "Quem estiver impuro por contato com morto ou em viagem distante celebra a Páscoa no dia 14 do segundo mês, com os mesmos ritos: pães asmos, ervas amargas, sem sobras e sem quebrar ossos.",
+   "refs": [
+    "numeros 9:10-12"
+   ],
+   "quem": "impuros por morto ou viajantes",
+   "sancao": {
+    "tipo": "extirpacao",
+    "descricao": "A exceção não vale para quem estava puro e perto: esse \"será eliminado\".",
+    "refs": [
+     "numeros 9:13"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Homens impuros por um morto perguntaram a Moisés se ficariam excluídos; Moisés esperou a resposta de Deus, que criou esta lei.",
+     "refs": [
+      "numeros 9:6-8"
+     ]
+    },
+    {
+     "descricao": "Ezequias celebrou a Páscoa no segundo mês porque não havia sacerdotes santificados; orou pelos que comeram sem estar purificados.",
+     "refs": [
+      "2-cronicas 30:2-3",
+      "2-cronicas 30:18-20"
+     ]
+    }
+   ],
+   "rambam": "P 57",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Pesahim 9 (a \"segunda Páscoa\")",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-contar-a-saida",
+   "grupo": "sabado-festas",
+   "subgrupo": "pascoa",
+   "titulo": "Contar aos filhos a saída do Egito",
+   "tipo": "positivo",
+   "texto": "Quando o filho perguntar \"que rito é este?\", contar o que o SENHOR fez ao tirar Israel do Egito; a noite pascal é \"noite de guardar ao SENHOR\".",
+   "refs": [
+    "exodo 13:8"
+   ],
+   "paralelos": [
+    "exodo 12:26-27",
+    "exodo 13:14-15",
+    "exodo 12:42",
+    "deuteronomio 6:20-23"
+   ],
+   "quem": "pais; todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "rambam": "P 157",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Pesahim 10:4-5 (perguntas do filho; \"em cada geração\" cada um deve ver-se como saído do Egito)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-remover-fermento",
+   "grupo": "sabado-festas",
+   "subgrupo": "paes-asmos",
+   "titulo": "Tirar o fermento de casa",
+   "tipo": "positivo",
+   "texto": "Desde o primeiro dia da festa, não deve haver levedura nas casas.",
+   "refs": [
+    "exodo 12:15"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "associacoes": [
+    {
+     "texto": "Paulo usa a imagem: \"limpai pois o velho fermento\".",
+     "refs": [
+      "1-corintios 5:7-8"
+     ]
+    }
+   ],
+   "rambam": "P 156",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Pesahim 1:1 (busca do fermento à luz de vela na noite do dia 14)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-nao-comer-levedado",
+   "grupo": "sabado-festas",
+   "subgrupo": "paes-asmos",
+   "titulo": "Não comer nada levedado durante os sete dias",
+   "tipo": "negativo",
+   "texto": "Do dia 14 à tarde até o dia 21 à tarde, não comer pão nem nada levedado.",
+   "refs": [
+    "exodo 12:20"
+   ],
+   "paralelos": [
+    "exodo 13:3",
+    "exodo 13:7",
+    "deuteronomio 16:3"
+   ],
+   "quem": "todo Israel e estrangeiro residente",
+   "sancao": {
+    "tipo": "extirpacao",
+    "descricao": "\"Qualquer um que comer levedado... aquela alma será eliminada de Israel\", tanto o estrangeiro como o natural.",
+    "refs": [
+     "exodo 12:15",
+     "exodo 12:19"
+    ]
+   }
+  },
+  {
+   "id": "a-fermento-nao-visto",
+   "grupo": "sabado-festas",
+   "subgrupo": "paes-asmos",
+   "titulo": "Não haver fermento à vista em todo o território",
+   "tipo": "negativo",
+   "texto": "Durante sete dias não se achará nem se verá levedura em casa nem em todo o território.",
+   "refs": [
+    "exodo 13:7"
+   ],
+   "paralelos": [
+    "exodo 12:19",
+    "deuteronomio 16:4"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   }
+  },
+  {
+   "id": "a-comer-paes-asmos",
+   "grupo": "sabado-festas",
+   "subgrupo": "paes-asmos",
+   "titulo": "Comer pães sem fermento",
+   "tipo": "positivo",
+   "texto": "Comer pães asmos (matsá) na noite do dia 14 e durante os sete dias da festa — \"pão de aflição\", lembrança da saída apressada.",
+   "refs": [
+    "exodo 12:18"
+   ],
+   "paralelos": [
+    "exodo 12:15",
+    "exodo 13:6",
+    "exodo 23:15",
+    "exodo 34:18",
+    "levitico 23:6",
+    "numeros 28:17",
+    "deuteronomio 16:3",
+    "deuteronomio 16:8"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "motivo": "\"Porque apressadamente saíste da terra do Egito\" (Dt 16:3); o povo levou a massa antes de levedar (Êx 12:34,39).",
+   "rambam": "P 158",
+   "nota": "A tradição judaica considera obrigatório comer matsá na primeira noite e opcional nos outros dias."
+  },
+  {
+   "id": "a-repouso-asmos",
+   "grupo": "sabado-festas",
+   "subgrupo": "paes-asmos",
+   "titulo": "Repouso no primeiro e no sétimo dia dos Pães Asmos",
+   "tipo": "negativo",
+   "texto": "O primeiro dia (15) e o sétimo dia (21) são santas convocações: nenhuma obra servil, exceto preparar a comida.",
+   "refs": [
+    "levitico 23:7-8"
+   ],
+   "paralelos": [
+    "exodo 12:16",
+    "numeros 28:18",
+    "numeros 28:25",
+    "deuteronomio 16:8"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "rambam": "P 159",
+   "nota": "O número P 159 refere-se ao repouso do primeiro dia; Maimônides conta o do sétimo dia (P 160) e as proibições de trabalho separadamente."
+  },
+  {
+   "id": "a-omer-primicias",
+   "grupo": "sabado-festas",
+   "subgrupo": "semanas",
+   "titulo": "Levar o primeiro feixe (ômer) da colheita",
+   "tipo": "positivo",
+   "texto": "Ao colher na terra, levar ao sacerdote um ômer das primícias da colheita (cevada); ele o move diante do SENHOR \"no dia seguinte do sábado\", com um cordeiro em holocausto, oferta de cereal e libação.",
+   "refs": [
+    "levitico 23:10-13"
+   ],
+   "quem": "todo Israel; sacerdotes",
+   "condicao": "Só na terra e com o santuário.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "associacoes": [
+    {
+     "texto": "Paulo chama Cristo ressuscitado de \"primícias\" dos que dormem.",
+     "refs": [
+      "1-corintios 15:20"
+     ]
+    }
+   ],
+   "nota": "\"Dia seguinte do sábado\" foi lido de modos diferentes: os fariseus/rabinos entendiam o dia após o primeiro dia da festa (16 de Nisã); saduceus/boetusianos, samaritanos e caraítas, o domingo após o sábado semanal.",
+   "fonte_extra": [
+    {
+     "fonte": "Talmude Babilônico",
+     "referencia": "Menahot 65a-66a (debate com os boetusianos sobre a data)",
+     "data": "c. 500 d.C."
+    },
+    {
+     "fonte": "Mixná",
+     "referencia": "Menahot 10:3 (a ceifa do ômer)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-nao-comer-colheita-nova",
+   "grupo": "sabado-festas",
+   "subgrupo": "semanas",
+   "titulo": "Não comer da colheita nova antes do ômer",
+   "tipo": "negativo",
+   "texto": "Não comer pão, grão tostado nem espiga fresca da nova colheita até o dia em que se oferece o ômer.",
+   "refs": [
+    "levitico 23:14"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "casos": [
+    {
+     "descricao": "Em Gilgal, no dia seguinte à Páscoa, o povo comeu do fruto da terra: pães asmos e espigas tostadas.",
+     "refs": [
+      "josue 5:11"
+     ]
+    }
+   ],
+   "nota": "A tradição judaica aplica a proibição (chadash) também fora da terra; outros a restringem à terra de Israel."
+  },
+  {
+   "id": "a-contar-sete-semanas",
+   "grupo": "sabado-festas",
+   "subgrupo": "semanas",
+   "titulo": "Contar sete semanas (cinquenta dias)",
+   "tipo": "positivo",
+   "texto": "Desde o dia do ômer contar sete semanas completas, cinquenta dias, até a festa das Semanas.",
+   "refs": [
+    "levitico 23:15-16"
+   ],
+   "paralelos": [
+    "deuteronomio 16:9"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "rambam": "P 161"
+  },
+  {
+   "id": "a-festa-das-semanas",
+   "grupo": "sabado-festas",
+   "subgrupo": "semanas",
+   "titulo": "Celebrar a festa das Semanas (Pentecostes)",
+   "tipo": "positivo",
+   "texto": "No quinquagésimo dia, oferecer uma nova oferta de cereal: dois pães levedados de primícias, com holocaustos e sacrifícios; é santa convocação, sem obra servil, e festa de alegria com ofertas voluntárias.",
+   "refs": [
+    "levitico 23:16-21"
+   ],
+   "paralelos": [
+    "exodo 23:16",
+    "exodo 34:22",
+    "numeros 28:26",
+    "deuteronomio 16:10-11"
+   ],
+   "quem": "todo Israel",
+   "condicao": "Ofertas: com o santuário.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "associacoes": [
+    {
+     "texto": "No dia de Pentecostes os discípulos estavam reunidos quando veio o Espírito Santo.",
+     "refs": [
+      "atos 2:1"
+     ]
+    }
+   ],
+   "rambam": "P 162",
+   "nota": "O número P 162 refere-se ao repouso da festa. A ligação da festa com a entrega da lei no Sinai é tradição judaica posterior; o texto da Torá a apresenta como festa da colheita do trigo.",
+   "fonte_extra": [
+    {
+     "fonte": "Talmude Babilônico",
+     "referencia": "Pesahim 68b (Shavuot como dia em que a Torá foi dada)",
+     "data": "c. 500 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-dia-das-trombetas",
+   "grupo": "sabado-festas",
+   "subgrupo": "trombetas",
+   "titulo": "O dia do toque das trombetas (1º do sétimo mês)",
+   "tipo": "positivo",
+   "texto": "No primeiro dia do sétimo mês haverá descanso, memorial com toque (de trombeta/shofar), santa convocação e oferta queimada; nenhuma obra servil.",
+   "refs": [
+    "levitico 23:24-25"
+   ],
+   "paralelos": [
+    "numeros 29:1-2"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "casos": [
+    {
+     "descricao": "Nesse dia Esdras leu a lei ao povo, que chorou, e foi mandado celebrar com alegria.",
+     "refs": [
+      "neemias 8:2"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "\"Tocai trombeta na lua nova\".",
+     "refs": [
+      "salmos 81:3"
+     ]
+    }
+   ],
+   "rambam": "P 170",
+   "nota": "P 170 é o toque do shofar; o repouso do dia é outro mandamento na lista de Maimônides. O nome \"Ano Novo\" (Rosh Hashaná) é tradição posterior; a Torá não o chama assim.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Rosh Hashaná 1:1 e 3-4 (os \"anos novos\" e o toque do shofar)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-afligir-a-alma-expiacao",
+   "grupo": "sabado-festas",
+   "subgrupo": "expiacao",
+   "titulo": "Afligir a alma (jejuar) no Dia da Expiação",
+   "tipo": "positivo",
+   "texto": "No dia 10 do sétimo mês, \"afligireis vossas almas\", de tarde a tarde (desde o dia 9 à tarde).",
+   "refs": [
+    "levitico 23:27"
+   ],
+   "paralelos": [
+    "levitico 16:29",
+    "levitico 16:31",
+    "levitico 23:32",
+    "numeros 29:7"
+   ],
+   "quem": "todo Israel e estrangeiro residente",
+   "sancao": {
+    "tipo": "extirpacao",
+    "descricao": "\"Toda pessoa que não se afligir neste mesmo dia, será eliminada de seus povos.\"",
+    "refs": [
+     "levitico 23:29"
+    ]
+   },
+   "associacoes": [
+    {
+     "texto": "Atos se refere a este dia como \"o jejum\".",
+     "refs": [
+      "atos 27:9"
+     ]
+    },
+    {
+     "texto": "Hebreus lê o rito anual do sumo sacerdote como figura da obra de Cristo.",
+     "refs": [
+      "hebreus 9:7",
+      "hebreus 9:11-12"
+     ]
+    }
+   ],
+   "motivo": "\"Porque neste dia se vos reconciliará para limpar-vos... de todos vossos pecados\" (Lv 16:30).",
+   "nota": "O rito do sumo sacerdote (Lv 16) está no grupo \"santuario-sacerdocio\".",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Yomá 8:1 (cinco abstenções: comer e beber, banhar-se, ungir-se, calçar sandálias, relações)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-nao-trabalhar-expiacao",
+   "grupo": "sabado-festas",
+   "subgrupo": "expiacao",
+   "titulo": "Não fazer obra alguma no Dia da Expiação",
+   "tipo": "negativo",
+   "texto": "Nenhuma obra (nem mesmo o preparo de comida) no Dia da Expiação: é \"sábado de repouso\".",
+   "refs": [
+    "levitico 23:28"
+   ],
+   "paralelos": [
+    "levitico 16:29",
+    "levitico 16:31",
+    "levitico 23:31-32",
+    "numeros 29:7"
+   ],
+   "quem": "todo Israel e estrangeiro residente",
+   "sancao": {
+    "tipo": "extirpacao",
+    "descricao": "\"Qualquer pessoa que fizer obra alguma neste mesmo dia, eu destruirei a tal pessoa dentre seu povo.\"",
+    "refs": [
+     "levitico 23:30"
+    ]
+   }
+  },
+  {
+   "id": "a-festa-das-cabanas",
+   "grupo": "sabado-festas",
+   "subgrupo": "tabernaculos",
+   "titulo": "Celebrar a festa das Cabanas por sete dias, mais o oitavo",
+   "tipo": "positivo",
+   "texto": "Do dia 15 do sétimo mês, depois da colheita da eira e do lagar, celebrar sete dias; o primeiro e o oitavo dia são santas convocações, sem obra servil.",
+   "refs": [
+    "levitico 23:34-36"
+   ],
+   "paralelos": [
+    "levitico 23:39",
+    "levitico 23:41",
+    "numeros 29:12",
+    "numeros 29:35",
+    "deuteronomio 16:13-15",
+    "exodo 23:16",
+    "exodo 34:22"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "associacoes": [
+    {
+     "texto": "Jesus subiu à festa dos Tabernáculos e, no último dia, convidou quem tem sede a vir a ele.",
+     "refs": [
+      "joao 7:2",
+      "joao 7:37-38"
+     ]
+    },
+    {
+     "texto": "Zacarias vê as nações subindo para celebrar esta festa.",
+     "refs": [
+      "zacarias 14:16"
+     ]
+    }
+   ],
+   "rambam": "P 166",
+   "nota": "P 166 é o repouso do primeiro dia; o do oitavo é P 167.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Sukkah 4:9 (libação de água no altar durante a festa)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-morar-em-cabanas",
+   "grupo": "sabado-festas",
+   "subgrupo": "tabernaculos",
+   "titulo": "Morar em cabanas durante sete dias",
+   "tipo": "positivo",
+   "texto": "Todo natural de Israel habitará em cabanas sete dias.",
+   "refs": [
+    "levitico 23:42"
+   ],
+   "quem": "todo natural de Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "casos": [
+    {
+     "descricao": "No tempo de Esdras o povo achou esta lei escrita e fez cabanas nos terraços e praças, o que não se fazia assim desde Josué.",
+     "refs": [
+      "neemias 8:14-17"
+     ]
+    }
+   ],
+   "motivo": "\"Para que saibam vossos descendentes que em cabanas fiz eu habitar aos filhos de Israel, quando os tirei da terra do Egito\" (Lv 23:43).",
+   "rambam": "P 168",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Sukkah 1-2 (dimensões e cobertura da cabana)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-quatro-especies",
+   "grupo": "sabado-festas",
+   "subgrupo": "tabernaculos",
+   "titulo": "Tomar ramos e alegrar-se diante do SENHOR",
+   "tipo": "positivo",
+   "texto": "No primeiro dia, tomar o fruto (ou ramos) de árvore formosa, folhas de palmeira, ramos de árvore frondosa e salgueiros do ribeiro, e alegrar-se sete dias.",
+   "refs": [
+    "levitico 23:40"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "casos": [
+    {
+     "descricao": "Em Neemias os ramos (oliveira, murta, palmeira) foram usados para construir as cabanas.",
+     "refs": [
+      "neemias 8:15"
+     ]
+    }
+   ],
+   "rambam": "P 169",
+   "nota": "A tradução de \"fruto de árvore formosa\" varia; a tradição judaica o identifica com a cidra (etrog) e usa as \"quatro espécies\" na mão; em Neemias os ramos servem para construir as cabanas.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Sukkah 3 (as quatro espécies)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-primeiro-mes",
+   "grupo": "sabado-festas",
+   "subgrupo": "lua-nova",
+   "titulo": "O mês da saída do Egito é o primeiro do ano",
+   "tipo": "positivo",
+   "texto": "O mês de Abibe (depois chamado Nisã) é \"o princípio dos meses\"; guardar esse mês celebrando nele a Páscoa.",
+   "refs": [
+    "exodo 12:2"
+   ],
+   "paralelos": [
+    "exodo 13:4",
+    "exodo 23:15",
+    "deuteronomio 16:1"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "rambam": "P 153",
+   "nota": "A Torá supõe meses lunares mas não explica como fixá-los nem como intercalar meses; a tradição judaica lê aqui a ordem de consagrar os meses (pelo tribunal).",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Rosh Hashaná 2 (testemunhas da lua nova perante o tribunal)",
+     "data": "c. 200 d.C."
+    },
+    {
+     "fonte": "Tradição judaica (relatada por autores medievais)",
+     "referencia": "calendário fixo atribuído a Hilel II",
+     "data": "c. 359 d.C. (data tradicional)"
+    }
+   ]
+  },
+  {
+   "id": "a-trombetas-lua-nova",
+   "grupo": "sabado-festas",
+   "subgrupo": "lua-nova",
+   "titulo": "Tocar as trombetas nas luas novas e festas",
+   "tipo": "positivo",
+   "texto": "Nos dias de alegria, nas solenidades e nos princípios dos meses, tocar as trombetas de prata sobre os holocaustos e sacrifícios, como memorial diante de Deus.",
+   "refs": [
+    "numeros 10:10"
+   ],
+   "quem": "sacerdotes",
+   "condicao": "Com o santuário.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "associacoes": [
+    {
+     "texto": "\"Tocai trombeta na lua nova\".",
+     "refs": [
+      "salmos 81:3"
+     ]
+    }
+   ],
+   "rambam": "P 59",
+   "nota": "A fabricação das trombetas (Nm 10:1-9) não é tratada aqui."
+  },
+  {
+   "id": "a-ofertas-lua-nova",
+   "grupo": "sabado-festas",
+   "subgrupo": "lua-nova",
+   "titulo": "Holocausto do princípio de cada mês",
+   "tipo": "positivo",
+   "texto": "No começo de cada mês oferecer dois novilhos, um carneiro e sete cordeiros em holocausto, com cereal e libação, e um bode como expiação.",
+   "refs": [
+    "numeros 28:11-15"
+   ],
+   "quem": "sacerdotes / todo Israel",
+   "condicao": "Com o santuário.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "casos": [
+    {
+     "descricao": "Na corte de Saul a lua nova era dia de refeição solene; o povo também visitava o profeta na lua nova ou no sábado.",
+     "refs": [
+      "1-samuel 20:5",
+      "2-reis 4:23"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Isaías critica luas novas celebradas sem justiça; Amós denuncia quem espera a lua nova passar para fraudar; Ezequiel e Isaías incluem a lua nova no culto futuro.",
+     "refs": [
+      "isaias 1:13-14",
+      "amos 8:5",
+      "ezequiel 46:1",
+      "isaias 66:23"
+     ]
+    },
+    {
+     "texto": "Paulo inclui \"lua nova\" e \"sábados\" entre as coisas pelas quais ninguém deve julgar o cristão.",
+     "refs": [
+      "colossenses 2:16-17"
+     ]
+    }
+   ],
+   "nota": "A Torá não proíbe trabalho na lua nova (Am 8:5 sugere que o comércio parava). Os detalhes das ofertas são do grupo \"santuario-sacerdocio\"."
+  },
+  {
+   "id": "a-cumprir-votos",
+   "grupo": "votos",
+   "subgrupo": "votos-gerais",
+   "titulo": "Cumprir os votos e juramentos feitos a Deus",
+   "tipo": "positivo",
+   "texto": "Quem fizer voto ou juramento ao SENHOR não quebrará a sua palavra: fará tudo o que saiu da sua boca.",
+   "refs": [
+    "numeros 30:2"
+   ],
+   "paralelos": [
+    "deuteronomio 23:23"
+   ],
+   "quem": "todo Israel (homens e mulheres sem tutela)",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "casos": [
+    {
+     "descricao": "Jefté prometeu oferecer quem saísse primeiro de sua casa e cumpriu o voto com sua filha — caso narrado sem aprovação explícita e muito discutido.",
+     "refs": [
+      "juizes 11:30-31",
+      "juizes 11:39"
+     ]
+    },
+    {
+     "descricao": "Ana prometeu dedicar o filho ao SENHOR e entregou Samuel.",
+     "refs": [
+      "1-samuel 1:11"
+     ]
+    },
+    {
+     "descricao": "Antes da lei, Jacó fez voto em Betel de dar o dízimo se Deus o guardasse.",
+     "refs": [
+      "genesis 28:20-22"
+     ]
+    },
+    {
+     "descricao": "Os príncipes mantiveram o juramento feito aos gibeonitas, mesmo tendo sido enganados.",
+     "refs": [
+      "josue 9:19-20"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "\"Paga ao Altíssimo os teus votos\"; \"melhor é que não faças voto, do que fazeres um voto, e não o pagares\".",
+     "refs": [
+      "salmos 50:14",
+      "eclesiastes 5:4-5"
+     ]
+    },
+    {
+     "texto": "Jesus critica distinções que livram de juramentos (\"pelo templo nada é\") e o uso do voto \"corbã\" para fugir do dever com os pais.",
+     "refs": [
+      "mateus 23:16",
+      "marcos 7:11",
+      "mateus 15:5-6"
+     ]
+    }
+   ],
+   "rambam": "P 94",
+   "nota": "Na numeração hebraica Nm 30:2 é 30:3.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "tratado Nedarim (votos)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-nao-tardar-votos",
+   "grupo": "votos",
+   "subgrupo": "votos-gerais",
+   "titulo": "Não tardar em pagar o voto",
+   "tipo": "negativo",
+   "texto": "Quando prometer voto ao SENHOR, não demorar a pagá-lo; mas não fazer voto não é pecado.",
+   "refs": [
+    "deuteronomio 23:21-22"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "divina",
+    "descricao": "\"Certamente o exigirá o SENHOR teu Deus de ti, e haveria em ti pecado.\"",
+    "refs": [
+     "deuteronomio 23:21"
+    ]
+   },
+   "associacoes": [
+    {
+     "texto": "\"Armadilha ao homem é prometer precipitadamente algo como sagrado.\"",
+     "refs": [
+      "proverbios 20:25"
+     ]
+    }
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Talmude Babilônico",
+     "referencia": "Rosh Hashaná 4a-b (o atraso conta-se após passarem as três festas)",
+     "data": "c. 500 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-votos-no-lugar-escolhido",
+   "grupo": "votos",
+   "subgrupo": "votos-gerais",
+   "titulo": "Levar as ofertas votivas ao lugar escolhido",
+   "tipo": "positivo",
+   "texto": "As coisas consagradas e os votos não se comem em qualquer cidade: devem ser levados ao lugar que o SENHOR escolher e ali oferecidos.",
+   "refs": [
+    "deuteronomio 12:26"
+   ],
+   "paralelos": [
+    "deuteronomio 12:17-18"
+   ],
+   "quem": "todo Israel",
+   "condicao": "Depois de estabelecido o santuário central.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "nota": "As regras dos sacrifícios votivos (Lv 7:16; 22:18-23) estão no grupo \"santuario-sacerdocio\"."
+  },
+  {
+   "id": "a-votos-da-mulher",
+   "grupo": "votos",
+   "subgrupo": "votos-gerais",
+   "titulo": "Votos da jovem e da mulher casada",
+   "tipo": "positivo",
+   "texto": "O voto da jovem na casa do pai, ou da esposa, fica firme se o pai ou o marido, ao saber, se calar; se o desaprovar no dia em que souber, o voto é anulado e o SENHOR a perdoa. Se o marido anular depois, ele leva a culpa dela.",
+   "refs": [
+    "numeros 30:3-8"
+   ],
+   "paralelos": [
+    "numeros 30:10-15"
+   ],
+   "quem": "mulheres sob tutela do pai ou do marido; pais e maridos",
+   "sancao": {
+    "tipo": "divina",
+    "descricao": "Se o marido anular tarde, \"ele levará o pecado dela\".",
+    "refs": [
+     "numeros 30:15"
+    ]
+   },
+   "rambam": "P 95",
+   "nota": "Lei que reflete a estrutura familiar patriarcal do antigo Israel."
+  },
+  {
+   "id": "a-voto-da-viuva",
+   "grupo": "votos",
+   "subgrupo": "votos-gerais",
+   "titulo": "O voto da viúva e da divorciada é firme",
+   "tipo": "positivo",
+   "texto": "Todo voto de viúva ou de mulher divorciada vale por si: ninguém o pode anular.",
+   "refs": [
+    "numeros 30:9"
+   ],
+   "quem": "viúvas e divorciadas",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   }
+  },
+  {
+   "id": "a-nao-paga-de-prostituicao",
+   "grupo": "votos",
+   "subgrupo": "votos-gerais",
+   "titulo": "Não pagar voto com ganho de prostituição",
+   "tipo": "negativo",
+   "texto": "Não trazer à casa do SENHOR, por voto algum, o pagamento de uma prostituta ou o \"preço de um cão\" (prostituto).",
+   "refs": [
+    "deuteronomio 23:18"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "motivo": "\"Abominação é ao SENHOR teu Deus tanto um como o outro.\"",
+   "nota": "A tradução de \"cão\" (kelev) como prostituto é a mais comum; alguns a entendem literalmente (preço de um cão)."
+  },
+  {
+   "id": "a-jurar-pelo-nome",
+   "grupo": "votos",
+   "subgrupo": "juramentos",
+   "titulo": "Jurar só pelo nome do SENHOR",
+   "tipo": "positivo",
+   "texto": "Quando for preciso jurar, jurar pelo nome do SENHOR, e não pelo de outros deuses.",
+   "refs": [
+    "deuteronomio 6:13"
+   ],
+   "paralelos": [
+    "deuteronomio 10:20"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "associacoes": [
+    {
+     "texto": "Jesus ensina \"de maneira nenhuma jureis\", e Tiago repete; igrejas leem isso de modos diferentes (proibição de todo juramento, como entre menonitas e quakers, ou só dos levianos, admitindo juramentos solenes).",
+     "refs": [
+      "mateus 5:33-37",
+      "tiago 5:12"
+     ]
+    },
+    {
+     "texto": "Hebreus: o juramento confirma e põe fim às disputas humanas.",
+     "refs": [
+      "hebreus 6:16"
+     ]
+    }
+   ],
+   "rambam": "P 7"
+  },
+  {
+   "id": "a-nao-jurar-falso",
+   "grupo": "votos",
+   "subgrupo": "juramentos",
+   "titulo": "Não jurar falsamente pelo nome de Deus",
+   "tipo": "negativo",
+   "texto": "\"Não jurareis em meu nome com mentira, nem profanarás o nome de teu Deus.\"",
+   "refs": [
+    "levitico 19:12"
+   ],
+   "paralelos": [
+    "exodo 20:7",
+    "deuteronomio 5:11"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "oferta",
+    "descricao": "Para o juramento falso sobre bem alheio (depósito, achado), restituição integral mais um quinto e oferta pela culpa.",
+    "refs": [
+     "levitico 6:3-5"
+    ]
+   },
+   "associacoes": [
+    {
+     "texto": "O justo \"mantém seu juramento até sob seu próprio prejuízo\".",
+     "refs": [
+      "salmos 15:4"
+     ]
+    }
+   ],
+   "nota": "O juramento falso sobre depósito (Lv 6:1-7) é tratado no grupo \"vida-danos\". Na numeração hebraica Lv 6:1-7 é Lv 5:20-26.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "tratado Shevuot (juramentos)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-juramento-precipitado",
+   "grupo": "votos",
+   "subgrupo": "juramentos",
+   "titulo": "O juramento impensado",
+   "tipo": "positivo",
+   "texto": "Quem jurar levianamente fazer mal ou bem e depois perceber que pecou deve confessar e trazer oferta pelo pecado (cordeira ou cabra; se pobre, aves ou farinha).",
+   "refs": [
+    "levitico 5:4-6"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "oferta",
+    "descricao": "Confissão e oferta de expiação.",
+    "refs": [
+     "levitico 5:5-6"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Saul impôs ao exército um juramento de jejum; Jônatas o quebrou sem saber, e o povo impediu que ele fosse morto.",
+     "refs": [
+      "1-samuel 14:24",
+      "1-samuel 14:44-45"
+     ]
+    },
+    {
+     "descricao": "Herodes, preso a um juramento diante dos convidados, mandou decapitar João Batista.",
+     "refs": [
+      "mateus 14:7-9"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a-juramento-de-testemunha",
+   "grupo": "votos",
+   "subgrupo": "juramentos",
+   "titulo": "Não se calar depois de ouvir o juramento que convoca testemunhas",
+   "tipo": "positivo",
+   "texto": "Quem ouviu o chamado sob juramento e foi testemunha (viu ou soube) e não declara, leva a sua culpa.",
+   "refs": [
+    "levitico 5:1"
+   ],
+   "quem": "testemunhas",
+   "sancao": {
+    "tipo": "oferta",
+    "descricao": "Confissão e oferta pelo pecado.",
+    "refs": [
+     "levitico 5:5-6"
+    ]
+   },
+   "nota": "Regras de testemunhas nos tribunais estão no grupo \"tribunais-governo\"."
+  },
+  {
+   "id": "a-nazireu-sem-vinho",
+   "grupo": "votos",
+   "subgrupo": "nazireado",
+   "titulo": "O nazireu se abstém de vinho e de tudo o que vem da videira",
+   "tipo": "negativo",
+   "texto": "Homem ou mulher que faz voto de nazireu não bebe vinho nem bebida forte, nem vinagre, suco ou qualquer derivado da uva, nem come uvas frescas ou passas, nem sementes ou cascas.",
+   "refs": [
+    "numeros 6:2-4"
+   ],
+   "quem": "nazireus (homens ou mulheres que fazem o voto)",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "associacoes": [
+    {
+     "texto": "De João Batista se diz que \"não beberá vinho nem bebida alcoólica\".",
+     "refs": [
+      "lucas 1:15"
+     ]
+    },
+    {
+     "texto": "Amós denuncia quem dava vinho aos nazireus.",
+     "refs": [
+      "amos 2:11-12"
+     ]
+    }
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Nazir 1:3 (voto sem prazo vale 30 dias)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-nazireu-sem-navalha",
+   "grupo": "votos",
+   "subgrupo": "nazireado",
+   "titulo": "O nazireu não corta o cabelo",
+   "tipo": "negativo",
+   "texto": "Durante o voto não passa navalha na cabeça: deixa crescer o cabelo, sinal de consagração.",
+   "refs": [
+    "numeros 6:5"
+   ],
+   "quem": "nazireus",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "casos": [
+    {
+     "descricao": "Sansão, nazireu desde o ventre, perdeu a força quando lhe raparam a cabeça.",
+     "refs": [
+      "juizes 13:5",
+      "juizes 16:17"
+     ]
+    },
+    {
+     "descricao": "Ana prometeu que navalha não passaria na cabeça de Samuel.",
+     "refs": [
+      "1-samuel 1:11"
+     ]
+    }
+   ],
+   "nota": "Sansão e Samuel são nazireus \"desde o ventre\", por designação, não pelo voto temporário de Números 6."
+  },
+  {
+   "id": "a-nazireu-sem-morto",
+   "grupo": "votos",
+   "subgrupo": "nazireado",
+   "titulo": "O nazireu não se aproxima de cadáver",
+   "tipo": "negativo",
+   "texto": "Durante o voto não se contamina com morto, nem mesmo de pai, mãe, irmão ou irmã.",
+   "refs": [
+    "numeros 6:6-7"
+   ],
+   "quem": "nazireus",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "motivo": "\"Consagração de seu Deus tem sobre sua cabeça.\""
+  },
+  {
+   "id": "a-nazireu-contaminado",
+   "grupo": "votos",
+   "subgrupo": "nazireado",
+   "titulo": "Quando o nazireu se contamina por acidente",
+   "tipo": "positivo",
+   "texto": "Se alguém morrer de repente junto dele, rapa a cabeça no sétimo dia, traz duas rolinhas ou pombinhos no oitavo e um cordeiro pela culpa, e recomeça a contagem: os dias anteriores se perdem.",
+   "refs": [
+    "numeros 6:9-12"
+   ],
+   "quem": "nazireus",
+   "sancao": {
+    "tipo": "oferta",
+    "descricao": "Ofertas de expiação, holocausto e culpa; perda dos dias já cumpridos.",
+    "refs": [
+     "numeros 6:10-12"
+    ]
+   }
+  },
+  {
+   "id": "a-fim-do-nazireado",
+   "grupo": "votos",
+   "subgrupo": "nazireado",
+   "titulo": "As ofertas e o corte do cabelo ao fim do voto",
+   "tipo": "positivo",
+   "texto": "Ao completar o tempo, o nazireu oferece holocausto, expiação, sacrifício pacífico e pães asmos; rapa o cabelo à porta do tabernáculo e o queima no fogo do sacrifício; depois pode beber vinho.",
+   "refs": [
+    "numeros 6:13-20"
+   ],
+   "quem": "nazireus",
+   "condicao": "Com o santuário.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "casos": [
+    {
+     "descricao": "Paulo rapou a cabeça em Cencreia por causa de um voto; em Jerusalém pagou as despesas de quatro homens que concluíam voto.",
+     "refs": [
+      "atos 18:18",
+      "atos 21:23-24"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a-valor-de-pessoas",
+   "grupo": "votos",
+   "subgrupo": "consagracoes",
+   "titulo": "O valor de resgate de uma pessoa prometida a Deus",
+   "tipo": "positivo",
+   "texto": "Quem prometer a Deus o valor de uma pessoa paga segundo tabela fixa por idade e sexo (de 3 a 50 siclos); se for pobre, o sacerdote fixa o valor conforme suas posses.",
+   "refs": [
+    "levitico 27:2-8"
+   ],
+   "quem": "quem faz o voto; sacerdotes",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "rambam": "P 114",
+   "nota": "Tabela: homem de 20 a 60 anos, 50 siclos; mulher, 30; 5 a 20 anos, 20 e 10; 1 mês a 5 anos, 5 e 3; acima de 60, 15 e 10. Os valores refletem a força de trabalho na economia antiga, não o valor da pessoa diante de Deus.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "tratado Arakhin (avaliações)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-animal-consagrado-nao-trocar",
+   "grupo": "votos",
+   "subgrupo": "consagracoes",
+   "titulo": "Não trocar o animal consagrado",
+   "tipo": "negativo",
+   "texto": "O animal puro prometido ao SENHOR é santo: não se troca, nem bom por mau nem mau por bom; se trocar, os dois ficam consagrados.",
+   "refs": [
+    "levitico 27:9-10"
+   ],
+   "paralelos": [
+    "levitico 27:33"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena; mas a troca não desfaz a consagração: os dois animais ficam consagrados.",
+    "refs": [
+     "levitico 27:10"
+    ]
+   }
+  },
+  {
+   "id": "a-animal-impuro-consagrado",
+   "grupo": "votos",
+   "subgrupo": "consagracoes",
+   "titulo": "Animal impuro consagrado é avaliado e pode ser resgatado com um quinto a mais",
+   "tipo": "positivo",
+   "texto": "O animal impuro (que não serve para sacrifício) consagrado é avaliado pelo sacerdote; quem quiser resgatá-lo paga o valor mais um quinto.",
+   "refs": [
+    "levitico 27:11-13"
+   ],
+   "quem": "quem consagra; sacerdotes",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   }
+  },
+  {
+   "id": "a-casa-consagrada",
+   "grupo": "votos",
+   "subgrupo": "consagracoes",
+   "titulo": "Casa consagrada e seu resgate",
+   "tipo": "positivo",
+   "texto": "Quem consagra sua casa ao SENHOR aceita a avaliação do sacerdote; se quiser resgatá-la, paga o valor mais um quinto.",
+   "refs": [
+    "levitico 27:14-15"
+   ],
+   "quem": "quem consagra; sacerdotes",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   }
+  },
+  {
+   "id": "a-campo-consagrado",
+   "grupo": "votos",
+   "subgrupo": "consagracoes",
+   "titulo": "Campo de herança ou comprado consagrado",
+   "tipo": "positivo",
+   "texto": "Campo herdado consagrado vale 50 siclos por ômer de semente de cevada, proporcional aos anos até o jubileu; pode ser resgatado com um quinto a mais; se não for resgatado e for vendido, no jubileu passa ao sacerdote. Campo comprado consagrado volta ao dono original no jubileu.",
+   "refs": [
+    "levitico 27:16-24"
+   ],
+   "quem": "quem consagra; sacerdotes",
+   "condicao": "Só na terra e enquanto vigorar o jubileu.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "nota": "O jubileu e o resgate de terras estão no grupo \"terra-agricultura\". Os valores usam o siclo do santuário (20 óbolos, Lv 27:25)."
+  },
+  {
+   "id": "a-primogenito-nao-se-consagra",
+   "grupo": "votos",
+   "subgrupo": "consagracoes",
+   "titulo": "Não se consagra o que já é do SENHOR (primogênito)",
+   "tipo": "negativo",
+   "texto": "O primogênito dos animais puros já pertence ao SENHOR e ninguém o pode consagrar como voto; o primogênito de animal impuro se resgata pelo valor mais um quinto ou se vende.",
+   "refs": [
+    "levitico 27:26-27"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "nota": "As leis dos primogênitos estão no grupo \"santuario-sacerdocio\"; o dízimo (Lv 27:30-33) no grupo \"terra-agricultura\"."
+  },
+  {
+   "id": "a-anatema-nao-se-resgata",
+   "grupo": "votos",
+   "subgrupo": "consagracoes",
+   "titulo": "O que é votado ao anátema não se vende nem se resgata",
+   "tipo": "negativo",
+   "texto": "Tudo o que alguém dedicar ao SENHOR como anátema (herem) — pessoas sob sua posse, animais ou campos — é santíssimo: não se vende nem se resgata. A pessoa condenada ao anátema não é resgatada: será morta.",
+   "refs": [
+    "levitico 27:28-29"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "O ser humano posto sob anátema \"inevitavelmente será morto\".",
+    "refs": [
+     "levitico 27:29"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Israel fez voto de anátema contra as cidades cananeias de Arade (Hormá).",
+     "refs": [
+      "numeros 21:2-3"
+     ]
+    },
+    {
+     "descricao": "Jericó foi declarada anátema; Acã tomou dela e foi morto.",
+     "refs": [
+      "josue 6:17-18",
+      "josue 7:1",
+      "josue 7:25"
+     ]
+    }
+   ],
+   "nota": "O sentido de Lv 27:29 é discutido: muitos o ligam a condenados por sentença ou a inimigos de guerra, e não a um voto particular sobre pessoas livres."
+  },
+  {
+   "id": "a-distinguir-puro-impuro",
+   "grupo": "alimentos",
+   "subgrupo": "animais",
+   "titulo": "Distinguir entre animais puros e impuros",
+   "tipo": "positivo",
+   "texto": "Fazer diferença entre o animal limpo e o impuro, entre o que se pode e o que não se pode comer; \"nada abominável comerás\".",
+   "refs": [
+    "levitico 20:25"
+   ],
+   "paralelos": [
+    "levitico 11:46-47",
+    "deuteronomio 14:3"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "associacoes": [
+    {
+     "texto": "Marcos comenta que Jesus \"declarou como limpas todas as comidas\"; na visão de Pedro a voz diz: \"O que Deus purificou, não faças tu como se fosse ordinário\"; Paulo trata o assunto como questão de consciência.",
+     "refs": [
+      "marcos 7:18-19",
+      "atos 10:13-15",
+      "romanos 14:14",
+      "1-timoteo 4:3-5"
+     ]
+    },
+    {
+     "texto": "Daniel decidiu não se contaminar com a comida do rei.",
+     "refs": [
+      "daniel 1:8"
+     ]
+    }
+   ],
+   "motivo": "\"Sereis santos, porque eu sou santo\"; \"vos separei dos povos\" (Lv 11:44-45; 20:26).",
+   "nota": "O judaísmo mantém estas leis (cashrut); a maioria das igrejas cristãs entende, a partir de textos como Mc 7:19 e At 10, que não obrigam os cristãos, enquanto algumas (como os adventistas) seguem a distinção entre animais puros e impuros."
+  },
+  {
+   "id": "a-quadrupedes-sinais",
+   "grupo": "alimentos",
+   "subgrupo": "animais",
+   "titulo": "Comer só quadrúpedes de casco fendido que ruminam",
+   "tipo": "positivo",
+   "texto": "Dos animais da terra, pode-se comer o que tem o casco totalmente fendido e rumina (como boi, ovelha, cabra, cervo, gazela).",
+   "refs": [
+    "levitico 11:2-3"
+   ],
+   "paralelos": [
+    "deuteronomio 14:4-6"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "rambam": "P 149",
+   "nota": "O judaísmo mantém estas leis (cashrut); a maioria das igrejas cristãs entende, a partir de textos como Mc 7:19 e At 10, que não obrigam os cristãos, enquanto algumas (como os adventistas) seguem a distinção entre animais puros e impuros."
+  },
+  {
+   "id": "a-nao-comer-quadrupede-impuro",
+   "grupo": "alimentos",
+   "subgrupo": "animais",
+   "titulo": "Não comer quadrúpedes impuros (camelo, coelho, lebre, porco)",
+   "tipo": "negativo",
+   "texto": "Não comer o animal que só tem um dos dois sinais: camelo, coelho (hírax) e lebre ruminam mas não têm casco fendido; o porco tem casco fendido mas não rumina; também os que andam sobre as patas (garras).",
+   "refs": [
+    "levitico 11:4-8"
+   ],
+   "paralelos": [
+    "deuteronomio 14:7-8",
+    "levitico 11:26-27"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "impureza",
+    "descricao": "Quem toca o cadáver fica impuro até a tarde (ver o item próprio).",
+    "refs": [
+     "levitico 11:8",
+     "levitico 11:26-27"
+    ]
+   },
+   "associacoes": [
+    {
+     "texto": "Isaías descreve como apostasia \"comer carne de porco\".",
+     "refs": [
+      "isaias 65:4"
+     ]
+    }
+   ],
+   "rambam": "N 172",
+   "nota": "\"Ruminar\" no texto descreve o que se via (movimento da boca); coelho e lebre não ruminam no sentido zoológico moderno. A identificação de alguns animais (ex.: shafan = hírax) é discutida."
+  },
+  {
+   "id": "a-peixes-barbatanas-escamas",
+   "grupo": "alimentos",
+   "subgrupo": "animais",
+   "titulo": "Comer só animais aquáticos com barbatanas e escamas",
+   "tipo": "positivo",
+   "texto": "Das águas (mares e rios) pode-se comer o que tem barbatanas e escamas; o resto é abominação e não se come.",
+   "refs": [
+    "levitico 11:9-12"
+   ],
+   "paralelos": [
+    "deuteronomio 14:9-10"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "rambam": "P 152",
+   "nota": "O judaísmo mantém estas leis (cashrut); a maioria das igrejas cristãs entende, a partir de textos como Mc 7:19 e At 10, que não obrigam os cristãos, enquanto algumas (como os adventistas) seguem a distinção entre animais puros e impuros."
+  },
+  {
+   "id": "a-aves-impuras",
+   "grupo": "alimentos",
+   "subgrupo": "animais",
+   "titulo": "Não comer as aves proibidas",
+   "tipo": "negativo",
+   "texto": "Não comer as aves da lista — sobretudo aves de rapina e carniceiras (águia, abutres, falcões, corvos, corujas), além de avestruz, gaivota, cegonha, garça, poupa e morcego; as demais aves limpas podem ser comidas.",
+   "refs": [
+    "levitico 11:13-19"
+   ],
+   "paralelos": [
+    "deuteronomio 14:11-18",
+    "deuteronomio 14:20"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "rambam": "P 150",
+   "nota": "O texto dá uma lista, não sinais; a identificação de várias aves é incerta e as traduções variam. P 150 é o mandamento de examinar as aves.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Hulin 3:6 (sinais das aves puras, tradição posterior)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-insetos-alados",
+   "grupo": "alimentos",
+   "subgrupo": "animais",
+   "titulo": "Insetos alados: proibidos, salvo os gafanhotos que saltam",
+   "tipo": "negativo",
+   "texto": "Todo inseto alado que anda sobre quatro patas é abominação; podem-se comer os que têm pernas para saltar: gafanhotos e grilos das espécies citadas.",
+   "refs": [
+    "levitico 11:20-23"
+   ],
+   "paralelos": [
+    "deuteronomio 14:19"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "associacoes": [
+    {
+     "texto": "João Batista comia gafanhotos e mel silvestre.",
+     "refs": [
+      "marcos 1:6"
+     ]
+    }
+   ],
+   "rambam": "P 151",
+   "nota": "P 151 é o mandamento sobre os sinais dos gafanhotos permitidos. As identificações das quatro espécies de gafanhoto são incertas."
+  },
+  {
+   "id": "a-repteis-rastejantes",
+   "grupo": "alimentos",
+   "subgrupo": "animais",
+   "titulo": "Não comer animais que se arrastam pela terra",
+   "tipo": "negativo",
+   "texto": "Todo animal que se arrasta sobre a terra — que anda sobre o ventre ou sobre muitas patas, como doninha, rato e lagartos — é abominação e não se come; não se contaminar com eles.",
+   "refs": [
+    "levitico 11:41-44"
+   ],
+   "paralelos": [
+    "levitico 11:29-30"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "motivo": "\"Sereis santos, porque eu sou santo\" (Lv 11:44)."
+  },
+  {
+   "id": "a-nao-comer-sangue",
+   "grupo": "alimentos",
+   "subgrupo": "sangue-gordura",
+   "titulo": "Não comer sangue",
+   "tipo": "negativo",
+   "texto": "Não comer sangue algum, de ave ou de animal, em nenhuma habitação; o sangue deve ser derramado na terra como água.",
+   "refs": [
+    "levitico 17:10-12"
+   ],
+   "paralelos": [
+    "genesis 9:4",
+    "levitico 3:17",
+    "levitico 7:26-27",
+    "levitico 17:14",
+    "levitico 19:26",
+    "deuteronomio 12:16",
+    "deuteronomio 12:23-25",
+    "deuteronomio 15:23"
+   ],
+   "quem": "todo Israel e estrangeiro residente",
+   "sancao": {
+    "tipo": "extirpacao",
+    "descricao": "\"Eu porei meu rosto contra a pessoa que comer sangue, e lhe cortarei dentre seu povo.\"",
+    "refs": [
+     "levitico 17:10",
+     "levitico 7:27"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Depois da batalha, o povo faminto matou animais no chão e comeu com sangue; Saul mandou trazer uma grande pedra para que fossem abatidos corretamente.",
+     "refs": [
+      "1-samuel 14:32-34"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "O concílio de Jerusalém pediu aos cristãos gentios que se abstivessem do sangue e da carne sufocada; igrejas leem isso como regra permanente ou como medida para a convivência com judeus da época.",
+     "refs": [
+      "atos 15:28-29"
+     ]
+    }
+   ],
+   "motivo": "\"A vida da carne no sangue está: e eu vos a dei para expiar vossas pessoas sobre o altar\" (Lv 17:11).",
+   "nota": "A proibição aparece já para Noé (Gn 9:4), antes da lei de Moisés.",
+   "fonte_extra": [
+    {
+     "fonte": "Talmude Babilônico",
+     "referencia": "Hulin 113a (salgar a carne para retirar o sangue — prática posterior)",
+     "data": "c. 500 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-cobrir-sangue-caca",
+   "grupo": "alimentos",
+   "subgrupo": "sangue-gordura",
+   "titulo": "Cobrir com terra o sangue da caça",
+   "tipo": "positivo",
+   "texto": "Quem caçar animal ou ave que se pode comer derrama o sangue e o cobre com terra.",
+   "refs": [
+    "levitico 17:13"
+   ],
+   "quem": "todo Israel e estrangeiro residente",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "motivo": "\"A alma de toda carne, sua vida, está em seu sangue\" (Lv 17:14).",
+   "rambam": "P 147"
+  },
+  {
+   "id": "a-nao-comer-gordura",
+   "grupo": "alimentos",
+   "subgrupo": "sangue-gordura",
+   "titulo": "Não comer a gordura (sebo) dos animais de sacrifício",
+   "tipo": "negativo",
+   "texto": "Não comer a gordura de boi, ovelha ou cabra (a que se queima no altar); a gordura de animal morto ou dilacerado pode ter outros usos, mas não se come.",
+   "refs": [
+    "levitico 7:23-25"
+   ],
+   "paralelos": [
+    "levitico 3:17"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "extirpacao",
+    "descricao": "\"A pessoa que o comer, será cortada de seus povos.\"",
+    "refs": [
+     "levitico 7:25"
+    ]
+   },
+   "motivo": "\"A gordura tudo é do SENHOR\" (Lv 3:16).",
+   "nota": "Trata-se da gordura que envolve as vísceras e os rins (Lv 3:3-4), não da gordura misturada à carne, segundo a interpretação judaica."
+  },
+  {
+   "id": "a-nao-comer-com-a-vida",
+   "grupo": "alimentos",
+   "subgrupo": "sangue-gordura",
+   "titulo": "Não comer a carne com a sua vida",
+   "tipo": "negativo",
+   "texto": "\"A carne com sua vida, que é seu sangue, não comereis\"; não comer a vida juntamente com a carne.",
+   "refs": [
+    "genesis 9:4"
+   ],
+   "paralelos": [
+    "deuteronomio 12:23"
+   ],
+   "quem": "toda a humanidade (Noé); todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "nota": "A tradição judaica lê aqui também a proibição de comer um membro arrancado de animal vivo, uma das leis dadas a todos os descendentes de Noé.",
+   "fonte_extra": [
+    {
+     "fonte": "Talmude Babilônico",
+     "referencia": "Sanhedrin 56a-59a (as sete leis dos filhos de Noé)",
+     "data": "c. 500 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-carne-comum-permitida",
+   "grupo": "alimentos",
+   "subgrupo": "abate",
+   "titulo": "Abater e comer carne comum nas cidades",
+   "tipo": "positivo",
+   "texto": "Quando o santuário estiver longe, pode-se abater gado e ovelhas e comer carne nas cidades, \"como te mandei\", puros e impuros, como se come o cervo — sempre derramando o sangue.",
+   "refs": [
+    "deuteronomio 12:20-22"
+   ],
+   "paralelos": [
+    "deuteronomio 12:15-16"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "rambam": "P 146",
+   "nota": "Em Levítico 17:3-4 todo abate de animal doméstico no deserto devia ser levado ao tabernáculo (grupo \"santuario-sacerdocio\"); Deuteronômio permite o abate comum longe do santuário. A tradição judaica lê \"como te mandei\" como referência ao método de abate (shechitá).",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Hulin 1-2 (o abate ritual)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-mae-e-filho-mesmo-dia",
+   "grupo": "alimentos",
+   "subgrupo": "abate",
+   "titulo": "Não abater no mesmo dia a mãe e a cria",
+   "tipo": "negativo",
+   "texto": "Seja vaca ou ovelha, não abater no mesmo dia o animal e o seu filhote; o recém-nascido fica sete dias com a mãe antes de ser aceito como oferta.",
+   "refs": [
+    "levitico 22:28"
+   ],
+   "paralelos": [
+    "levitico 22:27",
+    "exodo 22:30"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "nota": "Contexto sacrificial; a tradição judaica aplica também ao abate comum. A lei do ninho (Dt 22:6-7) está no grupo \"economia-justica-social\".",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Hulin 5 (\"ele e seu filho\")",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-boi-apedrejado-nao-se-come",
+   "grupo": "alimentos",
+   "subgrupo": "abate",
+   "titulo": "Não comer a carne do boi apedrejado",
+   "tipo": "negativo",
+   "texto": "O boi que matou uma pessoa com chifradas é apedrejado, e sua carne não se come.",
+   "refs": [
+    "exodo 21:28"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "nota": "A responsabilidade do dono está no grupo \"vida-danos\"."
+  },
+  {
+   "id": "a-nervo-do-quadril",
+   "grupo": "alimentos",
+   "subgrupo": "nervo",
+   "titulo": "Não comer o nervo do quadril",
+   "tipo": "negativo",
+   "texto": "Os filhos de Israel não comem o tendão que está na junta da coxa, porque o homem que lutou com Jacó tocou esse lugar.",
+   "refs": [
+    "genesis 32:32"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "motivo": "A luta de Jacó em Peniel (Gn 32:24-32).",
+   "nota": "O texto apresenta isso como costume de Israel \"até o dia de hoje\", não como mandamento dado por Moisés; a tradição judaica o conta entre os 613. O tendão é geralmente identificado com o nervo ciático.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Hulin 7:1 (o \"nervo que se contrai\")",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-nao-cozinhar-cabrito-no-leite",
+   "grupo": "alimentos",
+   "subgrupo": "leite",
+   "titulo": "Não cozinhar o cabrito no leite de sua mãe",
+   "tipo": "negativo",
+   "texto": "\"Não cozerás o cabrito no leite de sua mãe.\"",
+   "refs": [
+    "exodo 23:19"
+   ],
+   "paralelos": [
+    "exodo 34:26",
+    "deuteronomio 14:21"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "motivo": "Em Dt 14:21 a regra vem junto com a frase \"porque tu és povo santo ao SENHOR teu Deus\".",
+   "nota": "O texto não explica o motivo; propostas incluem respeito pela vida/maternidade ou rejeição de rito pagão (hipótese antiga, sem prova segura). A separação total entre carne e laticínios é ampliação rabínica posterior. Interpretações cristãs variam como nas demais leis alimentares.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Hulin 8:1-4 (carne e leite; extensão às aves é rabínica)",
+     "data": "c. 200 d.C."
+    },
+    {
+     "fonte": "Talmude Babilônico",
+     "referencia": "Hulin 115b (três menções = proibição de cozinhar, comer e tirar proveito)",
+     "data": "c. 500 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-nao-comer-dilacerado",
+   "grupo": "alimentos",
+   "subgrupo": "morto-dilacerado",
+   "titulo": "Não comer carne despedaçada por feras",
+   "tipo": "negativo",
+   "texto": "\"Não comereis carne arrebatada das feras no campo; aos cães a lançareis.\"",
+   "refs": [
+    "exodo 22:31"
+   ],
+   "paralelos": [
+    "levitico 22:8",
+    "levitico 17:15"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "associacoes": [
+    {
+     "texto": "Ezequiel diz nunca ter comido coisa morta nem despedaçada; os sacerdotes do templo futuro também não comerão.",
+     "refs": [
+      "ezequiel 4:14",
+      "ezequiel 44:31"
+     ]
+    }
+   ],
+   "motivo": "\"Haveis de ser para mim homens santos.\"",
+   "nota": "A tradição judaica amplia a ideia de terefá a animais com certas lesões graves, mesmo abatidos corretamente.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Hulin 3:1 (lesões que tornam o animal terefá)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "a-nao-comer-animal-morto",
+   "grupo": "alimentos",
+   "subgrupo": "morto-dilacerado",
+   "titulo": "Não comer animal que morreu por si mesmo",
+   "tipo": "negativo",
+   "texto": "Não comer animal que morreu sem ser abatido; pode ser dado ao estrangeiro residente ou vendido ao estrangeiro.",
+   "refs": [
+    "deuteronomio 14:21"
+   ],
+   "paralelos": [
+    "levitico 22:8",
+    "levitico 7:24"
+   ],
+   "quem": "todo Israel (o estrangeiro pode comer)",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O texto não fixa pena humana para esta lei."
+   },
+   "motivo": "\"Porque tu és povo santo ao SENHOR teu Deus.\"",
+   "nota": "Lv 17:15 supõe que um natural ou estrangeiro possa comê-lo e fique impuro; Dt 14:21 o proíbe ao israelita. Estudiosos explicam a diferença de modos diversos."
+  },
+  {
+   "id": "a-impureza-por-comer-carcaca",
+   "grupo": "alimentos",
+   "subgrupo": "morto-dilacerado",
+   "titulo": "Quem come animal morto ou dilacerado se purifica",
+   "tipo": "positivo",
+   "texto": "Quem comer carne de animal morto ou despedaçado, natural ou estrangeiro, lava as roupas e se banha, ficando impuro até a tarde.",
+   "refs": [
+    "levitico 17:15"
+   ],
+   "paralelos": [
+    "levitico 11:40"
+   ],
+   "quem": "natural e estrangeiro",
+   "sancao": {
+    "tipo": "impureza",
+    "descricao": "Impureza até a tarde; se não se lavar, \"levará sua iniquidade\".",
+    "refs": [
+     "levitico 17:15-16"
+    ]
+   }
+  },
+  {
+   "id": "a-cadaver-animal-impuro",
+   "grupo": "alimentos",
+   "subgrupo": "morto-dilacerado",
+   "titulo": "O cadáver de animal impuro contamina",
+   "tipo": "negativo",
+   "texto": "Quem toca o cadáver de animal impuro fica impuro até a tarde; quem o carrega lava as roupas. Vale para quadrúpedes impuros, animais de garras e os oito pequenos animais que se arrastam (doninha, rato, lagartos).",
+   "refs": [
+    "levitico 11:24-28"
+   ],
+   "paralelos": [
+    "levitico 11:8",
+    "levitico 11:31",
+    "deuteronomio 14:8"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "impureza",
+    "descricao": "Impureza até a tarde, lavagem das roupas; tocar sem saber exige oferta ao perceber.",
+    "refs": [
+     "levitico 11:24-25",
+     "levitico 5:2-6"
+    ]
+   },
+   "nota": "As leis gerais de impureza e purificação estão no grupo \"pureza\"."
+  },
+  {
+   "id": "a-cadaver-animal-puro",
+   "grupo": "alimentos",
+   "subgrupo": "morto-dilacerado",
+   "titulo": "O cadáver de animal puro que morreu também contamina",
+   "tipo": "negativo",
+   "texto": "Se morrer (sem abate) um animal dos que se podem comer, quem toca o cadáver, quem o carrega ou quem dele come fica impuro até a tarde.",
+   "refs": [
+    "levitico 11:39-40"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "impureza",
+    "descricao": "Impureza até a tarde e lavagem das roupas.",
+    "refs": [
+     "levitico 11:40"
+    ]
+   }
+  },
+  {
+   "id": "a-objetos-contaminados",
+   "grupo": "alimentos",
+   "subgrupo": "morto-dilacerado",
+   "titulo": "Objetos e alimentos tocados por cadáver de animal que se arrasta",
+   "tipo": "positivo",
+   "texto": "Utensílio de madeira, roupa, pele ou saco em que cair um desses animais mortos é posto na água e fica impuro até a tarde; vaso de barro é quebrado; comida e bebida molhadas nele ficam impuras; fonte e cisterna continuam puras; semente seca continua pura, mas molhada fica impura.",
+   "refs": [
+    "levitico 11:32-38"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "impureza",
+    "descricao": "Impureza dos objetos; destruição do vaso de barro e do forno.",
+    "refs": [
+     "levitico 11:33",
+     "levitico 11:35"
+    ]
+   },
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "ordem Tohorot, tratado Kelim (impureza dos utensílios)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  }
+ ]
+}

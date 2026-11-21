@@ -1,0 +1,814 @@
+{
+ "livro": "levitico",
+ "nome": "Levítico",
+ "subtitulo": "Santos, porque Deus é santo",
+ "introducao": "Levítico reúne as instruções que Deus deu a Moisés no Sinai para que Israel pudesse viver com o Deus santo habitando no seu meio. O livro trata dos sacrifícios, do sacerdócio, da pureza, do Dia da Expiação e das festas. Ele também mostra que a santidade alcança a vida diária, resumida em \"amarás a teu próximo como a ti mesmo\".",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Tradicionalmente atribuído a Moisés; muitos estudiosos o ligam também a tradições sacerdotais reunidas depois"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "As instruções se situam no ano que Israel passou no Sinai; a data da redação final é debatida"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Ao pé do monte Sinai (7:38, 27:34)"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "Os sacerdotes e todo o povo de Israel"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Leis e instruções de culto, com breves narrativas"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "27 capítulos e 859 versículos"
+  }
+ ],
+ "chave": "19:2",
+ "temas": [
+  "A santidade de Deus",
+  "Sacrifício, expiação e perdão",
+  "O sacerdócio e o acesso a Deus",
+  "Pureza e vida diária",
+  "Amor ao próximo e justiça social"
+ ],
+ "cristo": "A Carta aos Hebreus apresenta Jesus como o sumo sacerdote perfeito, que entrou na presença de Deus com seu próprio sangue, e lê os sacrifícios de Levítico como sombras que apontam para ele. Jesus também resume a lei citando o mandamento de amar o próximo como a si mesmo (19:18).",
+ "secoes": [
+  {
+   "id": "ofertas",
+   "titulo": "As ofertas",
+   "capitulos": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "resumo": "Instruções sobre os sacrifícios e o que cabe aos sacerdotes."
+  },
+  {
+   "id": "sacerdocio",
+   "titulo": "O sacerdócio começa",
+   "capitulos": [
+    8,
+    9,
+    10
+   ],
+   "resumo": "A consagração de Arão, a glória de Deus e o juízo sobre Nadabe e Abiú."
+  },
+  {
+   "id": "puro-e-impuro",
+   "titulo": "O puro e o impuro",
+   "capitulos": [
+    11,
+    12,
+    13,
+    14,
+    15
+   ],
+   "resumo": "Leis sobre alimentos, parto, doenças de pele e impurezas do corpo."
+  },
+  {
+   "id": "dia-da-expiacao",
+   "titulo": "O Dia da Expiação",
+   "capitulos": [
+    16
+   ],
+   "resumo": "O dia anual em que o santuário e o povo são purificados."
+  },
+  {
+   "id": "vida-santa",
+   "titulo": "Uma vida santa",
+   "capitulos": [
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+   ],
+   "resumo": "A santidade nas relações, na justiça e no serviço sacerdotal."
+  },
+  {
+   "id": "tempos-sagrados",
+   "titulo": "Tempos sagrados e aliança",
+   "capitulos": [
+    23,
+    24,
+    25,
+    26,
+    27
+   ],
+   "resumo": "Festas, jubileu, bênçãos, advertências, votos e dízimos."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "O holocausto",
+   "chave": "1:4",
+   "resumo": "Do tabernáculo, o SENHOR dá a Moisés as instruções sobre o holocausto, a oferta inteiramente queimada no altar. O animal podia ser um novilho, um carneiro ou cabrito, ou até aves, conforme as posses de quem oferecia, mas devia ser sem defeito. Quem trazia a oferta punha a mão sobre a cabeça do animal, que era aceito para fazer expiação por ele.",
+   "licoes": [
+    "Deus fala com seu povo e mostra o caminho para se aproximar dele (1:1-2).",
+    "A oferta deve ser o melhor, sem defeito (1:3, 1:10).",
+    "Pôr a mão sobre o animal indica identificação: ele é aceito em favor do ofertante (1:4).",
+    "Deus permite ofertas menores, como aves, para que os pobres também possam adorar (1:14)."
+   ],
+   "reflexao": "O que significa, para você, oferecer a Deus o melhor e não o que sobra?",
+   "quiz": [
+    {
+     "pergunta": "Onde o ofertante devia pôr a mão antes do sacrifício?",
+     "opcoes": [
+      "Sobre o altar",
+      "Sobre a cabeça do animal",
+      "Sobre a arca",
+      "Sobre o sacerdote"
+     ],
+     "correta": 1,
+     "ref": "1:4"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "A oferta de alimentos",
+   "chave": "2:13",
+   "resumo": "O capítulo descreve a oferta de alimentos (ou de cereais), feita de boa farinha com azeite e incenso, crua ou assada no forno, na assadeira ou na frigideira. Uma porção \"memorial\" era queimada no altar e o restante ficava para os sacerdotes. Não podia ter fermento nem mel, e toda oferta devia ser temperada com sal, o \"sal do pacto\".",
+   "licoes": [
+    "A gratidão a Deus também se expressa com o fruto do trabalho diário (2:1, 2:4).",
+    "Parte da oferta sustentava os sacerdotes, que serviam no santuário (2:3, 2:10).",
+    "O sal lembra que a aliança de Deus é duradoura (2:13).",
+    "Deus recebe as primícias, os primeiros frutos (2:14)."
+   ],
+   "reflexao": "Como você expressa a Deus gratidão pelo sustento de cada dia?",
+   "quiz": [
+    {
+     "pergunta": "O que nunca devia faltar nas ofertas de alimentos?",
+     "opcoes": [
+      "Mel",
+      "Fermento",
+      "Vinho",
+      "Sal"
+     ],
+     "correta": 3,
+     "ref": "2:13"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "O sacrifício pacífico",
+   "chave": "3:1",
+   "resumo": "O sacrifício pacífico, ou de comunhão, podia ser de gado, ovelha ou cabra, macho ou fêmea, sem defeito. O ofertante punha a mão sobre o animal e o imolava à porta da tenda; a gordura e os rins eram queimados no altar como oferta ao SENHOR. O capítulo termina proibindo o povo de comer gordura e sangue.",
+   "licoes": [
+    "Há ofertas que celebram a paz e a comunhão com Deus (3:1).",
+    "O ofertante participa pessoalmente do sacrifício (3:2, 3:8).",
+    "O melhor, simbolizado pela gordura, pertence ao SENHOR (3:16).",
+    "A proibição do sangue lembra que a vida pertence a Deus (3:17)."
+   ],
+   "reflexao": "Você tem celebrado a paz com Deus em sua vida?",
+   "quiz": [
+    {
+     "pergunta": "O que os israelitas não podiam comer, segundo o estatuto perpétuo?",
+     "opcoes": [
+      "Gordura e sangue",
+      "Pão sem fermento",
+      "Carne de carneiro",
+      "Frutas do campo"
+     ],
+     "correta": 0,
+     "ref": "3:17"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "A oferta pelo pecado",
+   "chave": "4:20",
+   "resumo": "Deus estabelece a oferta pelo pecado cometido por engano, isto é, sem intenção. Há instruções diferentes para o sacerdote ungido, para toda a congregação, para um líder e para uma pessoa comum, com animais diferentes em cada caso. O sangue era aspergido e posto nas pontas do altar, e o sacerdote fazia expiação, e o pecado era perdoado.",
+   "licoes": [
+    "Mesmo os pecados cometidos sem intenção precisam ser tratados diante de Deus (4:2).",
+    "Quanto maior a responsabilidade, maior a seriedade do pecado (4:3, 4:22).",
+    "A comunidade inteira também pode pecar e precisa de expiação (4:13-14).",
+    "Deus providencia um caminho para que o pecado seja perdoado (4:20, 4:31)."
+   ],
+   "reflexao": "Você leva a sério até os pecados que cometeu sem perceber?",
+   "quiz": [
+    {
+     "pergunta": "Por quem era oferecido um bezerro quando ele pecava?",
+     "opcoes": [
+      "Pelo sacerdote ungido",
+      "Pelo príncipe",
+      "Por uma pessoa comum",
+      "Por um estrangeiro"
+     ],
+     "correta": 0,
+     "ref": "4:3"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "Confissão e reparação",
+   "chave": "5:5",
+   "resumo": "O capítulo trata de pecados como deixar de testemunhar, tocar em algo impuro ou fazer juramentos precipitados. A pessoa devia confessar seu pecado e trazer uma oferta: uma ovelha ou cabra, ou, se fosse pobre, duas rolinhas, ou ainda um pouco de farinha. Também é instituída a oferta pela culpa, com reparação do dano mais um quinto do valor.",
+   "licoes": [
+    "Confessar o pecado faz parte do caminho do perdão (5:5).",
+    "Deus adapta a oferta às condições de cada um, até dos mais pobres (5:7, 5:11).",
+    "O perdão inclui reparar o dano causado (5:16).",
+    "Pecar contra as coisas santas é pecar contra o próprio SENHOR (5:15, 5:19)."
+   ],
+   "reflexao": "Há algum dano que você precisa reparar, além de pedir perdão?",
+   "quiz": [
+    {
+     "pergunta": "Quem não tinha recursos para um cordeiro podia oferecer o quê?",
+     "opcoes": [
+      "Um bezerro",
+      "Duas rolinhas ou dois pombinhos",
+      "Um bode",
+      "Uma peça de prata"
+     ],
+     "correta": 1,
+     "ref": "5:7"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "Restituição e o fogo contínuo",
+   "chave": "6:13",
+   "resumo": "Quem enganar o próximo, negar um depósito, roubar ou jurar falsamente deve restituir tudo, acrescentar um quinto e trazer uma oferta pela culpa. Em seguida, Deus dá aos sacerdotes instruções sobre o holocausto, cujo fogo no altar nunca deve se apagar, sobre a oferta de cereais e sobre a oferta pelo pecado, que é coisa santíssima.",
+   "licoes": [
+    "Pecar contra o próximo é também transgredir contra o SENHOR (6:2).",
+    "O arrependimento verdadeiro inclui devolver o que foi tirado, com acréscimo (6:4-5).",
+    "O fogo contínuo no altar lembra uma devoção que não se apaga (6:12-13).",
+    "O que é consagrado a Deus deve ser tratado como santo (6:25, 6:29)."
+   ],
+   "reflexao": "Há algo que você precisa restituir a alguém para estar em paz com Deus e com o próximo?",
+   "quiz": [
+    {
+     "pergunta": "O que nunca devia acontecer com o fogo do altar?",
+     "opcoes": [
+      "Ser aceso de manhã",
+      "Apagar-se",
+      "Ser alimentado com lenha",
+      "Ser visto pelo povo"
+     ],
+     "correta": 1,
+     "ref": "6:13"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "A parte dos sacerdotes e as ofertas pacíficas",
+   "chave": "7:12",
+   "resumo": "Deus continua as instruções sobre a oferta pela culpa e sobre o que cabe aos sacerdotes em cada oferta. O sacrifício pacífico podia ser de ação de graças, de voto ou voluntário, e sua carne devia ser comida dentro do prazo. Reforça-se a proibição de comer gordura e sangue, e o peito e a coxa direita são dados a Arão e seus filhos.",
+   "licoes": [
+    "A ação de graças tem lugar especial na adoração (7:12).",
+    "Participar da comunhão com Deus exige pureza (7:20-21).",
+    "Os que servem no altar são sustentados pelas ofertas do povo (7:31-34).",
+    "Todas essas leis vêm do próprio Deus, dadas no Sinai (7:37-38)."
+   ],
+   "reflexao": "Pelo que você pode oferecer a Deus um \"sacrifício de ação de graças\" hoje?",
+   "quiz": [
+    {
+     "pergunta": "Que partes do sacrifício pacífico ficavam para os sacerdotes?",
+     "opcoes": [
+      "A cabeça e as pernas",
+      "Os rins e a gordura",
+      "O peito e a coxa direita",
+      "O couro e os chifres"
+     ],
+     "correta": 2,
+     "ref": "7:31-32"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "A ordenação de Arão e seus filhos",
+   "chave": "8:12",
+   "resumo": "Diante de toda a congregação, Moisés lava Arão e seus filhos, veste Arão com as vestes sacerdotais, unge o tabernáculo e derrama o azeite sobre a cabeça de Arão. Oferece um bezerro pelo pecado, um carneiro em holocausto e o carneiro da consagração, cujo sangue põe na orelha, no polegar da mão e no dedão do pé dos sacerdotes. Eles permanecem sete dias à porta da tenda.",
+   "licoes": [
+    "Tudo é feito diante do povo e conforme o que o SENHOR mandou (8:4-5).",
+    "Os sacerdotes também precisam de expiação antes de servir (8:14-15).",
+    "O sangue no ouvido, na mão e no pé simboliza a consagração da vida inteira (8:23-24).",
+    "Arão e seus filhos obedecem a tudo o que Deus ordenou (8:36)."
+   ],
+   "reflexao": "O que você ouve, faz e por onde anda reflete uma vida consagrada a Deus?",
+   "quiz": [
+    {
+     "pergunta": "Onde Moisés pôs o sangue do carneiro da consagração em Arão?",
+     "opcoes": [
+      "Na orelha direita, no polegar da mão e no do pé direito",
+      "Na testa e no peito",
+      "Nas costas e nos ombros",
+      "Na mitra e no éfode"
+     ],
+     "correta": 0,
+     "ref": "8:23"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "A glória do SENHOR aparece",
+   "chave": "9:23-24",
+   "resumo": "No oitavo dia, Arão começa seu ministério oferecendo sacrifícios por si mesmo e pelo povo: oferta pelo pecado, holocausto, oferta de cereais e sacrifícios pacíficos. Depois, levanta as mãos e abençoa o povo. Moisés e Arão entram na tenda, saem e abençoam o povo, e a glória do SENHOR aparece. Fogo sai da presença do SENHOR e consome a oferta, e o povo grita de alegria e se prostra.",
+   "licoes": [
+    "A obediência prepara o lugar para a manifestação da glória de Deus (9:6).",
+    "O sacerdote precisa de expiação antes de interceder pelo povo (9:7-8).",
+    "Abençoar o povo faz parte do serviço sacerdotal (9:22-23).",
+    "A presença de Deus leva à alegria e à adoração reverente (9:24)."
+   ],
+   "reflexao": "Quando foi a última vez que você adorou a Deus com alegria e reverência ao mesmo tempo?",
+   "quiz": [
+    {
+     "pergunta": "O que consumiu o holocausto sobre o altar?",
+     "opcoes": [
+      "Fogo saído de diante do SENHOR",
+      "Um raio do céu",
+      "A tocha de Arão",
+      "O fogo de Nadabe"
+     ],
+     "correta": 0,
+     "ref": "9:24"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "titulo": "Nadabe e Abiú",
+   "chave": "10:3",
+   "resumo": "Nadabe e Abiú, filhos de Arão, oferecem diante do SENHOR um \"fogo estranho\", que ele não havia ordenado, e são consumidos pelo fogo. Moisés lembra que Deus se mostrará santo entre os que se aproximam dele, e Arão se cala. Deus proíbe os sacerdotes de beber vinho ao servir, para que saibam distinguir o santo do comum e ensinar o povo. Há ainda uma discussão sobre a carne da oferta pelo pecado.",
+   "licoes": [
+    "Aproximar-se de Deus do nosso jeito, ignorando sua palavra, é perigoso (10:1-2).",
+    "Deus se mostra santo entre os que se aproximam dele (10:3).",
+    "Os líderes devem manter a mente lúcida para distinguir o santo do comum (10:9-10).",
+    "Os sacerdotes são chamados a ensinar ao povo os estatutos de Deus (10:11)."
+   ],
+   "reflexao": "Você tem tratado as coisas de Deus com a reverência que ele merece?",
+   "quiz": [
+    {
+     "pergunta": "Como foi chamado o fogo que Nadabe e Abiú ofereceram?",
+     "opcoes": [
+      "Fogo santo",
+      "Fogo da manhã",
+      "Fogo do altar",
+      "Fogo estranho"
+     ],
+     "correta": 3,
+     "ref": "10:1"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "titulo": "Animais limpos e impuros",
+   "chave": "11:44-45",
+   "resumo": "Deus estabelece quais animais Israel pode comer: animais terrestres que ruminam e têm o casco fendido, peixes com barbatanas e escamas, alguns insetos como o gafanhoto; e lista aves e répteis proibidos. Tocar em cadáveres desses animais torna a pessoa impura até a tarde. O motivo central é repetido: Israel deve ser santo, porque o SENHOR é santo.",
+   "licoes": [
+    "A santidade alcança até o que se come no dia a dia (11:2-3, 11:47).",
+    "As leis de alimentação ajudavam a marcar Israel como povo separado para Deus (11:44).",
+    "O chamado é claro: \"sereis santos, porque eu sou santo\" (11:45).",
+    "Distinguir entre o puro e o impuro educava o povo a discernir (11:47)."
+   ],
+   "reflexao": "Em que áreas comuns da sua vida a santidade de Deus precisa aparecer?",
+   "quiz": [
+    {
+     "pergunta": "Que características tinha um animal terrestre que podia ser comido?",
+     "opcoes": [
+      "Ruminava e tinha unhas fendidas",
+      "Tinha garras e voava",
+      "Rastejava sobre o peito",
+      "Tinha quatro patas e pelo"
+     ],
+     "correta": 0,
+     "ref": "11:3"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "titulo": "A purificação após o parto",
+   "chave": "12:8",
+   "resumo": "Depois de dar à luz, a mulher passa por um período de purificação: o menino é circuncidado no oitavo dia, e os dias de purificação são mais longos quando nasce uma menina. Ao final, ela traz um cordeiro para holocausto e uma ave como oferta pelo pecado; se não tiver recursos, duas rolinhas ou dois pombinhos.",
+   "licoes": [
+    "O nascimento é cercado de cuidado e de um tempo de recolhimento (12:2-4).",
+    "A circuncisão no oitavo dia lembra a aliança com Abraão (12:3).",
+    "Deus prevê uma oferta acessível para as famílias pobres (12:8)."
+   ],
+   "reflexao": "Como você tem consagrado a Deus os começos e as novas fases da sua vida?",
+   "quiz": [
+    {
+     "pergunta": "Em que dia o menino devia ser circuncidado?",
+     "opcoes": [
+      "No terceiro dia",
+      "No sétimo dia",
+      "No quadragésimo dia",
+      "No oitavo dia"
+     ],
+     "correta": 3,
+     "ref": "12:3"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "titulo": "Doenças de pele",
+   "chave": "13:46",
+   "resumo": "O sacerdote deve examinar manchas, inchaços e feridas na pele para diagnosticar a \"lepra\", termo que na Bíblia abrange várias doenças de pele, e não só a hanseníase. Em casos duvidosos, a pessoa fica isolada por sete dias e é examinada de novo. Quem é declarado impuro deve viver fora do acampamento. O capítulo trata também de mofo em roupas.",
+   "licoes": [
+    "Deus se importa com a saúde e a ordem da comunidade (13:2-3).",
+    "Decisões importantes pedem exame cuidadoso e paciência (13:4-6).",
+    "A pessoa impura vivia isolada, uma situação de grande dor social (13:45-46).",
+    "Até as roupas e objetos eram examinados, mostrando o cuidado com a pureza (13:47, 13:59)."
+   ],
+   "reflexao": "Quem está \"fora do acampamento\" na sua comunidade, e como você pode se aproximar?",
+   "quiz": [
+    {
+     "pergunta": "Onde devia morar a pessoa declarada impura por lepra?",
+     "opcoes": [
+      "No átrio do tabernáculo",
+      "Na tenda do sacerdote",
+      "Fora do acampamento",
+      "Numa cidade de refúgio"
+     ],
+     "correta": 2,
+     "ref": "13:46"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "titulo": "A purificação do curado",
+   "chave": "14:7",
+   "resumo": "Quando alguém era curado da doença de pele, o sacerdote ia até ele fora do acampamento. Havia um rito com duas aves: uma era morta e a outra, molhada no sangue, era solta no campo. Depois de lavar-se e esperar sete dias, a pessoa oferecia sacrifícios, e o sangue e o azeite eram postos em sua orelha, mão e pé. O capítulo trata também de casas com mofo.",
+   "licoes": [
+    "É o sacerdote que vai até a pessoa excluída, fora do acampamento (14:3).",
+    "A ave solta no campo é uma imagem viva de libertação e nova vida (14:7).",
+    "O curado é restaurado ao convívio com Deus e com a comunidade (14:8, 14:20).",
+    "Deus prevê ofertas mais simples para quem é pobre (14:21-22)."
+   ],
+   "reflexao": "Como a restauração de alguém excluído pode ser celebrada em sua comunidade?",
+   "quiz": [
+    {
+     "pergunta": "O que acontecia com a ave viva no rito de purificação?",
+     "opcoes": [
+      "Era oferecida em holocausto",
+      "Era solta no campo",
+      "Era dada ao sacerdote",
+      "Era guardada no tabernáculo"
+     ],
+     "correta": 1,
+     "ref": "14:7"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "titulo": "Impurezas do corpo",
+   "chave": "15:31",
+   "resumo": "O capítulo trata das impurezas relacionadas a fluxos do corpo de homens e mulheres, como secreções, emissões e a menstruação. Essas condições não são chamadas de pecado, mas tornavam a pessoa ritualmente impura por um tempo, exigindo lavagem e, em casos prolongados, uma oferta. O objetivo é que o povo não contamine o tabernáculo onde Deus habita.",
+   "licoes": [
+    "Impureza ritual não é o mesmo que pecado moral; faz parte da vida no corpo (15:2, 15:19).",
+    "Lavar-se e esperar ensinavam o povo a se preparar para estar perto de Deus (15:13).",
+    "A santidade do tabernáculo no meio do povo pede cuidado de todos (15:31)."
+   ],
+   "reflexao": "O que essas leis ensinam sobre o respeito pela presença de Deus no meio do seu povo?",
+   "quiz": [
+    {
+     "pergunta": "Qual era o objetivo das leis de impureza, segundo o final do capítulo?",
+     "opcoes": [
+      "Envergonhar os doentes",
+      "Que não contaminassem o tabernáculo de Deus",
+      "Aumentar as ofertas",
+      "Separar homens e mulheres"
+     ],
+     "correta": 1,
+     "ref": "15:31"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "titulo": "O Dia da Expiação",
+   "chave": "16:30",
+   "resumo": "Depois da morte de Nadabe e Abiú, Deus explica como Arão pode entrar no Santo dos Santos: só uma vez por ano, com vestes de linho, incenso e o sangue dos sacrifícios. Ele oferece um bezerro por si e um bode pelo povo, aspergindo o sangue sobre o propiciatório. Sobre um segundo bode, Arão coloca as mãos, confessa os pecados de Israel, e o animal é levado ao deserto. Esse dia, no sétimo mês, é um sábado de descanso e humilhação diante de Deus.",
+   "licoes": [
+    "Ninguém pode entrar na presença de Deus de qualquer jeito (16:2).",
+    "O sangue sobre o propiciatório faz expiação pelos pecados do povo (16:15-16).",
+    "O bode enviado ao deserto mostra os pecados sendo levados para longe (16:21-22).",
+    "Deus providencia um dia para que todo o povo seja purificado de seus pecados (16:30)."
+   ],
+   "reflexao": "Que alívio significa saber que Deus providencia um caminho para levar embora seus pecados?",
+   "quiz": [
+    {
+     "pergunta": "Em que mês e dia era celebrado o Dia da Expiação?",
+     "opcoes": [
+      "Primeiro mês, dia catorze",
+      "Terceiro mês, dia um",
+      "Sétimo mês, dia dez",
+      "Décimo mês, dia quinze"
+     ],
+     "correta": 2,
+     "ref": "16:29"
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "titulo": "A vida está no sangue",
+   "chave": "17:11",
+   "resumo": "Deus ordena que todo animal sacrificado seja trazido à porta do tabernáculo, e não oferecido em campo aberto, para que o povo não ofereça sacrifícios a outros deuses. Proíbe comer sangue, tanto aos israelitas quanto aos estrangeiros, explicando que a vida da carne está no sangue e que Deus o deu para fazer expiação sobre o altar.",
+   "licoes": [
+    "Deus quer que a adoração aconteça do jeito e no lugar que ele estabeleceu (17:4-5).",
+    "Os sacrifícios eram oferecidos ao SENHOR, e não a falsos deuses (17:7).",
+    "A vida está no sangue, e Deus o deu para expiação (17:11).",
+    "A mesma lei vale para o israelita e para o estrangeiro que vive no meio deles (17:10, 17:13)."
+   ],
+   "reflexao": "O que a ligação entre sangue, vida e expiação ensina sobre o preço do perdão?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o capítulo, onde está a vida da carne?",
+     "opcoes": [
+      "No coração",
+      "Na gordura",
+      "No sangue",
+      "Nos ossos"
+     ],
+     "correta": 2,
+     "ref": "17:11"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "titulo": "Pureza nas relações",
+   "chave": "18:3-4",
+   "resumo": "Deus manda Israel não imitar os costumes do Egito nem de Canaã, mas seguir seus estatutos, pelos quais o ser humano vive. Proíbe relações sexuais entre parentes próximos, o adultério, o sacrifício de crianças a Moloque, as relações homossexuais e com animais. Essas práticas haviam contaminado a terra, e Israel é advertido a não repeti-las.",
+   "licoes": [
+    "O povo de Deus não deve se moldar pelos costumes ao redor (18:3).",
+    "Obedecer aos mandamentos de Deus é caminho de vida (18:5).",
+    "Deus protege a família e os mais vulneráveis, inclusive as crianças (18:6, 18:21).",
+    "O pecado coletivo contamina até a terra onde um povo vive (18:24-25)."
+   ],
+   "reflexao": "Em que área você é tentado a seguir os costumes da cultura em vez dos caminhos de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Deus, o que acontece com quem pratica seus estatutos?",
+     "opcoes": [
+      "Fica rico",
+      "Viverá por eles",
+      "Será rei",
+      "Nunca adoecerá"
+     ],
+     "correta": 1,
+     "ref": "18:5"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "titulo": "Amarás o teu próximo",
+   "chave": "19:18",
+   "resumo": "Deus chama todo o povo a ser santo, como ele é santo, e mostra o que isso significa na prática: respeitar pai e mãe, guardar os sábados, deixar as sobras da colheita para o pobre e o estrangeiro, não roubar nem mentir, pagar o trabalhador no mesmo dia, não prejudicar o surdo e o cego, julgar com justiça, não guardar rancor, honrar os idosos, amar o estrangeiro e usar pesos justos. O centro é: \"amarás a teu próximo como a ti mesmo\".",
+   "licoes": [
+    "A santidade se vive nas relações do dia a dia (19:2-3).",
+    "Deus manda deixar parte da colheita para os pobres e estrangeiros (19:9-10).",
+    "Amar o próximo inclui não guardar rancor nem buscar vingança (19:17-18).",
+    "O estrangeiro deve ser amado como a si mesmo, lembrando o Egito (19:34)."
+   ],
+   "reflexao": "Qual destas ordens práticas sobre amar o próximo você precisa viver esta semana?",
+   "quiz": [
+    {
+     "pergunta": "O que não devia ser colhido, para ficar para o pobre e o estrangeiro?",
+     "opcoes": [
+      "O melhor da colheita",
+      "As primícias",
+      "Toda a colheita do sétimo dia",
+      "Os cantos da plantação e as sobras"
+     ],
+     "correta": 3,
+     "ref": "19:9-10"
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "titulo": "Santos para o SENHOR",
+   "chave": "20:26",
+   "resumo": "Deus estabelece penas para pecados graves já proibidos: entregar filhos a Moloque, consultar médiuns e adivinhos, amaldiçoar pai ou mãe, adultério e relações sexuais proibidas. Muitas dessas faltas eram punidas com a morte no contexto da lei de Israel. O capítulo termina repetindo que Israel foi separado dos outros povos para pertencer ao SENHOR, que é santo.",
+   "licoes": [
+    "A comunidade é responsável por não fechar os olhos para o mal (20:4-5).",
+    "Buscar médiuns e adivinhos é afastar-se de Deus (20:6).",
+    "É o SENHOR quem santifica o seu povo (20:7-8).",
+    "Deus separou Israel dos povos para que fosse dele (20:26)."
+   ],
+   "reflexao": "O que significa, hoje, viver como alguém separado para pertencer a Deus?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o final do capítulo, por que Deus separou Israel dos povos?",
+     "opcoes": [
+      "Para guerrear",
+      "Para que fossem ricos",
+      "Para que fossem dele",
+      "Para que construíssem cidades"
+     ],
+     "correta": 2,
+     "ref": "20:26"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "titulo": "A santidade dos sacerdotes",
+   "chave": "21:6",
+   "resumo": "Deus estabelece regras especiais para os sacerdotes: limites para o contato com mortos, cuidados com a aparência, e normas para o casamento. O sumo sacerdote tem exigências ainda maiores. Descendentes de Arão com algum defeito físico não podiam oferecer sacrifícios no altar, mas continuavam podendo comer do pão santo.",
+   "licoes": [
+    "Quem serve diante de Deus é chamado a um padrão maior de santidade (21:6).",
+    "Quanto maior a responsabilidade, maiores as exigências (21:10-12).",
+    "Mesmo excluídos do serviço no altar, os sacerdotes com defeito continuavam alimentados das coisas santas (21:22).",
+    "É o SENHOR quem santifica os sacerdotes (21:8, 21:15)."
+   ],
+   "reflexao": "Que responsabilidade Deus lhe confiou que pede de você um cuidado maior com a santidade?",
+   "quiz": [
+    {
+     "pergunta": "O que o sacerdote com defeito físico ainda podia fazer?",
+     "opcoes": [
+      "Entrar além do véu",
+      "Comer do pão de seu Deus",
+      "Oferecer incenso",
+      "Aproximar-se do altar"
+     ],
+     "correta": 1,
+     "ref": "21:22"
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "titulo": "Ofertas aceitáveis",
+   "chave": "22:20",
+   "resumo": "Os sacerdotes devem tratar com respeito as coisas santas e não comer delas quando estiverem impuros; só sua família e seus servos podiam comer. Os animais oferecidos a Deus devem ser sem defeito, pois oferta com defeito não seria aceita. Há também regras de cuidado com os animais recém-nascidos e com o tempo de comer as ofertas.",
+   "licoes": [
+    "As coisas consagradas a Deus não devem ser tratadas de forma descuidada (22:2-3).",
+    "Deus não aceita ofertas defeituosas, dadas como sobra (22:20-22).",
+    "Até no sacrifício há cuidado com os animais e suas crias (22:27-28).",
+    "Deus quer ser santificado no meio do seu povo, que ele tirou do Egito (22:32-33)."
+   ],
+   "reflexao": "Você tem dado a Deus o seu melhor ou o que sobra?",
+   "quiz": [
+    {
+     "pergunta": "Por que não se devia oferecer um animal com defeito?",
+     "opcoes": [
+      "Porque era caro",
+      "Porque era pequeno demais",
+      "Porque era dos estrangeiros",
+      "Porque não seria aceito"
+     ],
+     "correta": 3,
+     "ref": "22:20"
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "titulo": "As festas do SENHOR",
+   "chave": "23:2",
+   "resumo": "Deus estabelece o calendário de festas sagradas: o sábado semanal, a Páscoa e os Pães sem Fermento, as Primícias, a festa das Semanas (cinquenta dias depois), a festa das Trombetas, o Dia da Expiação e a festa dos Tabernáculos, quando o povo moraria em cabanas por sete dias. Cada festa tinha santa convocação e ofertas, e lembrava a ação de Deus na história e na colheita.",
+   "licoes": [
+    "O tempo também pertence a Deus, e as festas organizavam a vida em torno dele (23:2-4).",
+    "As primícias lembram que tudo começa e depende de Deus (23:10-11).",
+    "Até nas festas da colheita os pobres e estrangeiros são lembrados (23:22).",
+    "Morar em cabanas recordava como Deus cuidou do povo no deserto (23:42-43)."
+   ],
+   "reflexao": "Como você organiza seu calendário para lembrar o que Deus fez?",
+   "quiz": [
+    {
+     "pergunta": "Na festa dos Tabernáculos, onde os israelitas deviam morar por sete dias?",
+     "opcoes": [
+      "Em cabanas",
+      "Em tendas de couro",
+      "No templo",
+      "Em cavernas"
+     ],
+     "correta": 0,
+     "ref": "23:42"
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "titulo": "A luz, o pão e a justiça",
+   "chave": "24:22",
+   "resumo": "O povo deve trazer azeite puro para manter acesas as lâmpadas do candelabro e preparar doze pães, colocados todo sábado diante do SENHOR. Em seguida, um homem, filho de mãe israelita e pai egípcio, blasfema o nome do SENHOR durante uma briga; depois de consultar a Deus, ele é condenado. Deus reafirma o princípio de justiça proporcional e uma mesma lei para o natural e o estrangeiro.",
+   "licoes": [
+    "A luz contínua e os pães diante de Deus lembram uma comunhão permanente (24:2-4, 24:8).",
+    "O nome de Deus deve ser tratado com reverência (24:15-16).",
+    "Diante de casos difíceis, Moisés espera a orientação de Deus (24:12).",
+    "A justiça deve ser igual para o estrangeiro e para o natural (24:22)."
+   ],
+   "reflexao": "Você trata o nome de Deus com reverência em suas palavras e atitudes?",
+   "quiz": [
+    {
+     "pergunta": "Quantos pães deviam ser colocados sobre a mesa diante do SENHOR?",
+     "opcoes": [
+      "Sete",
+      "Dez",
+      "Doze",
+      "Quarenta"
+     ],
+     "correta": 2,
+     "ref": "24:5"
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "titulo": "O ano sabático e o jubileu",
+   "chave": "25:10",
+   "resumo": "A cada sete anos, a terra deve descansar, e o que ela produzir sozinha será para todos, inclusive servos, estrangeiros e animais. A cada cinquenta anos, no jubileu, proclama-se liberdade: as terras voltam às famílias originais e os israelitas que se venderam por pobreza são libertados. A terra pertence a Deus, e o povo é peregrino nela. Deus manda amparar o irmão empobrecido, sem cobrar juros.",
+   "licoes": [
+    "Até a terra tem direito ao descanso, confiando que Deus proverá (25:4, 25:20-21).",
+    "O jubileu impede que a pobreza e a perda da terra durem para sempre (25:10, 25:13).",
+    "A terra pertence a Deus; somos estrangeiros e peregrinos nela (25:23).",
+    "Amparar o irmão empobrecido, sem explorá-lo, é sinal de temor a Deus (25:35-36)."
+   ],
+   "reflexao": "Como a ideia de que tudo pertence a Deus muda sua forma de lidar com bens e dívidas?",
+   "quiz": [
+    {
+     "pergunta": "Em que ano se proclamava o jubileu?",
+     "opcoes": [
+      "No sétimo ano",
+      "No ano quarenta",
+      "No ano cinquenta",
+      "No ano cem"
+     ],
+     "correta": 2,
+     "ref": "25:10-11"
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "titulo": "Bênçãos e advertências",
+   "chave": "26:12",
+   "resumo": "Deus promete bênçãos se Israel obedecer: chuva no tempo certo, colheitas fartas, paz, vitória e, acima de tudo, sua presença: \"andarei entre vós\". Também adverte que a desobediência persistente trará doenças, derrota, fome, destruição e exílio. Mesmo assim, se o povo confessar sua culpa, Deus se lembrará de seu pacto com Jacó, Isaque e Abraão e não o rejeitará por completo.",
+   "licoes": [
+    "A maior bênção da aliança é a presença de Deus no meio do povo (26:11-12).",
+    "Deus libertou o povo da escravidão para que andasse de cabeça erguida (26:13).",
+    "As disciplinas de Deus visam levar o povo de volta a ele (26:18, 26:23).",
+    "Mesmo no exílio, a confissão abre caminho para a misericórdia e a fidelidade de Deus ao pacto (26:40, 26:42)."
+   ],
+   "reflexao": "Você tem enxergado as correções de Deus como convites para voltar a ele?",
+   "quiz": [
+    {
+     "pergunta": "Segundo a promessa, cinco israelitas perseguiriam quantos inimigos?",
+     "opcoes": [
+      "Dez",
+      "Cinquenta",
+      "Cem",
+      "Mil"
+     ],
+     "correta": 2,
+     "ref": "26:8"
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "titulo": "Votos e dízimos",
+   "chave": "27:30",
+   "resumo": "O último capítulo trata de votos e consagrações voluntárias ao SENHOR: pessoas, animais, casas e terras podiam ser dedicados e, em certos casos, resgatados pagando o valor estimado mais um quinto. A avaliação levava em conta idade e condição, com consideração pelo pobre. O capítulo termina lembrando que o dízimo da terra e dos rebanhos é santo ao SENHOR.",
+   "licoes": [
+    "Promessas feitas a Deus devem ser levadas a sério (27:2, 27:9-10).",
+    "Deus considera a situação do pobre ao avaliar seu voto (27:8).",
+    "O dízimo pertence ao SENHOR e é santo (27:30, 27:32).",
+    "Todos esses mandamentos foram dados por Deus no Sinai (27:34)."
+   ],
+   "reflexao": "Há alguma promessa que você fez a Deus e ainda não cumpriu?",
+   "quiz": [
+    {
+     "pergunta": "A quem pertencem os dízimos da terra, segundo o capítulo?",
+     "opcoes": [
+      "Ao SENHOR",
+      "Ao rei",
+      "Aos anciãos",
+      "Ao proprietário"
+     ],
+     "correta": 0,
+     "ref": "27:30"
+    }
+   ]
+  }
+ ]
+}

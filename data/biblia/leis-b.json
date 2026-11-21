@@ -1,0 +1,5312 @@
+{
+ "nota_geral": "Estudo sistemático das leis da Torá – parte B (família e sexualidade; santuário e sacerdócio; pureza; terra e agricultura). Referências na numeração das bíblias em português (Bíblia Livre). A contagem judaica de 613 mandamentos é tradição posterior; aqui cada item reúne uma lei com seus paralelos.",
+ "fonte_extra": [
+  {
+   "fonte": "Talmude Babilônico",
+   "referencia": "Makot 23b (613 mandamentos: 248 positivos e 365 negativos)",
+   "data": "c. 500 d.C."
+  },
+  {
+   "fonte": "Maimônides",
+   "referencia": "Sefer HaMitzvot (lista clássica dos 613; outras listas, como a de Nahmânides, diferem)",
+   "data": "c. 1170 d.C."
+  }
+ ],
+ "grupos": [
+  {
+   "id": "familia-sexualidade",
+   "titulo": "Família e sexualidade",
+   "resumo": "Leis sobre casamento, divórcio, levirato, uniões proibidas, adultério, virgindade e prostituição, a relação entre pais e filhos e a herança. O texto liga estas leis à santidade do povo e à proteção da casa e da linhagem; várias trazem as penas mais graves da Torá. Muitas protegem a parte mais fraca (a mulher repudiada, a cativa, a filha sem irmãos).",
+   "subgrupos": [
+    {
+     "id": "casamento",
+     "titulo": "Casamento e deveres conjugais"
+    },
+    {
+     "id": "divorcio-levirato",
+     "titulo": "Divórcio e levirato"
+    },
+    {
+     "id": "unioes-proibidas",
+     "titulo": "Uniões proibidas (Levítico 18 e 20)"
+    },
+    {
+     "id": "adulterio-virgindade",
+     "titulo": "Adultério, virgindade e sedução"
+    },
+    {
+     "id": "prostituicao-costumes",
+     "titulo": "Prostituição e outros costumes"
+    },
+    {
+     "id": "pais-filhos",
+     "titulo": "Pais e filhos"
+    },
+    {
+     "id": "heranca",
+     "titulo": "Herança e votos na família"
+    }
+   ]
+  },
+  {
+   "id": "santuario-sacerdocio",
+   "titulo": "Santuário, sacerdócio e sacrifícios",
+   "resumo": "Leis sobre o lugar de culto, os sacerdotes descendentes de Arão e os levitas, o sumo sacerdote, os sacrifícios (holocausto, cereal, paz, pecado e culpa), as ofertas diárias e das festas, o incenso, o óleo, o candelabro, os pães, os primogênitos e a novilha vermelha. Todas pressupõem o santuário; desde a destruição do templo (70 d.C.) não são praticadas no judaísmo, e o Novo Testamento (sobretudo Hebreus) as lê como sombra do sacrifício de Cristo.",
+   "subgrupos": [
+    {
+     "id": "lugar-de-culto",
+     "titulo": "Lugar de culto e altar"
+    },
+    {
+     "id": "sacerdotes",
+     "titulo": "Sacerdotes: requisitos, roupas e conduta"
+    },
+    {
+     "id": "sumo-sacerdote",
+     "titulo": "O sumo sacerdote"
+    },
+    {
+     "id": "levitas",
+     "titulo": "Levitas"
+    },
+    {
+     "id": "porcoes",
+     "titulo": "Sustento de sacerdotes e levitas"
+    },
+    {
+     "id": "sacrificios",
+     "titulo": "Os tipos de sacrifício"
+    },
+    {
+     "id": "regras-sacrificio",
+     "titulo": "Regras gerais dos sacrifícios"
+    },
+    {
+     "id": "ofertas-fixas",
+     "titulo": "Ofertas diárias, do sábado e das festas"
+    },
+    {
+     "id": "incenso-oleo-luz-paes",
+     "titulo": "Incenso, óleo, candelabro e pães"
+    },
+    {
+     "id": "primogenitos",
+     "titulo": "Primogênitos"
+    },
+    {
+     "id": "consagracoes",
+     "titulo": "Consagrações e avaliações (Levítico 27)"
+    },
+    {
+     "id": "novilha-vermelha",
+     "titulo": "A novilha vermelha"
+    }
+   ]
+  },
+  {
+   "id": "pureza",
+   "titulo": "Pureza e impureza",
+   "resumo": "Leis sobre o estado ritual de 'puro' e 'impuro': contato com mortos e carcaças, doenças de pele chamadas 'lepra' (em pessoas, roupas e casas), fluxos do corpo, parto e os ritos de purificação. Impureza não é pecado em si: é um estado que impede o contato com o santuário e as coisas santas, e que passa com o tempo, banho e às vezes oferta. O perigo declarado é contaminar o santuário onde Deus habita.",
+   "subgrupos": [
+    {
+     "id": "morto",
+     "titulo": "Impureza por morto"
+    },
+    {
+     "id": "carcacas",
+     "titulo": "Carcaças de animais e objetos"
+    },
+    {
+     "id": "lepra",
+     "titulo": "'Lepra' na pele, nas roupas e nas casas"
+    },
+    {
+     "id": "fluxos",
+     "titulo": "Fluxos do corpo"
+    },
+    {
+     "id": "parto",
+     "titulo": "Parto"
+    },
+    {
+     "id": "santuario-e-acampamento",
+     "titulo": "Impureza, santuário e acampamento"
+    }
+   ]
+  },
+  {
+   "id": "terra-agricultura",
+   "titulo": "Terra e agricultura",
+   "resumo": "Leis sobre o uso da terra e das colheitas: dízimos, primícias e ofertas dos frutos, a parte do pobre no campo (cantos, respigas e feixes esquecidos), o ano sabático e o jubileu, o resgate da terra vendida, as misturas proibidas e as árvores novas. O fundamento dado pelo texto é que a terra pertence ao SENHOR e Israel é como hóspede nela.",
+   "subgrupos": [
+    {
+     "id": "dizimos",
+     "titulo": "Dízimos"
+    },
+    {
+     "id": "primicias",
+     "titulo": "Primícias e ofertas das colheitas"
+    },
+    {
+     "id": "parte-do-pobre",
+     "titulo": "A parte do pobre no campo"
+    },
+    {
+     "id": "sabatico",
+     "titulo": "Ano sabático"
+    },
+    {
+     "id": "jubileu-resgate",
+     "titulo": "Jubileu e resgate da terra"
+    },
+    {
+     "id": "misturas",
+     "titulo": "Misturas proibidas"
+    },
+    {
+     "id": "arvores-campo",
+     "titulo": "Árvores novas e trabalho no campo"
+    }
+   ]
+  }
+ ],
+ "leis": [
+  {
+   "id": "b-frutificai",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "casamento",
+   "titulo": "Frutificar e multiplicar",
+   "tipo": "positivo",
+   "texto": "Deus abençoa o homem e a mulher e lhes diz: frutificai, multiplicai e enchei a terra.",
+   "refs": [
+    "genesis 1:28"
+   ],
+   "paralelos": [
+    "genesis 9:1",
+    "genesis 9:7"
+   ],
+   "quem": "humanidade (em Gênesis); tradição judaica aplica aos homens de Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "É bênção e ordem; não há pena.",
+    "refs": []
+   },
+   "rambam": "P 212",
+   "nota": "Está fora da lei do Sinai; a tradição rabínica a conta entre os 613 mandamentos. Cristãos costumam lê-la como bênção da criação, não como obrigação individual.",
+   "fonte_extra": [
+    {
+     "fonte": "Talmude Babilônico",
+     "referencia": "Yevamot 61b-65b (discussão do dever de procriar)",
+     "data": "c. 500 d.C."
+    },
+    {
+     "fonte": "Maimônides",
+     "referencia": "Sefer HaMitzvot, positivo 212",
+     "data": "c. 1170 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-uma-so-carne",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "casamento",
+   "titulo": "O homem se une à sua mulher",
+   "tipo": "positivo",
+   "texto": "O homem deixa pai e mãe, se une à sua mulher e os dois se tornam uma só carne.",
+   "refs": [
+    "genesis 2:24"
+   ],
+   "quem": "humanidade",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Texto fundador, sem pena.",
+    "refs": []
+   },
+   "associacoes": [
+    {
+     "texto": "Jesus cita Gênesis 1-2 para dizer que o que Deus uniu o homem não separe; Paulo usa o mesmo verso ao falar de Cristo e a igreja.",
+     "refs": [
+      "mateus 19:4-6",
+      "marcos 10:6-9",
+      "efesios 5:31-32"
+     ]
+    }
+   ],
+   "nota": "Não é formulado como mandamento, mas é a base que Jesus usa para discutir o divórcio."
+  },
+  {
+   "id": "b-direitos-esposa",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "casamento",
+   "titulo": "Não diminuir sustento, roupa e vida conjugal da esposa",
+   "tipo": "negativo",
+   "texto": "Se o homem tomar outra mulher, não pode diminuir à primeira o alimento, a roupa e o direito conjugal; se faltar com isso, ela sai livre, sem pagar nada.",
+   "refs": [
+    "exodo 21:10-11"
+   ],
+   "quem": "maridos",
+   "condicao": "No texto, o caso é o da serva hebreia tomada como esposa; a tradição estende a toda esposa.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "A consequência é a liberdade da mulher, sem resgate.",
+    "refs": [
+     "exodo 21:11"
+    ]
+   },
+   "associacoes": [
+    {
+     "texto": "Paulo fala do dever conjugal mútuo entre marido e mulher.",
+     "refs": [
+      "1-corintios 7:3-5"
+     ]
+    }
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Ketubot 5:6-9 (deveres do marido)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-serva-hebreia-esposa",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "casamento",
+   "titulo": "A filha vendida como serva: proteção como futura esposa",
+   "tipo": "negativo",
+   "texto": "A jovem vendida pelo pai como serva não sai como os outros servos. Se o senhor não a tomar por esposa, deve permitir que seja resgatada e não pode vendê-la a estrangeiros; se a der ao filho, deve tratá-la como filha.",
+   "refs": [
+    "exodo 21:7-11"
+   ],
+   "quem": "senhores de servas hebreias",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Se ele não cumprir, ela sai livre sem pagar.",
+    "refs": [
+     "exodo 21:11"
+    ]
+   },
+   "motivo": "Ele não cumpriu o compromisso com ela (21:8).",
+   "nota": "Outras leis sobre servos ficam em outro grupo deste estudo."
+  },
+  {
+   "id": "b-recem-casado",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "casamento",
+   "titulo": "O recém-casado fica livre por um ano",
+   "tipo": "positivo",
+   "texto": "Quem acabou de se casar não sai à guerra nem recebe outro encargo: fica livre em casa por um ano para alegrar a mulher que tomou. O noivo que ainda não consumou o casamento também volta da batalha.",
+   "refs": [
+    "deuteronomio 24:5"
+   ],
+   "paralelos": [
+    "deuteronomio 20:7"
+   ],
+   "quem": "homens recém-casados",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "motivo": "Para alegrar a mulher; para que não morra e outro a tome (20:7)."
+  },
+  {
+   "id": "b-casamento-com-povos-de-canaa",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "casamento",
+   "titulo": "Não fazer casamentos com os povos de Canaã",
+   "tipo": "negativo",
+   "texto": "Não dar a filha ao filho deles nem tomar a filha deles para o filho.",
+   "refs": [
+    "deuteronomio 7:3-4"
+   ],
+   "paralelos": [
+    "exodo 34:15-16"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "divina",
+    "descricao": "O texto adverte que o desvio a outros deuses traria a ira do SENHOR e a destruição.",
+    "refs": [
+     "deuteronomio 7:4"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Salomão amou mulheres estrangeiras e elas desviaram seu coração.",
+     "refs": [
+      "1-reis 11:1-4"
+     ]
+    },
+    {
+     "descricao": "Esdras e Neemias enfrentam os casamentos mistos depois do exílio.",
+     "refs": [
+      "esdras 9:1-2",
+      "neemias 13:23-27"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Paulo aconselha a não se pôr em jugo desigual com incrédulos; o texto não trata de etnia, mas de fé.",
+     "refs": [
+      "2-corintios 6:14"
+     ]
+    }
+   ],
+   "motivo": "Desviariam os filhos para servir a outros deuses (7:4).",
+   "nota": "O motivo dado é religioso, não étnico: Raabe e Rute, estrangeiras, entram na linhagem de Israel."
+  },
+  {
+   "id": "b-entrada-na-congregacao",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "casamento",
+   "titulo": "Quem não entra na congregação do SENHOR",
+   "tipo": "negativo",
+   "texto": "Não entram na congregação o castrado, o 'bastardo' (até a décima geração), o amonita e o moabita; o edomita e o egípcio entram na terceira geração.",
+   "refs": [
+    "deuteronomio 23:1-8"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Exclusão da congregação; sem outra pena.",
+    "refs": []
+   },
+   "casos": [
+    {
+     "descricao": "Neemias aplica a lei contra amonitas e moabitas ao ler o livro de Moisés.",
+     "refs": [
+      "neemias 13:1-3"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Isaías promete lugar na casa de Deus ao eunuco e ao estrangeiro que guardam a aliança.",
+     "refs": [
+      "isaias 56:3-7"
+     ]
+    }
+   ],
+   "motivo": "Amon e Moabe não socorreram Israel e contrataram Balaão (23:4); o edomita é irmão e Israel foi estrangeiro no Egito (23:7).",
+   "nota": "O sentido exato de 'entrar na congregação' e de 'bastardo' (hebraico mamzer) é discutido; a tradição rabínica entende como proibição de casamento e mamzer como filho de união incestuosa ou adúltera. Rute, moabita, é bisavó de Davi, o que leva a interpretações diferentes da lei.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Yevamot 8:3 (a lei vale para homens amonitas/moabitas, não para mulheres)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-divorcio-por-escrito",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "divorcio-levirato",
+   "titulo": "Divórcio por carta escrita",
+   "tipo": "positivo",
+   "texto": "Se o marido despedir a mulher, deve escrever-lhe carta de divórcio, entregá-la na mão dela e despedi-la; ela pode casar com outro.",
+   "refs": [
+    "deuteronomio 24:1-2"
+   ],
+   "quem": "maridos",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena; é a forma exigida.",
+    "refs": []
+   },
+   "associacoes": [
+    {
+     "texto": "Jesus diz que Moisés permitiu o divórcio pela dureza do coração e volta ao princípio da criação.",
+     "refs": [
+      "mateus 19:3-9",
+      "marcos 10:2-12",
+      "mateus 5:31-32"
+     ]
+    },
+    {
+     "texto": "Malaquias: o SENHOR odeia o repúdio.",
+     "refs": [
+      "malaquias 2:14-16"
+     ]
+    }
+   ],
+   "nota": "O que é a 'coisa ofensiva' foi debatido já no tempo de Jesus (escolas de Hilel e Shamai). Igrejas divergem sobre quando o divórcio e o novo casamento são permitidos.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Gitin 9:10 (debate entre Shamai, Hilel e Aquiba)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-nao-retomar-repudiada",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "divorcio-levirato",
+   "titulo": "Não retomar a ex-mulher depois que ela casou com outro",
+   "tipo": "negativo",
+   "texto": "Se a mulher divorciada casou com outro e este a despediu ou morreu, o primeiro marido não pode tomá-la de novo.",
+   "refs": [
+    "deuteronomio 24:3-4"
+   ],
+   "quem": "homens divorciados",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Chamado de abominação; sem pena humana fixada.",
+    "refs": [
+     "deuteronomio 24:4"
+    ]
+   },
+   "associacoes": [
+    {
+     "texto": "Jeremias usa esta lei como imagem da infidelidade de Israel que, mesmo assim, é chamado a voltar.",
+     "refs": [
+      "jeremias 3:1"
+     ]
+    }
+   ],
+   "motivo": "É abominação diante do SENHOR e não se deve fazer pecar a terra (24:4)."
+  },
+  {
+   "id": "b-levirato",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "divorcio-levirato",
+   "titulo": "Levirato: o cunhado se casa com a viúva sem filhos",
+   "tipo": "positivo",
+   "texto": "Se um irmão morre sem filho, a viúva não se casa fora da família: o cunhado a toma por mulher, e o primeiro filho leva o nome do falecido, para que não se apague em Israel.",
+   "refs": [
+    "deuteronomio 25:5-6"
+   ],
+   "quem": "irmãos do falecido",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Se recusar, passa pela cerimônia de desonra (ver item seguinte).",
+    "refs": []
+   },
+   "casos": [
+    {
+     "descricao": "Judá e Tamar: Onã recusa dar descendência ao irmão e morre.",
+     "refs": [
+      "genesis 38:8-10"
+     ]
+    },
+    {
+     "descricao": "Boaz resgata a terra e se casa com Rute, num costume parecido, à porta da cidade.",
+     "refs": [
+      "rute 4:1-10"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Os saduceus usam esta lei para questionar a ressurreição.",
+     "refs": [
+      "mateus 22:23-33",
+      "marcos 12:18-27"
+     ]
+    }
+   ],
+   "rambam": "P 216",
+   "nota": "É a exceção à proibição de tomar a mulher do irmão (Levítico 18:16)."
+  },
+  {
+   "id": "b-halitza",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "divorcio-levirato",
+   "titulo": "Cerimônia do 'descalçado' para quem recusa o levirato",
+   "tipo": "positivo",
+   "texto": "Se o cunhado não quiser, a viúva vai aos anciãos à porta; diante deles ela lhe tira a sandália, cospe-lhe no rosto e declara: 'assim se fará ao homem que não edifica a casa do irmão'. A família dele passa a ser chamada 'casa do descalçado'.",
+   "refs": [
+    "deuteronomio 25:7-10"
+   ],
+   "quem": "cunhado que recusa; anciãos da cidade",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "A pena é a desonra pública.",
+    "refs": [
+     "deuteronomio 25:9-10"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "O parente mais próximo de Rute cede o direito e tira a sandália.",
+     "refs": [
+      "rute 4:6-8"
+     ]
+    }
+   ],
+   "rambam": "P 217"
+  },
+  {
+   "id": "b-regra-geral-parentes",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "unioes-proibidas",
+   "titulo": "Não se aproximar de parente próximo",
+   "tipo": "negativo",
+   "texto": "Ninguém se aproxime de parente do próprio sangue para descobrir sua nudez (expressão para relação sexual).",
+   "refs": [
+    "levitico 18:6"
+   ],
+   "quem": "todo Israel e o estrangeiro residente",
+   "sancao": {
+    "tipo": "extirpacao",
+    "descricao": "Levítico 18 conclui que quem praticar qualquer destas abominações será eliminado do seu povo.",
+    "refs": [
+     "levitico 18:29"
+    ]
+   },
+   "motivo": "Não fazer como no Egito e em Canaã; a terra 'vomitou' os povos que fizeram isso (18:3, 18:24-28).",
+   "nota": "Lista resumida dos graus proibidos nos itens seguintes; o estrangeiro residente também está incluído (18:26)."
+  },
+  {
+   "id": "b-mae",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "unioes-proibidas",
+   "titulo": "Não com a mãe",
+   "tipo": "negativo",
+   "texto": "Proibida relação com a própria mãe.",
+   "refs": [
+    "levitico 18:7"
+   ],
+   "quem": "homens",
+   "sancao": {
+    "tipo": "extirpacao",
+    "descricao": "Levítico 18 conclui que quem praticar qualquer destas abominações será eliminado do seu povo.",
+    "refs": [
+     "levitico 18:29"
+    ]
+   }
+  },
+  {
+   "id": "b-madrasta",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "unioes-proibidas",
+   "titulo": "Não com a mulher do pai",
+   "tipo": "negativo",
+   "texto": "Proibida relação com a mulher do pai (madrasta).",
+   "refs": [
+    "levitico 18:8"
+   ],
+   "paralelos": [
+    "deuteronomio 22:30",
+    "deuteronomio 27:20"
+   ],
+   "quem": "homens",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "Ambos serão mortos; seu sangue será sobre eles.",
+    "refs": [
+     "levitico 20:11"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Rúben se deita com Bila, concubina do pai, e perde a primazia.",
+     "refs": [
+      "genesis 35:22",
+      "genesis 49:3-4"
+     ]
+    },
+    {
+     "descricao": "Absalão toma as concubinas de Davi em público.",
+     "refs": [
+      "2-samuel 16:21-22"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Paulo condena na igreja de Corinto o homem que tinha a mulher do pai.",
+     "refs": [
+      "1-corintios 5:1-5"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-irma",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "unioes-proibidas",
+   "titulo": "Não com a irmã ou meia-irmã",
+   "tipo": "negativo",
+   "texto": "Proibida relação com a irmã, filha do pai ou da mãe, nascida em casa ou fora.",
+   "refs": [
+    "levitico 18:9",
+    "levitico 18:11"
+   ],
+   "paralelos": [
+    "deuteronomio 27:22"
+   ],
+   "quem": "homens",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "Serão mortos à vista do povo (texto: 'eliminados'); levará sua iniquidade.",
+    "refs": [
+     "levitico 20:17"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Amnom violenta sua meia-irmã Tamar; Absalão o mata depois.",
+     "refs": [
+      "2-samuel 13:10-14",
+      "2-samuel 13:28-29"
+     ]
+    }
+   ],
+   "nota": "Abraão e Sara eram meio-irmãos (Gênesis 20:12), antes desta lei."
+  },
+  {
+   "id": "b-neta",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "unioes-proibidas",
+   "titulo": "Não com a neta",
+   "tipo": "negativo",
+   "texto": "Proibida relação com a filha do filho ou da filha.",
+   "refs": [
+    "levitico 18:10"
+   ],
+   "quem": "homens",
+   "sancao": {
+    "tipo": "extirpacao",
+    "descricao": "Levítico 18 conclui que quem praticar qualquer destas abominações será eliminado do seu povo.",
+    "refs": [
+     "levitico 18:29"
+    ]
+   }
+  },
+  {
+   "id": "b-tias",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "unioes-proibidas",
+   "titulo": "Não com a tia (irmã do pai ou da mãe)",
+   "tipo": "negativo",
+   "texto": "Proibida relação com a irmã do pai ou da mãe.",
+   "refs": [
+    "levitico 18:12-13"
+   ],
+   "quem": "homens",
+   "sancao": {
+    "tipo": "divina",
+    "descricao": "'Levarão sobre si a sua iniquidade' (sem pena humana fixada).",
+    "refs": [
+     "levitico 20:19"
+    ]
+   },
+   "nota": "Anrão, pai de Moisés, casou com a tia Joquebede (Êxodo 6:20), antes desta lei."
+  },
+  {
+   "id": "b-mulher-do-tio",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "unioes-proibidas",
+   "titulo": "Não com a mulher do tio paterno",
+   "tipo": "negativo",
+   "texto": "Proibida relação com a mulher do irmão do pai.",
+   "refs": [
+    "levitico 18:14"
+   ],
+   "quem": "homens",
+   "sancao": {
+    "tipo": "divina",
+    "descricao": "Levarão seu pecado; morrerão sem filhos.",
+    "refs": [
+     "levitico 20:20"
+    ]
+   }
+  },
+  {
+   "id": "b-nora",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "unioes-proibidas",
+   "titulo": "Não com a nora",
+   "tipo": "negativo",
+   "texto": "Proibida relação com a mulher do filho.",
+   "refs": [
+    "levitico 18:15"
+   ],
+   "quem": "homens",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "Ambos morrerão; fizeram confusão.",
+    "refs": [
+     "levitico 20:12"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Judá se deita com Tamar sem a reconhecer; ao saber, declara que ela é mais justa que ele.",
+     "refs": [
+      "genesis 38:15-18",
+      "genesis 38:26"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-cunhada",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "unioes-proibidas",
+   "titulo": "Não com a mulher do irmão",
+   "tipo": "negativo",
+   "texto": "Proibida relação com a mulher do irmão (exceto no levirato, quando o irmão morreu sem filhos).",
+   "refs": [
+    "levitico 18:16"
+   ],
+   "quem": "homens",
+   "sancao": {
+    "tipo": "divina",
+    "descricao": "Ficarão sem filhos.",
+    "refs": [
+     "levitico 20:21"
+    ]
+   },
+   "associacoes": [
+    {
+     "texto": "João Batista repreende Herodes Antipas por ter a mulher do irmão.",
+     "refs": [
+      "marcos 6:17-18"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-mulher-e-filha",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "unioes-proibidas",
+   "titulo": "Não com uma mulher e a filha (ou neta) dela",
+   "tipo": "negativo",
+   "texto": "Não tomar uma mulher e a filha dela, nem a neta dela; também a sogra fica proibida.",
+   "refs": [
+    "levitico 18:17"
+   ],
+   "paralelos": [
+    "deuteronomio 27:23"
+   ],
+   "quem": "homens",
+   "sancao": {
+    "tipo": "morte-fogo",
+    "descricao": "Ele e elas serão queimados com fogo.",
+    "refs": [
+     "levitico 20:14"
+    ]
+   },
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Sanhedrin 7:2 (tradição posterior descreve como se fazia a execução pelo fogo)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-duas-irmas",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "unioes-proibidas",
+   "titulo": "Não tomar duas irmãs ao mesmo tempo",
+   "tipo": "negativo",
+   "texto": "Não tomar a irmã da esposa como rival enquanto a esposa estiver viva.",
+   "refs": [
+    "levitico 18:18"
+   ],
+   "quem": "homens",
+   "sancao": {
+    "tipo": "extirpacao",
+    "descricao": "Levítico 18 conclui que quem praticar qualquer destas abominações será eliminado do seu povo.",
+    "refs": [
+     "levitico 18:29"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Jacó casou com Lia e Raquel; a rivalidade entre elas é narrada (antes da lei).",
+     "refs": [
+      "genesis 29:30-31",
+      "genesis 30:1"
+     ]
+    }
+   ],
+   "nota": "A proibição vale 'em sua vida', isto é, enquanto a primeira viver."
+  },
+  {
+   "id": "b-menstruada",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "unioes-proibidas",
+   "titulo": "Não ter relação com a mulher durante a menstruação",
+   "tipo": "negativo",
+   "texto": "Não se aproximar da mulher durante a impureza da menstruação.",
+   "refs": [
+    "levitico 18:19"
+   ],
+   "paralelos": [
+    "levitico 15:24"
+   ],
+   "quem": "homens",
+   "sancao": {
+    "tipo": "extirpacao",
+    "descricao": "Ambos serão eliminados do meio do povo.",
+    "refs": [
+     "levitico 20:18"
+    ]
+   },
+   "associacoes": [
+    {
+     "texto": "Ezequiel lista esta abstinência entre as marcas do homem justo.",
+     "refs": [
+      "ezequiel 18:6"
+     ]
+    }
+   ],
+   "nota": "Levítico 15:24 trata o mesmo ato como impureza de sete dias (talvez por desconhecimento); 18:19 e 20:18 tratam do ato consciente. Ver também o grupo Pureza."
+  },
+  {
+   "id": "b-relacao-homem-homem",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "unioes-proibidas",
+   "titulo": "Não se deitar com homem como com mulher",
+   "tipo": "negativo",
+   "texto": "O homem não se deita com outro homem como se deita com mulher: é chamado abominação.",
+   "refs": [
+    "levitico 18:22"
+   ],
+   "quem": "homens",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "Ambos serão mortos; seu sangue será sobre eles.",
+    "refs": [
+     "levitico 20:13"
+    ]
+   },
+   "associacoes": [
+    {
+     "texto": "Paulo menciona estas práticas em listas de pecados.",
+     "refs": [
+      "romanos 1:26-27",
+      "1-corintios 6:9-11"
+     ]
+    }
+   ],
+   "nota": "Igrejas e estudiosos divergem sobre como estes textos se aplicam hoje e sobre o alcance exato dos termos; o texto em si proíbe o ato e prevê pena de morte."
+  },
+  {
+   "id": "b-bestialidade",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "unioes-proibidas",
+   "titulo": "Não ter relação com animal",
+   "tipo": "negativo",
+   "texto": "Nem homem nem mulher terá relação com animal: é confusão (perversão).",
+   "refs": [
+    "levitico 18:23"
+   ],
+   "paralelos": [
+    "exodo 22:19",
+    "deuteronomio 27:21"
+   ],
+   "quem": "homens e mulheres",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "A pessoa e o animal serão mortos.",
+    "refs": [
+     "levitico 20:15-16",
+     "exodo 22:19"
+    ]
+   }
+  },
+  {
+   "id": "b-adulterio",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "adulterio-virgindade",
+   "titulo": "Não cometer adultério",
+   "tipo": "negativo",
+   "texto": "Não ter relação com a mulher do próximo. Se alguém for achado deitado com mulher casada, os dois morrem.",
+   "refs": [
+    "exodo 20:14",
+    "levitico 18:20"
+   ],
+   "paralelos": [
+    "deuteronomio 5:18",
+    "levitico 20:10",
+    "deuteronomio 22:22"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "O adúltero e a adúltera serão mortos.",
+    "refs": [
+     "levitico 20:10",
+     "deuteronomio 22:22"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Davi e Bate-Seba: o profeta Natã denuncia; Davi se arrepende, mas a criança morre e a espada não sai da sua casa.",
+     "refs": [
+      "2-samuel 11:2-5",
+      "2-samuel 12:9-14"
+     ]
+    },
+    {
+     "descricao": "José recusa a mulher de Potifar: 'como faria este grande mal?' (antes da lei).",
+     "refs": [
+      "genesis 39:7-9"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Profetas usam o adultério como imagem da idolatria de Israel.",
+     "refs": [
+      "oseias 2:2",
+      "jeremias 3:8-9"
+     ]
+    },
+    {
+     "texto": "Jesus estende o mandamento ao olhar com desejo.",
+     "refs": [
+      "mateus 5:27-28"
+     ]
+    },
+    {
+     "texto": "O episódio da mulher apanhada em adultério (trecho ausente de manuscritos antigos, como as bíblias costumam indicar).",
+     "refs": [
+      "joao 8:3-11"
+     ]
+    }
+   ],
+   "nota": "Faz parte dos Dez Mandamentos, tratados também em outro grupo."
+  },
+  {
+   "id": "b-mulher-suspeita",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "adulterio-virgindade",
+   "titulo": "A mulher suspeita de adultério (as águas amargas)",
+   "tipo": "positivo",
+   "texto": "Se o marido tiver ciúmes sem testemunhas, leva a mulher ao sacerdote com uma oferta de cevada sem azeite nem incenso. O sacerdote a faz jurar, escreve as maldições, as dissolve na água amarga e lhe dá a beber; se for culpada, o ventre incha; se for inocente, fica livre e terá filhos.",
+   "refs": [
+    "numeros 5:11-31"
+   ],
+   "quem": "marido, esposa e sacerdote",
+   "condicao": "Só com o santuário e quando não há testemunha.",
+   "sancao": {
+    "tipo": "maldicao",
+    "descricao": "A punição vem por meio das águas e da maldição: ventre inchado e coxa caída; o marido fica livre de culpa.",
+    "refs": [
+     "numeros 5:27-28",
+     "numeros 5:31"
+    ]
+   },
+   "nota": "É o único 'ordálio' da Torá; a decisão fica nas mãos de Deus, não do marido.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Sotah 9:9 (diz que o rito foi suspenso por Johanan ben Zakai, no séc. I d.C.)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-calunia-noiva",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "adulterio-virgindade",
+   "titulo": "O marido que acusa falsamente a noiva de não ser virgem",
+   "tipo": "negativo",
+   "texto": "Se o marido espalhar que a esposa não era virgem e os pais apresentarem a prova diante dos anciãos, ele é castigado, paga cem siclos ao pai e nunca poderá despedi-la.",
+   "refs": [
+    "deuteronomio 22:13-19"
+   ],
+   "quem": "maridos",
+   "sancao": {
+    "tipo": "restituicao",
+    "descricao": "Castigo físico pelos anciãos, multa de 100 siclos ao pai da moça e perda do direito de divórcio.",
+    "refs": [
+     "deuteronomio 22:18-19"
+    ]
+   },
+   "motivo": "Difamou uma virgem de Israel (22:19).",
+   "fonte_extra": [
+    {
+     "fonte": "Talmude Babilônico",
+     "referencia": "Ketubot 46a (a tradição posterior entende o castigo como açoites)",
+     "data": "c. 500 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-noiva-nao-virgem",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "adulterio-virgindade",
+   "titulo": "Se a acusação contra a noiva for verdadeira",
+   "tipo": "negativo",
+   "texto": "Se não se acharem os sinais da virgindade, a moça é apedrejada à porta da casa do pai.",
+   "refs": [
+    "deuteronomio 22:20-21"
+   ],
+   "quem": "mulheres",
+   "sancao": {
+    "tipo": "morte-apedrejamento",
+    "descricao": "Apedrejada pelos homens da cidade.",
+    "refs": [
+     "deuteronomio 22:21"
+    ]
+   },
+   "motivo": "Fez loucura em Israel, prostituindo-se na casa do pai; 'tirarás o mal do meio de ti'."
+  },
+  {
+   "id": "b-noiva-desposada",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "adulterio-virgindade",
+   "titulo": "A moça noiva (desposada) e outro homem",
+   "tipo": "negativo",
+   "texto": "Se um homem se deita com moça noiva na cidade, ambos são apedrejados (ela não gritou). Se for no campo e ele a forçar, só ele morre: a moça é tratada como vítima de agressão.",
+   "refs": [
+    "deuteronomio 22:23-27"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "morte-apedrejamento",
+    "descricao": "Na cidade, os dois; no campo, só o homem.",
+    "refs": [
+     "deuteronomio 22:24-25"
+    ]
+   },
+   "motivo": "No campo 'ela gritou e não houve quem a livrasse' (22:27).",
+   "nota": "A noiva desposada já é chamada 'mulher do próximo' (22:24)."
+  },
+  {
+   "id": "b-seducao-virgem",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "adulterio-virgindade",
+   "titulo": "O homem que seduz ou toma uma virgem não noiva",
+   "tipo": "positivo",
+   "texto": "Quem seduz uma virgem não desposada deve pagar o dote e casar com ela; se o pai recusar, paga o dote das virgens. Se ele a forçar e forem achados, paga cinquenta siclos ao pai, casa com ela e não pode jamais despedi-la.",
+   "refs": [
+    "exodo 22:16-17",
+    "deuteronomio 22:28-29"
+   ],
+   "quem": "homens",
+   "sancao": {
+    "tipo": "restituicao",
+    "descricao": "Pagamento do dote (ou 50 siclos) e, em Deuteronômio, proibição perpétua de divórcio.",
+    "refs": [
+     "deuteronomio 22:29"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Siquém toma Diná; a negociação de casamento termina na vingança dos irmãos.",
+     "refs": [
+      "genesis 34:1-4",
+      "genesis 34:25-27"
+     ]
+    },
+    {
+     "descricao": "Amnom, depois de violentar Tamar, a despreza; ela diz que mandá-la embora é mal maior.",
+     "refs": [
+      "2-samuel 13:15-16"
+     ]
+    }
+   ],
+   "nota": "A lei protegia a moça num mundo em que ela dificilmente acharia marido; leitores modernos discutem esta solução. O pai podia recusar o casamento (Êx 22:17)."
+  },
+  {
+   "id": "b-serva-desposada",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "adulterio-virgindade",
+   "titulo": "Relação com serva prometida a outro",
+   "tipo": "negativo",
+   "texto": "Se um homem se deita com uma serva prometida a outro homem e ainda não liberta, haverá castigo (ou investigação), mas não morte; ele traz um carneiro como oferta pela culpa.",
+   "refs": [
+    "levitico 19:20-22"
+   ],
+   "quem": "homens",
+   "sancao": {
+    "tipo": "oferta",
+    "descricao": "Castigo/averiguação, sem pena de morte, e carneiro de oferta pela culpa.",
+    "refs": [
+     "levitico 19:20-21"
+    ]
+   },
+   "motivo": "Não morrerão porque ela não era livre (19:20).",
+   "nota": "A palavra traduzida 'açoitados' é rara e discutida: pode significar castigo, indenização ou investigação."
+  },
+  {
+   "id": "b-nao-prostituir-filha",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "prostituicao-costumes",
+   "titulo": "Não fazer a filha se prostituir",
+   "tipo": "negativo",
+   "texto": "O pai não deve profanar a filha levando-a à prostituição.",
+   "refs": [
+    "levitico 19:29"
+   ],
+   "quem": "pais",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena fixada.",
+    "refs": []
+   },
+   "motivo": "Para que a terra não se prostitua e se encha de maldade."
+  },
+  {
+   "id": "b-prostituicao-cultual",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "prostituicao-costumes",
+   "titulo": "Não haver prostituição (cultual) em Israel",
+   "tipo": "negativo",
+   "texto": "Não haverá prostituta nem 'prostituto consagrado' entre os filhos de Israel; o pagamento de prostituição não entra na casa do SENHOR por voto algum.",
+   "refs": [
+    "deuteronomio 23:17-18"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Chamado abominação; sem pena humana fixada.",
+    "refs": []
+   },
+   "casos": [
+    {
+     "descricao": "Reis de Judá toleram e depois expulsam os prostitutos cultuais.",
+     "refs": [
+      "1-reis 14:24",
+      "1-reis 15:12",
+      "2-reis 23:7"
+     ]
+    }
+   ],
+   "nota": "O termo hebraico (qadesh/qedeshah) liga-se a 'santo'; estudiosos discutem se havia prostituição sagrada de fato ou se o termo é polêmico."
+  },
+  {
+   "id": "b-roupa-do-outro-sexo",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "prostituicao-costumes",
+   "titulo": "Não usar roupa do outro sexo",
+   "tipo": "negativo",
+   "texto": "A mulher não usará roupa de homem nem o homem roupa de mulher.",
+   "refs": [
+    "deuteronomio 22:5"
+   ],
+   "quem": "homens e mulheres",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Chamado abominação ao SENHOR; sem pena humana fixada.",
+    "refs": []
+   },
+   "nota": "Alguns ligam a proibição a cultos pagãos; outros a uma distinção geral entre os sexos. O que conta como 'roupa de homem' varia por cultura."
+  },
+  {
+   "id": "b-honrar-pais",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "pais-filhos",
+   "titulo": "Honrar pai e mãe",
+   "tipo": "positivo",
+   "texto": "Honrar o pai e a mãe.",
+   "refs": [
+    "exodo 20:12"
+   ],
+   "paralelos": [
+    "deuteronomio 5:16"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Não há pena para a falta de honra em si; ver os itens sobre ferir e amaldiçoar os pais. É o mandamento com promessa.",
+    "refs": []
+   },
+   "associacoes": [
+    {
+     "texto": "Jesus critica quem usa a oferta 'corbã' para fugir do dever com os pais.",
+     "refs": [
+      "marcos 7:9-13",
+      "mateus 15:4-6"
+     ]
+    },
+    {
+     "texto": "Paulo chama de 'primeiro mandamento com promessa'.",
+     "refs": [
+      "efesios 6:1-3"
+     ]
+    }
+   ],
+   "motivo": "Para que se prolonguem os dias na terra e te vá bem (Dt 5:16).",
+   "rambam": "P 210"
+  },
+  {
+   "id": "b-temer-pais",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "pais-filhos",
+   "titulo": "Temer (reverenciar) mãe e pai",
+   "tipo": "positivo",
+   "texto": "Cada um temerá a mãe e o pai.",
+   "refs": [
+    "levitico 19:3"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "rambam": "P 211",
+   "nota": "A mãe é citada primeiro aqui, e o pai primeiro em Êxodo 20:12: a tradição judaica vê nisso igualdade entre os dois."
+  },
+  {
+   "id": "b-ferir-pais",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "pais-filhos",
+   "titulo": "Não ferir pai ou mãe",
+   "tipo": "negativo",
+   "texto": "Quem ferir o pai ou a mãe será morto.",
+   "refs": [
+    "exodo 21:15"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "Será morto.",
+    "refs": [
+     "exodo 21:15"
+    ]
+   },
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Sanhedrin 11:1 (a tradição posterior exige ferimento com sangue e pena por estrangulamento)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-amaldicoar-pais",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "pais-filhos",
+   "titulo": "Não amaldiçoar pai ou mãe",
+   "tipo": "negativo",
+   "texto": "Quem amaldiçoar o pai ou a mãe será morto; seu sangue será sobre ele.",
+   "refs": [
+    "exodo 21:17",
+    "levitico 20:9"
+   ],
+   "paralelos": [
+    "deuteronomio 27:16"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "Certamente morrerá.",
+    "refs": [
+     "levitico 20:9"
+    ]
+   },
+   "associacoes": [
+    {
+     "texto": "Provérbios: a lâmpada de quem amaldiçoa pai ou mãe se apagará.",
+     "refs": [
+      "proverbios 20:20"
+     ]
+    },
+    {
+     "texto": "Jesus cita esta lei contra a tradição do 'corbã'.",
+     "refs": [
+      "mateus 15:4"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-filho-rebelde",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "pais-filhos",
+   "titulo": "O filho obstinado e rebelde",
+   "tipo": "negativo",
+   "texto": "O filho que não obedece aos pais mesmo castigado, 'comilão e beberrão', é levado por pai e mãe aos anciãos à porta da cidade e apedrejado.",
+   "refs": [
+    "deuteronomio 21:18-21"
+   ],
+   "quem": "filhos; pais e anciãos julgam",
+   "sancao": {
+    "tipo": "morte-apedrejamento",
+    "descricao": "Todos os homens da cidade o apedrejam.",
+    "refs": [
+     "deuteronomio 21:21"
+    ]
+   },
+   "motivo": "Tirar o mal do meio de ti; todo Israel ouvirá e temerá.",
+   "nota": "Os pais não podem executá-lo: precisam levar o caso aos anciãos. Não há caso narrado na Bíblia.",
+   "fonte_extra": [
+    {
+     "fonte": "Talmude Babilônico",
+     "referencia": "Sanhedrin 71a ('nunca houve e nunca haverá' tal caso, segundo uma opinião rabínica)",
+     "data": "c. 500 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-circuncisao",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "pais-filhos",
+   "titulo": "Circuncidar o menino ao oitavo dia",
+   "tipo": "positivo",
+   "texto": "Todo menino, nascido em casa ou comprado, é circuncidado ao oitavo dia como sinal da aliança.",
+   "refs": [
+    "genesis 17:10-13",
+    "levitico 12:3"
+   ],
+   "quem": "pais (todo macho da casa)",
+   "sancao": {
+    "tipo": "extirpacao",
+    "descricao": "O incircunciso será eliminado do seu povo: quebrou a aliança.",
+    "refs": [
+     "genesis 17:14"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Zípora circuncida o filho de Moisés no caminho.",
+     "refs": [
+      "exodo 4:24-26"
+     ]
+    },
+    {
+     "descricao": "Josué circuncida a geração nascida no deserto.",
+     "refs": [
+      "josue 5:2-7"
+     ]
+    },
+    {
+     "descricao": "Jesus é circuncidado ao oitavo dia.",
+     "refs": [
+      "lucas 2:21"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Deuteronômio e Jeremias falam da circuncisão do coração.",
+     "refs": [
+      "deuteronomio 10:16",
+      "jeremias 4:4"
+     ]
+    },
+    {
+     "texto": "O concílio de Jerusalém e Paulo decidem que os gentios não precisam ser circuncidados.",
+     "refs": [
+      "atos 15:1-2",
+      "atos 15:19-20",
+      "galatas 5:6"
+     ]
+    }
+   ],
+   "rambam": "P 215",
+   "nota": "Pode estar também em outro grupo deste estudo (aliança)."
+  },
+  {
+   "id": "b-heranca-filhas",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "heranca",
+   "titulo": "Herança das filhas e ordem da herança",
+   "tipo": "positivo",
+   "texto": "Se um homem morrer sem filho, a herança passa à filha; sem filha, aos irmãos; sem irmãos, aos irmãos do pai; e, por fim, ao parente mais próximo.",
+   "refs": [
+    "numeros 27:8-11"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena; é 'estatuto de direito'.",
+    "refs": []
+   },
+   "casos": [
+    {
+     "descricao": "As filhas de Zelofeade pedem e recebem herança; Josué cumpre a promessa.",
+     "refs": [
+      "numeros 27:1-7",
+      "josue 17:3-6"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Jó dá herança às filhas junto com os irmãos.",
+     "refs": [
+      "jo 42:15"
+     ]
+    }
+   ],
+   "nota": "A lei nasce de um pedido das próprias filhas, que Deus declara justo."
+  },
+  {
+   "id": "b-heranca-na-tribo",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "heranca",
+   "titulo": "A herdeira casa dentro da tribo do pai",
+   "tipo": "positivo",
+   "texto": "A filha que herda terra deve casar dentro da família da tribo do pai, para que a herança não passe de uma tribo a outra.",
+   "refs": [
+    "numeros 36:6-9"
+   ],
+   "quem": "filhas herdeiras",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "casos": [
+    {
+     "descricao": "As filhas de Zelofeade se casam com primos.",
+     "refs": [
+      "numeros 36:10-12"
+     ]
+    }
+   ],
+   "motivo": "Cada tribo conserva a herança dos pais (36:7)."
+  },
+  {
+   "id": "b-direito-primogenito",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "heranca",
+   "titulo": "Direito do primogênito à porção dupla",
+   "tipo": "negativo",
+   "texto": "O pai com duas mulheres, uma amada e outra não, não pode dar a primogenitura ao filho da amada: deve dar porção dupla ao verdadeiro primogênito.",
+   "refs": [
+    "deuteronomio 21:15-17"
+   ],
+   "quem": "pais",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "associacoes": [
+    {
+     "texto": "Antes da lei, Jacó prefere José e Efraim; a Bíblia narra também perdas da primogenitura.",
+     "refs": [
+      "genesis 48:13-20",
+      "1-cronicas 5:1-2"
+     ]
+    }
+   ],
+   "motivo": "Ele é o princípio da sua força; o direito da primogenitura é dele."
+  },
+  {
+   "id": "b-votos-da-mulher",
+   "grupo": "familia-sexualidade",
+   "subgrupo": "heranca",
+   "titulo": "Votos de filhas e esposas",
+   "tipo": "positivo",
+   "texto": "Todo voto deve ser cumprido. O voto de uma jovem na casa do pai ou de uma esposa vale se o pai ou o marido, ao saber, se calar; se ele o anular no mesmo dia, ela é perdoada. O voto da viúva ou divorciada é firme.",
+   "refs": [
+    "numeros 30:2-16"
+   ],
+   "quem": "pais, maridos, filhas e esposas",
+   "sancao": {
+    "tipo": "divina",
+    "descricao": "Se o marido anular depois, ele leva o pecado dela.",
+    "refs": [
+     "numeros 30:15"
+    ]
+   },
+   "nota": "Votos em geral podem ser tratados em outro grupo; aqui fica a parte familiar."
+  },
+  {
+   "id": "b-lugar-unico",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "lugar-de-culto",
+   "titulo": "Oferecer sacrifícios só no lugar que Deus escolher",
+   "tipo": "positivo",
+   "texto": "Holocaustos, sacrifícios, dízimos, votos e primogênitos devem ser levados ao lugar que o SENHOR escolher entre as tribos; não se oferece holocausto em qualquer lugar.",
+   "refs": [
+    "deuteronomio 12:5-14"
+   ],
+   "paralelos": [
+    "levitico 17:3-9",
+    "deuteronomio 12:26-27"
+   ],
+   "quem": "todo Israel",
+   "condicao": "Deuteronômio: depois que Israel tiver descanso na terra (12:9-10).",
+   "sancao": {
+    "tipo": "extirpacao",
+    "descricao": "Em Levítico, quem sacrifica fora da porta da tenda é eliminado do seu povo: 'sangue derramou'.",
+    "refs": [
+     "levitico 17:3-4",
+     "levitico 17:8-9"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Jeroboão monta altares em Betel e Dã; o texto o condena.",
+     "refs": [
+      "1-reis 12:26-33"
+     ]
+    },
+    {
+     "descricao": "Ezequias e Josias removem os altos e centralizam o culto em Jerusalém.",
+     "refs": [
+      "2-reis 18:4",
+      "2-reis 23:8-9"
+     ]
+    },
+    {
+     "descricao": "As tribos do outro lado do Jordão explicam que seu altar é só testemunho, não para sacrifício.",
+     "refs": [
+      "josue 22:26-29"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Jesus fala à samaritana de uma adoração 'em espírito e em verdade', nem neste monte nem em Jerusalém.",
+     "refs": [
+      "joao 4:20-24"
+     ]
+    }
+   ],
+   "motivo": "Afastar os sacrifícios 'aos demônios' e os cultos dos lugares altos (Lv 17:7; Dt 12:2-4).",
+   "nota": "Antes do templo, há altares legítimos em vários lugares (Samuel, Elias); estudiosos discutem como Êxodo 20:24 e Deuteronômio 12 se relacionam."
+  },
+  {
+   "id": "b-carne-profana",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "lugar-de-culto",
+   "titulo": "Abater para comer em qualquer cidade (longe do santuário)",
+   "tipo": "positivo",
+   "texto": "Quando o lugar escolhido estiver longe, pode-se abater gado e comer carne nas cidades, como se come gazela ou cervo, puro ou impuro; só o sangue deve ser derramado na terra.",
+   "refs": [
+    "deuteronomio 12:15-16",
+    "deuteronomio 12:20-24"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena; é permissão.",
+    "refs": []
+   },
+   "nota": "Parece ajustar Levítico 17:3-4 para a vida na terra. As regras sobre sangue ficam no grupo de alimentos."
+  },
+  {
+   "id": "b-altar-de-terra-pedra",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "lugar-de-culto",
+   "titulo": "Altar de terra ou de pedras não lavradas",
+   "tipo": "negativo",
+   "texto": "O altar se faz de terra; se for de pedras, não podem ser lavradas com ferro, senão ficaria profanado.",
+   "refs": [
+    "exodo 20:24-25"
+   ],
+   "paralelos": [
+    "deuteronomio 27:5-6"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "casos": [
+    {
+     "descricao": "Josué ergue no monte Ebal um altar de pedras inteiras.",
+     "refs": [
+      "josue 8:30-31"
+     ]
+    },
+    {
+     "descricao": "Elias reconstrói o altar com doze pedras.",
+     "refs": [
+      "1-reis 18:31-32"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-altar-sem-degraus",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "lugar-de-culto",
+   "titulo": "Não subir ao altar por degraus",
+   "tipo": "negativo",
+   "texto": "Não subir ao altar por degraus, para que a nudez não se descubra junto a ele.",
+   "refs": [
+    "exodo 20:26"
+   ],
+   "quem": "sacerdotes",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Middot 3:3 (no templo se subia por rampa)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-reverenciar-santuario",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "lugar-de-culto",
+   "titulo": "Reverenciar o santuário",
+   "tipo": "positivo",
+   "texto": "Guardar os sábados e reverenciar o santuário.",
+   "refs": [
+    "levitico 19:30"
+   ],
+   "paralelos": [
+    "levitico 26:2"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "associacoes": [
+    {
+     "texto": "Jesus expulsa os vendedores do templo: 'casa de oração'.",
+     "refs": [
+      "marcos 11:15-17"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-guardar-santuario",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "lugar-de-culto",
+   "titulo": "Guardar o santuário e não deixar estranho se aproximar",
+   "tipo": "positivo",
+   "texto": "Sacerdotes e levitas montam guarda no santuário e no altar; o 'estranho' (quem não é sacerdote) que se aproximar do serviço morrerá.",
+   "refs": [
+    "numeros 18:3-7"
+   ],
+   "paralelos": [
+    "numeros 1:51",
+    "numeros 3:38"
+   ],
+   "quem": "sacerdotes e levitas",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "'O estranho que se aproximar morrerá.'",
+    "refs": [
+     "numeros 3:10",
+     "numeros 18:7"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Coré e seus 250 homens oferecem incenso e são consumidos.",
+     "refs": [
+      "numeros 16:35",
+      "numeros 16:40"
+     ]
+    },
+    {
+     "descricao": "O rei Uzias entra para queimar incenso e fica leproso.",
+     "refs": [
+      "2-cronicas 26:16-21"
+     ]
+    }
+   ],
+   "motivo": "Para que não haja mais ira sobre os filhos de Israel (18:5)."
+  },
+  {
+   "id": "b-consagracao-sacerdotes",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "sacerdotes",
+   "titulo": "Consagração dos sacerdotes em sete dias",
+   "tipo": "positivo",
+   "texto": "Arão e seus filhos são lavados, vestidos, ungidos e 'têm as mãos cheias' com sacrifícios durante sete dias, sem sair da porta da tenda; o filho que suceder o sumo sacerdote veste as roupas sagradas por sete dias.",
+   "refs": [
+    "exodo 29:1-37",
+    "levitico 8:1-36"
+   ],
+   "paralelos": [
+    "exodo 29:29-30",
+    "exodo 40:12-15"
+   ],
+   "quem": "sacerdotes",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "Não sair da porta 'para que não morrais'.",
+    "refs": [
+     "levitico 8:35"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Moisés executa a consagração e no oitavo dia a glória do SENHOR aparece.",
+     "refs": [
+      "levitico 9:1",
+      "levitico 9:23-24"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "O Novo Testamento chama os fiéis de 'sacerdócio santo' ou 'real'.",
+     "refs": [
+      "1-pedro 2:5",
+      "1-pedro 2:9",
+      "apocalipse 1:6"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-roupas-sacerdotais",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "sacerdotes",
+   "titulo": "Servir com as roupas sagradas",
+   "tipo": "positivo",
+   "texto": "Os sacerdotes servem com túnica, cinto, mitra e calções de linho; o sumo sacerdote também com éfode, peitoral (com Urim e Tumim), manto com campainhas e lâmina de ouro na testa. Os calções cobrem a nudez ao servir.",
+   "refs": [
+    "exodo 28:2-4",
+    "exodo 28:40-43"
+   ],
+   "paralelos": [
+    "levitico 6:10-11",
+    "levitico 16:4"
+   ],
+   "quem": "sacerdotes",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "Sem os calções 'levariam iniquidade e morreriam'; as campainhas do manto 'para que não morra'.",
+    "refs": [
+     "exodo 28:43",
+     "exodo 28:35"
+    ]
+   },
+   "motivo": "Para honra e beleza (28:2).",
+   "nota": "A confecção das roupas é tratada no estudo do tabernáculo. A tradição rabínica conta também como mandamentos não soltar o peitoral do éfode e não rasgar o manto (Êx 28:28, 28:32)."
+  },
+  {
+   "id": "b-lavar-maos-pes",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "sacerdotes",
+   "titulo": "Lavar mãos e pés antes de servir",
+   "tipo": "positivo",
+   "texto": "Ao entrar na tenda ou chegar ao altar, os sacerdotes lavam mãos e pés na bacia de bronze.",
+   "refs": [
+    "exodo 30:19-21"
+   ],
+   "paralelos": [
+    "exodo 40:30-32"
+   ],
+   "quem": "sacerdotes",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "'Para que não morram.'",
+    "refs": [
+     "exodo 30:20-21"
+    ]
+   },
+   "associacoes": [
+    {
+     "texto": "Jesus lava os pés dos discípulos; Hebreus fala do corpo lavado com água pura.",
+     "refs": [
+      "joao 13:8-10",
+      "hebreus 10:22"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-sem-vinho",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "sacerdotes",
+   "titulo": "Não beber vinho ao entrar no santuário",
+   "tipo": "negativo",
+   "texto": "O sacerdote não bebe vinho nem bebida forte quando vai entrar na tenda, para discernir entre santo e comum, puro e impuro, e ensinar o povo.",
+   "refs": [
+    "levitico 10:9-11"
+   ],
+   "paralelos": [
+    "ezequiel 44:21"
+   ],
+   "quem": "sacerdotes",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "'Para que não morrais.'",
+    "refs": [
+     "levitico 10:9"
+    ]
+   },
+   "associacoes": [
+    {
+     "texto": "Isaías denuncia sacerdotes e profetas que erram por causa do vinho.",
+     "refs": [
+      "isaias 28:7"
+     ]
+    }
+   ],
+   "nota": "Vem logo após a morte de Nadabe e Abiú; alguns intérpretes ligam as duas coisas."
+  },
+  {
+   "id": "b-cabelo-roupa-servico",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "sacerdotes",
+   "titulo": "Não descobrir a cabeça nem rasgar as roupas em serviço",
+   "tipo": "negativo",
+   "texto": "Os sacerdotes em serviço não deixam o cabelo desgrenhado nem rasgam as roupas em luto, nem saem da porta da tenda, pois o óleo da unção está sobre eles.",
+   "refs": [
+    "levitico 10:6-7"
+   ],
+   "quem": "sacerdotes",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "'Para que não morrais', e para que a ira não venha sobre toda a congregação.",
+    "refs": [
+     "levitico 10:6-7"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Nadabe e Abiú oferecem 'fogo estranho' e morrem; Arão e os filhos ficam proibidos de fazer luto.",
+     "refs": [
+      "levitico 10:1-7"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-impureza-por-mortos",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "sacerdotes",
+   "titulo": "O sacerdote não se contamina com mortos, salvo parentes próximos",
+   "tipo": "negativo",
+   "texto": "O sacerdote não se torna impuro por um morto, exceto por mãe, pai, filho, filha, irmão e irmã virgem; também não rapa a cabeça, a ponta da barba nem faz cortes no corpo.",
+   "refs": [
+    "levitico 21:1-6"
+   ],
+   "paralelos": [
+    "ezequiel 44:25"
+   ],
+   "quem": "sacerdotes",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena fixada; 'santos serão a seu Deus'.",
+    "refs": []
+   },
+   "associacoes": [
+    {
+     "texto": "Na parábola do bom samaritano, um sacerdote e um levita passam ao largo do ferido; muitos leitores lembram estas regras, embora o texto não dê o motivo.",
+     "refs": [
+      "lucas 10:31-32"
+     ]
+    }
+   ],
+   "motivo": "Oferecem o pão do seu Deus; portanto serão santos (21:6).",
+   "nota": "A esposa não é citada; a tradição rabínica a inclui ('parente próximo', 21:2).",
+   "fonte_extra": [
+    {
+     "fonte": "Talmude Babilônico",
+     "referencia": "Yevamot 22b (a esposa incluída como 'parente próximo')",
+     "data": "c. 500 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-casamento-sacerdotes",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "sacerdotes",
+   "titulo": "Com quem o sacerdote não se casa",
+   "tipo": "negativo",
+   "texto": "O sacerdote não toma mulher prostituta, desonrada ou divorciada.",
+   "refs": [
+    "levitico 21:7-8"
+   ],
+   "paralelos": [
+    "ezequiel 44:22"
+   ],
+   "quem": "sacerdotes",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena fixada.",
+    "refs": []
+   },
+   "motivo": "Ele é santo a seu Deus (21:7).",
+   "nota": "Ezequiel admite a viúva de outro sacerdote."
+  },
+  {
+   "id": "b-filha-sacerdote",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "sacerdotes",
+   "titulo": "A filha do sacerdote que se prostitui",
+   "tipo": "negativo",
+   "texto": "Se a filha de um sacerdote se prostituir, profana o pai e será queimada no fogo.",
+   "refs": [
+    "levitico 21:9"
+   ],
+   "quem": "filhas de sacerdotes",
+   "sancao": {
+    "tipo": "morte-fogo",
+    "descricao": "Será queimada no fogo.",
+    "refs": [
+     "levitico 21:9"
+    ]
+   },
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Sanhedrin 9:1 (a tradição posterior aplica à filha casada que adultera)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-defeitos-fisicos",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "sacerdotes",
+   "titulo": "Sacerdote com defeito físico não oferece",
+   "tipo": "negativo",
+   "texto": "O descendente de Arão com defeito (cego, coxo, deformado, com fratura, corcunda, anão, doença de pele, mutilado etc.) não se aproxima do altar nem entra além do véu; mas pode comer das coisas santas.",
+   "refs": [
+    "levitico 21:16-23"
+   ],
+   "quem": "sacerdotes",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Não há pena; ele só fica impedido do serviço no altar.",
+    "refs": []
+   },
+   "motivo": "Para não profanar o santuário (21:23).",
+   "nota": "Os mesmos critérios de 'sem defeito' valem para os animais oferecidos (Lv 22:20-25). Ele continua sacerdote e recebe sustento."
+  },
+  {
+   "id": "b-sacerdote-impuro",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "sacerdotes",
+   "titulo": "Sacerdote impuro não serve nem come coisas santas",
+   "tipo": "negativo",
+   "texto": "O sacerdote leproso, com fluxo, ou contaminado por morto, réptil, sêmen ou pessoa impura não se aproxima das coisas sagradas nem come delas até se lavar e o sol se pôr.",
+   "refs": [
+    "levitico 22:2-7"
+   ],
+   "paralelos": [
+    "levitico 22:9"
+   ],
+   "quem": "sacerdotes",
+   "sancao": {
+    "tipo": "extirpacao",
+    "descricao": "Quem se aproximar das coisas santas estando impuro será eliminado de diante do SENHOR.",
+    "refs": [
+     "levitico 22:3"
+    ]
+   }
+  },
+  {
+   "id": "b-quem-come-coisas-santas",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "sacerdotes",
+   "titulo": "Quem pode comer das ofertas sagradas do sacerdote",
+   "tipo": "negativo",
+   "texto": "Nenhum 'estranho' come das coisas santas: nem hóspede nem diarista do sacerdote. Comem o escravo comprado e o nascido na casa; a filha casada com não sacerdote não come, mas volta a comer se ficar viúva ou divorciada sem filhos e voltar à casa do pai.",
+   "refs": [
+    "levitico 22:10-13"
+   ],
+   "paralelos": [
+    "exodo 29:33",
+    "numeros 18:11"
+   ],
+   "quem": "sacerdotes e suas casas",
+   "sancao": {
+    "tipo": "restituicao",
+    "descricao": "Quem comer por engano devolve o valor mais um quinto ao sacerdote.",
+    "refs": [
+     "levitico 22:14"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "O sacerdote Aimeleque dá a Davi os pães da proposição; Jesus cita o caso.",
+     "refs": [
+      "1-samuel 21:3-6",
+      "marcos 2:25-26"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-santificar-sacerdote",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "sacerdotes",
+   "titulo": "Tratar o sacerdote como santo",
+   "tipo": "positivo",
+   "texto": "O povo deve santificar o sacerdote, porque ele oferece o pão do seu Deus.",
+   "refs": [
+    "levitico 21:8"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "fonte_extra": [
+    {
+     "fonte": "Talmude Babilônico",
+     "referencia": "Gitin 59b (a tradição dá ao sacerdote a primazia na leitura da Torá)",
+     "data": "c. 500 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-bencao-sacerdotal",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "sacerdotes",
+   "titulo": "Abençoar o povo com a bênção sacerdotal",
+   "tipo": "positivo",
+   "texto": "Arão e seus filhos abençoam Israel: 'O SENHOR te abençoe e te guarde; faça resplandecer o seu rosto sobre ti...; levante o seu rosto sobre ti e te dê a paz'.",
+   "refs": [
+    "numeros 6:22-27"
+   ],
+   "paralelos": [
+    "deuteronomio 10:8",
+    "deuteronomio 21:5"
+   ],
+   "quem": "sacerdotes",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "casos": [
+    {
+     "descricao": "Arão abençoa o povo no dia da inauguração do culto.",
+     "refs": [
+      "levitico 9:22-23"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "O Salmo 67 ecoa a bênção.",
+     "refs": [
+      "salmos 67:1"
+     ]
+    }
+   ],
+   "motivo": "Assim porão o nome de Deus sobre Israel e ele os abençoará (6:27).",
+   "rambam": "P 26",
+   "fonte_extra": [
+    {
+     "fonte": "Arqueologia",
+     "referencia": "Plaquetas de prata de Ketef Hinom (Jerusalém) com texto semelhante a Números 6:24-26",
+     "data": "c. séc. VII-VI a.C. (datação discutida)"
+    }
+   ]
+  },
+  {
+   "id": "b-trombetas",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "sacerdotes",
+   "titulo": "Tocar as trombetas de prata",
+   "tipo": "positivo",
+   "texto": "Os sacerdotes tocam as duas trombetas para reunir a congregação, mover o acampamento, na guerra e sobre os sacrifícios das festas e luas novas.",
+   "refs": [
+    "numeros 10:2-10"
+   ],
+   "quem": "sacerdotes",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "casos": [
+    {
+     "descricao": "Sacerdotes tocam trombetas na guerra contra Midiã e na dedicação do templo.",
+     "refs": [
+      "numeros 31:6",
+      "2-cronicas 5:12"
+     ]
+    }
+   ],
+   "motivo": "Serão lembrados diante do SENHOR e salvos dos inimigos (10:9)."
+  },
+  {
+   "id": "b-ensinar-pureza",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "sacerdotes",
+   "titulo": "Sacerdotes ensinam e decidem casos de pureza",
+   "tipo": "positivo",
+   "texto": "Os sacerdotes devem distinguir entre o santo e o comum, o puro e o impuro, e ensinar os estatutos; nos casos de 'lepra' o povo faz o que os sacerdotes ensinarem.",
+   "refs": [
+    "levitico 10:10-11",
+    "deuteronomio 24:8"
+   ],
+   "quem": "sacerdotes",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "associacoes": [
+    {
+     "texto": "Malaquias: os lábios do sacerdote devem guardar o conhecimento.",
+     "refs": [
+      "malaquias 2:7"
+     ]
+    },
+    {
+     "texto": "Ageu consulta os sacerdotes sobre pureza.",
+     "refs": [
+      "ageu 2:11-13"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-sumo-luto-casamento",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "sumo-sacerdote",
+   "titulo": "Sumo sacerdote: sem luto por mortos e casamento com virgem",
+   "tipo": "negativo",
+   "texto": "O sumo sacerdote não deixa o cabelo solto nem rasga as roupas, não entra onde há morto, nem pelo pai ou pela mãe, e não sai do santuário por luto. Casa-se com uma virgem do seu povo; não com viúva, divorciada, desonrada ou prostituta.",
+   "refs": [
+    "levitico 21:10-15"
+   ],
+   "quem": "sumo sacerdote",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena fixada.",
+    "refs": []
+   },
+   "casos": [
+    {
+     "descricao": "Caifás rasga as vestes no julgamento de Jesus (o texto não discute a lei).",
+     "refs": [
+      "mateus 26:65"
+     ]
+    }
+   ],
+   "motivo": "A coroa do óleo da unção está sobre ele; não profanará a sua descendência."
+  },
+  {
+   "id": "b-dia-da-expiacao-servico",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "sumo-sacerdote",
+   "titulo": "O serviço do sumo sacerdote no Dia da Expiação",
+   "tipo": "positivo",
+   "texto": "Uma vez por ano, no dia 10 do sétimo mês, o sumo sacerdote, com roupas de linho, entra além do véu com incenso e o sangue do novilho e do bode; o outro bode, por sorte 'para Azazel', recebe a confissão dos pecados do povo e é enviado ao deserto. Fora desse dia não entra no Santo dos Santos.",
+   "refs": [
+    "levitico 16:2-28"
+   ],
+   "paralelos": [
+    "levitico 16:29-34",
+    "exodo 30:10",
+    "numeros 29:7-11"
+   ],
+   "quem": "sumo sacerdote",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "Se entrar em outro momento, morrerá (16:2); a nuvem de incenso também protege 'para que não morra' (16:13).",
+    "refs": [
+     "levitico 16:2",
+     "levitico 16:13"
+    ]
+   },
+   "associacoes": [
+    {
+     "texto": "Hebreus contrasta a entrada anual do sumo sacerdote com a entrada única de Cristo.",
+     "refs": [
+      "hebreus 9:7",
+      "hebreus 9:24-26"
+     ]
+    }
+   ],
+   "nota": "O jejum e o descanso do dia estão no grupo de festas. 'Azazel' é termo discutido: nome de um lugar, de um ser do deserto ou 'bode que se vai'.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Yoma (tratado inteiro sobre o serviço do dia)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-oferta-diaria-sumo",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "sumo-sacerdote",
+   "titulo": "A oferta diária de cereal do sumo sacerdote",
+   "tipo": "positivo",
+   "texto": "O sacerdote ungido oferece todo dia um décimo de efa de farinha preparada com azeite na assadeira, metade de manhã e metade à tarde; é queimada inteira.",
+   "refs": [
+    "levitico 6:20-22"
+   ],
+   "quem": "sumo sacerdote",
+   "condicao": "Só com o santuário (tabernáculo, depois templo).",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   }
+  },
+  {
+   "id": "b-cereal-sacerdote-inteiro",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "sumo-sacerdote",
+   "titulo": "A oferta de cereal do sacerdote não se come",
+   "tipo": "negativo",
+   "texto": "Toda oferta de cereal de sacerdote é queimada inteira; não se come.",
+   "refs": [
+    "levitico 6:23"
+   ],
+   "quem": "sacerdotes",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   }
+  },
+  {
+   "id": "b-servico-levitas",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "levitas",
+   "titulo": "Os levitas servem no santuário em lugar dos primogênitos",
+   "tipo": "positivo",
+   "texto": "A tribo de Levi é dada a Arão para cuidar da tenda e dos utensílios e fazer o serviço; os levitas levam a responsabilidade do serviço e assim o povo não se aproxima e morre.",
+   "refs": [
+    "numeros 3:5-9",
+    "numeros 18:2-6",
+    "numeros 18:21-23"
+   ],
+   "paralelos": [
+    "numeros 3:12-13",
+    "numeros 8:16-19"
+   ],
+   "quem": "levitas",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "Os levitas não tocam os utensílios santos nem o altar, 'para que não morram eles e vós'.",
+    "refs": [
+     "numeros 18:3"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Os levitas se põem ao lado de Moisés após o bezerro de ouro.",
+     "refs": [
+      "exodo 32:26-29"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-consagracao-levitas",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "levitas",
+   "titulo": "Purificação e apresentação dos levitas",
+   "tipo": "positivo",
+   "texto": "Os levitas são aspergidos com água de purificação, rapam o corpo, lavam as roupas, recebem a imposição de mãos do povo e são 'movidos' como oferta diante do SENHOR, com dois novilhos.",
+   "refs": [
+    "numeros 8:5-22"
+   ],
+   "quem": "levitas",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   }
+  },
+  {
+   "id": "b-idade-levitas",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "levitas",
+   "titulo": "Idade de serviço dos levitas",
+   "tipo": "positivo",
+   "texto": "Os levitas servem dos 25 aos 50 anos; depois apenas ajudam na guarda.",
+   "refs": [
+    "numeros 8:24-26"
+   ],
+   "quem": "levitas",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "nota": "Números 4:3 fala em 30 anos para o transporte; Davi depois fixa 20 (1 Crônicas 23:24-27). Intérpretes harmonizam de modos diferentes."
+  },
+  {
+   "id": "b-coatitas-ombros",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "levitas",
+   "titulo": "Os coatitas carregam as coisas santas nos ombros, sem vê-las",
+   "tipo": "negativo",
+   "texto": "Os filhos de Coate só carregam os objetos santíssimos depois que os sacerdotes os cobrem; não podem tocá-los nem vê-los descobertos. Carregam nos ombros, não em carros.",
+   "refs": [
+    "numeros 4:15-20",
+    "numeros 7:9"
+   ],
+   "quem": "levitas coatitas",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "Se tocarem ou olharem, morrerão.",
+    "refs": [
+     "numeros 4:15",
+     "numeros 4:20"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Uzá toca a arca, levada num carro, e morre; depois Davi manda que só levitas a carreguem nos ombros.",
+     "refs": [
+      "2-samuel 6:6-7",
+      "1-cronicas 15:2",
+      "1-cronicas 15:13-15"
+     ]
+    },
+    {
+     "descricao": "Homens de Bete-Semes olham dentro da arca e morrem.",
+     "refs": [
+      "1-samuel 6:19"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-cidades-levitas",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "levitas",
+   "titulo": "Dar 48 cidades com pastagens aos levitas",
+   "tipo": "positivo",
+   "texto": "As tribos dão aos levitas 48 cidades com seus arredores (seis delas cidades de refúgio), proporcionalmente ao tamanho de cada herança.",
+   "refs": [
+    "numeros 35:1-8"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "casos": [
+    {
+     "descricao": "Josué distribui as cidades levíticas.",
+     "refs": [
+      "josue 21:1-3",
+      "josue 21:41"
+     ]
+    }
+   ],
+   "nota": "O resgate das casas dos levitas e a proibição de vender seus campos estão no grupo Terra (Lv 25:32-34)."
+  },
+  {
+   "id": "b-levita-no-santuario",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "levitas",
+   "titulo": "O levita que vem servir no lugar escolhido",
+   "tipo": "positivo",
+   "texto": "O levita que vier de qualquer cidade ao lugar escolhido pode servir ali como os irmãos e recebe porção igual.",
+   "refs": [
+    "deuteronomio 18:6-8"
+   ],
+   "quem": "levitas",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "casos": [
+    {
+     "descricao": "Na reforma de Josias, os sacerdotes dos altos não sobem ao altar em Jerusalém, mas comem pão asmo com os irmãos.",
+     "refs": [
+      "2-reis 23:9"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-nao-desamparar-levita",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "levitas",
+   "titulo": "Não desamparar o levita",
+   "tipo": "negativo",
+   "texto": "Não abandonar o levita que está nas cidades, porque ele não tem herança; ele participa das refeições e dos dízimos.",
+   "refs": [
+    "deuteronomio 12:19",
+    "deuteronomio 14:27"
+   ],
+   "paralelos": [
+    "deuteronomio 12:12",
+    "deuteronomio 26:11"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "casos": [
+    {
+     "descricao": "Neemias descobre que os levitas tinham fugido para os campos porque não recebiam suas porções.",
+     "refs": [
+      "neemias 13:10-12"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-sem-heranca",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "porcoes",
+   "titulo": "Sacerdotes e levitas não têm herança de terra",
+   "tipo": "negativo",
+   "texto": "A tribo de Levi não recebe território: o SENHOR é a sua herança, e eles vivem das ofertas e dos dízimos.",
+   "refs": [
+    "numeros 18:20",
+    "numeros 18:23-24",
+    "deuteronomio 18:1-2"
+   ],
+   "paralelos": [
+    "deuteronomio 10:9",
+    "josue 13:14"
+   ],
+   "quem": "sacerdotes e levitas",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "associacoes": [
+    {
+     "texto": "Salmos: 'O SENHOR é a porção da minha herança'.",
+     "refs": [
+      "salmos 16:5"
+     ]
+    },
+    {
+     "texto": "Paulo usa o sustento dos que servem no altar para defender o sustento dos que pregam.",
+     "refs": [
+      "1-corintios 9:13-14"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-partes-sacerdotes",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "porcoes",
+   "titulo": "As partes dos sacrifícios que cabem aos sacerdotes",
+   "tipo": "positivo",
+   "texto": "Dos sacrifícios de paz o sacerdote recebe o peito 'movido' e a coxa direita; dos de pecado, culpa e cereal, o que sobra é santíssimo e só os homens sacerdotes comem no lugar santo; do holocausto, a pele. Em Deuteronômio, de todo animal abatido em sacrifício o sacerdote recebe a espádua, as queixadas e o estômago.",
+   "refs": [
+    "levitico 7:6-10",
+    "levitico 7:31-34",
+    "numeros 18:8-19",
+    "deuteronomio 18:3"
+   ],
+   "paralelos": [
+    "levitico 10:12-15",
+    "levitico 6:16-18",
+    "levitico 6:26-29"
+   ],
+   "quem": "sacerdotes",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "casos": [
+    {
+     "descricao": "Os filhos de Eli tomam a carne à força antes da gordura ser queimada; seu pecado é 'muito grande'.",
+     "refs": [
+      "1-samuel 2:12-17"
+     ]
+    },
+    {
+     "descricao": "Moisés se irrita porque o bode da expiação foi queimado em vez de comido; aceita a explicação de Arão.",
+     "refs": [
+      "levitico 10:16-20"
+     ]
+    }
+   ],
+   "motivo": "É 'pacto de sal perpétuo' (Nm 18:19).",
+   "nota": "Coisas 'santíssimas' (comidas só por homens no santuário) e 'santas' (comidas pela família, em lugar puro) seguem regras diferentes."
+  },
+  {
+   "id": "b-meio-siclo",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "porcoes",
+   "titulo": "Dar meio siclo no recenseamento",
+   "tipo": "positivo",
+   "texto": "Todo contado de 20 anos para cima dá meio siclo como 'resgate da vida'; o rico não dá mais e o pobre não dá menos; o dinheiro vai para o serviço da tenda.",
+   "refs": [
+    "exodo 30:12-16"
+   ],
+   "quem": "homens de 20 anos ou mais",
+   "sancao": {
+    "tipo": "divina",
+    "descricao": "Para que não haja praga ao serem contados.",
+    "refs": [
+     "exodo 30:12"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Joás usa a 'contribuição de Moisés' para reparar o templo.",
+     "refs": [
+      "2-cronicas 24:6",
+      "2-cronicas 24:9"
+     ]
+    },
+    {
+     "descricao": "Davi faz um censo e vem uma praga (o texto não liga ao meio siclo).",
+     "refs": [
+      "2-samuel 24:10",
+      "2-samuel 24:15"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Pedro e Jesus pagam o imposto do templo com a moeda achada no peixe.",
+     "refs": [
+      "mateus 17:24-27"
+     ]
+    }
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Sheqalim 1:1 (coleta anual do meio siclo no mês de Adar)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-holocausto",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "sacrificios",
+   "titulo": "O holocausto (oferta queimada inteira)",
+   "tipo": "positivo",
+   "texto": "Macho sem defeito de gado, ovelha ou cabra, ou rolinhas e pombinhos para quem tem menos. O ofertante põe a mão na cabeça do animal e o degola; o sacerdote asperge o sangue ao redor do altar e queima tudo; a pele fica para o sacerdote.",
+   "refs": [
+    "levitico 1:2-17",
+    "levitico 6:9-13"
+   ],
+   "paralelos": [
+    "levitico 7:8"
+   ],
+   "quem": "todo ofertante; sacerdotes executam",
+   "condicao": "Só com o santuário (tabernáculo, depois templo).",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Oferta voluntária; sem pena.",
+    "refs": []
+   },
+   "associacoes": [
+    {
+     "texto": "Os profetas afirmam que Deus prefere obediência e misericórdia a holocaustos.",
+     "refs": [
+      "1-samuel 15:22",
+      "oseias 6:6",
+      "miqueias 6:6-8"
+     ]
+    },
+    {
+     "texto": "Jesus concorda com o escriba: amar a Deus e ao próximo vale mais que holocaustos.",
+     "refs": [
+      "marcos 12:32-34"
+     ]
+    }
+   ],
+   "motivo": "'Cheiro suave ao SENHOR'; é aceito para fazer expiação (1:4)."
+  },
+  {
+   "id": "b-oferta-cereal",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "sacrificios",
+   "titulo": "A oferta de cereal (minchá)",
+   "tipo": "positivo",
+   "texto": "Farinha fina com azeite e incenso, crua ou assada no forno, na assadeira ou na frigideira; o sacerdote queima um punhado 'como memorial' e o resto é dos sacerdotes, comido sem fermento no átrio.",
+   "refs": [
+    "levitico 2:1-10",
+    "levitico 6:14-18"
+   ],
+   "paralelos": [
+    "levitico 7:9-10",
+    "levitico 10:12-13"
+   ],
+   "quem": "todo ofertante; sacerdotes",
+   "condicao": "Só com o santuário (tabernáculo, depois templo).",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena.",
+    "refs": []
+   }
+  },
+  {
+   "id": "b-sem-fermento-mel-com-sal",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "sacrificios",
+   "titulo": "Nada de fermento ou mel no altar; sal em toda oferta",
+   "tipo": "negativo",
+   "texto": "Nenhuma oferta queimada leva fermento ou mel; toda oferta leva sal, 'o sal da aliança do teu Deus'.",
+   "refs": [
+    "levitico 2:11-13"
+   ],
+   "quem": "sacerdotes e ofertantes",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "associacoes": [
+    {
+     "texto": "Jesus: 'todo sacrifício será salgado'; 'tende sal em vós mesmos' (versículo com variações nos manuscritos).",
+     "refs": [
+      "marcos 9:49-50"
+     ]
+    }
+   ],
+   "nota": "As primícias e os pães de ação de graças podem ser levedados, mas não sobem ao altar (2:12; 7:13)."
+  },
+  {
+   "id": "b-sacrificio-paz",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "sacrificios",
+   "titulo": "O sacrifício de paz (comunhão)",
+   "tipo": "positivo",
+   "texto": "Macho ou fêmea sem defeito; a gordura das entranhas, os rins e o lóbulo do fígado são queimados; o peito e a coxa vão para os sacerdotes; o resto é comido pelo ofertante. Pode ser de ação de graças (com pães), por voto ou voluntário.",
+   "refs": [
+    "levitico 3:1-17",
+    "levitico 7:11-14"
+   ],
+   "quem": "todo ofertante",
+   "condicao": "Só com o santuário (tabernáculo, depois templo).",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena; ver item sobre os prazos.",
+    "refs": []
+   },
+   "nota": "A proibição de comer gordura e sangue fica no grupo de alimentos."
+  },
+  {
+   "id": "b-prazo-sacrificio-paz",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "sacrificios",
+   "titulo": "Prazo para comer a carne do sacrifício de paz",
+   "tipo": "negativo",
+   "texto": "A carne da ação de graças se come no mesmo dia; a de voto ou voluntária, até o dia seguinte; o que sobrar ao terceiro dia é queimado. Quem comer no terceiro dia profana o que é santo.",
+   "refs": [
+    "levitico 7:15-18",
+    "levitico 19:5-8",
+    "levitico 22:29-30"
+   ],
+   "paralelos": [
+    "exodo 29:34"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "extirpacao",
+    "descricao": "A oferta não é aceita e quem comer será eliminado do seu povo.",
+    "refs": [
+     "levitico 7:18",
+     "levitico 19:8"
+    ]
+   }
+  },
+  {
+   "id": "b-sacrificio-pecado",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "sacrificios",
+   "titulo": "O sacrifício pelo pecado (purificação)",
+   "tipo": "positivo",
+   "texto": "Por pecado não intencional: o sacerdote ungido e a congregação inteira trazem um novilho, cujo sangue é levado para dentro da tenda e cuja carne é queimada fora do acampamento; o líder traz um bode; a pessoa comum, uma cabra ou cordeira.",
+   "refs": [
+    "levitico 4:1-35",
+    "levitico 6:25-29"
+   ],
+   "paralelos": [
+    "numeros 15:22-29"
+   ],
+   "quem": "todo Israel",
+   "condicao": "Só com o santuário (tabernáculo, depois templo).",
+   "sancao": {
+    "tipo": "oferta",
+    "descricao": "A pena é a própria oferta; 'e será perdoado'.",
+    "refs": [
+     "levitico 4:20",
+     "levitico 4:31"
+    ]
+   },
+   "associacoes": [
+    {
+     "texto": "Hebreus: Jesus sofreu 'fora da porta', como os corpos queimados fora do acampamento.",
+     "refs": [
+      "hebreus 13:11-12"
+     ]
+    },
+    {
+     "texto": "Hebreus apresenta Jesus como sumo sacerdote e sacrifício definitivo, do qual estes ritos seriam sombra.",
+     "refs": [
+      "hebreus 9:11-14",
+      "hebreus 10:1-10"
+     ]
+    }
+   ],
+   "nota": "Muitos estudiosos preferem traduzir 'oferta de purificação', porque também se oferece após parto ou fluxo, sem culpa moral."
+  },
+  {
+   "id": "b-sangue-dentro-nao-comer",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "sacrificios",
+   "titulo": "Não comer o sacrifício pelo pecado cujo sangue entrou no santuário",
+   "tipo": "negativo",
+   "texto": "A oferta pelo pecado cujo sangue é levado à tenda para fazer expiação não é comida: é queimada.",
+   "refs": [
+    "levitico 6:30"
+   ],
+   "paralelos": [
+    "levitico 4:11-12",
+    "levitico 16:27"
+   ],
+   "quem": "sacerdotes",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   }
+  },
+  {
+   "id": "b-oferta-graduada",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "sacrificios",
+   "titulo": "Oferta segundo as posses (testemunho omitido, impureza esquecida, juramento impensado)",
+   "tipo": "positivo",
+   "texto": "Quem não denuncia o que viu sob juramento, quem toca algo impuro sem perceber ou jura sem pensar, confessa e traz uma cordeira ou cabra; se não puder, duas rolinhas ou pombinhos; se nem isso, um décimo de efa de farinha sem azeite nem incenso.",
+   "refs": [
+    "levitico 5:1-13"
+   ],
+   "quem": "todo Israel",
+   "condicao": "Só com o santuário (tabernáculo, depois templo).",
+   "sancao": {
+    "tipo": "oferta",
+    "descricao": "Confissão e oferta proporcional às posses.",
+    "refs": [
+     "levitico 5:5-7",
+     "levitico 5:11"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Maria e José oferecem 'um par de rolinhas ou dois pombinhos', a opção dos pobres, após o parto.",
+     "refs": [
+      "lucas 2:24"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-sacrificio-culpa",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "sacrificios",
+   "titulo": "O sacrifício pela culpa (reparação)",
+   "tipo": "positivo",
+   "texto": "Por uso indevido de coisas santas ou dano ao próximo negado sob falso juramento (depósito, roubo, extorsão, objeto achado), a pessoa devolve o valor com mais um quinto e traz um carneiro sem defeito.",
+   "refs": [
+    "levitico 5:14-16",
+    "levitico 6:1-7",
+    "levitico 7:1-7"
+   ],
+   "paralelos": [
+    "numeros 5:5-8"
+   ],
+   "quem": "todo Israel",
+   "condicao": "Só com o santuário (tabernáculo, depois templo).",
+   "sancao": {
+    "tipo": "restituicao",
+    "descricao": "Restituição integral mais 20% e um carneiro.",
+    "refs": [
+     "levitico 6:5-6",
+     "levitico 5:16"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Os filisteus devolvem a arca com uma 'oferta pela culpa' de ouro.",
+     "refs": [
+      "1-samuel 6:3-4"
+     ]
+    },
+    {
+     "descricao": "Zaqueu promete restituir quatro vezes.",
+     "refs": [
+      "lucas 19:8"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Isaías diz que o Servo põe a vida como oferta pela culpa.",
+     "refs": [
+      "isaias 53:10"
+     ]
+    }
+   ],
+   "nota": "Números 5:8 acrescenta: se o lesado não tiver parente, a restituição vai para o sacerdote."
+  },
+  {
+   "id": "b-culpa-duvidosa",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "sacrificios",
+   "titulo": "Oferta pela culpa em caso de dúvida",
+   "tipo": "positivo",
+   "texto": "Quem fez algo proibido sem saber ainda é culpado e traz um carneiro como oferta pela culpa.",
+   "refs": [
+    "levitico 5:17-19"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "oferta",
+    "descricao": "Carneiro sem defeito; 'e será perdoado'.",
+    "refs": [
+     "levitico 5:18"
+    ]
+   },
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Keritot 4:1-2 (a tradição chama de 'asham talui', culpa em suspenso)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-pecado-mao-levantada",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "sacrificios",
+   "titulo": "Não há sacrifício para o pecado 'de mão levantada'",
+   "tipo": "negativo",
+   "texto": "O pecado não intencional tem oferta; mas quem peca 'com mão levantada' (de propósito, em desafio), natural ou estrangeiro, blasfema contra o SENHOR e é eliminado.",
+   "refs": [
+    "numeros 15:27-31"
+   ],
+   "quem": "todo Israel e o estrangeiro residente",
+   "sancao": {
+    "tipo": "extirpacao",
+    "descricao": "Será eliminado; sua iniquidade será sobre ele.",
+    "refs": [
+     "numeros 15:30-31"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Logo depois, o homem que juntava lenha no sábado é apedrejado.",
+     "refs": [
+      "numeros 15:32-36"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Salmos pedem ser guardado dos pecados ocultos e 'da soberba'.",
+     "refs": [
+      "salmos 19:12-13"
+     ]
+    },
+    {
+     "texto": "Hebreus adverte sobre pecar voluntariamente depois de conhecer a verdade.",
+     "refs": [
+      "hebreus 10:26"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-libacoes",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "sacrificios",
+   "titulo": "Cereal, azeite e vinho acompanham holocaustos e sacrifícios",
+   "tipo": "positivo",
+   "texto": "Na terra, cada holocausto ou sacrifício de paz leva oferta de cereal com azeite e libação de vinho em medida fixa: cordeiro, 1/10 de efa e 1/4 de him; carneiro, 2/10 e 1/3; novilho, 3/10 e 1/2. A mesma lei vale para o estrangeiro.",
+   "refs": [
+    "numeros 15:1-16"
+   ],
+   "quem": "todo Israel e o estrangeiro residente",
+   "condicao": "Na terra e com o santuário.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "motivo": "'Uma mesma lei' para o natural e o estrangeiro (15:15-16)."
+  },
+  {
+   "id": "b-sem-defeito",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "regras-sacrificio",
+   "titulo": "Oferecer só animais sem defeito",
+   "tipo": "negativo",
+   "texto": "Não se oferece animal cego, quebrado, mutilado, com úlcera ou sarna, nem castrado; animal com membro desproporcional só como oferta voluntária, não por voto. Nem de mão de estrangeiro se aceita animal assim.",
+   "refs": [
+    "levitico 22:18-25",
+    "deuteronomio 17:1"
+   ],
+   "paralelos": [
+    "deuteronomio 15:21",
+    "levitico 1:3"
+   ],
+   "quem": "todo Israel e o estrangeiro",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "'Não será aceito'; chamado abominação.",
+    "refs": [
+     "levitico 22:20",
+     "deuteronomio 17:1"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Malaquias denuncia quem oferece animais cegos, coxos e doentes.",
+     "refs": [
+      "malaquias 1:7-8",
+      "malaquias 1:13-14"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Cristo é chamado 'cordeiro sem defeito e sem mancha'.",
+     "refs": [
+      "1-pedro 1:19"
+     ]
+    }
+   ],
+   "nota": "Levítico 22:24 ('nem em vossa terra o fareis') é lido pela tradição judaica como proibição geral de castrar animais."
+  },
+  {
+   "id": "b-idade-minima",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "regras-sacrificio",
+   "titulo": "O filhote fica sete dias com a mãe; não mãe e cria no mesmo dia",
+   "tipo": "negativo",
+   "texto": "Bezerro, cordeiro ou cabrito fica sete dias com a mãe e só a partir do oitavo é aceito; não se abate o animal e sua cria no mesmo dia.",
+   "refs": [
+    "levitico 22:27-28"
+   ],
+   "paralelos": [
+    "exodo 22:30"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "nota": "A segunda parte é lida pela tradição judaica como regra de todo abate, não só do sacrifício."
+  },
+  {
+   "id": "b-nao-trocar-consagrado",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "regras-sacrificio",
+   "titulo": "Não trocar o animal consagrado",
+   "tipo": "negativo",
+   "texto": "Animal prometido ao SENHOR não é trocado por outro, nem bom por ruim nem ruim por bom; se trocar, os dois ficam santos.",
+   "refs": [
+    "levitico 27:9-10"
+   ],
+   "paralelos": [
+    "levitico 27:32-33"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "A 'pena' é perder os dois animais.",
+    "refs": []
+   }
+  },
+  {
+   "id": "b-impuro-carne-santa",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "regras-sacrificio",
+   "titulo": "Carne santa que tocou impureza é queimada; impuro não come",
+   "tipo": "negativo",
+   "texto": "A carne do sacrifício que tocar algo impuro não se come: é queimada. A pessoa impura que comer carne do sacrifício de paz é eliminada.",
+   "refs": [
+    "levitico 7:19-21"
+   ],
+   "paralelos": [
+    "levitico 22:3"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "extirpacao",
+    "descricao": "Será eliminada do seu povo.",
+    "refs": [
+     "levitico 7:20-21"
+    ]
+   }
+  },
+  {
+   "id": "b-vasilha-sacrificio-pecado",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "regras-sacrificio",
+   "titulo": "Lavar o sangue do sacrifício pelo pecado e quebrar a panela de barro",
+   "tipo": "positivo",
+   "texto": "Roupa respingada com o sangue da oferta pelo pecado é lavada no lugar santo; a panela de barro em que se cozinhou é quebrada; a de bronze é esfregada e lavada.",
+   "refs": [
+    "levitico 6:27-28"
+   ],
+   "quem": "sacerdotes",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   }
+  },
+  {
+   "id": "b-tamid",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "ofertas-fixas",
+   "titulo": "O holocausto contínuo, manhã e tarde",
+   "tipo": "positivo",
+   "texto": "Todo dia, um cordeiro de um ano pela manhã e outro ao entardecer, cada um com 1/10 de efa de farinha e 1/4 de him de azeite e de vinho.",
+   "refs": [
+    "exodo 29:38-42",
+    "numeros 28:3-8"
+   ],
+   "quem": "sacerdotes, em nome de todo Israel",
+   "condicao": "Só com o santuário (tabernáculo, depois templo).",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "casos": [
+    {
+     "descricao": "Elias ora 'na hora da oferta da tarde'.",
+     "refs": [
+      "1-reis 18:36"
+     ]
+    },
+    {
+     "descricao": "Daniel prevê o fim do sacrifício contínuo.",
+     "refs": [
+      "daniel 8:11-13"
+     ]
+    }
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Tamid (tratado sobre o rito diário)",
+     "data": "c. 200 d.C."
+    },
+    {
+     "fonte": "Mixná",
+     "referencia": "Taanit 4:6 (o tamid cessou no dia 17 de Tamuz, durante o cerco)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-fogo-perpetuo",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "ofertas-fixas",
+   "titulo": "O fogo do altar não se apaga; remover as cinzas",
+   "tipo": "positivo",
+   "texto": "O sacerdote, vestido de linho, retira as cinzas, troca de roupa e as leva para fora do acampamento; põe lenha toda manhã; o fogo arde sempre e nunca se apaga.",
+   "refs": [
+    "levitico 6:9-13"
+   ],
+   "quem": "sacerdotes",
+   "condicao": "Só com o santuário (tabernáculo, depois templo).",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "casos": [
+    {
+     "descricao": "O fogo sai de diante do SENHOR e consome o primeiro holocausto.",
+     "refs": [
+      "levitico 9:24"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-mussaf-sabado-lua-nova",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "ofertas-fixas",
+   "titulo": "Ofertas adicionais do sábado e da lua nova",
+   "tipo": "positivo",
+   "texto": "No sábado, dois cordeiros a mais; no início de cada mês, dois novilhos, um carneiro, sete cordeiros e um bode pelo pecado, além do contínuo.",
+   "refs": [
+    "numeros 28:9-15"
+   ],
+   "quem": "sacerdotes",
+   "condicao": "Só com o santuário (tabernáculo, depois templo).",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "associacoes": [
+    {
+     "texto": "Isaías critica luas novas e sábados celebrados sem justiça.",
+     "refs": [
+      "isaias 1:13-14"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-mussaf-festas",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "ofertas-fixas",
+   "titulo": "Ofertas adicionais das festas",
+   "tipo": "positivo",
+   "texto": "Números fixa os sacrifícios de cada festa: Páscoa e pães asmos (sete dias), Semanas (Pentecostes), dia das trombetas, Dia da Expiação e os oito dias das Cabanas (de 13 novilhos até 7, mais o oitavo dia).",
+   "refs": [
+    "numeros 28:16-31",
+    "numeros 29:1-39"
+   ],
+   "paralelos": [
+    "levitico 23:18-20",
+    "levitico 23:36-37"
+   ],
+   "quem": "sacerdotes",
+   "condicao": "Só com o santuário (tabernáculo, depois templo).",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "nota": "As regras de descanso e celebração das festas estão no grupo de festas. Os números de Números 28-29 e Levítico 23 não coincidem em tudo; há várias explicações."
+  },
+  {
+   "id": "b-incenso-diario",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "incenso-oleo-luz-paes",
+   "titulo": "Queimar incenso de manhã e à tarde",
+   "tipo": "positivo",
+   "texto": "Arão queima incenso aromático no altar de ouro toda manhã, ao preparar as lâmpadas, e ao entardecer, ao acendê-las.",
+   "refs": [
+    "exodo 30:7-8"
+   ],
+   "quem": "sacerdotes",
+   "condicao": "Só com o santuário (tabernáculo, depois templo).",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "casos": [
+    {
+     "descricao": "Zacarias está queimando incenso quando o anjo lhe aparece.",
+     "refs": [
+      "lucas 1:8-11"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Salmos e Apocalipse comparam a oração ao incenso.",
+     "refs": [
+      "salmos 141:2",
+      "apocalipse 8:3-4"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-incenso-estranho",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "incenso-oleo-luz-paes",
+   "titulo": "Nada de incenso estranho no altar de ouro",
+   "tipo": "negativo",
+   "texto": "Não se oferece no altar do incenso incenso estranho, holocausto, oferta de cereal nem libação; só o sangue da expiação uma vez por ano.",
+   "refs": [
+    "exodo 30:9-10"
+   ],
+   "quem": "sacerdotes",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada aqui.",
+    "refs": []
+   },
+   "casos": [
+    {
+     "descricao": "Nadabe e Abiú oferecem 'fogo estranho' e são consumidos.",
+     "refs": [
+      "levitico 10:1-2"
+     ]
+    },
+    {
+     "descricao": "Uzias queima incenso e fica leproso.",
+     "refs": [
+      "2-cronicas 26:16-21"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-incenso-profano",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "incenso-oleo-luz-paes",
+   "titulo": "Não fazer incenso igual para uso próprio",
+   "tipo": "negativo",
+   "texto": "A fórmula do incenso é santa; quem fizer igual para cheirar é eliminado.",
+   "refs": [
+    "exodo 30:34-38"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "extirpacao",
+    "descricao": "Será eliminado do seu povo.",
+    "refs": [
+     "exodo 30:38"
+    ]
+   }
+  },
+  {
+   "id": "b-oleo-uncao",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "incenso-oleo-luz-paes",
+   "titulo": "O óleo da unção: só para o santuário e os sacerdotes",
+   "tipo": "negativo",
+   "texto": "Com o óleo da santa unção se ungem a tenda, os utensílios e os sacerdotes; não se derrama sobre pessoa comum nem se faz outro igual.",
+   "refs": [
+    "exodo 30:25-33"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "extirpacao",
+    "descricao": "Quem fizer igual ou o puser em um estranho será eliminado.",
+    "refs": [
+     "exodo 30:33"
+    ]
+   },
+   "associacoes": [
+    {
+     "texto": "Reis e profetas também são ungidos; 'Messias' e 'Cristo' significam 'ungido'.",
+     "refs": [
+      "1-samuel 16:13",
+      "salmos 133:2",
+      "atos 10:38"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-candelabro",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "incenso-oleo-luz-paes",
+   "titulo": "Manter as lâmpadas acesas com azeite puro",
+   "tipo": "positivo",
+   "texto": "O povo traz azeite de oliva puro e prensado; Arão arruma as lâmpadas do candelabro da tarde até a manhã, continuamente.",
+   "refs": [
+    "exodo 27:20-21",
+    "levitico 24:2-4"
+   ],
+   "quem": "todo Israel (azeite) e sacerdotes",
+   "condicao": "Só com o santuário (tabernáculo, depois templo).",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "casos": [
+    {
+     "descricao": "Samuel dorme no santuário 'antes que a lâmpada de Deus se apagasse'.",
+     "refs": [
+      "1-samuel 3:3"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-paes-proposicao",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "incenso-oleo-luz-paes",
+   "titulo": "Os doze pães da proposição",
+   "tipo": "positivo",
+   "texto": "Doze pães em duas fileiras sobre a mesa, com incenso puro, renovados a cada sábado; os antigos são comidos pelos sacerdotes no lugar santo.",
+   "refs": [
+    "levitico 24:5-9",
+    "exodo 25:30"
+   ],
+   "quem": "sacerdotes",
+   "condicao": "Só com o santuário (tabernáculo, depois templo).",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "casos": [
+    {
+     "descricao": "Davi recebe de Aimeleque os pães consagrados; Jesus cita o episódio ao discutir o sábado.",
+     "refs": [
+      "1-samuel 21:4-6",
+      "mateus 12:3-4"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-santificar-primogenitos",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "primogenitos",
+   "titulo": "Todo primogênito pertence ao SENHOR",
+   "tipo": "positivo",
+   "texto": "Todo primeiro filho macho que abre o útero, de pessoas e de animais, é do SENHOR.",
+   "refs": [
+    "exodo 13:2",
+    "exodo 13:12"
+   ],
+   "paralelos": [
+    "exodo 22:29-30",
+    "exodo 34:19",
+    "numeros 3:13"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "associacoes": [
+    {
+     "texto": "Lucas cita esta lei na apresentação de Jesus no templo.",
+     "refs": [
+      "lucas 2:22-23"
+     ]
+    },
+    {
+     "texto": "Cristo é chamado 'primogênito de toda criação' e dos mortos.",
+     "refs": [
+      "colossenses 1:15",
+      "colossenses 1:18"
+     ]
+    }
+   ],
+   "motivo": "Lembrança da morte dos primogênitos do Egito e da libertação (13:14-15)."
+  },
+  {
+   "id": "b-resgate-primogenito",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "primogenitos",
+   "titulo": "Resgatar o filho primogênito por cinco siclos",
+   "tipo": "positivo",
+   "texto": "O primogênito humano é resgatado, a partir de um mês, por cinco siclos de prata dados ao sacerdote.",
+   "refs": [
+    "numeros 18:15-16",
+    "exodo 13:13"
+   ],
+   "paralelos": [
+    "exodo 34:20",
+    "numeros 3:46-48"
+   ],
+   "quem": "pais de primogênitos",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "casos": [
+    {
+     "descricao": "No deserto, os levitas substituem os primogênitos; os 273 excedentes pagam cinco siclos cada um.",
+     "refs": [
+      "numeros 3:40-51"
+     ]
+    }
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Bekhorot 8 (a cerimônia de 'pidyon haben', ainda praticada no judaísmo)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-primogenito-animal-puro",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "primogenitos",
+   "titulo": "O primogênito de gado e ovelha vai ao altar",
+   "tipo": "positivo",
+   "texto": "O primeiro macho de vaca, ovelha ou cabra não é resgatado: fica oito dias com a mãe, seu sangue é aspergido, a gordura queimada e a carne é do sacerdote. Não se trabalha com ele nem se tosquia. Se tiver defeito, é comido em casa.",
+   "refs": [
+    "numeros 18:17-18",
+    "deuteronomio 15:19-23"
+   ],
+   "paralelos": [
+    "exodo 22:30",
+    "exodo 13:12"
+   ],
+   "quem": "donos de rebanhos",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "nota": "Números dá a carne ao sacerdote; Deuteronômio manda o dono comê-la diante do SENHOR. Intérpretes harmonizam de modos diferentes."
+  },
+  {
+   "id": "b-primogenito-jumento",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "primogenitos",
+   "titulo": "Resgatar o primeiro jumento com um cordeiro",
+   "tipo": "positivo",
+   "texto": "O primeiro filhote do jumento é resgatado com um cordeiro; se não for resgatado, quebra-se o pescoço do animal. Outros animais impuros são resgatados pela avaliação mais um quinto.",
+   "refs": [
+    "exodo 13:13",
+    "exodo 34:20"
+   ],
+   "paralelos": [
+    "numeros 18:15",
+    "levitico 27:27"
+   ],
+   "quem": "donos de animais",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena; se não resgatar, o animal é morto.",
+    "refs": []
+   }
+  },
+  {
+   "id": "b-primogenito-nao-voto",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "primogenitos",
+   "titulo": "Não consagrar por voto o que já é primogênito",
+   "tipo": "negativo",
+   "texto": "Ninguém consagra por voto um primogênito de animal, porque ele já pertence ao SENHOR.",
+   "refs": [
+    "levitico 27:26"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   }
+  },
+  {
+   "id": "b-avaliacao-pessoas",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "consagracoes",
+   "titulo": "Valor fixo para quem promete uma pessoa ao SENHOR",
+   "tipo": "positivo",
+   "texto": "Quem faz voto do valor de uma pessoa paga conforme idade e sexo (de 50 siclos para homem adulto até 3 para menina pequena); o pobre paga o que o sacerdote fixar.",
+   "refs": [
+    "levitico 27:1-8"
+   ],
+   "quem": "quem faz voto",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "casos": [
+    {
+     "descricao": "Ana promete Samuel e o leva ao santuário (voto sem resgate).",
+     "refs": [
+      "1-samuel 1:11",
+      "1-samuel 1:24-28"
+     ]
+    }
+   ],
+   "nota": "Votos em geral podem estar em outro grupo deste estudo."
+  },
+  {
+   "id": "b-consagrar-animal-casa",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "consagracoes",
+   "titulo": "Consagrar animal impuro ou casa; resgate com um quinto",
+   "tipo": "positivo",
+   "texto": "Animal impuro e casa consagrados são avaliados pelo sacerdote; quem quiser resgatar paga a avaliação mais um quinto.",
+   "refs": [
+    "levitico 27:11-15"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   }
+  },
+  {
+   "id": "b-herem-santuario",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "consagracoes",
+   "titulo": "O que é 'consagrado por anátema' não se vende nem se resgata",
+   "tipo": "negativo",
+   "texto": "O que alguém dedicar ao SENHOR como anátema (herem) – pessoa, animal ou campo – é santíssimo: não se vende nem se resgata; a pessoa condenada por herem não é resgatada.",
+   "refs": [
+    "levitico 27:28-29"
+   ],
+   "paralelos": [
+    "numeros 18:14"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "'Certamente será morto' (pessoa condenada).",
+    "refs": [
+     "levitico 27:29"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Acã toma do que estava sob anátema em Jericó e é executado.",
+     "refs": [
+      "josue 7:1",
+      "josue 7:24-25"
+     ]
+    }
+   ],
+   "nota": "O versículo 29 é entendido de modos diferentes: condenado judicialmente à morte ou pessoa sob anátema de guerra. A guerra santa fica em outro grupo."
+  },
+  {
+   "id": "b-novilha-vermelha",
+   "grupo": "santuario-sacerdocio",
+   "subgrupo": "novilha-vermelha",
+   "titulo": "Preparar a água de purificação com a novilha vermelha",
+   "tipo": "positivo",
+   "texto": "Uma novilha vermelha sem defeito, que nunca levou jugo, é abatida fora do acampamento e queimada inteira com cedro, hissopo e carmesim; um homem puro guarda as cinzas para a 'água da purificação'. Quem participa do preparo fica impuro até a tarde.",
+   "refs": [
+    "numeros 19:1-10"
+   ],
+   "paralelos": [
+    "numeros 19:21"
+   ],
+   "quem": "sacerdote (Eleazar) e homem puro",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "associacoes": [
+    {
+     "texto": "Hebreus cita 'as cinzas da novilha' que purificam a carne, comparando com o sangue de Cristo.",
+     "refs": [
+      "hebreus 9:13-14"
+     ]
+    }
+   ],
+   "nota": "O uso da água está no grupo Pureza (impureza por morto). É paradoxal: purifica o impuro e torna impuro quem a prepara.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Parah 3:5 (diz que só sete ou nove novilhas foram preparadas ao longo da história)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-impureza-por-cadaver",
+   "grupo": "pureza",
+   "subgrupo": "morto",
+   "titulo": "Quem toca um morto fica impuro sete dias",
+   "tipo": "negativo",
+   "texto": "Quem toca o cadáver de uma pessoa, osso humano ou sepultura, ou entra na tenda onde alguém morreu, fica impuro sete dias; vasilhas abertas na tenda também ficam impuras.",
+   "refs": [
+    "numeros 19:11",
+    "numeros 19:14-16"
+   ],
+   "quem": "todo Israel e o estrangeiro residente",
+   "sancao": {
+    "tipo": "impureza",
+    "descricao": "Sete dias de impureza; ver a purificação no item seguinte.",
+    "refs": [
+     "numeros 19:11"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Homens impuros por um morto não podem celebrar a Páscoa e recebem a 'segunda Páscoa'.",
+     "refs": [
+      "numeros 9:6-11"
+     ]
+    },
+    {
+     "descricao": "Josias queima ossos humanos sobre o altar de Betel para profaná-lo.",
+     "refs": [
+      "2-reis 23:16"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Jesus compara os fariseus a sepulcros caiados, impuros por dentro.",
+     "refs": [
+      "mateus 23:27"
+     ]
+    },
+    {
+     "texto": "Ageu usa a impureza por morto para falar do povo.",
+     "refs": [
+      "ageu 2:13-14"
+     ]
+    }
+   ],
+   "nota": "Não é proibido tocar mortos (alguém precisa enterrá-los); proibido é ir ao santuário nesse estado."
+  },
+  {
+   "id": "b-purificacao-morto",
+   "grupo": "pureza",
+   "subgrupo": "morto",
+   "titulo": "Purificar-se com a água da novilha no terceiro e no sétimo dia",
+   "tipo": "positivo",
+   "texto": "Um homem puro mistura cinzas da novilha com água corrente e, com hissopo, asperge a pessoa, a tenda e os objetos no terceiro e no sétimo dia; depois ela lava as roupas, se banha e à tarde está pura. Quem asperge ou toca a água fica impuro até a tarde.",
+   "refs": [
+    "numeros 19:12",
+    "numeros 19:17-21"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "extirpacao",
+    "descricao": "Quem não se purificar contamina o santuário e é eliminado.",
+    "refs": [
+     "numeros 19:13",
+     "numeros 19:20"
+    ]
+   },
+   "associacoes": [
+    {
+     "texto": "Salmo 51: 'purifica-me com hissopo'. Ezequiel promete água pura.",
+     "refs": [
+      "salmos 51:7",
+      "ezequiel 36:25"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-contagio-impuro",
+   "grupo": "pureza",
+   "subgrupo": "morto",
+   "titulo": "O que o impuro toca fica impuro",
+   "tipo": "negativo",
+   "texto": "Tudo o que o impuro (por morto) tocar fica impuro, e quem o tocar fica impuro até a tarde.",
+   "refs": [
+    "numeros 19:22"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "impureza",
+    "descricao": "Fica impuro até a tarde; lava as roupas e se banha.",
+    "refs": []
+   },
+   "associacoes": [
+    {
+     "texto": "Ageu: o impuro contamina o que toca, mas o santo não santifica por contato.",
+     "refs": [
+      "ageu 2:11-13"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-purificacao-guerra",
+   "grupo": "pureza",
+   "subgrupo": "morto",
+   "titulo": "Purificação dos guerreiros e dos despojos",
+   "tipo": "positivo",
+   "texto": "Quem matou ou tocou um morto na guerra fica fora do acampamento sete dias e se purifica no terceiro e no sétimo dia; metais passam pelo fogo e pela água de purificação; o que não resiste ao fogo passa pela água.",
+   "refs": [
+    "numeros 31:19-24"
+   ],
+   "quem": "soldados e cativos",
+   "condicao": "Em guerra.",
+   "sancao": {
+    "tipo": "impureza",
+    "descricao": "Sete dias fora do acampamento.",
+    "refs": [
+     "numeros 31:19"
+    ]
+   },
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Avodah Zarah 5:12 (a tradição deriva daqui a purificação de utensílios comprados de não judeus)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-carcaca-impura",
+   "grupo": "pureza",
+   "subgrupo": "carcacas",
+   "titulo": "Tocar ou carregar carcaça de animal impuro",
+   "tipo": "negativo",
+   "texto": "Quem toca a carcaça de animal impuro fica impuro até a tarde; quem a carrega lava as roupas.",
+   "refs": [
+    "levitico 11:24-28"
+   ],
+   "paralelos": [
+    "levitico 5:2"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "impureza",
+    "descricao": "Fica impuro até a tarde; lava as roupas e se banha.",
+    "refs": []
+   },
+   "nota": "Quais animais são impuros para comer está no grupo de alimentos."
+  },
+  {
+   "id": "b-repteis-mortos",
+   "grupo": "pureza",
+   "subgrupo": "carcacas",
+   "titulo": "Os oito 'répteis' que contaminam objetos",
+   "tipo": "negativo",
+   "texto": "Doninha, rato, lagartos e semelhantes, mortos, contaminam quem os toca e os objetos em que caem: madeira, roupa, couro e saco vão à água; vasilha de barro é quebrada, assim como forno e fogão. Fonte e cisterna continuam puras; semente seca também, mas não se estiver molhada.",
+   "refs": [
+    "levitico 11:29-38"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "impureza",
+    "descricao": "Pessoas e objetos ficam impuros até a tarde; barro se quebra.",
+    "refs": [
+     "levitico 11:31-33"
+    ]
+   },
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Ordem Tohorot, tratado Kelim (regras de impureza dos utensílios)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-carcaca-animal-puro",
+   "grupo": "pureza",
+   "subgrupo": "carcacas",
+   "titulo": "Carcaça de animal puro que morreu sozinho",
+   "tipo": "negativo",
+   "texto": "Se morre um animal que se pode comer, quem toca a carcaça fica impuro até a tarde; quem come dela ou a carrega lava as roupas.",
+   "refs": [
+    "levitico 11:39-40"
+   ],
+   "paralelos": [
+    "levitico 17:15-16",
+    "levitico 22:8"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "impureza",
+    "descricao": "Fica impuro até a tarde; lava as roupas e se banha.",
+    "refs": []
+   },
+   "nota": "Levítico 17:16 acrescenta: quem não lavar as roupas e o corpo 'levará a sua iniquidade'."
+  },
+  {
+   "id": "b-exame-lepra",
+   "grupo": "pureza",
+   "subgrupo": "lepra",
+   "titulo": "Levar a mancha de pele ao sacerdote para exame",
+   "tipo": "positivo",
+   "texto": "Inchaço, erupção ou mancha branca na pele é mostrada ao sacerdote; se o pelo ficou branco e a mancha é mais funda que a pele, é impuro. Na dúvida, o sacerdote isola a pessoa sete dias e repete o exame. Há regras para queimaduras, calvície e manchas na cabeça ou barba.",
+   "refs": [
+    "levitico 13:2-44"
+   ],
+   "paralelos": [
+    "deuteronomio 24:8-9"
+   ],
+   "quem": "todo Israel; sacerdotes julgam",
+   "sancao": {
+    "tipo": "impureza",
+    "descricao": "Declarado impuro enquanto durar a doença.",
+    "refs": [
+     "levitico 13:3",
+     "levitico 13:8"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Miriã fica leprosa por falar contra Moisés e fica sete dias fora do acampamento.",
+     "refs": [
+      "numeros 12:10-15"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Jesus toca um leproso, o cura e o manda ao sacerdote 'para testemunho'.",
+     "refs": [
+      "marcos 1:40-44",
+      "lucas 17:12-14"
+     ]
+    }
+   ],
+   "nota": "A 'lepra' bíblica (hebraico tsara'at) não é igual à hanseníase moderna; cobre várias doenças de pele e até mofos em tecidos e paredes."
+  },
+  {
+   "id": "b-nao-raspar-tinha",
+   "grupo": "pureza",
+   "subgrupo": "lepra",
+   "titulo": "Não rapar a área da tinha durante o isolamento",
+   "tipo": "negativo",
+   "texto": "Na doença do couro cabeludo ou da barba, a pessoa rapa o cabelo ao redor, mas não o lugar afetado, e é isolada mais sete dias.",
+   "refs": [
+    "levitico 13:33"
+   ],
+   "quem": "pessoas sob exame",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "associacoes": [
+    {
+     "texto": "Deuteronômio manda guardar com cuidado as instruções dos sacerdotes sobre a lepra.",
+     "refs": [
+      "deuteronomio 24:8"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-leproso-isolado",
+   "grupo": "pureza",
+   "subgrupo": "lepra",
+   "titulo": "O leproso vive fora do acampamento e anuncia 'Impuro!'",
+   "tipo": "positivo",
+   "texto": "O leproso usa roupas rasgadas, cabelo solto, cobre o lábio superior e grita 'Impuro, impuro!'; mora sozinho fora do acampamento enquanto durar a doença.",
+   "refs": [
+    "levitico 13:45-46"
+   ],
+   "paralelos": [
+    "numeros 5:2-3"
+   ],
+   "quem": "leprosos",
+   "sancao": {
+    "tipo": "impureza",
+    "descricao": "Exclusão do acampamento enquanto houver a chaga.",
+    "refs": [
+     "levitico 13:46"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Quatro leprosos à porta de Samaria descobrem o acampamento sírio abandonado.",
+     "refs": [
+      "2-reis 7:3-9"
+     ]
+    },
+    {
+     "descricao": "O rei Uzias, leproso, mora numa casa separada até a morte.",
+     "refs": [
+      "2-cronicas 26:21"
+     ]
+    },
+    {
+     "descricao": "Dez leprosos gritam de longe a Jesus.",
+     "refs": [
+      "lucas 17:12-13"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-lepra-roupas",
+   "grupo": "pureza",
+   "subgrupo": "lepra",
+   "titulo": "Mancha de 'lepra' em roupas e couro",
+   "tipo": "positivo",
+   "texto": "Mancha verde ou avermelhada em lã, linho ou couro é mostrada ao sacerdote e isolada sete dias; se cresce, a peça é queimada; se não, é lavada e examinada de novo; se a mancha sair, lava-se mais uma vez e fica pura.",
+   "refs": [
+    "levitico 13:47-59"
+   ],
+   "quem": "donos das peças; sacerdotes",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "A peça pode ser queimada; não há pena para a pessoa.",
+    "refs": []
+   }
+  },
+  {
+   "id": "b-lepra-casas",
+   "grupo": "pureza",
+   "subgrupo": "lepra",
+   "titulo": "Mancha de 'lepra' nas paredes da casa",
+   "tipo": "positivo",
+   "texto": "Na terra, se aparecer mancha na casa, o dono avisa o sacerdote; esvazia-se a casa, ela é fechada sete dias; se a mancha cresce, trocam-se as pedras e o reboco; se voltar, a casa é demolida. Quem entra na casa fechada fica impuro até a tarde.",
+   "refs": [
+    "levitico 14:34-48"
+   ],
+   "quem": "donos de casas; sacerdotes",
+   "condicao": "Só na terra de Canaã (14:34).",
+   "sancao": {
+    "tipo": "impureza",
+    "descricao": "Quem entra fica impuro; quem dorme ou come ali lava as roupas.",
+    "refs": [
+     "levitico 14:46-47"
+    ]
+   }
+  },
+  {
+   "id": "b-purificacao-leproso",
+   "grupo": "pureza",
+   "subgrupo": "lepra",
+   "titulo": "A purificação do leproso curado",
+   "tipo": "positivo",
+   "texto": "O sacerdote examina fora do acampamento; usa duas aves (uma abatida sobre água corrente, outra solta no campo), cedro, carmesim e hissopo; a pessoa lava as roupas, rapa todo o pelo e se banha; depois de sete dias rapa de novo e no oitavo traz ofertas pela culpa, pelo pecado e holocausto; sangue e azeite são postos na orelha, no polegar da mão e do pé direitos. O pobre traz aves.",
+   "refs": [
+    "levitico 14:2-32"
+   ],
+   "quem": "leprosos curados; sacerdotes",
+   "sancao": {
+    "tipo": "oferta",
+    "descricao": "Ofertas obrigatórias no oitavo dia (versão reduzida para o pobre).",
+    "refs": [
+     "levitico 14:10",
+     "levitico 14:21-22"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Naamã, sírio, é curado no Jordão (sem este rito).",
+     "refs": [
+      "2-reis 5:14"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Jesus manda o curado oferecer 'o que Moisés ordenou'.",
+     "refs": [
+      "mateus 8:4",
+      "lucas 5:14"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-purificacao-casa",
+   "grupo": "pureza",
+   "subgrupo": "lepra",
+   "titulo": "A purificação da casa",
+   "tipo": "positivo",
+   "texto": "Se a mancha não voltar depois do reboco, o sacerdote declara a casa pura e faz o mesmo rito das duas aves, com cedro, hissopo e carmesim, aspergindo a casa sete vezes.",
+   "refs": [
+    "levitico 14:48-53"
+   ],
+   "quem": "sacerdotes",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   }
+  },
+  {
+   "id": "b-fluxo-masculino",
+   "grupo": "pureza",
+   "subgrupo": "fluxos",
+   "titulo": "O homem com fluxo (corrimento)",
+   "tipo": "negativo",
+   "texto": "O homem com corrimento anormal fica impuro e contamina a cama, o assento, a sela, as vasilhas e quem o toca ou recebe sua saliva; curado, conta sete dias, lava-se em água corrente e no oitavo dia traz duas rolinhas ou dois pombinhos.",
+   "refs": [
+    "levitico 15:2-15"
+   ],
+   "paralelos": [
+    "numeros 5:2"
+   ],
+   "quem": "homens",
+   "sancao": {
+    "tipo": "oferta",
+    "descricao": "Impureza até a cura e sete dias, mais oferta no oitavo dia.",
+    "refs": [
+     "levitico 15:13-15"
+    ]
+   }
+  },
+  {
+   "id": "b-semen",
+   "grupo": "pureza",
+   "subgrupo": "fluxos",
+   "titulo": "Emissão de sêmen e relação conjugal",
+   "tipo": "negativo",
+   "texto": "O homem que tem emissão de sêmen se banha e fica impuro até a tarde, assim como a roupa atingida; após a relação, o homem e a mulher se banham e ficam impuros até a tarde.",
+   "refs": [
+    "levitico 15:16-18"
+   ],
+   "paralelos": [
+    "deuteronomio 23:10-11"
+   ],
+   "quem": "homens e casais",
+   "sancao": {
+    "tipo": "impureza",
+    "descricao": "Fica impuro até a tarde; lava as roupas e se banha.",
+    "refs": []
+   },
+   "casos": [
+    {
+     "descricao": "Davi garante ao sacerdote que seus homens estavam afastados de mulheres para comer o pão consagrado.",
+     "refs": [
+      "1-samuel 21:4-5"
+     ]
+    },
+    {
+     "descricao": "Antes do Sinai, o povo se santifica e não se aproxima de mulher.",
+     "refs": [
+      "exodo 19:15"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-menstruacao",
+   "grupo": "pureza",
+   "subgrupo": "fluxos",
+   "titulo": "A mulher na menstruação",
+   "tipo": "negativo",
+   "texto": "A mulher fica separada sete dias; quem a tocar fica impuro até a tarde, e o que ela usar como cama ou assento fica impuro; o homem que se deitar com ela fica impuro sete dias.",
+   "refs": [
+    "levitico 15:19-24"
+   ],
+   "paralelos": [
+    "levitico 18:19",
+    "levitico 20:18"
+   ],
+   "quem": "mulheres e quem as toca",
+   "sancao": {
+    "tipo": "impureza",
+    "descricao": "Impureza de sete dias (ou até a tarde para quem toca).",
+    "refs": [
+     "levitico 15:19",
+     "levitico 15:24"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Raquel diz estar 'no costume das mulheres' para não se levantar de onde escondera os ídolos.",
+     "refs": [
+      "genesis 31:35"
+     ]
+    },
+    {
+     "descricao": "Bate-Seba 'se purificava da sua impureza'.",
+     "refs": [
+      "2-samuel 11:4"
+     ]
+    }
+   ],
+   "nota": "A relação sexual nesse período está proibida no grupo Família (Lv 18:19). Não se fala de oferta para o fluxo normal.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Niddah (tratado sobre a impureza menstrual; o banho em mikveh é prática judaica posterior bem atestada)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-fluxo-feminino",
+   "grupo": "pureza",
+   "subgrupo": "fluxos",
+   "titulo": "A mulher com fluxo de sangue prolongado",
+   "tipo": "negativo",
+   "texto": "Se o sangramento durar muitos dias fora do tempo, ela fica impura como na menstruação; curada, conta sete dias e no oitavo traz duas rolinhas ou dois pombinhos.",
+   "refs": [
+    "levitico 15:25-30"
+   ],
+   "quem": "mulheres",
+   "sancao": {
+    "tipo": "oferta",
+    "descricao": "Impureza até a cura e sete dias, mais oferta.",
+    "refs": [
+     "levitico 15:28-30"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "A mulher com fluxo há doze anos toca o manto de Jesus e é curada.",
+     "refs": [
+      "marcos 5:25-34"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-parto",
+   "grupo": "pureza",
+   "subgrupo": "parto",
+   "titulo": "Impureza e purificação depois do parto",
+   "tipo": "positivo",
+   "texto": "Após dar à luz um menino, a mulher fica impura sete dias e mais 33 dias 'no sangue da purificação'; por uma menina, catorze e mais 66. Nesse tempo não toca coisa santa nem vai ao santuário; ao fim traz um cordeiro (holocausto) e uma ave (pelo pecado), ou duas aves se for pobre.",
+   "refs": [
+    "levitico 12:2-8"
+   ],
+   "quem": "mulheres após o parto",
+   "sancao": {
+    "tipo": "oferta",
+    "descricao": "Prazo de purificação e oferta.",
+    "refs": [
+     "levitico 12:6-8"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Maria cumpre a purificação e oferece a oferta dos pobres.",
+     "refs": [
+      "lucas 2:22-24"
+     ]
+    }
+   ],
+   "nota": "O texto não explica por que o prazo dobra para a menina; há várias interpretações. A circuncisão (12:3) está no grupo Família."
+  },
+  {
+   "id": "b-impuro-nao-entra",
+   "grupo": "pureza",
+   "subgrupo": "santuario-e-acampamento",
+   "titulo": "O impuro não entra no santuário nem toca o santo",
+   "tipo": "negativo",
+   "texto": "A pessoa impura não come carne de sacrifício nem se aproxima das coisas santas; a mulher em purificação não entra no santuário.",
+   "refs": [
+    "levitico 7:20-21",
+    "levitico 22:3",
+    "levitico 12:4"
+   ],
+   "paralelos": [
+    "levitico 15:31",
+    "numeros 19:13"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "extirpacao",
+    "descricao": "Será eliminada do seu povo.",
+    "refs": [
+     "levitico 7:20",
+     "levitico 22:3"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Ezequias pede perdão pelos que comeram a Páscoa sem estar purificados, e Deus atende.",
+     "refs": [
+      "2-cronicas 30:17-20"
+     ]
+    }
+   ],
+   "motivo": "Para que não morram contaminando o tabernáculo que está no meio deles (15:31)."
+  },
+  {
+   "id": "b-enviar-impuros",
+   "grupo": "pureza",
+   "subgrupo": "santuario-e-acampamento",
+   "titulo": "Mandar os impuros para fora do acampamento",
+   "tipo": "positivo",
+   "texto": "Leprosos, quem tem fluxo e quem está impuro por morto, homens e mulheres, ficam fora do acampamento.",
+   "refs": [
+    "numeros 5:1-4"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "motivo": "Para que não contaminem o acampamento onde Deus habita (5:3).",
+   "nota": "Fora do deserto, a tradição judaica aplicou graus diferentes (cidade, monte do templo, átrio).",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Kelim 1:6-9 (os 'dez graus de santidade' da terra até o Santo dos Santos)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-acampamento-militar",
+   "grupo": "pureza",
+   "subgrupo": "santuario-e-acampamento",
+   "titulo": "Pureza do acampamento militar",
+   "tipo": "positivo",
+   "texto": "Quem fica impuro por emissão noturna sai do acampamento até a tarde, se banha e volta ao pôr do sol. Há um lugar fora do acampamento para as necessidades, e cada um leva uma pá para cobrir o excremento.",
+   "refs": [
+    "deuteronomio 23:10-14"
+   ],
+   "quem": "soldados",
+   "condicao": "Em guerra.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "motivo": "O SENHOR anda no meio do acampamento; ele deve ser santo, para que Deus não veja coisa indecente e se afaste (23:14)."
+  },
+  {
+   "id": "b-banho-por-do-sol",
+   "grupo": "pureza",
+   "subgrupo": "santuario-e-acampamento",
+   "titulo": "Banho e pôr do sol encerram a impureza leve",
+   "tipo": "positivo",
+   "texto": "Quem ficou impuro por contato só volta a comer coisas santas depois de se banhar; ao pôr do sol fica puro.",
+   "refs": [
+    "levitico 22:6-7"
+   ],
+   "paralelos": [
+    "levitico 15:5-11",
+    "levitico 11:32"
+   ],
+   "quem": "todo Israel (especialmente sacerdotes)",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "associacoes": [
+    {
+     "texto": "Jesus discute com fariseus a lavagem das mãos e diz que o que contamina vem do coração; Marcos comenta que assim Jesus declarou puros todos os alimentos.",
+     "refs": [
+      "marcos 7:1-5",
+      "marcos 7:14-23"
+     ]
+    }
+   ],
+   "nota": "Igrejas cristãs em geral não guardam as regras de pureza ritual; o judaísmo mantém algumas (como a pureza familiar), já que a maioria depende do templo."
+  },
+  {
+   "id": "b-dizimo-levitas",
+   "grupo": "terra-agricultura",
+   "subgrupo": "dizimos",
+   "titulo": "Dar o dízimo aos levitas",
+   "tipo": "positivo",
+   "texto": "Os dízimos de Israel são dados aos levitas como herança, em troca do serviço na tenda.",
+   "refs": [
+    "numeros 18:21-24"
+   ],
+   "paralelos": [
+    "levitico 27:30"
+   ],
+   "quem": "todo Israel",
+   "condicao": "Só na terra de Israel.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "casos": [
+    {
+     "descricao": "Ezequias reorganiza a entrega dos dízimos e eles se amontoam.",
+     "refs": [
+      "2-cronicas 31:4-6"
+     ]
+    },
+    {
+     "descricao": "Neemias repõe os dízimos dos levitas.",
+     "refs": [
+      "neemias 10:37-38",
+      "neemias 13:10-12"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Malaquias: 'roubais a Deus nos dízimos'; 'trazei todos os dízimos à casa do tesouro'.",
+     "refs": [
+      "malaquias 3:8-10"
+     ]
+    },
+    {
+     "texto": "Hebreus lembra que Abraão deu o dízimo a Melquisedeque (Gênesis 14:18-20; a frase do dízimo falta no texto da Bíblia Livre usado aqui).",
+     "refs": [
+      "hebreus 7:4-9"
+     ]
+    },
+    {
+     "texto": "Jesus: dizimais a hortelã e esqueceis a justiça, a misericórdia e a fé.",
+     "refs": [
+      "mateus 23:23"
+     ]
+    }
+   ],
+   "nota": "Igrejas divergem sobre o dízimo hoje: algumas o ensinam como norma, outras como princípio de generosidade sem percentual fixo."
+  },
+  {
+   "id": "b-dizimo-do-dizimo",
+   "grupo": "terra-agricultura",
+   "subgrupo": "dizimos",
+   "titulo": "Os levitas dão o dízimo do dízimo aos sacerdotes",
+   "tipo": "positivo",
+   "texto": "Dos dízimos que recebem, os levitas separam o melhor, um décimo, para o sacerdote; o resto comem em qualquer lugar com a família.",
+   "refs": [
+    "numeros 18:26-32"
+   ],
+   "quem": "levitas",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "Se separarem o melhor, 'não levareis pecado... e não morrereis'.",
+    "refs": [
+     "numeros 18:32"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Na época de Neemias, os levitas levam o dízimo dos dízimos à casa de Deus.",
+     "refs": [
+      "neemias 10:38"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-segundo-dizimo",
+   "grupo": "terra-agricultura",
+   "subgrupo": "dizimos",
+   "titulo": "Comer o dízimo diante do SENHOR (ou trocá-lo por dinheiro)",
+   "tipo": "positivo",
+   "texto": "Dizimar todo ano o produto do campo e comer o dízimo do grão, do vinho e do azeite, e os primogênitos, no lugar escolhido, com alegria, com a família e o levita. Se o lugar for longe, vende-se e o dinheiro é gasto lá em comida e bebida.",
+   "refs": [
+    "deuteronomio 14:22-26"
+   ],
+   "paralelos": [
+    "deuteronomio 12:6-7",
+    "deuteronomio 12:17-18"
+   ],
+   "quem": "todo Israel",
+   "condicao": "Só na terra de Israel.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "motivo": "Para que aprendas a temer o SENHOR teu Deus todos os dias (14:23).",
+   "nota": "A relação entre o dízimo de Números 18 (para levitas) e o de Deuteronômio 14 (comido pelo ofertante) é discutida; a tradição judaica os entende como dois dízimos diferentes. Igrejas divergem sobre o dízimo hoje: algumas o ensinam como norma, outras como princípio de generosidade sem percentual fixo.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Maaser Sheni (tratado sobre o 'segundo dízimo')",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-dizimo-nao-comer-fora",
+   "grupo": "terra-agricultura",
+   "subgrupo": "dizimos",
+   "titulo": "Não comer o dízimo e as ofertas fora do lugar escolhido",
+   "tipo": "negativo",
+   "texto": "Não se come nas cidades o dízimo do grão, do vinho e do azeite, os primogênitos, os votos e as ofertas voluntárias.",
+   "refs": [
+    "deuteronomio 12:17"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   }
+  },
+  {
+   "id": "b-dizimo-pobre",
+   "grupo": "terra-agricultura",
+   "subgrupo": "dizimos",
+   "titulo": "O dízimo do terceiro ano para levita, estrangeiro, órfão e viúva",
+   "tipo": "positivo",
+   "texto": "A cada três anos, todo o dízimo daquele ano fica guardado nas cidades para o levita, o estrangeiro, o órfão e a viúva comerem e se fartarem.",
+   "refs": [
+    "deuteronomio 14:28-29",
+    "deuteronomio 26:12"
+   ],
+   "quem": "todo Israel",
+   "condicao": "Só na terra de Israel.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "associacoes": [
+    {
+     "texto": "Amós ironiza quem traz dízimos ao terceiro dia em Betel sem justiça.",
+     "refs": [
+      "amos 4:4"
+     ]
+    }
+   ],
+   "motivo": "Para que o SENHOR te abençoe em toda obra das tuas mãos (14:29)."
+  },
+  {
+   "id": "b-declaracao-dizimo",
+   "grupo": "terra-agricultura",
+   "subgrupo": "dizimos",
+   "titulo": "A declaração do dízimo",
+   "tipo": "positivo",
+   "texto": "Terminada a entrega do dízimo do terceiro ano, o israelita declara diante do SENHOR que deu tudo, que não comeu dele em luto, não o tirou estando impuro nem o deu para o morto, e pede a bênção para o povo e a terra.",
+   "refs": [
+    "deuteronomio 26:13-15"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "nota": "A menção ao 'morto' pode se referir a ritos de culto aos mortos ou a ofertas de luto; o sentido é debatido."
+  },
+  {
+   "id": "b-dizimo-gado",
+   "grupo": "terra-agricultura",
+   "subgrupo": "dizimos",
+   "titulo": "O dízimo do gado",
+   "tipo": "positivo",
+   "texto": "Do gado e do rebanho, cada décimo animal que passa sob a vara é santo; não se escolhe nem se troca; se trocar, os dois são santos e não se resgatam.",
+   "refs": [
+    "levitico 27:32-33"
+   ],
+   "quem": "donos de rebanhos",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   }
+  },
+  {
+   "id": "b-resgate-dizimo",
+   "grupo": "terra-agricultura",
+   "subgrupo": "dizimos",
+   "titulo": "Resgatar o dízimo dos frutos com um quinto a mais",
+   "tipo": "positivo",
+   "texto": "O dízimo das sementes e dos frutos das árvores é do SENHOR; quem quiser resgatá-lo acrescenta um quinto.",
+   "refs": [
+    "levitico 27:30-31"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   }
+  },
+  {
+   "id": "b-primicias-bikkurim",
+   "grupo": "terra-agricultura",
+   "subgrupo": "primicias",
+   "titulo": "Levar ao santuário os primeiros frutos",
+   "tipo": "positivo",
+   "texto": "Os primeiros frutos da terra são levados num cesto à casa do SENHOR; o sacerdote o põe diante do altar e o ofertante recita: 'Um arameu prestes a perecer era meu pai...', contando a história de Israel até a entrega da terra; depois se alegra com o levita e o estrangeiro.",
+   "refs": [
+    "deuteronomio 26:1-11",
+    "exodo 23:19"
+   ],
+   "paralelos": [
+    "exodo 34:26",
+    "numeros 18:13"
+   ],
+   "quem": "todo Israel",
+   "condicao": "Só na terra de Israel.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "associacoes": [
+    {
+     "texto": "Provérbios: honra o SENHOR com as primícias.",
+     "refs": [
+      "proverbios 3:9-10"
+     ]
+    },
+    {
+     "texto": "Paulo chama Cristo de 'primícias dos que dormem'.",
+     "refs": [
+      "1-corintios 15:20"
+     ]
+    }
+   ],
+   "nota": "A recitação (Dt 26:5-10) é um dos 'credos' mais antigos da Bíblia, segundo muitos estudiosos.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Bikkurim 3:2-4 (descreve a procissão das primícias até Jerusalém)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-teruma",
+   "grupo": "terra-agricultura",
+   "subgrupo": "primicias",
+   "titulo": "Dar ao sacerdote as primícias do grão, vinho, azeite e lã",
+   "tipo": "positivo",
+   "texto": "O melhor do azeite, do vinho e do grão e a primeira lã da tosquia são dados ao sacerdote.",
+   "refs": [
+    "numeros 18:12",
+    "deuteronomio 18:4"
+   ],
+   "quem": "todo Israel",
+   "condicao": "Só na terra de Israel.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "nota": "A tradição judaica chama de 'terumá' a parte do grão, vinho e azeite.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Terumot 4:3 (a tradição fixa, como média, 1/50 da colheita)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-nao-atrasar",
+   "grupo": "terra-agricultura",
+   "subgrupo": "primicias",
+   "titulo": "Não atrasar as ofertas da colheita",
+   "tipo": "negativo",
+   "texto": "Não demorar a oferecer o melhor da colheita e do lagar.",
+   "refs": [
+    "exodo 22:29"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   }
+  },
+  {
+   "id": "b-halla",
+   "grupo": "terra-agricultura",
+   "subgrupo": "primicias",
+   "titulo": "Separar um bolo da primeira massa",
+   "tipo": "positivo",
+   "texto": "Na terra, da primeira massa de pão se separa um bolo como oferta ao SENHOR, por todas as gerações.",
+   "refs": [
+    "numeros 15:18-21"
+   ],
+   "quem": "todo Israel",
+   "condicao": "Só na terra de Israel.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "associacoes": [
+    {
+     "texto": "Paulo: se as primícias da massa são santas, também o é a massa toda.",
+     "refs": [
+      "romanos 11:16"
+     ]
+    }
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Hallah (tratado; o costume de separar um pedaço da massa continua no judaísmo)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-omer",
+   "grupo": "terra-agricultura",
+   "subgrupo": "primicias",
+   "titulo": "O feixe das primícias (ômer) e o grão novo",
+   "tipo": "positivo",
+   "texto": "Na terra, o primeiro feixe da colheita é levado ao sacerdote, que o 'move' diante do SENHOR no dia seguinte ao sábado, com um cordeiro em holocausto; antes disso não se come pão, grão torrado nem espiga nova da colheita.",
+   "refs": [
+    "levitico 23:10-14"
+   ],
+   "quem": "todo Israel",
+   "condicao": "Só na terra de Israel.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada; é 'estatuto perpétuo'.",
+    "refs": []
+   },
+   "associacoes": [
+    {
+     "texto": "Josué: o povo come do produto da terra no dia seguinte à Páscoa e o maná cessa.",
+     "refs": [
+      "josue 5:11-12"
+     ]
+    }
+   ],
+   "nota": "Qual 'sábado' marca o ômer foi debatido (fariseus x saduceus, e depois caraítas); a contagem até Pentecostes está no grupo de festas.",
+   "fonte_extra": [
+    {
+     "fonte": "Talmude Babilônico",
+     "referencia": "Menahot 65a-66a (debate rabínico com os boetusianos sobre a data)",
+     "data": "c. 500 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-dois-paes",
+   "grupo": "terra-agricultura",
+   "subgrupo": "primicias",
+   "titulo": "Os dois pães das primícias em Pentecostes",
+   "tipo": "positivo",
+   "texto": "Cinquenta dias depois do ômer, trazem-se dois pães levedados de farinha nova como primícias, 'movidos' com dois cordeiros e dados ao sacerdote.",
+   "refs": [
+    "levitico 23:16-20"
+   ],
+   "quem": "todo Israel",
+   "condicao": "Com o santuário.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   }
+  },
+  {
+   "id": "b-canto-do-campo",
+   "grupo": "terra-agricultura",
+   "subgrupo": "parte-do-pobre",
+   "titulo": "Deixar os cantos do campo",
+   "tipo": "negativo",
+   "texto": "Ao colher, não se ceifa até o canto do campo; ele fica para o pobre e o estrangeiro.",
+   "refs": [
+    "levitico 19:9",
+    "levitico 23:22"
+   ],
+   "quem": "donos de campos",
+   "condicao": "Só na terra de Israel.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "motivo": "'Eu sou o SENHOR vosso Deus' (19:10).",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Peah 1:1-2 (a lei não fixa medida; a tradição recomenda ao menos 1/60)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-respiga",
+   "grupo": "terra-agricultura",
+   "subgrupo": "parte-do-pobre",
+   "titulo": "Não recolher as espigas que caem",
+   "tipo": "negativo",
+   "texto": "Não se recolhem as espigas caídas na colheita; ficam para o pobre e o estrangeiro.",
+   "refs": [
+    "levitico 19:9",
+    "levitico 23:22"
+   ],
+   "quem": "donos de campos",
+   "condicao": "Só na terra de Israel.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "casos": [
+    {
+     "descricao": "Rute respiga no campo de Boaz, que manda deixar espigas de propósito.",
+     "refs": [
+      "rute 2:2-3",
+      "rute 2:15-16"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-rebusco-vinha",
+   "grupo": "terra-agricultura",
+   "subgrupo": "parte-do-pobre",
+   "titulo": "Não rebuscar a vinha nem apanhar as uvas caídas",
+   "tipo": "negativo",
+   "texto": "Na vinha não se volta para colher o que ficou nem se apanham as uvas caídas; também não se volta a bater a oliveira: é do estrangeiro, do órfão e da viúva.",
+   "refs": [
+    "levitico 19:10",
+    "deuteronomio 24:20-21"
+   ],
+   "quem": "donos de vinhas e olivais",
+   "condicao": "Só na terra de Israel.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "associacoes": [
+    {
+     "texto": "Isaías usa a imagem das olivas que restam após a colheita.",
+     "refs": [
+      "isaias 17:6"
+     ]
+    }
+   ],
+   "motivo": "Lembra-te de que foste escravo no Egito (Dt 24:22)."
+  },
+  {
+   "id": "b-feixe-esquecido",
+   "grupo": "terra-agricultura",
+   "subgrupo": "parte-do-pobre",
+   "titulo": "Não voltar para buscar o feixe esquecido",
+   "tipo": "negativo",
+   "texto": "O feixe esquecido no campo fica para o estrangeiro, o órfão e a viúva.",
+   "refs": [
+    "deuteronomio 24:19"
+   ],
+   "quem": "donos de campos",
+   "condicao": "Só na terra de Israel.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "motivo": "Para que o SENHOR te abençoe; lembra-te de que foste escravo no Egito (24:19, 24:22)."
+  },
+  {
+   "id": "b-comer-no-campo-do-proximo",
+   "grupo": "terra-agricultura",
+   "subgrupo": "parte-do-pobre",
+   "titulo": "Comer no campo do próximo, sem levar",
+   "tipo": "positivo",
+   "texto": "Quem entra na vinha ou no trigal do próximo pode comer uvas ou arrancar espigas com a mão até se fartar, mas não leva em vasilha nem usa foice.",
+   "refs": [
+    "deuteronomio 23:24-25"
+   ],
+   "quem": "todo Israel",
+   "condicao": "Só na terra de Israel.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "casos": [
+    {
+     "descricao": "Os discípulos arrancam espigas no sábado; a crítica é sobre o sábado, não sobre o campo alheio.",
+     "refs": [
+      "mateus 12:1-2",
+      "marcos 2:23-24"
+     ]
+    }
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Bava Metsia 7:2 (a tradição aplica a lei ao trabalhador durante a colheita)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-nao-amordacar-boi",
+   "grupo": "terra-agricultura",
+   "subgrupo": "parte-do-pobre",
+   "titulo": "Não amordaçar o boi que debulha",
+   "tipo": "negativo",
+   "texto": "Não se põe mordaça no boi enquanto ele pisa o grão.",
+   "refs": [
+    "deuteronomio 25:4"
+   ],
+   "quem": "donos de animais",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "associacoes": [
+    {
+     "texto": "Paulo cita esta lei para defender o sustento de quem trabalha no evangelho.",
+     "refs": [
+      "1-corintios 9:9-11",
+      "1-timoteo 5:18"
+     ]
+    }
+   ],
+   "nota": "Pode estar também em outro grupo (animais ou trabalho)."
+  },
+  {
+   "id": "b-sabatico-descanso",
+   "grupo": "terra-agricultura",
+   "subgrupo": "sabatico",
+   "titulo": "No sétimo ano a terra descansa",
+   "tipo": "negativo",
+   "texto": "Seis anos se semeia e se poda; no sétimo a terra tem 'sábado ao SENHOR': não se semeia o campo nem se poda a vinha.",
+   "refs": [
+    "levitico 25:2-4",
+    "exodo 23:10-11"
+   ],
+   "quem": "donos de terras",
+   "condicao": "Só na terra de Israel.",
+   "sancao": {
+    "tipo": "divina",
+    "descricao": "Levítico 26 avisa que, se Israel não guardar os anos de descanso, a terra 'descansará' enquanto o povo estiver no exílio.",
+    "refs": [
+     "levitico 26:34-35"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Crônicas diz que o exílio cumpriu os sábados da terra durante 70 anos.",
+     "refs": [
+      "2-cronicas 36:21"
+     ]
+    },
+    {
+     "descricao": "Depois do exílio, o povo se compromete a guardar o sétimo ano.",
+     "refs": [
+      "neemias 10:31"
+     ]
+    }
+   ],
+   "motivo": "A terra pertence ao SENHOR; promessa de colheita tripla no sexto ano (25:20-22).",
+   "fonte_extra": [
+    {
+     "fonte": "Flávio Josefo",
+     "referencia": "Antiguidades Judaicas 14.10.6 e 1 Macabeus 6:49 (anos sabáticos observados no período do segundo templo)",
+     "data": "séc. I d.C. / séc. II a.C."
+    }
+   ]
+  },
+  {
+   "id": "b-sabatico-nao-colher",
+   "grupo": "terra-agricultura",
+   "subgrupo": "sabatico",
+   "titulo": "Não colher como dono o que nasce sozinho no sétimo ano",
+   "tipo": "negativo",
+   "texto": "O que nasce sozinho não é ceifado nem vindimado como colheita normal; o produto do sétimo ano é alimento para todos: dono, servos, diaristas, estrangeiros, gado e animais do campo; o pobre come e o que sobra fica para os animais.",
+   "refs": [
+    "levitico 25:5-7",
+    "exodo 23:11"
+   ],
+   "quem": "donos de terras",
+   "condicao": "Só na terra de Israel.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   }
+  },
+  {
+   "id": "b-remissao-dividas",
+   "grupo": "terra-agricultura",
+   "subgrupo": "sabatico",
+   "titulo": "Perdoar as dívidas no sétimo ano",
+   "tipo": "positivo",
+   "texto": "Ao fim de cada sete anos, o credor perdoa o que emprestou ao irmão israelita; do estrangeiro pode cobrar. Não se deve negar empréstimo ao pobre por estar perto o ano da remissão.",
+   "refs": [
+    "deuteronomio 15:1-3",
+    "deuteronomio 15:9"
+   ],
+   "quem": "credores",
+   "sancao": {
+    "tipo": "divina",
+    "descricao": "Se negar ao pobre, 'ele clamará contra ti ao SENHOR, e haverá em ti pecado'.",
+    "refs": [
+     "deuteronomio 15:9"
+    ]
+   },
+   "motivo": "É a remissão do SENHOR; 'não haverá pobre no meio de ti' se Israel obedecer (15:4).",
+   "nota": "Pode estar também no grupo econômico deste estudo.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Sheviit 10:3 (o 'prosbul' de Hilel, mecanismo para manter empréstimos)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-hakhel",
+   "grupo": "terra-agricultura",
+   "subgrupo": "sabatico",
+   "titulo": "Ler a lei a todo o povo no ano sabático",
+   "tipo": "positivo",
+   "texto": "No fim de cada sete anos, na festa das Cabanas, a lei é lida diante de todo Israel – homens, mulheres, crianças e estrangeiros – para que ouçam e aprendam.",
+   "refs": [
+    "deuteronomio 31:10-13"
+   ],
+   "quem": "todo Israel",
+   "condicao": "No lugar escolhido, na festa das Cabanas.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "casos": [
+    {
+     "descricao": "Esdras lê a lei ao povo e celebram a festa das Cabanas.",
+     "refs": [
+      "neemias 8:1-3",
+      "neemias 8:13-18"
+     ]
+    }
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Sotah 7:8 (o rei lia a lei; menciona o rei Agripa)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-contar-anos-jubileu",
+   "grupo": "terra-agricultura",
+   "subgrupo": "jubileu-resgate",
+   "titulo": "Contar sete semanas de anos e tocar o chifre",
+   "tipo": "positivo",
+   "texto": "Contam-se sete vezes sete anos; no dia da Expiação do 49º ano toca-se o chifre (shofar) por toda a terra.",
+   "refs": [
+    "levitico 25:8-9"
+   ],
+   "quem": "todo Israel",
+   "condicao": "Só na terra de Israel.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   }
+  },
+  {
+   "id": "b-jubileu",
+   "grupo": "terra-agricultura",
+   "subgrupo": "jubileu-resgate",
+   "titulo": "Santificar o 50º ano e proclamar liberdade",
+   "tipo": "positivo",
+   "texto": "O 50º ano é santo: proclama-se liberdade a todos os moradores, cada um volta à sua propriedade e família; não se semeia nem se colhe o que nasce sozinho.",
+   "refs": [
+    "levitico 25:10-13"
+   ],
+   "quem": "todo Israel",
+   "condicao": "Só na terra de Israel.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "associacoes": [
+    {
+     "texto": "Isaías anuncia 'o ano aceitável do SENHOR', e Jesus lê esse texto em Nazaré.",
+     "refs": [
+      "isaias 61:1-2",
+      "lucas 4:18-21"
+     ]
+    }
+   ],
+   "nota": "Não há registro bíblico claro de um jubileu cumprido; estudiosos discutem se foi praticado. A libertação de servos no jubileu está em outro grupo."
+  },
+  {
+   "id": "b-preco-justo",
+   "grupo": "terra-agricultura",
+   "subgrupo": "jubileu-resgate",
+   "titulo": "Vender a terra pelo número de colheitas até o jubileu",
+   "tipo": "negativo",
+   "texto": "O preço da terra é calculado pelos anos de colheita que faltam até o jubileu (na prática, vende-se o uso, não a terra); ninguém deve enganar o irmão.",
+   "refs": [
+    "levitico 25:14-17"
+   ],
+   "quem": "compradores e vendedores",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "motivo": "Teme o teu Deus (25:17)."
+  },
+  {
+   "id": "b-terra-nao-vendida",
+   "grupo": "terra-agricultura",
+   "subgrupo": "jubileu-resgate",
+   "titulo": "A terra não se vende para sempre",
+   "tipo": "negativo",
+   "texto": "A terra não se vende em caráter definitivo, porque é do SENHOR e Israel é estrangeiro e hóspede; em toda a terra deve haver direito de resgate.",
+   "refs": [
+    "levitico 25:23-24"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "casos": [
+    {
+     "descricao": "Nabote recusa vender a herança dos pais a Acabe e é morto por uma trama de Jezabel.",
+     "refs": [
+      "1-reis 21:2-3",
+      "1-reis 21:13-16"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Isaías: ai dos que juntam casa a casa e campo a campo.",
+     "refs": [
+      "isaias 5:8"
+     ]
+    }
+   ],
+   "motivo": "'A terra é minha; vós sois estrangeiros e peregrinos comigo' (25:23)."
+  },
+  {
+   "id": "b-resgate-terra",
+   "grupo": "terra-agricultura",
+   "subgrupo": "jubileu-resgate",
+   "titulo": "Resgatar a terra vendida pelo parente pobre",
+   "tipo": "positivo",
+   "texto": "Se o irmão empobrecer e vender parte da propriedade, o parente mais próximo a resgata; se não houver, o próprio vendedor pode resgatá-la quando tiver meios; senão, ela volta a ele no jubileu.",
+   "refs": [
+    "levitico 25:25-28"
+   ],
+   "quem": "parentes (o 'resgatador') e vendedores",
+   "condicao": "Só na terra de Israel.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "casos": [
+    {
+     "descricao": "Jeremias compra o campo do primo em Anatote pelo direito de resgate.",
+     "refs": [
+      "jeremias 32:6-15"
+     ]
+    },
+    {
+     "descricao": "Boaz resgata o campo de Elimeleque.",
+     "refs": [
+      "rute 4:3-10"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b-casas-muradas",
+   "grupo": "terra-agricultura",
+   "subgrupo": "jubileu-resgate",
+   "titulo": "Casas em cidade murada: resgate só por um ano",
+   "tipo": "positivo",
+   "texto": "A casa em cidade murada pode ser resgatada só por um ano; depois fica definitivamente para o comprador e não volta no jubileu. Casas de aldeias sem muro seguem a regra dos campos.",
+   "refs": [
+    "levitico 25:29-31"
+   ],
+   "quem": "donos de casas",
+   "condicao": "Só na terra de Israel.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   }
+  },
+  {
+   "id": "b-propriedades-levitas",
+   "grupo": "terra-agricultura",
+   "subgrupo": "jubileu-resgate",
+   "titulo": "Casas e campos dos levitas",
+   "tipo": "negativo",
+   "texto": "Os levitas podem resgatar suas casas a qualquer tempo e elas voltam no jubileu; os campos ao redor das cidades levíticas não se vendem.",
+   "refs": [
+    "levitico 25:32-34"
+   ],
+   "quem": "levitas",
+   "condicao": "Só na terra de Israel.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   }
+  },
+  {
+   "id": "b-campo-consagrado",
+   "grupo": "terra-agricultura",
+   "subgrupo": "jubileu-resgate",
+   "titulo": "Campo consagrado ao SENHOR e o jubileu",
+   "tipo": "positivo",
+   "texto": "Campo herdado consagrado ao santuário vale conforme a semente (50 siclos por ômer de cevada) e os anos até o jubileu; pode ser resgatado com um quinto a mais; se não for e for vendido a outro, no jubileu fica para os sacerdotes. Campo comprado volta ao dono original no jubileu.",
+   "refs": [
+    "levitico 27:16-24"
+   ],
+   "quem": "todo Israel",
+   "condicao": "Só na terra de Israel.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   }
+  },
+  {
+   "id": "b-misturar-animais",
+   "grupo": "terra-agricultura",
+   "subgrupo": "misturas",
+   "titulo": "Não cruzar animais de espécies diferentes",
+   "tipo": "negativo",
+   "texto": "Não se acasalam animais de espécies diferentes.",
+   "refs": [
+    "levitico 19:19"
+   ],
+   "quem": "donos de animais",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "motivo": "'Guardareis os meus estatutos' (19:19); ligada à ordem da criação 'segundo a sua espécie' (Gn 1).",
+   "nota": "Davi e Salomão montam mulas (1 Reis 1:33); a tradição judaica proíbe criar o híbrido, não usá-lo."
+  },
+  {
+   "id": "b-misturar-sementes",
+   "grupo": "terra-agricultura",
+   "subgrupo": "misturas",
+   "titulo": "Não semear o campo com duas espécies",
+   "tipo": "negativo",
+   "texto": "Não se semeia o campo com mistura de sementes.",
+   "refs": [
+    "levitico 19:19"
+   ],
+   "quem": "agricultores",
+   "condicao": "Na terra, segundo a tradição judaica.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Kilayim (tratado inteiro sobre misturas)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-vinha-mista",
+   "grupo": "terra-agricultura",
+   "subgrupo": "misturas",
+   "titulo": "Não semear outra semente na vinha",
+   "tipo": "negativo",
+   "texto": "Não se semeia a vinha com outras sementes; senão todo o produto 'fica santificado' (perdido para o dono).",
+   "refs": [
+    "deuteronomio 22:9"
+   ],
+   "quem": "agricultores",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "O produto da semente e da vinha fica proibido para o dono.",
+    "refs": [
+     "deuteronomio 22:9"
+    ]
+   }
+  },
+  {
+   "id": "b-arar-boi-jumento",
+   "grupo": "terra-agricultura",
+   "subgrupo": "misturas",
+   "titulo": "Não arar com boi e jumento juntos",
+   "tipo": "negativo",
+   "texto": "Não se ara com boi e jumento juntos.",
+   "refs": [
+    "deuteronomio 22:10"
+   ],
+   "quem": "agricultores",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "associacoes": [
+    {
+     "texto": "Muitos leitores lembram esta imagem em 'não vos ponhais em jugo desigual'.",
+     "refs": [
+      "2-corintios 6:14"
+     ]
+    }
+   ],
+   "nota": "Explicações: a diferença de força entre os animais (proteção) ou o simbolismo da separação."
+  },
+  {
+   "id": "b-shaatnez",
+   "grupo": "terra-agricultura",
+   "subgrupo": "misturas",
+   "titulo": "Não vestir tecido de lã e linho misturados",
+   "tipo": "negativo",
+   "texto": "Não se usa roupa tecida com lã e linho juntos.",
+   "refs": [
+    "deuteronomio 22:11",
+    "levitico 19:19"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "nota": "Curiosamente, partes do santuário e roupas do sumo sacerdote combinam lã colorida e linho; muitos veem aí a razão: a mistura é reservada ao sagrado.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Kilayim 9:1 (só lã de ovelha e linho)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-orla",
+   "grupo": "terra-agricultura",
+   "subgrupo": "arvores-campo",
+   "titulo": "Não comer o fruto da árvore nos três primeiros anos",
+   "tipo": "negativo",
+   "texto": "Na terra, o fruto de árvore recém-plantada é 'incircunciso' por três anos e não se come; no quarto ano é santo, para louvor ao SENHOR; no quinto se come.",
+   "refs": [
+    "levitico 19:23-25"
+   ],
+   "quem": "todo Israel",
+   "condicao": "Só na terra de Israel.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "motivo": "Para que a árvore aumente o seu fruto (19:25).",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Orlah (tratado); a tradição estende a lei também fora da terra",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-quarto-ano",
+   "grupo": "terra-agricultura",
+   "subgrupo": "arvores-campo",
+   "titulo": "O fruto do quarto ano é santo",
+   "tipo": "positivo",
+   "texto": "Todo o fruto do quarto ano é consagrado como louvor ao SENHOR.",
+   "refs": [
+    "levitico 19:24"
+   ],
+   "quem": "todo Israel",
+   "condicao": "Só na terra de Israel.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "nota": "Nos tempos rabínicos, era comido em Jerusalém como o segundo dízimo.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Maaser Sheni 5:1-2 (regras do fruto do quarto ano)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "b-vinha-nova-guerra",
+   "grupo": "terra-agricultura",
+   "subgrupo": "arvores-campo",
+   "titulo": "Quem plantou vinha e não a desfrutou volta da guerra",
+   "tipo": "positivo",
+   "texto": "Antes da batalha, os oficiais mandam para casa quem construiu casa e não a inaugurou e quem plantou vinha e ainda não a desfrutou.",
+   "refs": [
+    "deuteronomio 20:5-6"
+   ],
+   "quem": "soldados",
+   "condicao": "Em guerra.",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada.",
+    "refs": []
+   },
+   "motivo": "Para que não morra na batalha e outro aproveite.",
+   "nota": "Ligado à lei da árvore nova: a vinha só é 'desfrutada' depois dos anos de espera. A parte do noivo está no grupo Família."
+  }
+ ]
+}

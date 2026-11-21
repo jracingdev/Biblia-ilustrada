@@ -1,0 +1,147 @@
+{
+ "livro": "2-tessalonicenses",
+ "nome": "2 Tessalonicenses",
+ "subtitulo": "Firmes até a vinda do Senhor",
+ "introducao": "Pouco depois da primeira carta, Paulo escreve de novo aos tessalonicenses, que sofriam perseguição e estavam confusos com a ideia de que o dia do Senhor já teria chegado. Ele os consola com a justiça de Deus, corrige o engano sobre o fim dos tempos e exorta os que deixaram de trabalhar a viver de forma ordenada.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Paulo, com Silvano e Timóteo (1:1); alguns estudiosos questionam a autoria"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "A maioria dos que a atribuem a Paulo data por volta de 51–52 d.C."
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Provavelmente escrita em Corinto"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "A igreja de Tessalônica (1:1)"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Carta"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "3 capítulos e 47 versículos"
+  }
+ ],
+ "chave": "2:15",
+ "temas": [
+  "Perseverança na perseguição",
+  "A justiça de Deus na vinda de Jesus",
+  "Discernimento sobre o fim dos tempos",
+  "Firmeza nos ensinos recebidos",
+  "Trabalho honesto e perseverança no bem"
+ ],
+ "cristo": "A carta aponta para a manifestação do Senhor Jesus, que trará alívio aos que sofrem e vencerá o mal com o sopro de sua boca (1:7, 2:8). A esperança está na graça de Deus e de Cristo, que nos amou e deu consolação eterna (2:16).",
+ "secoes": [
+  {
+   "id": "consolo",
+   "titulo": "Consolo na perseguição",
+   "capitulos": [
+    1
+   ],
+   "resumo": "Gratidão, a justiça de Deus e oração."
+  },
+  {
+   "id": "dia-do-senhor",
+   "titulo": "O dia do Senhor",
+   "capitulos": [
+    2
+   ],
+   "resumo": "Correção sobre o fim dos tempos e chamado à firmeza."
+  },
+  {
+   "id": "ordem",
+   "titulo": "Vida ordenada",
+   "capitulos": [
+    3
+   ],
+   "resumo": "Oração, trabalho e disciplina fraterna."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Firmes na perseguição",
+   "chave": "1:11-12",
+   "resumo": "Paulo agradece a Deus porque a fé dos tessalonicenses cresce e o amor entre eles aumenta, mesmo em meio a perseguições. Ele os consola lembrando que Deus é justo: quando Jesus se manifestar do céu, dará alívio aos que sofrem e castigará os que rejeitam o evangelho. Paulo ora para que Deus os torne dignos do chamado e para que o nome de Jesus seja glorificado neles.",
+   "licoes": [
+    "A fé que cresce e o amor que aumenta são motivo de gratidão (1:3).",
+    "Perseverar na perseguição é sinal de que Deus está agindo (1:4-5).",
+    "Deus é justo e, na vinda de Jesus, dará alívio aos que sofrem (1:6-7).",
+    "O propósito da vida cristã é que o nome de Jesus seja glorificado em nós (1:12)."
+   ],
+   "reflexao": "Como você pode glorificar o nome de Jesus no meio das dificuldades atuais?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Paulo, o que crescia muito entre os tessalonicenses?",
+     "opcoes": [
+      "O número de templos",
+      "O conhecimento da Lei",
+      "A riqueza",
+      "A fé"
+     ],
+     "correta": 3,
+     "ref": "1:3"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "O dia do Senhor ainda não chegou",
+   "chave": "2:15",
+   "resumo": "Alguns diziam que o dia do Senhor já tinha chegado, e Paulo pede que não se deixem abalar. Antes desse dia virá a apostasia e se manifestará o \"homem da injustiça\", que se exalta acima de Deus e engana com sinais falsos, mas será destruído pelo Senhor Jesus em sua vinda; sobre a identidade dessa figura e do que o \"detém\" há várias interpretações. Paulo agradece porque Deus escolheu os leitores para a salvação e os exorta a permanecerem firmes nos ensinos recebidos.",
+   "licoes": [
+    "Não devemos nos abalar com boatos sobre o fim dos tempos (2:2-3).",
+    "O engano final atinge os que não receberam o amor da verdade (2:10).",
+    "Deus chamou os cristãos para a salvação pela santificação do Espírito e fé na verdade (2:13-14).",
+    "Diante da confusão, a resposta é ficar firme nos ensinos recebidos (2:15)."
+   ],
+   "reflexao": "Como você reage a mensagens alarmistas sobre o futuro?",
+   "quiz": [
+    {
+     "pergunta": "O que os tessalonicenses deveriam evitar, segundo Paulo?",
+     "opcoes": [
+      "Ser abalados pensando que o dia de Cristo já estava perto",
+      "Ler as cartas de Paulo",
+      "Reunir-se nas casas",
+      "Orar demais"
+     ],
+     "correta": 0,
+     "ref": "2:2"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Trabalho e perseverança no bem",
+   "chave": "3:13",
+   "resumo": "Paulo pede oração para que a palavra do Senhor se espalhe e confia que o Senhor é fiel para guardá-los do maligno. Ele adverte contra os que viviam de forma desordenada, sem trabalhar e se intrometendo na vida alheia, lembrando seu próprio exemplo de trabalho e a regra: \"se alguém não quiser trabalhar, também não coma\". Os irmãos não devem se cansar de fazer o bem, e quem desobedece deve ser advertido como irmão, não tratado como inimigo.",
+   "licoes": [
+    "O Senhor é fiel e guarda os seus do maligno (3:3).",
+    "Paulo trabalhou para dar exemplo, e não ser peso para ninguém (3:8-9).",
+    "Quem pode trabalhar não deve viver às custas dos outros (3:10-12).",
+    "A correção na igreja deve tratar o outro como irmão, e não como inimigo (3:14-15)."
+   ],
+   "reflexao": "Em que área você tem se cansado de fazer o bem?",
+   "quiz": [
+    {
+     "pergunta": "Que regra Paulo lembra sobre quem não quer trabalhar?",
+     "opcoes": [
+      "Que seja expulso da cidade",
+      "Que também não coma",
+      "Que pague uma multa",
+      "Que jejue três dias"
+     ],
+     "correta": 1,
+     "ref": "3:10"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1494 @@
+{
+ "introducao": "A Bíblia fala de anjos do começo ao fim, mas quase sempre de passagem: eles aparecem para servir a Deus, levar uma mensagem, proteger ou executar um juízo, e logo saem de cena. O foco do texto nunca está neles, e sim em Deus e no que ele está fazendo com as pessoas. A Bíblia não descreve como os anjos foram criados, quantos são, como se organizam em detalhe nem quais são os nomes da maioria deles; só dois são chamados pelo nome nos livros aceitos por todas as igrejas (Miguel e Gabriel). Muito do que se imagina hoje sobre anjos (asas em todos, aparência de criança, hierarquias de nove coros, nomes de anjos pessoais) vem da arte, de livros judaicos antigos fora da Bíblia e da tradição posterior. Este estudo separa o que o texto bíblico diz do que é interpretação ou tradição, indicando onde as igrejas e os estudiosos leem de modos diferentes.",
+ "palavras": [
+  {
+   "id": "malak",
+   "original": "מַלְאָךְ mal'akh (hebraico)",
+   "sentido": "mensageiro, enviado",
+   "nota": "É a palavra comum para 'anjo' no Antigo Testamento, mas descreve uma função, não uma natureza: também é usada para mensageiros humanos, para profetas e até para o sacerdote. O contexto decide se é um ser celestial ou uma pessoa.",
+   "refs": [
+    "genesis 16:7",
+    "genesis 32:1",
+    "2-reis 1:2",
+    "ageu 1:13",
+    "malaquias 2:7",
+    "malaquias 3:1"
+   ]
+  },
+  {
+   "id": "angelos",
+   "original": "ἄγγελος ángelos (grego)",
+   "sentido": "mensageiro",
+   "nota": "Equivale ao hebraico mal'akh e deu origem à palavra portuguesa 'anjo'. No Novo Testamento também se aplica a pessoas: os mensageiros de João Batista, os enviados de Jesus e o próprio João Batista, chamado de 'mensageiro' em citação de Malaquias.",
+   "refs": [
+    "lucas 7:24",
+    "lucas 9:52",
+    "mateus 11:10",
+    "lucas 1:19",
+    "hebreus 1:14"
+   ]
+  },
+  {
+   "id": "sarim",
+   "original": "שַׂר sar, plural sarim (hebraico)",
+   "sentido": "príncipe, chefe, comandante",
+   "nota": "Termo comum para autoridades humanas, mas em Daniel indica seres espirituais ligados a povos: Miguel é 'um dos principais chefes' e 'vosso príncipe', e há um 'príncipe do reino da Pérsia'. Em Josué aparece o 'Príncipe do exército do SENHOR'.",
+   "refs": [
+    "daniel 10:13",
+    "daniel 10:20-21",
+    "daniel 12:1",
+    "josue 5:14"
+   ]
+  },
+  {
+   "id": "santos",
+   "original": "קְדֹשִׁים qedoshim (hebraico); ἅγιοι hágioi (grego)",
+   "sentido": "santos, separados para Deus",
+   "nota": "Em alguns textos poéticos e proféticos 'os santos' são seres celestiais que cercam a Deus, a 'assembleia dos santos'. Em outros, a mesma palavra se refere ao povo de Deus; o contexto decide.",
+   "refs": [
+    "salmos 89:5-7",
+    "jo 5:1",
+    "daniel 8:13",
+    "deuteronomio 33:2",
+    "zacarias 14:5",
+    "judas 1:14"
+   ]
+  },
+  {
+   "id": "filhos-de-deus",
+   "original": "בְּנֵי הָאֱלֹהִים bene ha'elohim (hebraico)",
+   "sentido": "filhos de Deus, isto é, seres que pertencem à esfera de Deus",
+   "nota": "Em Jó a expressão indica seres celestiais que se apresentam diante do SENHOR e que se alegraram na criação; expressões parecidas ('filhos dos poderosos') aparecem nos Salmos. Em Gênesis 6 o sentido é discutido (veja 'caídos'). No Novo Testamento, 'filhos de Deus' passa a ser sobretudo título dos que creem.",
+   "refs": [
+    "jo 1:6",
+    "jo 2:1",
+    "jo 38:7",
+    "salmos 29:1",
+    "salmos 89:6",
+    "genesis 6:2",
+    "lucas 20:36"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Septuaginta (tradução grega do Antigo Testamento)",
+     "referencia": "Jó 1:6 e 2:1, onde se lê 'os anjos de Deus' em lugar de 'filhos de Deus'",
+     "data": "séculos III-I a.C. (aproximado)"
+    }
+   ]
+  },
+  {
+   "id": "vigilantes",
+   "original": "עִיר 'ir (aramaico)",
+   "sentido": "vigilante, o que está acordado",
+   "nota": "Só aparece em Daniel 4, no sonho de Nabucodonosor: 'um vigilante e santo' desce do céu, e a sentença é 'por decreto dos vigilantes'. O texto não dá mais detalhes. Livros judaicos posteriores, como 1 Enoque, usaram 'vigilantes' para os anjos que teriam pecado, mas isso não está em Daniel.",
+   "refs": [
+    "daniel 4:13",
+    "daniel 4:17"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "1 Enoque (Livro dos Vigilantes), obra judaica não incluída no cânon judaico, católico ou protestante; canônica só na Igreja Ortodoxa Etíope",
+     "referencia": "capítulos 6-16",
+     "data": "séculos III-II a.C. (aproximado)"
+    }
+   ]
+  },
+  {
+   "id": "exercito-dos-ceus",
+   "original": "צְבָא הַשָּׁמַיִם tseva hashamayim (hebraico)",
+   "sentido": "exército, hostes dos céus",
+   "nota": "Tem dois usos. Pode indicar os seres celestiais que servem a Deus em volta do seu trono; daí o título 'SENHOR dos exércitos'. Também pode indicar os astros (sol, lua e estrelas), que outros povos adoravam e que Israel foi proibido de adorar.",
+   "refs": [
+    "1-reis 22:19",
+    "neemias 9:6",
+    "salmos 103:21",
+    "salmos 148:2",
+    "lucas 2:13",
+    "deuteronomio 4:19",
+    "2-reis 23:5"
+   ]
+  }
+ ],
+ "tipos": [
+  {
+   "id": "anjos-em-geral",
+   "nome": "Anjos (em geral)",
+   "descricao": "Seres criados por Deus, chamados de 'espíritos' e 'servos', que estão diante dele e cumprem suas ordens. Quando aparecem às pessoas, muitas vezes têm aparência de homens comuns, a ponto de não serem reconhecidos; outras vezes surgem com brilho e causam medo. São numerosos ('milhares de milhares'), mas não são onipotentes nem oniscientes.",
+   "funcao": "Louvar a Deus, levar mensagens, proteger e ajudar o povo de Deus, executar juízos e acompanhar a volta de Cristo.",
+   "aparicoes": [
+    {
+     "ref": "genesis 19:1",
+     "nota": "dois anjos chegam a Sodoma com aparência de homens"
+    },
+    {
+     "ref": "salmos 103:20",
+     "nota": "fortes, cumprem a palavra de Deus"
+    },
+    {
+     "ref": "hebreus 1:14",
+     "nota": "espíritos servidores enviados para ajudar"
+    },
+    {
+     "ref": "mateus 25:31",
+     "nota": "vêm com o Filho do homem na sua glória"
+    }
+   ],
+   "refs": [
+    "colossenses 1:16",
+    "salmos 148:2",
+    "salmos 104:4",
+    "hebreus 1:7",
+    "hebreus 1:14",
+    "daniel 7:10",
+    "apocalipse 5:11",
+    "hebreus 13:2",
+    "mateus 24:36"
+   ],
+   "interpretacao": false
+  },
+  {
+   "id": "querubins",
+   "nome": "Querubins",
+   "descricao": "Seres alados ligados à presença santa de Deus. Ezequiel os descreve com quatro rostos (de homem, leão, boi e águia, ou de querubim no lugar do boi em 10:14), quatro asas, mãos humanas debaixo das asas e pés como de bezerro, junto a rodas cheias de brilho. No tabernáculo e no templo, figuras de querubins em ouro e madeira cobriam a arca com as asas e decoravam paredes e cortinas. Nada têm a ver com os bebês alados da arte.",
+   "funcao": "Guardar o acesso ao que é santo (o caminho da árvore da vida) e cercar o trono de Deus; Deus é chamado 'o que está assentado entre os querubins'.",
+   "aparicoes": [
+    {
+     "ref": "genesis 3:24",
+     "nota": "guardam o caminho da árvore da vida"
+    },
+    {
+     "ref": "exodo 25:18-22",
+     "nota": "dois querubins de ouro sobre a tampa da arca"
+    },
+    {
+     "ref": "1-reis 6:23-27",
+     "nota": "querubins gigantes no Santo dos Santos do templo de Salomão"
+    },
+    {
+     "ref": "ezequiel 10:14-15",
+     "nota": "Ezequiel identifica os seres do rio Quebar como querubins"
+    }
+   ],
+   "refs": [
+    "genesis 3:24",
+    "exodo 25:18-22",
+    "1-samuel 4:4",
+    "1-reis 6:23-27",
+    "ezequiel 1:5-10",
+    "ezequiel 10:1-5",
+    "ezequiel 10:20",
+    "ezequiel 41:18-19",
+    "hebreus 9:5"
+   ],
+   "interpretacao": false,
+   "fonte_extra": [
+    {
+     "fonte": "Arqueologia da Mesopotâmia: os lamassu, grandes estátuas de touros ou leões alados com cabeça humana que guardavam portas de palácios assírios (exemplos famosos do palácio de Sargão II em Khorsabad)",
+     "referencia": "paralelo cultural aceito por muitos estudiosos; não prova que os querubins bíblicos tivessem a mesma forma",
+     "data": "séculos IX-VII a.C."
+    },
+    {
+     "fonte": "Linguística comparada: o acádio kāribu ('o que abençoa' ou 'intercessor'), termo associado a figuras protetoras",
+     "referencia": "possível parentesco com a palavra hebraica kerub; a origem exata é discutida",
+     "data": "aproximado"
+    },
+    {
+     "fonte": "Arqueologia do Levante: marfins de Megido e outros objetos fenícios com esfinges aladas ao lado de tronos",
+     "referencia": "paralelo visual frequentemente citado para 'assentado entre os querubins'",
+     "data": "fim da Idade do Bronze e Idade do Ferro (aproximado)"
+    }
+   ]
+  },
+  {
+   "id": "serafins",
+   "nome": "Serafins",
+   "descricao": "Aparecem pelo nome só na visão de Isaías no templo: cada um tem seis asas (duas cobrem o rosto, duas os pés e duas servem para voar). Clamam 'Santo, Santo, Santo' e um deles toca os lábios de Isaías com uma brasa do altar. O nome vem de uma raiz hebraica ligada a 'queimar', a mesma usada para as 'serpentes ardentes' do deserto.",
+   "funcao": "Proclamar a santidade de Deus e, na visão, aplicar a purificação ao profeta.",
+   "aparicoes": [
+    {
+     "ref": "isaias 6:2-3",
+     "nota": "seis asas, clamam a santidade de Deus"
+    },
+    {
+     "ref": "isaias 6:6-7",
+     "nota": "a brasa que purifica os lábios de Isaías"
+    }
+   ],
+   "refs": [
+    "isaias 6:1-7",
+    "numeros 21:6"
+   ],
+   "interpretacao": false,
+   "fonte_extra": [
+    {
+     "fonte": "Arqueologia de Judá e do Egito: selos e amuletos com serpentes aladas (o ureu egípcio)",
+     "referencia": "alguns estudiosos veem aí um paralelo para a imagem dos serafins; outros não; a questão é aberta",
+     "data": "séculos VIII-VII a.C. (aproximado)"
+    }
+   ]
+  },
+  {
+   "id": "quatro-seres-viventes",
+   "nome": "Os quatro seres viventes",
+   "descricao": "No Apocalipse, quatro seres (a Bíblia Livre traduz 'animais') estão ao redor do trono, cheios de olhos, cada um com seis asas; um é semelhante a leão, outro a bezerro, outro tem rosto de homem e outro é como águia voando. Repetem sem parar 'Santo, Santo, Santo'. Combinam traços dos querubins de Ezequiel (os quatro rostos) e dos serafins de Isaías (seis asas e o louvor).",
+   "funcao": "Adorar a Deus continuamente e participar das cenas do trono, junto com os vinte e quatro anciãos.",
+   "aparicoes": [
+    {
+     "ref": "ezequiel 1:5-10",
+     "nota": "os quatro seres viventes de Ezequiel, depois chamados querubins"
+    },
+    {
+     "ref": "apocalipse 4:6-8",
+     "nota": "os quatro ao redor do trono"
+    },
+    {
+     "ref": "apocalipse 5:11",
+     "nota": "junto aos anjos e anciãos no louvor ao Cordeiro"
+    }
+   ],
+   "refs": [
+    "ezequiel 1:5-10",
+    "ezequiel 10:20",
+    "apocalipse 4:6-8",
+    "apocalipse 5:11-12"
+   ],
+   "interpretacao": false,
+   "fonte_extra": [
+    {
+     "fonte": "Tradição cristã antiga (Ireneu de Lião e, depois, Jerônimo e outros)",
+     "referencia": "associação dos quatro rostos aos quatro evangelistas (homem, leão, boi e águia); é leitura simbólica posterior, não do texto",
+     "data": "fim do século II d.C. em diante"
+    }
+   ]
+  },
+  {
+   "id": "arcanjo",
+   "nome": "Arcanjo",
+   "descricao": "A palavra significa 'anjo principal' ou 'chefe dos anjos' e aparece só duas vezes na Bíblia: a 'voz de arcanjo' na vinda do Senhor e 'Miguel, o arcanjo'. O único arcanjo nomeado no texto bíblico é Miguel. Daniel diz que ele é 'um dos principais chefes', o que sugere que há outros, mas não diz quantos.",
+   "funcao": "Liderança entre os anjos; Miguel aparece lutando e defendendo o povo de Deus.",
+   "aparicoes": [
+    {
+     "ref": "1-tessalonicenses 4:16",
+     "nota": "voz de arcanjo na vinda do Senhor"
+    },
+    {
+     "ref": "judas 1:9",
+     "nota": "Miguel, o arcanjo, discute com o diabo"
+    }
+   ],
+   "refs": [
+    "1-tessalonicenses 4:16",
+    "judas 1:9",
+    "daniel 10:13",
+    "daniel 12:1"
+   ],
+   "interpretacao": false
+  },
+  {
+   "id": "anjo-do-senhor",
+   "nome": "O Anjo do SENHOR",
+   "descricao": "Figura que aparece várias vezes no Antigo Testamento e é marcante porque o texto alterna entre o anjo e o próprio Deus: o anjo fala em primeira pessoa como Deus, e quem o vê diz ter visto a Deus (Agar, Jacó, Moisés na sarça, Gideão, Manoá). Ao mesmo tempo, ele às vezes fala com Deus como alguém distinto dele.",
+   "funcao": "Anunciar, proteger, guiar, interceder e julgar em nome de Deus.",
+   "aparicoes": [
+    {
+     "ref": "genesis 16:13",
+     "nota": "Agar chama quem lhe falou de 'Deus da vista'"
+    },
+    {
+     "ref": "exodo 3:2-6",
+     "nota": "o anjo na sarça e Deus que fala do meio dela"
+    },
+    {
+     "ref": "juizes 13:21-22",
+     "nota": "Manoá: 'vimos a Deus'"
+    },
+    {
+     "ref": "zacarias 1:12",
+     "nota": "o anjo do SENHOR intercede junto ao SENHOR dos exércitos"
+    }
+   ],
+   "refs": [
+    "genesis 16:7-13",
+    "genesis 22:11-15",
+    "genesis 48:16",
+    "exodo 3:2-6",
+    "exodo 23:20-21",
+    "juizes 2:1",
+    "juizes 6:11-22",
+    "juizes 13:18-22",
+    "zacarias 1:12",
+    "zacarias 3:1-2"
+   ],
+   "interpretacao": true,
+   "leituras": [
+    "Um anjo criado que fala com tanta autoridade, como embaixador, que suas palavras são as palavras de Deus; por isso quem o vê diz ter visto a Deus.",
+    "Uma manifestação visível do próprio Deus, numa forma temporária.",
+    "Uma aparição do Filho de Deus antes de se tornar homem (leitura comum em muitos autores cristãos antigos e em parte da tradição protestante).",
+    "Observação: no Novo Testamento, 'um anjo do Senhor' (Mt 1:20, Lc 2:9) é claramente um anjo enviado, e Lucas o identifica com Gabriel em Lucas 1."
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Justino Mártir, Diálogo com Trifão",
+     "referencia": "identifica as aparições divinas do Antigo Testamento com o Verbo (Cristo) antes da encarnação",
+     "data": "c. 155-160 d.C."
+    }
+   ]
+  },
+  {
+   "id": "principados-e-potestades",
+   "nome": "Principados, potestades, tronos e domínios",
+   "descricao": "Paulo usa uma série de palavras de poder ('tronos, domínios, principados, potestades', conforme a tradução) para falar de forças invisíveis. Ele afirma que todas foram criadas por Cristo e para ele, que Cristo está acima delas e triunfou sobre elas na cruz, e que algumas são hostis ('contra os domínios e poderes... os males espirituais'). Ele não descreve como elas se organizam.",
+   "funcao": "No texto, servem para mostrar a supremacia de Cristo e a natureza espiritual da luta do cristão; não são apresentadas como uma tabela de cargos.",
+   "aparicoes": [
+    {
+     "ref": "colossenses 1:16",
+     "nota": "todos foram criados por Cristo e para ele"
+    },
+    {
+     "ref": "colossenses 2:15",
+     "nota": "Cristo os despojou e triunfou sobre eles"
+    },
+    {
+     "ref": "efesios 6:12",
+     "nota": "a luta não é contra carne e sangue"
+    }
+   ],
+   "refs": [
+    "romanos 8:38",
+    "efesios 1:21",
+    "efesios 3:10",
+    "efesios 6:12",
+    "colossenses 1:16",
+    "colossenses 2:15",
+    "1-pedro 3:22"
+   ],
+   "interpretacao": false,
+   "fonte_extra": [
+    {
+     "fonte": "Pseudo-Dionísio, o Areopagita, A Hierarquia Celeste",
+     "referencia": "organiza nove 'coros' de anjos em três tríades (serafins, querubins, tronos; dominações, virtudes, potestades; principados, arcanjos, anjos) a partir de termos bíblicos; é sistematização posterior, não está na Bíblia",
+     "data": "c. 500 d.C."
+    }
+   ]
+  },
+  {
+   "id": "anjos-das-sete-igrejas",
+   "nome": "Os anjos das sete igrejas",
+   "descricao": "No Apocalipse, as sete cartas começam com 'Escreve ao anjo da igreja de...'. Jesus explica que as sete estrelas em sua mão 'são os anjos' das sete igrejas (a Bíblia Livre traduz 'anjos ou mensageiros').",
+   "funcao": "Receber a mensagem dirigida a cada igreja; o texto não explica mais.",
+   "aparicoes": [
+    {
+     "ref": "apocalipse 1:20",
+     "nota": "as sete estrelas são os anjos das igrejas"
+    },
+    {
+     "ref": "apocalipse 2:1",
+     "nota": "início da carta a Éfeso"
+    }
+   ],
+   "refs": [
+    "apocalipse 1:20",
+    "apocalipse 2:1",
+    "apocalipse 2:8",
+    "apocalipse 2:12",
+    "apocalipse 3:14"
+   ],
+   "interpretacao": true,
+   "leituras": [
+    "Anjos celestiais responsáveis por cada igreja.",
+    "Líderes ou mensageiros humanos das igrejas (pastores, bispos ou portadores da carta), já que angelos também significa 'mensageiro'.",
+    "Uma forma simbólica de falar da própria igreja, do seu 'espírito' ou caráter.",
+    "As cartas falam de pecados e arrependimento, o que alguns consideram difícil de aplicar a anjos; outros respondem que a mensagem é, no fim, para a igreja."
+   ]
+  },
+  {
+   "id": "anjos-da-guarda",
+   "nome": "Anjos da guarda",
+   "descricao": "A Bíblia ensina que Deus usa anjos para proteger os seus ('ordenou aos anjos quanto a ti'; 'o anjo do SENHOR fica ao redor daqueles que o temem'). Dois textos são lidos como sinal de anjos ligados a pessoas: Jesus diz que 'os seus anjos' dos pequeninos veem sempre a face do Pai, e os cristãos reunidos, ao ouvirem que Pedro estava à porta, disseram 'É o anjo dele'. O que a Bíblia não diz: que cada pessoa tem um anjo exclusivo desde o nascimento, como ele se chama ou que se deva rezar a ele. Atos 12:15 registra o que os discípulos pensaram, sem confirmar ou corrigir a ideia.",
+   "funcao": "Proteção e cuidado da parte de Deus.",
+   "aparicoes": [
+    {
+     "ref": "mateus 18:10",
+     "nota": "os anjos dos pequeninos veem a face do Pai"
+    },
+    {
+     "ref": "atos 12:15",
+     "nota": "'É o anjo dele', dizem sobre Pedro"
+    }
+   ],
+   "refs": [
+    "salmos 91:11-12",
+    "salmos 34:7",
+    "mateus 18:10",
+    "atos 12:15",
+    "hebreus 1:14",
+    "genesis 48:16"
+   ],
+   "interpretacao": true,
+   "leituras": [
+    "Tradição católica e ortodoxa: cada fiel tem um anjo da guarda pessoal, e há oração e festa dedicadas a eles.",
+    "Muitos protestantes: os anjos protegem o povo de Deus, mas não há base clara para um anjo individual fixo; Mt 18:10 falaria dos anjos que servem os pequeninos em geral.",
+    "Atos 12:15 reflete uma crença judaica da época; os intérpretes discutem quanto ela pode ser usada como ensino."
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Catecismo da Igreja Católica",
+     "referencia": "parágrafo 336 (cada fiel tem um anjo protetor); a Igreja Católica celebra os Santos Anjos da Guarda em 2 de outubro",
+     "data": "1992"
+    }
+   ]
+  },
+  {
+   "id": "exercito-celeste",
+   "nome": "Exército celeste",
+   "descricao": "Os anjos aparecem como um exército a serviço de Deus: o 'exército dos céus' junto ao trono, o 'acampamento de Deus' que Jacó viu, cavalos e carros de fogo em volta de Eliseu, a 'multidão de exércitos celestiais' com os pastores, as 'doze legiões de anjos' que Jesus poderia pedir e não pediu.",
+   "funcao": "Mostrar que Deus é soberano e que o seu povo não está sozinho; no Novo Testamento, Jesus recusa usar essa força para evitar a cruz.",
+   "aparicoes": [
+    {
+     "ref": "genesis 32:1-2",
+     "nota": "Maanaim, o acampamento de Deus"
+    },
+    {
+     "ref": "2-reis 6:17",
+     "nota": "o monte cheio de cavalos e carros de fogo"
+    },
+    {
+     "ref": "lucas 2:13",
+     "nota": "multidão de exércitos celestiais louvando"
+    },
+    {
+     "ref": "mateus 26:53",
+     "nota": "doze legiões de anjos que Jesus não pediu"
+    }
+   ],
+   "refs": [
+    "1-reis 22:19",
+    "genesis 32:1-2",
+    "2-reis 6:16-17",
+    "salmos 103:20-21",
+    "lucas 2:13",
+    "mateus 26:53",
+    "apocalipse 12:7",
+    "apocalipse 5:11"
+   ],
+   "interpretacao": false
+  }
+ ],
+ "nomeados": [
+  {
+   "id": "miguel",
+   "nome": "Miguel",
+   "descricao": "O nome significa 'Quem é como Deus?'. Em Daniel é 'um dos principais chefes' e 'o grande príncipe' que protege o povo de Daniel; em Judas é chamado 'o arcanjo' e, mesmo discutindo com o diabo, não o insulta, mas diz 'O Senhor te repreenda'; no Apocalipse lidera os anjos na batalha contra o dragão.",
+   "aparicoes": [
+    {
+     "ref": "daniel 10:13",
+     "nota": "ajuda o mensageiro contra o príncipe da Pérsia"
+    },
+    {
+     "ref": "daniel 12:1",
+     "nota": "o grande príncipe que se levanta pelo povo"
+    },
+    {
+     "ref": "judas 1:9",
+     "nota": "disputa pelo corpo de Moisés"
+    },
+    {
+     "ref": "apocalipse 12:7-9",
+     "nota": "batalha no céu contra o dragão"
+    }
+   ],
+   "refs": [
+    "daniel 10:13",
+    "daniel 10:21",
+    "daniel 12:1",
+    "judas 1:9",
+    "apocalipse 12:7-9"
+   ],
+   "nota": "A disputa pelo corpo de Moisés não é narrada no Antigo Testamento; autores antigos disseram que Judas a tomou de uma obra judaica hoje só parcialmente conservada. Alguns grupos cristãos (por exemplo, Testemunhas de Jeová e adventistas do sétimo dia, cada um a seu modo) identificam Miguel com Cristo; a maioria das igrejas não faz essa identificação.",
+   "fonte_extra": [
+    {
+     "fonte": "Orígenes, Sobre os Princípios",
+     "referencia": "atribui o episódio de Judas 9 a um escrito chamado 'Ascensão (ou Assunção) de Moisés'",
+     "data": "c. 220-230 d.C."
+    }
+   ]
+  },
+  {
+   "id": "gabriel",
+   "nome": "Gabriel",
+   "descricao": "O nome costuma ser explicado como 'Deus é forte' ou 'homem de Deus'. Explica a Daniel o sentido das visões; mais tarde anuncia a Zacarias o nascimento de João Batista e a Maria o nascimento de Jesus. Ele se apresenta como aquele 'que fico presente diante de Deus'. A Bíblia não o chama de arcanjo; esse título vem da tradição.",
+   "aparicoes": [
+    {
+     "ref": "daniel 8:16-17",
+     "nota": "explica a visão do carneiro e do bode"
+    },
+    {
+     "ref": "daniel 9:21-22",
+     "nota": "vem durante a oração de Daniel"
+    },
+    {
+     "ref": "lucas 1:19",
+     "nota": "apresenta-se a Zacarias"
+    },
+    {
+     "ref": "lucas 1:26-31",
+     "nota": "anuncia a Maria o nascimento de Jesus"
+    }
+   ],
+   "refs": [
+    "daniel 8:16-17",
+    "daniel 9:21-22",
+    "lucas 1:19",
+    "lucas 1:26-38"
+   ]
+  },
+  {
+   "id": "rafael",
+   "nome": "Rafael (fora do cânon protestante)",
+   "descricao": "O nome significa 'Deus cura'. Não aparece em nenhum livro do cânon protestante nem da Bíblia hebraica. Aparece no livro de Tobias, onde acompanha o jovem Tobias numa viagem, ajuda a curar a cegueira de Tobit e se apresenta como 'um dos sete anjos' que estão diante do Senhor.",
+   "aparicoes": [],
+   "refs": [],
+   "nota": "Tobias é deuterocanônico: faz parte da Bíblia católica e das Bíblias ortodoxas, mas não da Bíblia hebraica nem das Bíblias protestantes (que, quando o trazem, o colocam entre os 'apócrifos'). Por isso aqui não há referência pelo formato do site.",
+   "fonte_extra": [
+    {
+     "fonte": "Livro de Tobias (deuterocanônico, aceito por católicos e ortodoxos)",
+     "referencia": "Tobias 5 e 12, especialmente 12:15",
+     "data": "séculos III-II a.C. (aproximado)"
+    }
+   ]
+  },
+  {
+   "id": "uriel",
+   "nome": "Uriel (extracanônico)",
+   "descricao": "O nome significa 'Deus é a minha luz'. Não aparece na Bíblia de nenhuma das grandes igrejas ocidentais. Está em 1 Enoque, que o coloca entre os anjos principais, e em 2 Esdras (também chamado 4 Esdras), onde responde às perguntas do profeta.",
+   "aparicoes": [],
+   "refs": [],
+   "nota": "1 Enoque é canônico apenas na Igreja Ortodoxa Etíope; 2 Esdras não é canônico para judeus, católicos nem protestantes, embora apareça em apêndice de algumas edições da Vulgata e tenha lugar em algumas Bíblias ortodoxas orientais. Judas 1:14 cita uma profecia atribuída a Enoque, mas isso não faz de 1 Enoque um livro bíblico para a maioria das igrejas.",
+   "fonte_extra": [
+    {
+     "fonte": "1 Enoque (extracanônico)",
+     "referencia": "capítulos 9-10 e 20 (listas de anjos principais; a lista varia entre os manuscritos)",
+     "data": "séculos III a.C. a I d.C. (aproximado)"
+    },
+    {
+     "fonte": "2 Esdras ou 4 Esdras (extracanônico)",
+     "referencia": "capítulo 4, versículo 1 em diante",
+     "data": "fim do século I d.C. (aproximado)"
+    }
+   ]
+  },
+  {
+   "id": "abadom-apoliom",
+   "nome": "Abadom / Apoliom",
+   "descricao": "No Apocalipse, o 'anjo do abismo' é rei dos gafanhotos que saem do poço do abismo; seu nome em hebraico é Abadom ('destruição') e em grego Apoliom ('destruidor'). No Antigo Testamento, 'abadom' é palavra comum para o lugar da destruição, junto com o Xeol (a Bíblia Livre traduz 'perdição').",
+   "aparicoes": [
+    {
+     "ref": "apocalipse 9:11",
+     "nota": "o anjo do abismo e seus dois nomes"
+    }
+   ],
+   "refs": [
+    "apocalipse 9:1-3",
+    "apocalipse 9:11",
+    "jo 26:6",
+    "jo 28:22",
+    "proverbios 15:11"
+   ],
+   "nota": "Os intérpretes discutem se é um anjo mau (talvez o próprio Satanás), um anjo de Deus que executa o juízo, ou uma personificação da destruição. O texto não decide."
+  },
+  {
+   "id": "lucifer",
+   "nome": "Lúcifer (Isaías 14:12)",
+   "descricao": "Em Isaías 14:12 o hebraico diz hêlēl ben-shahar, 'brilhante, filho da alva', isto é, a estrela da manhã (o planeta Vênus, que brilha antes do amanhecer e some com o sol). A Bíblia Livre traduz 'ó luminoso, filho do amanhecer'. O próprio texto diz que é um canto de zombaria 'contra o rei da Babilônia': o rei que quis subir acima das estrelas de Deus é derrubado ao Xeol. 'Lúcifer' ('portador de luz') é a tradução latina dessa expressão, não um nome próprio no hebraico. No Novo Testamento, 'estrela da manhã' é até título de Cristo.",
+   "aparicoes": [
+    {
+     "ref": "isaias 14:12",
+     "nota": "'luminoso, filho do amanhecer'"
+    }
+   ],
+   "refs": [
+    "isaias 14:4",
+    "isaias 14:12-15",
+    "ezequiel 28:12-14",
+    "lucas 10:18",
+    "apocalipse 22:16",
+    "2-pedro 1:19"
+   ],
+   "interpretacao": true,
+   "leituras": [
+    "Leitura histórica: o texto fala do rei da Babilônia e usa a imagem da estrela da manhã que cai para mostrar o fim do orgulho humano.",
+    "Leitura tradicional cristã: além do rei, o texto deixaria entrever a queda de Satanás, ligando-o a Lucas 10:18 e a Ezequiel 28 (o 'querubim' no Éden, dito do rei de Tiro). Essa leitura é antiga e muito difundida, mas é interpretação: a Bíblia nunca chama Satanás de Lúcifer.",
+    "Muitos intérpretes combinam as duas: o rei é o assunto direto, e o orgulho dele espelha a rebelião espiritual."
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Vulgata, tradução latina de Jerônimo",
+     "referencia": "Isaías 14:12 traduzido por 'lucifer'",
+     "data": "fim do século IV d.C."
+    },
+    {
+     "fonte": "Orígenes, Sobre os Princípios; Tertuliano",
+     "referencia": "estão entre os primeiros a ligar Isaías 14 à queda do diabo",
+     "data": "início do século III d.C."
+    }
+   ]
+  }
+ ],
+ "caidos": [
+  {
+   "id": "satanas",
+   "nome": "Satanás (o adversário)",
+   "descricao": "Em hebraico, satan quer dizer 'adversário' ou 'acusador'; a palavra é usada até para o anjo do SENHOR que se põe 'por adversário' de Balaão. Em Jó e em Zacarias aparece com artigo ('o adversário'), entre os seres celestiais, acusando e agindo só até onde Deus permite. No Novo Testamento, Satanás é o inimigo pessoal de Deus e dos homens: tenta Jesus, entra em Judas, é derrotado por Cristo e será lançado fora. O Apocalipse o identifica com 'a serpente antiga'.",
+   "refs": [
+    "numeros 22:22",
+    "jo 1:6-12",
+    "jo 2:1",
+    "zacarias 3:1-2",
+    "1-cronicas 21:1",
+    "mateus 4:1-11",
+    "lucas 10:18",
+    "lucas 22:3",
+    "romanos 16:20",
+    "apocalipse 12:9-10",
+    "apocalipse 20:10"
+   ],
+   "nota": "A Bíblia não narra em detalhe a origem de Satanás. A ideia de um anjo que caiu por orgulho é deduzida de textos como Ezequiel 28, Isaías 14, Lucas 10:18 e Apocalipse 12; os intérpretes debatem quanto esses textos falam disso."
+  },
+  {
+   "id": "diabo",
+   "nome": "O diabo",
+   "descricao": "Do grego diabolos, 'caluniador' ou 'acusador'; a Septuaginta usou essa palavra para traduzir satan. No Novo Testamento, 'diabo' e 'Satanás' são a mesma figura. Ele é chamado homicida e pai da mentira, 'príncipe deste mundo', 'príncipe do poder do ar' e 'deus destes tempos'; também se disfarça de 'anjo de luz'. Os cristãos são chamados a resistir-lhe com firmeza, sem medo, porque Cristo veio desfazer as suas obras.",
+   "refs": [
+    "joao 8:44",
+    "joao 12:31",
+    "2-corintios 4:4",
+    "2-corintios 11:14",
+    "efesios 2:2",
+    "efesios 6:11",
+    "tiago 4:7",
+    "1-pedro 5:8",
+    "1-joao 3:8",
+    "mateus 25:41"
+   ]
+  },
+  {
+   "id": "demonios",
+   "nome": "Demônios e espíritos imundos",
+   "descricao": "Os Evangelhos falam muitas vezes de pessoas oprimidas por 'demônios', 'espíritos imundos' ou 'espíritos malignos', que Jesus expulsa com uma palavra; ele também dá esse poder aos discípulos. Os demônios reconhecem Jesus e 'creem, e estremecem'. No Antigo Testamento, Israel é acusado de sacrificar a 'demônios' ligados à idolatria. A Bíblia não ensina técnicas, nomes ou hierarquias de demônios; o destaque está na autoridade de Jesus.",
+   "refs": [
+    "deuteronomio 32:17",
+    "levitico 17:7",
+    "marcos 1:23",
+    "lucas 4:33",
+    "mateus 10:1",
+    "mateus 12:43",
+    "lucas 8:2",
+    "atos 16:18",
+    "atos 19:15",
+    "1-corintios 10:20",
+    "tiago 2:19",
+    "1-timoteo 4:1",
+    "apocalipse 16:14"
+   ],
+   "nota": "Não há consenso sobre se os demônios são os mesmos 'anjos que pecaram' ou outra categoria; a maioria da tradição cristã os identifica com os anjos caídos."
+  },
+  {
+   "id": "belzebu",
+   "nome": "Belzebu",
+   "descricao": "Os adversários de Jesus diziam que ele expulsava demônios 'por Belzebu, o chefe dos demônios'. Jesus responde que um reino dividido não subsiste e trata Belzebu como outro nome de Satanás. O nome lembra Baal-Zebube, o deus de Ecrom consultado pelo rei Acazias ('senhor das moscas', talvez uma deformação zombeteira).",
+   "refs": [
+    "2-reis 1:2",
+    "mateus 12:24-26",
+    "marcos 3:22",
+    "lucas 11:15"
+   ],
+   "nota": "Muitos manuscritos gregos trazem 'Beelzebul', e o sentido exato da segunda parte do nome ('morada'? 'príncipe'?) é discutido."
+  },
+  {
+   "id": "anjos-que-pecaram",
+   "nome": "Os anjos que pecaram",
+   "descricao": "Pedro e Judas dizem que alguns anjos pecaram, 'não guardaram sua origem' e 'deixaram sua própria habitação', e que Deus os mantém presos em escuridão até o juízo. Jesus fala do fogo eterno 'preparado para o Diabo e os seus anjos', e o Apocalipse fala do dragão e 'seus anjos'.",
+   "refs": [
+    "2-pedro 2:4",
+    "judas 1:6",
+    "mateus 25:41",
+    "apocalipse 12:7-9"
+   ],
+   "nota": "O texto não explica qual foi o pecado. Muitos estudiosos pensam que Pedro e Judas aludem à leitura de Gênesis 6 conhecida em 1 Enoque; outros entendem que falam da rebelião original dos anjos de modo geral.",
+   "fonte_extra": [
+    {
+     "fonte": "1 Enoque (extracanônico; canônico só na Igreja Ortodoxa Etíope)",
+     "referencia": "capítulos 6-10: os 'vigilantes' que se uniram a mulheres e foram aprisionados até o juízo; Judas 1:14-15 cita uma passagem semelhante a 1 Enoque 1:9",
+     "data": "séculos III-II a.C. (aproximado)"
+    }
+   ]
+  },
+  {
+   "id": "filhos-de-deus-genesis-6",
+   "nome": "Os 'filhos de Deus' de Gênesis 6",
+   "descricao": "Gênesis 6:1-4 diz que 'os filhos de Deus' tomaram 'as filhas dos homens' por mulheres, e menciona os 'gigantes' (hebraico nefilim) e os 'valentes' de renome. O texto é curto e não explica quem eram.",
+   "refs": [
+    "genesis 6:1-4",
+    "jo 1:6",
+    "2-pedro 2:4",
+    "judas 1:6",
+    "mateus 22:30"
+   ],
+   "interpretacao": true,
+   "leituras": [
+    "Anjos (seres celestiais) que se uniram a mulheres: a leitura mais antiga que conhecemos, presente em 1 Enoque e em Josefo; apoia-se no uso de 'filhos de Deus' em Jó. Objeção comum: Jesus diz que os anjos não se casam (Mt 22:30), embora ele fale dos anjos 'no céu'.",
+    "Descendentes de Sete (a linhagem fiel) que se misturaram com descendentes de Caim: leitura defendida por Júlio Africano, Agostinho e muitos protestantes; apoia-se no contexto das genealogias de Gênesis 4-5.",
+    "Reis ou nobres poderosos que tomavam mulheres à força: leitura presente em fontes judaicas antigas; apoia-se no uso de 'deuses' ou 'filhos' para governantes no antigo Oriente."
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Flávio Josefo, Antiguidades Judaicas",
+     "referencia": "livro 1, seção 73 (anjos de Deus que se uniram a mulheres)",
+     "data": "c. 93-94 d.C."
+    },
+    {
+     "fonte": "Agostinho, A Cidade de Deus",
+     "referencia": "livro XV, capítulo 23 (leitura dos descendentes de Sete)",
+     "data": "c. 420 d.C."
+    },
+    {
+     "fonte": "Gênesis Rabá (comentário rabínico)",
+     "referencia": "seção 26 ('filhos de Deus' como filhos de juízes ou nobres)",
+     "data": "séculos IV-V d.C. (aproximado)"
+    }
+   ]
+  },
+  {
+   "id": "principe-da-persia",
+   "nome": "O príncipe da Pérsia",
+   "descricao": "Em Daniel 10, o mensageiro celestial diz que 'o príncipe do reino da Pérsia' o impediu por vinte e um dias, até que Miguel veio ajudar, e que depois virá 'o príncipe da Grécia'. O texto sugere que há conflitos espirituais ligados às nações, mas não dá detalhes.",
+   "refs": [
+    "daniel 10:12-13",
+    "daniel 10:20-21",
+    "efesios 6:12"
+   ],
+   "nota": "A maioria entende que se trata de um poder espiritual hostil ligado ao império persa; alguns pensam no próprio rei humano ou nas forças políticas. A passagem não oferece base para mapear 'demônios territoriais'; seu objetivo é mostrar que Deus responde à oração e governa a história."
+  },
+  {
+   "id": "legiao",
+   "nome": "Legião",
+   "descricao": "Na região dos gadarenos (ou gerasenos), um homem dominado por espíritos imundos responde a Jesus: 'Legião é o meu nome, porque somos muitos'. Os espíritos pedem para não ir ao abismo e entram numa manada de porcos, que se precipita no mar; o homem fica livre e em perfeito juízo.",
+   "refs": [
+    "marcos 5:9",
+    "marcos 5:13",
+    "lucas 8:30-31",
+    "mateus 8:28"
+   ],
+   "nota": "'Legião' era o nome da maior unidade do exército romano; o termo indica um número muito grande, e não precisa ser lido como contagem exata. Mateus menciona dois homens; Marcos e Lucas destacam um.",
+   "fonte_extra": [
+    {
+     "fonte": "História militar romana (descrições do exército imperial)",
+     "referencia": "uma legião tinha por volta de 5.000 a 6.000 soldados no século I",
+     "data": "século I d.C. (aproximado)"
+    }
+   ]
+  }
+ ],
+ "aparicoes": [
+  {
+   "id": "agar",
+   "titulo": "O anjo encontra Agar no deserto",
+   "ref": "genesis 16:7-13",
+   "resumo": "Grávida e fugindo de Sarai, Agar é achada pelo anjo do SENHOR junto a uma fonte. Ele a manda voltar, promete muitos descendentes e dá o nome do filho: Ismael, 'Deus ouve'. Agar chama quem lhe falou de 'Deus da vista'. Anos depois, o anjo de Deus volta a falar com ela no deserto e salva o menino.",
+   "refs": [
+    "genesis 16:7-13",
+    "genesis 21:17"
+   ]
+  },
+  {
+   "id": "tres-visitantes",
+   "titulo": "Os três visitantes de Abraão",
+   "ref": "genesis 18:1-2",
+   "resumo": "Junto aos carvalhos de Manre, Abraão recebe três homens com hospitalidade. O texto diz que 'o SENHOR' apareceu a ele, e um dos visitantes fala como o próprio Deus, prometendo o filho Isaque. Dois deles seguem para Sodoma e são chamados de anjos.",
+   "refs": [
+    "genesis 18:1-2",
+    "genesis 18:22",
+    "genesis 19:1",
+    "hebreus 13:2"
+   ],
+   "nota": "Muitos cristãos veem aqui o SENHOR acompanhado de dois anjos; outros, uma prefiguração da Trindade. O texto não explica."
+  },
+  {
+   "id": "sodoma",
+   "titulo": "Os anjos tiram Ló de Sodoma",
+   "ref": "genesis 19:1-16",
+   "resumo": "Os dois anjos chegam a Sodoma com aparência de homens e são acolhidos por Ló. Avisam que a cidade será destruída e, como Ló demora, pegam pela mão a ele, à mulher e às filhas e os levam para fora, 'segundo a misericórdia do SENHOR'.",
+   "refs": [
+    "genesis 19:1",
+    "genesis 19:12-16"
+   ]
+  },
+  {
+   "id": "moria",
+   "titulo": "O anjo detém Abraão no monte Moriá",
+   "ref": "genesis 22:11-15",
+   "resumo": "Quando Abraão está para sacrificar Isaque, o anjo do SENHOR o chama do céu e o impede. Abraão vê um carneiro preso pelos chifres e o oferece no lugar do filho; o lugar recebe o nome 'O SENHOR proverá'.",
+   "refs": [
+    "genesis 22:11-15"
+   ]
+  },
+  {
+   "id": "escada-de-jaco",
+   "titulo": "A escada de Jacó",
+   "ref": "genesis 28:12",
+   "resumo": "Fugindo de Esaú, Jacó sonha com uma escada que liga a terra ao céu, com anjos de Deus subindo e descendo, e ouve a promessa de Deus. Jesus retoma a imagem ao dizer a Natanael que os anjos subirão e descerão 'sobre o Filho do homem'.",
+   "refs": [
+    "genesis 28:12",
+    "joao 1:51"
+   ]
+  },
+  {
+   "id": "maanaim",
+   "titulo": "O acampamento de Deus em Maanaim",
+   "ref": "genesis 32:1-2",
+   "resumo": "Voltando para Canaã, Jacó encontra anjos de Deus e chama o lugar de Maanaim, 'dois acampamentos': o seu e o acampamento de Deus.",
+   "refs": [
+    "genesis 32:1-2"
+   ]
+  },
+  {
+   "id": "luta-de-jaco",
+   "titulo": "Jacó luta com um homem até o amanhecer",
+   "ref": "genesis 32:24-30",
+   "resumo": "Sozinho à noite, Jacó luta com 'um homem' que lhe desloca a coxa, muda seu nome para Israel e o abençoa. Jacó chama o lugar de Peniel, 'porque vi a Deus face a face'. O profeta Oseias diz que ele 'lutou com o anjo'.",
+   "refs": [
+    "genesis 32:24-30",
+    "oseias 12:3-4"
+   ]
+  },
+  {
+   "id": "sarca",
+   "titulo": "A sarça ardente",
+   "ref": "exodo 3:2-6",
+   "resumo": "O anjo do SENHOR aparece a Moisés numa chama no meio de uma sarça que não se consome, e logo é Deus quem fala do meio dela e se apresenta como o Deus de Abraão, Isaque e Jacó. Moisés cobre o rosto com medo de olhar para Deus.",
+   "refs": [
+    "exodo 3:2-6"
+   ]
+  },
+  {
+   "id": "anjo-do-exodo",
+   "titulo": "O anjo e a coluna de nuvem no Êxodo",
+   "ref": "exodo 14:19",
+   "resumo": "Junto ao mar, o anjo de Deus que ia à frente de Israel passa para trás do povo, com a coluna de nuvem, separando-o dos egípcios. Deus promete enviar o seu anjo para guardar o povo no caminho, dizendo: 'meu nome está nele'.",
+   "refs": [
+    "exodo 14:19",
+    "exodo 23:20-21",
+    "exodo 32:34",
+    "isaias 63:9"
+   ]
+  },
+  {
+   "id": "balaao",
+   "titulo": "Balaão e a jumenta",
+   "ref": "numeros 22:22-35",
+   "resumo": "O anjo do SENHOR se põe no caminho de Balaão 'por adversário', com uma espada. A jumenta o vê e se desvia três vezes; Balaão só o vê quando Deus lhe abre os olhos, e recebe ordem de falar apenas o que Deus mandar.",
+   "refs": [
+    "numeros 22:22-23",
+    "numeros 22:31-32"
+   ]
+  },
+  {
+   "id": "josue",
+   "titulo": "Josué e o Príncipe do exército do SENHOR",
+   "ref": "josue 5:13-15",
+   "resumo": "Perto de Jericó, Josué vê um homem com uma espada e pergunta de que lado ele está. A resposta é: 'Não; mas sim Príncipe do exército do SENHOR'. Josué se prostra, e recebe ordem de tirar as sandálias, como Moisés na sarça.",
+   "refs": [
+    "josue 5:13-15"
+   ],
+   "nota": "Uns leem como um anjo principal; outros, como manifestação de Deus, porque Josué o adora e não é repreendido."
+  },
+  {
+   "id": "boquim",
+   "titulo": "O anjo em Boquim",
+   "ref": "juizes 2:1",
+   "resumo": "O anjo do SENHOR sobe de Gilgal a Boquim e fala em nome de Deus: lembra a libertação do Egito e repreende o povo por ter feito acordos com os habitantes da terra. O povo chora, e o lugar recebe o nome Boquim ('os que choram').",
+   "refs": [
+    "juizes 2:1"
+   ]
+  },
+  {
+   "id": "gideao",
+   "titulo": "O chamado de Gideão",
+   "ref": "juizes 6:11-22",
+   "resumo": "O anjo do SENHOR se senta debaixo de um carvalho em Ofra e chama Gideão, que malhava trigo escondido, de 'homem esforçado'. Gideão pede um sinal; o fogo consome a oferta e o anjo desaparece. Gideão teme por ter visto 'o anjo do SENHOR face a face'.",
+   "refs": [
+    "juizes 6:11-12",
+    "juizes 6:22"
+   ]
+  },
+  {
+   "id": "manoa",
+   "titulo": "O anúncio do nascimento de Sansão",
+   "ref": "juizes 13:3-22",
+   "resumo": "O anjo do SENHOR anuncia à mulher estéril de Manoá que ela terá um filho consagrado a Deus. Perguntado pelo nome, responde que é 'oculto' (ou 'maravilhoso'); depois sobe na chama do altar. Manoá diz: 'Certamente morreremos, porque vimos a Deus'.",
+   "refs": [
+    "juizes 13:3",
+    "juizes 13:18-22"
+   ]
+  },
+  {
+   "id": "davi-peste",
+   "titulo": "O anjo da peste em Jerusalém",
+   "ref": "2-samuel 24:16-17",
+   "resumo": "Depois do censo ordenado por Davi, uma peste atinge Israel. Quando o anjo estende a mão sobre Jerusalém, Deus o detém. Davi vê o anjo com a espada entre o céu e a terra, assume a culpa e oferece sacrifício no lugar onde depois se construiu o templo.",
+   "refs": [
+    "2-samuel 24:16-17",
+    "1-cronicas 21:15-16"
+   ]
+  },
+  {
+   "id": "elias",
+   "titulo": "O anjo alimenta Elias",
+   "ref": "1-reis 19:5-7",
+   "resumo": "Exausto e com vontade de morrer, Elias dorme debaixo de um arbusto no deserto. Um anjo o toca duas vezes, dá pão e água e diz: 'Levanta-te, come: porque grande caminho te resta'.",
+   "refs": [
+    "1-reis 19:5-7"
+   ]
+  },
+  {
+   "id": "micaias",
+   "titulo": "A visão do trono de Micaías",
+   "ref": "1-reis 22:19-22",
+   "resumo": "O profeta Micaías conta ter visto o SENHOR no trono com todo o exército dos céus ao seu lado, e um espírito que se oferece para enganar os profetas do rei Acabe. A cena mostra Deus como rei soberano até sobre o engano dos falsos profetas.",
+   "refs": [
+    "1-reis 22:19-22"
+   ],
+   "nota": "A natureza desse 'espírito de mentira' é discutida; o texto é uma visão profética e não descreve em detalhe o mundo espiritual."
+  },
+  {
+   "id": "eliseu-dota",
+   "titulo": "Eliseu e os carros de fogo em Dotã",
+   "ref": "2-reis 6:16-17",
+   "resumo": "Cercado pelo exército arameu, o servo de Eliseu se apavora. O profeta ora para que Deus abra os olhos do jovem, que então vê o monte cheio de cavalos e carros de fogo ao redor de Eliseu: 'mais são os que estão conosco do que os que estão com eles'.",
+   "refs": [
+    "2-reis 6:16-17",
+    "2-reis 2:11"
+   ],
+   "nota": "Antes, Elias tinha sido levado ao céu depois de um carro de fogo com cavalos de fogo separá-lo de Eliseu; o texto não os chama de anjos."
+  },
+  {
+   "id": "ezequias",
+   "titulo": "O anjo e o exército assírio",
+   "ref": "2-reis 19:35",
+   "resumo": "Quando o rei assírio Senaqueribe ameaça Jerusalém no tempo de Ezequias, o anjo do SENHOR fere de noite o acampamento assírio, e o rei volta envergonhado para a sua terra.",
+   "refs": [
+    "2-reis 19:35",
+    "2-cronicas 32:21",
+    "isaias 37:36"
+   ],
+   "nota": "A Bíblia Livre traz números diferentes em 2 Reis 19:35 (185 mil) e Isaías 37:36 (180 mil). A campanha também aparece nos registros assírios, que falam do cerco a Jerusalém mas não narram uma derrota.",
+   "ano": -701,
+   "nota_cronologia": "Ano de 701 a.C. para a campanha de Senaqueribe, aceito pela maioria dos estudiosos; a data do reinado de Ezequias varia entre cronologias (início em c. 727 ou c. 715 a.C.).",
+   "fonte_extra": [
+    {
+     "fonte": "Anais de Senaqueribe (inscrições assírias em prismas de argila, como o Prisma de Taylor)",
+     "referencia": "relato da campanha contra Judá: Ezequias 'preso em Jerusalém como um pássaro na gaiola'",
+     "data": "c. 690 a.C. (redação); campanha de 701 a.C."
+    }
+   ]
+  },
+  {
+   "id": "isaias-6",
+   "titulo": "Isaías vê os serafins",
+   "ref": "isaias 6:1-7",
+   "resumo": "No ano da morte do rei Uzias, Isaías vê o Senhor num trono alto e serafins de seis asas clamando 'Santo, Santo, Santo'. Diante da santidade de Deus, Isaías reconhece seu pecado; um serafim toca seus lábios com uma brasa, e ele é enviado como profeta.",
+   "refs": [
+    "isaias 6:1-7"
+   ]
+  },
+  {
+   "id": "ezequiel-1",
+   "titulo": "Os seres viventes junto ao rio Quebar",
+   "ref": "ezequiel 1:5-16",
+   "resumo": "No exílio, Ezequiel vê quatro seres com quatro rostos e quatro asas, brilhando como brasas, acompanhados de rodas que se movem em qualquer direção. Acima deles está a glória do SENHOR num trono.",
+   "refs": [
+    "ezequiel 1:1",
+    "ezequiel 1:5-10",
+    "ezequiel 1:13",
+    "ezequiel 1:15-16"
+   ]
+  },
+  {
+   "id": "ezequiel-10",
+   "titulo": "Os querubins e a glória que deixa o templo",
+   "ref": "ezequiel 10:1-5",
+   "resumo": "Em nova visão, Ezequiel reconhece os mesmos seres como querubins. A glória do SENHOR se levanta de cima deles e se afasta do templo de Jerusalém, sinal do juízo que viria sobre a cidade.",
+   "refs": [
+    "ezequiel 10:1-5",
+    "ezequiel 10:14-15",
+    "ezequiel 10:20"
+   ]
+  },
+  {
+   "id": "fornalha",
+   "titulo": "O quarto homem na fornalha",
+   "ref": "daniel 3:25-28",
+   "resumo": "Sadraque, Mesaque e Abednego são lançados na fornalha por não adorarem a estátua. Nabucodonosor vê quatro homens andando soltos no fogo e depois bendiz ao Deus deles, 'que enviou seu anjo, e livrou seus servos'.",
+   "refs": [
+    "daniel 3:25",
+    "daniel 3:28"
+   ],
+   "nota": "Alguns cristãos veem no quarto homem uma aparição de Cristo; o próprio texto fala do 'anjo' enviado por Deus."
+  },
+  {
+   "id": "cova-dos-leoes",
+   "titulo": "Daniel na cova dos leões",
+   "ref": "daniel 6:22",
+   "resumo": "Daniel passa a noite na cova por ter continuado a orar a Deus. Pela manhã diz ao rei Dario: 'Meu Deus enviou seu anjo, que fechou a boca dos leões'.",
+   "refs": [
+    "daniel 6:22"
+   ]
+  },
+  {
+   "id": "gabriel-daniel",
+   "titulo": "Gabriel explica as visões a Daniel",
+   "ref": "daniel 8:16-17",
+   "resumo": "Depois da visão do carneiro e do bode, uma voz manda Gabriel explicar a visão a Daniel, que cai com o rosto em terra. Mais tarde, enquanto Daniel ora, Gabriel volta para lhe dar entendimento sobre as setenta semanas.",
+   "refs": [
+    "daniel 8:16-17",
+    "daniel 9:21-22"
+   ]
+  },
+  {
+   "id": "homem-de-linho",
+   "titulo": "O homem vestido de linho e o príncipe da Pérsia",
+   "ref": "daniel 10:5-6",
+   "resumo": "Às margens do rio, Daniel vê um homem vestido de linho, com rosto como relâmpago e olhos como tochas. Ele explica que foi enviado desde o primeiro dia da oração de Daniel, mas o príncipe da Pérsia o reteve, até Miguel vir ajudá-lo.",
+   "refs": [
+    "daniel 10:5-6",
+    "daniel 10:12-13",
+    "daniel 10:20-21",
+    "daniel 12:1"
+   ]
+  },
+  {
+   "id": "zacarias-profeta",
+   "titulo": "As visões noturnas de Zacarias",
+   "ref": "zacarias 1:8-12",
+   "resumo": "O profeta vê um homem montado num cavalo entre murtas e cavaleiros que percorreram a terra. Um anjo explica as visões, e o anjo do SENHOR intercede por Jerusalém. Noutra visão, Satanás acusa o sumo sacerdote Josué e é repreendido pelo SENHOR.",
+   "refs": [
+    "zacarias 1:8-12",
+    "zacarias 3:1-2",
+    "zacarias 4:1"
+   ]
+  },
+  {
+   "id": "jose-sonhos",
+   "titulo": "O anjo fala a José em sonhos",
+   "ref": "mateus 1:20",
+   "resumo": "Um anjo do Senhor aparece em sonho a José: diz que receba Maria, porque o filho dela vem do Espírito Santo; depois manda fugir para o Egito por causa de Herodes, e mais tarde avisa que já pode voltar.",
+   "refs": [
+    "mateus 1:20",
+    "mateus 2:13",
+    "mateus 2:19"
+   ]
+  },
+  {
+   "id": "zacarias-sacerdote",
+   "titulo": "Gabriel anuncia o nascimento de João Batista",
+   "ref": "lucas 1:11-20",
+   "resumo": "Enquanto oferece incenso no templo, o sacerdote Zacarias vê um anjo à direita do altar, que anuncia que Isabel terá um filho, João. Zacarias duvida, e o anjo, que se apresenta como Gabriel, diz que ele ficará mudo até o nascimento.",
+   "refs": [
+    "lucas 1:11-13",
+    "lucas 1:19-20"
+   ]
+  },
+  {
+   "id": "maria",
+   "titulo": "Gabriel anuncia a Maria o nascimento de Jesus",
+   "ref": "lucas 1:26-38",
+   "resumo": "Em Nazaré, o anjo Gabriel saúda Maria e anuncia que ela conceberá e dará à luz Jesus, pelo poder do Espírito Santo. Maria pergunta como isso será e termina dizendo: 'Eis aqui a serva do Senhor'.",
+   "refs": [
+    "lucas 1:26-31",
+    "lucas 1:34-35",
+    "lucas 1:38"
+   ]
+  },
+  {
+   "id": "pastores",
+   "titulo": "Os anjos e os pastores de Belém",
+   "ref": "lucas 2:9-14",
+   "resumo": "De noite, um anjo do Senhor aparece aos pastores e anuncia o nascimento do Salvador na cidade de Davi. Uma multidão de exércitos celestiais se junta a ele, louvando: 'Glória nas alturas a Deus, paz na terra'.",
+   "refs": [
+    "lucas 2:9-14"
+   ]
+  },
+  {
+   "id": "tentacao",
+   "titulo": "Os anjos servem Jesus depois da tentação",
+   "ref": "mateus 4:11",
+   "resumo": "Depois de quarenta dias no deserto e das três tentações do diabo, que chegou a citar o Salmo 91 sobre os anjos, Jesus o manda embora; então chegam anjos e o servem.",
+   "refs": [
+    "mateus 4:5-6",
+    "mateus 4:11",
+    "marcos 1:13"
+   ]
+  },
+  {
+   "id": "getsemani",
+   "titulo": "Um anjo fortalece Jesus no Getsêmani",
+   "ref": "lucas 22:43",
+   "resumo": "Enquanto Jesus ora em angústia no monte das Oliveiras, aparece um anjo do céu que o fortalece. Pouco depois, na prisão, Jesus diz que poderia pedir mais de doze legiões de anjos, mas não o faz.",
+   "refs": [
+    "lucas 22:43-44",
+    "mateus 26:53"
+   ],
+   "nota": "Lucas 22:43-44 falta em alguns manuscritos antigos, e por isso algumas Bíblias o põem entre colchetes."
+  },
+  {
+   "id": "tumulo",
+   "titulo": "Os anjos no túmulo vazio",
+   "ref": "mateus 28:2-7",
+   "resumo": "Na manhã da ressurreição, um anjo remove a pedra e se senta sobre ela, com aparência de relâmpago; os guardas ficam como mortos. Às mulheres ele diz: 'Não vos atemorizeis... ele ressuscitou'. Os Evangelhos descrevem a cena de modos complementares: um jovem vestido de branco, dois homens com roupas luminosas, dois anjos sentados onde estivera o corpo.",
+   "refs": [
+    "mateus 28:2-7",
+    "marcos 16:5-6",
+    "lucas 24:4",
+    "lucas 24:23",
+    "joao 20:12-13"
+   ]
+  },
+  {
+   "id": "ascensao",
+   "titulo": "Dois homens de branco na ascensão",
+   "ref": "atos 1:10-11",
+   "resumo": "Enquanto os discípulos olham Jesus subir ao céu, dois homens de roupas brancas lhes perguntam por que estão olhando para o céu e anunciam que Jesus voltará do mesmo modo.",
+   "refs": [
+    "atos 1:10-11"
+   ]
+  },
+  {
+   "id": "apostolos-soltos",
+   "titulo": "O anjo abre a prisão dos apóstolos",
+   "ref": "atos 5:19-20",
+   "resumo": "Presos pelas autoridades do templo, os apóstolos são soltos de noite por um anjo do Senhor, que os manda voltar ao templo e anunciar 'todas as palavras desta vida'.",
+   "refs": [
+    "atos 5:19-20"
+   ]
+  },
+  {
+   "id": "filipe",
+   "titulo": "O anjo envia Filipe ao caminho de Gaza",
+   "ref": "atos 8:26",
+   "resumo": "Um anjo do Senhor manda Filipe ir ao caminho deserto que desce de Jerusalém a Gaza, onde ele encontra o eunuco etíope, explica as Escrituras e o batiza.",
+   "refs": [
+    "atos 8:26"
+   ]
+  },
+  {
+   "id": "cornelio",
+   "titulo": "O anjo aparece a Cornélio",
+   "ref": "atos 10:3-4",
+   "resumo": "O centurião romano Cornélio, temente a Deus, vê em visão um anjo que lhe diz que suas orações e esmolas foram lembradas por Deus e manda chamar Pedro. O anjo não prega o evangelho: envia Cornélio a quem o anunciará.",
+   "refs": [
+    "atos 10:3-4"
+   ]
+  },
+  {
+   "id": "pedro-prisao",
+   "titulo": "O anjo liberta Pedro da prisão",
+   "ref": "atos 12:7-10",
+   "resumo": "Na noite antes do julgamento, um anjo do Senhor desperta Pedro, as correntes caem e as portas se abrem. Pedro pensa estar tendo uma visão até se ver na rua. Na casa de Maria, os discípulos, sem acreditar, dizem: 'É o anjo dele'.",
+   "refs": [
+    "atos 12:7-11",
+    "atos 12:15"
+   ]
+  },
+  {
+   "id": "herodes",
+   "titulo": "Herodes é ferido por um anjo",
+   "ref": "atos 12:23",
+   "resumo": "Em Cesareia, Herodes Agripa aceita ser aclamado como um deus. No mesmo instante um anjo do Senhor o fere, 'porque ele não deu a glória a Deus', e ele morre comido por vermes.",
+   "refs": [
+    "atos 12:23"
+   ],
+   "nota": "O historiador Flávio Josefo também narra a morte súbita de Agripa I em Cesareia, depois de ser aclamado como divino.",
+   "ano": 44,
+   "fonte_extra": [
+    {
+     "fonte": "Flávio Josefo, Antiguidades Judaicas",
+     "referencia": "livro 19, seções 343-350",
+     "data": "c. 93-94 d.C."
+    }
+   ]
+  },
+  {
+   "id": "naufragio",
+   "titulo": "O anjo anima Paulo antes do naufrágio",
+   "ref": "atos 27:23-24",
+   "resumo": "Durante uma tempestade de vários dias, Paulo conta aos que estão no navio que um anjo de Deus lhe apareceu à noite e disse: 'Não temas, Paulo', prometendo que todos sobreviveriam.",
+   "refs": [
+    "atos 27:23-24"
+   ]
+  },
+  {
+   "id": "apocalipse-trono",
+   "titulo": "Os anjos ao redor do trono no Apocalipse",
+   "ref": "apocalipse 5:11-12",
+   "resumo": "João vê miríades de anjos, os quatro seres viventes e os anciãos ao redor do trono, louvando o Cordeiro que foi morto. Em todo o livro, anjos tocam trombetas, anunciam o evangelho eterno e executam juízos.",
+   "refs": [
+    "apocalipse 4:6-8",
+    "apocalipse 5:2",
+    "apocalipse 5:11-12",
+    "apocalipse 8:2",
+    "apocalipse 14:6"
+   ]
+  },
+  {
+   "id": "guerra-no-ceu",
+   "titulo": "Miguel e o dragão",
+   "ref": "apocalipse 12:7-9",
+   "resumo": "Numa visão cheia de símbolos, Miguel e seus anjos lutam contra o dragão, 'a serpente antiga, chamada o diabo e Satanás', que é lançado na terra com seus anjos. Uma voz celebra que o acusador foi derrubado.",
+   "refs": [
+    "apocalipse 12:7-10",
+    "apocalipse 20:1-3"
+   ]
+  },
+  {
+   "id": "joao-adora-anjo",
+   "titulo": "João tenta adorar o anjo",
+   "ref": "apocalipse 19:10",
+   "resumo": "Duas vezes João se prostra para adorar o anjo que lhe mostrava as visões, e duas vezes ouve: 'Não faças isso! Eu também sou companheiro de serviço teu... Adora a Deus'.",
+   "refs": [
+    "apocalipse 19:10",
+    "apocalipse 22:8-9"
+   ]
+  }
+ ],
+ "o_que_ensinam": [
+  {
+   "id": "licao-servos",
+   "texto": "Os anjos são criaturas e servos de Deus, enviados para ajudar os que herdarão a salvação; não agem por conta própria.",
+   "refs": [
+    "hebreus 1:14",
+    "salmos 103:20-21",
+    "colossenses 1:16"
+   ]
+  },
+  {
+   "id": "licao-nao-adorar",
+   "texto": "Anjos não devem ser adorados nem cultuados: o próprio anjo do Apocalipse recusa a adoração e manda adorar a Deus, e Paulo adverte contra o 'culto aos anjos'.",
+   "refs": [
+    "apocalipse 19:10",
+    "apocalipse 22:8-9",
+    "colossenses 2:18",
+    "mateus 4:10"
+   ]
+  },
+  {
+   "id": "licao-cristo-superior",
+   "texto": "Cristo é superior aos anjos: eles o adoram, estão sob o seu comando e foram criados por ele e para ele.",
+   "refs": [
+    "hebreus 1:4-6",
+    "1-pedro 3:22",
+    "colossenses 1:16",
+    "efesios 1:21"
+   ]
+  },
+  {
+   "id": "licao-mensagem",
+   "texto": "A mensagem importa mais que o mensageiro: nem um anjo do céu tem autoridade para anunciar outro evangelho.",
+   "refs": [
+    "galatas 1:8",
+    "2-corintios 11:14",
+    "1-joao 4:1"
+   ]
+  },
+  {
+   "id": "licao-protecao",
+   "texto": "Deus cuida do seu povo, inclusive por meio dos anjos, muitas vezes sem que as pessoas percebam.",
+   "refs": [
+    "salmos 34:7",
+    "salmos 91:11-12",
+    "2-reis 6:16-17",
+    "hebreus 13:2"
+   ]
+  },
+  {
+   "id": "licao-alegria",
+   "texto": "Os anjos louvam a Deus e se alegram com a salvação das pessoas: há alegria diante deles por um pecador que se arrepende.",
+   "refs": [
+    "lucas 15:10",
+    "lucas 2:13-14",
+    "isaias 6:3",
+    "apocalipse 5:11-12"
+   ]
+  },
+  {
+   "id": "licao-limites",
+   "texto": "Os anjos são limitados: não sabem o dia da volta de Cristo e desejam compreender o evangelho que foi anunciado aos homens.",
+   "refs": [
+    "mateus 24:36",
+    "1-pedro 1:12",
+    "efesios 3:10"
+   ]
+  },
+  {
+   "id": "licao-mal-vencido",
+   "texto": "O mal espiritual é real, mas não é um poder igual a Deus: Cristo venceu os poderes hostis, e o cristão é chamado a resistir com firmeza, sem medo e sem fascínio.",
+   "refs": [
+    "colossenses 2:15",
+    "1-joao 3:8",
+    "tiago 4:7",
+    "efesios 6:11-12",
+    "romanos 16:20"
+   ]
+  },
+  {
+   "id": "licao-juizo",
+   "texto": "Os anjos acompanharão a volta de Cristo e participarão do juízo final, quando o mal será definitivamente removido.",
+   "refs": [
+    "mateus 13:41",
+    "mateus 25:31",
+    "2-tessalonicenses 1:7",
+    "apocalipse 20:10"
+   ]
+  },
+  {
+   "id": "licao-humildade",
+   "texto": "Até os anjos mais poderosos agem com humildade: Miguel não insulta o diabo, mas deixa o juízo a Deus.",
+   "refs": [
+    "judas 1:9",
+    "2-pedro 2:11"
+   ]
+  }
+ ],
+ "mitos": [
+  {
+   "id": "mito-pessoas-viram-anjos",
+   "afirmacao": "Pessoas viram anjos quando morrem.",
+   "o_que_a_biblia_diz": "A Bíblia distingue sempre anjos e seres humanos. Jesus diz que na ressurreição seremos 'como os anjos' quanto ao casamento, não que nos tornaremos anjos. Hebreus menciona lado a lado os 'muitos milhares de anjos' e os 'espíritos dos justos', e Paulo diz que os cristãos julgarão anjos. A ideia de que um parente falecido 'virou anjo' vem da cultura popular.",
+   "refs": [
+    "mateus 22:30",
+    "lucas 20:36",
+    "hebreus 12:22-23",
+    "1-corintios 6:3",
+    "hebreus 2:16",
+    "salmos 8:5"
+   ]
+  },
+  {
+   "id": "mito-todos-tem-asas",
+   "afirmacao": "Todos os anjos têm asas.",
+   "o_que_a_biblia_diz": "Querubins, serafins e os seres viventes têm asas, e há anjos que 'voam' nas visões. Mas muitos anjos aparecem simplesmente como homens, a ponto de serem recebidos como hóspedes sem que se perceba quem eram. As asas em todos os anjos são uma convenção da arte cristã.",
+   "refs": [
+    "isaias 6:2",
+    "ezequiel 1:6",
+    "apocalipse 14:6",
+    "genesis 18:2",
+    "genesis 19:1",
+    "hebreus 13:2",
+    "marcos 16:5"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "História da arte cristã",
+     "referencia": "a representação de anjos com asas se generaliza na arte cristã a partir do século IV, inspirada em parte em figuras aladas da arte greco-romana",
+     "data": "séc. IV d.C. em diante (aproximado)"
+    }
+   ]
+  },
+  {
+   "id": "mito-anjos-criancas-mulheres",
+   "afirmacao": "Anjos são bebês gordinhos ou mulheres delicadas.",
+   "o_que_a_biblia_diz": "Quando a Bíblia descreve a aparência humana dos anjos, fala de 'homens', 'um rapaz' ou 'dois homens' com roupas brilhantes; com frequência eles causam medo e começam dizendo 'Não temas'. Os querubins bíblicos são seres imponentes que guardam o santo, não crianças. As duas figuras femininas com asas em Zacarias 5:9 fazem parte de uma visão simbólica e não são chamadas de anjos.",
+   "refs": [
+    "genesis 18:2",
+    "marcos 16:5",
+    "lucas 24:4",
+    "lucas 1:12-13",
+    "mateus 28:3-5",
+    "genesis 3:24",
+    "zacarias 5:9"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "História da arte: os putti (meninos alados) do Renascimento e do Barroco, inspirados nos cupidos da arte romana",
+     "referencia": "o nome popular 'querubim' para esses bebês alados vem da arte, não do texto bíblico",
+     "data": "séculos XV-XVIII d.C."
+    }
+   ]
+  },
+  {
+   "id": "mito-nome-anjo-da-guarda",
+   "afirmacao": "Cada pessoa pode descobrir o nome do seu anjo da guarda.",
+   "o_que_a_biblia_diz": "A Bíblia não dá nome a nenhum anjo da guarda. Quando Jacó e Manoá perguntam o nome do ser celestial, recebem uma recusa. Só dois anjos têm nome nos livros aceitos por todas as igrejas (Miguel e Gabriel). Listas de nomes de anjos e métodos para descobri-los vêm de tradições esotéricas, e a própria Igreja Católica desaconselha atribuir aos anjos nomes que não estejam nas Escrituras.",
+   "refs": [
+    "genesis 32:29",
+    "juizes 13:18",
+    "mateus 18:10",
+    "colossenses 2:18"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Congregação para o Culto Divino (Santa Sé), Diretório sobre a Piedade Popular e a Liturgia",
+     "referencia": "parágrafo 217 (desaconselha dar aos anjos nomes particulares, exceto Miguel, Gabriel e Rafael)",
+     "data": "2001"
+    }
+   ]
+  },
+  {
+   "id": "mito-sete-arcanjos",
+   "afirmacao": "A Bíblia ensina que existem sete (ou três, ou quatro) arcanjos.",
+   "o_que_a_biblia_diz": "A palavra 'arcanjo' aparece só duas vezes, e o único arcanjo nomeado é Miguel. Daniel diz que ele é 'um dos principais chefes', sem dar número. O Apocalipse fala de 'sete anjos que estavam diante de Deus', mas não os chama de arcanjos nem lhes dá nomes. A lista de sete arcanjos vem de Tobias (deuterocanônico, aceito por católicos e ortodoxos) e de 1 Enoque; a tradição católica celebra três (Miguel, Gabriel e Rafael) e a ortodoxa costuma venerar sete ou mais.",
+   "refs": [
+    "1-tessalonicenses 4:16",
+    "judas 1:9",
+    "daniel 10:13",
+    "apocalipse 8:2"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Livro de Tobias (deuterocanônico)",
+     "referencia": "Tobias 12:15, 'um dos sete anjos'",
+     "data": "séc. III-II a.C. (aproximado)"
+    },
+    {
+     "fonte": "1 Enoque (extracanônico)",
+     "referencia": "capítulo 20 (lista de anjos principais; o número varia entre os manuscritos)",
+     "data": "séc. III-I a.C. (aproximado)"
+    }
+   ]
+  },
+  {
+   "id": "mito-anjos-sabem-tudo",
+   "afirmacao": "Os anjos sabem tudo e podem tudo.",
+   "o_que_a_biblia_diz": "Jesus diz que nem os anjos do céu sabem o dia e a hora da sua volta. Pedro diz que eles 'desejam' entender as coisas do evangelho, e Paulo diz que a sabedoria de Deus é mostrada a eles por meio da igreja. Um mensageiro de Daniel foi retido por vinte e um dias. Os anjos são poderosos, mas são criaturas limitadas que dependem de Deus.",
+   "refs": [
+    "mateus 24:36",
+    "marcos 13:32",
+    "1-pedro 1:12",
+    "efesios 3:10",
+    "daniel 10:13",
+    "jo 4:18"
+   ]
+  },
+  {
+   "id": "mito-lucifer-nome-biblico",
+   "afirmacao": "A Bíblia diz que o nome de Satanás antes da queda era Lúcifer.",
+   "o_que_a_biblia_diz": "'Lúcifer' é a tradução latina de 'estrela da manhã, filho da alva' em Isaías 14:12, um texto dirigido ao rei da Babilônia. Ligar essa passagem a Satanás é uma interpretação tradicional, não algo que a Bíblia afirme. A expressão 'estrela da manhã' chega a ser usada por Jesus a respeito de si mesmo.",
+   "refs": [
+    "isaias 14:4",
+    "isaias 14:12",
+    "apocalipse 22:16",
+    "apocalipse 2:28"
+   ]
+  },
+  {
+   "id": "mito-diabo-rei-do-inferno",
+   "afirmacao": "O diabo é o rei do inferno e governa lá os condenados.",
+   "o_que_a_biblia_diz": "A Bíblia diz o contrário: o fogo eterno foi 'preparado para o Diabo e os seus anjos' como castigo, e no fim o diabo é lançado no lago de fogo. Ele é um inimigo derrotado, não um soberano rival de Deus.",
+   "refs": [
+    "mateus 25:41",
+    "apocalipse 20:10",
+    "colossenses 2:15",
+    "apocalipse 12:9"
+   ]
+  }
+ ]
+}

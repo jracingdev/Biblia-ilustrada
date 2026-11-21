@@ -1,0 +1,75 @@
+{
+ "livro": "judas",
+ "nome": "Judas",
+ "subtitulo": "Batalhar pela fé e permanecer no amor de Deus",
+ "introducao": "Judas escreve uma carta curta e urgente contra pessoas que tinham entrado na igreja e distorciam a graça de Deus para justificar a imoralidade. Com exemplos do Antigo Testamento e de tradições judaicas, ele mostra o perigo desse caminho. Termina com um dos louvores mais conhecidos do Novo Testamento, ao Deus que guarda os seus.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Judas, \"irmão de Tiago\" (1:1), tradicionalmente entendido como irmão de Jesus"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Data incerta; a maioria propõe entre 60 e 90 d.C."
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "\"Aos chamados, amados por Deus Pai e guardados por Jesus Cristo\" (1:1)"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Carta de exortação"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "1 capítulo e 25 versículos"
+  }
+ ],
+ "chave": "1:24-25",
+ "temas": [
+  "Defender a fé recebida",
+  "O perigo de distorcer a graça",
+  "O juízo de Deus sobre os ímpios",
+  "Permanecer no amor de Deus",
+  "Deus que guarda os seus"
+ ],
+ "cristo": "Judas lembra que os cristãos são guardados por Jesus Cristo e esperam sua misericórdia para a vida eterna; a glória é dada a Deus por meio de Jesus Cristo, nosso Senhor (1:1, 1:21, 1:25).",
+ "secoes": [
+  {
+   "id": "carta",
+   "titulo": "Batalhar pela fé",
+   "capitulos": [
+    1
+   ],
+   "resumo": "Alerta contra os ímpios infiltrados, exortação aos fiéis e louvor final."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Batalhar pela fé",
+   "chave": "1:3",
+   "resumo": "Judas, irmão de Tiago, queria escrever sobre a salvação comum, mas sentiu necessidade de exortar os leitores a batalhar pela fé entregue de uma vez por todas aos santos. Pessoas ímpias tinham se infiltrado, transformando a graça em licença para a imoralidade e negando Jesus Cristo; Judas lembra exemplos de juízo e os compara a Caim, Balaão e Coré, citando também tradições como a disputa de Miguel e a profecia de Enoque. Ele termina chamando os fiéis a se edificarem na fé, orarem no Espírito, terem misericórdia dos que duvidam e louva a Deus, que pode guardá-los de tropeçar.",
+   "licoes": [
+    "É preciso batalhar pela fé entregue de uma vez por todas aos santos (1:3).",
+    "A graça de Deus não pode ser usada como desculpa para o pecado (1:4).",
+    "Os cristãos se fortalecem edificando-se na fé, orando no Espírito e permanecendo no amor de Deus (1:20-21).",
+    "Devemos ter misericórdia dos que estão em dúvida e confiar em Deus, que pode nos guardar de tropeçar (1:22, 1:24)."
+   ],
+   "reflexao": "Como você pode se edificar na fé e ajudar alguém que está em dúvida?",
+   "quiz": [
+    {
+     "pergunta": "Com qual arcanjo Judas diz que o diabo disputou o corpo de Moisés?",
+     "opcoes": [
+      "Miguel",
+      "Uriel",
+      "Gabriel",
+      "Rafael"
+     ],
+     "correta": 0,
+     "ref": "1:9"
+    }
+   ]
+  }
+ ]
+}

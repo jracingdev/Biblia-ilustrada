@@ -1,0 +1,403 @@
+{
+ "livro": "amos",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:1-2",
+   "titulo": "O pastor de Tecoa",
+   "descricao": "Amós cuida de seu rebanho nas colinas secas de Tecoa e ergue os olhos, como quem ouve o rugido do SENHOR vindo de Sião.",
+   "alt": "Um pastor de túnica rústica, entre ovelhas num planalto árido, levanta o rosto para o horizonte.",
+   "prompt": "A weathered ancient Judean shepherd in a coarse wool tunic and cloak standing among sheep on the dry rocky hills of Tekoa, wooden staff in hand, looking toward distant Jerusalem, a lion-like gust of wind bending the grass, dramatic morning light"
+  },
+  {
+   "id": "q02",
+   "capitulo": 2,
+   "ref": "2:6-8",
+   "titulo": "Vendidos por um par de sandálias",
+   "descricao": "No mercado de Israel, um pobre é entregue como escravo por uma dívida pequena, enquanto ricos observam com indiferença.",
+   "alt": "Um homem pobre de cabeça baixa é levado por credores num mercado, enquanto um par de sandálias muda de mãos.",
+   "prompt": "A crowded ancient Israelite market at a city gate, a poor man with bowed head led away by creditors, a pair of leather sandals being handed over, wealthy merchants in fine dyed robes watching indifferently, dusty golden light, moral tension in faces"
+  },
+  {
+   "id": "q03",
+   "capitulo": 4,
+   "ref": "4:1",
+   "titulo": "As vacas de Basã",
+   "descricao": "Mulheres ricas de Samaria reclinam-se em terraços luxuosos e pedem vinho, sem ver os necessitados à porta.",
+   "alt": "Mulheres ricas reclinadas num terraço de Samaria pedem vinho enquanto pobres esperam à porta.",
+   "prompt": "Wealthy women of ancient Samaria in embroidered garments and jewelry reclining on cushions on a stone terrace, servants pouring wine, beggars visible at the gate below, lush hills of the north behind, warm late afternoon light, dignified composition without caricature"
+  },
+  {
+   "id": "q04",
+   "capitulo": 5,
+   "ref": "5:21-24",
+   "titulo": "Corra o juízo como as águas",
+   "descricao": "Diante de festas e ofertas sem justiça, Amós aponta para um ribeiro que nunca seca, imagem do direito que deve correr no meio do povo.",
+   "alt": "O profeta, junto a um altar com ofertas, aponta para um ribeiro caudaloso que desce entre as rochas.",
+   "prompt": "The prophet Amos in a rough cloak standing beside a sanctuary altar with festive offerings and musicians with harps, pointing toward a powerful stream rushing through a rocky wadi, worshippers turning to look, clear light on the water, contrast between ritual and living water"
+  },
+  {
+   "id": "q05",
+   "capitulo": 6,
+   "ref": "6:4-6",
+   "titulo": "Camas de marfim",
+   "descricao": "Nobres de Samaria comem cordeiros e bebem em taças largas, deitados em leitos com marfim entalhado, despreocupados com a ruína do povo.",
+   "alt": "Nobres deitados em leitos decorados com marfim banqueteiam ao som de harpas.",
+   "prompt": "Nobles of ancient Samaria reclining on couches inlaid with carved ivory panels, eating lamb and drinking from wide bowls, a musician with a harp, oil lamps and rich fabrics, a window showing a poor village beyond, warm decadent lamplight"
+  },
+  {
+   "id": "q06",
+   "capitulo": 7,
+   "ref": "7:7-9",
+   "titulo": "O prumo junto ao muro",
+   "descricao": "Em visão, o Senhor está sobre um muro com um prumo na mão, medindo Israel; a luz da glória envolve a cena.",
+   "alt": "Um muro de pedra com um fio de prumo pendente, iluminado por uma luz celeste, observado pelo profeta.",
+   "prompt": "A vision scene: an old stone city wall with a lead plumb line hanging straight down, held from a radiant cloud of light above, no human figure for God, the prophet Amos below shielding his eyes, the slight lean of the wall visible, quiet supernatural light"
+  },
+  {
+   "id": "q07",
+   "capitulo": 7,
+   "ref": "7:10-15",
+   "titulo": "Amós diante de Amazias em Betel",
+   "descricao": "O sacerdote de Betel manda Amós voltar para Judá; o pastor responde que não era profeta, mas que o SENHOR o tirou de trás do rebanho.",
+   "alt": "Um sacerdote em vestes ricas confronta um pastor simples diante do santuário de Betel.",
+   "prompt": "At the royal sanctuary of Bethel, the priest Amaziah in rich priestly garments pointing away, confronting the simple shepherd Amos in a coarse cloak who stands firm with open hands, onlookers and a stone altar behind, strong side light, tense composition"
+  },
+  {
+   "id": "q08",
+   "capitulo": 8,
+   "ref": "8:1-2",
+   "titulo": "O cesto de frutos de verão",
+   "descricao": "O profeta contempla um cesto de frutos maduros: o tempo de Israel chegou ao fim.",
+   "alt": "Um cesto de figos e frutos maduros no fim do verão, olhado pelo profeta.",
+   "prompt": "A woven basket full of ripe late summer figs and fruits on a stone ledge, the prophet Amos looking at it thoughtfully, end-of-harvest fields beyond, low golden light suggesting the end of a season"
+  },
+  {
+   "id": "q09",
+   "capitulo": 9,
+   "ref": "9:13-15",
+   "titulo": "A tenda de Davi restaurada",
+   "descricao": "Depois do juízo, ceifeiros e lavradores trabalham em campos fartos e cidades reconstruídas, e os montes parecem gotejar vinho.",
+   "alt": "Lavradores colhem uvas em abundância em colinas férteis, com cidades reconstruídas ao fundo.",
+   "prompt": "Joyful ancient Israelite farmers harvesting abundant grapes and grain on terraced hills, a plowman close behind the reapers, rebuilt villages and vineyards, children carrying baskets, bright hopeful morning light"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "leao",
+   "termo": "O rugido do leão",
+   "ref": "1:2",
+   "explicado": false,
+   "significado": "O SENHOR 'brama' de Sião como um leão. Em 3:8 o texto liga o rugido à profecia: se o leão rugiu, quem não temerá?"
+  },
+  {
+   "id": "tres-quatro",
+   "termo": "Por três transgressões e por quatro",
+   "ref": "1:3",
+   "explicado": false,
+   "significado": "Fórmula poética que repete o sentido de 'pecado sobre pecado, até a medida transbordar'. Aparece contra cada nação nos capítulos 1 e 2."
+  },
+  {
+   "id": "vacas-basa",
+   "termo": "Vacas de Basã",
+   "ref": "4:1",
+   "explicado": true,
+   "significado": "O próprio verso explica: são as mulheres de Samaria que oprimem os pobres. Basã era famosa pelo gado bem alimentado."
+  },
+  {
+   "id": "ribeiro",
+   "termo": "Juízo como águas, justiça como ribeiro",
+   "ref": "5:24",
+   "explicado": false,
+   "significado": "Imagem de um ribeiro perene, que não seca no verão: a justiça deve correr de forma contínua, não ocasional."
+  },
+  {
+   "id": "marfim",
+   "termo": "Casas e camas de marfim",
+   "ref": "3:15",
+   "explicado": false,
+   "significado": "Sinal concreto do luxo da elite do Reino do Norte, que vivia confortável enquanto o povo sofria (6:4)."
+  },
+  {
+   "id": "gafanhotos-fogo",
+   "termo": "Gafanhotos e fogo",
+   "ref": "7:1-4",
+   "explicado": false,
+   "significado": "Duas visões de juízo que Amós pede a Deus para suspender, e Deus cede. Mostram o profeta como intercessor."
+  },
+  {
+   "id": "prumo",
+   "termo": "O prumo",
+   "ref": "7:8",
+   "explicado": true,
+   "significado": "O texto explica: Deus mede seu povo como um construtor mede um muro, e o que estiver torto não ficará de pé."
+  },
+  {
+   "id": "cesto",
+   "termo": "O cesto de frutos de verão",
+   "ref": "8:2",
+   "explicado": true,
+   "significado": "Jogo de palavras em hebraico entre qayits (fruto de verão) e qets (fim). O próprio texto diz: 'Chegou o fim'."
+  },
+  {
+   "id": "fome-palavra",
+   "termo": "Fome de ouvir a palavra",
+   "ref": "8:11",
+   "explicado": true,
+   "significado": "Não fome de pão, mas de ouvir as palavras do SENHOR: o castigo seria o silêncio de Deus."
+  },
+  {
+   "id": "tenda-davi",
+   "termo": "A tenda caída de Davi",
+   "ref": "9:11",
+   "explicado": false,
+   "significado": "Imagem da dinastia de Davi em ruínas, que Deus promete levantar. Tiago cita o texto em Atos 15:16-17, aplicando-o à entrada dos gentios."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "mishpat",
+   "pt": "Juízo (direito)",
+   "refs": [
+    "5:7",
+    "5:15",
+    "5:24"
+   ],
+   "hebraico": {
+    "lema": "מִשְׁפָּט",
+    "translit": "mishpat",
+    "strong": "H4941"
+   },
+   "grego": {
+    "lema": "κρίμα",
+    "translit": "kríma"
+   },
+   "sentido": "justiça praticada, direito nos tribunais",
+   "latim": {
+    "forma": "revelabitur quasi aqua iudicium",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Para Amós, culto sem justiça social é rejeitado por Deus. O 'juízo' é o direito dado ao fraco no tribunal da porta da cidade.",
+   "interpretacao": false
+  },
+  {
+   "id": "tsedaqah",
+   "pt": "Justiça",
+   "refs": [
+    "5:7",
+    "5:24",
+    "6:12"
+   ],
+   "hebraico": {
+    "lema": "צְדָקָה",
+    "translit": "tsedaqah",
+    "strong": "H6666"
+   },
+   "grego": {
+    "lema": "δικαιοσύνη",
+    "translit": "dikaiosýnē",
+    "strong": "G1343"
+   },
+   "sentido": "retidão, conduta correta nas relações",
+   "latim": {
+    "forma": "et iustitia quasi torrens fortis",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Quase sempre forma par com mishpat: a vida reta diante de Deus e do próximo. Amós acusa Israel de transformar a justiça em 'absinto' (5:7).",
+   "interpretacao": false
+  },
+  {
+   "id": "darash",
+   "pt": "Buscai-me",
+   "refs": [
+    "5:4",
+    "5:6",
+    "5:14"
+   ],
+   "hebraico": {
+    "lema": "דָּרַשׁ",
+    "translit": "darash",
+    "strong": "H1875"
+   },
+   "grego": {
+    "lema": "ἐκζητέω",
+    "translit": "ekzētéō"
+   },
+   "sentido": "buscar, procurar, consultar",
+   "latim": {
+    "forma": "quaerite me et vivetis",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "'Buscai-me e vivei': buscar a Deus não é ir a santuários como Betel ou Gilgal, mas buscar o bem e odiar o mal (5:14-15).",
+   "interpretacao": false
+  },
+  {
+   "id": "noqed",
+   "pt": "Pastor",
+   "refs": [
+    "1:1"
+   ],
+   "hebraico": {
+    "lema": "נֹקֵד",
+    "translit": "noqed",
+    "strong": "H5349"
+   },
+   "sentido": "criador de ovelhas",
+   "latim": {
+    "forma": "qui fuit in pastoralibus de Thecue",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A palavra também é usada para o rei de Moabe em 2 Reis 3:4, por isso alguns pensam que Amós era um criador de certo porte, não um simples empregado. Em 7:14 ele se diz boqer, vaqueiro.",
+   "interpretacao": true
+  },
+  {
+   "id": "qayits-qets",
+   "pt": "Fruto de verão / fim",
+   "refs": [
+    "8:2"
+   ],
+   "hebraico": {
+    "lema": "קַיִץ / קֵץ",
+    "translit": "qayits / qets",
+    "strong": "H7019, H7093"
+   },
+   "sentido": "jogo de palavras: colheita de verão e fim",
+   "latim": {
+    "forma": "uncinus pomorum",
+    "nota": "A Vulgata traduz o cesto por uncinus pomorum, 'gancho de frutas'."
+   },
+   "outras": [],
+   "explicacao": "O som quase igual das duas palavras transforma um cesto de frutas numa mensagem: a colheita acabou e o tempo de Israel também.",
+   "interpretacao": false
+  },
+  {
+   "id": "anakh",
+   "pt": "Prumo",
+   "refs": [
+    "7:7",
+    "7:8"
+   ],
+   "hebraico": {
+    "lema": "אֲנָךְ",
+    "translit": "anakh",
+    "strong": "H594"
+   },
+   "sentido": "fio de prumo (ou chumbo, estanho)",
+   "latim": {
+    "forma": "trulla caementarii",
+    "nota": "A Vulgata lê trulla caementarii, 'colher de pedreiro'."
+   },
+   "outras": [],
+   "explicacao": "A palavra só aparece aqui no AT e seu sentido é discutido: a tradução tradicional é 'prumo'; alguns estudiosos propõem 'estanho', metal usado em armas.",
+   "interpretacao": true
+  },
+  {
+   "id": "sukkah",
+   "pt": "Tenda (tabernáculo)",
+   "refs": [
+    "9:11"
+   ],
+   "hebraico": {
+    "lema": "סֻכָּה",
+    "translit": "sukkah",
+    "strong": "H5521"
+   },
+   "grego": {
+    "lema": "σκηνή",
+    "translit": "skēnḗ"
+   },
+   "sentido": "cabana, tenda provisória",
+   "latim": {
+    "forma": "tabernaculum David quod cecidit",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Uma cabana frágil, como as da festa dos Tabernáculos: a casa real de Davi reduzida a abrigo caído que Deus levantará.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "terremoto-hazor",
+   "titulo": "O terremoto do século VIII a.C.",
+   "refs": [
+    "1:1"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Camadas de destruição em Hazor e outros sítios de Israel",
+   "referencia": "Hazor, estrato VI (escavações de Yigael Yadin, décadas de 1950)",
+   "data_fonte": "séc. VIII a.C. (camada arqueológica)",
+   "data_evento": "c. 760 a.C.",
+   "resumo": "Em Hazor e em outros sítios foram identificados muros inclinados e colunas caídas de modo típico de abalo sísmico, datados de meados do século VIII a.C.",
+   "relacao": "Amós data sua mensagem 'dois anos antes do terremoto' (1:1), e Zacarias 14:5 lembra o terremoto de Uzias. Muitos geólogos e arqueólogos ligam essas camadas a esse evento; a datação exata é debatida.",
+   "grau": "associacao"
+  },
+  {
+   "id": "josefo-uzias",
+   "titulo": "Josefo e o terremoto no tempo de Uzias",
+   "refs": [
+    "1:1"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 9, cap. 10, §4",
+   "data_fonte": "c. 93–94 d.C.",
+   "data_evento": "c. meados do séc. VIII a.C.",
+   "resumo": "Josefo associa o terremoto ao dia em que o rei Uzias quis oferecer incenso no templo e foi ferido de lepra.",
+   "relacao": "Mostra que o terremoto de Amós 1:1 era lembrado na tradição judaica; a ligação com o episódio do incenso é tradição posterior, não está na Bíblia.",
+   "grau": "associacao"
+  },
+  {
+   "id": "marfins-samaria",
+   "titulo": "Os marfins de Samaria",
+   "refs": [
+    "3:15",
+    "6:4"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Placas de marfim entalhado do palácio de Samaria",
+   "referencia": "Escavações de Samaria (J. W. Crowfoot, década de 1930); peças no Museu de Israel e em outras coleções",
+   "data_fonte": "séc. IX–VIII a.C.",
+   "data_evento": "descobertos em 1931–1935",
+   "resumo": "Centenas de fragmentos de marfim decorado, que adornavam móveis e paredes, foram encontrados na acrópole real de Samaria.",
+   "relacao": "Ilustram concretamente as 'casas de marfim' e 'camas de marfim' denunciadas por Amós. Os marfins não mencionam pessoas da Bíblia; são contexto material.",
+   "grau": "associacao"
+  },
+  {
+   "id": "ostracos-samaria",
+   "titulo": "Óstracos de Samaria",
+   "refs": [
+    "6:6"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Óstracos de Samaria",
+   "referencia": "Escavações de Harvard em Samaria (G. A. Reisner, 1910)",
+   "data_fonte": "séc. VIII a.C. (provavelmente)",
+   "data_evento": "reinado de Jeroboão II ou próximo",
+   "resumo": "Cacos de cerâmica com registros de entregas de vinho fino e azeite purificado à capital, vindos de propriedades do campo.",
+   "relacao": "Revelam a rede de abastecimento da elite de Samaria, contexto do 'vinho em taças' e dos 'melhores óleos' de 6:6. A datação exata dentro do século VIII é discutida.",
+   "grau": "associacao"
+  },
+  {
+   "id": "selo-shema",
+   "titulo": "Selo de 'Shemá, servo de Jeroboão'",
+   "refs": [
+    "1:1",
+    "7:10"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Selo de jaspe com um leão",
+   "referencia": "Encontrado em Megido em 1904; o original se perdeu, restam moldes e fotografias",
+   "data_fonte": "séc. IX–VIII a.C.",
+   "data_evento": "descoberto em 1904",
+   "resumo": "Selo oficial com a figura de um leão e a inscrição 'de Shemá, servo de Jeroboão'.",
+   "relacao": "Muitos o atribuem a um oficial de Jeroboão II, rei citado em 1:1 e 7:10; outros preferem Jeroboão I. A identificação é discutida.",
+   "grau": "associacao"
+  }
+ ]
+}

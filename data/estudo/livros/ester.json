@@ -1,0 +1,336 @@
+{
+ "livro": "ester",
+ "nome": "Ester",
+ "subtitulo": "A providência de Deus nos bastidores da história",
+ "introducao": "Ester conta como uma jovem judia órfã se torna rainha da Pérsia e, com a ajuda de seu primo Mardoqueu, arrisca a vida para salvar seu povo de um plano de extermínio. O nome de Deus não aparece no livro, mas uma série de \"coincidências\" mostra seu cuidado escondido. A história explica a origem da festa de Purim, celebrada até hoje.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Anônimo; a tradição judaica atribuiu a Mardoqueu ou aos homens da Grande Assembleia"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Os fatos se passam no reinado de Assuero, geralmente identificado com Xerxes I (486–465 a.C.); a redação é datada entre os séculos V e III a.C."
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Susã, capital do Império Persa (1:2)"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "Os judeus espalhados pelo império, para lembrar o livramento celebrado no Purim (9:20-22)"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Narrativa histórica"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "10 capítulos e 167 versículos"
+  }
+ ],
+ "chave": "4:14",
+ "temas": [
+  "A providência de Deus, mesmo quando ele parece ausente",
+  "Coragem para agir no momento certo",
+  "Orgulho que leva à queda",
+  "Inversão: o luto que vira festa",
+  "Memória e celebração do livramento"
+ ],
+ "cristo": "Ester se coloca entre o rei e a morte para salvar seu povo, arriscando a própria vida, uma imagem que ajuda a entender Jesus, que se entregou para nos salvar. O livro mostra um Deus que age nos bastidores para preservar o povo do qual viria o Messias.",
+ "secoes": [
+  {
+   "id": "ester-rainha",
+   "titulo": "Ester se torna rainha",
+   "capitulos": [
+    1,
+    2
+   ],
+   "resumo": "Vasti é afastada e Ester, judia órfã, é coroada."
+  },
+  {
+   "id": "ameaca-e-coragem",
+   "titulo": "A ameaça e a coragem",
+   "capitulos": [
+    3,
+    4,
+    5
+   ],
+   "resumo": "Hamã planeja destruir os judeus, e Ester decide interceder."
+  },
+  {
+   "id": "a-reviravolta",
+   "titulo": "A reviravolta",
+   "capitulos": [
+    6,
+    7,
+    8
+   ],
+   "resumo": "Mardoqueu é honrado, Hamã cai e um novo decreto protege os judeus."
+  },
+  {
+   "id": "purim",
+   "titulo": "Vitória e Purim",
+   "capitulos": [
+    9,
+    10
+   ],
+   "resumo": "Os judeus vencem seus inimigos e instituem a festa de Purim."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "O banquete de Assuero e a recusa de Vasti",
+   "chave": "1:12",
+   "resumo": "O rei Assuero, que governava 127 províncias, oferece banquetes longos para exibir sua riqueza. No sétimo dia, alegre pelo vinho, manda chamar a rainha Vasti para mostrar sua beleza, mas ela se recusa. Aconselhado por seus sábios, o rei a afasta e envia um decreto a todo o reino para que as mulheres honrem os maridos.",
+   "licoes": [
+    "O poder humano, mesmo grandioso, pode ser instável e movido pelo orgulho (1:4, 1:12).",
+    "Vasti se recusa a ser exibida, e sua decisão tem um alto custo (1:12, 1:19).",
+    "O livro começa mostrando um mundo onde Deus não é mencionado, mas onde ele preparará o caminho (1:22)."
+   ],
+   "reflexao": "Como você reage quando o orgulho é ferido?",
+   "quiz": [
+    {
+     "pergunta": "Sobre quantas províncias reinava Assuero?",
+     "opcoes": [
+      "Doze",
+      "Setenta",
+      "Cento e vinte e sete",
+      "Mil"
+     ],
+     "correta": 2,
+     "ref": "1:1"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Ester se torna rainha",
+   "chave": "2:17",
+   "resumo": "O rei procura uma nova rainha entre moças de todo o reino. Ester, judia órfã criada por seu primo Mardoqueu, é levada ao palácio e conquista o favor de todos; por orientação de Mardoqueu, não revela seu povo. O rei a ama e a faz rainha. Mardoqueu descobre uma conspiração contra o rei, avisa Ester, e o fato é registrado nas crônicas.",
+   "licoes": [
+    "Mardoqueu cuida de Ester como filha quando ela não tinha pai nem mãe (2:7).",
+    "Ester conquista favor por sua conduta e sua humildade (2:15).",
+    "O bem feito por Mardoqueu fica registrado e terá importância depois (2:22-23)."
+   ],
+   "reflexao": "Quem cuidou de você como Mardoqueu cuidou de Ester?",
+   "quiz": [
+    {
+     "pergunta": "Qual era o outro nome de Ester?",
+     "opcoes": [
+      "Hadassa",
+      "Vasti",
+      "Zeres",
+      "Abiail"
+     ],
+     "correta": 0,
+     "ref": "2:7"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "O plano de Hamã",
+   "chave": "3:6",
+   "resumo": "Hamã é promovido pelo rei, e todos se curvam diante dele, menos Mardoqueu. Furioso, Hamã decide destruir não só Mardoqueu, mas todo o povo judeu. Lança a sorte, o \"Pur\", para escolher a data e convence o rei com acusações e dinheiro. Um decreto é enviado a todas as províncias, e a cidade de Susã fica confusa.",
+   "licoes": [
+    "Mardoqueu se recusa a se curvar diante de Hamã, mesmo pressionado dia após dia (3:2-4).",
+    "O orgulho ferido pode crescer até virar ódio contra um povo inteiro (3:5-6).",
+    "Acusações generalizadas contra um grupo são uma arma antiga do mal (3:8)."
+   ],
+   "reflexao": "Em que situação você é pressionado a se curvar diante do que não é certo?",
+   "quiz": [
+    {
+     "pergunta": "O que significa \"Pur\"?",
+     "opcoes": [
+      "Banquete",
+      "A sorte",
+      "Decreto",
+      "Forca"
+     ],
+     "correta": 1,
+     "ref": "3:7"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "\"Para um tempo como este\"",
+   "chave": "4:14",
+   "resumo": "Mardoqueu e os judeus se vestem de saco e fazem luto pelo decreto. Mardoqueu pede que Ester interceda junto ao rei, mas ela lembra que entrar sem ser chamada pode significar a morte. Mardoqueu responde que ela não escapará por estar no palácio e pergunta se não foi para um tempo como este que ela chegou a ser rainha. Ester pede três dias de jejum e decide ir: \"se eu perecer, perecerei\".",
+   "licoes": [
+    "O luto e o jejum mostram a seriedade do perigo (4:1-3).",
+    "Posições e privilégios podem ser oportunidades para servir aos outros (4:14).",
+    "A libertação viria \"de outra parte\" mesmo se Ester se calasse: o texto sugere a providência sem nomear Deus (4:14).",
+    "Ester une coragem, jejum e comunidade antes de agir (4:16)."
+   ],
+   "reflexao": "Para que \"tempo como este\" você pode ter sido colocado onde está?",
+   "quiz": [
+    {
+     "pergunta": "Por quantos dias Ester pediu que os judeus jejuassem por ela?",
+     "opcoes": [
+      "Um",
+      "Três",
+      "Sete",
+      "Quarenta"
+     ],
+     "correta": 1,
+     "ref": "4:16"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "O primeiro banquete de Ester",
+   "chave": "5:2",
+   "resumo": "No terceiro dia, Ester entra no pátio do rei, que lhe estende o cetro de ouro e oferece até a metade do reino. Ela convida o rei e Hamã para um banquete e, nele, os convida para outro no dia seguinte. Hamã sai alegre, mas se enfurece ao ver Mardoqueu e, a conselho da esposa e dos amigos, manda fazer uma forca para ele.",
+   "licoes": [
+    "A coragem de Ester encontra favor diante do rei (5:2).",
+    "Ester age com sabedoria e paciência, sem pressa (5:4, 5:8).",
+    "Quem é dominado pelo rancor não se satisfaz com nada (5:13)."
+   ],
+   "reflexao": "Existe algum rancor que está roubando sua alegria?",
+   "quiz": [
+    {
+     "pergunta": "O que o rei estendeu a Ester quando ela entrou no pátio?",
+     "opcoes": [
+      "A mão",
+      "O cetro de ouro",
+      "O anel real",
+      "A coroa"
+     ],
+     "correta": 1,
+     "ref": "5:2"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "Uma noite sem sono",
+   "chave": "6:1",
+   "resumo": "Naquela noite, o rei não consegue dormir e pede que leiam as crônicas do reino. Descobre que Mardoqueu salvou sua vida e nunca foi recompensado. Justamente quando Hamã chega para pedir a morte de Mardoqueu, o rei pergunta o que fazer ao homem que deseja honrar. Hamã, pensando em si mesmo, sugere grandes honras, e é obrigado a prestá-las a Mardoqueu.",
+   "licoes": [
+    "Detalhes aparentemente pequenos, como uma noite de insônia, mudam a história (6:1).",
+    "O bem feito e esquecido não foi perdido (6:2-3).",
+    "O orgulho de Hamã o leva a planejar a própria humilhação (6:6, 6:10-11).",
+    "Até os conselheiros de Hamã percebem que ele começou a cair (6:13)."
+   ],
+   "reflexao": "Em que momento algo que parecia acaso se revelou parte de um cuidado maior em sua vida?",
+   "quiz": [
+    {
+     "pergunta": "O que o rei fez quando perdeu o sono?",
+     "opcoes": [
+      "Chamou Ester",
+      "Mandou ler o livro das crônicas",
+      "Saiu ao jardim",
+      "Chamou Hamã"
+     ],
+     "correta": 1,
+     "ref": "6:1"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "Ester revela o plano de Hamã",
+   "chave": "7:3",
+   "resumo": "No segundo banquete, o rei pergunta de novo o pedido de Ester. Ela revela que é judia e pede pela própria vida e pela de seu povo, vendido para ser destruído, e aponta Hamã como o inimigo. O rei sai furioso ao jardim; ao voltar, Hamã está caído sobre o divã de Ester. Hamã é enforcado na forca que havia preparado para Mardoqueu.",
+   "licoes": [
+    "Ester fala no momento certo e com clareza (7:3-4).",
+    "Ela se identifica com seu povo, mesmo correndo riscos (7:4).",
+    "O mal planejado por Hamã se volta contra ele mesmo (7:10)."
+   ],
+   "reflexao": "Em que situação você precisa ter coragem de se identificar com quem está sendo injustiçado?",
+   "quiz": [
+    {
+     "pergunta": "Onde Hamã foi enforcado?",
+     "opcoes": [
+      "Na porta do rei",
+      "No jardim do palácio",
+      "Na forca que preparou para Mardoqueu",
+      "Na praça de Susã"
+     ],
+     "correta": 2,
+     "ref": "7:10"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "Um novo decreto",
+   "chave": "8:16",
+   "resumo": "O rei dá a Ester a casa de Hamã, e Mardoqueu recebe o anel real. Como um decreto selado não podia ser revogado, Ester suplica chorando, e o rei autoriza Mardoqueu a escrever outro decreto permitindo que os judeus se reúnam e defendam suas vidas. Mardoqueu sai com vestes reais, e para os judeus há luz, alegria e honra; muitos dos povos da terra se tornam como judeus.",
+   "licoes": [
+    "Ester continua intercedendo até que o perigo seja realmente afastado (8:3, 8:6).",
+    "Um decreto contra o mal pode ser respondido com outro que traz defesa e esperança (8:8, 8:11).",
+    "A tristeza se transforma em luz, alegria e honra (8:16)."
+   ],
+   "reflexao": "Por quem você pode continuar intercedendo, mesmo depois de uma primeira vitória?",
+   "quiz": [
+    {
+     "pergunta": "O que houve para os judeus após o novo decreto?",
+     "opcoes": [
+      "Fome e medo",
+      "Novo exílio",
+      "Luz, alegria, júbilo e honra",
+      "Silêncio e luto"
+     ],
+     "correta": 2,
+     "ref": "8:16"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "A vitória e a festa de Purim",
+   "chave": "9:22",
+   "resumo": "No dia marcado para sua destruição, os judeus se defendem e vencem seus inimigos, mas não tocam nos despojos. Os dez filhos de Hamã morrem. Mardoqueu e Ester escrevem cartas instituindo a festa de Purim, nome que vem de \"Pur\", a sorte lançada por Hamã, para lembrar todos os anos como o luto virou festa, com banquetes, presentes e ofertas aos pobres.",
+   "licoes": [
+    "O que os inimigos esperavam virou o contrário (9:1).",
+    "Os judeus se defendem, mas não tomam os bens dos inimigos (9:10, 9:16).",
+    "A festa lembra que a tristeza virou alegria e inclui generosidade com os pobres (9:22).",
+    "Guardar a memória das libertações fortalece as próximas gerações (9:28)."
+   ],
+   "reflexao": "Que livramento de Deus você quer lembrar e contar às próximas gerações?",
+   "quiz": [
+    {
+     "pergunta": "De onde vem o nome da festa de Purim?",
+     "opcoes": [
+      "Da palavra \"Pur\", a sorte",
+      "Do nome de um rei",
+      "Do nome de uma cidade",
+      "De um tipo de pão"
+     ],
+     "correta": 0,
+     "ref": "9:26"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "titulo": "A grandeza de Mardoqueu",
+   "chave": "10:3",
+   "resumo": "O livro termina com um breve registro do poder do rei Assuero e da grandeza de Mardoqueu, que se torna o segundo no reino. Ele é estimado por seu povo porque procura o bem dos seus e fala de paz para toda a sua descendência.",
+   "licoes": [
+    "A verdadeira grandeza está em usar a posição para o bem dos outros (10:3).",
+    "Mardoqueu, que antes se vestiu de saco, agora é honrado: Deus pode inverter situações (10:3).",
+    "Os feitos registrados nas crônicas lembram que a história continua sob o olhar de Deus (10:2)."
+   ],
+   "reflexao": "Como você pode usar sua influência para buscar o bem e a paz de outras pessoas?",
+   "quiz": [
+    {
+     "pergunta": "Que posição Mardoqueu ocupou no reino?",
+     "opcoes": [
+      "Governador de Susã",
+      "Chefe da guarda",
+      "Sumo sacerdote",
+      "Segundo depois do rei"
+     ],
+     "correta": 3,
+     "ref": "10:3"
+    }
+   ]
+  }
+ ]
+}

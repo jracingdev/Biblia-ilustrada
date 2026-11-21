@@ -1,0 +1,222 @@
+{
+ "livro": "efesios",
+ "nome": "Efésios",
+ "subtitulo": "Riquezas em Cristo e uma vida digna do chamado",
+ "introducao": "Efésios celebra o plano eterno de Deus de reunir todas as coisas em Cristo e de formar, com judeus e gentios, um só povo, a igreja. Os três primeiros capítulos mostram as riquezas da graça; os três últimos ensinam como viver de modo digno desse chamado, na igreja, na família e no trabalho. Termina com a imagem da armadura de Deus para a luta espiritual.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Tradicionalmente atribuído a Paulo; alguns estudiosos questionam a autoria (1:1)"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Por volta de 60–62 d.C., se escrita por Paulo durante a prisão (3:1, 6:20)"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Escrita na prisão, provavelmente em Roma"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "Os santos em Éfeso; muitos pensam que circulou também por outras igrejas da Ásia (1:1)"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Carta"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "6 capítulos e 155 versículos"
+  }
+ ],
+ "chave": "2:8-10",
+ "temas": [
+  "As bênçãos espirituais em Cristo",
+  "Salvação pela graça, por meio da fé",
+  "Judeus e gentios, um só corpo",
+  "Unidade e maturidade da igreja",
+  "Vida nova no lar e no trabalho",
+  "A armadura de Deus"
+ ],
+ "cristo": "Efésios coloca Cristo no centro do plano de Deus: nele temos redenção pelo seu sangue, e nele todas as coisas serão reunidas (1:7, 1:10). Por sua cruz, Cristo é a nossa paz e reconcilia judeus e gentios com Deus num só corpo (2:14-16).",
+ "secoes": [
+  {
+   "id": "riquezas",
+   "titulo": "As riquezas da graça",
+   "capitulos": [
+    1,
+    2,
+    3
+   ],
+   "resumo": "O que Deus fez por nós em Cristo e a unidade de judeus e gentios."
+  },
+  {
+   "id": "vida-digna",
+   "titulo": "Uma vida digna do chamado",
+   "capitulos": [
+    4,
+    5,
+    6
+   ],
+   "resumo": "Unidade, santidade, relações no lar e no trabalho e a luta espiritual."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Todas as bênçãos em Cristo",
+   "chave": "1:3",
+   "resumo": "Paulo louva a Deus por todas as bênçãos espirituais em Cristo: a escolha antes da fundação do mundo, a adoção como filhos, a redenção pelo sangue de Jesus e o perdão dos pecados. Deus revelou seu plano de reunir todas as coisas em Cristo, e os que creram foram selados com o Espírito Santo como garantia da herança. Paulo ora para que os leitores conheçam a esperança, a herança e o poder de Deus, o mesmo que ressuscitou Cristo e o colocou acima de tudo como cabeça da igreja.",
+   "licoes": [
+    "Em Cristo, Deus nos concedeu todas as bênçãos espirituais (1:3).",
+    "Temos redenção pelo sangue de Jesus e perdão dos pecados segundo as riquezas da graça (1:7).",
+    "O Espírito Santo é o selo e a garantia da nossa herança (1:13-14).",
+    "O mesmo poder que ressuscitou Cristo está à disposição dos que creem (1:19-20)."
+   ],
+   "reflexao": "Qual das bênçãos descritas aqui você mais precisa lembrar hoje?",
+   "quiz": [
+    {
+     "pergunta": "Com o que os que creram foram selados?",
+     "opcoes": [
+      "Com o batismo de João",
+      "Com óleo sagrado",
+      "Com a circuncisão",
+      "Com o Espírito Santo da promessa"
+     ],
+     "correta": 3,
+     "ref": "1:13"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Salvos pela graça e unidos em Cristo",
+   "chave": "2:8-9",
+   "resumo": "Paulo lembra que todos estavam mortos em seus pecados, mas Deus, rico em misericórdia, deu-lhes vida com Cristo. A salvação é pela graça, por meio da fé, e não por obras, mas fomos criados para boas obras. Os gentios, que estavam longe e sem esperança, foram aproximados pelo sangue de Cristo, que derrubou o muro de separação e fez de judeus e gentios um só povo, morada de Deus no Espírito.",
+   "licoes": [
+    "Sem Cristo estávamos mortos, mas Deus, rico em misericórdia, nos deu vida (2:4-5).",
+    "A salvação é dom de Deus, pela graça, por meio da fé, e não por obras (2:8-9).",
+    "Fomos salvos para andar nas boas obras que Deus preparou (2:10).",
+    "Cristo é a nossa paz: ele derrubou o muro que separava judeus e gentios (2:14)."
+   ],
+   "reflexao": "Que \"muro\" de separação Cristo quer derrubar nas suas relações?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Paulo, a salvação vem por meio de quê?",
+     "opcoes": [
+      "Da fé, pela graça",
+      "Da circuncisão",
+      "Do esforço pessoal",
+      "Das obras da Lei"
+     ],
+     "correta": 0,
+     "ref": "2:8"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "O mistério revelado e a oração de Paulo",
+   "chave": "3:17-19",
+   "resumo": "Preso por causa dos gentios, Paulo explica o mistério que lhe foi revelado: os gentios são coerdeiros, membros do mesmo corpo e participantes da promessa em Cristo. Ele, \"o menor de todos os santos\", recebeu a graça de anunciar as riquezas de Cristo. Paulo ora de joelhos para que os leitores sejam fortalecidos pelo Espírito, enraizados no amor e capazes de conhecer o amor de Cristo, que excede todo entendimento.",
+   "licoes": [
+    "O evangelho torna os gentios coerdeiros e membros do mesmo corpo com Israel (3:6).",
+    "Paulo vê seu ministério como graça imerecida, não como mérito (3:8).",
+    "Em Cristo temos acesso a Deus com confiança, pela fé (3:12).",
+    "O amor de Cristo é largo, comprido, alto e profundo, e excede o entendimento (3:18-19)."
+   ],
+   "reflexao": "Você já parou para contemplar quão grande é o amor de Cristo por você?",
+   "quiz": [
+    {
+     "pergunta": "Como Paulo descreve a si mesmo neste capítulo?",
+     "opcoes": [
+      "O maior dos apóstolos",
+      "O menor de todos os santos",
+      "O pai dos gentios",
+      "O último dos profetas"
+     ],
+     "correta": 1,
+     "ref": "3:8"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Unidade, maturidade e vida nova",
+   "chave": "4:1-3",
+   "resumo": "Paulo começa a parte prática pedindo que vivam de modo digno do chamado, com humildade e esforço para manter a unidade: um só corpo, um só Espírito, um só Senhor, uma só fé. Cristo deu dons à igreja, como apóstolos, profetas, evangelistas, pastores e mestres, para preparar os santos e levá-los à maturidade. Ele exorta a abandonar a velha maneira de viver e a revestir-se do novo homem: falar a verdade, não pecar na ira, trabalhar honestamente e perdoar como Deus perdoou em Cristo.",
+   "licoes": [
+    "A unidade da igreja é um dom do Espírito que precisamos guardar com humildade e paciência (4:2-3).",
+    "Os dons de liderança existem para preparar todos os santos para o serviço (4:11-12).",
+    "Seguir a verdade em amor nos faz crescer e nos protege de todo vento de doutrina (4:14-15).",
+    "A vida nova se mostra em atitudes concretas: honestidade, palavras que edificam e perdão (4:25-29, 4:32)."
+   ],
+   "reflexao": "Que atitude do \"velho homem\" você precisa deixar de lado esta semana?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Paulo, o que não deve acontecer com a nossa ira?",
+     "opcoes": [
+      "Que ela dure pouco",
+      "Que ela seja mostrada",
+      "Que o sol se ponha sobre ela",
+      "Que ela seja contada a outros"
+     ],
+     "correta": 2,
+     "ref": "4:26"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "Andar em amor e na luz",
+   "chave": "5:1-2",
+   "resumo": "Paulo exorta os leitores a imitar a Deus e andar em amor, como Cristo, que se entregou por nós. Eles, que antes eram trevas, agora são luz no Senhor e devem viver como filhos da luz, aproveitando o tempo e sendo cheios do Espírito, com cânticos e gratidão. Em seguida trata do casamento: esposas e maridos devem viver em submissão mútua no temor de Cristo, e os maridos são chamados a amar a esposa como Cristo amou a igreja e se entregou por ela.",
+   "licoes": [
+    "Somos chamados a imitar a Deus e andar em amor, como Cristo nos amou (5:1-2).",
+    "Quem era trevas agora é luz no Senhor e deve andar como filho da luz (5:8).",
+    "Ser cheio do Espírito se expressa em cânticos, gratidão e submissão mútua (5:18-21).",
+    "O modelo do amor no casamento é Cristo, que se entregou pela igreja (5:25)."
+   ],
+   "reflexao": "Como você pode aproveitar melhor o tempo que Deus lhe deu?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Paulo, como os maridos devem amar suas esposas?",
+     "opcoes": [
+      "Como os pais amam os filhos",
+      "Como os amigos se amam",
+      "Como amam seus bens",
+      "Como Cristo amou a Igreja"
+     ],
+     "correta": 3,
+     "ref": "5:25"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "Família, trabalho e a armadura de Deus",
+   "chave": "6:11",
+   "resumo": "Paulo orienta filhos a obedecerem aos pais e pais a não provocarem os filhos à ira, mas educá-los no Senhor. Servos e senhores devem agir lembrando que todos servem ao mesmo Senhor, que não faz acepção de pessoas. Por fim, chama os cristãos a se fortalecerem no Senhor e vestirem toda a armadura de Deus, pois a luta é contra forças espirituais do mal, e pede oração por si mesmo.",
+   "licoes": [
+    "Os relacionamentos em casa e no trabalho devem ser vividos diante do Senhor (6:1-4, 6:7).",
+    "Nossa luta não é contra pessoas, mas contra forças espirituais do mal (6:12).",
+    "A armadura de Deus inclui verdade, justiça, evangelho da paz, fé, salvação e a palavra de Deus (6:14-17).",
+    "A oração perseverante por todos os santos acompanha a armadura (6:18)."
+   ],
+   "reflexao": "Que peça da armadura de Deus você mais precisa \"vestir\" hoje?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Paulo, o que é a espada do Espírito?",
+     "opcoes": [
+      "A palavra de Deus",
+      "A justiça",
+      "A fé",
+      "A oração"
+     ],
+     "correta": 0,
+     "ref": "6:17"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,883 @@
+{
+ "livro": "proverbios",
+ "nome": "Provérbios",
+ "subtitulo": "Sabedoria para a vida de todo dia",
+ "introducao": "Provérbios reúne ensinamentos curtos e poemas sobre como viver com sabedoria diante de Deus. Fala de trabalho, dinheiro, amizade, família, palavras e caráter, sempre partindo do temor ao SENHOR. É um livro prático, que ajuda a fazer boas escolhas no cotidiano.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Principalmente Salomão (1:1, 10:1, 25:1), com partes atribuídas a \"sábios\", a Agur e ao rei Lemuel (22:17, 30:1, 31:1)"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Coleções iniciadas no tempo de Salomão (séc. X a.C.) e organizadas depois; parte foi copiada no tempo de Ezequias (25:1)"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "Jovens e pessoas simples que querem aprender, e também os sábios (1:4-5)"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Literatura de sabedoria: poemas de instrução e ditados curtos"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "31 capítulos e 915 versículos"
+  }
+ ],
+ "chave": "1:7",
+ "temas": [
+  "O temor ao SENHOR como princípio da sabedoria",
+  "Os dois caminhos: sabedoria e tolice",
+  "O poder das palavras",
+  "Trabalho, dinheiro e generosidade",
+  "Família, amizade e fidelidade"
+ ],
+ "cristo": "Provérbios apresenta a sabedoria que estava com Deus na criação (8:22-31). O Novo Testamento afirma que em Cristo estão escondidos todos os tesouros da sabedoria e do conhecimento, como Paulo escreve em Colossenses 2, e que ele se tornou para nós sabedoria de Deus.",
+ "secoes": [
+  {
+   "id": "conselhos-do-pai",
+   "titulo": "Conselhos do pai e o chamado da Sabedoria",
+   "capitulos": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "resumo": "Poemas que convidam o jovem a escolher a sabedoria e evitar a tolice."
+  },
+  {
+   "id": "salomao-1",
+   "titulo": "Primeira coleção de Salomão",
+   "capitulos": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+   ],
+   "resumo": "Ditados curtos que contrastam o justo e o perverso, até as palavras dos sábios."
+  },
+  {
+   "id": "palavras-dos-sabios",
+   "titulo": "Palavras dos sábios",
+   "capitulos": [
+    23,
+    24
+   ],
+   "resumo": "Conselhos práticos sobre riqueza, vinho, inveja e preguiça."
+  },
+  {
+   "id": "salomao-ezequias",
+   "titulo": "Provérbios copiados no tempo de Ezequias",
+   "capitulos": [
+    25,
+    26,
+    27,
+    28,
+    29
+   ],
+   "resumo": "Nova coleção de Salomão sobre humildade, palavras, amizade e liderança."
+  },
+  {
+   "id": "agur-lemuel",
+   "titulo": "Agur, Lemuel e a mulher virtuosa",
+   "capitulos": [
+    30,
+    31
+   ],
+   "resumo": "Palavras de Agur, conselhos da mãe de Lemuel e o poema da mulher virtuosa."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "O princípio do conhecimento",
+   "chave": "1:7",
+   "resumo": "O livro se apresenta como provérbios de Salomão, escritos para dar sabedoria aos simples e aos jovens. O lema é que o temor ao SENHOR é o princípio do conhecimento. Um pai alerta o filho contra os que convidam para o crime, e a Sabedoria, retratada como uma mulher, clama nas ruas chamando os tolos a ouvir.",
+   "licoes": [
+    "Toda sabedoria verdadeira começa com o temor ao SENHOR (1:7).",
+    "Andar com quem pratica o mal é armar uma cilada para a própria vida (1:10, 1:18-19).",
+    "A sabedoria fala em público e convida todos; rejeitá-la traz consequências (1:20-23, 1:31)."
+   ],
+   "reflexao": "Que convites ao erro você precisa aprender a recusar?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o capítulo, qual é o princípio do conhecimento?",
+     "opcoes": [
+      "O temor ao SENHOR",
+      "A idade",
+      "A riqueza",
+      "A instrução dos reis"
+     ],
+     "correta": 0,
+     "ref": "1:7"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Buscar a sabedoria como tesouro",
+   "chave": "2:6",
+   "resumo": "O pai convida o filho a buscar a sabedoria como quem procura prata e tesouros escondidos. Quem faz isso entende o temor ao SENHOR, pois é Deus quem dá a sabedoria. Ela protege do caminho dos homens perversos e da mulher que abandona a aliança.",
+   "licoes": [
+    "A sabedoria exige esforço: é preciso buscá-la como um tesouro escondido (2:4-5).",
+    "Sabedoria é presente de Deus, que vem de sua boca (2:6).",
+    "O discernimento guarda de companhias e relacionamentos que levam à morte (2:11-12, 2:16-18)."
+   ],
+   "reflexao": "Com que empenho você tem buscado sabedoria?",
+   "quiz": [
+    {
+     "pergunta": "Como o filho deve buscar a sabedoria?",
+     "opcoes": [
+      "Como um amigo distante",
+      "Como pão de cada dia",
+      "Como água no deserto",
+      "Como prata e tesouros escondidos"
+     ],
+     "correta": 3,
+     "ref": "2:4"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Confia no SENHOR de todo o coração",
+   "chave": "3:5-6",
+   "resumo": "O pai pede que o filho guarde a lei, a bondade e a fidelidade no coração. Ensina a confiar no SENHOR de todo o coração, honrá-lo com os bens e aceitar sua correção como sinal de amor. Exalta a sabedoria como árvore de vida e termina com conselhos práticos sobre fazer o bem ao próximo.",
+   "licoes": [
+    "Confiar em Deus é não se apoiar só no próprio entendimento (3:5-6).",
+    "A correção de Deus é prova do seu amor de Pai (3:11-12).",
+    "Não adie o bem que você pode fazer hoje ao próximo (3:27-28)."
+   ],
+   "reflexao": "Em que área você tem se apoiado mais no próprio entendimento do que em Deus?",
+   "quiz": [
+    {
+     "pergunta": "A quem o SENHOR repreende, segundo o capítulo?",
+     "opcoes": [
+      "Aos estrangeiros",
+      "A quem ele ama",
+      "Aos ricos",
+      "Apenas aos perversos"
+     ],
+     "correta": 1,
+     "ref": "3:12"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Guarda o teu coração",
+   "chave": "4:23",
+   "resumo": "O pai conta que também recebeu ensino do próprio pai e o repassa aos filhos: adquirir sabedoria é o mais importante. Ele contrasta o caminho dos justos, que brilha cada vez mais, com o dos perversos, que é escuro. Pede que o filho guarde o coração, a boca, os olhos e os pés.",
+   "licoes": [
+    "A fé e a sabedoria passam de geração em geração (4:3-4).",
+    "O caminho do justo é como a luz da aurora, que vai clareando até o dia pleno (4:18).",
+    "Guardar o coração é prioridade, pois dele procedem as saídas da vida (4:23)."
+   ],
+   "reflexao": "O que tem entrado em seu coração ultimamente?",
+   "quiz": [
+    {
+     "pergunta": "Com o que é comparado o caminho dos justos?",
+     "opcoes": [
+      "Com um rio",
+      "Com uma montanha",
+      "Com uma estrada larga",
+      "Com a luz brilhante"
+     ],
+     "correta": 3,
+     "ref": "4:18"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "Fidelidade no casamento",
+   "chave": "5:18",
+   "resumo": "O pai alerta contra a mulher adúltera, cujas palavras são doces como mel, mas cujo fim é amargo e leva à morte. Mostra o arrependimento tardio de quem desprezou a correção. Em contraste, convida o filho a alegrar-se com a esposa da juventude, lembrando que Deus vê todos os caminhos.",
+   "licoes": [
+    "O pecado sexual parece doce no início, mas termina em amargura (5:3-4).",
+    "O prazer do amor tem seu lugar certo e abençoado no casamento (5:15, 5:18-19).",
+    "Os caminhos de cada pessoa estão diante dos olhos do SENHOR (5:21)."
+   ],
+   "reflexao": "Como você tem protegido a fidelidade nos seus relacionamentos?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o pai, com quem o filho deve se alegrar?",
+     "opcoes": [
+      "Com os amigos",
+      "Com a riqueza",
+      "Com a mulher de sua juventude",
+      "Com os estranhos"
+     ],
+     "correta": 2,
+     "ref": "5:18"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "A formiga e as sete coisas que Deus odeia",
+   "chave": "6:6",
+   "resumo": "O capítulo traz vários conselhos: livrar-se depressa de uma fiança imprudente, aprender com a formiga a não ser preguiçoso e evitar o homem que semeia brigas. Lista seis, ou sete, coisas que o SENHOR abomina. Volta a alertar contra o adultério, comparando-o a pôr fogo no peito.",
+   "licoes": [
+    "A formiga trabalha sem chefe e prepara o futuro; a preguiça leva à pobreza (6:6-11).",
+    "Deus odeia a arrogância, a mentira, a violência e quem semeia brigas entre irmãos (6:16-19).",
+    "A palavra de Deus é lâmpada e luz que guia em todo tempo (6:22-23)."
+   ],
+   "reflexao": "Qual das sete coisas que Deus odeia mais precisa ser vigiada na sua vida?",
+   "quiz": [
+    {
+     "pergunta": "Que animal o preguiçoso deve observar para ser sábio?",
+     "opcoes": [
+      "A formiga",
+      "O leão",
+      "A abelha",
+      "O gafanhoto"
+     ],
+     "correta": 0,
+     "ref": "6:6"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "O jovem sem juízo",
+   "chave": "7:2-3",
+   "resumo": "O pai pede que o filho trate a sabedoria como irmã e guarde os mandamentos como a menina dos olhos. Conta uma cena vista da janela: um jovem ingênuo anda à noite perto da casa de uma mulher adúltera, que o seduz com palavras e promessas. Ele a segue como o boi vai ao matadouro.",
+   "licoes": [
+    "A palavra de Deus guardada no coração protege das tentações (7:1-5).",
+    "A queda começa antes do pecado: o jovem já andava no caminho da casa dela, na hora escura (7:8-9).",
+    "A sedução esconde o preço real: a casa dela é caminho para a morte (7:22-23, 7:27)."
+   ],
+   "reflexao": "Que \"esquinas\" você deve evitar para não se aproximar da tentação?",
+   "quiz": [
+    {
+     "pergunta": "Com o que é comparado o jovem que segue a mulher?",
+     "opcoes": [
+      "Com um leão",
+      "Com o boi que vai ao matadouro",
+      "Com uma águia",
+      "Com um cordeiro perdido"
+     ],
+     "correta": 1,
+     "ref": "7:22"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "A Sabedoria estava com Deus na criação",
+   "chave": "8:22-23",
+   "resumo": "A Sabedoria fala em pessoa nas portas da cidade, prometendo verdade, justiça e riquezas melhores que o ouro. Ela diz que por meio dela os reis governam e que ama os que a amam. Conta que estava com o SENHOR antes da criação, alegrando-se diante dele enquanto ele fazia o mundo.",
+   "licoes": [
+    "A sabedoria vale mais que prata, ouro e rubis (8:10-11).",
+    "Temer ao SENHOR inclui odiar o mal, a soberba e a boca perversa (8:13).",
+    "Deus criou o mundo com sabedoria; quem a encontra encontra a vida (8:30, 8:35)."
+   ],
+   "reflexao": "O que você mais valoriza: ter coisas ou ter sabedoria?",
+   "quiz": [
+    {
+     "pergunta": "Segundo a Sabedoria, quem a encontrará?",
+     "opcoes": [
+      "Os ricos",
+      "Os reis apenas",
+      "Os que a buscam intensamente",
+      "Os mais velhos"
+     ],
+     "correta": 2,
+     "ref": "8:17"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "Dois banquetes, dois convites",
+   "chave": "9:10",
+   "resumo": "A Sabedoria constrói sua casa, prepara um banquete e convida os ingênuos a comer e viver. No meio, há conselhos sobre corrigir o sábio e o zombador. Do outro lado, a mulher Loucura também convida, dizendo que águas roubadas são doces, mas seus convidados acabam no Xeol.",
+   "licoes": [
+    "Toda pessoa recebe dois convites: o da sabedoria, que leva à vida, e o da tolice, que leva à morte (9:5-6, 9:17-18).",
+    "O sábio aceita correção e cresce; o zombador a rejeita (9:8-9).",
+    "O temor ao SENHOR é o princípio da sabedoria (9:10)."
+   ],
+   "reflexao": "Que convite você tem aceitado com mais frequência?",
+   "quiz": [
+    {
+     "pergunta": "O que diz a mulher louca sobre as águas roubadas?",
+     "opcoes": [
+      "Que são doces",
+      "Que são amargas",
+      "Que são perigosas",
+      "Que são proibidas"
+     ],
+     "correta": 0,
+     "ref": "9:17"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "titulo": "Provérbios de Salomão: o justo e o perverso",
+   "chave": "10:12",
+   "resumo": "Começa a primeira grande coleção de provérbios de Salomão, frases curtas que muitas vezes contrastam o justo e o perverso. Os temas incluem o trabalho e a preguiça, a boca que dá vida e a que fere, o ódio e o amor. Destaca que é a bênção do SENHOR que enriquece.",
+   "licoes": [
+    "O trabalho diligente contrasta com a preguiça que empobrece (10:4-5).",
+    "O ódio desperta brigas, mas o amor cobre todas as transgressões (10:12).",
+    "Falar muito leva ao erro; refrear os lábios é prudência (10:19)."
+   ],
+   "reflexao": "Suas palavras têm sido manancial de vida para quem está perto?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o provérbio, o que o amor cobre?",
+     "opcoes": [
+      "As dívidas",
+      "Os segredos",
+      "As riquezas",
+      "Todas as transgressões"
+     ],
+     "correta": 3,
+     "ref": "10:12"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "titulo": "Balança justa e alma generosa",
+   "chave": "11:25",
+   "resumo": "Os provérbios deste capítulo tratam da honestidade nos negócios, da humildade e do valor de bons conselheiros. Falam da fofoca, da bondade e da generosidade, mostrando que quem dá com alegria prospera. Afirmam que confiar nas riquezas leva à queda.",
+   "licoes": [
+    "Deus se agrada da honestidade nos negócios, como o peso justo (11:1).",
+    "Muitos conselheiros sábios trazem segurança (11:14).",
+    "A generosidade enriquece a alma: quem sacia também será saciado (11:24-25)."
+   ],
+   "reflexao": "Em que você pode ser mais generoso esta semana?",
+   "quiz": [
+    {
+     "pergunta": "O que acontecerá com a alma generosa?",
+     "opcoes": [
+      "Empobrecerá",
+      "Prosperará",
+      "Será esquecida",
+      "Será enganada"
+     ],
+     "correta": 1,
+     "ref": "11:25"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "titulo": "Palavras que ferem e palavras que curam",
+   "chave": "12:18",
+   "resumo": "Os provérbios contrastam quem ama a correção e quem a odeia, o trabalhador e o preguiçoso, a verdade e a mentira. Destacam o poder das palavras: umas ferem como espada, outras curam como remédio. Lembram que a ansiedade abate, mas uma boa palavra alegra.",
+   "licoes": [
+    "Quem ama a correção ama o conhecimento (12:1).",
+    "As palavras podem ferir como golpes de espada ou curar como remédio (12:18).",
+    "Uma boa palavra pode aliviar o coração ansioso de alguém (12:25)."
+   ],
+   "reflexao": "A quem você pode dizer hoje uma boa palavra?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o provérbio, o que abate o coração do homem?",
+     "opcoes": [
+      "A pobreza",
+      "A idade",
+      "O trabalho",
+      "A ansiedade"
+     ],
+     "correta": 3,
+     "ref": "12:25"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "titulo": "Quem anda com os sábios",
+   "chave": "13:20",
+   "resumo": "Os provérbios falam de guardar a boca, do valor do trabalho honesto e da esperança que demora. Mostram que as companhias moldam a pessoa: quem anda com sábios se torna sábio. Tratam também da herança e da disciplina amorosa dos filhos.",
+   "licoes": [
+    "Cuidar das palavras protege a própria vida (13:3).",
+    "A riqueza construída aos poucos, com trabalho, permanece (13:11).",
+    "As amizades influenciam o caráter: quem anda com os sábios se torna sábio (13:20)."
+   ],
+   "reflexao": "Suas amizades têm deixado você mais sábio?",
+   "quiz": [
+    {
+     "pergunta": "O que acontece com quem anda com os sábios?",
+     "opcoes": [
+      "Fica rico",
+      "Fica orgulhoso",
+      "Torna-se sábio",
+      "Perde o rumo"
+     ],
+     "correta": 2,
+     "ref": "13:20"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "titulo": "O caminho que parece certo",
+   "chave": "14:12",
+   "resumo": "Os provérbios contrastam a mulher sábia que edifica sua casa e a tola que a derruba, o ingênuo que acredita em tudo e o prudente que pensa nos passos. Alertam que há caminhos que parecem certos, mas levam à morte. Mostram que oprimir o pobre é insultar o Criador e que a justiça exalta uma nação.",
+   "licoes": [
+    "Nem tudo o que parece certo leva à vida; é preciso discernimento (14:12, 14:15).",
+    "Demorar para se irar é sinal de grande entendimento (14:29).",
+    "A forma como tratamos o pobre revela como tratamos Deus, seu Criador (14:31)."
+   ],
+   "reflexao": "Há algum caminho em sua vida que parece certo, mas você deveria repensar?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o provérbio, quem oprime o pobre insulta a quem?",
+     "opcoes": [
+      "Ao seu Criador",
+      "Ao rei",
+      "Aos sacerdotes",
+      "Aos vizinhos"
+     ],
+     "correta": 0,
+     "ref": "14:31"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "titulo": "A resposta suave",
+   "chave": "15:1",
+   "resumo": "Os provérbios abrem com o poder da resposta suave para acalmar a ira. Lembram que os olhos do SENHOR veem tudo e que ele ouve a oração dos justos. Ensinam que é melhor pouco com temor a Deus e amor do que muito com inquietação e ódio.",
+   "licoes": [
+    "Uma resposta suave desvia o furor; palavras duras aumentam a ira (15:1).",
+    "Pouco com amor vale mais que fartura com ódio (15:16-17).",
+    "Antes da honra vem a humildade (15:33)."
+   ],
+   "reflexao": "Em que conversa difícil você pode escolher uma resposta suave?",
+   "quiz": [
+    {
+     "pergunta": "O que desvia o furor, segundo o provérbio?",
+     "opcoes": [
+      "O silêncio",
+      "A resposta suave",
+      "O presente",
+      "A fuga"
+     ],
+     "correta": 1,
+     "ref": "15:1"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "titulo": "O homem planeja, Deus dirige",
+   "chave": "16:9",
+   "resumo": "Os provérbios deste capítulo destacam a soberania de Deus sobre os planos humanos: o homem planeja, mas o SENHOR dirige os passos. Falam da justiça dos reis, do valor da sabedoria acima do ouro e do perigo do orgulho. Lembram que dominar o próprio espírito é maior que conquistar uma cidade.",
+   "licoes": [
+    "Entregue seus planos ao SENHOR, pois é ele quem firma e dirige os passos (16:3, 16:9).",
+    "A soberba vem antes da queda (16:18).",
+    "Palavras suaves são como favo de mel: doces para a alma e remédio para o corpo (16:24)."
+   ],
+   "reflexao": "Que plano você precisa entregar a Deus hoje?",
+   "quiz": [
+    {
+     "pergunta": "O que vem antes da queda, segundo o provérbio?",
+     "opcoes": [
+      "A pobreza",
+      "A doença",
+      "A soberba de espírito",
+      "A guerra"
+     ],
+     "correta": 2,
+     "ref": "16:18"
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "titulo": "O amigo ama em todo tempo",
+   "chave": "17:17",
+   "resumo": "Os provérbios valorizam a paz em casa acima da fartura com brigas e lembram que o SENHOR prova os corações como o fogo prova o ouro. Falam do perdão que preserva amizades, de evitar brigas antes que comecem e do coração alegre como remédio. Mostram que até o tolo parece sábio quando fica calado.",
+   "licoes": [
+    "Deus prova os corações como o fogo prova a prata e o ouro (17:3).",
+    "Perdoar e não repetir a ofensa preserva as amizades (17:9).",
+    "O verdadeiro amigo ama em todo tempo, inclusive na angústia (17:17)."
+   ],
+   "reflexao": "Você tem sido um amigo presente nas horas difíceis?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o provérbio, o que é um bom remédio?",
+     "opcoes": [
+      "O coração alegre",
+      "O vinho",
+      "O silêncio",
+      "O dinheiro"
+     ],
+     "correta": 0,
+     "ref": "17:22"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "titulo": "O nome do SENHOR é torre forte",
+   "chave": "18:10",
+   "resumo": "Os provérbios alertam contra o isolamento, a fofoca e responder antes de ouvir. Mostram que o nome do SENHOR é refúgio seguro para o justo, enquanto o rico confia em seus bens. Lembram que a língua tem poder de vida e de morte e que há um amigo mais chegado que um irmão.",
+   "licoes": [
+    "O refúgio seguro do justo é o nome do SENHOR, não as riquezas (18:10-11).",
+    "Responder antes de ouvir é tolice (18:13).",
+    "A língua tem poder de morte e de vida (18:21)."
+   ],
+   "reflexao": "Você tem ouvido de verdade antes de responder?",
+   "quiz": [
+    {
+     "pergunta": "Com o que é comparado o nome do SENHOR?",
+     "opcoes": [
+      "Com uma rocha",
+      "Com um rio",
+      "Com uma lâmpada",
+      "Com uma torre forte"
+     ],
+     "correta": 3,
+     "ref": "18:10"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "titulo": "Quem dá ao pobre empresta a Deus",
+   "chave": "19:17",
+   "resumo": "Os provérbios tratam do pobre honesto, da falsa testemunha, da paciência e da preguiça. Afirmam que ignorar a ofensa é glória e que ajudar o pobre é como emprestar ao próprio SENHOR. Lembram que os planos humanos são muitos, mas o conselho de Deus prevalece.",
+   "licoes": [
+    "A prudência segura a ira, e é honroso relevar uma ofensa (19:11).",
+    "Fazer o bem ao pobre é emprestar ao SENHOR, que recompensa (19:17).",
+    "O ser humano faz muitos planos, mas o propósito de Deus prevalece (19:21)."
+   ],
+   "reflexao": "Que necessidade de alguém você pode atender esta semana?",
+   "quiz": [
+    {
+     "pergunta": "Quem faz misericórdia ao pobre empresta a quem?",
+     "opcoes": [
+      "Ao rei",
+      "Ao SENHOR",
+      "Aos sacerdotes",
+      "Ao próprio pobre"
+     ],
+     "correta": 1,
+     "ref": "19:17"
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "titulo": "Espera pelo SENHOR",
+   "chave": "20:22",
+   "resumo": "Os provérbios alertam contra o vinho que zomba, a preguiça, a desonestidade com pesos e medidas e a fofoca. Perguntam quem pode dizer que purificou o próprio coração. Ensinam a não buscar vingança, mas esperar que o SENHOR livre.",
+   "licoes": [
+    "Ninguém pode se declarar puro de pecado por conta própria (20:9).",
+    "Até um jovem é conhecido por suas ações (20:11).",
+    "Em vez de pagar o mal com o mal, espere pelo SENHOR (20:22)."
+   ],
+   "reflexao": "Há alguma vingança que você precisa entregar a Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que o provérbio aconselha em vez de devolver o mal?",
+     "opcoes": [
+      "Fugir para longe",
+      "Esquecer tudo",
+      "Pedir ajuda ao rei",
+      "Esperar pelo SENHOR"
+     ],
+     "correta": 3,
+     "ref": "20:22"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "titulo": "O coração do rei na mão de Deus",
+   "chave": "21:3",
+   "resumo": "Os provérbios começam afirmando que até o coração do rei está na mão do SENHOR. Ensinam que praticar a justiça agrada mais a Deus do que sacrifícios e que quem fecha o ouvido ao pobre não será ouvido. Terminam lembrando que a vitória vem do SENHOR, não dos cavalos.",
+   "licoes": [
+    "Deus governa até o coração dos poderosos (21:1).",
+    "Fazer justiça vale mais para Deus do que rituais religiosos (21:3).",
+    "Podemos nos preparar, mas a vitória vem do SENHOR (21:31)."
+   ],
+   "reflexao": "Sua fé se mostra mais em rituais ou em atos de justiça?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o provérbio, o que é mais aceitável ao SENHOR do que sacrifício?",
+     "opcoes": [
+      "Jejum",
+      "Grandes ofertas",
+      "Praticar justiça e juízo",
+      "Cânticos"
+     ],
+     "correta": 2,
+     "ref": "21:3"
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "titulo": "Um bom nome e as palavras dos sábios",
+   "chave": "22:6",
+   "resumo": "O capítulo encerra a coleção de Salomão com provérbios sobre o bom nome, a educação das crianças e o perigo das dívidas. A partir do versículo 17 começam as \"palavras dos sábios\", com conselhos dados para que a confiança do leitor esteja no SENHOR. Elas alertam contra roubar o pobre e andar com gente irada.",
+   "licoes": [
+    "Um bom nome vale mais que muitas riquezas (22:1).",
+    "Educar a criança no caminho certo deixa marcas para toda a vida (22:6).",
+    "Deus defende a causa do pobre e do aflito (22:22-23)."
+   ],
+   "reflexao": "Que \"caminho\" você está ensinando, com palavras e exemplo, a quem vem depois de você?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o provérbio, o que é preferível a muitas riquezas?",
+     "opcoes": [
+      "Um bom nome",
+      "Muitos amigos",
+      "Uma casa grande",
+      "Uma longa vida"
+     ],
+     "correta": 0,
+     "ref": "22:1"
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "titulo": "Não te canses para ser rico",
+   "chave": "23:4-5",
+   "resumo": "Os sábios aconselham cuidado à mesa dos poderosos e moderação na busca por riqueza, que voa como águia. Pedem que não se mexa nos limites dos órfãos e que não se inveje os pecadores. O capítulo termina com uma descrição viva dos efeitos do abuso do vinho.",
+   "licoes": [
+    "A riqueza é passageira; não vale a pena se esgotar por ela (23:4-5).",
+    "Deus é o Defensor poderoso dos órfãos (23:10-11).",
+    "O abuso da bebida traz feridas, confusão e dependência (23:29-35)."
+   ],
+   "reflexao": "O que você tem perseguido com mais energia: riqueza ou sabedoria?",
+   "quiz": [
+    {
+     "pergunta": "Com o que a riqueza é comparada quando voa?",
+     "opcoes": [
+      "Com uma pomba",
+      "Com uma águia",
+      "Com uma flecha",
+      "Com o vento"
+     ],
+     "correta": 1,
+     "ref": "23:5"
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "titulo": "O justo cai sete vezes e se levanta",
+   "chave": "24:16",
+   "resumo": "Os sábios ensinam que a casa é edificada pela sabedoria e que é preciso socorrer os que estão sendo levados à morte. Afirmam que o justo cai muitas vezes, mas se levanta, e que não se deve comemorar a queda do inimigo. O capítulo termina com a lição do campo do preguiçoso, tomado por espinhos.",
+   "licoes": [
+    "Não podemos fingir que não sabemos do sofrimento alheio; Deus pesa os corações (24:11-12).",
+    "O justo pode cair muitas vezes, mas volta a se levantar (24:16).",
+    "Não se alegre quando seu inimigo tropeçar (24:17)."
+   ],
+   "reflexao": "Depois de uma queda, o que ajuda você a se levantar?",
+   "quiz": [
+    {
+     "pergunta": "Quantas vezes o justo cai e se levanta, segundo o provérbio?",
+     "opcoes": [
+      "Três",
+      "Sete",
+      "Dez",
+      "Setenta"
+     ],
+     "correta": 1,
+     "ref": "24:16"
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "titulo": "Provérbios copiados pelos homens de Ezequias",
+   "chave": "25:11",
+   "resumo": "Começa uma nova coleção de provérbios de Salomão, copiados na época do rei Ezequias. Os ditados falam de humildade diante dos grandes, de palavras ditas no tempo certo e de não exagerar nas visitas. Ensinam até a dar pão e água ao inimigo faminto.",
+   "licoes": [
+    "É melhor ser chamado para subir do que ser rebaixado por se exaltar (25:6-7).",
+    "A palavra certa no tempo certo é como maçãs de ouro em bandejas de prata (25:11).",
+    "Fazer o bem ao inimigo agrada ao SENHOR (25:21-22)."
+   ],
+   "reflexao": "Há alguém que o ofendeu a quem você poderia fazer um bem concreto?",
+   "quiz": [
+    {
+     "pergunta": "Quem copiou estes provérbios de Salomão?",
+     "opcoes": [
+      "Os homens de Ezequias",
+      "Os sacerdotes de Davi",
+      "Os profetas de Judá",
+      "Os escribas de Josias"
+     ],
+     "correta": 0,
+     "ref": "25:1"
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "titulo": "O tolo, o preguiçoso e o fofoqueiro",
+   "chave": "26:20",
+   "resumo": "O capítulo descreve três tipos de pessoa com imagens marcantes. O tolo repete sua loucura como o cão volta ao vômito; o preguiçoso vira na cama como porta na dobradiça e inventa um leão na rua. O fofoqueiro alimenta brigas como a lenha alimenta o fogo.",
+   "licoes": [
+    "É preciso discernimento para saber quando responder ou não ao tolo (26:4-5).",
+    "Achar-se sábio aos próprios olhos é pior que ser tolo (26:12).",
+    "Sem fofoca a briga termina, assim como o fogo se apaga sem lenha (26:20)."
+   ],
+   "reflexao": "Você tem sido lenha ou água nas brigas ao seu redor?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o provérbio, sem o quê a briga termina?",
+     "opcoes": [
+      "Sem dinheiro",
+      "Sem vinho",
+      "Sem juiz",
+      "Sem fofoqueiro"
+     ],
+     "correta": 3,
+     "ref": "26:20"
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "titulo": "O ferro afia o ferro",
+   "chave": "27:17",
+   "resumo": "Os provérbios ensinam a não se gabar do amanhã e a deixar que outros nos elogiem. Valorizam a amizade sincera, que fere para o bem e afia o caráter como o ferro afia o ferro. Terminam com conselhos de cuidado com o rebanho, pois as riquezas não duram para sempre.",
+   "licoes": [
+    "Ninguém sabe o que o amanhã trará; por isso não se orgulhe dele (27:1).",
+    "A correção de um amigo fiel vale mais que os beijos de um inimigo (27:5-6).",
+    "Bons amigos nos tornam melhores, como o ferro afia o ferro (27:17)."
+   ],
+   "reflexao": "Que amigo tem \"afiado\" você para ser uma pessoa melhor?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o provérbio, o que afia o ferro?",
+     "opcoes": [
+      "A pedra",
+      "O ferro",
+      "A água",
+      "O fogo"
+     ],
+     "correta": 1,
+     "ref": "27:17"
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "titulo": "Quem confessa alcança misericórdia",
+   "chave": "28:13",
+   "resumo": "Os provérbios contrastam o justo, ousado como um leão, com o perverso que foge sem perseguidor. Falam do valor da lei, da honestidade do pobre e do perigo de enriquecer depressa. Destacam que quem esconde seus pecados não prospera, mas quem os confessa e abandona encontra misericórdia.",
+   "licoes": [
+    "A consciência limpa dá coragem; a culpa faz fugir sem motivo (28:1).",
+    "Esconder o pecado não traz paz; confessá-lo e abandoná-lo traz misericórdia (28:13).",
+    "Quem confia no próprio coração é tolo; quem confia no SENHOR prospera (28:25-26)."
+   ],
+   "reflexao": "Há algo que você tem escondido e precisa confessar a Deus?",
+   "quiz": [
+    {
+     "pergunta": "Quem alcança misericórdia, segundo o provérbio?",
+     "opcoes": [
+      "Quem esconde suas transgressões",
+      "Quem enriquece depressa",
+      "Quem oferece sacrifícios",
+      "Quem confessa e abandona suas transgressões"
+     ],
+     "correta": 3,
+     "ref": "28:13"
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "titulo": "O temor do homem arma ciladas",
+   "chave": "29:25",
+   "resumo": "Os provérbios falam do líder justo que alegra o povo e do perverso que o faz gemer. Ensinam o autocontrole, a correção dos filhos e o perigo da teimosia e da ira. Mostram que o medo das pessoas é uma armadilha, mas quem confia no SENHOR está seguro.",
+   "licoes": [
+    "Líderes justos trazem alegria; líderes corruptos fazem o povo sofrer (29:2, 29:4).",
+    "O sábio controla seus impulsos, ao contrário do tolo (29:11).",
+    "Viver pelo medo do que os outros pensam é uma cilada; confiar em Deus traz segurança (29:25)."
+   ],
+   "reflexao": "O medo da opinião dos outros tem guiado suas decisões?",
+   "quiz": [
+    {
+     "pergunta": "O que arma ciladas, segundo o provérbio?",
+     "opcoes": [
+      "A pobreza",
+      "A riqueza",
+      "O temor do homem",
+      "O vinho"
+     ],
+     "correta": 2,
+     "ref": "29:25"
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "titulo": "As palavras de Agur",
+   "chave": "30:5",
+   "resumo": "Agur reconhece humildemente sua falta de sabedoria e pergunta quem subiu ao céu e governa o mundo. Afirma que toda palavra de Deus é pura e pede a Deus nem pobreza nem riqueza, apenas o pão necessário. Depois apresenta listas numéricas de coisas que observou na natureza e na vida humana.",
+   "licoes": [
+    "A humildade é o começo da sabedoria: Agur admite o quanto não sabe (30:2-4).",
+    "A palavra de Deus é pura e protege quem confia nele (30:5).",
+    "Pedir o suficiente protege tanto do orgulho da riqueza quanto da tentação da pobreza (30:8-9).",
+    "Até criaturas pequenas, como formigas e gafanhotos, ensinam sabedoria (30:24-27)."
+   ],
+   "reflexao": "O que seria para você o \"pão necessário\" de cada dia?",
+   "quiz": [
+    {
+     "pergunta": "O que Agur pede a Deus?",
+     "opcoes": [
+      "Nem pobreza nem riqueza",
+      "Muita riqueza",
+      "Vida longa",
+      "Vitória sobre os inimigos"
+     ],
+     "correta": 0,
+     "ref": "30:8"
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "titulo": "A mulher virtuosa",
+   "chave": "31:30",
+   "resumo": "A mãe do rei Lemuel o aconselha a não se entregar a vícios e a defender os que não têm voz. Segue um poema acróstico (no hebraico, cada verso começa com uma letra do alfabeto) sobre a mulher virtuosa. Ela é trabalhadora, generosa e sábia, e é louvada porque teme ao SENHOR.",
+   "licoes": [
+    "Líderes devem falar pelos que não têm voz e defender os necessitados (31:8-9).",
+    "A mulher virtuosa une trabalho, cuidado da família e generosidade com os pobres (31:13, 31:20).",
+    "A beleza passa, mas quem teme ao SENHOR será louvado (31:30)."
+   ],
+   "reflexao": "Quem, ao seu redor, precisa que você abra a boca em sua defesa?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o poema, quem será louvada?",
+     "opcoes": [
+      "A mulher mais bela",
+      "A mulher que teme ao SENHOR",
+      "A mulher mais rica",
+      "A mulher do rei"
+     ],
+     "correta": 1,
+     "ref": "31:30"
+    }
+   ]
+  }
+ ]
+}

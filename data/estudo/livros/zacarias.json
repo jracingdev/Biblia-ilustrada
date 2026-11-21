@@ -1,0 +1,443 @@
+{
+ "livro": "zacarias",
+ "nome": "Zacarias",
+ "subtitulo": "O SENHOR volta a Sião e o Rei vem",
+ "introducao": "Zacarias, contemporâneo de Ageu, anima os judeus que voltaram do exílio a reconstruir o templo e a voltar de coração para Deus. A primeira parte traz oito visões noturnas e chamados à justiça; a segunda, oráculos sobre um rei humilde, um pastor rejeitado e o dia em que o SENHOR reinará sobre toda a terra. É um dos livros proféticos mais citados nos relatos da paixão de Jesus.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Zacarias, filho de Berequias, filho de Ido (1:1); muitos estudiosos pensam que os capítulos 9–14 vêm de outro momento ou autor, enquanto outros mantêm a unidade"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "As visões são datadas de 520–518 a.C., no reinado do persa Dario (1:1, 7:1)"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Jerusalém, após o retorno do exílio"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Profecia com visões simbólicas (estilo apocalíptico) e oráculos"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "14 capítulos e 211 versículos"
+  }
+ ],
+ "chave": "4:6",
+ "temas": [
+  "Voltar para Deus",
+  "Deus habita no meio do seu povo",
+  "Não por força, mas pelo Espírito",
+  "O Rei humilde e o Pastor ferido",
+  "O reinado universal do SENHOR"
+ ],
+ "cristo": "Os Evangelhos veem em Zacarias o retrato de Jesus: o rei humilde que entra em Jerusalém num jumentinho, o pastor avaliado em trinta moedas de prata, o pastor ferido cujas ovelhas se dispersam e aquele a quem traspassaram. O Renovo que é rei e sacerdote e a fonte aberta contra o pecado também são lidos à luz de Cristo.",
+ "secoes": [
+  {
+   "id": "visoes-noturnas",
+   "titulo": "Chamado e visões noturnas",
+   "capitulos": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "resumo": "Oito visões anunciam consolo, purificação e reconstrução."
+  },
+  {
+   "id": "jejum-e-justica",
+   "titulo": "Jejum, justiça e restauração",
+   "capitulos": [
+    7,
+    8
+   ],
+   "resumo": "Deus pede justiça verdadeira e promete transformar luto em festa."
+  },
+  {
+   "id": "o-rei-e-o-pastor",
+   "titulo": "O Rei humilde e o Pastor rejeitado",
+   "capitulos": [
+    9,
+    10,
+    11
+   ],
+   "resumo": "O rei vem em paz, Deus reúne o rebanho e o pastor é desprezado."
+  },
+  {
+   "id": "o-dia-do-senhor",
+   "titulo": "Purificação e o dia do SENHOR",
+   "capitulos": [
+    12,
+    13,
+    14
+   ],
+   "resumo": "Arrependimento, purificação e o reinado de Deus sobre a terra."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Voltai-vos a mim",
+   "chave": "1:3",
+   "resumo": "Zacarias começa chamando o povo a voltar para Deus e a não repetir o erro dos pais, que não ouviram os profetas. Depois, numa visão noturna, vê cavaleiros entre murtas que relatam que a terra está tranquila. O anjo intercede por Jerusalém, e Deus responde com palavras de consolo: tem zelo por Sião e reconstruirá sua casa. Quatro chifres que dispersaram Judá serão derrubados por quatro ferreiros.",
+   "licoes": [
+    "Deus promete se voltar para quem se volta para ele (1:3).",
+    "A história dos pais é um aviso para não endurecer o coração (1:4-6).",
+    "Deus responde à intercessão com \"palavras boas, palavras de consolo\" (1:13).",
+    "Os poderes que oprimem o povo de Deus não têm a última palavra (1:21)."
+   ],
+   "reflexao": "Em que área você precisa ouvir hoje o convite \"voltai-vos a mim\"?",
+   "quiz": [
+    {
+     "pergunta": "Sobre que cor de cavalo estava montado o homem entre as murtas?",
+     "opcoes": [
+      "Branco",
+      "Preto",
+      "Malhado",
+      "Vermelho"
+     ],
+     "correta": 3,
+     "ref": "1:8"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Um muro de fogo ao redor",
+   "chave": "2:5",
+   "resumo": "Um homem sai para medir Jerusalém, mas Deus anuncia que a cidade será habitada sem muros por causa de tanta gente, e ele mesmo será seu muro de fogo e sua glória. Os exilados são chamados a fugir da Babilônia. Quem toca o povo de Deus toca a menina dos seus olhos. Deus virá habitar no meio de Sião, e muitas nações se unirão ao SENHOR.",
+   "licoes": [
+    "A segurança do povo de Deus vem da presença dele, não apenas de muros (2:4-5).",
+    "Deus guarda seu povo com cuidado, como a \"menina de seu olho\" (2:8).",
+    "O plano de Deus inclui muitas nações como seu povo (2:11)."
+   ],
+   "reflexao": "O que muda quando você entende que é precioso aos olhos de Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus diz que será ao redor de Jerusalém?",
+     "opcoes": [
+      "Um muro de fogo",
+      "Um muro de pedra",
+      "Um rio",
+      "Um exército de anjos"
+     ],
+     "correta": 0,
+     "ref": "2:5"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Roupas limpas para o sumo sacerdote",
+   "chave": "3:4",
+   "resumo": "Zacarias vê o sumo sacerdote Josué, com roupas sujas, diante do anjo do SENHOR, e Satanás à sua direita para acusá-lo. O SENHOR repreende o acusador, e o anjo manda tirar as roupas sujas e vestir Josué com roupas finas e turbante limpo, sinal de que sua culpa foi tirada. Deus promete trazer o seu servo, o Renovo, e remover a iniquidade da terra num só dia.",
+   "licoes": [
+    "Deus repreende o acusador e defende quem ele escolheu (3:1-2).",
+    "Perdão é Deus tirar a culpa e vestir de novo (3:4).",
+    "Quem foi purificado é chamado a andar nos caminhos de Deus (3:7).",
+    "Deus promete o Renovo e um dia de remoção da culpa (3:8-9)."
+   ],
+   "reflexao": "Que \"roupa suja\" você precisa deixar Deus tirar?",
+   "quiz": [
+    {
+     "pergunta": "Quem estava à direita de Josué para acusá-lo?",
+     "opcoes": [
+      "Zorobabel",
+      "O anjo do SENHOR",
+      "Satanás",
+      "Ageu"
+     ],
+     "correta": 2,
+     "ref": "3:1"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Não por força, mas pelo meu Espírito",
+   "chave": "4:6",
+   "resumo": "O profeta vê um candelabro de ouro com sete lâmpadas, alimentado por duas oliveiras. A mensagem para Zorobabel é que a obra do templo não será feita por força ou poder humano, mas pelo Espírito de Deus. Montanhas de obstáculos virarão planície, e as mãos que lançaram os alicerces vão terminar a obra. Ninguém deve desprezar o dia dos pequenos começos.",
+   "licoes": [
+    "A obra de Deus depende do seu Espírito, não do poder humano (4:6).",
+    "Diante de Deus, grandes obstáculos podem virar planície (4:7).",
+    "Não se deve desprezar \"o dia das pequenas coisas\" (4:10).",
+    "Deus termina o que começa (4:9)."
+   ],
+   "reflexao": "Que obra em sua vida parece pequena demais, mas Deus pode usar?",
+   "quiz": [
+    {
+     "pergunta": "Segundo a palavra a Zorobabel, por meio de que a obra seria feita?",
+     "opcoes": [
+      "Por força",
+      "Por violência",
+      "Pelo espírito do SENHOR",
+      "Pelo dinheiro dos persas"
+     ],
+     "correta": 2,
+     "ref": "4:6"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "O rolo voador e a mulher no cesto",
+   "chave": "5:3",
+   "resumo": "Zacarias vê um enorme rolo voando: é a maldição que vai atingir a casa dos ladrões e de quem jura falsamente pelo nome de Deus. Depois vê um cesto de medir com uma mulher dentro, chamada Perversidade, tampado com chumbo. Duas mulheres aladas levam o cesto para a terra de Sinar, isto é, a Babilônia.",
+   "licoes": [
+    "A palavra de Deus alcança o roubo e a mentira escondidos dentro de casa (5:3-4).",
+    "Deus não apenas perdoa, mas também remove a maldade do meio do seu povo (5:8-9).",
+    "O mal tem seu lugar longe da terra purificada por Deus (5:11)."
+   ],
+   "reflexao": "Há alguma desonestidade que você precisa abandonar?",
+   "quiz": [
+    {
+     "pergunta": "Como se chamava a mulher sentada no cesto?",
+     "opcoes": [
+      "Perversidade",
+      "Babilônia",
+      "Vaidade",
+      "Idolatria"
+     ],
+     "correta": 0,
+     "ref": "5:8"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "As carruagens e a coroa do Renovo",
+   "chave": "6:12",
+   "resumo": "Na última visão, quatro carruagens com cavalos de cores diferentes saem dentre montes de bronze: são os quatro espíritos dos céus que percorrem a terra. Depois, Deus manda fazer coroas com prata e ouro de exilados que voltaram e colocá-las sobre o sumo sacerdote Josué. Ele anuncia o homem chamado Renovo, que edificará o templo e será rei e sacerdote, com conselho de paz.",
+   "licoes": [
+    "Deus governa toda a terra por meio dos seus agentes (6:5, 6:7).",
+    "O Renovo une as funções de rei e sacerdote (6:12-13).",
+    "Os que estão longe virão participar da obra, mediante obediência à voz do SENHOR (6:15)."
+   ],
+   "reflexao": "Como você responde a um Deus que reina e ao mesmo tempo intercede?",
+   "quiz": [
+    {
+     "pergunta": "Sobre a cabeça de quem foram colocadas as coroas?",
+     "opcoes": [
+      "Zorobabel",
+      "Zacarias",
+      "Dario",
+      "O sumo sacerdote Josué"
+     ],
+     "correta": 3,
+     "ref": "6:11"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "Jejum para quem?",
+   "chave": "7:9",
+   "resumo": "Dois anos depois, uma comissão de Betel pergunta se ainda deve jejuar no quinto mês, como faziam havia anos. Deus questiona: aqueles jejuns eram mesmo para ele? Lembra o que os antigos profetas pediam: juízo verdadeiro, misericórdia, nada de oprimir viúva, órfão, estrangeiro e pobre. Os pais endureceram o coração como diamante, e por isso foram espalhados entre as nações.",
+   "licoes": [
+    "Práticas religiosas podem virar hábito voltado para nós mesmos (7:5-6).",
+    "Deus pede justiça, piedade e misericórdia entre irmãos (7:9).",
+    "Cuidar dos vulneráveis é parte central da vontade de Deus (7:10).",
+    "Coração endurecido diante da palavra traz consequências sérias (7:11-12)."
+   ],
+   "reflexao": "Suas práticas de fé têm aproximado você de Deus e do próximo?",
+   "quiz": [
+    {
+     "pergunta": "Que pergunta os enviados de Betel trouxeram aos sacerdotes?",
+     "opcoes": [
+      "Se deviam reconstruir o muro",
+      "Se deviam chorar e jejuar no quinto mês",
+      "Se deviam voltar à Babilônia",
+      "Se deviam escolher um rei"
+     ],
+     "correta": 1,
+     "ref": "7:3"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "Cidade da Verdade",
+   "chave": "8:3",
+   "resumo": "Deus declara seu zelo por Sião e promete voltar a habitar em Jerusalém, chamada Cidade da Verdade. Idosos se sentarão nas praças e crianças brincarão nas ruas. O povo, que era maldição entre as nações, será bênção. Deus pede verdade, justiça e paz, transforma jejuns tristes em festas e anuncia que muitos povos buscarão o SENHOR, segurando a veste de um judeu porque Deus está com eles.",
+   "licoes": [
+    "O que parece impossível para nós não é impossível para Deus (8:6).",
+    "Deus transforma o povo que era maldição em bênção (8:13).",
+    "A vida do povo restaurado é marcada por verdade e paz (8:16-17).",
+    "A presença de Deus com seu povo atrai as nações (8:23)."
+   ],
+   "reflexao": "As pessoas ao seu redor percebem que \"Deus está convosco\"?",
+   "quiz": [
+    {
+     "pergunta": "Quantos homens de todas as línguas pegarão a orla da veste de um judeu?",
+     "opcoes": [
+      "Três",
+      "Sete",
+      "Dez",
+      "Doze"
+     ],
+     "correta": 2,
+     "ref": "8:23"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "Teu rei vem montado num jumentinho",
+   "chave": "9:9",
+   "resumo": "Começa a segunda parte do livro com um oráculo contra Damasco, Tiro e as cidades filisteias, mas com promessa de que um remanescente pertencerá a Deus. Sião é chamada a se alegrar: seu rei vem justo, salvador e humilde, montado num jumentinho, e falará paz às nações. Pelo sangue da aliança, Deus libertará os prisioneiros e protegerá seu povo como um rebanho.",
+   "licoes": [
+    "Riqueza e fortalezas não protegem diante de Deus (9:3-4).",
+    "O rei prometido vem com humildade e traz paz às nações (9:9-10).",
+    "Há esperança para os \"prisioneiros que têm esperança\" (9:12).",
+    "Deus salva seu povo como um pastor salva o rebanho (9:16)."
+   ],
+   "reflexao": "Que tipo de rei você espera que Deus seja na sua vida?",
+   "quiz": [
+    {
+     "pergunta": "Sobre que animal virá o rei de Sião?",
+     "opcoes": [
+      "Um cavalo branco",
+      "Um camelo",
+      "Uma carruagem",
+      "Um jumentinho"
+     ],
+     "correta": 3,
+     "ref": "9:9"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "titulo": "O pastor que reúne",
+   "chave": "10:6",
+   "resumo": "O povo é chamado a pedir chuva ao SENHOR, e não a ídolos e adivinhos, que enganaram o povo como ovelhas sem pastor. Deus se ira contra os maus pastores, mas cuida do seu rebanho. Ele fortalecerá Judá, salvará a casa de José e reunirá os dispersos de terras distantes, porque se compadeceu deles.",
+   "licoes": [
+    "As necessidades devem ser levadas ao SENHOR, que dá a chuva (10:1).",
+    "Sem bons pastores, o povo se perde como ovelhas (10:2-3).",
+    "A compaixão de Deus o leva a restaurar como se nunca tivesse rejeitado (10:6).",
+    "Deus reúne seus dispersos e os fortalece no seu nome (10:8, 10:12)."
+   ],
+   "reflexao": "A quem você recorre primeiro quando precisa de ajuda?",
+   "quiz": [
+    {
+     "pergunta": "A quem o povo deve pedir chuva no tempo da chuva tardia?",
+     "opcoes": [
+      "Ao SENHOR",
+      "Aos ídolos",
+      "Aos adivinhos",
+      "Aos reis do Egito"
+     ],
+     "correta": 0,
+     "ref": "10:1"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "titulo": "Trinta moedas de prata",
+   "chave": "11:12",
+   "resumo": "Um lamento sobre cedros derrubados abre o capítulo. Deus manda o profeta pastorear \"as ovelhas da matança\", exploradas por compradores e pastores sem compaixão. O profeta toma duas varas, Agrado e União, mas é rejeitado. Como salário, pesam-lhe trinta moedas de prata, que ele lança ao oleiro na casa do SENHOR. Ele quebra as varas e Deus anuncia um pastor insensato que devorará o rebanho.",
+   "licoes": [
+    "Deus vê a exploração dos fracos por quem só pensa em lucro (11:5).",
+    "Rejeitar o pastor enviado por Deus traz divisão e ruína (11:10, 11:14).",
+    "O valor dado ao pastor mostra o desprezo do povo por Deus (11:12-13).",
+    "Ai do pastor que abandona o rebanho (11:17)."
+   ],
+   "reflexao": "Como você valoriza o cuidado que Deus tem com você?",
+   "quiz": [
+    {
+     "pergunta": "Qual foi o salário pesado para o pastor?",
+     "opcoes": [
+      "Dez siclos de ouro",
+      "Vinte moedas de bronze",
+      "Trinta moedas de prata",
+      "Cinquenta medidas de trigo"
+     ],
+     "correta": 2,
+     "ref": "11:12"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "titulo": "Olharão para aquele a quem traspassaram",
+   "chave": "12:10",
+   "resumo": "Deus fará de Jerusalém uma pedra pesada para as nações que a atacarem e a defenderá, fortalecendo até o mais fraco. Então derramará sobre a casa de Davi e os moradores de Jerusalém um espírito de graça e de súplicas. Eles olharão para aquele a quem traspassaram e chorarão como quem chora por um filho único, num luto que alcança cada família.",
+   "licoes": [
+    "Deus defende seu povo e fortalece os fracos (12:8).",
+    "O verdadeiro arrependimento nasce do espírito de graça que Deus derrama (12:10).",
+    "Olhar para o traspassado leva a um pranto sincero e pessoal (12:10, 12:12)."
+   ],
+   "reflexao": "O que acontece em seu coração quando você pensa no sofrimento de Jesus?",
+   "quiz": [
+    {
+     "pergunta": "Que espírito Deus derramará sobre a casa de Davi?",
+     "opcoes": [
+      "Espírito de guerra",
+      "Espírito de profecia",
+      "Espírito de graça e de orações",
+      "Espírito de temor"
+     ],
+     "correta": 2,
+     "ref": "12:10"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "titulo": "Uma fonte aberta contra o pecado",
+   "chave": "13:1",
+   "resumo": "Naquele dia haverá uma fonte aberta para purificar a casa de Davi e Jerusalém do pecado e da impureza. Deus eliminará os ídolos e os falsos profetas, que terão vergonha de suas visões. A espada ferirá o pastor, e as ovelhas se dispersarão. Um terço do povo será refinado como prata e provado como ouro; eles invocarão o nome de Deus, e ele dirá: \"São meu povo\".",
+   "licoes": [
+    "Deus abre uma fonte de purificação para o pecado (13:1).",
+    "A idolatria e a falsa profecia serão eliminadas (13:2).",
+    "Ferido o pastor, as ovelhas se dispersam (13:7).",
+    "As provas refinam o povo e fortalecem a relação com Deus (13:9)."
+   ],
+   "reflexao": "Como as provas que você enfrenta podem estar refinando sua fé?",
+   "quiz": [
+    {
+     "pergunta": "Para que servirá a fonte aberta \"naquele dia\"?",
+     "opcoes": [
+      "Contra o pecado e a impureza",
+      "Para regar os campos",
+      "Para encher o templo de água",
+      "Para matar a sede dos animais"
+     ],
+     "correta": 0,
+     "ref": "13:1"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "titulo": "O SENHOR será rei sobre toda a terra",
+   "chave": "14:9",
+   "resumo": "O livro termina com o dia do SENHOR: as nações atacam Jerusalém, mas o SENHOR vem lutar por ela, e seus pés estarão no monte das Oliveiras, que se fenderá. Águas vivas sairão de Jerusalém, e o SENHOR será rei sobre toda a terra. Os sobreviventes das nações subirão para adorar e celebrar a festa dos tabernáculos, e até os objetos comuns serão \"consagrados ao SENHOR\".",
+   "licoes": [
+    "Deus intervém para defender seu povo no momento mais escuro (14:2-3).",
+    "No fim, haverá luz e águas vivas que fluem de Jerusalém (14:7-8).",
+    "O alvo da história é o reinado do único SENHOR sobre toda a terra (14:9).",
+    "No reino de Deus, até as coisas comuns do dia a dia serão santas (14:20-21)."
+   ],
+   "reflexao": "Que parte \"comum\" da sua vida pode ser consagrada ao Senhor?",
+   "quiz": [
+    {
+     "pergunta": "Sobre qual monte estarão os pés do SENHOR naquele dia?",
+     "opcoes": [
+      "Monte Sião",
+      "Monte Carmelo",
+      "Monte Sinai",
+      "Monte das Oliveiras"
+     ],
+     "correta": 3,
+     "ref": "14:4"
+    }
+   ]
+  }
+ ]
+}

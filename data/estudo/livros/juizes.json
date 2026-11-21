@@ -1,0 +1,649 @@
+{
+ "livro": "juizes",
+ "nome": "Juízes",
+ "subtitulo": "O ciclo do pecado e a paciência de Deus",
+ "introducao": "Juízes narra o período entre a morte de Josué e o surgimento da monarquia. Israel cai repetidas vezes num ciclo: abandona a Deus, é oprimido, clama, e Deus levanta juízes libertadores como Débora, Gideão e Sansão. O livro mostra a decadência moral de um povo sem fidelidade a Deus e a paciência do SENHOR que continua salvando.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Anônimo; a tradição judaica atribui a Samuel"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Os fatos cobrem cerca de dois a três séculos após Josué; o livro parece escrito no início da monarquia, pois repete \"não havia rei em Israel\" (17:6, 21:25)"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Canaã, entre as tribos de Israel e os povos vizinhos"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Narrativa histórica com cântico e parábola"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "21 capítulos e 618 versículos"
+  }
+ ],
+ "chave": "21:25",
+ "temas": [
+  "O ciclo de pecado, opressão, clamor e libertação",
+  "A paciência e a misericórdia de Deus",
+  "Deus usa pessoas fracas e improváveis",
+  "A fé que precisa passar de geração em geração",
+  "A necessidade de um rei justo"
+ ],
+ "cristo": "Cada juiz traz um livramento parcial e temporário, e o livro termina sentindo falta de um rei fiel. Essa espera aponta para a monarquia de Davi e, no Novo Testamento, para Jesus, o Rei e Salvador definitivo; a carta aos Hebreus cita Gideão, Baraque, Sansão e Jefté como exemplos de fé imperfeita sustentada pela graça.",
+ "secoes": [
+  {
+   "id": "introducao-ao-ciclo",
+   "titulo": "Uma conquista incompleta",
+   "capitulos": [
+    1,
+    2
+   ],
+   "resumo": "As tribos não expulsam os cananeus e surge o ciclo de infidelidade."
+  },
+  {
+   "id": "primeiros-juizes",
+   "titulo": "Otniel, Eúde, Débora e Baraque",
+   "capitulos": [
+    3,
+    4,
+    5
+   ],
+   "resumo": "Deus levanta libertadores contra Mesopotâmia, Moabe e Canaã."
+  },
+  {
+   "id": "gideao-e-abimeleque",
+   "titulo": "Gideão e Abimeleque",
+   "capitulos": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "resumo": "A vitória dos trezentos e o reinado violento de Abimeleque."
+  },
+  {
+   "id": "jefte-e-outros",
+   "titulo": "Tolá, Jair, Jefté e outros juízes",
+   "capitulos": [
+    10,
+    11,
+    12
+   ],
+   "resumo": "O arrependimento do povo e a vitória de Jefté sobre Amom."
+  },
+  {
+   "id": "sansao",
+   "titulo": "Sansão",
+   "capitulos": [
+    13,
+    14,
+    15,
+    16
+   ],
+   "resumo": "O nazireu forte e falho que começa a livrar Israel dos filisteus."
+  },
+  {
+   "id": "sem-rei",
+   "titulo": "Quando não havia rei",
+   "capitulos": [
+    17,
+    18,
+    19,
+    20,
+    21
+   ],
+   "resumo": "Idolatria, violência e guerra civil mostram a decadência do povo."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Uma conquista incompleta",
+   "chave": "1:19",
+   "resumo": "Depois da morte de Josué, Judá lidera a luta contra os cananeus, com a ajuda de Simeão, e vence Adoni-Bezeque, que reconhece estar recebendo o que fez a outros. Calebe dá a filha Acsa a Otniel, que toma Debir. Mas o capítulo mostra uma longa lista de tribos que não expulsaram os cananeus e passaram a morar no meio deles ou a cobrar-lhes tributo.",
+   "licoes": [
+    "O livro começa bem: o povo consulta o SENHOR antes de agir (1:1-2).",
+    "Deus faz justiça: Adoni-Bezeque reconheceu que colhia o que plantou (1:7).",
+    "Quando o SENHOR esteve com Judá, houve vitória (1:19).",
+    "A obediência pela metade virou costume: várias tribos não expulsaram os cananeus (1:27-33)."
+   ],
+   "reflexao": "Que \"meia obediência\" você tem tolerado na sua vida?",
+   "quiz": [
+    {
+     "pergunta": "Que tribo o SENHOR mandou subir primeiro contra os cananeus?",
+     "opcoes": [
+      "Benjamim",
+      "Judá",
+      "Efraim",
+      "Dã"
+     ],
+     "correta": 1,
+     "ref": "1:2"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Uma geração que não conhecia o SENHOR",
+   "chave": "2:10",
+   "resumo": "O anjo do SENHOR vai a Boquim e repreende o povo por ter feito alianças com os moradores da terra, e o povo chora. Depois da morte de Josué e de sua geração, surge outra que não conhece o SENHOR nem suas obras. O capítulo apresenta o ciclo do livro: o povo serve aos baalins, Deus o entrega aos inimigos, o povo geme, Deus levanta juízes para livrá-lo, mas depois da morte de cada juiz o povo volta a se corromper.",
+   "licoes": [
+    "A fé não passa automaticamente de uma geração para outra (2:10).",
+    "Abandonar a Deus leva à opressão e à aflição (2:12-15).",
+    "Deus tem compaixão do gemido do seu povo e levanta libertadores (2:16, 2:18).",
+    "Sem arrependimento verdadeiro, o povo volta sempre ao mesmo pecado (2:19)."
+   ],
+   "reflexao": "O que você tem feito para que a próxima geração conheça o SENHOR e suas obras?",
+   "quiz": [
+    {
+     "pergunta": "Que nome recebeu o lugar onde o povo chorou após a repreensão do anjo?",
+     "opcoes": [
+      "Boquim",
+      "Gilgal",
+      "Betel",
+      "Siló"
+     ],
+     "correta": 0,
+     "ref": "2:5"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Otniel, Eúde e Sangar",
+   "chave": "3:9",
+   "resumo": "Deus deixa algumas nações na terra para provar Israel, mas o povo se casa com elas e serve a seus deuses. Oprimido por Cusã-Risataim, o povo clama, e Otniel, cheio do espírito do SENHOR, o liberta. Depois Eglom, rei de Moabe, domina Israel por dezoito anos, até que Eúde, um benjamita canhoto, o mata com um punhal escondido e lidera a vitória. Sangar também livra Israel dos filisteus.",
+   "licoes": [
+    "Casamentos e alianças com quem não teme a Deus levaram Israel à idolatria (3:6).",
+    "Quando o povo clama, Deus levanta um salvador (3:9, 3:15).",
+    "A força dos juízes vinha do espírito do SENHOR (3:10).",
+    "Deus usa pessoas com características inesperadas, como um canhoto ou um homem com uma aguilhada (3:15, 3:31)."
+   ],
+   "reflexao": "O que você considera uma limitação sua que Deus poderia usar?",
+   "quiz": [
+    {
+     "pergunta": "Que característica física de Eúde é destacada no texto?",
+     "opcoes": [
+      "Era canhoto",
+      "Era muito alto",
+      "Era cego de um olho",
+      "Tinha cabelo comprido"
+     ],
+     "correta": 0,
+     "ref": "3:15"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Débora e Baraque",
+   "chave": "4:14",
+   "resumo": "Israel é oprimido por Jabim, rei de Canaã, cujo capitão Sísera tinha novecentos carros de ferro. A profetisa Débora, que julgava Israel, chama Baraque para enfrentar Sísera, mas ele só aceita ir se ela for junto; por isso a honra da vitória ficaria com uma mulher. Deus derrota o exército de Sísera junto ao ribeiro de Quisom, e Sísera, fugindo, é morto por Jael na tenda dela.",
+   "licoes": [
+    "Deus chamou uma mulher, Débora, para liderar e profetizar em Israel (4:4-5).",
+    "Novecentos carros de ferro não impediram a vitória que Deus prometeu (4:3, 4:14-15).",
+    "A hesitação de Baraque fez com que a honra fosse para outra pessoa (4:8-9).",
+    "Deus usa pessoas improváveis, como Jael, para cumprir sua palavra (4:21-22)."
+   ],
+   "reflexao": "Você tem esperado garantias demais antes de obedecer ao que Deus pede?",
+   "quiz": [
+    {
+     "pergunta": "Onde Débora se sentava para julgar Israel?",
+     "opcoes": [
+      "Na porta de Siló",
+      "Junto ao ribeiro de Quisom",
+      "No monte Tabor",
+      "Debaixo da palmeira de Débora"
+     ],
+     "correta": 3,
+     "ref": "4:5"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "O cântico de Débora",
+   "chave": "5:31",
+   "resumo": "Débora e Baraque celebram a vitória num cântico de louvor. O poema lembra o tempo de medo em que os caminhos estavam vazios, até que Débora se levantou como \"mãe em Israel\". Elogia as tribos que se ofereceram para lutar e critica as que ficaram em casa. Descreve a batalha como luta do próprio céu, exalta a coragem de Jael e imagina a mãe de Sísera esperando um filho que não voltará.",
+   "licoes": [
+    "Deus é louvado quando o povo se oferece de boa vontade (5:2, 5:9).",
+    "Ficar indiferente quando os irmãos lutam é uma falha séria (5:16-17, 5:23).",
+    "A vitória é atribuída ao SENHOR, que lutou até \"desde os céus\" (5:20-21).",
+    "Quem ama a Deus é como o sol quando nasce em sua força (5:31)."
+   ],
+   "reflexao": "Você tem se oferecido de boa vontade ou ficado \"entre os currais\" quando há trabalho a fazer?",
+   "quiz": [
+    {
+     "pergunta": "Como Débora se descreve no cântico?",
+     "opcoes": [
+      "Rainha de Israel",
+      "Mãe em Israel",
+      "Filha de Sião",
+      "Serva de Baraque"
+     ],
+     "correta": 1,
+     "ref": "5:7"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "O chamado de Gideão",
+   "chave": "6:14",
+   "resumo": "Por causa do pecado, Israel sofre sete anos sob os midianitas, que destroem as colheitas e obrigam o povo a se esconder em cavernas. Um profeta lembra a infidelidade do povo. O anjo do SENHOR encontra Gideão malhando trigo escondido e o chama de \"homem esforçado\"; Gideão, inseguro, pede um sinal. Ele derruba o altar de Baal de seu pai à noite e depois pede a Deus os sinais do velo de lã.",
+   "licoes": [
+    "Deus vê potencial onde nós vemos fraqueza: chama de \"esforçado\" um homem escondido (6:11-12).",
+    "Gideão faz perguntas sinceras a Deus sobre o sofrimento, e Deus responde com um envio (6:13-14).",
+    "A promessa central é a presença: \"eu serei contigo\" (6:16).",
+    "A obediência começa em casa, derrubando o ídolo da própria família (6:25-27)."
+   ],
+   "reflexao": "Que insegurança faz você duvidar de que Deus pode usá-lo?",
+   "quiz": [
+    {
+     "pergunta": "Que nome Gideão deu ao altar que construiu em Ofra?",
+     "opcoes": [
+      "O SENHOR proverá",
+      "Pedra de ajuda",
+      "O SENHOR é minha bandeira",
+      "O SENHOR é paz"
+     ],
+     "correta": 3,
+     "ref": "6:24"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "Os trezentos de Gideão",
+   "chave": "7:2",
+   "resumo": "Deus diz que o exército de Gideão é grande demais, para que Israel não se glorie de ter vencido sozinho. Primeiro voltam os medrosos, depois Deus separa só os trezentos que lamberam a água levando-a com a mão à boca. Gideão é encorajado ao ouvir um soldado midianita contar um sonho sobre um pão de cevada. À noite, com trombetas, cântaros e tochas, os trezentos gritam, e o acampamento inimigo entra em pânico e foge.",
+   "licoes": [
+    "Deus às vezes reduz nossos recursos para que fique claro que a vitória é dele (7:2).",
+    "Deus conhece nossos medos e oferece ajuda para nos fortalecer (7:10-11).",
+    "Ao ouvir o sinal de Deus, a primeira reação de Gideão foi adorar (7:15).",
+    "O poder não estava nas armas, mas no SENHOR que confundiu o inimigo (7:22)."
+   ],
+   "reflexao": "Em que situação Deus pode estar usando a sua fraqueza para mostrar a força dele?",
+   "quiz": [
+    {
+     "pergunta": "Com quantos homens Deus disse a Gideão que salvaria Israel?",
+     "opcoes": [
+      "Trezentos",
+      "Mil",
+      "Três mil",
+      "Dez mil"
+     ],
+     "correta": 0,
+     "ref": "7:7"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "Vitória e tropeço de Gideão",
+   "chave": "8:23",
+   "resumo": "Gideão acalma com humildade a queixa dos efraimitas e persegue os reis midianitas Zeba e Zalmuna, apesar da recusa de ajuda de Sucote e Peniel, que depois são castigadas. Ele captura e mata os reis. Quando o povo quer fazê-lo rei, Gideão recusa, dizendo que o SENHOR é o Senhor deles. Mas com o ouro dos despojos faz um éfode, que vira objeto de idolatria. Após sua morte, Israel volta aos baalins.",
+   "licoes": [
+    "Uma resposta humilde pode desfazer a ira (8:2-3).",
+    "Gideão reconhece que só Deus deve reinar sobre o povo (8:23).",
+    "Mesmo boas intenções podem virar tropeço quando criam um objeto de culto fora do lugar (8:27).",
+    "Rapidamente o povo esquece o Deus que o livrou (8:33-34)."
+   ],
+   "reflexao": "Que coisa boa na sua vida corre o risco de ocupar o lugar de Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que Gideão fez com o ouro dos pendentes que recebeu do povo?",
+     "opcoes": [
+      "Um altar",
+      "Uma coroa",
+      "Um éfode",
+      "Um bezerro de ouro"
+     ],
+     "correta": 2,
+     "ref": "8:27"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "Abimeleque e a parábola das árvores",
+   "chave": "9:56",
+   "resumo": "Abimeleque, filho de Gideão com uma concubina de Siquém, convence os siquemitas a fazê-lo rei e mata setenta irmãos; só Jotão escapa. Do monte Gerizim, Jotão conta a parábola das árvores que, recusadas pelas plantas úteis, escolhem o espinheiro como rei. Três anos depois, Siquém e Abimeleque se voltam um contra o outro. Abimeleque destrói Siquém, mas morre em Tebes quando uma mulher lança uma pedra de moinho sobre sua cabeça.",
+   "licoes": [
+    "A ambição sem escrúpulos leva à violência e destruição (9:5).",
+    "Quem é útil de verdade nem sempre busca o poder; o inútil muitas vezes o deseja (9:8-15).",
+    "O mal que se planta acaba voltando sobre quem o pratica (9:56-57).",
+    "Deus faz justiça, ainda que demore (9:23-24)."
+   ],
+   "reflexao": "Você já buscou posição ou reconhecimento passando por cima de outros?",
+   "quiz": [
+    {
+     "pergunta": "Na parábola de Jotão, que planta aceitou reinar sobre as árvores?",
+     "opcoes": [
+      "A oliveira",
+      "A figueira",
+      "O espinheiro",
+      "A videira"
+     ],
+     "correta": 2,
+     "ref": "9:14-15"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "titulo": "Tolá, Jair e o arrependimento",
+   "chave": "10:15-16",
+   "resumo": "Tolá e Jair julgam Israel por vários anos. Depois o povo volta a servir a muitos deuses estrangeiros, e Deus o entrega aos filisteus e amonitas, que o oprimem por dezoito anos. Israel clama e confessa, mas Deus responde que clamem aos deuses que escolheram. O povo insiste, tira os deuses alheios e serve ao SENHOR, e Deus se compadece do seu sofrimento.",
+   "licoes": [
+    "Israel acumulou ídolos de todos os povos vizinhos (10:6).",
+    "Confessar é dizer com clareza: \"Nós pecamos contra ti\" (10:10).",
+    "O arrependimento verdadeiro se mostra em ação: tiraram os deuses alheios (10:16).",
+    "Deus se angustia com o sofrimento do seu povo (10:16)."
+   ],
+   "reflexao": "Seu arrependimento tem sido só palavras ou tem incluído mudanças concretas?",
+   "quiz": [
+    {
+     "pergunta": "Quantos filhos de Jair cavalgavam sobre trinta asnos?",
+     "opcoes": [
+      "Sete",
+      "Doze",
+      "Trinta",
+      "Setenta"
+     ],
+     "correta": 2,
+     "ref": "10:4"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "titulo": "Jefté e seu voto",
+   "chave": "11:35",
+   "resumo": "Jefté, filho de uma prostituta, foi expulso pelos irmãos, mas os anciãos de Gileade o chamam para liderar contra os amonitas. Ele tenta resolver o conflito com argumentos históricos, sem sucesso. Cheio do espírito do SENHOR, faz um voto precipitado de oferecer quem saísse de sua casa ao voltar vitorioso. Vence, mas quem sai a recebê-lo é sua filha única. Os intérpretes divergem sobre se ela foi sacrificada ou consagrada a uma vida sem casamento; o texto destaca que ela \"nunca conheceu homem\".",
+   "licoes": [
+    "Deus pode levantar um líder rejeitado pela própria família (11:1-2, 11:11).",
+    "Jefté buscou primeiro a negociação antes da guerra (11:12-13, 11:27).",
+    "Votos impensados podem trazer grande dor; Deus não precisa ser \"comprado\" com promessas (11:30-31, 11:35).",
+    "A filha de Jefté mostra coragem e é lembrada com honra pelas mulheres de Israel (11:36, 11:40)."
+   ],
+   "reflexao": "Você já fez promessas precipitadas a Deus ou a alguém? Como agir com mais sabedoria?",
+   "quiz": [
+    {
+     "pergunta": "Quem saiu primeiro para receber Jefté quando ele voltou da batalha?",
+     "opcoes": [
+      "Sua esposa",
+      "Sua filha única",
+      "Um servo",
+      "Os anciãos de Gileade"
+     ],
+     "correta": 1,
+     "ref": "11:34"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "titulo": "Chibolete e outros juízes",
+   "chave": "12:3",
+   "resumo": "Os homens de Efraim reclamam por não terem sido chamados e ameaçam Jefté, o que leva a uma guerra entre israelitas. Os gileaditas tomam os vaus do Jordão e identificam os efraimitas pela pronúncia da palavra \"Chibolete\". Jefté julga Israel seis anos. Depois dele, Ibsã, Elom e Abdom julgam Israel por pouco tempo.",
+   "licoes": [
+    "Orgulho ferido pode transformar irmãos em inimigos (12:1).",
+    "Jefté reconhece que a vitória veio do SENHOR (12:3).",
+    "Divisões internas causam perdas enormes ao povo de Deus (12:6)."
+   ],
+   "reflexao": "Há alguma rixa entre irmãos na fé em que você pode ser um pacificador?",
+   "quiz": [
+    {
+     "pergunta": "Que palavra os gileaditas usavam para identificar os efraimitas?",
+     "opcoes": [
+      "Maranata",
+      "Chibolete",
+      "Efatá",
+      "Hosana"
+     ],
+     "correta": 1,
+     "ref": "12:6"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "titulo": "O nascimento de Sansão",
+   "chave": "13:5",
+   "resumo": "Israel está sob os filisteus por quarenta anos. O anjo do SENHOR aparece à mulher estéril de Manoá, da tribo de Dã, e anuncia que ela terá um filho nazireu, que não deve cortar o cabelo e começará a libertar Israel. Manoá ora pedindo orientação, e o anjo volta. Quando eles oferecem um sacrifício, o anjo sobe na chama do altar. Nasce Sansão, e o espírito do SENHOR começa a agir nele.",
+   "licoes": [
+    "Deus age em situações humanamente impossíveis, como a esterilidade (13:3).",
+    "Manoá ora pedindo sabedoria para criar o filho (13:8).",
+    "A mulher de Manoá raciocina com fé: Deus não lhes mostraria tudo isso para matá-los (13:23).",
+    "Sansão é consagrado a Deus desde o ventre para uma missão (13:5, 13:24-25)."
+   ],
+   "reflexao": "Você tem pedido a Deus sabedoria para as responsabilidades que Ele lhe confiou?",
+   "quiz": [
+    {
+     "pergunta": "O que o anjo disse que não devia passar sobre a cabeça do menino?",
+     "opcoes": [
+      "Óleo",
+      "Navalha",
+      "Cinza",
+      "Água"
+     ],
+     "correta": 1,
+     "ref": "13:5"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "titulo": "Sansão, o leão e o enigma",
+   "chave": "14:4",
+   "resumo": "Sansão quer se casar com uma filisteia de Timna, contra o conselho dos pais, mas o texto diz que Deus buscava ocasião contra os filisteus. No caminho, ele mata um leão com as mãos e depois encontra mel no corpo do animal. Na festa de casamento, propõe um enigma aos trinta companheiros, que pressionam a noiva a descobrir a resposta. Irado, Sansão mata trinta filisteus em Asquelom para pagar a aposta.",
+   "licoes": [
+    "Sansão se guiava pelo que agradava a seus olhos (14:3).",
+    "Deus pode agir até por meio das escolhas falhas de pessoas (14:4).",
+    "A força de Sansão vinha do espírito do SENHOR, não dele mesmo (14:6, 14:19).",
+    "Pressão e manipulação marcam os relacionamentos de Sansão (14:15-17)."
+   ],
+   "reflexao": "Suas decisões importantes têm sido guiadas por Deus ou só pelo que agrada aos seus olhos?",
+   "quiz": [
+    {
+     "pergunta": "O que Sansão encontrou no corpo do leão morto?",
+     "opcoes": [
+      "Uma espada",
+      "Uma pedra preciosa",
+      "Moedas de prata",
+      "Um enxame de abelhas e um favo de mel"
+     ],
+     "correta": 3,
+     "ref": "14:8"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "titulo": "Raposas e a queixada de jumento",
+   "chave": "15:18-19",
+   "resumo": "Ao saber que sua mulher foi dada a outro, Sansão amarra tochas em trezentas raposas e queima as plantações dos filisteus, que se vingam matando a mulher e o pai dela. Sansão se vinga de novo e se esconde na penha de Etã. Homens de Judá o entregam amarrado aos filisteus, mas o espírito do SENHOR vem sobre ele, as cordas se soltam e ele mata mil homens com uma queixada de jumento. Com sede, clama a Deus, que faz brotar água.",
+   "licoes": [
+    "A vingança gera um ciclo de violência cada vez maior (15:6-8).",
+    "O povo de Judá preferiu se acomodar ao domínio filisteu (15:11).",
+    "Depois da grande vitória, Sansão descobre sua fragilidade e depende de Deus (15:18).",
+    "Deus responde ao clamor de quem reconhece sua necessidade (15:19)."
+   ],
+   "reflexao": "Depois de uma vitória, você costuma lembrar que continua dependendo de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Com que objeto Sansão feriu mil homens?",
+     "opcoes": [
+      "Uma espada",
+      "Uma lança",
+      "Uma queixada de asno",
+      "Uma pedra de funda"
+     ],
+     "correta": 2,
+     "ref": "15:15"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "titulo": "Sansão e Dalila",
+   "chave": "16:28",
+   "resumo": "Sansão carrega as portas de Gaza até um monte. Depois se apaixona por Dalila, que é subornada pelos príncipes filisteus para descobrir o segredo de sua força. Depois de três tentativas frustradas, ele revela que é nazireu e que sua força se vai se o cabelo for cortado. Dalila manda raspar sua cabeça; o SENHOR se aparta dele, e os filisteus o cegam e o prendem. No templo de Dagom, Sansão ora, e Deus lhe dá força para derrubar as colunas, morrendo com os filisteus.",
+   "licoes": [
+    "Brincar com a tentação repetidas vezes enfraquece a resistência (16:15-17).",
+    "É trágico não perceber que \"o SENHOR já se havia apartado\" (16:20).",
+    "Mesmo depois da queda, o cabelo volta a crescer: há esperança de recomeço (16:22).",
+    "Deus ouve a oração humilde de quem caiu: \"lembra-te agora de mim\" (16:28)."
+   ],
+   "reflexao": "Há alguma tentação com a qual você tem \"brincado\" achando que nada vai acontecer?",
+   "quiz": [
+    {
+     "pergunta": "Qual era o nome do deus dos filisteus a quem ofereceram sacrifício pela captura de Sansão?",
+     "opcoes": [
+      "Baal",
+      "Camos",
+      "Dagom",
+      "Moloque"
+     ],
+     "correta": 2,
+     "ref": "16:23"
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "titulo": "Os ídolos de Mica",
+   "chave": "17:6",
+   "resumo": "Mica, do monte de Efraim, devolve à mãe a prata que havia roubado, e ela usa parte dela para fazer uma imagem dedicada \"ao SENHOR\". Mica monta um santuário particular com éfode e ídolos e contrata um jovem levita de Belém como sacerdote, achando que assim Deus o abençoaria. O narrador explica: não havia rei, e cada um fazia o que achava melhor.",
+   "licoes": [
+    "Sem referência à palavra de Deus, cada um faz \"como melhor lhe parecia\" (17:6).",
+    "Misturar o nome do SENHOR com ídolos é uma religião feita sob medida (17:3).",
+    "Achar que Deus é obrigado a abençoar por causa de rituais é engano (17:13).",
+    "O levita aceitou o cargo pelo salário, e não por fidelidade (17:10)."
+   ],
+   "reflexao": "Em que pontos você tem moldado Deus ao seu gosto, em vez de se moldar a Ele?",
+   "quiz": [
+    {
+     "pergunta": "Quanto Mica ofereceu ao levita por ano para ser seu sacerdote?",
+     "opcoes": [
+      "Uma casa e um campo",
+      "Dez siclos de prata, roupas e comida",
+      "Trinta siclos de prata",
+      "Cem siclos de ouro"
+     ],
+     "correta": 1,
+     "ref": "17:10"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "titulo": "Dã rouba os ídolos e conquista Laís",
+   "chave": "18:1",
+   "resumo": "A tribo de Dã, procurando território, envia cinco espias, que passam pela casa de Mica e consultam o levita. Eles encontram Laís, uma cidade tranquila e isolada. Depois, seiscentos danitas armados roubam os ídolos de Mica e convencem o levita a ser sacerdote da tribo inteira. Eles destroem Laís, reconstroem a cidade com o nome de Dã e estabelecem ali um culto idólatra que duraria por gerações.",
+   "licoes": [
+    "Quem serve por interesse troca de \"patrão\" quando aparece oferta melhor (18:19-20).",
+    "Deuses que podem ser roubados não podem proteger ninguém (18:24).",
+    "O sucesso aparente não prova a aprovação de Deus (18:27-31).",
+    "Um erro tolerado numa família pode contaminar uma tribo inteira (18:30)."
+   ],
+   "reflexao": "O que você faria se aquilo em que confia fosse tirado de você amanhã?",
+   "quiz": [
+    {
+     "pergunta": "Que nome os danitas deram à cidade de Laís depois de conquistá-la?",
+     "opcoes": [
+      "Betel",
+      "Dã",
+      "Siló",
+      "Zorá"
+     ],
+     "correta": 1,
+     "ref": "18:29"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "titulo": "O crime de Gibeá",
+   "chave": "19:30",
+   "resumo": "Um levita vai a Belém buscar sua concubina e, na volta, para em Gibeá, cidade de Benjamim, onde ninguém o acolhe, exceto um velho. À noite, homens da cidade cercam a casa com intenção perversa, e a concubina é entregue e violentada até morrer. O levita divide o corpo em doze partes e as envia a todo Israel, que fica horrorizado. O relato mostra o fundo do poço moral do período.",
+   "licoes": [
+    "Sem Deus como rei, a sociedade pode chegar a uma crueldade extrema (19:1, 19:22).",
+    "Faltou hospitalidade em Gibeá; a acolhida veio de um estrangeiro (19:15, 19:20).",
+    "O texto denuncia o abuso e a indiferença diante do sofrimento da mulher (19:25-28).",
+    "Diante do mal, o povo é chamado a refletir e agir: \"considerai isto\" (19:30)."
+   ],
+   "reflexao": "Como você reage diante da violência contra os mais vulneráveis à sua volta?",
+   "quiz": [
+    {
+     "pergunta": "Em que cidade de Benjamim o levita e sua concubina passaram a noite?",
+     "opcoes": [
+      "Gibeá",
+      "Ramá",
+      "Jebus",
+      "Mispá"
+     ],
+     "correta": 0,
+     "ref": "19:14-15"
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "titulo": "Guerra contra Benjamim",
+   "chave": "20:26",
+   "resumo": "As tribos se reúnem em Mispá, ouvem o levita e decidem punir Gibeá. Pedem a Benjamim que entregue os culpados, mas a tribo se recusa e se prepara para a guerra. Israel consulta a Deus e perde duas batalhas, com muitas mortes. Depois de chorar, jejuar e oferecer sacrifícios, recebe a promessa de vitória e, com uma emboscada, derrota Benjamim, restando apenas seiscentos homens.",
+   "licoes": [
+    "Proteger culpados por lealdade de grupo leva à destruição (20:13).",
+    "Mesmo uma causa justa exige humildade e busca sincera de Deus (20:23, 20:26).",
+    "Jejum, choro e adoração marcam a terceira consulta ao SENHOR (20:26-28).",
+    "Uma guerra entre irmãos deixa perdas terríveis para todos (20:35, 20:46-48)."
+   ],
+   "reflexao": "Você já defendeu alguém do seu grupo mesmo sabendo que estava errado?",
+   "quiz": [
+    {
+     "pergunta": "Quantos homens de Benjamim escaparam para a penha de Rimom?",
+     "opcoes": [
+      "Trezentos",
+      "Seiscentos",
+      "Mil",
+      "Dois mil"
+     ],
+     "correta": 1,
+     "ref": "20:47"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "titulo": "Cada um fazia o que queria",
+   "chave": "21:25",
+   "resumo": "Israel lamenta que uma tribo esteja quase extinta, mas havia jurado não dar suas filhas aos benjamitas. Para contornar o juramento, ataca Jabes-Gileade, que não tinha vindo à assembleia, e leva quatrocentas moças para os benjamitas. Como não bastam, permite que os homens de Benjamim raptem moças que dançavam na festa em Siló. O livro termina repetindo que não havia rei e cada um fazia o que achava certo.",
+   "licoes": [
+    "Juramentos precipitados levam a soluções ainda piores (21:1, 21:7).",
+    "Remediar um erro com outro erro multiplica o sofrimento (21:10-12, 21:21).",
+    "Deus se importa com a unidade do seu povo; nenhuma tribo devia desaparecer (21:3, 21:17).",
+    "Sem um governo justo debaixo de Deus, cada um faz o que é certo aos próprios olhos (21:25)."
+   ],
+   "reflexao": "O que muda quando você deixa Deus definir o que é certo, em vez de seguir só a sua opinião?",
+   "quiz": [
+    {
+     "pergunta": "Com que frase termina o livro de Juízes?",
+     "opcoes": [
+      "Cada um fazia o que era correto diante de seus olhos",
+      "E a terra repousou quarenta anos",
+      "E o SENHOR levantou um juiz",
+      "E Israel serviu ao SENHOR todos os dias"
+     ],
+     "correta": 0,
+     "ref": "21:25"
+    }
+   ]
+  }
+ ]
+}

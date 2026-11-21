@@ -1,0 +1,229 @@
+{
+ "livro": "tito",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:5",
+   "titulo": "Tito em Creta",
+   "descricao": "Paulo deixou Tito em Creta para pôr em ordem o que faltava e estabelecer presbíteros em cada cidade.",
+   "alt": "Tito conversa com anciãos numa cidade portuária de Creta.",
+   "prompt": "Titus, a Greek coworker of Paul in a traveling cloak, meeting with a group of respected elders in the square of a Cretan harbor town, whitewashed stone houses and mountains behind, bright Mediterranean light"
+  },
+  {
+   "id": "q02",
+   "capitulo": 2,
+   "ref": "2:11-14",
+   "titulo": "A graça que se manifestou",
+   "descricao": "A graça de Deus se manifestou e ensina a viver com sobriedade, enquanto se aguarda o aparecimento da glória de Cristo.",
+   "alt": "Pessoas de todas as idades olham para o horizonte iluminado pelo nascer do sol.",
+   "prompt": "Men and women of all ages, slaves and free, standing on a hill in Crete at dawn, looking toward a radiant sunrise over the sea, faces calm and hopeful, a gentle golden glow"
+  },
+  {
+   "id": "q03",
+   "capitulo": 3,
+   "ref": "3:12-13",
+   "titulo": "Inverno em Nicópolis",
+   "descricao": "Paulo pede a Tito que vá encontrá-lo em Nicópolis, onde decidiu passar o inverno, e que ajude Zenas e Apolo em sua viagem.",
+   "alt": "Paulo, no porto, recebe viajantes enquanto se prepara para o inverno.",
+   "prompt": "The apostle Paul on a windswept quay at Nicopolis in late autumn, greeting travelers arriving by boat, Zenas the lawyer and Apollos with bags of provisions, grey sea and clouds, warm cloaks"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "administrador",
+   "termo": "Administrador da casa de Deus",
+   "ref": "1:7",
+   "explicado": false,
+   "significado": "O supervisor é como o mordomo que administra a casa de outro: responde ao dono."
+  },
+  {
+   "id": "cretenses",
+   "termo": "\"Cretenses sempre mentirosos\"",
+   "ref": "1:12",
+   "explicado": false,
+   "significado": "Paulo cita um poeta cretense (geralmente identificado com Epimênides). Usa o ditado para descrever os falsos mestres, não para condenar um povo inteiro."
+  },
+  {
+   "id": "puros",
+   "termo": "Puros para os puros",
+   "ref": "1:15",
+   "explicado": false,
+   "significado": "Em discussões sobre regras de pureza (alimentos, rituais), o que conta é a pureza do coração e da consciência."
+  },
+  {
+   "id": "banho",
+   "termo": "Banho do novo nascimento",
+   "ref": "3:5",
+   "explicado": false,
+   "significado": "Muitos ligam a imagem ao batismo; outros pensam na purificação interior feita pelo Espírito. O texto destaca que a salvação vem da misericórdia, não das obras."
+  },
+  {
+   "id": "povo-particular",
+   "termo": "Povo particular",
+   "ref": "2:14",
+   "explicado": false,
+   "significado": "Lembra Êxodo 19:5: Israel como propriedade especial de Deus. Aqui, aplicado ao povo purificado por Cristo."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "epiphaneia-tt",
+   "pt": "Aparecimento",
+   "refs": [
+    "2:11",
+    "2:13"
+   ],
+   "grego": {
+    "lema": "ἐπιφαίνω / ἐπιφάνεια",
+    "translit": "epiphaínō / epipháneia",
+    "strong": "G2014, G2015"
+   },
+   "sentido": "manifestar-se, aparecer",
+   "latim": {
+    "forma": "apparuit / adventum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A graça \"se manifestou\" (2:11) e se aguarda o \"aparecimento da glória\" (2:13): duas vindas de Cristo.",
+   "interpretacao": false
+  },
+  {
+   "id": "soter",
+   "pt": "Salvador",
+   "refs": [
+    "1:3",
+    "2:13",
+    "3:4"
+   ],
+   "grego": {
+    "lema": "σωτήρ",
+    "translit": "sōtḗr",
+    "strong": "G4990"
+   },
+   "sentido": "salvador, libertador",
+   "latim": {
+    "forma": "salvator",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Em Tito o título alterna entre Deus e Cristo. Em 2:13 a construção grega é lida por muitos como \"nosso grande Deus e Salvador Jesus Cristo\".",
+   "interpretacao": false
+  },
+  {
+   "id": "loutron",
+   "pt": "Banho",
+   "refs": [
+    "3:5"
+   ],
+   "grego": {
+    "lema": "λουτρόν",
+    "translit": "loutrón",
+    "strong": "G3067"
+   },
+   "sentido": "banho, lavagem",
+   "latim": {
+    "forma": "lavacrum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Ver símbolos.",
+   "interpretacao": false
+  },
+  {
+   "id": "palingenesia",
+   "pt": "Novo nascimento",
+   "refs": [
+    "3:5"
+   ],
+   "grego": {
+    "lema": "παλιγγενεσία",
+    "translit": "palingenesía",
+    "strong": "G3824"
+   },
+   "sentido": "novo nascimento, regeneração",
+   "latim": {
+    "forma": "regenerationis",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Só aparece aqui e em Mateus 19:28 (renovação do mundo). Os estoicos usavam a palavra para o renascimento do cosmos.",
+   "interpretacao": false
+  },
+  {
+   "id": "sophron",
+   "pt": "Sóbrio, sensato",
+   "refs": [
+    "2:2",
+    "2:5",
+    "2:12"
+   ],
+   "grego": {
+    "lema": "σώφρων",
+    "translit": "sṓphrōn",
+    "strong": "G4998"
+   },
+   "sentido": "de mente sã, moderado",
+   "latim": {
+    "forma": "sobrios / prudentes",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Virtude muito valorizada na ética grega e repetida em Tito para todas as idades.",
+   "interpretacao": false
+  },
+  {
+   "id": "hygiaino-tt",
+   "pt": "Sã doutrina",
+   "refs": [
+    "1:9",
+    "2:1"
+   ],
+   "grego": {
+    "lema": "ὑγιαίνω",
+    "translit": "hygiaínō",
+    "strong": "G5198"
+   },
+   "sentido": "ser são",
+   "latim": {
+    "forma": "sana doctrina",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Ensino saudável, que produz vida coerente.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "epimenides",
+   "titulo": "O poeta de Creta",
+   "refs": [
+    "1:12"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Clemente de Alexandria, Stromata (citando Epimênides)",
+   "referencia": "livro 1, cap. 14, §59",
+   "data_fonte": "c. 200 d.C. (Epimênides viveu c. séc. VI a.C.)",
+   "data_evento": "séc. VI a.C. (poema original)",
+   "resumo": "Clemente atribui a Epimênides de Creta a frase \"cretenses sempre mentirosos, feras malignas, ventres preguiçosos\". As palavras \"cretenses sempre mentirosos\" aparecem também no Hino a Zeus de Calímaco (séc. III a.C.).",
+   "relacao": "Confirma que Paulo cita um poeta conhecido (1:12). A atribuição a Epimênides é antiga, mas não totalmente certa.",
+   "grau": "documentado"
+  },
+  {
+   "id": "nicopolis",
+   "titulo": "Nicópolis do Epiro",
+   "refs": [
+    "3:12"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Ruínas de Nicópolis",
+   "referencia": "Perto de Preveza, Grécia",
+   "data_fonte": "Fundada por Augusto em c. 29 a.C.",
+   "data_evento": "Cidade importante no séc. I d.C.",
+   "resumo": "Augusto fundou Nicópolis (\"cidade da vitória\") para celebrar a batalha de Ácio; tornou-se grande centro da costa oeste da Grécia. O filósofo Epicteto ensinou ali.",
+   "relacao": "É a Nicópolis mais provável de 3:12, boa base para a missão na Dalmácia (2Tm 4:10).",
+   "grau": "associacao"
+  }
+ ]
+}

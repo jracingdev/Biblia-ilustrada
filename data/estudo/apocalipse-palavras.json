@@ -1,0 +1,1814 @@
+{
+ "livro": "apocalipse",
+ "descricao": "Palavras-chave de Apocalipse nas línguas originais: grego do NT, hebraico e aramaico do pano de fundo do AT e latim da Vulgata.",
+ "fontes": [
+  {
+   "nome": "Números de Strong",
+   "detalhe": "James Strong, Exhaustive Concordance of the Bible (1890), domínio público. G = grego, H = hebraico/aramaico."
+  },
+  {
+   "nome": "Vulgata Clementina",
+   "detalhe": "Biblia Sacra Vulgatae Editionis (1592), domínio público. Latim de Jerônimo (c. 405 d.C.)."
+  },
+  {
+   "nome": "Septuaginta (LXX)",
+   "detalhe": "Tradução grega do AT (séc. III–I a.C.), citada para mostrar a ponte entre o hebraico e o grego."
+  },
+  {
+   "nome": "Léxico on-line",
+   "detalhe": "Os números de Strong abrem o verbete no Bible Hub (biblehub.com), consulta gratuita."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "apokalypsis",
+   "pt": "Revelação",
+   "refs": [
+    "1:1"
+   ],
+   "grego": {
+    "lema": "ἀποκάλυψις",
+    "translit": "apokálypsis",
+    "strong": "G602"
+   },
+   "sentido": "tirar o véu, descobrir o que estava escondido",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "גָּלָה",
+     "translit": "galah",
+     "strong": "H1540",
+     "ref": "Dn 2:28"
+    }
+   ],
+   "latim": {
+    "forma": "Apocalypsis Iesu Christi",
+    "nota": "A Vulgata manteve a palavra grega; daí o nome \"Apocalipse\"."
+   },
+   "outras": [],
+   "explicacao": "O título não anuncia catástrofe, e sim revelação: Deus descobre o que a história esconde. Em Daniel 2:28, \"há um Deus nos céus que revela (galah) os mistérios\".",
+   "interpretacao": false
+  },
+  {
+   "id": "alfa-omega",
+   "pt": "Alfa e Ômega",
+   "refs": [
+    "1:8",
+    "21:6",
+    "22:13"
+   ],
+   "grego": {
+    "lema": "Ἄλφα … Ὦ",
+    "translit": "Álpha … Ō",
+    "strong": "G1, G5598"
+   },
+   "sentido": "a primeira e a última letra do alfabeto grego",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "רִאשׁוֹן … אַחֲרוֹן",
+     "translit": "ri'shon … acharon",
+     "strong": "H7223, H314",
+     "ref": "Is 44:6"
+    }
+   ],
+   "latim": {
+    "forma": "Ego sum Alpha et Omega, principium et finis",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Ecoa Isaías 44:6, \"Eu sou o primeiro e o último\". Em hebraico o par seria álef e tav, a primeira e a última letra. Em 22:13 o título passa a Jesus.",
+   "interpretacao": false
+  },
+  {
+   "id": "ho-on",
+   "pt": "Aquele que é, que era e que há de vir",
+   "refs": [
+    "1:4",
+    "1:8",
+    "4:8"
+   ],
+   "grego": {
+    "lema": "ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος",
+    "translit": "ho ōn kai ho ēn kai ho erchómenos",
+    "strong": "G1510, G2064"
+   },
+   "sentido": "o que existe, existia e está vindo",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "אֶהְיֶה אֲשֶׁר אֶהְיֶה",
+     "translit": "'ehyeh asher 'ehyeh",
+     "strong": "H1961",
+     "ref": "Êx 3:14"
+    },
+    {
+     "lingua": "hebraico",
+     "lema": "יהוה",
+     "translit": "YHWH",
+     "strong": "H3068",
+     "ref": "Êx 3:15"
+    }
+   ],
+   "latim": {
+    "forma": "qui est et qui erat et qui venturus est",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Uma paráfrase do nome divino revelado a Moisés (Êx 3:14). João mantém a forma no nominativo mesmo depois de preposição, quebrando a gramática de propósito para não \"declinar\" o nome de Deus.",
+   "interpretacao": false
+  },
+  {
+   "id": "pantokrator",
+   "pt": "Todo-poderoso",
+   "refs": [
+    "1:8",
+    "4:8",
+    "11:17",
+    "15:3",
+    "16:7",
+    "16:14",
+    "19:6",
+    "19:15",
+    "21:22"
+   ],
+   "grego": {
+    "lema": "παντοκράτωρ",
+    "translit": "pantokrátōr",
+    "strong": "G3841"
+   },
+   "sentido": "o que tem poder sobre tudo",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "יהוה צְבָאוֹת",
+     "translit": "YHWH tseva'ot",
+     "strong": "H6635",
+     "ref": "Is 6:3"
+    },
+    {
+     "lingua": "hebraico",
+     "lema": "שַׁדַּי",
+     "translit": "Shaddai",
+     "strong": "H7706",
+     "ref": "Gn 17:1"
+    }
+   ],
+   "latim": {
+    "forma": "omnipotens",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A Septuaginta (tradução grega do AT) usa pantokrátōr para traduzir \"SENHOR dos Exércitos\". Nove das dez vezes que aparece no Novo Testamento estão no Apocalipse.",
+   "interpretacao": false
+  },
+  {
+   "id": "hagios",
+   "pt": "Santo, santo, santo",
+   "refs": [
+    "4:8",
+    "15:4"
+   ],
+   "grego": {
+    "lema": "ἅγιος",
+    "translit": "hágios",
+    "strong": "G40"
+   },
+   "sentido": "separado, totalmente outro",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "קָדוֹשׁ קָדוֹשׁ קָדוֹשׁ",
+     "translit": "qadosh qadosh qadosh",
+     "strong": "H6918",
+     "ref": "Is 6:3"
+    }
+   ],
+   "latim": {
+    "forma": "Sanctus, sanctus, sanctus",
+    "nota": "Origem do \"Sanctus\" da liturgia cristã."
+   },
+   "outras": [],
+   "explicacao": "O hebraico repete uma palavra para dar o grau máximo. A tripla repetição de Isaías 6:3 é cantada outra vez pelos seres viventes em 4:8.",
+   "interpretacao": false
+  },
+  {
+   "id": "arnion",
+   "pt": "Cordeiro",
+   "refs": [
+    "5:6",
+    "5:12",
+    "7:17",
+    "14:1",
+    "17:14",
+    "19:9",
+    "21:23",
+    "22:1"
+   ],
+   "grego": {
+    "lema": "ἀρνίον",
+    "translit": "arníon",
+    "strong": "G721"
+   },
+   "sentido": "cordeirinho; usado 29 vezes para Cristo",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "שֶׂה",
+     "translit": "seh",
+     "strong": "H7716",
+     "ref": "Êx 12:3"
+    },
+    {
+     "lingua": "hebraico",
+     "lema": "כֶּבֶשׂ",
+     "translit": "kevesh",
+     "strong": "H3532",
+     "ref": "Is 53:7"
+    }
+   ],
+   "latim": {
+    "forma": "agnus",
+    "nota": "De onde vem o \"Agnus Dei\"."
+   },
+   "outras": [],
+   "explicacao": "João ouve falar de um Leão (5:5) e, ao olhar, vê um Cordeiro \"como que morto\" (5:6). O poder do livro é o do cordeiro pascal (Êx 12) e do servo levado ao matadouro (Is 53:7).",
+   "interpretacao": false
+  },
+  {
+   "id": "leao-juda",
+   "pt": "Leão da tribo de Judá",
+   "refs": [
+    "5:5"
+   ],
+   "grego": {
+    "lema": "λέων ὁ ἐκ τῆς φυλῆς Ἰούδα",
+    "translit": "léōn ho ek tēs phylēs Iouda",
+    "strong": "G3023, G2455"
+   },
+   "sentido": "leão; Judá",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "גּוּר אַרְיֵה יְהוּדָה",
+     "translit": "gur aryeh Yehudah",
+     "strong": "H738, H3063",
+     "ref": "Gn 49:9"
+    }
+   ],
+   "latim": {
+    "forma": "leo de tribu Iuda",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Título messiânico tirado da bênção de Jacó a Judá (Gn 49:9-10).",
+   "interpretacao": false
+  },
+  {
+   "id": "riza",
+   "pt": "Raiz de Davi",
+   "refs": [
+    "5:5",
+    "22:16"
+   ],
+   "grego": {
+    "lema": "ῥίζα Δαυίδ",
+    "translit": "rhíza Dauíd",
+    "strong": "G4491, G1138"
+   },
+   "sentido": "raiz, broto",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "שֹׁרֶשׁ יִשַׁי",
+     "translit": "shoresh Yishai",
+     "strong": "H8328",
+     "ref": "Is 11:10"
+    }
+   ],
+   "latim": {
+    "forma": "radix David",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Isaías 11 promete um rebento do tronco de Jessé. Jesus é ao mesmo tempo a raiz (a origem) e a descendência de Davi (22:16).",
+   "interpretacao": false
+  },
+  {
+   "id": "iesous",
+   "pt": "Jesus",
+   "refs": [
+    "1:1",
+    "22:20"
+   ],
+   "grego": {
+    "lema": "Ἰησοῦς",
+    "translit": "Iēsoûs",
+    "strong": "G2424"
+   },
+   "sentido": "forma grega do nome hebraico",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "יְהוֹשֻׁעַ",
+     "translit": "Yehoshua",
+     "strong": "H3091",
+     "ref": "Nm 13:16"
+    }
+   ],
+   "latim": {
+    "forma": "Iesus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Yehoshua (Josué) significa \"o SENHOR salva\".",
+   "interpretacao": false
+  },
+  {
+   "id": "christos",
+   "pt": "Cristo",
+   "refs": [
+    "1:1",
+    "11:15",
+    "12:10",
+    "20:4"
+   ],
+   "grego": {
+    "lema": "Χριστός",
+    "translit": "Christós",
+    "strong": "G5547"
+   },
+   "sentido": "ungido",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "מָשִׁיחַ",
+     "translit": "mashiach",
+     "strong": "H4899",
+     "ref": "Sl 2:2"
+    }
+   ],
+   "latim": {
+    "forma": "Christus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Christós traduz mashiach, \"Messias\". Em 11:15 ecoa o Salmo 2: \"o reino é do Senhor e do seu Cristo\".",
+   "interpretacao": false
+  },
+  {
+   "id": "huios-anthropou",
+   "pt": "Filho do homem",
+   "refs": [
+    "1:13",
+    "14:14"
+   ],
+   "grego": {
+    "lema": "υἱὸς ἀνθρώπου",
+    "translit": "huiòs anthrṓpou",
+    "strong": "G5207, G444"
+   },
+   "sentido": "um ser humano",
+   "semitico": [
+    {
+     "lingua": "aramaico",
+     "lema": "כְּבַר אֱנָשׁ",
+     "translit": "kevar 'enash",
+     "strong": "H1247, H606",
+     "ref": "Dn 7:13"
+    }
+   ],
+   "latim": {
+    "forma": "similem Filio hominis",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Expressão aramaica de Daniel 7:13: um \"como filho de homem\" recebe o reino eterno. É o título que Jesus mais usou para si mesmo.",
+   "interpretacao": false
+  },
+  {
+   "id": "logos",
+   "pt": "Verbo (Palavra) de Deus",
+   "refs": [
+    "19:13"
+   ],
+   "grego": {
+    "lema": "λόγος τοῦ θεοῦ",
+    "translit": "lógos tou theou",
+    "strong": "G3056"
+   },
+   "sentido": "palavra, razão, mensagem",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "דָּבָר",
+     "translit": "davar",
+     "strong": "H1697",
+     "ref": "Sl 33:6"
+    },
+    {
+     "lingua": "aramaico",
+     "lema": "מֵימְרָא",
+     "translit": "memra",
+     "strong": "",
+     "ref": "Targum Onqelos, Gn 3:8"
+    }
+   ],
+   "latim": {
+    "forma": "Verbum Dei",
+    "nota": ""
+   },
+   "outras": [
+    {
+     "lingua": "aramaico (targumim)",
+     "forma": "Memra",
+     "nota": "As traduções aramaicas antigas do AT."
+    }
+   ],
+   "explicacao": "O cavaleiro de 19:13 se chama \"a Palavra de Deus\", como em João 1:1. No AT a palavra (davar) cria (Sl 33:6). Os targumim aramaicos falam da \"Memra\" do SENHOR agindo no mundo.",
+   "interpretacao": false
+  },
+  {
+   "id": "martys",
+   "pt": "Testemunha",
+   "refs": [
+    "1:5",
+    "2:13",
+    "11:3",
+    "17:6"
+   ],
+   "grego": {
+    "lema": "μάρτυς",
+    "translit": "mártys",
+    "strong": "G3144"
+   },
+   "sentido": "testemunha; daí \"mártir\"",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "עֵד",
+     "translit": "'ed",
+     "strong": "H5707",
+     "ref": "Is 43:10"
+    }
+   ],
+   "latim": {
+    "forma": "testis",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "No Apocalipse, testemunhar custa a vida (Antipas, 2:13). Por isso a palavra grega para testemunha virou \"mártir\" nas línguas modernas.",
+   "interpretacao": false
+  },
+  {
+   "id": "ekklesia",
+   "pt": "Igreja",
+   "refs": [
+    "1:4",
+    "2:1",
+    "22:16"
+   ],
+   "grego": {
+    "lema": "ἐκκλησία",
+    "translit": "ekklēsía",
+    "strong": "G1577"
+   },
+   "sentido": "assembleia convocada",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "קָהָל",
+     "translit": "qahal",
+     "strong": "H6951",
+     "ref": "Dt 4:10"
+    }
+   ],
+   "latim": {
+    "forma": "ecclesia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A Septuaginta usa ekklēsía para o qahal, a assembleia de Israel no deserto.",
+   "interpretacao": false
+  },
+  {
+   "id": "charis-eirene",
+   "pt": "Graça e paz",
+   "refs": [
+    "1:4"
+   ],
+   "grego": {
+    "lema": "χάρις … εἰρήνη",
+    "translit": "cháris … eirḗnē",
+    "strong": "G5485, G1515"
+   },
+   "sentido": "favor imerecido; paz",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "חֵן",
+     "translit": "chen",
+     "strong": "H2580"
+    },
+    {
+     "lingua": "hebraico",
+     "lema": "שָׁלוֹם",
+     "translit": "shalom",
+     "strong": "H7965",
+     "ref": "Nm 6:26"
+    }
+   ],
+   "latim": {
+    "forma": "gratia vobis et pax",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A saudação une o grego (cháris) e o hebraico (shalom, paz e inteireza).",
+   "interpretacao": false
+  },
+  {
+   "id": "amen",
+   "pt": "Amém",
+   "refs": [
+    "1:6",
+    "3:14",
+    "22:20"
+   ],
+   "grego": {
+    "lema": "ἀμήν",
+    "translit": "amḗn",
+    "strong": "G281"
+   },
+   "sentido": "firme, verdadeiro",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "אָמֵן",
+     "translit": "'amen",
+     "strong": "H543",
+     "ref": "Is 65:16"
+    }
+   ],
+   "latim": {
+    "forma": "Amen",
+    "nota": "A palavra passou sem tradução do hebraico ao grego, ao latim e ao português."
+   },
+   "outras": [],
+   "explicacao": "Em 3:14 Jesus se chama \"o Amém\". Isaías 65:16 fala do \"Deus do amém\", o Deus fiel.",
+   "interpretacao": false
+  },
+  {
+   "id": "hallelouia",
+   "pt": "Aleluia",
+   "refs": [
+    "19:1",
+    "19:3",
+    "19:4",
+    "19:6"
+   ],
+   "grego": {
+    "lema": "ἁλληλουϊά",
+    "translit": "hallēlouiá",
+    "strong": "G239"
+   },
+   "sentido": "transliteração do hebraico",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "הַלְלוּ־יָהּ",
+     "translit": "hallelu-Yah",
+     "strong": "H1984, H3050",
+     "ref": "Sl 146:1"
+    }
+   ],
+   "latim": {
+    "forma": "Alleluia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "\"Louvai a Yah\". Só aparece no Novo Testamento aqui, em 19:1-6, como os Salmos de louvor (Sl 146-150).",
+   "interpretacao": false
+  },
+  {
+   "id": "hepta",
+   "pt": "Sete",
+   "refs": [
+    "1:4",
+    "5:1",
+    "8:2",
+    "15:1"
+   ],
+   "grego": {
+    "lema": "ἑπτά",
+    "translit": "heptá",
+    "strong": "G2033"
+   },
+   "sentido": "sete",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "שֶׁבַע",
+     "translit": "sheva'",
+     "strong": "H7651",
+     "ref": "Gn 2:2"
+    }
+   ],
+   "latim": {
+    "forma": "septem",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Sete é o número da obra completa de Deus (Gn 2:2). O livro é montado em setenários: igrejas, selos, trombetas e taças.",
+   "interpretacao": true
+  },
+  {
+   "id": "thronos",
+   "pt": "Trono",
+   "refs": [
+    "4:2",
+    "7:10",
+    "20:11",
+    "22:3"
+   ],
+   "grego": {
+    "lema": "θρόνος",
+    "translit": "thrónos",
+    "strong": "G2362"
+   },
+   "sentido": "trono; 47 vezes no livro",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "כִּסֵּא",
+     "translit": "kisse'",
+     "strong": "H3678",
+     "ref": "Is 6:1"
+    },
+    {
+     "lingua": "aramaico",
+     "lema": "כָּרְסֵא",
+     "translit": "korse'",
+     "strong": "H3764",
+     "ref": "Dn 7:9"
+    }
+   ],
+   "latim": {
+    "forma": "thronus / sedes",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O trono é o centro do livro: quem governa a história, apesar das aparências.",
+   "interpretacao": false
+  },
+  {
+   "id": "zoa",
+   "pt": "Seres viventes",
+   "refs": [
+    "4:6",
+    "5:8",
+    "19:4"
+   ],
+   "grego": {
+    "lema": "ζῷα",
+    "translit": "zōa",
+    "strong": "G2226"
+   },
+   "sentido": "viventes",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "חַיּוֹת",
+     "translit": "chayyot",
+     "strong": "H2416",
+     "ref": "Ez 1:5"
+    }
+   ],
+   "latim": {
+    "forma": "animalia",
+    "nota": "A Vulgata diz \"animalia\", no sentido de seres que têm vida (anima)."
+   },
+   "outras": [],
+   "explicacao": "Os quatro viventes de 4:6-8 juntam traços dos querubins de Ezequiel 1 e dos serafins de Isaías 6.",
+   "interpretacao": false
+  },
+  {
+   "id": "presbyteroi",
+   "pt": "Anciãos",
+   "refs": [
+    "4:4",
+    "5:8",
+    "19:4"
+   ],
+   "grego": {
+    "lema": "πρεσβύτεροι",
+    "translit": "presbýteroi",
+    "strong": "G4245"
+   },
+   "sentido": "anciãos; daí \"presbítero\"",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "זְקֵנִים",
+     "translit": "zeqenim",
+     "strong": "H2205",
+     "ref": "Êx 24:9"
+    }
+   ],
+   "latim": {
+    "forma": "seniores",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Vinte e quatro anciãos: muitos leem como as 12 tribos mais os 12 apóstolos, o povo de Deus completo.",
+   "interpretacao": true
+  },
+  {
+   "id": "lychnia",
+   "pt": "Candelabro",
+   "refs": [
+    "1:12",
+    "1:20",
+    "2:5",
+    "11:4"
+   ],
+   "grego": {
+    "lema": "λυχνία",
+    "translit": "lychnía",
+    "strong": "G3087"
+   },
+   "sentido": "suporte de lâmpada",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "מְנוֹרָה",
+     "translit": "menorah",
+     "strong": "H4501",
+     "ref": "Zc 4:2"
+    }
+   ],
+   "latim": {
+    "forma": "candelabrum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O próprio texto explica: os candelabros são as igrejas (1:20). A imagem vem da menorá do tabernáculo e de Zacarias 4.",
+   "interpretacao": false
+  },
+  {
+   "id": "sphragis",
+   "pt": "Selo",
+   "refs": [
+    "5:1",
+    "6:1",
+    "7:2",
+    "9:4"
+   ],
+   "grego": {
+    "lema": "σφραγίς",
+    "translit": "sphragís",
+    "strong": "G4973"
+   },
+   "sentido": "selo; marca de posse",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "חוֹתָם",
+     "translit": "chotam",
+     "strong": "H2368",
+     "ref": "Ct 8:6"
+    }
+   ],
+   "latim": {
+    "forma": "signaculum / sigillum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Um rolo selado só podia ser aberto por quem tinha autoridade. Em 7:3, o mesmo selo marca os servos de Deus como propriedade dele.",
+   "interpretacao": false
+  },
+  {
+   "id": "salpinx",
+   "pt": "Trombeta",
+   "refs": [
+    "1:10",
+    "8:2",
+    "8:6",
+    "11:15"
+   ],
+   "grego": {
+    "lema": "σάλπιγξ",
+    "translit": "sálpinx",
+    "strong": "G4536"
+   },
+   "sentido": "trombeta",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "שׁוֹפָר",
+     "translit": "shofar",
+     "strong": "H7782",
+     "ref": "Js 6:4"
+    },
+    {
+     "lingua": "hebraico",
+     "lema": "חֲצֹצְרָה",
+     "translit": "chatsotsrah",
+     "strong": "H2689",
+     "ref": "Nm 10:9"
+    }
+   ],
+   "latim": {
+    "forma": "tuba",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O shofar anunciava guerra, festa e a presença de Deus no Sinai (Êx 19:16). As sete trombetas lembram as de Jericó (Js 6).",
+   "interpretacao": false
+  },
+  {
+   "id": "phiale",
+   "pt": "Taça",
+   "refs": [
+    "5:8",
+    "15:7",
+    "16:1"
+   ],
+   "grego": {
+    "lema": "φιάλη",
+    "translit": "phiálē",
+    "strong": "G5357"
+   },
+   "sentido": "taça larga e rasa",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "מִזְרָק",
+     "translit": "mizraq",
+     "strong": "H4219",
+     "ref": "Êx 27:3"
+    }
+   ],
+   "latim": {
+    "forma": "phiala",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "As taças do altar: em 5:8 cheias das orações dos santos, em 16:1 da ira de Deus. As orações e o juízo saem do mesmo altar.",
+   "interpretacao": false
+  },
+  {
+   "id": "thymos-orge",
+   "pt": "Ira (furor)",
+   "refs": [
+    "14:10",
+    "15:1",
+    "16:19",
+    "19:15"
+   ],
+   "grego": {
+    "lema": "θυμός / ὀργή",
+    "translit": "thymós / orgḗ",
+    "strong": "G2372, G3709"
+   },
+   "sentido": "furor ardente; ira firme",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "חֵמָה",
+     "translit": "chemah",
+     "strong": "H2534",
+     "ref": "Jr 25:15"
+    },
+    {
+     "lingua": "hebraico",
+     "lema": "אַף",
+     "translit": "'af",
+     "strong": "H639"
+    }
+   ],
+   "latim": {
+    "forma": "ira / indignatio",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O \"cálice do vinho da ira\" vem de Jeremias 25:15. Não é descontrole, é a resposta de Deus à injustiça.",
+   "interpretacao": false
+  },
+  {
+   "id": "thysiasterion",
+   "pt": "Altar",
+   "refs": [
+    "6:9",
+    "8:3",
+    "9:13"
+   ],
+   "grego": {
+    "lema": "θυσιαστήριον",
+    "translit": "thysiastḗrion",
+    "strong": "G2379"
+   },
+   "sentido": "lugar do sacrifício",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "מִזְבֵּחַ",
+     "translit": "mizbeach",
+     "strong": "H4196",
+     "ref": "Lv 4:7"
+    }
+   ],
+   "latim": {
+    "forma": "altare",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "As almas dos mártires estão \"debaixo do altar\" (6:9), onde se derramava o sangue dos sacrifícios (Lv 4:7).",
+   "interpretacao": false
+  },
+  {
+   "id": "therion",
+   "pt": "Besta",
+   "refs": [
+    "11:7",
+    "13:1",
+    "13:11",
+    "17:8",
+    "19:20"
+   ],
+   "grego": {
+    "lema": "θηρίον",
+    "translit": "thēríon",
+    "strong": "G2342"
+   },
+   "sentido": "fera selvagem",
+   "semitico": [
+    {
+     "lingua": "aramaico",
+     "lema": "חֵיוָה",
+     "translit": "cheyvah",
+     "strong": "H2423",
+     "ref": "Dn 7:3"
+    }
+   ],
+   "latim": {
+    "forma": "bestia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "As quatro feras de Daniel 7 (em aramaico) eram impérios. A besta de 13:1 junta traços das quatro.",
+   "interpretacao": false
+  },
+  {
+   "id": "drakon",
+   "pt": "Dragão",
+   "refs": [
+    "12:3",
+    "12:9",
+    "20:2"
+   ],
+   "grego": {
+    "lema": "δράκων",
+    "translit": "drákōn",
+    "strong": "G1404"
+   },
+   "sentido": "serpente grande, monstro",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "תַּנִּין",
+     "translit": "tannin",
+     "strong": "H8577",
+     "ref": "Is 27:1"
+    },
+    {
+     "lingua": "hebraico",
+     "lema": "לִוְיָתָן",
+     "translit": "Livyatan",
+     "strong": "H3882",
+     "ref": "Is 27:1"
+    }
+   ],
+   "latim": {
+    "forma": "draco",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O próprio texto explica: o dragão é \"a antiga serpente, que se chama diabo e Satanás\" (12:9). Isaías 27:1 promete que Deus matará o monstro do mar.",
+   "interpretacao": false
+  },
+  {
+   "id": "satanas",
+   "pt": "Satanás e diabo",
+   "refs": [
+    "2:9",
+    "12:9",
+    "20:2",
+    "20:10"
+   ],
+   "grego": {
+    "lema": "Σατανᾶς / διάβολος",
+    "translit": "Satanâs / diábolos",
+    "strong": "G4567, G1228"
+   },
+   "sentido": "adversário; caluniador",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "שָׂטָן",
+     "translit": "satan",
+     "strong": "H7854",
+     "ref": "Jó 1:6"
+    },
+    {
+     "lingua": "aramaico",
+     "lema": "סָטָנָא",
+     "translit": "satana'",
+     "strong": ""
+    }
+   ],
+   "latim": {
+    "forma": "Satanas / diabolus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Satan é palavra hebraica (o acusador de Jó 1 e Zc 3). Diábolos é a tradução grega: \"o que acusa\". Em 12:10 ele é \"o acusador dos nossos irmãos\".",
+   "interpretacao": false
+  },
+  {
+   "id": "ophis",
+   "pt": "Serpente antiga",
+   "refs": [
+    "12:9",
+    "12:15",
+    "20:2"
+   ],
+   "grego": {
+    "lema": "ὄφις ὁ ἀρχαῖος",
+    "translit": "óphis ho archaîos",
+    "strong": "G3789"
+   },
+   "sentido": "serpente",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "נָחָשׁ",
+     "translit": "nachash",
+     "strong": "H5175",
+     "ref": "Gn 3:1"
+    }
+   ],
+   "latim": {
+    "forma": "serpens antiquus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "\"Antiga\" aponta para o Éden (Gn 3). O livro termina onde a Bíblia começou: vencida a serpente, volta a árvore da vida.",
+   "interpretacao": false
+  },
+  {
+   "id": "michael",
+   "pt": "Miguel",
+   "refs": [
+    "12:7"
+   ],
+   "grego": {
+    "lema": "Μιχαήλ",
+    "translit": "Michaḗl",
+    "strong": "G3413"
+   },
+   "sentido": "nome próprio",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "מִיכָאֵל",
+     "translit": "Mikha'el",
+     "strong": "H4317",
+     "ref": "Dn 12:1"
+    }
+   ],
+   "latim": {
+    "forma": "Michael",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O nome é uma pergunta: \"Quem é como Deus?\". Em Daniel 12:1 ele protege o povo no tempo de angústia.",
+   "interpretacao": false
+  },
+  {
+   "id": "abaddon",
+   "pt": "Abadom e Apoliom",
+   "refs": [
+    "9:11"
+   ],
+   "grego": {
+    "lema": "Ἀβαδδών / Ἀπολλύων",
+    "translit": "Abaddṓn / Apollýōn",
+    "strong": "G3, G623"
+   },
+   "sentido": "destruição; destruidor",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "אֲבַדּוֹן",
+     "translit": "'Avaddon",
+     "strong": "H11",
+     "ref": "Jó 26:6"
+    }
+   ],
+   "latim": {
+    "forma": "Abaddon … Apollyon … Exterminans",
+    "nota": "A Vulgata acrescenta o nome latino: \"Latine habens nomen Exterminans\"."
+   },
+   "outras": [
+    {
+     "lingua": "latim",
+     "forma": "Exterminans",
+     "nota": "\"o que extermina\", acréscimo da Vulgata."
+    }
+   ],
+   "explicacao": "O próprio versículo dá o nome em hebraico e em grego. Jerônimo, na Vulgata, completou com o latim. É o melhor exemplo do livro passando por três línguas.",
+   "interpretacao": false
+  },
+  {
+   "id": "abyssos",
+   "pt": "Abismo",
+   "refs": [
+    "9:1",
+    "11:7",
+    "20:1"
+   ],
+   "grego": {
+    "lema": "ἄβυσσος",
+    "translit": "ábyssos",
+    "strong": "G12"
+   },
+   "sentido": "sem fundo",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "תְּהוֹם",
+     "translit": "tehom",
+     "strong": "H8415",
+     "ref": "Gn 1:2"
+    }
+   ],
+   "latim": {
+    "forma": "abyssus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A Septuaginta usa ábyssos para o tehom, as águas do caos de Gênesis 1:2, que Deus organiza.",
+   "interpretacao": false
+  },
+  {
+   "id": "hades",
+   "pt": "Hades (morada dos mortos)",
+   "refs": [
+    "1:18",
+    "6:8",
+    "20:13"
+   ],
+   "grego": {
+    "lema": "ᾅδης",
+    "translit": "háidēs",
+    "strong": "G86"
+   },
+   "sentido": "mundo dos mortos",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "שְׁאוֹל",
+     "translit": "she'ol",
+     "strong": "H7585",
+     "ref": "Os 13:14"
+    }
+   ],
+   "latim": {
+    "forma": "infernus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Hades traduz o she'ol hebraico. Jesus tem \"as chaves da morte e do Hades\" (1:18), como em Oseias 13:14.",
+   "interpretacao": false
+  },
+  {
+   "id": "limne-pyros",
+   "pt": "Lago de fogo",
+   "refs": [
+    "19:20",
+    "20:10",
+    "20:14",
+    "21:8"
+   ],
+   "grego": {
+    "lema": "λίμνη τοῦ πυρός",
+    "translit": "límnē tou pyrós",
+    "strong": "G3041, G4442"
+   },
+   "sentido": "lago de fogo",
+   "semitico": [
+    {
+     "lingua": "aramaico",
+     "lema": "נְהַר דִּי־נוּר",
+     "translit": "nehar di-nur",
+     "strong": "H5103, H5135",
+     "ref": "Dn 7:10"
+    }
+   ],
+   "latim": {
+    "forma": "stagnum ignis",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Daniel 7:10 (em aramaico) vê \"um rio de fogo\" saindo do trono no juízo. O texto explica: o lago é \"a segunda morte\" (20:14).",
+   "interpretacao": false
+  },
+  {
+   "id": "charagma",
+   "pt": "Marca",
+   "refs": [
+    "13:16",
+    "14:9",
+    "20:4"
+   ],
+   "grego": {
+    "lema": "χάραγμα",
+    "translit": "cháragma",
+    "strong": "G5480"
+   },
+   "sentido": "gravação, carimbo",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "תָּו",
+     "translit": "tav",
+     "strong": "H8420",
+     "ref": "Ez 9:4"
+    }
+   ],
+   "latim": {
+    "forma": "character",
+    "nota": "Daí a palavra \"caráter\"."
+   },
+   "outras": [],
+   "explicacao": "Em Ezequiel 9:4, os fiéis recebem um sinal (tav, a última letra) na testa. A marca da besta é a paródia do selo de Deus (7:3).",
+   "interpretacao": false
+  },
+  {
+   "id": "666",
+   "pt": "Seiscentos e sessenta e seis",
+   "refs": [
+    "13:18"
+   ],
+   "grego": {
+    "lema": "χξϛʹ",
+    "translit": "chi-xi-stigma",
+    "strong": "G5516"
+   },
+   "sentido": "666 escrito com letras gregas",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "נרון קסר",
+     "translit": "Nron Qsr",
+     "strong": "",
+     "ref": "grafia hebraica de \"Nero César\""
+    }
+   ],
+   "latim": {
+    "forma": "sescenti sexaginta sex",
+    "nota": ""
+   },
+   "outras": [
+    {
+     "lingua": "latim",
+     "forma": "Nero Caesar → 616",
+     "nota": "Variante registrada por Ireneu (Contra as Heresias 5.30), c. 180 d.C."
+    }
+   ],
+   "explicacao": "Hebraico e grego usavam letras como números. Uma leitura antiga soma \"Nero César\" escrito em hebraico: 50+200+6+50+100+60+200 = 666. Alguns manuscritos trazem 616, que é o valor da grafia latina \"Nero Caesar\". Outros leem o 6 como o humano que nunca chega a 7.",
+   "interpretacao": true
+  },
+  {
+   "id": "babylon",
+   "pt": "Babilônia",
+   "refs": [
+    "14:8",
+    "17:5",
+    "18:2"
+   ],
+   "grego": {
+    "lema": "Βαβυλών",
+    "translit": "Babylṓn",
+    "strong": "G897"
+   },
+   "sentido": "nome da cidade",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "בָּבֶל",
+     "translit": "Bavel",
+     "strong": "H894",
+     "ref": "Jr 51:7"
+    }
+   ],
+   "latim": {
+    "forma": "Babylon",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A Babilônia histórica destruiu Jerusalém em 586 a.C. Em 1 Pedro 5:13 o nome já é código para Roma. A queda de 18:2 repete Isaías 21:9 e Jeremias 51.",
+   "interpretacao": true
+  },
+  {
+   "id": "harmagedon",
+   "pt": "Armagedom",
+   "refs": [
+    "16:16"
+   ],
+   "grego": {
+    "lema": "Ἁρμαγεδών",
+    "translit": "Harmagedṓn",
+    "strong": "G717"
+   },
+   "sentido": "\"em hebraico\", diz o texto",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "הַר מְגִדּוֹ",
+     "translit": "har Megiddo",
+     "strong": "H2022, H4023",
+     "ref": "Zc 12:11"
+    }
+   ],
+   "latim": {
+    "forma": "Armagedon",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Har é monte; Megido, a planície das grandes batalhas de Israel (Jz 5:19; 2Rs 23:29). Não há monte com esse nome, por isso muitos leem como símbolo do confronto final.",
+   "interpretacao": true
+  },
+  {
+   "id": "gog-magog",
+   "pt": "Gogue e Magogue",
+   "refs": [
+    "20:8"
+   ],
+   "grego": {
+    "lema": "Γὼγ καὶ Μαγώγ",
+    "translit": "Gōg kai Magṓg",
+    "strong": "G1136, G3098"
+   },
+   "sentido": "nomes próprios",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "גּוֹג … מָגוֹג",
+     "translit": "Gog … Magog",
+     "strong": "H1463, H4031",
+     "ref": "Ez 38:2"
+    }
+   ],
+   "latim": {
+    "forma": "Gog et Magog",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Em Ezequiel 38, Gogue é um rei da terra de Magogue. João os transforma em símbolo de todas as nações rebeladas.",
+   "interpretacao": false
+  },
+  {
+   "id": "manna",
+   "pt": "Maná escondido",
+   "refs": [
+    "2:17"
+   ],
+   "grego": {
+    "lema": "μάννα",
+    "translit": "mánna",
+    "strong": "G3131"
+   },
+   "sentido": "transliteração do hebraico",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "מָן",
+     "translit": "man",
+     "strong": "H4478",
+     "ref": "Êx 16:15"
+    }
+   ],
+   "latim": {
+    "forma": "manna absconditum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Man hu? \"O que é isto?\" (Êx 16:15). Uma tradição judaica dizia que um vaso de maná fora escondido e voltaria com o Messias.",
+   "interpretacao": false
+  },
+  {
+   "id": "psephos",
+   "pt": "Pedra branca",
+   "refs": [
+    "2:17"
+   ],
+   "grego": {
+    "lema": "ψῆφος λευκή",
+    "translit": "psēphos leukḗ",
+    "strong": "G5586, G3022"
+   },
+   "sentido": "seixo usado para votar ou como entrada",
+   "semitico": [],
+   "latim": {
+    "forma": "calculum candidum",
+    "nota": "\"Calculus\" (pedrinha) deu \"cálculo\": contava-se com pedrinhas."
+   },
+   "outras": [],
+   "explicacao": "No mundo greco-romano, pedra branca era voto de absolvição e também servia de entrada para banquetes.",
+   "interpretacao": true
+  },
+  {
+   "id": "iezabel",
+   "pt": "Jezabel",
+   "refs": [
+    "2:20"
+   ],
+   "grego": {
+    "lema": "Ἰεζάβελ",
+    "translit": "Iezábel",
+    "strong": "G2403"
+   },
+   "sentido": "nome próprio",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "אִיזֶבֶל",
+     "translit": "'Izevel",
+     "strong": "H348",
+     "ref": "1Rs 16:31"
+    }
+   ],
+   "latim": {
+    "forma": "Iezabel",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Apelido de uma profetisa de Tiatira, tirado da rainha que levou Israel à idolatria (1Rs 16:31).",
+   "interpretacao": false
+  },
+  {
+   "id": "balaam",
+   "pt": "Balaão",
+   "refs": [
+    "2:14"
+   ],
+   "grego": {
+    "lema": "Βαλαάμ",
+    "translit": "Balaám",
+    "strong": "G903"
+   },
+   "sentido": "nome próprio",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "בִּלְעָם",
+     "translit": "Bil'am",
+     "strong": "H1109",
+     "ref": "Nm 31:16"
+    }
+   ],
+   "latim": {
+    "forma": "Balaam",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Balaão aconselhou Moabe a seduzir Israel à idolatria (Nm 31:16). Em Pérgamo, havia quem ensinasse a mesma acomodação.",
+   "interpretacao": false
+  },
+  {
+   "id": "nikao",
+   "pt": "Vencer",
+   "refs": [
+    "2:7",
+    "3:21",
+    "12:11",
+    "21:7"
+   ],
+   "grego": {
+    "lema": "νικάω",
+    "translit": "nikáō",
+    "strong": "G3528"
+   },
+   "sentido": "vencer; daí \"Nike\"",
+   "semitico": [],
+   "latim": {
+    "forma": "qui vicerit",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Cada carta termina com promessa \"ao vencedor\". Em 12:11 se vence \"pelo sangue do Cordeiro e pela palavra do testemunho\", não pela força.",
+   "interpretacao": false
+  },
+  {
+   "id": "metanoeo",
+   "pt": "Arrepender-se",
+   "refs": [
+    "2:5",
+    "2:16",
+    "3:3",
+    "3:19"
+   ],
+   "grego": {
+    "lema": "μετανοέω",
+    "translit": "metanoéō",
+    "strong": "G3340"
+   },
+   "sentido": "mudar de mente",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "שׁוּב",
+     "translit": "shuv",
+     "strong": "H7725",
+     "ref": "Jl 2:12"
+    }
+   ],
+   "latim": {
+    "forma": "paenitentiam age",
+    "nota": "A Vulgata traduz por \"fazer penitência\", o que influenciou séculos de leitura."
+   },
+   "outras": [],
+   "explicacao": "Grego: mudar a mente. Hebraico (shuv): dar meia-volta no caminho. As duas ideias estão nas cartas.",
+   "interpretacao": false
+  },
+  {
+   "id": "doulos",
+   "pt": "Servo",
+   "refs": [
+    "1:1",
+    "7:3",
+    "22:3"
+   ],
+   "grego": {
+    "lema": "δοῦλος",
+    "translit": "doûlos",
+    "strong": "G1401"
+   },
+   "sentido": "escravo, servo",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "עֶבֶד",
+     "translit": "'eved",
+     "strong": "H5650",
+     "ref": "Am 3:7"
+    }
+   ],
+   "latim": {
+    "forma": "servus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Amós 3:7: Deus revela seus segredos \"aos seus servos, os profetas\". O livro abre exatamente assim (1:1).",
+   "interpretacao": false
+  },
+  {
+   "id": "pseudoprophetes",
+   "pt": "Falso profeta",
+   "refs": [
+    "16:13",
+    "19:20",
+    "20:10"
+   ],
+   "grego": {
+    "lema": "ψευδοπροφήτης",
+    "translit": "pseudoprophḗtēs",
+    "strong": "G5578"
+   },
+   "sentido": "falso profeta",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "נְבִיא שֶׁקֶר",
+     "translit": "navi' sheqer",
+     "strong": "H5030, H8267",
+     "ref": "Jr 14:14"
+    }
+   ],
+   "latim": {
+    "forma": "pseudopropheta",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O texto mostra que a segunda besta (13:11) é o falso profeta (19:20): a religião a serviço do poder.",
+   "interpretacao": false
+  },
+  {
+   "id": "paradeisos",
+   "pt": "Paraíso",
+   "refs": [
+    "2:7"
+   ],
+   "grego": {
+    "lema": "παράδεισος",
+    "translit": "parádeisos",
+    "strong": "G3857"
+   },
+   "sentido": "jardim, parque",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "פַּרְדֵּס",
+     "translit": "pardes",
+     "strong": "H6508",
+     "ref": "Ec 2:5"
+    }
+   ],
+   "latim": {
+    "forma": "paradisus",
+    "nota": ""
+   },
+   "outras": [
+    {
+     "lingua": "persa antigo (avéstico)",
+     "forma": "pairidaēza",
+     "nota": "\"muro ao redor\"; jardim real."
+    }
+   ],
+   "explicacao": "A palavra veio do persa antigo: pairidaēza, \"cercado\", o jardim murado dos reis. Passou ao hebraico (pardes), ao grego e ao latim. A Septuaginta a usa para o Éden.",
+   "interpretacao": false
+  },
+  {
+   "id": "xylon-zoes",
+   "pt": "Árvore da vida",
+   "refs": [
+    "2:7",
+    "22:2",
+    "22:14"
+   ],
+   "grego": {
+    "lema": "ξύλον τῆς ζωῆς",
+    "translit": "xýlon tēs zōēs",
+    "strong": "G3586, G2222"
+   },
+   "sentido": "madeira, árvore; vida",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "עֵץ הַחַיִּים",
+     "translit": "'ets ha-chayyim",
+     "strong": "H6086, H2416",
+     "ref": "Gn 2:9"
+    }
+   ],
+   "latim": {
+    "forma": "lignum vitae",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Fechada em Gênesis 3:24, aberta de novo em 22:2. Xýlon também é a palavra usada para a cruz (At 5:30).",
+   "interpretacao": false
+  },
+  {
+   "id": "skene",
+   "pt": "Tabernáculo de Deus com os homens",
+   "refs": [
+    "7:15",
+    "21:3"
+   ],
+   "grego": {
+    "lema": "σκηνή / σκηνόω",
+    "translit": "skēnḗ / skēnóō",
+    "strong": "G4633, G4637"
+   },
+   "sentido": "tenda; armar tenda",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "מִשְׁכָּן",
+     "translit": "mishkan",
+     "strong": "H4908",
+     "ref": "Lv 26:11"
+    },
+    {
+     "lingua": "hebraico",
+     "lema": "שָׁכַן",
+     "translit": "shakhan",
+     "strong": "H7931",
+     "ref": "Êx 25:8"
+    }
+   ],
+   "latim": {
+    "forma": "tabernaculum Dei cum hominibus",
+    "nota": ""
+   },
+   "outras": [
+    {
+     "lingua": "hebraico rabínico",
+     "forma": "שְׁכִינָה shekhinah",
+     "nota": "a presença que habita."
+    }
+   ],
+   "explicacao": "De shakhan vem a palavra rabínica shekhiná, a presença de Deus que habita. As consoantes gregas s-k-n soam como o hebraico.",
+   "interpretacao": false
+  },
+  {
+   "id": "ierousalem-kaine",
+   "pt": "Nova Jerusalém",
+   "refs": [
+    "3:12",
+    "21:2",
+    "21:10"
+   ],
+   "grego": {
+    "lema": "Ἰερουσαλὴμ καινή",
+    "translit": "Ierousalḗm kainḗ",
+    "strong": "G2419, G2537"
+   },
+   "sentido": "Jerusalém nova (renovada)",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "יְרוּשָׁלַיִם",
+     "translit": "Yerushalayim",
+     "strong": "H3389",
+     "ref": "Is 65:18"
+    }
+   ],
+   "latim": {
+    "forma": "Hierusalem nova",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Kainós é novo em qualidade, não só em data: a mesma cidade, renovada. Ecoa Isaías 65:17-18.",
+   "interpretacao": false
+  },
+  {
+   "id": "chilioi",
+   "pt": "Mil anos (milênio)",
+   "refs": [
+    "20:2",
+    "20:4",
+    "20:6"
+   ],
+   "grego": {
+    "lema": "χίλια ἔτη",
+    "translit": "chília étē",
+    "strong": "G5507, G2094"
+   },
+   "sentido": "mil anos",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "אֶלֶף",
+     "translit": "'elef",
+     "strong": "H505",
+     "ref": "Sl 90:4"
+    }
+   ],
+   "latim": {
+    "forma": "mille annos",
+    "nota": "Do latim \"mille annos\" veio \"milênio\" e \"milenarismo\"."
+   },
+   "outras": [],
+   "explicacao": "O texto é a única passagem bíblica sobre o milênio. Pré-milenistas, pós-milenistas e amilenistas o leem de formas diferentes.",
+   "interpretacao": true
+  },
+  {
+   "id": "maranatha",
+   "pt": "Vem, Senhor Jesus",
+   "refs": [
+    "22:20"
+   ],
+   "grego": {
+    "lema": "ἔρχου κύριε Ἰησοῦ",
+    "translit": "érchou kýrie Iēsoû",
+    "strong": "G2064, G2962"
+   },
+   "sentido": "vem, Senhor",
+   "semitico": [
+    {
+     "lingua": "aramaico",
+     "lema": "מָרַנָא תָא",
+     "translit": "marana tha",
+     "strong": "G3134",
+     "ref": "1Co 16:22"
+    }
+   ],
+   "latim": {
+    "forma": "Veni, Domine Iesu",
+    "nota": ""
+   },
+   "outras": [
+    {
+     "lingua": "Didaquê (c. 100 d.C.)",
+     "forma": "Μαραναθά",
+     "nota": "Oração da ceia, cap. 10:6."
+    }
+   ],
+   "explicacao": "É a tradução grega de uma das orações cristãs mais antigas, em aramaico: Maranatha, \"Senhor nosso, vem!\" (1Co 16:22; Didaquê 10:6).",
+   "interpretacao": false
+  }
+ ]
+}

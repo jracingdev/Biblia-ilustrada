@@ -1,0 +1,731 @@
+{
+ "livro": "lucas",
+ "nome": "Lucas",
+ "subtitulo": "Jesus, o Salvador que busca os perdidos",
+ "introducao": "Lucas escreve um relato organizado e investigado sobre a vida de Jesus, do anúncio do seu nascimento até a ascensão. O Evangelho destaca a compaixão de Jesus pelos pobres, pelas mulheres, pelos estrangeiros e pelos pecadores, e traz parábolas conhecidas como a do bom samaritano e a do filho pródigo. É a primeira parte de uma obra que continua no livro de Atos.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Anônimo no texto; a tradição antiga o atribui a Lucas, médico e companheiro de Paulo, também autor de Atos"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "A maioria data entre 60 e 85 d.C."
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "Dedicado a Teófilo (1:3), e por meio dele a leitores de origem não judaica"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Evangelho, escrito como relato histórico ordenado (1:1-4)"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "24 capítulos e 1151 versículos"
+  }
+ ],
+ "chave": "19:10",
+ "temas": [
+  "Jesus, Salvador de todos",
+  "Compaixão pelos pobres e marginalizados",
+  "Alegria pelo perdido que é achado",
+  "Oração e a ação do Espírito Santo",
+  "O uso fiel dos bens"
+ ],
+ "cristo": "Lucas apresenta Jesus como o Salvador anunciado aos pastores, que veio buscar e salvar o perdido. Sua morte é marcada pelo perdão até aos que o crucificam, e após a ressurreição ele mostra que toda a Escritura fala dele e envia seus discípulos a pregar o perdão a todas as nações.",
+ "secoes": [
+  {
+   "id": "infancia",
+   "titulo": "Nascimento e infância",
+   "capitulos": [
+    1,
+    2
+   ],
+   "resumo": "Anúncios, nascimentos de João e de Jesus e a infância."
+  },
+  {
+   "id": "preparacao",
+   "titulo": "Preparação do ministério",
+   "capitulos": [
+    3,
+    4
+   ],
+   "resumo": "João Batista, batismo, tentação e o anúncio em Nazaré."
+  },
+  {
+   "id": "ministerio-na-galileia",
+   "titulo": "Ministério na Galileia",
+   "capitulos": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "resumo": "Chamado, ensino, curas e a confissão de Pedro."
+  },
+  {
+   "id": "viagem-a-jerusalem",
+   "titulo": "A viagem para Jerusalém",
+   "capitulos": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ],
+   "resumo": "Parábolas e ensinos no caminho até a cidade."
+  },
+  {
+   "id": "em-jerusalem",
+   "titulo": "Ensino em Jerusalém",
+   "capitulos": [
+    20,
+    21
+   ],
+   "resumo": "Debates no templo e o discurso sobre o fim."
+  },
+  {
+   "id": "paixao-e-ressurreicao",
+   "titulo": "Paixão, ressurreição e ascensão",
+   "capitulos": [
+    22,
+    23,
+    24
+   ],
+   "resumo": "A ceia, a cruz, o túmulo vazio e o envio."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Anúncios de dois nascimentos",
+   "chave": "1:37-38",
+   "resumo": "Lucas explica que investigou tudo com cuidado para escrever a Teófilo. O anjo Gabriel anuncia ao sacerdote Zacarias que sua esposa Isabel, idosa e estéril, terá um filho, João; por duvidar, Zacarias fica mudo. Depois Gabriel anuncia a Maria, virgem de Nazaré, que ela conceberá pelo Espírito Santo o Filho do Altíssimo. Maria visita Isabel e canta louvores; João nasce, e Zacarias, de novo falando, profetiza.",
+   "licoes": [
+    "A fé cristã se apoia em relatos de testemunhas, investigados com cuidado (1:2-4).",
+    "Para Deus nada é impossível (1:37).",
+    "Maria responde com disponibilidade: \"Eis aqui a serva do Senhor\" (1:38).",
+    "Deus derruba os poderosos e eleva os humildes (1:52)."
+   ],
+   "reflexao": "Em que área da sua vida você precisa dizer a Deus \"cumpra-se em mim segundo a tua palavra\"?",
+   "quiz": [
+    {
+     "pergunta": "Qual foi o nome do anjo que apareceu a Zacarias e a Maria?",
+     "opcoes": [
+      "Miguel",
+      "Rafael",
+      "Uriel",
+      "Gabriel"
+     ],
+     "correta": 3,
+     "ref": "1:19"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "O nascimento de Jesus",
+   "chave": "2:11",
+   "resumo": "Por causa de um recenseamento, José e Maria vão a Belém, onde Jesus nasce e é deitado numa manjedoura. Anjos anunciam a pastores o nascimento do Salvador, e eles vão vê-lo. No templo, Simeão e a profetisa Ana reconhecem no menino a salvação de Deus. Aos doze anos, Jesus fica no templo conversando com os mestres e diz que precisava estar na casa de seu Pai.",
+   "licoes": [
+    "O Salvador nasce em humildade e é anunciado primeiro a pastores (2:7, 2:10-11).",
+    "Maria guardava e meditava no coração o que acontecia (2:19).",
+    "Jesus é luz para as nações e glória de Israel (2:32).",
+    "Jesus crescia em sabedoria, estatura e graça diante de Deus e das pessoas (2:52)."
+   ],
+   "reflexao": "O que você tem \"guardado no coração\" sobre o que Deus tem feito?",
+   "quiz": [
+    {
+     "pergunta": "Onde Maria deitou o menino Jesus?",
+     "opcoes": [
+      "Num berço de madeira",
+      "Numa manjedoura",
+      "No templo",
+      "Numa casa em Nazaré"
+     ],
+     "correta": 1,
+     "ref": "2:7"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "João prepara o caminho",
+   "chave": "3:8",
+   "resumo": "No décimo quinto ano de Tibério César, a palavra de Deus vem a João no deserto. Ele prega um batismo de arrependimento e responde às multidões, cobradores de impostos e soldados com orientações práticas: repartir, não explorar, não extorquir. Anuncia alguém mais forte que batizará com o Espírito Santo e com fogo. Jesus é batizado, e o Espírito desce sobre ele. Segue a genealogia de Jesus até Adão, filho de Deus.",
+   "licoes": [
+    "O evangelho entra na história real, com nomes e datas (3:1-2).",
+    "Arrependimento se mostra em mudanças práticas no dia a dia (3:11, 3:13-14).",
+    "Jesus é o mais forte, que batiza com o Espírito Santo (3:16).",
+    "A genealogia até Adão mostra Jesus ligado a toda a humanidade (3:38)."
+   ],
+   "reflexao": "Se você perguntasse a João \"o que devo fazer?\", o que ele lhe diria?",
+   "quiz": [
+    {
+     "pergunta": "O que João disse a quem tivesse duas túnicas?",
+     "opcoes": [
+      "Que vendesse uma",
+      "Que repartisse com quem não tem",
+      "Que desse ao templo",
+      "Que guardasse para o inverno"
+     ],
+     "correta": 1,
+     "ref": "3:11"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "O Espírito do Senhor está sobre mim",
+   "chave": "4:18",
+   "resumo": "Cheio do Espírito, Jesus é tentado no deserto e vence com a Palavra. Em Nazaré, lê Isaías na sinagoga: veio anunciar boas novas aos pobres, libertação aos cativos e vista aos cegos. Quando lembra que Deus agiu entre estrangeiros nos dias de Elias e Eliseu, o povo tenta lançá-lo de um penhasco. Em Cafarnaum, expulsa demônios, cura a sogra de Simão e muitos outros.",
+   "licoes": [
+    "Jesus vence a tentação firmado nas Escrituras (4:4, 4:8).",
+    "A missão de Jesus é boa notícia para pobres, cativos, cegos e oprimidos (4:18-19).",
+    "A graça de Deus alcança também os de fora, como a viúva de Sarepta e Naamã (4:26-27).",
+    "Jesus sabe a que foi enviado: anunciar o Reino em outras cidades (4:43)."
+   ],
+   "reflexao": "Que \"boa notícia\" o mundo ao seu redor precisa ouvir hoje?",
+   "quiz": [
+    {
+     "pergunta": "De que profeta era o livro que Jesus leu na sinagoga de Nazaré?",
+     "opcoes": [
+      "Jeremias",
+      "Daniel",
+      "Malaquias",
+      "Isaías"
+     ],
+     "correta": 3,
+     "ref": "4:17"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "Pescadores de gente",
+   "chave": "5:32",
+   "resumo": "Jesus ensina do barco de Simão e manda lançar as redes; depois de uma noite sem nada, eles pescam tanto que as redes começam a romper. Pedro se reconhece pecador, e Jesus o chama para pescar gente. Jesus purifica um leproso, perdoa e cura um paralítico descido pelo telhado e chama Levi, o publicano, a quem diz que veio chamar pecadores ao arrependimento.",
+   "licoes": [
+    "Obedecer à palavra de Jesus, mesmo sem entender, traz resultados (5:5-6).",
+    "Diante da santidade de Jesus, reconhecemos nosso pecado (5:8).",
+    "Jesus costumava se retirar para orar (5:16).",
+    "Jesus veio chamar pecadores ao arrependimento (5:32)."
+   ],
+   "reflexao": "Em que você precisa \"lançar as redes\" outra vez, confiando na palavra de Jesus?",
+   "quiz": [
+    {
+     "pergunta": "O que Simão disse a Jesus antes de lançar as redes?",
+     "opcoes": [
+      "Trabalhamos toda a noite e nada pegamos, mas pela tua palavra lançarei as redes",
+      "Não adianta, Mestre",
+      "Esperemos o amanhecer",
+      "Chama outros barcos primeiro"
+     ],
+     "correta": 0,
+     "ref": "5:5"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "O sermão da planície",
+   "chave": "6:36",
+   "resumo": "Jesus é questionado por permitir colher espigas e por curar no sábado. Depois de passar a noite orando, escolhe os doze apóstolos. Num lugar plano, ensina: felizes os pobres, os famintos e os que choram; ai dos ricos e saciados. Manda amar os inimigos, ser misericordiosos como o Pai, não julgar e dar com generosidade. Termina com a imagem da casa construída sobre a rocha.",
+   "licoes": [
+    "Grandes decisões devem ser precedidas de oração (6:12-13).",
+    "O Reino inverte valores: bem-aventurados os pobres e famintos (6:20-21).",
+    "O amor do discípulo inclui os inimigos e imita a misericórdia do Pai (6:27, 6:36).",
+    "A boca fala do que está cheio o coração (6:45)."
+   ],
+   "reflexao": "Quem é o \"inimigo\" que Jesus lhe pede para amar e abençoar?",
+   "quiz": [
+    {
+     "pergunta": "O que Jesus fez antes de escolher os doze apóstolos?",
+     "opcoes": [
+      "Jejuou quarenta dias",
+      "Consultou os fariseus",
+      "Passou a noite orando a Deus",
+      "Foi ao templo"
+     ],
+     "correta": 2,
+     "ref": "6:12"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "Fé, compaixão e perdão",
+   "chave": "7:47",
+   "resumo": "Jesus cura o servo de um centurião que, por humildade, nem se achou digno de recebê-lo em casa. Em Naim, movido de compaixão, ressuscita o filho único de uma viúva. Responde aos enviados de João Batista apontando suas obras. Na casa de Simão, o fariseu, uma mulher pecadora unge seus pés com lágrimas e perfume; Jesus conta a parábola dos dois devedores e declara que os pecados dela estão perdoados.",
+   "licoes": [
+    "A fé humilde do centurião admira Jesus (7:7, 7:9).",
+    "Jesus se comove com a dor de uma viúva e age (7:13-15).",
+    "Quem reconhece que foi muito perdoado ama muito (7:47).",
+    "A fé recebe perdão e paz (7:50)."
+   ],
+   "reflexao": "Você se vê mais parecido com Simão ou com a mulher que ungiu Jesus?",
+   "quiz": [
+    {
+     "pergunta": "O que Jesus disse à mulher no final do capítulo?",
+     "opcoes": [
+      "Vai e não peques mais",
+      "Segue-me",
+      "A tua fé te salvou; vai em paz",
+      "Não toques em mim"
+     ],
+     "correta": 2,
+     "ref": "7:50"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "Ouvir a palavra e confiar",
+   "chave": "8:15",
+   "resumo": "Jesus percorre cidades com os doze e com mulheres que o apoiavam com seus bens. Ensina a parábola do semeador e chama a atenção para o modo como ouvimos. Sua família é quem ouve e pratica a palavra. Ele acalma a tempestade, liberta o geraseno possuído por \"Legião\", cura a mulher que tocou sua veste e ressuscita a filha de Jairo.",
+   "licoes": [
+    "Mulheres participavam e sustentavam o ministério de Jesus (8:2-3).",
+    "A boa terra é o coração que retém a palavra e frutifica com perseverança (8:15).",
+    "Ser família de Jesus é ouvir e praticar a palavra de Deus (8:21).",
+    "Diante do medo e da morte, Jesus chama à fé (8:25, 8:50)."
+   ],
+   "reflexao": "Como você tem \"ouvido\" a palavra de Deus ultimamente?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Jesus, quem são sua mãe e seus irmãos?",
+     "opcoes": [
+      "Os que ouvem a palavra de Deus e a praticam",
+      "Os que moram em Nazaré",
+      "Os sacerdotes do templo",
+      "Os doze apóstolos apenas"
+     ],
+     "correta": 0,
+     "ref": "8:21"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "Quem é Jesus e o que custa segui-lo",
+   "chave": "9:23",
+   "resumo": "Jesus envia os doze a pregar e curar, e Herodes fica intrigado. Ele alimenta cinco mil pessoas. Depois de orar, ouve Pedro confessá-lo como o Cristo de Deus e anuncia sua paixão. No monte, é transfigurado e conversa com Moisés e Elias sobre sua partida em Jerusalém. Liberta um menino, ensina humildade e decide firmemente ir a Jerusalém, alertando sobre o custo de segui-lo.",
+   "licoes": [
+    "Pedro reconhece Jesus como \"o Cristo de Deus\" (9:20).",
+    "Seguir Jesus é negar a si mesmo e tomar a cruz cada dia (9:23).",
+    "O Pai manda ouvir o seu Filho escolhido (9:35).",
+    "Quem põe a mão no arado e olha para trás não está apto para o Reino (9:62)."
+   ],
+   "reflexao": "Que \"olhar para trás\" pode estar atrapalhando seu seguimento de Jesus?",
+   "quiz": [
+    {
+     "pergunta": "Sobre o que Moisés e Elias falavam com Jesus no monte?",
+     "opcoes": [
+      "Sobre a reconstrução do templo",
+      "Sobre a lei do sábado",
+      "Sobre os fariseus",
+      "Sobre a sua partida, que ele cumpriria em Jerusalém"
+     ],
+     "correta": 3,
+     "ref": "9:31"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "titulo": "O bom samaritano e a boa parte",
+   "chave": "10:27",
+   "resumo": "Jesus envia setenta discípulos à sua frente, como cordeiros entre lobos; eles voltam alegres, e Jesus diz que a maior alegria é ter o nome escrito no céu. Um estudioso da Lei pergunta quem é o seu próximo, e Jesus conta a parábola do bom samaritano. Na casa de Marta e Maria, Jesus diz que Maria escolheu a boa parte ao sentar-se aos seus pés.",
+   "licoes": [
+    "A maior alegria é pertencer a Deus, não ter poder espiritual (10:20).",
+    "Amar a Deus e ao próximo é o caminho da vida (10:27-28).",
+    "Ser próximo é agir com misericórdia, mesmo com quem é diferente (10:36-37).",
+    "Ouvir Jesus é a \"boa parte\" que não será tirada (10:42)."
+   ],
+   "reflexao": "Quem está \"caído à beira do caminho\" perto de você?",
+   "quiz": [
+    {
+     "pergunta": "Na parábola, quem cuidou do homem ferido?",
+     "opcoes": [
+      "O sacerdote",
+      "Um samaritano",
+      "O levita",
+      "O dono da hospedaria"
+     ],
+     "correta": 1,
+     "ref": "10:33-34"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "titulo": "Ensina-nos a orar",
+   "chave": "11:9",
+   "resumo": "Um discípulo pede: \"ensina-nos a orar\", e Jesus ensina o Pai Nosso e a parábola do amigo que pede pão à meia-noite. Ele promete que o Pai dá o Espírito Santo a quem pede. Acusado de agir por Belzebu, mostra que expulsa demônios pelo dedo de Deus. Fala do sinal de Jonas e da lâmpada do corpo e, à mesa de um fariseu, denuncia a hipocrisia de fariseus e estudiosos da Lei.",
+   "licoes": [
+    "A oração é um pedido de filhos ao Pai (11:2).",
+    "Devemos pedir, buscar e bater com persistência (11:8-9).",
+    "O Pai dá o Espírito Santo aos que lhe pedem (11:13).",
+    "Mais felizes que qualquer laço humano são os que ouvem e guardam a palavra de Deus (11:28)."
+   ],
+   "reflexao": "O que você tem pedido a Deus com persistência?",
+   "quiz": [
+    {
+     "pergunta": "O que o Pai celestial dará aos que lhe pedirem, segundo o versículo 13?",
+     "opcoes": [
+      "Riquezas",
+      "O Espírito Santo",
+      "Um reino",
+      "Longa vida"
+     ],
+     "correta": 1,
+     "ref": "11:13"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "titulo": "Rico para com Deus",
+   "chave": "12:21",
+   "resumo": "Diante de milhares de pessoas, Jesus alerta contra o fermento da hipocrisia e diz para não temer os homens, pois Deus cuida até dos pardais. Um homem pede ajuda numa herança, e Jesus conta a parábola do rico insensato, que acumulou bens mas não era rico para com Deus. Ensina a não andar ansioso, a buscar o Reino e a vigiar como servos que esperam o seu senhor.",
+   "licoes": [
+    "Deus conhece cada detalhe da nossa vida (12:6-7).",
+    "A vida não consiste na abundância de bens (12:15).",
+    "Buscar o Reino é o antídoto contra a ansiedade (12:29-31).",
+    "A quem muito foi dado, muito será pedido (12:48)."
+   ],
+   "reflexao": "Você está ficando \"rico para com Deus\" ou só para si mesmo?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus disse ao rico que planejava construir celeiros maiores?",
+     "opcoes": [
+      "Muito bem, servo fiel",
+      "Reparte com os pobres",
+      "Descansa e alegra-te",
+      "Louco, esta noite te pedirão tua alma"
+     ],
+     "correta": 3,
+     "ref": "12:20"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "titulo": "Arrependimento e a porta estreita",
+   "chave": "13:24",
+   "resumo": "Jesus comenta tragédias recentes e diz que as vítimas não eram mais pecadoras que os outros; todos precisam se arrepender. Conta a parábola da figueira que recebe mais um ano para dar fruto. No sábado, cura uma mulher curvada havia dezoito anos e enfrenta a crítica do chefe da sinagoga. Compara o Reino à mostarda e ao fermento, fala da porta estreita e lamenta por Jerusalém.",
+   "licoes": [
+    "Tragédias não medem culpa, mas chamam todos ao arrependimento (13:2-3).",
+    "Deus é paciente, mas espera frutos (13:8-9).",
+    "Libertar pessoas é mais importante do que regras rígidas sobre o sábado (13:16).",
+    "Pessoas de todos os cantos se sentarão no Reino de Deus (13:29)."
+   ],
+   "reflexao": "Que fruto Deus está esperando, com paciência, da sua vida?",
+   "quiz": [
+    {
+     "pergunta": "Há quantos anos a mulher curada no sábado estava curvada?",
+     "opcoes": [
+      "Sete",
+      "Doze",
+      "Dezoito",
+      "Trinta e oito"
+     ],
+     "correta": 2,
+     "ref": "13:11"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "titulo": "Banquete do Reino e o custo do discipulado",
+   "chave": "14:11",
+   "resumo": "Na casa de um fariseu, Jesus cura um homem num sábado. Observando os convidados disputarem os melhores lugares, ensina humildade e manda convidar pobres, aleijados, mancos e cegos. Conta a parábola do grande jantar recusado pelos convidados e aberto aos de fora. Às multidões, diz que segui-lo exige colocá-lo acima de tudo, carregar a cruz e calcular o custo.",
+   "licoes": [
+    "Quem se exalta será humilhado, e quem se humilha será exaltado (14:11).",
+    "A generosidade verdadeira não espera retorno (14:13-14).",
+    "Desculpas podem nos fazer perder o banquete de Deus (14:18-20).",
+    "Seguir Jesus é um compromisso que exige calcular o custo (14:27-28)."
+   ],
+   "reflexao": "Que desculpas você tem dado ao convite de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Quem o dono da casa manda chamar depois que os convidados recusam?",
+     "opcoes": [
+      "Os sacerdotes",
+      "Os soldados",
+      "Os pobres, aleijados, cegos e mancos",
+      "Os vizinhos ricos"
+     ],
+     "correta": 2,
+     "ref": "14:21"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "titulo": "Perdido e achado",
+   "chave": "15:20",
+   "resumo": "Os fariseus murmuram porque Jesus recebe pecadores e come com eles. Ele conta três parábolas: a ovelha perdida, a moeda perdida e o filho perdido. O filho mais novo desperdiça a herança, cai na miséria e volta para casa, e o pai corre ao seu encontro e faz festa. O irmão mais velho se recusa a entrar, e o pai o convida a se alegrar também.",
+   "licoes": [
+    "Deus procura ativamente quem está perdido (15:4, 15:8).",
+    "Há alegria no céu por um pecador que se arrepende (15:7, 15:10).",
+    "O Pai acolhe com compaixão quem volta, antes mesmo de qualquer explicação (15:20).",
+    "Quem sempre esteve em casa também precisa aprender a se alegrar com a graça (15:28, 15:32)."
+   ],
+   "reflexao": "Você se identifica mais com o filho mais novo ou com o mais velho?",
+   "quiz": [
+    {
+     "pergunta": "O que o pai fez quando viu o filho mais novo voltando de longe?",
+     "opcoes": [
+      "Esperou que ele pedisse perdão",
+      "Mandou-o trabalhar no campo",
+      "Correu, lançou-se ao seu pescoço e o beijou",
+      "Chamou o irmão mais velho"
+     ],
+     "correta": 2,
+     "ref": "15:20"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "titulo": "Riquezas e eternidade",
+   "chave": "16:13",
+   "resumo": "Jesus conta a parábola do administrador desonesto que agiu com esperteza, ensinando a usar os bens com vista ao futuro e a ser fiel no pouco. Ninguém pode servir a Deus e às riquezas. Os fariseus, amigos do dinheiro, zombam, e Jesus os confronta. Depois conta a história do rico e do mendigo Lázaro: após a morte, a situação se inverte, e Abraão diz que quem não ouve Moisés e os profetas também não se convenceria com um ressuscitado.",
+   "licoes": [
+    "Quem é fiel no pouco também será fiel no muito (16:10).",
+    "Não é possível servir a Deus e às riquezas (16:13).",
+    "Deus conhece o coração, por trás das aparências (16:15).",
+    "Ignorar o pobre à nossa porta tem consequências eternas (16:20, 16:25)."
+   ],
+   "reflexao": "Quem é o \"Lázaro\" à sua porta que você tem ignorado?",
+   "quiz": [
+    {
+     "pergunta": "Qual era o nome do mendigo na história do homem rico?",
+     "opcoes": [
+      "Lázaro",
+      "Bartimeu",
+      "Simão",
+      "Zaqueu"
+     ],
+     "correta": 0,
+     "ref": "16:20"
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "titulo": "Fé, gratidão e o Reino",
+   "chave": "17:15-16",
+   "resumo": "Jesus ensina a não fazer os outros tropeçar e a perdoar sempre que o irmão se arrepende. Os apóstolos pedem mais fé, e ele fala do grão de mostarda e de servir com humildade. Dez leprosos são curados, mas só um, um samaritano, volta para agradecer. Jesus diz que o Reino de Deus está no meio deles e alerta para estarem prontos para a vinda do Filho do homem.",
+   "licoes": [
+    "Perdoar repetidamente é parte da vida cristã (17:3-4).",
+    "Mesmo uma fé pequena é poderosa (17:6).",
+    "Gratidão é voltar a Jesus e glorificar a Deus (17:15-16).",
+    "O Reino de Deus já está presente no meio de nós (17:21)."
+   ],
+   "reflexao": "Que bênção recente você ainda não agradeceu a Deus?",
+   "quiz": [
+    {
+     "pergunta": "Quantos leprosos foram curados e quantos voltaram para agradecer?",
+     "opcoes": [
+      "Dez curados, nenhum voltou",
+      "Sete curados, dois voltaram",
+      "Doze curados, um voltou",
+      "Dez curados, um voltou"
+     ],
+     "correta": 3,
+     "ref": "17:17"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "titulo": "Orar sempre e com humildade",
+   "chave": "18:13-14",
+   "resumo": "Jesus conta a parábola da viúva insistente diante de um juiz injusto, ensinando a orar sempre sem desanimar. Na parábola do fariseu e do publicano, é o publicano humilde que volta justificado. Jesus acolhe as crianças, chama um líder rico a vender tudo e segui-lo e anuncia de novo sua morte. Perto de Jericó, um cego clama \"Filho de Davi, tem misericórdia de mim\" e recebe a visão.",
+   "licoes": [
+    "Devemos orar sempre e nunca desanimar (18:1, 18:7).",
+    "Deus justifica o humilde que pede misericórdia, não o que confia em si (18:13-14).",
+    "O Reino deve ser recebido como uma criança o recebe (18:17).",
+    "O que é impossível para os seres humanos é possível para Deus (18:27)."
+   ],
+   "reflexao": "Sua oração se parece mais com a do fariseu ou com a do publicano?",
+   "quiz": [
+    {
+     "pergunta": "O que o publicano orava, batendo no peito?",
+     "opcoes": [
+      "Graças te dou porque não sou como os outros",
+      "Ó Deus, tem misericórdia de mim, que sou pecador",
+      "Jejuo duas vezes por semana",
+      "Senhor, dá-me riquezas"
+     ],
+     "correta": 1,
+     "ref": "18:13"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "titulo": "Zaqueu e a chegada a Jerusalém",
+   "chave": "19:10",
+   "resumo": "Em Jericó, Zaqueu, chefe dos publicanos e rico, sobe numa árvore para ver Jesus, que se convida para sua casa. Zaqueu promete dar metade dos bens aos pobres e devolver quatro vezes o que extorquiu. Jesus conta a parábola das minas, sobre servir fielmente enquanto o rei está ausente. Depois entra em Jerusalém montado num jumentinho, chora pela cidade e purifica o templo.",
+   "licoes": [
+    "Jesus procura quem os outros desprezam (19:5, 19:7).",
+    "O encontro com Jesus produz mudança concreta, inclusive no uso do dinheiro (19:8).",
+    "O Filho do homem veio buscar e salvar o perdido (19:10).",
+    "Jesus chora por quem não reconhece o tempo da visita de Deus (19:41-42)."
+   ],
+   "reflexao": "Que mudança concreta o encontro com Jesus já provocou na sua vida?",
+   "quiz": [
+    {
+     "pergunta": "Onde Zaqueu subiu para conseguir ver Jesus?",
+     "opcoes": [
+      "No telhado de uma casa",
+      "Numa árvore",
+      "Num muro",
+      "Num monte"
+     ],
+     "correta": 1,
+     "ref": "19:4"
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "titulo": "Autoridade e perguntas no templo",
+   "chave": "20:25",
+   "resumo": "Os líderes questionam a autoridade de Jesus, e ele responde com uma pergunta sobre o batismo de João. Conta a parábola dos lavradores maus, que matam o filho do dono da vinha. Responde aos espiões sobre o tributo a César e aos saduceus sobre a ressurreição, afirmando que Deus é Deus de vivos. Pergunta como o Cristo pode ser filho e Senhor de Davi e alerta contra a vaidade dos escribas.",
+   "licoes": [
+    "A pedra rejeitada se tornou a pedra principal (20:17).",
+    "Devemos dar a César o que é de César e a Deus o que é de Deus (20:25).",
+    "Para Deus todos vivem; a ressurreição é real (20:37-38).",
+    "Religiosidade vaidosa que explora os fracos é condenada (20:46-47)."
+   ],
+   "reflexao": "O que, na sua vida, pertence a Deus e precisa ser entregue a ele?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Jesus, Deus é Deus de quem?",
+     "opcoes": [
+      "Somente de Israel",
+      "Dos sacerdotes",
+      "Dos anjos",
+      "De vivos, e não de mortos"
+     ],
+     "correta": 3,
+     "ref": "20:38"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "titulo": "A oferta da viúva e os sinais do fim",
+   "chave": "21:36",
+   "resumo": "Jesus elogia a viúva pobre que deu tudo o que tinha. Quando falam da beleza do templo, ele anuncia sua destruição e fala de falsos cristos, guerras, perseguições, do cerco de Jerusalém e de sinais no céu antes da vinda do Filho do homem. Os discípulos devem perseverar, levantar a cabeça porque a redenção se aproxima e vigiar orando.",
+   "licoes": [
+    "Deus valoriza a oferta de quem dá tudo, mesmo que seja pouco (21:3-4).",
+    "Na perseguição, Jesus dá palavra e sabedoria (21:14-15).",
+    "Pela perseverança os discípulos ganham a vida (21:19).",
+    "Vigiar e orar guarda o coração de se distrair (21:34, 21:36)."
+   ],
+   "reflexao": "O que tem pesado seu coração e tirado sua atenção de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Jesus, quem lançou mais ofertas que todos?",
+     "opcoes": [
+      "Uma pobre viúva",
+      "O sumo sacerdote",
+      "Um homem rico",
+      "Um fariseu"
+     ],
+     "correta": 0,
+     "ref": "21:3"
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "titulo": "A última ceia e a prisão",
+   "chave": "22:19",
+   "resumo": "Judas combina entregar Jesus. Na ceia de Páscoa, Jesus dá o pão e o cálice como seu corpo e o novo testamento em seu sangue. Os discípulos discutem quem é o maior, e ele ensina que o maior é quem serve. Avisa Pedro de que o negará, mas ora por ele. No monte das Oliveiras, ora angustiado; é traído com um beijo, cura a orelha de um servo e é preso. Pedro o nega três vezes, Jesus olha para ele, e Pedro chora.",
+   "licoes": [
+    "A ceia é memória do corpo de Jesus dado por nós (22:19-20).",
+    "Entre os discípulos, o maior deve ser como quem serve (22:26-27).",
+    "Jesus ora para que a fé de Pedro não desfaleça (22:32).",
+    "Na angústia, Jesus se entrega à vontade do Pai (22:42)."
+   ],
+   "reflexao": "Como você responderia ao olhar de Jesus depois de uma falha?",
+   "quiz": [
+    {
+     "pergunta": "Como Judas entregou Jesus, segundo a pergunta de Jesus?",
+     "opcoes": [
+      "Com um abraço",
+      "Apontando com o dedo",
+      "Com um beijo",
+      "Chamando-o pelo nome"
+     ],
+     "correta": 2,
+     "ref": "22:48"
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "titulo": "Pai, perdoa-lhes",
+   "chave": "23:34",
+   "resumo": "Jesus é acusado diante de Pilatos e de Herodes; ambos não encontram culpa, mas a multidão pede Barrabás e grita \"crucifica-o\". A caminho da cruz, Simão de Cirene carrega a cruz e Jesus fala às mulheres que choram. Crucificado, ora: \"Pai, perdoa-lhes\". Promete ao malfeitor arrependido que estará com ele no paraíso e entrega seu espírito ao Pai. José de Arimateia o sepulta.",
+   "licoes": [
+    "Jesus é declarado inocente, mesmo sendo condenado (23:4, 23:14-15).",
+    "Na cruz, Jesus intercede pelos que o crucificam (23:34).",
+    "Mesmo no último momento, quem se volta para Jesus encontra salvação (23:42-43).",
+    "Jesus morre confiando: \"Pai, em tuas mãos entrego meu espírito\" (23:46)."
+   ],
+   "reflexao": "Há alguém que você precisa perdoar como Jesus perdoou?",
+   "quiz": [
+    {
+     "pergunta": "O que Jesus prometeu ao malfeitor arrependido?",
+     "opcoes": [
+      "Que desceria da cruz",
+      "Que seria solto",
+      "Que hoje estaria com ele no paraíso",
+      "Que voltaria em três dias"
+     ],
+     "correta": 2,
+     "ref": "23:43"
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "titulo": "O Senhor ressuscitou",
+   "chave": "24:34",
+   "resumo": "No primeiro dia da semana, mulheres encontram o túmulo vazio, e dois homens resplandecentes anunciam que Jesus ressuscitou. No caminho de Emaús, Jesus caminha com dois discípulos, explica as Escrituras e é reconhecido ao partir o pão. Depois aparece aos discípulos, mostra as mãos e os pés, come diante deles, abre seu entendimento e os envia como testemunhas. Ele é levado ao céu, e eles voltam a Jerusalém com grande alegria.",
+   "licoes": [
+    "As mulheres são as primeiras a anunciar a ressurreição (24:9-10).",
+    "As Escrituras falam de Cristo, de Moisés a todos os profetas (24:27).",
+    "Jesus se revela no caminho e ao partir o pão (24:31-32).",
+    "A missão é anunciar arrependimento e perdão a todas as nações, no poder do Espírito (24:47, 24:49)."
+   ],
+   "reflexao": "Quando foi a última vez que seu coração \"ardeu\" ao ouvir a palavra de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Para qual aldeia iam os dois discípulos quando Jesus os encontrou?",
+     "opcoes": [
+      "Emaús",
+      "Betânia",
+      "Naim",
+      "Jericó"
+     ],
+     "correta": 0,
+     "ref": "24:13"
+    }
+   ]
+  }
+ ]
+}

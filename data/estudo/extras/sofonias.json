@@ -1,0 +1,261 @@
+{
+ "livro": "sofonias",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:12-15",
+   "titulo": "Jerusalém revistada com lanternas",
+   "descricao": "À noite, uma luz que vem do alto percorre as ruas de Jerusalém e revela homens acomodados, que dizem que Deus não faz nem bem nem mal.",
+   "alt": "Uma luz percorre as ruas escuras de Jerusalém revelando homens sentados com indiferença.",
+   "prompt": "Night scene in the narrow streets of ancient Jerusalem, beams of lamplight searching through doorways, revealing complacent wealthy men lounging beside wine jars, a darkening ominous sky above, chiaroscuro lighting, tense mood"
+  },
+  {
+   "id": "q02",
+   "capitulo": 2,
+   "ref": "2:3",
+   "titulo": "Buscai ao SENHOR, humildes",
+   "descricao": "Pessoas simples da terra se reúnem em oração ao entardecer, enquanto nuvens escuras se juntam no horizonte.",
+   "alt": "Camponeses humildes oram juntos ao ar livre enquanto nuvens de tempestade se aproximam.",
+   "prompt": "A group of humble Judean peasants, men, women and elderly, kneeling together in prayer in a field at dusk, simple clothes and tools set aside, dark storm clouds gathering on the horizon but a soft light upon them, quiet reverent atmosphere"
+  },
+  {
+   "id": "q03",
+   "capitulo": 3,
+   "ref": "3:14-17",
+   "titulo": "O SENHOR se alegra com cânticos",
+   "descricao": "Sião canta e dança nas ruas restauradas; a alegria do povo responde à alegria de Deus, mostrada como luz sobre a cidade.",
+   "alt": "Moradores de Jerusalém cantam e dançam nas ruas sob uma luz dourada.",
+   "prompt": "Joyful inhabitants of a restored ancient Jerusalem singing and dancing in the streets, young women with tambourines, elderly people smiling, children running, a warm golden radiance resting over the city like a gentle glory, festive bright composition"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "lanternas",
+   "termo": "Revistar Jerusalém com lanternas",
+   "ref": "1:12",
+   "explicado": false,
+   "significado": "Deus procura em cada canto os que vivem acomodados 'como vinho sobre a borra', isto é, parados e indiferentes."
+  },
+  {
+   "id": "borra",
+   "termo": "Vinho sobre a borra",
+   "ref": "1:12",
+   "explicado": false,
+   "significado": "Vinho deixado parado sobre o sedimento fica espesso. Imagem de quem se acomodou espiritualmente."
+  },
+  {
+   "id": "dia-ira",
+   "termo": "O grande dia da ira",
+   "ref": "1:14-15",
+   "explicado": false,
+   "significado": "Descrição do Dia do SENHOR com trevas, nuvens e trombeta. Inspirou o hino medieval latino 'Dies irae'."
+  },
+  {
+   "id": "sacrificio",
+   "termo": "O sacrifício preparado",
+   "ref": "1:7",
+   "explicado": false,
+   "significado": "Deus 'preparou um sacrifício' e santificou convidados: imagem irônica do juízo como banquete em que Judá é a oferta."
+  },
+  {
+   "id": "lingua-pura",
+   "termo": "Lábios purificados",
+   "ref": "3:9",
+   "explicado": false,
+   "significado": "Deus dará aos povos lábios puros para invocarem seu nome; muitos veem aqui o inverso de Babel."
+  },
+  {
+   "id": "resto-humilde",
+   "termo": "Um povo humilde e pobre",
+   "ref": "3:12",
+   "explicado": true,
+   "significado": "O texto mesmo descreve o resto: um povo humilde que confia no nome do SENHOR e não pratica a mentira."
+  },
+  {
+   "id": "rei-meio",
+   "termo": "O Rei no meio de ti",
+   "ref": "3:15",
+   "explicado": false,
+   "significado": "O SENHOR, Rei de Israel, está no meio do povo; por isso não há mais o que temer."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "yom-yhwh",
+   "pt": "Dia do SENHOR",
+   "refs": [
+    "1:7",
+    "1:14"
+   ],
+   "hebraico": {
+    "lema": "יוֹם יְהוָה",
+    "translit": "yom YHWH",
+    "strong": "H3117, H3068"
+   },
+   "sentido": "o dia em que o SENHOR age",
+   "latim": {
+    "forma": "dies irae dies illa",
+    "nota": "Sf 1:15 na Vulgata: dies irae dies illa, dies tribulationis et angustiae."
+   },
+   "outras": [],
+   "explicacao": "Sofonias é o profeta que mais desenvolve o tema. Sua descrição em 1:15 deu origem ao hino 'Dies irae, dies illa', cantado por séculos na liturgia latina.",
+   "interpretacao": false
+  },
+  {
+   "id": "anav",
+   "pt": "Mansos (humildes)",
+   "refs": [
+    "2:3"
+   ],
+   "hebraico": {
+    "lema": "עָנָו",
+    "translit": "'anav",
+    "strong": "H6035"
+   },
+   "grego": {
+    "lema": "ταπεινός",
+    "translit": "tapeinós"
+   },
+   "sentido": "humilde, pobre, oprimido que depende de Deus",
+   "latim": {
+    "forma": "quaerite Dominum omnes mansueti terrae",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Os 'anavim' são os pobres que confiam em Deus. O convite é buscar justiça e humildade 'talvez' para serem guardados.",
+   "interpretacao": false
+  },
+  {
+   "id": "sheerit",
+   "pt": "Resto",
+   "refs": [
+    "2:7",
+    "2:9",
+    "3:13"
+   ],
+   "hebraico": {
+    "lema": "שְׁאֵרִית",
+    "translit": "she'erit",
+    "strong": "H7611"
+   },
+   "sentido": "remanescente",
+   "latim": {
+    "forma": "reliquiae Israhel",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Depois do juízo, um resto de Judá herdará as terras dos inimigos e viverá em verdade.",
+   "interpretacao": false
+  },
+  {
+   "id": "safah-berurah",
+   "pt": "Lábios puros",
+   "refs": [
+    "3:9"
+   ],
+   "hebraico": {
+    "lema": "שָׂפָה בְרוּרָה",
+    "translit": "safah berurah",
+    "strong": "H8193, H1305"
+   },
+   "sentido": "linguagem limpa, purificada",
+   "latim": {
+    "forma": "labium electum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Os povos recebem uma 'língua pura' para invocar o SENHOR e servi-lo 'de comum acordo'.",
+   "interpretacao": false
+  },
+  {
+   "id": "gibbor",
+   "pt": "Poderoso",
+   "refs": [
+    "3:17"
+   ],
+   "hebraico": {
+    "lema": "גִּבּוֹר",
+    "translit": "gibbor",
+    "strong": "H1368"
+   },
+   "sentido": "herói, guerreiro valente",
+   "latim": {
+    "forma": "Dominus Deus tuus in medio tui fortis ipse salvabit",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Deus é um herói que salva e, ao mesmo tempo, se alegra com o povo com cânticos.",
+   "interpretacao": false
+  },
+  {
+   "id": "rinnah",
+   "pt": "Cântico de alegria",
+   "refs": [
+    "3:17"
+   ],
+   "hebraico": {
+    "lema": "רִנָּה",
+    "translit": "rinnah",
+    "strong": "H7440"
+   },
+   "sentido": "grito de júbilo, canto",
+   "latim": {
+    "forma": "exultabit super te in laude",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Imagem rara: é Deus quem canta de alegria por seu povo.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "herodoto-citas",
+   "titulo": "As invasões dos citas",
+   "refs": [
+    "1:1",
+    "1:15"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Heródoto, Histórias",
+   "referencia": "livro 1, caps. 103–106",
+   "data_fonte": "c. 430 a.C.",
+   "data_evento": "séc. VII a.C.",
+   "resumo": "Heródoto conta que os citas dominaram a Ásia por 28 anos e chegaram até a Palestina, sendo detidos pelo faraó Psamético com presentes.",
+   "relacao": "Alguns estudiosos já ligaram o 'dia da ira' de Sofonias a essa ameaça cita. Hoje muitos duvidam da extensão dessa invasão, e a ligação é especulativa.",
+   "grau": "associacao"
+  },
+  {
+   "id": "herodoto-asdode",
+   "titulo": "O longo cerco de Asdode",
+   "refs": [
+    "2:4"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Heródoto, Histórias",
+   "referencia": "livro 2, cap. 157",
+   "data_fonte": "c. 430 a.C.",
+   "data_evento": "séc. VII a.C. (reinado de Psamético I)",
+   "resumo": "Heródoto diz que Psamético I sitiou Azoto (Asdode) por 29 anos, o mais longo cerco que conhecia.",
+   "relacao": "Mostra as cidades filisteias citadas em 2:4 sob pressão das potências da época. É contexto, não descrição da profecia.",
+   "grau": "associacao"
+  },
+  {
+   "id": "cronica-asquelom",
+   "titulo": "A destruição de Asquelom",
+   "refs": [
+    "2:4",
+    "2:7"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Crônica Babilônica (crônica dos primeiros anos de Nabucodonosor)",
+   "referencia": "Museu Britânico, BM 21946",
+   "data_fonte": "séc. VI a.C. ou posterior (cópia)",
+   "data_evento": "604 a.C.",
+   "resumo": "A crônica registra que Nabucodonosor marchou contra Asquelom, tomou a cidade, levou seu rei e a reduziu a ruínas.",
+   "relacao": "Sofonias anuncia que Asquelom ficaria desolada (2:4). As escavações de Asquelom também mostram uma camada de destruição dessa época.",
+   "grau": "documentado"
+  }
+ ]
+}

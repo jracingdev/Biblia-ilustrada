@@ -1,0 +1,360 @@
+{
+ "livro": "miqueias",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:3-4",
+   "titulo": "O SENHOR desce sobre os montes",
+   "descricao": "Montes parecem derreter como cera diante do fogo e vales se fendem, enquanto uma luz intensa desce do céu sobre a terra de Israel.",
+   "alt": "Montanhas que se derretem sob uma luz ardente que desce das nuvens.",
+   "prompt": "Mountains of ancient Israel appearing to melt like wax under a blazing radiant light descending from heavy clouds, valleys splitting with streams of water pouring down slopes, tiny villages below, no human form for God, awe-inspiring cosmic scale"
+  },
+  {
+   "id": "q02",
+   "capitulo": 2,
+   "ref": "2:1-2",
+   "titulo": "Cobiçam campos e os tomam",
+   "descricao": "À luz de lamparinas, homens poderosos planejam de noite tomar campos e casas; de manhã uma família é expulsa de sua terra.",
+   "alt": "Uma família camponesa expulsa de sua casa enquanto homens ricos tomam posse do campo.",
+   "prompt": "A Judean peasant family with children and an elderly father being forced out of their stone farmhouse at dawn, wealthy landowners in fine robes holding a land deed and measuring cord, olive grove behind, sorrowful faces, cold early light"
+  },
+  {
+   "id": "q03",
+   "capitulo": 3,
+   "ref": "3:9-12",
+   "titulo": "Sião arada como um campo",
+   "descricao": "O monte do templo aparece como um campo arado coberto de mato, imagem chocante do juízo sobre os líderes corruptos.",
+   "alt": "Um lavrador ara com bois um monte onde se veem ruínas de pedras de Jerusalém.",
+   "prompt": "A plowman with oxen tilling a field on a hilltop strewn with ruined cut stones of Jerusalem, wild bushes growing over old foundations, overcast sky, melancholic quiet atmosphere, wide landscape"
+  },
+  {
+   "id": "q04",
+   "capitulo": 4,
+   "ref": "4:1-4",
+   "titulo": "Espadas em arados",
+   "descricao": "Povos de muitas nações sobem ao monte do SENHOR; ferreiros transformam espadas em relhas de arado e cada família descansa debaixo de sua videira e de sua figueira.",
+   "alt": "Um ferreiro forja uma espada em relha de arado enquanto povos sobem a um monte iluminado.",
+   "prompt": "An ancient blacksmith at a glowing forge hammering a sword into a plowshare, spears being reshaped into pruning hooks, behind him peoples of many nations ascending a luminous mountain with a temple, a family resting under a vine and fig tree in the foreground, warm hopeful light"
+  },
+  {
+   "id": "q05",
+   "capitulo": 5,
+   "ref": "5:2-4",
+   "titulo": "Belém, pequena entre os milhares",
+   "descricao": "A pequena aldeia de Belém repousa nas colinas de Judá sob o céu da tarde, de onde o profeta anuncia que sairá um governante que apascentará o povo.",
+   "alt": "A pequena vila de Belém entre colinas com pastores e ovelhas ao entardecer.",
+   "prompt": "The small village of Bethlehem Ephrathah nestled among terraced hills of Judah at dusk, simple stone houses, shepherds leading sheep home, a soft radiant glow on the horizon suggesting promise, peaceful pastoral composition"
+  },
+  {
+   "id": "q06",
+   "capitulo": 6,
+   "ref": "6:6-8",
+   "titulo": "O que o SENHOR pede de ti",
+   "descricao": "Um homem diante do altar segura um bezerro e um jarro de azeite, perguntando o que deve oferecer; o profeta lhe aponta o caminho da justiça, da misericórdia e da humildade.",
+   "alt": "Um adorador com oferendas diante de um altar ouve o profeta que lhe fala com serenidade.",
+   "prompt": "A Judean worshipper holding a young calf and a jar of oil before a stone altar, looking uncertain, the prophet Micah in a simple robe gently speaking to him, a widow and a poor man nearby, calm clear light, contemplative mood"
+  },
+  {
+   "id": "q07",
+   "capitulo": 7,
+   "ref": "7:18-19",
+   "titulo": "Pecados lançados no fundo do mar",
+   "descricao": "À beira do mar, ao amanhecer, ondas recebem pedras que somem nas profundezas, imagem do perdão de Deus.",
+   "alt": "Pessoas à beira do mar ao amanhecer olham pedras afundando nas águas profundas.",
+   "prompt": "Ancient Israelite men and women standing on a rocky shore at dawn watching as heavy stones sink into deep clear blue sea, gentle waves, first rays of sun breaking over the water, expressions of relief and peace, serene composition"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "montes-cera",
+   "termo": "Montes como cera",
+   "ref": "1:4",
+   "explicado": false,
+   "significado": "Imagem da vinda de Deus para julgar: nada resiste à sua presença. É linguagem poética de teofania."
+  },
+  {
+   "id": "siao-arada",
+   "termo": "Sião arada como campo",
+   "ref": "3:12",
+   "explicado": false,
+   "significado": "Anúncio de que Jerusalém e o templo virariam ruínas por causa dos líderes corruptos. Jeremias 26:18 cita este verso, lembrando que o rei Ezequias se arrependeu."
+  },
+  {
+   "id": "monte-casa",
+   "termo": "O monte da casa do SENHOR",
+   "ref": "4:1",
+   "explicado": false,
+   "significado": "No futuro, o monte do templo será o mais alto, e as nações irão a ele para aprender os caminhos de Deus. O mesmo oráculo aparece em Isaías 2:2-4."
+  },
+  {
+   "id": "espadas-arados",
+   "termo": "Espadas em enxadas",
+   "ref": "4:3",
+   "explicado": true,
+   "significado": "O texto explica que as nações não aprenderão mais a guerra: as armas viram ferramentas de agricultura."
+  },
+  {
+   "id": "videira-figueira",
+   "termo": "Debaixo da videira e da figueira",
+   "ref": "4:4",
+   "explicado": true,
+   "significado": "Expressão de paz e segurança, e o verso diz que 'não haverá quem os espante'."
+  },
+  {
+   "id": "parturiente",
+   "termo": "Dores de parto",
+   "ref": "4:10",
+   "explicado": false,
+   "significado": "Sião sofre como mulher em parto, mas a dor anuncia nova vida: exílio na Babilônia e depois livramento."
+  },
+  {
+   "id": "belem",
+   "termo": "Belém Efrata",
+   "ref": "5:2",
+   "explicado": false,
+   "significado": "A pequena cidade de Davi de onde virá um governante cujas origens são 'desde a antiguidade'. Mateus 2:6 aplica a profecia ao nascimento de Jesus."
+  },
+  {
+   "id": "pastor",
+   "termo": "O pastor que apascenta",
+   "ref": "5:4",
+   "explicado": false,
+   "significado": "O futuro governante cuidará do povo como pastor, na força do SENHOR. Imagem antiga do rei ideal."
+  },
+  {
+   "id": "tribunal",
+   "termo": "O processo diante dos montes",
+   "ref": "6:1-2",
+   "explicado": false,
+   "significado": "Deus abre um processo judicial contra seu povo e chama montes e fundamentos da terra como testemunhas."
+  },
+  {
+   "id": "fundo-mar",
+   "termo": "O fundo do mar",
+   "ref": "7:19",
+   "explicado": false,
+   "significado": "Os pecados lançados às profundezas do mar: imagem de perdão completo, que não volta a ser lembrado."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "rib",
+   "pt": "Contenda (processo)",
+   "refs": [
+    "6:1",
+    "6:2"
+   ],
+   "hebraico": {
+    "lema": "רִיב",
+    "translit": "riv",
+    "strong": "H7379"
+   },
+   "sentido": "disputa judicial, ação no tribunal",
+   "latim": {
+    "forma": "iudicium Domini",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Termo de tribunal: Deus apresenta queixa formal contra Israel e lembra o que fez por ele, do Egito em diante.",
+   "interpretacao": false
+  },
+  {
+   "id": "mishpat",
+   "pt": "Praticar a justiça",
+   "refs": [
+    "6:8",
+    "3:1"
+   ],
+   "hebraico": {
+    "lema": "מִשְׁפָּט",
+    "translit": "mishpat",
+    "strong": "H4941"
+   },
+   "sentido": "direito, justiça",
+   "latim": {
+    "forma": "facere iudicium",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Primeiro dos três pedidos de 6:8. Miqueias acusa os líderes que deveriam conhecer o juízo e o odeiam (3:1-2).",
+   "interpretacao": false
+  },
+  {
+   "id": "chesed",
+   "pt": "Amar a misericórdia",
+   "refs": [
+    "6:8",
+    "7:18",
+    "7:20"
+   ],
+   "hebraico": {
+    "lema": "חֶסֶד",
+    "translit": "chesed",
+    "strong": "H2617"
+   },
+   "grego": {
+    "lema": "ἔλεος",
+    "translit": "éleos"
+   },
+   "sentido": "amor leal, bondade fiel",
+   "latim": {
+    "forma": "diligere misericordiam",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Deus pede amor fiel e se descreve como quem 'tem prazer na misericórdia' (7:18). É a virtude que ele mesmo pratica.",
+   "interpretacao": false
+  },
+  {
+   "id": "tsana",
+   "pt": "Andar humildemente",
+   "refs": [
+    "6:8"
+   ],
+   "hebraico": {
+    "lema": "צָנַע",
+    "translit": "tsana'",
+    "strong": "H6800"
+   },
+   "sentido": "andar com modéstia, com cuidado",
+   "latim": {
+    "forma": "sollicitum ambulare cum Deo tuo",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Verbo raro, que sugere andar com discrição e atenção diante de Deus, não com arrogância.",
+   "interpretacao": false
+  },
+  {
+   "id": "efrata",
+   "pt": "Belém Efrata",
+   "refs": [
+    "5:2"
+   ],
+   "hebraico": {
+    "lema": "בֵּית־לֶחֶם אֶפְרָתָה",
+    "translit": "beit-lechem efratah",
+    "strong": "H1035, H672"
+   },
+   "grego": {
+    "lema": "Βηθλεεμ",
+    "translit": "Bēthleém"
+   },
+   "sentido": "Belém, 'casa do pão'; Efrata, 'fértil'",
+   "latim": {
+    "forma": "et tu Bethleem Ephrata parvulus es in milibus Iuda",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Nome antigo da região de Belém, ligado à família de Davi (Rt 4:11; 1Sm 17:12).",
+   "interpretacao": false
+  },
+  {
+   "id": "sheerit",
+   "pt": "Resto (remanescente)",
+   "refs": [
+    "2:12",
+    "4:7",
+    "5:7",
+    "7:18"
+   ],
+   "hebraico": {
+    "lema": "שְׁאֵרִית",
+    "translit": "she'erit",
+    "strong": "H7611"
+   },
+   "sentido": "o que sobra, os sobreviventes",
+   "latim": {
+    "forma": "reliquiae",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Depois do juízo, Deus reúne um resto fiel. Miqueias o compara ao orvalho entre os povos (5:7).",
+   "interpretacao": false
+  },
+  {
+   "id": "mi-kamokha",
+   "pt": "Quem é Deus como tu?",
+   "refs": [
+    "7:18"
+   ],
+   "hebraico": {
+    "lema": "מִי־אֵל כָּמוֹךָ",
+    "translit": "mi-'el kamokha",
+    "strong": "H410"
+   },
+   "sentido": "pergunta de louvor",
+   "latim": {
+    "forma": "quis Deus similis tui",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Possível jogo com o nome do profeta: Mikhayahu significa 'Quem é como o SENHOR?'. O livro termina respondendo com o perdão.",
+   "interpretacao": true
+  }
+ ],
+ "historia": [
+  {
+   "id": "prisma-taylor",
+   "titulo": "Senaqueribe e as cidades de Judá",
+   "refs": [
+    "1:9",
+    "1:13"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Prisma de Taylor (anais de Senaqueribe)",
+   "referencia": "Museu Britânico",
+   "data_fonte": "c. 691 a.C.",
+   "data_evento": "701 a.C.",
+   "resumo": "Senaqueribe afirma ter tomado 46 cidades fortificadas de Ezequias e tê-lo encerrado em Jerusalém 'como um pássaro na gaiola'.",
+   "relacao": "Confirma a invasão assíria que Miqueias anuncia chegar 'até a porta de Jerusalém' (1:9). Ezequias é citado em Miqueias 1:1.",
+   "grau": "documentado"
+  },
+  {
+   "id": "relevos-laquis",
+   "titulo": "Os relevos de Laquis",
+   "refs": [
+    "1:13"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Relevos do cerco de Laquis",
+   "referencia": "Museu Britânico; do Palácio Sudoeste de Senaqueribe em Nínive",
+   "data_fonte": "c. 700–690 a.C.",
+   "data_evento": "701 a.C.",
+   "resumo": "Grandes painéis de pedra mostram o cerco e a tomada de Laquis e a deportação de seus moradores.",
+   "relacao": "Miqueias 1:13 menciona Laquis e seus carros. Os relevos ilustram a catástrofe que atingiu a região do profeta, na Sefelá.",
+   "grau": "documentado"
+  },
+  {
+   "id": "bula-ezequias",
+   "titulo": "Selo do rei Ezequias",
+   "refs": [
+    "1:1"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Bula (impressão de selo) de Ezequias",
+   "referencia": "Escavações do Ofel, Jerusalém (Eilat Mazar), publicada em 2015",
+   "data_fonte": "fim do séc. VIII a.C.",
+   "data_evento": "reinado de Ezequias (c. 715–686 a.C.)",
+   "resumo": "Pequena impressão em argila com a inscrição 'de Ezequias, filho de Acaz, rei de Judá'.",
+   "relacao": "Atesta o rei Ezequias, citado em 1:1 como um dos reis do tempo de Miqueias.",
+   "grau": "documentado"
+  },
+  {
+   "id": "bula-belem",
+   "titulo": "A bula de Belém",
+   "refs": [
+    "5:2"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Bula fiscal com o nome 'Belém'",
+   "referencia": "Cidade de Davi, Jerusalém (escavação de Eli Shukron), anunciada em 2012",
+   "data_fonte": "c. séc. VIII–VII a.C.",
+   "data_evento": "período do Primeiro Templo",
+   "resumo": "Pequeno selo de argila de uma remessa de tributo com a palavra 'Belém', a mais antiga menção da cidade fora da Bíblia encontrada até então.",
+   "relacao": "Mostra que Belém existia como cidade de Judá na época dos profetas, como pressupõe Miqueias 5:2.",
+   "grau": "associacao"
+  }
+ ]
+}

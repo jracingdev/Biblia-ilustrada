@@ -1,0 +1,380 @@
+{
+ "livro": "eclesiastes",
+ "nome": "Eclesiastes",
+ "subtitulo": "O sentido da vida debaixo do sol",
+ "introducao": "Em Eclesiastes, o Pregador investiga com honestidade o que dá sentido à vida: trabalho, prazer, riqueza e sabedoria. Olhando só para o que acontece \"debaixo do sol\", ele conclui que tudo é passageiro como um sopro. O livro convida a desfrutar com gratidão os dons de Deus e a viver no temor dele.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "O \"Pregador\" (Coélet), filho de Davi e rei em Jerusalém (1:1); tradicionalmente identificado com Salomão, mas muitos estudiosos veem um autor posterior que fala na voz dele"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Pela tradição, no fim da vida de Salomão (séc. X a.C.); muitos estudiosos datam a forma final séculos depois"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Jerusalém (1:1, 1:12)"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Literatura de sabedoria: reflexões, poemas e provérbios"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "12 capítulos e 222 versículos"
+  }
+ ],
+ "chave": "12:13",
+ "temas": [
+  "A brevidade da vida (\"tudo é fútil\")",
+  "Os limites da sabedoria humana",
+  "Desfrutar com gratidão os dons de Deus",
+  "O temor a Deus e o juízo final"
+ ],
+ "cristo": "Eclesiastes mostra que nada debaixo do sol satisfaz por completo e que Deus pôs a eternidade no coração humano (3:11). O Novo Testamento anuncia que, em Cristo, o trabalho no Senhor não é em vão, como Paulo escreve em 1 Coríntios 15, porque ele venceu a morte que o Pregador via como o fim de todos.",
+ "secoes": [
+  {
+   "id": "tudo-e-futil",
+   "titulo": "A busca e suas frustrações",
+   "capitulos": [
+    1,
+    2
+   ],
+   "resumo": "O Pregador testa sabedoria, prazer e obras e conclui que tudo é passageiro."
+  },
+  {
+   "id": "tempo-e-trabalho",
+   "titulo": "O tempo, o trabalho e a injustiça",
+   "capitulos": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "resumo": "Há tempo para tudo; Deus dá o desfrutar, mas a riqueza não sacia."
+  },
+  {
+   "id": "sabedoria-limites",
+   "titulo": "Sabedoria para um mundo incerto",
+   "capitulos": [
+    7,
+    8,
+    9,
+    10
+   ],
+   "resumo": "Conselhos sábios diante do que o ser humano não consegue saber."
+  },
+  {
+   "id": "juventude-conclusao",
+   "titulo": "Juventude, velhice e conclusão",
+   "capitulos": [
+    11,
+    12
+   ],
+   "resumo": "Semear com generosidade, lembrar do Criador e temer a Deus."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Tudo é fútil",
+   "chave": "1:2",
+   "resumo": "O Pregador, filho de Davi e rei em Jerusalém, abre com o lema do livro: \"futilidade das futilidades, tudo é fútil\". Observa os ciclos do sol, do vento e dos rios, que se repetem sem fim, e conclui que nada há de novo debaixo do sol. Conta que buscou sabedoria, mas descobriu que muito conhecimento também traz angústia.",
+   "licoes": [
+    "Debaixo do sol, isto é, olhando só para esta vida, tudo parece passageiro como um sopro (1:2-3).",
+    "A natureza repete seus ciclos e o ser humano nunca fica plenamente satisfeito (1:7-8).",
+    "Até a sabedoria, buscada por si só, pode aumentar a dor (1:18)."
+   ],
+   "reflexao": "O que você tem perseguido que talvez seja \"vento\"?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o Pregador, o que há de novo debaixo do sol?",
+     "opcoes": [
+      "Nada",
+      "Muitas coisas",
+      "Apenas a sabedoria",
+      "Os reis"
+     ],
+     "correta": 0,
+     "ref": "1:9"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "A busca pelo prazer e pelas obras",
+   "chave": "2:24",
+   "resumo": "O Pregador testa a alegria, o vinho, grandes construções, jardins, riquezas, músicos e prazeres, sem negar nada aos seus olhos. Ao final, tudo lhe parece perseguir o vento. Vê que a sabedoria é melhor que a tolice, mas que o sábio morre como o tolo; conclui que comer, beber e alegrar-se no trabalho é um dom da mão de Deus.",
+   "licoes": [
+    "Ter tudo o que se deseja não preenche o coração (2:10-11).",
+    "A sabedoria é melhor que a tolice, como a luz é melhor que as trevas (2:13).",
+    "Desfrutar com simplicidade o fruto do trabalho é presente que vem da mão de Deus (2:24)."
+   ],
+   "reflexao": "O que você conquistou e mesmo assim não o satisfez?",
+   "quiz": [
+    {
+     "pergunta": "Com o que o Pregador compara a vantagem da sabedoria sobre a tolice?",
+     "opcoes": [
+      "Com o mar sobre o rio",
+      "Com o ouro sobre a prata",
+      "Com o rei sobre o servo",
+      "Com a luz sobre as trevas"
+     ],
+     "correta": 3,
+     "ref": "2:13"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Há tempo para tudo",
+   "chave": "3:11",
+   "resumo": "Este conhecido poema afirma que há tempo para nascer e morrer, chorar e rir, calar e falar, guerra e paz. Deus fez tudo belo a seu tempo e pôs a eternidade no coração humano, embora não possamos entender toda a sua obra. O Pregador vê injustiça no mundo, mas lembra que Deus julgará o justo e o perverso.",
+   "licoes": [
+    "A vida tem estações, e cada momento tem seu lugar (3:1-8).",
+    "Deus pôs no coração humano o anseio pela eternidade (3:11).",
+    "Mesmo diante da injustiça, há um tempo em que Deus julgará (3:16-17)."
+   ],
+   "reflexao": "Em que \"tempo\" da vida você está agora?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus pôs no coração dos homens, segundo o Pregador?",
+     "opcoes": [
+      "O medo da morte",
+      "A sensação de eternidade",
+      "O desejo de riqueza",
+      "A lembrança do passado"
+     ],
+     "correta": 1,
+     "ref": "3:11"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Melhor dois do que um",
+   "chave": "4:9-10",
+   "resumo": "O Pregador observa as lágrimas dos oprimidos que não têm consolador. Vê que muito trabalho nasce da inveja e que o homem solitário trabalha sem fim e sem saber para quem. Conclui que dois são melhores que um, pois se ajudam, e que o cordão de três dobras não se rompe facilmente.",
+   "licoes": [
+    "Deus vê as lágrimas dos oprimidos que não têm quem os console (4:1).",
+    "É melhor ter pouco com descanso do que muito com correria (4:6).",
+    "A companhia e a ajuda mútua fortalecem; ninguém foi feito para viver isolado (4:9-12)."
+   ],
+   "reflexao": "Quem é o \"companheiro\" que levanta você quando cai, e de quem você é apoio?",
+   "quiz": [
+    {
+     "pergunta": "O que não se rompe tão depressa, segundo o Pregador?",
+     "opcoes": [
+      "A corda de ferro",
+      "O fio de linho",
+      "O laço do caçador",
+      "O cordão de três dobras"
+     ],
+     "correta": 3,
+     "ref": "4:12"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "Poucas palavras diante de Deus",
+   "chave": "5:2",
+   "resumo": "O Pregador aconselha reverência na casa de Deus: ouvir mais do que falar, usar poucas palavras e cumprir os votos. Alerta que quem ama o dinheiro nunca se satisfaz e que o rico perde o sono com sua fartura. Lembra que nada levamos ao morrer, e que desfrutar dos bens que Deus dá é um presente dele.",
+   "licoes": [
+    "Diante de Deus, convém ouvir mais e falar menos (5:1-2).",
+    "Cumprir o que se promete a Deus é melhor do que fazer votos e falhar (5:4-5).",
+    "O amor ao dinheiro nunca se sacia, e nada se leva ao morrer (5:10, 5:15)."
+   ],
+   "reflexao": "Suas orações têm mais palavras ou mais escuta?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o Pregador, o que acontece com quem ama o dinheiro?",
+     "opcoes": [
+      "Fica satisfeito",
+      "Dorme tranquilo",
+      "Nunca se sacia do dinheiro",
+      "Vive mais"
+     ],
+     "correta": 2,
+     "ref": "5:10"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "Ter muito sem desfrutar",
+   "chave": "6:12",
+   "resumo": "O Pregador descreve o mal de quem recebe riquezas e honra, mas não consegue desfrutá-las. Mesmo uma vida longa e muitos filhos não valem se a alma não se sacia do que é bom. Termina perguntando quem sabe o que é bom para o homem numa vida que passa como sombra.",
+   "licoes": [
+    "Ter bens não é o mesmo que ter a capacidade de desfrutá-los, que é dom de Deus (6:2).",
+    "O desejo humano nunca se satisfaz por completo (6:7).",
+    "É melhor contentar-se com o que se tem do que viver correndo atrás da cobiça (6:9)."
+   ],
+   "reflexao": "Você tem conseguido desfrutar o que Deus já lhe deu?",
+   "quiz": [
+    {
+     "pergunta": "Com o que o Pregador compara os dias da vida humana?",
+     "opcoes": [
+      "Com uma sombra",
+      "Com um rio",
+      "Com uma flor",
+      "Com um sonho"
+     ],
+     "correta": 0,
+     "ref": "6:12"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "Melhor é...",
+   "chave": "7:14",
+   "resumo": "O Pregador apresenta uma série de comparações: é melhor a boa reputação que o perfume, a casa do luto que a do banquete, a paciência que a arrogância. Aconselha alegrar-se na prosperidade e refletir na adversidade, pois Deus faz as duas coisas. Reconhece que não há justo que nunca peque e que Deus fez o homem reto, mas ele buscou muitos desvios.",
+   "licoes": [
+    "Pensar na morte e no luto ensina o coração a viver com sabedoria (7:2-4).",
+    "Tanto os dias bons quanto os difíceis vêm das mãos de Deus (7:14).",
+    "Ninguém é justo a ponto de nunca pecar (7:20, 7:29)."
+   ],
+   "reflexao": "O que os momentos de tristeza já lhe ensinaram?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o Pregador, o que fazer no dia da adversidade?",
+     "opcoes": [
+      "Fugir",
+      "Considerar",
+      "Festejar",
+      "Esquecer"
+     ],
+     "correta": 1,
+     "ref": "7:14"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "O que o homem não consegue saber",
+   "chave": "8:12",
+   "resumo": "O Pregador recomenda obedecer ao rei com prudência e reconhece que ninguém controla o dia da morte. Lamenta que a demora do castigo encoraje as pessoas a fazer o mal e que às vezes justos e perversos recebam o contrário do que merecem. Mesmo assim afirma que irá bem aos que temem a Deus, e que a obra de Deus está além da compreensão humana.",
+   "licoes": [
+    "A demora do juízo não significa que o mal ficará impune (8:11-13).",
+    "Ninguém tem domínio sobre o dia da própria morte (8:8).",
+    "Por mais que se estude, o ser humano não consegue compreender toda a obra de Deus (8:17)."
+   ],
+   "reflexao": "Você confia que Deus fará justiça, mesmo quando ela demora?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o Pregador, a quem acontecerão coisas boas?",
+     "opcoes": [
+      "Aos reis",
+      "Aos mais fortes",
+      "Aos que temem a Deus",
+      "Aos que vivem muito"
+     ],
+     "correta": 2,
+     "ref": "8:12"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "Faze com todas as tuas forças",
+   "chave": "9:10",
+   "resumo": "O Pregador observa que o mesmo destino, a morte, alcança justos e perversos, e que \"melhor é um cão vivo do que um leão morto\". Convida a comer o pão com alegria, amar a esposa e fazer tudo com dedicação enquanto há vida. Conta a história de um pobre sábio que salvou uma cidade, mas foi esquecido, concluindo que a sabedoria é melhor que a força.",
+   "licoes": [
+    "Enquanto há vida, há esperança e oportunidade (9:4).",
+    "Desfrutar a vida e fazer o trabalho com todas as forças é sábio, pois o tempo é limitado (9:7, 9:10).",
+    "A sabedoria vale mais que a força, mesmo quando não é reconhecida (9:15-16)."
+   ],
+   "reflexao": "Que tarefa você tem feito pela metade e poderia fazer com todas as forças?",
+   "quiz": [
+    {
+     "pergunta": "Quem livrou a pequena cidade cercada por um grande rei?",
+     "opcoes": [
+      "Um homem pobre e sábio",
+      "Um soldado valente",
+      "Um príncipe",
+      "Um profeta"
+     ],
+     "correta": 0,
+     "ref": "9:15"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "titulo": "Um pouco de tolice estraga muito",
+   "chave": "10:1",
+   "resumo": "O Pregador compara um pouco de tolice a moscas mortas que estragam o perfume. Fala de líderes incompetentes, dos riscos do trabalho e do valor de afiar o machado, isto é, de agir com sabedoria. Alerta contra a fala do tolo, a preguiça que estraga a casa e a maledicência contra autoridades.",
+   "licoes": [
+    "Uma pequena tolice pode estragar uma grande reputação (10:1).",
+    "Agir com sabedoria economiza forças, como afiar o ferro antes de cortar (10:10).",
+    "A preguiça faz a casa se deteriorar aos poucos (10:18)."
+   ],
+   "reflexao": "Que pequena \"mosca morta\" pode estar estragando algo bom em sua vida?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o Pregador, o que acontece com a casa por causa da preguiça?",
+     "opcoes": [
+      "Fica maior",
+      "É vendida",
+      "Fica mais bonita",
+      "O teto se deteriora"
+     ],
+     "correta": 3,
+     "ref": "10:18"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "titulo": "Lança teu pão sobre as águas",
+   "chave": "11:1",
+   "resumo": "O Pregador incentiva a generosidade e a ação mesmo sem saber o futuro: lançar o pão sobre as águas, repartir com muitos e semear de manhã e à tarde. Quem fica só observando o vento nunca semeia. Convida o jovem a alegrar-se na juventude, lembrando que Deus o chamará a prestar contas.",
+   "licoes": [
+    "A generosidade é um investimento que volta no tempo de Deus (11:1-2).",
+    "Esperar condições perfeitas paralisa; é preciso semear mesmo sem garantias (11:4, 11:6).",
+    "A juventude é tempo de alegria, mas com responsabilidade diante de Deus (11:9)."
+   ],
+   "reflexao": "Que \"semente\" você tem deixado de plantar esperando o momento perfeito?",
+   "quiz": [
+    {
+     "pergunta": "O que acontece com quem fica dando atenção ao vento?",
+     "opcoes": [
+      "Ceifa muito",
+      "Nunca semeará",
+      "Fica rico",
+      "Descansa"
+     ],
+     "correta": 1,
+     "ref": "11:4"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "titulo": "Lembra-te do teu Criador",
+   "chave": "12:13",
+   "resumo": "O Pregador convida a lembrar do Criador na juventude, antes da velhice, descrita com imagens poéticas de uma casa que se desfaz, até que o pó volte à terra e o espírito volte a Deus. Repete que tudo é futilidade e apresenta o Pregador como sábio e mestre. A conclusão de tudo é temer a Deus e guardar seus mandamentos, pois ele julgará toda obra.",
+   "licoes": [
+    "A juventude é o melhor tempo para buscar o Criador (12:1).",
+    "A vida humana termina, e o espírito volta a Deus que o deu (12:7).",
+    "A conclusão do livro: temer a Deus e guardar seus mandamentos é o dever de todos (12:13-14)."
+   ],
+   "reflexao": "O que significa, hoje, lembrar-se do seu Criador?",
+   "quiz": [
+    {
+     "pergunta": "Qual é a conclusão de tudo, segundo o Pregador?",
+     "opcoes": [
+      "Comer e beber",
+      "Escrever muitos livros",
+      "Buscar mais sabedoria",
+      "Temer a Deus e guardar seus mandamentos"
+     ],
+     "correta": 3,
+     "ref": "12:13"
+    }
+   ]
+  }
+ ]
+}

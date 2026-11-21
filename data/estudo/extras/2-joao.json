@@ -1,0 +1,180 @@
+{
+ "livro": "2-joao",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:1-4",
+   "titulo": "À senhora eleita e a seus filhos",
+   "descricao": "O ancião escreve à \"senhora eleita\" e a seus filhos, alegrando-se por encontrar alguns deles andando na verdade.",
+   "alt": "Uma mulher digna, cercada de filhos, recebe e lê uma carta à porta de sua casa.",
+   "prompt": "A dignified woman of Asia Minor standing at the doorway of her home surrounded by her grown children, reading a letter just delivered by a messenger, her face joyful, evening light on stone walls"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "senhora-eleita",
+   "termo": "Senhora eleita",
+   "ref": "1:1",
+   "explicado": false,
+   "significado": "Pode ser uma mulher cristã e sua família, ou uma forma figurada de falar de uma igreja e seus membros. A segunda leitura é a mais comum, por causa de 1:13 (\"os filhos de tua irmã, a eleita\")."
+  },
+  {
+   "id": "andar-verdade",
+   "termo": "Andar na verdade",
+   "ref": "1:4",
+   "explicado": false,
+   "significado": "Viver de acordo com a verdade recebida: o mandamento de amar uns aos outros (1:5-6)."
+  },
+  {
+   "id": "casa",
+   "termo": "Não receber em casa",
+   "ref": "1:10",
+   "explicado": false,
+   "significado": "As igrejas se reuniam em casas e hospedavam pregadores itinerantes. Receber alguém era apoiar sua missão; por isso o cuidado com quem negava que Cristo veio em carne."
+  },
+  {
+   "id": "papel-tinta",
+   "termo": "Papel e tinta",
+   "ref": "1:12",
+   "explicado": false,
+   "significado": "O ancião prefere falar \"face a face\": a carta é um meio provisório para a comunhão pessoal."
+  },
+  {
+   "id": "enganador",
+   "termo": "Enganador e anticristo",
+   "ref": "1:7",
+   "explicado": true,
+   "significado": "O texto define: é quem não confessa que Jesus Cristo veio em carne."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "presbyteros-2jo",
+   "pt": "O ancião",
+   "refs": [
+    "1:1"
+   ],
+   "grego": {
+    "lema": "πρεσβύτερος",
+    "translit": "presbýteros",
+    "strong": "G4245"
+   },
+   "sentido": "o mais velho, o ancião",
+   "latim": {
+    "forma": "senior",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O autor se apresenta só assim, como figura conhecida. A tradição o identifica com o apóstolo João; Papias fala também de um \"João, o ancião\", o que gera debate.",
+   "interpretacao": false
+  },
+  {
+   "id": "eklekte-kyria",
+   "pt": "Senhora eleita",
+   "refs": [
+    "1:1",
+    "1:13"
+   ],
+   "grego": {
+    "lema": "ἐκλεκτὴ κυρία",
+    "translit": "eklektḗ kyría",
+    "strong": "G1588, G2959"
+   },
+   "sentido": "senhora escolhida",
+   "latim": {
+    "forma": "electae dominae",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Kyria era também um nome próprio feminino; alguns traduzem \"à eleita Kyria\". Ver símbolos.",
+   "interpretacao": false
+  },
+  {
+   "id": "aletheia",
+   "pt": "Verdade",
+   "refs": [
+    "1:1-4"
+   ],
+   "grego": {
+    "lema": "ἀλήθεια",
+    "translit": "alḗtheia",
+    "strong": "G225"
+   },
+   "sentido": "verdade, realidade",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "אֱמֶת",
+     "translit": "'emet",
+     "strong": "H571",
+     "ref": "Sl 25:5"
+    }
+   ],
+   "latim": {
+    "forma": "veritas",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Cinco vezes nos quatro primeiros versículos: a verdade une o autor e os leitores.",
+   "interpretacao": false
+  },
+  {
+   "id": "planos",
+   "pt": "Enganador",
+   "refs": [
+    "1:7"
+   ],
+   "grego": {
+    "lema": "πλάνος",
+    "translit": "plános",
+    "strong": "G4108"
+   },
+   "sentido": "enganador, que faz errar",
+   "latim": {
+    "forma": "seductor",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Da mesma raiz de \"planeta\", o astro que \"vagueia\".",
+   "interpretacao": false
+  },
+  {
+   "id": "entole",
+   "pt": "Mandamento",
+   "refs": [
+    "1:5-6"
+   ],
+   "grego": {
+    "lema": "ἐντολή",
+    "translit": "entolḗ",
+    "strong": "G1785"
+   },
+   "sentido": "mandamento",
+   "latim": {
+    "forma": "mandatum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Não é novo: amar uns aos outros, como desde o princípio.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "papias-presbitero",
+   "titulo": "Papias e \"João, o ancião\"",
+   "refs": [
+    "1:1"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Eusébio de Cesareia, História Eclesiástica (citando Papias)",
+   "referencia": "livro 3, cap. 39, §3-6",
+   "data_fonte": "c. 325 d.C. (Papias, c. 110-130 d.C.)",
+   "data_evento": "Fins do séc. I d.C.",
+   "resumo": "Papias diz que buscava informações sobre o que disseram os apóstolos, entre eles João, e o que dizem Aristião e \"o presbítero João\". Eusébio conclui que havia dois Joões em Éfeso.",
+   "relacao": "Pano de fundo do debate sobre quem é \"o ancião\" de 2 e 3 João: o apóstolo ou outro João. Muitos leem Papias como falando da mesma pessoa duas vezes.",
+   "grau": "associacao"
+  }
+ ]
+}

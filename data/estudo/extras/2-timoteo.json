@@ -1,0 +1,335 @@
+{
+ "livro": "2-timoteo",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:5",
+   "titulo": "Loide e Eunice",
+   "descricao": "Paulo lembra a fé sincera que habitou primeiro na avó de Timóteo, Loide, e em sua mãe, Eunice.",
+   "alt": "Uma avó e uma mãe leem as Escrituras a um menino.",
+   "prompt": "In a modest home in Lystra, an elderly grandmother Lois and a mother Eunice teaching a young boy Timothy from a scroll of the Scriptures, lamp light, the women's faces gentle and devout"
+  },
+  {
+   "id": "q02",
+   "capitulo": 2,
+   "ref": "2:3-6",
+   "titulo": "Soldado, atleta e lavrador",
+   "descricao": "Paulo usa três imagens para o serviço de Timóteo: o soldado dedicado, o atleta que segue as regras e o lavrador que trabalha antes de colher.",
+   "alt": "Um soldado romano, um atleta e um lavrador, cada um em seu esforço.",
+   "prompt": "A triptych-like composition: a Roman soldier standing at attention in full gear, an athlete running in a stadium, and a farmer harvesting grain under the sun, each figure focused and diligent"
+  },
+  {
+   "id": "q03",
+   "capitulo": 3,
+   "ref": "3:14-16",
+   "titulo": "Desde a infância, as Escrituras",
+   "descricao": "Timóteo conheceu desde criança as Sagradas Escrituras, divinamente inspiradas e proveitosas para ensinar.",
+   "alt": "Um jovem lê um rolo à luz da janela, lembrando seus mestres.",
+   "prompt": "Young adult Timothy reading a scroll of the Scriptures by a window in Ephesus, deep in thought, a soft beam of light on the text, other scrolls stacked on a shelf beside him"
+  },
+  {
+   "id": "q04",
+   "capitulo": 4,
+   "ref": "4:6-8",
+   "titulo": "Terminei a carreira",
+   "descricao": "Preso em Roma e sabendo que a morte está próxima, Paulo escreve: combati o bom combate, terminei a carreira, guardei a fé.",
+   "alt": "Paulo, idoso e acorrentado, escreve numa cela iluminada por uma pequena abertura.",
+   "prompt": "The aged apostle Paul in a cold stone cell in Rome, wrapped in a worn cloak, chained, writing a final letter by the light of a small high window, Luke seated nearby, a peaceful and resolute face"
+  },
+  {
+   "id": "q05",
+   "capitulo": 4,
+   "ref": "4:13",
+   "titulo": "A capa e os pergaminhos",
+   "descricao": "Paulo pede que Timóteo traga a capa deixada em Trôade, os livros e principalmente os pergaminhos, e que venha antes do inverno.",
+   "alt": "Timóteo arruma uma capa de lã e rolos de pergaminho numa bolsa de viagem.",
+   "prompt": "Timothy in a house in Troas carefully packing a heavy wool traveling cloak, papyrus books and parchment rolls into a leather bag, the host Carpus helping, a ship visible through the window, autumn light"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "reacender",
+   "termo": "Reacender o dom",
+   "ref": "1:6",
+   "explicado": false,
+   "significado": "O dom de Deus é comparado a um fogo que precisa ser reavivado."
+  },
+  {
+   "id": "deposito2",
+   "termo": "O bem confiado",
+   "ref": "1:14",
+   "explicado": false,
+   "significado": "O ensino apostólico é como um depósito valioso que deve ser guardado com a ajuda do Espírito."
+  },
+  {
+   "id": "soldado",
+   "termo": "Soldado",
+   "ref": "2:3-4",
+   "explicado": true,
+   "significado": "O texto explica: o soldado não se envolve com negócios civis para agradar a quem o alistou."
+  },
+  {
+   "id": "atleta",
+   "termo": "Atleta",
+   "ref": "2:5",
+   "explicado": true,
+   "significado": "Só recebe a coroa quem compete segundo as regras: fidelidade no modo de servir."
+  },
+  {
+   "id": "lavrador",
+   "termo": "Lavrador",
+   "ref": "2:6",
+   "explicado": false,
+   "significado": "O trabalho duro vem antes do fruto; quem trabalha tem direito a participar da colheita."
+  },
+  {
+   "id": "gangrena",
+   "termo": "Gangrena",
+   "ref": "2:17",
+   "explicado": false,
+   "significado": "O falso ensino se espalha como uma infecção que destrói o corpo."
+  },
+  {
+   "id": "utensilios",
+   "termo": "Utensílios numa grande casa",
+   "ref": "2:20-21",
+   "explicado": true,
+   "significado": "Paulo explica: quem se purifica será utensílio para honra, útil ao Dono."
+  },
+  {
+   "id": "janes-jambres",
+   "termo": "Janes e Jambres",
+   "ref": "3:8",
+   "explicado": false,
+   "significado": "Nomes dados pela tradição judaica aos magos do faraó que se opuseram a Moisés (Êx 7:11). Representam os que resistem à verdade."
+  },
+  {
+   "id": "libacao",
+   "termo": "Oferta de derramamento",
+   "ref": "4:6",
+   "explicado": false,
+   "significado": "Paulo vê sua morte iminente como libação derramada sobre um sacrifício."
+  },
+  {
+   "id": "coroa",
+   "termo": "Coroa da justiça",
+   "ref": "4:8",
+   "explicado": false,
+   "significado": "A coroa dada ao vencedor; reservada a Paulo e a todos os que amam a vinda do Senhor."
+  },
+  {
+   "id": "leao",
+   "termo": "Boca do leão",
+   "ref": "4:17",
+   "explicado": false,
+   "significado": "Imagem de perigo mortal, como em Salmo 22:21 e Daniel. Pode indicar uma condenação evitada, e não leões reais."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "theopneustos",
+   "pt": "Inspirada por Deus",
+   "refs": [
+    "3:16"
+   ],
+   "grego": {
+    "lema": "θεόπνευστος",
+    "translit": "theópneustos",
+    "strong": "G2315"
+   },
+   "sentido": "soprada por Deus",
+   "latim": {
+    "forma": "divinitus inspirata",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Palavra que só aparece aqui no NT. As igrejas concordam que a Escritura vem de Deus, mas explicam de modos diferentes como a inspiração se deu.",
+   "interpretacao": true
+  },
+  {
+   "id": "graphe",
+   "pt": "Escritura",
+   "refs": [
+    "3:16"
+   ],
+   "grego": {
+    "lema": "γραφή",
+    "translit": "graphḗ",
+    "strong": "G1124"
+   },
+   "sentido": "escrito",
+   "latim": {
+    "forma": "scriptura",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Para Timóteo, as \"Sagradas Escrituras\" eram sobretudo o que hoje chamamos Antigo Testamento (3:15).",
+   "interpretacao": false
+  },
+  {
+   "id": "paratheke2",
+   "pt": "Depósito",
+   "refs": [
+    "1:12",
+    "1:14"
+   ],
+   "grego": {
+    "lema": "παραθήκη",
+    "translit": "parathḗkē",
+    "strong": "G3866"
+   },
+   "sentido": "bem confiado em custódia",
+   "latim": {
+    "forma": "depositum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Em 1:12 Deus guarda o que Paulo lhe confiou; em 1:14 Timóteo guarda o que lhe foi confiado.",
+   "interpretacao": false
+  },
+  {
+   "id": "analysis",
+   "pt": "Partida",
+   "refs": [
+    "4:6"
+   ],
+   "grego": {
+    "lema": "ἀνάλυσις",
+    "translit": "análysis",
+    "strong": "G359"
+   },
+   "sentido": "desatar, levantar acampamento, soltar amarras",
+   "latim": {
+    "forma": "resolutio",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Imagem de soltar as amarras de um navio ou desmontar a tenda: a morte como partida.",
+   "interpretacao": false
+  },
+  {
+   "id": "agon",
+   "pt": "Combate, luta",
+   "refs": [
+    "4:7"
+   ],
+   "grego": {
+    "lema": "ἀγών",
+    "translit": "agṓn",
+    "strong": "G73"
+   },
+   "sentido": "competição, luta",
+   "latim": {
+    "forma": "certamen",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Palavra dos jogos atléticos. Dela vem \"agonia\".",
+   "interpretacao": false
+  },
+  {
+   "id": "epiphaneia",
+   "pt": "Aparecimento",
+   "refs": [
+    "1:10",
+    "4:8"
+   ],
+   "grego": {
+    "lema": "ἐπιφάνεια",
+    "translit": "epipháneia",
+    "strong": "G2015"
+   },
+   "sentido": "manifestação, aparição gloriosa",
+   "latim": {
+    "forma": "adventus / apparitio",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Usado para a primeira vinda de Cristo (1:10) e para a futura (4:8). No mundo grego indicava a manifestação de um deus ou de um governante.",
+   "interpretacao": false
+  },
+  {
+   "id": "nepho",
+   "pt": "Ser sóbrio",
+   "refs": [
+    "4:5"
+   ],
+   "grego": {
+    "lema": "νήφω",
+    "translit": "nḗphō",
+    "strong": "G3525"
+   },
+   "sentido": "estar sóbrio, vigilante",
+   "latim": {
+    "forma": "vigila",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Lucidez e vigilância diante de modismos e falsos ensinos.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "clemente-paulo",
+   "titulo": "Clemente de Roma sobre o fim de Paulo",
+   "refs": [
+    "4:6-7"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Primeira Carta de Clemente aos Coríntios",
+   "referencia": "cap. 5, §5-7",
+   "data_fonte": "c. 96 d.C.",
+   "data_evento": "Martírio de Paulo, c. 64-67 d.C.",
+   "resumo": "Clemente diz que Paulo, depois de ser preso sete vezes e pregar até o extremo do Ocidente, deu testemunho diante dos governantes e partiu deste mundo.",
+   "relacao": "Confirma a tradição do martírio de Paulo, cenário de 4:6-8. A carta não dá detalhes sobre 2 Timóteo.",
+   "grau": "documentado"
+  },
+  {
+   "id": "eusebio-segunda-prisao",
+   "titulo": "Eusébio e a segunda prisão de Paulo",
+   "refs": [
+    "4:16"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Eusébio de Cesareia, História Eclesiástica",
+   "referencia": "livro 2, cap. 22",
+   "data_fonte": "c. 325 d.C.",
+   "data_evento": "c. 62-67 d.C.",
+   "resumo": "Eusébio registra a tradição de que Paulo foi solto depois da primeira prisão em Roma, voltou a pregar e, preso de novo, escreveu 2 Timóteo, citando 4:16-17.",
+   "relacao": "Tradição antiga sobre o contexto da carta. Muitos estudiosos hoje discutem a autoria e a data das cartas pastorais.",
+   "grau": "documentado"
+  },
+  {
+   "id": "gaio-trofeus",
+   "titulo": "Os \"troféus\" dos apóstolos em Roma",
+   "refs": [
+    "4:6"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Eusébio de Cesareia, História Eclesiástica (citando o presbítero Gaio)",
+   "referencia": "livro 2, cap. 25",
+   "data_fonte": "c. 325 d.C. (Gaio escreveu c. 200 d.C.)",
+   "data_evento": "Morte de Pedro e Paulo sob Nero",
+   "resumo": "Eusébio diz que Paulo foi decapitado em Roma sob Nero e cita Gaio, que apontava os \"troféus\" (memoriais) dos apóstolos no Vaticano e na Via Ostiense.",
+   "relacao": "Testemunho da tradição sobre o lugar da morte de Paulo, ligado à basílica de São Paulo Fora dos Muros.",
+   "grau": "documentado"
+  },
+  {
+   "id": "janes-damasco",
+   "titulo": "Janes e seu irmão no Documento de Damasco",
+   "refs": [
+    "3:8"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Documento de Damasco",
+   "referencia": "CD V, 17-19 (manuscrito do Cairo; fragmentos em Qumran)",
+   "data_fonte": "séc. II–I a.C.",
+   "data_evento": "Época de Moisés (tradição)",
+   "resumo": "O texto diz que, quando Moisés e Arão se levantaram, Belial levantou \"Iohana e seu irmão\" contra eles. Plínio, o Velho, também cita Janes como mago (História Natural 30.2).",
+   "relacao": "Mostra que os nomes dos magos do faraó, ausentes no Êxodo, já circulavam na tradição judaica antes de 2 Timóteo.",
+   "grau": "documentado"
+  }
+ ]
+}

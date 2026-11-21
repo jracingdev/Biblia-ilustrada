@@ -1,0 +1,270 @@
+{
+ "livro": "ageu",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:4-6",
+   "titulo": "Casas forradas, templo em ruínas",
+   "descricao": "Ageu aponta para as ruínas do templo enquanto, ao lado, moradores de Jerusalém terminam casas com belos forros de madeira.",
+   "alt": "O profeta aponta para as ruínas do templo, ao lado de casas bem acabadas.",
+   "prompt": "The prophet Haggai in a simple cloak pointing toward the overgrown ruins of the temple foundations in Jerusalem, nearby newly built houses with fine cedar paneling, residents carrying grain sacks with holes, dry fields under a hot pale sky, late sixth century BC setting"
+  },
+  {
+   "id": "q02",
+   "capitulo": 1,
+   "ref": "1:12-14",
+   "titulo": "O povo volta a construir",
+   "descricao": "Zorobabel, o sumo sacerdote Josué e o povo cortam madeira e erguem pedras no monte do templo, com novo ânimo.",
+   "alt": "Trabalhadores carregam toras e pedras para reconstruir o templo, liderados por um governador e um sacerdote.",
+   "prompt": "Returned exiles rebuilding the temple in Jerusalem, men carrying timber from the hills and lifting dressed stones, governor Zerubbabel in Persian-period attire and high priest Joshua in linen directing the work, scaffolding, energetic morning light"
+  },
+  {
+   "id": "q03",
+   "capitulo": 2,
+   "ref": "2:3-9",
+   "titulo": "A glória da última casa",
+   "descricao": "Anciãos que viram o primeiro templo choram ao ver o novo, mais modesto, enquanto o profeta anuncia que a glória desta casa será maior.",
+   "alt": "Anciãos choram diante das paredes simples do novo templo enquanto jovens observam.",
+   "prompt": "Elderly men weeping before the modest new walls of the second temple in Jerusalem, remembering Solomon's splendor, younger workers looking on, the prophet Haggai encouraging them with an outstretched hand, soft radiant light falling on the stones"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "bolsa-furada",
+   "termo": "Salário em bolsa furada",
+   "ref": "1:6",
+   "explicado": true,
+   "significado": "O texto explica: semeiam muito e colhem pouco; o esforço não rende porque deixaram de lado a casa de Deus."
+  },
+  {
+   "id": "casas-forradas",
+   "termo": "Casas forradas",
+   "ref": "1:4",
+   "explicado": false,
+   "significado": "Casas com acabamento de madeira mostravam prioridades: conforto próprio antes do templo."
+  },
+  {
+   "id": "abalo",
+   "termo": "Fazer tremer céus e terra",
+   "ref": "2:6",
+   "explicado": false,
+   "significado": "Deus abalará céus, terra e nações. Hebreus 12:26-27 cita o texto e o aplica ao reino que não pode ser abalado."
+  },
+  {
+   "id": "prata-ouro",
+   "termo": "A prata e o ouro",
+   "ref": "2:8",
+   "explicado": true,
+   "significado": "'Minha é a prata, e meu é o ouro': o texto lembra que Deus é dono dos recursos que encherão a casa."
+  },
+  {
+   "id": "impureza",
+   "termo": "A carne santa e a impureza",
+   "ref": "2:12-13",
+   "explicado": true,
+   "significado": "Os sacerdotes confirmam que a santidade não se transmite por contato, mas a impureza sim. O profeta aplica: a obra do povo estava contaminada."
+  },
+  {
+   "id": "anel-selar",
+   "termo": "O anel de selar",
+   "ref": "2:23",
+   "explicado": false,
+   "significado": "Zorobabel será como anel de selar, sinal de autoridade e de escolha. Reverte a imagem de Jeremias 22:24, em que seu avô Joaquim foi rejeitado."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "sim-levav",
+   "pt": "Considerai vossos caminhos",
+   "refs": [
+    "1:5",
+    "1:7",
+    "2:15",
+    "2:18"
+   ],
+   "hebraico": {
+    "lema": "שִׂימוּ לְבַבְכֶם",
+    "translit": "simu levavkhem",
+    "strong": "H7760, H3824"
+   },
+   "sentido": "pôr o coração sobre, refletir",
+   "latim": {
+    "forma": "ponite corda vestra super vias vestras",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Refrão do livro: o povo é chamado a examinar sua vida e perceber a relação entre suas prioridades e sua situação.",
+   "interpretacao": false
+  },
+  {
+   "id": "bayit",
+   "pt": "Casa",
+   "refs": [
+    "1:4",
+    "1:9",
+    "2:3",
+    "2:9"
+   ],
+   "hebraico": {
+    "lema": "בַּיִת",
+    "translit": "bayit",
+    "strong": "H1004"
+   },
+   "grego": {
+    "lema": "οἶκος",
+    "translit": "oîkos"
+   },
+   "sentido": "casa, família, templo",
+   "latim": {
+    "forma": "domus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O jogo do livro: as casas do povo estão prontas e a casa de Deus está deserta.",
+   "interpretacao": false
+  },
+  {
+   "id": "kavod",
+   "pt": "Glória",
+   "refs": [
+    "2:3",
+    "2:7",
+    "2:9"
+   ],
+   "hebraico": {
+    "lema": "כָּבוֹד",
+    "translit": "kavod",
+    "strong": "H3519"
+   },
+   "grego": {
+    "lema": "δόξα",
+    "translit": "dóxa",
+    "strong": "G1391"
+   },
+   "sentido": "peso, honra, glória",
+   "latim": {
+    "forma": "magna erit gloria domus istius novissimae plus quam primae",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A promessa não depende do luxo do prédio: é Deus quem encherá a casa de glória e dará paz.",
+   "interpretacao": false
+  },
+  {
+   "id": "chemdah",
+   "pt": "Coisas preciosas (o desejado)",
+   "refs": [
+    "2:7"
+   ],
+   "hebraico": {
+    "lema": "חֶמְדָּה",
+    "translit": "chemdah",
+    "strong": "H2532"
+   },
+   "sentido": "o que é desejável, tesouro",
+   "latim": {
+    "forma": "et veniet desideratus cunctis gentibus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O hebraico pode ser lido como 'as riquezas das nações' (como nesta tradução) ou como 'o Desejado de todas as nações', leitura da Vulgata que muitos cristãos aplicaram ao Messias.",
+   "interpretacao": true
+  },
+  {
+   "id": "shalom",
+   "pt": "Paz",
+   "refs": [
+    "2:9"
+   ],
+   "hebraico": {
+    "lema": "שָׁלוֹם",
+    "translit": "shalom",
+    "strong": "H7965"
+   },
+   "grego": {
+    "lema": "εἰρήνη",
+    "translit": "eirḗnē",
+    "strong": "G1515"
+   },
+   "sentido": "paz, bem-estar completo",
+   "latim": {
+    "forma": "et in loco isto dabo pacem",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Mais que ausência de guerra: plenitude de vida dada por Deus naquele lugar.",
+   "interpretacao": false
+  },
+  {
+   "id": "chotam",
+   "pt": "Anel de selar",
+   "refs": [
+    "2:23"
+   ],
+   "hebraico": {
+    "lema": "חוֹתָם",
+    "translit": "chotam",
+    "strong": "H2368"
+   },
+   "sentido": "selo, sinete",
+   "latim": {
+    "forma": "ponam te quasi signaculum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O selo autenticava documentos do dono. Zorobabel, descendente de Davi, recebe a marca da escolha divina.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "behistun",
+   "titulo": "A inscrição de Beistum e o reinado de Dario",
+   "refs": [
+    "1:1",
+    "2:22"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Inscrição de Beistum (Behistun) de Dario I",
+   "referencia": "Penhasco de Beistum, Irã",
+   "data_fonte": "c. 520–518 a.C.",
+   "data_evento": "522–520 a.C.",
+   "resumo": "Inscrição trilíngue em que Dario I narra como chegou ao trono e venceu muitas revoltas no primeiro ano de reinado.",
+   "relacao": "Situa a data de Ageu, 'segundo ano do rei Dario' (520 a.C.), num império recém-abalado por revoltas; muitos leem 2:21-22 nesse cenário.",
+   "grau": "associacao"
+  },
+  {
+   "id": "cilindro-ciro",
+   "titulo": "O Cilindro de Ciro",
+   "refs": [
+    "1:1",
+    "1:14"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Cilindro de Ciro",
+   "referencia": "Museu Britânico, BM 90920",
+   "data_fonte": "c. 539–538 a.C.",
+   "data_evento": "539 a.C.",
+   "resumo": "Ciro afirma ter devolvido povos deportados às suas terras e restaurado santuários.",
+   "relacao": "Mostra a política persa que permitiu a volta dos exilados e a reconstrução do templo, pano de fundo de Ageu. O texto não cita Judá.",
+   "grau": "associacao"
+  },
+  {
+   "id": "josefo-templo",
+   "titulo": "Josefo e a reconstrução do templo",
+   "refs": [
+    "1:14",
+    "2:3"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 11, cap. 4",
+   "data_fonte": "c. 93–94 d.C.",
+   "data_evento": "520–515 a.C.",
+   "resumo": "Josefo narra a retomada da obra do templo sob Zorobabel, com o incentivo de Ageu e Zacarias, e o choro dos anciãos.",
+   "relacao": "Reconta a mesma história com base em Esdras e nos profetas; é testemunho da tradição, não fonte independente.",
+   "grau": "associacao"
+  }
+ ]
+}

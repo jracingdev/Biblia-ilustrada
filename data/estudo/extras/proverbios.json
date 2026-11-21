@@ -1,0 +1,682 @@
+{
+ "livro": "proverbios",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:20-21",
+   "titulo": "A Sabedoria clama nas praças",
+   "descricao": "A Sabedoria é apresentada como uma mulher que levanta a voz nas ruas, nas encruzilhadas e às portas da cidade.",
+   "alt": "Mulher de vestes nobres falando em voz alta na porta de uma cidade antiga, entre a multidão.",
+   "prompt": "A noble woman in flowing ivory and blue robes, personifying Wisdom, stands on a step at the busy stone gate of an ancient Israelite city, calling out with an open hand to passing merchants, shepherds and young men; bright midday light, lively crowd"
+  },
+  {
+   "id": "q02",
+   "capitulo": 4,
+   "ref": "4:1-4",
+   "titulo": "O pai ensina o filho",
+   "descricao": "O pai transmite ao filho o que ele mesmo aprendeu de seu pai: guardar as palavras de sabedoria e viver.",
+   "alt": "Pai idoso sentado ao lado do filho jovem, mostrando-lhe um rolo à luz de uma lamparina.",
+   "prompt": "In a simple stone house an older father with a grey beard sits beside his teenage son, pointing to words on a small scroll by the light of an oil lamp; the mother listens nearby at her spinning; warm intimate interior light"
+  },
+  {
+   "id": "q03",
+   "capitulo": 6,
+   "ref": "6:6-8",
+   "titulo": "Vai até a formiga",
+   "descricao": "O preguiçoso é mandado observar a formiga, que sem chefe junta comida no verão.",
+   "alt": "Jovem deitado à sombra observando uma fila de formigas carregando grãos.",
+   "prompt": "Close view of a line of ants carrying grains of wheat across sun-baked earth near a threshing floor, while a young man lazily lying in the shade of a tree raises his head to watch them; harvest field in the background, summer light"
+  },
+  {
+   "id": "q04",
+   "capitulo": 7,
+   "ref": "7:6-10",
+   "titulo": "O jovem sem juízo ao anoitecer",
+   "descricao": "Da janela, o mestre vê um jovem sem juízo seguindo pela rua, ao entardecer, para a casa da mulher sedutora.",
+   "alt": "Homem idoso olhando por uma janela gradeada para um jovem que caminha numa rua escura ao entardecer.",
+   "prompt": "Seen from behind a wooden lattice window, an older man watches a naive young man walking down a narrow stone street at dusk toward a doorway where a woman in a dark cloak waits with a lamp; long shadows, modest and restrained, cautionary mood"
+  },
+  {
+   "id": "q05",
+   "capitulo": 8,
+   "ref": "8:22-31",
+   "titulo": "A Sabedoria na criação",
+   "descricao": "A Sabedoria diz que estava com o SENHOR antes da criação, quando ele firmava os céus e marcava os limites do mar.",
+   "alt": "Figura feminina luminosa contemplando a formação dos mares e montes sob uma luz gloriosa.",
+   "prompt": "A radiant female figure personifying Wisdom stands joyfully at the edge of a newly forming world, watching seas pulled back to their boundary, mountains rising and clouds gathering under an overwhelming golden light from above with no human figure in it; cosmic dawn"
+  },
+  {
+   "id": "q06",
+   "capitulo": 9,
+   "ref": "9:1-6",
+   "titulo": "O banquete da Sabedoria",
+   "descricao": "A Sabedoria constrói sua casa de sete colunas, prepara a mesa e manda servas convidarem os simples.",
+   "alt": "Casa com sete colunas e mesa posta com pão e vinho, enquanto servas convidam pessoas do alto da cidade.",
+   "prompt": "A gracious house with seven carved stone pillars on a hilltop, a long table set with bread, meat and mixed wine; Wisdom in white robes welcomes guests while her maidservants call from the high places of the city below; festive warm light"
+  },
+  {
+   "id": "q07",
+   "capitulo": 15,
+   "ref": "15:17",
+   "titulo": "Hortaliças com amor",
+   "descricao": "Melhor é uma refeição simples com amor do que um banquete com ódio.",
+   "alt": "Família pobre sorrindo ao redor de uma refeição de verduras, contrastando com um banquete rico e frio ao fundo.",
+   "prompt": "A poor family sits close together on a mat, sharing a humble meal of greens and bread, laughing warmly; through a doorway in the background a rich banquet hall with a roasted ox where diners sit apart with cold, hostile faces; contrast of warm and cold light"
+  },
+  {
+   "id": "q08",
+   "capitulo": 16,
+   "ref": "16:33",
+   "titulo": "A sorte lançada no colo",
+   "descricao": "A sorte é lançada no colo, mas toda decisão vem do SENHOR.",
+   "alt": "Homens sentados lançando pedras de sorte sobre o colo de um deles.",
+   "prompt": "Elders seated in a circle in a courtyard as one shakes small carved lots from a fold of his robe into his lap, all leaning in to see; a shaft of light falls from above onto the lots; quiet suspense"
+  },
+  {
+   "id": "q09",
+   "capitulo": 20,
+   "ref": "20:4",
+   "titulo": "O preguiçoso no tempo da ceifa",
+   "descricao": "Quem não lavra no inverno nada terá na colheita e acaba mendigando.",
+   "alt": "Homem pobre pedindo esmola à beira de um campo onde outros colhem trigo.",
+   "prompt": "At harvest time a ragged man with an empty basket begs at the edge of a golden wheat field where diligent reapers work with sickles; his own neighboring plot is bare; bright summer light"
+  },
+  {
+   "id": "q10",
+   "capitulo": 24,
+   "ref": "24:30-34",
+   "titulo": "O campo do preguiçoso",
+   "descricao": "O sábio passa pelo campo do preguiçoso e vê espinhos, urtigas e o muro de pedras caído.",
+   "alt": "Vinha abandonada coberta de espinhos com o muro de pedra desmoronado, observada por um homem.",
+   "prompt": "An abandoned vineyard overgrown with thorns and nettles, its low stone wall collapsed; a thoughtful traveller in a cloak pauses on the path to look at it; in the distance a well-kept vineyard; late afternoon light"
+  },
+  {
+   "id": "q11",
+   "capitulo": 25,
+   "ref": "25:1",
+   "titulo": "Os homens de Ezequias copiam provérbios",
+   "descricao": "No tempo do rei Ezequias, escribas reúnem e copiam provérbios de Salomão.",
+   "alt": "Escribas sentados copiando textos em rolos numa sala do palácio de Jerusalém.",
+   "prompt": "In a royal chamber of ancient Jerusalem, scribes in linen robes sit cross-legged copying proverbs onto papyrus scrolls with reed pens, older scrolls spread before them; a king in a simple crown looks on; warm window light"
+  },
+  {
+   "id": "q12",
+   "capitulo": 25,
+   "ref": "25:11",
+   "titulo": "Maçãs de ouro em bandejas de prata",
+   "descricao": "A palavra dita na hora certa é como maçãs de ouro em bandejas de prata.",
+   "alt": "Bandeja de prata com frutos dourados, ao lado de dois homens conversando com serenidade.",
+   "prompt": "A finely worked silver tray holding golden fruits rests on a table between an older and a younger man in calm conversation, the elder speaking gently; soft light reflecting on the metal; still-life quality"
+  },
+  {
+   "id": "q13",
+   "capitulo": 27,
+   "ref": "27:23-27",
+   "titulo": "Cuida do teu rebanho",
+   "descricao": "O sábio aconselha conhecer o estado das ovelhas, pois a riqueza passa, mas o rebanho sustenta a casa.",
+   "alt": "Pastor examinando suas ovelhas num pasto verde, com cabras e uma tenda ao fundo.",
+   "prompt": "A diligent herdsman kneels in a green hillside pasture examining one of his sheep, goats grazing nearby and a woman milking a goat by a tent; spring grass, clear morning light"
+  },
+  {
+   "id": "q14",
+   "capitulo": 30,
+   "ref": "30:24-28",
+   "titulo": "Quatro pequenos e sábios",
+   "descricao": "Agur fala de formigas, roedores das rochas, gafanhotos e lagartixas: pequenos, mas sábios.",
+   "alt": "Composição com formigas, híraces nas rochas, uma nuvem de gafanhotos e uma lagartixa na parede de um palácio.",
+   "prompt": "A naturalist composition: ants carrying grain in the foreground, rock hyraxes sunning on rocky crags, a disciplined swarm of locusts crossing the sky, and a small gecko on the painted wall of a royal palace; clear bright light, detailed nature study"
+  },
+  {
+   "id": "q15",
+   "capitulo": 31,
+   "ref": "31:1",
+   "titulo": "O rei Lemuel e sua mãe",
+   "descricao": "O rei Lemuel registra os conselhos que sua mãe lhe ensinou.",
+   "alt": "Rainha-mãe aconselhando seu filho jovem, rei, num aposento do palácio.",
+   "prompt": "A dignified queen mother in rich robes and veil speaks earnestly to her young son, a newly crowned king, holding his hands in a palace chamber; light through a high window falls on them"
+  },
+  {
+   "id": "q16",
+   "capitulo": 31,
+   "ref": "31:10-31",
+   "titulo": "A mulher virtuosa",
+   "descricao": "A mulher de valor trabalha com lã e linho, compra um campo, planta uma vinha, ajuda o pobre e é elogiada pelo marido e pelos filhos.",
+   "alt": "Mulher fiando à luz de uma lamparina, com o campo e a vinha visíveis pela janela e os filhos ao redor.",
+   "prompt": "A capable woman in practical robes spins wool at a distaff by an oil lamp in the early morning, children asleep nearby, her husband at the city gate visible through the window; fields and a young vineyard on the hillside; warm dignified light"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "sabedoria-mulher",
+   "termo": "A Sabedoria como mulher",
+   "ref": "1:20",
+   "explicado": false,
+   "significado": "Nos capítulos 1–9, a sabedoria fala e age como uma mulher que convida. É uma personificação poética. Muitos cristãos veem em 8:22-31 um reflexo de Cristo, a sabedoria de Deus; outros leem só como figura literária."
+  },
+  {
+   "id": "insensatez-mulher",
+   "termo": "A mulher insensata",
+   "ref": "9:13",
+   "explicado": false,
+   "significado": "Em contraste com a Sabedoria, a Insensatez também chama os simples para sua casa (9:13-18). As duas casas representam os dois caminhos da vida."
+  },
+  {
+   "id": "caminho",
+   "termo": "Os dois caminhos",
+   "ref": "4:18",
+   "explicado": false,
+   "significado": "O livro fala o tempo todo de caminho: o dos justos é como luz que cresce (4:18); outro parece certo mas leva à morte (14:12). É a forma de falar da vida inteira e de suas escolhas."
+  },
+  {
+   "id": "arvore-vida",
+   "termo": "Árvore da vida",
+   "ref": "3:18",
+   "explicado": false,
+   "significado": "A sabedoria é árvore de vida para quem a segura (3:18; 11:30). A imagem lembra o Éden e indica vida plena e duradoura."
+  },
+  {
+   "id": "tabua-coracao",
+   "termo": "Tábua do coração",
+   "ref": "3:3",
+   "explicado": false,
+   "significado": "Escrever a bondade e a fidelidade na tábua do coração é guardar o ensino por dentro, não só por fora. A imagem lembra as tábuas da Lei."
+  },
+  {
+   "id": "colar",
+   "termo": "Amarrar ao pescoço",
+   "ref": "6:21",
+   "explicado": false,
+   "significado": "O ensino do pai e da mãe deve ser amarrado ao pescoço como um enfeite e guardado no coração, para acompanhar a pessoa ao andar, deitar e acordar (6:22)."
+  },
+  {
+   "id": "formiga",
+   "termo": "A formiga",
+   "ref": "6:6",
+   "explicado": true,
+   "significado": "O próprio texto explica: a formiga, sem chefe, junta comida no verão. É modelo de diligência para o preguiçoso."
+  },
+  {
+   "id": "casa-sete-colunas",
+   "termo": "Casa de sete colunas",
+   "ref": "9:1",
+   "explicado": false,
+   "significado": "A Sabedoria edifica sua casa e lavra sete colunas. O número sete sugere algo completo e bem acabado; o texto não explica o simbolismo."
+  },
+  {
+   "id": "lampada",
+   "termo": "Lâmpada do SENHOR",
+   "ref": "20:27",
+   "explicado": true,
+   "significado": "O espírito humano é chamado lâmpada do SENHOR que examina o interior. O texto explica a imagem: a consciência ilumina o que está escondido."
+  },
+  {
+   "id": "balanca",
+   "termo": "Balança e pesos",
+   "ref": "11:1",
+   "explicado": false,
+   "significado": "A balança enganosa é abominação a Deus; o peso justo é seu prazer. Na vida comercial antiga, pesos falsos eram forma comum de roubar."
+  },
+  {
+   "id": "vara",
+   "termo": "A vara da disciplina",
+   "ref": "13:24",
+   "explicado": false,
+   "significado": "A vara representa a correção dos pais. O texto liga disciplina e amor (3:12; 13:24). Leitores hoje discutem como aplicar a imagem, sem tirar dela a ideia de cuidado e correção."
+  },
+  {
+   "id": "cisterna",
+   "termo": "Cisterna e poço próprios",
+   "ref": "5:15",
+   "explicado": false,
+   "significado": "Beber água da própria cisterna é imagem da fidelidade no casamento, como o contexto mostra (5:18-19)."
+  },
+  {
+   "id": "brasas",
+   "termo": "Brasas sobre a cabeça",
+   "ref": "25:22",
+   "explicado": false,
+   "significado": "Dar pão e água ao inimigo é \"amontoar brasas sobre a cabeça dele\". O sentido exato é debatido: vergonha que leva ao arrependimento é a leitura mais comum. Paulo cita o texto em Romanos 12."
+  },
+  {
+   "id": "limites-antigos",
+   "termo": "Limites antigos",
+   "ref": "22:28",
+   "explicado": false,
+   "significado": "Os marcos de pedra marcavam a terra da família. Mudar o marco era roubar terra, muitas vezes do pobre e do órfão (23:10)."
+  },
+  {
+   "id": "ferro",
+   "termo": "Ferro afia o ferro",
+   "ref": "27:17",
+   "explicado": true,
+   "significado": "Assim como o ferro afia o ferro, um amigo aperfeiçoa o outro. O próprio versículo aplica a imagem à amizade."
+  },
+  {
+   "id": "mulher-virtuosa",
+   "termo": "A mulher de valor",
+   "ref": "31:10",
+   "explicado": false,
+   "significado": "O poema final é um acróstico (cada verso começa com uma letra hebraica em ordem). Descreve uma mulher concreta e trabalhadora; muitos também o leem como retrato final da sabedoria vivida na prática."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "mashal",
+   "pt": "provérbio",
+   "refs": [
+    "1:1",
+    "25:1"
+   ],
+   "hebraico": {
+    "lema": "מָשָׁל",
+    "translit": "mashal",
+    "strong": "H4912"
+   },
+   "grego": {
+    "lema": "παροιμίαι",
+    "translit": "paroimíai"
+   },
+   "sentido": "comparação, dito sábio, parábola",
+   "latim": {
+    "forma": "Parabolae Salomonis filii David regis Israhel",
+    "nota": "A Vulgata usa parabolae, de onde vem \"parábola\"."
+   },
+   "outras": [],
+   "explicacao": "Mashal vem de uma raiz ligada a \"ser semelhante\": muitos provérbios funcionam por comparação. A mesma palavra serve para parábolas e poemas de ensino.",
+   "interpretacao": false
+  },
+  {
+   "id": "chokmah",
+   "pt": "sabedoria",
+   "refs": [
+    "1:2",
+    "1:20",
+    "9:1"
+   ],
+   "hebraico": {
+    "lema": "חָכְמָה",
+    "translit": "chokmah",
+    "strong": "H2451"
+   },
+   "grego": {
+    "lema": "σοφία",
+    "translit": "sophía",
+    "strong": "G4678"
+   },
+   "sentido": "habilidade prática de viver bem diante de Deus",
+   "latim": {
+    "forma": "sapientia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Em hebraico, a mesma palavra serve para a habilidade de um artesão. Em Provérbios é a arte de viver bem: no trabalho, na fala, na família e diante de Deus.",
+   "interpretacao": false
+  },
+  {
+   "id": "yirah",
+   "pt": "temor ao SENHOR",
+   "refs": [
+    "1:7",
+    "9:10"
+   ],
+   "hebraico": {
+    "lema": "יִרְאַת יְהוָה",
+    "translit": "yir'at YHWH",
+    "strong": "H3374"
+   },
+   "sentido": "reverência e respeito profundo a Deus",
+   "latim": {
+    "forma": "timor Domini principium sapientiae",
+    "nota": "Essa frase latina virou lema de muitas escolas e universidades."
+   },
+   "outras": [],
+   "explicacao": "É o lema do livro: o temor ao SENHOR é o princípio, o ponto de partida, do conhecimento e da sabedoria (1:7; 9:10). Não é pavor, e sim uma vida orientada pela reverência a Deus.",
+   "interpretacao": false
+  },
+  {
+   "id": "musar",
+   "pt": "instrução",
+   "refs": [
+    "1:2",
+    "1:8",
+    "13:24"
+   ],
+   "hebraico": {
+    "lema": "מוּסָר",
+    "translit": "musar",
+    "strong": "H4148"
+   },
+   "grego": {
+    "lema": "παιδεία",
+    "translit": "paideía",
+    "strong": "G3809"
+   },
+   "sentido": "disciplina, correção, educação",
+   "latim": {
+    "forma": "disciplina",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Musar inclui ensino e correção. Para Provérbios, aceitar correção é sinal de sabedoria.",
+   "interpretacao": false
+  },
+  {
+   "id": "kesil",
+   "pt": "tolo",
+   "refs": [
+    "1:22",
+    "26:4"
+   ],
+   "hebraico": {
+    "lema": "כְּסִיל",
+    "translit": "kesil",
+    "strong": "H3684"
+   },
+   "sentido": "o insensato teimoso",
+   "latim": {
+    "forma": "stultus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Provérbios tem vários tipos de tolo. O kesil é quem rejeita a sabedoria por teimosia, não por falta de inteligência.",
+   "interpretacao": false
+  },
+  {
+   "id": "peti",
+   "pt": "simples",
+   "refs": [
+    "1:4",
+    "1:22",
+    "9:4"
+   ],
+   "hebraico": {
+    "lema": "פֶּתִי",
+    "translit": "peti",
+    "strong": "H6612"
+   },
+   "sentido": "ingênuo, inexperiente, aberto a qualquer influência",
+   "latim": {
+    "forma": "parvulus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O simples ainda não escolheu seu caminho e pode ser atraído tanto pela Sabedoria quanto pela Insensatez. O livro é escrito sobretudo para ele.",
+   "interpretacao": false
+  },
+  {
+   "id": "atsel",
+   "pt": "preguiçoso",
+   "refs": [
+    "6:6",
+    "20:4",
+    "24:30"
+   ],
+   "hebraico": {
+    "lema": "עָצֵל",
+    "translit": "'atsel",
+    "strong": "H6102"
+   },
+   "sentido": "o lento, o preguiçoso",
+   "latim": {
+    "forma": "Vade ad formicam, o piger",
+    "nota": "Piger: \"preguiçoso\"."
+   },
+   "outras": [],
+   "explicacao": "O preguiçoso é personagem cômico e triste do livro: tem desculpas para tudo e acaba na pobreza.",
+   "interpretacao": false
+  },
+  {
+   "id": "lev",
+   "pt": "coração",
+   "refs": [
+    "3:5",
+    "4:23"
+   ],
+   "hebraico": {
+    "lema": "לֵב",
+    "translit": "lev",
+    "strong": "H3820"
+   },
+   "grego": {
+    "lema": "καρδία",
+    "translit": "kardía",
+    "strong": "G2588"
+   },
+   "sentido": "o centro interior: mente, vontade e sentimentos",
+   "latim": {
+    "forma": "Omni custodia serva cor tuum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Na Bíblia hebraica, o coração é sobretudo onde se pensa e se decide, não só onde se sente. Por isso deve ser guardado acima de tudo (4:23).",
+   "interpretacao": false
+  },
+  {
+   "id": "derek",
+   "pt": "caminho",
+   "refs": [
+    "4:18",
+    "14:12",
+    "22:6"
+   ],
+   "hebraico": {
+    "lema": "דֶּרֶךְ",
+    "translit": "derek",
+    "strong": "H1870"
+   },
+   "grego": {
+    "lema": "ὁδός",
+    "translit": "hodós",
+    "strong": "G3598"
+   },
+   "sentido": "estrada, modo de viver",
+   "latim": {
+    "forma": "via",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "\"Caminho\" é a palavra para a maneira de viver. O livro inteiro contrasta o caminho dos justos com o dos perversos.",
+   "interpretacao": false
+  },
+  {
+   "id": "chesed-emet",
+   "pt": "bondade e fidelidade",
+   "refs": [
+    "3:3"
+   ],
+   "hebraico": {
+    "lema": "חֶסֶד וֶאֱמֶת",
+    "translit": "chesed ve'emet",
+    "strong": "H2617, H571"
+   },
+   "sentido": "amor leal e confiabilidade",
+   "latim": {
+    "forma": "misericordia et veritas",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O par aparece muitas vezes na Bíblia para descrever o próprio Deus (Êx 34:6). Provérbios pede que o leitor tenha essas mesmas qualidades.",
+   "interpretacao": false
+  },
+  {
+   "id": "chanakh",
+   "pt": "instruir",
+   "refs": [
+    "22:6"
+   ],
+   "hebraico": {
+    "lema": "חֲנֹךְ",
+    "translit": "chanokh",
+    "strong": "H2596"
+   },
+   "sentido": "iniciar, dedicar, treinar",
+   "latim": {
+    "forma": "Proverbium est adulescens iuxta viam suam etiam cum senuerit non recedet ab ea",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O verbo também é usado para \"dedicar\" uma casa ou o templo. A expressão \"em seu caminho\" é discutida: o caminho certo, ou o jeito próprio de cada criança.",
+   "interpretacao": true
+  },
+  {
+   "id": "eshet-chayil",
+   "pt": "mulher virtuosa",
+   "refs": [
+    "31:10"
+   ],
+   "hebraico": {
+    "lema": "אֵשֶׁת־חַיִל",
+    "translit": "eshet chayil",
+    "strong": "H802, H2428"
+   },
+   "sentido": "mulher de valor, de força, de capacidade",
+   "latim": {
+    "forma": "Mulierem fortem quis inveniet",
+    "nota": "Fortis: \"forte\"."
+   },
+   "outras": [],
+   "explicacao": "Chayil é força, competência, até valentia de soldado. A Vulgata traduz por \"mulher forte\". Na tradição judaica, o poema é cantado em muitos lares na noite do sábado.",
+   "interpretacao": false
+  },
+  {
+   "id": "ormah",
+   "pt": "prudência",
+   "refs": [
+    "1:4",
+    "8:12"
+   ],
+   "hebraico": {
+    "lema": "עָרְמָה",
+    "translit": "'ormah",
+    "strong": "H6195"
+   },
+   "sentido": "esperteza, bom senso",
+   "latim": {
+    "forma": "astutia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A mesma raiz descreve a serpente \"astuta\" do Éden (Gn 3:1). Em Provérbios o sentido é positivo: saber agir com sagacidade.",
+   "interpretacao": false
+  },
+  {
+   "id": "lets",
+   "pt": "zombador",
+   "refs": [
+    "1:22",
+    "9:7"
+   ],
+   "hebraico": {
+    "lema": "לֵץ",
+    "translit": "lets",
+    "strong": "H3887"
+   },
+   "sentido": "o que zomba e despreza conselho",
+   "latim": {
+    "forma": "derisor",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O zombador é o tipo mais difícil: ri da correção e não aprende. O livro aconselha não perder tempo discutindo com ele (9:7-8).",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "amenemope",
+   "titulo": "A Instrução de Amenemope",
+   "refs": [
+    "22:17",
+    "22:20",
+    "23:10"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Instrução de Amenemope (sabedoria egípcia)",
+   "referencia": "Papiro do Museu Britânico, EA 10474",
+   "data_fonte": "c. 1300–1075 a.C. (composição); cópia posterior",
+   "data_evento": "—",
+   "resumo": "Livro de conselhos de um escriba egípcio a seu filho, dividido em trinta capítulos, com temas como não mudar marcos de terra e não se cansar para enriquecer.",
+   "relacao": "Há semelhanças fortes com Provérbios 22:17–24:22, que fala de \"coisas excelentes\" (alguns traduzem \"trinta ditos\"). A maioria dos estudiosos vê influência egípcia sobre esta seção; o texto bíblico, porém, põe tudo sob a confiança no SENHOR (22:19).",
+   "grau": "associacao"
+  },
+  {
+   "id": "ptahhotep",
+   "titulo": "As Máximas de Ptah-hotep",
+   "refs": [
+    "1:8",
+    "15:1"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Instrução de Ptah-hotep (sabedoria egípcia)",
+   "referencia": "Papiro Prisse, Biblioteca Nacional da França",
+   "data_fonte": "composição atribuída ao Império Antigo; cópia de c. 1800 a.C.",
+   "data_evento": "—",
+   "resumo": "Um vizir idoso ensina o filho sobre falar bem, ouvir, controlar a raiva e respeitar superiores.",
+   "relacao": "Mostra que a instrução \"de pai para filho\" era um gênero comum no antigo Oriente. Provérbios usa a mesma forma, mas fundamenta a sabedoria no temor ao SENHOR.",
+   "grau": "associacao"
+  },
+  {
+   "id": "aicar",
+   "titulo": "As Palavras de Aicar",
+   "refs": [
+    "23:13",
+    "23:14"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Palavras de Aicar (sabedoria aramaica)",
+   "referencia": "papiros de Elefantina, Egito",
+   "data_fonte": "séc. V a.C. (cópia); composição anterior",
+   "data_evento": "—",
+   "resumo": "História de um sábio da corte assíria seguida de provérbios. Um deles aconselha não poupar a vara ao filho.",
+   "relacao": "Paralelo próximo de Provérbios 23:13-14 e de outros ditos sobre disciplina. Mostra a circulação de provérbios pelo antigo Oriente.",
+   "grau": "associacao"
+  },
+  {
+   "id": "bula-ezequias",
+   "titulo": "Selo do rei Ezequias",
+   "refs": [
+    "25:1"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Bula (impressão de selo) do rei Ezequias",
+   "referencia": "escavações do Ofel, Jerusalém",
+   "data_fonte": "c. 727–698 a.C.",
+   "data_evento": "descoberta em 2015",
+   "resumo": "Pequena peça de argila com a inscrição \"De Ezequias, filho de Acaz, rei de Judá\", achada perto do antigo palácio real.",
+   "relacao": "Confirma a existência do rei Ezequias, em cujo tempo, segundo 25:1, seus homens copiaram provérbios de Salomão. Não fala dos provérbios em si.",
+   "grau": "documentado"
+  },
+  {
+   "id": "shuruppak",
+   "titulo": "As Instruções de Shuruppak",
+   "refs": [
+    "22:28",
+    "11:1"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Instruções de Shuruppak (sabedoria suméria)",
+   "referencia": "tabletes cuneiformes de várias coleções",
+   "data_fonte": "c. 2500 a.C. (versões mais antigas)",
+   "data_evento": "—",
+   "resumo": "Um dos mais antigos textos de sabedoria do mundo: um pai aconselha o filho sobre terra, trabalho, fala e vizinhos.",
+   "relacao": "Mostra quão antigo é o gênero dos conselhos práticos que Provérbios também usa. Paralelo de gênero, sem ligação direta.",
+   "grau": "associacao"
+  },
+  {
+   "id": "qumran-proverbios",
+   "titulo": "Provérbios em Qumran",
+   "refs": [
+    "1:1"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Fragmentos de Provérbios da caverna 4 de Qumran",
+   "referencia": "Manuscritos do Mar Morto",
+   "data_fonte": "séc. I a.C.–I d.C. (cópias)",
+   "data_evento": "descobertos em 1952",
+   "resumo": "Restos de duas cópias de Provérbios foram achados em Qumran, com texto próximo ao hebraico tradicional.",
+   "relacao": "Atestam a leitura do livro entre judeus antes da era cristã.",
+   "grau": "documentado"
+  }
+ ]
+}

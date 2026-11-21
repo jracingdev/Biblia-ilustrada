@@ -1,0 +1,724 @@
+{
+ "livro": "joao",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 2,
+   "ref": "2:7-9",
+   "titulo": "As bodas de Caná",
+   "descricao": "Os servos enchem de água seis talhas de pedra; ao provar, o mestre-sala descobre um vinho excelente, enquanto Maria e Jesus observam.",
+   "alt": "Servos enchem grandes talhas de pedra numa festa de casamento enquanto o mestre-sala prova o vinho.",
+   "prompt": "A village wedding feast in Cana of Galilee, servants pouring water into six large stone jars, the master of the banquet tasting wine from a cup with surprise, Jesus and his mother Mary nearby, guests celebrating under a courtyard awning, warm festive light"
+  },
+  {
+   "id": "q02",
+   "capitulo": 3,
+   "ref": "3:1-2",
+   "titulo": "Nicodemos vem de noite",
+   "descricao": "À luz de uma lamparina, Nicodemos, mestre dos judeus, conversa com Jesus num terraço sob o céu noturno.",
+   "alt": "Jesus e Nicodemos conversam à noite num terraço iluminado por uma lamparina.",
+   "prompt": "Night on a flat rooftop in Jerusalem, the elderly Pharisee Nicodemus in fine robes speaking earnestly with Jesus by the light of a single oil lamp, wind stirring their garments, starry sky, intimate chiaroscuro"
+  },
+  {
+   "id": "q03",
+   "capitulo": 4,
+   "ref": "4:6-9",
+   "titulo": "Junto ao poço de Jacó",
+   "descricao": "Ao meio-dia, cansado da viagem, Jesus está sentado junto ao poço e pede de beber a uma mulher samaritana que veio tirar água.",
+   "alt": "Jesus sentado junto a um poço conversa com uma mulher samaritana que segura um cântaro.",
+   "prompt": "Midday at Jacob's well near Sychar in Samaria, a weary Jesus seated on the stone rim of the well, a Samaritan woman with a clay water jar on her shoulder looking at him in surprise, Mount Gerizim in the background, bright overhead sunlight"
+  },
+  {
+   "id": "q04",
+   "capitulo": 5,
+   "ref": "5:5-8",
+   "titulo": "O paralítico de Betesda",
+   "descricao": "Entre os pórticos do tanque de Betesda, Jesus se dirige a um homem doente havia trinta e oito anos e lhe diz: 'Levanta-te, toma a tua maca e anda'.",
+   "alt": "Jesus fala a um homem deitado numa esteira entre as colunas de um grande tanque.",
+   "prompt": "The pool of Bethesda in Jerusalem with colonnaded porticoes, many sick people lying on mats, Jesus bending toward a man who has been ill for thirty-eight years, the man beginning to rise and lift his mat, sunlight on the water"
+  },
+  {
+   "id": "q05",
+   "capitulo": 9,
+   "ref": "9:6-7",
+   "titulo": "O cego no tanque de Siloé",
+   "descricao": "Com os olhos untados de lodo, o homem cego de nascença se lava no tanque de Siloé e volta enxergando.",
+   "alt": "Um homem lava os olhos nos degraus do tanque de Siloé e começa a enxergar.",
+   "prompt": "A man blind from birth washing mud from his eyes at the stone steps of the Pool of Siloam in Jerusalem, water glistening, his face lifting in wonder as he sees light for the first time, onlookers on the steps, bright morning light"
+  },
+  {
+   "id": "q06",
+   "capitulo": 11,
+   "ref": "11:41-44",
+   "titulo": "Lázaro, vem para fora!",
+   "descricao": "Diante do túmulo aberto em Betânia, Jesus clama em alta voz e Lázaro sai, ainda envolto em faixas, diante de Marta, Maria e da multidão.",
+   "alt": "Lázaro sai de um túmulo de pedra envolto em faixas diante de Jesus e de uma multidão espantada.",
+   "prompt": "At a rock-cut tomb in Bethany, the stone rolled away, Lazarus emerging from the dark entrance still wrapped in linen grave cloths, Jesus standing with raised hand, Martha and Mary and mourners reacting in astonishment, dramatic light"
+  },
+  {
+   "id": "q07",
+   "capitulo": 12,
+   "ref": "12:3",
+   "titulo": "Maria unge os pés de Jesus",
+   "descricao": "Maria derrama perfume de nardo puro nos pés de Jesus e os enxuga com os cabelos; a casa se enche do perfume.",
+   "alt": "Maria unge os pés de Jesus com perfume e os enxuga com os cabelos, à mesa em Betânia.",
+   "prompt": "In a house in Bethany at a dinner, Mary kneeling and pouring precious nard from a jar onto the feet of Jesus and wiping them with her hair, Martha serving, Lazarus at table, Judas frowning, warm lamplight filling the room"
+  },
+  {
+   "id": "q08",
+   "capitulo": 13,
+   "ref": "13:4-5",
+   "titulo": "O lava-pés",
+   "descricao": "Jesus tira o manto, cinge-se com uma toalha e lava os pés dos discípulos; Pedro hesita.",
+   "alt": "Jesus, ajoelhado com uma toalha na cintura, lava os pés de Pedro numa bacia.",
+   "prompt": "Jesus kneeling with a towel tied around his waist, washing the feet of Peter in a basin in the upper room, Peter protesting with raised hands, other disciples watching in silence, oil lamps and a table set for supper, humble warm light"
+  },
+  {
+   "id": "q09",
+   "capitulo": 18,
+   "ref": "18:37-38",
+   "titulo": "'Que é a verdade?'",
+   "descricao": "No pretório, Pilatos interroga Jesus, que afirma ter vindo para dar testemunho da verdade; Pilatos pergunta: 'Que é a verdade?'.",
+   "alt": "Pilatos, em trajes romanos, interroga Jesus, de pé, num salão do pretório.",
+   "prompt": "Inside the Roman praetorium in Jerusalem, Pontius Pilate in a white toga with a purple border questioning Jesus, who stands calm and bound before him, Roman soldiers at the columns, early morning light through a high window"
+  },
+  {
+   "id": "q10",
+   "capitulo": 19,
+   "ref": "19:25-27",
+   "titulo": "Junto à cruz",
+   "descricao": "Ao pé da cruz estão Maria, mãe de Jesus, outras mulheres e o discípulo amado; Jesus confia sua mãe ao discípulo.",
+   "alt": "Maria e o discípulo amado de pé ao pé da cruz, com outras mulheres, sob céu escuro.",
+   "prompt": "At the foot of the cross on Golgotha, seen from below with restraint, Mary the mother of Jesus and the beloved disciple John standing together in grief, Mary Magdalene and other women nearby, darkened sky, no blood, deep sorrow and tenderness"
+  },
+  {
+   "id": "q11",
+   "capitulo": 20,
+   "ref": "20:15-16",
+   "titulo": "'Maria!' — 'Rabôni!'",
+   "descricao": "No jardim junto ao túmulo, Maria Madalena pensa estar falando com o jardineiro; quando Jesus diz seu nome, ela o reconhece.",
+   "alt": "Maria Madalena se volta surpresa ao reconhecer Jesus ressuscitado no jardim ao amanhecer.",
+   "prompt": "Early dawn in a garden near an empty rock tomb, Mary Magdalene with tear-stained face turning in sudden recognition toward the risen Jesus, who stands among flowering plants in simple white garments, soft rising sunlight"
+  },
+  {
+   "id": "q12",
+   "capitulo": 20,
+   "ref": "20:26-28",
+   "titulo": "Tomé: 'Senhor meu e Deus meu!'",
+   "descricao": "Com as portas fechadas, Jesus aparece aos discípulos e convida Tomé a tocar suas mãos e seu lado; Tomé se ajoelha.",
+   "alt": "Tomé ajoelha-se diante de Jesus ressuscitado numa sala fechada, entre os discípulos.",
+   "prompt": "In a closed room in Jerusalem, the risen Jesus showing his hands to Thomas, who falls to his knees with an expression of awe and faith, the other disciples gathered around, soft glowing light, no graphic wounds"
+  },
+  {
+   "id": "q13",
+   "capitulo": 21,
+   "ref": "21:9-13",
+   "titulo": "O café da manhã à beira-mar",
+   "descricao": "Na praia, Jesus prepara brasas com peixe e pão e convida os discípulos, que acabaram de puxar uma rede cheia, para comer.",
+   "alt": "Jesus junto a uma fogueira na praia ao amanhecer oferece pão e peixe aos discípulos.",
+   "prompt": "Dawn on the shore of the Sea of Galilee, Jesus beside a small charcoal fire with fish cooking and bread, disciples coming ashore dragging a net full of large fish, Peter wet from swimming, misty pink morning light, peaceful"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "palavra",
+   "termo": "A Palavra (o Verbo)",
+   "ref": "1:1",
+   "explicado": false,
+   "significado": "João chama Jesus de 'a Palavra' que estava com Deus e era Deus. A imagem lembra a palavra criadora de Gênesis 1 e dialogava com o pensamento grego."
+  },
+  {
+   "id": "luz-trevas",
+   "termo": "Luz e trevas",
+   "ref": "1:5",
+   "explicado": false,
+   "significado": "Contraste que atravessa o Evangelho: a luz brilha nas trevas, e as trevas não a compreenderam (o grego também permite 'não a venceram'). Jesus se declara 'a luz do mundo' (8:12)."
+  },
+  {
+   "id": "cordeiro",
+   "termo": "O Cordeiro de Deus",
+   "ref": "1:29",
+   "explicado": true,
+   "significado": "João Batista explica: é o Cordeiro que tira o pecado do mundo. Muitos ligam a imagem ao cordeiro da Páscoa e a Isaías 53."
+  },
+  {
+   "id": "agua-vinho",
+   "termo": "Água transformada em vinho",
+   "ref": "2:9",
+   "explicado": false,
+   "significado": "O primeiro dos 'sinais'. As talhas da purificação se enchem de vinho novo e abundante, imagem da alegria messiânica."
+  },
+  {
+   "id": "vento",
+   "termo": "O vento",
+   "ref": "3:8",
+   "explicado": true,
+   "significado": "Jesus mesmo compara: como o vento que não se vê de onde vem, assim é todo o que é nascido do Espírito."
+  },
+  {
+   "id": "serpente",
+   "termo": "A serpente levantada",
+   "ref": "3:14-15",
+   "explicado": true,
+   "significado": "Jesus explica: como Moisés levantou a serpente no deserto (Nm 21), o Filho do Homem será levantado para que quem crê tenha vida."
+  },
+  {
+   "id": "agua-viva",
+   "termo": "Água viva",
+   "ref": "4:14",
+   "explicado": true,
+   "significado": "Jesus diz que a água que ele dá se torna fonte que salta para a vida eterna; em 7:39 o texto liga a água viva ao Espírito."
+  },
+  {
+   "id": "pao-vida",
+   "termo": "O pão da vida",
+   "ref": "6:35",
+   "explicado": true,
+   "significado": "Jesus explica: quem vem a ele nunca terá fome. Faz contraste com o maná do deserto (6:49-51)."
+  },
+  {
+   "id": "porta",
+   "termo": "A porta",
+   "ref": "10:9",
+   "explicado": true,
+   "significado": "Jesus se declara a porta das ovelhas: quem entra por ele será salvo."
+  },
+  {
+   "id": "bom-pastor",
+   "termo": "O bom pastor",
+   "ref": "10:11",
+   "explicado": true,
+   "significado": "O bom pastor dá a vida pelas ovelhas, ao contrário do mercenário que foge. Jesus aplica a imagem a si mesmo."
+  },
+  {
+   "id": "grao-trigo",
+   "termo": "O grão de trigo",
+   "ref": "12:24",
+   "explicado": true,
+   "significado": "O grão que morre dá muito fruto. Jesus aplica a imagem à sua morte e a quem o segue (12:25)."
+  },
+  {
+   "id": "bacia-toalha",
+   "termo": "A bacia e a toalha",
+   "ref": "13:14-15",
+   "explicado": true,
+   "significado": "Jesus explica o lava-pés: deu exemplo para que os discípulos sirvam uns aos outros."
+  },
+  {
+   "id": "videira",
+   "termo": "A videira e os ramos",
+   "ref": "15:5",
+   "explicado": true,
+   "significado": "Jesus é a videira e os discípulos os ramos; só permanecendo nele podem dar fruto."
+  },
+  {
+   "id": "tunica",
+   "termo": "A túnica sem costura",
+   "ref": "19:23-24",
+   "explicado": false,
+   "significado": "Os soldados tiram sorte sobre a túnica, cumprindo o Salmo 22:18. Muitos leitores antigos viram nela símbolo da unidade da igreja."
+  },
+  {
+   "id": "sangue-agua",
+   "termo": "Sangue e água",
+   "ref": "19:34",
+   "explicado": false,
+   "significado": "Do lado traspassado de Jesus saem sangue e água. João insiste no testemunho (19:35); muitos o ligam ao batismo e à ceia, ou à vida que vem de sua morte."
+  },
+  {
+   "id": "sopro",
+   "termo": "O sopro de Jesus",
+   "ref": "20:22",
+   "explicado": true,
+   "significado": "Jesus sopra sobre os discípulos e diz: 'Recebei o Espírito Santo', lembrando o sopro de vida da criação (Gn 2:7)."
+  },
+  {
+   "id": "153-peixes",
+   "termo": "Cento e cinquenta e três peixes",
+   "ref": "21:11",
+   "explicado": false,
+   "significado": "O texto dá o número exato e diz que a rede não se rompeu. Já houve muitas interpretações simbólicas; nenhuma é certa."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "logos",
+   "pt": "Palavra (Verbo)",
+   "refs": [
+    "1:1",
+    "1:14"
+   ],
+   "hebraico": {
+    "lema": "דָּבָר",
+    "translit": "davar",
+    "strong": "H1697"
+   },
+   "grego": {
+    "lema": "λόγος",
+    "translit": "lógos",
+    "strong": "G3056"
+   },
+   "sentido": "palavra, razão, discurso",
+   "latim": {
+    "forma": "In principio erat Verbum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Para leitores judeus, lembrava a palavra criadora de Deus; para gregos, a razão que ordena o mundo. João afirma que essa Palavra se fez carne.",
+   "interpretacao": false
+  },
+  {
+   "id": "skenoo",
+   "pt": "Habitou",
+   "refs": [
+    "1:14"
+   ],
+   "hebraico": {
+    "lema": "שָׁכַן",
+    "translit": "shakhan",
+    "strong": "H7931"
+   },
+   "grego": {
+    "lema": "σκηνόω",
+    "translit": "skēnóō",
+    "strong": "G4637"
+   },
+   "sentido": "armar tenda, habitar",
+   "latim": {
+    "forma": "et habitavit in nobis",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Literalmente 'armou sua tenda entre nós', lembrando o tabernáculo em que a glória de Deus habitava no meio de Israel.",
+   "interpretacao": false
+  },
+  {
+   "id": "monogenes",
+   "pt": "Unigênito",
+   "refs": [
+    "1:14",
+    "1:18",
+    "3:16"
+   ],
+   "grego": {
+    "lema": "μονογενής",
+    "translit": "monogenḗs",
+    "strong": "G3439"
+   },
+   "sentido": "único, singular, filho único",
+   "latim": {
+    "forma": "unigenitus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Expressa a relação única de Jesus com o Pai. Alguns traduzem 'único', outros 'unigênito'; ambos destacam que não há outro igual.",
+   "interpretacao": true
+  },
+  {
+   "id": "semeion",
+   "pt": "Sinal",
+   "refs": [
+    "2:11",
+    "20:30"
+   ],
+   "hebraico": {
+    "lema": "אוֹת",
+    "translit": "'ot",
+    "strong": "H226"
+   },
+   "grego": {
+    "lema": "σημεῖον",
+    "translit": "sēmeîon",
+    "strong": "G4592"
+   },
+   "sentido": "sinal que aponta para algo",
+   "latim": {
+    "forma": "hoc fecit initium signorum Iesus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "João chama os milagres de 'sinais', pois revelam quem Jesus é. O livro foi escrito 'para que creiais' (20:31).",
+   "interpretacao": false
+  },
+  {
+   "id": "anothen",
+   "pt": "De novo (do alto)",
+   "refs": [
+    "3:3",
+    "3:7"
+   ],
+   "grego": {
+    "lema": "ἄνωθεν",
+    "translit": "ánōthen",
+    "strong": "G509"
+   },
+   "sentido": "de novo; de cima",
+   "latim": {
+    "forma": "nisi quis natus fuerit denuo",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Duplo sentido: nascer 'de novo' e nascer 'do alto'. Nicodemos entende o primeiro, Jesus aponta para o segundo.",
+   "interpretacao": true
+  },
+  {
+   "id": "pisteuo",
+   "pt": "Crer",
+   "refs": [
+    "3:16",
+    "20:31"
+   ],
+   "hebraico": {
+    "lema": "הֶאֱמִין",
+    "translit": "he'emin",
+    "strong": "H539"
+   },
+   "grego": {
+    "lema": "πιστεύω",
+    "translit": "pisteúō",
+    "strong": "G4100"
+   },
+   "sentido": "crer, confiar",
+   "latim": {
+    "forma": "ut omnis qui credit in eum non pereat",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "João usa sempre o verbo, nunca o substantivo 'fé': crer é algo que se faz, uma confiança ativa em Jesus.",
+   "interpretacao": false
+  },
+  {
+   "id": "zoe-aionios",
+   "pt": "Vida eterna",
+   "refs": [
+    "3:16",
+    "17:3"
+   ],
+   "grego": {
+    "lema": "ζωὴ αἰώνιος",
+    "translit": "zōḕ aiṓnios",
+    "strong": "G2222, G166"
+   },
+   "sentido": "vida da era futura",
+   "latim": {
+    "forma": "vitam aeternam",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Não é só vida sem fim, mas a vida de Deus que começa já agora: 'esta é a vida eterna, que te conheçam' (17:3).",
+   "interpretacao": false
+  },
+  {
+   "id": "ego-eimi",
+   "pt": "Eu sou",
+   "refs": [
+    "6:35",
+    "8:12",
+    "8:58",
+    "11:25"
+   ],
+   "hebraico": {
+    "lema": "אֲנִי הוּא",
+    "translit": "'ani hu'"
+   },
+   "grego": {
+    "lema": "ἐγώ εἰμι",
+    "translit": "egṓ eimi",
+    "strong": "G1473, G1510"
+   },
+   "sentido": "eu sou",
+   "latim": {
+    "forma": "ego sum panis vitae",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Jesus se apresenta com sete imagens ('Eu sou o pão, a luz, a porta...') e também com 'Eu sou' absoluto (8:58), que muitos ligam ao nome divino de Êxodo 3:14.",
+   "interpretacao": true
+  },
+  {
+   "id": "aletheia",
+   "pt": "Verdade",
+   "refs": [
+    "8:32",
+    "14:6",
+    "18:38"
+   ],
+   "hebraico": {
+    "lema": "אֱמֶת",
+    "translit": "'emet",
+    "strong": "H571"
+   },
+   "grego": {
+    "lema": "ἀλήθεια",
+    "translit": "alḗtheia",
+    "strong": "G225"
+   },
+   "sentido": "verdade, realidade",
+   "latim": {
+    "forma": "quid est veritas",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Para João, a verdade não é só ideia, mas uma pessoa: 'Eu sou o caminho, a verdade e a vida'. Pilatos pergunta 'que é a verdade?' diante dela.",
+   "interpretacao": false
+  },
+  {
+   "id": "parakletos",
+   "pt": "Consolador",
+   "refs": [
+    "14:16",
+    "14:26",
+    "16:7"
+   ],
+   "grego": {
+    "lema": "παράκλητος",
+    "translit": "paráklētos",
+    "strong": "G3875"
+   },
+   "sentido": "advogado, ajudador, chamado para junto",
+   "latim": {
+    "forma": "Paracletus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Título do Espírito Santo: o que é chamado para estar ao lado, como defensor e consolador. A Vulgata manteve a palavra grega.",
+   "interpretacao": false
+  },
+  {
+   "id": "meno",
+   "pt": "Permanecer",
+   "refs": [
+    "15:4",
+    "15:5",
+    "15:9"
+   ],
+   "grego": {
+    "lema": "μένω",
+    "translit": "ménō",
+    "strong": "G3306"
+   },
+   "sentido": "ficar, permanecer, habitar",
+   "latim": {
+    "forma": "manete in me et ego in vobis",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Palavra-chave do discurso da videira: permanecer em Cristo e no seu amor é a condição para dar fruto.",
+   "interpretacao": false
+  },
+  {
+   "id": "tetelestai",
+   "pt": "Está consumado",
+   "refs": [
+    "19:30"
+   ],
+   "grego": {
+    "lema": "τετέλεσται",
+    "translit": "tetélestai",
+    "strong": "G5055"
+   },
+   "sentido": "está terminado, cumprido, pago",
+   "latim": {
+    "forma": "consummatum est",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Última palavra de Jesus em João: a obra foi levada a termo. O verbo era usado também para dívidas quitadas.",
+   "interpretacao": false
+  },
+  {
+   "id": "agapao-phileo",
+   "pt": "Amar",
+   "refs": [
+    "21:15",
+    "21:16",
+    "21:17"
+   ],
+   "grego": {
+    "lema": "ἀγαπάω / φιλέω",
+    "translit": "agapáō / philéō",
+    "strong": "G25, G5368"
+   },
+   "sentido": "dois verbos gregos para amor",
+   "latim": {
+    "forma": "diligis me ... amas me",
+    "nota": "A Vulgata também alterna diligere e amare."
+   },
+   "outras": [],
+   "explicacao": "Jesus pergunta a Pedro duas vezes com agapaō e na terceira com phileō. Há quem veja diferença de sentido; outros acham que João apenas varia o estilo.",
+   "interpretacao": true
+  }
+ ],
+ "historia": [
+  {
+   "id": "p52",
+   "titulo": "O Papiro Rylands P52",
+   "refs": [
+    "18:31",
+    "18:37"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Papiro P52 (P. Rylands Gr. 457)",
+   "referencia": "Biblioteca John Rylands, Manchester",
+   "data_fonte": "geralmente datado da primeira metade do séc. II d.C.",
+   "data_evento": "adquirido no Egito em 1920; publicado em 1935",
+   "resumo": "Pequeno fragmento de papiro com partes de João 18:31-33 de um lado e 18:37-38 do outro.",
+   "relacao": "Está entre os manuscritos mais antigos do Novo Testamento. Mostra que o Evangelho de João já circulava no Egito pouco depois de escrito. A data exata do papiro é debatida.",
+   "grau": "associacao"
+  },
+  {
+   "id": "betesda",
+   "titulo": "O tanque de Betesda",
+   "refs": [
+    "5:2"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Tanques junto à igreja de Santa Ana, Jerusalém",
+   "referencia": "Escavações desde o séc. XIX, perto da antiga Porta das Ovelhas",
+   "data_fonte": "estruturas do período do Segundo Templo",
+   "data_evento": "séc. I d.C.",
+   "resumo": "Foram escavados dois grandes tanques separados por uma divisória, ao norte do templo, compatíveis com 'cinco pórticos' (quatro ao redor e um no meio).",
+   "relacao": "Antes considerado detalhe simbólico, o tanque de 5:2 tem correspondência arqueológica. A reconstrução exata dos pórticos é discutida.",
+   "grau": "documentado"
+  },
+  {
+   "id": "siloe",
+   "titulo": "O tanque de Siloé",
+   "refs": [
+    "9:7"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Tanque de Siloé (período do Segundo Templo)",
+   "referencia": "Cidade de Davi, Jerusalém; descoberto em 2004",
+   "data_fonte": "séc. I a.C.–I d.C.",
+   "data_evento": "descoberto em 2004",
+   "resumo": "Durante obras numa tubulação, foram achados degraus de pedra de um grande tanque do tempo de Jesus, no sul da Cidade de Davi.",
+   "relacao": "Confirma o local onde o cego de nascença se lavou (9:7). Os degraus indicam um tanque usado por peregrinos, talvez para purificação.",
+   "grau": "documentado"
+  },
+  {
+   "id": "caifas-jo",
+   "titulo": "O ossuário de Caifás",
+   "refs": [
+    "18:13",
+    "18:24"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Ossuário de Caifás",
+   "referencia": "Museu de Israel, Jerusalém; descoberto em 1990 num túmulo ao sul de Jerusalém",
+   "data_fonte": "séc. I d.C.",
+   "data_evento": "sumo sacerdócio de Caifás (c. 18–36 d.C.)",
+   "resumo": "Caixa de ossos ricamente decorada, com a inscrição aramaica 'José, filho de Caifás' (Yehosef bar Qayafa).",
+   "relacao": "João diz que Caifás era o sumo sacerdote daquele ano e genro de Anás (18:13). O ossuário provavelmente pertence à sua família; a identificação é amplamente aceita, mas não unânime.",
+   "grau": "documentado"
+  },
+  {
+   "id": "pilatos-jo",
+   "titulo": "A Pedra de Pilatos",
+   "refs": [
+    "18:29",
+    "19:13"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Pedra de Pilatos",
+   "referencia": "Museu de Israel, Jerusalém; encontrada no teatro de Cesareia Marítima em 1961",
+   "data_fonte": "c. 26–36 d.C.",
+   "data_evento": "governo de Pôncio Pilatos (26–36 d.C.)",
+   "resumo": "Bloco de calcário com inscrição latina que menciona '[Pon]tius Pilatus, [Praef]ectus Iuda[eae]' e um edifício dedicado a Tibério.",
+   "relacao": "Confirma Pilatos e seu título de prefeito da Judeia, protagonista do longo diálogo com Jesus em João 18–19.",
+   "grau": "documentado"
+  },
+  {
+   "id": "filon-pilatos",
+   "titulo": "Fílon e o caráter de Pilatos",
+   "refs": [
+    "19:12"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Fílon de Alexandria, Embaixada a Caio (Legatio ad Gaium)",
+   "referencia": "cap. 38 (§299–305)",
+   "data_fonte": "c. 40–41 d.C.",
+   "data_evento": "c. 26–36 d.C.",
+   "resumo": "Fílon conta que Pilatos instalou escudos dedicados a Tibério em Jerusalém e só os retirou depois que os judeus ameaçaram queixar-se ao imperador; descreve-o como inflexível e temeroso de uma denúncia.",
+   "relacao": "Ilustra a pressão de 19:12: 'Se soltas este, não és amigo de César'. Pilatos temia acusações junto a Tibério.",
+   "grau": "associacao"
+  },
+  {
+   "id": "tacito-jo",
+   "titulo": "Tácito: Cristo executado por Pilatos",
+   "refs": [
+    "19:16"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Tácito, Anais",
+   "referencia": "livro 15, cap. 44",
+   "data_fonte": "c. 116 d.C.",
+   "data_evento": "c. 30 d.C. (morte de Jesus); 64 d.C. (perseguição de Nero)",
+   "resumo": "Ao narrar o incêndio de Roma, Tácito explica que o nome 'cristãos' vinha de Cristo, que 'no reinado de Tibério foi executado pelo procurador Pôncio Pilatos'.",
+   "relacao": "Confirma de forma independente a execução de Jesus sob Pilatos.",
+   "grau": "documentado"
+  },
+  {
+   "id": "gerizim",
+   "titulo": "O templo samaritano no monte Gerizim",
+   "refs": [
+    "4:20"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 13, cap. 9, §1",
+   "data_fonte": "c. 93–94 d.C.",
+   "data_evento": "c. 112–110 a.C. (destruição); construção no período persa ou helenístico",
+   "resumo": "Josefo relata que João Hircano destruiu o templo samaritano do Gerizim. Escavações no monte revelaram um grande recinto sagrado desse período.",
+   "relacao": "Explica a frase da samaritana: 'Nossos pais adoraram neste monte' (4:20). No tempo de Jesus o templo estava em ruínas, mas o monte continuava sendo o lugar de culto samaritano.",
+   "grau": "documentado"
+  },
+  {
+   "id": "qumran-luz",
+   "titulo": "Filhos da luz e das trevas em Qumran",
+   "refs": [
+    "1:5",
+    "3:19",
+    "12:36"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Regra da Comunidade (1QS)",
+   "referencia": "1QS, colunas 3–4; Manuscritos do Mar Morto, Museu de Israel",
+   "data_fonte": "c. 100–75 a.C. (cópia)",
+   "data_evento": "séc. II–I a.C.",
+   "resumo": "O texto fala de dois espíritos, da luz e das trevas, e divide a humanidade em 'filhos da luz' e 'filhos das trevas'.",
+   "relacao": "Mostra que o contraste luz-trevas de João tinha raízes no judaísmo palestino, e não só no pensamento grego. Há semelhanças de linguagem, não dependência comprovada.",
+   "grau": "associacao"
+  },
+  {
+   "id": "yehohanan-jo",
+   "titulo": "O crucificado de Giv'at ha-Mivtar",
+   "refs": [
+    "19:18"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Ossário de Yehohanan, filho de Hagakol",
+   "referencia": "Museu de Israel; achado em Jerusalém em 1968",
+   "data_fonte": "séc. I d.C.",
+   "data_evento": "séc. I d.C.",
+   "resumo": "Um osso de calcanhar com um prego de ferro cravado, de um homem crucificado no século I e sepultado em túmulo de família.",
+   "relacao": "Mostra a prática romana da crucificação na Judeia e que um crucificado podia ser sepultado, como José de Arimateia e Nicodemos fizeram com Jesus (19:38-42).",
+   "grau": "associacao"
+  },
+  {
+   "id": "ireneu-joao",
+   "titulo": "Ireneu: João escreveu em Éfeso",
+   "refs": [
+    "21:24"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Ireneu de Lião, Contra as Heresias",
+   "referencia": "livro 3, cap. 1, §1",
+   "data_fonte": "c. 180 d.C.",
+   "data_evento": "fim do séc. I d.C.",
+   "resumo": "Ireneu afirma que João, o discípulo do Senhor que se reclinou sobre seu peito, publicou o Evangelho quando vivia em Éfeso.",
+   "relacao": "É o testemunho clássico sobre a autoria do quarto Evangelho. O livro mesmo atribui o testemunho ao 'discípulo amado' (21:24); sua identificação é debatida pelos estudiosos.",
+   "grau": "associacao"
+  }
+ ]
+}

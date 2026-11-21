@@ -1,0 +1,307 @@
+{
+ "livro": "1-tessalonicenses",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:9-10",
+   "titulo": "Deixando os ídolos",
+   "descricao": "Os tessalonicenses abandonam os ídolos para servir ao Deus vivo e verdadeiro e esperar dos céus o seu Filho.",
+   "alt": "Uma família retira pequenas estátuas de deuses do nicho doméstico.",
+   "prompt": "A Greek family in Thessalonica removing small clay and bronze idol statues from a household shrine niche, the father placing them in a basket, the mother and children watching with calm resolve, morning light through a doorway"
+  },
+  {
+   "id": "q02",
+   "capitulo": 2,
+   "ref": "2:9",
+   "titulo": "Trabalhando noite e dia",
+   "descricao": "Para não pesar a ninguém, Paulo e seus companheiros trabalhavam noite e dia enquanto pregavam o evangelho.",
+   "alt": "Paulo costura tecido de tenda à luz de lamparina enquanto conversa com visitantes.",
+   "prompt": "Night in a workshop in Thessalonica, the apostle Paul stitching heavy goat-hair tent cloth by oil lamp, Silas cutting leather beside him, two visitors seated listening as he speaks, tools hanging on the wall"
+  },
+  {
+   "id": "q03",
+   "capitulo": 3,
+   "ref": "3:6",
+   "titulo": "Timóteo traz boas notícias",
+   "descricao": "Depois de ficar sozinho em Atenas, Paulo recebe Timóteo, que volta com boas notícias da fé e do amor dos tessalonicenses.",
+   "alt": "Paulo abraça Timóteo, que chega de viagem com o rosto alegre.",
+   "prompt": "The apostle Paul embracing young Timothy who has just arrived from a journey, dusty cloak and staff, Timothy smiling as he brings good news, Silas joining them, a simple house with a view of a Greek city"
+  },
+  {
+   "id": "q04",
+   "capitulo": 4,
+   "ref": "4:16-17",
+   "titulo": "A vinda do Senhor",
+   "descricao": "Paulo consola os que choram seus mortos: o Senhor descerá do céu com voz de arcanjo e trombeta de Deus, os mortos em Cristo ressuscitarão e todos estarão para sempre com o Senhor.",
+   "alt": "Cristo glorioso aparece nas nuvens, com um anjo tocando trombeta, sobre pessoas que olham para o alto.",
+   "prompt": "The glorified Christ appearing in radiant clouds above a hillside cemetery outside an ancient Greek city, a dignified archangel sounding a long trumpet, believers of all ages lifting their faces in joy and wonder, dawn light breaking"
+  },
+  {
+   "id": "q05",
+   "capitulo": 5,
+   "ref": "5:27",
+   "titulo": "Leia-se a carta a todos",
+   "descricao": "Paulo ordena que a carta seja lida a todos os irmãos, e a igreja se reúne para ouvi-la.",
+   "alt": "Um ancião lê uma carta em voz alta para a igreja reunida.",
+   "prompt": "An elder standing in a house church in Thessalonica reading a letter aloud by lamplight, men, women, and slaves seated close together listening intently, some with tears of comfort"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "mae-pai",
+   "termo": "Mãe e pai",
+   "ref": "2:7-11",
+   "explicado": false,
+   "significado": "Paulo descreve seu cuidado como o de uma mãe carinhosa e de um pai que exorta. Em alguns manuscritos 2:7 diz \"crianças\" em vez de \"suaves\", uma diferença de uma letra no grego."
+  },
+  {
+   "id": "coroa",
+   "termo": "Coroa de orgulho",
+   "ref": "2:19",
+   "explicado": false,
+   "significado": "Os tessalonicenses são a alegria e a coroa de Paulo na vinda do Senhor, como a coroa de vitória de um atleta."
+  },
+  {
+   "id": "trombeta",
+   "termo": "Trombeta de Deus",
+   "ref": "4:16",
+   "explicado": false,
+   "significado": "A trombeta anunciava reuniões, festas e batalhas em Israel. Aqui marca a vinda do Senhor e a ressurreição. Os detalhes são lidos de forma diferente pelas tradições."
+  },
+  {
+   "id": "nuvens",
+   "termo": "Nuvens",
+   "ref": "4:17",
+   "explicado": false,
+   "significado": "Na Bíblia as nuvens acompanham a presença de Deus e lembram Daniel 7:13. Se a cena é literal ou descreve em linguagem simbólica o encontro final é debatido."
+  },
+  {
+   "id": "ladrao",
+   "termo": "Ladrão de noite",
+   "ref": "5:2",
+   "explicado": true,
+   "significado": "O dia do Senhor virá de surpresa, como ladrão. Paulo tira a lição: os crentes, filhos do dia, devem vigiar (5:4-6)."
+  },
+  {
+   "id": "dores-parto",
+   "termo": "Dores de parto",
+   "ref": "5:3",
+   "explicado": false,
+   "significado": "A destruição vem de repente e é inevitável, como o parto para a grávida."
+  },
+  {
+   "id": "dia-noite",
+   "termo": "Filhos do dia",
+   "ref": "5:5",
+   "explicado": true,
+   "significado": "Paulo explica: os crentes são do dia e da luz, por isso vivem sóbrios e vigilantes."
+  },
+  {
+   "id": "armadura",
+   "termo": "Couraça e capacete",
+   "ref": "5:8",
+   "explicado": true,
+   "significado": "A couraça é a fé e o amor; o capacete é a esperança da salvação. Imagem desenvolvida depois em Efésios 6."
+  },
+  {
+   "id": "fogo-espirito",
+   "termo": "Não apagar o Espírito",
+   "ref": "5:19",
+   "explicado": false,
+   "significado": "O Espírito é comparado a um fogo que pode ser apagado, talvez desprezando as profecias (5:20)."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "parousia",
+   "pt": "Vinda",
+   "refs": [
+    "2:19",
+    "4:15"
+   ],
+   "grego": {
+    "lema": "παρουσία",
+    "translit": "parousía",
+    "strong": "G3952"
+   },
+   "sentido": "presença, chegada",
+   "latim": {
+    "forma": "adventus",
+    "nota": "De adventus vem \"Advento\"."
+   },
+   "outras": [],
+   "explicacao": "No grego da época designava também a visita oficial de um imperador ou rei a uma cidade. Paulo a aplica à vinda de Jesus.",
+   "interpretacao": false
+  },
+  {
+   "id": "apantesis",
+   "pt": "Encontrar",
+   "refs": [
+    "4:17"
+   ],
+   "grego": {
+    "lema": "ἀπάντησις",
+    "translit": "apántēsis",
+    "strong": "G529"
+   },
+   "sentido": "ir ao encontro",
+   "latim": {
+    "forma": "obviam",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Usado para os cidadãos que saíam ao encontro de uma autoridade e a acompanhavam de volta à cidade. Alguns veem aí a ideia de receber o Senhor que vem à terra; outros leem de outro modo.",
+   "interpretacao": true
+  },
+  {
+   "id": "harpazo",
+   "pt": "Arrebatar",
+   "refs": [
+    "4:17"
+   ],
+   "grego": {
+    "lema": "ἁρπάζω",
+    "translit": "harpázō",
+    "strong": "G726"
+   },
+   "sentido": "agarrar, levar com força e rapidez",
+   "latim": {
+    "forma": "rapiemur",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Da Vulgata \"rapiemur\" vem o termo \"arrebatamento\" (rapture). Quando e como isso acontece é lido de maneiras muito diferentes pelas igrejas.",
+   "interpretacao": true
+  },
+  {
+   "id": "elpis",
+   "pt": "Esperança",
+   "refs": [
+    "1:3",
+    "4:13"
+   ],
+   "grego": {
+    "lema": "ἐλπίς",
+    "translit": "elpís",
+    "strong": "G1680"
+   },
+   "sentido": "esperança, expectativa confiante",
+   "latim": {
+    "forma": "spes",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A carta é marcada pela tríade fé, amor e esperança (1:3; 5:8). Os cristãos não se entristecem \"como os outros que não têm esperança\".",
+   "interpretacao": false
+  },
+  {
+   "id": "koimao",
+   "pt": "Dormir (morrer)",
+   "refs": [
+    "4:13-15"
+   ],
+   "grego": {
+    "lema": "κοιμάω",
+    "translit": "koimáō",
+    "strong": "G2837"
+   },
+   "sentido": "dormir; dito dos mortos",
+   "latim": {
+    "forma": "dormientes",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Imagem suave da morte como sono, com despertar esperado. Dela vem \"cemitério\" (koimētērion, dormitório).",
+   "interpretacao": false
+  },
+  {
+   "id": "hagiasmos",
+   "pt": "Santificação",
+   "refs": [
+    "4:3",
+    "4:7"
+   ],
+   "grego": {
+    "lema": "ἁγιασμός",
+    "translit": "hagiasmós",
+    "strong": "G38"
+   },
+   "sentido": "santificação, vida separada para Deus",
+   "latim": {
+    "forma": "sanctificatio",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A vontade de Deus é a santificação, aplicada aqui à pureza sexual e à honestidade.",
+   "interpretacao": false
+  },
+  {
+   "id": "adialeiptos",
+   "pt": "Sem cessar",
+   "refs": [
+    "5:17"
+   ],
+   "grego": {
+    "lema": "ἀδιαλείπτως",
+    "translit": "adialeíptōs",
+    "strong": "G89"
+   },
+   "sentido": "sem interrupção",
+   "latim": {
+    "forma": "sine intermissione",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Usado também para uma tosse persistente: oração constante como atitude de vida.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "politarcas",
+   "titulo": "Os politarcas de Tessalônica",
+   "refs": [
+    "2:14"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Inscrição do arco de Vardar e outras inscrições com o título \"politarcas\"",
+   "referencia": "Museu Britânico (inscrição do arco de Vardar) e Museu Arqueológico de Tessalônica",
+   "data_fonte": "séc. I a.C.–II d.C.",
+   "data_evento": "séc. I d.C.",
+   "resumo": "Inscrições da cidade usam o título politarchēs para seus magistrados.",
+   "relacao": "Confirma o título das autoridades diante das quais os cristãos foram acusados (At 17:6-8), as mesmas perseguições lembradas em 1Ts 2:14.",
+   "grau": "associacao"
+  },
+  {
+   "id": "pax-securitas",
+   "titulo": "\"Paz e segurança\" na propaganda romana",
+   "refs": [
+    "5:3"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Moedas e inscrições romanas com os lemas Pax e Securitas",
+   "referencia": "Coleções numismáticas diversas",
+   "data_fonte": "séc. I d.C.",
+   "data_evento": "Período de Augusto a Nero",
+   "resumo": "A paz e a segurança garantidas pelo império eram temas comuns em moedas e monumentos romanos.",
+   "relacao": "Muitos estudiosos sugerem que \"quando disserem: paz e segurança\" (5:3) ecoa essa propaganda; outros veem só uma expressão comum, ligada aos profetas (Jr 6:14).",
+   "grau": "associacao"
+  },
+  {
+   "id": "tessalonica-capital",
+   "titulo": "Tessalônica, capital da Macedônia",
+   "refs": [
+    "1:7-8"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Estrabão, Geografia",
+   "referencia": "livro 7, fragmentos finais (sobre a Macedônia)",
+   "data_fonte": "c. 7-23 d.C.",
+   "data_evento": "séc. I a.C.–I d.C.",
+   "resumo": "Estrabão descreve Tessalônica como a cidade mais populosa da Macedônia no seu tempo, situada na Via Egnácia.",
+   "relacao": "Explica como a fé dos tessalonicenses se espalhou \"na Macedônia e na Acaia\" (1:7-8): era um centro de estradas e comércio.",
+   "grau": "associacao"
+  }
+ ]
+}

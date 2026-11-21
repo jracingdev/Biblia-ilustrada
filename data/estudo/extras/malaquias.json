@@ -1,0 +1,341 @@
+{
+ "livro": "malaquias",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:6-8",
+   "titulo": "Ofertas defeituosas no altar",
+   "descricao": "Sacerdotes aceitam no altar animais cegos e mancos trazidos pelo povo, enquanto o profeta os confronta.",
+   "alt": "Sacerdotes recebem um cordeiro manco no altar do templo, observados pelo profeta.",
+   "prompt": "Priests of the second temple in Jerusalem receiving a lame and blind lamb at the altar from a worshipper, a bored priest yawning, the prophet Malachi confronting them with a firm gesture, smoke from the altar, muted light, Persian period setting"
+  },
+  {
+   "id": "q02",
+   "capitulo": 2,
+   "ref": "2:13-16",
+   "titulo": "Lágrimas sobre o altar",
+   "descricao": "Mulheres abandonadas choram junto ao altar, e o profeta lembra aos maridos a aliança feita com a mulher da sua mocidade.",
+   "alt": "Mulheres em luto choram junto ao altar enquanto homens se afastam.",
+   "prompt": "Women weeping beside the stone altar of the temple courtyard, covering their faces, abandoned by their husbands who turn away, the prophet speaking to the men, tears on the altar stones, soft somber light"
+  },
+  {
+   "id": "q03",
+   "capitulo": 3,
+   "ref": "3:2-3",
+   "titulo": "O fogo do ourives",
+   "descricao": "Um ourives aquece prata no cadinho e retira as impurezas, figura daquele que vem purificar os filhos de Levi.",
+   "alt": "Um ourives antigo refina prata num cadinho incandescente.",
+   "prompt": "An ancient refiner sitting by a glowing furnace, holding a crucible of molten silver, skimming off the dross, his face reflected in the shining metal, a levite priest in the background, warm firelight chiaroscuro"
+  },
+  {
+   "id": "q04",
+   "capitulo": 3,
+   "ref": "3:16",
+   "titulo": "O livro de memória",
+   "descricao": "Os que temem ao SENHOR conversam entre si, e um escriba celestial registra seus nomes num livro de memória.",
+   "alt": "Pessoas reunidas conversam com reverência enquanto um livro aberto aparece em meio à luz.",
+   "prompt": "A small group of faithful men and women of post-exilic Jerusalem speaking together reverently in a courtyard at evening, above them in a soft heavenly light an open scroll of remembrance being written, quiet devotional mood"
+  },
+  {
+   "id": "q05",
+   "capitulo": 4,
+   "ref": "4:2",
+   "titulo": "O sol da justiça",
+   "descricao": "O sol nasce sobre os campos e bezerros saltam soltos do curral, imagem da cura e da alegria prometidas aos que temem o nome de Deus.",
+   "alt": "O sol nasce sobre campos e bezerros saltam alegres fora do curral.",
+   "prompt": "A glorious sunrise over the fields of Judah with rays spreading like wings, young calves leaping joyfully out of an opened stall, people stepping out into the light with healed and lifted faces, fresh morning colors"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "esau-jaco",
+   "termo": "Amei Jacó, odiei Esaú",
+   "ref": "1:2-3",
+   "explicado": false,
+   "significado": "Linguagem de escolha da aliança: Deus escolheu Israel. Paulo cita o texto em Romanos 9:13. Muitos explicam 'odiar' como 'não escolher', segundo o uso hebraico."
+  },
+  {
+   "id": "animais-defeituosos",
+   "termo": "Animais cegos e mancos",
+   "ref": "1:8",
+   "explicado": true,
+   "significado": "O texto mostra a ofensa: ninguém ofereceria isso ao governador. Revela desprezo por Deus."
+  },
+  {
+   "id": "portas-fechadas",
+   "termo": "Fechar as portas do templo",
+   "ref": "1:10",
+   "explicado": false,
+   "significado": "Deus prefere que alguém feche as portas a continuar com um culto vazio."
+  },
+  {
+   "id": "incenso-nacoes",
+   "termo": "Incenso em todo lugar",
+   "ref": "1:11",
+   "explicado": false,
+   "significado": "Desde o nascer até o pôr do sol o nome de Deus será grande entre as nações. Muitos cristãos antigos leram aqui o culto da Igreja entre os gentios."
+  },
+  {
+   "id": "mensageiro",
+   "termo": "O mensageiro que prepara o caminho",
+   "ref": "3:1",
+   "explicado": false,
+   "significado": "Deus enviará seu mensageiro antes de vir ao templo. Os Evangelhos aplicam a João Batista (Mc 1:2; Mt 11:10)."
+  },
+  {
+   "id": "ourives-lavandeiro",
+   "termo": "O fogo do ourives e o sabão do lavandeiro",
+   "ref": "3:2",
+   "explicado": false,
+   "significado": "Duas imagens de purificação: o metal no fogo e a roupa lavada. O texto diz que ele purificará os filhos de Levi (3:3)."
+  },
+  {
+   "id": "janelas-ceu",
+   "termo": "As janelas do céu",
+   "ref": "3:10",
+   "explicado": false,
+   "significado": "Imagem de chuva e bênção abundante, ligada ao convite a trazer os dízimos à casa do tesouro."
+  },
+  {
+   "id": "livro-memoria",
+   "termo": "O livro de memória",
+   "ref": "3:16",
+   "explicado": true,
+   "significado": "O texto diz que nele estão escritos os que temem ao SENHOR e pensam no seu nome."
+  },
+  {
+   "id": "sol-justica",
+   "termo": "O sol da justiça com cura nas asas",
+   "ref": "4:2",
+   "explicado": false,
+   "significado": "Imagem de um sol cujos raios trazem cura. Muitos cristãos a aplicaram a Cristo, e hinos de Natal retomam a imagem."
+  },
+  {
+   "id": "elias",
+   "termo": "O profeta Elias",
+   "ref": "4:5",
+   "explicado": false,
+   "significado": "Deus enviará Elias antes do grande Dia. Jesus identifica essa figura com João Batista (Mt 11:14; 17:12-13)."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "ahav",
+   "pt": "Eu vos amei",
+   "refs": [
+    "1:2"
+   ],
+   "hebraico": {
+    "lema": "אָהַב",
+    "translit": "ahav",
+    "strong": "H157"
+   },
+   "grego": {
+    "lema": "ἀγαπάω",
+    "translit": "agapáō",
+    "strong": "G25"
+   },
+   "sentido": "amar",
+   "latim": {
+    "forma": "dilexi vos dicit Dominus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O livro começa com uma declaração de amor e uma pergunta do povo: 'Em que nos amaste?'. O diálogo de perguntas é o estilo de Malaquias.",
+   "interpretacao": false
+  },
+  {
+   "id": "malakhi",
+   "pt": "Meu mensageiro",
+   "refs": [
+    "1:1",
+    "3:1"
+   ],
+   "hebraico": {
+    "lema": "מַלְאָכִי",
+    "translit": "mal'akhi",
+    "strong": "H4397"
+   },
+   "grego": {
+    "lema": "ἄγγελός μου",
+    "translit": "ángelós mou"
+   },
+   "sentido": "meu mensageiro, meu anjo",
+   "latim": {
+    "forma": "ecce ego mitto angelum meum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O nome do livro e a promessa de 3:1 usam a mesma palavra. Por isso há quem pense que Malaquias seja um título, não um nome pessoal.",
+   "interpretacao": true
+  },
+  {
+   "id": "berit",
+   "pt": "Aliança",
+   "refs": [
+    "2:4",
+    "2:10",
+    "2:14",
+    "3:1"
+   ],
+   "hebraico": {
+    "lema": "בְּרִית",
+    "translit": "berit",
+    "strong": "H1285"
+   },
+   "grego": {
+    "lema": "διαθήκη",
+    "translit": "diathḗkē",
+    "strong": "G1242"
+   },
+   "sentido": "pacto, compromisso solene",
+   "latim": {
+    "forma": "pactum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Malaquias fala da aliança com Levi, da aliança dos pais, da aliança do casamento e do 'anjo da aliança'.",
+   "interpretacao": false
+  },
+  {
+   "id": "sane-shalach",
+   "pt": "Odeio o repúdio",
+   "refs": [
+    "2:16"
+   ],
+   "hebraico": {
+    "lema": "שָׂנֵא שַׁלַּח",
+    "translit": "sane' shallach",
+    "strong": "H8130, H7971"
+   },
+   "sentido": "odiar o divórcio (ou: quem repudia)",
+   "latim": {
+    "forma": "cum odio habueris dimitte",
+    "nota": "A Vulgata traz uma leitura diferente: 'se a odiares, despede-a'."
+   },
+   "outras": [],
+   "explicacao": "Verso difícil no hebraico: a leitura tradicional é 'Deus odeia o divórcio'; outros traduzem 'quem repudia por ódio cobre de violência sua veste'. Em qualquer caso, o texto condena a quebra da aliança conjugal.",
+   "interpretacao": true
+  },
+  {
+   "id": "maaser",
+   "pt": "Dízimo",
+   "refs": [
+    "3:8",
+    "3:10"
+   ],
+   "hebraico": {
+    "lema": "מַעֲשֵׂר",
+    "translit": "ma'aser",
+    "strong": "H4643"
+   },
+   "grego": {
+    "lema": "ἐπιδέκατον",
+    "translit": "epidékaton"
+   },
+   "sentido": "a décima parte",
+   "latim": {
+    "forma": "decimas",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O povo 'roubava' a Deus ao reter dízimos e ofertas, que sustentavam o templo e os levitas.",
+   "interpretacao": false
+  },
+  {
+   "id": "tsaraf",
+   "pt": "Refinador",
+   "refs": [
+    "3:2",
+    "3:3"
+   ],
+   "hebraico": {
+    "lema": "צָרַף",
+    "translit": "tsaraf",
+    "strong": "H6884"
+   },
+   "sentido": "fundir, refinar metais",
+   "latim": {
+    "forma": "conflans et emundans argentum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O Senhor que vem não destrói o metal, mas tira dele a escória.",
+   "interpretacao": false
+  },
+  {
+   "id": "shemesh-tsedaqah",
+   "pt": "Sol da justiça",
+   "refs": [
+    "4:2"
+   ],
+   "hebraico": {
+    "lema": "שֶׁמֶשׁ צְדָקָה",
+    "translit": "shemesh tsedaqah",
+    "strong": "H8121, H6666"
+   },
+   "grego": {
+    "lema": "ἥλιος δικαιοσύνης",
+    "translit": "hḗlios dikaiosýnēs"
+   },
+   "sentido": "sol de retidão",
+   "latim": {
+    "forma": "orietur vobis timentibus nomen meum sol iustitiae",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Imagem poética de Deus vindo como luz que salva os fiéis e queima os soberbos (4:1).",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "elefantina-governador",
+   "titulo": "O governador persa de Judá",
+   "refs": [
+    "1:8"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Papiros de Elefantina (petição a Bagohi)",
+   "referencia": "Coleções de Berlim e do Brooklyn Museum",
+   "data_fonte": "c. 407 a.C.",
+   "data_evento": "fim do séc. V a.C.",
+   "resumo": "Judeus da colônia de Elefantina, no Egito, escrevem a Bagohi, 'governador de Judá', pedindo ajuda para reconstruir seu templo.",
+   "relacao": "Mostra que, na época persa, Judá tinha um governador (pechah), o mesmo título de Malaquias 1:8, e revela a vida religiosa judaica do período.",
+   "grau": "associacao"
+  },
+  {
+   "id": "diodoro-nabateus",
+   "titulo": "Os nabateus na antiga terra de Edom",
+   "refs": [
+    "1:3",
+    "1:4"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Diodoro Sículo, Biblioteca Histórica",
+   "referencia": "livro 19, cap. 94",
+   "data_fonte": "c. 60–30 a.C.",
+   "data_evento": "312 a.C.",
+   "resumo": "Diodoro descreve os nabateus, árabes nômades que habitavam a região de Petra, ao sul do mar Morto.",
+   "relacao": "No período persa e helenístico os nabateus ocuparam o antigo território de Edom, e os edomitas se deslocaram para o sul de Judá. Muitos leem 1:3-4 nesse processo; a cronologia exata é discutida.",
+   "grau": "associacao"
+  },
+  {
+   "id": "selos-yehud",
+   "titulo": "Impressões de selo 'Yehud'",
+   "refs": [
+    "1:1",
+    "1:8"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Impressões de selo e moedas com a inscrição 'Yehud'",
+   "referencia": "Diversas escavações em Judá (Ramat Rahel, Jerusalém e outras)",
+   "data_fonte": "séc. V–IV a.C.",
+   "data_evento": "período persa",
+   "resumo": "Asas de jarros e pequenas moedas trazem o nome aramaico da província, 'Yehud', algumas com nomes de governadores.",
+   "relacao": "Ilustram a pequena província persa em que viveu a comunidade de Malaquias, com impostos e administração própria.",
+   "grau": "associacao"
+  }
+ ]
+}

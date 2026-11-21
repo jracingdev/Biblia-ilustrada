@@ -1,0 +1,201 @@
+{
+ "livro": "1-pedro",
+ "nome": "1 Pedro",
+ "subtitulo": "Esperança viva para estrangeiros que sofrem",
+ "introducao": "Pedro escreve a cristãos espalhados pela Ásia Menor que enfrentavam desprezo e sofrimento por causa da fé. Ele lembra a esperança viva que eles têm em Cristo e sua nova identidade como povo de Deus. A carta ensina a viver com santidade, a fazer o bem e a suportar o sofrimento seguindo o exemplo de Jesus.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "O apóstolo Pedro, com a ajuda de Silvano (1:1, 5:12); alguns estudiosos debatem a autoria"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Tradicionalmente por volta de 62–64 d.C., antes da morte de Pedro"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Escrita na \"Babilônia\" (5:13), que muitos entendem como uma referência a Roma"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "Cristãos espalhados em Ponto, Galácia, Capadócia, Ásia e Bitínia (1:1)"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Carta"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "5 capítulos e 105 versículos"
+  }
+ ],
+ "chave": "1:3",
+ "temas": [
+  "Esperança viva pela ressurreição",
+  "Santidade como povo de Deus",
+  "Bom testemunho diante dos de fora",
+  "Sofrer seguindo o exemplo de Cristo",
+  "Humildade e confiança em Deus"
+ ],
+ "cristo": "Pedro mostra Cristo como o cordeiro sem defeito cujo sangue nos resgatou, aquele que levou nossos pecados no madeiro e morreu, o justo pelos injustos, para nos levar a Deus (1:19, 2:24, 3:18). Seu sofrimento é também o exemplo para os cristãos que sofrem (2:21).",
+ "secoes": [
+  {
+   "id": "identidade",
+   "titulo": "Uma nova identidade",
+   "capitulos": [
+    1,
+    2
+   ],
+   "resumo": "Esperança viva, santidade e o povo de Deus."
+  },
+  {
+   "id": "conduta",
+   "titulo": "Conduta no mundo",
+   "capitulos": [
+    3
+   ],
+   "resumo": "Relações, bom testemunho e prontidão para responder."
+  },
+  {
+   "id": "sofrimento",
+   "titulo": "Sofrimento e esperança",
+   "capitulos": [
+    4,
+    5
+   ],
+   "resumo": "Sofrer como cristão, servir com os dons e permanecer firme."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Uma esperança viva",
+   "chave": "1:3",
+   "resumo": "Pedro escreve aos cristãos espalhados como estrangeiros pela Ásia Menor e bendiz a Deus, que pela ressurreição de Jesus os fez nascer de novo para uma esperança viva e uma herança guardada nos céus. As provações servem para provar a fé, mais preciosa que o ouro. Por isso devem viver em santidade, lembrando que foram resgatados pelo precioso sangue de Cristo, e amar-se intensamente, pois nasceram da palavra de Deus que permanece para sempre.",
+   "licoes": [
+    "Pela ressurreição de Jesus, temos uma esperança viva e uma herança que não se perde (1:3-4).",
+    "A fé provada nas dificuldades é mais preciosa que o ouro (1:6-7).",
+    "Deus nos chama a ser santos em todo o comportamento, porque ele é santo (1:15-16).",
+    "Fomos resgatados não com prata ou ouro, mas com o precioso sangue de Cristo (1:18-19)."
+   ],
+   "reflexao": "Em que provação você precisa lembrar que sua esperança é viva e segura?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Pedro, com o que fomos resgatados?",
+     "opcoes": [
+      "Com prata e ouro",
+      "Com o precioso sangue de Cristo",
+      "Com sacrifícios de animais",
+      "Com boas obras"
+     ],
+     "correta": 1,
+     "ref": "1:18-19"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Pedras vivas e povo de Deus",
+   "chave": "2:9",
+   "resumo": "Pedro exorta os cristãos a deixarem a malícia e desejarem a palavra como bebês desejam leite. Unidos a Cristo, a pedra viva rejeitada pelos homens e preciosa para Deus, eles são pedras vivas de uma casa espiritual, sacerdócio real e povo de Deus. Como estrangeiros, devem viver de forma honesta entre os pagãos, respeitar as autoridades e, se sofrerem injustamente, seguir o exemplo de Cristo, que levou nossos pecados no madeiro.",
+   "licoes": [
+    "Devemos desejar a palavra de Deus para crescer na fé (2:2).",
+    "Os cristãos são sacerdócio real e povo de Deus, chamados das trevas para a luz (2:9-10).",
+    "O bom comportamento dos cristãos pode levar outros a glorificar a Deus (2:12).",
+    "Cristo sofreu sem revidar e levou nossos pecados para que vivamos para a justiça (2:21-24)."
+   ],
+   "reflexao": "Como você pode anunciar com sua vida as virtudes de quem o chamou para a luz?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Pedro, pelas feridas de quem fomos sarados?",
+     "opcoes": [
+      "De Moisés",
+      "Dos profetas",
+      "De Cristo",
+      "Dos mártires"
+     ],
+     "correta": 2,
+     "ref": "2:24"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Prontos para responder",
+   "chave": "3:15",
+   "resumo": "Pedro orienta esposas a conquistar os maridos descrentes pelo bom comportamento e por uma beleza interior, e maridos a tratar as esposas com compreensão e honra, como coerdeiras da graça. Todos devem viver em harmonia, sem retribuir mal com mal. Quem sofre por fazer o bem é feliz e deve estar pronto para explicar a razão da sua esperança com mansidão e respeito; Cristo também sofreu, o justo pelos injustos, para nos levar a Deus. A passagem sobre a pregação aos \"espíritos em prisão\" (3:19) é entendida de várias formas.",
+   "licoes": [
+    "A beleza que Deus valoriza é a interior, de um espírito manso e tranquilo (3:3-4).",
+    "Não devemos retribuir insulto com insulto, mas abençoar (3:9).",
+    "Devemos estar sempre prontos para explicar nossa esperança com mansidão e respeito (3:15).",
+    "Cristo morreu uma vez pelos pecados, o justo pelos injustos, para nos levar a Deus (3:18)."
+   ],
+   "reflexao": "Se alguém lhe perguntasse hoje a razão da sua esperança, o que você diria?",
+   "quiz": [
+    {
+     "pergunta": "Quantas pessoas foram salvas na arca, segundo Pedro?",
+     "opcoes": [
+      "Seis",
+      "Sete",
+      "Oito",
+      "Doze"
+     ],
+     "correta": 2,
+     "ref": "3:20"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Sofrer como cristão",
+   "chave": "4:8",
+   "resumo": "Como Cristo sofreu, os cristãos devem estar dispostos a sofrer e a viver segundo a vontade de Deus, mesmo que os antigos companheiros estranhem e os critiquem. O fim de todas as coisas está próximo, por isso devem orar, amar intensamente, praticar a hospitalidade e servir com os dons recebidos. Não devem estranhar o \"fogo\" das provações; se sofrem como cristãos, não devem se envergonhar, mas glorificar a Deus e entregar-se ao fiel Criador.",
+   "licoes": [
+    "O amor intenso cobre uma multidão de pecados (4:8).",
+    "Cada um deve servir com o dom que recebeu, como bom administrador da graça de Deus (4:10-11).",
+    "Sofrer por ser cristão não é motivo de vergonha, mas de glorificar a Deus (4:14, 4:16).",
+    "Quem sofre segundo a vontade de Deus deve se entregar ao fiel Criador e continuar fazendo o bem (4:19)."
+   ],
+   "reflexao": "Que dom você recebeu de Deus e pode usar para servir alguém esta semana?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Pedro, o que o amor cobre?",
+     "opcoes": [
+      "Uma multidão de pecados",
+      "A vergonha do passado",
+      "As falhas dos líderes",
+      "Todas as dívidas"
+     ],
+     "correta": 0,
+     "ref": "4:8"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "Pastores, humildade e vigilância",
+   "chave": "5:7",
+   "resumo": "Pedro, ancião e testemunha dos sofrimentos de Cristo, exorta os anciãos a pastorearem o rebanho de boa vontade, sem ganância e sem autoritarismo, sendo exemplo. Os jovens devem respeitar os mais velhos, e todos devem se revestir de humildade e lançar sobre Deus toda ansiedade. Devem vigiar contra o diabo, que anda como leão rugindo, e resistir firmes na fé, confiando no Deus de toda graça.",
+   "licoes": [
+    "Liderar o povo de Deus é servir de boa vontade e ser exemplo, não dominar (5:2-3).",
+    "Deus resiste aos soberbos e dá graça aos humildes (5:5-6).",
+    "Podemos lançar sobre Deus toda ansiedade, porque ele cuida de nós (5:7).",
+    "O diabo é um adversário real, mas podemos resistir firmes na fé (5:8-9)."
+   ],
+   "reflexao": "Que ansiedade você precisa lançar sobre Deus hoje?",
+   "quiz": [
+    {
+     "pergunta": "Com que animal Pedro compara o diabo?",
+     "opcoes": [
+      "Um lobo",
+      "Um leão que ruge",
+      "Um dragão",
+      "Uma serpente"
+     ],
+     "correta": 1,
+     "ref": "5:8"
+    }
+   ]
+  }
+ ]
+}

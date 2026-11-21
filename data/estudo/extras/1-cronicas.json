@@ -1,0 +1,603 @@
+{
+ "livro": "1-cronicas",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 4,
+   "ref": "4:9-10",
+   "titulo": "A oração de Jabez",
+   "descricao": "No meio das genealogias, o texto para para contar que Jabez invocou o Deus de Israel pedindo bênção e proteção, e Deus atendeu.",
+   "alt": "Um homem de túnica simples ora de mãos erguidas num campo ao amanhecer.",
+   "prompt": "A humble Judean man in a simple tunic and mantle kneeling in an open field of southern Judah at dawn, hands raised toward the sky in earnest prayer, boundary stones of his land around him, soft golden light breaking through clouds, no figure of God"
+  },
+  {
+   "id": "q02",
+   "capitulo": 9,
+   "ref": "9:1",
+   "titulo": "Os registros das genealogias",
+   "descricao": "Todo Israel foi contado por genealogias e registrado por escrito: os nomes guardam a memória do povo que voltou do exílio.",
+   "alt": "Um escriba idoso escreve nomes em longos rolos à luz de uma lamparina, cercado de outros rolos.",
+   "prompt": "An elderly Levite scribe seated at a low wooden table writing lists of names in Hebrew script on a long parchment scroll by oil lamplight, shelves and jars filled with rolled scrolls around him, quiet study room in post-exilic Jerusalem"
+  },
+  {
+   "id": "q03",
+   "capitulo": 11,
+   "ref": "11:1-3",
+   "titulo": "Davi ungido rei sobre todo Israel",
+   "descricao": "Em Hebrom, todas as tribos vão a Davi dizendo \"somos teu osso e tua carne\"; os anciãos fazem aliança com ele e o ungem rei.",
+   "alt": "Anciãos de várias tribos se reúnem ao redor de Davi enquanto ele é ungido com azeite.",
+   "prompt": "The ancient town of Hebron, David as a mature warrior-king kneeling while elders of all the tribes of Israel gather around him, a priest pouring oil from a horn onto his head, crowds with tribal banners, warm afternoon light, solemn joy"
+  },
+  {
+   "id": "q04",
+   "capitulo": 11,
+   "ref": "11:17-19",
+   "titulo": "A água do poço de Belém",
+   "descricao": "Três valentes atravessam o acampamento filisteu para trazer a Davi água do poço de Belém; ele não bebe e a derrama ao SENHOR, honrando o risco que correram.",
+   "alt": "Um rei derrama água de um jarro no chão diante de três guerreiros cansados.",
+   "prompt": "Rocky stronghold in the Judean hills, David pouring water from a clay jar onto the ground as an offering, three weary armored warriors standing before him with dusty faces, a Philistine camp visible in the valley far below toward Bethlehem, evening light"
+  },
+  {
+   "id": "q05",
+   "capitulo": 13,
+   "ref": "13:7-9",
+   "titulo": "A arca no carro novo",
+   "descricao": "A arca é levada num carro de bois com grande festa; na eira de Quidom os bois tropeçam e Uzá estende a mão para segurá-la.",
+   "alt": "Uma procissão festiva acompanha a arca num carro de bois, que tropeçam numa eira.",
+   "prompt": "A festive procession with harps, cymbals and trumpets accompanying the golden ark of the covenant on a new wooden ox cart, the oxen stumbling at a threshing floor, a man reaching out his hand toward the ark, musicians suddenly frozen in alarm, dusty road, midday light"
+  },
+  {
+   "id": "q06",
+   "capitulo": 15,
+   "ref": "15:25-28",
+   "titulo": "A arca sobe a Jerusalém",
+   "descricao": "Desta vez os levitas carregam a arca como manda a lei; Davi, com roupão e éfode de linho, segue com cantores, trombetas, címbalos e harpas.",
+   "alt": "Levitas carregam a arca sobre varas enquanto um rei vestido de linho dança com músicos.",
+   "prompt": "Joyful procession ascending to Jerusalem, Levites in white linen carrying the golden ark of the covenant on poles on their shoulders, King David in a fine linen robe and linen ephod dancing before it, singers, harps, lyres, cymbals and ram's horns, crowds rejoicing, bright sunlight"
+  },
+  {
+   "id": "q07",
+   "capitulo": 16,
+   "ref": "16:4-8",
+   "titulo": "O canto de Asafe diante da arca",
+   "descricao": "Davi organiza levitas para louvar continuamente diante da arca, com Asafe nos címbalos, e entrega o primeiro salmo de gratidão: \"Louvai ao SENHOR\".",
+   "alt": "Levitas tocam harpas e címbalos diante de uma tenda onde está a arca.",
+   "prompt": "Before a tent sanctuary in Jerusalem housing the ark of the covenant, a choir of Levites in white robes singing, Asaph striking bronze cymbals, others playing harps and lyres, two priests blowing silver trumpets, worshippers listening, warm evening light"
+  },
+  {
+   "id": "q08",
+   "capitulo": 17,
+   "ref": "17:16",
+   "titulo": "Davi diante do SENHOR",
+   "descricao": "Depois da promessa de que Deus lhe edificaria uma casa, Davi entra, senta-se diante do SENHOR e pergunta: \"Quem sou eu?\"",
+   "alt": "Um rei sentado humildemente diante de uma tenda santa, de cabeça inclinada em oração.",
+   "prompt": "King David seated humbly on the ground before the curtained tent of the ark, his crown set aside, head bowed and hands open in grateful prayer, soft light glowing from the tent entrance, quiet night, no figure of God"
+  },
+  {
+   "id": "q09",
+   "capitulo": 21,
+   "ref": "21:15-16",
+   "titulo": "O anjo sobre Jerusalém",
+   "descricao": "Davi vê o anjo do SENHOR entre o céu e a terra, com a espada estendida sobre Jerusalém, e se prostra com os anciãos vestidos de saco.",
+   "alt": "Um anjo majestoso paira sobre a cidade com uma espada erguida, e homens de saco se prostram no chão.",
+   "prompt": "A majestic dignified angel standing between heaven and earth above Jerusalem holding a drawn sword stretched over the city, King David and elders in sackcloth bowing with faces to the ground on a threshing floor below, somber stormy sky, no blood"
+  },
+  {
+   "id": "q10",
+   "capitulo": 21,
+   "ref": "21:26",
+   "titulo": "Fogo do céu na eira de Ornã",
+   "descricao": "Davi compra a eira de Ornã, constrói um altar e oferece sacrifícios; o SENHOR responde com fogo do céu sobre o altar.",
+   "alt": "Fogo desce do céu sobre um altar de pedras numa eira no alto de um monte.",
+   "prompt": "A threshing floor on a hilltop north of Jerusalem, a newly built stone altar with burnt offerings, fire descending from the sky onto the altar, King David with hands raised, Ornan the Jebusite and his sons watching in awe beside threshing sledges and oxen, dramatic light"
+  },
+  {
+   "id": "q11",
+   "capitulo": 22,
+   "ref": "22:2-5",
+   "titulo": "Davi prepara o material do templo",
+   "descricao": "Davi junta pedreiros, ferro, bronze e cedro em abundância, porque a casa do SENHOR devia ser magnífica e Salomão ainda era jovem.",
+   "alt": "Um rei idoso observa pedreiros lavrando pedras e pilhas de cedro e metal.",
+   "prompt": "An aging King David overseeing preparations, stonecutters shaping large limestone blocks, stacks of cedar logs brought from Tyre and Sidon, piles of bronze and iron, foreign craftsmen at work, the young Solomon at his side, warm late afternoon light"
+  },
+  {
+   "id": "q12",
+   "capitulo": 25,
+   "ref": "25:1-7",
+   "titulo": "Os músicos do templo",
+   "descricao": "Os filhos de Asafe, Hemã e Jedutum são separados para \"profetizar\" com harpas, saltérios e címbalos, em turnos organizados.",
+   "alt": "Grupos de levitas, jovens e velhos, ensaiam com harpas e címbalos.",
+   "prompt": "Levite musicians of all ages, teachers and students, rehearsing in a stone courtyard, lyres, harps and cymbals in their hands, an elder conductor guiding them, scrolls of songs on a stand, soft morning light"
+  },
+  {
+   "id": "q13",
+   "capitulo": 28,
+   "ref": "28:11-12",
+   "titulo": "Davi entrega a planta do templo",
+   "descricao": "Diante dos líderes, Davi entrega a Salomão a planta do pórtico, das salas e do lugar do propiciatório, que ele diz ter recebido \"pela mão do SENHOR\".",
+   "alt": "Um rei idoso entrega rolos de desenho a seu filho diante de líderes do povo.",
+   "prompt": "Assembly hall in Jerusalem, the elderly King David handing architectural plans drawn on scrolls to his young son Solomon, officials, commanders and priests gathered around, a table with gold and silver vessels, warm solemn light"
+  },
+  {
+   "id": "q14",
+   "capitulo": 29,
+   "ref": "29:10-13",
+   "titulo": "A bênção de Davi",
+   "descricao": "Depois das ofertas voluntárias, Davi bendiz o SENHOR diante de toda a congregação: \"Tua é a grandeza, o poder e a glória\".",
+   "alt": "Um rei de pé diante de uma multidão ergue as mãos em louvor, ao lado de ofertas de ouro e prata.",
+   "prompt": "King David standing before the whole assembly of Israel, arms raised in praise, piles of freely given gold, silver, bronze and precious stones before him, leaders and people rejoicing, Solomon beside him, radiant light in the sky"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "genealogias",
+   "termo": "Genealogias",
+   "ref": "1:1",
+   "explicado": false,
+   "significado": "Começar em Adão liga a história de Israel à de toda a humanidade. Para o povo que voltou do exílio, as listas afirmavam identidade e continuidade com as promessas de Deus (9:1)."
+  },
+  {
+   "id": "arca",
+   "termo": "Arca do pacto",
+   "ref": "13:3",
+   "explicado": false,
+   "significado": "Centro da primeira metade da história de Davi. Buscar a arca é buscar a Deus (13:3); o modo correto de carregá-la (15:2) mostra que a santidade de Deus não pode ser tratada com descuido."
+  },
+  {
+   "id": "agua-belem",
+   "termo": "Água do poço de Belém",
+   "ref": "11:19",
+   "explicado": true,
+   "significado": "Davi mesmo explica: beber seria como beber \"o sangue destes homens\", porque arriscaram a vida. Por isso a água vira oferta."
+  },
+  {
+   "id": "casa-dinastia",
+   "termo": "Casa que Deus edifica",
+   "ref": "17:10",
+   "explicado": true,
+   "significado": "Davi quer construir uma casa para Deus, mas Deus promete edificar uma \"casa\" para Davi: uma dinastia (17:11-14). Cristãos leem a promessa como cumprida no Messias, filho de Davi."
+  },
+  {
+   "id": "trono-reino",
+   "termo": "Trono do reino do SENHOR",
+   "ref": "28:5",
+   "explicado": false,
+   "significado": "Crônicas diz que Salomão senta no trono \"do reino do SENHOR\": o verdadeiro rei de Israel é Deus, e o rei humano governa em seu nome."
+  },
+  {
+   "id": "espada-anjo",
+   "termo": "Espada do anjo",
+   "ref": "21:16",
+   "explicado": true,
+   "significado": "O texto a identifica com a \"espada do SENHOR\" e a pestilência que Davi escolheu (21:12). Quando o anjo a recolhe, o juízo cessa (21:27)."
+  },
+  {
+   "id": "eira-orna",
+   "termo": "Eira de Ornã",
+   "ref": "21:18",
+   "explicado": false,
+   "significado": "Lugar onde o juízo para e o altar é construído. 2 Crônicas 3:1 diz que ali seria o templo; o texto também o liga ao monte Moriá."
+  },
+  {
+   "id": "fogo-altar",
+   "termo": "Fogo do céu sobre o altar",
+   "ref": "21:26",
+   "explicado": false,
+   "significado": "Sinal de que Deus aceitou o sacrifício, como no tabernáculo (Levítico 9:24) e depois na dedicação do templo (2 Crônicas 7:1)."
+  },
+  {
+   "id": "instrumentos",
+   "termo": "Harpas, saltérios e címbalos",
+   "ref": "25:1",
+   "explicado": false,
+   "significado": "A música é parte organizada do culto e chamada até de \"profetizar\". O livro não explica o termo; pode indicar louvor inspirado."
+  },
+  {
+   "id": "sorte",
+   "termo": "Sortes",
+   "ref": "24:5",
+   "explicado": false,
+   "significado": "Os turnos de sacerdotes e levitas são definidos por sorte, para que Deus decida e ninguém seja favorecido. O texto não dá outro sentido."
+  },
+  {
+   "id": "planta",
+   "termo": "Planta do templo",
+   "ref": "28:11",
+   "explicado": true,
+   "significado": "Davi diz que o desenho lhe foi dado \"pela mão do SENHOR\" (28:19), como o tabernáculo foi feito segundo o modelo mostrado a Moisés."
+  },
+  {
+   "id": "sombra",
+   "termo": "Sombra",
+   "ref": "29:15",
+   "explicado": true,
+   "significado": "No próprio versículo a sombra é imagem da vida breve: somos estrangeiros e peregrinos diante de Deus."
+  },
+  {
+   "id": "estrado",
+   "termo": "Estrado dos pés de Deus",
+   "ref": "28:2",
+   "explicado": false,
+   "significado": "A arca é chamada \"estrado dos pés de nosso Deus\": imagem de Deus como rei entronizado, cujos pés repousam no templo, embora os céus sejam seu trono."
+  },
+  {
+   "id": "sião",
+   "termo": "Fortaleza de Sião, cidade de Davi",
+   "ref": "11:5",
+   "explicado": false,
+   "significado": "Conquistada dos jebuseus, torna-se capital e depois símbolo de Jerusalém e do povo de Deus em salmos e profetas."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "toledot",
+   "pt": "Gerações",
+   "refs": [
+    "1:29"
+   ],
+   "hebraico": {
+    "lema": "תּוֹלְדוֹת",
+    "translit": "toledot",
+    "strong": "H8435"
+   },
+   "sentido": "descendências, histórias de família",
+   "latim": {
+    "forma": "generationes",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Palavra que organiza Gênesis (\"estas são as gerações de...\"). Crônicas retoma o mesmo estilo para ligar Israel à história desde Adão.",
+   "interpretacao": false
+  },
+  {
+   "id": "yachas",
+   "pt": "Contar por genealogias",
+   "refs": [
+    "5:1",
+    "9:1"
+   ],
+   "hebraico": {
+    "lema": "יָחַשׂ",
+    "translit": "yachas",
+    "strong": "H3187"
+   },
+   "sentido": "registrar em genealogia",
+   "latim": {
+    "forma": "recenseo",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Verbo quase só usado em Crônicas, Esdras e Neemias. Mostra a importância dos registros de família para a comunidade pós-exílica.",
+   "interpretacao": false
+  },
+  {
+   "id": "darash",
+   "pt": "Buscar",
+   "refs": [
+    "10:14",
+    "16:11",
+    "28:9"
+   ],
+   "hebraico": {
+    "lema": "דָּרַשׁ",
+    "translit": "darash",
+    "strong": "H1875"
+   },
+   "sentido": "buscar, consultar, procurar com empenho",
+   "latim": {
+    "forma": "quaerere",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Palavra-chave de Crônicas: Saul morreu por não buscar ao SENHOR (10:14), e Davi ensina Salomão: \"Se tu o buscares, o acharás\" (28:9).",
+   "interpretacao": false
+  },
+  {
+   "id": "yadah",
+   "pt": "Louvar, celebrar",
+   "refs": [
+    "16:8",
+    "16:34"
+   ],
+   "hebraico": {
+    "lema": "יָדָה",
+    "translit": "yadah",
+    "strong": "H3034"
+   },
+   "sentido": "dar graças, confessar, louvar",
+   "latim": {
+    "forma": "confitemini",
+    "nota": "Vulgata em 16:8: \"confitemini Domino\"."
+   },
+   "outras": [],
+   "explicacao": "Dar graças e reconhecer publicamente o que Deus fez. A Vulgata usa \"confitemini\", ligando louvor e confissão.",
+   "interpretacao": false
+  },
+  {
+   "id": "chesed",
+   "pt": "Misericórdia",
+   "refs": [
+    "16:34",
+    "17:13"
+   ],
+   "hebraico": {
+    "lema": "חֶסֶד",
+    "translit": "chesed",
+    "strong": "H2617"
+   },
+   "sentido": "amor leal, fidelidade à aliança",
+   "latim": {
+    "forma": "misericordia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O refrão \"sua misericórdia é eterna\" (16:34) atravessa Crônicas. Em 17:13 Deus promete não tirar a chesed do filho de Davi.",
+   "interpretacao": false
+  },
+  {
+   "id": "mashiach",
+   "pt": "Ungido",
+   "refs": [
+    "16:22"
+   ],
+   "hebraico": {
+    "lema": "מָשִׁיחַ",
+    "translit": "mashiach",
+    "strong": "H4899"
+   },
+   "grego": {
+    "lema": "χριστός",
+    "translit": "christos",
+    "strong": "G5547"
+   },
+   "sentido": "ungido com azeite",
+   "latim": {
+    "forma": "christus",
+    "nota": "Vulgata: \"nolite tangere christos meos\"."
+   },
+   "outras": [],
+   "explicacao": "Origem da palavra Messias. Aqui designa os patriarcas protegidos por Deus; mais tarde passa a indicar o rei esperado.",
+   "interpretacao": false
+  },
+  {
+   "id": "malkut",
+   "pt": "Reino",
+   "refs": [
+    "17:14",
+    "28:5",
+    "29:11"
+   ],
+   "hebraico": {
+    "lema": "מַלְכוּת",
+    "translit": "malkut",
+    "strong": "H4438"
+   },
+   "sentido": "reinado, domínio real",
+   "latim": {
+    "forma": "regnum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Crônicas fala do reino como sendo de Deus (17:14; 29:11). A palavra é típica do hebraico tardio.",
+   "interpretacao": false
+  },
+  {
+   "id": "satan",
+   "pt": "Satanás",
+   "refs": [
+    "21:1"
+   ],
+   "hebraico": {
+    "lema": "שָׂטָן",
+    "translit": "satan",
+    "strong": "H7854"
+   },
+   "sentido": "adversário, acusador",
+   "latim": {
+    "forma": "Satan",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Aqui aparece sem artigo, talvez como nome próprio. 2 Samuel 24:1 diz que foi a ira do SENHOR que incitou Davi; leitores explicam a diferença de modos variados, por exemplo dizendo que Deus permitiu a ação do adversário.",
+   "interpretacao": true
+  },
+  {
+   "id": "geren",
+   "pt": "Eira",
+   "refs": [
+    "21:15",
+    "21:18"
+   ],
+   "hebraico": {
+    "lema": "גֹּרֶן",
+    "translit": "goren",
+    "strong": "H1637"
+   },
+   "sentido": "área plana para debulhar cereais",
+   "latim": {
+    "forma": "area",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Lugar comum de trabalho agrícola que se torna lugar de altar e, depois, do templo.",
+   "interpretacao": false
+  },
+  {
+   "id": "tavnit",
+   "pt": "Planta, modelo",
+   "refs": [
+    "28:11",
+    "28:19"
+   ],
+   "hebraico": {
+    "lema": "תַּבְנִית",
+    "translit": "tavnit",
+    "strong": "H8403"
+   },
+   "sentido": "modelo, padrão, forma",
+   "latim": {
+    "forma": "descriptio",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Mesma palavra usada para o modelo do tabernáculo mostrado a Moisés (Êxodo 25:9). O templo segue um projeto dado por Deus.",
+   "interpretacao": false
+  },
+  {
+   "id": "shalem",
+   "pt": "Coração completo",
+   "refs": [
+    "28:9",
+    "29:9"
+   ],
+   "hebraico": {
+    "lema": "לֵב שָׁלֵם",
+    "translit": "lev shalem",
+    "strong": "H3820, H8003"
+   },
+   "sentido": "coração inteiro, íntegro, sem divisão",
+   "latim": {
+    "forma": "corde perfecto",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Shalem é da mesma família de shalom: inteiro, em paz. Davi pede um serviço sem divisão interior.",
+   "interpretacao": false
+  },
+  {
+   "id": "nadav",
+   "pt": "Oferecer voluntariamente",
+   "refs": [
+    "29:9",
+    "29:14"
+   ],
+   "hebraico": {
+    "lema": "נָדַב",
+    "translit": "nadav",
+    "strong": "H5068"
+   },
+   "sentido": "dar de livre vontade",
+   "latim": {
+    "forma": "sponte offerre",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O povo se alegra por dar \"de sua vontade\". Davi reconhece que até isso vem de Deus: \"o que recebemos de tua mão te damos\" (29:14).",
+   "interpretacao": false
+  },
+  {
+   "id": "segullah",
+   "pt": "Tesouro particular",
+   "refs": [
+    "29:3"
+   ],
+   "hebraico": {
+    "lema": "סְגֻלָּה",
+    "translit": "segullah",
+    "strong": "H5459"
+   },
+   "sentido": "propriedade pessoal, tesouro precioso",
+   "latim": {
+    "forma": "peculium",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Em Êxodo 19:5 a mesma palavra descreve Israel como \"propriedade peculiar\" de Deus. Aqui Davi oferece do seu tesouro próprio.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "josefo-ant-7",
+   "titulo": "Josefo reconta o reinado de Davi",
+   "refs": [
+    "11:1-3",
+    "29:26-28"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 7",
+   "data_fonte": "c. 93-94 d.C.",
+   "data_evento": "c. 1010-970 a.C.",
+   "resumo": "O livro 7 das Antiguidades narra a vida de Davi, combinando Samuel e Crônicas.",
+   "relacao": "Mostra como judeus do séc. I liam juntos os dois relatos. Não é testemunha independente dos fatos.",
+   "grau": "associacao"
+  },
+  {
+   "id": "tel-da-casa-davi",
+   "titulo": "\"Casa de Davi\" na Estela de Tel Dã",
+   "refs": [
+    "17:10-14"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Estela de Tel Dã",
+   "referencia": "Museu de Israel, Jerusalém",
+   "data_fonte": "c. 840-800 a.C.",
+   "data_evento": "descoberta em 1993-1994",
+   "resumo": "Inscrição aramaica em que um rei arameu se gaba de vitória sobre um rei da \"casa de Davi\".",
+   "relacao": "Cerca de 150 anos depois de Davi, a dinastia de Judá era conhecida pelo nome de seu fundador, o que combina com a promessa de uma \"casa\" em 17:10-14.",
+   "grau": "documentado"
+  },
+  {
+   "id": "amarna-urusalim",
+   "titulo": "Jerusalém antes de Davi nas Cartas de Amarna",
+   "refs": [
+    "11:4-5"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Cartas de Amarna (cartas de Abdi-Heba)",
+   "referencia": "Arquivo de Tell el-Amarna; Museu Egípcio do Cairo, Museu Britânico e Berlim",
+   "data_fonte": "séc. XIV a.C.",
+   "data_evento": "séc. XIV a.C.",
+   "resumo": "Abdi-Heba, governante de \"Urusalim\", escreve ao faraó pedindo ajuda contra inimigos.",
+   "relacao": "Mostra que Jerusalém era cidade-estado cananeia séculos antes de Davi. Não fala dos jebuseus nem de Davi; é contexto, não confirmação.",
+   "grau": "associacao"
+  },
+  {
+   "id": "medinet-habu",
+   "titulo": "Os filisteus nos relevos de Ramsés III",
+   "refs": [
+    "10:1"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Relevos do templo de Medinet Habu",
+   "referencia": "Templo funerário de Ramsés III, Luxor, Egito",
+   "data_fonte": "c. 1175 a.C.",
+   "data_evento": "c. 1175 a.C.",
+   "resumo": "Relevos e textos egípcios mostram a guerra contra os \"Povos do Mar\", entre eles os Peleset, com seus trajes e capacetes característicos.",
+   "relacao": "Os Peleset costumam ser identificados com os filisteus que aparecem em 10:1. Ajuda a imaginar o inimigo de Saul e Davi, mas é bem anterior a eles.",
+   "grau": "associacao"
+  },
+  {
+   "id": "cidade-de-davi",
+   "titulo": "Estruturas de pedra na Cidade de Davi",
+   "refs": [
+    "11:5",
+    "11:8"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Estrutura de Pedra em Degraus e \"Grande Estrutura de Pedra\"",
+   "referencia": "Escavações na Cidade de Davi, Jerusalém (K. Kenyon, Y. Shiloh, E. Mazar)",
+   "data_fonte": "séc. XII-IX a.C. (datação debatida)",
+   "data_evento": "escavadas no séc. XX e início do séc. XXI",
+   "resumo": "Na colina a sul do monte do templo há um grande muro de arrimo em degraus e restos de um edifício monumental.",
+   "relacao": "Alguns arqueólogos ligam essas obras à \"fortaleza de Sião\" e ao aterro (Milo) de 11:5-8; outros as datam antes ou depois de Davi. É assunto de forte debate.",
+   "grau": "associacao"
+  },
+  {
+   "id": "hirao-josefo",
+   "titulo": "Hirão de Tiro em fontes fenícias",
+   "refs": [
+    "14:1"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Contra Apião (citando Dio e Menandro)",
+   "referencia": "livro 1, caps. 17-18",
+   "data_fonte": "c. 95 d.C.",
+   "data_evento": "séc. X a.C.",
+   "resumo": "Josefo cita historiadores que usaram arquivos de Tiro, mencionando o rei Hirão e sua relação com Salomão.",
+   "relacao": "Confirma Hirão como rei de Tiro na época da monarquia unida; o envio de cedro a Davi (14:1) não é citado nessas fontes.",
+   "grau": "associacao"
+  }
+ ]
+}

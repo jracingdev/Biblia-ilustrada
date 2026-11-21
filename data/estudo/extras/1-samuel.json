@@ -1,0 +1,823 @@
+{
+ "livro": "1-samuel",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:9-11",
+   "titulo": "Ana ora em Siló",
+   "descricao": "Em amargura, Ana chora e ora no santuário de Siló, prometendo dedicar ao SENHOR o filho que pedir; Eli a observa sentado.",
+   "alt": "Uma mulher ajoelhada ora em lágrimas junto a um pilar do santuário, enquanto um sacerdote idoso a observa sentado.",
+   "prompt": "Hannah, a young Israelite woman in a simple mantle, kneeling in tearful silent prayer at the entrance of the sanctuary at Shiloh, lips moving without sound, the elderly priest Eli seated on a chair beside a doorpost watching her, soft oil lamp light and evening glow"
+  },
+  {
+   "id": "q02",
+   "capitulo": 1,
+   "ref": "1:26-28",
+   "titulo": "Samuel entregue ao SENHOR",
+   "descricao": "Ana leva o pequeno Samuel a Eli e diz: por este menino eu orava; agora o devolvo ao SENHOR.",
+   "alt": "Uma mãe apresenta um menino pequeno a um sacerdote idoso na entrada do santuário.",
+   "prompt": "Hannah presenting her small son Samuel, a little boy holding her hand, to the old priest Eli at the doorway of the house of the Lord at Shiloh, Elkanah behind with a young bull and offerings of flour and wine, tender and solemn mood, warm light"
+  },
+  {
+   "id": "q03",
+   "capitulo": 3,
+   "ref": "3:8-10",
+   "titulo": "Fala, SENHOR, que teu servo ouve",
+   "descricao": "À noite, perto da arca, o menino Samuel ouve seu nome ser chamado e responde: fala, que o teu servo está ouvindo.",
+   "alt": "Um menino sentado em sua esteira, na penumbra do santuário, olha atento para uma luz suave.",
+   "prompt": "Night inside the sanctuary at Shiloh, the boy Samuel sitting up on his sleeping mat near the Ark of God, the lamp of God still burning low, a gentle light filling the space without any human figure, the boy listening attentively with an open innocent face"
+  },
+  {
+   "id": "q04",
+   "capitulo": 5,
+   "ref": "5:3-4",
+   "titulo": "Dagom caído diante da arca",
+   "descricao": "No templo de Asdode, os filisteus encontram a estátua de Dagom caída de rosto em terra diante da arca do SENHOR.",
+   "alt": "Sacerdotes filisteus, assustados, veem uma grande estátua tombada diante da arca dourada.",
+   "prompt": "Interior of the Philistine temple of Dagon at Ashdod at dawn, startled Philistine priests in feathered headdresses discovering the large stone idol of Dagon fallen face down and broken on the threshold before the golden Ark of the Covenant, shafts of morning light"
+  },
+  {
+   "id": "q05",
+   "capitulo": 6,
+   "ref": "6:10-12",
+   "titulo": "As vacas levam a arca",
+   "descricao": "Sem guia, duas vacas puxam o carro com a arca direto a Bete-Semes, seguidas de longe pelos príncipes filisteus.",
+   "alt": "Duas vacas puxam uma carroça com a arca por uma estrada entre campos de trigo.",
+   "prompt": "Two milk cows pulling a new wooden cart carrying the golden Ark of the Covenant and a small chest along a straight country road toward Beth Shemesh, lowing as they go, Philistine lords following at a distance, Israelite reapers in a wheat field looking up in joy"
+  },
+  {
+   "id": "q06",
+   "capitulo": 7,
+   "ref": "7:12",
+   "titulo": "Ebenézer",
+   "descricao": "Depois da vitória, Samuel ergue uma pedra e a chama Ebenézer: até aqui nos ajudou o SENHOR.",
+   "alt": "Um homem idoso ergue as mãos diante de uma grande pedra em pé, cercado pelo povo.",
+   "prompt": "The prophet Samuel, a gray-bearded man in a simple robe, raising his hands beside a large upright memorial stone between hills, Israelites gathered around in gratitude, clearing storm clouds and sunlight breaking through"
+  },
+  {
+   "id": "q07",
+   "capitulo": 8,
+   "ref": "8:4-5",
+   "titulo": "Dá-nos um rei",
+   "descricao": "Os anciãos de Israel vão a Samuel em Ramá e pedem um rei, como todas as nações.",
+   "alt": "Anciãos de Israel falam com insistência a Samuel, idoso e preocupado, diante de sua casa.",
+   "prompt": "Elders of Israel in robes and headcloths gathered before the aged prophet Samuel at his house in Ramah, gesturing insistently, Samuel listening with a troubled expression, village of stone houses, afternoon light"
+  },
+  {
+   "id": "q08",
+   "capitulo": 10,
+   "ref": "10:1",
+   "titulo": "Samuel unge Saul",
+   "descricao": "Samuel derrama óleo sobre a cabeça de Saul, beija-o e diz que o SENHOR o ungiu como líder.",
+   "alt": "Um profeta idoso derrama óleo de um frasco sobre a cabeça de um jovem alto ajoelhado.",
+   "prompt": "At dawn on the outskirts of a town, the old prophet Samuel pouring oil from a small flask onto the head of Saul, a tall handsome young man kneeling humbly, the servant waiting at a distance, soft golden early light"
+  },
+  {
+   "id": "q09",
+   "capitulo": 15,
+   "ref": "15:27-28",
+   "titulo": "O manto rasgado",
+   "descricao": "Saul agarra a capa de Samuel, que se rasga; Samuel diz que o SENHOR rasgou dele o reino.",
+   "alt": "Um rei segura a borda rasgada do manto de um profeta que se afasta.",
+   "prompt": "King Saul in royal garments desperately grasping the hem of the prophet Samuel's robe, which tears in his hand, as Samuel turns away with a grieved stern face, soldiers watching, dramatic overcast sky"
+  },
+  {
+   "id": "q10",
+   "capitulo": 16,
+   "ref": "16:12-13",
+   "titulo": "Davi ungido em Belém",
+   "descricao": "O mais novo dos filhos de Jessé, pastor de ovelhas, é ungido por Samuel diante dos irmãos.",
+   "alt": "Samuel derrama óleo de um chifre sobre a cabeça de um jovem pastor ruivo, diante de sua família.",
+   "prompt": "In Jesse's house in Bethlehem, the prophet Samuel pouring oil from a ram's horn over the head of young David, a ruddy shepherd boy with a staff, his father Jesse and seven older brothers watching in astonishment, soft light falling on David"
+  },
+  {
+   "id": "q11",
+   "capitulo": 16,
+   "ref": "16:23",
+   "titulo": "Davi toca a harpa para Saul",
+   "descricao": "Quando Saul é atormentado, Davi toca a harpa e Saul encontra alívio.",
+   "alt": "Um jovem toca uma lira enquanto um rei sombrio descansa a cabeça na mão.",
+   "prompt": "In a dim palace room, young David playing a wooden lyre, King Saul seated on his throne with his head resting in his hand, a troubled face slowly calming, a spear leaning against the wall, warm lamp light"
+  },
+  {
+   "id": "q12",
+   "capitulo": 17,
+   "ref": "17:40",
+   "titulo": "Cinco pedras lisas",
+   "descricao": "Davi recusa a armadura de Saul e escolhe cinco pedras lisas do ribeiro, com o cajado e a funda.",
+   "alt": "Um jovem pastor se abaixa num riacho para escolher pedras, com a funda na mão.",
+   "prompt": "Young David kneeling in a shallow brook in the valley of Elah choosing five smooth stones, his shepherd's staff and sling beside him, Saul's heavy armor left on the bank, two armies on opposite hillsides in the distance, morning light"
+  },
+  {
+   "id": "q13",
+   "capitulo": 17,
+   "ref": "17:45-49",
+   "titulo": "Davi diante de Golias",
+   "descricao": "Davi enfrenta o gigante Golias em nome do SENHOR dos exércitos e o derruba com uma pedra.",
+   "alt": "No vale, um jovem com uma funda enfrenta um enorme guerreiro de armadura de bronze, observados por dois exércitos.",
+   "prompt": "Wide view of the valley of Elah, young David in a simple tunic swinging his sling, facing the giant Goliath in bronze scale armor and helmet with a huge spear, his shield bearer before him, Israelite and Philistine armies watching from opposite hills, dramatic light, no gore"
+  },
+  {
+   "id": "q14",
+   "capitulo": 18,
+   "ref": "18:3-4",
+   "titulo": "A aliança de Jônatas",
+   "descricao": "Jônatas faz aliança com Davi e lhe dá o manto, a espada, o arco e o cinto.",
+   "alt": "Um príncipe entrega seu manto e suas armas a um jovem pastor.",
+   "prompt": "Prince Jonathan, a noble young warrior, placing his royal robe over David's shoulders and handing him his sword, bow and belt, both men facing each other with deep friendship, a tent of the royal camp behind, golden light"
+  },
+  {
+   "id": "q15",
+   "capitulo": 20,
+   "ref": "20:41-42",
+   "titulo": "A despedida dos amigos",
+   "descricao": "Depois do sinal das flechas, Davi e Jônatas se despedem chorando e confirmam a aliança diante do SENHOR.",
+   "alt": "Dois homens se abraçam chorando num campo, com um arco e flechas no chão.",
+   "prompt": "In an open field near a large stone, David and Jonathan embracing and weeping as they part, Jonathan's bow and arrows on the ground, a small servant boy walking away toward the city in the distance, melancholy morning light"
+  },
+  {
+   "id": "q16",
+   "capitulo": 24,
+   "ref": "24:4-6",
+   "titulo": "O manto cortado na caverna",
+   "descricao": "Na caverna de En-Gedi, Davi corta em silêncio a borda do manto de Saul, mas se recusa a ferir o ungido do SENHOR.",
+   "alt": "Na penumbra de uma caverna, um homem corta um pedaço do manto de um rei que está de costas.",
+   "prompt": "Inside a dark cave at En Gedi, David quietly cutting a corner from the robe of King Saul, who sits unaware near the bright cave entrance, David's men hidden in the shadows urging him on, his face troubled by conscience"
+  },
+  {
+   "id": "q17",
+   "capitulo": 25,
+   "ref": "25:23-24",
+   "titulo": "Abigail aos pés de Davi",
+   "descricao": "Abigail leva provisões e se prostra diante de Davi, impedindo que ele se vingue de Nabal.",
+   "alt": "Uma mulher ajoelha-se diante de um líder armado, com jumentos carregados de alimentos atrás dela.",
+   "prompt": "On a mountain path, Abigail, a wise and graceful woman, kneeling before David and his armed men, donkeys behind her loaded with bread, wineskins, raisins and fig cakes, David lowering his sword with a softened face, late afternoon light"
+  },
+  {
+   "id": "q18",
+   "capitulo": 26,
+   "ref": "26:11-12",
+   "titulo": "A lança e a botija",
+   "descricao": "À noite, Davi entra no acampamento de Saul e leva a lança e a botija de água, poupando de novo a vida do rei.",
+   "alt": "Dois homens à noite levam uma lança e um jarro de água do lado de um rei adormecido.",
+   "prompt": "Night in Saul's camp in the wilderness, David and Abishai tiptoeing among sleeping soldiers, David taking the spear stuck in the ground and the water jug beside the head of the sleeping King Saul, Abner asleep nearby, moonlight"
+  },
+  {
+   "id": "q19",
+   "capitulo": 28,
+   "ref": "28:13-14",
+   "titulo": "Saul em En-Dor",
+   "descricao": "Disfarçado, Saul procura uma médium em En-Dor; ela diz ver um ancião coberto com um manto, e Saul se prostra.",
+   "alt": "Um rei disfarçado se curva em uma casa escura, diante de uma mulher assustada.",
+   "prompt": "Inside a dark small house at night in Endor, King Saul in a plain disguise bowing low to the ground, a frightened woman medium beside a small fire crying out, an indistinct pale glow suggesting an old man wrapped in a robe, eerie but restrained atmosphere"
+  },
+  {
+   "id": "q20",
+   "capitulo": 31,
+   "ref": "31:12-13",
+   "titulo": "Os homens de Jabes",
+   "descricao": "Os valentes de Jabes de Gileade caminham a noite toda para resgatar os corpos de Saul e dos filhos e os sepultam com jejum.",
+   "alt": "Homens carregam à noite macas cobertas com mantos por um caminho, iluminados por tochas.",
+   "prompt": "Brave men of Jabesh Gilead walking through the night carrying shrouded bodies on stretchers, torches casting a soft glow, later burying them beneath a tamarisk tree, faces grave and respectful, mourning and fasting, somber blue tones"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "lampada",
+   "termo": "A lâmpada de Deus",
+   "ref": "3:3",
+   "explicado": false,
+   "significado": "A lâmpada do santuário ainda acesa quando Deus chama Samuel indica que, apesar da decadência de Eli, Deus não abandonou seu povo. O texto diz que a palavra do SENHOR era rara naqueles dias (3:1)."
+  },
+  {
+   "id": "arca",
+   "termo": "Arca da aliança",
+   "ref": "4:3-4",
+   "explicado": false,
+   "significado": "Israel tenta usar a arca como amuleto de vitória e é derrotado (4:3-11). A arca, porém, humilha Dagom (5:3-4): Deus não se deixa manipular, mas também não é vencido."
+  },
+  {
+   "id": "icabode",
+   "termo": "Icabode",
+   "ref": "4:21",
+   "explicado": true,
+   "significado": "O texto explica o nome: \"passada foi a glória de Israel\", porque a arca foi tomada (4:21-22)."
+  },
+  {
+   "id": "dagom",
+   "termo": "Dagom caído",
+   "ref": "5:4",
+   "explicado": false,
+   "significado": "A estátua cai diante da arca e se quebra. A cena mostra a superioridade do SENHOR sobre o deus dos filisteus, sem batalha humana."
+  },
+  {
+   "id": "ratos-ouro",
+   "termo": "Ratos e tumores de ouro",
+   "ref": "6:4-5",
+   "explicado": true,
+   "significado": "Os sacerdotes filisteus explicam: são oferta de expiação que reproduz a praga, para \"dar glória ao Deus de Israel\" (6:5)."
+  },
+  {
+   "id": "ebenezer",
+   "termo": "Ebenézer",
+   "ref": "7:12",
+   "explicado": true,
+   "significado": "Samuel explica o nome da pedra: \"até aqui nos ajudou o SENHOR\" (7:12). Tornou-se expressão de gratidão por uma ajuda já recebida."
+  },
+  {
+   "id": "chifre-oleo",
+   "termo": "Chifre de azeite e unção",
+   "ref": "16:13",
+   "explicado": false,
+   "significado": "O óleo derramado marca a escolha de Deus para uma tarefa. Saul é ungido com um frasco (10:1) e Davi com um chifre (16:13). Daí vem \"ungido\" (mashiach), origem de \"Messias\"."
+  },
+  {
+   "id": "chifre-poder",
+   "termo": "Chifre exaltado",
+   "ref": "2:1",
+   "explicado": false,
+   "significado": "No cântico de Ana, o chifre (traduzido \"poder\") representa força e dignidade, como o chifre de um animal. O cântico termina com o chifre do \"ungido\" de Deus (2:10)."
+  },
+  {
+   "id": "manto",
+   "termo": "Manto rasgado e manto cortado",
+   "ref": "15:27-28",
+   "explicado": true,
+   "significado": "Samuel explica o manto rasgado: Deus rasgou o reino de Saul (15:28). Mais tarde Davi corta a borda do manto de Saul e o próprio Saul reconhece que Davi reinará (24:20)."
+  },
+  {
+   "id": "coracao",
+   "termo": "O SENHOR olha o coração",
+   "ref": "16:7",
+   "explicado": true,
+   "significado": "O próprio texto explica o critério de Deus: não a aparência nem a estatura, mas o coração (16:7). Contrasta Saul, escolhido pela altura (9:2), com Davi, o mais novo."
+  },
+  {
+   "id": "harpa",
+   "termo": "Harpa de Davi",
+   "ref": "16:23",
+   "explicado": false,
+   "significado": "A música de Davi alivia o tormento de Saul. Prepara a imagem de Davi como \"suave salmista de Israel\" (2Sm 23:1)."
+  },
+  {
+   "id": "pedras-funda",
+   "termo": "Pedras e funda",
+   "ref": "17:40",
+   "explicado": false,
+   "significado": "Armas simples de pastor contra a armadura de Golias. Davi mesmo explica o sentido: o SENHOR não salva com espada e lança (17:47)."
+  },
+  {
+   "id": "armadura",
+   "termo": "Armadura de Saul",
+   "ref": "17:38-39",
+   "explicado": false,
+   "significado": "Davi não consegue andar com ela e a tira. A cena mostra que ele não vencerá imitando Saul, mas confiando no SENHOR."
+  },
+  {
+   "id": "manto-jonatas",
+   "termo": "Manto e armas de Jônatas",
+   "ref": "18:4",
+   "explicado": false,
+   "significado": "O herdeiro do trono entrega a Davi as próprias vestes e armas. Muitos leem o gesto como reconhecimento de que Davi será rei, o que Jônatas diz depois (23:17)."
+  },
+  {
+   "id": "flechas",
+   "termo": "As flechas de Jônatas",
+   "ref": "20:36-37",
+   "explicado": true,
+   "significado": "O próprio texto combina o código: a flecha lançada além do menino significa perigo (20:21-22, 37). Revela que Davi precisa fugir."
+  },
+  {
+   "id": "ungido",
+   "termo": "O ungido do SENHOR",
+   "ref": "24:6",
+   "explicado": false,
+   "significado": "Davi se recusa a ferir Saul por ser \"o ungido do SENHOR\" (24:6; 26:9). Mostra respeito pela escolha de Deus e deixa o julgamento com ele."
+  },
+  {
+   "id": "feixe-vivos",
+   "termo": "Feixe dos que vivem",
+   "ref": "25:29",
+   "explicado": false,
+   "significado": "Abigail diz que a vida de Davi está \"ligada no feixe dos que vivem com o SENHOR\": imagem de proteção, como algo valioso guardado num embrulho."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "tsevaot",
+   "pt": "SENHOR dos Exércitos",
+   "refs": [
+    "1:3",
+    "1:11",
+    "17:45"
+   ],
+   "hebraico": {
+    "lema": "יְהוָה צְבָאוֹת",
+    "translit": "YHWH Tseva'ot"
+   },
+   "grego": {
+    "lema": "κύριος σαβαωθ",
+    "translit": "kýrios sabaōth"
+   },
+   "sentido": "o SENHOR das hostes, dos exércitos celestes e terrestres",
+   "latim": {
+    "forma": "Dominus exercituum",
+    "nota": ""
+   },
+   "outras": [
+    {
+     "lingua": "hebraico",
+     "forma": "צָבָא (tsava, H6635)",
+     "nota": "exército, hoste"
+    }
+   ],
+   "explicacao": "O título aparece pela primeira vez na Bíblia em 1 Samuel 1:3. Davi enfrenta Golias \"no nome do SENHOR dos exércitos\" (17:45).",
+   "interpretacao": false
+  },
+  {
+   "id": "shaal",
+   "pt": "Pedir (Saul, Samuel)",
+   "refs": [
+    "1:27",
+    "1:28",
+    "8:10"
+   ],
+   "hebraico": {
+    "lema": "שָׁאַל",
+    "translit": "sha'al",
+    "strong": "H7592"
+   },
+   "sentido": "pedir, perguntar; emprestar",
+   "latim": {
+    "forma": "commodavi eum Domino",
+    "nota": "Em 1:28 a Vulgata usa commodare, emprestar."
+   },
+   "outras": [],
+   "explicacao": "Ana diz que pediu o menino e agora o \"cede\" ao SENHOR (1:27-28), com a mesma raiz. O nome de Saul (Sha'ul, H7586) significa \"pedido\": o rei que o povo pediu (8:10).",
+   "interpretacao": true
+  },
+  {
+   "id": "shmuel",
+   "pt": "Samuel",
+   "refs": [
+    "1:20"
+   ],
+   "hebraico": {
+    "lema": "שְׁמוּאֵל",
+    "translit": "Shmu'el",
+    "strong": "H8050"
+   },
+   "sentido": "provavelmente \"nome de Deus\" ou \"ouvido por Deus\"",
+   "latim": {
+    "forma": "Samuhel",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Ana explica o nome dizendo \"eu o pedi ao SENHOR\" (1:20). A etimologia exata é discutida; muitos ligam o nome a \"Deus ouviu\".",
+   "interpretacao": true
+  },
+  {
+   "id": "mashiach",
+   "pt": "Ungido",
+   "refs": [
+    "2:10",
+    "16:6",
+    "24:6"
+   ],
+   "hebraico": {
+    "lema": "מָשִׁיחַ",
+    "translit": "mashiach",
+    "strong": "H4899"
+   },
+   "grego": {
+    "lema": "χριστός",
+    "translit": "christós",
+    "strong": "G5547"
+   },
+   "sentido": "ungido com óleo; escolhido para uma função",
+   "latim": {
+    "forma": "christus Domini",
+    "nota": "Em 24:7 (24:6 nas edições portuguesas) a Vulgata traz christum Domini."
+   },
+   "outras": [],
+   "explicacao": "Palavra que dá origem a Messias; em grego, christós, de onde vem Cristo. Em 1 Samuel designa o rei; o cântico de Ana (2:10) e a esperança posterior a estenderam ao rei prometido da linhagem de Davi.",
+   "interpretacao": false
+  },
+  {
+   "id": "nagid",
+   "pt": "Líder, príncipe",
+   "refs": [
+    "9:16",
+    "10:1",
+    "13:14"
+   ],
+   "hebraico": {
+    "lema": "נָגִיד",
+    "translit": "nagid",
+    "strong": "H5057"
+   },
+   "sentido": "líder designado, chefe",
+   "latim": {
+    "forma": "dux, princeps",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Deus manda ungir Saul como nagid (9:16), não simplesmente como melekh (rei). Muitos estudiosos veem nisso a ideia de um líder subordinado a Deus.",
+   "interpretacao": false
+  },
+  {
+   "id": "melekh",
+   "pt": "Rei",
+   "refs": [
+    "8:5",
+    "8:7",
+    "10:24"
+   ],
+   "hebraico": {
+    "lema": "מֶלֶךְ",
+    "translit": "melekh",
+    "strong": "H4428"
+   },
+   "sentido": "rei",
+   "latim": {
+    "forma": "rex",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O pedido \"dá-nos rei como todas as nações\" (8:5) é visto como rejeição do reinado de Deus (8:7). Samuel avisa sobre o \"direito do rei\" (8:11-18), mas Deus atende o pedido.",
+   "interpretacao": true
+  },
+  {
+   "id": "roeh",
+   "pt": "Vidente",
+   "refs": [
+    "9:9",
+    "9:11"
+   ],
+   "hebraico": {
+    "lema": "רֹאֶה",
+    "translit": "ro'eh",
+    "strong": "H7203"
+   },
+   "sentido": "aquele que vê",
+   "latim": {
+    "forma": "videns",
+    "nota": ""
+   },
+   "outras": [
+    {
+     "lingua": "hebraico",
+     "forma": "נָבִיא (navi, H5030)",
+     "nota": "profeta"
+    }
+   ],
+   "explicacao": "O texto explica que o \"profeta\" (navi) de então era antes chamado \"vidente\" (9:9), uma nota do narrador para leitores de outra época.",
+   "interpretacao": false
+  },
+  {
+   "id": "kavod",
+   "pt": "Glória (Icabode)",
+   "refs": [
+    "4:21",
+    "4:22",
+    "2:8"
+   ],
+   "hebraico": {
+    "lema": "כָּבוֹד",
+    "translit": "kavod",
+    "strong": "H3519"
+   },
+   "sentido": "peso, importância, glória",
+   "latim": {
+    "forma": "gloria",
+    "nota": "Em 4:21 a Vulgata: translata est gloria de Israhel."
+   },
+   "outras": [
+    {
+     "lingua": "hebraico",
+     "forma": "אִי־כָבוֹד (I-khavod, H350)",
+     "nota": "Icabode"
+    }
+   ],
+   "explicacao": "A raiz significa \"ser pesado\". Ironia: Eli, \"homem velho e pesado\" (kaved, 4:18), morre no mesmo dia em que a glória (kavod) se vai. O neto se chama I-kavod, \"sem glória\" (H350).",
+   "interpretacao": false
+  },
+  {
+   "id": "ebenezer",
+   "pt": "Ebenézer",
+   "refs": [
+    "7:12",
+    "4:1"
+   ],
+   "hebraico": {
+    "lema": "אֶבֶן הָעֵזֶר",
+    "translit": "even ha'ezer",
+    "strong": "H72"
+   },
+   "sentido": "pedra da ajuda",
+   "latim": {
+    "forma": "Lapis adiutorii",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O nome aparece primeiro como o lugar da derrota (4:1) e depois como memorial da vitória (7:12). A Vulgata traduz o nome: \"Pedra do auxílio\".",
+   "interpretacao": false
+  },
+  {
+   "id": "shama",
+   "pt": "Ouvir, obedecer",
+   "refs": [
+    "3:9",
+    "3:10",
+    "15:22"
+   ],
+   "hebraico": {
+    "lema": "שָׁמַע",
+    "translit": "shama",
+    "strong": "H8085"
+   },
+   "sentido": "ouvir, escutar; obedecer",
+   "latim": {
+    "forma": "loquere quia audit servus tuus",
+    "nota": "Em 15:22: melior est enim oboedientia quam victimae."
+   },
+   "outras": [],
+   "explicacao": "Samuel começa ouvindo: \"fala, que o teu servo está ouvindo\" (3:10). Saul cai por não ouvir: \"obedecer (shemoa) é melhor que sacrificar\" (15:22).",
+   "interpretacao": false
+  },
+  {
+   "id": "levav",
+   "pt": "Coração",
+   "refs": [
+    "13:14",
+    "16:7"
+   ],
+   "hebraico": {
+    "lema": "לֵבָב",
+    "translit": "levav",
+    "strong": "H3824"
+   },
+   "sentido": "coração: interior, vontade, intenções",
+   "latim": {
+    "forma": "virum iuxta cor suum",
+    "nota": "Em 16:7: Dominus autem intuetur cor."
+   },
+   "outras": [],
+   "explicacao": "Davi é o \"homem segundo o coração\" de Deus (13:14; At 13:22). Muitos entendem que isso indica a escolha de Deus conforme sua vontade, mais do que a perfeição moral de Davi, cujas falhas a Bíblia não esconde.",
+   "interpretacao": true
+  },
+  {
+   "id": "ruach",
+   "pt": "Espírito",
+   "refs": [
+    "10:6",
+    "16:13",
+    "16:14"
+   ],
+   "hebraico": {
+    "lema": "רוּחַ",
+    "translit": "ruach",
+    "strong": "H7307"
+   },
+   "sentido": "espírito, sopro, vento",
+   "latim": {
+    "forma": "spiritus Domini",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O Espírito do SENHOR vem sobre Saul (10:6) e depois sobre Davi (16:13), afastando-se de Saul (16:14). A expressão \"espírito mau da parte do SENHOR\" é difícil e recebe interpretações diferentes.",
+   "interpretacao": true
+  },
+  {
+   "id": "ahav",
+   "pt": "Amar (Jônatas e Davi)",
+   "refs": [
+    "18:1",
+    "18:3",
+    "20:17"
+   ],
+   "hebraico": {
+    "lema": "אָהַב",
+    "translit": "ahav",
+    "strong": "H157"
+   },
+   "sentido": "amar; ser leal",
+   "latim": {
+    "forma": "diligere",
+    "nota": "Em 18:1: anima Ionathan conglutinata est animae David."
+   },
+   "outras": [],
+   "explicacao": "Jônatas ama Davi \"como à sua alma\" (18:1, 3; 20:17). No contexto da corte, o verbo também tem sentido de lealdade política e de aliança; o texto destaca uma amizade profunda e fiel.",
+   "interpretacao": true
+  },
+  {
+   "id": "chesed",
+   "pt": "Misericórdia, lealdade",
+   "refs": [
+    "20:8",
+    "20:14",
+    "20:15"
+   ],
+   "hebraico": {
+    "lema": "חֶסֶד",
+    "translit": "chesed",
+    "strong": "H2617"
+   },
+   "sentido": "bondade leal à aliança",
+   "latim": {
+    "forma": "misericordia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Jônatas pede a Davi que mantenha o chesed com sua casa para sempre (20:14-15). Davi cumprirá isso com Mefibosete em 2 Samuel 9.",
+   "interpretacao": false
+  },
+  {
+   "id": "ov",
+   "pt": "Necromante",
+   "refs": [
+    "28:7",
+    "28:8",
+    "28:3"
+   ],
+   "hebraico": {
+    "lema": "אוֹב",
+    "translit": "ov",
+    "strong": "H178"
+   },
+   "sentido": "espírito de morto; quem diz consultá-lo",
+   "latim": {
+    "forma": "pythonem",
+    "nota": "Em 28:7: mulierem habentem pythonem."
+   },
+   "outras": [],
+   "explicacao": "A lei proibia consultar os mortos (Dt 18:10-11), e Saul mesmo havia expulsado esses praticantes (28:3). Se Samuel realmente apareceu ou se foi outra coisa é discutido entre judeus e cristãos desde a Antiguidade.",
+   "interpretacao": true
+  },
+  {
+   "id": "qeren",
+   "pt": "Chifre, poder",
+   "refs": [
+    "2:1",
+    "2:10",
+    "16:13"
+   ],
+   "hebraico": {
+    "lema": "קֶרֶן",
+    "translit": "qeren",
+    "strong": "H7161"
+   },
+   "sentido": "chifre; força, dignidade",
+   "latim": {
+    "forma": "cornu",
+    "nota": "Em 2:1: exaltatum est cornu meum in Deo meo."
+   },
+   "outras": [],
+   "explicacao": "Ana diz que seu \"chifre\" foi exaltado (2:1) e termina com o chifre do ungido (2:10). O chifre também era recipiente do óleo da unção de Davi (16:13).",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "qumran-samuel",
+   "titulo": "4QSam(a): Golias e a passagem de Naás",
+   "refs": [
+    "17:4",
+    "11:1-2"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Manuscritos do Mar Morto, rolo 4QSam(a) (4Q51)",
+   "referencia": "caverna 4 de Qumran; Autoridade de Antiguidades de Israel",
+   "data_fonte": "c. 50–25 a.C.",
+   "data_evento": "descoberto em 1952",
+   "resumo": "Este é um dos maiores rolos bíblicos de Qumran. Em 17:4 dá a Golias quatro côvados e um palmo (cerca de 2 m), como a Septuaginta, em vez dos seis côvados do texto massorético. Antes do capítulo 11, traz um parágrafo sobre Naás, que furava o olho direito dos israelitas, ausente do texto massorético.",
+   "relacao": "Mostra que circulavam formas diferentes do texto de Samuel. Josefo conhece o episódio de Naás, e algumas traduções modernas o incluem. A altura de Golias continua debatida.",
+   "grau": "documentado"
+  },
+  {
+   "id": "gath-goliath",
+   "titulo": "Inscrição de Tell es-Safi (Gate)",
+   "refs": [
+    "17:4",
+    "21:10"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Óstraco de Tell es-Safi",
+   "referencia": "Tell es-Safi, identificada com Gate dos filisteus (escavações de Aren Maeir)",
+   "data_fonte": "c. séc. X–IX a.C.",
+   "data_evento": "descoberto em 2005",
+   "resumo": "Um caco de cerâmica com dois nomes escritos em letras do alfabeto protocananeu, lidos como \"ALWT\" e \"WLT\", semelhantes à forma do nome Golias.",
+   "relacao": "Não menciona o Golias da Bíblia, mas mostra que nomes parecidos, de origem não semita, eram usados em Gate, a cidade de Golias e de Aquis. É associação, não prova.",
+   "grau": "associacao"
+  },
+  {
+   "id": "ekron-aquis",
+   "titulo": "Inscrição de Ecrom: o nome Aquis",
+   "refs": [
+    "21:10",
+    "27:2"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Inscrição real de Ecrom (Tel Miqne)",
+   "referencia": "Museu de Israel, Jerusalém",
+   "data_fonte": "séc. VII a.C.",
+   "data_evento": "descoberta em 1996",
+   "resumo": "Inscrição de dedicação de um templo, feita por \"Aquis (Ikausu), filho de Padi, governante de Ecrom\".",
+   "relacao": "Confirma que Aquis era um nome usado por reis filisteus, como o Aquis de Gate que acolheu Davi (21:10; 27:2). A inscrição é cerca de três séculos posterior a Davi e se refere a outro rei.",
+   "grau": "associacao"
+  },
+  {
+   "id": "qeiyafa",
+   "titulo": "Khirbet Qeiyafa, no vale de Elá",
+   "refs": [
+    "17:1-2"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Escavações de Yosef Garfinkel e Saar Ganor",
+   "referencia": "Khirbet Qeiyafa, sobre o vale de Elá",
+   "data_fonte": "c. 1020–980 a.C.",
+   "data_evento": "escavado de 2007 a 2013",
+   "resumo": "Uma cidade fortificada com muralha dupla e duas portas, de curta duração, sobre o vale de Elá. Ali se achou um óstraco com escrita alfabética antiga.",
+   "relacao": "Situa uma fortificação exatamente no cenário de 1 Samuel 17 e no período de Saul e Davi. Os escavadores a atribuem ao reino de Judá; outros arqueólogos discordam. O óstraco é de leitura incerta.",
+   "grau": "associacao"
+  },
+  {
+   "id": "pim",
+   "titulo": "Os pesos \"pim\"",
+   "refs": [
+    "13:19-21"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Pesos de pedra inscritos com a palavra \"pim\" (pym)",
+   "referencia": "encontrados em vários sítios de Judá",
+   "data_fonte": "c. séc. VIII–VII a.C.",
+   "data_evento": "descobertos no séc. XX",
+   "resumo": "Pequenos pesos de pedra com a inscrição pym, equivalentes a cerca de dois terços de um siclo.",
+   "relacao": "Em 13:21 o hebraico diz que os filisteus cobravam um \"pim\" para afiar as ferramentas. A palavra era obscura até a descoberta desses pesos. A tradução portuguesa usada aqui diz apenas \"certo preço\".",
+   "grau": "associacao"
+  },
+  {
+   "id": "medinet-habu",
+   "titulo": "Os filisteus nos relevos de Medinet Habu",
+   "refs": [
+    "4:1",
+    "13:19"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Templo funerário de Ramsés III em Medinet Habu",
+   "referencia": "relevos do 8º ano de Ramsés III",
+   "data_fonte": "c. 1175 a.C.",
+   "data_evento": "chegada dos \"povos do mar\"",
+   "resumo": "Os relevos mostram os Peleset (filisteus) e outros \"povos do mar\" em batalha contra o Egito.",
+   "relacao": "Explica a origem dos filisteus, que dominam a política e a técnica militar em 1 Samuel, inclusive o controle do ferro (13:19-21).",
+   "grau": "documentado"
+  },
+  {
+   "id": "silo-destruicao",
+   "titulo": "A destruição de Siló",
+   "refs": [
+    "4:10-11"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Escavações de Israel Finkelstein em Siló",
+   "referencia": "Khirbet Seilun (Tel Siló)",
+   "data_fonte": "Idade do Ferro I",
+   "data_evento": "destruição por volta de meados do séc. XI a.C.",
+   "resumo": "Os edifícios do Ferro I em Siló foram destruídos por fogo, com grandes jarros ainda no lugar.",
+   "relacao": "Muitos ligam essa destruição à derrota de Afeque e à captura da arca (cap. 4), e Jeremias 7:12 lembra a ruína de Siló. A ligação é plausível, mas o texto de Samuel não descreve a destruição da cidade.",
+   "grau": "associacao"
+  },
+  {
+   "id": "bete-sea",
+   "titulo": "Bete-Seã e os templos do Ferro I",
+   "refs": [
+    "31:10"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Escavações da Universidade da Pensilvânia em Tel Beit She'an",
+   "referencia": "Tel Beit She'an; Museu da Universidade da Pensilvânia, Filadélfia",
+   "data_fonte": "séc. XII–XI a.C.",
+   "data_evento": "escavado de 1921 a 1933",
+   "resumo": "Os escavadores encontraram templos dos níveis do Ferro I, numa cidade que fora base egípcia.",
+   "relacao": "Os arqueólogos da época identificaram um deles com o templo de Astarote onde ficaram as armas de Saul (31:10). A identificação é hoje vista como incerta.",
+   "grau": "associacao"
+  },
+  {
+   "id": "josefo-saul",
+   "titulo": "Josefo sobre Samuel e Saul",
+   "refs": [
+    "11:1-2",
+    "31:4"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 6",
+   "data_fonte": "c. 93–94 d.C.",
+   "data_evento": "fim do séc. XI a.C.",
+   "resumo": "Josefo reconta a vida de Samuel, o reinado de Saul e a ascensão de Davi, incluindo o episódio de Naás que aparece em 4QSam(a).",
+   "relacao": "Mostra que Josefo usou um texto de Samuel semelhante ao de Qumran. É testemunha da leitura judaica do séc. I, não dos fatos.",
+   "grau": "documentado"
+  }
+ ]
+}

@@ -1,0 +1,742 @@
+{
+ "livro": "1-reis",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:38-40",
+   "titulo": "Salomão é ungido em Giom",
+   "descricao": "O sacerdote Zadoque derrama o azeite do chifre sobre Salomão, montado na mula do rei Davi, enquanto o povo toca trombetas e grita: \"Viva o rei Salomão!\"",
+   "alt": "Um sacerdote derrama azeite de um chifre sobre a cabeça de um jovem montado numa mula, cercado por povo em festa.",
+   "prompt": "A young Israelite prince seated on a royal mule beside a spring outside ancient Jerusalem, an elderly priest in white linen robes pouring oil from a ram's horn over his head, a prophet and armored royal guards beside them, crowds raising trumpets and flutes, morning sunlight, joyful celebration"
+  },
+  {
+   "id": "q02",
+   "capitulo": 3,
+   "ref": "3:16-28",
+   "titulo": "O julgamento das duas mães",
+   "descricao": "Duas mulheres disputam um bebê diante de Salomão; quando o rei manda dividir a criança, a verdadeira mãe se revela ao abrir mão do filho para salvá-lo.",
+   "alt": "Diante do rei no trono, uma mulher estende os braços em súplica pelo bebê enquanto outra observa com frieza.",
+   "prompt": "Interior of an ancient Near Eastern throne hall, young King Solomon on a carved throne raising his hand to stop a guard, two women kneeling before him, one desperately reaching out with tears toward a swaddled infant held by a guard, the other woman standing cold and rigid, courtiers watching, warm light through high windows, no violence"
+  },
+  {
+   "id": "q03",
+   "capitulo": 6,
+   "ref": "6:1-14",
+   "titulo": "A construção do templo",
+   "descricao": "No quarto ano de Salomão começa a construção da casa do SENHOR, com pedras já preparadas na pedreira, de modo que não se ouvia martelo no local da obra (6:7).",
+   "alt": "Operários erguem silenciosamente grandes blocos de pedra lavrada e vigas de cedro em uma obra monumental sobre um monte.",
+   "prompt": "Construction of a monumental stone temple on a hilltop in ancient Jerusalem, workers in simple tunics placing large pre-cut limestone blocks with ropes and wooden levers, cedar beams stacked nearby, Phoenician craftsmen, quiet orderly work without hammers, golden afternoon light, dust in the air"
+  },
+  {
+   "id": "q04",
+   "capitulo": 8,
+   "ref": "8:10-11",
+   "titulo": "A nuvem enche o templo",
+   "descricao": "Quando a arca é colocada no Santo dos Santos, uma nuvem enche a casa do SENHOR, e os sacerdotes não conseguem permanecer ali por causa da glória.",
+   "alt": "Sacerdotes recuam, cobrindo o rosto, enquanto uma nuvem luminosa enche o interior do templo.",
+   "prompt": "Interior of Solomon's temple with cedar walls carved with gold-covered palm trees and flowers, a radiant luminous cloud filling the sanctuary, priests in white linen stepping back and shielding their faces in awe, the veiled inner sanctuary glowing, incense smoke, no human figure for God, only light and cloud"
+  },
+  {
+   "id": "q05",
+   "capitulo": 8,
+   "ref": "8:22-30",
+   "titulo": "A oração de Salomão",
+   "descricao": "Diante do altar e de toda a congregação, Salomão estende as mãos para o céu e reconhece que nem os céus podem conter Deus, quanto mais o templo (8:27).",
+   "alt": "Um rei de manto real, de pé diante de um grande altar, ergue as mãos para o céu diante de uma multidão.",
+   "prompt": "King Solomon in royal robes standing before a great bronze altar in the temple courtyard, arms stretched toward the sky in prayer, vast assembly of Israelites in the courtyard, the stone temple with two bronze pillars behind, soft heavenly light breaking through clouds"
+  },
+  {
+   "id": "q06",
+   "capitulo": 10,
+   "ref": "10:1-10",
+   "titulo": "A visita da rainha de Sabá",
+   "descricao": "A rainha de Sabá chega com caravana de camelos, especiarias e ouro para provar Salomão com perguntas, e fica admirada com sua sabedoria.",
+   "alt": "Uma rainha estrangeira com séquito e camelos carregados de presentes é recebida pelo rei no salão do palácio.",
+   "prompt": "The Queen of Sheba in rich South Arabian garments and jewelry arriving at Solomon's palace with a caravan of camels loaded with spices, gold and precious stones, servants carrying chests, King Solomon on an ivory throne overlaid with gold receiving her, attentive courtiers, opulent hall, warm lamplight"
+  },
+  {
+   "id": "q07",
+   "capitulo": 11,
+   "ref": "11:29-31",
+   "titulo": "Aías rasga a capa nova",
+   "descricao": "No campo, o profeta Aías rasga sua capa nova em doze pedaços e entrega dez a Jeroboão, anunciando a divisão do reino.",
+   "alt": "Um profeta idoso entrega pedaços de uma capa rasgada a um jovem num campo aberto.",
+   "prompt": "Open countryside outside Jerusalem, an elderly prophet in rough garments holding a new cloak torn into twelve pieces, handing ten pieces to a surprised young man in a work tunic, the two alone in a wide field, dramatic cloudy sky, solemn mood"
+  },
+  {
+   "id": "q08",
+   "capitulo": 12,
+   "ref": "12:28-29",
+   "titulo": "Os bezerros de ouro de Jeroboão",
+   "descricao": "Para que o povo não suba a Jerusalém, Jeroboão faz dois bezerros de ouro e os coloca em Betel e em Dã.",
+   "alt": "Um rei apresenta ao povo um bezerro de ouro sobre um pedestal num santuário a céu aberto.",
+   "prompt": "King Jeroboam in royal robes presenting a golden calf statue on a stone pedestal at an open-air hilltop sanctuary in Bethel, crowd of Israelites hesitating and murmuring, smoke from an altar, overcast sky, somber mood"
+  },
+  {
+   "id": "q09",
+   "capitulo": 17,
+   "ref": "17:4-6",
+   "titulo": "Os corvos alimentam Elias",
+   "descricao": "Junto ao ribeiro de Querite, Elias recebe pão e carne trazidos por corvos, de manhã e à tarde.",
+   "alt": "Um profeta sentado junto a um riacho estreito recebe pão de corvos que descem do céu.",
+   "prompt": "The prophet Elijah in a rough camel-hair cloak sitting beside a narrow brook in a rocky ravine east of the Jordan, ravens descending with bread and meat in their beaks, sparse vegetation, early morning light, peaceful solitude"
+  },
+  {
+   "id": "q10",
+   "capitulo": 17,
+   "ref": "17:10-16",
+   "titulo": "A viúva de Sarepta",
+   "descricao": "Elias pede pão a uma viúva que só tinha um punhado de farinha e um pouco de azeite; pela palavra do SENHOR, o jarro e a botija não se esvaziam.",
+   "alt": "Uma viúva pobre, com o filho ao lado, despeja farinha de um jarro enquanto o profeta observa à porta.",
+   "prompt": "A poor widow in simple dark garments inside a humble stone house in Zarephath, pouring flour from a clay jar beside a small oil jug, her young son at her side, the prophet Elijah standing at the doorway, a small fire with two sticks, warm humble light"
+  },
+  {
+   "id": "q11",
+   "capitulo": 18,
+   "ref": "18:36-39",
+   "titulo": "O fogo no monte Carmelo",
+   "descricao": "Depois da oração de Elias, cai fogo do SENHOR que consome o holocausto, a lenha, as pedras e a água, e o povo prostra-se dizendo: \"O SENHOR é o Deus!\"",
+   "alt": "Fogo desce do céu sobre um altar de pedras no alto de um monte, e uma multidão se prostra.",
+   "prompt": "Summit of Mount Carmel, a stone altar of twelve stones drenched in water with a trench, a pillar of fire descending from the sky consuming the offering, the prophet Elijah with arms raised, crowds of Israelites falling on their faces, prophets of Baal recoiling at a distance, dramatic sky, sea visible below"
+  },
+  {
+   "id": "q12",
+   "capitulo": 19,
+   "ref": "19:4-8",
+   "titulo": "O anjo e Elias no deserto",
+   "descricao": "Exausto e desejando morrer, Elias dorme debaixo de um junípero; um anjo o toca, lhe dá pão e água e o fortalece para a viagem até Horebe.",
+   "alt": "Um anjo de aparência serena toca o ombro de um profeta adormecido sob um arbusto no deserto.",
+   "prompt": "Desert wilderness south of Beersheba, the exhausted prophet Elijah asleep under a broom bush, a dignified angel in white robes gently touching his shoulder, a cake of bread baked on hot stones and a jar of water beside him, soft dawn light over the dunes"
+  },
+  {
+   "id": "q13",
+   "capitulo": 19,
+   "ref": "19:11-13",
+   "titulo": "A voz suave no Horebe",
+   "descricao": "Diante do vento, do terremoto e do fogo, o SENHOR não estava neles; depois veio \"uma voz agradável e suave\", e Elias cobriu o rosto com o manto à entrada da caverna.",
+   "alt": "Um profeta cobre o rosto com o manto à entrada de uma caverna na montanha, após a passagem da tempestade.",
+   "prompt": "Mount Horeb, the prophet Elijah standing at the mouth of a rocky cave with his face covered by his mantle, broken rocks and fading fire in the distance after a mighty wind and earthquake, a calm quiet light settling over the mountain, no figure of God, awe and stillness"
+  },
+  {
+   "id": "q14",
+   "capitulo": 19,
+   "ref": "19:19-21",
+   "titulo": "O chamado de Eliseu",
+   "descricao": "Elias encontra Eliseu arando com doze juntas de bois e lança sobre ele o seu manto; Eliseu deixa tudo para segui-lo.",
+   "alt": "Um profeta lança seu manto sobre um jovem que ara a terra com bois.",
+   "prompt": "A fertile plowed field, young Elisha guiding a pair of oxen at the end of a line of twelve yoke of oxen, the prophet Elijah passing by and casting his rough mantle over Elisha's shoulders, farmers watching, late afternoon golden light"
+  },
+  {
+   "id": "q15",
+   "capitulo": 21,
+   "ref": "21:1-4",
+   "titulo": "A vinha de Nabote",
+   "descricao": "Acabe quer a vinha de Nabote, ao lado do palácio, mas Nabote recusa vender a herança de seus pais; o rei volta para casa desgostoso.",
+   "alt": "Um agricultor diante de sua vinha recusa com firmeza a oferta de um rei.",
+   "prompt": "A vineyard beside a palace in Jezreel, Naboth, a humble Israelite farmer, standing firmly among his vines shaking his head, King Ahab in royal robes gesturing with an offer, attendants nearby, the palace walls in the background, late afternoon light"
+  },
+  {
+   "id": "q16",
+   "capitulo": 22,
+   "ref": "22:10-17",
+   "titulo": "Micaías diante dos dois reis",
+   "descricao": "Acabe e Josafá estão sentados em tronos à porta de Samaria; enquanto centenas de profetas anunciam vitória, Micaías vê Israel disperso \"como ovelhas sem pastor\".",
+   "alt": "Dois reis em tronos junto à porta de uma cidade ouvem um profeta solitário diante de muitos outros.",
+   "prompt": "City gate square of ancient Samaria, two kings in royal robes seated on thrones side by side, a crowd of court prophets gesturing, one prophet with iron horns on his head, a lone prophet Micaiah standing calm and serious before them, guards, hills with scattered sheep in the distance"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "templo",
+   "termo": "Templo (a casa do SENHOR)",
+   "ref": "6:1",
+   "explicado": false,
+   "significado": "O texto apresenta o templo como o lugar onde Deus põe o seu nome (8:29; 9:3), mas Salomão reconhece que nem os céus o contêm (8:27). Muitos leitores veem nele um sinal da presença de Deus com o povo, e cristãos o relacionam a Jesus (João 2:21)."
+  },
+  {
+   "id": "arca",
+   "termo": "Arca do pacto",
+   "ref": "8:6",
+   "explicado": true,
+   "significado": "Guardava as duas tábuas de pedra da aliança (8:9, 8:21). É posta sob as asas dos querubins, ligando o templo à aliança do Sinai."
+  },
+  {
+   "id": "querubins",
+   "termo": "Querubins",
+   "ref": "6:23",
+   "explicado": false,
+   "significado": "Duas grandes figuras de madeira de oliveira cobertas de ouro guardavam o lugar santíssimo. O texto não explica seu sentido; costumam ser entendidos como guardiões do trono de Deus."
+  },
+  {
+   "id": "jaquim-boaz",
+   "termo": "Colunas Jaquim e Boaz",
+   "ref": "7:21",
+   "explicado": false,
+   "significado": "Duas colunas de bronze na entrada do templo. Os nomes costumam ser traduzidos como \"Ele estabelece\" e \"nele há força\", mas o texto não explica o motivo dos nomes."
+  },
+  {
+   "id": "mar-de-fundicao",
+   "termo": "Mar de fundição",
+   "ref": "7:23",
+   "explicado": false,
+   "significado": "Grande bacia de bronze sobre doze bois. Segundo 2 Crônicas 4:6 servia para os sacerdotes se lavarem; alguns veem nela também uma imagem do domínio de Deus sobre as águas."
+  },
+  {
+   "id": "nuvem-gloria",
+   "termo": "Nuvem e glória",
+   "ref": "8:10",
+   "explicado": true,
+   "significado": "O próprio texto identifica a nuvem que enche a casa com \"a glória do SENHOR\" (8:11), como no tabernáculo no tempo de Moisés."
+  },
+  {
+   "id": "lampada-davi",
+   "termo": "Lâmpada de Davi",
+   "ref": "11:36",
+   "explicado": false,
+   "significado": "Deus mantém uma \"lâmpada\" para Davi em Jerusalém: a continuidade de sua descendência no trono, mesmo quando os reis falham (15:4). Muitos leem aqui a esperança messiânica."
+  },
+  {
+   "id": "manto-rasgado",
+   "termo": "Capa rasgada em doze pedaços",
+   "ref": "11:30",
+   "explicado": true,
+   "significado": "Aías explica o gesto: Deus rasga o reino de Salomão e dá dez tribos a Jeroboão (11:31)."
+  },
+  {
+   "id": "bezerros-de-ouro",
+   "termo": "Bezerros de ouro",
+   "ref": "12:28",
+   "explicado": false,
+   "significado": "Jeroboão os põe em Betel e Dã para que o povo não suba a Jerusalém. O texto os condena como pecado; a frase repete Êxodo 32:4, lembrando o bezerro do deserto."
+  },
+  {
+   "id": "parreira-figueira",
+   "termo": "Parreira e figueira",
+   "ref": "4:25",
+   "explicado": true,
+   "significado": "Cada um vivendo \"debaixo de sua parreira e de sua figueira\" é a imagem de segurança e paz no reino de Salomão, como o próprio versículo diz."
+  },
+  {
+   "id": "seca-chuva",
+   "termo": "Seca e chuva",
+   "ref": "17:1",
+   "explicado": false,
+   "significado": "A falta de chuva anunciada por Elias mostra que é o SENHOR, e não Baal (tido como deus da tempestade), quem dá a chuva. A pequena nuvem de 18:44 marca o fim do juízo."
+  },
+  {
+   "id": "corvos",
+   "termo": "Corvos",
+   "ref": "17:6",
+   "explicado": false,
+   "significado": "Aves consideradas impuras pela lei tornam-se instrumento do cuidado de Deus pelo profeta. O texto não dá outro sentido além da provisão."
+  },
+  {
+   "id": "farinha-azeite",
+   "termo": "Jarro de farinha e botija de azeite",
+   "ref": "17:16",
+   "explicado": true,
+   "significado": "Não se esgotam \"conforme à palavra do SENHOR\": sinal de que Deus sustenta quem confia em sua palavra, até fora de Israel."
+  },
+  {
+   "id": "fogo-do-ceu",
+   "termo": "Fogo do céu",
+   "ref": "18:38",
+   "explicado": true,
+   "significado": "O fogo responde à pergunta de 18:24 e prova diante do povo que o SENHOR é Deus (18:39)."
+  },
+  {
+   "id": "voz-suave",
+   "termo": "Voz suave",
+   "ref": "19:12",
+   "explicado": false,
+   "significado": "Deus não estava no vento, no terremoto nem no fogo, mas se fez ouvir numa voz tranquila. Costuma ser lido como lição de que Deus age também de forma discreta, não só em sinais espetaculares."
+  },
+  {
+   "id": "manto-de-elias",
+   "termo": "Manto de Elias",
+   "ref": "19:19",
+   "explicado": false,
+   "significado": "Lançar o manto sobre Eliseu indica chamado e sucessão; o mesmo manto passará a Eliseu em 2 Reis 2:13."
+  },
+  {
+   "id": "vinha-nabote",
+   "termo": "Vinha de Nabote",
+   "ref": "21:3",
+   "explicado": false,
+   "significado": "Herança familiar que, pela lei, não devia ser vendida para sempre. Representa o direito do pequeno diante do poder do rei."
+  },
+  {
+   "id": "ovelhas-sem-pastor",
+   "termo": "Ovelhas sem pastor",
+   "ref": "22:17",
+   "explicado": true,
+   "significado": "O próprio SENHOR explica a visão: \"Estes não têm senhor\", anunciando a morte do rei. A imagem será retomada nos Evangelhos (Mateus 9:36)."
+  },
+  {
+   "id": "pontas-do-altar",
+   "termo": "Pontas do altar",
+   "ref": "1:50",
+   "explicado": false,
+   "significado": "Agarrar-se às pontas do altar era buscar refúgio junto ao santuário. O texto mostra que isso não protegia quem era culpado de crime grave (2:28-34)."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "chokmah",
+   "pt": "Sabedoria",
+   "refs": [
+    "3:28",
+    "4:29"
+   ],
+   "hebraico": {
+    "lema": "חָכְמָה",
+    "translit": "chokhmah",
+    "strong": "H2451"
+   },
+   "sentido": "habilidade, sabedoria prática para viver e governar",
+   "latim": {
+    "forma": "sapientia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "No hebraico, sabedoria é sobretudo prática: saber julgar, governar e viver bem. O texto insiste que é dom de Deus (3:28; 4:29).",
+   "interpretacao": false
+  },
+  {
+   "id": "lev-shomea",
+   "pt": "Coração com entendimento",
+   "refs": [
+    "3:9"
+   ],
+   "hebraico": {
+    "lema": "לֵב שֹׁמֵעַ",
+    "translit": "lev shomea",
+    "strong": "H3820, H8085"
+   },
+   "sentido": "literalmente, \"coração que ouve\"",
+   "latim": {
+    "forma": "cor docile",
+    "nota": "A Vulgata traduz por \"coração dócil\", disposto a aprender."
+   },
+   "outras": [],
+   "explicacao": "Salomão pede um coração que escute a Deus e ao povo. Para a mentalidade hebraica o coração é o centro da mente e das decisões, não só das emoções.",
+   "interpretacao": false
+  },
+  {
+   "id": "chesed",
+   "pt": "Misericórdia",
+   "refs": [
+    "3:6",
+    "8:23"
+   ],
+   "hebraico": {
+    "lema": "חֶסֶד",
+    "translit": "chesed",
+    "strong": "H2617"
+   },
+   "sentido": "amor leal, bondade fiel à aliança",
+   "latim": {
+    "forma": "misericordia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Chesed é o amor que permanece fiel aos compromissos. Salomão liga a misericórdia de Deus à manutenção do trono de Davi e à guarda do pacto.",
+   "interpretacao": false
+  },
+  {
+   "id": "berit",
+   "pt": "Pacto, aliança",
+   "refs": [
+    "8:21",
+    "8:23"
+   ],
+   "hebraico": {
+    "lema": "בְּרִית",
+    "translit": "berit",
+    "strong": "H1285"
+   },
+   "sentido": "acordo solene com compromissos",
+   "latim": {
+    "forma": "foedus / pactum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A arca guarda as tábuas da aliança do Sinai. Todo o livro avalia os reis pela fidelidade a esse pacto.",
+   "interpretacao": false
+  },
+  {
+   "id": "bayit",
+   "pt": "Casa",
+   "refs": [
+    "6:1",
+    "2:24"
+   ],
+   "hebraico": {
+    "lema": "בַּיִת",
+    "translit": "bayit",
+    "strong": "H1004"
+   },
+   "sentido": "casa, templo, família, dinastia",
+   "latim": {
+    "forma": "domus",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A mesma palavra serve para o templo (\"casa do SENHOR\"), o palácio e a dinastia (\"casa de Davi\"). O jogo entre esses sentidos vem da promessa de 2 Samuel 7.",
+   "interpretacao": false
+  },
+  {
+   "id": "kavod",
+   "pt": "Glória",
+   "refs": [
+    "8:11"
+   ],
+   "hebraico": {
+    "lema": "כָּבוֹד",
+    "translit": "kavod",
+    "strong": "H3519"
+   },
+   "grego": {
+    "lema": "δόξα",
+    "translit": "doxa",
+    "strong": "G1391"
+   },
+   "sentido": "peso, importância, esplendor",
+   "latim": {
+    "forma": "gloria",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A raiz sugere \"peso\": a presença de Deus é tão real que os sacerdotes não conseguem ficar de pé para ministrar.",
+   "interpretacao": false
+  },
+  {
+   "id": "anan",
+   "pt": "Nuvem",
+   "refs": [
+    "8:10",
+    "18:44"
+   ],
+   "hebraico": {
+    "lema": "עָנָן",
+    "translit": "anan",
+    "strong": "H6051"
+   },
+   "sentido": "nuvem",
+   "latim": {
+    "forma": "nebula",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Em 8:10 a nuvem é sinal da presença de Deus, como no Sinai; em 18:44 a pequenina nuvem anuncia a chuva. O mesmo elemento aparece como glória e como bênção.",
+   "interpretacao": false
+  },
+  {
+   "id": "shem",
+   "pt": "Nome",
+   "refs": [
+    "8:29",
+    "9:3"
+   ],
+   "hebraico": {
+    "lema": "שֵׁם",
+    "translit": "shem",
+    "strong": "H8034"
+   },
+   "sentido": "nome, reputação, presença",
+   "latim": {
+    "forma": "nomen",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "\"Meu nome estará ali\" indica que Deus se faz presente e é invocado no templo sem ficar preso a ele (8:27).",
+   "interpretacao": false
+  },
+  {
+   "id": "nir",
+   "pt": "Lâmpada",
+   "refs": [
+    "11:36",
+    "15:4"
+   ],
+   "hebraico": {
+    "lema": "נִיר",
+    "translit": "nir"
+   },
+   "sentido": "lâmpada, luz que continua acesa",
+   "latim": {
+    "forma": "lucerna",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Forma rara ligada a ner, \"lâmpada\". A luz que não se apaga representa a dinastia de Davi que continua, por fidelidade de Deus.",
+   "interpretacao": true
+  },
+  {
+   "id": "navi",
+   "pt": "Profeta",
+   "refs": [
+    "18:22",
+    "13:1"
+   ],
+   "hebraico": {
+    "lema": "נָבִיא",
+    "translit": "navi",
+    "strong": "H5030"
+   },
+   "sentido": "porta-voz, quem fala em nome de Deus",
+   "latim": {
+    "forma": "propheta",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Na segunda metade do livro os profetas confrontam os reis. O sentido central é falar da parte de Deus, não apenas prever o futuro.",
+   "interpretacao": false
+  },
+  {
+   "id": "baal",
+   "pt": "Baal",
+   "refs": [
+    "16:31",
+    "18:21"
+   ],
+   "hebraico": {
+    "lema": "בַּעַל",
+    "translit": "ba'al",
+    "strong": "H1168"
+   },
+   "sentido": "\"senhor\", \"dono\"; nome do deus cananeu da tempestade",
+   "latim": {
+    "forma": "Baal",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Ba'al era título comum (\"senhor\") e também nome do deus da chuva e da fertilidade cultuado na Fenícia. O conflito com Elias gira em torno de quem dá a chuva.",
+   "interpretacao": false
+  },
+  {
+   "id": "pasach",
+   "pt": "Hesitar",
+   "refs": [
+    "18:21",
+    "18:26"
+   ],
+   "hebraico": {
+    "lema": "פָּסַח",
+    "translit": "pasach",
+    "strong": "H6452"
+   },
+   "sentido": "mancar, coxear, saltar de um lado para outro",
+   "latim": {
+    "forma": "claudicatis in duas partes",
+    "nota": "Vulgata: \"até quando mancais para dois lados?\""
+   },
+   "outras": [],
+   "explicacao": "Elias usa o verbo de \"mancar\": o povo coxeia entre dois caminhos. Em 18:26 o mesmo verbo descreve a dança dos profetas de Baal ao redor do altar.",
+   "interpretacao": false
+  },
+  {
+   "id": "demamah",
+   "pt": "Voz suave",
+   "refs": [
+    "19:12"
+   ],
+   "hebraico": {
+    "lema": "קוֹל דְּמָמָה דַקָּה",
+    "translit": "qol demamah daqqah",
+    "strong": "H6963, H1827"
+   },
+   "sentido": "literalmente \"som de silêncio fino\"",
+   "latim": {
+    "forma": "sibilus aurae tenuis",
+    "nota": "Vulgata: \"sussurro de brisa leve\"."
+   },
+   "outras": [],
+   "explicacao": "A expressão é difícil de traduzir: pode ser um sussurro, um silêncio quase absoluto ou uma brisa. As traduções variam, mas todas destacam o contraste com o vento, o terremoto e o fogo.",
+   "interpretacao": false
+  },
+  {
+   "id": "adderet",
+   "pt": "Manto",
+   "refs": [
+    "19:13",
+    "19:19"
+   ],
+   "hebraico": {
+    "lema": "אַדֶּרֶת",
+    "translit": "adderet",
+    "strong": "H155"
+   },
+   "sentido": "manto, capa larga",
+   "latim": {
+    "forma": "pallium",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "O manto característico do profeta. Ao lançá-lo sobre Eliseu, Elias indica a passagem de seu ministério.",
+   "interpretacao": false
+  },
+  {
+   "id": "nachalah",
+   "pt": "Herança",
+   "refs": [
+    "21:3"
+   ],
+   "hebraico": {
+    "lema": "נַחֲלָה",
+    "translit": "nachalah",
+    "strong": "H5159"
+   },
+   "sentido": "herança, porção de terra recebida dos pais",
+   "latim": {
+    "forma": "hereditas",
+    "nota": "Vulgata: \"hereditatem patrum meorum\"."
+   },
+   "outras": [],
+   "explicacao": "A terra era vista como dada por Deus às famílias (Levítico 25:23). Por isso Nabote recusa vender, mesmo ao rei.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "menandro-hirao",
+   "titulo": "Hirão de Tiro e Salomão em fontes fenícias",
+   "refs": [
+    "5:1",
+    "9:27"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Contra Apião",
+   "referencia": "livro 1, caps. 17-18",
+   "data_fonte": "c. 95 d.C.",
+   "data_evento": "séc. X a.C.",
+   "resumo": "Josefo cita os historiadores Dio e Menandro de Éfeso, que teriam usado arquivos de Tiro, mencionando o rei Hirão e suas relações com Salomão, inclusive troca de enigmas.",
+   "relacao": "Mostra que tradições de fora de Israel conheciam a aliança entre Hirão e Salomão. As obras de Dio e Menandro se perderam; só temos as citações de Josefo, escritas muitos séculos depois.",
+   "grau": "documentado"
+  },
+  {
+   "id": "josefo-antiguidades-8",
+   "titulo": "Josefo reconta Salomão e os reis divididos",
+   "refs": [
+    "1:39",
+    "22:40"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 8",
+   "data_fonte": "c. 93-94 d.C.",
+   "data_evento": "c. 970-850 a.C.",
+   "resumo": "O livro 8 das Antiguidades narra de Salomão até a morte de Acabe, seguindo de perto 1 Reis e acrescentando tradições e citações de outros autores.",
+   "relacao": "É uma releitura judaica antiga do mesmo período, útil para ver como o texto era entendido no séc. I; não é testemunha independente dos fatos.",
+   "grau": "associacao"
+  },
+  {
+   "id": "menandro-seca",
+   "titulo": "Seca no tempo de Itobal, rei de Tiro",
+   "refs": [
+    "16:31",
+    "17:1"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas (citando Menandro de Éfeso)",
+   "referencia": "livro 8, cap. 13, §2",
+   "data_fonte": "c. 93-94 d.C.",
+   "data_evento": "séc. IX a.C.",
+   "resumo": "Josefo cita Menandro, que menciona uma seca de cerca de um ano no reinado de Itobal (Etbaal) de Tiro, pai de Jezabel segundo 16:31.",
+   "relacao": "Josefo relaciona essa seca à de Elias. A ligação é sugestiva, mas a duração e os detalhes não coincidem exatamente, e a fonte só chegou até nós por citação.",
+   "grau": "associacao"
+  },
+  {
+   "id": "monolito-kurkh",
+   "titulo": "Acabe na batalha de Qarqar",
+   "refs": [
+    "16:29",
+    "22:39"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Monólito de Kurkh, de Salmanaser III",
+   "referencia": "Museu Britânico, Londres",
+   "data_fonte": "c. 852 a.C.",
+   "data_evento": "853 a.C.",
+   "resumo": "Inscrição assíria que descreve a batalha de Qarqar, na Síria, contra uma coalizão de reis. Entre eles cita \"Acabe, o israelita\", com 2.000 carros de guerra.",
+   "relacao": "É a menção extrabíblica mais antiga de Acabe e mostra seu poder militar. A Bíblia não narra Qarqar, mas o retrato de um rei forte combina com 1 Reis 20-22.",
+   "grau": "documentado"
+  },
+  {
+   "id": "estela-mesa-onri",
+   "titulo": "Onri na Estela de Mesa",
+   "refs": [
+    "16:23-24"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Estela de Mesa (Pedra Moabita)",
+   "referencia": "Museu do Louvre, Paris",
+   "data_fonte": "c. 840 a.C.",
+   "data_evento": "séc. IX a.C. (descoberta em 1868)",
+   "resumo": "O rei Mesa de Moabe diz que \"Onri, rei de Israel\" oprimiu Moabe por muito tempo, e que seu filho continuou a dominação.",
+   "relacao": "Confirma Onri como rei forte, cuja dinastia dominou Moabe. Assírios chamaram Israel de \"casa de Onri\" por gerações, o que mostra sua importância, embora 1 Reis lhe dedique poucos versículos.",
+   "grau": "documentado"
+  },
+  {
+   "id": "portal-bubastita",
+   "titulo": "Campanha do faraó Sisaque",
+   "refs": [
+    "14:25-26"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Portal Bubastita (relevo de Sheshonq I)",
+   "referencia": "Templo de Karnak, Luxor, Egito",
+   "data_fonte": "c. 925 a.C.",
+   "data_evento": "c. 925 a.C.",
+   "resumo": "Relevo do faraó Sheshonq I com uma lista de cidades conquistadas em Canaã, incluindo Megido.",
+   "relacao": "Sheshonq I é geralmente identificado com Sisaque. Jerusalém não aparece com clareza na parte legível da lista, e a ordem das cidades é debatida; por isso é um forte paralelo, não confirmação de cada detalhe.",
+   "grau": "associacao"
+  },
+  {
+   "id": "portoes-salomonicos",
+   "titulo": "Portões de Hazor, Megido e Gezer",
+   "refs": [
+    "9:15"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Portões de seis câmaras escavados em Hazor, Megido e Gezer",
+   "referencia": "Escavações de Y. Yadin e outros (décadas de 1950-1970)",
+   "data_fonte": "séc. X ou IX a.C. (datação debatida)",
+   "data_evento": "descobertos no séc. XX",
+   "resumo": "As três cidades citadas em 9:15 têm portões monumentais de planta muito parecida, que Yigael Yadin atribuiu a um projeto real de Salomão.",
+   "relacao": "A ligação com Salomão é muito discutida: alguns arqueólogos datam esses portões no séc. IX a.C., na época de Onri e Acabe. É um paralelo importante, não uma prova.",
+   "grau": "associacao"
+  },
+  {
+   "id": "ostraco-ofir",
+   "titulo": "\"Ouro de Ofir\" num caco de cerâmica",
+   "refs": [
+    "9:28"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Óstraco de Tell Qasile",
+   "referencia": "Escavações de Tell Qasile (Tel Aviv); Museu Eretz Israel",
+   "data_fonte": "c. séc. VIII a.C.",
+   "data_evento": "séc. VIII a.C.",
+   "resumo": "Pequeno caco com a anotação \"ouro de Ofir para Bete-Horom: 30 siclos\".",
+   "relacao": "Mostra que \"ouro de Ofir\" era expressão real de comércio em Israel, como em 9:28. É posterior a Salomão e não fala dele; a localização de Ofir continua desconhecida.",
+   "grau": "associacao"
+  },
+  {
+   "id": "marfins-samaria",
+   "titulo": "Marfins de Samaria",
+   "refs": [
+    "22:39"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Marfins de Samaria",
+   "referencia": "Escavações de Harvard (1908-1910) e de J. W. Crowfoot (1931-1935); Museu de Israel e outros",
+   "data_fonte": "séc. IX-VIII a.C.",
+   "data_evento": "descobertos no séc. XX",
+   "resumo": "Centenas de placas de marfim entalhado, em estilo fenício, que decoravam móveis e paredes da acrópole real de Samaria.",
+   "relacao": "Ilustram a \"casa de marfim\" de Acabe e o luxo criticado pelos profetas (Amós 6:4). Não é possível afirmar quais peças eram do tempo de Acabe.",
+   "grau": "associacao"
+  }
+ ]
+}

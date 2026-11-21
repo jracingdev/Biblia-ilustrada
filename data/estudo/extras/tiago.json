@@ -1,0 +1,396 @@
+{
+ "livro": "tiago",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:22-25",
+   "titulo": "O homem diante do espelho",
+   "descricao": "Quem ouve a palavra e não pratica é como alguém que olha o próprio rosto num espelho e logo esquece como é.",
+   "alt": "Um homem se olha num espelho de bronze e se afasta distraído.",
+   "prompt": "A first-century man glancing briefly at his reflection in a polished bronze mirror hanging on a wall, already turning away distracted toward the door, a scroll left open on a table behind him, morning light"
+  },
+  {
+   "id": "q02",
+   "capitulo": 2,
+   "ref": "2:2-4",
+   "titulo": "O rico e o pobre na assembleia",
+   "descricao": "Tiago condena a acepção de pessoas: dar o lugar de honra ao rico de anéis de ouro e mandar o pobre ficar em pé.",
+   "alt": "Numa sinagoga, um homem rico é levado ao lugar de honra enquanto um pobre fica de pé no canto.",
+   "prompt": "Inside a first-century synagogue-like assembly, an usher bowing and leading a wealthy man with gold rings and fine robes to a prominent seat, while a poor man in shabby clothes is gestured to stand in a corner, others watching, shafts of light"
+  },
+  {
+   "id": "q03",
+   "capitulo": 3,
+   "ref": "3:3-5",
+   "titulo": "Freio, leme e faísca",
+   "descricao": "A língua é pequena como o freio do cavalo e o leme do navio, mas dirige o todo; uma pequena chama incendeia um grande bosque.",
+   "alt": "Um cavaleiro guia o cavalo pelo freio, ao fundo um navio no mar e uma fumaça numa floresta.",
+   "prompt": "A composition of three images in one landscape: a rider guiding a horse by its bridle in the foreground, a great sailing ship steered by a small rudder on the sea behind, and a thin column of smoke rising from a distant forest on a hillside, late afternoon light"
+  },
+  {
+   "id": "q04",
+   "capitulo": 5,
+   "ref": "5:7-8",
+   "titulo": "O lavrador espera a chuva",
+   "descricao": "Como o lavrador que espera com paciência as chuvas para colher, os crentes devem ser pacientes até a vinda do Senhor.",
+   "alt": "Um agricultor olha para o céu nublado sobre seu campo semeado.",
+   "prompt": "A farmer in simple robes standing at the edge of his sown field in Judea, leaning on his staff and looking patiently at gathering rain clouds on the horizon, young green shoots in the soil"
+  },
+  {
+   "id": "q05",
+   "capitulo": 5,
+   "ref": "5:14-16",
+   "titulo": "Orações e unção dos doentes",
+   "descricao": "Quem estiver doente chame os anciãos da igreja, que orem sobre ele ungindo-o com azeite em nome do Senhor.",
+   "alt": "Anciãos oram e ungem com azeite um homem doente deitado numa esteira.",
+   "prompt": "A sick man lying on a mat in a simple home, a group of elders kneeling around him praying, one anointing his forehead with olive oil from a small flask, his family watching with hope, lamplight"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "onda",
+   "termo": "Onda do mar",
+   "ref": "1:6",
+   "explicado": true,
+   "significado": "Quem duvida é como a onda levada pelo vento: instável em todos os seus caminhos (1:8)."
+  },
+  {
+   "id": "flor",
+   "termo": "Flor da erva",
+   "ref": "1:10-11",
+   "explicado": true,
+   "significado": "O próprio texto explica: assim como a flor murcha sob o sol, o rico passará."
+  },
+  {
+   "id": "coroa-vida",
+   "termo": "Coroa da vida",
+   "ref": "1:12",
+   "explicado": false,
+   "significado": "A recompensa de quem suporta a provação. A expressão pode significar \"a coroa que é a vida\"."
+  },
+  {
+   "id": "pai-luzes",
+   "termo": "Pai das luzes",
+   "ref": "1:17",
+   "explicado": false,
+   "significado": "Deus, criador dos astros, não muda como as sombras que os astros projetam."
+  },
+  {
+   "id": "espelho",
+   "termo": "Espelho",
+   "ref": "1:23-24",
+   "explicado": true,
+   "significado": "Quem ouve sem praticar se parece com quem se olha no espelho e esquece; quem pratica a \"lei perfeita da liberdade\" é bem-aventurado (1:25)."
+  },
+  {
+   "id": "corpo-sem-espirito",
+   "termo": "Corpo sem espírito",
+   "ref": "2:26",
+   "explicado": true,
+   "significado": "Tiago explica: assim como o corpo sem espírito está morto, a fé sem obras é morta."
+  },
+  {
+   "id": "freio-leme",
+   "termo": "Freio e leme",
+   "ref": "3:3-4",
+   "explicado": true,
+   "significado": "Pequenos instrumentos que dirigem grandes corpos: assim a língua."
+  },
+  {
+   "id": "fogo",
+   "termo": "Fogo e veneno",
+   "ref": "3:6-8",
+   "explicado": false,
+   "significado": "A língua pode destruir como um incêndio e ferir como veneno."
+  },
+  {
+   "id": "fonte",
+   "termo": "Fonte e árvore",
+   "ref": "3:11-12",
+   "explicado": true,
+   "significado": "Uma fonte não dá água doce e amarga, nem a figueira azeitonas: a mesma boca não deveria bendizer e amaldiçoar (3:10)."
+  },
+  {
+   "id": "vapor",
+   "termo": "Vapor",
+   "ref": "4:14",
+   "explicado": true,
+   "significado": "A vida é como um vapor que aparece e logo desaparece; por isso se diz \"se o Senhor quiser\" (4:15)."
+  },
+  {
+   "id": "traca-ferrugem",
+   "termo": "Traça e ferrugem",
+   "ref": "5:2-3",
+   "explicado": false,
+   "significado": "Riquezas acumuladas apodrecem e testemunham contra quem as reteve injustamente."
+  },
+  {
+   "id": "chuva",
+   "termo": "Chuvas temporãs e serôdias",
+   "ref": "5:7",
+   "explicado": false,
+   "significado": "As chuvas do outono e da primavera eram decisivas para a colheita em Israel. Imagem da paciência até a vinda do Senhor."
+  },
+  {
+   "id": "azeite",
+   "termo": "Azeite",
+   "ref": "5:14",
+   "explicado": false,
+   "significado": "Usado como remédio e como sinal de consagração. As igrejas entendem de forma diferente a unção dos enfermos: sacramento, prática de oração ou sinal de cuidado."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "peirasmos",
+   "pt": "Provação, tentação",
+   "refs": [
+    "1:2",
+    "1:12"
+   ],
+   "grego": {
+    "lema": "πειρασμός",
+    "translit": "peirasmós",
+    "strong": "G3986"
+   },
+   "sentido": "prova, teste; tentação",
+   "latim": {
+    "forma": "temptatio",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A mesma raiz serve para provação (que fortalece) e tentação (que leva ao mal). Tiago esclarece que Deus não tenta ninguém para o mal (1:13).",
+   "interpretacao": false
+  },
+  {
+   "id": "hypomone",
+   "pt": "Perseverança",
+   "refs": [
+    "1:3-4",
+    "5:11"
+   ],
+   "grego": {
+    "lema": "ὑπομονή",
+    "translit": "hypomonḗ",
+    "strong": "G5281"
+   },
+   "sentido": "resistência, permanecer firme",
+   "latim": {
+    "forma": "patientia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Lembra Jó (5:11), exemplo de perseverança.",
+   "interpretacao": false
+  },
+  {
+   "id": "sophia",
+   "pt": "Sabedoria",
+   "refs": [
+    "1:5",
+    "3:17"
+   ],
+   "grego": {
+    "lema": "σοφία",
+    "translit": "sophía",
+    "strong": "G4678"
+   },
+   "sentido": "sabedoria prática",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "חָכְמָה",
+     "translit": "chokmah",
+     "strong": "H2451",
+     "ref": "Pv 2:6"
+    }
+   ],
+   "latim": {
+    "forma": "sapientia",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Tiago lembra a literatura sapiencial do AT: sabedoria é viver bem diante de Deus, e a que vem do alto é pura e pacífica (3:17).",
+   "interpretacao": false
+  },
+  {
+   "id": "dipsychos",
+   "pt": "Indeciso",
+   "refs": [
+    "1:8",
+    "4:8"
+   ],
+   "grego": {
+    "lema": "δίψυχος",
+    "translit": "dípsychos",
+    "strong": "G1374"
+   },
+   "sentido": "de duas almas",
+   "latim": {
+    "forma": "duplex animo",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Palavra que aparece primeiro em Tiago na literatura grega conhecida: alguém dividido entre Deus e o mundo.",
+   "interpretacao": false
+  },
+  {
+   "id": "poietes",
+   "pt": "Praticante",
+   "refs": [
+    "1:22-25"
+   ],
+   "grego": {
+    "lema": "ποιητής",
+    "translit": "poiētḗs",
+    "strong": "G4163"
+   },
+   "sentido": "fazedor, executor",
+   "latim": {
+    "forma": "factores verbi",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Da mesma palavra vem \"poeta\" (o que faz). Tiago insiste em fazer a palavra, não só ouvi-la.",
+   "interpretacao": false
+  },
+  {
+   "id": "ergon",
+   "pt": "Obras",
+   "refs": [
+    "2:17",
+    "2:24"
+   ],
+   "grego": {
+    "lema": "ἔργον",
+    "translit": "érgon",
+    "strong": "G2041"
+   },
+   "sentido": "obras, ações",
+   "latim": {
+    "forma": "opera",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A relação entre Tiago 2 e Paulo (Rm 3:28) é muito discutida. Muitos entendem que Paulo rejeita obras como base da justificação e Tiago rejeita uma fé que não age; Lutero chegou a chamar Tiago de \"epístola de palha\".",
+   "interpretacao": true
+  },
+  {
+   "id": "dikaioo",
+   "pt": "Justificar",
+   "refs": [
+    "2:21",
+    "2:24"
+   ],
+   "grego": {
+    "lema": "δικαιόω",
+    "translit": "dikaióō",
+    "strong": "G1344"
+   },
+   "sentido": "declarar justo; mostrar que é justo",
+   "latim": {
+    "forma": "iustificari",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Em Tiago o verbo pode ter o sentido de \"mostrar-se justo\" diante dos outros pelas obras, o que ajuda a harmonizar com Paulo; outros leem de outra forma.",
+   "interpretacao": true
+  },
+  {
+   "id": "synagoge",
+   "pt": "Congregação",
+   "refs": [
+    "2:2"
+   ],
+   "grego": {
+    "lema": "συναγωγή",
+    "translit": "synagōgḗ",
+    "strong": "G4864"
+   },
+   "sentido": "reunião, sinagoga",
+   "latim": {
+    "forma": "conventum",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Tiago usa a palavra \"sinagoga\" para a reunião dos cristãos, sinal de uma comunidade de origem judaica.",
+   "interpretacao": false
+  },
+  {
+   "id": "presbyteros-tg",
+   "pt": "Anciãos",
+   "refs": [
+    "5:14"
+   ],
+   "grego": {
+    "lema": "πρεσβύτερος",
+    "translit": "presbýteros",
+    "strong": "G4245"
+   },
+   "sentido": "mais velho, ancião",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "זָקֵן",
+     "translit": "zaqen",
+     "strong": "H2205",
+     "ref": "Êx 24:1"
+    }
+   ],
+   "latim": {
+    "forma": "presbyteros ecclesiae",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Os líderes da igreja chamados para orar pelos doentes.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "josefo-tiago",
+   "titulo": "A morte de Tiago, irmão de Jesus",
+   "refs": [
+    "1:1"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Antiguidades Judaicas",
+   "referencia": "livro 20, cap. 9, §200",
+   "data_fonte": "c. 93-94 d.C.",
+   "data_evento": "62 d.C.",
+   "resumo": "Josefo conta que o sumo sacerdote Anano reuniu o sinédrio e fez apedrejar \"Tiago, irmão de Jesus, chamado Cristo\", com alguns outros, entre a morte do governador Festo e a chegada de Albino.",
+   "relacao": "Confirma a existência e o fim de Tiago, líder da igreja de Jerusalém, a quem a tradição atribui a carta. A autoria é discutida, mas o personagem é documentado. A passagem é considerada autêntica pela maioria dos estudiosos.",
+   "grau": "documentado"
+  },
+  {
+   "id": "hegesipo-tiago",
+   "titulo": "Tiago, o Justo, segundo Hegesipo",
+   "refs": [
+    "5:16"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Eusébio de Cesareia, História Eclesiástica (citando Hegesipo)",
+   "referencia": "livro 2, cap. 23",
+   "data_fonte": "c. 325 d.C. (Hegesipo, c. 170 d.C.)",
+   "data_evento": "Morte de Tiago, c. 62 d.C.",
+   "resumo": "Hegesipo descreve Tiago como chamado \"o Justo\", tão dedicado à oração que tinha joelhos calejados como os de um camelo, e narra seu martírio de forma diferente de Josefo.",
+   "relacao": "Combina com a ênfase da carta na oração (5:16) e na justiça, mas é tradição tardia e com elementos lendários.",
+   "grau": "associacao"
+  },
+  {
+   "id": "eusebio-antilegomena",
+   "titulo": "Tiago entre os livros \"contestados\"",
+   "refs": [
+    "1:1"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Eusébio de Cesareia, História Eclesiástica",
+   "referencia": "livro 2, cap. 23, §25 e livro 3, cap. 25, §3",
+   "data_fonte": "c. 325 d.C.",
+   "data_evento": "Debate sobre o cânon (séc. II–IV)",
+   "resumo": "Eusébio diz que a carta de Tiago era lida publicamente na maioria das igrejas, mas que alguns duvidavam dela, e a coloca entre os livros contestados.",
+   "relacao": "Mostra que a aceitação da carta foi gradual. Ela foi plenamente reconhecida no séc. IV.",
+   "grau": "documentado"
+  }
+ ]
+}

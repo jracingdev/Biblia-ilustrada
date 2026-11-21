@@ -1,0 +1,1932 @@
+{
+ "categorias": [
+  {
+   "id": "familia",
+   "nome": "Família e casamento"
+  },
+  {
+   "id": "casa-mesa",
+   "nome": "Casa, mesa e hospitalidade"
+  },
+  {
+   "id": "roupas",
+   "nome": "Roupas e aparência"
+  },
+  {
+   "id": "campo",
+   "nome": "Campo, rebanho e pesca"
+  },
+  {
+   "id": "trabalho",
+   "nome": "Trabalho, comércio e viagens"
+  },
+  {
+   "id": "sociedade",
+   "nome": "Cidade, lei e governo"
+  },
+  {
+   "id": "religiao",
+   "nome": "Culto e vida religiosa"
+  },
+  {
+   "id": "morte",
+   "nome": "Luto e sepultamento"
+  },
+  {
+   "id": "comunicacao",
+   "nome": "Palavra, escrita e gestos"
+  }
+ ],
+ "costumes": [
+  {
+   "id": "casamento",
+   "categoria": "familia",
+   "titulo": "Casamento e noivado",
+   "resumo": "O casamento era um acordo entre famílias, muitas vezes arranjado pelos pais. Havia duas etapas: o noivado (ou desposório), que já criava um compromisso quase tão forte quanto o casamento, e, tempos depois, a festa em que o noivo levava a noiva para a sua casa.",
+   "detalhes": [
+    "O noivado só podia ser desfeito por um ato formal; por isso José, noivo de Maria, pensou em 'deixá-la secretamente'.",
+    "A festa podia durar sete dias ('a semana' de Gênesis 29:27), com banquete, convidados e vinho.",
+    "O noivo saía à noite, com amigos, para buscar a noiva; as parábolas falam de moças com lâmpadas esperando o cortejo.",
+    "Rebeca se cobriu com o véu ao ver Isaque chegando; muitos supõem que o véu da noiva, junto com a escuridão da noite, explique por que Jacó não percebeu que tinha recebido Lia."
+   ],
+   "refs": [
+    "genesis 24:50-67",
+    "genesis 29:21-28",
+    "mateus 1:18-19",
+    "joao 2:1-10",
+    "mateus 25:1-10",
+    "mateus 22:11-12"
+   ]
+  },
+  {
+   "id": "dote",
+   "categoria": "familia",
+   "titulo": "Dote e presentes de casamento",
+   "resumo": "O noivo, ou sua família, entregava à família da noiva um pagamento ou serviço (em hebraico, mohar). Não era 'compra' da mulher no sentido moderno, mas uma compensação e uma garantia do compromisso. A noiva também podia receber presentes do pai.",
+   "detalhes": [
+    "Jacó trabalhou sete anos por Raquel em lugar de pagar em bens.",
+    "Siquém se ofereceu para pagar o dote que pedissem; Saul pediu a Davi uma prova de valentia em vez de prata.",
+    "A Lei fixava um dote obrigatório para quem seduzisse uma moça não comprometida.",
+    "O servo de Abraão deu joias a Rebeca e presentes à família dela."
+   ],
+   "refs": [
+    "genesis 24:53",
+    "genesis 29:18-20",
+    "genesis 34:12",
+    "exodo 22:16-17",
+    "1-samuel 18:25",
+    "josue 15:16-19"
+   ]
+  },
+  {
+   "id": "levirato",
+   "categoria": "familia",
+   "titulo": "Levirato (casamento com a cunhada viúva)",
+   "resumo": "Se um homem morresse sem filhos, o irmão dele devia casar com a viúva, e o primeiro filho seria contado como do falecido. Assim o nome e a herança do morto não se perdiam, e a viúva não ficava desamparada.",
+   "detalhes": [
+    "O irmão que se recusava passava por uma cerimônia pública de vergonha: a viúva lhe tirava a sandália diante dos anciãos.",
+    "A história de Judá e Tamar gira em torno desse dever não cumprido.",
+    "Os saduceus usaram o levirato para fazer a Jesus uma pergunta sobre a ressurreição."
+   ],
+   "refs": [
+    "genesis 38:8",
+    "deuteronomio 25:5-10",
+    "marcos 12:19-23"
+   ]
+  },
+  {
+   "id": "goel",
+   "categoria": "familia",
+   "titulo": "O resgatador (goel)",
+   "resumo": "O parente mais próximo tinha o dever de proteger a família: resgatar terras vendidas por um parente pobre, libertar um parente vendido como servo e, em casos de homicídio, fazer justiça como 'vingador do sangue'. No livro de Rute, Boaz é o resgatador que compra a terra e se casa com Rute.",
+   "detalhes": [
+    "Havia uma ordem de prioridade: Boaz precisou primeiro oferecer o direito a um parente mais próximo, diante dos anciãos na porta da cidade.",
+    "Jeremias comprou o campo do primo em Anatote como resgatador, como sinal de esperança antes do exílio.",
+    "A Bíblia aplica a ideia a Deus, chamado de 'Redentor' (Goel) de Israel, especialmente em Isaías."
+   ],
+   "refs": [
+    "levitico 25:25",
+    "levitico 25:47-49",
+    "numeros 35:19",
+    "rute 3:9-13",
+    "rute 4:1-10",
+    "jeremias 32:6-9",
+    "isaias 41:14"
+   ]
+  },
+  {
+   "id": "primogenitura",
+   "categoria": "familia",
+   "titulo": "Primogenitura",
+   "resumo": "O primeiro filho homem tinha uma posição especial: recebia porção dobrada da herança e, em geral, a liderança da família depois do pai. Também era considerado 'consagrado a Deus' e devia ser resgatado com uma oferta.",
+   "detalhes": [
+    "A Lei proibia o pai de passar o direito do primogênito ao filho da esposa preferida.",
+    "Esaú vendeu sua primogenitura a Jacó por um prato de comida; Hebreus usa o episódio como alerta.",
+    "Muitas histórias bíblicas mostram Deus escolhendo o mais novo (Jacó, José, Efraim, Davi).",
+    "Jesus, como primogênito, foi apresentado no templo segundo a Lei."
+   ],
+   "refs": [
+    "exodo 13:2",
+    "exodo 13:13",
+    "deuteronomio 21:15-17",
+    "genesis 25:31-34",
+    "hebreus 12:16",
+    "lucas 2:22-23"
+   ]
+  },
+  {
+   "id": "bencao-patriarcal",
+   "categoria": "familia",
+   "titulo": "A bênção do pai",
+   "resumo": "Perto da morte, o patriarca abençoava os filhos, e essa palavra era vista como algo que realmente transmitia futuro e herança, não um simples desejo. Muitas vezes vinha com a imposição das mãos.",
+   "detalhes": [
+    "Isaque pediu uma refeição antes de abençoar Esaú, e Jacó obteve a bênção enganando o pai.",
+    "Jacó cruzou as mãos para dar a bênção maior a Efraim, o mais novo.",
+    "Gênesis 49 reúne as palavras de Jacó sobre cada um dos doze filhos."
+   ],
+   "refs": [
+    "genesis 27:1-4",
+    "genesis 27:30-38",
+    "genesis 48:13-20",
+    "genesis 49:1-2",
+    "hebreus 11:20-21"
+   ]
+  },
+  {
+   "id": "circuncisao",
+   "categoria": "familia",
+   "titulo": "Circuncisão",
+   "resumo": "A remoção do prepúcio dos meninos no oitavo dia era o sinal da aliança de Deus com Abraão e seus descendentes. Era um rito de família, associado à imposição do nome.",
+   "detalhes": [
+    "Outros povos vizinhos também praticavam a circuncisão, mas em Israel ela tinha sentido de aliança.",
+    "João Batista e Jesus foram circuncidados e receberam o nome no oitavo dia.",
+    "Os profetas e Paulo falam da 'circuncisão do coração'; a igreja primitiva decidiu que os cristãos não judeus não precisavam ser circuncidados (Atos 15)."
+   ],
+   "refs": [
+    "genesis 17:10-12",
+    "lucas 1:59",
+    "lucas 2:21",
+    "filipenses 3:5",
+    "atos 15:1",
+    "atos 15:19",
+    "deuteronomio 10:16",
+    "romanos 2:29"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Heródoto",
+     "referencia": "Histórias 2.104 (diz que egípcios e outros povos praticavam a circuncisão)",
+     "data": "c. 430 a.C."
+    }
+   ]
+  },
+  {
+   "id": "heranca",
+   "categoria": "familia",
+   "titulo": "Herança e terra da família",
+   "resumo": "A terra era vista como dom de Deus a cada tribo e família, e devia permanecer nela. A herança passava aos filhos homens; não havendo filhos, às filhas, e depois aos parentes mais próximos.",
+   "detalhes": [
+    "As filhas de Zelofeade pediram e obtiveram o direito à herança do pai.",
+    "Nabote recusou vender a vinha ao rei Acabe por ser 'herança de meus pais'.",
+    "Pedir a herança em vida, como o filho pródigo, era um gesto chocante."
+   ],
+   "refs": [
+    "numeros 27:1-11",
+    "1-reis 21:3",
+    "lucas 12:13",
+    "lucas 15:12"
+   ]
+  },
+  {
+   "id": "educacao",
+   "categoria": "familia",
+   "titulo": "Ensino dos filhos",
+   "resumo": "A educação começava em casa: os pais deviam repetir os mandamentos aos filhos em todas as situações do dia e explicar o sentido das festas. Mais tarde, a sinagoga também passou a ensinar a leitura das Escrituras.",
+   "detalhes": [
+    "As perguntas das crianças durante a Páscoa eram parte do rito.",
+    "Timóteo conheceu as Escrituras desde a infância, por meio da mãe e da avó."
+   ],
+   "refs": [
+    "deuteronomio 6:6-7",
+    "exodo 12:26-27",
+    "proverbios 22:6",
+    "2-timoteo 1:5",
+    "2-timoteo 3:15"
+   ]
+  },
+  {
+   "id": "hospitalidade",
+   "categoria": "casa-mesa",
+   "titulo": "Hospitalidade",
+   "resumo": "Em terras de viagem perigosa e sem hospedarias, acolher o estrangeiro era um dever sagrado. O anfitrião oferecia água para os pés, comida, abrigo para a noite e proteção enquanto o hóspede estivesse sob seu teto.",
+   "detalhes": [
+    "Abraão correu para receber três desconhecidos e preparou uma refeição com pão, coalhada, leite e carne.",
+    "Um velho de Gibeá insistiu para que um viajante não dormisse na praça.",
+    "O Novo Testamento pede que os cristãos sejam hospitaleiros, lembrando que alguns 'acolheram anjos' sem saber."
+   ],
+   "refs": [
+    "genesis 18:1-8",
+    "genesis 19:1-3",
+    "juizes 19:20-21",
+    "lucas 10:38",
+    "romanos 12:13",
+    "hebreus 13:2"
+   ]
+  },
+  {
+   "id": "lavar-pes",
+   "categoria": "casa-mesa",
+   "titulo": "Lavar os pés",
+   "resumo": "Quem andava de sandálias por estradas de terra chegava com os pés sujos. Oferecer água para lavá-los era a primeira cortesia ao hóspede; lavar os pés de outra pessoa era serviço de escravo.",
+   "detalhes": [
+    "Jesus notou que Simão, o fariseu, não lhe tinha oferecido água para os pés.",
+    "Na última ceia, Jesus lavou os pés dos discípulos e pediu que eles fizessem o mesmo uns aos outros.",
+    "Algumas igrejas mantêm o lava-pés como rito, sobretudo na Quinta-feira Santa."
+   ],
+   "refs": [
+    "genesis 18:4",
+    "genesis 24:32",
+    "lucas 7:44",
+    "joao 13:4-5",
+    "joao 13:14",
+    "1-timoteo 5:10"
+   ]
+  },
+  {
+   "id": "refeicoes",
+   "categoria": "casa-mesa",
+   "titulo": "Refeições e reclinar à mesa",
+   "resumo": "No dia a dia, as famílias comiam pão (de cevada ou trigo), azeite, legumes, frutas, laticínios e, às vezes, peixe; carne era rara e ficava para festas. Nos banquetes do período do NT, seguia-se o costume greco-romano de comer reclinado em divãs, apoiado no cotovelo esquerdo, com os pés para fora.",
+   "detalhes": [
+    "Por isso o discípulo amado podia 'encostar-se no seio' de Jesus e a mulher podia chegar aos pés dele por trás.",
+    "Os lugares tinham hierarquia: Jesus aconselhou não escolher os primeiros assentos.",
+    "Comia-se com as mãos, molhando pedaços de pão num prato comum.",
+    "O anfitrião abençoava e partia o pão no início da refeição."
+   ],
+   "refs": [
+    "amos 6:4",
+    "lucas 7:36-38",
+    "lucas 14:8-10",
+    "joao 13:23-26",
+    "mateus 26:23",
+    "lucas 24:30"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Pesachim 10:1 (mesmo os pobres deviam comer reclinados na noite de Páscoa)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "pao-moinho",
+   "categoria": "casa-mesa",
+   "titulo": "Pão, moinho e forno",
+   "resumo": "Moer o grão era tarefa diária, geralmente das mulheres ou dos servos, com duas pedras: uma fixa embaixo e outra que se movia em cima. O pão era assado em fornos de barro ou sobre pedras quentes.",
+   "detalhes": [
+    "A Lei proibia tomar a pedra de moinho como penhor, porque isso seria 'penhorar a vida'.",
+    "Uma mulher matou Abimeleque jogando sobre ele a pedra de cima de um moinho.",
+    "Jesus fala de duas mulheres 'moendo em um moinho'."
+   ],
+   "refs": [
+    "exodo 11:5",
+    "deuteronomio 24:6",
+    "juizes 9:53",
+    "mateus 24:41",
+    "levitico 2:4"
+   ]
+  },
+  {
+   "id": "casas-terraco",
+   "categoria": "casa-mesa",
+   "titulo": "Casas, terraço e telhado",
+   "resumo": "A casa comum era de pedra ou tijolo de barro, com poucos cômodos e telhado plano feito de vigas, galhos e barro batido. O terraço era usado para secar produtos, dormir no calor, orar e conversar; por isso a Lei exigia um parapeito.",
+   "detalhes": [
+    "Raabe escondeu os espiões entre talos de linho no terraço.",
+    "Os amigos do paralítico abriram o telhado para descê-lo até Jesus.",
+    "Pedro subiu ao telhado para orar ao meio-dia.",
+    "Uma única lamparina num cômodo podia iluminar 'todos os que estão na casa', e famílias pobres dormiam juntas num mesmo espaço."
+   ],
+   "refs": [
+    "deuteronomio 22:8",
+    "josue 2:6",
+    "1-samuel 9:25-26",
+    "marcos 2:3-4",
+    "atos 10:9",
+    "mateus 24:17",
+    "mateus 5:15",
+    "lucas 11:5-7"
+   ]
+  },
+  {
+   "id": "agua",
+   "categoria": "casa-mesa",
+   "titulo": "Água: poços, fontes e cisternas",
+   "resumo": "Numa terra com longos meses sem chuva, a água era um bem precioso. Havia fontes naturais, poços cavados até o lençol de água e cisternas escavadas na rocha e rebocadas para guardar a água da chuva.",
+   "detalhes": [
+    "Poços eram motivo de disputa entre pastores, como nos dias de Isaque.",
+    "As moças buscavam água no fim da tarde; vários encontros importantes acontecem junto a poços (Rebeca, Raquel, a samaritana).",
+    "Cisternas vazias serviam de prisão: José e Jeremias foram lançados em uma.",
+    "Jeremias compara a idolatria a trocar a fonte viva por 'cisternas rachadas'."
+   ],
+   "refs": [
+    "genesis 24:11",
+    "genesis 26:18-22",
+    "genesis 29:2-3",
+    "genesis 37:24",
+    "jeremias 2:13",
+    "jeremias 38:6",
+    "joao 4:6-11"
+   ]
+  },
+  {
+   "id": "tunica-manto",
+   "categoria": "roupas",
+   "titulo": "Túnica e manto",
+   "resumo": "A roupa básica era a túnica, uma peça de lã ou linho que ia até os joelhos ou tornozelos, usada junto ao corpo. Por cima vinha o manto, uma peça grande e retangular que servia de agasalho de dia e de cobertor à noite.",
+   "detalhes": [
+    "Por isso a Lei mandava devolver antes do pôr do sol o manto tomado como penhor de um pobre.",
+    "Jesus disse para entregar também o manto a quem quisesse tomar a túnica.",
+    "A túnica de Jesus era 'sem costura', tecida de uma só peça, e os soldados a sortearam.",
+    "Roupas especiais indicavam honra, como a de José e a 'melhor roupa' dada ao filho pródigo."
+   ],
+   "refs": [
+    "genesis 37:3",
+    "exodo 22:26-27",
+    "mateus 5:40",
+    "joao 19:23-24",
+    "lucas 15:22"
+   ]
+  },
+  {
+   "id": "cinto",
+   "categoria": "roupas",
+   "titulo": "Cinto e 'cingir os lombos'",
+   "resumo": "Um cinto de couro ou de tecido prendia a túnica na cintura. Para correr, trabalhar ou viajar, a pessoa puxava a parte de baixo da túnica e a prendia no cinto; daí a expressão 'cingir os lombos', que quer dizer ficar pronto para agir.",
+   "detalhes": [
+    "Os israelitas comeram a primeira Páscoa 'com os lombos cingidos'.",
+    "Elias cingiu os lombos e correu diante do carro de Acabe.",
+    "Jesus e Paulo usam a imagem para falar de prontidão e de verdade."
+   ],
+   "refs": [
+    "exodo 12:11",
+    "1-reis 18:46",
+    "lucas 12:35",
+    "efesios 6:14",
+    "1-pedro 1:13"
+   ]
+  },
+  {
+   "id": "sandalias",
+   "categoria": "roupas",
+   "titulo": "Sandálias",
+   "resumo": "As sandálias eram solas de couro ou madeira presas com tiras. Tirá-las era sinal de respeito diante do sagrado; desatar as sandálias de alguém era serviço de escravo.",
+   "detalhes": [
+    "Moisés tirou as sandálias diante da sarça.",
+    "Em Israel, entregar a sandália confirmava um negócio ou a renúncia a um direito (Rute 4).",
+    "João Batista disse que não era digno de desatar as sandálias de quem vinha depois dele."
+   ],
+   "refs": [
+    "exodo 3:5",
+    "rute 4:7-8",
+    "deuteronomio 25:9",
+    "marcos 1:7",
+    "marcos 6:9",
+    "lucas 15:22"
+   ]
+  },
+  {
+   "id": "franjas",
+   "categoria": "roupas",
+   "titulo": "Franjas (tsitsit)",
+   "resumo": "A Lei mandava fazer franjas nos quatro cantos do manto, com um cordão azul, para que, ao vê-las, o israelita se lembrasse dos mandamentos.",
+   "detalhes": [
+    "A mulher com fluxo de sangue tocou a 'borda' (provavelmente a franja) do manto de Jesus.",
+    "Jesus criticou quem alongava as franjas para ser visto.",
+    "Hoje os judeus religiosos usam o talit (xale de oração) com tsitsit."
+   ],
+   "refs": [
+    "numeros 15:38-40",
+    "deuteronomio 22:12",
+    "mateus 9:20",
+    "mateus 14:36",
+    "mateus 23:5"
+   ]
+  },
+  {
+   "id": "filacterios",
+   "categoria": "roupas",
+   "titulo": "Filactérios e mezuzá",
+   "resumo": "Deuteronômio manda 'atar' as palavras de Deus na mão e entre os olhos e escrevê-las nos umbrais da casa. No período do NT, muitos judeus entendiam isso literalmente: usavam caixinhas de couro com trechos da Lei presas ao braço e à testa durante a oração (filactérios, tefilin) e fixavam pequenos rolos nas portas (mezuzá).",
+   "detalhes": [
+    "Jesus critica quem alarga os filactérios para parecer mais piedoso, não o uso em si.",
+    "Filactérios do período do segundo templo foram encontrados em Qumran."
+   ],
+   "refs": [
+    "exodo 13:9",
+    "deuteronomio 6:8-9",
+    "deuteronomio 11:18-20",
+    "mateus 23:5"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Manuscritos do mar Morto (Qumran)",
+     "referencia": "estojos e pergaminhos de filactérios encontrados nas cavernas",
+     "data": "c. séc. II a.C. a séc. I d.C."
+    }
+   ]
+  },
+  {
+   "id": "cabelo-barba",
+   "categoria": "roupas",
+   "titulo": "Cabelo, barba e véu",
+   "resumo": "Para os homens israelitas, a barba era sinal de dignidade; raspá-la à força era humilhação grave, e raspá-la de propósito podia ser sinal de luto. Mulheres casadas costumavam cobrir a cabeça em público, e o véu aparece em vários episódios.",
+   "detalhes": [
+    "Os embaixadores de Davi tiveram meia barba raspada e ficaram em Jericó até ela crescer.",
+    "A Lei proibia certos cortes de cabelo e de barba associados a ritos de outros povos.",
+    "Os nazireus deixavam o cabelo crescer como sinal do voto.",
+    "Paulo discute o cabelo e a cabeça coberta no culto em Corinto; o sentido exato para hoje é debatido entre as igrejas."
+   ],
+   "refs": [
+    "levitico 19:27",
+    "2-samuel 10:4-5",
+    "juizes 16:17",
+    "genesis 24:65",
+    "1-corintios 11:5-6",
+    "1-corintios 11:14-15"
+   ]
+  },
+  {
+   "id": "uncao-oleo",
+   "categoria": "roupas",
+   "titulo": "Unção com óleo",
+   "resumo": "O azeite de oliva era usado no corpo e no cabelo para proteger a pele do sol e do ar seco, como perfume e como sinal de alegria. Ungir a cabeça de um convidado era gesto de honra. Havia também a unção religiosa de reis, sacerdotes e profetas.",
+   "detalhes": [
+    "Quem estava de luto deixava de se ungir; Jesus pede que quem jejua unja a cabeça para não chamar atenção.",
+    "Samuel ungiu Davi com o chifre de azeite; 'Messias' e 'Cristo' significam 'ungido'.",
+    "Mulheres ungiram Jesus com perfume caro.",
+    "Tiago orienta a ungir os doentes com azeite enquanto se ora por eles."
+   ],
+   "refs": [
+    "rute 3:3",
+    "1-samuel 16:13",
+    "salmos 23:5",
+    "salmos 133:2",
+    "mateus 6:17",
+    "lucas 7:46",
+    "marcos 14:3",
+    "tiago 5:14"
+   ]
+  },
+  {
+   "id": "pastoreio",
+   "categoria": "campo",
+   "titulo": "Pastores e rebanhos",
+   "resumo": "Ovelhas e cabras davam lã, leite, carne e couro. O pastor levava o rebanho a pastos e águas, protegia-o de feras e ladrões e o recolhia à noite num aprisco cercado de pedras. Conhecia as ovelhas uma a uma, e elas reconheciam sua voz.",
+   "detalhes": [
+    "Davi defendeu o rebanho de leões e ursos.",
+    "Jacó lembra o calor do dia e o frio da noite no trabalho de pastor.",
+    "Ovelhas e cabras pastavam juntas e eram separadas quando necessário.",
+    "A Bíblia usa muito a imagem: Deus como pastor (Salmo 23) e Jesus como o bom pastor (João 10)."
+   ],
+   "refs": [
+    "genesis 31:38-40",
+    "1-samuel 17:34-35",
+    "salmos 23:1-4",
+    "lucas 2:8",
+    "lucas 15:4-6",
+    "joao 10:3-4",
+    "joao 10:11",
+    "mateus 25:32"
+   ]
+  },
+  {
+   "id": "arar-semear",
+   "categoria": "campo",
+   "titulo": "Arar e semear",
+   "resumo": "Com as primeiras chuvas do outono, a terra era arada com um arado simples de madeira (às vezes com ponta de ferro) puxado por bois. O semeador espalhava a semente com a mão, e muitas vezes se arava de novo para cobri-la.",
+   "detalhes": [
+    "Eliseu arava com doze juntas de bois quando Elias o chamou.",
+    "A Lei proibia arar com boi e jumento juntos.",
+    "Na parábola do semeador, a semente cai no caminho, nas pedras e entre espinhos, porque se semeava a lanço.",
+    "Quem põe a mão no arado precisa olhar para a frente para fazer o sulco reto."
+   ],
+   "refs": [
+    "1-reis 19:19",
+    "deuteronomio 22:10",
+    "isaias 28:24-25",
+    "mateus 13:3-8",
+    "lucas 9:62"
+   ]
+  },
+  {
+   "id": "colheita-respiga",
+   "categoria": "campo",
+   "titulo": "Colheita e respiga",
+   "resumo": "Na primavera, os ceifeiros cortavam o cereal com foices e amarravam os feixes. A Lei mandava deixar os cantos do campo sem colher e não voltar para pegar o que caísse ou fosse esquecido: isso ficava para pobres, viúvas, órfãos e estrangeiros, que 'respigavam' atrás dos ceifeiros.",
+   "detalhes": [
+    "Rute sustentou a si e a Noemi respigando no campo de Boaz.",
+    "O mesmo valia para uvas e azeitonas.",
+    "A colheita da cevada vinha antes da do trigo."
+   ],
+   "refs": [
+    "levitico 19:9-10",
+    "levitico 23:22",
+    "deuteronomio 24:19-21",
+    "rute 2:2-3",
+    "rute 2:23"
+   ]
+  },
+  {
+   "id": "eira",
+   "categoria": "campo",
+   "titulo": "Eira e debulha",
+   "resumo": "A eira era um terreno plano e duro, muitas vezes num lugar alto e ventilado, onde os feixes eram espalhados e pisados por bois ou esmagados com um trilho de madeira. Depois, o grão era jogado ao ar com um forcado ou pá: o vento levava a palha e o grão caía.",
+   "detalhes": [
+    "A Lei proibia amordaçar o boi que debulhava; Paulo aplica o princípio ao sustento de quem trabalha no evangelho.",
+    "Boaz dormiu na eira para guardar a colheita.",
+    "Davi comprou a eira de Araúna, onde depois se construiu o templo.",
+    "João Batista usa a imagem da pá que separa o trigo da palha."
+   ],
+   "refs": [
+    "rute 3:2",
+    "deuteronomio 25:4",
+    "1-corintios 9:9",
+    "2-samuel 24:18-24",
+    "mateus 3:12"
+   ]
+  },
+  {
+   "id": "vinha-lagar",
+   "categoria": "campo",
+   "titulo": "Vinha e lagar",
+   "resumo": "As vinhas eram cercadas, limpas de pedras e vigiadas de uma torre. Na vindima, as uvas eram pisadas com os pés num tanque escavado na rocha (lagar), e o suco escorria para um tanque mais baixo, onde fermentava.",
+   "detalhes": [
+    "Isaías 5 e a parábola dos lavradores maus descrevem a construção de uma vinha.",
+    "Gideão malhava trigo dentro de um lagar para se esconder dos midianitas.",
+    "Pisar uvas deixava as roupas vermelhas, imagem usada para o juízo de Deus."
+   ],
+   "refs": [
+    "isaias 5:1-2",
+    "mateus 21:33",
+    "juizes 6:11",
+    "neemias 13:15",
+    "isaias 63:2-3"
+   ]
+  },
+  {
+   "id": "oliveira-azeite",
+   "categoria": "campo",
+   "titulo": "Oliveiras e azeite",
+   "resumo": "A oliveira era uma das árvores mais importantes da terra. No outono, as azeitonas eram derrubadas com varas, esmagadas em pedras e prensadas para tirar o azeite, usado na comida, na iluminação, nos remédios e nos ritos.",
+   "detalhes": [
+    "Os ramos que ficavam na árvore eram deixados para os pobres.",
+    "Miqueias fala de quem pisa azeitonas e não se unge com o óleo.",
+    "O nome Getsêmani é geralmente explicado como 'prensa de azeite', em aramaico."
+   ],
+   "refs": [
+    "deuteronomio 24:20",
+    "miqueias 6:15",
+    "mateus 26:36",
+    "romanos 11:17"
+   ]
+  },
+  {
+   "id": "pesca-galileia",
+   "categoria": "campo",
+   "titulo": "Pesca no mar da Galileia",
+   "resumo": "O mar da Galileia é um grande lago de água doce. Os pescadores usavam barcos de madeira e redes de vários tipos: a tarrafa, lançada à mão da margem ou do barco, e redes grandes, puxadas por várias pessoas. Pescava-se muitas vezes à noite.",
+   "detalhes": [
+    "Pedro, André, Tiago e João eram pescadores; Zebedeu tinha barco e empregados.",
+    "Consertar e lavar as redes fazia parte do trabalho diário.",
+    "Os peixes eram separados na praia entre bons e ruins (Mateus 13).",
+    "Um barco de pesca do século I foi achado no lago em 1986, e ajuda a imaginar as embarcações dos Evangelhos."
+   ],
+   "refs": [
+    "mateus 4:18-22",
+    "marcos 1:19-20",
+    "lucas 5:4-7",
+    "mateus 13:47-48",
+    "joao 21:3-11"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Arqueologia (Galileia)",
+     "referencia": "o chamado 'barco do mar da Galileia', descoberto perto de Ginosar em 1986",
+     "data": "c. séc. I a.C. a séc. I d.C. (aproximado)"
+    }
+   ]
+  },
+  {
+   "id": "oficios",
+   "categoria": "trabalho",
+   "titulo": "Ofícios e artesãos",
+   "resumo": "A maioria das famílias vivia da terra, mas havia artesãos em todas as cidades: oleiros, ferreiros, tecelões, curtidores, pedreiros e carpinteiros. O ofício passava geralmente de pai para filho.",
+   "detalhes": [
+    "Jesus é chamado 'o carpinteiro' (a palavra grega pode indicar quem trabalha com madeira e também com construção).",
+    "Paulo, Áquila e Priscila trabalhavam fazendo tendas.",
+    "Jeremias aprende uma lição observando o oleiro na roda.",
+    "A fiação e a tecelagem eram trabalhos domésticos, feitos sobretudo pelas mulheres."
+   ],
+   "refs": [
+    "jeremias 18:3-4",
+    "proverbios 31:13",
+    "marcos 6:3",
+    "atos 18:3",
+    "atos 19:24"
+   ]
+  },
+  {
+   "id": "comercio-balancas",
+   "categoria": "trabalho",
+   "titulo": "Comércio, pesos e balanças",
+   "resumo": "Antes das moedas (que só se espalharam a partir do período persa), pagava-se pesando prata numa balança de dois pratos, com pesos de pedra. Os profetas condenam quem usava pesos e medidas falsos para enganar.",
+   "detalhes": [
+    "Abraão pesou a prata para comprar a caverna de Macpela 'segundo o uso dos mercadores'.",
+    "A Lei exigia 'balanças justas, pesos justos'.",
+    "No templo do tempo de Jesus havia cambistas, que trocavam moedas estrangeiras pela moeda aceita para o imposto do templo."
+   ],
+   "refs": [
+    "genesis 23:16",
+    "levitico 19:35-36",
+    "deuteronomio 25:13-15",
+    "proverbios 11:1",
+    "amos 8:5",
+    "jeremias 32:9-10",
+    "mateus 21:12"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Arqueologia (Judá)",
+     "referencia": "pesos de pedra inscritos achados em escavações, que permitem estimar o siclo em cerca de 11,3-11,5 g",
+     "data": "c. séc. VIII-VII a.C. (aproximado)"
+    }
+   ]
+  },
+  {
+   "id": "viagens-caravanas",
+   "categoria": "trabalho",
+   "titulo": "Viagens e caravanas",
+   "resumo": "Viajava-se a pé, de jumento ou, nas rotas do deserto, em caravanas de camelos. Por segurança, as pessoas andavam em grupos; as estradas tinham salteadores, e um dia de caminho a pé cobria por volta de 30 km.",
+   "detalhes": [
+    "José foi vendido a uma caravana de ismaelitas que levava aromas ao Egito.",
+    "Maria e José voltaram de Jerusalém num grupo de parentes e conhecidos e andaram um dia antes de perceber a falta de Jesus.",
+    "A estrada de Jerusalém a Jericó, cenário do bom samaritano, era conhecida pelos assaltos.",
+    "Paulo enfrentou rios, ladrões e naufrágios em suas viagens."
+   ],
+   "refs": [
+    "genesis 37:25",
+    "juizes 5:6",
+    "lucas 2:44",
+    "lucas 10:30",
+    "2-corintios 11:26"
+   ]
+  },
+  {
+   "id": "escravidao",
+   "categoria": "trabalho",
+   "titulo": "Escravidão e servidão por dívida",
+   "resumo": "A escravidão existia em todo o mundo antigo. Em Israel, o caso mais comum era o israelita que, endividado, se vendia ou vendia filhos para pagar; a Lei limitava esse serviço a seis anos e mandava libertá-lo com provisões. Quem quisesse ficar para sempre tinha a orelha furada à porta.",
+   "detalhes": [
+    "Levítico manda tratar o irmão empobrecido como trabalhador contratado, não como escravo.",
+    "Neemias enfrentou nobres que escravizavam filhos de judeus pobres por dívidas.",
+    "No mundo romano do NT, a escravidão era muito difundida; Paulo pede a Filemom que receba Onésimo 'não mais como servo, mas como irmão'.",
+    "As leis bíblicas sobre escravos refletem sua época; as igrejas e os estudiosos discutem como elas se relacionam com a ética cristã posterior, que levou à abolição."
+   ],
+   "refs": [
+    "exodo 21:2-6",
+    "levitico 25:39-43",
+    "deuteronomio 15:12-15",
+    "2-reis 4:1",
+    "neemias 5:5",
+    "mateus 18:25",
+    "filemom 1:15-16"
+   ]
+  },
+  {
+   "id": "cobradores-impostos",
+   "categoria": "trabalho",
+   "titulo": "Cobradores de impostos (publicanos)",
+   "resumo": "No período romano, a cobrança de taxas e pedágios era arrendada a particulares, que pagavam adiantado e depois cobravam do povo, ficando com a diferença. Os cobradores locais eram judeus a serviço de um poder estrangeiro, o que os fazia ser vistos como traidores e desonestos.",
+   "detalhes": [
+    "Mateus trabalhava numa coletoria quando Jesus o chamou.",
+    "Zaqueu era 'chefe dos publicanos' em Jericó, cidade de passagem comercial.",
+    "João Batista não mandou os cobradores largarem o ofício, mas cobrarem só o devido.",
+    "Jesus comia com eles, e isso escandalizava os religiosos."
+   ],
+   "refs": [
+    "lucas 3:12-13",
+    "mateus 9:9-11",
+    "lucas 18:10-13",
+    "lucas 19:1-8",
+    "mateus 22:17-21"
+   ]
+  },
+  {
+   "id": "portas-cidade",
+   "categoria": "sociedade",
+   "titulo": "A porta da cidade",
+   "resumo": "As cidades muradas tinham portas fortes, muitas vezes com câmaras laterais e bancos. A praça junto à porta era o centro da vida pública: ali se faziam negócios, se anunciavam notícias e os anciãos julgavam causas.",
+   "detalhes": [
+    "Boaz resolveu o resgate de Rute diante de dez anciãos na porta.",
+    "Pais levavam o filho rebelde aos anciãos 'à porta'.",
+    "Amós pede 'justiça na porta', isto é, nos tribunais.",
+    "O marido honrado 'é conhecido às portas'."
+   ],
+   "refs": [
+    "genesis 23:10",
+    "deuteronomio 21:19",
+    "rute 4:1-11",
+    "2-reis 7:1",
+    "proverbios 31:23",
+    "amos 5:15"
+   ]
+  },
+  {
+   "id": "anciaos-julgamento",
+   "categoria": "sociedade",
+   "titulo": "Anciãos, juízes e testemunhas",
+   "resumo": "A justiça local estava nas mãos dos anciãos, chefes de família respeitados. Para condenar alguém exigiam-se pelo menos duas testemunhas, e as testemunhas falsas recebiam a pena que queriam impor ao outro.",
+   "detalhes": [
+    "Jezabel montou um julgamento falso contra Nabote com duas testemunhas pagas.",
+    "Jesus e Paulo retomam a regra das duas ou três testemunhas."
+   ],
+   "refs": [
+    "deuteronomio 17:6",
+    "deuteronomio 19:15-19",
+    "1-reis 21:8-13",
+    "mateus 18:16",
+    "2-corintios 13:1"
+   ]
+  },
+  {
+   "id": "guerra-cercos",
+   "categoria": "sociedade",
+   "titulo": "Guerra e cercos",
+   "resumo": "As guerras costumavam acontecer na primavera, depois das chuvas e antes da colheita. Cidades muradas eram tomadas por cerco: o exército cercava a cidade, cortava o abastecimento, levantava rampas de terra e usava aríetes, enquanto lá dentro a fome se espalhava.",
+   "detalhes": [
+    "'No tempo em que os reis saem à guerra', Davi ficou em Jerusalém.",
+    "A Lei mandava oferecer paz antes de atacar e proibia derrubar árvores frutíferas durante o cerco.",
+    "Os cercos de Samaria e de Jerusalém provocaram fome terrível.",
+    "Jesus anunciou que Jerusalém seria cercada, o que aconteceu com os romanos em 70 d.C."
+   ],
+   "refs": [
+    "deuteronomio 20:10-12",
+    "deuteronomio 20:19-20",
+    "2-samuel 11:1",
+    "2-reis 6:24-25",
+    "2-reis 25:1-4",
+    "ezequiel 4:1-2",
+    "lucas 19:43-44"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Relevos de Laquis (palácio de Senaqueribe em Nínive)",
+     "referencia": "painéis que mostram o cerco assírio de Laquis, com rampas e aríetes; hoje no Museu Britânico",
+     "data": "c. 701 a.C. (cerco)"
+    },
+    {
+     "fonte": "Flávio Josefo",
+     "referencia": "Guerra Judaica, livros 5-6 (cerco e destruição de Jerusalém)",
+     "data": "c. 75 d.C."
+    }
+   ]
+  },
+  {
+   "id": "samaritanos",
+   "categoria": "sociedade",
+   "titulo": "Samaritanos",
+   "resumo": "Os samaritanos viviam na região central entre a Judeia e a Galileia. Aceitavam apenas os cinco livros de Moisés e adoravam no monte Gerizim, não em Jerusalém. Judeus e samaritanos tinham uma longa inimizade.",
+   "detalhes": [
+    "2 Reis 17 conta que os assírios trouxeram outros povos para a região de Samaria; os samaritanos, por sua vez, sempre se viram como descendentes legítimos das tribos do norte. A origem exata do grupo é discutida.",
+    "A samaritana se espantou de um judeu lhe pedir água.",
+    "Jesus fez de um samaritano o herói de uma parábola e elogiou o único leproso curado que voltou para agradecer, também samaritano.",
+    "Filipe pregou em Samaria, e muitos creram.",
+    "Uma pequena comunidade samaritana ainda existe hoje perto de Nablus (Siquém) e em Holon, Israel."
+   ],
+   "refs": [
+    "2-reis 17:24",
+    "2-reis 17:29",
+    "lucas 9:52-53",
+    "joao 4:9",
+    "joao 4:20",
+    "lucas 10:33-35",
+    "lucas 17:16",
+    "atos 8:5"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Flávio Josefo",
+     "referencia": "Antiguidades Judaicas 11.8.2-4 (templo no Gerizim) e 13.9.1 (sua destruição por João Hircano)",
+     "data": "c. 93-94 d.C."
+    }
+   ]
+  },
+  {
+   "id": "crucificacao",
+   "categoria": "sociedade",
+   "titulo": "Crucificação",
+   "resumo": "A crucificação era a pena de morte romana para escravos, rebeldes e criminosos de classe baixa, aplicada em público para servir de aviso. Era considerada a morte mais vergonhosa e cruel. Os Evangelhos a descrevem com poucas palavras, sem se deter em detalhes.",
+   "detalhes": [
+    "Normalmente vinha depois de açoites; o condenado carregava a trave da cruz até o local, e uma placa indicava o motivo da condenação.",
+    "Para os judeus, a Lei dizia que o 'pendurado no madeiro' era maldito; Paulo usa essa ideia para explicar a cruz.",
+    "Quebrar as pernas apressava a morte; por isso os judeus pediram isso antes do sábado.",
+    "Um osso de calcanhar atravessado por um prego, achado num ossuário em Jerusalém, confirma o uso de pregos na época."
+   ],
+   "refs": [
+    "deuteronomio 21:22-23",
+    "marcos 15:15",
+    "marcos 15:21-27",
+    "joao 19:17-20",
+    "joao 19:31-33",
+    "1-corintios 1:23",
+    "galatas 3:13",
+    "filipenses 2:8"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Cícero",
+     "referencia": "Contra Verres 2.5.165 (chama a crucificação de 'o suplício mais cruel e repugnante')",
+     "data": "70 a.C."
+    },
+    {
+     "fonte": "Arqueologia (Jerusalém, Giv'at ha-Mivtar)",
+     "referencia": "ossuário de um homem chamado Yehohanan, com o calcanhar atravessado por um prego; achado em 1968",
+     "data": "séc. I d.C."
+    }
+   ]
+  },
+  {
+   "id": "impostos-romanos",
+   "categoria": "sociedade",
+   "titulo": "Tributo a César e imposto do templo",
+   "resumo": "No tempo de Jesus, os judeus pagavam tributos a Roma (sobre a terra, por pessoa e em pedágios) e, além disso, o imposto anual de meio siclo para o templo, devido por todo homem adulto.",
+   "detalhes": [
+    "A pergunta 'é lícito dar tributo a César?' era uma armadilha política: um 'sim' irritava o povo, um 'não' era rebeldia.",
+    "Jesus pagou o imposto do templo com uma moeda achada na boca de um peixe.",
+    "Lucas liga o nascimento de Jesus a um recenseamento ordenado por Augusto quando Quirino governava a Síria. Josefo registra um censo de Quirino na Judeia em 6 d.C., o que não combina facilmente com o tempo de Herodes; os estudiosos propõem várias soluções e o assunto continua discutido."
+   ],
+   "refs": [
+    "exodo 30:13-15",
+    "mateus 17:24-27",
+    "mateus 22:17-21",
+    "lucas 2:1-3"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "tratado Shekalim (coleta anual do meio siclo para o templo)",
+     "data": "c. 200 d.C."
+    },
+    {
+     "fonte": "Flávio Josefo",
+     "referencia": "Antiguidades Judaicas 18.1.1 (censo de Quirino na Judeia)",
+     "data": "c. 93-94 d.C."
+    }
+   ]
+  },
+  {
+   "id": "sinagoga",
+   "categoria": "religiao",
+   "titulo": "Sinagoga",
+   "resumo": "A sinagoga era o lugar de reunião da comunidade judaica para leitura da Lei e dos Profetas, oração e ensino, especialmente no sábado. Provavelmente surgiu durante ou depois do exílio, quando não havia templo; no tempo de Jesus existia em muitas cidades da Terra Santa e da diáspora.",
+   "detalhes": [
+    "Lia-se um trecho da Lei e outro dos Profetas, e alguém podia ser convidado a explicar.",
+    "Havia um 'chefe da sinagoga' que organizava o culto, como Jairo.",
+    "Jesus e Paulo ensinavam nas sinagogas; Paulo costumava começar por elas em cada cidade.",
+    "Uma inscrição grega achada em Jerusalém (de um certo Teódoto) fala de uma sinagoga construída 'para a leitura da Lei e o ensino dos mandamentos'."
+   ],
+   "refs": [
+    "lucas 4:16-21",
+    "marcos 5:22",
+    "lucas 7:5",
+    "atos 13:14-15",
+    "atos 15:21"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Inscrição de Teódoto (Jerusalém)",
+     "referencia": "inscrição grega de fundação de uma sinagoga, achada na Cidade de Davi em 1913",
+     "data": "séc. I d.C., antes de 70 (data discutida)"
+    }
+   ]
+  },
+  {
+   "id": "templo-sacerdotes",
+   "categoria": "religiao",
+   "titulo": "Templo, sacerdotes e levitas",
+   "resumo": "Os sacerdotes, descendentes de Arão, ofereciam os sacrifícios e queimavam o incenso; os levitas cuidavam do serviço, da música e da guarda do santuário. Eles não receberam território próprio: viviam dos dízimos e de partes das ofertas. Desde Davi, os sacerdotes eram divididos em 24 turnos que se revezavam no templo.",
+   "detalhes": [
+    "Zacarias, pai de João Batista, era do turno de Abias e foi sorteado para queimar o incenso.",
+    "Havia sacrifícios todas as manhãs e tardes; o povo orava do lado de fora 'à hora do incenso'.",
+    "O sumo sacerdote era o chefe do culto e, no tempo de Jesus, também uma autoridade política.",
+    "Hebreus apresenta Cristo como sumo sacerdote definitivo."
+   ],
+   "refs": [
+    "numeros 18:21",
+    "1-cronicas 24:19",
+    "exodo 30:7-8",
+    "lucas 1:5",
+    "lucas 1:8-10",
+    "hebreus 5:1"
+   ]
+  },
+  {
+   "id": "sacrificios",
+   "categoria": "religiao",
+   "titulo": "Sacrifícios e ofertas",
+   "resumo": "Levítico descreve vários tipos de oferta: o holocausto (todo queimado, em entrega total), a oferta de cereais, o sacrifício pacífico ou de comunhão (parte era comida pelo ofertante numa refeição), a oferta pelo pecado (purificação) e a oferta pela culpa (com reparação do dano). O animal devia ser sem defeito, e os pobres podiam oferecer aves.",
+   "detalhes": [
+    "Maria e José ofereceram 'um par de rolinhas ou dois pombinhos', a oferta dos pobres.",
+    "Os profetas lembram que Deus quer misericórdia e obediência, não ritos vazios.",
+    "Hebreus ensina que os sacrifícios repetidos apontavam para o sacrifício único de Cristo.",
+    "Com a destruição do templo em 70 d.C., os sacrifícios cessaram no judaísmo."
+   ],
+   "refs": [
+    "levitico 1:3-4",
+    "levitico 2:1-2",
+    "levitico 3:1",
+    "levitico 4:27-29",
+    "levitico 5:15-16",
+    "levitico 7:11-15",
+    "levitico 12:8",
+    "lucas 2:24",
+    "oseias 6:6",
+    "hebreus 10:1-4"
+   ]
+  },
+  {
+   "id": "pureza",
+   "categoria": "religiao",
+   "titulo": "Puro e impuro",
+   "resumo": "'Impuro', na Lei, não quer dizer necessariamente 'pecador': é um estado ritual que impedia de entrar no santuário e podia passar a outros por contato. Tornavam impuro o contato com cadáveres, certas doenças de pele, fluxos do corpo, o parto e alguns alimentos. A pureza era recuperada com o tempo, banhos e, às vezes, ofertas.",
+   "detalhes": [
+    "O 'leproso' (o termo abrange várias doenças de pele) vivia isolado e devia avisar 'Impuro!'.",
+    "Jesus tocou um leproso e foi tocado por uma mulher com fluxo de sangue, e em vez de se tornar impuro, os curou.",
+    "Os fariseus ampliavam as regras de lavagem para a vida diária; Jesus deu prioridade à pureza do coração.",
+    "Pedro aprendeu, numa visão, a não chamar impuro aquilo que Deus purificou.",
+    "Vasos de pedra (como os de Caná) e tanques de imersão (miqvaot) achados em escavações refletem a preocupação com pureza no período do NT."
+   ],
+   "refs": [
+    "levitico 11:46-47",
+    "levitico 12:2-8",
+    "levitico 13:45-46",
+    "numeros 19:11",
+    "marcos 1:40-44",
+    "marcos 7:1-4",
+    "lucas 8:43-48",
+    "joao 2:6",
+    "atos 10:14-15"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Arqueologia (Judeia e Galileia)",
+     "referencia": "vasos de pedra e tanques rituais de imersão (miqvaot) em casas e junto ao templo",
+     "data": "séc. I a.C. a séc. I d.C."
+    }
+   ]
+  },
+  {
+   "id": "votos-nazireado",
+   "categoria": "religiao",
+   "titulo": "Votos e nazireado",
+   "resumo": "Um voto era uma promessa feita a Deus, muitas vezes ligada a um pedido; a Lei não obrigava ninguém a votar, mas mandava cumprir o que se prometeu. O voto de nazireu era uma consagração especial, por um tempo: não beber vinho nem nada da uva, não cortar o cabelo e não tocar em mortos.",
+   "detalhes": [
+    "Ao fim do voto, o nazireu oferecia sacrifícios e raspava a cabeça, queimando o cabelo no altar.",
+    "Sansão e, aparentemente, Samuel foram consagrados como nazireus desde o nascimento.",
+    "Ana prometeu entregar o filho a Deus se o recebesse.",
+    "Paulo rapou a cabeça por um voto e, em Jerusalém, pagou as despesas de quatro homens que terminavam um voto."
+   ],
+   "refs": [
+    "numeros 6:1-8",
+    "numeros 6:13-18",
+    "juizes 13:5",
+    "1-samuel 1:11",
+    "deuteronomio 23:21-23",
+    "atos 18:18",
+    "atos 21:23-24"
+   ]
+  },
+  {
+   "id": "dizimo-esmola",
+   "categoria": "religiao",
+   "titulo": "Dízimo e esmola",
+   "resumo": "A Lei mandava separar a décima parte da colheita e do rebanho. Parte sustentava os levitas; parte era comida em festa diante de Deus; e, a cada três anos, o dízimo ficava na cidade para levitas, estrangeiros, órfãos e viúvas. A esmola e o cuidado com os pobres eram vistos como deveres religiosos.",
+   "detalhes": [
+    "Os fariseus dizimavam até as ervas da horta; Jesus não condenou isso, mas disse que não podiam esquecer a justiça, a misericórdia e a fé.",
+    "Jesus elogiou a viúva pobre que deu duas pequenas moedas.",
+    "A igreja de Jerusalém organizou a ajuda diária às viúvas.",
+    "As igrejas cristãs hoje entendem o dízimo de formas diferentes: umas o mantêm como norma, outras falam de contribuição voluntária."
+   ],
+   "refs": [
+    "numeros 18:21",
+    "deuteronomio 14:22-23",
+    "deuteronomio 14:28-29",
+    "malaquias 3:10",
+    "mateus 6:2-4",
+    "mateus 23:23",
+    "marcos 12:41-44",
+    "atos 6:1"
+   ]
+  },
+  {
+   "id": "jejum-oracao",
+   "categoria": "religiao",
+   "titulo": "Jejum e oração",
+   "resumo": "O jejum, geralmente de comida durante o dia, acompanhava o luto, o arrependimento e os pedidos urgentes. A Lei manda jejuar no Dia da Expiação; outros jejuns surgiram depois. A oração era feita de pé ou de joelhos, com as mãos levantadas, várias vezes ao dia.",
+   "detalhes": [
+    "Os profetas criticam jejuns sem justiça e pedem 'rasgar o coração, não as vestes'.",
+    "Alguns fariseus jejuavam duas vezes por semana.",
+    "Jesus ensinou a jejuar e orar sem buscar aplausos.",
+    "Daniel orava três vezes ao dia voltado para Jerusalém."
+   ],
+   "refs": [
+    "levitico 16:29",
+    "isaias 58:3-7",
+    "joel 2:12-13",
+    "daniel 6:10",
+    "salmos 141:2",
+    "mateus 6:16-18",
+    "lucas 18:12",
+    "atos 13:2-3"
+   ]
+  },
+  {
+   "id": "imposicao-maos",
+   "categoria": "religiao",
+   "titulo": "Imposição de mãos",
+   "resumo": "Colocar as mãos sobre alguém era gesto de bênção, de transmissão de uma missão ou de identificação. No culto, o ofertante punha a mão sobre a cabeça do animal; Jesus abençoou crianças e curou enfermos assim; a igreja impunha as mãos para enviar ou consagrar pessoas.",
+   "detalhes": [
+    "Moisés impôs as mãos sobre Josué ao passar-lhe a liderança.",
+    "Os apóstolos oraram e impuseram as mãos sobre os sete escolhidos para servir."
+   ],
+   "refs": [
+    "levitico 1:4",
+    "numeros 27:18-23",
+    "marcos 10:16",
+    "atos 6:6",
+    "atos 13:3"
+   ]
+  },
+  {
+   "id": "luto",
+   "categoria": "morte",
+   "titulo": "Luto: pano de saco e cinzas",
+   "resumo": "Na dor, as pessoas vestiam pano de saco (tecido áspero, de pelo de cabra), jogavam pó ou cinza sobre a cabeça, sentavam-se no chão, jejuavam e choravam em voz alta. O luto costumava durar sete dias, e por pessoas importantes, trinta.",
+   "detalhes": [
+    "Jacó se vestiu de saco por José; Mardoqueu, diante do decreto contra os judeus.",
+    "O rei de Nínive trocou o manto por pano de saco e se sentou na cinza em sinal de arrependimento.",
+    "Os amigos de Jó ficaram sete dias em silêncio com ele.",
+    "A Lei proibia cortes no corpo pelos mortos, costume de outros povos."
+   ],
+   "refs": [
+    "genesis 37:34",
+    "genesis 50:10",
+    "numeros 20:29",
+    "jo 2:12-13",
+    "ester 4:1",
+    "jonas 3:6",
+    "levitico 19:28",
+    "joao 11:31"
+   ]
+  },
+  {
+   "id": "rasgar-vestes",
+   "categoria": "morte",
+   "titulo": "Rasgar as vestes",
+   "resumo": "Rasgar a roupa de cima era a reação imediata a uma notícia terrível, a uma morte ou a algo que se considerava blasfêmia. Era um gesto de dor e indignação reconhecido por todos.",
+   "detalhes": [
+    "Rúben e Jacó rasgaram as vestes pelo desaparecimento de José.",
+    "Davi e seus homens rasgaram as roupas ao saber da morte de Saul e Jônatas.",
+    "O sumo sacerdote rasgou as vestes ao ouvir Jesus, acusando-o de blasfêmia.",
+    "Paulo e Barnabé rasgaram as roupas quando a multidão quis adorá-los como deuses.",
+    "Joel lembra que Deus quer o coração rasgado, não só as roupas."
+   ],
+   "refs": [
+    "genesis 37:29",
+    "2-samuel 1:11-12",
+    "mateus 26:65",
+    "atos 14:14",
+    "joel 2:13"
+   ]
+  },
+  {
+   "id": "carpideiras",
+   "categoria": "morte",
+   "titulo": "Carpideiras e flautistas",
+   "resumo": "Nos funerais havia mulheres especializadas em lamentar em voz alta (carpideiras) e tocadores de flauta. O choro público fazia parte da honra devida ao morto.",
+   "detalhes": [
+    "Jeremias manda chamar carpideiras para lamentar a ruína do povo.",
+    "Na casa de Jairo já havia flautistas e muita gente chorando quando Jesus chegou.",
+    "Mais tarde, a tradição judaica dizia que até o mais pobre devia ter ao menos dois flautistas e uma carpideira no enterro da esposa."
+   ],
+   "refs": [
+    "jeremias 9:17-18",
+    "amos 5:16",
+    "mateus 9:23",
+    "marcos 5:38-40"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Ketubot 4:4 (no mínimo dois flautistas e uma carpideira)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "sepultamento",
+   "categoria": "morte",
+   "titulo": "Sepultamento e túmulos",
+   "resumo": "Por causa do clima, o enterro era feito no mesmo dia ou no seguinte. O corpo era lavado, ungido com perfumes e envolvido em faixas de linho. Famílias com recursos tinham túmulos escavados na rocha, com bancos ou nichos, fechados por uma pedra; muitos eram usados por gerações ('reunir-se aos pais').",
+   "detalhes": [
+    "Abraão comprou a caverna de Macpela, onde foram sepultados os patriarcas.",
+    "O túmulo de Lázaro era uma caverna com uma pedra na entrada.",
+    "José de Arimateia pôs Jesus num túmulo novo escavado na rocha e rolou uma grande pedra; Nicodemos trouxe cerca de cem libras de mirra e aloés.",
+    "Túmulos eram caiados de branco para que ninguém se tornasse impuro tocando-os sem perceber.",
+    "No período do NT, um ano depois do enterro os ossos costumavam ser recolhidos em caixas de pedra (ossuários), muitas encontradas em Jerusalém."
+   ],
+   "refs": [
+    "genesis 23:17-20",
+    "genesis 25:8-9",
+    "genesis 49:29-31",
+    "joao 11:38-44",
+    "mateus 23:27",
+    "mateus 27:59-60",
+    "joao 19:39-42",
+    "marcos 16:3-4"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Arqueologia (Jerusalém)",
+     "referencia": "túmulos familiares escavados na rocha e ossuários de pedra",
+     "data": "séc. I a.C. a séc. I d.C."
+    }
+   ]
+  },
+  {
+   "id": "escrita",
+   "categoria": "comunicacao",
+   "titulo": "Escrita: rolos, tábuas e tinta",
+   "resumo": "Livros eram rolos de couro (pergaminho) ou papiro, escritos com tinta e cálamo em colunas. Para notas curtas usavam-se tábuas de madeira com cera, e para recados e listas, cacos de cerâmica (óstracos). Muitas vezes o autor ditava a um escriba ou secretário.",
+   "detalhes": [
+    "Jeremias ditou suas profecias a Baruque, que escreveu num rolo; o rei o cortou coluna por coluna e o queimou.",
+    "Na sinagoga de Nazaré, Jesus recebeu e abriu o rolo de Isaías.",
+    "Zacarias pediu uma tabuinha para escrever o nome de João.",
+    "Paulo ditava cartas (Tércio escreveu Romanos) e às vezes acrescentava uma saudação de próprio punho; pediu a Timóteo os 'pergaminhos'.",
+    "Os manuscritos do mar Morto mostram como eram os rolos bíblicos por volta do tempo de Jesus."
+   ],
+   "refs": [
+    "jeremias 36:2-4",
+    "jeremias 36:18",
+    "jeremias 36:23",
+    "habacuque 2:2",
+    "lucas 1:63",
+    "lucas 4:17",
+    "romanos 16:22",
+    "galatas 6:11",
+    "2-timoteo 4:13"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Manuscritos do mar Morto (Qumran)",
+     "referencia": "rolos bíblicos, entre eles um rolo completo de Isaías",
+     "data": "c. séc. II a.C. a séc. I d.C."
+    },
+    {
+     "fonte": "Óstracos de Laquis",
+     "referencia": "cartas militares escritas a tinta em cacos de cerâmica",
+     "data": "início do séc. VI a.C. (aproximado)"
+    }
+   ]
+  },
+  {
+   "id": "selos",
+   "categoria": "comunicacao",
+   "titulo": "Selos e anel de sinete",
+   "resumo": "Um selo gravado em pedra ou metal, usado em anel ou num cordão, servia de assinatura: era impresso no barro ou na cera para fechar documentos e garantir sua autenticidade. Quem usava o selo de outro agia com a autoridade dele.",
+   "detalhes": [
+    "Tamar pediu o selo e o cordão de Judá como garantia.",
+    "Jezabel usou o selo de Acabe para condenar Nabote; os decretos persas selados com o anel do rei não podiam ser revogados.",
+    "Jeremias selou a escritura de compra de um campo e a guardou num vaso de barro.",
+    "O túmulo de Jesus foi selado; o Apocalipse fala de um livro com sete selos.",
+    "Milhares de impressões de selos em barro (bulas) já foram achadas em escavações em Jerusalém e em outros lugares."
+   ],
+   "refs": [
+    "genesis 38:18",
+    "1-reis 21:8",
+    "ester 8:8",
+    "jeremias 32:10-14",
+    "cantares 8:6",
+    "mateus 27:66",
+    "apocalipse 5:1"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Arqueologia (Judá)",
+     "referencia": "bulas de barro com nomes de oficiais e particulares, achadas em Jerusalém e outros sítios",
+     "data": "c. séc. VIII-VI a.C. (aproximado)"
+    }
+   ]
+  },
+  {
+   "id": "juramentos",
+   "categoria": "comunicacao",
+   "titulo": "Juramentos",
+   "resumo": "Para dar peso a uma promessa, a pessoa jurava pelo nome de Deus, às vezes com gestos: levantar a mão ao céu ou pôr a mão 'debaixo da coxa' de quem recebia o juramento. Quebrar um juramento era grave.",
+   "detalhes": [
+    "O servo de Abraão jurou com a mão sob a coxa do patriarca; Jacó pediu o mesmo a José.",
+    "Fórmulas como 'assim me faça o SENHOR' invocavam castigo sobre si caso o juramento fosse quebrado.",
+    "Jesus criticou as distinções sutis entre juramentos e ensinou: 'seja o vosso sim, sim'. Algumas igrejas entendem isso como proibição de todo juramento; outras, como proibição de juramentos levianos."
+   ],
+   "refs": [
+    "genesis 14:22-23",
+    "genesis 24:2-3",
+    "genesis 47:29",
+    "rute 1:17",
+    "1-samuel 20:42",
+    "mateus 5:33-37",
+    "mateus 23:16-22",
+    "hebreus 6:16"
+   ]
+  },
+  {
+   "id": "saudacoes",
+   "categoria": "comunicacao",
+   "titulo": "Saudações e ósculo",
+   "resumo": "A saudação comum era desejar a paz (shalom) ou a bênção de Deus. Entre parentes e amigos havia o beijo no rosto e o abraço; beijar os pés ou as mãos indicava humildade diante de alguém maior.",
+   "detalhes": [
+    "Boaz saudava os ceifeiros: 'O SENHOR seja convosco', e eles respondiam 'O SENHOR te abençoe'.",
+    "Saudações no caminho podiam ser longas; por isso Eliseu e Jesus mandaram mensageiros não pararem para saudar ninguém.",
+    "Judas traiu Jesus com um beijo, a saudação de um discípulo ao mestre.",
+    "As cartas do NT pedem que os cristãos se saúdem 'com beijo santo'.",
+    "Jesus ressuscitado saudou os discípulos com 'Paz seja convosco'."
+   ],
+   "refs": [
+    "genesis 33:4",
+    "rute 2:4",
+    "2-reis 4:29",
+    "lucas 10:4-5",
+    "lucas 7:45",
+    "lucas 15:20",
+    "lucas 22:47-48",
+    "joao 20:19",
+    "romanos 16:16",
+    "1-pedro 5:14"
+   ]
+  }
+ ],
+ "medidas": [
+  {
+   "id": "cubito",
+   "tipo": "comprimento",
+   "nome": "côvado",
+   "original": "אַמָּה ammah / πῆχυς pēchys",
+   "equivale": "cerca de 45 cm",
+   "nota": "Distância do cotovelo à ponta do dedo médio. O côvado comum tinha cerca de 44-46 cm; havia um côvado mais longo ('real' ou 'antigo'), de um côvado mais um palmo menor, com cerca de 52 cm (Ezequiel 40:5; 2 Crônicas 3:3 fala da 'medida antiga'). Os valores exatos não são conhecidos com certeza.",
+   "refs": [
+    "genesis 6:15",
+    "deuteronomio 3:11",
+    "1-samuel 17:4",
+    "2-cronicas 3:3",
+    "ezequiel 40:5",
+    "mateus 6:27",
+    "joao 21:8"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Inscrição de Siloé (Jerusalém)",
+     "referencia": "registra um túnel de 1.200 côvados; o túnel mede cerca de 533 m",
+     "data": "c. fim do séc. VIII a.C."
+    }
+   ]
+  },
+  {
+   "id": "palmo",
+   "tipo": "comprimento",
+   "nome": "palmo",
+   "original": "זֶרֶת zeret",
+   "equivale": "cerca de 22 cm",
+   "nota": "A distância entre a ponta do polegar e a do dedo mínimo com a mão aberta; meio côvado.",
+   "refs": [
+    "exodo 28:16",
+    "1-samuel 17:4",
+    "isaias 40:12"
+   ]
+  },
+  {
+   "id": "palmo-menor",
+   "tipo": "comprimento",
+   "nome": "palmo menor (largura da mão)",
+   "original": "טֶפַח tefach",
+   "equivale": "cerca de 7,5 cm",
+   "nota": "A largura de quatro dedos juntos; um sexto do côvado comum.",
+   "refs": [
+    "exodo 25:25",
+    "1-reis 7:26",
+    "salmos 39:5"
+   ],
+   "nesta_traducao": "Em Êxodo 25:25 aparece como 'largura de uma mão'."
+  },
+  {
+   "id": "dedo",
+   "tipo": "comprimento",
+   "nome": "dedo",
+   "original": "אֶצְבַּע etsba",
+   "equivale": "cerca de 1,9 cm",
+   "nota": "Um quarto do palmo menor; a menor medida de comprimento citada.",
+   "refs": [
+    "jeremias 52:21"
+   ]
+  },
+  {
+   "id": "cana",
+   "tipo": "comprimento",
+   "nome": "cana (vara de medir)",
+   "original": "קָנֶה qaneh / κάλαμος kalamos",
+   "equivale": "cerca de 2,7 m (ou 3,1 m com o côvado longo)",
+   "nota": "Vara de seis côvados usada como instrumento de medição; em Ezequiel, com o côvado longo.",
+   "refs": [
+    "ezequiel 40:5",
+    "apocalipse 11:1",
+    "apocalipse 21:15-16"
+   ]
+  },
+  {
+   "id": "braca",
+   "tipo": "comprimento",
+   "nome": "braça",
+   "original": "ὀργυιά orgyia",
+   "equivale": "cerca de 1,85 m",
+   "nota": "Medida náutica: a distância entre as pontas dos dedos com os braços abertos. Usada para medir profundidade com o prumo.",
+   "refs": [
+    "atos 27:28"
+   ]
+  },
+  {
+   "id": "estadio",
+   "tipo": "distância",
+   "nome": "estádio",
+   "original": "στάδιον stadion",
+   "equivale": "cerca de 185 m",
+   "nota": "Medida grega e romana de 600 pés; oito estádios faziam uma milha romana. O valor variava um pouco conforme a região.",
+   "refs": [
+    "lucas 24:13",
+    "joao 6:19",
+    "joao 11:18",
+    "apocalipse 14:20",
+    "apocalipse 21:16"
+   ]
+  },
+  {
+   "id": "milha",
+   "tipo": "distância",
+   "nome": "milha romana",
+   "original": "μίλιον milion",
+   "equivale": "cerca de 1,48 km",
+   "nota": "Mil passos duplos romanos. Soldados romanos podiam obrigar civis a carregar sua bagagem por uma milha, o que explica Mateus 5:41.",
+   "refs": [
+    "mateus 5:41"
+   ]
+  },
+  {
+   "id": "caminho-sabado",
+   "tipo": "distância",
+   "nome": "caminho (jornada) de um sábado",
+   "original": "σαββάτου ὁδός sabbatou hodos",
+   "equivale": "cerca de 0,9 a 1,1 km",
+   "nota": "Distância máxima que, pela tradição judaica, se podia andar no sábado fora da cidade: 2.000 côvados. O número parece tirado da distância entre o povo e a arca (Josué 3:4) e dos limites das cidades levíticas (Números 35:5).",
+   "refs": [
+    "atos 1:12",
+    "josue 3:4",
+    "numeros 35:5"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Eruvin 4-5 (limite de 2.000 côvados para andar no sábado)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "dia-de-caminho",
+   "tipo": "distância",
+   "nome": "dia de caminho",
+   "original": "דֶּרֶךְ יוֹם derekh yom",
+   "equivale": "cerca de 25 a 35 km a pé",
+   "nota": "Não é uma medida fixa: indica a distância que se percorria num dia de viagem, que dependia do terreno, da carga e de haver crianças ou animais.",
+   "refs": [
+    "genesis 31:23",
+    "numeros 11:31",
+    "1-reis 19:4",
+    "lucas 2:44"
+   ]
+  },
+  {
+   "id": "siclo-peso",
+   "tipo": "peso",
+   "nome": "siclo (peso)",
+   "original": "שֶׁקֶל sheqel",
+   "equivale": "cerca de 11,4 g",
+   "nota": "Unidade básica de peso, usada sobretudo para prata e ouro antes das moedas. Pesos achados em Judá dão em geral 11-12 g, mas havia padrões diferentes: o 'siclo do santuário' (20 geras), o 'peso do rei' e o padrão 'dos mercadores'.",
+   "refs": [
+    "genesis 23:16",
+    "exodo 30:13",
+    "2-samuel 14:26",
+    "jeremias 32:9"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Arqueologia (Judá)",
+     "referencia": "pesos de pedra inscritos (siclo, beca, pim, gera) achados em escavações",
+     "data": "c. séc. VIII-VII a.C. (aproximado)"
+    }
+   ]
+  },
+  {
+   "id": "gera",
+   "tipo": "peso",
+   "nome": "gera",
+   "original": "גֵּרָה gerah",
+   "equivale": "cerca de 0,57 g",
+   "nota": "A menor unidade de peso: um vigésimo do siclo.",
+   "refs": [
+    "exodo 30:13",
+    "levitico 27:25",
+    "ezequiel 45:12"
+   ],
+   "nesta_traducao": "Em Êxodo 30:13 e Levítico 27:25 esta tradução diz 'vinte óbolos'."
+  },
+  {
+   "id": "beca",
+   "tipo": "peso",
+   "nome": "beca (meio siclo)",
+   "original": "בֶּקַע beqa",
+   "equivale": "cerca de 5,7 g",
+   "nota": "Meio siclo; era o valor da contribuição de cada homem contado no recenseamento do deserto.",
+   "refs": [
+    "genesis 24:22",
+    "exodo 38:26"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Arqueologia (Judá)",
+     "referencia": "pesos de pedra inscritos (siclo, beca, pim, gera) achados em escavações",
+     "data": "c. séc. VIII-VII a.C. (aproximado)"
+    }
+   ]
+  },
+  {
+   "id": "pim",
+   "tipo": "peso",
+   "nome": "pim",
+   "original": "פִּים pim",
+   "equivale": "cerca de 7,6-7,8 g (dois terços do siclo)",
+   "nota": "Aparece uma só vez no texto hebraico, como preço para afiar ferramentas nos filisteus. A palavra era um enigma até se acharem pesos de pedra com a inscrição 'pim'.",
+   "refs": [
+    "1-samuel 13:21"
+   ],
+   "nesta_traducao": "Esta tradução diz apenas 'certo preço'.",
+   "fonte_extra": [
+    {
+     "fonte": "Arqueologia (Judá)",
+     "referencia": "pesos de pedra inscritos (siclo, beca, pim, gera) achados em escavações",
+     "data": "c. séc. VIII-VII a.C. (aproximado)"
+    }
+   ]
+  },
+  {
+   "id": "mina-peso",
+   "tipo": "peso",
+   "nome": "mina (peso)",
+   "original": "מָנֶה maneh / μνᾶ mna",
+   "equivale": "cerca de 570 g (50 siclos) ou 685 g (60 siclos)",
+   "nota": "Unidade intermediária entre o siclo e o talento. Na Mesopotâmia e em Ezequiel 45:12 equivale a 60 siclos; outras contas antigas sugerem 50.",
+   "refs": [
+    "1-reis 10:17",
+    "ezequiel 45:12",
+    "esdras 2:69"
+   ],
+   "nesta_traducao": "Em 1 Reis 10:17 e Esdras 2:69 esta tradução diz 'libras'."
+  },
+  {
+   "id": "talento-peso",
+   "tipo": "peso",
+   "nome": "talento (peso)",
+   "original": "כִּכָּר kikkar / τάλαντον talanton",
+   "equivale": "cerca de 34 kg (3.000 siclos)",
+   "nota": "A maior unidade de peso, o quanto um homem podia carregar. Êxodo 38:25-26 permite calcular que um talento valia 3.000 siclos. O talento grego do NT era menor, por volta de 26 kg.",
+   "refs": [
+    "exodo 38:25-26",
+    "1-reis 9:14",
+    "2-reis 18:14",
+    "apocalipse 16:21"
+   ]
+  },
+  {
+   "id": "libra",
+   "tipo": "peso",
+   "nome": "libra romana",
+   "original": "λίτρα litra",
+   "equivale": "cerca de 327 g",
+   "nota": "Unidade romana de peso, usada para perfumes e especiarias.",
+   "refs": [
+    "joao 12:3",
+    "joao 19:39"
+   ],
+   "nesta_traducao": "Esta tradução diz 'arrátel' (antiga medida portuguesa de cerca de 459 g)."
+  },
+  {
+   "id": "gomer",
+   "tipo": "volume seco",
+   "nome": "ômer (décima parte do efa)",
+   "original": "עֹמֶר omer",
+   "equivale": "cerca de 2,2 L",
+   "nota": "Um décimo do efa; a porção diária de maná por pessoa. Também se usa a palavra para o feixe das primícias. Não confundir com o hômer (coro), que é cem vezes maior.",
+   "refs": [
+    "exodo 16:16",
+    "exodo 16:36",
+    "levitico 23:10"
+   ],
+   "nesta_traducao": "Em Êxodo 16 esta tradução usa a grafia 'gômer'."
+  },
+  {
+   "id": "issarom",
+   "tipo": "volume seco",
+   "nome": "décimo (de efa)",
+   "original": "עִשָּׂרוֹן issaron",
+   "equivale": "cerca de 2,2 L",
+   "nota": "A mesma quantidade do ômer, usada nas ofertas de farinha que acompanhavam os sacrifícios.",
+   "refs": [
+    "exodo 29:40",
+    "levitico 14:10",
+    "numeros 28:5"
+   ]
+  },
+  {
+   "id": "efa",
+   "tipo": "volume seco",
+   "nome": "efa",
+   "original": "אֵיפָה efah",
+   "equivale": "cerca de 22 L (estimativas vão de cerca de 20 a 40 L)",
+   "nota": "Medida padrão de grãos; tinha a mesma capacidade do bato (líquidos). O valor exato é muito discutido.",
+   "refs": [
+    "exodo 16:36",
+    "levitico 19:36",
+    "rute 2:17",
+    "ezequiel 45:11",
+    "amos 8:5"
+   ]
+  },
+  {
+   "id": "sea",
+   "tipo": "volume seco",
+   "nome": "medida (seá)",
+   "original": "סְאָה seah / σάτον saton",
+   "equivale": "cerca de 7,3 L",
+   "nota": "Um terço do efa. As 'três medidas' de farinha da parábola do fermento (cerca de 22 L) eram uma quantidade enorme, a mesma que Sara usou para receber os hóspedes.",
+   "refs": [
+    "genesis 18:6",
+    "2-reis 7:1",
+    "mateus 13:33"
+   ],
+   "nesta_traducao": "Esta tradução diz simplesmente 'medida(s)'."
+  },
+  {
+   "id": "coro-homer",
+   "tipo": "volume seco",
+   "nome": "coro / hômer",
+   "original": "כֹּר kor / חֹמֶר chomer / κόρος koros",
+   "equivale": "cerca de 220 L",
+   "nota": "Dez efas. O hômer era, na origem, a carga de um jumento; coro é o nome usado mais tarde para a mesma medida. Servia também para líquidos (dez batos).",
+   "refs": [
+    "levitico 27:16",
+    "1-reis 4:22",
+    "ezequiel 45:11",
+    "ezequiel 45:14",
+    "lucas 16:7"
+   ],
+   "nesta_traducao": "Em Ezequiel 45 esta tradução escreve 'ômer' para o hômer; em Lucas 16:7, 'volumes'."
+  },
+  {
+   "id": "leteque",
+   "tipo": "volume seco",
+   "nome": "leteque (meio hômer)",
+   "original": "לֶתֶךְ letekh",
+   "equivale": "cerca de 110 L",
+   "nota": "Meio hômer. Aparece só em Oseias 3:2.",
+   "refs": [
+    "oseias 3:2"
+   ],
+   "nesta_traducao": "Esta tradução diz 'um ômer e meio de cevada', unindo hômer e leteque."
+  },
+  {
+   "id": "cabo",
+   "tipo": "volume seco",
+   "nome": "cabo",
+   "original": "קַב qav",
+   "equivale": "cerca de 1,2 L",
+   "nota": "Um dezoito avos do efa, segundo a tradição judaica posterior. Aparece no cerco de Samaria, quando um quarto de cabo de 'esterco de pombas' era vendido caro.",
+   "refs": [
+    "2-reis 6:25"
+   ],
+   "nesta_traducao": "Esta tradução diz 'porção'."
+  },
+  {
+   "id": "quenix",
+   "tipo": "volume seco",
+   "nome": "quênix",
+   "original": "χοῖνιξ choinix",
+   "equivale": "cerca de 1,1 L",
+   "nota": "Medida grega, mais ou menos a ração diária de grão de uma pessoa; por isso 'uma medida de trigo por um denário' em Apocalipse 6:6 indica preços de fome.",
+   "refs": [
+    "apocalipse 6:6"
+   ],
+   "nesta_traducao": "Esta tradução diz 'medida'."
+  },
+  {
+   "id": "modio",
+   "tipo": "volume seco",
+   "nome": "módio (alqueire)",
+   "original": "μόδιος modios",
+   "equivale": "cerca de 8,7 L",
+   "nota": "Medida romana de grãos; o recipiente de madeira usado para medi-la podia cobrir uma lamparina, como diz Jesus.",
+   "refs": [
+    "mateus 5:15"
+   ],
+   "nesta_traducao": "Esta tradução diz 'cesto'."
+  },
+  {
+   "id": "bato",
+   "tipo": "volume líquido",
+   "nome": "bato",
+   "original": "בַּת bat / βάτος batos",
+   "equivale": "cerca de 22 L",
+   "nota": "Medida padrão para vinho e azeite, igual ao efa dos secos. O 'mar' de bronze do templo cabia 2.000 batos.",
+   "refs": [
+    "1-reis 7:26",
+    "isaias 5:10",
+    "ezequiel 45:11",
+    "ezequiel 45:14",
+    "lucas 16:6"
+   ],
+   "nesta_traducao": "Em Lucas 16:6 esta tradução diz 'medidas de azeite'."
+  },
+  {
+   "id": "him",
+   "tipo": "volume líquido",
+   "nome": "him",
+   "original": "הִין hin",
+   "equivale": "cerca de 3,7 L",
+   "nota": "Um sexto do bato. Usado nas libações de vinho e azeite que acompanhavam os sacrifícios.",
+   "refs": [
+    "exodo 29:40",
+    "exodo 30:24",
+    "numeros 15:4-5",
+    "ezequiel 4:11"
+   ]
+  },
+  {
+   "id": "logue",
+   "tipo": "volume líquido",
+   "nome": "logue",
+   "original": "לֹג log",
+   "equivale": "cerca de 0,3 L",
+   "nota": "A menor medida líquida da Lei (um doze avos do him), usada na purificação de quem se curava de doença de pele.",
+   "refs": [
+    "levitico 14:10",
+    "levitico 14:21"
+   ]
+  },
+  {
+   "id": "metreta",
+   "tipo": "volume líquido",
+   "nome": "metreta",
+   "original": "μετρητής metrētēs",
+   "equivale": "cerca de 39 L",
+   "nota": "Medida grega de líquidos. As seis talhas de Caná, com 'duas ou três metretas' cada, tinham juntas algo entre 470 e 700 litros.",
+   "refs": [
+    "joao 2:6"
+   ]
+  },
+  {
+   "id": "siclo-moeda",
+   "tipo": "moeda",
+   "nome": "siclo de prata / moeda de prata",
+   "original": "שֶׁקֶל sheqel / ἀργύριον argyrion",
+   "equivale": "cerca de 4 denários (siclo de Tiro, c. 14 g de prata)",
+   "nota": "No AT, 'siclos de prata' eram quantidades de prata pesada, não moedas. No tempo de Jesus, o siclo usado no templo era a moeda de prata de Tiro. As 'trinta moedas de prata' pagas a Judas eram provavelmente siclos desse tipo; trinta siclos era o preço de um escravo na Lei (Êxodo 21:32).",
+   "refs": [
+    "exodo 21:32",
+    "zacarias 11:12-13",
+    "mateus 26:15",
+    "mateus 27:3-7"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Bekhorot 8:7 (pagamentos do templo calculados em moeda de Tiro)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "dracma",
+   "tipo": "moeda",
+   "nome": "dracma",
+   "original": "δραχμή drachmē",
+   "equivale": "cerca de 1 denário (um dia de trabalho)",
+   "nota": "Moeda grega de prata de valor parecido com o denário. A mulher da parábola tinha dez dracmas.",
+   "refs": [
+    "lucas 15:8-9"
+   ],
+   "nesta_traducao": "Esta tradução diz 'moedas de prata'."
+  },
+  {
+   "id": "didracma",
+   "tipo": "moeda",
+   "nome": "didracma (duas dracmas)",
+   "original": "δίδραχμον didrachmon",
+   "equivale": "2 dracmas = meio siclo",
+   "nota": "Valor do imposto anual do templo pago por todo homem judeu adulto.",
+   "refs": [
+    "mateus 17:24",
+    "exodo 30:13-15"
+   ],
+   "nesta_traducao": "Esta tradução diz 'taxa de duas dracmas'."
+  },
+  {
+   "id": "estater",
+   "tipo": "moeda",
+   "nome": "estáter",
+   "original": "στατήρ statēr",
+   "equivale": "4 dracmas = 1 siclo",
+   "nota": "Moeda de prata equivalente a quatro dracmas (tetradracma); dava para pagar o imposto do templo de duas pessoas, como Jesus fez por si e por Pedro.",
+   "refs": [
+    "mateus 17:27"
+   ],
+   "nesta_traducao": "Esta tradução diz apenas 'moeda'."
+  },
+  {
+   "id": "denario",
+   "tipo": "moeda",
+   "nome": "denário",
+   "original": "δηνάριον dēnarion",
+   "equivale": "o salário de um dia de trabalho braçal",
+   "nota": "Moeda romana de prata (cerca de 3,8 g no séc. I), com a imagem do imperador. Era a moeda do tributo a César e a diária combinada com os trabalhadores da vinha.",
+   "refs": [
+    "mateus 18:28",
+    "mateus 20:2",
+    "mateus 22:19-21",
+    "marcos 14:5",
+    "lucas 10:35",
+    "joao 6:7",
+    "apocalipse 6:6"
+   ],
+   "nesta_traducao": "Em Lucas 10:35, João 6:7 e Apocalipse 6:6 esta tradução diz 'dinheiro(s)'."
+  },
+  {
+   "id": "asse",
+   "tipo": "moeda",
+   "nome": "asse",
+   "original": "ἀσσάριον assarion",
+   "equivale": "1/16 de denário",
+   "nota": "Pequena moeda romana de bronze. Dois pardais valiam um asse; com dois, compravam-se cinco.",
+   "refs": [
+    "mateus 10:29",
+    "lucas 12:6"
+   ],
+   "nesta_traducao": "Esta tradução diz 'pequena(s) moeda(s)'."
+  },
+  {
+   "id": "quadrante",
+   "tipo": "moeda",
+   "nome": "quadrante",
+   "original": "κοδράντης kodrantēs",
+   "equivale": "1/4 de asse = 1/64 de denário",
+   "nota": "Pequena moeda romana de bronze. Marcos explica a leitores romanos que as duas moedinhas da viúva valiam um quadrante.",
+   "refs": [
+    "mateus 5:26",
+    "marcos 12:42"
+   ],
+   "nesta_traducao": "Esta tradução diz 'última moeda' e 'moedas de pouco valor'."
+  },
+  {
+   "id": "lepto",
+   "tipo": "moeda",
+   "nome": "lepto (leptón)",
+   "original": "λεπτόν lepton",
+   "equivale": "1/2 quadrante = 1/128 de denário",
+   "nota": "A menor moeda de bronze em circulação na Judeia. A viúva pobre deu dois leptos, 'tudo o que tinha'.",
+   "refs": [
+    "marcos 12:42",
+    "lucas 12:59",
+    "lucas 21:2"
+   ],
+   "nesta_traducao": "Esta tradução diz 'pequenas moedas'."
+  },
+  {
+   "id": "mina-moeda",
+   "tipo": "moeda",
+   "nome": "mina (dinheiro)",
+   "original": "μνᾶ mna",
+   "equivale": "100 dracmas, cerca de 100 dias de trabalho",
+   "nota": "Unidade de conta, não moeda cunhada. Aparece na parábola das minas.",
+   "refs": [
+    "lucas 19:13",
+    "lucas 19:16"
+   ]
+  },
+  {
+   "id": "talento-moeda",
+   "tipo": "moeda",
+   "nome": "talento (dinheiro)",
+   "original": "τάλαντον talanton",
+   "equivale": "6.000 denários, cerca de 20 anos de trabalho",
+   "nota": "Unidade de conta, a maior do sistema. Dez mil talentos (Mateus 18:24) era uma dívida impossível de pagar, de propósito, comparada aos cem denários que o outro servo devia.",
+   "refs": [
+    "mateus 18:24",
+    "mateus 25:15"
+   ]
+  },
+  {
+   "id": "darico",
+   "tipo": "moeda",
+   "nome": "dárico",
+   "original": "אֲדַרְכֹּן adarkon / דַּרְכְּמוֹן darkemon",
+   "equivale": "moeda persa de ouro de cerca de 8,4 g",
+   "nota": "Moeda de ouro cunhada pelos reis persas a partir de Dario I. Aparece nas listas de ofertas de Esdras e Neemias; em 1 Crônicas 29:7 o termo, usado para o tempo de Davi, reflete a linguagem da época em que o livro foi escrito. Discute-se se a palavra hebraica indica o dárico persa ou a dracma grega.",
+   "refs": [
+    "1-cronicas 29:7",
+    "esdras 2:69",
+    "esdras 8:27",
+    "neemias 7:70-72"
+   ],
+   "nesta_traducao": "Esta tradução diz 'moedas' (1 Crônicas) e 'dracmas de ouro' (Esdras e Neemias).",
+   "fonte_extra": [
+    {
+     "fonte": "Numismática persa",
+     "referencia": "dáricos de ouro do Império Aquemênida",
+     "data": "a partir de c. 515 a.C. (aproximado)"
+    }
+   ]
+  },
+  {
+   "id": "quesita",
+   "tipo": "moeda",
+   "nome": "quesita",
+   "original": "קְשִׂיטָה qesitah",
+   "equivale": "valor desconhecido",
+   "nota": "Unidade de valor muito antiga, usada no tempo dos patriarcas; não se sabe quanto valia (talvez uma quantidade de prata ou um valor equivalente a uma ovelha).",
+   "refs": [
+    "genesis 33:19",
+    "josue 24:32",
+    "jo 42:11"
+   ],
+   "nesta_traducao": "Esta tradução diz 'peças de moeda', 'peças de prata' ou 'peça de dinheiro'."
+  },
+  {
+   "id": "semana",
+   "tipo": "tempo",
+   "nome": "semana",
+   "original": "שָׁבוּעַ shavua / σάββατον sabbaton",
+   "equivale": "7 dias",
+   "nota": "Ciclo de sete dias terminado no sábado, sem ligação com a lua. A palavra também é usada para 'semanas de anos' (sete anos), por exemplo no cálculo do jubileu.",
+   "refs": [
+    "genesis 29:27",
+    "levitico 23:15-16",
+    "levitico 25:8",
+    "lucas 18:12"
+   ]
+  },
+  {
+   "id": "mes-lunar",
+   "tipo": "tempo",
+   "nome": "mês",
+   "original": "חֹדֶשׁ chodesh / יֶרַח yerach",
+   "equivale": "29 ou 30 dias",
+   "nota": "Mês lunar, começando na lua nova. Ver o calendário para os nomes e as estações.",
+   "refs": [
+    "genesis 7:11",
+    "numeros 28:11",
+    "1-reis 6:1"
+   ]
+  },
+  {
+   "id": "ano",
+   "tipo": "tempo",
+   "nome": "ano",
+   "original": "שָׁנָה shanah",
+   "equivale": "12 meses lunares (cerca de 354 dias), com um 13º mês de tempos em tempos",
+   "nota": "Os anos eram contados a partir de acontecimentos (a saída do Egito, o reinado de um rei), não de uma era fixa.",
+   "refs": [
+    "exodo 12:2",
+    "1-reis 6:1",
+    "lucas 3:1"
+   ]
+  }
+ ],
+ "medidas_nota": "Todas as equivalências modernas são aproximadas: os valores mudaram com o tempo e a região, e as estimativas dos estudiosos variam (às vezes muito, como no caso do efa). A Bíblia Livre traduz várias medidas por termos portugueses genéricos ('medida', 'moeda', 'libra', 'arrátel'); o campo 'nesta_traducao' avisa quando isso acontece."
+}

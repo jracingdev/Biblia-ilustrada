@@ -1,0 +1,422 @@
+{
+ "livro": "neemias",
+ "nome": "Neemias",
+ "subtitulo": "Reconstruir muros e renovar a aliança",
+ "introducao": "Neemias, copeiro do rei da Pérsia, recebe a notícia de que Jerusalém está em ruínas e, depois de orar, vai liderar a reconstrução dos muros. Mesmo com zombarias, ameaças e problemas internos, o muro é concluído em 52 dias. Em seguida, o povo ouve a lei lida por Esdras, confessa seus pecados e renova a aliança com Deus.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Baseado nas memórias do próprio Neemias, escritas em primeira pessoa (1:1); na tradição judaica, Esdras e Neemias formavam um só livro"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Os fatos começam no 20º ano de Artaxerxes, c. 445 a.C. (2:1); a redação final é geralmente datada no fim do século V ou no IV a.C."
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Susã, na Pérsia, e Jerusalém"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "A comunidade judaica que voltou do exílio"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Narrativa histórica em forma de memórias, com listas"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "13 capítulos e 406 versículos"
+  }
+ ],
+ "chave": "8:10",
+ "temas": [
+  "Oração que leva à ação",
+  "Perseverança diante da oposição",
+  "Liderança que serve e pratica a justiça",
+  "A palavra de Deus lida e explicada",
+  "Compromisso renovado com a aliança"
+ ],
+ "cristo": "Neemias, que deixa o conforto do palácio para restaurar a cidade de seu povo e intercede por ele, lembra Jesus, que veio servir e restaurar. A alegria do SENHOR como força do povo (8:10) encontra eco no evangelho, a boa notícia de grande alegria.",
+ "secoes": [
+  {
+   "id": "chamado-de-neemias",
+   "titulo": "O chamado de Neemias",
+   "capitulos": [
+    1,
+    2
+   ],
+   "resumo": "Neemias ora e recebe permissão para ir a Jerusalém."
+  },
+  {
+   "id": "reconstrucao-do-muro",
+   "titulo": "A reconstrução do muro",
+   "capitulos": [
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "resumo": "O povo constrói o muro apesar da oposição e das injustiças internas."
+  },
+  {
+   "id": "renovacao-da-alianca",
+   "titulo": "A renovação da aliança",
+   "capitulos": [
+    8,
+    9,
+    10
+   ],
+   "resumo": "A lei é lida, o povo confessa e firma um pacto com Deus."
+  },
+  {
+   "id": "cidade-e-reformas",
+   "titulo": "A cidade dedicada e as últimas reformas",
+   "capitulos": [
+    11,
+    12,
+    13
+   ],
+   "resumo": "Jerusalém é repovoada, os muros dedicados e os abusos corrigidos."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "A oração de Neemias",
+   "chave": "1:4",
+   "resumo": "Em Susã, Neemias, copeiro do rei persa, recebe notícias de que os judeus em Jerusalém estão em grande miséria e os muros da cidade estão derrubados. Ele chora, jejua e ora durante dias. Confessa os pecados do povo, inclusive os seus, lembra a promessa de Deus a Moisés de reunir os que se convertessem e pede favor diante do rei.",
+   "licoes": [
+    "Neemias se deixa tocar pela situação do seu povo (1:3-4).",
+    "A oração começa reconhecendo a grandeza e a fidelidade de Deus (1:5).",
+    "Neemias confessa o pecado coletivo incluindo a si mesmo (1:6-7).",
+    "A oração se apoia nas promessas que Deus já fez (1:8-9)."
+   ],
+   "reflexao": "Que necessidade de outras pessoas tem tocado seu coração a ponto de levar você a orar?",
+   "quiz": [
+    {
+     "pergunta": "Qual era a função de Neemias na corte persa?",
+     "opcoes": [
+      "Copeiro do rei",
+      "Escriba",
+      "Governador de Susã",
+      "General"
+     ],
+     "correta": 0,
+     "ref": "1:11"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Neemias vai a Jerusalém",
+   "chave": "2:18",
+   "resumo": "Meses depois, o rei percebe a tristeza de Neemias. Neemias faz uma oração rápida e pede para reconstruir Jerusalém, e o rei concede cartas e recursos. Em Jerusalém, ele inspeciona os muros de noite e depois convida os líderes: \"levantemo-nos e edifiquemos\". Sambalate, Tobias e Gesém zombam, mas Neemias afirma que o Deus dos céus dará sucesso.",
+   "licoes": [
+    "Uma oração breve no momento decisivo também é oração (2:4).",
+    "Neemias reconhece que a boa mão de Deus estava sobre ele (2:8, 2:18).",
+    "Antes de agir, ele avalia com cuidado a situação (2:12-15).",
+    "Diante da zombaria, ele confia que Deus dará sucesso (2:20)."
+   ],
+   "reflexao": "Em que decisão importante você precisa fazer uma \"oração rápida\" hoje?",
+   "quiz": [
+    {
+     "pergunta": "O que Neemias fez antes de responder ao rei?",
+     "opcoes": [
+      "Orou ao Deus dos céus",
+      "Consultou os sábios",
+      "Pediu um dia para pensar",
+      "Chamou a rainha"
+     ],
+     "correta": 0,
+     "ref": "2:4"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Todos trabalham no muro",
+   "chave": "3:12",
+   "resumo": "O capítulo registra quem reconstruiu cada trecho do muro e cada porta de Jerusalém: o sumo sacerdote, sacerdotes, levitas, ourives, perfumistas, comerciantes, líderes de distritos e moradores de várias cidades. Muitos consertam o trecho em frente às próprias casas. Apenas os nobres de Tecoa se recusam a trabalhar.",
+   "licoes": [
+    "A obra de Deus é feita por muitas mãos, cada uma em seu trecho (3:1-2).",
+    "Até filhas de um líder trabalham na reconstrução (3:12).",
+    "Começar pelo que está \"em frente de casa\" é um bom ponto de partida (3:10, 3:28).",
+    "O texto também registra quem se recusou a servir (3:5)."
+   ],
+   "reflexao": "Qual é o \"trecho do muro\" que Deus colocou diante da sua casa?",
+   "quiz": [
+    {
+     "pergunta": "Quem se recusou a trabalhar na obra?",
+     "opcoes": [
+      "Os sacerdotes",
+      "Os ourives",
+      "Os mais ilustres dos tecoítas",
+      "Os levitas"
+     ],
+     "correta": 2,
+     "ref": "3:5"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Trabalhar e vigiar",
+   "chave": "4:14",
+   "resumo": "Sambalate e Tobias zombam dos judeus e depois conspiram para atacar. O povo ora e põe guardas dia e noite. Quando o desânimo aparece, Neemias organiza as famílias e encoraja: lembrem-se do Senhor grande e temível e lutem por suas famílias. Metade trabalha e metade vigia; os construtores trabalham com uma mão e seguram armas com a outra.",
+   "licoes": [
+    "O muro avança porque o povo tinha disposição para trabalhar (4:6).",
+    "Oração e ação prática caminham juntas (4:9).",
+    "Lembrar quem Deus é vence o medo (4:14).",
+    "Deus luta por seu povo, mas o povo também vigia (4:17, 4:20)."
+   ],
+   "reflexao": "Que medo você pode enfrentar lembrando quem Deus é?",
+   "quiz": [
+    {
+     "pergunta": "O que o povo fez diante da ameaça dos inimigos?",
+     "opcoes": [
+      "Fugiu da cidade",
+      "Pagou tributo aos inimigos",
+      "Orou a Deus e pôs guardas dia e noite",
+      "Parou a obra"
+     ],
+     "correta": 2,
+     "ref": "4:9"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "Justiça entre irmãos",
+   "chave": "5:9",
+   "resumo": "Em meio à obra, o povo pobre clama contra irmãos judeus que emprestavam com juros, tomavam terras e até escravizavam filhos de devedores. Neemias se indigna, confronta nobres e oficiais e os faz devolver as terras e parar de cobrar juros. Ele mesmo, como governador, não cobra a provisão a que tinha direito, por temor a Deus.",
+   "licoes": [
+    "Deus se importa com a injustiça econômica entre seu povo (5:1-5).",
+    "Neemias reflete antes de confrontar (5:7).",
+    "Andar no temor de Deus inclui tratar o próximo com justiça (5:9).",
+    "O líder dá exemplo abrindo mão de seus direitos (5:14-15)."
+   ],
+   "reflexao": "Há alguma vantagem que você poderia abrir mão para o bem de outros?",
+   "quiz": [
+    {
+     "pergunta": "Por quantos anos Neemias não comeu o pão do governador?",
+     "opcoes": [
+      "Três",
+      "Sete",
+      "Doze",
+      "Vinte"
+     ],
+     "correta": 2,
+     "ref": "5:14"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "O muro é concluído",
+   "chave": "6:15-16",
+   "resumo": "Os inimigos tentam atrair Neemias para uma armadilha, espalham boatos de que ele quer ser rei e contratam um falso profeta para fazê-lo se esconder no templo. Neemias percebe as intenções, recusa-se a parar a \"grande obra\" e ora para que Deus fortaleça suas mãos. O muro é concluído em 52 dias, e as nações reconhecem que a obra veio de Deus.",
+   "licoes": [
+    "Concentrar-se na obra de Deus ajuda a recusar distrações (6:3).",
+    "Diante do medo, Neemias ora: \"fortalece minhas mãos\" (6:9).",
+    "Discernimento evita cair em profecias falsas e armadilhas (6:12).",
+    "A conclusão do muro mostra que a obra foi feita por Deus (6:16)."
+   ],
+   "reflexao": "Que distrações tentam afastar você da \"grande obra\" que Deus lhe deu?",
+   "quiz": [
+    {
+     "pergunta": "Em quantos dias o muro foi terminado?",
+     "opcoes": [
+      "Quarenta",
+      "Cinquenta e dois",
+      "Setenta",
+      "Cem"
+     ],
+     "correta": 1,
+     "ref": "6:15"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "Guardas e registro do povo",
+   "chave": "7:2",
+   "resumo": "Com o muro pronto, Neemias organiza porteiros, cantores e levitas e entrega o governo de Jerusalém a Hanani e Hananias, homem fiel e temente a Deus. A cidade é grande, mas tem poucos moradores. Deus põe no coração de Neemias registrar o povo, e ele encontra a lista dos que voltaram com Zorobabel, reproduzida no capítulo.",
+   "licoes": [
+    "Para liderar, Neemias escolhe alguém fiel e temente a Deus (7:2).",
+    "Proteger o que foi reconstruído exige vigilância diária (7:3).",
+    "Neemias reconhece que a ideia de registrar o povo veio de Deus (7:5)."
+   ],
+   "reflexao": "Que qualidades você valoriza ao escolher em quem confiar?",
+   "quiz": [
+    {
+     "pergunta": "Como Neemias descreve Hananias?",
+     "opcoes": [
+      "Rico e influente",
+      "Profeta de Deus",
+      "Grande guerreiro",
+      "Homem fiel e temente a Deus, mais que muitos"
+     ],
+     "correta": 3,
+     "ref": "7:2"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "A leitura da lei e a alegria do SENHOR",
+   "chave": "8:10",
+   "resumo": "O povo se reúne como um só homem e pede a Esdras que leia a lei de Moisés. Esdras lê do amanhecer ao meio-dia, e os levitas explicam o sentido para que todos entendam. O povo chora ao ouvir, mas Neemias e Esdras dizem que é dia santo: a alegria do SENHOR é a sua força. Depois, celebram a festa dos Tabernáculos como não se fazia desde Josué.",
+   "licoes": [
+    "O povo tem fome da palavra de Deus e a pede (8:1).",
+    "Ler e explicar a palavra ajuda o povo a entender (8:8).",
+    "A palavra leva ao arrependimento e também à alegria: \"a alegria do SENHOR é vossa força\" (8:9-10).",
+    "A celebração inclui partilhar com quem não tem nada preparado (8:10, 8:12)."
+   ],
+   "reflexao": "Como a palavra de Deus tem trazido arrependimento e alegria à sua vida?",
+   "quiz": [
+    {
+     "pergunta": "O que os levitas faziam enquanto a lei era lida?",
+     "opcoes": [
+      "Tocavam trombetas",
+      "Guardavam as portas",
+      "Ofereciam sacrifícios",
+      "Explicavam o sentido para que o povo entendesse"
+     ],
+     "correta": 3,
+     "ref": "8:8"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "A grande oração de confissão",
+   "chave": "9:31",
+   "resumo": "O povo se reúne em jejum, lê a lei e confessa seus pecados. Os levitas fazem uma longa oração que recorda a história: a criação, Abraão, o êxodo, o Sinai, o deserto, a conquista, os juízes e os profetas. Em cada etapa, o povo se rebela e Deus se mostra paciente e misericordioso. A oração termina reconhecendo a justiça de Deus e firmando um pacto escrito.",
+   "licoes": [
+    "Deus é o único criador de tudo (9:6).",
+    "A história do povo é marcada pela rebeldia humana e pela misericórdia de Deus (9:16-17).",
+    "Mesmo diante da infidelidade, Deus não desampara (9:19, 9:31).",
+    "Reconhecer a justiça de Deus é parte da confissão sincera (9:33)."
+   ],
+   "reflexao": "Ao olhar para sua história, onde você vê a paciência de Deus com você?",
+   "quiz": [
+    {
+     "pergunta": "Como os levitas descrevem a Deus na oração?",
+     "opcoes": [
+      "Distante e severo",
+      "Indiferente",
+      "Clemente e misericordioso",
+      "Apenas justo e irado"
+     ],
+     "correta": 2,
+     "ref": "9:31"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "titulo": "O pacto do povo",
+   "chave": "10:29",
+   "resumo": "Neemias, sacerdotes, levitas e líderes selam o pacto, e o restante do povo se compromete a andar na lei de Deus. Eles prometem não fazer casamentos com os povos vizinhos idólatras, guardar o sábado, sustentar o culto do templo com ofertas anuais, lenha, primícias, primogênitos e dízimos. O compromisso termina com a promessa de não abandonar a casa de Deus.",
+   "licoes": [
+    "A renovação se torna compromisso concreto e assumido por todos (10:28-29).",
+    "Guardar o sábado envolve escolhas práticas no comércio (10:31).",
+    "Sustentar o culto é responsabilidade de todo o povo (10:32-33).",
+    "\"Não abandonaremos a casa de nosso Deus\" resume o pacto (10:39)."
+   ],
+   "reflexao": "Que compromisso concreto você pode assumir para não \"abandonar a casa de Deus\"?",
+   "quiz": [
+    {
+     "pergunta": "Com que promessa termina o pacto do povo?",
+     "opcoes": [
+      "De reconstruir o muro",
+      "De pagar tributo ao rei",
+      "De voltar à Babilônia",
+      "De não abandonar a casa de seu Deus"
+     ],
+     "correta": 3,
+     "ref": "10:39"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "titulo": "Repovoando Jerusalém",
+   "chave": "11:2",
+   "resumo": "Os líderes passam a morar em Jerusalém, e o restante do povo lança sortes para que um em cada dez se mude para a cidade santa. O povo abençoa os que se oferecem voluntariamente para morar lá. O capítulo lista as famílias de Judá, Benjamim, sacerdotes, levitas e porteiros que habitaram em Jerusalém, e as cidades onde os demais moravam.",
+   "licoes": [
+    "Reconstruir também significa estar disposto a habitar e cuidar do lugar (11:1).",
+    "Quem se oferece voluntariamente para servir é abençoado pela comunidade (11:2).",
+    "Cada grupo tem sua função na vida da cidade, inclusive na ação de graças e na oração (11:17)."
+   ],
+   "reflexao": "A que \"lugar\" ou tarefa Deus pode estar chamando você a se oferecer voluntariamente?",
+   "quiz": [
+    {
+     "pergunta": "Que proporção do povo foi sorteada para morar em Jerusalém?",
+     "opcoes": [
+      "Um em cada dez",
+      "Metade",
+      "Um em cada três",
+      "Todos"
+     ],
+     "correta": 0,
+     "ref": "11:1"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "titulo": "A dedicação dos muros",
+   "chave": "12:43",
+   "resumo": "O capítulo lista sacerdotes e levitas desde Zorobabel e Jesua. Para dedicar os muros, os levitas e cantores são reunidos de toda a região; sacerdotes e levitas se purificam e purificam o povo, as portas e o muro. Dois grandes coros caminham sobre o muro em direções opostas e se encontram no templo. Há grandes sacrifícios e tanta alegria que se ouve de longe.",
+   "licoes": [
+    "A dedicação é feita com ação de graças, música e alegria (12:27).",
+    "A purificação vem antes da celebração (12:30).",
+    "A alegria vem de Deus e envolve toda a comunidade, mulheres e crianças (12:43).",
+    "O sustento de cantores e porteiros garante a continuidade do culto (12:44, 12:47)."
+   ],
+   "reflexao": "Que vitória de Deus em sua vida merece ser celebrada com ação de graças?",
+   "quiz": [
+    {
+     "pergunta": "Quantos coros Neemias organizou sobre o muro?",
+     "opcoes": [
+      "Um",
+      "Dois",
+      "Três",
+      "Doze"
+     ],
+     "correta": 1,
+     "ref": "12:31"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "titulo": "As reformas finais de Neemias",
+   "chave": "13:11",
+   "resumo": "Neemias volta a Jerusalém depois de um tempo e encontra problemas: o sacerdote Eliasibe havia cedido uma câmara do templo a Tobias, os levitas não recebiam sua parte, o comércio profanava o sábado e havia casamentos com povos que levavam à idolatria. Neemias expulsa Tobias, restaura os dízimos, fecha as portas no sábado e confronta os culpados. Ele termina pedindo que Deus se lembre dele para o bem.",
+   "licoes": [
+    "Sem vigilância, compromissos assumidos podem ser esquecidos rapidamente (13:6-7).",
+    "Neemias pergunta: \"Por que a casa de Deus está abandonada?\" (13:11).",
+    "Guardar o sábado exige decisões práticas e firmes (13:17, 13:19).",
+    "Neemias encerra pedindo a misericórdia e a lembrança de Deus (13:22, 13:31)."
+   ],
+   "reflexao": "Que compromisso com Deus você assumiu e pode estar deixando de lado?",
+   "quiz": [
+    {
+     "pergunta": "A quem o sacerdote Eliasibe havia cedido uma câmara no templo?",
+     "opcoes": [
+      "A Sambalate",
+      "A Tobias",
+      "A Gesém",
+      "A Esdras"
+     ],
+     "correta": 1,
+     "ref": "13:7"
+    }
+   ]
+  }
+ ]
+}

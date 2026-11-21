@@ -1,0 +1,4930 @@
+{
+ "introducao": "A palavra Torá quer dizer \"instrução\" e designa os cinco livros de Moisés; neles a lei não aparece como um código solto, mas dentro de uma história: Deus liberta Israel do Egito e depois, no Sinai, faz aliança com o povo e lhe dá mandamentos (\"Eu sou o SENHOR teu Deus, que te tirei da terra do Egito\"). Há dois jeitos principais de formular essas leis: as casuísticas, que descrevem um caso concreto (\"se alguém ferir...\", \"quando um boi chifrar...\") e dizem o que fazer, e as apodíticas, ordens diretas e sem condição (\"não matarás\", \"não furtarás\"). Esta parte reúne as leis sobre a proteção da vida e dos bens, a economia e a justiça social, e os tribunais, o governo e a guerra; cada lei traz o texto, a pena que a própria Bíblia fixa (quando fixa), casos narrados e ecos no restante da Escritura. A conhecida conta de 613 mandamentos (248 positivos e 365 negativos) não está na Bíblia: é uma contagem rabínica posterior, e as listas antigas não concordam em todos os itens. Igrejas e tradições judaicas também entendem de modos diferentes como essas leis se aplicam hoje; aqui o objetivo é apresentar o que o texto diz.",
+ "fonte_extra_intro": [
+  {
+   "fonte": "Talmude Babilônico",
+   "referencia": "Makot 23b (R. Simlai: 613 mandamentos, 248 positivos e 365 negativos)",
+   "data": "c. séc. III-VI d.C. (redação final)"
+  },
+  {
+   "fonte": "Maimônides, Sefer HaMitzvot",
+   "referencia": "lista clássica dos 613 mandamentos",
+   "data": "c. 1170 d.C."
+  },
+  {
+   "fonte": "Nahmânides",
+   "referencia": "comentários críticos ao Sefer HaMitzvot (outras escolhas de contagem)",
+   "data": "séc. XIII d.C."
+  }
+ ],
+ "grupos": [
+  {
+   "id": "vida-danos",
+   "titulo": "Vida, agressões e danos",
+   "resumo": "Leis que protegem a vida humana e o patrimônio do próximo: homicídio, cidades de refúgio e o vingador do sangue, agressões e o princípio do \"olho por olho\", danos causados por animais, poços e fogo, furto, sequestro e a guarda de bens alheios. A ideia de fundo é que o sangue derramado \"contamina a terra\" e que o dano deve ser reparado na medida do prejuízo.",
+   "subgrupos": [
+    {
+     "id": "homicidio",
+     "titulo": "Homicídio"
+    },
+    {
+     "id": "refugio",
+     "titulo": "Cidades de refúgio e vingador do sangue"
+    },
+    {
+     "id": "agressao",
+     "titulo": "Agressões e lesões"
+    },
+    {
+     "id": "danos",
+     "titulo": "Danos: boi, poço, fogo, pastagem"
+    },
+    {
+     "id": "roubo",
+     "titulo": "Furto, roubo e sequestro"
+    },
+    {
+     "id": "guarda-bens",
+     "titulo": "Depósitos, guarda de bens e achados"
+    },
+    {
+     "id": "prevencao",
+     "titulo": "Prevenção e culpa coletiva"
+    }
+   ]
+  },
+  {
+   "id": "economia-justica-social",
+   "titulo": "Economia e justiça social",
+   "resumo": "Leis sobre empréstimos sem juros entre israelitas, penhores, salário pago no mesmo dia, pesos honestos, servidão por dívida e libertação, proteção do órfão, da viúva, do estrangeiro e do pobre, cuidado com os animais e respeito aos limites da terra. O motivo repetido é a memória do Egito: \"lembra-te que foste servo\".",
+   "subgrupos": [
+    {
+     "id": "emprestimos",
+     "titulo": "Empréstimos, juros e remissão de dívidas"
+    },
+    {
+     "id": "penhor",
+     "titulo": "Penhor"
+    },
+    {
+     "id": "salario",
+     "titulo": "Salário e trabalhador"
+    },
+    {
+     "id": "comercio",
+     "titulo": "Pesos, medidas e comércio honesto"
+    },
+    {
+     "id": "servos",
+     "titulo": "Servos hebreus e estrangeiros"
+    },
+    {
+     "id": "vulneraveis",
+     "titulo": "Órfão, viúva, estrangeiro e deficientes"
+    },
+    {
+     "id": "pobre",
+     "titulo": "O pobre e as sobras da colheita"
+    },
+    {
+     "id": "animais",
+     "titulo": "Animais"
+    },
+    {
+     "id": "propriedade",
+     "titulo": "Terra, limites e resgate"
+    }
+   ]
+  },
+  {
+   "id": "tribunais-governo",
+   "titulo": "Tribunais, governo e guerra",
+   "resumo": "Leis sobre a nomeação e a conduta dos juízes, o suborno, as testemunhas, o tribunal central, a pena de açoites, o rei e o profeta, e as regras de guerra (isenções, oferta de paz, árvores frutíferas, acampamento limpo), incluindo as ordens sobre os cananeus e Amaleque. O princípio central é que \"o juízo é de Deus\" (Dt 1:17) e por isso não pode ser comprado nem torcido.",
+   "subgrupos": [
+    {
+     "id": "juizes",
+     "titulo": "Juízes e conduta no julgamento"
+    },
+    {
+     "id": "testemunhas",
+     "titulo": "Testemunhas"
+    },
+    {
+     "id": "tribunal",
+     "titulo": "Tribunal central e execução das sentenças"
+    },
+    {
+     "id": "rei",
+     "titulo": "O rei"
+    },
+    {
+     "id": "profeta",
+     "titulo": "O profeta"
+    },
+    {
+     "id": "guerra",
+     "titulo": "Guerra"
+    },
+    {
+     "id": "nacoes",
+     "titulo": "Cananeus, Amaleque e outras nações"
+    }
+   ]
+  }
+ ],
+ "decalogo": [
+  {
+   "n": 1,
+   "texto": "Não terás outros deuses diante de mim (precedido de: \"Eu sou o SENHOR teu Deus, que te tirei da terra do Egito\").",
+   "refs": [
+    "exodo 20:2-3",
+    "deuteronomio 5:6-7"
+   ],
+   "leis_relacionadas": "idolatria, falsos profetas (Dt 13), ordens contra os cultos cananeus"
+  },
+  {
+   "n": 2,
+   "texto": "Não farás imagem para te inclinar diante dela e servi-la.",
+   "refs": [
+    "exodo 20:4-6",
+    "deuteronomio 5:8-10"
+   ],
+   "leis_relacionadas": "proibição de imagens, destruição de altares e colunas sagradas (Dt 7:5)"
+  },
+  {
+   "n": 3,
+   "texto": "Não tomarás o nome do SENHOR teu Deus em vão.",
+   "refs": [
+    "exodo 20:7",
+    "deuteronomio 5:11"
+   ],
+   "leis_relacionadas": "juramento falso (Lv 19:12), blasfêmia (Lv 24:16), juramento diante do SENHOR em causas de depósito (Êx 22:11)"
+  },
+  {
+   "n": 4,
+   "texto": "Lembra-te do dia do sábado para o santificar: seis dias trabalharás, o sétimo é descanso, também para o servo, o estrangeiro e o animal.",
+   "refs": [
+    "exodo 20:8-11",
+    "deuteronomio 5:12-15"
+   ],
+   "leis_relacionadas": "sábado, ano sabático e remissão (Dt 15), descanso do servo e do animal (Êx 23:12)"
+  },
+  {
+   "n": 5,
+   "texto": "Honra teu pai e tua mãe, para que se prolonguem os teus dias na terra.",
+   "refs": [
+    "exodo 20:12",
+    "deuteronomio 5:16"
+   ],
+   "leis_relacionadas": "pena para quem fere ou amaldiçoa os pais (Êx 21:15,17), honra ao ancião (Lv 19:32)"
+  },
+  {
+   "n": 6,
+   "texto": "Não cometerás homicídio.",
+   "refs": [
+    "exodo 20:13",
+    "deuteronomio 5:17"
+   ],
+   "leis_relacionadas": "homicídio, cidades de refúgio, vingador do sangue, parapeito, cadáver não identificado"
+  },
+  {
+   "n": 7,
+   "texto": "Não cometerás adultério.",
+   "refs": [
+    "exodo 20:14",
+    "deuteronomio 5:18"
+   ],
+   "leis_relacionadas": "leis de casamento e relações proibidas (Lv 18; 20; Dt 22)"
+  },
+  {
+   "n": 8,
+   "texto": "Não furtarás.",
+   "refs": [
+    "exodo 20:15",
+    "deuteronomio 5:19"
+   ],
+   "leis_relacionadas": "furto, restituição dupla, quádrupla e quíntupla, sequestro, pesos falsos, deslocar marcos"
+  },
+  {
+   "n": 9,
+   "texto": "Não dirás falso testemunho contra o teu próximo.",
+   "refs": [
+    "exodo 20:16",
+    "deuteronomio 5:20"
+   ],
+   "leis_relacionadas": "duas ou três testemunhas, pena da falsa testemunha (Dt 19:16-21), boatos (Êx 23:1)"
+  },
+  {
+   "n": 10,
+   "texto": "Não cobiçarás a casa, a mulher, o servo, a serva, o boi, o jumento nem coisa alguma do teu próximo (Dt acrescenta \"nem sua terra\").",
+   "refs": [
+    "exodo 20:17",
+    "deuteronomio 5:21"
+   ],
+   "leis_relacionadas": "limites de propriedade, rei que não acumula riquezas (Dt 17:17), caso de Nabote"
+  }
+ ],
+ "decalogo_nota": "A Bíblia fala em \"dez palavras\" (Êx 34:28; Dt 4:13; 10:4), mas não numera cada uma. A tradição judaica conta \"Eu sou o SENHOR\" como 1ª palavra e junta deuses e imagens na 2ª; católicos e luteranos (seguindo Agostinho) juntam deuses e imagens no 1º e dividem a cobiça em 9º e 10º; reformados, anglicanos e ortodoxos separam deuses (1º) e imagens (2º) e mantêm a cobiça num só (10º). A numeração abaixo segue esta última divisão apenas por conveniência.",
+ "sancoes": [
+  {
+   "tipo": "morte-apedrejamento",
+   "titulo": "Apedrejamento",
+   "descricao": "Pena de morte executada pela comunidade, fora do acampamento ou à porta da cidade; as testemunhas lançam as primeiras pedras e depois todo o povo (Dt 17:7). O texto repete o motivo: \"assim tirarás o mal do meio de ti\" e \"todo Israel ouvirá e temerá\".",
+   "crimes": "blasfêmia; trabalho no sábado; idolatria e incitação à idolatria; oferecer filhos a Moloque; médium ou adivinho; filho rebelde; adultério com mulher desposada; moça que se casou dizendo-se virgem; o boi que matou uma pessoa",
+   "refs": [
+    "levitico 24:14-16",
+    "numeros 15:35-36",
+    "deuteronomio 17:5-7",
+    "deuteronomio 13:10",
+    "levitico 20:2",
+    "levitico 20:27",
+    "deuteronomio 21:21",
+    "deuteronomio 22:21-24",
+    "exodo 21:28"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Sinédrio 6:1-4 (procedimento do apedrejamento, segundo a tradição rabínica)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "tipo": "morte",
+   "titulo": "Morte (sem método especificado)",
+   "descricao": "Muitas leis dizem só \"certamente morrerá\" (môt yumat), sem dizer como. No caso do homicídio, a execução cabe ao \"vingador do sangue\" depois do julgamento, e não se aceita resgate em dinheiro.",
+   "crimes": "homicídio intencional; ferir ou amaldiçoar pai ou mãe; sequestro de pessoa; dono negligente de boi chifrador (podendo pagar resgate); desobediência ao tribunal central; falso profeta; falsa testemunha em causa capital (recebe a pena que queria impor)",
+   "refs": [
+    "exodo 21:12",
+    "exodo 21:15-17",
+    "deuteronomio 24:7",
+    "exodo 21:29-30",
+    "deuteronomio 17:12",
+    "deuteronomio 18:20",
+    "deuteronomio 19:19",
+    "numeros 35:19-21",
+    "numeros 35:31"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Sinédrio 7:1 (quatro modos de execução: apedrejamento, fogo, espada e estrangulamento; interpretação rabínica posterior)",
+     "data": "c. 200 d.C."
+    },
+    {
+     "fonte": "Mixná",
+     "referencia": "Makot 1:10 (um sinédrio que executa uma vez em sete anos é chamado \"destruidor\")",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "tipo": "morte-fogo",
+   "titulo": "Morte pelo fogo",
+   "descricao": "Prevista em dois casos da lei; o texto diz \"queimarão com fogo\". Antes da lei, Judá manda queimar Tamar (Gn 38:24). Em Js 7:25 Acã e o que lhe pertencia são apedrejados e depois queimados.",
+   "crimes": "homem que toma mulher e a mãe dela; filha de sacerdote que se prostitui",
+   "refs": [
+    "levitico 20:14",
+    "levitico 21:9",
+    "genesis 38:24",
+    "josue 7:25"
+   ]
+  },
+  {
+   "tipo": "extirpacao",
+   "titulo": "Extirpação (\"será eliminado do seu povo\")",
+   "descricao": "Fórmula frequente (karet): a pessoa \"será eliminada/exterminada do meio do seu povo\". O texto não descreve um procedimento humano; em Lv 20:3-5 o próprio Deus diz \"eu porei meu rosto contra ele e o eliminarei\". Estudiosos discutem se significa morte prematura, exclusão da comunidade, fim da descendência ou um castigo divino.",
+   "crimes": "não circuncidar; comer fermento na Páscoa; comer sangue ou gordura proibida; abater fora do santuário; trabalhar no Dia da Expiação; não celebrar a Páscoa sem motivo; pecar \"com mão soberba\"; não se purificar após tocar um morto",
+   "refs": [
+    "genesis 17:14",
+    "exodo 12:15",
+    "levitico 17:4",
+    "levitico 20:3-5",
+    "numeros 15:30-31",
+    "numeros 19:13"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Keritot 1:1 (lista de 36 transgressões punidas com karet)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "tipo": "acoites",
+   "titulo": "Açoites",
+   "descricao": "Pena corporal aplicada pelo juiz, na presença dele, \"segundo seu delito, por conta\", com limite de quarenta golpes \"para que teu irmão não seja humilhado\". Em Lv 19:20 a relação com serva desposada é punida com açoites ou \"investigação\" (o termo hebraico é discutido) e oferta, não com morte.",
+   "crimes": "condenação em causa em que o culpado \"merece ser açoitado\"; o marido que difamou a esposa (é \"castigado\" e multado); relação com serva desposada não resgatada",
+   "refs": [
+    "deuteronomio 25:1-3",
+    "deuteronomio 22:18-19",
+    "levitico 19:20-22",
+    "2-corintios 11:24"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Makot 3:10 (\"quarenta menos um\": 39 golpes)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "tipo": "restituicao",
+   "titulo": "Restituição e indenização",
+   "descricao": "A pena mais comum para danos e crimes contra a propriedade: devolver o valor e, conforme o caso, acrescentar. Proporções do texto: inteiro (dano por animal, poço ou fogo), +1/5 (quem confessa fraude ou roubo, Lv 6:5; Nm 5:7), dobro (furto achado com o ladrão; depósito furtado), quádruplo (ovelha furtada e abatida ou vendida), quíntuplo (boi). Quem não pode pagar o furto é vendido por ele (Êx 22:3). Na lesão corporal paga-se o tempo parado e o tratamento.",
+   "crimes": "furto; dano por animal solto, poço aberto ou fogo; perda de bem emprestado; fraude em depósito; lesão corporal em briga; multa por aborto provocado em briga",
+   "refs": [
+    "exodo 22:1-15",
+    "exodo 21:19",
+    "exodo 21:22",
+    "exodo 21:33-36",
+    "levitico 6:1-5",
+    "numeros 5:6-7",
+    "2-samuel 12:6",
+    "lucas 19:8"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Bava Kamma 8:1 (cinco indenizações por lesão: dano, dor, tratamento, tempo parado e vergonha)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "tipo": "oferta",
+   "titulo": "Oferta de expiação ou de culpa",
+   "descricao": "Para certas faltas, além de reparar o próximo, o culpado leva ao santuário um sacrifício (geralmente um carneiro de culpa) e \"o sacerdote fará expiação por ele, e será perdoado\". A ordem é sempre: primeiro restituir, depois oferecer.",
+   "crimes": "negar um depósito, roubar, extorquir ou jurar falsamente sobre algo achado; relação com serva desposada; testemunha que se cala (Lv 5:1, oferta pelo pecado)",
+   "refs": [
+    "levitico 6:6-7",
+    "numeros 5:8",
+    "levitico 19:21-22",
+    "levitico 5:1-6"
+   ]
+  },
+  {
+   "tipo": "impureza",
+   "titulo": "Impureza ritual",
+   "descricao": "Algumas situações não são crimes, mas tornam a pessoa ritualmente impura por um tempo e exigem purificação antes de voltar ao culto ou ao acampamento. Nas leis deste grupo, isso vale para quem matou na guerra ou tocou um morto, e para a impureza noturna no acampamento militar.",
+   "crimes": "tocar cadáver; matar na guerra; emissão noturna no acampamento",
+   "refs": [
+    "numeros 19:11-13",
+    "numeros 31:19-24",
+    "deuteronomio 23:10-11"
+   ]
+  },
+  {
+   "tipo": "maldicao",
+   "titulo": "Maldição pública (Dt 27)",
+   "descricao": "Em Siquém, entre os montes Gerizim e Ebal, os levitas pronunciam doze maldições e o povo responde \"Amém\". Elas atingem sobretudo pecados cometidos às escondidas, que um tribunal dificilmente alcançaria.",
+   "crimes": "fazer ídolo às ocultas; desonrar os pais; mover o marco do vizinho; desviar o cego; torcer o direito do estrangeiro, órfão e viúva; incestos e bestialidade; ferir o próximo ocultamente; aceitar paga para matar o inocente; não cumprir a lei",
+   "refs": [
+    "deuteronomio 27:11-26"
+   ]
+  },
+  {
+   "tipo": "divina",
+   "titulo": "Castigo reservado a Deus",
+   "descricao": "Várias leis não fixam pena humana, mas dizem que Deus mesmo agirá: ouvirá o clamor do oprimido, pedirá contas, não terá o culpado por inocente, deixará o casal sem filhos. São leis que dependem da consciência e do temor de Deus (\"terás temor de teu Deus\").",
+   "crimes": "afligir viúva e órfão; reter o manto penhorado; reter o salário; recusar empréstimo ao pobre; não ouvir o profeta; tomar o nome de Deus em vão",
+   "refs": [
+    "exodo 22:22-24",
+    "exodo 22:26-27",
+    "deuteronomio 24:15",
+    "deuteronomio 15:9",
+    "deuteronomio 18:19",
+    "exodo 20:7",
+    "levitico 20:20-21"
+   ]
+  },
+  {
+   "tipo": "nenhuma-declarada",
+   "titulo": "Sem pena declarada",
+   "descricao": "Muitas leis (ajudar o animal caído, deixar as sobras para o pobre, dar presentes ao servo liberto) não trazem pena alguma. Dependem da obediência voluntária, às vezes com promessa de bênção (\"para que te vá bem\").",
+   "crimes": "a maioria dos mandamentos de solidariedade e de conduta",
+   "refs": [
+    "deuteronomio 22:4",
+    "deuteronomio 24:19",
+    "deuteronomio 15:13-14",
+    "deuteronomio 22:6-7"
+   ]
+  },
+  {
+   "tipo": "cidades-de-refugio",
+   "titulo": "Cidades de refúgio (proteção, não pena)",
+   "descricao": "Seis cidades (três a leste e três a oeste do Jordão) protegem quem matou sem querer da vingança do parente do morto. A comunidade julga se houve intenção; se não houve, o homicida mora na cidade até a morte do sumo sacerdote. Se sair dela antes, o vingador pode matá-lo sem culpa. O homicida intencional não é protegido, nem pelo altar.",
+   "crimes": "homicídio por acidente (sem inimizade prévia)",
+   "refs": [
+    "numeros 35:9-34",
+    "deuteronomio 19:1-13",
+    "deuteronomio 4:41-43",
+    "josue 20:1-9",
+    "exodo 21:13-14"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Makot cap. 2 (quem vai para o exílio nas cidades de refúgio)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "tipo": "regra-das-testemunhas",
+   "titulo": "A regra das duas ou três testemunhas",
+   "descricao": "Ninguém pode ser condenado à morte, nem por qualquer delito, pela palavra de uma só testemunha. As testemunhas lançam a primeira pedra; a falsa testemunha recebe a pena que pretendia impor ao acusado. O NT retoma a regra para a disciplina da igreja.",
+   "crimes": "vale para todos os processos",
+   "refs": [
+    "deuteronomio 19:15-21",
+    "deuteronomio 17:6-7",
+    "numeros 35:30",
+    "mateus 18:16",
+    "2-corintios 13:1",
+    "hebreus 10:28"
+   ]
+  }
+ ],
+ "leis": [
+  {
+   "id": "c-nao-matar",
+   "grupo": "vida-danos",
+   "subgrupo": "homicidio",
+   "titulo": "Não cometer homicídio",
+   "tipo": "negativo",
+   "texto": "É proibido matar o próximo. O verbo hebraico usado (ratsach) refere-se ao homicídio de pessoa, não ao abate de animais nem, nos outros textos da lei, à guerra ou à execução judicial.",
+   "refs": [
+    "exodo 20:13"
+   ],
+   "paralelos": [
+    "deuteronomio 5:17",
+    "levitico 24:21",
+    "numeros 35:16-18"
+   ],
+   "quem": "todos (israelita e estrangeiro: \"um mesmo regulamento\", Lv 24:22)",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "Quem fere alguém e o mata \"certamente morrerá\"; o sangue humano exige o sangue do homicida.",
+    "refs": [
+     "exodo 21:12",
+     "levitico 24:17",
+     "genesis 9:6"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Davi manda pôr Urias na frente da batalha para que morra; o profeta Natã o confronta e anuncia que \"a espada não se apartará\" de sua casa.",
+     "refs": [
+      "2-samuel 11:14-17",
+      "2-samuel 12:9-10"
+     ]
+    },
+    {
+     "descricao": "Joabe, que assassinara Abner e Amasa em tempo de paz, é morto por ordem de Salomão mesmo agarrado ao altar.",
+     "refs": [
+      "1-reis 2:28-34"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Jesus retoma o mandamento e o estende à ira e ao insulto contra o irmão.",
+     "refs": [
+      "mateus 5:21-22"
+     ]
+    },
+    {
+     "texto": "1 João chama de homicida quem odeia o irmão; Paulo resume este e outros mandamentos no amor ao próximo.",
+     "refs": [
+      "1-joao 3:15",
+      "romanos 13:9-10"
+     ]
+    }
+   ],
+   "motivo": "\"Porque à imagem de Deus o ser humano foi feito\" (Gn 9:6).",
+   "nota": "Igrejas e tradições discutem como aplicar este mandamento à guerra, à legítima defesa e à pena de morte; o texto da Torá distingue o homicídio das execuções que ela mesma ordena."
+  },
+  {
+   "id": "c-homicida-sera-morto",
+   "grupo": "vida-danos",
+   "subgrupo": "homicidio",
+   "titulo": "Executar o homicida intencional",
+   "tipo": "positivo",
+   "texto": "Quem mata de propósito (com instrumento de ferro, pedra ou pau capaz de matar, por ódio ou emboscada) é homicida e deve morrer. Nem o altar o protege: \"de meu altar o tirarás\".",
+   "refs": [
+    "numeros 35:16-21",
+    "exodo 21:14"
+   ],
+   "paralelos": [
+    "exodo 21:12",
+    "deuteronomio 19:11-13",
+    "genesis 9:5-6"
+   ],
+   "quem": "a comunidade e seus juízes",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "Morte; executada pelo vingador do sangue depois do julgamento, com base em testemunhas.",
+    "refs": [
+     "numeros 35:19",
+     "numeros 35:21",
+     "numeros 35:30"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Adonias e depois Joabe buscam asilo nas pontas do altar; Adonias é poupado sob condição, Joabe, culpado de sangue, é executado ali.",
+     "refs": [
+      "1-reis 1:50-53",
+      "1-reis 2:28-34"
+     ]
+    }
+   ],
+   "nota": "O texto separa com cuidado intenção e acidente: o critério é a inimizade anterior, o modo e o instrumento usados."
+  },
+  {
+   "id": "c-nao-aceitar-resgate-homicida",
+   "grupo": "vida-danos",
+   "subgrupo": "homicidio",
+   "titulo": "Não aceitar dinheiro pela vida do homicida",
+   "tipo": "negativo",
+   "texto": "Não se aceita resgate (pagamento) para livrar da morte o homicida intencional; ele \"inevitavelmente morrerá\".",
+   "refs": [
+    "numeros 35:31"
+   ],
+   "paralelos": [],
+   "quem": "juízes, família da vítima, comunidade",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Não fixa pena para quem aceitar o resgate; o texto diz que o sangue não expiado contamina a terra.",
+    "refs": [
+     "numeros 35:33"
+    ]
+   },
+   "motivo": "A terra \"não será expiada do sangue que foi derramado nela, a não ser pelo sangue do que a derramou\" (Nm 35:33).",
+   "nota": "Contrasta com o caso do boi chifrador, em que o dono negligente pode pagar resgate (Êx 21:30)."
+  },
+  {
+   "id": "c-nao-poupar-homicida",
+   "grupo": "vida-danos",
+   "subgrupo": "homicidio",
+   "titulo": "Não ter pena do homicida intencional",
+   "tipo": "negativo",
+   "texto": "Os anciãos da cidade devem tirar o assassino até mesmo da cidade de refúgio e entregá-lo ao vingador; \"não lhe perdoará teu olho\".",
+   "refs": [
+    "deuteronomio 19:11-13"
+   ],
+   "paralelos": [],
+   "quem": "anciãos da cidade",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "O homicida é entregue ao parente do morto e morre.",
+    "refs": [
+     "deuteronomio 19:12"
+    ]
+   },
+   "motivo": "\"Tirarás de Israel o sangue inocente, e te irá bem\" (Dt 19:13)."
+  },
+  {
+   "id": "c-nao-contaminar-terra-sangue",
+   "grupo": "vida-danos",
+   "subgrupo": "homicidio",
+   "titulo": "Não contaminar a terra com sangue",
+   "tipo": "negativo",
+   "texto": "Israel não deve deixar sem resposta o sangue derramado, porque ele profana a terra onde o SENHOR habita no meio do povo.",
+   "refs": [
+    "numeros 35:33-34"
+   ],
+   "paralelos": [
+    "deuteronomio 21:8-9"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "divina",
+    "descricao": "O texto não fixa pena humana específica além da execução do homicida; a culpa recai sobre a terra e o povo.",
+    "refs": [
+     "deuteronomio 19:10"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Na época de Davi há fome por três anos \"por Saul e por aquela casa de sangue\", que matara os gibeonitas protegidos por juramento.",
+     "refs": [
+      "2-samuel 21:1-14"
+     ]
+    }
+   ],
+   "motivo": "\"Porque eu, o SENHOR, habito no meio dos filhos de Israel\" (Nm 35:34)."
+  },
+  {
+   "id": "c-nao-ficar-contra-sangue",
+   "grupo": "vida-danos",
+   "subgrupo": "homicidio",
+   "titulo": "Não se omitir diante do sangue do próximo",
+   "tipo": "negativo",
+   "texto": "\"Não te porás contra o sangue de teu próximo\": não agir (ou não se calar) de modo que a vida do outro seja posta em perigo. A frase hebraica é breve e pode ser entendida como \"não ficar parado\" ou como \"não lucrar com a morte do outro\".",
+   "refs": [
+    "levitico 19:16"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena humana; seguida de \"Eu sou o SENHOR\"."
+   },
+   "associacoes": [
+    {
+     "texto": "A parábola do bom samaritano é muitas vezes lida como exemplo de não passar ao largo do próximo em perigo.",
+     "refs": [
+      "lucas 10:33-34"
+     ]
+    }
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Talmude Babilônico",
+     "referencia": "Sinédrio 73a (dever de salvar quem está em perigo, deduzido deste versículo; tradição posterior)",
+     "data": "c. séc. V-VI d.C."
+    }
+   ]
+  },
+  {
+   "id": "c-separar-cidades-refugio",
+   "grupo": "vida-danos",
+   "subgrupo": "refugio",
+   "titulo": "Separar cidades de refúgio e preparar o caminho",
+   "tipo": "positivo",
+   "texto": "Israel deve designar seis cidades (três a leste e três a oeste do Jordão), preparar os caminhos até elas e dividir o território de modo que todo homicida involuntário possa fugir para uma delas. Se a terra se alargar, acrescentar mais três.",
+   "refs": [
+    "numeros 35:11-15",
+    "deuteronomio 19:2-3"
+   ],
+   "paralelos": [
+    "exodo 21:13",
+    "deuteronomio 19:7-9",
+    "deuteronomio 4:41-43",
+    "josue 20:1-9",
+    "numeros 35:22-25"
+   ],
+   "quem": "todo Israel (para israelitas e estrangeiros)",
+   "condicao": "só na terra de Canaã, depois da conquista",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena; o objetivo é \"que não seja derramado sangue inocente\".",
+    "refs": [
+     "deuteronomio 19:10"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Moisés separa Bezer, Ramote em Gileade e Golã a leste do Jordão; Josué acrescenta Quedes, Siquém e Hebrom a oeste.",
+     "refs": [
+      "deuteronomio 4:41-43",
+      "josue 20:7-8"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Hebreus usa a imagem de \"nós, que buscamos refúgio\" ao falar da esperança cristã; muitos leitores veem aí um eco das cidades de refúgio.",
+     "refs": [
+      "hebreus 6:18"
+     ]
+    }
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Talmude Babilônico",
+     "referencia": "Makot 10b (placas com a palavra \"refúgio\" nas encruzilhadas, segundo a tradição)",
+     "data": "c. séc. V-VI d.C."
+    }
+   ]
+  },
+  {
+   "id": "c-julgar-homicida-antes",
+   "grupo": "vida-danos",
+   "subgrupo": "refugio",
+   "titulo": "O homicida não morre antes de ser julgado",
+   "tipo": "negativo",
+   "texto": "Quem matou não pode ser morto antes de comparecer em juízo diante da congregação, que decide entre o homicida e o parente do morto se houve intenção.",
+   "refs": [
+    "numeros 35:12",
+    "numeros 35:24"
+   ],
+   "paralelos": [],
+   "quem": "congregação (comunidade) e vingador do sangue",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada para o vingador que se antecipa; a cidade de refúgio existe para impedir isso."
+   },
+   "associacoes": [
+    {
+     "texto": "Nicodemos lembra que a Lei não condena ninguém sem antes ouvi-lo.",
+     "refs": [
+      "joao 7:51"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c-refugiado-ate-morte-sumo-sacerdote",
+   "grupo": "vida-danos",
+   "subgrupo": "refugio",
+   "titulo": "O homicida involuntário fica na cidade até a morte do sumo sacerdote",
+   "tipo": "positivo",
+   "texto": "Se o julgamento conclui que foi acidente (como o ferro do machado que escapa e mata o companheiro), a comunidade o devolve à cidade de refúgio, onde mora até morrer o sumo sacerdote; depois volta à sua terra. Se sair antes, o vingador pode matá-lo sem culpa.",
+   "refs": [
+    "numeros 35:25-28"
+   ],
+   "paralelos": [
+    "deuteronomio 19:4-6"
+   ],
+   "quem": "homicida involuntário",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "Fora dos limites da cidade, antes da morte do sumo sacerdote, o vingador que o matar \"não será culpado\".",
+    "refs": [
+     "numeros 35:26-27"
+    ]
+   },
+   "nota": "O texto não explica por que a morte do sumo sacerdote encerra o exílio; muitos intérpretes, judeus e cristãos, ligam isso ao papel expiatório do sumo sacerdote.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Makot 2:6 (as mães dos sumos sacerdotes levavam comida aos refugiados para que não orassem pela morte de seus filhos; tradição posterior)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "c-nao-resgate-refugiado",
+   "grupo": "vida-danos",
+   "subgrupo": "refugio",
+   "titulo": "Não aceitar resgate para o refugiado voltar antes do tempo",
+   "tipo": "negativo",
+   "texto": "Também não se aceita pagamento para que o homicida involuntário saia da cidade de refúgio e volte para casa antes da morte do sacerdote.",
+   "refs": [
+    "numeros 35:32"
+   ],
+   "paralelos": [],
+   "quem": "juízes e comunidade",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   }
+  },
+  {
+   "id": "c-vingador-do-sangue",
+   "grupo": "vida-danos",
+   "subgrupo": "refugio",
+   "titulo": "O vingador do sangue",
+   "tipo": "positivo",
+   "texto": "O parente mais próximo do morto (go'el haddam, \"resgatador do sangue\") é quem executa o homicida condenado: \"quando o encontrar, ele lhe matará\". A lei limita esse papel com o julgamento e as cidades de refúgio.",
+   "refs": [
+    "numeros 35:19",
+    "numeros 35:21"
+   ],
+   "paralelos": [
+    "deuteronomio 19:6",
+    "deuteronomio 19:12",
+    "numeros 35:27"
+   ],
+   "quem": "parente mais próximo da vítima",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "O vingador executa a pena de morte sobre o homicida intencional.",
+    "refs": [
+     "numeros 35:19"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Joabe mata Abner à porta de Hebrom para vingar o irmão Asael, morto em batalha; Davi declara-se inocente desse sangue.",
+     "refs": [
+      "2-samuel 3:27-30"
+     ]
+    },
+    {
+     "descricao": "A mulher de Tecoa conta a Davi (numa história preparada) que o clã quer matar seu filho que matou o irmão; Davi jura que o vingador não lhe tocará.",
+     "refs": [
+      "2-samuel 14:6-11"
+     ]
+    }
+   ],
+   "nota": "Hoje a ideia de vingança privada choca; o texto já a enquadra num processo público, com testemunhas e asilo para o inocente."
+  },
+  {
+   "id": "c-ferimento-em-briga",
+   "grupo": "vida-danos",
+   "subgrupo": "agressao",
+   "titulo": "Indenizar quem foi ferido numa briga",
+   "tipo": "positivo",
+   "texto": "Se numa briga alguém fere outro com pedra ou com o punho e ele fica de cama mas se recupera, o agressor fica livre da pena de morte, mas paga o tempo em que a vítima ficou sem trabalhar e o seu tratamento.",
+   "refs": [
+    "exodo 21:18-19"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "restituicao",
+    "descricao": "Pagar o tempo parado e as despesas de cura.",
+    "refs": [
+     "exodo 21:19"
+    ]
+   },
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Bava Kamma 8:1 (cinco indenizações: dano, dor, tratamento, tempo parado e vergonha)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "c-olho-por-olho",
+   "grupo": "vida-danos",
+   "subgrupo": "agressao",
+   "titulo": "\"Olho por olho\": pena na medida da lesão",
+   "tipo": "positivo",
+   "texto": "Quem causa lesão ao próximo recebe o equivalente: \"vida por vida, olho por olho, dente por dente, mão por mão, pé por pé, queimadura por queimadura\". Vale igualmente para o natural e o estrangeiro.",
+   "refs": [
+    "exodo 21:23-25",
+    "levitico 24:19-20"
+   ],
+   "paralelos": [
+    "deuteronomio 19:21",
+    "levitico 24:22"
+   ],
+   "quem": "juízes (a pena é aplicada em juízo, não por vingança pessoal)",
+   "sancao": {
+    "tipo": "restituicao",
+    "descricao": "Pena equivalente à lesão (lei de talião); o texto aplica a mesma medida à falsa testemunha.",
+    "refs": [
+     "levitico 24:19-20",
+     "deuteronomio 19:21"
+    ]
+   },
+   "associacoes": [
+    {
+     "texto": "Jesus cita a fórmula e pede a seus discípulos que não revidem o mal pessoal.",
+     "refs": [
+      "mateus 5:38-39"
+     ]
+    }
+   ],
+   "motivo": "Igualdade: \"um mesmo regulamento tereis; como o estrangeiro, assim será o natural\" (Lv 24:22).",
+   "nota": "O princípio limita a pena (nem mais que o dano) e iguala ricos e pobres. Há debate antigo sobre se era aplicado ao pé da letra ou convertido em indenização; o texto já prevê dinheiro em vários casos vizinhos (Êx 21:19,22,30). A sanção aqui foi classificada como restituição por convenção do esquema.",
+   "fonte_extra": [
+    {
+     "fonte": "Código de Hamurábi (Babilônia)",
+     "referencia": "leis 196-200 (olho por olho e dente por dente, com penas diferentes conforme a classe social da vítima)",
+     "data": "c. 1750 a.C. (aproximado)"
+    },
+    {
+     "fonte": "Talmude Babilônico",
+     "referencia": "Bava Kamma 83b-84a (interpretação rabínica: \"olho por olho\" significa compensação em dinheiro)",
+     "data": "c. séc. V-VI d.C."
+    }
+   ]
+  },
+  {
+   "id": "c-mulher-gravida-ferida",
+   "grupo": "vida-danos",
+   "subgrupo": "agressao",
+   "titulo": "Briga que fere mulher grávida",
+   "tipo": "positivo",
+   "texto": "Se homens brigam e ferem uma mulher grávida e ela \"aborta\" (ou dá à luz antes do tempo), sem outro dano, o culpado paga a multa que o marido pedir e os juízes aprovarem; se houver dano grave ou morte, aplica-se \"vida por vida\".",
+   "refs": [
+    "exodo 21:22-25"
+   ],
+   "paralelos": [],
+   "quem": "homens em briga; juízes",
+   "sancao": {
+    "tipo": "restituicao",
+    "descricao": "Multa fixada pelo marido com arbitragem dos juízes; em caso de morte, vida por vida.",
+    "refs": [
+     "exodo 21:22-23"
+    ]
+   },
+   "nota": "A tradução de Êx 21:22 é discutida: \"abortar\" (morte do feto) ou \"sair o filho\" (parto prematuro com a criança viva). Conforme a leitura, o \"dano\" do v. 23 refere-se só à mãe ou também à criança; o tema aparece em debates atuais sobre o aborto."
+  },
+  {
+   "id": "c-ferir-pai-mae",
+   "grupo": "vida-danos",
+   "subgrupo": "agressao",
+   "titulo": "Não ferir pai ou mãe",
+   "tipo": "negativo",
+   "texto": "Quem agride fisicamente o pai ou a mãe deve morrer. Na mesma série, quem amaldiçoa pai ou mãe também é punido com a morte.",
+   "refs": [
+    "exodo 21:15"
+   ],
+   "paralelos": [
+    "levitico 20:9",
+    "deuteronomio 27:16"
+   ],
+   "quem": "filhos",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "\"Morrerá\" (método não especificado).",
+    "refs": [
+     "exodo 21:15",
+     "exodo 21:17"
+    ]
+   },
+   "nota": "Item ligado ao 5º mandamento; outras leis sobre a família estão em outro grupo deste estudo.",
+   "fonte_extra": [
+    {
+     "fonte": "Código de Hamurábi (Babilônia)",
+     "referencia": "lei 195 (filho que bate no pai tem a mão cortada)",
+     "data": "c. 1750 a.C. (aproximado)"
+    }
+   ]
+  },
+  {
+   "id": "c-ferir-servo",
+   "grupo": "vida-danos",
+   "subgrupo": "agressao",
+   "titulo": "Senhor que espanca servo até a morte",
+   "tipo": "negativo",
+   "texto": "Se alguém bate em seu servo ou serva com pau e ele morre na hora, o senhor \"será castigado\"; se o servo sobrevive um ou dois dias, o senhor não é castigado, \"porque é seu dinheiro\".",
+   "refs": [
+    "exodo 21:20-21"
+   ],
+   "paralelos": [],
+   "quem": "senhores de servos",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "\"Será castigado\" (lit. \"será vingado\"); o texto não detalha a pena, e muitos entendem pena de morte, outros uma punição a critério dos juízes.",
+    "refs": [
+     "exodo 21:20"
+    ]
+   },
+   "nota": "A lei protege a vida do servo, coisa rara nas leis antigas, mas ainda o trata como propriedade; a tensão é reconhecida por leitores de todas as tradições. Ver também a libertação do servo ferido no olho ou no dente."
+  },
+  {
+   "id": "c-mulher-que-agarra",
+   "grupo": "vida-danos",
+   "subgrupo": "agressao",
+   "titulo": "A mulher que intervém na briga agarrando as partes íntimas",
+   "tipo": "negativo",
+   "texto": "Se dois homens brigam e a mulher de um, para livrar o marido, agarra o outro pelas partes íntimas, sua mão será cortada, \"não a perdoará teu olho\".",
+   "refs": [
+    "deuteronomio 25:11-12"
+   ],
+   "paralelos": [],
+   "quem": "mulheres",
+   "sancao": {
+    "tipo": "restituicao",
+    "descricao": "Mutilação: cortar a mão; único caso de mutilação ordenada na Torá. Classificada aqui na categoria mais próxima do esquema (pena corporal proporcional).",
+    "refs": [
+     "deuteronomio 25:12"
+    ]
+   },
+   "nota": "Alguns estudiosos propõem outra leitura do hebraico (\"raspar/depilar a palma\"), e a tradição rabínica converteu a pena em indenização pela vergonha; a leitura comum é a amputação.",
+   "fonte_extra": [
+    {
+     "fonte": "Sifrê Deuteronômio",
+     "referencia": "comentário a Dt 25:12 (pena convertida em pagamento; tradição rabínica)",
+     "data": "c. séc. III d.C. (aproximado)"
+    }
+   ]
+  },
+  {
+   "id": "c-boi-que-chifra",
+   "grupo": "vida-danos",
+   "subgrupo": "danos",
+   "titulo": "Boi que chifra e mata uma pessoa",
+   "tipo": "positivo",
+   "texto": "O boi que mata homem ou mulher deve ser apedrejado e sua carne não se come; o dono fica livre. Mas se o boi já era conhecido como chifrador, o dono foi avisado e não o guardou, o dono também deve morrer, ou pagar o resgate que lhe for imposto. Se matar um servo, o dono paga 30 siclos de prata ao senhor do servo.",
+   "refs": [
+    "exodo 21:28-32"
+   ],
+   "paralelos": [],
+   "quem": "donos de animais",
+   "sancao": {
+    "tipo": "morte-apedrejamento",
+    "descricao": "O boi é apedrejado; o dono negligente é condenado à morte ou paga resgate; pela morte de servo, 30 siclos.",
+    "refs": [
+     "exodo 21:28-32"
+    ]
+   },
+   "associacoes": [
+    {
+     "texto": "Mateus registra que Judas recebeu trinta moedas de prata por Jesus, o mesmo valor fixado pela vida de um servo.",
+     "refs": [
+      "mateus 26:15"
+     ]
+    }
+   ],
+   "motivo": "Gn 9:5: Deus pede contas do sangue humano \"da mão de todo animal\".",
+   "fonte_extra": [
+    {
+     "fonte": "Código de Hamurábi (Babilônia)",
+     "referencia": "leis 250-252 (boi que chifra e mata; dono avisado paga meia mina de prata)",
+     "data": "c. 1750 a.C. (aproximado)"
+    },
+    {
+     "fonte": "Leis de Eshnunna",
+     "referencia": "§§53-55 (boi chifrador)",
+     "data": "c. 1800 a.C. (aproximado)"
+    },
+    {
+     "fonte": "Mixná",
+     "referencia": "Bava Kamma 1:1 (o boi, o poço, o \"devorador\" e o fogo como quatro categorias de dano)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "c-boi-fere-boi",
+   "grupo": "vida-danos",
+   "subgrupo": "danos",
+   "titulo": "Boi que mata o boi do vizinho",
+   "tipo": "positivo",
+   "texto": "Se um boi mata o boi de outro, vende-se o boi vivo e divide-se o dinheiro, e também o morto. Se o boi já era chifrador conhecido e o dono não o guardou, paga boi por boi e fica com o morto.",
+   "refs": [
+    "exodo 21:35-36"
+   ],
+   "paralelos": [],
+   "quem": "donos de animais",
+   "sancao": {
+    "tipo": "restituicao",
+    "descricao": "Divisão do prejuízo; se havia negligência, reposição integral.",
+    "refs": [
+     "exodo 21:36"
+    ]
+   },
+   "fonte_extra": [
+    {
+     "fonte": "Leis de Eshnunna",
+     "referencia": "§53 (boi que mata boi: os donos dividem o valor do vivo e do morto, solução quase idêntica)",
+     "data": "c. 1800 a.C. (aproximado)"
+    }
+   ]
+  },
+  {
+   "id": "c-poco-aberto",
+   "grupo": "vida-danos",
+   "subgrupo": "danos",
+   "titulo": "Cisterna ou fosso descoberto",
+   "tipo": "positivo",
+   "texto": "Quem abre ou cava uma cisterna e não a cobre, e nela cai um boi ou um jumento, paga ao dono o valor do animal e fica com o animal morto.",
+   "refs": [
+    "exodo 21:33-34"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "restituicao",
+    "descricao": "Pagar o valor do animal.",
+    "refs": [
+     "exodo 21:34"
+    ]
+   }
+  },
+  {
+   "id": "c-matar-animal-restituir",
+   "grupo": "vida-danos",
+   "subgrupo": "danos",
+   "titulo": "Quem mata o animal de outro o repõe",
+   "tipo": "positivo",
+   "texto": "Quem fere de morte um animal alheio deve restituí-lo, \"animal por animal\" (ao contrário do homicídio, que é punido com a morte).",
+   "refs": [
+    "levitico 24:18"
+   ],
+   "paralelos": [
+    "levitico 24:21"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "restituicao",
+    "descricao": "Repor o animal.",
+    "refs": [
+     "levitico 24:21"
+    ]
+   }
+  },
+  {
+   "id": "c-pastagem-alheia",
+   "grupo": "vida-danos",
+   "subgrupo": "danos",
+   "titulo": "Animal que pasta no campo alheio",
+   "tipo": "positivo",
+   "texto": "Quem deixa seu animal pastar no campo ou na vinha de outro paga com o melhor do seu próprio campo e da sua própria vinha.",
+   "refs": [
+    "exodo 22:5"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "restituicao",
+    "descricao": "Indenização \"do melhor\" de sua terra.",
+    "refs": [
+     "exodo 22:5"
+    ]
+   }
+  },
+  {
+   "id": "c-fogo",
+   "grupo": "vida-danos",
+   "subgrupo": "danos",
+   "titulo": "Quem acende fogo responde pelo incêndio",
+   "tipo": "positivo",
+   "texto": "Se alguém acende fogo e ele se alastra pelos espinheiros e queima feixes, plantação ou campo de outro, quem acendeu o fogo paga o que foi queimado.",
+   "refs": [
+    "exodo 22:6"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "restituicao",
+    "descricao": "Pagar todo o prejuízo.",
+    "refs": [
+     "exodo 22:6"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Sansão incendeia as plantações dos filisteus com raposas; os filisteus se vingam queimando a mulher dele e o pai dela (narrativa fora de Israel, sem aplicação da lei).",
+     "refs": [
+      "juizes 15:4-6"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c-nao-furtar",
+   "grupo": "vida-danos",
+   "subgrupo": "roubo",
+   "titulo": "Não furtar",
+   "tipo": "negativo",
+   "texto": "É proibido furtar. Levítico liga o furto ao engano e à mentira: \"não furtareis, e não enganareis, nem mentireis ninguém a seu próximo\".",
+   "refs": [
+    "exodo 20:15",
+    "levitico 19:11"
+   ],
+   "paralelos": [
+    "deuteronomio 5:19"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "restituicao",
+    "descricao": "Restituição dupla, quádrupla ou quíntupla, conforme o caso (Êx 22:1-4).",
+    "refs": [
+     "exodo 22:1",
+     "exodo 22:4"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Acã toma para si objetos consagrados de Jericó; é descoberto por sorteio, confessa e é apedrejado (caso especial de \"anátema\", não de furto comum).",
+     "refs": [
+      "josue 7:20-26"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Paulo: \"o que furtava não furte mais\", mas trabalhe para ter o que repartir.",
+     "refs": [
+      "efesios 4:28"
+     ]
+    },
+    {
+     "texto": "Paulo cita este mandamento entre os que se resumem no amor ao próximo.",
+     "refs": [
+      "romanos 13:9"
+     ]
+    }
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Talmude Babilônico",
+     "referencia": "Sinédrio 86a (opinião rabínica de que \"não furtarás\" no Decálogo se refere ao sequestro de pessoas)",
+     "data": "c. séc. V-VI d.C."
+    }
+   ]
+  },
+  {
+   "id": "c-nao-roubar-oprimir",
+   "grupo": "vida-danos",
+   "subgrupo": "roubo",
+   "titulo": "Não oprimir nem roubar o próximo",
+   "tipo": "negativo",
+   "texto": "Não explorar o próximo nem tomar à força o que é dele.",
+   "refs": [
+    "levitico 19:13"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "restituicao",
+    "descricao": "Quem roubou ou extorquiu e confessa devolve tudo com um quinto a mais e oferece um carneiro.",
+    "refs": [
+     "levitico 6:4-6"
+    ]
+   },
+   "associacoes": [
+    {
+     "texto": "Ezequiel descreve o justo como quem \"não comete roubo\" e devolve o penhor.",
+     "refs": [
+      "ezequiel 18:7"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c-furto-de-gado",
+   "grupo": "vida-danos",
+   "subgrupo": "roubo",
+   "titulo": "Restituição pelo furto de gado",
+   "tipo": "positivo",
+   "texto": "Quem furta boi ou ovelha e o abate ou vende paga cinco bois por um boi e quatro ovelhas por uma ovelha. Se o animal é achado vivo em seu poder, paga o dobro.",
+   "refs": [
+    "exodo 22:1",
+    "exodo 22:4"
+   ],
+   "paralelos": [],
+   "quem": "ladrões",
+   "sancao": {
+    "tipo": "restituicao",
+    "descricao": "Quíntuplo (boi), quádruplo (ovelha) se o animal sumiu; dobro se achado vivo.",
+    "refs": [
+     "exodo 22:1",
+     "exodo 22:4"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Ao ouvir a parábola de Natã sobre o rico que tomou a cordeira do pobre, Davi sentencia: \"deve pagar a cordeira com quatro tantos\".",
+     "refs": [
+      "2-samuel 12:5-6"
+     ]
+    },
+    {
+     "descricao": "Zaqueu promete devolver quatro vezes o que tivesse tomado com fraude.",
+     "refs": [
+      "lucas 19:8"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Provérbios fala em restituição \"sete vezes\", talvez como expressão de pagamento completo.",
+     "refs": [
+      "proverbios 6:30-31"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c-ladrao-arrombador",
+   "grupo": "vida-danos",
+   "subgrupo": "roubo",
+   "titulo": "O ladrão surpreendido de noite ou de dia",
+   "tipo": "positivo",
+   "texto": "Se o ladrão é surpreendido arrombando a casa e é morto, quem o feriu não tem culpa de sangue; mas se já era dia (\"se o sol houver saído\"), matá-lo é homicídio. O ladrão deve restituir tudo; se não tiver como, é vendido pelo seu furto.",
+   "refs": [
+    "exodo 22:2-3"
+   ],
+   "paralelos": [],
+   "quem": "ladrões e donos de casa",
+   "sancao": {
+    "tipo": "restituicao",
+    "descricao": "Restituição completa; se insolvente, é vendido como servo para pagar.",
+    "refs": [
+     "exodo 22:3"
+    ]
+   },
+   "nota": "A distinção entre noite e dia é lida como limite da legítima defesa: de noite não se sabe se o invasor quer matar; de dia há como pedir socorro ou identificá-lo.",
+   "fonte_extra": [
+    {
+     "fonte": "Código de Hamurábi (Babilônia)",
+     "referencia": "lei 21 (quem arromba uma casa é morto e enterrado diante da brecha)",
+     "data": "c. 1750 a.C. (aproximado)"
+    }
+   ]
+  },
+  {
+   "id": "c-restituir-mais-quinto",
+   "grupo": "vida-danos",
+   "subgrupo": "roubo",
+   "titulo": "Confessar e restituir com um quinto a mais",
+   "tipo": "positivo",
+   "texto": "Quem nega um depósito, rouba, extorque ou fica com algo perdido e jura falsamente deve, ao reconhecer a culpa, confessar, devolver tudo, acrescentar um quinto e levar um carneiro como oferta pela culpa. Se a vítima não tem parente vivo, o valor vai para o sacerdote.",
+   "refs": [
+    "levitico 6:1-7",
+    "numeros 5:5-8"
+   ],
+   "paralelos": [],
+   "quem": "homem ou mulher culpados",
+   "sancao": {
+    "tipo": "restituicao",
+    "descricao": "Restituição integral mais 1/5 (20%) e carneiro de culpa.",
+    "refs": [
+     "levitico 6:5-6",
+     "numeros 5:7-8"
+    ]
+   },
+   "nota": "Em Êx 22 o ladrão apanhado paga o dobro ou mais; aqui, quem confessa por iniciativa própria paga só um quinto a mais: a lei recompensa a confissão."
+  },
+  {
+   "id": "c-nao-sequestrar",
+   "grupo": "vida-danos",
+   "subgrupo": "roubo",
+   "titulo": "Não sequestrar pessoas",
+   "tipo": "negativo",
+   "texto": "Quem rapta uma pessoa, seja para vendê-la, seja para mantê-la em seu poder, deve morrer. Deuteronômio especifica o rapto de um israelita para o tratar como escravo ou vender.",
+   "refs": [
+    "exodo 21:16",
+    "deuteronomio 24:7"
+   ],
+   "paralelos": [],
+   "quem": "todos",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "\"Morrerá\"; \"tirarás o mal do meio de ti\".",
+    "refs": [
+     "exodo 21:16",
+     "deuteronomio 24:7"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Os irmãos de José o vendem aos ismaelitas; anos depois reconhecem: \"verdadeiramente pecamos contra nosso irmão... o sangue dele é requerido\" (narrativa anterior à lei).",
+     "refs": [
+      "genesis 37:27-28",
+      "genesis 42:21-22"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "1 Timóteo inclui \"os que roubam a liberdade das pessoas\" (sequestradores/traficantes de escravos) entre os que agem contra a sã doutrina.",
+     "refs": [
+      "1-timoteo 1:10"
+     ]
+    }
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Código de Hamurábi (Babilônia)",
+     "referencia": "lei 14 (rapto do filho menor de um homem livre punido com morte)",
+     "data": "c. 1750 a.C. (aproximado)"
+    }
+   ]
+  },
+  {
+   "id": "c-deposito-furtado",
+   "grupo": "vida-danos",
+   "subgrupo": "guarda-bens",
+   "titulo": "Dinheiro ou objetos dados em guarda",
+   "tipo": "positivo",
+   "texto": "Se alguém entrega a outro prata ou objetos para guardar e eles são furtados: achado o ladrão, este paga o dobro; não achado, o depositário vai aos juízes (\"diante de Deus\") para se verificar se ele mesmo se apropriou. Em toda disputa sobre posse (\"isto é meu\"), quem os juízes condenarem paga o dobro.",
+   "refs": [
+    "exodo 22:7-9"
+   ],
+   "paralelos": [],
+   "quem": "depositários e donos",
+   "sancao": {
+    "tipo": "restituicao",
+    "descricao": "Dobro, pago pelo ladrão ou por quem os juízes condenarem.",
+    "refs": [
+     "exodo 22:7",
+     "exodo 22:9"
+    ]
+   },
+   "nota": "Em Êx 22:8-9 \"juízes\" traduz o hebraico elohim, que também pode significar \"Deus\"; o caso iria ao santuário ou ao tribunal."
+  },
+  {
+   "id": "c-guarda-de-animais",
+   "grupo": "vida-danos",
+   "subgrupo": "guarda-bens",
+   "titulo": "Animal entregue para guardar",
+   "tipo": "positivo",
+   "texto": "Se o animal confiado a alguém morre, se machuca ou é levado sem testemunhas, o guardador faz juramento diante do SENHOR de que não se apropriou dele, e o dono aceita, sem pagamento. Se foi furtado (por descuido), o guardador paga ao dono; se uma fera o despedaçou, traz os restos como prova e não paga.",
+   "refs": [
+    "exodo 22:10-13"
+   ],
+   "paralelos": [],
+   "quem": "pastores e guardadores",
+   "sancao": {
+    "tipo": "restituicao",
+    "descricao": "Paga se o animal foi furtado; isento se jurar ou provar ataque de fera.",
+    "refs": [
+     "exodo 22:12-13"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Jacó lembra a Labão que nunca lhe trouxe o animal despedaçado, mas pagava ele mesmo a perda (prática anterior à lei).",
+     "refs": [
+      "genesis 31:39"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Amós usa a imagem do pastor que tira da boca do leão \"duas pernas ou um pedaço de orelha\" como prova.",
+     "refs": [
+      "amos 3:12"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c-animal-emprestado",
+   "grupo": "vida-danos",
+   "subgrupo": "guarda-bens",
+   "titulo": "Animal emprestado ou alugado",
+   "tipo": "positivo",
+   "texto": "Quem pede emprestado um animal e ele se machuca ou morre na ausência do dono paga por ele; se o dono estava junto, não paga. Se era alugado, o preço do aluguel cobre o risco.",
+   "refs": [
+    "exodo 22:14-15"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "restituicao",
+    "descricao": "Pagar o animal, salvo se o dono estava presente ou se era alugado.",
+    "refs": [
+     "exodo 22:14-15"
+    ]
+   }
+  },
+  {
+   "id": "c-devolver-achados",
+   "grupo": "vida-danos",
+   "subgrupo": "guarda-bens",
+   "titulo": "Devolver o animal ou objeto perdido",
+   "tipo": "positivo",
+   "texto": "Quem encontra o boi, a ovelha, o jumento, a roupa ou qualquer coisa perdida do irmão deve devolvê-lo; se o dono mora longe ou é desconhecido, guarda-o em casa até que venha procurar. Vale até para o animal do inimigo.",
+   "refs": [
+    "deuteronomio 22:1-3",
+    "exodo 23:4"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena; mas negar o achado com juramento falso exige restituição com um quinto a mais e oferta.",
+    "refs": [
+     "levitico 6:3-5"
+    ]
+   },
+   "associacoes": [
+    {
+     "texto": "Jesus manda amar os inimigos; Provérbios pede dar pão ao inimigo faminto, na mesma linha de Êx 23:4.",
+     "refs": [
+      "mateus 5:44",
+      "proverbios 25:21"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c-nao-ignorar-achados",
+   "grupo": "vida-danos",
+   "subgrupo": "guarda-bens",
+   "titulo": "Não fingir que não viu o que o outro perdeu",
+   "tipo": "negativo",
+   "texto": "\"Não verás... e te retirarás\": é proibido desviar o olhar do bem perdido do próximo; \"não poderás te omitir\".",
+   "refs": [
+    "deuteronomio 22:1",
+    "deuteronomio 22:3"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   }
+  },
+  {
+   "id": "c-parapeito",
+   "grupo": "vida-danos",
+   "subgrupo": "prevencao",
+   "titulo": "Fazer parapeito no terraço",
+   "tipo": "positivo",
+   "texto": "Quem constrói casa nova deve fazer um parapeito no terraço (os telhados eram planos e usados), para não trazer culpa de sangue sobre a casa se alguém cair.",
+   "refs": [
+    "deuteronomio 22:8"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena fixada; o texto fala em \"sangue\" sobre a casa, isto é, responsabilidade pela morte."
+   },
+   "motivo": "\"Para que não ponhas sangue em tua casa, se dele cair alguém.\"",
+   "fonte_extra": [
+    {
+     "fonte": "Talmude Babilônico",
+     "referencia": "Bava Kamma 15b (o princípio é estendido a não manter cão bravo ou escada quebrada em casa; tradição posterior)",
+     "data": "c. séc. V-VI d.C."
+    }
+   ]
+  },
+  {
+   "id": "c-cadaver-nao-identificado",
+   "grupo": "vida-danos",
+   "subgrupo": "prevencao",
+   "titulo": "Rito pelo morto encontrado no campo",
+   "tipo": "positivo",
+   "texto": "Quando se acha um morto no campo e não se sabe quem o matou, os anciãos e juízes medem a distância até as cidades vizinhas; os anciãos da cidade mais próxima quebram o pescoço de uma bezerra que nunca levou jugo, num vale com água corrente, lavam as mãos sobre ela e declaram: \"nossas mãos não derramaram este sangue\", pedindo ao SENHOR que perdoe o povo.",
+   "refs": [
+    "deuteronomio 21:1-9"
+   ],
+   "paralelos": [],
+   "quem": "anciãos e juízes da cidade mais próxima; sacerdotes levitas",
+   "condicao": "na terra; quando o assassino é desconhecido",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Não é pena, mas rito de purificação da culpa coletiva; o texto diz que \"o sangue lhes será perdoado\".",
+    "refs": [
+     "deuteronomio 21:8"
+    ]
+   },
+   "associacoes": [
+    {
+     "texto": "Pilatos lava as mãos diante da multidão dizendo-se inocente do sangue de Jesus; muitos leitores notam o eco deste rito.",
+     "refs": [
+      "mateus 27:24"
+     ]
+    }
+   ],
+   "motivo": "\"Tirarás a culpa de sangue inocente do meio de ti\" (Dt 21:9).",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Sotá 9:1-9 (o rito da \"bezerra desnucada\"; Sotá 9:9 diz que foi abolido quando os assassinatos se multiplicaram)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "c-responsabilidade-individual",
+   "grupo": "vida-danos",
+   "subgrupo": "prevencao",
+   "titulo": "Cada um morre pelo próprio pecado",
+   "tipo": "negativo",
+   "texto": "Os pais não serão mortos pelos filhos, nem os filhos pelos pais: cada um morrerá pelo seu próprio pecado.",
+   "refs": [
+    "deuteronomio 24:16"
+   ],
+   "paralelos": [],
+   "quem": "juízes, rei",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Limite imposto aos tribunais humanos."
+   },
+   "casos": [
+    {
+     "descricao": "O rei Amazias executa os assassinos de seu pai, mas poupa os filhos deles, \"conforme o que está escrito no livro da lei de Moisés\".",
+     "refs": [
+      "2-reis 14:5-6"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Ezequiel desenvolve o princípio: \"a alma que pecar, essa morrerá\".",
+     "refs": [
+      "ezequiel 18:20"
+     ]
+    }
+   ],
+   "nota": "Não contradiz Êx 20:5 (Deus \"visita a maldade dos pais sobre os filhos\"): este fala da ação de Deus na história, Dt 24:16 da justiça humana; a relação entre os dois é discutida."
+  },
+  {
+   "id": "c-emprestar-ao-pobre",
+   "grupo": "economia-justica-social",
+   "subgrupo": "emprestimos",
+   "titulo": "Emprestar ao irmão necessitado",
+   "tipo": "positivo",
+   "texto": "Quando houver um irmão pobre em alguma das cidades, abre-lhe a mão com generosidade e empresta-lhe o que for preciso para a sua necessidade.",
+   "refs": [
+    "deuteronomio 15:7-8",
+    "deuteronomio 15:11"
+   ],
+   "paralelos": [
+    "exodo 22:25",
+    "levitico 25:35"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "divina",
+    "descricao": "Sem pena humana; o pobre recusado \"poderá clamar contra ti ao SENHOR\" e haverá pecado; quem dá é abençoado.",
+    "refs": [
+     "deuteronomio 15:9-10"
+    ]
+   },
+   "associacoes": [
+    {
+     "texto": "Jesus pede emprestar \"sem nada esperar\".",
+     "refs": [
+      "lucas 6:34-35"
+     ]
+    },
+    {
+     "texto": "\"Sempre tendes os pobres convosco\" ecoa Dt 15:11; Atos descreve a igreja em que \"nenhum necessitado havia\", como em Dt 15:4.",
+     "refs": [
+      "mateus 26:11",
+      "atos 4:34"
+     ]
+    }
+   ],
+   "motivo": "\"Porque não faltarão necessitados do meio da terra\" (Dt 15:11)."
+  },
+  {
+   "id": "c-nao-endurecer-coracao",
+   "grupo": "economia-justica-social",
+   "subgrupo": "emprestimos",
+   "titulo": "Não fechar a mão ao pobre",
+   "tipo": "negativo",
+   "texto": "\"Não endurecerás teu coração, nem fecharás tua mão a teu irmão pobre.\"",
+   "refs": [
+    "deuteronomio 15:7"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "divina",
+    "descricao": "Se ele clamar ao SENHOR, \"se te imputará a pecado\".",
+    "refs": [
+     "deuteronomio 15:9"
+    ]
+   }
+  },
+  {
+   "id": "c-nao-recusar-pela-remissao",
+   "grupo": "economia-justica-social",
+   "subgrupo": "emprestimos",
+   "titulo": "Não negar empréstimo porque o ano da remissão está perto",
+   "tipo": "negativo",
+   "texto": "É proibido o pensamento mesquinho \"está perto o sétimo ano\" para deixar de emprestar ao necessitado; deve-se dar sem coração maligno.",
+   "refs": [
+    "deuteronomio 15:9-10"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "divina",
+    "descricao": "Pecado imputado por Deus se o pobre clamar.",
+    "refs": [
+     "deuteronomio 15:9"
+    ]
+   },
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Sheviit 10:3 (o prosbul, instituído por Hillel, para que os empréstimos não fossem cancelados no ano sabático e os ricos não deixassem de emprestar)",
+     "data": "c. 200 d.C. (Hillel: séc. I a.C.)"
+    }
+   ]
+  },
+  {
+   "id": "c-nao-cobrar-juros-irmao",
+   "grupo": "economia-justica-social",
+   "subgrupo": "emprestimos",
+   "titulo": "Não cobrar juros do irmão",
+   "tipo": "negativo",
+   "texto": "Ao emprestar dinheiro, comida ou qualquer coisa ao israelita, especialmente ao pobre, não se cobra juro nem acréscimo.",
+   "refs": [
+    "exodo 22:25",
+    "levitico 25:36-37",
+    "deuteronomio 23:19"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena humana; o texto promete bênção a quem obedece.",
+    "refs": [
+     "deuteronomio 23:20"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Neemias repreende nobres e oficiais que emprestavam a juros na fome e tomavam terras e filhos em penhor; eles devolvem tudo e juram não cobrar mais.",
+     "refs": [
+      "neemias 5:1-13"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Salmos e Ezequiel descrevem o justo como quem \"não empresta com juros\".",
+     "refs": [
+      "salmos 15:5",
+      "ezequiel 18:8"
+     ]
+    }
+   ],
+   "motivo": "\"Terás temor de teu Deus, e teu irmão viverá contigo\" (Lv 25:36).",
+   "nota": "Judeus, católicos e protestantes debateram por séculos se a proibição vale para empréstimos comerciais modernos; hoje a maioria a entende como proteção ao pobre contra a usura, não como veto a todo juro.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Bava Metsiá cap. 5 (regras rabínicas sobre juros)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "c-nao-agir-como-agiota",
+   "grupo": "economia-justica-social",
+   "subgrupo": "emprestimos",
+   "titulo": "Não agir como cobrador opressor",
+   "tipo": "negativo",
+   "texto": "Ao emprestar ao pobre, \"não te portarás com ele como agiota\": não pressionar o devedor que não pode pagar.",
+   "refs": [
+    "exodo 22:25"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "casos": [
+    {
+     "descricao": "A viúva de um profeta clama a Eliseu porque o credor vinha levar seus dois filhos como servos; o milagre do azeite paga a dívida.",
+     "refs": [
+      "2-reis 4:1-7"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c-juros-do-estrangeiro",
+   "grupo": "economia-justica-social",
+   "subgrupo": "emprestimos",
+   "titulo": "Ao estrangeiro (de fora) pode-se cobrar juros",
+   "tipo": "positivo",
+   "texto": "A proibição de juros vale entre irmãos; \"do estrangeiro tomarás juros\". Aqui \"estrangeiro\" (nokri) é o comerciante de fora, diferente do estrangeiro residente (ger), protegido pela lei.",
+   "refs": [
+    "deuteronomio 23:20"
+   ],
+   "paralelos": [],
+   "quem": "credores israelitas",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "É permissão, não ordem com pena."
+   },
+   "nota": "O esquema só tem \"positivo\" e \"negativo\"; este item é uma permissão. Maimônides o contou como mandamento positivo, outros não."
+  },
+  {
+   "id": "c-remissao-dividas",
+   "grupo": "economia-justica-social",
+   "subgrupo": "emprestimos",
+   "titulo": "Perdoar as dívidas no sétimo ano",
+   "tipo": "positivo",
+   "texto": "Ao fim de cada sete anos, quem emprestou ao próximo deve perdoar a dívida (shemitá, \"remissão\"), porque \"a remissão do SENHOR é proclamada\".",
+   "refs": [
+    "deuteronomio 15:1-2"
+   ],
+   "paralelos": [
+    "exodo 23:10-11",
+    "deuteronomio 31:10"
+   ],
+   "quem": "todo Israel",
+   "condicao": "no ano sabático, na terra",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada; promessa de bênção.",
+    "refs": [
+     "deuteronomio 15:4-6"
+    ]
+   },
+   "motivo": "\"Para que assim não haja em ti pobre\" (Dt 15:4).",
+   "nota": "Intérpretes discutem se a dívida era cancelada de vez ou só suspensa naquele ano.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Sheviit cap. 10 (remissão das dívidas e prosbul)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "c-nao-cobrar-na-remissao",
+   "grupo": "economia-justica-social",
+   "subgrupo": "emprestimos",
+   "titulo": "Não cobrar a dívida perdoada",
+   "tipo": "negativo",
+   "texto": "Depois de proclamada a remissão, o credor \"não o exigirá mais a seu próximo, ou a seu irmão\".",
+   "refs": [
+    "deuteronomio 15:2"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   }
+  },
+  {
+   "id": "c-cobrar-estrangeiro-remissao",
+   "grupo": "economia-justica-social",
+   "subgrupo": "emprestimos",
+   "titulo": "A remissão não se aplica ao estrangeiro de fora",
+   "tipo": "positivo",
+   "texto": "Do estrangeiro (nokri) pode-se exigir o pagamento mesmo no ano da remissão; só a dívida do irmão é perdoada.",
+   "refs": [
+    "deuteronomio 15:3"
+   ],
+   "paralelos": [],
+   "quem": "credores",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Permissão, sem pena."
+   }
+  },
+  {
+   "id": "c-devolver-manto-penhorado",
+   "grupo": "economia-justica-social",
+   "subgrupo": "penhor",
+   "titulo": "Devolver o manto penhorado antes do pôr do sol",
+   "tipo": "positivo",
+   "texto": "Se se toma em penhor a capa do próximo pobre, deve-se devolvê-la ao pôr do sol, porque é a coberta com que ele dorme.",
+   "refs": [
+    "exodo 22:26-27",
+    "deuteronomio 24:13"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "divina",
+    "descricao": "\"Quando ele a mim clamar, eu então lhe ouvirei, porque sou misericordioso.\"",
+    "refs": [
+     "exodo 22:27"
+    ]
+   },
+   "associacoes": [
+    {
+     "texto": "Amós denuncia os que se deitam junto aos altares \"com roupas tomadas em penhor\"; Ezequiel inclui devolver o penhor entre as marcas do justo.",
+     "refs": [
+      "amos 2:8",
+      "ezequiel 18:7"
+     ]
+    }
+   ],
+   "motivo": "\"Somente aquilo é sua coberta... no que há de dormir\" (Êx 22:27)."
+  },
+  {
+   "id": "c-nao-dormir-com-penhor",
+   "grupo": "economia-justica-social",
+   "subgrupo": "penhor",
+   "titulo": "Não ficar de noite com o penhor do pobre",
+   "tipo": "negativo",
+   "texto": "\"Se for homem pobre, não durmas com seu penhor.\"",
+   "refs": [
+    "deuteronomio 24:12"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena; devolver \"te será justiça diante do SENHOR\".",
+    "refs": [
+     "deuteronomio 24:13"
+    ]
+   }
+  },
+  {
+   "id": "c-nao-penhorar-mo",
+   "grupo": "economia-justica-social",
+   "subgrupo": "penhor",
+   "titulo": "Não tomar a pedra de moinho em penhor",
+   "tipo": "negativo",
+   "texto": "Não se toma em penhor o moinho manual, nem a pedra de baixo nem a de cima, \"porque seria penhorar a vida\" (o pão de cada dia).",
+   "refs": [
+    "deuteronomio 24:6"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "motivo": "\"Porque seria penhorar a vida.\"",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Bava Metsiá 9:13 (estende a proibição a outros utensílios usados para preparar alimento)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "c-nao-entrar-casa-penhor",
+   "grupo": "economia-justica-social",
+   "subgrupo": "penhor",
+   "titulo": "Não entrar na casa do devedor para pegar o penhor",
+   "tipo": "negativo",
+   "texto": "O credor fica do lado de fora, e o devedor é quem traz o penhor.",
+   "refs": [
+    "deuteronomio 24:10-11"
+   ],
+   "paralelos": [],
+   "quem": "credores",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "motivo": "Respeito à dignidade e à casa do devedor (inferido do texto)."
+  },
+  {
+   "id": "c-nao-penhorar-viuva",
+   "grupo": "economia-justica-social",
+   "subgrupo": "penhor",
+   "titulo": "Não tomar em penhor a roupa da viúva",
+   "tipo": "negativo",
+   "texto": "Não se toma como penhor a roupa da viúva.",
+   "refs": [
+    "deuteronomio 24:17"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "associacoes": [
+    {
+     "texto": "No livro de Jó, Elifaz acusa Jó de ter tomado penhor dos irmãos e tirado a roupa dos nus, exemplo do que se tinha por injustiça grave.",
+     "refs": [
+      "jo 22:6"
+     ]
+    }
+   ],
+   "motivo": "\"Lembra-te que foste servo no Egito\" (Dt 24:18)."
+  },
+  {
+   "id": "c-salario-no-mesmo-dia",
+   "grupo": "economia-justica-social",
+   "subgrupo": "salario",
+   "titulo": "Pagar o diarista no mesmo dia",
+   "tipo": "positivo",
+   "texto": "O salário do trabalhador pobre, israelita ou estrangeiro, deve ser pago no mesmo dia, antes do pôr do sol; não pode ficar retido até a manhã seguinte.",
+   "refs": [
+    "deuteronomio 24:15",
+    "levitico 19:13"
+   ],
+   "paralelos": [],
+   "quem": "empregadores",
+   "sancao": {
+    "tipo": "divina",
+    "descricao": "\"Para que não clame contra ti ao SENHOR, e seja em ti pecado.\"",
+    "refs": [
+     "deuteronomio 24:15"
+    ]
+   },
+   "associacoes": [
+    {
+     "texto": "Tiago: o salário retido \"está clamando\" e chegou aos ouvidos do Senhor; Jeremias e Malaquias condenam quem não paga o trabalhador.",
+     "refs": [
+      "tiago 5:4",
+      "jeremias 22:13",
+      "malaquias 3:5"
+     ]
+    },
+    {
+     "texto": "Na parábola dos trabalhadores da vinha, o pagamento é feito ao fim do dia.",
+     "refs": [
+      "mateus 20:8"
+     ]
+    }
+   ],
+   "motivo": "\"Pois é pobre, e com ele sustenta sua vida\" (Dt 24:15)."
+  },
+  {
+   "id": "c-nao-oprimir-assalariado",
+   "grupo": "economia-justica-social",
+   "subgrupo": "salario",
+   "titulo": "Não explorar o empregado pobre",
+   "tipo": "negativo",
+   "texto": "Não fazer injustiça ao empregado pobre e necessitado, seja irmão, seja estrangeiro residente.",
+   "refs": [
+    "deuteronomio 24:14"
+   ],
+   "paralelos": [],
+   "quem": "empregadores",
+   "sancao": {
+    "tipo": "divina",
+    "descricao": "O clamor dele sobe a Deus.",
+    "refs": [
+     "deuteronomio 24:15"
+    ]
+   }
+  },
+  {
+   "id": "c-comer-na-vinha-do-proximo",
+   "grupo": "economia-justica-social",
+   "subgrupo": "salario",
+   "titulo": "Comer das uvas e espigas do vizinho, sem levar",
+   "tipo": "positivo",
+   "texto": "Quem entra na vinha do próximo pode comer uvas até se fartar, mas não pôr no cesto; na plantação pode arrancar espigas com a mão, mas não meter a foice.",
+   "refs": [
+    "deuteronomio 23:24-25"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena; o limite é não levar nem colher com ferramenta."
+   },
+   "casos": [
+    {
+     "descricao": "Os discípulos de Jesus arrancam espigas ao atravessar uma plantação; a crítica dos fariseus é por ser sábado, não por ser furto.",
+     "refs": [
+      "marcos 2:23-24"
+     ]
+    }
+   ],
+   "nota": "O texto fala de qualquer pessoa que passe; a tradição rabínica aplicou a regra especialmente ao trabalhador na colheita.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Bava Metsiá 7:2-5 (o trabalhador pode comer do que colhe; tradição rabínica)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "c-pesos-justos",
+   "grupo": "economia-justica-social",
+   "subgrupo": "comercio",
+   "titulo": "Ter balanças e medidas justas",
+   "tipo": "positivo",
+   "texto": "Balanças, pesos, efa (medida de grãos) e him (medida de líquidos) devem ser justos; também a medida da terra.",
+   "refs": [
+    "levitico 19:35-36",
+    "deuteronomio 25:15"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena humana; promessa de longa vida na terra.",
+    "refs": [
+     "deuteronomio 25:15"
+    ]
+   },
+   "associacoes": [
+    {
+     "texto": "Provérbios: \"a balança enganosa é abominação ao SENHOR\"; Amós denuncia quem diminui a medida e frauda com balanças.",
+     "refs": [
+      "proverbios 11:1",
+      "amos 8:5-6"
+     ]
+    }
+   ],
+   "motivo": "\"Eu sou o SENHOR vosso Deus, que vos tirei da terra do Egito\" (Lv 19:36)."
+  },
+  {
+   "id": "c-nao-pesos-falsos",
+   "grupo": "economia-justica-social",
+   "subgrupo": "comercio",
+   "titulo": "Não ter dois pesos e duas medidas",
+   "tipo": "negativo",
+   "texto": "Não guardar na bolsa um peso grande e um pequeno, nem em casa uma efa grande e uma pequena (um para comprar, outro para vender).",
+   "refs": [
+    "deuteronomio 25:13-14"
+   ],
+   "paralelos": [
+    "levitico 19:35"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "divina",
+    "descricao": "\"Abominação é ao SENHOR qualquer um que faz isto.\"",
+    "refs": [
+     "deuteronomio 25:16"
+    ]
+   },
+   "associacoes": [
+    {
+     "texto": "Miqueias: \"serei limpo com balanças falsas?\"",
+     "refs": [
+      "miqueias 6:11"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c-nao-enganar-no-comercio",
+   "grupo": "economia-justica-social",
+   "subgrupo": "comercio",
+   "titulo": "Não enganar o irmão na compra e venda",
+   "tipo": "negativo",
+   "texto": "Em toda venda ou compra entre israelitas ninguém deve enganar o irmão. A terra se vende pelo número de colheitas até o próximo jubileu: mais anos, preço maior; menos anos, preço menor.",
+   "refs": [
+    "levitico 25:14-17"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena humana; \"terás temor de teu Deus\".",
+    "refs": [
+     "levitico 25:17"
+    ]
+   },
+   "nota": "Na prática, \"vender\" a terra era vender o uso dela até o jubileu (ver Lv 25:23).",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Bava Metsiá 4:3-4 (ona'ah: diferença de mais de um sexto do preço anula ou corrige a venda)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "c-servo-hebreu-seis-anos",
+   "grupo": "economia-justica-social",
+   "subgrupo": "servos",
+   "titulo": "O servo hebreu é libertado no sétimo ano",
+   "tipo": "positivo",
+   "texto": "O hebreu ou a hebreia vendidos (em geral por dívida) servem seis anos e no sétimo saem livres, sem pagar nada. Quem entrou casado sai com a mulher; se o senhor lhe deu mulher, ela e os filhos ficam.",
+   "refs": [
+    "exodo 21:2-4",
+    "deuteronomio 15:12"
+   ],
+   "paralelos": [],
+   "quem": "senhores de servos hebreus",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena humana; não libertar é visto como quebra da aliança.",
+    "refs": [
+     "jeremias 34:13-17"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Sob Zedequias, os moradores de Jerusalém libertam seus servos hebreus por um pacto e logo os retomam; Jeremias anuncia que Deus lhes \"proclama liberdade\" para a espada, a peste e a fome.",
+     "refs": [
+      "jeremias 34:8-17"
+     ]
+    }
+   ],
+   "nota": "Lv 25:39-41 fala de liberdade no ano do jubileu, não no sétimo; estudiosos explicam de modos diferentes (leis de épocas diferentes, casos diferentes, ou o jubileu como limite máximo).",
+   "fonte_extra": [
+    {
+     "fonte": "Código de Hamurábi (Babilônia)",
+     "referencia": "lei 117 (quem vende mulher ou filhos por dívida: servem três anos e no quarto são libertados)",
+     "data": "c. 1750 a.C. (aproximado)"
+    }
+   ]
+  },
+  {
+   "id": "c-servo-orelha-furada",
+   "grupo": "economia-justica-social",
+   "subgrupo": "servos",
+   "titulo": "O servo que escolhe ficar para sempre",
+   "tipo": "positivo",
+   "texto": "Se o servo declara \"amo meu senhor, minha mulher e meus filhos, não sairei livre\", o senhor o leva aos juízes (\"diante de Deus\"), fura-lhe a orelha com uma sovela junto à porta, e ele fica servo para sempre. O mesmo vale para a serva.",
+   "refs": [
+    "exodo 21:5-6",
+    "deuteronomio 15:16-17"
+   ],
+   "paralelos": [],
+   "quem": "servo hebreu que escolhe ficar",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Não é pena, mas rito legal."
+   },
+   "associacoes": [
+    {
+     "texto": "O Salmo 40:6 (\"me furaste as orelhas\") é às vezes lido em ligação com este rito; Hebreus cita o salmo segundo a versão grega.",
+     "refs": [
+      "salmos 40:6",
+      "hebreus 10:5"
+     ]
+    }
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mekhilta de R. Ishmael",
+     "referencia": "comentário a Êx 21:6 (\"para sempre\" entendido como até o jubileu; tradição rabínica)",
+     "data": "c. séc. III d.C. (aproximado)"
+    }
+   ]
+  },
+  {
+   "id": "c-nao-despedir-vazio",
+   "grupo": "economia-justica-social",
+   "subgrupo": "servos",
+   "titulo": "Não despedir o servo de mãos vazias",
+   "tipo": "negativo",
+   "texto": "Quando o servo hebreu é libertado, o senhor não o manda embora sem nada.",
+   "refs": [
+    "deuteronomio 15:13"
+   ],
+   "paralelos": [],
+   "quem": "senhores",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   }
+  },
+  {
+   "id": "c-presentear-liberto",
+   "grupo": "economia-justica-social",
+   "subgrupo": "servos",
+   "titulo": "Dar presentes ao servo liberto",
+   "tipo": "positivo",
+   "texto": "O senhor deve abastecer generosamente o liberto com ovelhas, grãos da eira e vinho do lagar, \"daquilo em que o SENHOR te houver abençoado\", sem achar duro, pois ele serviu seis anos pelo dobro do valor de um assalariado.",
+   "refs": [
+    "deuteronomio 15:14",
+    "deuteronomio 15:18"
+   ],
+   "paralelos": [],
+   "quem": "senhores",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena; promessa de bênção.",
+    "refs": [
+     "deuteronomio 15:18"
+    ]
+   },
+   "motivo": "\"Te lembrarás que foste servo na terra do Egito, e que o SENHOR teu Deus te resgatou\" (Dt 15:15)."
+  },
+  {
+   "id": "c-serva-hebreia",
+   "grupo": "economia-justica-social",
+   "subgrupo": "servos",
+   "titulo": "Direitos da filha vendida como serva",
+   "tipo": "positivo",
+   "texto": "A filha vendida como serva (com vistas ao casamento) não sai como os outros servos. Se não agradar ao senhor, ele deve permitir que seja resgatada; se a der ao filho, a tratará como filha; se tomar outra mulher, não pode diminuir-lhe alimento, roupa e direito conjugal. Se faltar com isso, ela sai livre sem pagar nada.",
+   "refs": [
+    "exodo 21:7-11"
+   ],
+   "paralelos": [],
+   "quem": "senhores; pais que vendem a filha",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Se o senhor falhar, ela sai livre sem resgate.",
+    "refs": [
+     "exodo 21:11"
+    ]
+   },
+   "nota": "Texto de uma sociedade em que pais pobres entregavam filhas por dívida; a lei não aprova a prática, mas limita o poder do senhor sobre a moça."
+  },
+  {
+   "id": "c-nao-vender-serva-a-estrangeiros",
+   "grupo": "economia-justica-social",
+   "subgrupo": "servos",
+   "titulo": "Não vender a serva hebreia a povo estrangeiro",
+   "tipo": "negativo",
+   "texto": "O senhor que não cumpre seu compromisso com a serva não pode vendê-la a estrangeiros.",
+   "refs": [
+    "exodo 21:8"
+   ],
+   "paralelos": [],
+   "quem": "senhores",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   }
+  },
+  {
+   "id": "c-servo-olho-dente",
+   "grupo": "economia-justica-social",
+   "subgrupo": "servos",
+   "titulo": "Libertar o servo ferido no olho ou no dente",
+   "tipo": "positivo",
+   "texto": "Se o senhor fere o olho ou arranca um dente do seu servo ou serva, deve deixá-lo ir livre em compensação.",
+   "refs": [
+    "exodo 21:26-27"
+   ],
+   "paralelos": [],
+   "quem": "senhores de servos (inclusive estrangeiros)",
+   "sancao": {
+    "tipo": "restituicao",
+    "descricao": "A liberdade é a indenização pela lesão.",
+    "refs": [
+     "exodo 21:26-27"
+    ]
+   },
+   "nota": "O dente, lesão pequena, mostra que qualquer mutilação dava direito à liberdade."
+  },
+  {
+   "id": "c-nao-tratar-irmao-como-escravo",
+   "grupo": "economia-justica-social",
+   "subgrupo": "servos",
+   "titulo": "Não tratar o irmão empobrecido como escravo",
+   "tipo": "negativo",
+   "texto": "O israelita que empobrece e se vende não deve servir \"como servo\" (escravo), mas como assalariado ou morador, até o jubileu; os israelitas não podem ser vendidos à maneira de escravos.",
+   "refs": [
+    "levitico 25:39-42"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena humana; \"terás temor de teu Deus\"."
+   },
+   "motivo": "\"Porque são meus servos, os quais tirei eu da terra do Egito\" (Lv 25:42)."
+  },
+  {
+   "id": "c-nao-dominar-com-dureza",
+   "grupo": "economia-justica-social",
+   "subgrupo": "servos",
+   "titulo": "Não dominar o servo com dureza",
+   "tipo": "negativo",
+   "texto": "O senhor não deve tratar com rigor o irmão que o serve, nem permitir que o estrangeiro que o comprou o trate com dureza.",
+   "refs": [
+    "levitico 25:43",
+    "levitico 25:46",
+    "levitico 25:53"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena humana."
+   },
+   "associacoes": [
+    {
+     "texto": "A escravidão no Egito é descrita com a mesma palavra \"dureza\" (rigor).",
+     "refs": [
+      "exodo 1:13-14"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c-servo-sai-no-jubileu",
+   "grupo": "economia-justica-social",
+   "subgrupo": "servos",
+   "titulo": "O israelita vendido sai livre no jubileu",
+   "tipo": "positivo",
+   "texto": "O israelita que se vendeu serve até o ano do jubileu; então sai com seus filhos e volta à família e à propriedade de seus pais.",
+   "refs": [
+    "levitico 25:40-41",
+    "levitico 25:54"
+   ],
+   "paralelos": [
+    "levitico 25:10"
+   ],
+   "quem": "todo Israel",
+   "condicao": "ano do jubileu (50º ano)",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   }
+  },
+  {
+   "id": "c-resgatar-irmao-vendido",
+   "grupo": "economia-justica-social",
+   "subgrupo": "servos",
+   "titulo": "Resgatar o irmão vendido a um estrangeiro",
+   "tipo": "positivo",
+   "texto": "Se um israelita se vende a um estrangeiro residente rico, pode ser resgatado por um irmão, tio, primo ou outro parente, ou por si mesmo; o preço é calculado pelos anos que faltam até o jubileu, como salário de assalariado.",
+   "refs": [
+    "levitico 25:47-52"
+   ],
+   "paralelos": [],
+   "quem": "parentes (resgatadores)",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "casos": [
+    {
+     "descricao": "Neemias lembra que os judeus haviam resgatado \"nossos irmãos judeus que haviam sido vendidos às nações\".",
+     "refs": [
+      "neemias 5:8"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c-servos-estrangeiros",
+   "grupo": "economia-justica-social",
+   "subgrupo": "servos",
+   "titulo": "Servos de outras nações",
+   "tipo": "positivo",
+   "texto": "Servos e servas permanentes podem ser adquiridos das nações vizinhas e dos estrangeiros residentes, e passar como herança aos filhos; essa condição perpétua não se aplica a israelitas.",
+   "refs": [
+    "levitico 25:44-46"
+   ],
+   "paralelos": [],
+   "quem": "israelitas",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Permissão, sem pena."
+   },
+   "nota": "É uma permissão, não ordem. Mesmo para estes servos valem as proteções de Êx 21:20-21,26-27 e o descanso do sábado (Êx 20:10). O texto é hoje lido por todas as tradições como reflexo de uma sociedade antiga; o modo de entender essa distância varia."
+  },
+  {
+   "id": "c-nao-devolver-servo-fugitivo",
+   "grupo": "economia-justica-social",
+   "subgrupo": "servos",
+   "titulo": "Não entregar o servo fugitivo",
+   "tipo": "negativo",
+   "texto": "O servo que foge de seu senhor (entende-se: de fora de Israel) e se refugia contigo não deve ser entregue de volta.",
+   "refs": [
+    "deuteronomio 23:15"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "associacoes": [
+    {
+     "texto": "Na carta a Filemom, Paulo devolve Onésimo ao seu senhor pedindo que o receba \"como irmão amado\"; intérpretes comparam e contrastam com Dt 23:15.",
+     "refs": [
+      "filemom 1:15-16"
+     ]
+    }
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Código de Hamurábi (Babilônia)",
+     "referencia": "leis 15-16 (quem abriga escravo fugitivo é punido com a morte; contraste notado por estudiosos)",
+     "data": "c. 1750 a.C. (aproximado)"
+    }
+   ]
+  },
+  {
+   "id": "c-acolher-servo-fugitivo",
+   "grupo": "economia-justica-social",
+   "subgrupo": "servos",
+   "titulo": "Deixar o fugitivo morar onde quiser, sem oprimi-lo",
+   "tipo": "positivo",
+   "texto": "O servo fugitivo morará no meio de Israel, na cidade que escolher, \"onde bem lhe estiver\", e não deve ser oprimido.",
+   "refs": [
+    "deuteronomio 23:16"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   }
+  },
+  {
+   "id": "c-nao-oprimir-estrangeiro",
+   "grupo": "economia-justica-social",
+   "subgrupo": "vulneraveis",
+   "titulo": "Não oprimir o estrangeiro residente",
+   "tipo": "negativo",
+   "texto": "Não enganar, não oprimir, não afligir o estrangeiro que mora em Israel.",
+   "refs": [
+    "exodo 22:21",
+    "exodo 23:9",
+    "levitico 19:33"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena humana declarada."
+   },
+   "associacoes": [
+    {
+     "texto": "Zacarias e Malaquias repetem a proibição de oprimir o estrangeiro, a viúva e o órfão.",
+     "refs": [
+      "zacarias 7:10",
+      "malaquias 3:5"
+     ]
+    }
+   ],
+   "motivo": "\"Vós sabeis como se acha a alma do estrangeiro, já que estrangeiros fostes na terra do Egito\" (Êx 23:9)."
+  },
+  {
+   "id": "c-amar-estrangeiro",
+   "grupo": "economia-justica-social",
+   "subgrupo": "vulneraveis",
+   "titulo": "Amar o estrangeiro como a si mesmo",
+   "tipo": "positivo",
+   "texto": "O estrangeiro residente deve ser tratado como natural da terra e amado \"como a ti mesmo\"; Deus mesmo \"ama o estrangeiro, dando-lhe pão e roupa\".",
+   "refs": [
+    "levitico 19:34",
+    "deuteronomio 10:19"
+   ],
+   "paralelos": [
+    "deuteronomio 10:18"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "associacoes": [
+    {
+     "texto": "Jesus: \"fui forasteiro, e me acolhestes\"; Hebreus pede hospitalidade.",
+     "refs": [
+      "mateus 25:35",
+      "hebreus 13:2"
+     ]
+    }
+   ],
+   "motivo": "\"Porque peregrinos fostes na terra do Egito\" (Lv 19:34)."
+  },
+  {
+   "id": "c-amar-o-proximo",
+   "grupo": "economia-justica-social",
+   "subgrupo": "vulneraveis",
+   "titulo": "Amar o próximo; não se vingar nem guardar rancor",
+   "tipo": "positivo",
+   "texto": "Não odiar o irmão no coração, repreender francamente o próximo para não carregar pecado por causa dele, não se vingar nem guardar rancor, mas amar o próximo como a si mesmo.",
+   "refs": [
+    "levitico 19:17-18"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena; \"Eu sou o SENHOR\"."
+   },
+   "associacoes": [
+    {
+     "texto": "Jesus chama este de segundo grande mandamento; Paulo e Tiago dizem que ele resume a lei.",
+     "refs": [
+      "mateus 22:39",
+      "romanos 13:9-10",
+      "tiago 2:8"
+     ]
+    }
+   ],
+   "nota": "Lei de caráter geral, incluída aqui por ser a base das leis sociais; pode aparecer também em outros grupos deste estudo."
+  },
+  {
+   "id": "c-nao-afligir-viuva-orfao",
+   "grupo": "economia-justica-social",
+   "subgrupo": "vulneraveis",
+   "titulo": "Não afligir a viúva e o órfão",
+   "tipo": "negativo",
+   "texto": "Nenhuma viúva nem órfão deve ser maltratado.",
+   "refs": [
+    "exodo 22:22"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "divina",
+    "descricao": "Se clamarem, Deus ouvirá: \"meu furor se acenderá, e vos matarei a espada, e vossas mulheres serão viúvas, e órfãos vossos filhos\".",
+    "refs": [
+     "exodo 22:23-24"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Isaías acusa os príncipes de Jerusalém: \"não fazem justiça ao órfão, e a causa da viúva não chega perante eles\".",
+     "refs": [
+      "isaias 1:23"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Isaías: \"fazei justiça ao órfão; defendei a causa da viúva\"; Tiago define a religião pura como visitar órfãos e viúvas.",
+     "refs": [
+      "isaias 1:17",
+      "tiago 1:27"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c-direito-do-estrangeiro-e-orfao",
+   "grupo": "economia-justica-social",
+   "subgrupo": "vulneraveis",
+   "titulo": "Não torcer o direito do estrangeiro, do órfão e da viúva",
+   "tipo": "negativo",
+   "texto": "Nos julgamentos, não se pode perverter o direito do estrangeiro, do órfão e da viúva.",
+   "refs": [
+    "deuteronomio 24:17"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "maldicao",
+    "descricao": "\"Maldito o que distorcer o direito do estrangeiro, do órfão, e da viúva.\"",
+    "refs": [
+     "deuteronomio 27:19"
+    ]
+   },
+   "motivo": "\"Lembra-te que foste servo no Egito\" (Dt 24:18)."
+  },
+  {
+   "id": "c-nao-amaldicoar-surdo-nem-tropeco-cego",
+   "grupo": "economia-justica-social",
+   "subgrupo": "vulneraveis",
+   "titulo": "Não amaldiçoar o surdo nem pôr tropeço diante do cego",
+   "tipo": "negativo",
+   "texto": "Não insultar o surdo (que não ouve) nem colocar obstáculo diante do cego, nem desviá-lo do caminho.",
+   "refs": [
+    "levitico 19:14"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "maldicao",
+    "descricao": "\"Maldito o que fizer errar ao cego no caminho.\"",
+    "refs": [
+     "deuteronomio 27:18"
+    ]
+   },
+   "motivo": "\"Terás temor de teu Deus: Eu sou o SENHOR\" (Lv 19:14).",
+   "fonte_extra": [
+    {
+     "fonte": "Sifra",
+     "referencia": "comentário a Lv 19:14 (\"cego\" também como quem não sabe: não dar mau conselho; leitura rabínica)",
+     "data": "c. séc. III d.C. (aproximado)"
+    }
+   ]
+  },
+  {
+   "id": "c-honrar-ancião",
+   "grupo": "economia-justica-social",
+   "subgrupo": "vulneraveis",
+   "titulo": "Levantar-se diante do idoso",
+   "tipo": "positivo",
+   "texto": "Diante dos cabelos brancos levanta-te, e honra o rosto do ancião.",
+   "refs": [
+    "levitico 19:32"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena; \"de teu Deus terás temor\"."
+   }
+  },
+  {
+   "id": "c-deixar-canto-do-campo",
+   "grupo": "economia-justica-social",
+   "subgrupo": "pobre",
+   "titulo": "Deixar sem colher os cantos do campo",
+   "tipo": "negativo",
+   "texto": "Na colheita não se ceifa até a borda do campo: o canto fica para o pobre e o estrangeiro.",
+   "refs": [
+    "levitico 19:9",
+    "levitico 23:22"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "condicao": "na terra, na colheita",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Peá 1:1-2 (o canto não tem medida fixa na Torá; os rabinos sugerem ao menos 1/60)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "c-nao-recolher-respigas",
+   "grupo": "economia-justica-social",
+   "subgrupo": "pobre",
+   "titulo": "Não recolher as espigas caídas",
+   "tipo": "negativo",
+   "texto": "O que cai no chão durante a ceifa (respigas) não se recolhe; fica para o pobre e o estrangeiro.",
+   "refs": [
+    "levitico 19:9",
+    "levitico 23:22"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "casos": [
+    {
+     "descricao": "Rute, moabita e viúva, respiga atrás dos ceifeiros no campo de Boaz, que manda deixar espigas de propósito para ela.",
+     "refs": [
+      "rute 2:2-3",
+      "rute 2:15-16"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c-deixar-rebusco-vinha",
+   "grupo": "economia-justica-social",
+   "subgrupo": "pobre",
+   "titulo": "Não rebuscar a vinha nem apanhar as uvas caídas",
+   "tipo": "negativo",
+   "texto": "Na vindima não se volta para apanhar os cachos que ficaram nem as uvas caídas; e na colheita das azeitonas não se batem os ramos uma segunda vez. Ficam para o estrangeiro, o órfão e a viúva.",
+   "refs": [
+    "levitico 19:10",
+    "deuteronomio 24:20-21"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "motivo": "\"Lembra-te que foste servo na terra do Egito\" (Dt 24:22)."
+  },
+  {
+   "id": "c-feixe-esquecido",
+   "grupo": "economia-justica-social",
+   "subgrupo": "pobre",
+   "titulo": "Não voltar para pegar o feixe esquecido",
+   "tipo": "negativo",
+   "texto": "O feixe esquecido no campo não se volta para buscar: é do estrangeiro, do órfão e da viúva.",
+   "refs": [
+    "deuteronomio 24:19"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena; \"para que te abençoe o SENHOR teu Deus\".",
+    "refs": [
+     "deuteronomio 24:19"
+    ]
+   }
+  },
+  {
+   "id": "c-amparar-irmao-empobrecido",
+   "grupo": "economia-justica-social",
+   "subgrupo": "pobre",
+   "titulo": "Amparar o irmão que empobreceu",
+   "tipo": "positivo",
+   "texto": "Quando o irmão empobrece e já não consegue se manter, deve ser sustentado e viver junto, como um estrangeiro residente, sem juros nem lucro sobre a comida que se lhe dá.",
+   "refs": [
+    "levitico 25:35-37"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena; \"terás temor de teu Deus\"."
+   }
+  },
+  {
+   "id": "c-nao-amordacar-boi",
+   "grupo": "economia-justica-social",
+   "subgrupo": "animais",
+   "titulo": "Não pôr mordaça no boi que debulha",
+   "tipo": "negativo",
+   "texto": "Não se impede o boi de comer enquanto pisa o grão na eira.",
+   "refs": [
+    "deuteronomio 25:4"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "associacoes": [
+    {
+     "texto": "Paulo cita a lei duas vezes para defender que quem trabalha no evangelho tem direito ao sustento.",
+     "refs": [
+      "1-corintios 9:9-10",
+      "1-timoteo 5:18"
+     ]
+    },
+    {
+     "texto": "\"O justo dá atenção à vida de seus animais\".",
+     "refs": [
+      "proverbios 12:10"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c-ninho-mandar-mae",
+   "grupo": "economia-justica-social",
+   "subgrupo": "animais",
+   "titulo": "Deixar ir a mãe ao pegar os filhotes do ninho",
+   "tipo": "positivo",
+   "texto": "Quem acha um ninho com a mãe sobre os filhotes ou ovos não pega a mãe junto com eles: deixa a mãe ir e pode levar os filhotes.",
+   "refs": [
+    "deuteronomio 22:6-7"
+   ],
+   "paralelos": [
+    "levitico 22:28"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena; promessa: \"para que te vá bem, e prolongues teus dias\".",
+    "refs": [
+     "deuteronomio 22:7"
+    ]
+   },
+   "nota": "Lv 22:28 (não abater o animal e sua cria no mesmo dia) tem lógica parecida; leis de abate e sacrifício estão em outro grupo deste estudo."
+  },
+  {
+   "id": "c-levantar-animal-caido",
+   "grupo": "economia-justica-social",
+   "subgrupo": "animais",
+   "titulo": "Ajudar a levantar o animal caído, até o do inimigo",
+   "tipo": "positivo",
+   "texto": "Quem vê o jumento ou o boi do irmão caído no caminho, ou o jumento de quem o odeia caído sob a carga, não pode se esconder: deve ajudar o dono a levantá-lo.",
+   "refs": [
+    "exodo 23:5",
+    "deuteronomio 22:4"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "associacoes": [
+    {
+     "texto": "Jesus lembra que qualquer um tira do poço, mesmo no sábado, a ovelha ou o boi caído.",
+     "refs": [
+      "lucas 14:5"
+     ]
+    }
+   ],
+   "motivo": "Ajudar mesmo \"o que te aborrece\" (Êx 23:5) transforma a inimizade em cuidado."
+  },
+  {
+   "id": "c-nao-mover-marco",
+   "grupo": "economia-justica-social",
+   "subgrupo": "propriedade",
+   "titulo": "Não mudar os marcos de divisa do vizinho",
+   "tipo": "negativo",
+   "texto": "Não se desloca o marco de terra do próximo, fixado pelos antigos na herança recebida.",
+   "refs": [
+    "deuteronomio 19:14"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "condicao": "na terra",
+   "sancao": {
+    "tipo": "maldicao",
+    "descricao": "\"Maldito o que reduzir o termo de seu próximo.\"",
+    "refs": [
+     "deuteronomio 27:17"
+    ]
+   },
+   "associacoes": [
+    {
+     "texto": "Provérbios repete: \"não mudes os limites antigos\"; Oseias compara os líderes de Judá aos que mudam os marcos.",
+     "refs": [
+      "proverbios 22:28",
+      "proverbios 23:10",
+      "oseias 5:10"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c-nao-cobicar",
+   "grupo": "economia-justica-social",
+   "subgrupo": "propriedade",
+   "titulo": "Não cobiçar o que é do próximo",
+   "tipo": "negativo",
+   "texto": "Não desejar para si a casa, a mulher, o servo, a serva, o boi, o jumento, a terra ou qualquer coisa do próximo.",
+   "refs": [
+    "exodo 20:17",
+    "deuteronomio 5:21"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena humana: é o único mandamento do Decálogo sobre um desejo interior."
+   },
+   "casos": [
+    {
+     "descricao": "Acabe cobiça a vinha de Nabote, herança de família; Jezabel arma um julgamento falso e Nabote é apedrejado. Elias anuncia o juízo sobre Acabe.",
+     "refs": [
+      "1-reis 21:1-19"
+     ]
+    },
+    {
+     "descricao": "Acã confessa: \"vi... cobicei e tomei\".",
+     "refs": [
+      "josue 7:21"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Paulo diz que só conheceu a cobiça porque a lei disse \"não cobiçarás\".",
+     "refs": [
+      "romanos 7:7"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c-terra-nao-se-vende-para-sempre",
+   "grupo": "economia-justica-social",
+   "subgrupo": "propriedade",
+   "titulo": "A terra não se vende para sempre",
+   "tipo": "negativo",
+   "texto": "A terra não pode ser vendida em definitivo, porque pertence ao SENHOR, e os israelitas são \"peregrinos e estrangeiros\" diante dele; em toda a terra deve haver direito de resgate.",
+   "refs": [
+    "levitico 25:23-24"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "condicao": "na terra",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "casos": [
+    {
+     "descricao": "Nabote recusa vender a vinha a Acabe: \"Guarde-me o SENHOR de que eu te dê a herança de meus pais\".",
+     "refs": [
+      "1-reis 21:3"
+     ]
+    }
+   ],
+   "motivo": "\"Porque a terra minha é\" (Lv 25:23)."
+  },
+  {
+   "id": "c-resgate-da-terra",
+   "grupo": "economia-justica-social",
+   "subgrupo": "propriedade",
+   "titulo": "Resgatar a terra vendida por pobreza",
+   "tipo": "positivo",
+   "texto": "Quando um israelita empobrecido vende parte de sua terra, o parente mais próximo (go'el, \"resgatador\") deve resgatá-la; se não houver, o próprio vendedor pode resgatá-la depois, pagando os anos restantes. Se não conseguir, a terra volta a ele no jubileu.",
+   "refs": [
+    "levitico 25:25-28"
+   ],
+   "paralelos": [],
+   "quem": "parentes; vendedor",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "casos": [
+    {
+     "descricao": "Boaz, à porta da cidade e diante de dez anciãos, assume o resgate da terra de Elimeleque e se casa com Rute, depois que o parente mais próximo desiste.",
+     "refs": [
+      "rute 4:1-10"
+     ]
+    },
+    {
+     "descricao": "Jeremias, preso durante o cerco de Jerusalém, compra o campo de seu primo Hanameel em Anatote pelo direito de resgate, como sinal de esperança.",
+     "refs": [
+      "jeremias 32:6-15"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c-casas-cidades-muradas",
+   "grupo": "economia-justica-social",
+   "subgrupo": "propriedade",
+   "titulo": "Casa em cidade murada: resgate em um ano",
+   "tipo": "positivo",
+   "texto": "Casa vendida dentro de cidade murada pode ser resgatada só durante um ano; depois fica para sempre com o comprador e não volta no jubileu. Casas de aldeias sem muro seguem a regra dos campos e voltam no jubileu.",
+   "refs": [
+    "levitico 25:29-31"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   }
+  },
+  {
+   "id": "c-propriedade-dos-levitas",
+   "grupo": "economia-justica-social",
+   "subgrupo": "propriedade",
+   "titulo": "Casas e pastagens dos levitas",
+   "tipo": "negativo",
+   "texto": "Os levitas podem resgatar a qualquer tempo as casas de suas cidades, que voltam a eles no jubileu; e as pastagens ao redor de suas cidades não podem ser vendidas, por serem propriedade perpétua deles.",
+   "refs": [
+    "levitico 25:32-34"
+   ],
+   "paralelos": [],
+   "quem": "levitas e compradores",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   }
+  },
+  {
+   "id": "c-jubileu-volta-a-possessao",
+   "grupo": "economia-justica-social",
+   "subgrupo": "propriedade",
+   "titulo": "No jubileu cada um volta à sua propriedade",
+   "tipo": "positivo",
+   "texto": "No 50º ano, anunciado com o toque da trombeta no Dia da Expiação, proclama-se liberdade na terra: cada um volta à sua propriedade e à sua família.",
+   "refs": [
+    "levitico 25:9-10",
+    "levitico 25:13"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "condicao": "na terra, no ano do jubileu",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "associacoes": [
+    {
+     "texto": "Isaías 61 anuncia \"liberdade aos cativos\", e Jesus lê esse texto em Nazaré; muitos ouvem aí um eco do jubileu.",
+     "refs": [
+      "isaias 61:1-2",
+      "lucas 4:18-19"
+     ]
+    }
+   ],
+   "nota": "O calendário e o descanso da terra no jubileu e no ano sabático pertencem ao grupo das festas; aqui fica só o efeito sobre a propriedade e as pessoas. Não há registro bíblico claro de um jubileu celebrado."
+  },
+  {
+   "id": "c-nomear-juizes",
+   "grupo": "tribunais-governo",
+   "subgrupo": "juizes",
+   "titulo": "Nomear juízes e oficiais em todas as cidades",
+   "tipo": "positivo",
+   "texto": "Em cada cidade, por tribos, devem ser postos juízes e oficiais que julguem o povo com justiça. Devem ser homens sábios, entendidos, tementes a Deus, verdadeiros e que odeiem o lucro desonesto.",
+   "refs": [
+    "deuteronomio 16:18"
+   ],
+   "paralelos": [
+    "exodo 18:21-26",
+    "deuteronomio 1:13-16"
+   ],
+   "quem": "o povo e seus líderes",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "casos": [
+    {
+     "descricao": "Por conselho de Jetro, Moisés organiza chefes de mil, cem, cinquenta e dez para julgar as causas pequenas e lhe trazer as difíceis.",
+     "refs": [
+      "exodo 18:21-26"
+     ]
+    },
+    {
+     "descricao": "O rei Josafá nomeia juízes nas cidades de Judá e um tribunal em Jerusalém, lembrando que julgam \"em lugar do SENHOR\".",
+     "refs": [
+      "2-cronicas 19:5-11"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c-julgar-com-justica",
+   "grupo": "tribunais-governo",
+   "subgrupo": "juizes",
+   "titulo": "Julgar o próximo com justiça",
+   "tipo": "positivo",
+   "texto": "\"Com justiça julgarás a teu próximo\"; \"a justiça, a justiça seguirás\". O juiz deve ouvir as duas partes, o pequeno e o grande, o israelita e o estrangeiro.",
+   "refs": [
+    "levitico 19:15",
+    "deuteronomio 16:20"
+   ],
+   "paralelos": [
+    "deuteronomio 1:16",
+    "deuteronomio 16:18"
+   ],
+   "quem": "juízes",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena humana; promessa: \"para que vivas e herdes a terra\".",
+    "refs": [
+     "deuteronomio 16:20"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Salomão julga duas mulheres que disputam um bebê, propondo dividi-lo para revelar a verdadeira mãe; \"viram que havia nele sabedoria de Deus para julgar\".",
+     "refs": [
+      "1-reis 3:16-28"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Nicodemos lembra que a Lei não julga ninguém sem antes ouvi-lo.",
+     "refs": [
+      "joao 7:51"
+     ]
+    },
+    {
+     "texto": "Jesus: \"não julgueis segundo a aparência, mas julgai segundo o justo juízo\".",
+     "refs": [
+      "joao 7:24"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c-nao-fazer-acepcao",
+   "grupo": "tribunais-governo",
+   "subgrupo": "juizes",
+   "titulo": "Não fazer acepção de pessoas no juízo",
+   "tipo": "negativo",
+   "texto": "O juiz não favorece o poderoso nem distorce o direito por causa de quem a pessoa é: \"tanto ao pequeno como ao grande ouvireis\".",
+   "refs": [
+    "deuteronomio 1:17",
+    "deuteronomio 16:19",
+    "levitico 19:15"
+   ],
+   "paralelos": [],
+   "quem": "juízes",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena humana declarada."
+   },
+   "associacoes": [
+    {
+     "texto": "Tiago condena a acepção de pessoas na comunidade cristã, citando a lei.",
+     "refs": [
+      "tiago 2:1",
+      "tiago 2:9"
+     ]
+    }
+   ],
+   "motivo": "\"Porque o juízo é de Deus\" (Dt 1:17); Deus \"não faz acepção de pessoas\" (Dt 10:17)."
+  },
+  {
+   "id": "c-nao-favorecer-pobre",
+   "grupo": "tribunais-governo",
+   "subgrupo": "juizes",
+   "titulo": "Não favorecer o pobre na causa dele",
+   "tipo": "negativo",
+   "texto": "Nem por compaixão o juiz deve dar razão ao pobre que não a tem: \"nem ao pobre privilegiarás em sua causa\".",
+   "refs": [
+    "exodo 23:3",
+    "levitico 19:15"
+   ],
+   "paralelos": [],
+   "quem": "juízes e testemunhas",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "nota": "Complementa a lei seguinte: o direito do pobre não pode ser torcido, mas também não inclinado a seu favor."
+  },
+  {
+   "id": "c-nao-perverter-direito-do-pobre",
+   "grupo": "tribunais-governo",
+   "subgrupo": "juizes",
+   "titulo": "Não perverter o direito do pobre",
+   "tipo": "negativo",
+   "texto": "\"Não perverterás o direito de teu pobre em seu pleito.\"",
+   "refs": [
+    "exodo 23:6"
+   ],
+   "paralelos": [],
+   "quem": "juízes",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "associacoes": [
+    {
+     "texto": "Amós denuncia os que \"distorcem o caminho dos humildes\".",
+     "refs": [
+      "amos 2:7"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c-nao-temer-homem-no-juizo",
+   "grupo": "tribunais-governo",
+   "subgrupo": "juizes",
+   "titulo": "O juiz não deve ter medo de ninguém",
+   "tipo": "negativo",
+   "texto": "\"Não tereis temor de ninguém, porque o juízo é de Deus.\"",
+   "refs": [
+    "deuteronomio 1:17"
+   ],
+   "paralelos": [],
+   "quem": "juízes",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   }
+  },
+  {
+   "id": "c-nao-aceitar-suborno",
+   "grupo": "tribunais-governo",
+   "subgrupo": "juizes",
+   "titulo": "Não aceitar suborno",
+   "tipo": "negativo",
+   "texto": "O juiz não deve receber presente nem suborno, porque o suborno \"cega os olhos dos sábios e perverte as palavras dos justos\".",
+   "refs": [
+    "exodo 23:8",
+    "deuteronomio 16:19"
+   ],
+   "paralelos": [],
+   "quem": "juízes (e todos)",
+   "sancao": {
+    "tipo": "maldicao",
+    "descricao": "\"Maldito o que receber um presente para ferir de morte ao inocente.\"",
+    "refs": [
+     "deuteronomio 27:25"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Os filhos de Samuel, juízes em Berseba, \"recebiam suborno e perverteram o direito\", e o povo pede um rei.",
+     "refs": [
+      "1-samuel 8:3-5"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Isaías, Miqueias e o Salmo 15 denunciam o suborno dos líderes.",
+     "refs": [
+      "isaias 1:23",
+      "miqueias 3:11",
+      "salmos 15:5"
+     ]
+    }
+   ],
+   "motivo": "Deus \"não faz acepção de pessoas, nem toma suborno\" (Dt 10:17)."
+  },
+  {
+   "id": "c-nao-seguir-maioria-para-o-mal",
+   "grupo": "tribunais-governo",
+   "subgrupo": "juizes",
+   "titulo": "Não seguir a maioria para fazer o mal",
+   "tipo": "negativo",
+   "texto": "Ninguém deve acompanhar a multidão para praticar o mal, nem depor num processo pendendo para a maioria a fim de torcer a justiça.",
+   "refs": [
+    "exodo 23:2"
+   ],
+   "paralelos": [],
+   "quem": "testemunhas e juízes",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "casos": [
+    {
+     "descricao": "Pilatos, vendo o tumulto da multidão, entrega Jesus para ser crucificado embora o considere inocente.",
+     "refs": [
+      "mateus 27:23-26"
+     ]
+    }
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Sinédrio 1:6 e 4:1 (da frase final do versículo os rabinos tiraram regras de votação por maioria nos tribunais)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "c-nao-condenar-inocente",
+   "grupo": "tribunais-governo",
+   "subgrupo": "juizes",
+   "titulo": "Afastar-se da mentira e não matar o inocente",
+   "tipo": "negativo",
+   "texto": "\"De palavra de mentira te afastarás, e não matarás ao inocente e justo; porque eu não justificarei ao ímpio.\"",
+   "refs": [
+    "exodo 23:7"
+   ],
+   "paralelos": [],
+   "quem": "juízes e testemunhas",
+   "sancao": {
+    "tipo": "divina",
+    "descricao": "Deus não absolverá o culpado.",
+    "refs": [
+     "exodo 23:7"
+    ]
+   }
+  },
+  {
+   "id": "c-nao-falso-rumor",
+   "grupo": "tribunais-governo",
+   "subgrupo": "juizes",
+   "titulo": "Não espalhar boato nem aliar-se ao ímpio",
+   "tipo": "negativo",
+   "texto": "Não aceitar nem propagar falso rumor, nem se juntar ao culpado para ser testemunha falsa; não andar espalhando mexericos no meio do povo.",
+   "refs": [
+    "exodo 23:1",
+    "levitico 19:16"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "fonte_extra": [
+    {
+     "fonte": "Talmude Babilônico",
+     "referencia": "Sinédrio 7b (o juiz não deve ouvir uma parte na ausência da outra, deduzido de Êx 23:1; tradição posterior)",
+     "data": "c. séc. V-VI d.C."
+    }
+   ]
+  },
+  {
+   "id": "c-nao-amaldicoar-juiz-e-principe",
+   "grupo": "tribunais-governo",
+   "subgrupo": "juizes",
+   "titulo": "Não insultar os juízes nem amaldiçoar o governante",
+   "tipo": "negativo",
+   "texto": "\"Não insultarás aos juízes, nem amaldiçoarás ao príncipe de teu povo.\" (A palavra traduzida por \"juízes\" é elohim, que também pode ser lida como \"Deus\".)",
+   "refs": [
+    "exodo 22:28"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada neste versículo."
+   },
+   "casos": [
+    {
+     "descricao": "Paulo chama o sumo sacerdote de \"parede caiada\" e, ao saber quem ele é, se desculpa citando esta lei.",
+     "refs": [
+      "atos 23:3-5"
+     ]
+    },
+    {
+     "descricao": "Nabote é falsamente acusado de ter \"blasfemado a Deus e ao rei\".",
+     "refs": [
+      "1-reis 21:10"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c-investigar-bem",
+   "grupo": "tribunais-governo",
+   "subgrupo": "juizes",
+   "titulo": "Investigar bem antes de condenar",
+   "tipo": "positivo",
+   "texto": "Diante de uma acusação grave, os juízes devem inquirir, investigar e perguntar com cuidado; só condenam se o fato \"parecer de verdade certo\".",
+   "refs": [
+    "deuteronomio 17:4",
+    "deuteronomio 19:18"
+   ],
+   "paralelos": [
+    "deuteronomio 13:14"
+   ],
+   "quem": "juízes",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "casos": [
+    {
+     "descricao": "Josué identifica Acã por sorteio, mas o leva a confessar e manda verificar a tenda, onde os objetos são encontrados.",
+     "refs": [
+      "josue 7:19-23"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c-duas-ou-tres-testemunhas",
+   "grupo": "tribunais-governo",
+   "subgrupo": "testemunhas",
+   "titulo": "Ninguém é condenado por uma só testemunha",
+   "tipo": "negativo",
+   "texto": "Uma só testemunha não basta contra ninguém, em qualquer delito; a causa se estabelece pelo depoimento de duas ou três. Em caso de pena de morte a exigência é repetida.",
+   "refs": [
+    "deuteronomio 19:15",
+    "deuteronomio 17:6"
+   ],
+   "paralelos": [
+    "numeros 35:30"
+   ],
+   "quem": "juízes",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Regra de prova; não fixa pena."
+   },
+   "casos": [
+    {
+     "descricao": "No julgamento de Jesus, muitos depõem falsamente, mas \"os testemunhos não concordavam entre si\"; ele é condenado por sua própria declaração.",
+     "refs": [
+      "marcos 14:55-64"
+     ]
+    },
+    {
+     "descricao": "Jezabel providencia exatamente duas testemunhas falsas contra Nabote, imitando a forma da lei.",
+     "refs": [
+      "1-reis 21:10",
+      "1-reis 21:13"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Jesus e Paulo aplicam a regra à disciplina na igreja; Hebreus a lembra como regra da lei de Moisés.",
+     "refs": [
+      "mateus 18:16",
+      "2-corintios 13:1",
+      "1-timoteo 5:19",
+      "hebreus 10:28"
+     ]
+    }
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Sinédrio 5:1-4 (interrogatório minucioso das testemunhas em causas capitais)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "c-nao-falso-testemunho",
+   "grupo": "tribunais-governo",
+   "subgrupo": "testemunhas",
+   "titulo": "Não dar falso testemunho",
+   "tipo": "negativo",
+   "texto": "Não depor falsamente contra o próximo.",
+   "refs": [
+    "exodo 20:16"
+   ],
+   "paralelos": [
+    "deuteronomio 5:20",
+    "exodo 23:1"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "A falsa testemunha recebe a pena que queria que o acusado sofresse (pode chegar à morte).",
+    "refs": [
+     "deuteronomio 19:19"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Contra Estêvão são apresentadas testemunhas falsas, subornadas, que o acusam de falar contra o templo e a lei.",
+     "refs": [
+      "atos 6:11-14"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "\"A falsa testemunha não ficará impune\".",
+     "refs": [
+      "proverbios 19:5"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c-punir-falsa-testemunha",
+   "grupo": "tribunais-governo",
+   "subgrupo": "testemunhas",
+   "titulo": "Fazer à falsa testemunha o que ela tramou",
+   "tipo": "positivo",
+   "texto": "Quando uma testemunha acusa alguém injustamente, as duas partes comparecem diante do SENHOR, dos sacerdotes e dos juízes; se a investigação mostrar que mentiu, \"fareis a ele como ele pensou fazer a seu irmão\", sem piedade.",
+   "refs": [
+    "deuteronomio 19:16-21"
+   ],
+   "paralelos": [],
+   "quem": "juízes",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "A mesma pena pretendida contra o acusado (\"vida por vida, olho por olho\").",
+    "refs": [
+     "deuteronomio 19:19",
+     "deuteronomio 19:21"
+    ]
+   },
+   "motivo": "\"Os que restarem ouvirão, e temerão, e não voltarão mais a fazer uma má coisa como esta\" (Dt 19:20).",
+   "nota": "A sanção depende do caso; \"morte\" aqui indica o caso extremo de acusação capital.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Makot 1:1-6 (\"testemunhas conspiradoras\"; regras rabínicas sobre quando a pena se aplica)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "c-testemunha-deve-depor",
+   "grupo": "tribunais-governo",
+   "subgrupo": "testemunhas",
+   "titulo": "Quem sabe de um fato deve testemunhar",
+   "tipo": "positivo",
+   "texto": "Quem ouviu o juramento público (o chamado para depor) e foi testemunha, porque viu ou soube, e não denuncia, \"levará seu pecado\".",
+   "refs": [
+    "levitico 5:1"
+   ],
+   "paralelos": [],
+   "quem": "testemunhas",
+   "sancao": {
+    "tipo": "oferta",
+    "descricao": "Carrega a culpa e deve confessar e trazer oferta pelo pecado.",
+    "refs": [
+     "levitico 5:5-6"
+    ]
+   }
+  },
+  {
+   "id": "c-maos-das-testemunhas-primeiro",
+   "grupo": "tribunais-governo",
+   "subgrupo": "testemunhas",
+   "titulo": "As testemunhas executam primeiro a sentença",
+   "tipo": "positivo",
+   "texto": "Na execução por apedrejamento, a mão das testemunhas é a primeira contra o condenado, e depois a de todo o povo.",
+   "refs": [
+    "deuteronomio 17:7"
+   ],
+   "paralelos": [
+    "levitico 24:14"
+   ],
+   "quem": "testemunhas",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Regra de execução."
+   },
+   "casos": [
+    {
+     "descricao": "Jesus diz aos acusadores da mulher: \"aquele de vós que está sem pecado seja o primeiro que atire pedra contra ela\".",
+     "refs": [
+      "joao 8:7"
+     ]
+    },
+    {
+     "descricao": "No apedrejamento de Estêvão, \"as testemunhas puseram as roupas deles junto aos pés de um rapaz chamado Saulo\".",
+     "refs": [
+      "atos 7:58"
+     ]
+    }
+   ],
+   "motivo": "Torna a testemunha responsável até o fim pelo que afirmou."
+  },
+  {
+   "id": "c-recorrer-tribunal-central",
+   "grupo": "tribunais-governo",
+   "subgrupo": "tribunal",
+   "titulo": "Levar as causas difíceis ao tribunal do lugar escolhido",
+   "tipo": "positivo",
+   "texto": "Quando um caso for difícil demais (homicídio ou não, causa civil ou lesão), deve ser levado ao lugar que o SENHOR escolher, aos sacerdotes levitas e ao juiz em função, que darão a sentença.",
+   "refs": [
+    "deuteronomio 17:8-9"
+   ],
+   "paralelos": [
+    "exodo 18:22",
+    "deuteronomio 1:17"
+   ],
+   "quem": "juízes locais e partes",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "casos": [
+    {
+     "descricao": "Josafá estabelece em Jerusalém sacerdotes, levitas e chefes de família para as causas \"entre sangue e sangue, entre lei e preceito\".",
+     "refs": [
+      "2-cronicas 19:8-11"
+     ]
+    }
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Sinédrio 1:6 e 11:2 (Grande Sinédrio de 71 membros; tradição rabínica sobre o tribunal superior)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "c-cumprir-sentenca",
+   "grupo": "tribunais-governo",
+   "subgrupo": "tribunal",
+   "titulo": "Cumprir a sentença do tribunal central",
+   "tipo": "positivo",
+   "texto": "As partes devem fazer exatamente segundo a lei e o juízo que o tribunal ensinar.",
+   "refs": [
+    "deuteronomio 17:10-11"
+   ],
+   "paralelos": [],
+   "quem": "as partes e os juízes locais",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "Quem age com soberba e não obedece ao sacerdote ou ao juiz \"morrerá\".",
+    "refs": [
+     "deuteronomio 17:12"
+    ]
+   }
+  },
+  {
+   "id": "c-nao-se-desviar-da-sentenca",
+   "grupo": "tribunais-governo",
+   "subgrupo": "tribunal",
+   "titulo": "Não se desviar da sentença nem à direita nem à esquerda",
+   "tipo": "negativo",
+   "texto": "Quem recebeu a decisão do tribunal não pode desviar-se dela nem para um lado nem para outro; desafiá-la com soberba é crime capital.",
+   "refs": [
+    "deuteronomio 17:11-12"
+   ],
+   "paralelos": [],
+   "quem": "as partes e os juízes locais",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "\"O tal homem morrerá: e tirarás o mal de Israel.\"",
+    "refs": [
+     "deuteronomio 17:12-13"
+    ]
+   },
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Sinédrio 11:2 (o \"ancião rebelde\": juiz que decide contra o Grande Sinédrio; tradição posterior)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "c-acoites-conforme-o-delito",
+   "grupo": "tribunais-governo",
+   "subgrupo": "tribunal",
+   "titulo": "Açoitar o culpado diante do juiz, conforme o delito",
+   "tipo": "positivo",
+   "texto": "Quando o culpado merece açoites, o juiz o faz deitar e ser açoitado diante dele, em número proporcional à culpa.",
+   "refs": [
+    "deuteronomio 25:1-2"
+   ],
+   "paralelos": [],
+   "quem": "juízes",
+   "sancao": {
+    "tipo": "acoites",
+    "descricao": "Açoites proporcionais, com limite de 40.",
+    "refs": [
+     "deuteronomio 25:2-3"
+    ]
+   }
+  },
+  {
+   "id": "c-nao-exceder-40-acoites",
+   "grupo": "tribunais-governo",
+   "subgrupo": "tribunal",
+   "titulo": "Não dar mais de quarenta açoites",
+   "tipo": "negativo",
+   "texto": "O número de golpes não pode passar de quarenta, \"para que teu irmão não seja humilhado diante de teus olhos\".",
+   "refs": [
+    "deuteronomio 25:3"
+   ],
+   "paralelos": [],
+   "quem": "juízes",
+   "sancao": {
+    "tipo": "acoites",
+    "descricao": "Limite máximo de 40.",
+    "refs": [
+     "deuteronomio 25:3"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Paulo conta que recebeu dos judeus \"cinco vezes quarenta açoites menos um\".",
+     "refs": [
+      "2-corintios 11:24"
+     ]
+    }
+   ],
+   "motivo": "Preservar a dignidade do condenado: ele continua sendo \"teu irmão\".",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Makot 3:10 (máximo de 39 golpes, para não ultrapassar 40 por engano)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "c-nao-deixar-corpo-no-madeiro",
+   "grupo": "tribunais-governo",
+   "subgrupo": "tribunal",
+   "titulo": "Não deixar o corpo do executado pendurado durante a noite",
+   "tipo": "negativo",
+   "texto": "Se o corpo de um condenado à morte é pendurado num madeiro (exposto depois da execução), não pode passar a noite ali.",
+   "refs": [
+    "deuteronomio 21:22-23"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena; deixar o corpo exposto \"contaminaria a terra\".",
+    "refs": [
+     "deuteronomio 21:23"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Josué tira do madeiro, ao pôr do sol, o corpo do rei de Ai e depois os dos cinco reis amorreus.",
+     "refs": [
+      "josue 8:29",
+      "josue 10:26-27"
+     ]
+    },
+    {
+     "descricao": "No caso dos gibeonitas, os corpos dos descendentes de Saul ficam expostos desde a colheita da cevada até a chuva, vigiados por Rispa, e Davi depois os sepulta.",
+     "refs": [
+      "2-samuel 21:9-14"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Os judeus pedem a Pilatos que os corpos não fiquem na cruz no sábado; Paulo cita \"maldito todo aquele que for pendurado em madeiro\" ao falar da cruz.",
+     "refs": [
+      "joao 19:31",
+      "galatas 3:13",
+      "atos 5:30"
+     ]
+    }
+   ],
+   "motivo": "\"Porque maldição de Deus é o pendurado: e não contaminarás tua terra\" (Dt 21:23).",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Sinédrio 6:4 (segundo a tradição rabínica, só o blasfemo e o idólatra eram pendurados após a morte, e retirados logo)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "c-enterrar-executado-no-dia",
+   "grupo": "tribunais-governo",
+   "subgrupo": "tribunal",
+   "titulo": "Sepultar o executado no mesmo dia",
+   "tipo": "positivo",
+   "texto": "O corpo do executado deve ser sepultado sem falta no mesmo dia.",
+   "refs": [
+    "deuteronomio 21:23"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "casos": [
+    {
+     "descricao": "José de Arimateia pede o corpo de Jesus e o sepulta antes do início do sábado.",
+     "refs": [
+      "marcos 15:42-46"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c-rei-escolhido-por-deus",
+   "grupo": "tribunais-governo",
+   "subgrupo": "rei",
+   "titulo": "Pôr como rei quem o SENHOR escolher, um israelita",
+   "tipo": "positivo",
+   "texto": "Se Israel quiser um rei \"como todas as nações\", deve pôr aquele que o SENHOR escolher, dentre os irmãos.",
+   "refs": [
+    "deuteronomio 17:14-15"
+   ],
+   "paralelos": [],
+   "quem": "o povo",
+   "condicao": "na terra, se o povo pedir rei",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "casos": [
+    {
+     "descricao": "O povo pede a Samuel \"um rei que nos julgue, como todas as nações\"; Samuel adverte sobre os abusos do rei, e Deus indica Saul.",
+     "refs": [
+      "1-samuel 8:5-18",
+      "1-samuel 10:24"
+     ]
+    }
+   ],
+   "nota": "O texto pode ser lido como permissão (\"se disseres...\") ou como ordem; a tradição rabínica discutiu as duas leituras, e 1 Samuel mostra o pedido de um rei com desconfiança."
+  },
+  {
+   "id": "c-nao-rei-estrangeiro",
+   "grupo": "tribunais-governo",
+   "subgrupo": "rei",
+   "titulo": "Não pôr um estrangeiro como rei",
+   "tipo": "negativo",
+   "texto": "\"Não poderás pôr sobre ti homem estrangeiro, que não seja teu irmão.\"",
+   "refs": [
+    "deuteronomio 17:15"
+   ],
+   "paralelos": [],
+   "quem": "o povo",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Sotá 7:8 (o rei Agripa chora ao ler \"não poderás pôr sobre ti homem estrangeiro\", por ser de família idumeia)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "c-rei-nao-multiplicar-cavalos",
+   "grupo": "tribunais-governo",
+   "subgrupo": "rei",
+   "titulo": "O rei não deve acumular cavalos nem fazer o povo voltar ao Egito",
+   "tipo": "negativo",
+   "texto": "O rei não multiplicará cavalos para si, nem levará o povo de volta ao Egito para conseguir mais cavalos, porque o SENHOR disse: \"não voltareis mais por este caminho\".",
+   "refs": [
+    "deuteronomio 17:16"
+   ],
+   "paralelos": [],
+   "quem": "rei",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "casos": [
+    {
+     "descricao": "Salomão junta 1.400 carros e 12.000 cavaleiros e importa cavalos do Egito.",
+     "refs": [
+      "1-reis 10:26-29"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "\"Uns confiam em carros, e outros em cavalos; mas nós nos lembraremos do nome do SENHOR\".",
+     "refs": [
+      "salmos 20:7"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c-rei-nao-multiplicar-mulheres",
+   "grupo": "tribunais-governo",
+   "subgrupo": "rei",
+   "titulo": "O rei não deve multiplicar mulheres",
+   "tipo": "negativo",
+   "texto": "O rei não deve ter muitas mulheres, \"para que seu coração não se desvie\".",
+   "refs": [
+    "deuteronomio 17:17"
+   ],
+   "paralelos": [],
+   "quem": "rei",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena humana declarada."
+   },
+   "casos": [
+    {
+     "descricao": "Salomão tem setecentas esposas e trezentas concubinas, \"e suas mulheres desviaram o coração dele\" para outros deuses; o reino é dividido depois de sua morte.",
+     "refs": [
+      "1-reis 11:1-13"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c-rei-nao-acumular-ouro",
+   "grupo": "tribunais-governo",
+   "subgrupo": "rei",
+   "titulo": "O rei não deve acumular muita prata e ouro",
+   "tipo": "negativo",
+   "texto": "O rei não deve juntar para si prata e ouro em excesso.",
+   "refs": [
+    "deuteronomio 17:17"
+   ],
+   "paralelos": [],
+   "quem": "rei",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "casos": [
+    {
+     "descricao": "No tempo de Salomão a prata era tão comum em Jerusalém \"como pedras\".",
+     "refs": [
+      "1-reis 10:27"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c-rei-copiar-e-ler-a-lei",
+   "grupo": "tribunais-governo",
+   "subgrupo": "rei",
+   "titulo": "O rei deve escrever uma cópia da lei e lê-la todos os dias",
+   "tipo": "positivo",
+   "texto": "Ao sentar no trono, o rei escreve para si uma cópia desta lei, a partir do exemplar dos sacerdotes levitas, e a lê todos os dias, para temer a Deus e não se elevar acima de seus irmãos.",
+   "refs": [
+    "deuteronomio 17:18-20"
+   ],
+   "paralelos": [],
+   "quem": "rei",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena; promessa de reinado longo para ele e os filhos.",
+    "refs": [
+     "deuteronomio 17:20"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "O rei Josias ouve a leitura do livro da lei encontrado no templo, rasga as roupas e faz uma reforma religiosa.",
+     "refs": [
+      "2-reis 22:8-13",
+      "2-reis 23:1-3"
+     ]
+    }
+   ],
+   "motivo": "\"Para que não se eleve seu coração sobre seus irmãos\" (Dt 17:20).",
+   "nota": "A expressão grega para \"cópia desta lei\" (deuteronomion) deu nome ao livro de Deuteronômio.",
+   "fonte_extra": [
+    {
+     "fonte": "Septuaginta",
+     "referencia": "Dt 17:18 (to deuteronomion touto, \"esta segunda lei/cópia\")",
+     "data": "c. séc. III-II a.C."
+    }
+   ]
+  },
+  {
+   "id": "c-ouvir-o-profeta",
+   "grupo": "tribunais-governo",
+   "subgrupo": "profeta",
+   "titulo": "Ouvir o profeta que Deus levantar",
+   "tipo": "positivo",
+   "texto": "Deus levantará um profeta \"como eu\" (Moisés) dentre os irmãos, e porá suas palavras na boca dele; o povo deve ouvi-lo.",
+   "refs": [
+    "deuteronomio 18:15",
+    "deuteronomio 18:18-19"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "divina",
+    "descricao": "\"Qualquer um que não ouvir minhas palavras... eu lhe exigirei prestar contas.\"",
+    "refs": [
+     "deuteronomio 18:19"
+    ]
+   },
+   "associacoes": [
+    {
+     "texto": "Pedro e Estêvão aplicam esta promessa a Jesus; em João, a multidão diz: \"este é verdadeiramente o profeta\".",
+     "refs": [
+      "atos 3:22-23",
+      "atos 7:37",
+      "joao 6:14"
+     ]
+    }
+   ],
+   "nota": "Leitores judeus entendem em geral uma sucessão de profetas; leitores cristãos veem também um cumprimento em Jesus."
+  },
+  {
+   "id": "c-falso-profeta-morre",
+   "grupo": "tribunais-governo",
+   "subgrupo": "profeta",
+   "titulo": "O falso profeta deve morrer",
+   "tipo": "positivo",
+   "texto": "O profeta que fala em nome do SENHOR o que ele não mandou, ou fala em nome de outros deuses, deve morrer. Também o profeta ou sonhador que, mesmo com sinal cumprido, chama para seguir outros deuses.",
+   "refs": [
+    "deuteronomio 18:20",
+    "deuteronomio 13:1-5"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "morte",
+    "descricao": "\"O tal profeta morrerá.\"",
+    "refs": [
+     "deuteronomio 18:20",
+     "deuteronomio 13:5"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Hananias anuncia em nome do SENHOR o fim do jugo babilônico em dois anos; Jeremias diz que o SENHOR não o enviou, e ele morre no mesmo ano.",
+     "refs": [
+      "jeremias 28:15-17"
+     ]
+    },
+    {
+     "descricao": "Jeremias é acusado de falso profeta e ameaçado de morte, mas os príncipes concluem: \"em nome do SENHOR ele nos falou\" e o poupam.",
+     "refs": [
+      "jeremias 26:8-16"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Jesus e 1 João alertam contra falsos profetas.",
+     "refs": [
+      "mateus 7:15",
+      "1-joao 4:1"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c-nao-ouvir-profeta-de-outros-deuses",
+   "grupo": "tribunais-governo",
+   "subgrupo": "profeta",
+   "titulo": "Não dar ouvidos ao profeta que chama a outros deuses",
+   "tipo": "negativo",
+   "texto": "Mesmo que o sinal ou prodígio anunciado aconteça, não se deve ouvir o profeta ou sonhador que diz \"vamos seguir outros deuses\": é uma prova de Deus.",
+   "refs": [
+    "deuteronomio 13:1-3"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Para quem ouve, não há pena fixada; o profeta é morto.",
+    "refs": [
+     "deuteronomio 13:5"
+    ]
+   },
+   "motivo": "\"O SENHOR vosso Deus vos prova, para saber se amais ao SENHOR\" (Dt 13:3).",
+   "nota": "As leis contra a idolatria em geral estão em outro grupo deste estudo."
+  },
+  {
+   "id": "c-teste-do-profeta",
+   "grupo": "tribunais-governo",
+   "subgrupo": "profeta",
+   "titulo": "Não temer o profeta cuja palavra não se cumpre",
+   "tipo": "negativo",
+   "texto": "Se o profeta fala em nome do SENHOR e o que disse não acontece, é palavra que o SENHOR não falou; \"não tenhas medo dele\".",
+   "refs": [
+    "deuteronomio 18:21-22"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena para o ouvinte."
+   },
+   "associacoes": [
+    {
+     "texto": "Jeremias aplica o critério: o profeta que anuncia paz só é reconhecido quando a palavra se cumpre.",
+     "refs": [
+      "jeremias 28:9"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c-nao-temer-na-guerra",
+   "grupo": "tribunais-governo",
+   "subgrupo": "guerra",
+   "titulo": "Não temer o inimigo na guerra",
+   "tipo": "negativo",
+   "texto": "Diante de cavalos, carros e um povo maior, Israel não deve ter medo, porque o SENHOR está com ele.",
+   "refs": [
+    "deuteronomio 20:1",
+    "deuteronomio 20:3"
+   ],
+   "paralelos": [
+    "deuteronomio 7:21",
+    "deuteronomio 3:22"
+   ],
+   "quem": "soldados",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "motivo": "\"O SENHOR teu Deus é contigo, o qual te tirou da terra do Egito\" (Dt 20:1)."
+  },
+  {
+   "id": "c-sacerdote-fala-antes-da-batalha",
+   "grupo": "tribunais-governo",
+   "subgrupo": "guerra",
+   "titulo": "O sacerdote encoraja o povo antes da batalha",
+   "tipo": "positivo",
+   "texto": "Antes do combate, o sacerdote se adianta e diz: \"Ouve, Israel... não temais... o SENHOR vosso Deus anda convosco\".",
+   "refs": [
+    "deuteronomio 20:2-4"
+   ],
+   "paralelos": [],
+   "quem": "sacerdote",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Sotá 8:1 (o \"sacerdote ungido para a guerra\"; tradição posterior)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "c-tocar-trombetas-na-guerra",
+   "grupo": "tribunais-governo",
+   "subgrupo": "guerra",
+   "titulo": "Tocar as trombetas ao sair contra o inimigo",
+   "tipo": "positivo",
+   "texto": "Quando o inimigo oprime Israel em sua terra, os sacerdotes tocam alarme com as trombetas de prata, \"e sereis em memória diante do SENHOR\".",
+   "refs": [
+    "numeros 10:9"
+   ],
+   "paralelos": [],
+   "quem": "sacerdotes",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "casos": [
+    {
+     "descricao": "Na guerra contra Midiã, o sacerdote Fineias leva as trombetas de alarme.",
+     "refs": [
+      "numeros 31:6"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c-isencoes-militares",
+   "grupo": "tribunais-governo",
+   "subgrupo": "guerra",
+   "titulo": "Dispensar da guerra quem tem casa, vinha ou noiva, e o medroso",
+   "tipo": "positivo",
+   "texto": "Os oficiais mandam voltar para casa quem construiu casa nova e não a inaugurou, quem plantou vinha e ainda não a aproveitou, quem está noivo e não se casou, e quem está com medo, \"para que não derreta o coração de seus irmãos\".",
+   "refs": [
+    "deuteronomio 20:5-8"
+   ],
+   "paralelos": [],
+   "quem": "oficiais do exército",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "casos": [
+    {
+     "descricao": "Gideão manda voltar os que têm medo, e 22.000 homens vão embora.",
+     "refs": [
+      "juizes 7:3"
+     ]
+    }
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Sotá 8:7 (as isenções valem só para guerras \"opcionais\", não para a guerra \"obrigatória\"; tradição posterior)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "c-recem-casado-isento",
+   "grupo": "tribunais-governo",
+   "subgrupo": "guerra",
+   "titulo": "O recém-casado fica um ano livre da guerra",
+   "tipo": "positivo",
+   "texto": "Quem acabou de se casar não sai à guerra nem recebe outro encargo público: fica livre em casa por um ano, \"para alegrar a sua mulher\".",
+   "refs": [
+    "deuteronomio 24:5"
+   ],
+   "paralelos": [],
+   "quem": "homens recém-casados",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   }
+  },
+  {
+   "id": "c-oferecer-paz",
+   "grupo": "tribunais-governo",
+   "subgrupo": "guerra",
+   "titulo": "Oferecer a paz antes de atacar uma cidade",
+   "tipo": "positivo",
+   "texto": "Ao chegar diante de uma cidade distante, Israel deve primeiro oferecer-lhe a paz. Se ela aceitar e abrir as portas, o povo fica sujeito a trabalho e tributo; se recusar e houver cerco, os homens armados são mortos, e mulheres, crianças, animais e bens são tomados.",
+   "refs": [
+    "deuteronomio 20:10-15"
+   ],
+   "paralelos": [],
+   "quem": "o exército",
+   "condicao": "cidades \"muito longe\", que não são das nações de Canaã",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena para Israel; regras de guerra."
+   },
+   "casos": [
+    {
+     "descricao": "Os gibeonitas, que eram de Canaã, se fingem de povo distante e obtêm um tratado de paz; descoberto o engano, Israel mantém o juramento e os põe como lenhadores e carregadores de água.",
+     "refs": [
+      "josue 9:3-27"
+     ]
+    }
+   ],
+   "nota": "Texto duro, de guerra antiga; leitores de todas as tradições perguntam como ele se relaciona com outros textos bíblicos sobre a paz."
+  },
+  {
+   "id": "c-nao-cortar-arvores-frutiferas",
+   "grupo": "tribunais-governo",
+   "subgrupo": "guerra",
+   "titulo": "Não cortar as árvores frutíferas no cerco",
+   "tipo": "negativo",
+   "texto": "No cerco a uma cidade não se derrubam as árvores que dão fruto: \"porque dele comerás... a árvore do campo não é homem\". Árvores que não dão fruto podem ser cortadas para as obras de cerco.",
+   "refs": [
+    "deuteronomio 20:19-20"
+   ],
+   "paralelos": [],
+   "quem": "o exército",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "casos": [
+    {
+     "descricao": "Na guerra contra Moabe, Eliseu anuncia e Israel executa a derrubada de \"toda boa árvore\", em contraste com esta lei (o texto não comenta a diferença).",
+     "refs": [
+      "2-reis 3:19",
+      "2-reis 3:25"
+     ]
+    }
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Talmude Babilônico",
+     "referencia": "Shabat 129a e Kidushin 32a (ba'al tashchit: proibição geral de destruir sem necessidade, ampliada a partir deste texto; tradição posterior)",
+     "data": "c. séc. V-VI d.C."
+    }
+   ]
+  },
+  {
+   "id": "c-mulher-cativa",
+   "grupo": "tribunais-governo",
+   "subgrupo": "guerra",
+   "titulo": "A mulher tomada como cativa",
+   "tipo": "positivo",
+   "texto": "O soldado que deseja casar com uma cativa deve levá-la para casa, onde ela rapa a cabeça, corta as unhas, troca a roupa de cativa e chora pai e mãe durante um mês; só depois ele pode tomá-la por esposa.",
+   "refs": [
+    "deuteronomio 21:10-13"
+   ],
+   "paralelos": [],
+   "quem": "soldados",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "nota": "Lei que limita a violência de guerra comum na época; hoje é um dos textos que mais levantam perguntas éticas para os leitores."
+  },
+  {
+   "id": "c-nao-vender-cativa",
+   "grupo": "tribunais-governo",
+   "subgrupo": "guerra",
+   "titulo": "Não vender nem escravizar a cativa despedida",
+   "tipo": "negativo",
+   "texto": "Se depois ele não a quiser, deve deixá-la livre para ir aonde quiser; não pode vendê-la nem tratá-la como escrava, \"porquanto a afligiste\".",
+   "refs": [
+    "deuteronomio 21:14"
+   ],
+   "paralelos": [],
+   "quem": "soldados",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   }
+  },
+  {
+   "id": "c-dividir-despojos",
+   "grupo": "tribunais-governo",
+   "subgrupo": "guerra",
+   "titulo": "Repartir o despojo entre combatentes e o povo",
+   "tipo": "positivo",
+   "texto": "Depois da guerra contra Midiã, o despojo é contado e dividido ao meio entre os que lutaram e toda a congregação, separando-se uma parte para o SENHOR (para o sacerdote e os levitas).",
+   "refs": [
+    "numeros 31:25-30"
+   ],
+   "paralelos": [],
+   "quem": "Moisés, Eleazar e os chefes",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "casos": [
+    {
+     "descricao": "Davi decide que os que ficaram guardando a bagagem recebem a mesma parte dos que lutaram, \"e desde aquele dia... foi isto posto por lei e ordenança em Israel\".",
+     "refs": [
+      "1-samuel 30:24-25"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "c-purificar-soldados",
+   "grupo": "tribunais-governo",
+   "subgrupo": "guerra",
+   "titulo": "Purificar soldados e objetos depois da batalha",
+   "tipo": "positivo",
+   "texto": "Quem matou ou tocou um morto na guerra fica fora do acampamento sete dias e se purifica no terceiro e no sétimo dia, com os cativos; roupas e objetos também são purificados (os de metal pelo fogo, os demais pela água).",
+   "refs": [
+    "numeros 31:19-24"
+   ],
+   "paralelos": [],
+   "quem": "soldados",
+   "sancao": {
+    "tipo": "impureza",
+    "descricao": "Impureza de sete dias e purificação.",
+    "refs": [
+     "numeros 31:19"
+    ]
+   }
+  },
+  {
+   "id": "c-acampamento-santo-impuro-sai",
+   "grupo": "tribunais-governo",
+   "subgrupo": "guerra",
+   "titulo": "No acampamento de guerra, o impuro sai até a tarde",
+   "tipo": "positivo",
+   "texto": "Na campanha militar Israel deve evitar \"toda coisa má\"; quem ficou impuro por emissão noturna sai do acampamento, lava-se à tarde e volta ao pôr do sol.",
+   "refs": [
+    "deuteronomio 23:9-11"
+   ],
+   "paralelos": [],
+   "quem": "soldados",
+   "sancao": {
+    "tipo": "impureza",
+    "descricao": "Impureza até a tarde.",
+    "refs": [
+     "deuteronomio 23:11"
+    ]
+   }
+  },
+  {
+   "id": "c-latrina-fora-do-acampamento",
+   "grupo": "tribunais-governo",
+   "subgrupo": "guerra",
+   "titulo": "Ter um lugar fora do acampamento e cobrir os excrementos",
+   "tipo": "positivo",
+   "texto": "Deve haver um lugar fora do acampamento para as necessidades, e cada um leva uma pá (estaca) entre seus apetrechos para cavar e cobrir os excrementos.",
+   "refs": [
+    "deuteronomio 23:12-13"
+   ],
+   "paralelos": [],
+   "quem": "soldados",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "motivo": "\"Porque o SENHOR teu Deus anda por meio de teu acampamento... portanto será teu acampamento santo\" (Dt 23:14)."
+  },
+  {
+   "id": "c-destruir-nacoes-de-canaa",
+   "grupo": "tribunais-governo",
+   "subgrupo": "nacoes",
+   "titulo": "Destruir as sete nações de Canaã",
+   "tipo": "positivo",
+   "texto": "Das cidades das nações que habitavam a terra prometida (heteus, amorreus, cananeus, perizeus, heveus, jebuseus e, em Dt 7, gergeseus), Israel deve destruir tudo, sem deixar ninguém com vida (hérem), e destruir seus altares e imagens.",
+   "refs": [
+    "deuteronomio 20:16-18",
+    "deuteronomio 7:1-2"
+   ],
+   "paralelos": [
+    "deuteronomio 7:5",
+    "numeros 33:52-53",
+    "exodo 23:31"
+   ],
+   "quem": "Israel na conquista",
+   "condicao": "só na conquista de Canaã",
+   "sancao": {
+    "tipo": "divina",
+    "descricao": "Se Israel não expulsar os moradores, eles serão \"aguilhões em vossos olhos\", e o que Deus pensou fazer a eles fará a Israel.",
+    "refs": [
+     "numeros 33:55-56"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Acã viola o hérem de Jericó e é executado.",
+     "refs": [
+      "josue 7:1",
+      "josue 7:24-26"
+     ]
+    },
+    {
+     "descricao": "Juízes registra que várias tribos não expulsaram os cananeus.",
+     "refs": [
+      "juizes 1:27-33"
+     ]
+    }
+   ],
+   "motivo": "\"Para que não vos ensinem a fazer segundo todas suas abominações\" (Dt 20:18).",
+   "nota": "É um dos textos mais difíceis da Bíblia. Há leituras diferentes: juízo de Deus limitado àquele momento; linguagem de guerra exagerada, comum no antigo Oriente; ou uma ordem que se lê em tensão com outros textos (Rute, Raabe, os gibeonitas). O próprio Antigo Testamento mostra que a ordem não foi cumprida de modo literal e completo."
+  },
+  {
+   "id": "c-nao-poupar-cananeus",
+   "grupo": "tribunais-governo",
+   "subgrupo": "nacoes",
+   "titulo": "Não deixar com vida os moradores das cidades de Canaã",
+   "tipo": "negativo",
+   "texto": "\"Nenhuma pessoa deixarás com vida\"; \"não as pouparás\".",
+   "refs": [
+    "deuteronomio 20:16",
+    "deuteronomio 7:2"
+   ],
+   "paralelos": [],
+   "quem": "Israel na conquista",
+   "condicao": "só na conquista de Canaã",
+   "sancao": {
+    "tipo": "divina",
+    "descricao": "Os que ficarem serão laço e espinho para Israel.",
+    "refs": [
+     "numeros 33:55"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Raabe e sua família são poupadas em Jericó por terem escondido os espias.",
+     "refs": [
+      "josue 6:25"
+     ]
+    }
+   ],
+   "nota": "Ver a nota do item anterior."
+  },
+  {
+   "id": "c-nao-fazer-alianca-com-cananeus",
+   "grupo": "tribunais-governo",
+   "subgrupo": "nacoes",
+   "titulo": "Não fazer aliança com os povos de Canaã nem com seus deuses",
+   "tipo": "negativo",
+   "texto": "Israel não deve fazer aliança com os moradores da terra nem com seus deuses, nem se aparentar com eles por casamento, nem deixá-los habitar na terra, para não ser levado a servir outros deuses.",
+   "refs": [
+    "exodo 23:32-33",
+    "deuteronomio 7:2-4"
+   ],
+   "paralelos": [
+    "exodo 34:12-16"
+   ],
+   "quem": "Israel",
+   "sancao": {
+    "tipo": "divina",
+    "descricao": "\"O furor do SENHOR se acenderá sobre vós, e te destruirá logo\".",
+    "refs": [
+     "deuteronomio 7:4"
+    ]
+   },
+   "casos": [
+    {
+     "descricao": "Josué faz aliança com os gibeonitas sem consultar o SENHOR; o juramento é mantido, e séculos depois Saul é culpado por quebrá-lo.",
+     "refs": [
+      "josue 9:14-15",
+      "2-samuel 21:1-2"
+     ]
+    },
+    {
+     "descricao": "Esdras lidera a separação dos casamentos com mulheres \"dos povos da terra\".",
+     "refs": [
+      "esdras 9:1-2",
+      "esdras 10:1-17"
+     ]
+    }
+   ],
+   "motivo": "\"Porque te será de tropeço\" (Êx 23:33).",
+   "nota": "As leis de casamento em geral estão em outro grupo deste estudo."
+  },
+  {
+   "id": "c-lembrar-amaleque",
+   "grupo": "tribunais-governo",
+   "subgrupo": "nacoes",
+   "titulo": "Lembrar o que Amaleque fez",
+   "tipo": "positivo",
+   "texto": "Israel deve lembrar que Amaleque atacou pelas costas os fracos e cansados na saída do Egito, \"e não temeu a Deus\".",
+   "refs": [
+    "deuteronomio 25:17-18"
+   ],
+   "paralelos": [
+    "exodo 17:8-16"
+   ],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "motivo": "Atacou \"os fracos que iam detrás de ti, quando tu estavas cansado e exausto\" (Dt 25:18)."
+  },
+  {
+   "id": "c-apagar-amaleque",
+   "grupo": "tribunais-governo",
+   "subgrupo": "nacoes",
+   "titulo": "Apagar a memória de Amaleque",
+   "tipo": "positivo",
+   "texto": "Quando Israel tiver descanso dos inimigos na terra, deve apagar a memória de Amaleque de debaixo do céu.",
+   "refs": [
+    "deuteronomio 25:19"
+   ],
+   "paralelos": [
+    "exodo 17:14"
+   ],
+   "quem": "todo Israel",
+   "condicao": "depois de Israel ter descanso na terra",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada no texto da lei; ver o caso de Saul."
+   },
+   "casos": [
+    {
+     "descricao": "Saul recebe ordem de destruir Amaleque, mas poupa o rei Agague e o melhor do gado; Samuel diz que \"o obedecer é melhor que os sacrifícios\" e que Deus o rejeitou como rei.",
+     "refs": [
+      "1-samuel 15:2-3",
+      "1-samuel 15:9",
+      "1-samuel 15:22-23"
+     ]
+    }
+   ],
+   "associacoes": [
+    {
+     "texto": "Hamã, inimigo dos judeus em Ester, é chamado \"agagita\", ligando-o à linhagem de Agague.",
+     "refs": [
+      "ester 3:1"
+     ]
+    }
+   ],
+   "nota": "Ver a nota sobre o hérem em \"Destruir as sete nações de Canaã\"."
+  },
+  {
+   "id": "c-nao-esquecer-amaleque",
+   "grupo": "tribunais-governo",
+   "subgrupo": "nacoes",
+   "titulo": "Não esquecer Amaleque",
+   "tipo": "negativo",
+   "texto": "\"Não te esqueças.\"",
+   "refs": [
+    "deuteronomio 25:19"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   }
+  },
+  {
+   "id": "c-nao-buscar-paz-de-amom-e-moabe",
+   "grupo": "tribunais-governo",
+   "subgrupo": "nacoes",
+   "titulo": "Não buscar a paz e o bem de amonitas e moabitas",
+   "tipo": "negativo",
+   "texto": "Amonitas e moabitas não entram na congregação do SENHOR, e Israel não deve buscar a paz e o bem deles para sempre, porque não ofereceram pão e água no caminho e contrataram Balaão para amaldiçoar Israel.",
+   "refs": [
+    "deuteronomio 23:3-6"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "casos": [
+    {
+     "descricao": "Neemias lê esta lei e o povo separa \"toda mistura\".",
+     "refs": [
+      "neemias 13:1-3"
+     ]
+    }
+   ],
+   "nota": "O livro de Rute, em que uma moabita entra no povo e é bisavó de Davi, é lido por muitos em diálogo com esta lei. A admissão na congregação é tratada em outro grupo deste estudo.",
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Yevamot 8:3 (\"amonita, não amonita\": a proibição só valeria para homens; tradição rabínica)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "c-nao-abominar-edomita-egipcio",
+   "grupo": "tribunais-governo",
+   "subgrupo": "nacoes",
+   "titulo": "Não abominar o edomita nem o egípcio",
+   "tipo": "negativo",
+   "texto": "O edomita não deve ser rejeitado, porque é irmão (descendente de Esaú); nem o egípcio, porque Israel foi estrangeiro em sua terra. Seus filhos entram na congregação na terceira geração.",
+   "refs": [
+    "deuteronomio 23:7-8"
+   ],
+   "paralelos": [],
+   "quem": "todo Israel",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "motivo": "\"Que teu irmão é... que estrangeiro foste em sua terra\" (Dt 23:7)."
+  },
+  {
+   "id": "c-nao-atacar-edom-moabe-amom",
+   "grupo": "tribunais-governo",
+   "subgrupo": "nacoes",
+   "titulo": "Não atacar Edom, Moabe e Amom no caminho",
+   "tipo": "negativo",
+   "texto": "Na marcha pelo deserto, Israel não deve guerrear contra Edom, Moabe e Amom, porque Deus deu a terra deles como herança a Esaú e aos filhos de Ló.",
+   "refs": [
+    "deuteronomio 2:4-5",
+    "deuteronomio 2:9",
+    "deuteronomio 2:19"
+   ],
+   "paralelos": [],
+   "quem": "Israel no caminho para Canaã",
+   "condicao": "durante a marcha do deserto",
+   "sancao": {
+    "tipo": "nenhuma-declarada",
+    "descricao": "Sem pena declarada."
+   },
+   "casos": [
+    {
+     "descricao": "Edom recusa passagem a Israel, e Israel desvia-se dele sem lutar.",
+     "refs": [
+      "numeros 20:14-21"
+     ]
+    }
+   ],
+   "nota": "Mostra que a conquista era limitada a um território definido, não um direito geral sobre os vizinhos."
+  }
+ ],
+ "casos": [
+  {
+   "id": "caso-blasfemo",
+   "titulo": "O filho da israelita que blasfemou",
+   "descricao": "Numa briga no acampamento, o filho de uma israelita da tribo de Dã com um egípcio pronuncia o Nome e amaldiçoa. Ele é preso até que o SENHOR declare a sentença.",
+   "lei": "blasfêmia (Lv 24:15-16); a ocasião serve também para promulgar que a mesma lei vale para o natural e o estrangeiro, e para repetir as leis de homicídio e lesão (Lv 24:17-22)",
+   "sentenca": "Levado para fora do acampamento; as testemunhas põem as mãos sobre sua cabeça e a congregação o apedreja.",
+   "refs": [
+    "levitico 24:10-23"
+   ]
+  },
+  {
+   "id": "caso-homem-do-sabado",
+   "titulo": "O homem que recolhia lenha no sábado",
+   "descricao": "No deserto, um homem é encontrado juntando lenha no sábado. Levado a Moisés, Arão e à congregação, fica detido \"porque não estava declarado o que lhe haviam de fazer\".",
+   "lei": "guardar o sábado (Êx 31:14-15; 35:2-3)",
+   "sentenca": "Por ordem do SENHOR, é apedrejado fora do acampamento.",
+   "refs": [
+    "numeros 15:32-36"
+   ]
+  },
+  {
+   "id": "caso-filhas-de-zelofeade",
+   "titulo": "As filhas de Zelofeade",
+   "descricao": "Zelofeade morre sem filhos homens. Suas cinco filhas, Maalá, Noa, Hogla, Milca e Tirza, pedem a Moisés a herança do pai. Moisés leva a causa ao SENHOR.",
+   "lei": "herança da terra (Nm 27:8-11); depois, o casamento dentro da tribo para a terra não mudar de tribo (Nm 36)",
+   "sentenca": "\"Bem dizem as filhas de Zelofeade\": recebem a herança, e a decisão vira lei geral. Mais tarde fica decidido que devem casar dentro da tribo de Manassés.",
+   "refs": [
+    "numeros 27:1-11",
+    "numeros 36:1-12",
+    "josue 17:3-6"
+   ]
+  },
+  {
+   "id": "caso-aca",
+   "titulo": "Acã e o anátema de Jericó",
+   "descricao": "Depois da queda de Jericó, Israel é derrotado em Ai. Por sorteio, a culpa recai sobre Acã, que confessa ter escondido um manto, prata e uma barra de ouro do que fora consagrado ao SENHOR.",
+   "lei": "hérem: o que é consagrado à destruição não pode ser tomado (Js 6:18; Dt 7:26)",
+   "sentenca": "Acã, sua família, seus animais e seus bens são levados ao vale de Acor, apedrejados e queimados.",
+   "refs": [
+    "josue 7:1-26"
+   ],
+   "nota": "A morte da família de Acã contrasta com Dt 24:16 (cada um morre pelo próprio pecado); intérpretes discutem se ela era cúmplice ou se o caso do hérem seguia outra lógica."
+  },
+  {
+   "id": "caso-nadabe-e-abiu",
+   "titulo": "Nadabe e Abiú",
+   "descricao": "Os filhos de Arão oferecem diante do SENHOR \"fogo estranho, que ele nunca lhes mandou\".",
+   "lei": "normas do culto e do sacerdócio",
+   "sentenca": "Sai fogo de diante do SENHOR e os consome; Moisés proíbe Arão e os outros filhos de fazerem luto público. Logo depois vem a proibição de vinho aos sacerdotes em serviço.",
+   "refs": [
+    "levitico 10:1-11"
+   ]
+  },
+  {
+   "id": "caso-core",
+   "titulo": "A rebelião de Coré, Datã e Abirão",
+   "descricao": "O levita Coré, com Datã, Abirão e 250 chefes, contesta a autoridade de Moisés e o sacerdócio de Arão. Moisés propõe que o SENHOR mostre quem escolheu.",
+   "lei": "o sacerdócio reservado a Arão; autoridade de Moisés",
+   "sentenca": "A terra se abre e engole Datã, Abirão e os seus; fogo consome os 250 que ofereciam incenso. Os incensários viram revestimento do altar, como lembrança.",
+   "refs": [
+    "numeros 16:1-40"
+   ]
+  },
+  {
+   "id": "caso-tamar-e-juda",
+   "titulo": "Tamar e Judá",
+   "descricao": "Tamar, viúva sem filhos, não recebe o terceiro filho de Judá como marido. Disfarçada, engravida do próprio sogro. Informado de que a nora está grávida, Judá manda queimá-la.",
+   "lei": "costume do levirato (depois regulado em Dt 25:5-10); pena por imoralidade (anterior à lei do Sinai)",
+   "sentenca": "Tamar mostra o anel, o cordão e o cajado de Judá. Ele reconhece: \"Mais justa é que eu\", e a sentença é suspensa.",
+   "refs": [
+    "genesis 38:6-26"
+   ]
+  },
+  {
+   "id": "caso-rute-e-boaz",
+   "titulo": "Rute e Boaz: o resgate à porta da cidade",
+   "descricao": "Boaz reúne à porta de Belém o parente mais próximo de Elimeleque e dez anciãos. O parente quer resgatar o campo, mas desiste ao saber que deve também casar com Rute, a moabita viúva, para dar descendência ao morto.",
+   "lei": "resgate da terra (Lv 25:25) e casamento do levirato (Dt 25:5-10)",
+   "sentenca": "O parente tira a sandália como sinal; Boaz adquire o campo e casa com Rute diante das testemunhas. O filho deles, Obede, é avô de Davi.",
+   "refs": [
+    "rute 4:1-17"
+   ]
+  },
+  {
+   "id": "caso-davi-e-nata",
+   "titulo": "Davi, Bate-Seba e a sentença de Natã",
+   "descricao": "Davi adultera com Bate-Seba e manda matar seu marido Urias. O profeta Natã conta-lhe a parábola do rico que tomou a única cordeira do pobre.",
+   "lei": "adultério e homicídio; restituição quádrupla da ovelha (Êx 22:1)",
+   "sentenca": "Indignado, Davi sentencia o rico à morte e à restituição \"com quatro tantos\". Natã responde: \"Tu és este homem\". Davi confessa e é perdoado, mas anunciam-se a morte do filho e a espada em sua casa.",
+   "refs": [
+    "2-samuel 12:1-14"
+   ]
+  },
+  {
+   "id": "caso-nabote",
+   "titulo": "Nabote e o julgamento falso",
+   "descricao": "Nabote se recusa a vender ao rei Acabe a vinha herdada dos pais. Jezabel escreve aos anciãos de Jezreel mandando convocar um jejum e pôr dois homens perversos para acusá-lo de blasfemar \"a Deus e ao rei\".",
+   "lei": "duas testemunhas (Dt 17:6), não dar falso testemunho, não cobiçar, terra herdada (Lv 25:23)",
+   "sentenca": "Nabote é apedrejado fora da cidade e Acabe toma a vinha. Elias anuncia: \"no lugar onde os cães lamberam o sangue de Nabote, os cães lamberão também o teu sangue\".",
+   "refs": [
+    "1-reis 21:1-24"
+   ]
+  },
+  {
+   "id": "caso-salomao-duas-mulheres",
+   "titulo": "Salomão e as duas mulheres",
+   "descricao": "Duas mulheres que moram na mesma casa disputam um bebê vivo; o filho de uma morreu durante a noite. Não há testemunhas.",
+   "lei": "julgar com justiça (Dt 16:18-20)",
+   "sentenca": "Salomão manda trazer uma espada para dividir o menino. A verdadeira mãe prefere entregá-lo à outra para que viva, e o rei lhe dá o filho.",
+   "refs": [
+    "1-reis 3:16-28"
+   ]
+  },
+  {
+   "id": "caso-absalao-juiz",
+   "titulo": "Absalão, juiz à porta",
+   "descricao": "Absalão se põe à beira do caminho que leva à porta da cidade, intercepta quem vem pedir justiça ao rei e diz: \"não tens quem te ouça pelo rei... quem me dera ser juiz na terra\".",
+   "lei": "juízes e acesso à justiça (Dt 16:18; 17:8-9)",
+   "sentenca": "Não há sentença: Absalão \"furtava o coração dos homens de Israel\" e prepara a revolta contra Davi.",
+   "refs": [
+    "2-samuel 15:1-6"
+   ]
+  },
+  {
+   "id": "caso-uza",
+   "titulo": "Uzá e a arca",
+   "descricao": "Quando a arca é levada num carro novo, os bois tropeçam e Uzá estende a mão para segurá-la.",
+   "lei": "a arca devia ser carregada pelos levitas, com varas, sem ser tocada (Nm 4:15; Êx 25:14)",
+   "sentenca": "Uzá morre ali. Mais tarde Davi reconhece que \"não o buscamos conforme o mandamento\", e os levitas levam a arca nos ombros.",
+   "refs": [
+    "2-samuel 6:6-7",
+    "1-cronicas 15:13-15"
+   ]
+  },
+  {
+   "id": "caso-gibeonitas",
+   "titulo": "Os gibeonitas e a casa de Saul",
+   "descricao": "Há três anos de fome no tempo de Davi. O SENHOR diz que é por causa do sangue dos gibeonitas, mortos por Saul apesar do juramento feito por Josué. Os gibeonitas recusam ouro e pedem sete descendentes de Saul.",
+   "lei": "culpa de sangue que contamina a terra (Nm 35:33); juramento de aliança (Js 9:15)",
+   "sentenca": "Os sete são executados e expostos; Rispa vigia os corpos; Davi sepulta os ossos de Saul e Jônatas, \"e Deus se aplacou com a terra\".",
+   "refs": [
+    "2-samuel 21:1-14"
+   ],
+   "nota": "O caso levanta perguntas sobre a responsabilidade de descendentes (compare Dt 24:16) e sobre a exposição dos corpos (Dt 21:23)."
+  },
+  {
+   "id": "caso-joabe-no-altar",
+   "titulo": "Joabe agarrado ao altar",
+   "descricao": "Joabe, que havia matado Abner e Amasa em tempo de paz, foge para a tenda do SENHOR e se agarra às pontas do altar.",
+   "lei": "o homicida intencional deve ser tirado até do altar (Êx 21:14)",
+   "sentenca": "Salomão manda Benaia executá-lo ali, \"para tirar de mim e da casa de meu pai o sangue que Joabe derramou injustamente\".",
+   "refs": [
+    "1-reis 2:28-34"
+   ]
+  },
+  {
+   "id": "caso-mulher-de-tecoa",
+   "titulo": "A mulher de Tecoa e o vingador do sangue",
+   "descricao": "A pedido de Joabe, uma mulher conta a Davi que um de seus dois filhos matou o outro numa briga e que o clã exige a morte do sobrevivente, o que apagaria o nome do marido.",
+   "lei": "vingador do sangue (Nm 35:19)",
+   "sentenca": "Davi jura que o vingador não tocará no filho; a mulher então revela que a história se aplica a Absalão, exilado por ter matado Amnom.",
+   "refs": [
+    "2-samuel 14:1-21"
+   ]
+  },
+  {
+   "id": "caso-jeremias-julgado",
+   "titulo": "Jeremias acusado de falso profeta",
+   "descricao": "Jeremias anuncia no templo que Jerusalém poderia ficar como Siló. Sacerdotes e profetas o prendem e pedem sua morte.",
+   "lei": "falso profeta (Dt 18:20)",
+   "sentenca": "Os príncipes e o povo concluem que \"em nome do SENHOR nosso Deus ele nos falou\"; anciãos lembram o precedente de Miqueias. Jeremias é protegido por Aicã.",
+   "refs": [
+    "jeremias 26:7-24"
+   ]
+  },
+  {
+   "id": "caso-servos-de-zedequias",
+   "titulo": "A libertação dos servos revogada",
+   "descricao": "Durante o cerco babilônico, o rei Zedequias e o povo fazem pacto de libertar os servos hebreus; depois voltam atrás e os escravizam de novo.",
+   "lei": "libertação do servo hebreu no sétimo ano (Êx 21:2; Dt 15:12)",
+   "sentenca": "Jeremias anuncia: \"eu vos proclamo liberdade... para a espada, para a pestilência e para a fome\".",
+   "refs": [
+    "jeremias 34:8-22"
+   ]
+  },
+  {
+   "id": "caso-esdras-casamentos",
+   "titulo": "Esdras e os casamentos mistos",
+   "descricao": "Depois da volta do exílio, Esdras sabe que muitos, inclusive sacerdotes e levitas, se casaram com mulheres dos povos da terra. Ele ora e chora; o povo propõe um pacto.",
+   "lei": "não se aparentar com os povos de Canaã (Dt 7:3; Êx 34:16)",
+   "sentenca": "Uma assembleia em Jerusalém, sob chuva, decide; uma comissão examina os casos durante três meses e lista os homens que despediram suas mulheres.",
+   "refs": [
+    "esdras 9:1-4",
+    "esdras 10:1-44"
+   ],
+   "nota": "Leitores de diferentes tradições avaliam este episódio de modos variados, também em diálogo com o livro de Rute."
+  },
+  {
+   "id": "caso-neemias-juros",
+   "titulo": "Neemias e os juros",
+   "descricao": "Na fome, pobres de Judá penhoram campos e casas e entregam filhos como servos para pagar dívidas e impostos aos próprios irmãos judeus.",
+   "lei": "não cobrar juros do irmão (Êx 22:25; Lv 25:36-37), resgate dos irmãos vendidos",
+   "sentenca": "Neemias convoca uma assembleia, os nobres juram devolver as terras e a \"centésima parte\" cobrada, e Neemias sacode a roupa como sinal de maldição para quem descumprir; o povo responde \"Amém\".",
+   "refs": [
+    "neemias 5:1-13"
+   ]
+  },
+  {
+   "id": "caso-jesus-sinedrio",
+   "titulo": "Jesus diante do sinédrio",
+   "descricao": "Os chefes dos sacerdotes e o conselho procuram testemunho contra Jesus; muitos depõem falsamente, mas os depoimentos não concordam. O sumo sacerdote pergunta se ele é o Cristo, e Jesus responde: \"Eu sou\".",
+   "lei": "duas ou três testemunhas (Dt 19:15); blasfêmia (Lv 24:16)",
+   "sentenca": "O sumo sacerdote rasga as vestes e todos o declaram \"culpado de morte\"; a execução é pedida a Pilatos.",
+   "refs": [
+    "marcos 14:53-65",
+    "mateus 26:57-68"
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Mixná",
+     "referencia": "Sinédrio 4:1 e 5:1-5 (regras rabínicas para causas capitais, como não julgar à noite; sua vigência no séc. I é discutida pelos estudiosos)",
+     "data": "c. 200 d.C."
+    }
+   ]
+  },
+  {
+   "id": "caso-mulher-adultera",
+   "titulo": "A mulher apanhada em adultério",
+   "descricao": "Escribas e fariseus levam a Jesus uma mulher \"tomada em adultério\" e lembram que a lei manda apedrejar. Jesus escreve no chão e diz: \"aquele que está sem pecado seja o primeiro que atire pedra\".",
+   "lei": "adultério (Lv 20:10; Dt 22:22-24); a mão das testemunhas é a primeira (Dt 17:7)",
+   "sentenca": "Os acusadores saem um a um; Jesus diz: \"nem eu também te condeno; vai, e não peques mais\".",
+   "refs": [
+    "joao 7:53",
+    "joao 8:1-11"
+   ],
+   "nota": "Este trecho (Jo 7:53-8:11) não aparece nos manuscritos gregos mais antigos de João e, em alguns, aparece em outro lugar; muitas bíblias o marcam entre colchetes. Igrejas o recebem de formas diferentes, mas em geral o consideram um relato antigo sobre Jesus.",
+   "fonte_extra": [
+    {
+     "fonte": "Papiros 66 e 75; Códices Sinaítico e Vaticano",
+     "referencia": "manuscritos gregos de João que não trazem Jo 7:53-8:11",
+     "data": "c. séc. III-IV d.C."
+    }
+   ]
+  },
+  {
+   "id": "caso-estevao",
+   "titulo": "Estêvão diante do conselho",
+   "descricao": "Homens subornados dizem ter ouvido Estêvão falar contra Moisés e contra Deus; testemunhas falsas o acusam de falar contra o templo e a lei. Ele faz um longo discurso sobre a história de Israel.",
+   "lei": "falso testemunho (Êx 20:16); blasfêmia (Lv 24:16)",
+   "sentenca": "Sem sentença formal registrada, é arrastado para fora da cidade e apedrejado; as testemunhas deixam as roupas aos pés de Saulo.",
+   "refs": [
+    "atos 6:8-15",
+    "atos 7:54-60"
+   ]
+  },
+  {
+   "id": "caso-paulo-festo",
+   "titulo": "Paulo diante de Festo",
+   "descricao": "Acusado pelos líderes de Jerusalém, Paulo afirma não ter pecado contra a lei, o templo nem César. Festo, para agradar os judeus, propõe julgá-lo em Jerusalém.",
+   "lei": "direito romano de apelação; acusação de violar a lei e o templo",
+   "sentenca": "Paulo apela a César, e Festo decide: \"a César irás\". Depois, com Agripa, conclui que Paulo nada fez digno de morte.",
+   "refs": [
+    "atos 25:1-12",
+    "atos 26:30-32"
+   ],
+   "nota": "Julgamento romano, não segundo a Torá; mostra a convivência entre as duas jurisdições no séc. I."
+  },
+  {
+   "id": "caso-filhos-de-samuel",
+   "titulo": "Os filhos de Samuel, juízes corruptos",
+   "descricao": "Samuel, já velho, põe os filhos Joel e Abias como juízes em Berseba, mas eles buscam lucro, recebem suborno e pervertem o direito.",
+   "lei": "não aceitar suborno (Êx 23:8; Dt 16:19)",
+   "sentenca": "Não há processo contra eles; os anciãos pedem a Samuel um rei \"como todas as nações\".",
+   "refs": [
+    "1-samuel 8:1-5"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,204 @@
+{
+ "livro": "lamentacoes",
+ "nome": "Lamentações",
+ "subtitulo": "Esperança no meio das ruínas",
+ "introducao": "Lamentações reúne cinco poemas de luto pela destruição de Jerusalém pelos babilônios em 586 a.C. O livro não esconde a dor, a fome e a vergonha, e reconhece que o pecado do povo levou à catástrofe. No centro dele, porém, brilha a confiança de que as misericórdias do SENHOR se renovam a cada manhã.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Anônimo; a tradição judaica e cristã atribui a Jeremias"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Pouco depois da queda de Jerusalém, em 586 a.C."
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Provavelmente em Judá, diante das ruínas de Jerusalém"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Poesia de lamento; os capítulos 1 a 4 são acrósticos, seguindo o alfabeto hebraico"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "5 capítulos e 154 versículos"
+  }
+ ],
+ "chave": "3:22-23",
+ "temas": [
+  "O luto honesto diante de Deus",
+  "As consequências do pecado",
+  "A justiça de Deus no juízo",
+  "A fidelidade e as misericórdias que não acabam",
+  "Oração por restauração"
+ ],
+ "cristo": "Lamentações ensina a levar a dor a Deus e a esperar sua misericórdia. Os cristãos veem em Jesus, que chorou sobre Jerusalém e sofreu por seu povo, a expressão mais clara dessa misericórdia que se renova e da restauração pela qual o livro ora (3:22-23, 5:21).",
+ "secoes": [
+  {
+   "id": "cidade-em-luto",
+   "titulo": "A cidade em luto",
+   "capitulos": [
+    1,
+    2
+   ],
+   "resumo": "Jerusalém chora sua ruína e reconhece a ira de Deus."
+  },
+  {
+   "id": "esperanca-no-centro",
+   "titulo": "Esperança no centro",
+   "capitulos": [
+    3
+   ],
+   "resumo": "Do fundo do sofrimento nasce a confiança na fidelidade de Deus."
+  },
+  {
+   "id": "antes-e-depois",
+   "titulo": "O antes e o depois",
+   "capitulos": [
+    4
+   ],
+   "resumo": "O contraste entre a glória passada e a miséria do cerco."
+  },
+  {
+   "id": "oracao-final",
+   "titulo": "Oração final",
+   "capitulos": [
+    5
+   ],
+   "resumo": "O povo pede que Deus se lembre dele e o restaure."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "A cidade solitária",
+   "chave": "1:12",
+   "resumo": "Poema de lamento em forma acróstica: Jerusalém é retratada como uma viúva que chora à noite, abandonada pelos amigos e sem consolador. O poeta reconhece que a ruína veio por causa dos muitos pecados da cidade. Na segunda parte, a própria Jerusalém fala, pede que Deus veja sua dor e confessa: \"O SENHOR é justo\".",
+   "licoes": [
+    "A Bíblia dá voz à dor do luto e da perda, sem esconder o sofrimento (1:2, 1:16).",
+    "O pecado tem consequências reais para uma comunidade inteira (1:5, 1:8).",
+    "Reconhecer a justiça de Deus é parte do caminho de volta (1:18).",
+    "Podemos pedir que Deus olhe para nossa aflição (1:9, 1:20)."
+   ],
+   "reflexao": "Você já levou a Deus uma dor sem tentar disfarçá-la?",
+   "quiz": [
+    {
+     "pergunta": "A que Jerusalém é comparada no início do poema?",
+     "opcoes": [
+      "A uma rainha",
+      "A uma viúva",
+      "A uma noiva",
+      "A uma árvore"
+     ],
+     "correta": 1,
+     "ref": "1:1"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "O Senhor como inimigo",
+   "chave": "2:19",
+   "resumo": "O segundo lamento descreve a destruição como obra da ira de Deus: muros, palácios, altar e santuário foram derrubados. O poeta chora ao ver crianças desfalecendo de fome nas ruas e denuncia os profetas que anunciaram ilusões em vez de expor o pecado. Ele chama Sião a derramar o coração diante do Senhor em oração.",
+   "licoes": [
+    "O juízo cumpriu o que Deus havia avisado desde muito tempo (2:17).",
+    "Profetas que escondem o pecado do povo contribuem para sua ruína (2:14).",
+    "Na dor extrema, o caminho é derramar o coração diante de Deus (2:19).",
+    "O sofrimento dos inocentes, sobretudo das crianças, comove o poeta e deve nos comover (2:11-12)."
+   ],
+   "reflexao": "Por quem você precisa levantar as mãos a Deus em oração hoje?",
+   "quiz": [
+    {
+     "pergunta": "O que os profetas de Jerusalém deixaram de fazer?",
+     "opcoes": [
+      "Oferecer sacrifícios",
+      "Escrever livros",
+      "Expor a maldade do povo",
+      "Ir à Babilônia"
+     ],
+     "correta": 2,
+     "ref": "2:14"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Grande é a tua fidelidade",
+   "chave": "3:22-23",
+   "resumo": "No poema central, um homem descreve em primeira pessoa o sofrimento que sentiu sob a vara de Deus, até achar que sua esperança tinha acabado. Então ele se lembra de algo: as misericórdias do SENHOR não têm fim e se renovam a cada manhã. O poema chama a esperar em silêncio, examinar os caminhos, voltar a Deus e confiar que ele ouve o clamor.",
+   "licoes": [
+    "A esperança nasce quando decidimos lembrar quem Deus é (3:21-23).",
+    "As misericórdias de Deus são novas a cada manhã (3:23).",
+    "É bom esperar com calma a salvação do SENHOR (3:25-26).",
+    "Deus não aflige por prazer e não rejeita para sempre (3:31-33)."
+   ],
+   "reflexao": "Que verdade sobre Deus você precisa trazer à memória nesta manhã?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o poema, quando as misericórdias do SENHOR se renovam?",
+     "opcoes": [
+      "Uma vez por ano",
+      "A cada manhã",
+      "No sábado",
+      "Só no templo"
+     ],
+     "correta": 1,
+     "ref": "3:23"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "O ouro escurecido",
+   "chave": "4:1",
+   "resumo": "O quarto lamento contrasta o passado glorioso de Sião com a miséria do cerco: o ouro perdeu o brilho, crianças pedem pão, nobres reviram o lixo e mães chegam a cozinhar os filhos. A culpa é atribuída também aos profetas e sacerdotes que derramaram sangue inocente. No fim, há uma palavra de esperança: o castigo de Sião terminou, e Edom também será julgado.",
+   "licoes": [
+    "Os privilégios do passado não protegem quem abandona a Deus (4:1-2, 4:5).",
+    "Líderes religiosos corruptos têm grande responsabilidade na ruína de um povo (4:13).",
+    "Esperar socorro de nações humanas foi em vão (4:17).",
+    "O castigo tem fim, e Deus não deixará o mal sem resposta (4:22)."
+   ],
+   "reflexao": "Em que você tem esperado socorro que não pode salvar?",
+   "quiz": [
+    {
+     "pergunta": "Por causa de quem, segundo o poema, veio a ruína de Jerusalém?",
+     "opcoes": [
+      "Dos reis do Egito",
+      "Dos agricultores",
+      "Dos pecados de seus profetas e sacerdotes",
+      "Dos estrangeiros"
+     ],
+     "correta": 2,
+     "ref": "4:13"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "Converte-nos, SENHOR",
+   "chave": "5:21",
+   "resumo": "O último poema é uma oração coletiva: o povo pede que Deus se lembre de sua humilhação. Descreve casas tomadas por estrangeiros, órfãos, fome, trabalho forçado e alegria transformada em luto, e confessa: \"ai de nós, porque pecamos\". O livro termina afirmando o trono eterno de Deus e pedindo: \"Converte-nos, SENHOR, a ti\".",
+   "licoes": [
+    "Podemos pedir a Deus que se lembre de nós e veja nossa situação (5:1).",
+    "Confessar o pecado com honestidade abre espaço para a restauração (5:16).",
+    "Mesmo quando tudo cai, o trono de Deus permanece para sempre (5:19).",
+    "A verdadeira renovação começa quando Deus nos converte a ele (5:21)."
+   ],
+   "reflexao": "Que parte da sua vida precisa ser \"renovada como antes\" por Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que o povo pede a Deus perto do fim do livro?",
+     "opcoes": [
+      "Que os converta a ele",
+      "Riquezas",
+      "Vingança imediata",
+      "Um novo rei"
+     ],
+     "correta": 0,
+     "ref": "5:21"
+    }
+   ]
+  }
+ ]
+}

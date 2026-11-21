@@ -1,0 +1,384 @@
+{
+ "livro": "daniel",
+ "nome": "Daniel",
+ "subtitulo": "Fiéis no exílio, confiantes no Reino de Deus",
+ "introducao": "Daniel conta a história de jovens judeus levados para a Babilônia que permanecem fiéis a Deus no centro do império, enfrentando a fornalha e a cova dos leões. Na segunda parte, Daniel recebe visões sobre reinos que se levantam e caem ao longo da história. A mensagem que une o livro é clara: o Altíssimo governa sobre os reinos humanos, e seu Reino durará para sempre.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Tradicionalmente atribuído a Daniel, que fala em primeira pessoa nas visões (7:1-2); muitos estudiosos modernos datam a redação final no século II a.C."
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Os fatos vão do 3º ano de Jeoaquim (cerca de 605 a.C.) ao 3º ano de Ciro (cerca de 536 a.C.) (1:1, 10:1); a data de composição é debatida"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Babilônia, na corte dos reis babilônios e persas"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Narrativas (capítulos 1 a 6) e visões apocalípticas (capítulos 7 a 12); parte do livro foi escrita em aramaico"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "12 capítulos e 357 versículos"
+  }
+ ],
+ "chave": "2:44",
+ "temas": [
+  "Deus governa sobre os reinos humanos",
+  "Fidelidade em meio a uma cultura hostil",
+  "Oração perseverante",
+  "Humildade e o perigo do orgulho",
+  "O Reino eterno e a ressurreição"
+ ],
+ "cristo": "Jesus se refere a si mesmo como o \"Filho do Homem\" e fala de vir \"com as nuvens do céu\", retomando a visão de Daniel em que alguém como um filho do homem recebe um reino eterno (7:13-14). A pedra que destrói a estátua e se torna um grande monte é vista pelos cristãos como imagem do Reino de Deus que Jesus anunciou (2:44-45).",
+ "secoes": [
+  {
+   "id": "historias-fe",
+   "titulo": "Histórias de fé na Babilônia",
+   "capitulos": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "resumo": "Daniel e seus amigos permanecem fiéis, e Deus se mostra soberano sobre os reis."
+  },
+  {
+   "id": "visoes-reinos",
+   "titulo": "Visões dos reinos",
+   "capitulos": [
+    7,
+    8,
+    9
+   ],
+   "resumo": "Animais, chifres e setenta semanas mostram os reinos humanos sob o governo de Deus."
+  },
+  {
+   "id": "visao-final",
+   "titulo": "A visão final",
+   "capitulos": [
+    10,
+    11,
+    12
+   ],
+   "resumo": "Conflitos futuros, a firmeza dos fiéis e a esperança da ressurreição."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Fiéis na corte da Babilônia",
+   "chave": "1:8",
+   "resumo": "No tempo de Jeoaquim, Nabucodonosor leva a Babilônia jovens da nobreza de Judá para serem treinados no palácio. Daniel, Ananias, Misael e Azarias recebem nomes babilônios, mas Daniel decide não se contaminar com a comida e o vinho do rei. Depois de um teste de dez dias com legumes e água, eles estão mais saudáveis, e Deus lhes dá sabedoria dez vezes maior que a dos sábios do reino.",
+   "licoes": [
+    "É possível ser fiel a Deus mesmo num ambiente estranho à fé (1:8).",
+    "Firmeza não precisa ser grosseira: Daniel propõe uma alternativa com respeito (1:12-13).",
+    "Deus dá favor e sabedoria aos que o honram (1:9, 1:17)."
+   ],
+   "reflexao": "Que \"porção do rei\" você precisa recusar para permanecer fiel a Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que Daniel e seus amigos pediram para comer durante o teste?",
+     "opcoes": [
+      "Pão e mel",
+      "Legumes e água",
+      "Carne e vinho",
+      "Frutas e leite"
+     ],
+     "correta": 1,
+     "ref": "1:12"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "O sonho da grande estátua",
+   "chave": "2:44",
+   "resumo": "Nabucodonosor tem um sonho perturbador e exige que os sábios digam o sonho e sua interpretação, sob pena de morte. Daniel pede tempo, ora com os amigos, e Deus lhe revela o mistério. A estátua de ouro, prata, bronze, ferro e barro representa reinos sucessivos, e uma pedra cortada sem mãos a destrói e se torna um grande monte: o reino de Deus, que nunca será destruído.",
+   "licoes": [
+    "Diante do impossível, Daniel busca a Deus em oração com seus amigos (2:17-18).",
+    "Deus muda os tempos, tira e estabelece reis e revela os mistérios (2:21-22).",
+    "Daniel dá a glória a Deus, e não à própria sabedoria (2:28, 2:30).",
+    "Todos os reinos humanos passam, mas o reino de Deus permanece para sempre (2:44)."
+   ],
+   "reflexao": "Você busca a Deus primeiro quando enfrenta um problema impossível?",
+   "quiz": [
+    {
+     "pergunta": "De que material era a cabeça da estátua?",
+     "opcoes": [
+      "Prata",
+      "Bronze",
+      "Ouro puro",
+      "Ferro"
+     ],
+     "correta": 2,
+     "ref": "2:32"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "A fornalha ardente",
+   "chave": "3:17-18",
+   "resumo": "Nabucodonosor ergue uma estátua de ouro e ordena que todos a adorem ao som dos instrumentos, sob pena de fornalha. Sadraque, Mesaque e Abednego se recusam e dizem que Deus pode livrá-los, \"e se não\", mesmo assim não adorarão a estátua. Eles são lançados no fogo, mas o rei vê quatro homens andando soltos no meio das chamas, e eles saem sem nenhum dano.",
+   "licoes": [
+    "A fidelidade a Deus pode exigir dizer \"não\" às pressões de todos ao redor (3:12, 3:18).",
+    "A fé confia no poder de Deus, mas obedece mesmo sem garantia de livramento (3:17-18).",
+    "Deus está com os seus no meio do fogo (3:25).",
+    "O testemunho fiel pode levar até um rei a reconhecer o Deus verdadeiro (3:28)."
+   ],
+   "reflexao": "Você continuaria fiel a Deus mesmo \"se não\" viesse o livramento que espera?",
+   "quiz": [
+    {
+     "pergunta": "Quantos homens o rei viu andando no meio do fogo?",
+     "opcoes": [
+      "Dois",
+      "Três",
+      "Quatro",
+      "Sete"
+     ],
+     "correta": 2,
+     "ref": "3:25"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "O rei que comeu erva como boi",
+   "chave": "4:37",
+   "resumo": "O próprio Nabucodonosor conta, em forma de proclamação, que sonhou com uma árvore enorme que foi cortada, restando apenas o tronco. Daniel interpreta: o rei perderia o juízo e viveria como animal por \"sete tempos\" até reconhecer que o Altíssimo domina os reinos, e o aconselha a deixar seus pecados praticando justiça com os pobres. Um ano depois, ao se gloriar da \"grande Babilônia\", o rei é humilhado; quando ergue os olhos ao céu, recupera o entendimento e louva a Deus.",
+   "licoes": [
+    "O Altíssimo tem domínio sobre os reinos humanos e os dá a quem quer (4:17).",
+    "O arrependimento se mostra em justiça e misericórdia com os pobres (4:27).",
+    "O orgulho que atribui a si mesmo toda a glória leva à queda (4:30-31).",
+    "Deus é capaz de humilhar os que andam com soberba e também de restaurá-los (4:34, 4:37)."
+   ],
+   "reflexao": "Em que você costuma dizer \"eu edifiquei\" em vez de reconhecer a mão de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Com que o rei foi alimentado durante os sete tempos?",
+     "opcoes": [
+      "Erva, como os bois",
+      "Pão e vinho",
+      "Mel silvestre",
+      "Carne crua"
+     ],
+     "correta": 0,
+     "ref": "4:33"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "A escrita na parede",
+   "chave": "5:27",
+   "resumo": "O rei Belsazar dá um grande banquete e usa os vasos de ouro tirados do templo de Jerusalém para beber e louvar deuses de ouro e de pedra. Uma mão escreve na parede, e só Daniel consegue interpretar: MENE, TEQUEL, PERES — o reino foi contado, pesado e achado em falta, e dividido entre medos e persas. Naquela mesma noite, Belsazar é morto e Dario, o medo, recebe o reino.",
+   "licoes": [
+    "Tratar com desprezo o que é santo é uma afronta a Deus (5:2-4, 5:23).",
+    "Conhecer a lição de outros e não se humilhar agrava a culpa (5:22).",
+    "Daniel não se deixa comprar por presentes e fala a verdade (5:17).",
+    "Toda vida é pesada na balança de Deus (5:27)."
+   ],
+   "reflexao": "Se sua vida fosse pesada hoje na balança de Deus, o que você gostaria de mudar?",
+   "quiz": [
+    {
+     "pergunta": "O que significa TEQUEL, segundo Daniel?",
+     "opcoes": [
+      "Contou Deus o teu reino",
+      "Dividido foi teu reino",
+      "Pesado foste na balança, e foste achado em falta",
+      "Deus te dará vitória"
+     ],
+     "correta": 2,
+     "ref": "5:27"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "Daniel na cova dos leões",
+   "chave": "6:10",
+   "resumo": "Sob o rei Dario, Daniel se destaca tanto que outros oficiais procuram uma acusação contra ele, mas só encontram sua fidelidade a Deus. Eles convencem o rei a proibir qualquer oração que não seja dirigida a ele por trinta dias. Daniel continua orando três vezes ao dia com as janelas abertas para Jerusalém, é lançado na cova dos leões, e Deus envia seu anjo para fechar a boca dos leões.",
+   "licoes": [
+    "Uma vida íntegra deixa os acusadores sem motivos, a não ser a fé (6:4-5).",
+    "Daniel mantém seu hábito de oração mesmo sob ameaça (6:10).",
+    "Deus é capaz de livrar quem confia nele (6:22-23).",
+    "O testemunho de Daniel leva o rei a proclamar o Deus vivo, cujo reino não será destruído (6:26-27)."
+   ],
+   "reflexao": "Seu hábito de oração continuaria firme se fosse proibido?",
+   "quiz": [
+    {
+     "pergunta": "Quantas vezes por dia Daniel orava?",
+     "opcoes": [
+      "Uma",
+      "Duas",
+      "Três",
+      "Sete"
+     ],
+     "correta": 2,
+     "ref": "6:10"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "Os quatro animais e o Filho do Homem",
+   "chave": "7:13-14",
+   "resumo": "No primeiro ano de Belsazar, Daniel vê quatro animais subindo do mar: um leão com asas de águia, um urso, um leopardo com quatro asas e um quarto animal terrível com dentes de ferro e dez chifres, entre os quais surge um chifre pequeno arrogante. Então o Ancião de dias se assenta para julgar, e alguém \"como um filho do homem\" vem com as nuvens e recebe um reino eterno. Os animais são reis; o chifre persegue os santos por um tempo, mas o reino será dado ao povo dos santos do Altíssimo. As interpretações sobre quais impérios os animais representam variam entre os estudiosos.",
+   "licoes": [
+    "Os poderes humanos podem parecer feras, mas estão sob o juízo de Deus (7:9-11).",
+    "O Filho do Homem recebe um domínio eterno sobre todos os povos (7:13-14).",
+    "A perseguição contra os santos tem prazo determinado (7:25-26).",
+    "No fim, o reino pertence ao povo dos santos do Altíssimo (7:18, 7:27)."
+   ],
+   "reflexao": "Como a visão do reino eterno de Deus muda sua maneira de ver as notícias do mundo?",
+   "quiz": [
+    {
+     "pergunta": "Como era o primeiro animal que Daniel viu?",
+     "opcoes": [
+      "Como um urso",
+      "Como um leão com asas de águia",
+      "Como um leopardo",
+      "Como um carneiro"
+     ],
+     "correta": 1,
+     "ref": "7:4"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "O carneiro e o bode",
+   "chave": "8:19",
+   "resumo": "No terceiro ano de Belsazar, Daniel vê um carneiro de dois chifres que domina tudo, até ser derrubado por um bode com um grande chifre que vem do ocidente. O chifre se quebra, dão lugar a quatro, e de um deles sai um chifre pequeno que se exalta, faz cessar o sacrifício contínuo e profana o santuário. O anjo Gabriel explica que o carneiro são os reis da Média e da Pérsia e o bode é o rei da Grécia; muitos estudiosos relacionam o chifre pequeno a Antíoco IV Epífanes.",
+   "licoes": [
+    "Deus revela o curso da história antes que ela aconteça (8:19-21).",
+    "O poder que se exalta contra Deus e contra a verdade terá fim (8:12, 8:25).",
+    "Deus estabelece um limite para a profanação do santuário (8:13-14).",
+    "Diante de visões difíceis, Daniel busca entendimento e continua cumprindo seus deveres (8:15, 8:27)."
+   ],
+   "reflexao": "Quando não entende tudo o que Deus está fazendo, você continua fiel nas tarefas do dia a dia?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Gabriel, quem o carneiro de dois chifres representa?",
+     "opcoes": [
+      "Os reis da Grécia",
+      "O Egito",
+      "Os reis da Média e da Pérsia",
+      "A Babilônia"
+     ],
+     "correta": 2,
+     "ref": "8:20"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "A oração de Daniel e as setenta semanas",
+   "chave": "9:19",
+   "resumo": "Lendo o livro de Jeremias, Daniel entende que a desolação de Jerusalém duraria setenta anos. Ele ora com jejum, confessando os pecados de todo o povo e apelando à misericórdia de Deus, e não aos méritos de Israel. Gabriel vem durante a oração e revela as \"setenta semanas\", que levarão ao fim do pecado e à vinda de um Ungido (Messias) que será \"cortado\". Esta profecia recebe interpretações bem diferentes entre judeus e cristãos e entre os próprios cristãos.",
+   "licoes": [
+    "A leitura das Escrituras leva Daniel à oração (9:2-3).",
+    "A confissão verdadeira reconhece o pecado coletivo e a justiça de Deus (9:5, 9:7).",
+    "Pedimos a Deus com base em sua misericórdia, e não em nossas justiças (9:18).",
+    "Deus responde à oração e revela seu plano para acabar com o pecado e trazer justiça eterna (9:23-24)."
+   ],
+   "reflexao": "Como a leitura da Bíblia tem influenciado suas orações?",
+   "quiz": [
+    {
+     "pergunta": "De que profeta Daniel leu sobre os setenta anos?",
+     "opcoes": [
+      "Isaías",
+      "Jeremias",
+      "Ezequiel",
+      "Oseias"
+     ],
+     "correta": 1,
+     "ref": "9:2"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "titulo": "O mensageiro junto ao Tigre",
+   "chave": "10:12",
+   "resumo": "No terceiro ano de Ciro, depois de três semanas de luto e jejum, Daniel vê junto ao rio Tigre um homem vestido de linho, de aparência gloriosa, e fica sem forças. O mensageiro o toca, o fortalece e explica que sua oração foi ouvida desde o primeiro dia, mas que o príncipe do reino da Pérsia lhe resistiu até Miguel vir ajudar. Ele veio para revelar o que acontecerá ao povo de Daniel nos últimos dias.",
+   "licoes": [
+    "Deus ouve a oração humilde desde o primeiro dia, mesmo quando a resposta parece demorar (10:12).",
+    "Há uma realidade espiritual por trás dos acontecimentos da história (10:13, 10:20).",
+    "Deus fortalece quem está sem forças: \"Não temas... sê forte!\" (10:18-19)."
+   ],
+   "reflexao": "Que oração sua parece sem resposta, e como este capítulo o encoraja a perseverar?",
+   "quiz": [
+    {
+     "pergunta": "Quantas semanas Daniel passou de luto e jejum?",
+     "opcoes": [
+      "Uma",
+      "Duas",
+      "Três",
+      "Sete"
+     ],
+     "correta": 2,
+     "ref": "10:2"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "titulo": "Os reis do norte e do sul",
+   "chave": "11:32",
+   "resumo": "O mensageiro descreve em detalhes uma longa série de conflitos: reis da Pérsia, um rei poderoso cujo reino é dividido em quatro, e as guerras entre os \"reis do norte\" e os \"reis do sul\". Surge um rei desprezível que toma o poder com enganos, se volta contra a aliança santa, profana o santuário e coloca a \"abominação assoladora\". Muitos estudiosos veem aqui a história dos selêucidas e ptolomeus até Antíoco IV; parte dos intérpretes entende os versículos finais como referência a um opressor futuro.",
+   "licoes": [
+    "Deus conhece a história em seus detalhes, inclusive as intrigas dos poderosos (11:2-4).",
+    "O povo que conhece a seu Deus se mantém firme e age com coragem (11:32).",
+    "Os sábios ensinam a muitos, mesmo pagando um preço alto (11:33).",
+    "O sofrimento pode refinar e purificar os fiéis até o tempo determinado (11:35)."
+   ],
+   "reflexao": "O que significa para você \"conhecer a seu Deus\" e permanecer firme?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o capítulo, o que fará o povo que conhece a seu Deus?",
+     "opcoes": [
+      "Fugirá para o Egito",
+      "Fará aliança com o rei",
+      "Ficará em silêncio",
+      "Com força resistirá"
+     ],
+     "correta": 3,
+     "ref": "11:32"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "titulo": "A ressurreição e o fim dos tempos",
+   "chave": "12:2-3",
+   "resumo": "Num tempo de angústia sem igual, Miguel se levantará, e o povo de Deus inscrito no livro será livrado. Muitos que dormem no pó ressuscitarão, uns para a vida eterna e outros para a vergonha eterna, e os sábios brilharão como estrelas. Daniel pergunta quando tudo isso acontecerá e não recebe todas as respostas, mas ouve que deve seguir seu caminho, pois descansará e se levantará para receber sua herança no fim dos dias.",
+   "licoes": [
+    "Daniel contém uma das afirmações mais claras do Antigo Testamento sobre a ressurreição (12:2).",
+    "Quem conduz muitos à justiça brilhará como as estrelas para sempre (12:3).",
+    "Nem tudo sobre o futuro nos é revelado; somos chamados a confiar e perseverar (12:8-9).",
+    "A promessa final a Daniel é descanso e ressurreição para sua herança (12:13)."
+   ],
+   "reflexao": "Como a esperança da ressurreição muda a forma como você vive hoje?",
+   "quiz": [
+    {
+     "pergunta": "O que acontecerá com os que conduzem muitos à justiça?",
+     "opcoes": [
+      "Brilharão como as estrelas para sempre",
+      "Serão reis",
+      "Ficarão ricos",
+      "Nunca morrerão"
+     ],
+     "correta": 0,
+     "ref": "12:3"
+    }
+   ]
+  }
+ ]
+}

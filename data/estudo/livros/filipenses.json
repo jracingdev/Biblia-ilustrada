@@ -1,0 +1,181 @@
+{
+ "livro": "filipenses",
+ "nome": "Filipenses",
+ "subtitulo": "A alegria de viver para Cristo",
+ "introducao": "Escrita na prisão, Filipenses é uma carta de amizade e gratidão a uma igreja muito querida por Paulo. Mesmo acorrentado, ele fala de alegria, de contentamento e do avanço do evangelho. No centro está o exemplo de Cristo, que se humilhou até a cruz e foi exaltado por Deus.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Paulo, com Timóteo (1:1)"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "A maioria data por volta de 60–62 d.C.; alguns pensam numa prisão anterior, em Éfeso"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Escrita na prisão (1:13); tradicionalmente em Roma (4:22)"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "A igreja de Filipos, na Macedônia, fundada por Paulo (1:1)"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Carta"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "4 capítulos e 104 versículos"
+  }
+ ],
+ "chave": "1:21",
+ "temas": [
+  "Alegria no Senhor em qualquer circunstância",
+  "A humildade de Cristo como modelo",
+  "Unidade e parceria no evangelho",
+  "Conhecer a Cristo acima de tudo",
+  "Contentamento e paz"
+ ],
+ "cristo": "O coração da carta é o hino a Cristo, que se esvaziou, morreu na cruz e foi exaltado como Senhor (2:6-11). Para Paulo, conhecer a Cristo e ser achado nele vale mais que tudo (3:8-9).",
+ "secoes": [
+  {
+   "id": "alegria-prisao",
+   "titulo": "Alegria na prisão",
+   "capitulos": [
+    1
+   ],
+   "resumo": "Gratidão, o avanço do evangelho e viver para Cristo."
+  },
+  {
+   "id": "humildade",
+   "titulo": "A mente de Cristo",
+   "capitulos": [
+    2
+   ],
+   "resumo": "O exemplo de Jesus e de seus servos."
+  },
+  {
+   "id": "alvo",
+   "titulo": "O valor de conhecer a Cristo",
+   "capitulos": [
+    3
+   ],
+   "resumo": "Tudo é perda diante de Cristo; prosseguir para o alvo."
+  },
+  {
+   "id": "paz",
+   "titulo": "Alegria, paz e contentamento",
+   "capitulos": [
+    4
+   ],
+   "resumo": "Exortações finais e gratidão pela oferta."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Para mim o viver é Cristo",
+   "chave": "1:21",
+   "resumo": "Paulo agradece com alegria pela parceria dos filipenses no evangelho e confia que Deus completará a boa obra começada neles. Preso, ele vê que suas correntes fizeram o evangelho avançar e encorajaram outros a pregar; alegra-se sempre que Cristo é anunciado. Dividido entre partir para estar com Cristo e continuar servindo, conclui que permanecerá e pede que vivam de modo digno do evangelho, unidos e sem medo.",
+   "licoes": [
+    "Deus termina a obra que começa em seus filhos (1:6).",
+    "Até a prisão de Paulo serviu para o avanço do evangelho (1:12-14).",
+    "Para Paulo, viver é Cristo e morrer é lucro (1:21).",
+    "Crer em Cristo e sofrer por ele são ambos dados como graça (1:29)."
+   ],
+   "reflexao": "Se alguém observasse sua vida, diria que para você o viver é Cristo?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Paulo, suas prisões se tornaram conhecidas por quem?",
+     "opcoes": [
+      "Pelos fariseus",
+      "Pelo rei Agripa",
+      "Pelo Sinédrio",
+      "Por toda a guarda pretoriana"
+     ],
+     "correta": 3,
+     "ref": "1:13"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "O exemplo de Cristo",
+   "chave": "2:5-8",
+   "resumo": "Paulo pede que os filipenses tenham o mesmo modo de pensar, sem egoísmo ou vaidade, considerando os outros superiores a si mesmos. O grande exemplo é Jesus, que, sendo em forma de Deus, esvaziou-se, tornou-se servo e foi obediente até a morte de cruz, e por isso Deus o exaltou acima de todo nome. Paulo os encoraja a brilhar como luzes no mundo e fala de Timóteo e Epafrodito, servos dedicados.",
+   "licoes": [
+    "A humildade leva a cuidar também dos interesses dos outros (2:3-4).",
+    "Cristo se esvaziou e se humilhou até a morte de cruz (2:6-8).",
+    "Deus exaltou Jesus, e toda língua confessará que ele é Senhor (2:9-11).",
+    "Deus opera em nós tanto o querer como o realizar (2:13)."
+   ],
+   "reflexao": "Em que relação você é chamado a ter o mesmo sentimento humilde de Cristo?",
+   "quiz": [
+    {
+     "pergunta": "Quem Paulo enviou aos filipenses depois de ter ficado doente quase à morte?",
+     "opcoes": [
+      "Epafrodito",
+      "Tíquico",
+      "Silas",
+      "Timóteo"
+     ],
+     "correta": 0,
+     "ref": "2:25-27"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Tudo por conhecer a Cristo",
+   "chave": "3:13-14",
+   "resumo": "Paulo alerta contra os que confiam em ritos como a circuncisão. Ele mesmo tinha muitos motivos para confiar em suas credenciais judaicas, mas considera tudo perda diante do valor de conhecer a Cristo e ter a justiça que vem pela fé. Sem se considerar perfeito, prossegue para o alvo, esquecendo o passado, e lembra que a cidadania dos cristãos está nos céus, de onde aguardam o Salvador.",
+   "licoes": [
+    "Credenciais religiosas e méritos pessoais não se comparam ao valor de conhecer a Cristo (3:7-8).",
+    "A justiça que vale vem de Deus, pela fé em Cristo, e não da Lei (3:9).",
+    "A vida cristã é uma corrida em que esquecemos o que ficou para trás e prosseguimos para o alvo (3:13-14).",
+    "Somos cidadãos dos céus e esperamos o Salvador, que transformará nosso corpo (3:20-21)."
+   ],
+   "reflexao": "O que ficou para trás que você precisa deixar para prosseguir na fé?",
+   "quiz": [
+    {
+     "pergunta": "De que tribo Paulo diz ser?",
+     "opcoes": [
+      "Levi",
+      "Benjamim",
+      "Efraim",
+      "Judá"
+     ],
+     "correta": 1,
+     "ref": "3:5"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Alegria, paz e contentamento",
+   "chave": "4:6-7",
+   "resumo": "Paulo pede que Evódia e Síntique se entendam no Senhor e exorta todos a se alegrarem sempre no Senhor. Em vez de ansiedade, devem apresentar tudo a Deus em oração com gratidão, e a paz de Deus guardará seus corações; também devem ocupar a mente com o que é verdadeiro, puro e amável. Ele agradece a oferta enviada por meio de Epafrodito, dizendo que aprendeu a contentar-se em qualquer situação e que tudo pode naquele que o fortalece.",
+   "licoes": [
+    "A alegria no Senhor é possível em qualquer circunstância (4:4).",
+    "A resposta à ansiedade é a oração com gratidão, que traz a paz de Deus (4:6-7).",
+    "Aquilo em que pensamos molda nossa vida (4:8).",
+    "O contentamento se aprende, e a força vem de Cristo (4:11-13)."
+   ],
+   "reflexao": "Que preocupação você precisa transformar em oração com gratidão hoje?",
+   "quiz": [
+    {
+     "pergunta": "Quais duas mulheres Paulo pede que tenham o mesmo sentimento no Senhor?",
+     "opcoes": [
+      "Trifena e Trifosa",
+      "Lídia e Priscila",
+      "Evódia e Síntique",
+      "Febe e Júnia"
+     ],
+     "correta": 2,
+     "ref": "4:2"
+    }
+   ]
+  }
+ ]
+}

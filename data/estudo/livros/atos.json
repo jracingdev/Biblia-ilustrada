@@ -1,0 +1,823 @@
+{
+ "livro": "atos",
+ "nome": "Atos",
+ "subtitulo": "O evangelho de Jerusalém até os confins da terra",
+ "introducao": "Atos continua o Evangelho de Lucas e narra como os discípulos, cheios do Espírito Santo, levaram a mensagem de Jesus de Jerusalém à Judeia, a Samaria e ao mundo gentio, até Roma. Mostra o nascimento da igreja, a conversão de Paulo e suas viagens missionárias. É a ponte entre os Evangelhos e as cartas do Novo Testamento.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Tradicionalmente atribuído a Lucas, médico e companheiro de Paulo, o mesmo autor do terceiro Evangelho (1:1)"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "A maioria data entre os anos 60 e 90 d.C.; alguns preferem pouco depois dos dois anos de Paulo em Roma (28:30)"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Jerusalém, Samaria, Antioquia, Ásia Menor, Grécia e Roma"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "Dirigido a Teófilo e, por meio dele, a cristãos de origem gentia (1:1)"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Narrativa histórica"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "28 capítulos e 1007 versículos"
+  }
+ ],
+ "chave": "1:8",
+ "temas": [
+  "O poder do Espírito Santo para testemunhar",
+  "A expansão do evangelho a todas as nações",
+  "A ressurreição de Jesus como centro da pregação",
+  "A vida em comunidade: ensino, comunhão, pão e oração",
+  "Perseverança na perseguição"
+ ],
+ "cristo": "Atos mostra Jesus ressuscitado e exaltado continuando sua obra por meio do Espírito e da igreja. Toda a pregação gira em torno de sua morte, ressurreição e do perdão oferecido em seu nome a judeus e gentios (2:36, 10:43).",
+ "secoes": [
+  {
+   "id": "jerusalem",
+   "titulo": "A igreja em Jerusalém",
+   "capitulos": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "resumo": "O Espírito vem, a igreja nasce e testemunha com ousadia, até a morte de Estêvão."
+  },
+  {
+   "id": "judeia-samaria",
+   "titulo": "Judeia e Samaria",
+   "capitulos": [
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "resumo": "O evangelho chega a Samaria, a um etíope, a Saulo e aos gentios da casa de Cornélio."
+  },
+  {
+   "id": "primeira-viagem",
+   "titulo": "Primeira viagem e concílio",
+   "capitulos": [
+    13,
+    14,
+    15
+   ],
+   "resumo": "Paulo e Barnabé levam o evangelho à Ásia Menor, e Jerusalém confirma a salvação pela graça."
+  },
+  {
+   "id": "segunda-terceira-viagens",
+   "titulo": "Segunda e terceira viagens",
+   "capitulos": [
+    16,
+    17,
+    18,
+    19,
+    20
+   ],
+   "resumo": "O evangelho chega à Macedônia, à Grécia e a Éfeso."
+  },
+  {
+   "id": "prisao-roma",
+   "titulo": "Prisão e caminho até Roma",
+   "capitulos": [
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+   ],
+   "resumo": "Paulo é preso, defende-se diante de autoridades e chega a Roma."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "A promessa e a ascensão",
+   "chave": "1:8",
+   "resumo": "Lucas retoma seu primeiro livro, dirigido a Teófilo: Jesus ressuscitado aparece aos apóstolos durante quarenta dias e lhes manda esperar em Jerusalém a promessa do Pai. Ele promete poder do Espírito Santo para que sejam suas testemunhas até o último lugar da terra e é elevado ao céu. Os discípulos perseveram em oração e escolhem Matias para o lugar de Judas.",
+   "licoes": [
+    "A missão da igreja nasce de uma promessa: o poder do Espírito para testemunhar de Jesus em círculos cada vez maiores (1:8).",
+    "Não cabe aos discípulos saber os tempos que o Pai fixou; cabe-lhes obedecer e testemunhar (1:7).",
+    "Antes de agir, a comunidade espera unida em oração, com as mulheres e com Maria, mãe de Jesus (1:14).",
+    "A escolha de Matias é feita com oração, pedindo que o Senhor, que conhece os corações, mostre sua escolha (1:24-26)."
+   ],
+   "reflexao": "Onde Deus está chamando você a ser testemunha de Jesus hoje?",
+   "quiz": [
+    {
+     "pergunta": "Por quantos dias Jesus apareceu aos apóstolos depois de sofrer?",
+     "opcoes": [
+      "Sete",
+      "Doze",
+      "Quarenta",
+      "Cinquenta"
+     ],
+     "correta": 2,
+     "ref": "1:3"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Pentecostes",
+   "chave": "2:38",
+   "resumo": "No dia de Pentecostes, o Espírito Santo vem com som de vento e línguas como de fogo, e os discípulos falam em outras línguas, entendidas por judeus de muitas nações. Pedro explica o fato com a profecia de Joel e anuncia que Jesus, crucificado, foi ressuscitado por Deus e feito Senhor e Cristo. Cerca de três mil pessoas se arrependem e são batizadas, e a nova comunidade vive em comunhão, oração e partilha.",
+   "licoes": [
+    "O Espírito é derramado sobre \"toda carne\", homens e mulheres, jovens e velhos, como Joel anunciou (2:17-18).",
+    "O centro da pregação é Jesus crucificado e ressuscitado, feito Senhor e Cristo (2:32, 2:36).",
+    "A resposta ao evangelho é arrependimento, batismo em nome de Jesus e o dom do Espírito (2:38).",
+    "A igreja nasce perseverando no ensino dos apóstolos, na comunhão, no partir do pão e nas orações (2:42)."
+   ],
+   "reflexao": "Qual das marcas da igreja de Atos 2 mais falta na sua vida com outros cristãos?",
+   "quiz": [
+    {
+     "pergunta": "Quantas pessoas foram acrescentadas à igreja no dia de Pentecostes?",
+     "opcoes": [
+      "Cerca de cento e vinte",
+      "Quase três mil",
+      "Cerca de cinco mil",
+      "Setenta"
+     ],
+     "correta": 1,
+     "ref": "2:41"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "O aleijado da Porta Formosa",
+   "chave": "3:6",
+   "resumo": "Pedro e João sobem ao Templo e encontram um homem aleijado de nascença pedindo esmola. Em nome de Jesus Cristo, o nazareno, Pedro o manda andar, e ele entra no Templo saltando e louvando a Deus. Diante do povo admirado, Pedro explica que a cura veio pela fé no nome de Jesus e chama todos ao arrependimento.",
+   "licoes": [
+    "Os apóstolos não tinham prata nem ouro, mas ofereceram algo maior: o poder do nome de Jesus (3:6).",
+    "Pedro recusa a glória para si; foi a fé no nome de Jesus que curou o homem (3:12, 3:16).",
+    "Mesmo quem rejeitou o \"Príncipe da vida\" é chamado ao arrependimento para que seus pecados sejam apagados (3:15, 3:19)."
+   ],
+   "reflexao": "O que você tem, mesmo sem recursos, que pode oferecer a alguém em nome de Jesus?",
+   "quiz": [
+    {
+     "pergunta": "Como se chamava a porta do Templo onde ficava o aleijado?",
+     "opcoes": [
+      "Porta das Ovelhas",
+      "Porta Dourada",
+      "Porta Formosa",
+      "Porta de Salomão"
+     ],
+     "correta": 2,
+     "ref": "3:2"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Ousadia diante do conselho",
+   "chave": "4:12",
+   "resumo": "Os líderes prendem Pedro e João por anunciarem a ressurreição em nome de Jesus, mas o número dos que creem chega a cerca de cinco mil homens. Diante do conselho, Pedro declara que não há salvação em nenhum outro nome. Ameaçados, os apóstolos voltam aos irmãos, oram por ousadia e são cheios do Espírito; a comunidade partilha seus bens, e Barnabé vende um campo.",
+   "licoes": [
+    "A salvação está somente em Jesus: \"nenhum outro nome há abaixo do céu\" (4:12).",
+    "Homens simples falaram com ousadia porque tinham estado com Jesus (4:13).",
+    "Quando há conflito entre ordens humanas e a vontade de Deus, é preciso obedecer a Deus (4:19-20).",
+    "Diante das ameaças, a igreja não pediu segurança, mas ousadia para falar (4:29-31)."
+   ],
+   "reflexao": "Que medo tem impedido você de falar do que viu e ouviu de Jesus?",
+   "quiz": [
+    {
+     "pergunta": "Que sobrenome os apóstolos deram a José, o levita de Chipre?",
+     "opcoes": [
+      "Justo",
+      "Silas",
+      "Barsabás",
+      "Barnabé"
+     ],
+     "correta": 3,
+     "ref": "4:36"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "Ananias, Safira e a obediência a Deus",
+   "chave": "5:29",
+   "resumo": "Ananias e Safira vendem um terreno, escondem parte do valor e fingem entregar tudo; ao mentirem ao Espírito Santo, ambos caem mortos, e grande temor vem sobre a igreja. Os apóstolos fazem muitos sinais, são presos e libertos por um anjo, e voltam a ensinar no Templo. Diante do conselho, declaram que é preciso obedecer a Deus; Gamaliel aconselha prudência, e eles saem açoitados, mas alegres.",
+   "licoes": [
+    "Deus leva a sério a hipocrisia: o pecado de Ananias não foi reter dinheiro, mas mentir a Deus (5:3-4).",
+    "A obediência a Deus vem antes da obediência às autoridades humanas quando elas se opõem (5:29).",
+    "Gamaliel lembra que uma obra que vem de Deus não pode ser desfeita por pessoas (5:38-39).",
+    "Os apóstolos se alegram por sofrer humilhação por causa do nome de Jesus (5:41)."
+   ],
+   "reflexao": "Há alguma área em que você mostra uma imagem diferente do que realmente é diante de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Que fariseu, mestre da Lei, aconselhou o conselho a deixar os apóstolos?",
+     "opcoes": [
+      "Gamaliel",
+      "Anás",
+      "Nicodemos",
+      "Caifás"
+     ],
+     "correta": 0,
+     "ref": "5:34"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "Os sete e Estêvão",
+   "chave": "6:3-4",
+   "resumo": "Com o crescimento da igreja, surge uma queixa de que as viúvas dos judeus de fala grega eram esquecidas na distribuição diária. Os apóstolos pedem que se escolham sete homens cheios do Espírito e de sabedoria para esse serviço, entre eles Estêvão. A palavra cresce, mas Estêvão é acusado falsamente de blasfêmia e levado ao conselho.",
+   "licoes": [
+    "Problemas práticos na igreja merecem atenção; a solução foi dividir as tarefas com sabedoria (6:2-4).",
+    "Até o serviço de mesas exige pessoas de bom testemunho, cheias do Espírito e de sabedoria (6:3).",
+    "Quando a igreja cuida bem dos necessitados, a palavra de Deus continua a crescer (6:7)."
+   ],
+   "reflexao": "Que serviço prático, mesmo pequeno, você poderia assumir na sua comunidade?",
+   "quiz": [
+    {
+     "pergunta": "Como os membros do conselho viram o rosto de Estêvão?",
+     "opcoes": [
+      "Pálido de medo",
+      "Como o rosto de um anjo",
+      "Coberto por um véu",
+      "Cheio de ira"
+     ],
+     "correta": 1,
+     "ref": "6:15"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "O discurso e a morte de Estêvão",
+   "chave": "7:59-60",
+   "resumo": "Estêvão responde às acusações recontando a história de Israel: Abraão, José, Moisés, o tabernáculo e o Templo. Ele mostra que Deus agiu fora da terra e do Templo e que o povo repetidamente resistiu aos enviados de Deus, como agora fizera com o Justo. Cheio do Espírito, vê Jesus à direita de Deus; é apedrejado e morre perdoando seus algozes, enquanto um jovem chamado Saulo guarda as roupas.",
+   "licoes": [
+    "Deus não está preso a um lugar: o Altíssimo não habita em templos feitos por mãos (7:48-49).",
+    "A história de Israel mostra um padrão de rejeição aos libertadores enviados por Deus, como José e Moisés (7:9, 7:35).",
+    "Estêvão morre como Jesus: entregando o espírito e pedindo perdão pelos que o matam (7:59-60)."
+   ],
+   "reflexao": "Você conseguiria orar pelo perdão de quem o feriu?",
+   "quiz": [
+    {
+     "pergunta": "Junto aos pés de quem as testemunhas deixaram as roupas?",
+     "opcoes": [
+      "Ananias",
+      "Gamaliel",
+      "Saulo",
+      "Pedro"
+     ],
+     "correta": 2,
+     "ref": "7:58"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "O evangelho em Samaria e o etíope",
+   "chave": "8:35",
+   "resumo": "Após a morte de Estêvão, uma grande perseguição espalha os cristãos, que anunciam a palavra por onde passam. Filipe prega em Samaria com sinais, muitos são batizados, e até o mágico Simão crê, mas depois tenta comprar o poder de dar o Espírito e é repreendido por Pedro. Guiado por um anjo, Filipe explica Isaías a um eunuco etíope, anuncia-lhe Jesus e o batiza.",
+   "licoes": [
+    "A perseguição, em vez de calar a igreja, espalhou o evangelho para além de Jerusalém (8:1, 8:4).",
+    "O dom de Deus não se compra; Simão precisava de arrependimento, não de mais poder (8:20-22).",
+    "Partindo das Escrituras, Filipe anunciou Jesus como o cordeiro de Isaías (8:32-35).",
+    "O evangelho alcança um estrangeiro, que segue seu caminho com alegria (8:39)."
+   ],
+   "reflexao": "Com quem você poderia abrir as Escrituras e conversar sobre Jesus?",
+   "quiz": [
+    {
+     "pergunta": "Que profeta o eunuco etíope estava lendo?",
+     "opcoes": [
+      "Daniel",
+      "Ezequiel",
+      "Jeremias",
+      "Isaías"
+     ],
+     "correta": 3,
+     "ref": "8:28"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "A conversão de Saulo",
+   "chave": "9:15",
+   "resumo": "Saulo vai a Damasco para prender os seguidores do Caminho, mas Jesus lhe aparece numa luz do céu e pergunta por que ele o persegue. Cego por três dias, ele é visitado por Ananias, volta a ver, é batizado e logo prega que Jesus é o Filho de Deus. Barnabé o apresenta aos apóstolos; depois Pedro cura Eneias em Lida e ressuscita Tabita em Jope.",
+   "licoes": [
+    "Perseguir os discípulos é perseguir o próprio Jesus (9:4-5).",
+    "Deus escolhe o antigo perseguidor como instrumento para levar seu nome aos gentios (9:15).",
+    "Ananias obedece apesar do medo e chama Saulo de \"irmão\" (9:13, 9:17).",
+    "Barnabé arrisca sua reputação para acolher o novo convertido (9:26-27)."
+   ],
+   "reflexao": "Existe alguém que você acha difícil acolher como irmão por causa do seu passado?",
+   "quiz": [
+    {
+     "pergunta": "Em que rua de Damasco Saulo estava hospedado?",
+     "opcoes": [
+      "Rua Direita",
+      "Rua do Templo",
+      "Rua de Judas",
+      "Rua Formosa"
+     ],
+     "correta": 0,
+     "ref": "9:11"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "titulo": "Pedro e Cornélio",
+   "chave": "10:34-35",
+   "resumo": "Cornélio, centurião romano temente a Deus, recebe a visita de um anjo que o manda chamar Pedro. Enquanto isso, Pedro vê em êxtase um lençol com animais impuros e ouve: \"O que Deus purificou, não faças tu como se fosse ordinário\". Pedro vai à casa de Cornélio, anuncia Jesus, e o Espírito Santo cai sobre os gentios que ouviam, que então são batizados.",
+   "licoes": [
+    "Deus não faz acepção de pessoas; em toda nação acolhe quem o teme (10:34-35).",
+    "A visão ensina Pedro a não chamar ninguém de impuro (10:15, 10:28).",
+    "A mensagem é sobre Jesus, que andou fazendo o bem, morreu, ressuscitou e oferece perdão a todo o que crê (10:38-43)."
+   ],
+   "reflexao": "Que pessoas ou grupos você tende a considerar distantes demais do evangelho?",
+   "quiz": [
+    {
+     "pergunta": "Qual era a profissão de Cornélio?",
+     "opcoes": [
+      "Cobrador de impostos",
+      "Centurião",
+      "Curtidor",
+      "Sacerdote"
+     ],
+     "correta": 1,
+     "ref": "10:1"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "titulo": "A igreja de Antioquia",
+   "chave": "11:26",
+   "resumo": "Em Jerusalém, alguns criticam Pedro por ter comido com incircuncisos, mas ele conta o que aconteceu, e todos glorificam a Deus pelo arrependimento dado aos gentios. Cristãos dispersos anunciam Jesus aos gregos em Antioquia, e muitos creem. Barnabé encoraja a nova igreja, busca Saulo em Tarso, e ali os discípulos são chamados de cristãos pela primeira vez; diante de uma fome anunciada por Ágabo, enviam ajuda à Judeia.",
+   "licoes": [
+    "Pedro responde às críticas contando os fatos com calma e humildade: \"quem era eu… para que pudesse proibir a Deus?\" (11:4, 11:17).",
+    "Barnabé vê a graça de Deus numa igreja nova e a encoraja a permanecer no Senhor (11:23-24).",
+    "A generosidade nasce cedo: cada um, conforme podia, ajudou os irmãos da Judeia (11:29)."
+   ],
+   "reflexao": "Ao ver Deus agindo de um jeito novo, você reage com crítica ou com alegria?",
+   "quiz": [
+    {
+     "pergunta": "Em que cidade os discípulos foram chamados de cristãos pela primeira vez?",
+     "opcoes": [
+      "Jerusalém",
+      "Damasco",
+      "Antioquia",
+      "Tarso"
+     ],
+     "correta": 2,
+     "ref": "11:26"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "titulo": "Pedro libertado da prisão",
+   "chave": "12:5",
+   "resumo": "O rei Herodes mata Tiago, irmão de João, e prende Pedro, enquanto a igreja ora fervorosamente por ele. Um anjo liberta Pedro das correntes e o leva para fora; ele vai à casa de Maria, mãe de João Marcos, onde a criada Rode, de alegria, esquece de abrir a porta. Mais tarde, Herodes aceita ser aclamado como deus e é ferido pelo anjo do Senhor, mas a palavra de Deus continua a crescer.",
+   "licoes": [
+    "A oração perseverante da igreja acompanha a ação de Deus na prisão (12:5, 12:12).",
+    "Até os que oravam custaram a crer na resposta; Deus é maior que nossa fé vacilante (12:15-16).",
+    "Quem toma para si a glória que pertence a Deus cai, mas a palavra de Deus permanece (12:23-24)."
+   ],
+   "reflexao": "Por quem você tem orado com perseverança, mesmo quando a situação parece impossível?",
+   "quiz": [
+    {
+     "pergunta": "Qual era o nome da moça que reconheceu a voz de Pedro à porta?",
+     "opcoes": [
+      "Maria",
+      "Dorcas",
+      "Lídia",
+      "Rode"
+     ],
+     "correta": 3,
+     "ref": "12:13-14"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "titulo": "A primeira viagem missionária começa",
+   "chave": "13:2-3",
+   "resumo": "Em Antioquia, o Espírito Santo separa Barnabé e Saulo para uma obra especial, e a igreja os envia com jejum e oração. Em Chipre, Paulo enfrenta o mago Elimas, e o procônsul Sérgio Paulo crê. Em Antioquia da Pisídia, Paulo prega na sinagoga a história de Israel até Jesus, oferecendo perdão e justificação a quem crê; diante da rejeição, volta-se aos gentios, que se alegram.",
+   "licoes": [
+    "A missão nasce de uma igreja que adora, jejua e ouve o Espírito (13:2-3).",
+    "Paulo apresenta Jesus como o cumprimento das promessas feitas a Davi e aos pais (13:23, 13:32-33).",
+    "Em Jesus é justificado todo aquele que crê, o que a lei de Moisés não podia fazer (13:38-39).",
+    "Mesmo perseguidos, os discípulos se enchiam de alegria e do Espírito Santo (13:52)."
+   ],
+   "reflexao": "Como você e sua comunidade têm buscado ouvir a direção de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Qual procônsul creu em Chipre?",
+     "opcoes": [
+      "Sérgio Paulo",
+      "Festo",
+      "Gálio",
+      "Félix"
+     ],
+     "correta": 0,
+     "ref": "13:7"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "titulo": "Icônio, Listra e o retorno",
+   "chave": "14:22",
+   "resumo": "Em Icônio, muitos creem, mas a cidade se divide e os apóstolos fogem. Em Listra, Paulo cura um homem aleijado de nascença, e a multidão quer adorá-los como Júpiter e Mercúrio, o que eles recusam com veemência. Paulo é apedrejado e deixado como morto, mas se levanta; depois os dois voltam fortalecendo as igrejas, nomeando anciãos e relatam em Antioquia como Deus abriu a porta da fé aos gentios.",
+   "licoes": [
+    "Servos de Deus recusam ser exaltados: \"também nós somos homens como vós\" (14:14-15).",
+    "Deus não deixou de dar testemunho de si mesmo, com chuvas e colheitas (14:17).",
+    "Entrar no Reino de Deus envolve muitas aflições, e por isso os discípulos precisam ser fortalecidos (14:22).",
+    "As novas igrejas recebem liderança local escolhida com oração e jejum (14:23)."
+   ],
+   "reflexao": "Como você reage quando as pessoas o elogiam por algo que Deus fez?",
+   "quiz": [
+    {
+     "pergunta": "Como o povo de Listra chamou Barnabé?",
+     "opcoes": [
+      "Mercúrio",
+      "Júpiter",
+      "Apolo",
+      "Marte"
+     ],
+     "correta": 1,
+     "ref": "14:12"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "titulo": "O concílio de Jerusalém",
+   "chave": "15:11",
+   "resumo": "Alguns ensinam que os gentios precisam ser circuncidados para serem salvos, e a questão é levada aos apóstolos e anciãos em Jerusalém. Pedro lembra que Deus deu o Espírito aos gentios e purificou seus corações pela fé; Tiago cita os profetas e propõe não perturbar os gentios convertidos, pedindo apenas que evitem certas práticas. Uma carta leva a decisão a Antioquia, mas depois Paulo e Barnabé se separam por causa de João Marcos.",
+   "licoes": [
+    "A salvação é pela graça do Senhor Jesus, tanto para judeus como para gentios (15:9, 15:11).",
+    "A igreja resolve conflitos ouvindo testemunhos, as Escrituras e buscando o que \"pareceu bem ao Espírito Santo e a nós\" (15:15, 15:28).",
+    "O cuidado com a convivência leva a pedir aos gentios que evitem práticas que ofendiam profundamente os judeus (15:20, 15:29).",
+    "Até servos fiéis discordam; a separação de Paulo e Barnabé resultou em duas equipes missionárias (15:39-40)."
+   ],
+   "reflexao": "Que fardo desnecessário você talvez esteja colocando sobre outros cristãos?",
+   "quiz": [
+    {
+     "pergunta": "Quem Barnabé levou consigo para Chipre após a discordância com Paulo?",
+     "opcoes": [
+      "Silas",
+      "Timóteo",
+      "Marcos",
+      "Tito"
+     ],
+     "correta": 2,
+     "ref": "15:39"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "titulo": "Rumo à Macedônia: Filipos",
+   "chave": "16:31",
+   "resumo": "Paulo leva Timóteo consigo e, impedido pelo Espírito de pregar na Ásia, recebe a visão de um macedônio pedindo ajuda. Em Filipos, Lídia, vendedora de púrpura, crê e hospeda a equipe. Paulo liberta uma escrava com espírito de adivinhação; ele e Silas são açoitados e presos, mas cantam à meia-noite, um terremoto abre as portas, e o carcereiro crê com toda a sua casa.",
+   "licoes": [
+    "Deus guia a missão tanto abrindo como fechando portas (16:6-10).",
+    "É o Senhor quem abre o coração para ouvir a mensagem, como fez com Lídia (16:14).",
+    "Na dor e na prisão, Paulo e Silas oravam e cantavam hinos, e os outros presos ouviam (16:25).",
+    "A resposta à pergunta mais importante é simples: \"Crê no Senhor Jesus Cristo, e serás salvo\" (16:30-31)."
+   ],
+   "reflexao": "Que canção ou oração você pode levantar no meio da sua noite difícil?",
+   "quiz": [
+    {
+     "pergunta": "O que Lídia vendia?",
+     "opcoes": [
+      "Azeite",
+      "Incenso",
+      "Tendas",
+      "Púrpura"
+     ],
+     "correta": 3,
+     "ref": "16:14"
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "titulo": "Tessalônica, Bereia e Atenas",
+   "chave": "17:11",
+   "resumo": "Em Tessalônica, Paulo mostra pelas Escrituras que o Cristo devia morrer e ressuscitar; alguns creem, mas há tumulto. Em Bereia, os judeus recebem a palavra com boa vontade e examinam as Escrituras diariamente. Em Atenas, incomodado com a idolatria, Paulo fala no Areópago sobre o \"Deus desconhecido\", Criador que chama todos ao arrependimento e ressuscitou Jesus; alguns zombam, outros creem.",
+   "licoes": [
+    "Os bereanos são exemplo de quem ouve com abertura e confere tudo nas Escrituras (17:11).",
+    "Paulo parte do que os atenienses conheciam para anunciar o Deus Criador, que não habita em templos (17:23-24).",
+    "Em Deus \"vivemos, e nos movemos, e somos\"; ele não está longe de nenhum de nós (17:27-28).",
+    "A ressurreição de Jesus é a garantia de que Deus julgará o mundo com justiça (17:30-31)."
+   ],
+   "reflexao": "Você confere nas Escrituras o que ouve sobre Deus?",
+   "quiz": [
+    {
+     "pergunta": "Que inscrição Paulo encontrou num altar em Atenas?",
+     "opcoes": [
+      "Ao Deus desconhecido",
+      "Ao Deus de Israel",
+      "Aos deuses de Roma",
+      "Ao Deus Altíssimo"
+     ],
+     "correta": 0,
+     "ref": "17:23"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "titulo": "Corinto e Apolo",
+   "chave": "18:9-10",
+   "resumo": "Em Corinto, Paulo trabalha fazendo tendas com Áquila e Priscila e prega na sinagoga; diante da resistência, volta-se aos gentios, e muitos creem, inclusive Crispo, chefe da sinagoga. O Senhor o encoraja numa visão, e ele fica um ano e meio; o procônsul Gálio se recusa a julgar a acusação contra ele. Depois Paulo volta a Antioquia, e em Éfeso Priscila e Áquila explicam com mais exatidão o caminho de Deus ao eloquente Apolo.",
+   "licoes": [
+    "Paulo sustentava a si mesmo com trabalho manual enquanto pregava (18:3).",
+    "Deus encoraja seus servos com medo: \"Não temas, mas fala… porque eu estou contigo\" (18:9-10).",
+    "Priscila e Áquila corrigem Apolo em particular, com cuidado, e ele se torna ainda mais útil (18:26-28)."
+   ],
+   "reflexao": "Há alguém que você poderia ajudar a entender melhor o caminho de Deus, com delicadeza?",
+   "quiz": [
+    {
+     "pergunta": "Qual era o ofício de Áquila, Priscila e Paulo?",
+     "opcoes": [
+      "Curtidores",
+      "Fazedores de tendas",
+      "Ourives",
+      "Pescadores"
+     ],
+     "correta": 1,
+     "ref": "18:3"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "titulo": "Éfeso: a palavra que prevalece",
+   "chave": "19:20",
+   "resumo": "Em Éfeso, Paulo encontra discípulos que conheciam só o batismo de João; eles são batizados em nome de Jesus e recebem o Espírito Santo. Durante dois anos ele ensina na escola de Tirano, e a palavra se espalha pela Ásia, com milagres extraordinários. Os filhos de Ceva fracassam ao usar o nome de Jesus como fórmula, muitos queimam seus livros de ocultismo, e o ourives Demétrio provoca um grande tumulto em defesa da deusa Diana.",
+   "licoes": [
+    "O batismo de João apontava para Jesus, aquele que viria depois dele (19:4-5).",
+    "O nome de Jesus não é uma fórmula mágica; quem não o conhece não tem autoridade nele (19:13-16).",
+    "A fé verdadeira leva a romper com as práticas antigas, mesmo quando custa caro (19:18-19).",
+    "O evangelho ameaça interesses econômicos ligados à idolatria, e isso gera oposição (19:25-27)."
+   ],
+   "reflexao": "Há algo na sua vida que você precisa \"queimar\" para seguir Jesus de verdade?",
+   "quiz": [
+    {
+     "pergunta": "Que deusa era venerada em Éfeso, segundo o tumulto de Demétrio?",
+     "opcoes": [
+      "Minerva",
+      "Vênus",
+      "Diana",
+      "Juno"
+     ],
+     "correta": 2,
+     "ref": "19:27-28"
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "titulo": "Despedida dos anciãos de Éfeso",
+   "chave": "20:24",
+   "resumo": "Paulo passa pela Macedônia e pela Grécia e, em Trôade, fala até a meia-noite numa reunião para partir o pão; o jovem Êutico cai da janela e é trazido vivo. Em Mileto, Paulo chama os anciãos de Éfeso e se despede, lembrando seu serviço humilde e sem cobiça. Ele os exorta a cuidar do rebanho, alerta contra falsos mestres e os entrega a Deus e à palavra de sua graça.",
+   "licoes": [
+    "Paulo não considerava sua vida preciosa diante da tarefa de testemunhar do evangelho da graça (20:24).",
+    "Líderes devem cuidar do rebanho que Deus comprou com seu próprio sangue e vigiar contra lobos (20:28-31).",
+    "Paulo ensinou \"todo o conselho de Deus\", em público e de casa em casa (20:20, 20:27).",
+    "Jesus disse: \"Mais bem-aventurado é dar do que receber\" (20:35)."
+   ],
+   "reflexao": "O que, para você, vale mais do que a própria comodidade?",
+   "quiz": [
+    {
+     "pergunta": "Como se chamava o rapaz que caiu da janela durante a pregação de Paulo?",
+     "opcoes": [
+      "Trófimo",
+      "Tíquico",
+      "Sópater",
+      "Êutico"
+     ],
+     "correta": 3,
+     "ref": "20:9"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "titulo": "Rumo a Jerusalém e a prisão",
+   "chave": "21:13",
+   "resumo": "A caminho de Jerusalém, discípulos e o profeta Ágabo advertem Paulo de que ele será preso, mas ele se declara pronto até para morrer pelo nome de Jesus. Em Jerusalém, Tiago e os anciãos pedem que ele participe de um rito de purificação para mostrar que não despreza a Lei. No Templo, judeus da Ásia o acusam falsamente de profanar o lugar; a multidão tenta matá-lo, e o comandante romano o prende e permite que ele fale ao povo.",
+   "licoes": [
+    "Paulo segue a vontade de Deus mesmo sabendo o custo (21:13-14).",
+    "Para preservar a unidade, Paulo aceita um gesto que mostra respeito aos costumes judaicos (21:23-26).",
+    "Boatos e suposições levaram a uma acusação injusta e a violência (21:28-29)."
+   ],
+   "reflexao": "Você seria capaz de dizer \"faça-se a vontade do Senhor\" diante de algo difícil?",
+   "quiz": [
+    {
+     "pergunta": "O que Ágabo usou para mostrar que Paulo seria preso?",
+     "opcoes": [
+      "A cinta de Paulo",
+      "Um manto",
+      "Uma corda de navio",
+      "Uma corrente"
+     ],
+     "correta": 0,
+     "ref": "21:11"
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "titulo": "Paulo conta sua conversão",
+   "chave": "22:15",
+   "resumo": "Nas escadas da fortaleza, Paulo fala em hebraico à multidão: conta como era zeloso da Lei e perseguidor, como Jesus lhe apareceu no caminho de Damasco e como Ananias o batizou. Quando menciona que o Senhor o enviou aos gentios, o povo volta a gritar contra ele. Prestes a ser açoitado, Paulo revela que é cidadão romano de nascimento, e o comandante o leva ao conselho.",
+   "licoes": [
+    "Contar a própria história de encontro com Jesus é uma forma poderosa de testemunho (22:6-10).",
+    "Paulo foi chamado para ser testemunha diante de todos do que viu e ouviu (22:14-15).",
+    "Usar com sabedoria os direitos legais não é falta de fé (22:25)."
+   ],
+   "reflexao": "Como você contaria, em poucas palavras, o que Jesus fez na sua vida?",
+   "quiz": [
+    {
+     "pergunta": "Aos pés de qual mestre Paulo foi educado em Jerusalém?",
+     "opcoes": [
+      "Hilel",
+      "Gamaliel",
+      "Anás",
+      "Nicodemos"
+     ],
+     "correta": 1,
+     "ref": "22:3"
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "titulo": "Diante do conselho e a conspiração",
+   "chave": "23:11",
+   "resumo": "Diante do conselho, Paulo é agredido por ordem do sumo sacerdote Ananias e, ao declarar que é julgado pela esperança da ressurreição, divide fariseus e saduceus. À noite, o Senhor o encoraja dizendo que ele testemunhará também em Roma. Mais de quarenta judeus juram matá-lo, mas o sobrinho de Paulo descobre o plano, e o comandante o envia escoltado ao governador Félix, em Cesareia.",
+   "licoes": [
+    "O Senhor se aproxima de Paulo na hora difícil: \"Tem bom ânimo\" (23:11).",
+    "A esperança da ressurreição está no centro da fé que Paulo defende (23:6).",
+    "Deus usa meios comuns, como um sobrinho atento e um comandante prudente, para proteger seu servo (23:16-24)."
+   ],
+   "reflexao": "Em que situação você precisa ouvir de Deus: \"Tem bom ânimo\"?",
+   "quiz": [
+    {
+     "pergunta": "Quantos homens juraram não comer nem beber até matar Paulo?",
+     "opcoes": [
+      "Mais de doze",
+      "Mais de vinte",
+      "Mais de quarenta",
+      "Mais de cem"
+     ],
+     "correta": 2,
+     "ref": "23:13"
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "titulo": "Paulo diante de Félix",
+   "chave": "24:16",
+   "resumo": "O orador Tértulo acusa Paulo diante do governador Félix de ser agitador e líder da seita dos nazarenos. Paulo se defende: não provocou tumulto, serve ao Deus de seus pais segundo o Caminho e espera a ressurreição de justos e injustos. Félix ouve Paulo falar sobre justiça, domínio próprio e juízo e fica com medo, mas adia a decisão e o deixa preso por dois anos, esperando suborno.",
+   "licoes": [
+    "Paulo se esforçava para ter sempre a consciência limpa diante de Deus e das pessoas (24:16).",
+    "A mensagem cristã inclui justiça, domínio próprio e o juízo vindouro (24:25).",
+    "Adiar a resposta a Deus é perigoso: Félix temeu, mas disse \"por agora vai\" (24:25-26)."
+   ],
+   "reflexao": "Há alguma decisão diante de Deus que você vem adiando?",
+   "quiz": [
+    {
+     "pergunta": "Quem sucedeu Félix como governador?",
+     "opcoes": [
+      "Herodes Agripa",
+      "Cláudio Lísias",
+      "Pôncio Pilatos",
+      "Pórcio Festo"
+     ],
+     "correta": 3,
+     "ref": "24:27"
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "titulo": "Apelo a César",
+   "chave": "25:11",
+   "resumo": "O novo governador Festo ouve as acusações dos líderes judeus, que não conseguem provar nada. Quando Festo propõe julgá-lo em Jerusalém, Paulo apela a César, como cidadão romano. O rei Agripa e Berenice visitam Festo, que lhes explica o caso, centrado em \"um certo morto Jesus\" que Paulo afirmava estar vivo, e marca uma audiência.",
+   "licoes": [
+    "Paulo afirma sua inocência e aceita a justiça, mas não a injustiça (25:8, 25:11).",
+    "Para os de fora, a questão central era a afirmação de que Jesus estava vivo (25:19).",
+    "Deus usa até o sistema jurídico romano para levar Paulo a Roma, como havia prometido (25:12)."
+   ],
+   "reflexao": "Como você explicaria a alguém de fora o que está no centro da sua fé?",
+   "quiz": [
+    {
+     "pergunta": "A quem Paulo apelou para ser julgado?",
+     "opcoes": [
+      "A César",
+      "Ao rei Agripa",
+      "Ao Sinédrio",
+      "Ao sumo sacerdote"
+     ],
+     "correta": 0,
+     "ref": "25:11"
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "titulo": "Paulo diante de Agripa",
+   "chave": "26:18",
+   "resumo": "Diante do rei Agripa, Paulo conta sua vida como fariseu, sua perseguição aos cristãos e o encontro com Jesus no caminho de Damasco. Ele diz que foi enviado para abrir os olhos das pessoas e convertê-las das trevas para a luz, e que anuncia apenas o que Moisés e os profetas disseram: que o Cristo sofreria e ressuscitaria. Festo o chama de louco, Agripa diz que quase é persuadido, e todos concluem que Paulo é inocente.",
+   "licoes": [
+    "A missão do evangelho é abrir olhos e trazer pessoas das trevas para a luz e do poder de Satanás para Deus (26:18).",
+    "Paulo não foi desobediente à visão celestial; obediência é a resposta ao chamado (26:19).",
+    "O arrependimento verdadeiro se mostra em obras dignas dele (26:20).",
+    "Paulo deseja que todos os ouvintes, pequenos ou grandes, cheguem à fé (26:29)."
+   ],
+   "reflexao": "Você tem sido obediente ao que Deus já lhe mostrou?",
+   "quiz": [
+    {
+     "pergunta": "O que Festo disse a Paulo durante a defesa?",
+     "opcoes": [
+      "Que ele era inocente",
+      "Que ele estava louco",
+      "Que ele seria solto",
+      "Que ele era rebelde"
+     ],
+     "correta": 1,
+     "ref": "26:24"
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "titulo": "Tempestade e naufrágio",
+   "chave": "27:25",
+   "resumo": "Paulo embarca para a Itália como prisioneiro, sob a guarda do centurião Júlio. Contra o conselho de Paulo, o navio deixa Bons Portos e é pego pelo vento Euroaquilão; por muitos dias todos perdem a esperança. Um anjo garante a Paulo que ninguém morrerá; ele encoraja todos, parte o pão dando graças, e o navio encalha perto de uma ilha, onde as 276 pessoas chegam salvas à terra.",
+   "licoes": [
+    "Na tempestade, Paulo encoraja os outros porque confia na palavra de Deus: \"eu creio em Deus que assim será\" (27:25).",
+    "A promessa de Deus não dispensa a responsabilidade humana: todos precisavam ficar no navio (27:22, 27:31).",
+    "Um gesto simples de fé, dar graças e comer, devolve o ânimo a todos (27:35-36)."
+   ],
+   "reflexao": "Como sua confiança em Deus pode encorajar alguém que perdeu a esperança?",
+   "quiz": [
+    {
+     "pergunta": "Quantas pessoas estavam no navio?",
+     "opcoes": [
+      "Setenta e cinco",
+      "Cento e vinte",
+      "Duzentas e setenta e seis",
+      "Quatrocentas"
+     ],
+     "correta": 2,
+     "ref": "27:37"
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "titulo": "Malta e Roma",
+   "chave": "28:31",
+   "resumo": "Os náufragos são bem recebidos em Malta; Paulo é mordido por uma víbora e nada sofre, e cura o pai de Públio e outros doentes. Ele chega finalmente a Roma, encorajado pelos irmãos que vêm ao seu encontro, e fala aos líderes judeus sobre o Reino de Deus e sobre Jesus; alguns creem, outros não. Durante dois anos, numa casa alugada, Paulo recebe todos e anuncia o Reino com ousadia e sem impedimento.",
+   "licoes": [
+    "Deus protege seu servo e usa até um incidente perigoso para abrir portas (28:5-6, 28:8-9).",
+    "O encontro com os irmãos deu ânimo a Paulo; a comunhão fortalece (28:15).",
+    "Paulo explica Jesus a partir da Lei de Moisés e dos profetas (28:23).",
+    "Mesmo preso, Paulo continua anunciando o Reino de Deus com ousadia; o evangelho não está acorrentado (28:30-31)."
+   ],
+   "reflexao": "Em que limitação sua você pode continuar servindo e testemunhando?",
+   "quiz": [
+    {
+     "pergunta": "Em que ilha os náufragos chegaram?",
+     "opcoes": [
+      "Sicília",
+      "Creta",
+      "Chipre",
+      "Malta"
+     ],
+     "correta": 3,
+     "ref": "28:1"
+    }
+   ]
+  }
+ ]
+}

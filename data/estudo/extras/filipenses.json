@@ -1,0 +1,370 @@
+{
+ "livro": "filipenses",
+ "quadros": [
+  {
+   "id": "q01",
+   "capitulo": 1,
+   "ref": "1:12-14",
+   "titulo": "Preso, mas o evangelho avança",
+   "descricao": "Paulo conta que suas prisões fizeram o evangelho avançar: toda a guarda pretoriana soube que ele estava preso por causa de Cristo.",
+   "alt": "Paulo acorrentado conversa com soldados romanos que o vigiam.",
+   "prompt": "The apostle Paul with a chain on his wrist seated in a Roman house, speaking earnestly with two Praetorian guards in red tunics who listen attentively, another soldier at the doorway, light from an inner courtyard"
+  },
+  {
+   "id": "q02",
+   "capitulo": 2,
+   "ref": "2:25-30",
+   "titulo": "Epafrodito, que quase morreu",
+   "descricao": "Epafrodito, enviado pelos filipenses para ajudar Paulo, ficou gravemente doente; recuperado, Paulo o manda de volta com esta carta.",
+   "alt": "Um homem convalescente se despede de Paulo, segurando uma carta.",
+   "prompt": "Epaphroditus, a thin recovering man in a traveling cloak, embracing the apostle Paul as he prepares to leave, holding a rolled letter, a friend carrying his bag, a Roman doorway opening to the street, morning light"
+  },
+  {
+   "id": "q03",
+   "capitulo": 3,
+   "ref": "3:13-14",
+   "titulo": "Prosseguir para o alvo",
+   "descricao": "Paulo se compara a um corredor que esquece o que ficou para trás e avança para o prêmio do chamado de Deus.",
+   "alt": "Um corredor se inclina para a frente, perto da linha de chegada de um estádio.",
+   "prompt": "An athlete in a short tunic straining forward toward the finish line in an ancient stadium, eyes fixed ahead on a judge holding a prize, the track and crowd blurred behind him, golden afternoon light"
+  },
+  {
+   "id": "q04",
+   "capitulo": 4,
+   "ref": "4:2-3",
+   "titulo": "Evódia e Síntique",
+   "descricao": "Paulo roga a duas mulheres que lutaram com ele pelo evangelho que tenham a mesma mentalidade no Senhor, e pede ajuda a um companheiro.",
+   "alt": "Duas mulheres se reconciliam diante da igreja reunida.",
+   "prompt": "Two dignified women of Philippi named Euodia and Syntyche clasping hands in reconciliation in a house church, a respected elder standing between them, other believers watching with hope, warm light"
+  },
+  {
+   "id": "q05",
+   "capitulo": 4,
+   "ref": "4:18",
+   "titulo": "A oferta de Filipos",
+   "descricao": "Paulo agradece a oferta que recebeu de Epafrodito, chamando-a de cheiro suave, sacrifício agradável a Deus.",
+   "alt": "Paulo recebe uma bolsa e mantimentos trazidos por um mensageiro.",
+   "prompt": "The apostle Paul in chains receiving with gratitude a small leather purse, a warm cloak and provisions from Epaphroditus, a Roman soldier nearby, a simple room lit by sunlight from a high window"
+  }
+ ],
+ "simbolos": [
+  {
+   "id": "cidadania",
+   "termo": "Cidadania dos céus",
+   "ref": "3:20",
+   "explicado": false,
+   "significado": "Filipos era colônia romana e seus moradores se orgulhavam da cidadania romana. Paulo diz que a cidadania dos cristãos está nos céus, de onde esperam o Salvador."
+  },
+  {
+   "id": "libacao",
+   "termo": "Derramado como oferta",
+   "ref": "2:17",
+   "explicado": false,
+   "significado": "Alusão às libações, vinho derramado sobre um sacrifício. Paulo vê sua possível morte como oferta sobre a fé dos filipenses."
+  },
+  {
+   "id": "luminarias",
+   "termo": "Luminárias no mundo",
+   "ref": "2:15",
+   "explicado": false,
+   "significado": "Os crentes brilham como astros no meio de uma geração corrupta. A imagem lembra Daniel 12:3."
+  },
+  {
+   "id": "corrida",
+   "termo": "Corrida e prêmio",
+   "ref": "3:14",
+   "explicado": false,
+   "significado": "O cristão é como o atleta que avança para o alvo. O prêmio é o chamado de Deus em Cristo; Paulo não diz que já o alcançou."
+  },
+  {
+   "id": "perda-lucro",
+   "termo": "Perda e lucro",
+   "ref": "3:7-8",
+   "explicado": false,
+   "significado": "Linguagem de contabilidade: tudo o que Paulo considerava ganho, ele conta como perda diante de conhecer a Cristo."
+  },
+  {
+   "id": "cheiro-suave",
+   "termo": "Cheiro suave",
+   "ref": "4:18",
+   "explicado": true,
+   "significado": "Paulo explica: a oferta dos filipenses é sacrifício agradável a Deus, como o aroma dos sacrifícios do AT."
+  },
+  {
+   "id": "forma-servo",
+   "termo": "Forma de servo",
+   "ref": "2:7",
+   "explicado": false,
+   "significado": "Cristo, sendo em forma de Deus, tomou a forma de servo. Como entender esse esvaziamento foi muito discutido na história da igreja."
+  },
+  {
+   "id": "livro-vida",
+   "termo": "Livro da vida",
+   "ref": "4:3",
+   "explicado": false,
+   "significado": "Imagem de um registro de cidadãos ou de um livro mantido por Deus com os nomes dos seus (Êx 32:32; Ap 3:5)."
+  }
+ ],
+ "palavras": [
+  {
+   "id": "chara",
+   "pt": "Alegria",
+   "refs": [
+    "1:4",
+    "4:4"
+   ],
+   "grego": {
+    "lema": "χαρά",
+    "translit": "chará",
+    "strong": "G5479"
+   },
+   "sentido": "alegria",
+   "latim": {
+    "forma": "gaudium",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Palavra marcante da carta, escrita na prisão: \"Alegrai-vos sempre no Senhor\" (4:4).",
+   "interpretacao": false
+  },
+  {
+   "id": "koinonia",
+   "pt": "Participação",
+   "refs": [
+    "1:5",
+    "4:15"
+   ],
+   "grego": {
+    "lema": "κοινωνία",
+    "translit": "koinōnía",
+    "strong": "G2842"
+   },
+   "sentido": "parceria, participação",
+   "latim": {
+    "forma": "communicatio",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Os filipenses foram parceiros de Paulo no evangelho desde o primeiro dia, inclusive com ajuda financeira (4:15).",
+   "interpretacao": false
+  },
+  {
+   "id": "kenoo",
+   "pt": "Esvaziou-se",
+   "refs": [
+    "2:7"
+   ],
+   "grego": {
+    "lema": "κενόω",
+    "translit": "kenóō",
+    "strong": "G2758"
+   },
+   "sentido": "esvaziar, tornar vazio",
+   "latim": {
+    "forma": "semet ipsum exinanivit",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Da palavra vem o termo teológico \"kenosis\". Do que Cristo se esvaziou (de privilégios, do uso da glória) é interpretado de formas diferentes.",
+   "interpretacao": true
+  },
+  {
+   "id": "morphe",
+   "pt": "Forma",
+   "refs": [
+    "2:6-7"
+   ],
+   "grego": {
+    "lema": "μορφή",
+    "translit": "morphḗ",
+    "strong": "G3444"
+   },
+   "sentido": "forma, aparência que expressa o ser",
+   "latim": {
+    "forma": "forma",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Em forma de Deus e em forma de servo: o hino coloca as duas lado a lado.",
+   "interpretacao": false
+  },
+  {
+   "id": "tapeinophrosyne",
+   "pt": "Humildade",
+   "refs": [
+    "2:3"
+   ],
+   "grego": {
+    "lema": "ταπεινοφροσύνη",
+    "translit": "tapeinophrosýnē",
+    "strong": "G5012"
+   },
+   "sentido": "modo humilde de pensar",
+   "latim": {
+    "forma": "humilitas",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "No mundo grego \"humildade\" lembrava baixeza; o exemplo de Cristo tornou-a virtude.",
+   "interpretacao": false
+  },
+  {
+   "id": "phroneo",
+   "pt": "Ter uma mentalidade",
+   "refs": [
+    "2:2",
+    "2:5",
+    "4:2"
+   ],
+   "grego": {
+    "lema": "φρονέω",
+    "translit": "phronéō",
+    "strong": "G5426"
+   },
+   "sentido": "pensar, ter uma atitude",
+   "latim": {
+    "forma": "sentire",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Verbo frequente na carta: ter o mesmo modo de pensar que esteve em Cristo (2:5).",
+   "interpretacao": false
+  },
+  {
+   "id": "politeuma",
+   "pt": "Cidadania",
+   "refs": [
+    "3:20"
+   ],
+   "grego": {
+    "lema": "πολίτευμα",
+    "translit": "políteuma",
+    "strong": "G4175"
+   },
+   "sentido": "cidadania, comunidade de cidadãos",
+   "latim": {
+    "forma": "conversatio",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A Vulgata traduz \"conversatio\" (modo de vida). Ver símbolos.",
+   "interpretacao": false
+  },
+  {
+   "id": "skybalon",
+   "pt": "Dejetos",
+   "refs": [
+    "3:8"
+   ],
+   "grego": {
+    "lema": "σκύβαλον",
+    "translit": "skýbalon",
+    "strong": "G4657"
+   },
+   "sentido": "lixo, refugo, dejetos",
+   "latim": {
+    "forma": "stercora",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Palavra forte, que podia designar restos de comida ou excrementos: diante de Cristo, as vantagens anteriores de Paulo são dejetos.",
+   "interpretacao": false
+  },
+  {
+   "id": "episkopos",
+   "pt": "Supervisores",
+   "refs": [
+    "1:1"
+   ],
+   "grego": {
+    "lema": "ἐπίσκοπος",
+    "translit": "epískopos",
+    "strong": "G1985"
+   },
+   "sentido": "supervisor",
+   "latim": {
+    "forma": "episcopis",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "Daí vem \"bispo\". Aqui aparece no plural, com os \"servidores\" (diáconos). Como esses cargos se organizavam no séc. I é discutido.",
+   "interpretacao": true
+  },
+  {
+   "id": "eirene",
+   "pt": "Paz de Deus",
+   "refs": [
+    "4:7"
+   ],
+   "grego": {
+    "lema": "εἰρήνη",
+    "translit": "eirḗnē",
+    "strong": "G1515"
+   },
+   "sentido": "paz",
+   "semitico": [
+    {
+     "lingua": "hebraico",
+     "lema": "שָׁלוֹם",
+     "translit": "shalom",
+     "strong": "H7965",
+     "ref": "Nm 6:26"
+    }
+   ],
+   "latim": {
+    "forma": "pax Dei",
+    "nota": ""
+   },
+   "outras": [],
+   "explicacao": "A paz de Deus \"guardará\" os corações: verbo militar, como uma guarnição que protege a cidade.",
+   "interpretacao": false
+  }
+ ],
+ "historia": [
+  {
+   "id": "policarpo-filipenses",
+   "titulo": "Policarpo escreve aos filipenses",
+   "refs": [
+    "3:1"
+   ],
+   "tipo": "documento antigo",
+   "fonte": "Policarpo de Esmirna, Carta aos Filipenses",
+   "referencia": "cap. 3, §2",
+   "data_fonte": "c. 110-140 d.C.",
+   "data_evento": "Lembra a atuação de Paulo em Filipos",
+   "resumo": "Policarpo diz que o bem-aventurado Paulo, quando esteve com os filipenses, ensinou a palavra da verdade e, ausente, lhes escreveu cartas.",
+   "relacao": "Testemunho antigo de que a igreja de Filipos guardava cartas de Paulo. O plural \"cartas\" alimenta o debate sobre se Filipenses reúne mais de uma carta.",
+   "grau": "documentado"
+  },
+  {
+   "id": "filipos-colonia",
+   "titulo": "Filipos, colônia romana",
+   "refs": [
+    "3:20"
+   ],
+   "tipo": "arqueologia",
+   "fonte": "Fórum, inscrições latinas e Via Egnácia em Filipos",
+   "referencia": "Sítio arqueológico de Filipos (Grécia), Patrimônio Mundial da UNESCO",
+   "data_fonte": "séc. I a.C.–II d.C.",
+   "data_evento": "Colônia após a batalha de Filipos (42 a.C.) e refundação por Augusto",
+   "resumo": "Inscrições em latim e a organização da cidade mostram uma colônia de veteranos romanos, com direito romano.",
+   "relacao": "Explica o peso da imagem \"nós somos cidadãos dos céus\" (3:20) e o orgulho romano visto em Atos 16:21.",
+   "grau": "associacao"
+  },
+  {
+   "id": "pretorio",
+   "titulo": "A guarda pretoriana",
+   "refs": [
+    "1:13"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Tácito, Anais",
+   "referencia": "livro 4, cap. 2 (sobre a concentração da guarda por Sejano)",
+   "data_fonte": "c. 116 d.C.",
+   "data_evento": "séc. I d.C.",
+   "resumo": "Tácito descreve a guarda pretoriana, a tropa de elite ligada ao imperador, reunida em Roma num acampamento próprio.",
+   "relacao": "Se Paulo escreveu de Roma, a \"guarda pretoriana\" (1:13) e os \"da casa de César\" (4:22) se encaixam bem. Outros propõem Éfeso ou Cesareia, onde também havia pretórios de governadores.",
+   "grau": "associacao"
+  }
+ ]
+}
