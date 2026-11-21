@@ -1,0 +1,308 @@
+{
+ "livro": "amos",
+ "nome": "Amós",
+ "subtitulo": "Justiça para os pobres, verdade no culto",
+ "introducao": "Amós era um pastor de Judá enviado ao reino do norte, Israel, num tempo de prosperidade e segurança aparente. Ele denuncia a exploração dos pobres, a corrupção nos tribunais e um culto cheio de festas, mas vazio de justiça. O livro mostra que Deus não separa adoração de ética e termina com a promessa de restauração da casa de Davi.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Amós, pastor e cultivador de sicômoros de Tecoa (1:1, 7:14)"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Reinados de Uzias (Judá) e Jeroboão II (Israel), por volta de 760–750 a.C., \"dois anos antes do terremoto\" (1:1)"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Profetizou principalmente em Israel, no norte, inclusive em Betel e Samaria (7:13, 3:9)"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "O reino do norte, Israel, e também Judá e os povos vizinhos"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Profecia: oráculos de juízo, lamentos, visões e promessa final"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "9 capítulos e 146 versículos"
+  }
+ ],
+ "chave": "5:24",
+ "temas": [
+  "Deus julga todas as nações",
+  "Justiça social como parte da fé",
+  "Culto sem justiça não agrada a Deus",
+  "Privilégio traz responsabilidade",
+  "Restauração após o juízo"
+ ],
+ "cristo": "A promessa de levantar a \"tenda caída de Davi\" e incluir as nações é citada em Atos 15 para explicar a entrada dos não judeus no povo de Deus por meio de Jesus, o descendente de Davi. A paixão de Amós pela justiça ecoa no ensino de Jesus sobre amar a Deus e ao próximo.",
+ "secoes": [
+  {
+   "id": "oraculos-contra-as-nacoes",
+   "titulo": "Oráculos contra as nações e contra Israel",
+   "capitulos": [
+    1,
+    2
+   ],
+   "resumo": "Deus julga os vizinhos e, por fim, Judá e Israel."
+  },
+  {
+   "id": "mensagens-a-israel",
+   "titulo": "Mensagens de denúncia a Israel",
+   "capitulos": [
+    3,
+    4,
+    5,
+    6
+   ],
+   "resumo": "Sermões contra a opressão, o luxo e o culto vazio."
+  },
+  {
+   "id": "visoes-e-restauracao",
+   "titulo": "Visões do juízo e promessa de restauração",
+   "capitulos": [
+    7,
+    8,
+    9
+   ],
+   "resumo": "Cinco visões, o conflito com Amazias e a esperança final."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Por três transgressões",
+   "chave": "1:3",
+   "resumo": "Amós, um pastor de Tecoa, recebe a palavra de Deus nos dias de Uzias e de Jeroboão. O SENHOR brame desde Sião e anuncia juízo contra os povos vizinhos de Israel: Damasco, Gaza, Tiro, Edom e Amom. Cada um é condenado por crueldades concretas, como massacres, tráfico de prisioneiros e quebra de alianças.",
+   "licoes": [
+    "Deus chama pessoas comuns para falar em seu nome: Amós vinha dos pastores de Tecoa (1:1).",
+    "O Senhor é juiz de todas as nações, não só de Israel (1:3, 1:6).",
+    "A crueldade contra os indefesos é grave aos olhos de Deus (1:13).",
+    "Trair laços de fraternidade e alimentar ódio sem fim também é condenado (1:9, 1:11)."
+   ],
+   "reflexao": "Você costuma ver a injustiça como algo que Deus realmente leva a sério?",
+   "quiz": [
+    {
+     "pergunta": "Qual era a ocupação de Amós antes de profetizar, segundo o primeiro versículo?",
+     "opcoes": [
+      "Um dos pastores de Tecoa",
+      "Sacerdote em Betel",
+      "Escriba do rei",
+      "Soldado de Uzias"
+     ],
+     "correta": 0,
+     "ref": "1:1"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Vendem o justo por dinheiro",
+   "chave": "2:6",
+   "resumo": "O juízo continua contra Moabe e depois atinge o próprio povo de Deus: Judá, por rejeitar a lei, e Israel, por oprimir os pobres. Israel vende o justo, pisa os humildes e profana o culto com bens tomados em penhor. Deus lembra tudo o que fez por eles e anuncia que nem os mais fortes escaparão.",
+   "licoes": [
+    "O povo de Deus não está acima do juízo; ao contrário, recebe palavra mais dura (2:4, 2:6).",
+    "Explorar os pobres por lucro é pecado contra Deus (2:6-7).",
+    "A ingratidão diante da graça recebida agrava a culpa (2:9-10).",
+    "Calar os profetas e corromper os consagrados é rejeitar a voz de Deus (2:12)."
+   ],
+   "reflexao": "Que bênçãos de Deus você tem esquecido na correria do dia a dia?",
+   "quiz": [
+    {
+     "pergunta": "Por que Israel é condenado no capítulo 2?",
+     "opcoes": [
+      "Por não construir um templo",
+      "Por não ir à guerra contra Moabe",
+      "Por recusar um rei",
+      "Por vender o justo por dinheiro e o pobre por um par de sapatos"
+     ],
+     "correta": 3,
+     "ref": "2:6"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Quando o leão ruge",
+   "chave": "3:8",
+   "resumo": "Deus lembra a Israel que o escolheu entre todas as famílias da terra, e por isso cobrará suas injustiças. Uma série de perguntas mostra que tudo tem causa: se o profeta fala, é porque o Senhor falou. As nações são chamadas a testemunhar a violência em Samaria, e o juízo atingirá os altares de Betel e as casas de luxo.",
+   "licoes": [
+    "Privilégio traz responsabilidade: ser escolhido não é licença para pecar (3:2).",
+    "Andar com Deus exige concordar com ele (3:3).",
+    "Quando Deus fala, o profeta não pode se calar (3:7-8).",
+    "Riqueza acumulada pela violência não sustenta ninguém (3:10, 3:15)."
+   ],
+   "reflexao": "Como você responde quando Deus lhe mostra algo que precisa mudar?",
+   "quiz": [
+    {
+     "pergunta": "Que pergunta abre a série de imagens do capítulo 3?",
+     "opcoes": [
+      "Pode um cego guiar outro cego?",
+      "Irão dois juntos, se não estiverem de acordo?",
+      "Pode a figueira dar uvas?",
+      "Quem subirá ao monte do SENHOR?"
+     ],
+     "correta": 1,
+     "ref": "3:3"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Prepara-te para encontrar teu Deus",
+   "chave": "4:12",
+   "resumo": "Amós chama as mulheres ricas de Samaria de \"vacas de Basã\" por oprimirem os pobres. Com ironia, convida o povo a multiplicar sacrifícios em Betel e Gilgal, já que gostam de religião vazia. Deus enviou fome, seca, pragas e guerra, mas o refrão se repete: \"contudo não vos convertestes a mim\". Por fim, o povo deve se preparar para encontrar o seu Deus.",
+   "licoes": [
+    "Luxo construído sobre a opressão dos pobres é denunciado por Deus (4:1).",
+    "Ritual religioso sem mudança de vida pode até multiplicar o pecado (4:4-5).",
+    "Deus usa as dificuldades para chamar o povo de volta, mas ele pode endurecer o coração (4:6, 4:11).",
+    "Todos terão de se encontrar com o Criador soberano (4:12-13)."
+   ],
+   "reflexao": "Que alertas de Deus você tem ignorado?",
+   "quiz": [
+    {
+     "pergunta": "Que frase se repete várias vezes no capítulo 4?",
+     "opcoes": [
+      "Assim diz o SENHOR dos exércitos",
+      "Contudo não vos convertestes a mim",
+      "Ai dos que estão tranquilos",
+      "Buscai-me e vivereis"
+     ],
+     "correta": 1,
+     "ref": "4:6"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "Corra o juízo como as águas",
+   "chave": "5:24",
+   "resumo": "Amós entoa um lamento pela queda de Israel. Deus chama: \"Buscai-me, e vivereis\", não os santuários de Betel e Gilgal. O povo despreza quem fala a verdade e explora o pobre. Quem anseia pelo dia do SENHOR se engana: ele será trevas. Deus rejeita festas e cânticos e pede que o juízo e a justiça corram como rio.",
+   "licoes": [
+    "Buscar a Deus é questão de vida, e não se confunde com frequentar lugares religiosos (5:4-5).",
+    "Odiar o mal e amar o bem inclui praticar justiça nas decisões públicas (5:15).",
+    "Esperar o \"dia do SENHOR\" sem arrependimento é ilusão (5:18-20).",
+    "Deus quer justiça constante como água corrente, não só música e festa (5:23-24)."
+   ],
+   "reflexao": "Sua vida de fé tem se refletido em justiça com as pessoas ao seu redor?",
+   "quiz": [
+    {
+     "pergunta": "Como Deus quer que corram o juízo e a justiça?",
+     "opcoes": [
+      "Como o vento do deserto",
+      "Como o fogo no campo",
+      "Como o orvalho da manhã",
+      "Como as águas e como um ribeiro impetuoso"
+     ],
+     "correta": 3,
+     "ref": "5:24"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "Ai dos que vivem tranquilos",
+   "chave": "6:1",
+   "resumo": "O profeta pronuncia ai sobre os líderes que se sentem seguros em Sião e em Samaria. Eles se deitam em camas de marfim, banqueteiam, cantam e bebem, mas não se afligem com a ruína do povo. Deus jura que abomina a arrogância de Jacó e levantará uma nação que oprimirá Israel.",
+   "licoes": [
+    "O conforto pode cegar para o sofrimento alheio e para o perigo próximo (6:1, 6:3).",
+    "Desfrutar o luxo sem se importar com a \"ruína de José\" é pecado (6:4-6).",
+    "Deus resiste ao orgulho de quem confia na própria força (6:8, 6:13).",
+    "Perverter a justiça é tão absurdo quanto arar rochas com bois (6:12)."
+   ],
+   "reflexao": "O que tira você da indiferença diante do sofrimento de outros?",
+   "quiz": [
+    {
+     "pergunta": "Sobre o que os ricos de Samaria se deitavam, segundo Amós?",
+     "opcoes": [
+      "Camas de marfim",
+      "Esteiras de palha",
+      "Peles de cabra",
+      "Leitos de pedra"
+     ],
+     "correta": 0,
+     "ref": "6:4"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "O prumo e o profeta",
+   "chave": "7:8",
+   "resumo": "Amós vê gafanhotos e fogo prontos para destruir a terra, intercede, e Deus se arrepende. Na terceira visão, o Senhor está com um prumo e anuncia que não tolerará mais Israel. Amazias, sacerdote de Betel, acusa Amós de conspiração e manda que volte para Judá. Amós responde que não era profeta profissional, mas que o SENHOR o tirou do gado para profetizar.",
+   "licoes": [
+    "A oração intercessora importa: Deus ouviu o clamor de Amós por Jacó (7:2-3, 7:5-6).",
+    "Deus mede seu povo com o prumo da sua justiça (7:7-8).",
+    "A religião ligada ao poder costuma tentar silenciar a palavra incômoda (7:12-13).",
+    "A autoridade do profeta vem do chamado de Deus, não de cargo ou família (7:14-15)."
+   ],
+   "reflexao": "Você tem intercedido por pessoas ou lugares que parecem perdidos?",
+   "quiz": [
+    {
+     "pergunta": "O que Amós viu na mão do Senhor na terceira visão?",
+     "opcoes": [
+      "Uma espada",
+      "Uma foice",
+      "Um prumo",
+      "Um cesto"
+     ],
+     "correta": 2,
+     "ref": "7:7-8"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "Fome da palavra",
+   "chave": "8:11",
+   "resumo": "Amós vê um cesto de frutos de verão: chegou o fim para Israel. Os comerciantes mal esperam o sábado passar para enganar com medidas e balanças falsas e comprar os pobres como escravos. Deus jura que não esquecerá essas obras. Virá luto, escuridão e uma fome, não de pão, mas de ouvir as palavras do SENHOR.",
+   "licoes": [
+    "Desonestidade nos negócios é pecado que Deus não esquece (8:5-7).",
+    "Guardar dias santos com o coração na ganância é religião vazia (8:5).",
+    "Rejeitar a palavra de Deus pode levar à triste falta dela (8:11-12)."
+   ],
+   "reflexao": "Você tem fome da palavra de Deus ou só a procura quando falta algo?",
+   "quiz": [
+    {
+     "pergunta": "De que será a fome que Deus enviará à terra?",
+     "opcoes": [
+      "De pão",
+      "De água",
+      "De ouvir as palavras do SENHOR",
+      "De vinho"
+     ],
+     "correta": 2,
+     "ref": "8:11"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "A tenda de Davi será levantada",
+   "chave": "9:11",
+   "resumo": "Amós vê o Senhor junto ao altar ordenando o juízo: ninguém poderá fugir, nem no Xeol, nem no céu, nem no fundo do mar. Israel não é melhor que outros povos por ter saído do Egito. Mas Deus não destruirá por completo a casa de Jacó: ele promete levantar a tenda caída de Davi, incluir as nações e restaurar seu povo na terra com fartura.",
+   "licoes": [
+    "Ninguém pode se esconder de Deus (9:2-3).",
+    "A escolha de Israel não o torna superior aos outros povos (9:7).",
+    "Mesmo no juízo, Deus preserva um remanescente (9:8-9).",
+    "A última palavra é restauração: a casa de Davi reerguida e o povo plantado para sempre (9:11, 9:15)."
+   ],
+   "reflexao": "Que esperança de restauração Deus tem colocado diante de você?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus promete levantar novamente \"naquele dia\"?",
+     "opcoes": [
+      "A caída tenda de Davi",
+      "O templo de Betel",
+      "Os muros de Samaria",
+      "O altar de Dã"
+     ],
+     "correta": 0,
+     "ref": "9:11"
+    }
+   ]
+  }
+ ]
+}

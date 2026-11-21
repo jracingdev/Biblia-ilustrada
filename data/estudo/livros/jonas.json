@@ -1,0 +1,159 @@
+{
+ "livro": "jonas",
+ "nome": "Jonas",
+ "subtitulo": "Um profeta relutante e um Deus de compaixão",
+ "introducao": "Jonas conta a história de um profeta que foge da missão de pregar a Nínive, capital da Assíria, inimiga de Israel. Deus o traz de volta por meio de uma tempestade e de um grande peixe, e a cidade se arrepende. O livro termina com uma pergunta que desafia o leitor a ter o mesmo coração compassivo de Deus.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Anônimo; a narrativa é sobre Jonas, filho de Amitai (1:1), profeta citado em 2 Reis 14 no tempo de Jeroboão II"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Os fatos se situam no séc. VIII a.C.; a data de escrita é discutida"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Jope, o mar, e Nínive, capital assíria (1:3, 3:3)"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Narrativa profética; há quem a leia como relato histórico e quem destaque seu caráter didático"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "4 capítulos e 48 versículos"
+  }
+ ],
+ "chave": "4:11",
+ "temas": [
+  "Ninguém foge de Deus",
+  "A salvação vem do SENHOR",
+  "Arrependimento e segundas chances",
+  "A compaixão de Deus por todos os povos"
+ ],
+ "cristo": "Jesus cita o \"sinal de Jonas\" nos Evangelhos: assim como Jonas ficou três dias e três noites no peixe, o Filho do Homem estaria três dias na terra antes de ressuscitar. O amor de Deus por Nínive antecipa o evangelho levado a todas as nações.",
+ "secoes": [
+  {
+   "id": "fuga-e-oracao",
+   "titulo": "A fuga e a oração",
+   "capitulos": [
+    1,
+    2
+   ],
+   "resumo": "Jonas foge, é lançado ao mar e ora do ventre do peixe."
+  },
+  {
+   "id": "pregacao-e-compaixao",
+   "titulo": "A pregação e a lição da compaixão",
+   "capitulos": [
+    3,
+    4
+   ],
+   "resumo": "Nínive se arrepende e Deus ensina Jonas sobre misericórdia."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Fugindo de Deus",
+   "chave": "1:3",
+   "resumo": "Deus manda Jonas pregar contra Nínive, mas ele embarca em Jope rumo a Társis, para longe do SENHOR. Uma grande tempestade ameaça o navio enquanto Jonas dorme no porão. A sorte revela que ele é o culpado, e Jonas pede para ser lançado ao mar. O mar se acalma, os marinheiros temem ao SENHOR, e um grande peixe engole o profeta.",
+   "licoes": [
+    "Ninguém consegue fugir da presença de Deus (1:3-4).",
+    "Confessar a fé com a boca e desobedecer com a vida é contradição (1:9-10).",
+    "Até pagãos podem ser mais sensíveis a Deus do que o próprio profeta (1:14, 1:16).",
+    "Deus governa o vento, o mar e o peixe para cumprir seu propósito (1:4, 1:17)."
+   ],
+   "reflexao": "De que chamado de Deus você talvez esteja fugindo?",
+   "quiz": [
+    {
+     "pergunta": "Para onde Jonas tentou fugir?",
+     "opcoes": [
+      "Nínive",
+      "Egito",
+      "Damasco",
+      "Társis"
+     ],
+     "correta": 3,
+     "ref": "1:3"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Oração do fundo do mar",
+   "chave": "2:9",
+   "resumo": "Do ventre do peixe, Jonas ora. Ele descreve as águas que o cercaram e o abismo que o envolveu, mas lembra que clamou e Deus o ouviu. Promete oferecer gratidão e cumprir seus votos, confessando que a salvação vem do SENHOR. Então Deus ordena ao peixe que o vomite em terra firme.",
+   "licoes": [
+    "Nenhum lugar é fundo demais para a oração chegar a Deus (2:2, 2:7).",
+    "Confiar em coisas inúteis é abandonar a própria misericórdia (2:8).",
+    "A salvação é obra de Deus, não mérito humano (2:9)."
+   ],
+   "reflexao": "Em que momento de \"fundo do poço\" você percebeu que Deus ouvia sua oração?",
+   "quiz": [
+    {
+     "pergunta": "Como Jonas termina sua oração?",
+     "opcoes": [
+      "Pedindo para morrer",
+      "Dizendo que a salvação vem do SENHOR",
+      "Amaldiçoando Nínive",
+      "Prometendo nunca mais viajar"
+     ],
+     "correta": 1,
+     "ref": "2:9"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Nínive se arrepende",
+   "chave": "3:10",
+   "resumo": "A palavra do SENHOR vem a Jonas pela segunda vez, e ele obedece. Prega que em quarenta dias Nínive será destruída. Os ninivitas creem em Deus, jejuam e se vestem de saco, desde o rei até o menor. Deus vê que eles abandonaram o mau caminho e não executa o castigo anunciado.",
+   "licoes": [
+    "Deus dá segundas chances a quem falhou (3:1-2).",
+    "Arrependimento verdadeiro envolve deixar o mau caminho e a violência (3:8).",
+    "Deus se compadece de quem se volta para ele, mesmo dos inimigos de Israel (3:10)."
+   ],
+   "reflexao": "Você acredita que Deus pode transformar até as pessoas que você acha impossíveis?",
+   "quiz": [
+    {
+     "pergunta": "Em quantos dias Jonas disse que Nínive seria destruída?",
+     "opcoes": [
+      "Sete",
+      "Quarenta",
+      "Três",
+      "Cem"
+     ],
+     "correta": 1,
+     "ref": "3:4"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "A compaixão de Deus",
+   "chave": "4:11",
+   "resumo": "Jonas fica irado com o perdão de Deus e confessa que fugiu justamente porque sabia que Deus é gracioso e misericordioso. Sentado fora da cidade, alegra-se com uma planta que lhe dá sombra, mas ela seca, e ele deseja morrer. Deus lhe pergunta: se ele teve pena de uma planta, Deus não deveria ter pena de Nínive e de seus milhares de habitantes?",
+   "licoes": [
+    "É possível conhecer a misericórdia de Deus e ainda não aceitá-la para os outros (4:2).",
+    "Deus confronta nossa ira com perguntas pacientes (4:4, 4:9).",
+    "Nossas prioridades podem ser pequenas perto do coração de Deus pelas pessoas (4:10-11)."
+   ],
+   "reflexao": "Há alguém a quem você resiste em desejar o perdão de Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus preparou para fazer sombra sobre Jonas?",
+     "opcoes": [
+      "Uma tenda",
+      "Uma nuvem",
+      "Uma caverna",
+      "Uma planta"
+     ],
+     "correta": 3,
+     "ref": "4:6"
+    }
+   ]
+  }
+ ]
+}

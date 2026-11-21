@@ -1,0 +1,276 @@
+{
+ "livro": "cantares",
+ "nome": "Cantares",
+ "subtitulo": "O cântico do amor fiel",
+ "introducao": "Cantares, ou Cântico dos Cânticos, é uma coleção de poemas de amor entre um homem e uma mulher, com vozes que se alternam e um coro de moças de Jerusalém. O livro celebra o amor, o desejo e a fidelidade como dons de Deus. Ao longo da história, judeus e cristãos também o leram como imagem do amor de Deus por seu povo.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "O título liga o livro a Salomão (1:1); não se sabe se ele é o autor, o homenageado ou parte de uma coleção dedicada a ele"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Tradicionalmente no tempo de Salomão (séc. X a.C.); alguns estudiosos propõem uma data posterior"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Jerusalém e paisagens de Israel, como Engedi, Gileade, Líbano e Carmelo (1:14, 4:1, 4:8, 7:5)"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Poesia de amor"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "8 capítulos e 117 versículos"
+  }
+ ],
+ "chave": "8:6-7",
+ "temas": [
+  "O amor entre homem e mulher como dom de Deus",
+  "Fidelidade e pertença mútua",
+  "O tempo certo do amor",
+  "A força do amor, mais forte que a morte"
+ ],
+ "cristo": "Os profetas descrevem Deus como esposo de Israel, e o Novo Testamento compara o amor de Cristo pela igreja ao amor entre marido e mulher, como Paulo escreve em Efésios 5. Por isso muitos cristãos leem Cantares também como imagem desse amor fiel, sem deixar de lado seu sentido direto de celebração do amor conjugal.",
+ "secoes": [
+  {
+   "id": "desejo",
+   "titulo": "Desejo e encontro",
+   "capitulos": [
+    1,
+    2
+   ],
+   "resumo": "Os amados expressam admiração e o desejo de estarem juntos."
+  },
+  {
+   "id": "busca-e-casamento",
+   "titulo": "Busca e casamento",
+   "capitulos": [
+    3,
+    4
+   ],
+   "resumo": "A amada busca o amado; o cortejo nupcial e o elogio da noiva."
+  },
+  {
+   "id": "separacao",
+   "titulo": "Separação e reencontro",
+   "capitulos": [
+    5,
+    6
+   ],
+   "resumo": "A porta aberta tarde demais, a busca e a reafirmação do amor."
+  },
+  {
+   "id": "amor-maduro",
+   "titulo": "O amor forte como a morte",
+   "capitulos": [
+    7,
+    8
+   ],
+   "resumo": "Celebração do amor e a declaração de que nada pode apagá-lo."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "O desejo e o encontro",
+   "chave": "1:15-16",
+   "resumo": "O poema começa com a voz da amada, que expressa seu desejo pelo amado e diz que seu amor é melhor que o vinho. Ela se descreve como morena, queimada pelo sol de trabalhar nas vinhas, e pergunta onde o amado apascenta o rebanho. Os dois trocam elogios de admiração mútua.",
+   "licoes": [
+    "A Bíblia celebra o amor entre homem e mulher como algo bom e belo (1:2, 1:15-16).",
+    "A amada aprende a ver-se bela, mesmo quando outros a olham com desprezo (1:5-6).",
+    "O amor verdadeiro se expressa em admiração mútua e palavras de valorização (1:15-16)."
+   ],
+   "reflexao": "Você costuma expressar admiração pelas pessoas que ama?",
+   "quiz": [
+    {
+     "pergunta": "Por que a amada diz que é morena?",
+     "opcoes": [
+      "Porque o sol brilhou sobre ela",
+      "Porque nasceu no Egito",
+      "Porque era rainha",
+      "Porque vivia no deserto"
+     ],
+     "correta": 0,
+     "ref": "1:6"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "O inverno já passou",
+   "chave": "2:16",
+   "resumo": "A amada se compara a um lírio e o amado diz que ela é como um lírio entre espinhos. Ela descreve a alegria de estar com ele e pede às moças de Jerusalém que não despertem o amor antes da hora. O amado a chama para sair, pois o inverno passou e a primavera chegou.",
+   "licoes": [
+    "O amor tem seu tempo certo; não deve ser apressado (2:7).",
+    "A chegada da primavera simboliza um tempo novo e cheio de vida para o casal (2:11-13).",
+    "É preciso cuidar das \"raposinhas\", pequenos problemas que estragam a vinha do amor (2:15)."
+   ],
+   "reflexao": "Que \"raposinhas\" podem estar prejudicando seus relacionamentos?",
+   "quiz": [
+    {
+     "pergunta": "O que a amada pede às filhas de Jerusalém?",
+     "opcoes": [
+      "Que cantem para ela",
+      "Que preparem um banquete",
+      "Que procurem o amado",
+      "Que não despertem o amor até que ele queira"
+     ],
+     "correta": 3,
+     "ref": "2:7"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Buscando quem minha alma ama",
+   "chave": "3:4",
+   "resumo": "A amada procura o amado à noite, primeiro na cama e depois pelas ruas da cidade, até encontrá-lo e levá-lo à casa de sua mãe. Repete o pedido de não despertar o amor antes da hora. Em seguida aparece um cortejo: a liteira do rei Salomão, cercada por guerreiros, no dia de seu casamento.",
+   "licoes": [
+    "O amor verdadeiro busca com perseverança quem ama (3:1-4).",
+    "O pedido para esperar o tempo do amor é repetido, mostrando sua importância (3:5).",
+    "O casamento é celebrado como dia de alegria do coração (3:11)."
+   ],
+   "reflexao": "Com que empenho você busca o que realmente importa?",
+   "quiz": [
+    {
+     "pergunta": "Onde a amada levou o amado depois de encontrá-lo?",
+     "opcoes": [
+      "Ao palácio do rei",
+      "À casa de sua mãe",
+      "Ao templo",
+      "Às vinhas"
+     ],
+     "correta": 1,
+     "ref": "3:4"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Tu és bela, minha querida",
+   "chave": "4:7",
+   "resumo": "O amado descreve a beleza da amada com imagens da natureza e da terra de Israel: pombas, rebanhos, romãs, a torre de Davi. Ele a chama de \"minha irmã, minha esposa\" e a compara a um jardim fechado e a uma fonte selada. No fim, ela convida o amado a entrar em seu jardim.",
+   "licoes": [
+    "O amor enxerga e celebra a beleza do outro (4:1, 4:7).",
+    "O \"jardim fechado\" e a \"fonte selada\" falam de exclusividade e fidelidade no amor (4:12).",
+    "A entrega mútua acontece no contexto da aliança, pois ele a chama de esposa (4:9-10, 4:16)."
+   ],
+   "reflexao": "Como você pode valorizar melhor a fidelidade em seus relacionamentos?",
+   "quiz": [
+    {
+     "pergunta": "Com o que o amado compara a amada, sua esposa?",
+     "opcoes": [
+      "Com um deserto",
+      "Com uma cidade",
+      "Com um rio largo",
+      "Com um jardim fechado"
+     ],
+     "correta": 3,
+     "ref": "4:12"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "A porta que se abriu tarde demais",
+   "chave": "5:16",
+   "resumo": "O amado chega ao jardim e celebra. Depois, numa cena noturna, ele bate à porta, mas a amada hesita; quando ela abre, ele já foi embora. Ela o procura, é ferida pelos guardas e descreve às moças de Jerusalém a beleza do amado, que se destaca entre dez mil.",
+   "licoes": [
+    "Adiar a resposta ao amor pode trazer perda e dor (5:3, 5:6).",
+    "Mesmo depois da falha, a amada continua buscando o amado (5:6-8).",
+    "Falar bem de quem se ama é uma forma de honrar o amor (5:10, 5:16)."
+   ],
+   "reflexao": "Há algum chamado de amor que você tem deixado para depois?",
+   "quiz": [
+    {
+     "pergunta": "Segundo a amada, o amado se destaca entre quantos?",
+     "opcoes": [
+      "Entre cem",
+      "Entre mil",
+      "Entre dez mil",
+      "Entre sete"
+     ],
+     "correta": 2,
+     "ref": "5:10"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "Eu sou do meu amado",
+   "chave": "6:3",
+   "resumo": "As moças perguntam para onde foi o amado, e a amada responde que ele desceu ao seu jardim e afirma: \"eu sou do meu amado, e meu amado é meu\". O amado volta a elogiá-la e diz que, entre rainhas e concubinas, ela é única. O capítulo termina com o chamado à Sulamita para que volte.",
+   "licoes": [
+    "O amor maduro se expressa em pertença mútua (6:3).",
+    "Para quem ama, a pessoa amada é única entre muitas (6:8-9).",
+    "A amada é louvada até pelas outras mulheres, o que mostra a beleza do seu caráter (6:9-10)."
+   ],
+   "reflexao": "O que significa, para você, pertencer a alguém em amor?",
+   "quiz": [
+    {
+     "pergunta": "Como o amado chama a amada entre as rainhas e concubinas?",
+     "opcoes": [
+      "Sua única pomba",
+      "Sua serva",
+      "Sua irmã mais nova",
+      "Sua rainha"
+     ],
+     "correta": 0,
+     "ref": "6:9"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "Ele me deseja",
+   "chave": "7:10",
+   "resumo": "O amado descreve a beleza da amada dos pés à cabeça, com imagens de joias, palmeiras e uvas. Ela responde com alegria: \"eu sou do meu amado, e ele me deseja\". Ela o convida a sair ao campo, às vinhas, onde lhe dará seu amor.",
+   "licoes": [
+    "O desejo dentro do amor fiel é visto como bom na Bíblia (7:6, 7:10).",
+    "A amada se sente segura e desejada, pois pertence ao amado (7:10).",
+    "O amor também é cultivado com tempo a dois, longe da rotina (7:11-12)."
+   ],
+   "reflexao": "Que tempo de qualidade você tem reservado para quem ama?",
+   "quiz": [
+    {
+     "pergunta": "Com que árvore o amado compara a estatura da amada?",
+     "opcoes": [
+      "Com o cedro",
+      "Com a palmeira",
+      "Com a oliveira",
+      "Com a figueira"
+     ],
+     "correta": 1,
+     "ref": "7:7"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "O amor é forte como a morte",
+   "chave": "8:6-7",
+   "resumo": "A amada deseja demonstrar seu amor sem constrangimento e repete o pedido de não despertar o amor antes da hora. Pede ao amado que a ponha como selo sobre o coração, pois o amor é forte como a morte e muitas águas não o apagam. O livro termina com os irmãos dela, a imagem da vinha e um último chamado ao amado.",
+   "licoes": [
+    "O amor verdadeiro é forte como a morte e não pode ser apagado (8:6-7).",
+    "O amor não está à venda; nenhuma riqueza pode comprá-lo (8:7).",
+    "Pela terceira vez se pede para não despertar o amor antes da hora (8:4)."
+   ],
+   "reflexao": "Que \"selo\" de compromisso marca o amor que você vive?",
+   "quiz": [
+    {
+     "pergunta": "Segundo a amada, o amor é forte como o quê?",
+     "opcoes": [
+      "Como o ferro",
+      "Como o leão",
+      "Como a morte",
+      "Como o mar"
+     ],
+     "correta": 2,
+     "ref": "8:6"
+    }
+   ]
+  }
+ ]
+}

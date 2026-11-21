@@ -1,0 +1,713 @@
+{
+ "livro": "josue",
+ "nome": "Josué",
+ "subtitulo": "Deus cumpre a promessa da terra",
+ "introducao": "Josué conta como Israel, sob a liderança do sucessor de Moisés, atravessa o Jordão, conquista Canaã e reparte a terra entre as tribos. O livro mostra que as vitórias vêm de Deus e que a obediência e a fidelidade à aliança são decisivas. Termina com o desafio de escolher a quem servir.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Anônimo; a tradição judaica atribui a Josué, com acréscimos posteriores (como o relato de sua morte, 24:29-33)"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Narra os anos após a morte de Moisés; a data dos fatos (séc. XV ou XIII a.C.) e da redação é debatida"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Canaã, a oeste do Jordão, com acampamento em Gilgal e depois em Siló e Siquém (4:19, 18:1, 24:1)"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Narrativa histórica com listas de fronteiras e cidades"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "24 capítulos e 658 versículos"
+  }
+ ],
+ "chave": "21:45",
+ "temas": [
+  "A fidelidade de Deus às suas promessas",
+  "Coragem que nasce da presença de Deus",
+  "Obediência e as consequências do pecado",
+  "A terra como herança e dom",
+  "Escolher servir ao SENHOR"
+ ],
+ "cristo": "Josué e Jesus têm o mesmo nome em hebraico, que significa \"o SENHOR salva\". Assim como Josué conduziu o povo ao descanso na terra, o Novo Testamento (na carta aos Hebreus) apresenta Jesus como quem conduz ao descanso definitivo; Raabe, salva pela fé, aparece na genealogia de Jesus em Mateus 1.",
+ "secoes": [
+  {
+   "id": "entrada-na-terra",
+   "titulo": "A entrada na terra",
+   "capitulos": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "resumo": "Josué é comissionado, Raabe acolhe os espias e o povo atravessa o Jordão."
+  },
+  {
+   "id": "conquista",
+   "titulo": "A conquista",
+   "capitulos": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "resumo": "Jericó, Ai, a aliança com Gibeão e as campanhas do sul e do norte."
+  },
+  {
+   "id": "reparticao",
+   "titulo": "A repartição da terra",
+   "capitulos": [
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+   ],
+   "resumo": "As tribos recebem sua herança, com cidades de refúgio e dos levitas."
+  },
+  {
+   "id": "ultimas-palavras",
+   "titulo": "Fidelidade à aliança",
+   "capitulos": [
+    22,
+    23,
+    24
+   ],
+   "resumo": "O altar do testemunho, a despedida de Josué e a renovação da aliança em Siquém."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Esforça-te e sê valente",
+   "chave": "1:9",
+   "resumo": "Depois da morte de Moisés, Deus manda Josué atravessar o Jordão com o povo e promete estar com ele como esteve com Moisés. Pede coragem e fidelidade à lei, que deve ser meditada dia e noite. Josué prepara o povo e lembra às tribos de Rúben, Gade e meia tribo de Manassés que devem lutar ao lado dos irmãos; elas prometem obedecer.",
+   "licoes": [
+    "A presença de Deus é a base da coragem: \"não te deixarei, nem te desampararei\" (1:5).",
+    "A verdadeira prosperidade vem de meditar e praticar a palavra de Deus (1:8).",
+    "Coragem não é ausência de medo, mas confiança de que Deus vai junto (1:9).",
+    "O povo de Deus avança unido, cada um ajudando o outro (1:14-15)."
+   ],
+   "reflexao": "Que passo de coragem Deus está pedindo de você nesta fase da vida?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Deus, o que Josué devia fazer com o livro da lei?",
+     "opcoes": [
+      "Meditar nele de dia e de noite",
+      "Guardá-lo na arca e não tocá-lo",
+      "Lê-lo apenas nas festas",
+      "Entregá-lo aos reis vizinhos"
+     ],
+     "correta": 0,
+     "ref": "1:8"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Raabe e os espias",
+   "chave": "2:11",
+   "resumo": "Josué envia dois espias a Jericó, e eles se hospedam na casa de Raabe, uma prostituta. Ela os esconde no terraço sob talos de linho, engana os homens do rei e confessa que o SENHOR é Deus nos céus e na terra. Em troca, pede proteção para sua família, e os espias combinam que ela amarre um cordão de escarlate na janela.",
+   "licoes": [
+    "A fé pode surgir em quem menos se espera; Raabe reconhece o Deus verdadeiro (2:9-11).",
+    "As notícias das obras de Deus alcançam até os inimigos do seu povo (2:10).",
+    "A fé de Raabe se mostra em atitude: ela arrisca a vida pelos espias (2:4-6).",
+    "O cordão de escarlate é sinal de uma promessa de salvação para toda a casa (2:18)."
+   ],
+   "reflexao": "O que a história de Raabe ensina sobre o alcance da graça de Deus para pessoas com passado difícil?",
+   "quiz": [
+    {
+     "pergunta": "Onde Raabe escondeu os espias?",
+     "opcoes": [
+      "No poço do quintal",
+      "Debaixo da cama",
+      "No porão da casa",
+      "No terraço, entre talos de linho"
+     ],
+     "correta": 3,
+     "ref": "2:6"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "O Jordão se abre",
+   "chave": "3:17",
+   "resumo": "O povo segue a arca da aliança, mantendo distância dela, e Josué manda que todos se santifiquem. Quando os pés dos sacerdotes que carregam a arca tocam a água, o Jordão, que estava cheio por ser tempo de colheita, para e se amontoa longe, na cidade de Adã. Os sacerdotes ficam firmes no meio do rio enquanto todo Israel passa em terra seca.",
+   "licoes": [
+    "Diante do que Deus vai fazer, o povo deve se preparar e se santificar (3:5).",
+    "Deus vai na frente, guiando por caminhos que nunca percorremos (3:4).",
+    "O milagre veio quando os sacerdotes deram o primeiro passo na água (3:15-16).",
+    "Deus confirma o líder que Ele escolheu (3:7)."
+   ],
+   "reflexao": "Que \"primeiro passo na água\" Deus pode estar esperando de você?",
+   "quiz": [
+    {
+     "pergunta": "Quando as águas do Jordão pararam?",
+     "opcoes": [
+      "Quando Josué levantou a vara",
+      "Quando os pés dos sacerdotes com a arca tocaram a água",
+      "Quando o povo gritou",
+      "Depois de sete dias de oração"
+     ],
+     "correta": 1,
+     "ref": "3:15-16"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Doze pedras de memória",
+   "chave": "4:24",
+   "resumo": "Doze homens, um de cada tribo, tiram doze pedras do meio do Jordão e as levam até o acampamento em Gilgal, como memorial. Quando os sacerdotes saem do rio com a arca, as águas voltam ao normal. Josué explica que as pedras servem para que os filhos perguntem e ouçam o que Deus fez, e para que todos os povos conheçam a mão forte do SENHOR.",
+   "licoes": [
+    "Memoriais ajudam a lembrar e a contar às novas gerações o que Deus fez (4:6-7).",
+    "O milagre do Jordão ecoa o do mar Vermelho: o mesmo Deus age de novo (4:23).",
+    "As obras de Deus têm um propósito missionário: que todos os povos o conheçam (4:24).",
+    "Deus honra o líder que obedece fielmente (4:14)."
+   ],
+   "reflexao": "Quais são as \"pedras de memória\" da sua vida, que lembram a fidelidade de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Onde Josué ergueu as doze pedras tiradas do Jordão?",
+     "opcoes": [
+      "Em Gilgal",
+      "Em Siquém",
+      "Em Jericó",
+      "Em Betel"
+     ],
+     "correta": 0,
+     "ref": "4:20"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "Gilgal: circuncisão e Páscoa",
+   "chave": "5:15",
+   "resumo": "Os reis de Canaã ficam aterrorizados. Em Gilgal, Josué circuncida a geração nascida no deserto, e Deus declara que tirou deles \"a humilhação do Egito\". O povo celebra a Páscoa, come do fruto da terra e o maná cessa. Perto de Jericó, Josué encontra o Príncipe do exército do SENHOR e é mandado tirar as sandálias, pois o lugar é santo.",
+   "licoes": [
+    "Antes da conquista, Deus renova a identidade do povo pela aliança (5:7, 5:9).",
+    "Quando começa a nova provisão, a antiga cessa: Deus cuida em cada etapa (5:12).",
+    "A questão não é se Deus está do nosso lado, mas se estamos do lado dele (5:13-14).",
+    "Diante do Senhor, a primeira resposta é adoração e humildade (5:14-15)."
+   ],
+   "reflexao": "Você tem buscado que Deus fique do seu lado, ou tem se colocado do lado de Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que aconteceu com o maná depois que Israel comeu do fruto da terra?",
+     "opcoes": [
+      "Continuou caindo aos sábados",
+      "Foi guardado na arca",
+      "Passou a cair em dobro",
+      "Cessou no dia seguinte"
+     ],
+     "correta": 3,
+     "ref": "5:12"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "Os muros de Jericó",
+   "chave": "6:20",
+   "resumo": "Deus manda o exército rodear Jericó uma vez por dia durante seis dias, com sacerdotes tocando trombetas de chifre de carneiro diante da arca. No sétimo dia, dão sete voltas, o povo grita e o muro cai. A cidade é consagrada ao SENHOR, e apenas Raabe e sua família são salvas, como os espias prometeram.",
+   "licoes": [
+    "A vitória vem de confiar e obedecer a Deus, mesmo quando o plano parece estranho (6:2-5).",
+    "Há tempo de silêncio e tempo de gritar; o povo esperou a ordem certa (6:10, 6:16).",
+    "Deus cumpre a promessa feita a quem nele confia: Raabe e sua casa foram salvas (6:25).",
+    "O sucesso de Josué vinha de Deus estar com ele (6:27)."
+   ],
+   "reflexao": "Há alguma situação em que Deus está lhe pedindo paciência e obediência antes de ver o resultado?",
+   "quiz": [
+    {
+     "pergunta": "Quantas voltas foram dadas ao redor de Jericó no sétimo dia?",
+     "opcoes": [
+      "Sete",
+      "Três",
+      "Uma",
+      "Doze"
+     ],
+     "correta": 0,
+     "ref": "6:15"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "O pecado de Acã",
+   "chave": "7:11",
+   "resumo": "Acã, da tribo de Judá, pega às escondidas parte do que havia sido consagrado a Deus em Jericó. Confiante, Israel ataca a pequena cidade de Ai com poucos homens e é derrotado. Josué se prostra diante da arca, e Deus revela que há pecado no meio do povo. Acã é descoberto, confessa que cobiçou um manto, prata e ouro, e é punido no vale de Acor.",
+   "licoes": [
+    "O pecado escondido de um afeta toda a comunidade (7:1, 7:11-12).",
+    "A autoconfiança depois de uma vitória pode levar à derrota (7:3-4).",
+    "O caminho do pecado de Acã foi ver, cobiçar, tomar e esconder (7:21).",
+    "Deus chama ao arrependimento e à confissão sincera (7:19-20)."
+   ],
+   "reflexao": "Há algo escondido na sua vida que precisa ser confessado a Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que Acã escondeu debaixo da terra em sua tenda?",
+     "opcoes": [
+      "Ídolos de madeira",
+      "Armas de Jericó",
+      "Um manto babilônico, prata e uma barra de ouro",
+      "Os vasos do tabernáculo"
+     ],
+     "correta": 2,
+     "ref": "7:21"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "Vitória em Ai e a lei no monte Ebal",
+   "chave": "8:1",
+   "resumo": "Deus encoraja Josué a atacar Ai novamente. Com uma emboscada atrás da cidade e uma falsa fuga, Israel atrai os homens de Ai para fora e toma a cidade. Depois, Josué constrói um altar no monte Ebal, escreve a lei em pedras e lê todas as bênçãos e maldições diante de todo o povo, incluindo mulheres, crianças e estrangeiros.",
+   "licoes": [
+    "Depois do pecado tratado, Deus renova a coragem: \"Não temas, nem desmaies\" (8:1).",
+    "Deus pode usar estratégia e planejamento para dar a vitória (8:4-7).",
+    "A vitória leva ao culto e à renovação da aliança (8:30-31).",
+    "A palavra de Deus é para todos: mulheres, crianças e estrangeiros (8:35)."
+   ],
+   "reflexao": "Depois de um fracasso, o que ajuda você a recomeçar com Deus?",
+   "quiz": [
+    {
+     "pergunta": "Em que monte Josué edificou um altar ao SENHOR depois da vitória em Ai?",
+     "opcoes": [
+      "Ebal",
+      "Gerizim",
+      "Nebo",
+      "Sião"
+     ],
+     "correta": 0,
+     "ref": "8:30"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "A astúcia dos gibeonitas",
+   "chave": "9:14",
+   "resumo": "Enquanto os reis de Canaã se unem contra Israel, os moradores de Gibeão fingem vir de uma terra distante, com pães mofados, odres rasgados e sandálias gastas. Os líderes de Israel fazem aliança com eles sem consultar o SENHOR. Ao descobrirem o engano, mantêm o juramento, mas os gibeonitas passam a cortar lenha e carregar água para a congregação e o altar.",
+   "licoes": [
+    "Decisões tomadas sem consultar a Deus podem nos levar ao engano (9:14).",
+    "As aparências podem enganar até líderes experientes (9:4-5, 9:13).",
+    "Um juramento feito em nome de Deus deve ser respeitado (9:19-20).",
+    "Deus pode transformar um erro em serviço: os gibeonitas passaram a servir no altar (9:27)."
+   ],
+   "reflexao": "Que decisão recente você tomou sem orar ou buscar a direção de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Qual foi o erro dos homens de Israel ao receberem os gibeonitas?",
+     "opcoes": [
+      "Atacaram sem aviso",
+      "Não perguntaram à boca do SENHOR",
+      "Recusaram o pão deles",
+      "Pediram muito dinheiro"
+     ],
+     "correta": 1,
+     "ref": "9:14"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "titulo": "O dia em que o sol parou",
+   "chave": "10:14",
+   "resumo": "Cinco reis amorreus, liderados por Adoni-Zedeque de Jerusalém, atacam Gibeão por ter feito paz com Israel. Josué marcha a noite toda para socorrer os aliados, e Deus faz cair grandes pedras de granizo sobre os inimigos. Josué ora, e o sol e a lua param até o fim da batalha. Os cinco reis são achados numa cova em Maquedá, e Israel conquista as cidades do sul.",
+   "licoes": [
+    "Israel cumpre o compromisso com Gibeão, mesmo nascido de um engano (10:6-7).",
+    "Deus luta pelo seu povo de formas que ultrapassam a força humana (10:11).",
+    "Deus ouve a oração ousada de quem confia nele (10:12-14).",
+    "A vitória de Deus fortalece a coragem para os próximos desafios (10:25)."
+   ],
+   "reflexao": "Que pedido ousado você tem tido receio de fazer a Deus?",
+   "quiz": [
+    {
+     "pergunta": "Onde se esconderam os cinco reis amorreus?",
+     "opcoes": [
+      "Numa cova em Maquedá",
+      "No palácio de Jerusalém",
+      "No monte Hermom",
+      "No vale de Acor"
+     ],
+     "correta": 0,
+     "ref": "10:16"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "titulo": "A conquista do norte",
+   "chave": "11:23",
+   "resumo": "Jabim, rei de Hazor, reúne uma enorme coalizão do norte, com muitos cavalos e carros, junto às águas de Merom. Deus diz a Josué que não tema, e Israel vence de surpresa, aleija os cavalos e queima os carros. Hazor é incendiada, e depois de longa guerra Josué toma toda a terra, que enfim repousa da guerra.",
+   "licoes": [
+    "Um exército \"como a areia que está à beira do mar\" não é grande demais para Deus (11:4, 11:6).",
+    "Israel não devia confiar em cavalos e carros, por isso os inutilizou (11:9).",
+    "Josué obedeceu sem deixar de cumprir nada do que Deus mandou a Moisés (11:15).",
+    "A conquista levou tempo: \"por muitos dias\" houve guerra (11:18)."
+   ],
+   "reflexao": "Em que você é tentado a confiar mais do que em Deus, como os \"cavalos e carros\" da época?",
+   "quiz": [
+    {
+     "pergunta": "Qual cidade Josué queimou, por ter sido a cabeça dos reinos do norte?",
+     "opcoes": [
+      "Dor",
+      "Megido",
+      "Sidom",
+      "Hazor"
+     ],
+     "correta": 3,
+     "ref": "11:10-11"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "titulo": "A lista dos reis vencidos",
+   "chave": "12:24",
+   "resumo": "O capítulo resume as conquistas. Primeiro lembra os reis vencidos por Moisés a leste do Jordão, Seom e Ogue, cuja terra foi dada a Rúben, Gade e meia tribo de Manassés. Depois lista os trinta e um reis derrotados por Josué a oeste do Jordão, de Jericó a Tirsa.",
+   "licoes": [
+    "A obra de Josué continua a de Moisés: Deus é fiel de uma geração à outra (12:6-7).",
+    "Registrar as vitórias ajuda a lembrar a fidelidade de Deus (12:9-24).",
+    "A terra conquistada é dada como herança ao povo (12:7)."
+   ],
+   "reflexao": "Se você fizesse uma lista das vitórias que Deus já lhe deu, o que estaria nela?",
+   "quiz": [
+    {
+     "pergunta": "Quantos reis, ao todo, foram vencidos por Josué a oeste do Jordão?",
+     "opcoes": [
+      "Doze",
+      "Vinte e quatro",
+      "Trinta e um",
+      "Quarenta"
+     ],
+     "correta": 2,
+     "ref": "12:24"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "titulo": "Ainda resta muita terra",
+   "chave": "13:1",
+   "resumo": "Josué já está velho, e Deus lhe diz que ainda resta muita terra a ser possuída, como a região dos filisteus e o Líbano. Deus promete expulsar esses povos e manda repartir a terra entre as tribos. O capítulo descreve as heranças dadas por Moisés, a leste do Jordão, a Rúben, Gade e meia tribo de Manassés, e lembra que Levi não recebe território, pois o SENHOR é sua herança.",
+   "licoes": [
+    "Mesmo depois de muitas vitórias, ainda há caminho a percorrer (13:1).",
+    "Deus assume a parte que o povo não pode fazer: \"eu os desarraigarei\" (13:6).",
+    "Deixar de completar a obra traz convivência com problemas antigos (13:13).",
+    "Para quem serve a Deus, Ele mesmo é a maior herança (13:33)."
+   ],
+   "reflexao": "Que \"terra\" ainda resta para ser conquistada na sua caminhada com Deus?",
+   "quiz": [
+    {
+     "pergunta": "Por que a tribo de Levi não recebeu herança de terra?",
+     "opcoes": [
+      "Porque o SENHOR Deus de Israel era a sua herança",
+      "Porque desobedeceu a Moisés",
+      "Porque era pequena demais",
+      "Porque preferiu morar no deserto"
+     ],
+     "correta": 0,
+     "ref": "13:33"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "titulo": "Calebe pede o monte",
+   "chave": "14:12",
+   "resumo": "Começa a divisão da terra a oeste do Jordão, feita por sorteio por Eleazar, Josué e os chefes das tribos. Calebe, aos 85 anos, lembra a promessa que recebeu quarenta e cinco anos antes, quando foi espia e seguiu fielmente ao SENHOR. Ainda forte, pede a região montanhosa dos anaquins, e Josué lhe dá Hebrom.",
+   "licoes": [
+    "Calebe foi fiel quando os outros desanimaram o povo (14:8).",
+    "Deus guarda suas promessas por décadas (14:10).",
+    "A idade não precisa apagar a coragem e a fé (14:11-12).",
+    "A herança de Calebe é explicada por um motivo: \"cumpriu seguindo ao SENHOR\" (14:14)."
+   ],
+   "reflexao": "Que promessa de Deus você precisa continuar segurando, mesmo depois de muito tempo?",
+   "quiz": [
+    {
+     "pergunta": "Que idade Calebe tinha quando pediu sua herança?",
+     "opcoes": [
+      "Quarenta anos",
+      "Sessenta anos",
+      "Oitenta e cinco anos",
+      "Cento e dez anos"
+     ],
+     "correta": 2,
+     "ref": "14:10"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "titulo": "A herança de Judá",
+   "chave": "15:19",
+   "resumo": "O capítulo traça as fronteiras do território de Judá, do mar Salgado ao mar grande, passando junto a Jerusalém. Calebe conquista Hebrom e oferece sua filha Acsa a quem tomar Debir; Otniel vence, e Acsa pede ao pai também fontes de água. Segue a lista das cidades de Judá, e o capítulo termina dizendo que os jebuseus continuaram em Jerusalém.",
+   "licoes": [
+    "Deus se importa com detalhes: cada fronteira e cidade foi registrada (15:1-12).",
+    "Acsa pede com ousadia o que precisa, e recebe (15:18-19).",
+    "A fé de Calebe inspira a geração seguinte, como Otniel (15:16-17).",
+    "O que não é enfrentado permanece: os jebuseus ficaram em Jerusalém (15:63)."
+   ],
+   "reflexao": "Há algo de que você precisa e que tem tido vergonha de pedir a Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que Acsa pediu a seu pai Calebe?",
+     "opcoes": [
+      "Ouro e prata",
+      "Um exército",
+      "Uma casa em Hebrom",
+      "Fontes de águas"
+     ],
+     "correta": 3,
+     "ref": "15:19"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "titulo": "A herança de Efraim",
+   "chave": "16:4",
+   "resumo": "O capítulo descreve a porção dos filhos de José e, em especial, as fronteiras do território de Efraim, entre o Jordão e o mar. Algumas cidades de Efraim ficavam dentro da herança de Manassés. O texto termina observando que Efraim não expulsou os cananeus de Gezer, que ficaram ali como tributários.",
+   "licoes": [
+    "Deus cumpre a promessa feita a José, dando herança aos seus dois filhos (16:4).",
+    "Obediência parcial é registrada como falha, mesmo com aparente vantagem (16:10).",
+    "Fazer o inimigo pagar tributo não é o mesmo que fazer o que Deus mandou (16:10)."
+   ],
+   "reflexao": "Em que área você tem preferido \"conviver\" com o que deveria abandonar?",
+   "quiz": [
+    {
+     "pergunta": "De que cidade os filhos de Efraim não expulsaram os cananeus?",
+     "opcoes": [
+      "Jericó",
+      "Gezer",
+      "Siquém",
+      "Betel"
+     ],
+     "correta": 1,
+     "ref": "16:10"
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "titulo": "Manassés e as filhas de Zelofeade",
+   "chave": "17:18",
+   "resumo": "A meia tribo de Manassés recebe seu território a oeste do Jordão. As filhas de Zelofeade, que não tinha filhos homens, lembram a ordem de Deus a Moisés e recebem herança entre os parentes. Manassés não expulsa os cananeus de várias cidades. Os filhos de José reclamam de pouca terra, e Josué os desafia a desbravar a floresta da região montanhosa, mesmo diante dos carros de ferro dos cananeus.",
+   "licoes": [
+    "As filhas de Zelofeade buscam com respeito o direito que Deus lhes garantiu (17:3-4).",
+    "Ser um povo grande traz também maior responsabilidade de agir (17:14-15).",
+    "Josué responde à reclamação com um desafio: \"tu o cortarás\" (17:17-18).",
+    "Carros de ferro não são obstáculo grande demais quando Deus promete (17:18)."
+   ],
+   "reflexao": "Você tem reclamado do que falta ou trabalhado com o que Deus já lhe deu?",
+   "quiz": [
+    {
+     "pergunta": "Qual era a reclamação dos filhos de José a Josué?",
+     "opcoes": [
+      "Que a terra era muito seca",
+      "Que estavam longe de Siló",
+      "Que tinham recebido só uma porção sendo um povo grande",
+      "Que não tinham sacerdotes"
+     ],
+     "correta": 2,
+     "ref": "17:14"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "titulo": "Siló e a herança de Benjamim",
+   "chave": "18:3",
+   "resumo": "O povo se reúne em Siló e ali monta o tabernáculo. Sete tribos ainda não haviam recebido sua parte, e Josué pergunta até quando seriam negligentes. Ele envia três homens de cada tribo para percorrer e descrever a terra em sete partes, e depois lança sortes diante do SENHOR. A primeira porção é a de Benjamim, entre Judá e José, incluindo Jebus, que é Jerusalém.",
+   "licoes": [
+    "A presença de Deus fica no centro da vida do povo, em Siló (18:1).",
+    "A negligência pode impedir que recebamos o que Deus já deu (18:3).",
+    "Organização e trabalho em equipe fazem parte de tomar posse das promessas (18:4, 18:9).",
+    "As decisões foram tomadas \"diante do SENHOR\" (18:10)."
+   ],
+   "reflexao": "Em que área você tem sido negligente em receber o que Deus já preparou?",
+   "quiz": [
+    {
+     "pergunta": "Onde foi montado o tabernáculo depois que a terra foi sujeita?",
+     "opcoes": [
+      "Gilgal",
+      "Siló",
+      "Siquém",
+      "Jerusalém"
+     ],
+     "correta": 1,
+     "ref": "18:1"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "titulo": "As últimas heranças",
+   "chave": "19:50",
+   "resumo": "As sortes definem as heranças de Simeão, dentro do território de Judá, e de Zebulom, Issacar, Aser, Naftali e Dã. Os filhos de Dã, com pouco espaço, conquistam Lesém e a chamam Dã. Por último, o povo dá a Josué a cidade que ele pediu, Timnate-Heres, e a divisão da terra se completa em Siló.",
+   "licoes": [
+    "Cada tribo recebeu um lugar; Deus provê para todo o seu povo (19:51).",
+    "Judá partilhou sua porção excessiva com Simeão (19:9).",
+    "Josué, o líder, recebeu sua herança por último, depois de servir a todos (19:49-50)."
+   ],
+   "reflexao": "Como você pode pôr as necessidades dos outros antes das suas, como fez Josué?",
+   "quiz": [
+    {
+     "pergunta": "Que cidade foi dada a Josué como herança?",
+     "opcoes": [
+      "Hebrom",
+      "Berseba",
+      "Siló",
+      "Timnate-Heres"
+     ],
+     "correta": 3,
+     "ref": "19:50"
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "titulo": "As cidades de refúgio",
+   "chave": "20:3",
+   "resumo": "Deus manda separar as cidades de refúgio prometidas por Moisés. Quem matasse alguém sem querer podia fugir para lá, explicar seu caso aos anciãos e ser protegido do vingador até ser julgado; poderia voltar para casa depois da morte do sumo sacerdote. Foram escolhidas seis cidades, três de cada lado do Jordão, valendo também para os estrangeiros.",
+   "licoes": [
+    "Deus providencia proteção para quem não agiu com maldade (20:3).",
+    "A justiça exige ouvir o caso antes de condenar (20:4, 20:6).",
+    "O refúgio era para todos, israelitas e estrangeiros (20:9)."
+   ],
+   "reflexao": "Onde você encontra refúgio quando se sente acusado ou perseguido?",
+   "quiz": [
+    {
+     "pergunta": "Até quando o homicida involuntário devia ficar na cidade de refúgio?",
+     "opcoes": [
+      "Por sete anos",
+      "Até a morte do grande sacerdote daquele tempo",
+      "Até a festa das Cabanas",
+      "Por um mês"
+     ],
+     "correta": 1,
+     "ref": "20:6"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "titulo": "As cidades dos levitas",
+   "chave": "21:45",
+   "resumo": "Os chefes dos levitas pedem as cidades prometidas por Moisés, e as tribos dão a eles quarenta e oito cidades com seus campos, espalhadas por todo Israel. Os sacerdotes, filhos de Arão, recebem treze cidades em Judá, Simeão e Benjamim. O capítulo termina afirmando que Deus deu a terra, deu descanso e não deixou de cumprir nenhuma de suas boas promessas.",
+   "licoes": [
+    "Os levitas espalhados por todo o território serviam e ensinavam em meio ao povo (21:41).",
+    "O povo de Deus sustenta os que servem a Deus (21:3).",
+    "\"Não faltou palavra de todas as boas coisas que o SENHOR falou\" (21:45).",
+    "O descanso prometido foi dado pelo próprio Deus (21:44)."
+   ],
+   "reflexao": "Que promessa de Deus você já viu se cumprir na sua vida?",
+   "quiz": [
+    {
+     "pergunta": "Quantas cidades, ao todo, foram dadas aos levitas?",
+     "opcoes": [
+      "Doze",
+      "Vinte e quatro",
+      "Setenta",
+      "Quarenta e oito"
+     ],
+     "correta": 3,
+     "ref": "21:41"
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "titulo": "O altar junto ao Jordão",
+   "chave": "22:5",
+   "resumo": "Josué abençoa e despede as tribos de Rúben, Gade e meia tribo de Manassés, que cumpriram a promessa de lutar com os irmãos. De volta, elas constroem um grande altar junto ao Jordão, e as outras tribos, achando que é rebeldia, se preparam para a guerra. Fineias e dez líderes vão conversar e descobrem que o altar era apenas um testemunho de que todos pertencem ao SENHOR. A paz é preservada.",
+   "licoes": [
+    "Josué elogia quem cumpriu a palavra e não abandonou os irmãos (22:2-3).",
+    "O centro da vida de fé é amar a Deus e servi-lo de todo o coração (22:5).",
+    "Antes de atacar, é sábio ouvir e entender as intenções do outro (22:13-14, 22:30).",
+    "A preocupação com a fé dos filhos motivou o altar de testemunho (22:24-27)."
+   ],
+   "reflexao": "Há algum conflito em que você precisa conversar antes de tirar conclusões?",
+   "quiz": [
+    {
+     "pergunta": "Quem liderou a comitiva enviada para conversar com as tribos do outro lado do Jordão?",
+     "opcoes": [
+      "Calebe",
+      "Eleazar",
+      "Fineias",
+      "Otniel"
+     ],
+     "correta": 2,
+     "ref": "22:13"
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "titulo": "A despedida de Josué aos líderes",
+   "chave": "23:14",
+   "resumo": "Já velho, Josué reúne os líderes de Israel e lembra que foi Deus quem lutou por eles. Ele os exorta a guardar a lei de Moisés, a não servir os deuses das nações que ficaram e a amar o SENHOR. Avisa que, se se misturarem com essas nações e abandonarem a aliança, elas se tornarão laço e espinho, e o povo perderá a boa terra.",
+   "licoes": [
+    "As vitórias de Israel vieram de Deus: \"o SENHOR vosso Deus lutou por vós\" (23:3).",
+    "É preciso vigiar o coração para continuar amando a Deus (23:11).",
+    "Concessões ao que nos afasta de Deus viram laço e espinho (23:12-13).",
+    "Nenhuma das boas promessas de Deus falhou (23:14)."
+   ],
+   "reflexao": "Que conselho você deixaria para quem vem depois de você na fé?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Josué, quantos inimigos um só israelita perseguiria, porque Deus lutava por eles?",
+     "opcoes": [
+      "Dez",
+      "Cem",
+      "Mil",
+      "Dez mil"
+     ],
+     "correta": 2,
+     "ref": "23:10"
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "titulo": "Eu e a minha casa serviremos ao SENHOR",
+   "chave": "24:15",
+   "resumo": "Em Siquém, Josué reconta a história de Israel desde Terá e Abraão até a conquista, mostrando que tudo foi dom de Deus. Ele desafia o povo a escolher a quem servir e declara: \"eu e minha casa serviremos ao SENHOR\". O povo promete servir a Deus, Josué faz aliança com eles e ergue uma grande pedra como testemunha. O livro termina com as mortes de Josué e Eleazar e o sepultamento dos ossos de José.",
+   "licoes": [
+    "Nossa história com Deus começa pela graça dele, não pelo nosso mérito (24:2-3, 24:13).",
+    "Servir a Deus é uma escolha pessoal e familiar que precisa ser feita hoje (24:15).",
+    "Servir a Deus pede deixar de lado os outros \"deuses\" (24:14, 24:23).",
+    "Uma geração que conhece as obras de Deus influencia a fé do povo (24:31)."
+   ],
+   "reflexao": "Que decisão concreta mostra hoje que você e sua casa servem ao SENHOR?",
+   "quiz": [
+    {
+     "pergunta": "Onde Josué reuniu as tribos para renovar a aliança?",
+     "opcoes": [
+      "Siló",
+      "Siquém",
+      "Gilgal",
+      "Jericó"
+     ],
+     "correta": 1,
+     "ref": "24:1"
+    }
+   ]
+  }
+ ]
+}

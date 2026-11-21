@@ -1,0 +1,666 @@
+{
+ "livro": "1-reis",
+ "nome": "1 Reis",
+ "subtitulo": "Da glória de Salomão à divisão do reino",
+ "introducao": "1 Reis começa com Salomão no trono, a sabedoria dada por Deus e a construção do templo em Jerusalém. Mas o coração do rei se desvia, e o reino se divide em Israel, ao norte, e Judá, ao sul. A segunda metade acompanha reis infiéis e a voz corajosa de profetas como Elias, mostrando que a história do povo depende da fidelidade à aliança com o SENHOR.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Anônimo; a tradição judaica atribui Reis a Jeremias, e muitos estudiosos falam de um historiador ou grupo que usou crônicas reais (11:41, 14:19)"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Narra cerca de 120 anos (c. 970–850 a.C.); a forma final de 1 e 2 Reis costuma ser datada durante ou logo após o exílio na Babilônia"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Jerusalém, Samaria e os reinos de Israel e Judá"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "O povo de Israel, especialmente quem buscava entender a perda da terra e do templo"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Narrativa histórica com relatos proféticos"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "22 capítulos e 816 versículos"
+  }
+ ],
+ "chave": "9:4-5",
+ "temas": [
+  "A sabedoria vem de Deus e serve ao povo",
+  "O templo e a presença de Deus no meio de Israel",
+  "A idolatria divide e destrói",
+  "Deus fala por meio dos profetas",
+  "A fidelidade de Deus à promessa feita a Davi"
+ ],
+ "cristo": "Salomão, o filho de Davi que edifica a casa de Deus e governa com sabedoria, deixa saudade de um rei melhor; Jesus se apresenta como \"maior do que Salomão\" (Mateus 12) e como o verdadeiro lugar da presença de Deus. A fidelidade de Deus em manter a \"lâmpada\" de Davi aponta para o Messias da linhagem davídica.",
+ "secoes": [
+  {
+   "id": "salomao-assume",
+   "titulo": "Salomão assume o trono",
+   "capitulos": [
+    1,
+    2
+   ],
+   "resumo": "Davi passa o reino a Salomão, que consolida seu governo."
+  },
+  {
+   "id": "sabedoria-e-templo",
+   "titulo": "Sabedoria e templo",
+   "capitulos": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ],
+   "resumo": "Deus dá sabedoria a Salomão, que constrói e dedica o templo."
+  },
+  {
+   "id": "gloria-e-queda",
+   "titulo": "Glória e queda de Salomão",
+   "capitulos": [
+    9,
+    10,
+    11
+   ],
+   "resumo": "O auge do reino e o coração do rei que se desvia."
+  },
+  {
+   "id": "reino-dividido",
+   "titulo": "O reino dividido",
+   "capitulos": [
+    12,
+    13,
+    14,
+    15,
+    16
+   ],
+   "resumo": "Israel e Judá se separam, e reis se sucedem em meio à idolatria."
+  },
+  {
+   "id": "elias-e-acabe",
+   "titulo": "Elias e Acabe",
+   "capitulos": [
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+   ],
+   "resumo": "O profeta Elias confronta Acabe e o culto a Baal."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Salomão é ungido rei",
+   "chave": "1:30",
+   "resumo": "Com Davi já velho, Adonias se proclama rei com apoio de Joabe e do sacerdote Abiatar. O profeta Natã e Bate-Seba lembram a Davi a promessa de que Salomão reinaria. Davi manda ungir Salomão em Giom, o povo celebra e Adonias, com medo, se agarra às pontas do altar.",
+   "licoes": [
+    "Quem se exalta por conta própria, como Adonias ao dizer \"Eu reinarei\", constrói sobre areia (1:5).",
+    "A falta de correção dos pais deixa marcas: Davi nunca confrontou Adonias (1:6).",
+    "Natã age com coragem e prudência para que a palavra dada se cumpra (1:11-14).",
+    "Davi cumpre seu juramento e reconhece que é o SENHOR quem dá o sucessor (1:30, 1:48)."
+   ],
+   "reflexao": "Há alguma promessa que você fez e ainda precisa cumprir?",
+   "quiz": [
+    {
+     "pergunta": "Onde Salomão foi ungido rei?",
+     "opcoes": [
+      "Em Hebrom",
+      "Em Giom",
+      "Em Gibeão",
+      "Em Siló"
+     ],
+     "correta": 1,
+     "ref": "1:38-39"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "As últimas palavras de Davi",
+   "chave": "2:3",
+   "resumo": "Antes de morrer, Davi exorta Salomão a guardar a lei do SENHOR e dá instruções sobre Joabe, os filhos de Barzilai e Simei. Depois da morte de Davi, Adonias pede Abisague por mulher e é executado; Abiatar é afastado do sacerdócio, Joabe é morto junto ao altar e Simei morre por quebrar o juramento. O reino fica firme nas mãos de Salomão.",
+   "licoes": [
+    "A verdadeira força de um líder está em guardar os caminhos de Deus (2:2-3).",
+    "A promessa a Davi depende da fidelidade de seus descendentes (2:4).",
+    "Palavras e juramentos têm consequências: Simei descumpre o que prometeu (2:42-43).",
+    "O afastamento de Abiatar cumpre a palavra dita sobre a casa de Eli (2:27)."
+   ],
+   "reflexao": "O que significa, para você, \"ser forte\" segundo os caminhos de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Para onde Salomão mandou o sacerdote Abiatar?",
+     "opcoes": [
+      "Para Anatote",
+      "Para Gate",
+      "Para Hebrom",
+      "Para o Egito"
+     ],
+     "correta": 0,
+     "ref": "2:26"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Um coração que sabe ouvir",
+   "chave": "3:9",
+   "resumo": "Salomão casa-se com a filha de Faraó e oferece sacrifícios em Gibeão. Em sonho, Deus lhe diz para pedir o que quiser, e ele pede um coração entendido para julgar o povo. Deus lhe dá sabedoria e também riqueza e honra. Logo depois, Salomão resolve o caso das duas mulheres que disputam um bebê.",
+   "licoes": [
+    "Salomão reconhece a própria limitação: \"sou um tenro jovem\" (3:7).",
+    "Pedir sabedoria para servir agrada a Deus mais do que pedir vantagens pessoais (3:10-11).",
+    "Deus dá além do que se pede a quem busca o que é certo (3:13).",
+    "A sabedoria verdadeira aparece na prática, protegendo a vida e a justiça (3:26-28)."
+   ],
+   "reflexao": "Se Deus lhe dissesse \"pede o que queres\", o que você pediria?",
+   "quiz": [
+    {
+     "pergunta": "O que Salomão pediu a Deus em Gibeão?",
+     "opcoes": [
+      "Riquezas",
+      "Longa vida",
+      "Um coração entendido para julgar",
+      "A morte dos inimigos"
+     ],
+     "correta": 2,
+     "ref": "3:9"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "A organização e a fama do reino",
+   "chave": "4:29",
+   "resumo": "O capítulo lista os oficiais de Salomão e os doze governadores que abasteciam a casa do rei, cada um por um mês. Judá e Israel vivem em paz e fartura, cada um debaixo de sua videira e de sua figueira. Deus dá a Salomão grande sabedoria, e gente de todos os povos vem ouvi-lo.",
+   "licoes": [
+    "A paz e a fartura do reino são apresentadas como bênção de Deus ao povo (4:20, 4:25).",
+    "A sabedoria de Salomão é dom de Deus, não mérito próprio (4:29).",
+    "O conhecimento da criação, de árvores a animais, faz parte da sabedoria (4:33)."
+   ],
+   "reflexao": "Como você pode usar seus dons para o bem de outras pessoas?",
+   "quiz": [
+    {
+     "pergunta": "Quantas parábolas (provérbios) Salomão propôs?",
+     "opcoes": [
+      "Mil",
+      "Doze mil",
+      "Cinco mil",
+      "Três mil"
+     ],
+     "correta": 3,
+     "ref": "4:32"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "Preparativos para o templo",
+   "chave": "5:5",
+   "resumo": "Hirão, rei de Tiro, amigo de Davi, envia mensageiros a Salomão. Salomão explica que Davi não pôde construir o templo por causa das guerras e pede cedros do Líbano. Os dois fazem aliança, e Salomão convoca trabalhadores para cortar madeira e pedras.",
+   "licoes": [
+    "Salomão vê no descanso dado por Deus a ocasião de cumprir o plano de construir a casa do SENHOR (5:4-5).",
+    "Deus pode usar parcerias com pessoas de outros povos para realizar sua obra (5:7-8).",
+    "A obra exigiu organização, esforço e muito trabalho (5:13-18)."
+   ],
+   "reflexao": "Que \"obra\" Deus colocou em suas mãos neste tempo de paz?",
+   "quiz": [
+    {
+     "pergunta": "De onde vinham os cedros para o templo?",
+     "opcoes": [
+      "Do Egito",
+      "Do Líbano",
+      "De Basã",
+      "De Ofir"
+     ],
+     "correta": 1,
+     "ref": "5:6"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "A construção do templo",
+   "chave": "6:13",
+   "resumo": "No quarto ano de seu reinado, Salomão começa a construir o templo, com pedras já preparadas, sem barulho de ferramentas no local. O SENHOR promete habitar no meio de Israel se Salomão obedecer. O interior é revestido de cedro e ouro, e dois grandes querubins são postos no lugar santíssimo. A obra dura sete anos.",
+   "licoes": [
+    "A presença de Deus no meio do povo está ligada à obediência, não apenas ao prédio (6:12-13).",
+    "O lugar santíssimo foi preparado para a arca do pacto, sinal da aliança (6:19).",
+    "A beleza e o cuidado da obra expressam honra a Deus (6:21-22)."
+   ],
+   "reflexao": "O que mostra que Deus é o centro da sua vida, além das aparências?",
+   "quiz": [
+    {
+     "pergunta": "Quantos anos durou a construção do templo?",
+     "opcoes": [
+      "Três",
+      "Sete",
+      "Treze",
+      "Quarenta"
+     ],
+     "correta": 1,
+     "ref": "6:38"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "O palácio e os utensílios do templo",
+   "chave": "7:51",
+   "resumo": "Salomão constrói seu palácio em treze anos, além de outros edifícios. Hirão, artífice de bronze, faz as colunas Jaquim e Boaz, o grande \"mar\" de fundição sobre doze bois, as bases e as pias. Salomão também manda fazer os utensílios de ouro e guarda no templo o que Davi havia dedicado.",
+   "licoes": [
+    "As colunas recebem nomes: Jaquim e Boaz, lembrando estabilidade e força vindas de Deus (7:21).",
+    "Talentos artísticos e técnicos podem servir ao culto a Deus (7:14).",
+    "Salomão honra o que Davi havia separado para o SENHOR (7:51)."
+   ],
+   "reflexao": "Que habilidade sua pode ser dedicada ao serviço de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Que nome recebeu a coluna da direita?",
+     "opcoes": [
+      "Boaz",
+      "Hirão",
+      "Jaquim",
+      "Giom"
+     ],
+     "correta": 2,
+     "ref": "7:21"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "A dedicação do templo",
+   "chave": "8:27",
+   "resumo": "A arca é levada ao lugar santíssimo e a nuvem da glória do SENHOR enche a casa. Salomão abençoa o povo e faz uma longa oração: Deus não cabe nem nos céus, mas ouve quem ora voltado para aquela casa, inclusive o estrangeiro e o povo no exílio. A festa termina com grande alegria.",
+   "licoes": [
+    "Deus não pode ser contido por nenhum edifício, mas se dispõe a ouvir seu povo (8:27-30).",
+    "\"Ninguém há que não peque\": a oração inclui confissão e pedido de perdão (8:46-50).",
+    "A casa de Deus também é para o estrangeiro, para que todos os povos conheçam o SENHOR (8:41-43).",
+    "Nenhuma das boas promessas de Deus falhou (8:56)."
+   ],
+   "reflexao": "Que promessa de Deus você já viu se cumprir em sua vida?",
+   "quiz": [
+    {
+     "pergunta": "O que havia dentro da arca?",
+     "opcoes": [
+      "O maná e a vara de Arão",
+      "O livro da lei",
+      "As duas tábuas de pedra",
+      "Nada"
+     ],
+     "correta": 2,
+     "ref": "8:9"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "A segunda aparição e as obras de Salomão",
+   "chave": "9:4-5",
+   "resumo": "Deus aparece de novo a Salomão: ouviu sua oração e santificou o templo, mas avisa que, se o povo seguir outros deuses, a casa será abandonada e Israel cortado da terra. O capítulo descreve ainda as cidades dadas a Hirão, o trabalho forçado imposto aos povos remanescentes e a frota que trazia ouro de Ofir.",
+   "licoes": [
+    "A bênção de Deus vem acompanhada de um chamado à integridade de coração (9:4-5).",
+    "Deus adverte com clareza: a idolatria traria ruína até à casa mais bela (9:6-9).",
+    "Prosperidade e grandes obras não substituem a fidelidade (9:25-28)."
+   ],
+   "reflexao": "Que avisos de Deus você tem tratado como se não fossem para você?",
+   "quiz": [
+    {
+     "pergunta": "Que nome Hirão deu às cidades que recebeu de Salomão?",
+     "opcoes": [
+      "Terra de Tadmor",
+      "Terra de Ofir",
+      "Terra de Cabul",
+      "Terra de Gezer"
+     ],
+     "correta": 2,
+     "ref": "9:13"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "titulo": "A rainha de Sabá e a riqueza de Salomão",
+   "chave": "10:9",
+   "resumo": "A rainha de Sabá ouve falar da fama de Salomão e vem a Jerusalém testá-lo com perguntas difíceis. Impressionada com sua sabedoria e com tudo o que viu, ela bendiz o SENHOR e troca presentes com o rei. O capítulo descreve o ouro, o trono de marfim e o comércio de cavalos de Salomão.",
+   "licoes": [
+    "A fama de Salomão está ligada \"ao nome do SENHOR\" (10:1).",
+    "A rainha reconhece que a realidade superava o que ouvira (10:7).",
+    "Ela entende que o rei existe para \"fazer juízo e justiça\" ao povo (10:9).",
+    "O acúmulo de ouro, cavalos e carros prepara o terreno para os desvios do capítulo seguinte (10:26-28)."
+   ],
+   "reflexao": "O que as pessoas percebem de Deus ao observar sua vida?",
+   "quiz": [
+    {
+     "pergunta": "Quantos degraus tinha o trono de Salomão?",
+     "opcoes": [
+      "Três",
+      "Sete",
+      "Seis",
+      "Doze"
+     ],
+     "correta": 2,
+     "ref": "10:19"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "titulo": "O coração de Salomão se desvia",
+   "chave": "11:4",
+   "resumo": "Salomão ama muitas mulheres estrangeiras, e na velhice elas desviam seu coração para outros deuses. O SENHOR anuncia que tirará o reino de seu filho, deixando uma tribo por amor de Davi. Surgem adversários, e o profeta Aías rasga uma capa em doze pedaços e dá dez a Jeroboão. Salomão morre após quarenta anos de reinado.",
+   "licoes": [
+    "O coração dividido se afasta aos poucos: o desvio de Salomão aconteceu ao longo do tempo (11:4).",
+    "Deus é paciente, mas leva a sério a infidelidade (11:9-11).",
+    "Mesmo no juízo, Deus guarda sua promessa a Davi (11:12-13).",
+    "O sinal da capa rasgada mostra que a divisão do reino vem da palavra de Deus (11:30-31)."
+   ],
+   "reflexao": "Que influências estão moldando, pouco a pouco, o seu coração?",
+   "quiz": [
+    {
+     "pergunta": "Em quantos pedaços Aías rasgou a capa?",
+     "opcoes": [
+      "Doze",
+      "Dez",
+      "Dois",
+      "Sete"
+     ],
+     "correta": 0,
+     "ref": "11:30"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "titulo": "O reino se divide",
+   "chave": "12:16",
+   "resumo": "Em Siquém, o povo pede a Roboão que alivie o jugo pesado. Ele rejeita o conselho dos anciãos, segue o dos jovens e responde com dureza. As dez tribos do norte se separam e fazem Jeroboão rei; Deus impede a guerra entre irmãos. Com medo de perder o povo, Jeroboão faz dois bezerros de ouro em Betel e Dã.",
+   "licoes": [
+    "O líder que serve conquista o coração do povo (12:7).",
+    "Recusar o conselho sábio por orgulho pode custar muito caro (12:13-14).",
+    "Obedecer a Deus às vezes significa não lutar (12:24).",
+    "Jeroboão troca a fé pelo cálculo político e cria um culto falso (12:26-28)."
+   ],
+   "reflexao": "De quem você costuma ouvir conselhos quando precisa decidir algo importante?",
+   "quiz": [
+    {
+     "pergunta": "Onde Jeroboão colocou os bezerros de ouro?",
+     "opcoes": [
+      "Em Siquém e Siló",
+      "Em Samaria e Tirsa",
+      "Em Gibeão e Jericó",
+      "Em Betel e Dã"
+     ],
+     "correta": 3,
+     "ref": "12:29"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "titulo": "O homem de Deus de Judá",
+   "chave": "13:2",
+   "resumo": "Um homem de Deus vindo de Judá anuncia, diante de Jeroboão, que um descendente de Davi chamado Josias destruirá o altar de Betel. A mão do rei seca e o altar se racha. O mensageiro recusa a hospitalidade do rei, mas depois é enganado por um velho profeta, desobedece e é morto por um leão. Jeroboão não se converte.",
+   "licoes": [
+    "A palavra de Deus pode anunciar o futuro com precisão, até o nome de Josias (13:2).",
+    "Obedecer a Deus exige firmeza mesmo diante de ofertas atraentes (13:8-9).",
+    "Nenhuma voz, mesmo religiosa, tem autoridade para anular o que Deus disse (13:18-19).",
+    "Ver sinais não basta: Jeroboão não mudou de caminho (13:33)."
+   ],
+   "reflexao": "Como você confere se um conselho \"espiritual\" está de acordo com a palavra de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Que nome de rei o homem de Deus anunciou contra o altar de Betel?",
+     "opcoes": [
+      "Ezequias",
+      "Davi",
+      "Josias",
+      "Asa"
+     ],
+     "correta": 2,
+     "ref": "13:2"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "titulo": "Juízo sobre Jeroboão e a decadência de Judá",
+   "chave": "14:8",
+   "resumo": "O filho de Jeroboão adoece, e a esposa do rei vai disfarçada consultar o profeta Aías, já cego. Deus revela tudo a Aías, que anuncia o fim da casa de Jeroboão; o menino morre ao ela chegar em casa. Em Judá, Roboão e o povo também praticam idolatria, e Sisaque, rei do Egito, saqueia os tesouros de Jerusalém.",
+   "licoes": [
+    "Não há disfarce diante de Deus (14:5-6).",
+    "Deus elogia em Davi o coração que segue o SENHOR \"de todo seu coração\" (14:8).",
+    "Os escudos de ouro trocados por bronze mostram a glória perdida pelo pecado (14:26-27)."
+   ],
+   "reflexao": "Em que área você tem tentado \"se disfarçar\" diante de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Quem saqueou os tesouros de Jerusalém no tempo de Roboão?",
+     "opcoes": [
+      "Hirão",
+      "Ben-Hadade",
+      "Sisaque",
+      "Hadade"
+     ],
+     "correta": 2,
+     "ref": "14:25-26"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "titulo": "Abião, Asa, Nadabe e Baasa",
+   "chave": "15:11",
+   "resumo": "Em Judá, Abião reina três anos e segue os pecados do pai, mas Deus mantém a \"lâmpada\" de Davi. Seu filho Asa faz o que é reto, remove ídolos e até destitui a avó Maaca, embora recorra a Ben-Hadade da Síria contra Baasa. Em Israel, Nadabe, filho de Jeroboão, é morto por Baasa, que extermina a casa de Jeroboão.",
+   "licoes": [
+    "Deus é fiel à sua promessa a Davi mesmo quando os descendentes falham (15:4).",
+    "Asa mostra coragem ao remover a idolatria até dentro da própria família (15:13).",
+    "A palavra de Aías contra a casa de Jeroboão se cumpre (15:29)."
+   ],
+   "reflexao": "Há algo em sua vida que você precisa remover, mesmo que custe uma relação próxima?",
+   "quiz": [
+    {
+     "pergunta": "Por quantos anos Asa reinou em Jerusalém?",
+     "opcoes": [
+      "Três",
+      "Quarenta e um",
+      "Vinte e dois",
+      "Dezessete"
+     ],
+     "correta": 1,
+     "ref": "15:10"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "titulo": "Uma sucessão de reis maus em Israel",
+   "chave": "16:30",
+   "resumo": "O profeta Jeú anuncia o fim da casa de Baasa. Elá reina pouco e é morto por Zinri, que reina apenas sete dias e morre no incêndio do palácio. Onri vence a disputa, compra o monte de Samaria e funda ali a capital. Seu filho Acabe casa-se com Jezabel e introduz o culto a Baal, fazendo pior que todos antes dele.",
+   "licoes": [
+    "A instabilidade dos reis de Israel mostra o fruto de abandonar a Deus (16:9-13).",
+    "O poder conquistado com violência não traz paz (16:18-19).",
+    "Acabe vai além dos pecados anteriores ao servir a Baal (16:31-33).",
+    "A palavra dita por Josué sobre Jericó se cumpre em Hiel (16:34)."
+   ],
+   "reflexao": "Que \"pequenos\" pecados você trata como pouca coisa?",
+   "quiz": [
+    {
+     "pergunta": "Quantos dias Zinri reinou?",
+     "opcoes": [
+      "Três",
+      "Quarenta",
+      "Sete",
+      "Um ano"
+     ],
+     "correta": 2,
+     "ref": "16:15"
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "titulo": "Elias, os corvos e a viúva de Sarepta",
+   "chave": "17:24",
+   "resumo": "Elias anuncia a Acabe que não haverá chuva nem orvalho. Deus o sustenta com corvos no ribeiro de Querite e depois o envia a uma viúva de Sarepta, cuja farinha e azeite não acabam. Quando o filho da viúva morre, Elias ora e o menino volta a viver.",
+   "licoes": [
+    "O mesmo Deus que retém a chuva cuida de seu servo na seca (17:4-6).",
+    "Deus usa uma viúva pobre e estrangeira para sustentar o profeta (17:9).",
+    "A fé dá o primeiro passo antes de ver a provisão (17:13-16).",
+    "Deus ouve a oração sincera, e a vida volta ao menino (17:22)."
+   ],
+   "reflexao": "Em que situação de \"escassez\" você precisa confiar no cuidado de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Quem levava pão e carne a Elias no ribeiro de Querite?",
+     "opcoes": [
+      "Uma viúva",
+      "Os corvos",
+      "Obadias",
+      "Um anjo"
+     ],
+     "correta": 1,
+     "ref": "17:6"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "titulo": "Elias no monte Carmelo",
+   "chave": "18:21",
+   "resumo": "No terceiro ano da seca, Elias se apresenta a Acabe por meio de Obadias. No Carmelo, desafia os profetas de Baal: o deus que responder com fogo é o verdadeiro. Baal não responde; Elias ora com simplicidade e o fogo do SENHOR consome o sacrifício encharcado. O povo confessa que o SENHOR é Deus, e logo vem a chuva.",
+   "licoes": [
+    "Não há como servir a dois senhores: \"até quando hesitareis?\" (18:21).",
+    "Obadias serviu a Deus com coragem em meio a um governo perverso (18:3-4).",
+    "A oração de Elias busca que o povo reconheça o SENHOR e volte o coração a ele (18:36-37).",
+    "Elias ora com perseverança até ver a pequena nuvem (18:43-44)."
+   ],
+   "reflexao": "Entre quais \"dois pensamentos\" você tem hesitado?",
+   "quiz": [
+    {
+     "pergunta": "Quantas vezes o servo de Elias foi olhar para o mar até ver a nuvem?",
+     "opcoes": [
+      "Sete",
+      "Quatro",
+      "Três",
+      "Doze"
+     ],
+     "correta": 0,
+     "ref": "18:44"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "titulo": "Elias no Horebe",
+   "chave": "19:12",
+   "resumo": "Ameaçado por Jezabel, Elias foge para o deserto e pede para morrer. Um anjo o alimenta, e ele caminha quarenta dias até o Horebe. Ali Deus não se manifesta no vento, no terremoto nem no fogo, mas numa voz suave, e envia Elias para ungir Hazael, Jeú e Eliseu, lembrando que restam sete mil fiéis. Eliseu deixa os bois e segue Elias.",
+   "licoes": [
+    "Até servos fiéis passam por esgotamento e desânimo (19:4).",
+    "Deus cuida primeiro do corpo cansado: comida, água e descanso (19:5-8).",
+    "Deus pode falar de modo suave, não só em grandes sinais (19:11-12).",
+    "Elias não estava sozinho: Deus guardou sete mil fiéis (19:18)."
+   ],
+   "reflexao": "Quando você se sente esgotado, como pode deixar Deus cuidar de você?",
+   "quiz": [
+    {
+     "pergunta": "Como o SENHOR se manifestou a Elias no Horebe?",
+     "opcoes": [
+      "No vento forte",
+      "Numa voz suave",
+      "No fogo",
+      "No terremoto"
+     ],
+     "correta": 1,
+     "ref": "19:12"
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "titulo": "Vitórias sobre a Síria",
+   "chave": "20:28",
+   "resumo": "Ben-Hadade, rei da Síria, cerca Samaria com trinta e dois reis e faz exigências humilhantes. Um profeta anuncia que o SENHOR entregará a multidão nas mãos de Acabe, e Israel vence duas vezes, inclusive em Afeque. Mas Acabe poupa Ben-Hadade e faz aliança com ele, e um profeta anuncia que pagará com a própria vida.",
+   "licoes": [
+    "Deus dá vitória para que Israel saiba \"que eu sou o SENHOR\" (20:13).",
+    "O orgulho do inimigo é desmentido: o SENHOR não é só deus dos montes (20:28).",
+    "Acabe trata com leveza o que Deus havia condenado e recebe juízo (20:42)."
+   ],
+   "reflexao": "Em que momento você reconheceu que uma vitória veio de Deus, e não de você?",
+   "quiz": [
+    {
+     "pergunta": "Por que os sírios achavam que venceriam lutando na planície?",
+     "opcoes": [
+      "Porque tinham mais carros",
+      "Porque Acabe estava doente",
+      "Porque achavam que os deuses de Israel eram deuses dos montes",
+      "Porque o profeta os aconselhou"
+     ],
+     "correta": 2,
+     "ref": "20:23"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "titulo": "A vinha de Nabote",
+   "chave": "21:19",
+   "resumo": "Nabote se recusa a vender a Acabe a herança de seus pais. Jezabel arma um falso julgamento com testemunhas mentirosas, e Nabote é apedrejado. Quando Acabe toma posse da vinha, Elias anuncia o juízo sobre ele, sua casa e Jezabel. Acabe se humilha, e Deus adia o castigo.",
+   "licoes": [
+    "Nabote honra a herança recebida de Deus mais do que a vantagem com o rei (21:3).",
+    "A cobiça leva a injustiças terríveis quando ninguém resiste ao mal (21:7-13).",
+    "Deus vê o que é feito às escondidas e chama o culpado à conta (21:19).",
+    "Até o arrependimento de Acabe é notado por Deus (21:29)."
+   ],
+   "reflexao": "Há algo que você deseja tanto a ponto de ser tentado a passar por cima de alguém?",
+   "quiz": [
+    {
+     "pergunta": "De que Nabote foi falsamente acusado?",
+     "opcoes": [
+      "De blasfemar contra Deus e o rei",
+      "De roubar o rei",
+      "De adorar Baal",
+      "De mover os marcos da terra"
+     ],
+     "correta": 0,
+     "ref": "21:13"
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "titulo": "Micaías e a morte de Acabe",
+   "chave": "22:14",
+   "resumo": "Acabe convida Josafá, rei de Judá, para atacar Ramote de Gileade. Quatrocentos profetas prometem vitória, mas Micaías anuncia a derrota e é preso. Acabe vai disfarçado à batalha, mas uma flecha atirada ao acaso o fere, e ele morre; os cães lambem seu sangue. O livro termina com o reinado de Josafá em Judá e o início de Acazias em Israel.",
+   "licoes": [
+    "Fidelidade a Deus é dizer o que ele diz, mesmo sendo o único (22:14).",
+    "A maioria pode estar errada; Josafá pede outro profeta do SENHOR (22:7).",
+    "Nenhum disfarce livra do juízo anunciado por Deus (22:30, 22:34).",
+    "Josafá é lembrado por andar no caminho reto do pai (22:43)."
+   ],
+   "reflexao": "Você tem buscado conselhos que dizem a verdade ou só o que quer ouvir?",
+   "quiz": [
+    {
+     "pergunta": "Qual profeta anunciou a derrota de Acabe em Ramote de Gileade?",
+     "opcoes": [
+      "Elias",
+      "Micaías",
+      "Zedequias",
+      "Eliseu"
+     ],
+     "correta": 1,
+     "ref": "22:17"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1367 @@
+{
+ "livro": "ezequiel",
+ "nome": "Ezequiel",
+ "subtitulo": "A glória de Deus que parte e volta",
+ "introducao": "Ezequiel era sacerdote e foi levado para a Babilônia com outros judeus, onde recebeu visões impressionantes da glória de Deus. Ele anunciou aos exilados a queda de Jerusalém por causa de seus pecados e viu a glória do SENHOR deixar o templo. Depois da queda, sua mensagem se volta para a esperança: um coração novo, ossos secos que revivem e um novo templo onde Deus habitará para sempre.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Ezequiel, sacerdote, filho de Buzi (1:3); a maioria dos estudiosos aceita que o núcleo do livro vem dele"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Entre cerca de 593 e 571 a.C., do 5º ao 27º ano do exílio do rei Joaquim (1:2, 29:17)"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Na Babilônia, junto ao rio Quebar, entre os exilados (1:1, 3:15)"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "Os judeus exilados na Babilônia e, indiretamente, os que ficaram em Jerusalém"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Profecia, com visões, ações simbólicas, parábolas e oráculos"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "48 capítulos e 1273 versículos"
+  }
+ ],
+ "chave": "36:26-27",
+ "temas": [
+  "A glória e a santidade de Deus",
+  "Responsabilidade pessoal diante de Deus",
+  "Juízo sobre a idolatria e a injustiça",
+  "Coração novo e Espírito de Deus",
+  "Restauração e a presença de Deus no meio do povo"
+ ],
+ "cristo": "Ezequiel promete um Bom Pastor da linhagem de Davi que reunirá as ovelhas (34:23), e Jesus se apresenta como o Bom Pastor no Evangelho de João. A promessa de um coração novo e do Espírito dentro do povo (36:26-27) é entendida no Novo Testamento como cumprida pela obra do Espírito Santo, e a imagem do rio de vida que sai do templo reaparece no Apocalipse.",
+ "secoes": [
+  {
+   "id": "chamado",
+   "titulo": "A visão e o chamado",
+   "capitulos": [
+    1,
+    2,
+    3
+   ],
+   "resumo": "Ezequiel vê a glória de Deus e é enviado como vigia."
+  },
+  {
+   "id": "sinais-do-cerco",
+   "titulo": "Sinais do cerco e do fim",
+   "capitulos": [
+    4,
+    5,
+    6,
+    7
+   ],
+   "resumo": "Ações simbólicas e anúncio do fim para Jerusalém."
+  },
+  {
+   "id": "gloria-parte",
+   "titulo": "A glória deixa o templo",
+   "capitulos": [
+    8,
+    9,
+    10,
+    11
+   ],
+   "resumo": "Abominações no templo e a saída da glória do SENHOR."
+  },
+  {
+   "id": "juizo-sobre-jerusalem",
+   "titulo": "Juízo sobre Jerusalém",
+   "capitulos": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+   ],
+   "resumo": "Parábolas, denúncias e a responsabilidade de cada um, até o início do cerco."
+  },
+  {
+   "id": "nacoes",
+   "titulo": "Profecias contra as nações",
+   "capitulos": [
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+   ],
+   "resumo": "Juízo sobre os vizinhos de Israel, Tiro e Egito."
+  },
+  {
+   "id": "restauracao",
+   "titulo": "Esperança e restauração",
+   "capitulos": [
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+   ],
+   "resumo": "A queda é anunciada e Deus promete pastor, coração novo, vida e vitória."
+  },
+  {
+   "id": "novo-templo",
+   "titulo": "O novo templo e a terra",
+   "capitulos": [
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48
+   ],
+   "resumo": "Visão do templo restaurado, da volta da glória e da cidade onde Deus habita."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "A visão da glória junto ao Quebar",
+   "chave": "1:28",
+   "resumo": "No quinto ano do exílio do rei Joaquim, o sacerdote Ezequiel está entre os exilados junto ao rio Quebar quando os céus se abrem. Ele vê uma tempestade de fogo, quatro seres viventes com quatro rostos e quatro asas, rodas cheias de olhos e, acima de tudo, um trono com uma figura humana cercada de brilho. É a aparência da glória do SENHOR, e Ezequiel cai com o rosto em terra.",
+   "licoes": [
+    "Deus se revela a seu povo até no exílio, longe do templo (1:1, 1:3).",
+    "A glória de Deus é tão grande que só pode ser descrita por comparações: \"semelhança\", \"aparência\" (1:26-28).",
+    "Os seres e as rodas se movem guiados pelo Espírito, mostrando que Deus não está preso a um lugar (1:12, 1:20).",
+    "Diante da glória de Deus, a resposta é humildade e adoração (1:28)."
+   ],
+   "reflexao": "Em que \"exílio\" da sua vida você precisa lembrar que Deus continua presente?",
+   "quiz": [
+    {
+     "pergunta": "Junto a que rio Ezequiel teve a visão?",
+     "opcoes": [
+      "Jordão",
+      "Eufrates",
+      "Nilo",
+      "Quebar"
+     ],
+     "correta": 3,
+     "ref": "1:3"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Enviado a um povo rebelde",
+   "chave": "2:7",
+   "resumo": "O Espírito põe Ezequiel de pé, e Deus o envia aos filhos de Israel, um povo rebelde e de coração duro. Ele deve falar as palavras de Deus, quer ouçam, quer não, sem medo, mesmo vivendo entre espinhos e escorpiões. Uma mão lhe estende um rolo escrito dos dois lados com lamentações, suspiros e ais.",
+   "licoes": [
+    "O Espírito de Deus capacita quem ele envia (2:2).",
+    "A fidelidade do mensageiro não depende da resposta dos ouvintes (2:5, 2:7).",
+    "O profeta não deve ser rebelde como o povo, mas ouvir primeiro (2:8)."
+   ],
+   "reflexao": "Você consegue ser fiel a Deus mesmo quando ninguém parece ouvir?",
+   "quiz": [
+    {
+     "pergunta": "O que estava escrito no rolo?",
+     "opcoes": [
+      "Leis e mandamentos",
+      "Nomes das tribos",
+      "Lamentações, suspiros e ais",
+      "Cânticos de alegria"
+     ],
+     "correta": 2,
+     "ref": "2:10"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "O rolo doce e o atalaia",
+   "chave": "3:17",
+   "resumo": "Ezequiel come o rolo, que em sua boca é doce como mel, e é enviado à casa de Israel, que não quer ouvir. Deus endurece sua testa como diamante. Depois de sete dias atônito entre os exilados em Tel-Abibe, ele é constituído vigia (atalaia) de Israel: deve alertar o ímpio e o justo, ou será responsável por eles.",
+   "licoes": [
+    "A palavra de Deus deve primeiro ser recebida e \"comida\" por quem vai anunciá-la (3:1-3).",
+    "Deus dá firmeza a quem enfrenta resistência (3:8-9).",
+    "O atalaia tem responsabilidade de alertar; a resposta é de cada um (3:17-19).",
+    "O alerta também vale para o justo, para que não se desvie (3:20-21)."
+   ],
+   "reflexao": "A quem Deus pode estar chamando você para alertar com amor?",
+   "quiz": [
+    {
+     "pergunta": "Como era o gosto do rolo na boca de Ezequiel?",
+     "opcoes": [
+      "Amargo",
+      "Salgado",
+      "Sem gosto",
+      "Doce como mel"
+     ],
+     "correta": 3,
+     "ref": "3:3"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "O cerco encenado",
+   "chave": "4:3",
+   "resumo": "Deus manda Ezequiel desenhar Jerusalém num tijolo e encenar um cerco contra ela. Ele deve deitar-se 390 dias sobre o lado esquerdo pela maldade de Israel e 40 dias sobre o direito pela de Judá. Também deve comer pão racionado e preparado de modo impuro, como sinal da fome do cerco e da impureza do exílio.",
+   "licoes": [
+    "Deus usa gestos visíveis para comunicar sua mensagem a um povo que não ouve (4:1-3).",
+    "O profeta carrega simbolicamente o peso do pecado do povo (4:4-6).",
+    "Deus ouve o escrúpulo sincero de seu servo e ajusta a ordem (4:14-15).",
+    "O pecado leva à escassez e à angústia (4:16-17)."
+   ],
+   "reflexao": "Como sua vida pode comunicar a mensagem de Deus sem palavras?",
+   "quiz": [
+    {
+     "pergunta": "Por quantos dias Ezequiel deveria deitar sobre o lado direito pela maldade de Judá?",
+     "opcoes": [
+      "Quarenta",
+      "Sete",
+      "Setenta",
+      "Trezentos e noventa"
+     ],
+     "correta": 0,
+     "ref": "4:6"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "Os cabelos cortados",
+   "chave": "5:5",
+   "resumo": "Ezequiel raspa a cabeça e a barba com uma espada e divide os cabelos em três partes: uma é queimada, outra ferida com a espada e outra espalhada ao vento; poucos fios são guardados na roupa. O sinal mostra o destino de Jerusalém, que se rebelou mais que as nações ao redor e profanou o santuário.",
+   "licoes": [
+    "Quanto maior o privilégio, maior a responsabilidade: Jerusalém estava no centro das nações (5:5-6).",
+    "Profanar o que é santo é um pecado grave (5:11).",
+    "Mesmo no juízo, um pequeno remanescente é guardado (5:3).",
+    "O juízo serve para que todos saibam que o SENHOR falou (5:13)."
+   ],
+   "reflexao": "Que privilégios espirituais você recebeu e como tem respondido a eles?",
+   "quiz": [
+    {
+     "pergunta": "Que instrumento Ezequiel usou para raspar a cabeça?",
+     "opcoes": [
+      "Uma espada afiada",
+      "Uma navalha de ouro",
+      "Uma faca de pedra",
+      "Uma tesoura"
+     ],
+     "correta": 0,
+     "ref": "5:1"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "Contra os montes de Israel",
+   "chave": "6:9",
+   "resumo": "Ezequiel profetiza contra os montes de Israel, onde ficavam os altares e ídolos. Os altares serão destruídos e os mortos cairão diante dos ídolos. Mas Deus deixará um remanescente que, no exílio, se lembrará dele e terá nojo de seus próprios pecados.",
+   "licoes": [
+    "A idolatria contamina até a terra e os lugares altos (6:3-4).",
+    "Deus se entristece com o coração infiel de seu povo (6:9).",
+    "O remanescente aprenderá, no exílio, a reconhecer o SENHOR (6:8-10)."
+   ],
+   "reflexao": "Há algum \"lugar alto\" em sua vida que ocupa o lugar de Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus diz que deixará mesmo no meio do juízo?",
+     "opcoes": [
+      "Um rei",
+      "Um restante que escapará",
+      "O templo intacto",
+      "Riquezas"
+     ],
+     "correta": 1,
+     "ref": "6:8"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "O fim está chegando",
+   "chave": "7:19",
+   "resumo": "Com repetições fortes, Ezequiel anuncia que o fim chegou para a terra de Israel. Comprar e vender perde o sentido, ninguém vai à guerra, mãos e joelhos fraquejam. Prata e ouro não podem livrar no dia da ira, e o povo buscará visão de profeta e não encontrará.",
+   "licoes": [
+    "O dia do juízo vem, ainda que pareça demorar (7:6-7).",
+    "Riquezas não salvam no dia do furor do SENHOR (7:19).",
+    "Quem despreza a palavra pode, na crise, procurar uma direção que não encontrará (7:26)."
+   ],
+   "reflexao": "Em que você confia que não poderá salvá-lo no dia da prova?",
+   "quiz": [
+    {
+     "pergunta": "O que o povo lançará pelas ruas porque não poderá livrá-lo?",
+     "opcoes": [
+      "Armas",
+      "Seus livros",
+      "Seus ídolos de madeira",
+      "Sua prata"
+     ],
+     "correta": 3,
+     "ref": "7:19"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "Abominações no templo",
+   "chave": "8:6",
+   "resumo": "No sexto ano, Ezequiel é levado em visão a Jerusalém e vê a glória de Deus no templo. Ali encontra cada vez mais abominações: a \"imagem do ciúme\", setenta anciãos queimando incenso a figuras pintadas em salas escondidas, mulheres chorando por Tamuz e homens adorando o sol de costas para o templo. Os idólatras diziam que o SENHOR não os via.",
+   "licoes": [
+    "A idolatria pode se esconder nos lugares mais religiosos (8:5-6).",
+    "O que se faz nas trevas é visto por Deus (8:12).",
+    "Virar as costas para Deus é uma imagem da apostasia (8:16).",
+    "O pecado escondido vai se aprofundando quando não é tratado (8:13, 8:15)."
+   ],
+   "reflexao": "Há algo em sua vida que você faz \"em quartos escondidos\" achando que Deus não vê?",
+   "quiz": [
+    {
+     "pergunta": "A que os homens se curvavam entre o pórtico e o altar?",
+     "opcoes": [
+      "À lua",
+      "A um bezerro de ouro",
+      "A Baal",
+      "Ao sol"
+     ],
+     "correta": 3,
+     "ref": "8:16"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "A marca na testa",
+   "chave": "9:4",
+   "resumo": "Seis homens armados e um homem vestido de linho, com estojo de escriba, são chamados. Este deve marcar a testa dos que suspiram e gemem por causa das abominações em Jerusalém, e os demais devem ferir a cidade, começando pelo santuário, sem tocar nos marcados. Ezequiel clama a Deus pelo restante, mas Deus diz que a maldade é grande demais.",
+   "licoes": [
+    "Deus conhece e protege os que se entristecem com o pecado ao seu redor (9:4, 9:6).",
+    "O juízo começa pelo santuário, onde a responsabilidade é maior (9:6).",
+    "O profeta intercede pelo povo mesmo diante do juízo (9:8)."
+   ],
+   "reflexao": "Você se entristece com o mal ao seu redor ou já se acostumou com ele?",
+   "quiz": [
+    {
+     "pergunta": "Quem deveria receber a marca na testa?",
+     "opcoes": [
+      "Os que suspiram e gemem pelas abominações",
+      "Os sacerdotes",
+      "Os anciãos",
+      "Os soldados"
+     ],
+     "correta": 0,
+     "ref": "9:4"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "titulo": "A glória deixa o templo",
+   "chave": "10:18",
+   "resumo": "O homem vestido de linho pega brasas de entre os querubins para espalhar sobre a cidade. Ezequiel reconhece que os seres que viu junto ao Quebar são querubins. A glória do SENHOR se levanta do lugar santo, vai até a entrada do templo e depois se põe sobre os querubins, que se preparam para partir.",
+   "licoes": [
+    "A presença de Deus não é garantida a quem insiste no pecado (10:4, 10:18).",
+    "O mesmo Deus que apareceu no exílio está agora julgando Jerusalém (10:15, 10:20).",
+    "A saída da glória acontece aos poucos, como quem dá tempo ao arrependimento (10:4, 10:19)."
+   ],
+   "reflexao": "O que mais entristeceria você: perder bens ou perder a presença de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Ezequiel reconheceu que os seres viventes do Quebar eram:",
+     "opcoes": [
+      "Anjos guerreiros",
+      "Querubins",
+      "Serafins",
+      "Profetas"
+     ],
+     "correta": 1,
+     "ref": "10:20"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "titulo": "Um coração de carne",
+   "chave": "11:19",
+   "resumo": "Na porta oriental do templo, Ezequiel vê vinte e cinco líderes que davam maus conselhos e se achavam seguros na cidade, como carne na panela. Enquanto ele profetiza, Pelatias morre, e Ezequiel clama pelo restante. Deus promete ser santuário para os exilados, reuni-los e dar-lhes um coração novo; então a glória do SENHOR sai da cidade e para sobre o monte ao oriente.",
+   "licoes": [
+    "Falsa segurança leva líderes a dar maus conselhos (11:2-3).",
+    "Deus é santuário para seu povo mesmo longe do templo (11:16).",
+    "Deus promete tirar o coração de pedra e dar um coração de carne e um espírito novo (11:19-20).",
+    "A glória de Deus deixa a cidade que o rejeitou (11:23)."
+   ],
+   "reflexao": "Que parte do seu coração ainda está \"de pedra\" e precisa ser transformada por Deus?",
+   "quiz": [
+    {
+     "pergunta": "Quem morreu enquanto Ezequiel profetizava?",
+     "opcoes": [
+      "Jazanias",
+      "Zedequias",
+      "Pelatias, filho de Benaías",
+      "Hananias"
+     ],
+     "correta": 2,
+     "ref": "11:13"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "titulo": "A bagagem do exílio",
+   "chave": "12:11",
+   "resumo": "Diante de todos, Ezequiel prepara bagagem de exilado, cava um buraco na parede e sai à noite com o rosto coberto. É um sinal do que aconteceria ao príncipe em Jerusalém, que fugiria e seria levado à Babilônia sem vê-la. Deus também rejeita o ditado de que as visões demoram e nunca se cumprem.",
+   "licoes": [
+    "Deus fala por sinais a quem tem olhos mas não vê (12:2-3).",
+    "O profeta é um sinal vivo para o povo (12:11).",
+    "A palavra de Deus não falha, ainda que pareça demorar (12:25, 12:28)."
+   ],
+   "reflexao": "Você tem adiado uma resposta a Deus pensando que \"há tempo\"?",
+   "quiz": [
+    {
+     "pergunta": "Por onde Ezequiel tirou a bagagem, como sinal?",
+     "opcoes": [
+      "Por um buraco na parede",
+      "Pela porta principal",
+      "Pelo telhado",
+      "Pela janela"
+     ],
+     "correta": 0,
+     "ref": "12:5"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "titulo": "Paredes rebocadas com cal",
+   "chave": "13:10",
+   "resumo": "Deus condena os profetas que falam de seu próprio coração, dizem \"Paz\" quando não há paz e não se põem na brecha para defender o povo. Eles são como quem reboca uma parede frágil com cal, que cairá com a tempestade. Também são denunciadas mulheres que praticavam adivinhação e enganavam o povo por pão.",
+   "licoes": [
+    "Falso consolo é como reboco sobre uma parede rachada (13:10-11).",
+    "Os verdadeiros líderes se põem na brecha a favor do povo (13:5).",
+    "A mentira religiosa entristece o justo e fortalece o perverso (13:22)."
+   ],
+   "reflexao": "Você prefere uma palavra que conforta ou uma palavra que constrói?",
+   "quiz": [
+    {
+     "pergunta": "O que os falsos profetas diziam ao povo?",
+     "opcoes": [
+      "Paz, sem haver paz",
+      "Arrependei-vos",
+      "O fim chegou",
+      "Fugi para o Egito"
+     ],
+     "correta": 0,
+     "ref": "13:10"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "titulo": "Ídolos no coração",
+   "chave": "14:3",
+   "resumo": "Alguns anciãos vêm consultar Ezequiel, mas Deus revela que eles têm ídolos no coração. Deus chama ao arrependimento e diz que não responderá a quem o busca mantendo ídolos. Ele explica que, se Noé, Daniel e Jó estivessem numa terra sob juízo, salvariam apenas a si mesmos.",
+   "licoes": [
+    "A idolatria começa no coração, antes de aparecer nos atos (14:3).",
+    "Deus chama a dar as costas aos ídolos e voltar para ele (14:6).",
+    "A fé é pessoal: ninguém se salva pela justiça de outro (14:14, 14:20)."
+   ],
+   "reflexao": "Que ídolo do coração pode estar atrapalhando sua busca por Deus?",
+   "quiz": [
+    {
+     "pergunta": "Que três homens justos Deus cita como exemplo?",
+     "opcoes": [
+      "Abraão, Isaque e Jacó",
+      "Noé, Daniel e Jó",
+      "Moisés, Arão e Samuel",
+      "Davi, Salomão e Josias"
+     ],
+     "correta": 1,
+     "ref": "14:14"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "titulo": "A videira inútil",
+   "chave": "15:6",
+   "resumo": "Deus pergunta para que serve a madeira da videira: não presta para construir nada, e depois de queimada serve menos ainda. Assim são os moradores de Jerusalém, que deixaram de dar fruto e serão entregues ao fogo por sua infidelidade.",
+   "licoes": [
+    "A videira só tem valor quando dá fruto; o povo de Deus existe para frutificar (15:2-3).",
+    "Ter sido escolhido não protege quem transgride gravemente (15:6, 15:8).",
+    "Escapar de um juízo não garante segurança se o coração não muda (15:7)."
+   ],
+   "reflexao": "Que fruto Deus espera encontrar em sua vida neste momento?",
+   "quiz": [
+    {
+     "pergunta": "Com que tipo de madeira Jerusalém é comparada?",
+     "opcoes": [
+      "Cedro",
+      "Carvalho",
+      "Videira",
+      "Oliveira"
+     ],
+     "correta": 2,
+     "ref": "15:6"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "titulo": "A história de uma noiva infiel",
+   "chave": "16:60",
+   "resumo": "Em uma longa parábola, Jerusalém é uma menina abandonada ao nascer que Deus encontra, faz viver, cria, veste e toma como esposa. Mas ela confia em sua beleza e se entrega a ídolos e a alianças com nações, chegando a sacrificar os filhos. O juízo virá, mas Deus promete lembrar-se de sua aliança e estabelecer uma aliança eterna, perdoando tudo o que ela fez.",
+   "licoes": [
+    "Tudo o que o povo tinha era presente da graça de Deus (16:6, 16:14).",
+    "Esquecer de onde Deus nos tirou abre caminho para a infidelidade (16:22).",
+    "O pecado de Sodoma incluiu soberba, fartura e descaso pelo pobre e necessitado (16:49).",
+    "A fidelidade de Deus à aliança é maior que a infidelidade do povo (16:60, 16:63)."
+   ],
+   "reflexao": "Você se lembra de onde Deus o tirou e do que ele já fez por você?",
+   "quiz": [
+    {
+     "pergunta": "Qual foi, segundo o capítulo, um dos pecados de Sodoma?",
+     "opcoes": [
+      "Não fortalecer a mão do pobre e do necessitado",
+      "Construir uma torre",
+      "Adorar o sol",
+      "Fugir para o Egito"
+     ],
+     "correta": 0,
+     "ref": "16:49"
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "titulo": "As duas águias e o cedro",
+   "chave": "17:22",
+   "resumo": "Ezequiel conta o enigma de duas águias e uma videira: a primeira águia é o rei da Babilônia, que levou o rei de Judá e colocou outro da família real sob juramento; a videira busca a segunda águia, o Egito. Por quebrar o juramento, o rei será levado e morrerá na Babilônia. No fim, Deus promete plantar um broto tenro do alto do cedro num monte alto de Israel, que se tornará uma árvore magnífica.",
+   "licoes": [
+    "Quebrar a palavra dada é sério diante de Deus (17:18-19).",
+    "Buscar socorro em alianças humanas, contra a vontade de Deus, não traz sucesso (17:15).",
+    "Deus pode fazer de um pequeno broto uma árvore onde muitos encontram abrigo (17:22-23).",
+    "O SENHOR rebaixa o que é alto e levanta o que é baixo (17:24)."
+   ],
+   "reflexao": "Há alguma promessa que você está tentado a quebrar por conveniência?",
+   "quiz": [
+    {
+     "pergunta": "A quem a videira estendeu suas raízes, buscando ajuda, segundo a explicação?",
+     "opcoes": [
+      "Assíria",
+      "Edom",
+      "Egito",
+      "Moabe"
+     ],
+     "correta": 2,
+     "ref": "17:15"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "titulo": "A alma que pecar, essa morrerá",
+   "chave": "18:32",
+   "resumo": "O povo repetia o provérbio de que os filhos pagam pelas uvas verdes que os pais comeram. Deus responde que todas as vidas pertencem a ele e que cada um responde por seus próprios atos: o justo que pratica justiça viverá, e o filho mau de um pai justo não se salva pela justiça do pai, nem o contrário. Deus não tem prazer na morte do ímpio e chama todos a se converterem e viverem.",
+   "licoes": [
+    "Cada pessoa é responsável diante de Deus por seus próprios caminhos (18:4, 18:20).",
+    "A justiça inclui atos concretos: não oprimir, dar pão ao faminto e roupa ao nu (18:7-8).",
+    "Quem se converte tem seus pecados esquecidos por Deus (18:21-22).",
+    "Deus não se agrada da morte de ninguém; ele quer que todos se convertam e vivam (18:23, 18:32)."
+   ],
+   "reflexao": "Você tem culpado o passado ou outras pessoas por escolhas que são suas?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o capítulo, Deus tem prazer na morte do ímpio?",
+     "opcoes": [
+      "Sim, sempre",
+      "Não; ele quer que o ímpio se converta e viva",
+      "Só na morte dos estrangeiros",
+      "Só quando o ímpio é rei"
+     ],
+     "correta": 1,
+     "ref": "18:23"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "titulo": "Lamento pelos príncipes",
+   "chave": "19:1",
+   "resumo": "Ezequiel entoa um lamento sobre os príncipes de Israel usando duas imagens. Uma leoa cria filhotes que se tornam leões devoradores, mas um é levado ao Egito e outro à Babilônia com ganchos. Depois, a mãe é uma videira forte que é arrancada, seca pelo vento oriental e plantada no deserto, sem mais cetro para governar.",
+   "licoes": [
+    "O poder usado para devorar pessoas acaba em ruína (19:3-4, 19:6-9).",
+    "Uma nação que era forte e fértil pode perder tudo quando se afasta de Deus (19:10-12).",
+    "A perda da liderança justa é motivo de lamento para o povo de Deus (19:14)."
+   ],
+   "reflexao": "Como você tem usado a influência que Deus lhe deu?",
+   "quiz": [
+    {
+     "pergunta": "Para onde foi levado o primeiro leãozinho?",
+     "opcoes": [
+      "Para a Babilônia",
+      "Para Edom",
+      "Para a Assíria",
+      "Para o Egito"
+     ],
+     "correta": 3,
+     "ref": "19:4"
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "titulo": "A história de rebeldia e a graça pelo nome de Deus",
+   "chave": "20:44",
+   "resumo": "Anciãos vêm consultar o SENHOR, e Deus se recusa a responder, mandando Ezequiel recontar a história de Israel. Desde o Egito, no deserto e na terra prometida, o povo se rebelou e profanou os sábados, mas Deus o poupou por amor ao seu nome. Ele promete reunir o povo, purificá-lo e ser adorado em seu santo monte; o capítulo termina com uma profecia contra o \"bosque do sul\".",
+   "licoes": [
+    "A história do povo mostra rebeldia repetida e paciência repetida de Deus (20:8-9, 20:13-14).",
+    "Os sábados eram sinal de que é o SENHOR quem santifica seu povo (20:12).",
+    "Querer ser \"como as nações\" é rejeitar a identidade de povo de Deus (20:32).",
+    "Deus age conforme seu nome, e não conforme o que merecemos (20:44)."
+   ],
+   "reflexao": "Como a paciência de Deus com você no passado o encoraja hoje?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus deu ao povo como sinal entre ele e Israel?",
+     "opcoes": [
+      "O arco-íris",
+      "Os sábados",
+      "A circuncisão do coração",
+      "O maná"
+     ],
+     "correta": 1,
+     "ref": "20:12"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "titulo": "A espada afiada",
+   "chave": "21:27",
+   "resumo": "Ezequiel anuncia que o SENHOR tirou sua espada da bainha contra Jerusalém e a terra de Israel, e deve suspirar diante do povo como sinal. Ele descreve o rei da Babilônia numa encruzilhada, usando adivinhação para decidir entre atacar Amom ou Jerusalém, e a sorte cai sobre Jerusalém. O príncipe perverso perderá a coroa até que venha aquele a quem ela pertence por direito.",
+   "licoes": [
+    "O profeta sente e expressa a dor do juízo que anuncia (21:6-7).",
+    "Deus governa até as decisões de reis pagãos (21:21-22).",
+    "Deus humilha o exaltado e exalta o humilde (21:26).",
+    "A coroa ficará em ruínas até que venha aquele a quem ela pertence por direito (21:27)."
+   ],
+   "reflexao": "Em que área você precisa deixar Deus humilhar seu orgulho?",
+   "quiz": [
+    {
+     "pergunta": "Onde o rei da Babilônia parou para fazer adivinhação?",
+     "opcoes": [
+      "Num templo",
+      "Numa encruzilhada",
+      "Junto ao rio",
+      "No alto de um monte"
+     ],
+     "correta": 1,
+     "ref": "21:21"
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "titulo": "Alguém que se ponha na brecha",
+   "chave": "22:30",
+   "resumo": "Deus lista os pecados de Jerusalém, a \"cidade sanguinária\": violência dos príncipes, desprezo aos pais, opressão do estrangeiro, do órfão e da viúva, imoralidade, suborno e juros abusivos. Israel virou escória que será fundida no forno. Profetas, sacerdotes, príncipes e povo estão corrompidos, e Deus procura alguém que se ponha na brecha, mas não encontra.",
+   "licoes": [
+    "A injustiça social é tão grave para Deus quanto a idolatria (22:7, 22:12).",
+    "Esquecer a Deus leva a explorar o próximo (22:12).",
+    "Líderes que não distinguem o santo do profano desviam o povo (22:26).",
+    "Deus procura pessoas dispostas a se colocar na brecha em favor de outros (22:30)."
+   ],
+   "reflexao": "Por quem você pode se colocar na brecha diante de Deus em oração?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus procurou e não achou?",
+     "opcoes": [
+      "Um rei forte",
+      "Um profeta rico",
+      "Um homem que se pusesse na brecha",
+      "Um templo limpo"
+     ],
+     "correta": 2,
+     "ref": "22:30"
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "titulo": "Oolá e Oolibá",
+   "chave": "23:35",
+   "resumo": "Em outra parábola dura, duas irmãs, Oolá (Samaria) e Oolibá (Jerusalém), pertencem a Deus mas se entregam a amantes estrangeiros, buscando alianças com o Egito, a Assíria e a Babilônia. Samaria foi destruída pela Assíria, e Jerusalém, que viu tudo, fez pior. Por ter esquecido a Deus e lançado ele para trás das costas, Jerusalém beberá o mesmo cálice da irmã.",
+   "licoes": [
+    "Buscar segurança em potências humanas é retratado como infidelidade a Deus (23:5, 23:16).",
+    "Ver o castigo de outro e não aprender agrava a culpa (23:11, 23:31).",
+    "A raiz do problema é esquecer a Deus e lançá-lo para trás das costas (23:35).",
+    "Não se pode servir aos ídolos e entrar no santuário como se nada fosse (23:38-39)."
+   ],
+   "reflexao": "Você aprende com os erros que vê nos outros ou tende a repeti-los?",
+   "quiz": [
+    {
+     "pergunta": "Quem representa a irmã mais velha, Oolá?",
+     "opcoes": [
+      "Samaria",
+      "Jerusalém",
+      "Egito",
+      "Babilônia"
+     ],
+     "correta": 0,
+     "ref": "23:4"
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "titulo": "A panela e a morte da esposa",
+   "chave": "24:24",
+   "resumo": "No dia exato em que o rei da Babilônia começa o cerco de Jerusalém, Deus manda Ezequiel registrar a data e contar a parábola de uma panela enferrujada, imagem da cidade cuja sujeira não sai. Depois Deus avisa que tirará \"o desejo de seus olhos\": a esposa de Ezequiel morre, e ele não deve fazer luto, como sinal de que o povo perderia o templo e ficaria atônito demais para chorar.",
+   "licoes": [
+    "Deus conhece os acontecimentos no momento exato em que ocorrem (24:2).",
+    "Há um ponto em que a impureza recusada se torna juízo (24:13).",
+    "A obediência de Ezequiel lhe custou uma dor pessoal profunda (24:16-18).",
+    "A perda do templo, orgulho do povo, seria um sinal para que conhecessem o SENHOR (24:21, 24:24)."
+   ],
+   "reflexao": "Há algo que você valoriza tanto que poderia ocupar o lugar de Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que aconteceu com a esposa de Ezequiel?",
+     "opcoes": [
+      "Morreu à tarde",
+      "Foi levada à Babilônia",
+      "Fugiu para o Egito",
+      "Ficou doente e sarou"
+     ],
+     "correta": 0,
+     "ref": "24:18"
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "titulo": "Juízo sobre os vizinhos",
+   "chave": "25:6",
+   "resumo": "Começam os oráculos contra as nações. Amom se alegrou com a profanação do santuário e a ruína de Judá; Moabe disse que Judá era como qualquer nação; Edom e os filisteus se vingaram com ódio. Cada um será julgado, e todos saberão que o SENHOR é Deus.",
+   "licoes": [
+    "Alegrar-se com a desgraça alheia ofende a Deus (25:3, 25:6).",
+    "Deus vê a vingança cheia de desprezo e responde a ela (25:12, 25:15).",
+    "O objetivo final do juízo é que as nações conheçam o SENHOR (25:7, 25:11)."
+   ],
+   "reflexao": "Você já se alegrou, mesmo em silêncio, com a queda de alguém?",
+   "quiz": [
+    {
+     "pergunta": "O que os filhos de Amom disseram sobre o santuário profanado?",
+     "opcoes": [
+      "Ai de nós!",
+      "Deus é justo",
+      "Vamos reconstruí-lo",
+      "Ha, ha!"
+     ],
+     "correta": 3,
+     "ref": "25:3"
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "titulo": "Contra Tiro",
+   "chave": "26:3",
+   "resumo": "No décimo primeiro ano, Deus anuncia juízo contra Tiro, a rica cidade marítima que se alegrou com a queda de Jerusalém, esperando lucrar. Muitas nações virão contra ela como ondas, começando por Nabucodonosor; seus muros cairão e ela ficará como rocha nua para estender redes. Os príncipes do mar lamentarão sua queda.",
+   "licoes": [
+    "Lucrar com a desgraça dos outros é condenado por Deus (26:2).",
+    "Riqueza e força comercial não protegem do juízo (26:12).",
+    "A queda dos orgulhosos causa espanto em quem confiava neles (26:16-18)."
+   ],
+   "reflexao": "Você já viu a desgraça de alguém como uma oportunidade de ganho?",
+   "quiz": [
+    {
+     "pergunta": "Com que Tiro ficaria parecida após o juízo?",
+     "opcoes": [
+      "Um jardim",
+      "Um porto renovado",
+      "Uma cidade de ouro",
+      "Uma rocha exposta para estender redes"
+     ],
+     "correta": 3,
+     "ref": "26:14"
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "titulo": "O naufrágio do grande navio",
+   "chave": "27:3",
+   "resumo": "Ezequiel entoa um lamento sobre Tiro, retratada como um navio magnífico feito com os melhores materiais e tripulado por povos de vários lugares. Uma longa lista mostra as nações que comerciavam com ela. Mas o vento oriental quebra o navio no meio dos mares, e marinheiros e reis se lamentam diante de sua ruína.",
+   "licoes": [
+    "Tiro se orgulhava de sua beleza perfeita e de seu poder comercial (27:3-4).",
+    "A prosperidade econômica pode esconder injustiças, como o comércio de pessoas (27:13).",
+    "Grandes impérios podem afundar de repente (27:26-27)."
+   ],
+   "reflexao": "O que aconteceria com sua segurança se seus bens \"afundassem\" de repente?",
+   "quiz": [
+    {
+     "pergunta": "O que quebrou o navio de Tiro no meio dos mares?",
+     "opcoes": [
+      "Uma rocha",
+      "Um monstro marinho",
+      "Um exército",
+      "O vento oriental"
+     ],
+     "correta": 3,
+     "ref": "27:26"
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "titulo": "O rei de Tiro que se dizia deus",
+   "chave": "28:2",
+   "resumo": "O príncipe de Tiro, rico e sábio, chega a dizer \"Eu sou um deus\", mas Deus lembra que ele é homem e morrerá pela mão de estrangeiros. Num lamento, o rei é descrito como alguém que estava no Éden, perfeito e cheio de glória, até que se achou maldade nele e seu coração se exaltou. O capítulo também anuncia juízo contra Sidom e promete que Israel será reunido e viverá em segurança.",
+   "licoes": [
+    "O orgulho leva o ser humano a se colocar no lugar de Deus (28:2, 28:9).",
+    "Sabedoria e riqueza podem encher o coração de soberba (28:5).",
+    "A beleza e os dons recebidos podem se corromper quando o coração se exalta (28:15, 28:17).",
+    "Deus promete segurança ao seu povo reunido (28:25-26)."
+   ],
+   "reflexao": "Que dons recebidos de Deus você é tentado a usar para sua própria glória?",
+   "quiz": [
+    {
+     "pergunta": "O que o príncipe de Tiro dizia de si mesmo?",
+     "opcoes": [
+      "Eu sou um servo",
+      "Eu sou um profeta",
+      "Eu sou um deus",
+      "Eu sou um pastor"
+     ],
+     "correta": 2,
+     "ref": "28:2"
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "titulo": "Contra o faraó, o grande dragão",
+   "chave": "29:9",
+   "resumo": "No décimo ano, Deus anuncia juízo contra o faraó, comparado a um grande monstro do Nilo que diz: \"O rio é meu, eu o fiz\". O Egito tinha sido um apoio de cana quebrada para Israel. A terra ficará desolada por quarenta anos e depois será restaurada como um reino pequeno. Em uma palavra posterior, Deus diz que dará o Egito a Nabucodonosor como pagamento pelo cerco de Tiro.",
+   "licoes": [
+    "Considerar-se dono e criador do que Deus deu é orgulho (29:3, 29:9).",
+    "Confiar em apoios humanos frágeis fere quem se apoia neles (29:6-7).",
+    "Mesmo na disciplina das nações, Deus age com medida e pode restaurar (29:13-14)."
+   ],
+   "reflexao": "Em que \"cana quebrada\" você tem se apoiado?",
+   "quiz": [
+    {
+     "pergunta": "O que o faraó dizia sobre o rio?",
+     "opcoes": [
+      "O rio é de Deus",
+      "O rio vai secar",
+      "O rio é meu, eu o fiz",
+      "O rio é sagrado"
+     ],
+     "correta": 2,
+     "ref": "29:9"
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "titulo": "O dia do Senhor sobre o Egito",
+   "chave": "30:24",
+   "resumo": "Ezequiel anuncia que está perto o dia do Senhor para o Egito e seus aliados, como Cuxe, Pute e Lude. Nabucodonosor será o instrumento do juízo, e cidades como Mênfis, Zoã, Tebas (Nô) e Tafnes serão atingidas, junto com seus ídolos. Numa nova palavra, Deus diz que quebrou o braço do faraó e fortalecerá os braços do rei da Babilônia.",
+   "licoes": [
+    "O dia do Senhor alcança também as nações que se julgam fortes (30:3, 30:6).",
+    "Os ídolos do Egito não puderam protegê-lo (30:13).",
+    "A força militar vem de Deus e pode ser tirada por ele (30:24-25)."
+   ],
+   "reflexao": "Em que tipo de força você confia mais: na sua ou na de Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus diz que quebrou no faraó?",
+     "opcoes": [
+      "Seu braço",
+      "Sua coroa",
+      "Seu carro",
+      "Seu cetro"
+     ],
+     "correta": 0,
+     "ref": "30:21"
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "titulo": "O grande cedro derrubado",
+   "chave": "31:10",
+   "resumo": "Deus pergunta ao faraó a quem ele se compara e lembra a Assíria, que era como um cedro magnífico do Líbano, alimentado pelas águas, mais alto que todas as árvores do jardim de Deus. Por causa do orgulho, foi cortado por estrangeiros e desceu ao Xeol, e as nações tremeram. O faraó terá o mesmo destino.",
+   "licoes": [
+    "Deus é quem dá grandeza e beleza às nações (31:9).",
+    "O coração que se exalta pela própria altura será derrubado (31:10-11).",
+    "A queda dos orgulhosos é um aviso para os outros (31:14)."
+   ],
+   "reflexao": "Que lição a queda de pessoas orgulhosas já lhe ensinou?",
+   "quiz": [
+    {
+     "pergunta": "Com que árvore a Assíria é comparada?",
+     "opcoes": [
+      "Uma oliveira",
+      "Um cedro do Líbano",
+      "Uma figueira",
+      "Uma videira"
+     ],
+     "correta": 1,
+     "ref": "31:3"
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "titulo": "Lamento pelo faraó e descida ao Xeol",
+   "chave": "32:2",
+   "resumo": "Ezequiel entoa um lamento pelo faraó, que se via como leão, mas era como um monstro que turvava as águas; Deus o apanhará com sua rede e escurecerá os céus sobre ele. Em seguida, descreve o Egito descendo ao Xeol, onde já estão Assíria, Elão, Meseque, Tubal, Edom e Sidom, nações que espalharam terror e agora jazem entre os mortos.",
+   "licoes": [
+    "A forma como nos vemos pode ser muito diferente de como Deus nos vê (32:2).",
+    "Os grandes da terra, no fim, descem à cova como todos (32:18-19).",
+    "Espalhar terror na terra dos viventes leva à humilhação (32:24, 32:32)."
+   ],
+   "reflexao": "Como você imagina que Deus vê aquilo de que você mais se orgulha?",
+   "quiz": [
+    {
+     "pergunta": "A que o faraó se comparava, segundo o lamento?",
+     "opcoes": [
+      "A um jovem leão",
+      "A uma águia",
+      "A um cedro",
+      "A um touro"
+     ],
+     "correta": 0,
+     "ref": "32:2"
+    }
+   ]
+  },
+  {
+   "n": 33,
+   "titulo": "O atalaia e a notícia da queda",
+   "chave": "33:11",
+   "resumo": "Deus renova o chamado de Ezequiel como vigia: quem toca a trombeta cumpre seu dever, e quem não ouve é responsável por si. Deus afirma que não tem prazer na morte do perverso. Então chega um fugitivo com a notícia: \"A cidade já foi ferida\". A boca de Ezequiel se abre, e Deus o avisa de que o povo o ouve como a um cantor agradável, mas não pratica suas palavras.",
+   "licoes": [
+    "O vigia deve alertar; cada ouvinte responde por sua escolha (33:4-6).",
+    "Deus não tem prazer na morte do perverso, mas em que ele se converta e viva (33:11).",
+    "Ninguém deve confiar na justiça passada para continuar no pecado (33:12-13).",
+    "Ouvir a palavra sem praticá-la é como ouvir uma bela canção e esquecer (33:31-32)."
+   ],
+   "reflexao": "Você ouve a Palavra de Deus como entretenimento ou como chamado à obediência?",
+   "quiz": [
+    {
+     "pergunta": "Que notícia o fugitivo trouxe a Ezequiel?",
+     "opcoes": [
+      "A cidade já foi ferida",
+      "O rei foi coroado",
+      "Os caldeus foram embora",
+      "O templo foi reconstruído"
+     ],
+     "correta": 0,
+     "ref": "33:21"
+    }
+   ]
+  },
+  {
+   "n": 34,
+   "titulo": "Os maus pastores e o Bom Pastor",
+   "chave": "34:11",
+   "resumo": "Deus condena os pastores de Israel, que se alimentavam do rebanho mas não cuidavam das ovelhas fracas, doentes e perdidas, deixando-as espalhadas. Ele mesmo buscará suas ovelhas, as reunirá, as alimentará e cuidará das feridas. Deus também julgará entre ovelhas fortes e fracas, levantará seu servo Davi como pastor e fará com elas uma aliança de paz.",
+   "licoes": [
+    "Liderança verdadeira é cuidar dos fracos, e não se aproveitar deles (34:3-4).",
+    "Deus mesmo procura suas ovelhas perdidas (34:11-12).",
+    "O SENHOR busca a perdida, traz a desgarrada e cura a ferida (34:16).",
+    "Deus promete um pastor da linhagem de Davi e uma aliança de paz (34:23, 34:25)."
+   ],
+   "reflexao": "Quem Deus colocou sob seus cuidados, e como você tem cuidado dessas pessoas?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus diz que fará com a ovelha perdida?",
+     "opcoes": [
+      "Deixá-la ir",
+      "Buscá-la",
+      "Vendê-la",
+      "Puni-la"
+     ],
+     "correta": 1,
+     "ref": "34:16"
+    }
+   ]
+  },
+  {
+   "n": 35,
+   "titulo": "Contra o monte Seir",
+   "chave": "35:5",
+   "resumo": "Ezequiel profetiza contra o monte Seir, isto é, Edom. Edom guardou uma inimizade antiga contra Israel, entregou-o à espada no tempo da calamidade e quis tomar posse das duas nações, mesmo com o SENHOR presente ali. Por sua ira, inveja e blasfêmias, Edom se tornará desolado.",
+   "licoes": [
+    "O ódio antigo e alimentado leva a atos cruéis (35:5).",
+    "Deus ouve as palavras arrogantes ditas contra seu povo e contra ele (35:12-13).",
+    "Quem se alegra com a ruína do outro recebe o mesmo juízo (35:15)."
+   ],
+   "reflexao": "Há alguma mágoa antiga que você precisa entregar a Deus antes que vire ódio?",
+   "quiz": [
+    {
+     "pergunta": "Contra que monte Ezequiel profetiza neste capítulo?",
+     "opcoes": [
+      "Sião",
+      "Carmelo",
+      "Seir",
+      "Sinai"
+     ],
+     "correta": 2,
+     "ref": "35:2"
+    }
+   ]
+  },
+  {
+   "n": 36,
+   "titulo": "Um coração novo e um espírito novo",
+   "chave": "36:26-27",
+   "resumo": "Deus fala aos montes de Israel, prometendo que voltarão a ser cultivados e habitados. Ele explica que dispersou o povo por causa de seus pecados, mas agirá por amor ao seu santo nome, profanado entre as nações. Deus promete purificar o povo com água pura, dar um coração novo e um espírito novo, colocar nele o seu Espírito e fazer a terra desolada ficar como o jardim do Éden.",
+   "licoes": [
+    "Deus age por amor ao seu nome, e não pelos méritos do povo (36:22, 36:32).",
+    "A purificação vem de Deus, como água pura aspergida (36:25).",
+    "Deus promete tirar o coração de pedra, dar um coração de carne e colocar seu Espírito dentro do povo (36:26-27).",
+    "A restauração transforma a terra desolada em algo semelhante ao Éden (36:35)."
+   ],
+   "reflexao": "O que mudaria em sua vida se você confiasse mais na obra do Espírito dentro de você?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus promete colocar dentro do povo?",
+     "opcoes": [
+      "Seu Espírito",
+      "Uma nova lei de pedra",
+      "Um rei estrangeiro",
+      "Riquezas"
+     ],
+     "correta": 0,
+     "ref": "36:27"
+    }
+   ]
+  },
+  {
+   "n": 37,
+   "titulo": "O vale de ossos secos",
+   "chave": "37:5",
+   "resumo": "O Espírito leva Ezequiel a um vale cheio de ossos muito secos, e Deus pergunta se eles podem viver. Ezequiel profetiza: os ossos se juntam, recebem carne e pele, e quando ele profetiza ao espírito, eles vivem e se tornam um grande exército. Deus explica que são a casa de Israel sem esperança, que ele fará reviver; depois, duas varas unidas mostram que Judá e Israel serão um só povo, sob um só pastor.",
+   "licoes": [
+    "Diante do impossível, a resposta certa é: \"Senhor DEUS, tu o sabes\" (37:3).",
+    "A palavra de Deus e o seu Espírito dão vida ao que está morto (37:7-10).",
+    "Deus devolve esperança a quem diz que tudo está perdido (37:11-12).",
+    "Deus promete unir seu povo dividido sob um só pastor e habitar no meio dele (37:22, 37:27)."
+   ],
+   "reflexao": "Que área \"seca\" da sua vida precisa do sopro do Espírito de Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que Ezequiel respondeu quando Deus perguntou se os ossos viveriam?",
+     "opcoes": [
+      "Senhor DEUS, tu o sabes",
+      "Sim, certamente",
+      "Não, é impossível",
+      "Não sei, pergunta aos sacerdotes"
+     ],
+     "correta": 0,
+     "ref": "37:3"
+    }
+   ]
+  },
+  {
+   "n": 38,
+   "titulo": "Gogue, da terra de Magogue",
+   "chave": "38:23",
+   "resumo": "Ezequiel profetiza contra Gogue, da terra de Magogue, chefe de Meseque e Tubal, que no fim dos dias reunirá muitos povos do norte para atacar Israel, já restaurado e vivendo em paz em aldeias sem muros. Mas é Deus quem conduz os acontecimentos: ele se levantará contra Gogue com tremor de terra, confusão, peste, chuva de pedras e fogo. Os intérpretes divergem sobre se esses textos descrevem um evento futuro específico ou uma imagem do conflito final entre Deus e as forças do mal.",
+   "licoes": [
+    "Mesmo os planos maus das nações estão sob o controle de Deus (38:4, 38:16).",
+    "A cobiça leva a atacar quem vive em paz e sem defesa (38:11-12).",
+    "O objetivo de Deus é ser conhecido e santificado diante das nações (38:23)."
+   ],
+   "reflexao": "O que lhe dá paz ao pensar que Deus governa até os conflitos do mundo?",
+   "quiz": [
+    {
+     "pergunta": "Contra quem Ezequiel profetiza neste capítulo?",
+     "opcoes": [
+      "Faraó",
+      "Nabucodonosor",
+      "Gogue, da terra de Magogue",
+      "O rei de Tiro"
+     ],
+     "correta": 2,
+     "ref": "38:2"
+    }
+   ]
+  },
+  {
+   "n": 39,
+   "titulo": "A derrota de Gogue e o Espírito derramado",
+   "chave": "39:29",
+   "resumo": "Deus derrota Gogue nos montes de Israel. Os israelitas queimam as armas como lenha por sete anos e levam sete meses enterrando os mortos para purificar a terra; as aves são chamadas para um banquete. As nações entenderão que Israel foi ao exílio por seu pecado, e Deus promete restaurar Jacó, não esconder mais o rosto e derramar seu Espírito sobre seu povo.",
+   "licoes": [
+    "Deus defende seu povo e faz seu santo nome conhecido (39:7).",
+    "A vitória de Deus transforma armas de guerra em lenha (39:9-10).",
+    "O exílio aconteceu por causa do pecado, não por fraqueza de Deus (39:23).",
+    "A promessa final é a presença de Deus e o derramar do seu Espírito (39:29)."
+   ],
+   "reflexao": "Como a promessa do Espírito de Deus traz esperança para você hoje?",
+   "quiz": [
+    {
+     "pergunta": "Por quanto tempo Israel enterraria os mortos para purificar a terra?",
+     "opcoes": [
+      "Sete meses",
+      "Sete dias",
+      "Sete anos",
+      "Quarenta dias"
+     ],
+     "correta": 0,
+     "ref": "39:12"
+    }
+   ]
+  },
+  {
+   "n": 40,
+   "titulo": "A visão do novo templo",
+   "chave": "40:4",
+   "resumo": "No vigésimo quinto ano do exílio, catorze anos depois da queda de Jerusalém, Ezequiel é levado em visão a um monte muito alto em Israel. Um homem com aparência de bronze, com um cordel e uma cana de medir, mostra e mede as portas, os pátios, as câmaras e as mesas do novo templo. Ezequiel deve observar tudo com atenção e contar à casa de Israel.",
+   "licoes": [
+    "Depois do juízo, Deus dá ao seu povo uma visão de esperança e restauração (40:1-2).",
+    "Deus convida a olhar, ouvir e prestar atenção ao que ele revela (40:4).",
+    "A ordem e a medida do templo falam de um Deus que planeja sua habitação com cuidado (40:3, 40:5)."
+   ],
+   "reflexao": "Que esperança Deus já lhe deu depois de um tempo difícil?",
+   "quiz": [
+    {
+     "pergunta": "O que o homem de aparência de bronze trazia na mão?",
+     "opcoes": [
+      "Uma espada e um escudo",
+      "Um rolo e uma pena",
+      "Um cordel de linho e uma cana de medir",
+      "Uma tocha"
+     ],
+     "correta": 2,
+     "ref": "40:3"
+    }
+   ]
+  },
+  {
+   "n": 41,
+   "titulo": "O santuário e suas paredes",
+   "chave": "41:4",
+   "resumo": "O homem mede o interior do templo: a entrada, o lugar santo e o lugar santíssimo, de vinte por vinte côvados. Também mede as paredes, as câmaras laterais em três andares e o edifício a oeste. As paredes são decoradas com querubins e palmeiras alternados, e há um altar de madeira diante do Senhor.",
+   "licoes": [
+    "O lugar santíssimo mostra que a aproximação de Deus exige santidade (41:4).",
+    "Os querubins e as palmeiras lembram o jardim de Deus e a vida em sua presença (41:18-20).",
+    "A mesa \"diante do SENHOR\" fala de comunhão com ele (41:22)."
+   ],
+   "reflexao": "O que significa para você estar \"diante do SENHOR\" no dia a dia?",
+   "quiz": [
+    {
+     "pergunta": "Que figuras decoravam as paredes do templo?",
+     "opcoes": [
+      "Leões e águias",
+      "Estrelas e luas",
+      "Querubins e palmeiras",
+      "Uvas e romãs"
+     ],
+     "correta": 2,
+     "ref": "41:18"
+    }
+   ]
+  },
+  {
+   "n": 42,
+   "titulo": "As câmaras dos sacerdotes e o muro",
+   "chave": "42:20",
+   "resumo": "Ezequiel vê as câmaras ao norte e ao sul do pátio, onde os sacerdotes comeriam as ofertas santíssimas e trocariam suas vestes antes de sair para o povo. Depois o homem mede toda a área ao redor do templo: quinhentas canas em cada lado, cercadas por um muro para separar o santo do profano.",
+   "licoes": [
+    "Há uma separação clara entre o que é santo e o que é comum (42:20).",
+    "Os sacerdotes deviam tratar com reverência as coisas consagradas (42:13-14).",
+    "Deus deseja ordem e cuidado no culto que lhe é prestado (42:15-16)."
+   ],
+   "reflexao": "Como você pode separar tempo e espaço para Deus em sua rotina?",
+   "quiz": [
+    {
+     "pergunta": "Para que servia o muro ao redor da área do templo?",
+     "opcoes": [
+      "Para defesa militar",
+      "Para marcar o mercado",
+      "Para separar o santo do profano",
+      "Para guardar tesouros"
+     ],
+     "correta": 2,
+     "ref": "42:20"
+    }
+   ]
+  },
+  {
+   "n": 43,
+   "titulo": "A glória volta ao templo",
+   "chave": "43:5",
+   "resumo": "Ezequiel vê a glória do Deus de Israel voltar pelo caminho do oriente, com som de muitas águas, e encher o templo; ele cai com o rosto em terra. Deus declara que ali será o lugar de seu trono, onde habitará para sempre no meio de Israel. Ezequiel deve mostrar o templo ao povo para que se envergonhe de seus pecados, e recebe as medidas do altar e os ritos para consagrá-lo.",
+   "licoes": [
+    "A glória que saiu por causa do pecado volta para habitar com o povo (43:2, 43:4-5).",
+    "Deus deseja habitar no meio do seu povo para sempre (43:7).",
+    "Ver a santidade de Deus leva ao arrependimento (43:10-11).",
+    "A consagração do altar mostra que o acesso a Deus requer purificação (43:20, 43:26)."
+   ],
+   "reflexao": "O que a promessa de Deus habitar com seu povo desperta em você?",
+   "quiz": [
+    {
+     "pergunta": "Por qual direção a glória do Deus de Israel voltou?",
+     "opcoes": [
+      "Pelo norte",
+      "Pelo oriente",
+      "Pelo sul",
+      "Pelo ocidente"
+     ],
+     "correta": 1,
+     "ref": "43:2"
+    }
+   ]
+  },
+  {
+   "n": 44,
+   "titulo": "A porta fechada e os sacerdotes fiéis",
+   "chave": "44:28",
+   "resumo": "A porta oriental deve ficar fechada porque o SENHOR entrou por ela; só o príncipe se sentará ali para comer diante de Deus. O SENHOR repreende Israel por ter permitido estrangeiros incircuncisos de coração no santuário. Os levitas que se desviaram servirão em tarefas auxiliares, enquanto os sacerdotes filhos de Zadoque, que permaneceram fiéis, ministrarão diante dele; o próprio Deus será a herança deles.",
+   "licoes": [
+    "O lugar por onde Deus passou é tratado com reverência especial (44:2).",
+    "A fidelidade em tempos de desvio é lembrada e honrada por Deus (44:15).",
+    "Os sacerdotes devem ensinar o povo a distinguir o santo do profano (44:23).",
+    "Para quem serve a Deus, ele mesmo é a maior herança (44:28)."
+   ],
+   "reflexao": "Você considera Deus a sua maior herança?",
+   "quiz": [
+    {
+     "pergunta": "Por que a porta oriental deveria ficar fechada?",
+     "opcoes": [
+      "Por causa dos inimigos",
+      "Porque estava quebrada",
+      "Porque era a porta do rei",
+      "Porque o SENHOR entrou por ela"
+     ],
+     "correta": 3,
+     "ref": "44:2"
+    }
+   ]
+  },
+  {
+   "n": 45,
+   "titulo": "A porção santa e a justiça do príncipe",
+   "chave": "45:9",
+   "resumo": "Na divisão da terra, uma porção é reservada ao SENHOR, com áreas para o santuário, os sacerdotes, os levitas, a cidade e o príncipe. Deus ordena aos príncipes que parem com a violência, pratiquem a justiça e usem balanças e medidas justas. O capítulo também regula as ofertas do povo e as festas, como a Páscoa.",
+   "licoes": [
+    "Deus é honrado quando a primeira parte é separada para ele (45:1).",
+    "Os governantes devem parar de oprimir e praticar juízo e justiça (45:8-9).",
+    "Balanças justas são parte da vida santa (45:10).",
+    "As festas lembram a necessidade constante de purificação e expiação (45:18, 45:21)."
+   ],
+   "reflexao": "Em que área da sua vida (trabalho, negócios, palavras) Deus pede \"balanças justas\"?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus exige dos príncipes de Israel?",
+     "opcoes": [
+      "Que construam palácios",
+      "Que cobrem mais impostos",
+      "Que façam guerra",
+      "Que acabem com a violência e façam justiça"
+     ],
+     "correta": 3,
+     "ref": "45:9"
+    }
+   ]
+  },
+  {
+   "n": 46,
+   "titulo": "O culto do príncipe e do povo",
+   "chave": "46:3",
+   "resumo": "Deus define como o príncipe e o povo adorarão: a porta oriental do pátio interno se abre nos sábados e nas luas novas, e o povo se prostra diante do SENHOR. Há regras para as ofertas diárias, para entrar e sair do templo e para a herança do príncipe, que não pode tomar a terra do povo. Ezequiel também vê as cozinhas onde os sacerdotes preparam os sacrifícios.",
+   "licoes": [
+    "A adoração envolve todo o povo, que se prostra diante do SENHOR (46:3).",
+    "A oferta contínua, todas as manhãs, fala de uma vida diária consagrada a Deus (46:13-15).",
+    "O líder não pode tomar a herança do povo para enriquecer (46:18)."
+   ],
+   "reflexao": "Como você pode começar cada manhã oferecendo sua vida a Deus?",
+   "quiz": [
+    {
+     "pergunta": "Quando seria aberta a porta oriental do pátio interno?",
+     "opcoes": [
+      "Todos os dias",
+      "Só no Dia da Expiação",
+      "Nos sábados e nas luas novas",
+      "Nunca"
+     ],
+     "correta": 2,
+     "ref": "46:1"
+    }
+   ]
+  },
+  {
+   "n": 47,
+   "titulo": "O rio que sai do templo",
+   "chave": "47:9",
+   "resumo": "Ezequiel vê águas saindo de debaixo do templo e correndo para o oriente. A cada mil côvados elas ficam mais fundas, até virar um rio que não se pode atravessar. Por onde passa, o rio dá vida: o mar salgado se torna saudável, há muitos peixes, e às margens crescem árvores com frutos todo mês e folhas que servem de remédio. Depois são dados os limites da terra, com herança também para os estrangeiros que vivem entre o povo.",
+   "licoes": [
+    "A vida verdadeira flui da presença de Deus (47:1, 47:12).",
+    "A bênção de Deus cresce e se aprofunda cada vez mais (47:3-5).",
+    "Por onde o rio passa, tudo vive (47:9).",
+    "A herança de Deus inclui o estrangeiro que vive no meio do povo (47:22-23)."
+   ],
+   "reflexao": "Em que área \"salgada\" da sua vida você precisa que o rio de Deus traga vida?",
+   "quiz": [
+    {
+     "pergunta": "Para que serviriam as folhas das árvores junto ao rio?",
+     "opcoes": [
+      "Para enfeite",
+      "Para construir casas",
+      "Para remédio",
+      "Para os sacrifícios"
+     ],
+     "correta": 2,
+     "ref": "47:12"
+    }
+   ]
+  },
+  {
+   "n": 48,
+   "titulo": "A cidade chamada \"O SENHOR está ali\"",
+   "chave": "48:35",
+   "resumo": "A terra é repartida em faixas entre as doze tribos, com a porção santa no centro para o santuário, os sacerdotes filhos de Zadoque, os levitas, a cidade e o príncipe. A cidade terá doze portas, três de cada lado, com os nomes das tribos de Israel. O livro termina com o novo nome da cidade: \"O SENHOR Está Ali\".",
+   "licoes": [
+    "Deus tem lugar para todas as tribos de seu povo (48:29).",
+    "No centro da vida do povo está a presença de Deus (48:8, 48:10).",
+    "As portas com os nomes das tribos mostram que todo o povo tem acesso (48:31).",
+    "A maior promessa é a presença permanente de Deus: \"O SENHOR Está Ali\" (48:35)."
+   ],
+   "reflexao": "Onde as pessoas podem perceber que \"o SENHOR está ali\" na sua vida?",
+   "quiz": [
+    {
+     "pergunta": "Qual será o nome da cidade?",
+     "opcoes": [
+      "Cidade de Davi",
+      "Nova Sião",
+      "Cidade da Paz",
+      "O SENHOR Está Ali"
+     ],
+     "correta": 3,
+     "ref": "48:35"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1503 @@
+{
+ "livro": "jeremias",
+ "nome": "Jeremias",
+ "subtitulo": "O profeta que chorou e anunciou uma nova aliança",
+ "introducao": "Jeremias profetizou em Judá durante os últimos quarenta anos antes da destruição de Jerusalém pela Babilônia. Ele denunciou a idolatria e a injustiça, sofreu rejeição, prisão e solidão, e viu a queda da cidade que tanto amava. No meio do juízo, porém, anunciou esperança: Deus faria uma nova aliança e escreveria sua lei no coração do seu povo.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Jeremias, sacerdote de Anatote, com a ajuda do escriba Baruque (1:1, 36:4)"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Do 13º ano de Josias até depois da queda de Jerusalém, em 586 a.C. (1:2-3); o livro foi reunido nesse período ou pouco depois"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Jerusalém e Judá; no fim, o Egito (43:7)"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "O povo de Judá antes e depois do exílio, e também as nações vizinhas"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Profecia, com poesia, sermões e narrativas biográficas"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "52 capítulos e 1364 versículos"
+  }
+ ],
+ "chave": "31:33",
+ "temas": [
+  "Arrependimento verdadeiro, de coração",
+  "Juízo de Deus sobre a idolatria e a injustiça",
+  "O sofrimento e a fidelidade do profeta",
+  "Falsos profetas e a verdadeira palavra de Deus",
+  "A esperança da volta e da nova aliança"
+ ],
+ "cristo": "A promessa da nova aliança, com a lei escrita no coração e o perdão dos pecados (31:31-34), é retomada no Novo Testamento: Jesus fala do \"novo pacto\" no seu sangue na Última Ceia, e a carta aos Hebreus cita Jeremias. O \"Renovo justo\" de Davi, chamado \"O SENHOR é nossa justiça\" (23:5-6), é entendido pelos cristãos como anúncio do Messias.",
+ "secoes": [
+  {
+   "id": "chamado",
+   "titulo": "O chamado do profeta",
+   "capitulos": [
+    1
+   ],
+   "resumo": "Deus chama Jeremias e o envia às nações."
+  },
+  {
+   "id": "primeiros-sermoes",
+   "titulo": "Os primeiros sermões",
+   "capitulos": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "resumo": "Denúncia da infidelidade de Judá, convite ao arrependimento e anúncio do invasor do norte."
+  },
+  {
+   "id": "alianca-e-confissoes",
+   "titulo": "Aliança quebrada e confissões do profeta",
+   "capitulos": [
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+   ],
+   "resumo": "Sinais proféticos, lamentos pessoais de Jeremias e crescente oposição."
+  },
+  {
+   "id": "reis-e-profetas",
+   "titulo": "Reis, falsos profetas e os setenta anos",
+   "capitulos": [
+    21,
+    22,
+    23,
+    24,
+    25
+   ],
+   "resumo": "Mensagens aos reis, promessa do Renovo e anúncio do exílio de setenta anos."
+  },
+  {
+   "id": "conflitos",
+   "titulo": "Conflitos com sacerdotes e profetas",
+   "capitulos": [
+    26,
+    27,
+    28,
+    29
+   ],
+   "resumo": "Jeremias é julgado, enfrenta Hananias e escreve aos exilados."
+  },
+  {
+   "id": "consolacao",
+   "titulo": "O livro da consolação",
+   "capitulos": [
+    30,
+    31,
+    32,
+    33
+   ],
+   "resumo": "Promessas de volta, cura e nova aliança."
+  },
+  {
+   "id": "ultimos-dias",
+   "titulo": "Os últimos dias de Jerusalém",
+   "capitulos": [
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+   ],
+   "resumo": "Desobediência dos reis, prisão do profeta e queda da cidade."
+  },
+  {
+   "id": "depois-da-queda",
+   "titulo": "Depois da queda",
+   "capitulos": [
+    40,
+    41,
+    42,
+    43,
+    44,
+    45
+   ],
+   "resumo": "O governo de Gedalias, seu assassinato e a fuga para o Egito."
+  },
+  {
+   "id": "nacoes",
+   "titulo": "Profecias contra as nações",
+   "capitulos": [
+    46,
+    47,
+    48,
+    49,
+    50,
+    51
+   ],
+   "resumo": "Juízo sobre Egito, filisteus, Moabe, outras nações e a própria Babilônia."
+  },
+  {
+   "id": "epilogo",
+   "titulo": "Epílogo histórico",
+   "capitulos": [
+    52
+   ],
+   "resumo": "A queda de Jerusalém recontada e a libertação de Joaquim."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "O chamado do profeta",
+   "chave": "1:5",
+   "resumo": "Jeremias, sacerdote de Anatote, recebe a palavra do SENHOR desde o tempo de Josias até a queda de Jerusalém. Deus diz que o conhecia antes de formá-lo no ventre e o constituiu profeta às nações. Jeremias se acha jovem demais, mas Deus toca sua boca e lhe mostra duas visões: a vara de amendoeira e a panela fervente voltada para o norte.",
+   "licoes": [
+    "Deus conhece e separa seus servos antes mesmo de nascerem (1:5).",
+    "A insuficiência humana não anula o chamado, porque Deus promete estar junto (1:6-8).",
+    "A mensagem do profeta vem de Deus: ele derruba o que está podre e também edifica e planta (1:9-10).",
+    "Quem obedece será atacado, mas não vencido, pois o SENHOR o sustenta (1:18-19)."
+   ],
+   "reflexao": "Que desculpa você costuma dar quando sente que Deus o chama para algo?",
+   "quiz": [
+    {
+     "pergunta": "O que Jeremias viu na primeira visão?",
+     "opcoes": [
+      "Uma panela fervente",
+      "Um cesto de figos",
+      "Um cinto de linho",
+      "Uma vara de amendoeira"
+     ],
+     "correta": 3,
+     "ref": "1:11"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Cisternas rachadas",
+   "chave": "2:13",
+   "resumo": "Deus lembra o amor de Israel no tempo do deserto e pergunta que mal os pais acharam nele para abandoná-lo. O povo trocou sua glória por ídolos inúteis e buscou ajuda no Egito e na Assíria. Mesmo culpado, Judá insiste em dizer que é inocente.",
+   "licoes": [
+    "Abandonar Deus é trocar a fonte de água viva por cisternas que não retêm água (2:13).",
+    "Os líderes religiosos também falharam: não perguntaram \"Onde está o SENHOR?\" (2:8).",
+    "Os ídolos não salvam no dia da aflição (2:27-28).",
+    "Negar o pecado é o caminho mais seguro para o juízo (2:35)."
+   ],
+   "reflexao": "Em que \"cisternas rachadas\" você tem buscado satisfação fora de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Com que Deus se compara no versículo das duas maldades do povo?",
+     "opcoes": [
+      "Rocha firme",
+      "Fonte de água viva",
+      "Luz do mundo",
+      "Pastor fiel"
+     ],
+     "correta": 1,
+     "ref": "2:13"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Voltai, filhos rebeldes",
+   "chave": "3:22",
+   "resumo": "Usando a imagem do casamento traído, Deus compara Israel, que já tinha sido levada cativa, com Judá, que viu tudo e também se prostituiu com ídolos. Mesmo assim, o SENHOR chama ao arrependimento e promete pastores segundo o seu coração. O capítulo termina com uma confissão de pecado colocada na boca do povo.",
+   "licoes": [
+    "Deus convida ao arrependimento mesmo depois de muita infidelidade (3:12).",
+    "Um retorno apenas aparente não agrada a Deus; ele busca o coração inteiro (3:10).",
+    "Deus promete dar pastores que alimentem o povo com conhecimento e entendimento (3:15).",
+    "O verdadeiro retorno inclui reconhecer o pecado com sinceridade (3:13, 3:25)."
+   ],
+   "reflexao": "Seu arrependimento é de coração inteiro ou só de aparência?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus promete dar ao povo que voltar a ele?",
+     "opcoes": [
+      "Reis guerreiros",
+      "Um novo templo de ouro",
+      "Pastores segundo o seu coração",
+      "Riquezas do Egito"
+     ],
+     "correta": 2,
+     "ref": "3:15"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Circuncidai o coração",
+   "chave": "4:4",
+   "resumo": "Deus chama Judá a se converter de verdade e a circuncidar o coração. Em seguida anuncia um invasor vindo do norte, como um leão que destrói nações. Jeremias sente dor profunda pelo povo e descreve a terra devastada como se voltasse ao caos, \"sem forma e vazia\".",
+   "licoes": [
+    "Deus não quer só ritos externos, mas um coração transformado (4:4).",
+    "O mal que vem é consequência dos próprios caminhos do povo (4:18).",
+    "O profeta sofre junto com o povo que precisa advertir (4:19).",
+    "Mesmo no juízo, Deus diz que não destruirá por completo (4:27)."
+   ],
+   "reflexao": "Há alguma área da sua vida em que você cumpre a forma, mas o coração está longe?",
+   "quiz": [
+    {
+     "pergunta": "Como Jeremias descreve a terra em sua visão de destruição?",
+     "opcoes": [
+      "Cheia de frutos",
+      "Coberta de água",
+      "Sem forma e vazia",
+      "Iluminada pelo sol"
+     ],
+     "correta": 2,
+     "ref": "4:23"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "Procura-se um justo",
+   "chave": "5:1",
+   "resumo": "Deus manda procurar em Jerusalém um só homem que pratique a justiça e busque a verdade, e ele perdoaria a cidade. Pobres e grandes, todos se rebelaram. O povo nega que o juízo virá, enriquece com engano e não defende o órfão nem o necessitado, enquanto profetas e sacerdotes mentem.",
+   "licoes": [
+    "Deus procura a justiça e a verdade em seu povo, não só palavras religiosas (5:1-2).",
+    "A disciplina de Deus é inútil para quem endurece o rosto (5:3).",
+    "O Deus que põe limite ao mar merece temor e reverência (5:22).",
+    "Enriquecer explorando os fracos é uma ofensa grave diante de Deus (5:27-28)."
+   ],
+   "reflexao": "Você seria a pessoa justa que Deus procurava nas ruas da sua cidade?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus pôs como limite para o mar?",
+     "opcoes": [
+      "Rochas",
+      "A areia",
+      "Montes",
+      "Muralhas"
+     ],
+     "correta": 1,
+     "ref": "5:22"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "Perguntai pelas veredas antigas",
+   "chave": "6:16",
+   "resumo": "Jerusalém é chamada a fugir, pois um exército do norte vem cercar a cidade cheia de opressão. Os ouvidos do povo estão fechados à palavra, e profetas e sacerdotes curam a ferida superficialmente dizendo \"Paz, paz\". Deus convida a buscar o bom caminho, mas o povo recusa, e seus sacrifícios não são aceitos.",
+   "licoes": [
+    "Líderes que anunciam paz sem tratar o pecado só curam a ferida por fora (6:14).",
+    "Deus convida a parar e perguntar pelo bom caminho, e promete descanso para a alma (6:16).",
+    "Ofertas religiosas sem obediência não agradam a Deus (6:19-20).",
+    "O profeta é posto como avaliador que examina a vida do povo (6:27)."
+   ],
+   "reflexao": "Onde você precisa parar e perguntar qual é o bom caminho?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus promete a quem anda pelo bom caminho?",
+     "opcoes": [
+      "Riquezas",
+      "Descanso para a alma",
+      "Vitória na guerra",
+      "Uma terra nova"
+     ],
+     "correta": 1,
+     "ref": "6:16"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "O sermão no templo",
+   "chave": "7:4",
+   "resumo": "À porta do templo, Jeremias denuncia quem confia em \"Templo do SENHOR!\" como amuleto enquanto rouba, mata, adultera e segue outros deuses. Deus lembra o que fez com Siló e diz que pode fazer o mesmo com sua casa. O SENHOR deseja obediência mais do que sacrifícios e condena os sacrifícios de crianças em Tofete.",
+   "licoes": [
+    "Frequentar um lugar sagrado não protege quem vive na injustiça (7:4, 7:9-10).",
+    "Deus pede justiça concreta: proteger o estrangeiro, o órfão e a viúva (7:5-6).",
+    "O que Deus mais pediu ao seu povo foi ouvir sua voz e andar em seus caminhos (7:23).",
+    "Jesus retoma a expressão \"caverna de assaltantes\" quando purifica o templo, como contam os Evangelhos (7:11)."
+   ],
+   "reflexao": "Você já usou práticas religiosas para se sentir seguro sem mudar de vida?",
+   "quiz": [
+    {
+     "pergunta": "Que lugar Deus manda o povo olhar como exemplo do que aconteceria ao templo?",
+     "opcoes": [
+      "Siló",
+      "Betel",
+      "Gilgal",
+      "Hebrom"
+     ],
+     "correta": 0,
+     "ref": "7:12"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "Não há bálsamo em Gileade?",
+   "chave": "8:22",
+   "resumo": "Deus se espanta de que seu povo não volte depois de cair, enquanto até as aves conhecem seus tempos. Os sábios rejeitaram a palavra, e os líderes repetem \"Paz, paz\" sem haver paz. O capítulo termina com o lamento do profeta: passou a colheita e o povo não foi salvo.",
+   "licoes": [
+    "Quem cai pode levantar-se; o problema é recusar-se a voltar (8:4-5).",
+    "A natureza obedece ao ritmo de Deus, mas o povo ignora seus mandamentos (8:7).",
+    "Sabedoria sem a palavra do SENHOR é vazia (8:9).",
+    "Há um tempo para responder a Deus, e ele pode passar (8:20)."
+   ],
+   "reflexao": "Que oportunidade de voltar para Deus você não quer deixar passar?",
+   "quiz": [
+    {
+     "pergunta": "Que aves são citadas por conhecerem seus tempos?",
+     "opcoes": [
+      "Águia e corvo",
+      "Cegonha, rolinha, grou e andorinha",
+      "Pomba e pardal",
+      "Coruja e gavião"
+     ],
+     "correta": 1,
+     "ref": "8:7"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "Quem se gloria, glorie-se em conhecer a Deus",
+   "chave": "9:24",
+   "resumo": "Jeremias deseja que seus olhos fossem uma fonte de lágrimas pelo povo. A mentira domina tanto que ninguém pode confiar no irmão ou no amigo. Deus chama carpideiras para lamentar a destruição e ensina que o único motivo legítimo de orgulho é conhecê-lo.",
+   "licoes": [
+    "O profeta chora pelo povo que ele mesmo precisa denunciar (9:1).",
+    "A mentira destrói a confiança entre amigos e irmãos (9:4-5).",
+    "Sabedoria, força e riqueza não são motivo de orgulho; conhecer a Deus é (9:23-24).",
+    "Deus se agrada de bondade, juízo e justiça na terra (9:24)."
+   ],
+   "reflexao": "Do que você mais se orgulha, e isso o aproxima de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o capítulo, de que alguém deve se gloriar?",
+     "opcoes": [
+      "De sua sabedoria",
+      "De suas riquezas",
+      "De conhecer o SENHOR",
+      "De sua força"
+     ],
+     "correta": 2,
+     "ref": "9:24"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "titulo": "O Deus vivo e os ídolos",
+   "chave": "10:10",
+   "resumo": "Jeremias contrasta os ídolos, feitos por artesãos e incapazes de falar ou andar, com o SENHOR, Deus verdadeiro, vivo e Rei eterno, que criou o mundo com poder e sabedoria. Depois anuncia o exílio que se aproxima. O capítulo termina com uma oração humilde pedindo correção com moderação.",
+   "licoes": [
+    "Ídolos são como espantalhos: não falam, não andam e não podem fazer nem bem nem mal (10:5).",
+    "O SENHOR é o Deus vivo e Criador do mundo (10:10, 10:12).",
+    "Quando os líderes não buscam a Deus, o rebanho se dispersa (10:21).",
+    "O caminho do ser humano não está em suas próprias mãos; precisamos da direção de Deus (10:23)."
+   ],
+   "reflexao": "Em que você confia que, no fundo, não pode falar nem salvar?",
+   "quiz": [
+    {
+     "pergunta": "A que Jeremias compara os ídolos?",
+     "opcoes": [
+      "Pássaros presos",
+      "Árvores sem fruto",
+      "Nuvens sem chuva",
+      "Espantalhos numa plantação"
+     ],
+     "correta": 3,
+     "ref": "10:5"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "titulo": "A aliança quebrada",
+   "chave": "11:4",
+   "resumo": "Deus manda Jeremias proclamar as palavras da aliança feita no êxodo: obedecer à voz do SENHOR para ser seu povo. Israel e Judá quebraram a aliança e seguiram outros deuses. Os próprios homens de Anatote, cidade de Jeremias, tramam matá-lo, e ele entrega sua causa ao justo Juiz.",
+   "licoes": [
+    "A aliança de Deus é um relacionamento: \"sereis meu povo, e eu serei vosso Deus\" (11:4).",
+    "Ídolos não salvam no tempo da calamidade (11:12).",
+    "Jeremias, como cordeiro levado ao matadouro, entrega sua causa a Deus em vez de se vingar sozinho (11:19-20).",
+    "Ser fiel à palavra de Deus pode trazer oposição até dos mais próximos (11:21)."
+   ],
+   "reflexao": "Quando você é tratado injustamente, entrega sua causa a Deus?",
+   "quiz": [
+    {
+     "pergunta": "Quem tramava matar Jeremias neste capítulo?",
+     "opcoes": [
+      "Os sacerdotes de Betel",
+      "Os homens de Anatote",
+      "Os soldados babilônios",
+      "Os egípcios"
+     ],
+     "correta": 1,
+     "ref": "11:21"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "titulo": "Por que prosperam os ímpios?",
+   "chave": "12:1",
+   "resumo": "Jeremias pergunta a Deus por que os perversos prosperam. Deus responde que provas maiores virão, comparando a corrida contra homens a pé com a corrida contra cavalos, e avisa que até a família do profeta o traiu. O SENHOR lamenta sua herança devastada, mas promete compaixão até para as nações vizinhas que aprenderem seus caminhos.",
+   "licoes": [
+    "É possível levar a Deus nossas perguntas mais difíceis com honestidade (12:1).",
+    "Deus prepara seus servos para desafios maiores (12:5).",
+    "Deus se entristece com sua herança destruída por maus pastores (12:10).",
+    "A compaixão de Deus alcança até nações estrangeiras que se voltam para ele (12:15-16)."
+   ],
+   "reflexao": "Que pergunta difícil você gostaria de fazer a Deus com sinceridade?",
+   "quiz": [
+    {
+     "pergunta": "Com que Deus compara a provação maior que Jeremias enfrentaria?",
+     "opcoes": [
+      "Nadar no mar",
+      "Subir um monte",
+      "Correr com cavalos",
+      "Lutar com leões"
+     ],
+     "correta": 2,
+     "ref": "12:5"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "titulo": "O cinto apodrecido",
+   "chave": "13:11",
+   "resumo": "Deus manda Jeremias comprar um cinto de linho, escondê-lo junto ao Eufrates e depois buscá-lo: o cinto estava podre. Assim Deus faria apodrecer a arrogância de Judá, povo que ele quis manter junto de si como um cinto. Seguem avisos ao rei e à rainha-mãe e a pergunta sobre se o leopardo pode mudar suas manchas.",
+   "licoes": [
+    "Deus quis seu povo perto dele como um cinto ao corpo, para sua glória (13:11).",
+    "O orgulho que recusa ouvir a Deus estraga a vida como o cinto apodrecido (13:9-10).",
+    "Há um tempo para dar glória a Deus antes que venham as trevas (13:16).",
+    "O hábito no pecado endurece a pessoa, como o leopardo que não muda as manchas (13:23)."
+   ],
+   "reflexao": "Que hábito você precisa entregar a Deus antes que se torne parte de quem você é?",
+   "quiz": [
+    {
+     "pergunta": "Onde Jeremias escondeu o cinto de linho?",
+     "opcoes": [
+      "No templo",
+      "No rio Jordão",
+      "Junto ao Eufrates",
+      "Em Anatote"
+     ],
+     "correta": 2,
+     "ref": "13:5"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "titulo": "Seca e falsos profetas",
+   "chave": "14:22",
+   "resumo": "Uma grande seca atinge Judá, e o povo clama a Deus confessando seus pecados. Deus diz a Jeremias que não interceda, pois o povo ama andar longe dele. Falsos profetas prometem paz, mas Deus diz que não os enviou; o capítulo termina com nova confissão e esperança no Deus que dá a chuva.",
+   "licoes": [
+    "Confessar o pecado e apelar ao nome de Deus é o caminho certo na crise (14:7).",
+    "Profetas que falam o que o povo quer ouvir, sem ter sido enviados, enganam (14:14).",
+    "Só o SENHOR dá a chuva; ídolos não podem fazer chover (14:22)."
+   ],
+   "reflexao": "Você prefere ouvir o que é agradável ou o que é verdadeiro?",
+   "quiz": [
+    {
+     "pergunta": "O que os falsos profetas diziam ao povo?",
+     "opcoes": [
+      "Que viria fome",
+      "Que não haveria espada nem fome",
+      "Que deviam se arrepender",
+      "Que Babilônia venceria"
+     ],
+     "correta": 1,
+     "ref": "14:13"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "titulo": "Tuas palavras foram minha alegria",
+   "chave": "15:16",
+   "resumo": "Deus diz que nem Moisés e Samuel intercedendo mudariam o juízo, por causa dos pecados acumulados desde Manassés. Jeremias se queixa de sua solidão e da perseguição. Ele recorda que as palavras de Deus foram sua alegria, e Deus o chama a voltar e promete fazê-lo muro de bronze.",
+   "licoes": [
+    "As palavras de Deus alimentam e alegram o coração de quem as recebe (15:16).",
+    "Até o profeta precisa de arrependimento quando a amargura o domina (15:18-19).",
+    "Deus pede que o profeta influencie o povo, e não se deixe influenciar por ele (15:19).",
+    "A promessa de Deus é de presença e livramento, não de vida sem luta (15:20-21)."
+   ],
+   "reflexao": "Quando foi a última vez que a Palavra de Deus foi alegria para você?",
+   "quiz": [
+    {
+     "pergunta": "Que dois homens Deus diz que, mesmo intercedendo, não mudariam o juízo?",
+     "opcoes": [
+      "Abraão e Davi",
+      "Elias e Eliseu",
+      "Noé e Jó",
+      "Moisés e Samuel"
+     ],
+     "correta": 3,
+     "ref": "15:1"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "titulo": "Um profeta sem casamento",
+   "chave": "16:19",
+   "resumo": "Deus proíbe Jeremias de se casar, de ter filhos e de participar de funerais e banquetes, como sinal de que morte e silêncio viriam sobre a terra. O motivo é a idolatria do povo, pior que a dos pais. Ainda assim, Deus promete um novo êxodo, trazendo Israel de volta da terra do norte, e as nações reconhecerão que seus ídolos eram mentira.",
+   "licoes": [
+    "A própria vida do profeta se torna mensagem para o povo (16:2, 16:9).",
+    "Nada fica escondido diante dos olhos de Deus (16:17).",
+    "Depois do juízo, Deus promete trazer de volta seu povo, como num novo êxodo (16:14-15).",
+    "O SENHOR é fortaleza e refúgio no tempo da aflição, e as nações reconhecerão os ídolos como inúteis (16:19-20)."
+   ],
+   "reflexao": "Que renúncia sua poderia falar de Deus às pessoas ao seu redor?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus proibiu Jeremias de fazer neste capítulo?",
+     "opcoes": [
+      "Comer pão",
+      "Casar-se e ter filhos",
+      "Entrar no templo",
+      "Falar com o rei"
+     ],
+     "correta": 1,
+     "ref": "16:2"
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "titulo": "A árvore junto às águas",
+   "chave": "17:7-8",
+   "resumo": "O pecado de Judá está gravado no coração como com ponta de diamante. Maldito é quem confia no ser humano e afasta o coração de Deus, mas bendito é quem confia no SENHOR, como árvore junto às águas. Jeremias pede cura e salvação, e Deus o manda chamar o povo a guardar o sábado.",
+   "licoes": [
+    "Quem confia em Deus permanece verde e frutífero mesmo na seca (17:7-8).",
+    "O coração humano é enganoso; só Deus o conhece de verdade (17:9-10).",
+    "Riqueza ganha sem justiça não dura (17:11).",
+    "Podemos pedir: \"Sara-me, ó SENHOR, e serei sarado\" (17:14)."
+   ],
+   "reflexao": "Suas raízes estão firmadas em Deus ou em apoios humanos?",
+   "quiz": [
+    {
+     "pergunta": "A que é comparado o homem que confia no SENHOR?",
+     "opcoes": [
+      "Um arbusto no deserto",
+      "Uma árvore plantada junto a águas",
+      "Uma rocha firme",
+      "Uma torre alta"
+     ],
+     "correta": 1,
+     "ref": "17:8"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "titulo": "O oleiro e o barro",
+   "chave": "18:6",
+   "resumo": "Na casa do oleiro, Jeremias vê um vaso estragar-se e ser refeito em outro. Deus explica que Israel está em suas mãos como barro, e que sua palavra sobre as nações responde ao arrependimento ou à rebeldia delas. O povo rejeita o chamado, e os inimigos do profeta tramam contra ele.",
+   "licoes": [
+    "Deus é soberano e pode refazer quem está em suas mãos (18:4, 18:6).",
+    "O arrependimento sincero muda o rumo anunciado do juízo (18:7-8).",
+    "Recusar a esperança de mudança é uma forma de teimosia (18:12).",
+    "O profeta que intercedeu pelo povo é pago com o mal (18:20)."
+   ],
+   "reflexao": "O que Deus estaria querendo refazer em você neste momento?",
+   "quiz": [
+    {
+     "pergunta": "O que o oleiro fez quando o vaso se estragou?",
+     "opcoes": [
+      "Jogou-o fora",
+      "Fez dele outro vaso",
+      "Vendeu o barro",
+      "Desistiu da obra"
+     ],
+     "correta": 1,
+     "ref": "18:4"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "titulo": "A jarra quebrada",
+   "chave": "19:11",
+   "resumo": "Deus manda Jeremias comprar uma jarra de barro e levá-la, com anciãos, ao vale do filho de Hinom. Ali ele denuncia a idolatria e os sacrifícios de crianças a Baal e quebra a jarra diante deles. Assim Deus quebraria a cidade, e o vale seria chamado Vale da Matança.",
+   "licoes": [
+    "Deus condena com firmeza a violência contra inocentes, especialmente crianças (19:4-5).",
+    "O que Deus nunca mandou não pode ser feito em seu nome (19:5).",
+    "Há um ponto em que a dureza leva a uma ruína que não se restaura como antes (19:11, 19:15)."
+   ],
+   "reflexao": "Há algo que você justifica como religioso, mas que Deus nunca pediu?",
+   "quiz": [
+    {
+     "pergunta": "Onde Jeremias deveria quebrar a jarra?",
+     "opcoes": [
+      "No vale do filho de Hinom",
+      "No pátio do templo",
+      "Junto ao Eufrates",
+      "No palácio do rei"
+     ],
+     "correta": 0,
+     "ref": "19:2"
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "titulo": "Fogo nos ossos",
+   "chave": "20:9",
+   "resumo": "O sacerdote Pasur fere Jeremias e o coloca no tronco. Libertado, o profeta lhe anuncia o exílio na Babilônia. Depois Jeremias derrama sua angústia diante de Deus: a palavra lhe traz zombaria, mas é como fogo em seus ossos que não consegue conter; ele louva a Deus e, logo depois, amaldiçoa o dia em que nasceu.",
+   "licoes": [
+    "A palavra de Deus pode arder no coração de tal modo que não se consegue calá-la (20:9).",
+    "Deus está ao lado do fiel como um guerreiro poderoso (20:11).",
+    "A Bíblia registra com honestidade a depressão e as perguntas de um homem de Deus (20:14, 20:18).",
+    "Louvor e lamento podem conviver na mesma oração (20:13-14)."
+   ],
+   "reflexao": "Você se sente livre para ser honesto com Deus sobre sua dor?",
+   "quiz": [
+    {
+     "pergunta": "Quem colocou Jeremias no tronco?",
+     "opcoes": [
+      "Zedequias",
+      "Pasur",
+      "Hananias",
+      "Baruque"
+     ],
+     "correta": 1,
+     "ref": "20:2"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "titulo": "Caminho de vida e caminho de morte",
+   "chave": "21:8",
+   "resumo": "Durante o cerco de Nabucodonosor, o rei Zedequias manda perguntar a Jeremias se o SENHOR fará um milagre. A resposta é dura: o próprio Deus lutará contra a cidade. Ao povo, Deus põe diante dele o caminho da vida (render-se aos caldeus) e o da morte (ficar na cidade), e à casa de Davi pede justiça.",
+   "licoes": [
+    "Buscar a Deus só para escapar da crise, sem mudar de vida, não basta (21:2, 21:12).",
+    "Deus coloca diante das pessoas escolhas reais entre vida e morte (21:8-9).",
+    "Os governantes são chamados a fazer justiça e livrar o oprimido (21:12)."
+   ],
+   "reflexao": "Você procura a Deus só nos momentos de aperto?",
+   "quiz": [
+    {
+     "pergunta": "Que rei mandou consultar Jeremias neste capítulo?",
+     "opcoes": [
+      "Zedequias",
+      "Josias",
+      "Jeoaquim",
+      "Jeconias"
+     ],
+     "correta": 0,
+     "ref": "21:1"
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "titulo": "Mensagens aos reis de Judá",
+   "chave": "22:16",
+   "resumo": "Jeremias vai ao palácio e chama o rei a praticar justiça e proteger o estrangeiro, o órfão e a viúva. Ele anuncia que Salum (Jeoacaz) não voltará do exílio, condena Jeoaquim por construir palácio explorando trabalhadores e declara que nenhum descendente de Conias (Joaquim) prosperará no trono de Davi.",
+   "licoes": [
+    "Conhecer a Deus é julgar a causa do aflito e do necessitado (22:16).",
+    "Construir riqueza sem pagar o trabalhador é injustiça diante de Deus (22:13).",
+    "Não é o luxo que faz um bom governante, mas a justiça (22:15).",
+    "Quem não ouve a Deus na prosperidade costuma não ouvir nunca (22:21)."
+   ],
+   "reflexao": "Como sua fé aparece no modo como você trata quem trabalha para você ou depende de você?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Deus, o que significa conhecê-lo, conforme o exemplo de Josias?",
+     "opcoes": [
+      "Julgar a causa do aflito e do necessitado",
+      "Oferecer muitos sacrifícios",
+      "Construir palácios de cedro",
+      "Vencer guerras"
+     ],
+     "correta": 0,
+     "ref": "22:16"
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "titulo": "O Renovo justo e os falsos profetas",
+   "chave": "23:5-6",
+   "resumo": "Deus condena os pastores que dispersaram o rebanho e promete reunir as ovelhas e levantar a Davi um Renovo justo, chamado \"O SENHOR é nossa justiça\". Depois denuncia os profetas que falam visões do próprio coração, prometem paz a quem despreza a Deus e contam sonhos mentirosos. A verdadeira palavra de Deus é como fogo e martelo.",
+   "licoes": [
+    "Deus mesmo cuidará de suas ovelhas quando os líderes falham (23:3-4).",
+    "O Renovo de Davi reinará com juízo e justiça (23:5-6).",
+    "Profetas verdadeiros levam o povo a deixar o mau caminho (23:22).",
+    "A palavra de Deus é como fogo e como martelo que quebra a pedra (23:29)."
+   ],
+   "reflexao": "As vozes que você mais ouve o levam a mudar de caminho ou apenas o tranquilizam?",
+   "quiz": [
+    {
+     "pergunta": "Qual será o nome do Renovo justo levantado a Davi?",
+     "opcoes": [
+      "O SENHOR é nossa justiça",
+      "Príncipe da Paz",
+      "Emanuel",
+      "Maravilhoso Conselheiro"
+     ],
+     "correta": 0,
+     "ref": "23:6"
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "titulo": "Os dois cestos de figos",
+   "chave": "24:7",
+   "resumo": "Depois que Jeconias e outros foram levados à Babilônia, Deus mostra a Jeremias dois cestos de figos, um muito bom e outro muito ruim. Os figos bons representam os exilados, que Deus fará voltar e a quem dará um coração para conhecê-lo. Os ruins representam Zedequias e os que ficaram ou fugiram para o Egito.",
+   "licoes": [
+    "Deus pode usar o exílio, uma experiência dura, para o bem de seu povo (24:5).",
+    "Deus promete edificar e plantar, e não arrancar, os que se voltarem a ele (24:6).",
+    "Conhecer a Deus é um dom: ele dá o coração para isso (24:7)."
+   ],
+   "reflexao": "Que situação difícil Deus pode estar usando para o seu bem?",
+   "quiz": [
+    {
+     "pergunta": "O que os figos bons representavam?",
+     "opcoes": [
+      "Os sacerdotes do templo",
+      "Os que fugiram para o Egito",
+      "O rei Zedequias e seus príncipes",
+      "Os levados cativos para a terra dos caldeus"
+     ],
+     "correta": 3,
+     "ref": "24:5"
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "titulo": "Setenta anos e o cálice da ira",
+   "chave": "25:11",
+   "resumo": "No quarto ano de Jeoaquim, Jeremias lembra que há 23 anos prega sem ser ouvido. Deus anuncia que Nabucodonosor, seu \"servo\", devastará a terra e que as nações servirão à Babilônia por setenta anos, depois dos quais a própria Babilônia será punida. Jeremias recebe o cálice da ira de Deus para dar de beber a Judá e a todas as nações.",
+   "licoes": [
+    "A paciência de Deus é grande: ele falou por anos por meio de seus profetas (25:3-4).",
+    "Deus governa a história e pode usar até impérios pagãos para seus propósitos (25:9).",
+    "O juízo tem prazo: setenta anos, e depois a Babilônia também responderá (25:11-12).",
+    "O juízo começa pela casa de Deus, mas alcança todas as nações (25:29)."
+   ],
+   "reflexao": "Por quanto tempo Deus já tem falado com você sobre algo que você ainda não obedeceu?",
+   "quiz": [
+    {
+     "pergunta": "Por quanto tempo as nações serviriam ao rei da Babilônia?",
+     "opcoes": [
+      "Quarenta anos",
+      "Cem anos",
+      "Setenta anos",
+      "Sete anos"
+     ],
+     "correta": 2,
+     "ref": "25:11"
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "titulo": "Jeremias julgado no templo",
+   "chave": "26:13",
+   "resumo": "No início do reinado de Jeoaquim, Jeremias anuncia no templo que, se o povo não ouvir, a casa será como Siló. Sacerdotes e profetas exigem sua morte, mas ele repete que Deus o enviou e chama ao arrependimento. Príncipes e anciãos o defendem lembrando o profeta Miqueias; outro profeta, Urias, é morto por Jeoaquim, mas Aicão protege Jeremias.",
+   "licoes": [
+    "Deus avisa com antecedência porque deseja que o povo se arrependa (26:3).",
+    "Jeremias se entrega a Deus e fala a verdade mesmo sob ameaça de morte (26:14-15).",
+    "Lembrar como Deus agiu no passado ajuda a decidir com justiça no presente (26:18-19).",
+    "Uma pessoa corajosa, como Aicão, pode proteger quem defende a verdade (26:24)."
+   ],
+   "reflexao": "Você tem coragem de ficar ao lado de alguém que fala a verdade?",
+   "quiz": [
+    {
+     "pergunta": "Quem protegeu Jeremias para que não fosse morto pelo povo?",
+     "opcoes": [
+      "Urias",
+      "Elnatã",
+      "Aicão, filho de Safã",
+      "Pasur"
+     ],
+     "correta": 2,
+     "ref": "26:24"
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "titulo": "O jugo da Babilônia",
+   "chave": "27:11",
+   "resumo": "Deus manda Jeremias usar um jugo no pescoço e enviar mensagem aos reis de Edom, Moabe, Amom, Tiro e Sidom e a Zedequias: Deus deu as terras a Nabucodonosor, e quem se submeter viverá. Os profetas que prometem libertação rápida e a volta dos utensílios do templo mentem; os objetos ainda restantes também irão para a Babilônia, mas um dia voltarão.",
+   "licoes": [
+    "Deus é o Criador e dá a terra a quem lhe agrada (27:5).",
+    "Às vezes a obediência significa aceitar uma disciplina em vez de lutar contra ela (27:11-12).",
+    "Profecias agradáveis que contradizem a palavra de Deus levam à ruína (27:14-15).",
+    "Mesmo no juízo, Deus promete restaurar o que foi levado (27:22)."
+   ],
+   "reflexao": "Há alguma disciplina de Deus que você está tentando quebrar em vez de aprender com ela?",
+   "quiz": [
+    {
+     "pergunta": "Que objeto Jeremias colocou no pescoço como sinal?",
+     "opcoes": [
+      "Um jugo com amarras",
+      "Uma corrente de ouro",
+      "Um cinto de linho",
+      "Uma pedra"
+     ],
+     "correta": 0,
+     "ref": "27:2"
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "titulo": "Hananias, o falso profeta",
+   "chave": "28:15",
+   "resumo": "Hananias anuncia no templo que em dois anos Deus quebraria o jugo da Babilônia e traria de volta os exilados. Jeremias responde que gostaria que fosse assim, mas que o tempo mostrará quem fala por Deus. Hananias quebra o jugo de madeira; Deus responde que porá um jugo de ferro, e Hananias morre naquele mesmo ano.",
+   "licoes": [
+    "Jeremias deseja o bem do povo, mas não troca a verdade por otimismo (28:6-9).",
+    "Uma profecia de paz só se confirma quando se cumpre (28:9).",
+    "Rejeitar a disciplina de Deus pode torná-la mais pesada (28:13).",
+    "Fazer o povo confiar em mentiras é algo muito grave (28:15-16)."
+   ],
+   "reflexao": "Como você distingue uma mensagem agradável de uma mensagem verdadeira?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus disse que faria no lugar do jugo de madeira quebrado?",
+     "opcoes": [
+      "Jugos de ferro",
+      "Nada mais",
+      "Uma coroa",
+      "Correntes de bronze"
+     ],
+     "correta": 0,
+     "ref": "28:13"
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "titulo": "Carta aos exilados",
+   "chave": "29:11",
+   "resumo": "Jeremias escreve aos exilados na Babilônia: construam casas, plantem, casem-se e busquem a paz da cidade onde estão, orando por ela. O exílio duraria setenta anos, e Deus tem para eles planos de paz e de esperança. A carta também denuncia falsos profetas entre os exilados, como Acabe, Zedequias e Semaías.",
+   "licoes": [
+    "Deus chama seu povo a viver bem e a abençoar a cidade onde está, mesmo longe de casa (29:5-7).",
+    "Os planos de Deus são de paz e de futuro com esperança (29:11).",
+    "Quem busca a Deus de todo o coração o encontra (29:13).",
+    "Promessas falsas de solução rápida desviam o povo da vontade de Deus (29:8-9)."
+   ],
+   "reflexao": "Como você pode buscar o bem da cidade em que vive hoje?",
+   "quiz": [
+    {
+     "pergunta": "O que Jeremias mandou os exilados fazer pela cidade onde estavam?",
+     "opcoes": [
+      "Fugir dela",
+      "Revoltar-se contra o rei",
+      "Evitar seus moradores",
+      "Buscar sua paz e orar por ela"
+     ],
+     "correta": 3,
+     "ref": "29:7"
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "titulo": "Tempo de angústia para Jacó, e cura",
+   "chave": "30:17",
+   "resumo": "Deus manda Jeremias escrever num livro suas promessas de restauração para Israel e Judá. Virá um tempo de grande angústia para Jacó, mas ele será salvo; o jugo será quebrado e o povo servirá ao SENHOR e a Davi, seu rei. A ferida parece incurável, mas Deus promete sarar, reconstruir a cidade e renovar a relação: \"sereis meu povo\".",
+   "licoes": [
+    "A disciplina de Deus é real, mas tem medida e propósito (30:11).",
+    "O que parece incurável aos olhos humanos pode ser curado por Deus (30:12, 30:17).",
+    "A restauração traz de volta alegria, louvor e comunhão com Deus (30:19, 30:22)."
+   ],
+   "reflexao": "Que ferida em sua vida precisa da cura que só Deus pode dar?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus mandou Jeremias fazer com as palavras que recebeu?",
+     "opcoes": [
+      "Gritá-las no templo",
+      "Enterrá-las no campo",
+      "Enviá-las ao Egito",
+      "Escrevê-las em um livro"
+     ],
+     "correta": 3,
+     "ref": "30:2"
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "titulo": "A nova aliança",
+   "chave": "31:33",
+   "resumo": "Deus declara seu amor eterno por Israel e promete trazer de volta os dispersos com choro e alegria, como pai e pastor. Raquel chora por seus filhos em Ramá, mas Deus diz que há esperança. O ponto alto é a promessa de uma nova aliança: Deus escreverá sua lei no coração, todos o conhecerão e ele perdoará os pecados.",
+   "licoes": [
+    "O amor de Deus por seu povo é eterno e o sustenta com bondade (31:3).",
+    "Deus transforma o pranto em alegria e consola os tristes (31:13).",
+    "Cada pessoa responde por seu próprio pecado (31:29-30).",
+    "Na nova aliança, Deus escreve sua lei no coração e perdoa o pecado; Jesus fala dessa nova aliança na Ceia, segundo os Evangelhos (31:33-34)."
+   ],
+   "reflexao": "O que significa para você ter a lei de Deus escrita no coração?",
+   "quiz": [
+    {
+     "pergunta": "Onde Deus diz que escreverá sua lei na nova aliança?",
+     "opcoes": [
+      "Em tábuas de pedra",
+      "Nos portais das casas",
+      "Em seus corações",
+      "Em um livro selado"
+     ],
+     "correta": 2,
+     "ref": "31:33"
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "titulo": "A compra do campo em Anatote",
+   "chave": "32:27",
+   "resumo": "Com Jerusalém cercada e Jeremias preso no pátio da guarda, Deus o manda comprar um campo de seu primo Hanameel em Anatote. Ele paga, assina e guarda os documentos com Baruque, como sinal de que ainda se comprariam campos na terra. Jeremias ora reconhecendo que nada é difícil para Deus, e Deus promete trazer o povo de volta com uma aliança eterna.",
+   "licoes": [
+    "Obedecer a Deus pode exigir agir com esperança quando tudo parece perdido (32:8-9, 32:15).",
+    "Nada é difícil demais para o Senhor (32:17, 32:27).",
+    "Deus promete uma aliança eterna e colocar no coração do povo o temor a ele (32:40).",
+    "Assim como trouxe o juízo, Deus trará todo o bem que prometeu (32:42)."
+   ],
+   "reflexao": "Que \"campo\" Deus pode estar pedindo que você compre, como um passo de esperança?",
+   "quiz": [
+    {
+     "pergunta": "Quanto Jeremias pagou pelo campo de Hanameel?",
+     "opcoes": [
+      "Trinta siclos de prata",
+      "Cem siclos de ouro",
+      "Dez siclos de bronze",
+      "Dezessete siclos de prata"
+     ],
+     "correta": 3,
+     "ref": "32:9"
+    }
+   ]
+  },
+  {
+   "n": 33,
+   "titulo": "Clama a mim e eu te responderei",
+   "chave": "33:3",
+   "resumo": "Ainda preso, Jeremias recebe nova palavra: Deus convida a clamar a ele e promete revelar coisas grandes. Ele trará cura, perdão e alegria de volta a Jerusalém, onde se ouvirão de novo vozes de noivos e louvores. Deus confirma o Renovo justo de Davi e diz que sua aliança é tão firme quanto o dia e a noite.",
+   "licoes": [
+    "Deus convida seu povo a clamar e promete responder (33:3).",
+    "A restauração inclui purificação e perdão de todos os pecados (33:8).",
+    "O louvor volta: \"o SENHOR é bom; pois sua bondade dura para sempre\" (33:11).",
+    "As promessas de Deus a Davi são tão firmes quanto a ordem do dia e da noite (33:20-21)."
+   ],
+   "reflexao": "O que você precisa levar a Deus em oração, confiando que ele responde?",
+   "quiz": [
+    {
+     "pergunta": "Onde Jeremias estava quando recebeu esta palavra?",
+     "opcoes": [
+      "No templo",
+      "Preso no pátio da guarda",
+      "Na Babilônia",
+      "Em Anatote"
+     ],
+     "correta": 1,
+     "ref": "33:1"
+    }
+   ]
+  },
+  {
+   "n": 34,
+   "titulo": "A liberdade revogada",
+   "chave": "34:17",
+   "resumo": "Durante o cerco, Jeremias avisa Zedequias que será entregue ao rei da Babilônia, mas morrerá em paz. Os líderes e o povo fizeram uma aliança para libertar os escravos hebreus, conforme a lei, mas depois voltaram atrás e os escravizaram de novo. Deus anuncia que \"proclamará liberdade\" para a espada, a fome e a peste.",
+   "licoes": [
+    "Deus leva a sério as promessas feitas diante dele (34:15-16, 34:18).",
+    "Libertar o próximo é fazer o que é certo aos olhos de Deus (34:15).",
+    "Voltar atrás numa boa decisão por interesse próprio profana o nome de Deus (34:16)."
+   ],
+   "reflexao": "Há alguma promessa que você fez diante de Deus e deixou de cumprir?",
+   "quiz": [
+    {
+     "pergunta": "O que o povo fez depois de libertar seus servos hebreus?",
+     "opcoes": [
+      "Deu-lhes terras",
+      "Enviou-os ao Egito",
+      "Trouxe-os de volta e os escravizou de novo",
+      "Pagou-lhes salário"
+     ],
+     "correta": 2,
+     "ref": "34:11"
+    }
+   ]
+  },
+  {
+   "n": 35,
+   "titulo": "A fidelidade dos recabitas",
+   "chave": "35:14",
+   "resumo": "Deus manda Jeremias oferecer vinho aos recabitas no templo. Eles recusam, pois seu antepassado Jonadabe lhes ordenou não beber vinho e viver em tendas, e eles obedecem há gerações. Deus usa esse exemplo para envergonhar Judá, que não obedece ao seu Senhor, e promete que a família de Jonadabe nunca deixará de estar diante dele.",
+   "licoes": [
+    "A fidelidade de uma família a um mandamento humano expõe a infidelidade do povo a Deus (35:14).",
+    "Deus falou repetidamente por meio dos profetas chamando à conversão (35:15).",
+    "Deus honra e abençoa a obediência perseverante (35:18-19)."
+   ],
+   "reflexao": "Que exemplo de fidelidade em outras pessoas desafia você a ser mais fiel a Deus?",
+   "quiz": [
+    {
+     "pergunta": "Por que os recabitas recusaram o vinho?",
+     "opcoes": [
+      "Estavam jejuando",
+      "O vinho estava estragado",
+      "Seu pai Jonadabe os mandou nunca beber vinho",
+      "Eram sacerdotes em serviço"
+     ],
+     "correta": 2,
+     "ref": "35:6"
+    }
+   ]
+  },
+  {
+   "n": 36,
+   "titulo": "O rolo queimado",
+   "chave": "36:23",
+   "resumo": "No quarto ano de Jeoaquim, Jeremias dita a Baruque todas as palavras recebidas, e Baruque as lê no templo num dia de jejum. Alguns príncipes se assustam e avisam o rei, mas Jeoaquim corta o rolo coluna por coluna e o queima no braseiro, sem temor algum. Deus manda escrever outro rolo, com ainda mais palavras.",
+   "licoes": [
+    "Deus envia sua palavra na esperança de que o povo se converta (36:3).",
+    "Rejeitar a palavra de Deus não a destrói; ela é escrita de novo (36:28, 36:32).",
+    "A atitude de Jeoaquim contrasta com o temor de quem ouve a Palavra com seriedade (36:16, 36:24).",
+    "Deus usa colaboradores fiéis, como Baruque, para levar sua mensagem (36:4, 36:8)."
+   ],
+   "reflexao": "Como você reage quando a Palavra de Deus confronta algo em sua vida?",
+   "quiz": [
+    {
+     "pergunta": "O que o rei Jeoaquim fez com o rolo?",
+     "opcoes": [
+      "Guardou-o no templo",
+      "Enviou-o à Babilônia",
+      "Cortou-o e queimou-o no braseiro",
+      "Leu-o ao povo"
+     ],
+     "correta": 2,
+     "ref": "36:23"
+    }
+   ]
+  },
+  {
+   "n": 37,
+   "titulo": "Jeremias preso",
+   "chave": "37:17",
+   "resumo": "Zedequias pede orações de Jeremias, mas não ouve suas palavras. Quando os caldeus se retiram por causa do exército egípcio, Jeremias avisa que eles voltarão. Ao tentar ir à terra de Benjamim, é acusado de desertar, espancado e preso; depois o rei o consulta em segredo e o transfere para o pátio da guarda.",
+   "licoes": [
+    "Pedir oração não substitui obedecer à palavra de Deus (37:2-3).",
+    "Não devemos enganar a nós mesmos com falsas esperanças (37:9).",
+    "Jeremias mantém a mesma mensagem mesmo diante do rei que o mantém preso (37:17)."
+   ],
+   "reflexao": "Você já pediu a Deus ajuda sem estar disposto a ouvir o que ele diz?",
+   "quiz": [
+    {
+     "pergunta": "De que Jeremias foi acusado ao chegar à porta de Benjamim?",
+     "opcoes": [
+      "De roubar",
+      "De se render aos caldeus",
+      "De profanar o templo",
+      "De matar um soldado"
+     ],
+     "correta": 1,
+     "ref": "37:13"
+    }
+   ]
+  },
+  {
+   "n": 38,
+   "titulo": "Na cisterna",
+   "chave": "38:20",
+   "resumo": "Os príncipes acusam Jeremias de enfraquecer o povo, e Zedequias o entrega a eles. Jeremias é lançado numa cisterna de lama, mas Ebede-Meleque, um eunuco cuxita, intercede e o tira de lá com cordas e trapos. Em segredo, o rei consulta Jeremias de novo, que o aconselha a se render, mas Zedequias tem medo.",
+   "licoes": [
+    "Líderes fracos entregam os justos para agradar aos poderosos (38:5).",
+    "Um estrangeiro, Ebede-Meleque, mostra mais coragem e compaixão que os líderes de Judá (38:9-10).",
+    "Ouvir a voz do SENHOR traz vida, mesmo quando exige uma decisão difícil (38:20).",
+    "O medo das pessoas pode impedir alguém de obedecer a Deus (38:19)."
+   ],
+   "reflexao": "Há alguém em uma \"cisterna\" que você poderia ajudar a sair?",
+   "quiz": [
+    {
+     "pergunta": "Quem tirou Jeremias da cisterna?",
+     "opcoes": [
+      "Baruque",
+      "Ebede-Meleque",
+      "Gedalias",
+      "Pasur"
+     ],
+     "correta": 1,
+     "ref": "38:10"
+    }
+   ]
+  },
+  {
+   "n": 39,
+   "titulo": "A queda de Jerusalém",
+   "chave": "39:18",
+   "resumo": "Depois de um cerco que começou no nono ano de Zedequias, a muralha é rompida no décimo primeiro ano. Zedequias foge, é capturado em Jericó, vê seus filhos serem mortos e tem os olhos vazados; a cidade é queimada e o povo levado. Jeremias é libertado e entregue a Gedalias, e Ebede-Meleque recebe a promessa de ser salvo por ter confiado em Deus.",
+   "licoes": [
+    "A palavra de Deus anunciada por anos se cumpre exatamente (39:2, 39:8).",
+    "Fugir das consequências sem se arrepender não livra ninguém (39:4-5).",
+    "Deus cuida de seus servos fiéis no meio da catástrofe (39:11-12).",
+    "Quem confia no SENHOR é lembrado por ele, como Ebede-Meleque (39:18)."
+   ],
+   "reflexao": "Em quem você confia quando tudo ao seu redor desmorona?",
+   "quiz": [
+    {
+     "pergunta": "Em que ano de Zedequias a muralha de Jerusalém foi rompida?",
+     "opcoes": [
+      "No quarto ano",
+      "No nono ano",
+      "No vigésimo ano",
+      "No décimo primeiro ano"
+     ],
+     "correta": 3,
+     "ref": "39:2"
+    }
+   ]
+  },
+  {
+   "n": 40,
+   "titulo": "Gedalias em Mispá",
+   "chave": "40:9",
+   "resumo": "Nabuzaradã solta Jeremias das correntes em Ramá e lhe dá a escolha de ir à Babilônia ou ficar; ele vai morar com Gedalias, nomeado governador, em Mispá. Gedalias encoraja os que ficaram a servir à Babilônia e a colher os frutos da terra, e judeus dispersos voltam. Joanã avisa Gedalias de um plano de Ismael para matá-lo, mas Gedalias não acredita.",
+   "licoes": [
+    "Até um oficial pagão reconheceu que o desastre veio porque o povo pecou contra Deus (40:2-3).",
+    "Depois do juízo, Deus permite um recomeço para os que ficaram na terra (40:10, 40:12).",
+    "Ignorar avisos sérios pode ter consequências trágicas (40:14, 40:16)."
+   ],
+   "reflexao": "Há algum aviso sábio que você tem ignorado?",
+   "quiz": [
+    {
+     "pergunta": "Para onde Jeremias foi morar após ser solto?",
+     "opcoes": [
+      "Para a Babilônia",
+      "Para Mispá, com Gedalias",
+      "Para o Egito",
+      "Para Anatote"
+     ],
+     "correta": 1,
+     "ref": "40:6"
+    }
+   ]
+  },
+  {
+   "n": 41,
+   "titulo": "O assassinato de Gedalias",
+   "chave": "41:2",
+   "resumo": "No sétimo mês, Ismael, de família real, mata Gedalias à traição durante uma refeição, junto com judeus e soldados caldeus. Ele também mata peregrinos que iam levar ofertas e leva o povo de Mispá cativo. Joanã o persegue e liberta os cativos, mas, com medo dos caldeus, o grupo se prepara para fugir para o Egito.",
+   "licoes": [
+    "A violência e a ambição destroem o recomeço que Deus estava dando (41:2-3).",
+    "O engano pode se disfarçar de luto e boas-vindas (41:6-7).",
+    "O medo das consequências leva o povo a planejar sem consultar a Deus (41:17-18)."
+   ],
+   "reflexao": "Que decisões você tem tomado movido pelo medo?",
+   "quiz": [
+    {
+     "pergunta": "Quem matou Gedalias?",
+     "opcoes": [
+      "Ismael, filho de Netanias",
+      "Joanã",
+      "Baalis",
+      "Nabuzaradã"
+     ],
+     "correta": 0,
+     "ref": "41:2"
+    }
+   ]
+  },
+  {
+   "n": 42,
+   "titulo": "Pedir direção e não querer ouvir",
+   "chave": "42:6",
+   "resumo": "Os sobreviventes pedem a Jeremias que ore e prometem obedecer a Deus, seja a resposta boa ou má. Depois de dez dias, Deus responde: fiquem na terra e ele os edificará e protegerá; se forem ao Egito, a espada e a fome que temem os alcançarão lá. Jeremias percebe que eles já tinham decidido não obedecer.",
+   "licoes": [
+    "É fácil prometer obediência antes de ouvir a resposta (42:5-6).",
+    "Deus promete estar com quem confia nele em vez de fugir (42:10-11).",
+    "Fugir para onde parece seguro, contra a palavra de Deus, não traz segurança (42:14, 42:16)."
+   ],
+   "reflexao": "Você pede a vontade de Deus já tendo decidido o que fazer?",
+   "quiz": [
+    {
+     "pergunta": "Depois de quantos dias veio a resposta do SENHOR?",
+     "opcoes": [
+      "Três dias",
+      "Sete dias",
+      "Quarenta dias",
+      "Dez dias"
+     ],
+     "correta": 3,
+     "ref": "42:7"
+    }
+   ]
+  },
+  {
+   "n": 43,
+   "titulo": "A fuga para o Egito",
+   "chave": "43:7",
+   "resumo": "Joanã e outros homens arrogantes chamam Jeremias de mentiroso e acusam Baruque de incitá-lo. Eles levam todo o restante do povo, incluindo Jeremias e Baruque, para o Egito, até Tafnes. Lá, Deus manda Jeremias esconder pedras grandes junto à casa de Faraó e anuncia que Nabucodonosor porá ali seu trono e ferirá o Egito.",
+   "licoes": [
+    "A arrogância chama de mentira a palavra que não quer obedecer (43:2).",
+    "A desobediência leva o povo de volta ao Egito, invertendo o êxodo (43:7).",
+    "Nenhum lugar fica fora do alcance do governo de Deus (43:10-11)."
+   ],
+   "reflexao": "Você já rejeitou um conselho verdadeiro porque não era o que queria ouvir?",
+   "quiz": [
+    {
+     "pergunta": "Até que cidade do Egito o povo chegou?",
+     "opcoes": [
+      "Mênfis",
+      "Tebas",
+      "Tafnes",
+      "Zoã"
+     ],
+     "correta": 2,
+     "ref": "43:7"
+    }
+   ]
+  },
+  {
+   "n": 44,
+   "titulo": "A rainha dos céus",
+   "chave": "44:23",
+   "resumo": "Jeremias fala aos judeus espalhados pelo Egito e lembra que Jerusalém caiu por causa da idolatria. Eles respondem que não vão ouvir e que continuarão oferecendo incenso à \"rainha dos céus\", pois diziam ter vivido melhor quando faziam isso. Deus anuncia que poucos voltarão do Egito e dá como sinal a queda do faraó Hofra.",
+   "licoes": [
+    "Esquecer as lições do passado leva a repetir os mesmos erros (44:9-10).",
+    "Medir a verdade pelo conforto material pode levar à idolatria (44:17-18).",
+    "A desgraça veio por não obedecer à voz do SENHOR, e não por abandonar os ídolos (44:23).",
+    "A palavra de Deus se confirma, e não a dos homens (44:28-29)."
+   ],
+   "reflexao": "Você já confundiu as bênçãos de Deus com prosperidade passageira?",
+   "quiz": [
+    {
+     "pergunta": "A quem o povo no Egito insistia em oferecer incenso?",
+     "opcoes": [
+      "A Baal",
+      "A Quemos",
+      "A Moloque",
+      "À rainha dos céus"
+     ],
+     "correta": 3,
+     "ref": "44:17"
+    }
+   ]
+  },
+  {
+   "n": 45,
+   "titulo": "Uma palavra para Baruque",
+   "chave": "45:5",
+   "resumo": "No tempo de Jeoaquim, enquanto escrevia as palavras de Jeremias, Baruque se queixa de tristeza e cansaço. Deus lhe lembra que está derrubando o que edificou e pergunta se Baruque buscaria grandezas para si. Não deve buscá-las, mas Deus lhe promete conservar a vida aonde quer que vá.",
+   "licoes": [
+    "Deus ouve o cansaço de quem o serve nos bastidores (45:3).",
+    "Em tempos de crise, buscar grandeza pessoal é uma armadilha (45:5).",
+    "A promessa de Deus é de preservação, não de fama (45:5)."
+   ],
+   "reflexao": "Você está buscando grandes coisas para si ou servindo fielmente onde Deus o colocou?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus prometeu a Baruque?",
+     "opcoes": [
+      "Riquezas",
+      "Conservar sua vida em todos os lugares",
+      "Um cargo no palácio",
+      "Voltar logo a Jerusalém"
+     ],
+     "correta": 1,
+     "ref": "45:5"
+    }
+   ]
+  },
+  {
+   "n": 46,
+   "titulo": "Contra o Egito",
+   "chave": "46:28",
+   "resumo": "Começam as profecias contra as nações. O exército do faraó Neco, que subia como o Nilo, é derrotado por Nabucodonosor em Carquemis, junto ao Eufrates. Jeremias anuncia que a Babilônia também invadirá o Egito. No fim, Deus consola Jacó: não tema, pois ele o salvará e o disciplinará com justiça.",
+   "licoes": [
+    "O orgulho militar não resiste ao \"dia do Senhor DEUS dos exércitos\" (46:8, 46:10).",
+    "Há feridas que nenhum remédio humano cura (46:11).",
+    "Mesmo julgando as nações, Deus lembra seu povo de que está com ele (46:27-28)."
+   ],
+   "reflexao": "Em que \"Egito\" você costuma buscar segurança em vez de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Onde o exército do faraó Neco foi derrotado?",
+     "opcoes": [
+      "Em Megido",
+      "Em Tafnes",
+      "Em Gaza",
+      "Em Carquemis, junto ao Eufrates"
+     ],
+     "correta": 3,
+     "ref": "46:2"
+    }
+   ]
+  },
+  {
+   "n": 47,
+   "titulo": "Contra os filisteus",
+   "chave": "47:6",
+   "resumo": "Jeremias anuncia que águas vindas do norte inundarão a terra dos filisteus, cidade por cidade, como Gaza e Ascalom. O terror será tão grande que os pais não olharão para trás para ajudar os filhos. O capítulo termina com um clamor à espada do SENHOR para que se aquiete, mas ela tem uma missão a cumprir.",
+   "licoes": [
+    "Nenhuma nação está fora do governo de Deus (47:4).",
+    "O juízo de Deus tem propósito e não acontece por acaso (47:7).",
+    "O profeta sente o peso do juízo e pede que a espada descanse (47:6)."
+   ],
+   "reflexao": "Como você reage diante de notícias de sofrimento de outros povos?",
+   "quiz": [
+    {
+     "pergunta": "De onde vinham as águas que inundariam a terra dos filisteus?",
+     "opcoes": [
+      "Do sul",
+      "Do mar",
+      "Do norte",
+      "Do oriente"
+     ],
+     "correta": 2,
+     "ref": "47:2"
+    }
+   ]
+  },
+  {
+   "n": 48,
+   "titulo": "Contra Moabe",
+   "chave": "48:29",
+   "resumo": "Um longo lamento anuncia a destruição de Moabe, cidade após cidade, por causa de seu orgulho e de sua confiança nas próprias obras, nos tesouros e no deus Quemos. Moabe zombou de Israel e se engrandeceu contra o SENHOR. Ainda assim, o profeta chora por Moabe, e o capítulo termina com a promessa de restaurá-lo nos últimos dias.",
+   "licoes": [
+    "Confiar nas próprias obras e riquezas leva à queda (48:7).",
+    "O orgulho e a arrogância são denunciados com força (48:29-30).",
+    "Deus se entristece até com o juízo de povos inimigos (48:31, 48:36).",
+    "Mesmo depois do juízo, há promessa de restauração para Moabe (48:47)."
+   ],
+   "reflexao": "Em que área o orgulho pode estar levando você a confiar em si mesmo?",
+   "quiz": [
+    {
+     "pergunta": "Qual era o deus de Moabe citado no capítulo?",
+     "opcoes": [
+      "Baal",
+      "Quemos",
+      "Dagom",
+      "Moloque"
+     ],
+     "correta": 1,
+     "ref": "48:7"
+    }
+   ]
+  },
+  {
+   "n": 49,
+   "titulo": "Amom, Edom, Damasco, Quedar e Elão",
+   "chave": "49:11",
+   "resumo": "Jeremias anuncia juízo sobre várias nações: Amom, que tomou terras de Israel; Edom, orgulhoso de sua sabedoria e de suas fortalezas nas rochas; Damasco; as tribos de Quedar e Hazor; e Elão. A causa comum é a soberba e a falsa segurança. Ainda assim, Deus promete restaurar Amom e Elão, e cuidar dos órfãos e viúvas de Edom.",
+   "licoes": [
+    "A arrogância engana, mesmo quem mora no alto dos rochedos (49:16).",
+    "Riqueza e segurança aparente não protegem quem se ergue contra Deus (49:4, 49:31).",
+    "Mesmo no juízo, Deus se mostra protetor dos órfãos e das viúvas (49:11).",
+    "Há promessa de restauração até para povos estrangeiros (49:6, 49:39)."
+   ],
+   "reflexao": "Em que você tem buscado uma segurança que dispensa Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus diz que fará com os órfãos de Edom?",
+     "opcoes": [
+      "Levá-los cativos",
+      "Criá-los ele mesmo",
+      "Enviá-los ao Egito",
+      "Esquecê-los"
+     ],
+     "correta": 1,
+     "ref": "49:11"
+    }
+   ]
+  },
+  {
+   "n": 50,
+   "titulo": "A queda da Babilônia anunciada",
+   "chave": "50:34",
+   "resumo": "Deus anuncia a queda da Babilônia, o \"martelo de toda a terra\", diante de uma nação do norte, e a humilhação de seus deuses Bel e Merodaque. Ao mesmo tempo, Israel e Judá voltarão chorando e buscando o SENHOR numa aliança eterna. Deus, o Redentor forte, perdoará seu povo e defenderá a sua causa.",
+   "licoes": [
+    "O povo de Deus foi como ovelhas perdidas por culpa de maus pastores (50:6).",
+    "A volta para Deus vem com choro e com desejo de uma aliança eterna (50:4-5).",
+    "Deus perdoa de tal maneira que o pecado procurado não será encontrado (50:20).",
+    "O Redentor de Israel é forte e defende a causa dos oprimidos (50:34)."
+   ],
+   "reflexao": "O que significa para você ter um Redentor forte que defende sua causa?",
+   "quiz": [
+    {
+     "pergunta": "Como o capítulo chama a Babilônia ao descrever sua queda?",
+     "opcoes": [
+      "Rainha das nações",
+      "Martelo de toda a terra",
+      "Leão do norte",
+      "Taça de ouro"
+     ],
+     "correta": 1,
+     "ref": "50:23"
+    }
+   ]
+  },
+  {
+   "n": 51,
+   "titulo": "O livro lançado no Eufrates",
+   "chave": "51:45",
+   "resumo": "O juízo sobre a Babilônia continua: o Deus Criador, diferente dos ídolos, levantará os medos contra ela. O povo de Deus é chamado a sair do meio dela para salvar a vida. Jeremias escreve essas profecias num livro e o entrega a Seraías, que deve lê-lo na Babilônia, amarrá-lo a uma pedra e lançá-lo no Eufrates, como sinal de que a Babilônia afundaria.",
+   "licoes": [
+    "Deus não abandona seu povo, mesmo quando ele pecou (51:5).",
+    "O Criador do mundo é muito maior que os ídolos feitos por mãos humanas (51:15, 51:17).",
+    "O povo de Deus é chamado a sair do meio do mal para preservar a vida (51:45).",
+    "Nenhum poder humano, mesmo que suba ao céu, escapa do juízo de Deus (51:53)."
+   ],
+   "reflexao": "Do que Deus pode estar chamando você a sair hoje?",
+   "quiz": [
+    {
+     "pergunta": "O que Seraías deveria fazer com o livro depois de lê-lo?",
+     "opcoes": [
+      "Amarrá-lo a uma pedra e lançá-lo no Eufrates",
+      "Queimá-lo",
+      "Guardá-lo no templo",
+      "Enterrá-lo em Anatote"
+     ],
+     "correta": 0,
+     "ref": "51:63"
+    }
+   ]
+  },
+  {
+   "n": 52,
+   "titulo": "Epílogo: a queda e uma luz no fim",
+   "chave": "52:31",
+   "resumo": "O capítulo final reconta a queda de Jerusalém: o cerco, a captura e a cegueira de Zedequias, o incêndio do templo e do palácio e o saque dos objetos de bronze. São listadas as deportações feitas por Nabucodonosor. O livro termina com Joaquim, rei exilado, sendo libertado da prisão e honrado à mesa do rei da Babilônia.",
+   "licoes": [
+    "Tudo o que Jeremias anunciou se cumpriu na história (52:12-13).",
+    "Até a glória do templo de Salomão pode ser perdida quando o povo abandona a Deus (52:17, 52:20).",
+    "O livro termina com um sinal discreto de esperança: o rei da linhagem de Davi é tirado da prisão (52:31-33)."
+   ],
+   "reflexao": "Onde você consegue ver um pequeno sinal de esperança mesmo depois de uma grande perda?",
+   "quiz": [
+    {
+     "pergunta": "Quem tirou Joaquim da prisão na Babilônia?",
+     "opcoes": [
+      "Nabucodonosor",
+      "Nabuzaradã",
+      "Ciro",
+      "Evil-Merodaque"
+     ],
+     "correta": 3,
+     "ref": "52:31"
+    }
+   ]
+  }
+ ]
+}

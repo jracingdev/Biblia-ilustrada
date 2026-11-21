@@ -1,0 +1,250 @@
+{
+ "livro": "miqueias",
+ "nome": "Miqueias",
+ "subtitulo": "Justiça, bondade e humildade diante de Deus",
+ "introducao": "Miqueias, um profeta do interior de Judá, denuncia a corrupção dos líderes, a exploração dos pobres e a religião que tenta comprar Deus. Ao mesmo tempo, anuncia um futuro de paz entre as nações e um governador que sairá de Belém. O livro alterna juízo e esperança e termina celebrando o Deus que perdoa.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Miqueias de Moresete, cidade do interior de Judá (1:1)"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Nos dias de Jotão, Acaz e Ezequias, reis de Judá, por volta de 740–700 a.C. (1:1)"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "Samaria e Jerusalém, isto é, Israel e Judá (1:1)"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Profecia, alternando oráculos de juízo e de salvação"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "7 capítulos e 105 versículos"
+  }
+ ],
+ "chave": "6:8",
+ "temas": [
+  "Juízo contra a corrupção dos líderes",
+  "Justiça e honestidade na vida diária",
+  "Paz futura entre as nações",
+  "O governador que vem de Belém",
+  "O Deus que perdoa"
+ ],
+ "cristo": "O Evangelho de Mateus cita a profecia de que de Belém sairia o governador de Israel ao narrar o nascimento de Jesus. Cristo é apresentado como o Pastor que governa com a força de Deus e é a paz do seu povo, e nele se mostra o Deus que lança os pecados no fundo do mar.",
+ "secoes": [
+  {
+   "id": "primeiro-ciclo",
+   "titulo": "Juízo e reunião do remanescente",
+   "capitulos": [
+    1,
+    2
+   ],
+   "resumo": "Deus julga Samaria e Jerusalém e promete reunir seu rebanho."
+  },
+  {
+   "id": "segundo-ciclo",
+   "titulo": "Líderes corruptos e esperança futura",
+   "capitulos": [
+    3,
+    4,
+    5
+   ],
+   "resumo": "Denúncia dos líderes, a paz dos últimos dias e o governador de Belém."
+  },
+  {
+   "id": "terceiro-ciclo",
+   "titulo": "O processo de Deus e o hino do perdão",
+   "capitulos": [
+    6,
+    7
+   ],
+   "resumo": "Deus pede justiça e o profeta celebra o perdão divino."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "O SENHOR desce para julgar",
+   "chave": "1:3",
+   "resumo": "Miqueias, de Moresete, recebe a palavra de Deus sobre Samaria e Jerusalém. O SENHOR sai do seu lugar como juiz, e os montes se derretem diante dele, por causa dos pecados de Israel e de Judá. Samaria será arrasada e seus ídolos destruídos. O profeta lamenta, pois a ferida chegou até as portas de Jerusalém, e enumera cidades de Judá que sofrerão.",
+   "licoes": [
+    "Deus é testemunha e juiz de toda a terra (1:2-3).",
+    "A idolatria nas capitais contamina todo o povo (1:5, 1:7).",
+    "O verdadeiro profeta sofre com a mensagem que precisa anunciar (1:8-9)."
+   ],
+   "reflexao": "O pecado de quem lidera afeta muitos. Que influência suas escolhas têm sobre os outros?",
+   "quiz": [
+    {
+     "pergunta": "Sobre quais cidades Miqueias viu a palavra do SENHOR?",
+     "opcoes": [
+      "Nínive e Babilônia",
+      "Tiro e Sidom",
+      "Betel e Dã",
+      "Samaria e Jerusalém"
+     ],
+     "correta": 3,
+     "ref": "1:1"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Ai dos que tramam o mal",
+   "chave": "2:1",
+   "resumo": "Miqueias denuncia os poderosos que passam a noite planejando o mal e de manhã tomam campos e casas dos outros. Deus planeja um castigo contra eles, e suas terras serão repartidas. O povo quer calar o profeta e prefere quem anuncia vinho e bebida. Mas o capítulo termina com a promessa de que Deus reunirá o remanescente, com o seu rei à frente.",
+   "licoes": [
+    "Ter poder nas mãos não dá direito de tomar o que é dos outros (2:1-2).",
+    "Gente que rejeita a correção prefere pregadores que agradam (2:6, 2:11).",
+    "A palavra de Deus faz bem a quem anda corretamente (2:7).",
+    "Deus promete reunir e conduzir o seu rebanho como pastor e rei (2:12-13)."
+   ],
+   "reflexao": "Você prefere ouvir o que agrada ou o que é verdade?",
+   "quiz": [
+    {
+     "pergunta": "Quando os poderosos executavam o mal que tramavam nas suas camas?",
+     "opcoes": [
+      "Quando vinha a manhã",
+      "À meia-noite",
+      "No sábado",
+      "Na lua nova"
+     ],
+     "correta": 0,
+     "ref": "2:1"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Líderes que devoram o povo",
+   "chave": "3:8",
+   "resumo": "O profeta acusa os governantes de odiar o bem e de \"comer a carne\" do povo, explorando-o até os ossos. Os falsos profetas anunciam paz a quem os alimenta e guerra a quem não paga. Miqueias, ao contrário, está cheio do Espírito do SENHOR para denunciar o pecado. Por causa da corrupção de juízes, sacerdotes e profetas, Sião será arada como um campo.",
+   "licoes": [
+    "Líderes têm a responsabilidade de conhecer e praticar o que é justo (3:1-2).",
+    "Ministério movido a dinheiro corrompe a mensagem (3:5, 3:11).",
+    "Coragem para dizer a verdade vem do Espírito de Deus (3:8).",
+    "Achar que Deus está do nosso lado enquanto praticamos injustiça é falsa segurança (3:11-12)."
+   ],
+   "reflexao": "Você usa a influência que tem para servir ou para se servir?",
+   "quiz": [
+    {
+     "pergunta": "De que Miqueias diz estar cheio para anunciar a transgressão de Jacó?",
+     "opcoes": [
+      "De riquezas",
+      "De ira contra os reis",
+      "Do poder do Espírito do SENHOR",
+      "De medo"
+     ],
+     "correta": 2,
+     "ref": "3:8"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Espadas em enxadas",
+   "chave": "4:3",
+   "resumo": "Depois do juízo, vem a esperança: nos últimos dias o monte da casa do SENHOR será exaltado, e muitas nações irão aprender seus caminhos. Haverá paz, espadas virarão enxadas, e cada um se sentará debaixo da sua videira. Deus reunirá os que mancavam e foram expulsos. Sião sofrerá como mulher em parto e irá à Babilônia, mas ali será redimida.",
+   "licoes": [
+    "Deus deseja que todas as nações aprendam seus caminhos (4:2).",
+    "O reino de Deus traz uma paz verdadeira, que desarma a guerra (4:3-4).",
+    "Deus reúne os feridos e rejeitados e faz deles um povo forte (4:6-7).",
+    "Mesmo no exílio Deus pode redimir seu povo (4:10)."
+   ],
+   "reflexao": "Em que relação ou situação você pode ser instrumento de paz?",
+   "quiz": [
+    {
+     "pergunta": "Em que as nações transformarão suas espadas?",
+     "opcoes": [
+      "Em lanças",
+      "Em escudos",
+      "Em enxadas",
+      "Em arados de ferro"
+     ],
+     "correta": 2,
+     "ref": "4:3"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "De Belém sairá o governador",
+   "chave": "5:2",
+   "resumo": "Jerusalém está sitiada e o juiz de Israel é humilhado. Mas de Belém Efrata, pequena entre as famílias de Judá, sairá um governador cujas origens são antigas. Ele pastoreará com a força do SENHOR e será a paz do povo. O remanescente de Jacó será como orvalho e como leão entre as nações, e Deus purificará o povo de armas, feitiçarias e ídolos.",
+   "licoes": [
+    "Deus escolhe o pequeno para realizar grandes coisas (5:2).",
+    "O governador prometido pastoreia com a força e o nome do SENHOR (5:4).",
+    "Ele mesmo será a paz do seu povo (5:5).",
+    "Deus remove do seu povo a falsa confiança em cavalos, fortalezas e ídolos (5:10-13)."
+   ],
+   "reflexao": "Em que você tem confiado para se sentir seguro, além de Deus?",
+   "quiz": [
+    {
+     "pergunta": "De qual lugar Miqueias diz que sairá o governador de Israel?",
+     "opcoes": [
+      "Belém Efrata",
+      "Jerusalém",
+      "Nazaré",
+      "Samaria"
+     ],
+     "correta": 0,
+     "ref": "5:2"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "O que o SENHOR pede de ti",
+   "chave": "6:8",
+   "resumo": "Deus abre um processo contra o seu povo, chamando os montes como testemunhas, e pergunta o que fez para cansá-lo, lembrando o êxodo e a proteção contra Balaque. O povo pergunta se deve oferecer holocaustos, milhares de carneiros ou até o primogênito. A resposta: praticar a justiça, amar a bondade e andar humildemente com Deus. Mas a cidade está cheia de balanças falsas e violência.",
+   "licoes": [
+    "Deus se lembra de sua fidelidade e convida o povo a se lembrar também (6:3-5).",
+    "Nenhuma oferta exagerada substitui uma vida justa (6:6-7).",
+    "O que Deus quer é justiça, bondade e humildade diante dele (6:8).",
+    "Desonestidade no comércio é abominação para o Senhor (6:10-11)."
+   ],
+   "reflexao": "Qual dos três pedidos de Deus — justiça, bondade, humildade — você mais precisa praticar hoje?",
+   "quiz": [
+    {
+     "pergunta": "Além de fazer o que é justo e amar a bondade, o que o SENHOR pede?",
+     "opcoes": [
+      "Oferecer mil carneiros",
+      "Subir a Jerusalém três vezes ao ano",
+      "Dar o primogênito",
+      "Andar humildemente com teu Deus"
+     ],
+     "correta": 3,
+     "ref": "6:8"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "Quem é Deus como tu?",
+   "chave": "7:18",
+   "resumo": "Miqueias lamenta: os justos desapareceram, juízes aceitam propina e até a família se divide. Ainda assim, ele decide esperar no Deus da sua salvação. Mesmo caído e em trevas, confia que o SENHOR será sua luz. O livro termina com uma oração e um hino: Deus perdoa, não guarda ira para sempre e lança os pecados nas profundezas do mar.",
+   "licoes": [
+    "Quando tudo ao redor se corrompe, o fiel decide esperar em Deus (7:7).",
+    "A queda não é o fim: o SENHOR é luz para quem está nas trevas (7:8).",
+    "Deus tem prazer em perdoar e mostrar bondade (7:18).",
+    "O perdão de Deus é completo, como pecados lançados no fundo do mar (7:19)."
+   ],
+   "reflexao": "Que pecado você precisa deixar que Deus lance \"nas profundezas do mar\"?",
+   "quiz": [
+    {
+     "pergunta": "Para onde Deus lançará os pecados do seu povo?",
+     "opcoes": [
+      "Para o deserto",
+      "Nas profundezas do mar",
+      "Para longe como o oriente",
+      "Atrás das suas costas"
+     ],
+     "correta": 1,
+     "ref": "7:19"
+    }
+   ]
+  }
+ ]
+}

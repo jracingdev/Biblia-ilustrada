@@ -1,0 +1,135 @@
+{
+ "livro": "habacuque",
+ "nome": "Habacuque",
+ "subtitulo": "Da pergunta à fé que se alegra",
+ "introducao": "Habacuque é um diálogo honesto entre o profeta e Deus sobre a injustiça e o aparente silêncio divino. Deus revela que usará a Babilônia para julgar Judá, mas também que julgará a própria Babilônia. O livro caminha da queixa para a confiança e termina com um dos mais belos cânticos de fé da Bíblia.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "O profeta Habacuque (1:1); quase nada se sabe de sua vida"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Provavelmente pouco antes da invasão babilônica de Judá, por volta de 610–600 a.C."
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Judá, diante da ascensão dos caldeus (1:6)"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Profecia em forma de diálogo, com \"ais\" e um salmo final"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "3 capítulos e 56 versículos"
+  }
+ ],
+ "chave": "2:4",
+ "temas": [
+  "Perguntas honestas diante de Deus",
+  "O justo viverá pela fé",
+  "Deus governa a história",
+  "Alegria em Deus em meio à escassez"
+ ],
+ "cristo": "A frase \"o justo viverá pela fé\" é citada pelo apóstolo Paulo em Romanos e Gálatas para explicar que somos justificados pela fé em Cristo, e também em Hebreus. A esperança de que a terra se encha da glória do SENHOR se cumpre na missão de Jesus.",
+ "secoes": [
+  {
+   "id": "queixas-e-respostas",
+   "titulo": "Queixas e respostas",
+   "capitulos": [
+    1,
+    2
+   ],
+   "resumo": "O profeta pergunta, Deus responde e anuncia juízo sobre o opressor."
+  },
+  {
+   "id": "cantico-de-fe",
+   "titulo": "Cântico de fé",
+   "capitulos": [
+    3
+   ],
+   "resumo": "Habacuque recorda o poder de Deus e se alegra nele."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Até quando, SENHOR?",
+   "chave": "1:2",
+   "resumo": "Habacuque reclama com Deus: vê violência e injustiça em Judá, e parece que Deus não ouve. Deus responde que levantará os caldeus (babilônios), uma nação veloz e cruel, para executar juízo. O profeta fica ainda mais perplexo: como o Deus santo pode usar um povo mais perverso que Judá, que pesca as nações como peixes e adora sua própria rede?",
+   "licoes": [
+    "É possível levar a Deus perguntas honestas sobre a injustiça (1:2-3).",
+    "Deus está agindo na história mesmo quando parece calado (1:5-6).",
+    "A fé se apoia no caráter de Deus mesmo sem entender tudo (1:12-13).",
+    "Quem confia no próprio poder faz dele um ídolo (1:11, 1:16)."
+   ],
+   "reflexao": "Que pergunta difícil você tem coragem de levar a Deus em oração?",
+   "quiz": [
+    {
+     "pergunta": "Que nação Deus disse que levantaria?",
+     "opcoes": [
+      "Os caldeus",
+      "Os assírios",
+      "Os egípcios",
+      "Os filisteus"
+     ],
+     "correta": 0,
+     "ref": "1:6"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "O justo viverá pela fé",
+   "chave": "2:4",
+   "resumo": "Habacuque espera a resposta em seu posto de vigia. Deus manda escrever a visão com clareza: ela virá no tempo certo, mesmo que pareça tardar. O soberbo não é reto, mas o justo viverá pela sua fé. Seguem cinco \"ais\" contra o opressor ganancioso, violento e idólatra; a terra se encherá do conhecimento da glória do SENHOR, e toda a terra deve se calar diante dele.",
+   "licoes": [
+    "Esperar em Deus é uma atitude ativa de vigilância (2:1, 2:3).",
+    "O justo vive pela fé e fidelidade, não pelo orgulho (2:4).",
+    "A ganância e a violência acabam se voltando contra quem as pratica (2:6, 2:8).",
+    "Os ídolos são mudos, mas o SENHOR está em seu santo templo (2:19-20)."
+   ],
+   "reflexao": "O que significa, na sua vida hoje, viver pela fé enquanto espera?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Deus, como o justo viverá?",
+     "opcoes": [
+      "Por suas obras",
+      "Pela lei dos caldeus",
+      "Pela sua fé",
+      "Por sua força"
+     ],
+     "correta": 2,
+     "ref": "2:4"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Mesmo assim, me alegrarei",
+   "chave": "3:18",
+   "resumo": "O livro termina com uma oração em forma de cântico. Habacuque pede que Deus renove suas obras e, na ira, se lembre da misericórdia. Ele recorda a vinda poderosa de Deus no passado, que abalou montes e salvou seu povo. Por fim, declara que, mesmo sem figos, uvas, azeitonas, colheita ou gado, se alegrará no Deus da sua salvação.",
+   "licoes": [
+    "Podemos pedir que Deus, mesmo ao corrigir, se lembre da misericórdia (3:2).",
+    "Lembrar o que Deus fez no passado fortalece a fé no presente (3:13).",
+    "A alegria em Deus não depende das circunstâncias (3:17-18).",
+    "Deus dá firmeza para andar nos lugares altos e difíceis (3:19)."
+   ],
+   "reflexao": "Se faltasse aquilo de que você mais depende, ainda teria alegria em Deus?",
+   "quiz": [
+    {
+     "pergunta": "Com os pés de que animal o profeta diz que Deus fará os seus pés?",
+     "opcoes": [
+      "Cavalos",
+      "Águias",
+      "Corças",
+      "Leões"
+     ],
+     "correta": 2,
+     "ref": "3:19"
+    }
+   ]
+  }
+ ]
+}

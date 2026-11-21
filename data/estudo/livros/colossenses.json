@@ -1,0 +1,167 @@
+{
+ "livro": "colossenses",
+ "nome": "Colossenses",
+ "subtitulo": "Cristo acima de tudo e suficiente para tudo",
+ "introducao": "Paulo escreve a uma igreja que ele não fundou, ameaçada por ensinos que misturavam filosofias, regras religiosas e culto aos anjos. Ele responde mostrando a supremacia de Cristo, em quem habita toda a plenitude de Deus e em quem os cristãos estão completos. Da verdade sobre Cristo nasce uma vida nova, voltada para as coisas do alto.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Tradicionalmente atribuído a Paulo, com Timóteo; alguns estudiosos questionam a autoria (1:1)"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Por volta de 60–62 d.C., se escrita durante a prisão de Paulo (4:18)"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Escrita na prisão, tradicionalmente em Roma"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "A igreja de Colossos, na Ásia Menor, fundada por Epafras (1:2, 1:7)"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Carta"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "4 capítulos e 95 versículos"
+  }
+ ],
+ "chave": "1:18",
+ "temas": [
+  "A supremacia de Cristo sobre tudo",
+  "A plenitude de Deus em Cristo",
+  "Liberdade diante de regras humanas",
+  "Vida nova voltada para as coisas do alto",
+  "Oração e testemunho sábio"
+ ],
+ "cristo": "Colossenses é centrada em Cristo: imagem do Deus invisível, Criador, cabeça da igreja e primogênito dentre os mortos, que reconciliou todas as coisas pelo sangue da cruz (1:15-20). Nele os cristãos têm perdão e estão completos (2:10, 2:13-14).",
+ "secoes": [
+  {
+   "id": "supremacia",
+   "titulo": "A supremacia de Cristo",
+   "capitulos": [
+    1,
+    2
+   ],
+   "resumo": "Quem Cristo é e por que ele basta."
+  },
+  {
+   "id": "vida-nova",
+   "titulo": "A vida nova em Cristo",
+   "capitulos": [
+    3,
+    4
+   ],
+   "resumo": "Buscar as coisas do alto, viver em amor e perseverar na oração."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "A supremacia de Cristo",
+   "chave": "1:15-17",
+   "resumo": "Paulo agradece pela fé e pelo amor dos colossenses, que aprenderam o evangelho com Epafras, e ora para que conheçam a vontade de Deus e vivam de modo digno. Ele apresenta Cristo como a imagem do Deus invisível, por meio de quem e para quem tudo foi criado, cabeça da igreja e reconciliador de todas as coisas pelo sangue da cruz. Paulo fala de seu ministério de anunciar o mistério de \"Cristo em vós, a esperança da glória\".",
+   "licoes": [
+    "Deus nos tirou do domínio das trevas e nos levou para o reino de seu Filho (1:13-14).",
+    "Cristo é a imagem do Deus invisível, e todas as coisas foram criadas por ele e para ele (1:15-16).",
+    "Pelo sangue da cruz, Cristo reconcilia com Deus os que antes eram inimigos (1:20-22).",
+    "O mistério revelado é \"Cristo em vós, a esperança da glória\" (1:27)."
+   ],
+   "reflexao": "Cristo ocupa o primeiro lugar em todas as áreas da sua vida?",
+   "quiz": [
+    {
+     "pergunta": "Com quem os colossenses aprenderam o evangelho?",
+     "opcoes": [
+      "Timóteo",
+      "Epafras",
+      "Tíquico",
+      "Onésimo"
+     ],
+     "correta": 1,
+     "ref": "1:7"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Plenos em Cristo",
+   "chave": "2:9-10",
+   "resumo": "Paulo luta em oração para que os leitores conheçam Cristo, em quem estão todos os tesouros da sabedoria. Ele os alerta contra filosofias enganosas e tradições humanas: em Cristo habita toda a plenitude da divindade, e nele os cristãos estão completos. Na cruz, Cristo cancelou nossa dívida e triunfou sobre os poderes; por isso ninguém deve julgá-los por regras de comida, festas ou ascetismo, que são sombra, enquanto a realidade é Cristo.",
+   "licoes": [
+    "Assim como recebemos Cristo, devemos andar nele, enraizados e firmes na fé (2:6-7).",
+    "Em Cristo habita toda a plenitude de Deus, e nele estamos completos (2:9-10).",
+    "Na cruz, Cristo cancelou a dívida que nos condenava e venceu os poderes do mal (2:14-15).",
+    "Regras humanas podem parecer sábias, mas não têm poder contra a carne (2:20-23)."
+   ],
+   "reflexao": "Você tem buscado fora de Cristo algo que só ele pode dar?",
+   "quiz": [
+    {
+     "pergunta": "O que Cristo cravou na cruz?",
+     "opcoes": [
+      "Uma coroa de espinhos",
+      "A certidão de nossa dívida",
+      "A Lei de Moisés em pedra",
+      "O nome dos apóstolos"
+     ],
+     "correta": 1,
+     "ref": "2:14"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Buscai as coisas do alto",
+   "chave": "3:1-2",
+   "resumo": "Ressuscitados com Cristo, os cristãos devem buscar as coisas do alto e deixar de lado o pecado sexual, a ganância, a ira e a mentira. Eles se revestiram do novo homem, no qual não há distinção entre povos ou classes, mas Cristo é tudo em todos. Devem revestir-se de misericórdia, bondade, humildade, perdão e sobretudo de amor, deixar a paz de Cristo governar e fazer tudo em nome de Jesus; Paulo dá ainda orientações para o lar e o trabalho.",
+   "licoes": [
+    "Quem ressuscitou com Cristo busca as coisas do alto (3:1-3).",
+    "A vida nova exige abandonar o pecado e revestir-se de compaixão, humildade e perdão (3:8, 3:12-13).",
+    "O amor é o vínculo que une todas as virtudes (3:14).",
+    "Tudo o que fizermos deve ser feito de coração, como para o Senhor (3:17, 3:23)."
+   ],
+   "reflexao": "Que trabalho comum você pode fazer \"de coração, como para o Senhor\" hoje?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Paulo, o que é o vínculo da perfeição?",
+     "opcoes": [
+      "A fé",
+      "O amor",
+      "A paz",
+      "A sabedoria"
+     ],
+     "correta": 1,
+     "ref": "3:14"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Oração, sabedoria e saudações",
+   "chave": "4:6",
+   "resumo": "Paulo pede que perseverem na oração e que orem por ele, para que Deus abra uma porta para a palavra. Os cristãos devem agir com sabedoria com os de fora e falar sempre com graça, \"temperada com sal\". A carta termina com notícias e saudações de companheiros como Tíquico, Onésimo, Aristarco, Marcos, Epafras e Lucas, e com a orientação de trocar cartas com a igreja de Laodiceia.",
+   "licoes": [
+    "A oração deve ser perseverante, vigilante e cheia de gratidão (4:2).",
+    "Devemos pedir que Deus abra portas para o evangelho (4:3).",
+    "Nossas palavras devem ser cheias de graça, temperadas com sal (4:5-6).",
+    "Epafras é exemplo de quem luta em oração pelos irmãos (4:12)."
+   ],
+   "reflexao": "Suas conversas com quem não crê são \"temperadas com sal\" e cheias de graça?",
+   "quiz": [
+    {
+     "pergunta": "Como Paulo se refere a Lucas?",
+     "opcoes": [
+      "O evangelista fiel",
+      "O médico amado",
+      "O companheiro de prisão",
+      "O filho na fé"
+     ],
+     "correta": 1,
+     "ref": "4:14"
+    }
+   ]
+  }
+ ]
+}

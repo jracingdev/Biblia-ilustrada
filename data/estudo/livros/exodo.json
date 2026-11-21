@@ -1,0 +1,1168 @@
+{
+ "livro": "exodo",
+ "nome": "Êxodo",
+ "subtitulo": "Libertação, aliança e a presença de Deus",
+ "introducao": "Êxodo narra como Deus libertou Israel da escravidão no Egito pela mão de Moisés, com grandes sinais e a travessia do mar. No monte Sinai, Deus faz uma aliança com o povo e lhe dá sua lei. O livro termina com a construção do tabernáculo e a glória de Deus vindo habitar no meio de Israel.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Tradicionalmente atribuído a Moisés; muitos estudiosos falam também de fontes e de edição posterior"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Os fatos são datados por muitos no século 15 a.C. e por outros no século 13 a.C.; a data da escrita é debatida"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Egito, deserto e monte Sinai"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "O povo de Israel, para lembrar sua libertação e sua aliança com Deus"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Narrativa histórica, leis, poesia e instruções de culto"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "40 capítulos e 1213 versículos"
+  }
+ ],
+ "chave": "6:6-7",
+ "temas": [
+  "Deus ouve o clamor e liberta os oprimidos",
+  "O SENHOR revela seu nome e seu caráter",
+  "A aliança e a lei de Deus",
+  "A Páscoa e o sangue que livra do juízo",
+  "Deus habita no meio do seu povo"
+ ],
+ "cristo": "O Novo Testamento chama Jesus de cordeiro pascal, cujo sangue livra do juízo, e vê na libertação do Egito uma imagem da salvação do pecado. O tabernáculo, onde Deus habita no meio do povo, ajuda a entender a encarnação de Jesus, descrita no Evangelho de João como Deus que \"habitou entre nós\".",
+ "secoes": [
+  {
+   "id": "escravidao-e-chamado",
+   "titulo": "Escravidão e chamado de Moisés",
+   "capitulos": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "resumo": "Israel é oprimido no Egito, e Deus chama Moisés para libertá-lo."
+  },
+  {
+   "id": "pragas-e-pascoa",
+   "titulo": "Pragas e Páscoa",
+   "capitulos": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "resumo": "Deus julga o Egito e liberta Israel na noite da Páscoa."
+  },
+  {
+   "id": "mar-e-deserto",
+   "titulo": "O mar e o deserto",
+   "capitulos": [
+    14,
+    15,
+    16,
+    17,
+    18
+   ],
+   "resumo": "Deus abre o mar e sustenta o povo no caminho até o Sinai."
+  },
+  {
+   "id": "alianca-no-sinai",
+   "titulo": "A aliança no Sinai",
+   "capitulos": [
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+   ],
+   "resumo": "Deus dá os mandamentos e sela a aliança com Israel."
+  },
+  {
+   "id": "instrucoes-tabernaculo",
+   "titulo": "Instruções para o tabernáculo",
+   "capitulos": [
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+   ],
+   "resumo": "Deus mostra a Moisés o modelo do santuário e do sacerdócio."
+  },
+  {
+   "id": "queda-e-renovacao",
+   "titulo": "Queda e renovação da aliança",
+   "capitulos": [
+    32,
+    33,
+    34
+   ],
+   "resumo": "O bezerro de ouro, a intercessão de Moisés e a aliança renovada."
+  },
+  {
+   "id": "construcao-tabernaculo",
+   "titulo": "A construção do tabernáculo",
+   "capitulos": [
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+   ],
+   "resumo": "O povo constrói o tabernáculo, e a glória de Deus o enche."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Opressão no Egito",
+   "chave": "1:12",
+   "resumo": "Os descendentes de Jacó se multiplicam muito no Egito. Um novo rei, que não conhecia José, teme o crescimento do povo e o escraviza com trabalhos pesados, mas quanto mais o oprimem, mais ele cresce. Faraó manda as parteiras matarem os meninos hebreus, mas elas temem a Deus e desobedecem. Então Faraó ordena que todo menino seja lançado no rio.",
+   "licoes": [
+    "Deus continua cumprindo a promessa de multiplicar o povo, mesmo sob opressão (1:7, 1:12).",
+    "O poder humano que esquece a história e teme o outro gera injustiça (1:8-10).",
+    "As parteiras mostram que temer a Deus vale mais que obedecer a ordens injustas (1:17).",
+    "Deus honra quem o teme, mesmo pessoas simples e anônimas (1:20-21)."
+   ],
+   "reflexao": "Em que situação você precisa ter a coragem das parteiras para fazer o que é certo?",
+   "quiz": [
+    {
+     "pergunta": "Como se chamava uma das parteiras hebreias?",
+     "opcoes": [
+      "Miriã",
+      "Joquebede",
+      "Zípora",
+      "Sifrá"
+     ],
+     "correta": 3,
+     "ref": "1:15"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "O nascimento de Moisés",
+   "chave": "2:24-25",
+   "resumo": "Uma mulher da tribo de Levi esconde o filho por três meses e depois o coloca num cesto de juncos no rio. A filha de Faraó o encontra, tem compaixão, e a irmã do menino arranja para que a própria mãe o crie; ele recebe o nome de Moisés. Adulto, Moisés mata um egípcio que maltratava um hebreu e foge para Midiã, onde se casa com Zípora. Enquanto isso, Israel clama, e Deus ouve e se lembra do seu pacto.",
+   "licoes": [
+    "Deus protege Moisés por meio da coragem de várias mulheres (2:2-3, 2:6-9).",
+    "Agir pela própria força e no impulso não resolve a injustiça (2:12-14).",
+    "Moisés se sente peregrino em terra estranha durante anos (2:22).",
+    "Deus ouve o gemido do seu povo e se lembra do seu pacto (2:24-25)."
+   ],
+   "reflexao": "Você acredita que Deus ouve o seu clamor, mesmo quando a resposta demora?",
+   "quiz": [
+    {
+     "pergunta": "Quem encontrou o cesto com o menino no rio?",
+     "opcoes": [
+      "A mãe de Moisés",
+      "A filha de Faraó",
+      "Zípora",
+      "As parteiras"
+     ],
+     "correta": 1,
+     "ref": "2:5-6"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "A sarça ardente",
+   "chave": "3:14",
+   "resumo": "Moisés apascenta as ovelhas de Jetro quando vê uma sarça que arde sem se consumir. Deus o chama do meio da sarça, diz que viu a aflição do seu povo e que desceu para libertá-lo, e envia Moisés a Faraó. Moisés pergunta \"Quem sou eu?\", e Deus promete: \"Eu serei contigo\". Deus revela seu nome, \"EU SOU O QUE SOU\", e anuncia que tirará Israel do Egito.",
+   "licoes": [
+    "Deus é santo, e sua presença pede reverência (3:5).",
+    "Deus vê, ouve e conhece o sofrimento do seu povo (3:7-8).",
+    "A força para a missão vem da promessa: \"eu serei contigo\" (3:11-12).",
+    "Deus se revela como EU SOU, aquele que existe por si mesmo e é fiel (3:14-15)."
+   ],
+   "reflexao": "Que desculpa \"Quem sou eu?\" você tem dado diante do que Deus pede?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus mandou Moisés tirar diante da sarça?",
+     "opcoes": [
+      "O manto",
+      "Os calçados",
+      "O cajado",
+      "O turbante"
+     ],
+     "correta": 1,
+     "ref": "3:5"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Sinais e o retorno ao Egito",
+   "chave": "4:12",
+   "resumo": "Moisés teme não ser acreditado, e Deus lhe dá sinais: a vara que vira serpente, a mão que fica leprosa e é curada, e a água que vira sangue. Moisés alega não ser eloquente; Deus promete estar em sua boca, mas, diante da insistência, designa Arão para falar por ele. Moisés volta ao Egito; no caminho, Zípora circuncida o filho. Arão encontra Moisés, e o povo crê e adora.",
+   "licoes": [
+    "Deus usa o que temos nas mãos, como uma simples vara (4:2-4).",
+    "Quem fez a boca do homem é capaz de capacitar quem ele chama (4:11-12).",
+    "Deus é paciente, mas a resistência persistente o desagrada (4:13-14).",
+    "Quando o povo percebe que Deus viu sua aflição, responde com adoração (4:31)."
+   ],
+   "reflexao": "O que está \"em suas mãos\" que Deus pode usar?",
+   "quiz": [
+    {
+     "pergunta": "Em que se transformou a vara de Moisés quando lançada no chão?",
+     "opcoes": [
+      "Numa árvore",
+      "Em pó",
+      "Em fogo",
+      "Numa cobra"
+     ],
+     "correta": 3,
+     "ref": "4:3"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "Mais tijolos, sem palha",
+   "chave": "5:2",
+   "resumo": "Moisés e Arão pedem a Faraó que deixe o povo ir celebrar ao SENHOR no deserto. Faraó responde \"Quem é o SENHOR?\" e endurece a servidão: os israelitas devem produzir a mesma quantidade de tijolos, mas sem receber palha. Os supervisores são açoitados e culpam Moisés e Arão. Moisés leva sua queixa a Deus, perguntando por que o povo está sofrendo mais.",
+   "licoes": [
+    "O orgulho de Faraó se recusa a reconhecer a autoridade de Deus (5:2).",
+    "Obedecer a Deus nem sempre traz alívio imediato; às vezes a pressão aumenta (5:7-9).",
+    "Em tempos difíceis é fácil culpar quem Deus enviou (5:21).",
+    "Moisés leva sua frustração honestamente a Deus em oração (5:22-23)."
+   ],
+   "reflexao": "Quando as coisas pioram depois de você obedecer, para onde você leva sua frustração?",
+   "quiz": [
+    {
+     "pergunta": "O que Faraó deixou de fornecer aos israelitas para fazer tijolos?",
+     "opcoes": [
+      "Água",
+      "Barro",
+      "Palha",
+      "Ferramentas"
+     ],
+     "correta": 2,
+     "ref": "5:7"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "Eu sou o SENHOR",
+   "chave": "6:6-7",
+   "resumo": "Deus responde a Moisés reafirmando seu nome e seu pacto com Abraão, Isaque e Jacó. Ele promete tirar Israel da servidão, resgatá-lo com braço estendido, tomá-lo como seu povo e levá-lo à terra prometida. O povo, desanimado, não ouve Moisés. O capítulo traz a genealogia de Rúben, Simeão e Levi, mostrando a origem de Moisés e Arão.",
+   "licoes": [
+    "Deus fundamenta sua ação no seu próprio nome e no seu pacto (6:2-4).",
+    "As promessas de Deus incluem libertar, resgatar e fazer de Israel seu povo (6:6-7).",
+    "A angústia pode impedir as pessoas de ouvir boas notícias (6:9).",
+    "Deus usa pessoas com história e família reais, mesmo com limitações (6:20, 6:30)."
+   ],
+   "reflexao": "Qual das promessas de Deus você precisa ouvir de novo quando está desanimado?",
+   "quiz": [
+    {
+     "pergunta": "Por que os israelitas não escutaram Moisés?",
+     "opcoes": [
+      "Por causa da angústia e da dura servidão",
+      "Porque preferiam o Egito",
+      "Porque Arão os proibiu",
+      "Porque Moisés falava em egípcio"
+     ],
+     "correta": 0,
+     "ref": "6:9"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "A primeira praga: sangue",
+   "chave": "7:5",
+   "resumo": "Deus explica que endurecerá o coração de Faraó e multiplicará seus sinais, para que os egípcios saibam que ele é o SENHOR. Moisés tem oitenta anos e Arão, oitenta e três. A vara de Arão vira serpente e engole as varas dos magos. Depois, as águas do Nilo se tornam sangue, os peixes morrem, mas os magos imitam o sinal e Faraó não cede.",
+   "licoes": [
+    "O propósito das pragas é revelar quem é o SENHOR (7:5, 7:17).",
+    "Deus usa Moisés já idoso, mostrando que nunca é tarde para servir (7:7).",
+    "O poder de Deus supera o dos magos do Egito (7:12).",
+    "Um coração endurecido resiste mesmo diante de grandes sinais (7:13, 7:22-23)."
+   ],
+   "reflexao": "Há alguma área em que seu coração tem resistido ao que Deus está mostrando?",
+   "quiz": [
+    {
+     "pergunta": "Que idade tinha Moisés quando falou com Faraó?",
+     "opcoes": [
+      "Quarenta anos",
+      "Oitenta anos",
+      "Sessenta anos",
+      "Cento e vinte anos"
+     ],
+     "correta": 1,
+     "ref": "7:7"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "Rãs, piolhos e moscas",
+   "chave": "8:19",
+   "resumo": "Deus envia uma praga de rãs que invadem casas, camas e fornos; Faraó pede oração e promete deixar o povo ir, mas volta atrás quando há alívio. Depois o pó vira piolhos, e os magos, incapazes de imitar, reconhecem: \"Dedo de Deus é este\". Vem a praga das moscas, mas a terra de Gósen é poupada. Faraó oferece meias soluções e, novamente, endurece o coração.",
+   "licoes": [
+    "Promessas feitas só para escapar da dor costumam ser esquecidas (8:8, 8:15).",
+    "Até os magos reconhecem o \"dedo de Deus\" (8:19).",
+    "Deus faz distinção entre seu povo e o Egito, protegendo Gósen (8:22-23).",
+    "Deus não aceita uma obediência pela metade, nos termos de Faraó (8:25-27)."
+   ],
+   "reflexao": "Você tem buscado a Deus apenas para sair de apertos, e depois esquecido dele?",
+   "quiz": [
+    {
+     "pergunta": "O que os magos disseram a Faraó na praga dos piolhos?",
+     "opcoes": [
+      "Isto é magia comum",
+      "Podemos fazer o mesmo",
+      "Dedo de Deus é este",
+      "Moisés é um deus"
+     ],
+     "correta": 2,
+     "ref": "8:19"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "Peste, úlceras e granizo",
+   "chave": "9:16",
+   "resumo": "Uma peste mata o gado dos egípcios, mas não o de Israel. Depois, cinza lançada ao ar provoca úlceras em pessoas e animais, atingindo até os magos. Deus anuncia uma chuva de granizo como nunca houve; os egípcios que temem a palavra do SENHOR recolhem seus servos e animais. Faraó diz \"Pequei\", mas, quando o granizo cessa, volta a endurecer o coração.",
+   "licoes": [
+    "Deus revela seu poder para que seu nome seja anunciado em toda a terra (9:16).",
+    "Quem teme a palavra do SENHOR age com prudência e é protegido (9:20-21).",
+    "Deus guarda seu povo no meio do juízo (9:4, 9:26).",
+    "Confessar \"pequei\" sem mudança de coração não é arrependimento verdadeiro (9:27, 9:34)."
+   ],
+   "reflexao": "Seu arrependimento tem levado a mudanças reais de atitude?",
+   "quiz": [
+    {
+     "pergunta": "Em que terra não caiu granizo?",
+     "opcoes": [
+      "Ramessés",
+      "Sucote",
+      "Midiã",
+      "Gósen"
+     ],
+     "correta": 3,
+     "ref": "9:26"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "titulo": "Gafanhotos e trevas",
+   "chave": "10:2",
+   "resumo": "Deus diz que as pragas servirão para que Israel conte aos filhos e netos o que ele fez. Os próprios servos de Faraó lhe pedem que deixe o povo ir. Faraó quer liberar só os homens, e então os gafanhotos devoram tudo o que restou do granizo. Seguem três dias de trevas densas no Egito, mas havia luz nas habitações dos israelitas. Faraó expulsa Moisés de sua presença.",
+   "licoes": [
+    "Os feitos de Deus devem ser contados às próximas gerações (10:2).",
+    "Servir a Deus envolve a família inteira, jovens e idosos (10:9).",
+    "Mesmo nas trevas sobre o Egito, havia luz onde o povo de Deus morava (10:23).",
+    "O orgulho leva Faraó a rejeitar de vez a palavra de Deus (10:28-29)."
+   ],
+   "reflexao": "Que histórias da fidelidade de Deus você tem contado à próxima geração?",
+   "quiz": [
+    {
+     "pergunta": "Quantos dias duraram as trevas no Egito?",
+     "opcoes": [
+      "Três dias",
+      "Um dia",
+      "Sete dias",
+      "Quarenta dias"
+     ],
+     "correta": 0,
+     "ref": "10:22"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "titulo": "O anúncio da última praga",
+   "chave": "11:4-5",
+   "resumo": "Deus anuncia a Moisés uma última praga, depois da qual Faraó deixará o povo sair. Israel deve pedir objetos de prata e ouro aos egípcios, e Deus lhes dá favor. Moisés anuncia que à meia-noite morrerão todos os primogênitos do Egito, enquanto entre os israelitas nem um cão latirá. Faraó, porém, não ouve.",
+   "licoes": [
+    "Deus prepara a saída do seu povo com antecedência (11:1-2).",
+    "Deus dá favor ao seu povo aos olhos dos outros (11:3).",
+    "O juízo final sobre o Egito mostra a seriedade de resistir a Deus (11:5-6).",
+    "Deus faz diferença entre o Egito e Israel (11:7)."
+   ],
+   "reflexao": "Você confia que Deus pode abrir portas onde parece não haver saída?",
+   "quiz": [
+    {
+     "pergunta": "A que hora o SENHOR disse que passaria pelo Egito?",
+     "opcoes": [
+      "Ao amanhecer",
+      "Ao meio-dia",
+      "Ao pôr do sol",
+      "À meia-noite"
+     ],
+     "correta": 3,
+     "ref": "11:4"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "titulo": "A Páscoa e a saída do Egito",
+   "chave": "12:13",
+   "resumo": "Deus institui a Páscoa: cada família deve sacrificar um cordeiro sem defeito, pôr o sangue nos batentes das portas e comê-lo com pães sem fermento e ervas amargas, pronta para partir. À meia-noite, o SENHOR fere os primogênitos do Egito, mas passa adiante das casas marcadas com sangue. Faraó manda o povo sair, e Israel parte de Ramessés depois de quatrocentos e trinta anos no Egito.",
+   "licoes": [
+    "O sangue do cordeiro é o sinal que livra do juízo (12:7, 12:13).",
+    "A Páscoa deve ser lembrada e explicada aos filhos (12:14, 12:26-27).",
+    "Deus cumpre sua palavra exatamente no tempo anunciado (12:29, 12:41).",
+    "O estrangeiro que se une ao povo também pode participar da Páscoa (12:48-49)."
+   ],
+   "reflexao": "O que significa para você ser protegido \"pelo sangue\" do Cordeiro?",
+   "quiz": [
+    {
+     "pergunta": "Onde o sangue do cordeiro devia ser colocado?",
+     "opcoes": [
+      "No altar",
+      "Nos postes e na verga das portas",
+      "Na testa de cada pessoa",
+      "Nas tendas do deserto"
+     ],
+     "correta": 1,
+     "ref": "12:7"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "titulo": "A coluna de nuvem e de fogo",
+   "chave": "13:21",
+   "resumo": "Deus manda consagrar a ele todo primogênito, e Moisés ordena que a saída do Egito seja lembrada com a festa dos pães sem fermento. Os pais devem explicar aos filhos que o SENHOR os tirou do Egito com mão forte. Deus conduz o povo pelo caminho do deserto, e não pelo dos filisteus, para que não desanimassem. Moisés leva os ossos de José, e o SENHOR guia o povo numa coluna de nuvem de dia e de fogo à noite.",
+   "licoes": [
+    "Tudo o que somos pertence a Deus, que nos resgatou (13:2, 13:15).",
+    "A fé é transmitida quando os pais explicam aos filhos o que Deus fez (13:8, 13:14).",
+    "Deus às vezes escolhe o caminho mais longo para nos proteger (13:17-18).",
+    "Deus guia seu povo dia e noite, sem se afastar (13:21-22)."
+   ],
+   "reflexao": "Você consegue confiar em Deus quando ele o conduz pelo caminho mais longo?",
+   "quiz": [
+    {
+     "pergunta": "O que Moisés levou consigo ao sair do Egito, cumprindo um juramento?",
+     "opcoes": [
+      "A vara de Faraó",
+      "Os ossos de José",
+      "O ouro dos magos",
+      "As tábuas da lei"
+     ],
+     "correta": 1,
+     "ref": "13:19"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "titulo": "A travessia do mar",
+   "chave": "14:13-14",
+   "resumo": "Deus conduz Israel para junto do mar, e Faraó, arrependido de deixá-los ir, persegue o povo com seus carros. Encurralados, os israelitas se desesperam e culpam Moisés. Moisés responde que não temam, pois o SENHOR lutará por eles. A coluna de nuvem se coloca entre os dois exércitos, Moisés estende a mão, e o mar se abre; Israel passa em seco, e as águas voltam sobre os egípcios.",
+   "licoes": [
+    "O medo faz o povo desejar voltar à escravidão (14:11-12).",
+    "Diante do impossível, a fé descansa: \"o SENHOR lutará por vós\" (14:13-14).",
+    "Há hora de orar e hora de avançar em obediência (14:15-16).",
+    "A salvação de Deus leva o povo a temer o SENHOR e a crer (14:30-31)."
+   ],
+   "reflexao": "Que \"mar\" diante de você precisa ser entregue ao Deus que luta por seu povo?",
+   "quiz": [
+    {
+     "pergunta": "Quantos carros escolhidos Faraó levou na perseguição?",
+     "opcoes": [
+      "Cem",
+      "Trezentos",
+      "Mil",
+      "Seiscentos"
+     ],
+     "correta": 3,
+     "ref": "14:7"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "titulo": "O cântico de Moisés",
+   "chave": "15:2",
+   "resumo": "Depois da travessia, Moisés e o povo cantam ao SENHOR, celebrando sua vitória sobre Faraó, sua santidade incomparável e sua misericórdia em guiar o povo até sua morada. Miriã, a profetisa, lidera as mulheres com pandeiros e danças. Três dias depois, no deserto, as águas de Mara são amargas e o povo murmura; Deus mostra a Moisés uma árvore que torna as águas doces e se apresenta como o SENHOR que sara. O povo chega a Elim, com doze fontes e setenta palmeiras.",
+   "licoes": [
+    "A resposta certa à salvação de Deus é o louvor (15:1-2).",
+    "Não há ninguém como o SENHOR em santidade e poder (15:11).",
+    "O SENHOR reina para sempre (15:18).",
+    "Logo após grandes vitórias vêm provas; Deus cura e cuida (15:24-26)."
+   ],
+   "reflexao": "Quanto tempo passa entre a sua celebração de uma vitória e a próxima reclamação?",
+   "quiz": [
+    {
+     "pergunta": "Como se chamava o lugar onde as águas eram amargas?",
+     "opcoes": [
+      "Mara",
+      "Elim",
+      "Refidim",
+      "Sim"
+     ],
+     "correta": 0,
+     "ref": "15:23"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "titulo": "O maná do céu",
+   "chave": "16:4",
+   "resumo": "No deserto de Sim, o povo murmura com saudade da comida do Egito. Deus responde enviando codornizes à tarde e, pela manhã, o maná, um pão do céu. Cada um deve recolher apenas o necessário para o dia, e no sexto dia o dobro, para descansar no sábado. Quem tenta guardar para o dia seguinte encontra o maná estragado. Israel come maná por quarenta anos.",
+   "licoes": [
+    "Deus ouve até as murmurações e responde com provisão (16:12).",
+    "O maná ensina a confiar em Deus a cada dia (16:4, 16:19-20).",
+    "Na economia de Deus, não sobra para quem recolhe muito nem falta para quem recolhe pouco (16:18).",
+    "O sábado é um presente de descanso que Deus dá ao seu povo (16:29-30)."
+   ],
+   "reflexao": "Você confia em Deus para o pão de hoje, ou vive ansioso pelo de amanhã?",
+   "quiz": [
+    {
+     "pergunta": "Com que o sabor do maná é comparado?",
+     "opcoes": [
+      "Pão de cevada",
+      "Bolos com mel",
+      "Azeite de oliva",
+      "Leite fresco"
+     ],
+     "correta": 1,
+     "ref": "16:31"
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "titulo": "Água da rocha e vitória sobre Amaleque",
+   "chave": "17:12",
+   "resumo": "Em Refidim falta água, e o povo briga com Moisés a ponto de quase apedrejá-lo. Deus manda Moisés ferir a rocha em Horebe, e dela sai água; o lugar é chamado Massá e Meribá. Depois, Amaleque ataca Israel; Josué lidera a batalha enquanto Moisés ergue as mãos no monte. Quando ele se cansa, Arão e Hur sustentam suas mãos até o pôr do sol, e Israel vence.",
+   "licoes": [
+    "Duvidar se Deus está entre nós é tentá-lo (17:7).",
+    "Deus pode fazer brotar provisão até de uma rocha (17:6).",
+    "Nenhum líder vence sozinho; precisamos de quem sustente nossas mãos (17:12).",
+    "A vitória pertence ao SENHOR, nossa bandeira (17:15)."
+   ],
+   "reflexao": "Quem tem sustentado suas mãos, e de quem você pode sustentar as mãos?",
+   "quiz": [
+    {
+     "pergunta": "Quem sustentou as mãos de Moisés durante a batalha?",
+     "opcoes": [
+      "Arão e Hur",
+      "Josué e Calebe",
+      "Jetro e Arão",
+      "Eleazar e Itamar"
+     ],
+     "correta": 0,
+     "ref": "17:12"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "titulo": "O conselho de Jetro",
+   "chave": "18:21",
+   "resumo": "Jetro, sogro de Moisés, traz Zípora e os filhos ao acampamento. Moisés conta tudo o que Deus fez, e Jetro se alegra, bendiz o SENHOR e oferece sacrifícios. No dia seguinte, vendo Moisés julgar o povo sozinho de manhã à noite, Jetro o aconselha a escolher homens capazes, tementes a Deus e honestos para ajudar. Moisés ouve e organiza líderes sobre mil, cem, cinquenta e dez.",
+   "licoes": [
+    "Contar o que Deus fez desperta louvor em outras pessoas (18:8-10).",
+    "Quem tenta carregar tudo sozinho se esgota (18:17-18).",
+    "Líderes devem ser capazes, tementes a Deus, verdadeiros e contra o suborno (18:21).",
+    "Ouvir conselhos sábios é sinal de humildade (18:24)."
+   ],
+   "reflexao": "Que responsabilidade você precisa compartilhar em vez de carregar sozinho?",
+   "quiz": [
+    {
+     "pergunta": "Qual era a relação de Jetro com Moisés?",
+     "opcoes": [
+      "Irmão",
+      "Tio",
+      "Sogro",
+      "Primo"
+     ],
+     "correta": 2,
+     "ref": "18:1"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "titulo": "Israel no monte Sinai",
+   "chave": "19:5-6",
+   "resumo": "No terceiro mês após a saída do Egito, Israel acampa diante do monte Sinai. Deus lembra que carregou o povo como sobre asas de águia e o convida a ser seu tesouro especial, um reino de sacerdotes e nação santa. O povo promete obedecer e se prepara por três dias. No terceiro dia, há trovões, relâmpagos, nuvem espessa e som de trombeta; o monte fumega, pois o SENHOR desceu sobre ele em fogo.",
+   "licoes": [
+    "Deus salva primeiro e depois chama o povo à aliança (19:4-5).",
+    "Israel é chamado a ser reino de sacerdotes e nação santa (19:6).",
+    "Aproximar-se de Deus exige preparação e reverência (19:10-12).",
+    "A santidade de Deus se manifesta com temor e majestade (19:16, 19:18)."
+   ],
+   "reflexao": "Como você se prepara para se encontrar com Deus em adoração?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Deus, como ele carregou Israel até ele?",
+     "opcoes": [
+      "Nos ombros de Moisés",
+      "Em carros de fogo",
+      "Sobre asas de águias",
+      "Nas costas de camelos"
+     ],
+     "correta": 2,
+     "ref": "19:4"
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "titulo": "Os Dez Mandamentos",
+   "chave": "20:2-3",
+   "resumo": "Deus fala ao povo as Dez Palavras, começando por lembrar que foi ele quem os tirou da escravidão. Os mandamentos tratam da relação com Deus (não ter outros deuses, não fazer imagens, não usar seu nome em vão, guardar o dia de descanso) e com o próximo (honrar pai e mãe, não matar, não adulterar, não furtar, não mentir, não cobiçar). O povo, com medo dos trovões e do fogo, pede que Moisés fale por Deus. Seguem instruções sobre o altar.",
+   "licoes": [
+    "Os mandamentos são dados a um povo já libertado: a obediência responde à graça (20:2).",
+    "Deus quer ser o único Deus, sem rivais nem imagens (20:3-5).",
+    "O dia de descanso lembra que Deus é o Criador e que a vida não é só trabalho (20:8-11).",
+    "Amar a Deus inclui respeitar a vida, a família, os bens e a verdade do próximo (20:12-17)."
+   ],
+   "reflexao": "Qual destes mandamentos mais desafia sua vida hoje?",
+   "quiz": [
+    {
+     "pergunta": "Qual mandamento vem acompanhado da promessa de dias prolongados na terra?",
+     "opcoes": [
+      "Não furtarás",
+      "Não matarás",
+      "Honra a teu pai e a tua mãe",
+      "Lembra-te do dia do repouso"
+     ],
+     "correta": 2,
+     "ref": "20:12"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "titulo": "Leis sobre pessoas e danos",
+   "chave": "21:23-25",
+   "resumo": "Começa o chamado código da aliança, com leis para a vida em sociedade no contexto antigo. Há regras que limitam a servidão de hebreus a seis anos, protegem servas, distinguem homicídio intencional de acidental e estabelecem responsabilidade por ferimentos e por danos causados por animais. O princípio \"olho por olho\" serve para limitar a vingança e proporcionar a pena ao dano.",
+   "licoes": [
+    "As leis de Israel limitavam abusos comuns no mundo antigo, como a servidão sem fim (21:2).",
+    "Deus distingue entre o crime planejado e o acidente (21:12-14).",
+    "A justiça deve ser proporcional, não vingativa (21:23-25).",
+    "Quem é negligente é responsável pelos danos que causa (21:29, 21:33-34)."
+   ],
+   "reflexao": "Você tem assumido responsabilidade pelos danos que suas ações causam aos outros?",
+   "quiz": [
+    {
+     "pergunta": "Depois de quantos anos o servo hebreu devia sair livre?",
+     "opcoes": [
+      "Três",
+      "Dez",
+      "Sete",
+      "Seis"
+     ],
+     "correta": 3,
+     "ref": "21:2"
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "titulo": "Justiça e cuidado com os vulneráveis",
+   "chave": "22:21-22",
+   "resumo": "As leis continuam tratando de furtos, danos a plantações, bens confiados a outros e empréstimos de animais, sempre com restituição. Há proibições sobre feitiçaria e idolatria. Deus ordena não oprimir o estrangeiro, a viúva e o órfão, pois ele ouve o clamor deles. Também proíbe cobrar juros do pobre e manda devolver antes do pôr do sol a capa tomada em penhor.",
+   "licoes": [
+    "A justiça de Deus inclui restituir o que foi tirado (22:1, 22:4).",
+    "Israel deve lembrar que foi estrangeiro e por isso acolher o estrangeiro (22:21).",
+    "Deus defende a viúva e o órfão e ouve seu clamor (22:22-23).",
+    "O cuidado com o pobre deve ser concreto, até no empréstimo e na garantia (22:25-27)."
+   ],
+   "reflexao": "Quem são os vulneráveis ao seu redor, e como você pode cuidar deles?",
+   "quiz": [
+    {
+     "pergunta": "Até quando devia ser devolvida a roupa tomada em penhor?",
+     "opcoes": [
+      "Até o sábado",
+      "Até o pôr do sol",
+      "Até o fim do mês",
+      "Até o ano do perdão"
+     ],
+     "correta": 1,
+     "ref": "22:26"
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "titulo": "Integridade, descanso e festas",
+   "chave": "23:2",
+   "resumo": "Deus manda não espalhar boatos, não seguir a maioria para fazer o mal, não aceitar suborno e ajudar até o animal do inimigo. Institui o descanso da terra no sétimo ano e o descanso semanal, e as três festas anuais. Promete enviar um anjo à frente do povo e expulsar pouco a pouco os habitantes de Canaã, advertindo contra a idolatria.",
+   "licoes": [
+    "A justiça não se deixa levar pela multidão nem pelo suborno (23:2, 23:8).",
+    "Fazer o bem inclui ajudar até quem nos odeia (23:4-5).",
+    "O descanso também é para os servos, os estrangeiros e os animais (23:12).",
+    "Deus conduz seu povo pouco a pouco, no ritmo que ele pode suportar (23:29-30)."
+   ],
+   "reflexao": "Você tem coragem de não seguir a maioria quando ela está errada?",
+   "quiz": [
+    {
+     "pergunta": "Quantas vezes por ano os homens deviam se apresentar diante do Senhor nas festas?",
+     "opcoes": [
+      "Uma",
+      "Duas",
+      "Sete",
+      "Três"
+     ],
+     "correta": 3,
+     "ref": "23:17"
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "titulo": "A aliança é confirmada",
+   "chave": "24:7-8",
+   "resumo": "Moisés transmite ao povo as palavras do SENHOR, e todos respondem que farão tudo. Ele escreve as palavras, constrói um altar e doze colunas, oferece sacrifícios, lê o livro da aliança e asperge o povo com o sangue. Moisés, Arão, Nadabe, Abiú e setenta anciãos veem o Deus de Israel e comem diante dele. Depois Moisés sobe ao monte, entra na nuvem da glória e fica lá quarenta dias e quarenta noites.",
+   "licoes": [
+    "A aliança é recebida com a resposta de obedecer à palavra de Deus (24:3, 24:7).",
+    "O sangue sela a aliança entre Deus e o povo (24:8).",
+    "Deus convida representantes do povo para comer em sua presença (24:11).",
+    "A glória de Deus é como fogo abrasador no alto do monte (24:17)."
+   ],
+   "reflexao": "Como você tem respondido à Palavra de Deus: com promessas ou com prática?",
+   "quiz": [
+    {
+     "pergunta": "Quanto tempo Moisés ficou no monte?",
+     "opcoes": [
+      "Sete dias",
+      "Doze dias",
+      "Quarenta dias e quarenta noites",
+      "Três meses"
+     ],
+     "correta": 2,
+     "ref": "24:18"
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "titulo": "A arca, a mesa e o candelabro",
+   "chave": "25:8",
+   "resumo": "Deus pede ao povo ofertas voluntárias de ouro, prata, tecidos e outros materiais para fazer um santuário, para habitar no meio deles. Ele dá a Moisés o modelo da arca do testemunho, coberta de ouro, com o propiciatório e dois querubins por cima, de onde falaria com Moisés. Descreve também a mesa dos pães da proposição e o candelabro de ouro com sete lâmpadas.",
+   "licoes": [
+    "A obra de Deus é sustentada por ofertas dadas de coração disposto (25:2).",
+    "O grande propósito do santuário é que Deus habite no meio do seu povo (25:8).",
+    "Deus se encontra com seu povo sobre o propiciatório, o lugar da expiação (25:22).",
+    "A adoração segue o modelo que Deus mostra, não a invenção humana (25:9, 25:40)."
+   ],
+   "reflexao": "O que você oferece a Deus de coração disposto, e não por obrigação?",
+   "quiz": [
+    {
+     "pergunta": "De que madeira devia ser feita a arca?",
+     "opcoes": [
+      "Cedro",
+      "Gôfer",
+      "Oliveira",
+      "Acácia"
+     ],
+     "correta": 3,
+     "ref": "25:10"
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "titulo": "O tabernáculo e o véu",
+   "chave": "26:33",
+   "resumo": "Deus detalha a estrutura do tabernáculo: cortinas de linho com querubins bordados, coberturas de pelo de cabra e de couro, tábuas de acácia revestidas de ouro sobre bases de prata. Um véu separa o Lugar Santo do Santo dos Santos, onde fica a arca. A mesa e o candelabro ficam do lado de fora do véu.",
+   "licoes": [
+    "Deus se importa com os detalhes do lugar onde se encontra com seu povo (26:1, 26:30).",
+    "O véu ensina que a santidade de Deus exige separação e cuidado (26:33).",
+    "A arca fica no lugar santíssimo, centro de toda a habitação (26:34).",
+    "Uma tenda móvel mostra um Deus que caminha com seu povo peregrino (26:7, 26:14)."
+   ],
+   "reflexao": "O que a separação feita pelo véu ensina sobre a santidade de Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que separava o lugar santo do lugar santíssimo?",
+     "opcoes": [
+      "Um véu",
+      "Uma porta de bronze",
+      "Uma parede de pedra",
+      "Uma cortina de pelo de cabra"
+     ],
+     "correta": 0,
+     "ref": "26:33"
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "titulo": "O altar e o átrio",
+   "chave": "27:20",
+   "resumo": "Deus manda fazer o altar dos holocaustos, de acácia coberta de bronze, com pontas nos quatro cantos e varas para transporte. Descreve também o átrio, um pátio cercado de cortinas de linho, com cem côvados de comprimento e cinquenta de largura. O povo deve trazer azeite puro para que a lâmpada arda continuamente diante do SENHOR.",
+   "licoes": [
+    "O caminho até a presença de Deus passa pelo altar do sacrifício (27:1-2).",
+    "Cada detalhe do átrio é feito conforme o que Deus mostrou no monte (27:8).",
+    "A lâmpada contínua lembra que o povo deve manter viva sua devoção (27:20-21)."
+   ],
+   "reflexao": "O que ajuda a manter acesa a \"lâmpada\" da sua devoção a Deus?",
+   "quiz": [
+    {
+     "pergunta": "Qual era a largura do altar dos holocaustos?",
+     "opcoes": [
+      "Cinco côvados",
+      "Três côvados",
+      "Dez côvados",
+      "Vinte côvados"
+     ],
+     "correta": 0,
+     "ref": "27:1"
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "titulo": "As vestes sacerdotais",
+   "chave": "28:29",
+   "resumo": "Deus separa Arão e seus filhos para o sacerdócio e ordena vestes sagradas \"para honra e beleza\". O éfode tem duas pedras de ônix com os nomes das tribos, e o peitoral leva doze pedras com os nomes dos filhos de Israel, além do Urim e Tumim. Há ainda o manto azul com sinos e romãs, a túnica, a mitra e uma lâmina de ouro com a inscrição \"SANTIDADE AO SENHOR\".",
+   "licoes": [
+    "Os talentos dos artesãos são dados por Deus para servir à adoração (28:3).",
+    "O sacerdote leva o povo sobre os ombros e sobre o coração diante de Deus (28:12, 28:29).",
+    "Quem serve a Deus deve ser marcado pela santidade (28:36).",
+    "O serviço sacerdotal representa o povo e intercede por ele (28:38)."
+   ],
+   "reflexao": "Quem você tem levado \"sobre o coração\" em oração diante de Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que estava gravado na lâmina de ouro sobre a mitra de Arão?",
+     "opcoes": [
+      "O nome de Moisés",
+      "Os Dez Mandamentos",
+      "SANTIDADE AO SENHOR",
+      "O nome das doze tribos"
+     ],
+     "correta": 2,
+     "ref": "28:36"
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "titulo": "A consagração dos sacerdotes",
+   "chave": "29:45-46",
+   "resumo": "O capítulo descreve a cerimônia de sete dias para consagrar Arão e seus filhos: lavagem, vestes, unção com azeite e sacrifícios de um bezerro e dois carneiros. Parte do sangue é posta na orelha, no polegar da mão e no dedão do pé dos sacerdotes. Deus institui também o sacrifício diário de um cordeiro de manhã e outro à tarde, e promete habitar entre os israelitas e ser o seu Deus.",
+   "licoes": [
+    "Ninguém se torna apto para servir por si mesmo; é preciso purificação e consagração (29:4, 29:7).",
+    "O sangue nas orelhas, mãos e pés mostra que toda a vida é consagrada a Deus (29:20).",
+    "A adoração diária, de manhã e à tarde, mantém a comunhão (29:38-39, 29:42).",
+    "O objetivo final é que Deus habite com seu povo e seja conhecido como libertador (29:45-46)."
+   ],
+   "reflexao": "Que partes da sua vida (o que ouve, faz e por onde anda) precisam ser consagradas a Deus?",
+   "quiz": [
+    {
+     "pergunta": "Quantos cordeiros deviam ser oferecidos por dia no sacrifício contínuo?",
+     "opcoes": [
+      "Um",
+      "Dois",
+      "Sete",
+      "Doze"
+     ],
+     "correta": 1,
+     "ref": "29:38"
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "titulo": "Incenso, resgate e unção",
+   "chave": "30:7-8",
+   "resumo": "Deus manda fazer o altar do incenso, colocado diante do véu, onde Arão queimará incenso de manhã e à tarde. Cada israelita contado deve dar meio siclo como resgate, sem diferença entre rico e pobre. Há ainda a pia de bronze para os sacerdotes se lavarem, a receita do azeite da santa unção e a do incenso sagrado, que não podiam ser imitados para uso comum.",
+   "licoes": [
+    "O incenso contínuo lembra a oração constante diante de Deus (30:7-8).",
+    "Diante de Deus, rico e pobre têm o mesmo valor e a mesma necessidade de resgate (30:15).",
+    "Quem serve a Deus precisa de purificação constante (30:19-21).",
+    "O que é consagrado a Deus não deve ser tratado como coisa comum (30:32, 30:37)."
+   ],
+   "reflexao": "Sua vida de oração é contínua como o incenso, ou só em ocasiões especiais?",
+   "quiz": [
+    {
+     "pergunta": "Quanto cada pessoa contada devia dar como oferta ao SENHOR?",
+     "opcoes": [
+      "Meio siclo",
+      "Um siclo",
+      "Dois siclos",
+      "Um talento"
+     ],
+     "correta": 0,
+     "ref": "30:13"
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "titulo": "Bezalel e o sinal do sábado",
+   "chave": "31:3",
+   "resumo": "Deus chama Bezalel pelo nome e o enche do seu Espírito, com sabedoria, entendimento e habilidade para trabalhar em ouro, prata, bronze, pedras e madeira; Aoliabe é dado como auxiliar. Deus reforça que o sábado é um sinal perpétuo entre ele e Israel. Ao terminar de falar, entrega a Moisés as duas tábuas de pedra escritas pelo dedo de Deus.",
+   "licoes": [
+    "Habilidades artísticas e manuais também podem ser dons do Espírito de Deus (31:3-5).",
+    "Deus chama pessoas pelo nome para tarefas específicas (31:2, 31:6).",
+    "O sábado é sinal de que é Deus quem santifica seu povo (31:13).",
+    "A lei é dada pelo próprio Deus, escrita com seu dedo (31:18)."
+   ],
+   "reflexao": "Que habilidade Deus lhe deu que pode ser usada para servi-lo?",
+   "quiz": [
+    {
+     "pergunta": "Com o que foram escritas as tábuas de pedra?",
+     "opcoes": [
+      "Com a pena de Moisés",
+      "Com cinzel de bronze",
+      "Com o dedo de Deus",
+      "Com tinta de ouro"
+     ],
+     "correta": 2,
+     "ref": "31:18"
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "titulo": "O bezerro de ouro",
+   "chave": "32:31-32",
+   "resumo": "Como Moisés demora no monte, o povo pede a Arão que faça deuses, e ele molda um bezerro de ouro com os brincos do povo, que oferece sacrifícios e faz festa. Deus anuncia sua ira, mas Moisés intercede lembrando as promessas aos patriarcas. Ao descer e ver a festa, Moisés quebra as tábuas, destrói o bezerro e confronta Arão, que dá desculpas. Os levitas se colocam ao lado do SENHOR, e Moisés volta para pedir perdão pelo povo, oferecendo-se em seu lugar.",
+   "licoes": [
+    "A impaciência com o tempo de Deus pode levar à idolatria (32:1).",
+    "A intercessão de Moisés apela à honra de Deus e às suas promessas (32:11-13).",
+    "Desculpas não apagam a responsabilidade pelo pecado (32:22-24).",
+    "Moisés ama o povo a ponto de se oferecer por ele (32:31-32)."
+   ],
+   "reflexao": "Que \"bezerros de ouro\" você é tentado a criar quando Deus parece demorar?",
+   "quiz": [
+    {
+     "pergunta": "De que foi feito o bezerro?",
+     "opcoes": [
+      "Bronze",
+      "Brincos de ouro do povo",
+      "Prata",
+      "Madeira de acácia coberta de ouro"
+     ],
+     "correta": 1,
+     "ref": "32:3-4"
+    }
+   ]
+  },
+  {
+   "n": 33,
+   "titulo": "A presença de Deus e o pedido de Moisés",
+   "chave": "33:14-15",
+   "resumo": "Deus manda o povo seguir para a terra prometida, mas diz que não irá no meio dele, por ser um povo de dura cerviz. O povo se entristece e tira seus enfeites. Na tenda do encontro, o SENHOR fala com Moisés face a face, como a um amigo. Moisés pede que a presença de Deus vá com eles e que lhe mostre sua glória; Deus promete ir junto e faz passar sua bondade diante de Moisés, escondido na fenda da rocha.",
+   "licoes": [
+    "Sem a presença de Deus, até a terra prometida perde o sentido (33:3, 33:15).",
+    "Deus fala com Moisés como alguém fala com um amigo (33:11).",
+    "A presença de Deus é o que distingue seu povo de todos os outros (33:16).",
+    "Deus revela sua glória como bondade e misericórdia (33:19)."
+   ],
+   "reflexao": "Você deseja mais a presença de Deus ou as bênçãos que ele dá?",
+   "quiz": [
+    {
+     "pergunta": "Onde Deus colocou Moisés quando sua glória passou?",
+     "opcoes": [
+      "Atrás de uma árvore",
+      "No meio do povo",
+      "Dentro da tenda",
+      "Numa fenda da rocha"
+     ],
+     "correta": 3,
+     "ref": "33:22"
+    }
+   ]
+  },
+  {
+   "n": 34,
+   "titulo": "A aliança renovada",
+   "chave": "34:6-7",
+   "resumo": "Moisés talha duas novas tábuas e sobe ao Sinai. O SENHOR passa diante dele proclamando seu nome: misericordioso, piedoso, tardio em irar-se e grande em bondade e fidelidade, que perdoa, mas não inocenta o culpado. Moisés adora e pede que Deus vá com o povo. Deus renova a aliança, alertando contra a idolatria e lembrando as festas. Quando Moisés desce depois de quarenta dias, seu rosto resplandece, e ele passa a usar um véu.",
+   "licoes": [
+    "Deus revela seu caráter: misericórdia e justiça andam juntas (34:6-7).",
+    "Depois do pecado, Deus renova a aliança com seu povo (34:1, 34:10).",
+    "O Deus zeloso não divide seu lugar com outros deuses (34:14).",
+    "Estar na presença de Deus transforma e deixa marcas visíveis (34:29-30)."
+   ],
+   "reflexao": "Qual característica de Deus, proclamada aqui, você mais precisa lembrar hoje?",
+   "quiz": [
+    {
+     "pergunta": "O que aconteceu com o rosto de Moisés quando ele desceu do monte?",
+     "opcoes": [
+      "Resplandecia",
+      "Ficou pálido",
+      "Ficou cheio de rugas",
+      "Ficou queimado do sol"
+     ],
+     "correta": 0,
+     "ref": "34:29"
+    }
+   ]
+  },
+  {
+   "n": 35,
+   "titulo": "Ofertas voluntárias",
+   "chave": "35:21",
+   "resumo": "Moisés reúne o povo, lembra o mandamento do sábado e convida todos os de coração generoso a trazer ofertas para o tabernáculo. Homens e mulheres trazem ouro, joias, tecidos, couros, madeira, azeite e especiarias; as mulheres habilidosas fiam linho e pelo de cabra. Moisés apresenta Bezalel e Aoliabe, cheios do Espírito de Deus para realizar e ensinar o trabalho.",
+   "licoes": [
+    "A obra de Deus avança com quem oferta de coração disposto (35:5, 35:21).",
+    "Homens e mulheres participam igualmente da oferta e do trabalho (35:22, 35:25-26).",
+    "Deus capacita pessoas não só para fazer, mas também para ensinar (35:34)."
+   ],
+   "reflexao": "O que seu coração tem movido você a oferecer a Deus?",
+   "quiz": [
+    {
+     "pergunta": "Quem trouxe ofertas para o tabernáculo?",
+     "opcoes": [
+      "Somente os sacerdotes",
+      "Homens e mulheres de coração voluntário",
+      "Somente os príncipes",
+      "Somente os levitas"
+     ],
+     "correta": 1,
+     "ref": "35:22"
+    }
+   ]
+  },
+  {
+   "n": 36,
+   "titulo": "Mais do que o necessário",
+   "chave": "36:5",
+   "resumo": "Bezalel, Aoliabe e todos os artesãos começam o trabalho. O povo traz ofertas todas as manhãs, até que os mestres avisam Moisés de que há mais do que o suficiente, e ele manda que ninguém traga mais. Os artesãos fazem as cortinas, as coberturas, as tábuas, as barras e o véu, exatamente conforme o modelo.",
+   "licoes": [
+    "A generosidade do povo foi tão grande que precisou ser contida (36:5-7).",
+    "O trabalho é feito com sabedoria dada por Deus (36:1).",
+    "A obra segue fielmente o que Deus havia mostrado (36:8, 36:35)."
+   ],
+   "reflexao": "Como seria se a sua comunidade transbordasse de generosidade como Israel aqui?",
+   "quiz": [
+    {
+     "pergunta": "Por que Moisés mandou o povo parar de trazer ofertas?",
+     "opcoes": [
+      "Porque havia mais do que o necessário",
+      "Porque o ouro acabou",
+      "Porque Faraó proibiu",
+      "Porque o povo reclamou"
+     ],
+     "correta": 0,
+     "ref": "36:5-6"
+    }
+   ]
+  },
+  {
+   "n": 37,
+   "titulo": "Os móveis do santuário",
+   "chave": "37:1",
+   "resumo": "Bezalel faz a arca de acácia coberta de ouro, com o propiciatório e os querubins, a mesa dos pães, o candelabro de ouro puro com sete lâmpadas e o altar do incenso. Prepara também o azeite santo da unção e o incenso aromático. Tudo é feito conforme as instruções dadas no monte.",
+   "licoes": [
+    "A fidelidade nos detalhes honra a Deus (37:1-2).",
+    "O centro do santuário é a arca, com o propiciatório onde Deus se encontra com o povo (37:6-9).",
+    "A luz do candelabro e o incenso lembram a presença e a oração contínuas (37:23, 37:29)."
+   ],
+   "reflexao": "Em que pequenas tarefas você pode honrar a Deus com fidelidade?",
+   "quiz": [
+    {
+     "pergunta": "Quantas lâmpadas tinha o candelabro?",
+     "opcoes": [
+      "Cinco",
+      "Dez",
+      "Sete",
+      "Doze"
+     ],
+     "correta": 2,
+     "ref": "37:23"
+    }
+   ]
+  },
+  {
+   "n": 38,
+   "titulo": "O altar, a pia e o átrio",
+   "chave": "38:21",
+   "resumo": "Bezalel faz o altar dos holocaustos coberto de bronze e a pia de bronze, feita com os espelhos das mulheres que serviam à porta da tenda. Depois, constrói o átrio com suas cortinas e colunas. O capítulo registra a quantidade de ouro, prata e bronze usados, sob a supervisão de Itamar, filho de Arão.",
+   "licoes": [
+    "Até objetos pessoais, como espelhos, podem ser consagrados ao serviço de Deus (38:8).",
+    "A obra de Deus é feita por muitos, cada um com sua parte (38:22-23).",
+    "A prestação de contas transparente faz parte do serviço a Deus (38:21, 38:24-25)."
+   ],
+   "reflexao": "Há algo seu que poderia ser consagrado para servir a Deus e aos outros?",
+   "quiz": [
+    {
+     "pergunta": "Com o que foi feita a pia de bronze?",
+     "opcoes": [
+      "Com moedas de bronze",
+      "Com o bronze do bezerro",
+      "Com as armas dos egípcios",
+      "Com os espelhos das mulheres que serviam à porta"
+     ],
+     "correta": 3,
+     "ref": "38:8"
+    }
+   ]
+  },
+  {
+   "n": 39,
+   "titulo": "As vestes e a obra concluída",
+   "chave": "39:43",
+   "resumo": "Os artesãos fazem as vestes sagradas de Arão: o éfode, o peitoral com doze pedras, o manto com sinos e romãs, as túnicas, a mitra e a lâmina com \"SANTIDADE AO SENHOR\". A frase \"como o SENHOR havia mandado a Moisés\" se repete várias vezes. Ao final, trazem tudo a Moisés, que vê que foi feito exatamente como Deus ordenou e os abençoa.",
+   "licoes": [
+    "A obediência fiel se repete em cada etapa: \"como o SENHOR havia mandado\" (39:1, 39:7).",
+    "O povo de Deus é lembrado diante dele nas pedras do sacerdote (39:7, 39:14).",
+    "O trabalho feito segundo a palavra de Deus recebe bênção (39:42-43)."
+   ],
+   "reflexao": "Seu trabalho pode ser descrito como feito \"conforme o SENHOR mandou\"?",
+   "quiz": [
+    {
+     "pergunta": "O que Moisés fez ao ver que tudo foi feito como Deus mandou?",
+     "opcoes": [
+      "Repreendeu-os",
+      "Mandou refazer",
+      "Abençoou-os",
+      "Ofereceu um bezerro"
+     ],
+     "correta": 2,
+     "ref": "39:43"
+    }
+   ]
+  },
+  {
+   "n": 40,
+   "titulo": "A glória enche o tabernáculo",
+   "chave": "40:34",
+   "resumo": "Deus manda levantar o tabernáculo no primeiro dia do primeiro mês do segundo ano. Moisés monta tudo, coloca a arca com o testemunho, os móveis e o altar, e unge o tabernáculo e os sacerdotes, fazendo tudo como o SENHOR mandou. Então a nuvem cobre a tenda, e a glória do SENHOR enche o tabernáculo, de modo que nem Moisés pode entrar. Dali em diante, a nuvem guia as jornadas de Israel.",
+   "licoes": [
+    "Moisés conclui a obra fazendo tudo conforme o SENHOR mandou (40:16).",
+    "O Deus que libertou o povo agora habita no meio dele (40:34).",
+    "A glória de Deus é tão grande que nem Moisés pode entrar (40:35).",
+    "Deus guia seu povo em todas as jornadas, de dia e de noite (40:36-38)."
+   ],
+   "reflexao": "Você tem seguido a direção de Deus, avançando e esperando no tempo dele?",
+   "quiz": [
+    {
+     "pergunta": "O que encheu o tabernáculo quando ele foi concluído?",
+     "opcoes": [
+      "A glória do SENHOR",
+      "Fumaça de incenso",
+      "Água da rocha",
+      "O canto dos levitas"
+     ],
+     "correta": 0,
+     "ref": "40:34"
+    }
+   ]
+  }
+ ]
+}

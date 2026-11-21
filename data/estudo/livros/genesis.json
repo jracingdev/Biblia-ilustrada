@@ -1,0 +1,1429 @@
+{
+ "livro": "genesis",
+ "nome": "Gênesis",
+ "subtitulo": "O princípio de tudo e as promessas de Deus",
+ "introducao": "Gênesis conta as origens: a criação do mundo e do ser humano, a entrada do pecado e o espalhar dos povos. A partir do capítulo 12, a história se concentra em Abraão e sua família, escolhidos por Deus para trazer bênção a todas as nações. As histórias de Isaque, Jacó e José mostram um Deus fiel às suas promessas, mesmo diante das falhas humanas.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Tradicionalmente atribuído a Moisés; muitos estudiosos veem também o uso de fontes e uma edição posterior"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Narra desde a criação até a morte de José; a data de composição é debatida (da época de Moisés até o pós-exílio, conforme a linha de interpretação)"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Mesopotâmia, Canaã e Egito"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "O povo de Israel, para conhecer suas origens e o Deus que o chamou"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Narrativa de origens e histórias dos patriarcas, com genealogias e poesia"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "50 capítulos e 1533 versículos"
+  }
+ ],
+ "chave": "12:2-3",
+ "temas": [
+  "Deus cria e governa todas as coisas",
+  "O pecado e suas consequências",
+  "As promessas e o pacto de Deus com Abraão",
+  "A fé que confia e obedece",
+  "A providência de Deus que transforma o mal em bem"
+ ],
+ "cristo": "Gênesis anuncia que a descendência da mulher venceria a serpente (3:15) e que em Abraão todas as famílias da terra seriam abençoadas (12:3), promessas que o Novo Testamento vê cumpridas em Jesus. A provisão de um cordeiro no lugar de Isaque e o perdão de José, que transforma traição em salvação, ajudam a entender a obra de Cristo.",
+ "secoes": [
+  {
+   "id": "criacao-e-queda",
+   "titulo": "Criação e queda",
+   "capitulos": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "resumo": "Deus cria o mundo bom, e o pecado entra na humanidade."
+  },
+  {
+   "id": "diluvio-e-nacoes",
+   "titulo": "Dilúvio e nações",
+   "capitulos": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "resumo": "O juízo do dilúvio, o pacto com Noé e a dispersão em Babel."
+  },
+  {
+   "id": "abraao",
+   "titulo": "Abraão, o pai da fé",
+   "capitulos": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+   ],
+   "resumo": "Deus chama Abraão, faz um pacto com ele e cumpre a promessa de um filho."
+  },
+  {
+   "id": "isaque-e-jaco",
+   "titulo": "Isaque e Jacó",
+   "capitulos": [
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36
+   ],
+   "resumo": "A promessa passa a Isaque e Jacó, que é transformado em Israel."
+  },
+  {
+   "id": "jose",
+   "titulo": "José e a família no Egito",
+   "capitulos": [
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50
+   ],
+   "resumo": "Deus usa a traição sofrida por José para salvar sua família."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "No princípio, Deus",
+   "chave": "1:1",
+   "resumo": "Deus cria os céus e a terra e, pela sua palavra, organiza o mundo em seis dias: luz, céu, terra seca, plantas, astros, peixes, aves e animais. No sexto dia cria o ser humano, homem e mulher, à sua imagem, e lhe dá a tarefa de cuidar da criação. Ao final, Deus vê que tudo era \"bom em grande maneira\".",
+   "licoes": [
+    "Tudo o que existe tem origem em Deus, que cria pela sua palavra (1:1, 1:3).",
+    "Todo ser humano, homem e mulher, carrega a imagem de Deus e por isso tem dignidade (1:27).",
+    "A humanidade recebe a missão de cuidar e governar a criação como representante de Deus (1:28).",
+    "A criação, em sua origem, é boa; o mal não faz parte do projeto original (1:31)."
+   ],
+   "reflexao": "Como saber que você foi criado à imagem de Deus muda a forma como você vê a si mesmo e os outros?",
+   "quiz": [
+    {
+     "pergunta": "Em que dia Deus criou o ser humano?",
+     "opcoes": [
+      "No sexto dia",
+      "No quarto dia",
+      "No primeiro dia",
+      "No sétimo dia"
+     ],
+     "correta": 0,
+     "ref": "1:31"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "O jardim e o primeiro casal",
+   "chave": "2:7",
+   "resumo": "Deus termina a obra e abençoa o sétimo dia, em que repousou. O texto então se aproxima: o SENHOR Deus forma o homem do pó, sopra nele vida e o coloca no jardim do Éden para cultivá-lo e guardá-lo, com uma única proibição. Vendo que não era bom o homem estar só, Deus forma a mulher, e os dois se tornam uma só carne.",
+   "licoes": [
+    "O descanso do sétimo dia mostra que a vida não se resume ao trabalho; Deus o abençoou e santificou (2:2-3).",
+    "A vida humana é dom direto de Deus, que sopra o fôlego de vida (2:7).",
+    "Trabalhar e cuidar da terra faz parte do propósito de Deus desde o início (2:15).",
+    "O casamento é apresentado como união profunda entre homem e mulher, planejada por Deus (2:18, 2:24)."
+   ],
+   "reflexao": "Você tem respeitado o ritmo de trabalho e descanso que Deus colocou na criação?",
+   "quiz": [
+    {
+     "pergunta": "Qual árvore Deus proibiu o homem de comer?",
+     "opcoes": [
+      "A árvore da vida",
+      "A árvore do conhecimento do bem e do mal",
+      "A figueira",
+      "A oliveira"
+     ],
+     "correta": 1,
+     "ref": "2:17"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "A queda no jardim",
+   "chave": "3:15",
+   "resumo": "A serpente coloca em dúvida a palavra de Deus, e a mulher e o homem comem do fruto proibido. Seus olhos se abrem, sentem vergonha e se escondem. Deus os procura, anuncia as consequências do pecado para a serpente, a mulher e o homem, mas também promete que a descendência da mulher ferirá a cabeça da serpente. Deus os veste com peles e os retira do jardim.",
+   "licoes": [
+    "A tentação começa questionando e distorcendo o que Deus disse (3:1, 3:4-5).",
+    "O pecado rompe a comunhão: o casal se esconde e passa a culpar o outro (3:8, 3:12-13).",
+    "Mesmo no juízo, Deus vai atrás do ser humano e pergunta \"Onde estás?\" (3:9).",
+    "Deus anuncia que a descendência da mulher vencerá a serpente, a primeira promessa de esperança (3:15)."
+   ],
+   "reflexao": "Em que área da sua vida você tem se escondido de Deus em vez de responder ao seu chamado?",
+   "quiz": [
+    {
+     "pergunta": "Com o que o homem e a mulher cobriram a nudez logo após comer o fruto?",
+     "opcoes": [
+      "Folhas de figueira",
+      "Peles de animais",
+      "Linho fino",
+      "Folhas de palmeira"
+     ],
+     "correta": 0,
+     "ref": "3:7"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Caim e Abel",
+   "chave": "4:7",
+   "resumo": "Caim, lavrador, e Abel, pastor, apresentam ofertas ao SENHOR, que se agrada de Abel e de sua oferta. Caim se irrita, não ouve o aviso de Deus sobre o pecado à porta e mata o irmão. Deus o condena a ser errante, mas o protege com um sinal. A linhagem de Caim desenvolve cidades e ofícios, mas também a violência de Lameque; nasce Sete, e os homens começam a invocar o nome do SENHOR.",
+   "licoes": [
+    "Deus olha para o coração de quem oferta, não só para a oferta (4:4-5).",
+    "O pecado é como uma fera à porta, e somos chamados a dominá-lo (4:7).",
+    "Somos responsáveis pelo nosso próximo; a pergunta de Caim recebe resposta do próprio Deus (4:9-10).",
+    "Mesmo após o crime, Deus limita a violência e protege Caim (4:15)."
+   ],
+   "reflexao": "Há alguma raiva ou inveja \"à porta\" do seu coração que você precisa dominar hoje?",
+   "quiz": [
+    {
+     "pergunta": "Qual era a profissão de Abel?",
+     "opcoes": [
+      "Lavrador",
+      "Ferreiro",
+      "Músico",
+      "Pastor de ovelhas"
+     ],
+     "correta": 3,
+     "ref": "4:2"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "De Adão a Noé",
+   "chave": "5:24",
+   "resumo": "O capítulo traz a genealogia de Adão até Noé e seus filhos, por meio de Sete. A repetição \"e morreu\" mostra que a morte passou a reinar sobre todos. Em meio a ela se destaca Enoque, que caminhou com Deus e foi levado por ele. Lameque dá ao filho o nome de Noé, esperando alívio do trabalho na terra amaldiçoada.",
+   "licoes": [
+    "Todos são criados à semelhança de Deus, e essa imagem é transmitida às gerações (5:1-3).",
+    "A frase repetida \"e morreu\" mostra a seriedade das consequências do pecado (5:5, 5:8).",
+    "Enoque mostra que é possível caminhar com Deus em meio a um mundo marcado pela morte (5:22, 5:24).",
+    "O nascimento de Noé é recebido com esperança de alívio (5:29)."
+   ],
+   "reflexao": "O que significaria, no seu dia a dia, \"caminhar com Deus\" como Enoque?",
+   "quiz": [
+    {
+     "pergunta": "Quantos anos viveu Matusalém?",
+     "opcoes": [
+      "930 anos",
+      "365 anos",
+      "969 anos",
+      "777 anos"
+     ],
+     "correta": 2,
+     "ref": "5:27"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "A maldade cresce e Noé constrói a arca",
+   "chave": "6:8",
+   "resumo": "A humanidade se multiplica e a maldade se espalha, a ponto de todo desígnio do coração humano ser mau. Deus se entristece e decide trazer um dilúvio. Mas Noé, homem justo que andava com Deus, acha favor diante dele e recebe instruções para construir uma arca, onde entrará com sua família e casais de animais. Noé faz tudo como Deus mandou.",
+   "licoes": [
+    "Deus não é indiferente ao mal; a violência e a corrupção o entristecem (6:5-6, 6:11).",
+    "A graça vem antes da obra: Noé \"achou favor\" aos olhos do SENHOR (6:8).",
+    "Deus promete estabelecer seu pacto com Noé em meio ao juízo (6:18).",
+    "A fé verdadeira se mostra em obediência completa (6:22)."
+   ],
+   "reflexao": "Em que você precisa obedecer a Deus mesmo quando as pessoas ao redor seguem outro caminho?",
+   "quiz": [
+    {
+     "pergunta": "De que madeira Noé devia fazer a arca?",
+     "opcoes": [
+      "Cedro",
+      "Acácia",
+      "Oliveira",
+      "Gôfer"
+     ],
+     "correta": 3,
+     "ref": "6:14"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "O dilúvio",
+   "chave": "7:1",
+   "resumo": "Deus manda Noé entrar na arca com a família e os animais, e Noé obedece. Aos seiscentos anos de Noé, as fontes do abismo se rompem e chove quarenta dias e quarenta noites. O próprio SENHOR fecha a porta da arca. As águas cobrem os montes, e toda criatura que respirava fora da arca morre; só Noé e os que estavam com ele sobrevivem.",
+   "licoes": [
+    "Deus reconhece a justiça de Noé em meio a uma geração corrompida (7:1).",
+    "A obediência de Noé é repetida e completa (7:5, 7:9).",
+    "É o SENHOR quem fecha a porta: a salvação depende dele (7:16).",
+    "O juízo de Deus sobre o pecado é real e sério (7:21-23)."
+   ],
+   "reflexao": "Você leva a sério tanto a bondade de Deus quanto a seriedade do juízo sobre o mal?",
+   "quiz": [
+    {
+     "pergunta": "Quem fechou a porta da arca?",
+     "opcoes": [
+      "Noé",
+      "O SENHOR",
+      "Sem",
+      "Jafé"
+     ],
+     "correta": 1,
+     "ref": "7:16"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "As águas baixam",
+   "chave": "8:1",
+   "resumo": "Deus se lembra de Noé, e as águas começam a baixar; a arca repousa sobre os montes de Ararate. Noé envia um corvo e depois uma pomba, que volta com uma folha de oliveira. Ao sair da arca, Noé constrói um altar e oferece sacrifícios. O SENHOR promete não amaldiçoar mais a terra e garante que as estações não cessarão.",
+   "licoes": [
+    "\"Lembrou-se Deus\" mostra que ele não abandona os seus (8:1).",
+    "A espera paciente de Noé ensina a confiar no tempo de Deus (8:10-12).",
+    "A primeira atitude de Noé em terra firme é adorar (8:20).",
+    "A regularidade das estações é sinal da fidelidade de Deus (8:22)."
+   ],
+   "reflexao": "Depois de passar por uma tempestade, qual tem sido sua primeira resposta a Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que a pomba trouxe no bico?",
+     "opcoes": [
+      "Uma folha de oliveira",
+      "Um ramo de videira",
+      "Um grão de trigo",
+      "Uma flor"
+     ],
+     "correta": 0,
+     "ref": "8:11"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "O pacto do arco-íris",
+   "chave": "9:13",
+   "resumo": "Deus abençoa Noé e seus filhos, permite comer carne mas proíbe comer o sangue, e afirma o valor da vida humana, feita à imagem de Deus. Ele faz um pacto com Noé e com toda criatura de nunca mais destruir a terra com dilúvio, e põe o arco nas nuvens como sinal. Depois Noé se embriaga; Cam vê sua nudez, enquanto Sem e Jafé o cobrem, e Noé pronuncia maldição sobre Canaã e bênção sobre Sem e Jafé.",
+   "licoes": [
+    "A vida humana é sagrada porque o ser humano foi feito à imagem de Deus (9:6).",
+    "O pacto com Noé é feito com toda a criação e não depende do mérito humano (9:9-11).",
+    "O arco nas nuvens lembra a fidelidade de Deus às suas promessas (9:13-16).",
+    "Até um homem justo como Noé pode cair; honrar e cobrir a vergonha do outro é atitude digna (9:21, 9:23)."
+   ],
+   "reflexao": "Que sinal da fidelidade de Deus você pode lembrar hoje?",
+   "quiz": [
+    {
+     "pergunta": "Qual foi o sinal do pacto de Deus com Noé?",
+     "opcoes": [
+      "Um altar de pedras",
+      "O arco nas nuvens",
+      "A circuncisão",
+      "Uma estrela"
+     ],
+     "correta": 1,
+     "ref": "9:13"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "titulo": "A tabela das nações",
+   "chave": "10:32",
+   "resumo": "O capítulo lista os descendentes de Jafé, Cam e Sem, mostrando como os povos se espalharam pela terra, cada um com sua língua, terra e nação. Destacam-se Ninrode, poderoso caçador e fundador de cidades como Babel e Nínive, e os povos cananeus. Na linhagem de Sem aparece Héber, de quem vêm os hebreus.",
+   "licoes": [
+    "Todos os povos da terra têm uma origem comum na família de Noé (10:32).",
+    "A diversidade de línguas e nações faz parte da história que Deus conduz (10:5, 10:31).",
+    "O poder humano de Ninrode e suas cidades prepara o relato de Babel (10:8-10).",
+    "A linhagem de Sem e Héber prepara o caminho para Abrão (10:21, 10:25)."
+   ],
+   "reflexao": "Como enxergar todos os povos como parte de uma mesma família humana muda suas atitudes?",
+   "quiz": [
+    {
+     "pergunta": "Quem é descrito como \"vigoroso caçador diante do SENHOR\"?",
+     "opcoes": [
+      "Héber",
+      "Ninrode",
+      "Assur",
+      "Canaã"
+     ],
+     "correta": 1,
+     "ref": "10:9"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "titulo": "A torre de Babel",
+   "chave": "11:4",
+   "resumo": "Toda a terra fala uma só língua, e os homens decidem construir uma cidade e uma torre que chegue ao céu, para fazer um nome para si. O SENHOR desce, confunde suas línguas e os espalha pela terra; a cidade passa a se chamar Babel. Segue a genealogia de Sem até Terá, pai de Abrão, que sai de Ur dos caldeus e para em Harã. Sarai, mulher de Abrão, é estéril.",
+   "licoes": [
+    "O orgulho humano busca \"fazer um nome\" sem Deus (11:4).",
+    "Nenhuma obra humana está fora do alcance de Deus, que \"desceu para ver\" (11:5).",
+    "Deus resiste ao projeto orgulhoso espalhando os povos (11:8-9).",
+    "A esterilidade de Sarai prepara o cenário para a promessa que Deus fará (11:30)."
+   ],
+   "reflexao": "Em que você tem tentado \"fazer um nome\" para si em vez de buscar a glória de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Onde os homens construíram a torre?",
+     "opcoes": [
+      "Na terra de Sinear",
+      "Em Ur",
+      "No Egito",
+      "Em Canaã"
+     ],
+     "correta": 0,
+     "ref": "11:2"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "titulo": "O chamado de Abrão",
+   "chave": "12:2-3",
+   "resumo": "Deus chama Abrão para deixar sua terra e parentela e ir para uma terra que lhe mostraria, prometendo fazer dele uma grande nação e abençoar nele todas as famílias da terra. Abrão obedece aos setenta e cinco anos e chega a Canaã, onde constrói altares. Por causa da fome desce ao Egito e, com medo, diz que Sarai é sua irmã; Deus fere a casa de Faraó e protege Sarai.",
+   "licoes": [
+    "A fé começa respondendo ao chamado de Deus sem ver todo o caminho (12:1, 12:4).",
+    "Deus abençoa Abrão para que ele seja bênção para todas as famílias da terra (12:2-3).",
+    "Abrão marca sua caminhada com altares e adoração (12:7-8).",
+    "Mesmo quando o homem de fé falha por medo, Deus permanece fiel à promessa (12:13, 12:17)."
+   ],
+   "reflexao": "Que passo de confiança Deus pode estar pedindo de você agora?",
+   "quiz": [
+    {
+     "pergunta": "Quantos anos Abrão tinha quando saiu de Harã?",
+     "opcoes": [
+      "Setenta e cinco",
+      "Noventa e nove",
+      "Cem",
+      "Sessenta"
+     ],
+     "correta": 0,
+     "ref": "12:4"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "titulo": "Abrão e Ló se separam",
+   "chave": "13:8",
+   "resumo": "Abrão volta do Egito rico e retorna ao altar em Betel. Como os rebanhos dele e de Ló são grandes demais, surgem brigas entre os pastores. Abrão propõe a separação e deixa Ló escolher primeiro; Ló escolhe a planície bem regada do Jordão, perto de Sodoma. Deus renova a promessa da terra e de descendência numerosa, e Abrão se estabelece em Hebrom.",
+   "licoes": [
+    "Abrão valoriza a paz entre irmãos acima das vantagens materiais (13:8-9).",
+    "Escolhas feitas só pela aparência podem nos aproximar do mal (13:10-13).",
+    "Quem abre mão confiando em Deus não perde: o SENHOR renova a promessa (13:14-16).",
+    "Voltar ao altar é voltar ao lugar da comunhão com Deus (13:4, 13:18)."
+   ],
+   "reflexao": "Você tem escolhido pelo que agrada aos olhos ou pelo que agrada a Deus?",
+   "quiz": [
+    {
+     "pergunta": "Qual região Ló escolheu?",
+     "opcoes": [
+      "As montanhas de Betel",
+      "A terra do Egito",
+      "O deserto do Sul",
+      "A planície do Jordão"
+     ],
+     "correta": 3,
+     "ref": "13:11"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "titulo": "Abrão resgata Ló e encontra Melquisedeque",
+   "chave": "14:19-20",
+   "resumo": "Uma coalizão de quatro reis derrota os reis de Sodoma e Gomorra e leva Ló prisioneiro. Abrão arma os servos de sua casa, persegue os invasores e recupera Ló e todos os bens. Na volta, Melquisedeque, rei de Salém e sacerdote do Deus Altíssimo, traz pão e vinho e abençoa Abrão. Abrão recusa ficar com os bens oferecidos pelo rei de Sodoma.",
+   "licoes": [
+    "O amor ao parente leva Abrão a agir com coragem, mesmo depois que Ló escolheu o melhor para si (14:14-16).",
+    "A vitória vem do Deus Altíssimo, que entrega os inimigos (14:20).",
+    "Abrão reconhece a bênção de Deus por meio de Melquisedeque e entrega o dízimo (14:18-20).",
+    "Abrão não quer que ninguém além de Deus receba o crédito por sua riqueza (14:22-23)."
+   ],
+   "reflexao": "De quem você quer que venha o reconhecimento pelo que você conquista?",
+   "quiz": [
+    {
+     "pergunta": "Quantos servos treinados Abrão levou para resgatar Ló?",
+     "opcoes": [
+      "Trezentos e dezoito",
+      "Cento e vinte",
+      "Mil",
+      "Setenta"
+     ],
+     "correta": 0,
+     "ref": "14:14"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "titulo": "O pacto com Abrão",
+   "chave": "15:6",
+   "resumo": "Deus diz a Abrão que não tema, pois ele é seu escudo. Abrão lamenta não ter filho, e Deus promete um herdeiro de seu próprio corpo e descendência como as estrelas do céu. Abrão crê, e isso lhe é contado por justiça. Numa cerimônia com animais partidos, Deus passa entre as metades como fogo e faz um pacto, anunciando também a escravidão futura e a libertação de seus descendentes.",
+   "licoes": [
+    "Deus responde às perguntas sinceras e às dúvidas de quem crê (15:2-5).",
+    "Abrão é declarado justo porque crê na promessa de Deus (15:6).",
+    "No pacto, é Deus quem passa entre os animais e se compromete com a promessa (15:17-18).",
+    "Deus conhece o futuro e conduz a história com paciência e justiça (15:13-16)."
+   ],
+   "reflexao": "Que promessa de Deus você precisa voltar a crer hoje?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus mandou Abrão tentar contar para entender o tamanho de sua descendência?",
+     "opcoes": [
+      "As estrelas do céu",
+      "A areia do mar",
+      "As folhas das árvores",
+      "Os grãos de trigo"
+     ],
+     "correta": 0,
+     "ref": "15:5"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "titulo": "Agar e o Deus que vê",
+   "chave": "16:13",
+   "resumo": "Como Sarai não tinha filhos, ela entrega a serva egípcia Agar a Abrão, e Agar engravida. Surgem desprezo e conflito, e Sarai maltrata Agar, que foge para o deserto. O anjo do SENHOR a encontra junto a uma fonte, manda-a voltar e promete multiplicar sua descendência. Agar chama o SENHOR de \"Deus da vista\" e dá à luz Ismael.",
+   "licoes": [
+    "Tentar cumprir a promessa de Deus com soluções humanas gera dor e conflito (16:2, 16:4-5).",
+    "Deus vê e busca até a pessoa rejeitada e fugitiva (16:7-8).",
+    "Agar descobre que o SENHOR é o Deus que a vê (16:13).",
+    "Deus também tem planos e promessas para quem está à margem da história principal (16:10-11)."
+   ],
+   "reflexao": "Em que situação você precisa lembrar que Deus vê você?",
+   "quiz": [
+    {
+     "pergunta": "Qual nome Agar deu ao filho, conforme o anjo indicou?",
+     "opcoes": [
+      "Isaque",
+      "Esaú",
+      "Moabe",
+      "Ismael"
+     ],
+     "correta": 3,
+     "ref": "16:11"
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "titulo": "Abraão e o sinal da circuncisão",
+   "chave": "17:7",
+   "resumo": "Aos noventa e nove anos, Abrão ouve Deus se apresentar como Todo-Poderoso e chamá-lo a andar diante dele. Deus muda seu nome para Abraão, \"pai de multidão de nações\", e o de Sarai para Sara, prometendo que ela terá um filho, Isaque. A circuncisão é dada como sinal do pacto. Abraão ri da promessa, mas obedece e circuncida toda a sua casa no mesmo dia.",
+   "licoes": [
+    "Deus chama seu povo a andar diante dele com integridade (17:1).",
+    "Novos nomes expressam a nova identidade que vem da promessa de Deus (17:5, 17:15).",
+    "O pacto é eterno e inclui a descendência de Abraão (17:7).",
+    "Abraão responde com obediência imediata (17:23, 17:26)."
+   ],
+   "reflexao": "Que nova identidade Deus deu a você, e como ela muda suas atitudes?",
+   "quiz": [
+    {
+     "pergunta": "Qual novo nome Deus deu a Sarai?",
+     "opcoes": [
+      "Rebeca",
+      "Raquel",
+      "Sara",
+      "Milca"
+     ],
+     "correta": 2,
+     "ref": "17:15"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "titulo": "Visita em Manre e intercessão por Sodoma",
+   "chave": "18:14",
+   "resumo": "Abraão recebe três visitantes com generosa hospitalidade. O SENHOR anuncia que Sara terá um filho dentro de um ano; Sara ri, e Deus pergunta se há algo difícil para ele. Depois, o SENHOR revela a Abraão o juízo sobre Sodoma, e Abraão intercede, perguntando se a cidade seria poupada por cinquenta, depois quarenta, até dez justos.",
+   "licoes": [
+    "A hospitalidade generosa abre espaço para encontros com Deus (18:2-5).",
+    "Nada é difícil demais para o SENHOR (18:14).",
+    "Deus revela seus planos a quem ele chamou para ensinar justiça à sua casa (18:17-19).",
+    "A intercessão de Abraão apela à justiça e à misericórdia do Juiz de toda a terra (18:23-25, 18:32)."
+   ],
+   "reflexao": "Por quem você poderia interceder hoje com a ousadia humilde de Abraão?",
+   "quiz": [
+    {
+     "pergunta": "Por quantos justos o SENHOR disse que não destruiria a cidade, no último pedido de Abraão?",
+     "opcoes": [
+      "Cinquenta",
+      "Trinta",
+      "Dez",
+      "Vinte"
+     ],
+     "correta": 2,
+     "ref": "18:32"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "titulo": "A destruição de Sodoma",
+   "chave": "19:16",
+   "resumo": "Dois anjos chegam a Sodoma e são acolhidos por Ló, mas os homens da cidade cercam a casa querendo abusar deles. Os anjos ferem os agressores com cegueira e mandam Ló fugir com a família. Ló hesita, e os anjos o puxam pela mão. O SENHOR faz chover enxofre e fogo sobre Sodoma e Gomorra; a mulher de Ló olha para trás e vira estátua de sal. Depois, as filhas de Ló o embriagam, e delas nascem Moabe e Ben-Ami.",
+   "licoes": [
+    "A maldade de Sodoma se mostra na violência contra os estrangeiros (19:4-5).",
+    "Deus é misericordioso até com quem hesita, puxando Ló pela mão (19:16).",
+    "Olhar para trás com apego ao que Deus está julgando é perigoso (19:17, 19:26).",
+    "Deus se lembra de Abraão e livra Ló por causa da intercessão (19:29)."
+   ],
+   "reflexao": "Há algo que Deus mandou você deixar, mas a que você ainda se apega olhando para trás?",
+   "quiz": [
+    {
+     "pergunta": "Para qual cidade pequena Ló fugiu?",
+     "opcoes": [
+      "Gomorra",
+      "Admá",
+      "Zoar",
+      "Zeboim"
+     ],
+     "correta": 2,
+     "ref": "19:22-23"
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "titulo": "Abraão e Abimeleque",
+   "chave": "20:6",
+   "resumo": "Em Gerar, Abraão volta a dizer que Sara é sua irmã, e o rei Abimeleque a toma. Deus aparece em sonho a Abimeleque e o adverte; o rei, que não havia tocado em Sara, devolve-a e repreende Abraão. Abraão explica seu medo, ora por Abimeleque, e Deus cura a casa do rei.",
+   "licoes": [
+    "Abraão repete um erro antigo por medo, mostrando que a fé amadurece aos poucos (20:2, 20:11).",
+    "Deus protege a promessa mesmo quando seus servos falham (20:3, 20:6).",
+    "Pressupor que \"não há temor de Deus\" nos outros pode nos levar a agir mal (20:11).",
+    "Mesmo falho, Abraão ora, e Deus ouve sua oração (20:17)."
+   ],
+   "reflexao": "Há algum erro que você repete por medo? Como confiar mais em Deus nessa área?",
+   "quiz": [
+    {
+     "pergunta": "Como Deus advertiu Abimeleque?",
+     "opcoes": [
+      "Por um profeta",
+      "Por uma praga de gafanhotos",
+      "Em sonho, de noite",
+      "Por meio de Sara"
+     ],
+     "correta": 2,
+     "ref": "20:3"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "titulo": "Nasce Isaque",
+   "chave": "21:1-2",
+   "resumo": "O SENHOR cumpre a promessa, e Sara dá à luz Isaque quando Abraão tem cem anos; ela diz que Deus a fez rir. No dia em que Isaque é desmamado, Sara pede que Agar e Ismael sejam mandados embora. No deserto, quando a água acaba, Deus ouve a voz do menino, mostra uma fonte a Agar e promete fazer de Ismael uma grande nação. Abraão faz aliança com Abimeleque em Berseba.",
+   "licoes": [
+    "Deus cumpre suas promessas no tempo que ele mesmo determinou (21:1-2).",
+    "O riso de incredulidade se transforma em riso de alegria (21:6).",
+    "Deus ouve o choro dos que são mandados embora e cuida deles (21:17-19).",
+    "Abraão invoca o nome do SENHOR, o Deus eterno, em Berseba (21:33)."
+   ],
+   "reflexao": "Que promessa cumprida por Deus na sua vida merece ser celebrada?",
+   "quiz": [
+    {
+     "pergunta": "Quantos anos Abraão tinha quando Isaque nasceu?",
+     "opcoes": [
+      "Noventa",
+      "Setenta e cinco",
+      "Cem",
+      "Cento e vinte"
+     ],
+     "correta": 2,
+     "ref": "21:5"
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "titulo": "O SENHOR proverá",
+   "chave": "22:14",
+   "resumo": "Deus prova Abraão pedindo que ofereça Isaque, seu único filho, em holocausto na terra de Moriá. Abraão obedece; no caminho, diz a Isaque que Deus proverá o cordeiro. Quando Abraão estende a mão, o anjo do SENHOR o detém, e Abraão encontra um carneiro preso no arbusto para oferecer no lugar do filho. Deus confirma com juramento a bênção para todas as nações.",
+   "licoes": [
+    "Deus prova a fé de quem ele ama, e a fé se mostra em obediência (22:1-3).",
+    "Abraão confia que Deus proverá, mesmo sem entender (22:8).",
+    "Deus providencia um substituto: o carneiro morre no lugar de Isaque (22:13-14).",
+    "A obediência de Abraão é ligada à bênção de todas as nações (22:18)."
+   ],
+   "reflexao": "O que você tem dificuldade de entregar a Deus, confiando que ele proverá?",
+   "quiz": [
+    {
+     "pergunta": "Que nome Abraão deu ao lugar do sacrifício?",
+     "opcoes": [
+      "Betel",
+      "Deus da vista",
+      "O SENHOR proverá",
+      "Berseba"
+     ],
+     "correta": 2,
+     "ref": "22:14"
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "titulo": "A morte de Sara",
+   "chave": "23:4",
+   "resumo": "Sara morre aos cento e vinte e sete anos em Hebrom, e Abraão chora por ela. Como estrangeiro na terra, ele negocia com os filhos de Hete a compra da caverna de Macpela. Efrom oferece de presente, mas Abraão insiste em pagar quatrocentos siclos de prata. Sara é sepultada ali, na primeira propriedade de Abraão em Canaã.",
+   "licoes": [
+    "O luto é legítimo; Abraão chora sua esposa (23:2).",
+    "Abraão se reconhece peregrino e estrangeiro, vivendo pela promessa (23:4).",
+    "A integridade aparece em negociar de forma justa e pública (23:13, 23:16).",
+    "A pequena posse da caverna é um sinal de que a promessa da terra é real (23:20)."
+   ],
+   "reflexao": "Como você tem vivido o luto e a esperança diante das perdas?",
+   "quiz": [
+    {
+     "pergunta": "Quanto Abraão pagou pelo campo e pela caverna de Macpela?",
+     "opcoes": [
+      "Trinta siclos",
+      "Cem siclos",
+      "Quatrocentos siclos de prata",
+      "Mil siclos de ouro"
+     ],
+     "correta": 2,
+     "ref": "23:15-16"
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "titulo": "Uma esposa para Isaque",
+   "chave": "24:27",
+   "resumo": "Abraão envia seu servo mais velho à terra de sua parentela para buscar uma esposa para Isaque. Junto ao poço, o servo ora pedindo um sinal, e Rebeca oferece água a ele e aos camelos. O servo adora a Deus e conta a história à família de Rebeca, que reconhece a mão do SENHOR. Rebeca aceita ir, e Isaque a recebe como esposa e a ama.",
+   "licoes": [
+    "A oração pode guiar decisões práticas do dia a dia (24:12-14).",
+    "Deus responde e conduz o caminho de quem o busca (24:15, 24:27).",
+    "O servo agradece e adora logo que vê a resposta (24:26-27).",
+    "Rebeca demonstra generosidade e coragem ao dizer \"Sim, irei\" (24:19, 24:58)."
+   ],
+   "reflexao": "Você tem levado suas decisões a Deus em oração, como o servo de Abraão?",
+   "quiz": [
+    {
+     "pergunta": "O que Rebeca ofereceu além de dar água ao servo?",
+     "opcoes": [
+      "Um pedaço de pão",
+      "Tirar água também para os camelos",
+      "Um lugar para dormir na tenda dela",
+      "Um presente de ouro"
+     ],
+     "correta": 1,
+     "ref": "24:19"
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "titulo": "Jacó e Esaú",
+   "chave": "25:23",
+   "resumo": "Abraão morre em boa velhice e é sepultado por Isaque e Ismael; segue a lista dos descendentes de Ismael. Isaque ora por Rebeca, que era estéril, e ela concebe gêmeos que lutam no ventre; o SENHOR anuncia que o maior servirá ao menor. Nascem Esaú e Jacó. Já adultos, Esaú, cansado e faminto, vende a primogenitura a Jacó por um prato de lentilhas.",
+   "licoes": [
+    "Deus cumpre sua palavra a Abraão até o fim da vida dele (25:8).",
+    "A oração de Isaque é ouvida, e Rebeca concebe (25:21).",
+    "Os planos de Deus não seguem necessariamente a ordem humana de privilégios (25:23).",
+    "Esaú despreza algo de grande valor por um desejo imediato (25:32-34)."
+   ],
+   "reflexao": "Há algo valioso que você corre o risco de trocar por uma satisfação passageira?",
+   "quiz": [
+    {
+     "pergunta": "Por que Esaú vendeu a primogenitura?",
+     "opcoes": [
+      "Por ouro e prata",
+      "Por um rebanho de ovelhas",
+      "Por um guisado de lentilhas e pão",
+      "Por um poço de água"
+     ],
+     "correta": 2,
+     "ref": "25:34"
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "titulo": "Isaque e os poços",
+   "chave": "26:24",
+   "resumo": "Durante uma fome, Deus manda Isaque ficar em Gerar e renova a ele as promessas feitas a Abraão. Isaque repete o erro do pai, dizendo que Rebeca é sua irmã. Deus o abençoa com colheitas de cem por um, e os filisteus, com inveja, tapam seus poços. Isaque abre novos poços sem brigar até achar espaço em Reobote; em Berseba, Deus lhe aparece, e Abimeleque faz aliança com ele.",
+   "licoes": [
+    "As promessas de Deus passam de uma geração a outra (26:3-4).",
+    "Deus abençoa o trabalho de Isaque mesmo em tempo de fome (26:12).",
+    "Isaque prefere ceder e cavar outro poço a viver em contenda (26:20-22).",
+    "Até os de fora reconhecem quando o SENHOR está com alguém (26:28)."
+   ],
+   "reflexao": "Em que conflito você pode escolher a paz, confiando que Deus abrirá espaço?",
+   "quiz": [
+    {
+     "pergunta": "Que nome Isaque deu ao poço pelo qual não houve briga?",
+     "opcoes": [
+      "Esek",
+      "Sitna",
+      "Seba",
+      "Reobote"
+     ],
+     "correta": 3,
+     "ref": "26:22"
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "titulo": "A bênção roubada",
+   "chave": "27:36",
+   "resumo": "Isaque, velho e quase cego, pede a Esaú que cace e prepare um guisado para receber a bênção. Rebeca planeja que Jacó se passe pelo irmão, vestindo as roupas de Esaú e peles de cabrito. Isaque desconfia da voz, mas abençoa Jacó. Quando Esaú chega, chora amargamente e recebe uma palavra menor; ele passa a odiar Jacó, e Rebeca manda Jacó fugir para a casa de Labão.",
+   "licoes": [
+    "O engano dentro da família gera feridas profundas (27:19, 27:34-35).",
+    "Favoritismos dos pais alimentam a divisão entre irmãos (27:5-6).",
+    "A bênção, uma vez dada, não é retirada; as palavras têm peso (27:33, 27:37).",
+    "O pecado tem consequências: Jacó precisa fugir do irmão (27:41-43)."
+   ],
+   "reflexao": "Há alguma área em que você tem tentado conseguir uma bênção por caminhos tortos?",
+   "quiz": [
+    {
+     "pergunta": "Com o que Rebeca cobriu as mãos e o pescoço de Jacó?",
+     "opcoes": [
+      "Lã de ovelha",
+      "Peles dos cabritos",
+      "Pano de linho",
+      "Couro de camelo"
+     ],
+     "correta": 1,
+     "ref": "27:16"
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "titulo": "A escada de Betel",
+   "chave": "28:15",
+   "resumo": "Isaque abençoa Jacó e o envia a Padã-Arã para buscar esposa na família de Rebeca. No caminho, Jacó dorme usando uma pedra como travesseiro e sonha com uma escada que liga a terra ao céu, com anjos subindo e descendo. O SENHOR renova a ele as promessas de Abraão e promete estar com ele. Jacó chama o lugar de Betel, \"casa de Deus\", e faz um voto.",
+   "licoes": [
+    "Deus vai ao encontro de Jacó mesmo quando ele foge por causa dos próprios erros (28:12-13).",
+    "A promessa de estar com Jacó \"por onde quer que fores\" sustenta toda a sua jornada (28:15).",
+    "Jacó descobre que Deus estava presente onde ele não percebia (28:16-17).",
+    "A resposta de Jacó é adoração e compromisso (28:18, 28:20-22)."
+   ],
+   "reflexao": "Onde Deus pode estar presente na sua vida sem que você tenha percebido?",
+   "quiz": [
+    {
+     "pergunta": "Que nome Jacó deu ao lugar do sonho?",
+     "opcoes": [
+      "Betel",
+      "Peniel",
+      "Maanaim",
+      "Siquém"
+     ],
+     "correta": 0,
+     "ref": "28:19"
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "titulo": "Jacó, Raquel e Lia",
+   "chave": "29:20",
+   "resumo": "Jacó chega a Harã e encontra Raquel junto ao poço; Labão o recebe em casa. Jacó se apaixona por Raquel e trabalha sete anos por ela, mas na noite do casamento Labão lhe entrega Lia. Jacó, o enganador, é enganado, e trabalha mais sete anos por Raquel. O SENHOR vê que Lia é desprezada e lhe dá filhos: Rúben, Simeão, Levi e Judá.",
+   "licoes": [
+    "O amor verdadeiro torna o esforço leve: sete anos \"pareceram poucos dias\" (29:20).",
+    "Quem engana também pode ser enganado; Jacó colhe o que plantou (29:25).",
+    "Deus vê a pessoa rejeitada e age a favor dela (29:31).",
+    "Lia passa da busca de amor do marido ao louvor a Deus (29:32, 29:35)."
+   ],
+   "reflexao": "Onde você tem buscado aprovação humana em vez de descansar no amor de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Por quantos anos Jacó trabalhou inicialmente por Raquel?",
+     "opcoes": [
+      "Três",
+      "Sete",
+      "Dez",
+      "Catorze"
+     ],
+     "correta": 1,
+     "ref": "29:18"
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "titulo": "A família cresce",
+   "chave": "30:22",
+   "resumo": "Raquel, com inveja da irmã, entrega sua serva Bila a Jacó, e Lia faz o mesmo com Zilpa; nascem Dã, Naftali, Gade e Aser. Lia ainda tem Issacar, Zebulom e Diná. Por fim, Deus se lembra de Raquel, que dá à luz José. Jacó combina seu salário com Labão, e, apesar das manobras de ambos, seus rebanhos se multiplicam muito.",
+   "licoes": [
+    "A rivalidade entre irmãs mostra como a inveja contamina o lar (30:1, 30:8).",
+    "Somente Deus dá a vida; Jacó reconhece que não está no lugar de Deus (30:2).",
+    "Deus se lembra de Raquel e ouve sua oração (30:22-24).",
+    "Até Labão reconhece que foi abençoado por causa de Jacó (30:27)."
+   ],
+   "reflexao": "A inveja tem roubado sua alegria em alguma área da vida?",
+   "quiz": [
+    {
+     "pergunta": "Qual foi o primeiro filho de Raquel?",
+     "opcoes": [
+      "Benjamim",
+      "Dã",
+      "Naftali",
+      "José"
+     ],
+     "correta": 3,
+     "ref": "30:24"
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "titulo": "Jacó volta para casa",
+   "chave": "31:3",
+   "resumo": "Percebendo a hostilidade de Labão e de seus filhos, Jacó recebe de Deus a ordem de voltar à terra de seus pais. Ele parte em segredo com as esposas, filhos e rebanhos, e Raquel furta os ídolos do pai. Labão os alcança, mas Deus o adverte em sonho. Jacó desabafa sobre os vinte anos de serviço, e os dois fazem uma aliança em Galeede/Mispá.",
+   "licoes": [
+    "Deus orienta a hora de partir e promete estar junto (31:3).",
+    "Deus protege Jacó mesmo quando Labão muda seu salário dez vezes (31:7, 31:42).",
+    "Deus intervém para impedir que Labão faça mal a Jacó (31:24, 31:29).",
+    "Acordos de paz podem encerrar longos conflitos, sob o olhar de Deus (31:44, 31:49)."
+   ],
+   "reflexao": "Você reconhece a proteção de Deus em situações em que foi tratado injustamente?",
+   "quiz": [
+    {
+     "pergunta": "Onde Raquel escondeu os ídolos do pai?",
+     "opcoes": [
+      "Debaixo da tenda de Lia",
+      "Na albarda do camelo, sentada sobre eles",
+      "Num poço",
+      "Entre as ovelhas"
+     ],
+     "correta": 1,
+     "ref": "31:34"
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "titulo": "A luta em Peniel",
+   "chave": "32:28",
+   "resumo": "Ao saber que Esaú vem ao seu encontro com quatrocentos homens, Jacó tem grande medo, divide seu acampamento e ora humildemente lembrando as promessas de Deus. Envia presentes generosos para apaziguar o irmão. À noite, sozinho junto ao ribeiro, luta com um homem até o amanhecer e não o solta sem receber bênção. Seu nome é mudado para Israel, e ele sai mancando, dizendo que viu Deus face a face.",
+   "licoes": [
+    "No medo, Jacó ora com humildade e se apoia nas promessas de Deus (32:9-12).",
+    "Jacó reconhece que é menor que todas as misericórdias recebidas (32:10).",
+    "Jacó persiste em buscar a bênção de Deus: \"Não te deixarei\" (32:26).",
+    "O encontro com Deus transforma a identidade e deixa marcas (32:28, 32:31)."
+   ],
+   "reflexao": "Em que luta você precisa se agarrar a Deus até receber sua bênção?",
+   "quiz": [
+    {
+     "pergunta": "Que novo nome Jacó recebeu em Peniel?",
+     "opcoes": [
+      "Abraão",
+      "Edom",
+      "Israel",
+      "Benjamim"
+     ],
+     "correta": 2,
+     "ref": "32:28"
+    }
+   ]
+  },
+  {
+   "n": 33,
+   "titulo": "O reencontro dos irmãos",
+   "chave": "33:4",
+   "resumo": "Jacó se aproxima de Esaú inclinando-se sete vezes. Esaú corre ao seu encontro, abraça-o, beija-o, e os dois choram. Jacó insiste que o irmão aceite seus presentes, dizendo que ver seu rosto é como ver o rosto de Deus. Os irmãos se separam em paz; Jacó se estabelece perto de Siquém e ergue um altar ao \"Deus, o Deus de Israel\".",
+   "licoes": [
+    "A humildade abre caminho para a reconciliação (33:3).",
+    "O medo de Jacó dá lugar a um abraço inesperado de perdão (33:4).",
+    "Jacó reconhece que tudo o que tem vem da misericórdia de Deus (33:11).",
+    "Jacó marca a nova etapa com um altar ao Deus de Israel (33:20)."
+   ],
+   "reflexao": "Com quem você precisa dar um passo em direção à reconciliação?",
+   "quiz": [
+    {
+     "pergunta": "Quantas vezes Jacó se inclinou diante de Esaú?",
+     "opcoes": [
+      "Três",
+      "Doze",
+      "Dez",
+      "Sete"
+     ],
+     "correta": 3,
+     "ref": "33:3"
+    }
+   ]
+  },
+  {
+   "n": 34,
+   "titulo": "Diná e a violência em Siquém",
+   "chave": "34:31",
+   "resumo": "Diná, filha de Jacó, é violentada por Siquém, filho do príncipe da região, que depois quer casar com ela. Os filhos de Jacó respondem com engano, exigindo que todos os homens da cidade sejam circuncidados. No terceiro dia, Simeão e Levi atacam e matam os homens, e os irmãos saqueiam a cidade. Jacó os repreende pelo perigo que trouxeram à família.",
+   "licoes": [
+    "A Bíblia relata com honestidade a violência sofrida por Diná, sem disfarçar o mal (34:2).",
+    "Usar o sinal sagrado da circuncisão para enganar é profanar o que é de Deus (34:13-15).",
+    "A vingança desmedida multiplica a injustiça (34:25-29).",
+    "A omissão e a reação tardia de Jacó também trazem consequências para a família (34:5, 34:30)."
+   ],
+   "reflexao": "Como você reage diante da injustiça: com silêncio, vingança ou busca de justiça verdadeira?",
+   "quiz": [
+    {
+     "pergunta": "Quais dois filhos de Jacó atacaram a cidade de Siquém?",
+     "opcoes": [
+      "Rúben e Judá",
+      "José e Benjamim",
+      "Dã e Naftali",
+      "Simeão e Levi"
+     ],
+     "correta": 3,
+     "ref": "34:25"
+    }
+   ]
+  },
+  {
+   "n": 35,
+   "titulo": "De volta a Betel",
+   "chave": "35:3",
+   "resumo": "Deus manda Jacó subir a Betel. Jacó ordena que sua família tire os deuses estrangeiros e se purifique, e lá constrói um altar. Deus confirma o nome Israel e renova as promessas. No caminho para Belém, Raquel morre ao dar à luz Benjamim. O capítulo lista os doze filhos de Jacó e termina com a morte de Isaque, sepultado por Esaú e Jacó.",
+   "licoes": [
+    "Voltar a Deus envolve abandonar os ídolos e se purificar (35:2-4).",
+    "Jacó lembra que Deus respondeu na angústia e esteve com ele no caminho (35:3).",
+    "Deus confirma a nova identidade e as promessas a Israel (35:10-12).",
+    "Mesmo no cumprimento das promessas há dor e perdas, como a morte de Raquel (35:18-19)."
+   ],
+   "reflexao": "Que \"deuses estrangeiros\" você precisa deixar para voltar ao altar de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Que nome Jacó deu ao filho que Raquel chamou de Benoni?",
+     "opcoes": [
+      "José",
+      "Dã",
+      "Naftali",
+      "Benjamim"
+     ],
+     "correta": 3,
+     "ref": "35:18"
+    }
+   ]
+  },
+  {
+   "n": 36,
+   "titulo": "Os descendentes de Esaú",
+   "chave": "36:8",
+   "resumo": "O capítulo registra a família de Esaú, também chamado Edom: suas esposas, filhos e chefes de clãs. Esaú se muda para o monte de Seir porque a terra não comportava os rebanhos dos dois irmãos. São listados também os horeus, antigos habitantes de Seir, e os reis que governaram Edom antes de haver rei em Israel.",
+   "licoes": [
+    "Deus cumpre também o que disse sobre Esaú, que se torna uma nação (36:8-9).",
+    "A separação pacífica de Jacó e Esaú lembra a de Abraão e Ló (36:6-7).",
+    "As genealogias mostram que a história de Deus inclui povos vizinhos de Israel (36:31)."
+   ],
+   "reflexao": "Você consegue reconhecer a mão de Deus também na vida de pessoas fora do seu círculo?",
+   "quiz": [
+    {
+     "pergunta": "Em qual região Esaú foi habitar?",
+     "opcoes": [
+      "Monte de Seir",
+      "Padã-Arã",
+      "Egito",
+      "Berseba"
+     ],
+     "correta": 0,
+     "ref": "36:8"
+    }
+   ]
+  },
+  {
+   "n": 37,
+   "titulo": "José é vendido pelos irmãos",
+   "chave": "37:4",
+   "resumo": "José, aos dezessete anos, é o filho preferido de Jacó e recebe dele uma roupa de diversas cores; os irmãos o odeiam. Ele conta sonhos em que os irmãos e os pais se inclinam diante dele, aumentando a inveja. Quando José vai procurá-los, eles planejam matá-lo; Rúben sugere lançá-lo numa cisterna e Judá propõe vendê-lo. José é vendido e levado ao Egito, e Jacó, enganado com a roupa manchada de sangue, chora inconsolável.",
+   "licoes": [
+    "O favoritismo dos pais pode alimentar ódio entre irmãos (37:3-4).",
+    "A inveja não tratada cresce até se tornar violência (37:11, 37:18-20).",
+    "O engano de Jacó no passado reaparece: agora ele é enganado pelos filhos (37:31-33).",
+    "Mesmo na traição, Deus está conduzindo José ao Egito (37:36)."
+   ],
+   "reflexao": "Há inveja ou ressentimento em você que precisa ser tratado antes que cresça?",
+   "quiz": [
+    {
+     "pergunta": "Quem sugeriu vender José em vez de matá-lo?",
+     "opcoes": [
+      "Rúben",
+      "Judá",
+      "Simeão",
+      "Levi"
+     ],
+     "correta": 1,
+     "ref": "37:26-27"
+    }
+   ]
+  },
+  {
+   "n": 38,
+   "titulo": "Judá e Tamar",
+   "chave": "38:26",
+   "resumo": "Judá se afasta dos irmãos e se casa com uma cananeia. Seus filhos Er e Onã morrem por fazer o que era mau diante do SENHOR, e Judá deixa de dar o terceiro filho, Selá, a Tamar, a viúva. Tamar se disfarça e engravida de Judá, guardando como prova o anel, o manto e o bordão dele. Quando é acusada, Judá reconhece: \"Mais justa é que eu\". Nascem os gêmeos Perez e Zerá.",
+   "licoes": [
+    "Deus leva a sério o mal praticado, mesmo dentro da família escolhida (38:7, 38:10).",
+    "A injustiça contra a viúva Tamar é exposta pelo próprio texto (38:11, 38:14).",
+    "Judá passa por uma virada ao reconhecer seu erro publicamente (38:26).",
+    "Deus continua a história por caminhos inesperados: de Perez virá a linhagem de Davi (38:29)."
+   ],
+   "reflexao": "Você tem coragem de reconhecer quando o outro é \"mais justo\" do que você?",
+   "quiz": [
+    {
+     "pergunta": "Que objetos Tamar pediu como penhor a Judá?",
+     "opcoes": [
+      "Ouro, prata e um camelo",
+      "Anel, manto e bordão",
+      "Uma túnica e sandálias",
+      "Um cabrito e uma ovelha"
+     ],
+     "correta": 1,
+     "ref": "38:18"
+    }
+   ]
+  },
+  {
+   "n": 39,
+   "titulo": "José na casa de Potifar",
+   "chave": "39:2",
+   "resumo": "José é comprado por Potifar, e o SENHOR está com ele, fazendo prosperar tudo o que faz; ele se torna mordomo da casa. A mulher de Potifar insiste dia após dia para que ele se deite com ela, mas José recusa, dizendo que seria pecado contra Deus. Ele foge deixando a roupa, e ela o acusa falsamente; José vai para a prisão, mas ali também o SENHOR está com ele e lhe dá favor.",
+   "licoes": [
+    "A presença de Deus acompanha José na escravidão e na prisão (39:2, 39:21).",
+    "José vê a tentação como pecado contra Deus, não só contra pessoas (39:9).",
+    "Às vezes a melhor resposta à tentação é fugir (39:12).",
+    "Fazer o certo pode trazer sofrimento injusto, mas Deus não abandona (39:20-23)."
+   ],
+   "reflexao": "Que tentação você precisa enfrentar lembrando que ela é contra Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que José deixou nas mãos da mulher de Potifar ao fugir?",
+     "opcoes": [
+      "Seu anel",
+      "Sua roupa",
+      "Seu cajado",
+      "Suas sandálias"
+     ],
+     "correta": 1,
+     "ref": "39:12"
+    }
+   ]
+  },
+  {
+   "n": 40,
+   "titulo": "Os sonhos do copeiro e do padeiro",
+   "chave": "40:8",
+   "resumo": "Na prisão, José serve o copeiro e o padeiro de Faraó, que têm sonhos perturbadores. José afirma que as interpretações pertencem a Deus e explica: em três dias o copeiro será restaurado e o padeiro será morto. Tudo acontece como ele disse. José pede ao copeiro que se lembre dele, mas o copeiro o esquece.",
+   "licoes": [
+    "José percebe a tristeza dos outros mesmo quando ele próprio sofre (40:6-7).",
+    "A sabedoria verdadeira vem de Deus: \"as interpretações são de Deus\" (40:8).",
+    "José fala a verdade mesmo quando a notícia é dura (40:18-19).",
+    "O esquecimento humano não impede o plano de Deus (40:23)."
+   ],
+   "reflexao": "Como você lida quando as pessoas se esquecem do bem que você fez?",
+   "quiz": [
+    {
+     "pergunta": "O que significavam os três sarmentos no sonho do copeiro?",
+     "opcoes": [
+      "Três dias",
+      "Três meses",
+      "Três anos",
+      "Três semanas"
+     ],
+     "correta": 0,
+     "ref": "40:12"
+    }
+   ]
+  },
+  {
+   "n": 41,
+   "titulo": "José governa o Egito",
+   "chave": "41:16",
+   "resumo": "Dois anos depois, Faraó tem dois sonhos que ninguém interpreta: vacas gordas e magras, espigas cheias e miúdas. O copeiro se lembra de José, que, levado a Faraó, diz que Deus dará a resposta: virão sete anos de fartura e sete de fome. José aconselha armazenar alimentos, e Faraó o coloca como governador sobre todo o Egito. José tem dois filhos, Manassés e Efraim, e administra os celeiros quando a fome chega.",
+   "licoes": [
+    "José dá a Deus o crédito pela sabedoria: \"Não está em mim\" (41:16).",
+    "Deus revela o futuro e dá sabedoria para agir com prudência (41:25, 41:33-36).",
+    "Depois de anos de espera, Deus exalta José no momento certo (41:40-41).",
+    "José reconhece a bondade de Deus até nos nomes dos filhos (41:51-52)."
+   ],
+   "reflexao": "Você tem reconhecido que seus talentos e conquistas vêm de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Que idade tinha José quando se apresentou diante de Faraó?",
+     "opcoes": [
+      "Trinta anos",
+      "Vinte anos",
+      "Dezessete anos",
+      "Quarenta anos"
+     ],
+     "correta": 0,
+     "ref": "41:46"
+    }
+   ]
+  },
+  {
+   "n": 42,
+   "titulo": "Os irmãos descem ao Egito",
+   "chave": "42:21",
+   "resumo": "Por causa da fome, Jacó envia dez filhos ao Egito para comprar trigo, mas retém Benjamim. Os irmãos se inclinam diante de José sem reconhecê-lo; ele os trata com dureza, acusa-os de espiões e prende Simeão, exigindo que tragam o irmão mais novo. Os irmãos admitem entre si a culpa pelo que fizeram a José. Na volta, encontram o dinheiro nos sacos, e Jacó se recusa a enviar Benjamim.",
+   "licoes": [
+    "Os sonhos de José começam a se cumprir quando os irmãos se inclinam diante dele (42:6, 42:9).",
+    "A consciência culpada desperta depois de muitos anos (42:21-22).",
+    "José chora em segredo: seu coração ainda ama os irmãos (42:24).",
+    "Jacó, marcado pela perda, tem dificuldade de confiar (42:36, 42:38)."
+   ],
+   "reflexao": "Há algum erro antigo que ainda pesa na sua consciência e precisa ser confessado?",
+   "quiz": [
+    {
+     "pergunta": "Qual irmão José deixou preso no Egito?",
+     "opcoes": [
+      "Simeão",
+      "Judá",
+      "Rúben",
+      "Levi"
+     ],
+     "correta": 0,
+     "ref": "42:24"
+    }
+   ]
+  },
+  {
+   "n": 43,
+   "titulo": "Benjamim no Egito",
+   "chave": "43:9",
+   "resumo": "A fome continua, e Judá convence Jacó a enviar Benjamim, colocando-se como fiador do irmão. Jacó manda presentes, dinheiro em dobro e ora para que o Deus Todo-Poderoso lhes dê misericórdia. Os irmãos são recebidos na casa de José e temem uma armadilha, mas o mordomo os tranquiliza. Ao ver Benjamim, José se emociona e sai para chorar; no banquete, a porção de Benjamim é cinco vezes maior.",
+   "licoes": [
+    "Judá, que antes vendeu José, agora se oferece como garantia pelo irmão (43:8-9).",
+    "Jacó entrega o controle a Deus: \"se eu tiver de ser privado de meus filhos, assim seja\" (43:14).",
+    "A paz oferecida pelo mordomo aponta para o cuidado de Deus (43:23).",
+    "José não consegue esconder seu amor pelo irmão (43:30)."
+   ],
+   "reflexao": "Por quem você está disposto a se responsabilizar, como Judá fez por Benjamim?",
+   "quiz": [
+    {
+     "pergunta": "Quantas vezes maior era a porção de Benjamim no banquete?",
+     "opcoes": [
+      "Duas",
+      "Três",
+      "Sete",
+      "Cinco"
+     ],
+     "correta": 3,
+     "ref": "43:34"
+    }
+   ]
+  },
+  {
+   "n": 44,
+   "titulo": "O copo de prata e a intercessão de Judá",
+   "chave": "44:33",
+   "resumo": "José manda esconder seu copo de prata no saco de Benjamim para testar os irmãos. O copo é encontrado, e todos voltam desesperados à cidade. José diz que só Benjamim ficará como escravo, mas Judá se aproxima e, num discurso comovente, conta a dor do pai e se oferece para ficar como escravo no lugar do irmão.",
+   "licoes": [
+    "Os irmãos agora permanecem juntos em vez de abandonar o irmão mais novo (44:13).",
+    "Judá reconhece que Deus descobriu a culpa deles (44:16).",
+    "Judá se preocupa com a dor do pai, algo que não fez quando venderam José (44:30-31, 44:34).",
+    "O verdadeiro arrependimento se mostra na disposição de se sacrificar pelo outro (44:33)."
+   ],
+   "reflexao": "Como o arrependimento verdadeiro tem mudado suas atitudes, e não só suas palavras?",
+   "quiz": [
+    {
+     "pergunta": "No saco de quem o copo de prata foi encontrado?",
+     "opcoes": [
+      "Rúben",
+      "Judá",
+      "Simeão",
+      "Benjamim"
+     ],
+     "correta": 3,
+     "ref": "44:12"
+    }
+   ]
+  },
+  {
+   "n": 45,
+   "titulo": "Eu sou José",
+   "chave": "45:5",
+   "resumo": "José não consegue mais se conter, manda sair os egípcios e se revela aos irmãos, chorando alto. Ele os tranquiliza dizendo que foi Deus quem o enviou adiante deles para preservar vidas. Pede que tragam Jacó para morar em Gósen, abraça Benjamim e beija todos os irmãos. Faraó apoia a mudança, e Jacó, ao ver os carros, crê que José está vivo.",
+   "licoes": [
+    "O perdão de José nasce de ver a mão de Deus por trás do sofrimento (45:5, 45:7-8).",
+    "Deus usa até o mal humano para preservar a vida de muitos (45:7).",
+    "A reconciliação é marcada por lágrimas e abraços (45:14-15).",
+    "José aconselha os irmãos a não brigarem pelo caminho (45:24)."
+   ],
+   "reflexao": "Há alguém que você precisa perdoar, olhando para a forma como Deus conduziu sua história?",
+   "quiz": [
+    {
+     "pergunta": "Em que terra José propôs que sua família morasse?",
+     "opcoes": [
+      "Siquém",
+      "Canaã",
+      "Gósen",
+      "Om"
+     ],
+     "correta": 2,
+     "ref": "45:10"
+    }
+   ]
+  },
+  {
+   "n": 46,
+   "titulo": "Jacó desce ao Egito",
+   "chave": "46:3-4",
+   "resumo": "Jacó parte com toda a família e, em Berseba, oferece sacrifícios. Deus fala com ele em visão: não tema descer ao Egito, pois ali fará dele uma grande nação e descerá com ele. O capítulo lista as pessoas da casa de Jacó que entraram no Egito, setenta ao todo. José vai ao encontro do pai em Gósen, e os dois choram abraçados.",
+   "licoes": [
+    "Antes de uma grande mudança, Jacó busca a Deus em adoração (46:1).",
+    "Deus promete estar presente: \"Eu descerei contigo ao Egito\" (46:3-4).",
+    "Cada nome importa: a família de setenta pessoas é o começo de uma nação (46:27).",
+    "O reencontro de pai e filho mostra a fidelidade de Deus depois de anos de dor (46:29-30)."
+   ],
+   "reflexao": "Que mudança você está enfrentando em que precisa ouvir \"não temas, eu irei contigo\"?",
+   "quiz": [
+    {
+     "pergunta": "Quantas pessoas da casa de Jacó entraram no Egito, segundo o texto?",
+     "opcoes": [
+      "Doze",
+      "Setenta",
+      "Quarenta",
+      "Cem"
+     ],
+     "correta": 1,
+     "ref": "46:27"
+    }
+   ]
+  },
+  {
+   "n": 47,
+   "titulo": "Jacó diante de Faraó",
+   "chave": "47:9",
+   "resumo": "José apresenta seus irmãos e seu pai a Faraó, e a família recebe a terra de Gósen. Jacó abençoa Faraó e descreve sua vida como uma peregrinação de cento e trinta anos. Durante a fome, José administra a crise: o povo entrega dinheiro, gado e terras em troca de alimento, e fica estabelecido o imposto de um quinto. Perto da morte, Jacó faz José jurar que o sepultará em Canaã.",
+   "licoes": [
+    "O velho peregrino Jacó abençoa o rei mais poderoso da época (47:7, 47:10).",
+    "A vida é descrita como peregrinação, curta e cheia de lutas (47:9).",
+    "José usa sabedoria e organização para preservar vidas na crise (47:23-25).",
+    "Jacó mantém os olhos na promessa da terra de Canaã (47:29-30)."
+   ],
+   "reflexao": "Você enxerga sua vida como uma peregrinação rumo às promessas de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Quantos anos Jacó disse ter ao falar com Faraó?",
+     "opcoes": [
+      "Cem",
+      "Cento e dez",
+      "Cento e trinta",
+      "Cento e quarenta e sete"
+     ],
+     "correta": 2,
+     "ref": "47:9"
+    }
+   ]
+  },
+  {
+   "n": 48,
+   "titulo": "Jacó abençoa Efraim e Manassés",
+   "chave": "48:15-16",
+   "resumo": "Jacó, doente, recebe José e seus dois filhos. Ele adota Efraim e Manassés como seus, dando-lhes parte entre as tribos. Ao abençoá-los, cruza as mãos e coloca a direita sobre Efraim, o mais novo. José tenta corrigir, mas Jacó afirma que o menor será maior. Jacó abençoa em nome do Deus que o pastoreou toda a vida.",
+   "licoes": [
+    "Jacó relembra a fidelidade de Deus desde Betel (48:3-4).",
+    "Deus foi o pastor de Jacó \"desde que eu existo até este dia\" (48:15).",
+    "A bênção de Deus muitas vezes inverte a ordem esperada (48:14, 48:19).",
+    "Jacó morre confiando que Deus levará seu povo de volta à terra (48:21)."
+   ],
+   "reflexao": "Como você contaria a história do cuidado de Deus como seu pastor até hoje?",
+   "quiz": [
+    {
+     "pergunta": "Sobre a cabeça de qual neto Jacó colocou a mão direita?",
+     "opcoes": [
+      "Manassés",
+      "Efraim",
+      "Benjamim",
+      "Maquir"
+     ],
+     "correta": 1,
+     "ref": "48:14"
+    }
+   ]
+  },
+  {
+   "n": 49,
+   "titulo": "As palavras de Jacó aos filhos",
+   "chave": "49:10",
+   "resumo": "Antes de morrer, Jacó reúne os doze filhos e pronuncia palavras sobre o futuro de cada um. Rúben perde a primazia, Simeão e Levi são repreendidos pela violência, e Judá recebe a promessa de que o cetro não se afastará dele. José é descrito como ramo frutífero fortalecido pelo Poderoso de Jacó. Jacó pede para ser sepultado na caverna de Macpela e morre.",
+   "licoes": [
+    "As escolhas do passado têm consequências para o futuro (49:4, 49:7).",
+    "A promessa do cetro de Judá aponta para um rei vindouro (49:10).",
+    "No meio das palavras aos filhos, Jacó declara sua esperança na salvação do SENHOR (49:18).",
+    "A força de José vem das mãos do Poderoso de Jacó (49:24-25)."
+   ],
+   "reflexao": "Que legado espiritual você quer deixar para quem vem depois de você?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Jacó, de qual tribo não seria tirado o cetro?",
+     "opcoes": [
+      "Rúben",
+      "Levi",
+      "José",
+      "Judá"
+     ],
+     "correta": 3,
+     "ref": "49:10"
+    }
+   ]
+  },
+  {
+   "n": 50,
+   "titulo": "Deus o encaminhou para o bem",
+   "chave": "50:20",
+   "resumo": "José chora o pai, que é embalsamado e levado com grande cortejo para ser sepultado em Macpela. Depois, os irmãos temem que José se vingue e pedem perdão. José chora e responde que não está no lugar de Deus: eles planejaram o mal, mas Deus o transformou em bem para preservar muitas vidas. José vive até os cento e dez anos e, antes de morrer, afirma que Deus visitará Israel e o levará de volta à terra prometida.",
+   "licoes": [
+    "O luto é vivido com honra e respeito (50:1, 50:10).",
+    "José se recusa a ocupar o lugar de Deus como juiz (50:19).",
+    "Deus pode transformar o mal planejado pelos homens em bem (50:20).",
+    "José morre confiando na promessa: \"Deus certamente vos visitará\" (50:24-25)."
+   ],
+   "reflexao": "Em que situação dolorosa você precisa confiar que Deus pode encaminhar para o bem?",
+   "quiz": [
+    {
+     "pergunta": "Com que idade José morreu?",
+     "opcoes": [
+      "Cento e dez anos",
+      "Cem anos",
+      "Cento e vinte anos",
+      "Cento e trinta anos"
+     ],
+     "correta": 0,
+     "ref": "50:26"
+    }
+   ]
+  }
+ ]
+}

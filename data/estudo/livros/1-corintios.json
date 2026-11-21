@@ -1,0 +1,510 @@
+{
+ "livro": "1-corintios",
+ "nome": "1 Coríntios",
+ "subtitulo": "Uma igreja com dons e problemas, chamada ao amor",
+ "introducao": "Paulo escreve a uma igreja que ele mesmo fundou, rica em dons, mas marcada por divisões, orgulho, imoralidade e confusão no culto. Ele responde a problemas concretos e a perguntas da comunidade, sempre voltando à cruz de Cristo e ao amor. A carta termina com uma das explicações mais claras da ressurreição em toda a Bíblia.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Paulo, com o irmão Sóstenes (1:1)"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "A maioria data por volta de 53–55 d.C."
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Escrita em Éfeso (16:8)"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "A igreja de Corinto, cidade grega rica e cosmopolita (1:2)"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Carta"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "16 capítulos e 437 versículos"
+  }
+ ],
+ "chave": "13:13",
+ "temas": [
+  "A unidade da igreja em Cristo",
+  "A sabedoria da cruz contra o orgulho",
+  "Santidade do corpo e da vida",
+  "Liberdade limitada pelo amor",
+  "Dons espirituais para edificar",
+  "A ressurreição de Cristo e dos mortos"
+ ],
+ "cristo": "Paulo resolve os problemas de Corinto apontando para Cristo crucificado, que é para nós sabedoria, justiça, santificação e redenção (1:30, 2:2). A ressurreição de Cristo é a garantia da nossa e da vitória final sobre a morte (15:20, 15:57).",
+ "secoes": [
+  {
+   "id": "divisoes",
+   "titulo": "Divisões e a sabedoria da cruz",
+   "capitulos": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "resumo": "Paulo combate o partidarismo e o orgulho com a mensagem da cruz."
+  },
+  {
+   "id": "moral",
+   "titulo": "Problemas morais",
+   "capitulos": [
+    5,
+    6
+   ],
+   "resumo": "Disciplina na igreja, processos entre irmãos e pureza sexual."
+  },
+  {
+   "id": "perguntas",
+   "titulo": "Respostas a perguntas",
+   "capitulos": [
+    7,
+    8,
+    9,
+    10
+   ],
+   "resumo": "Casamento, carne oferecida a ídolos e o uso da liberdade."
+  },
+  {
+   "id": "culto",
+   "titulo": "O culto e os dons",
+   "capitulos": [
+    11,
+    12,
+    13,
+    14
+   ],
+   "resumo": "Ordem no culto, ceia do Senhor, dons espirituais e o amor."
+  },
+  {
+   "id": "ressurreicao",
+   "titulo": "A ressurreição e palavras finais",
+   "capitulos": [
+    15,
+    16
+   ],
+   "resumo": "A ressurreição dos mortos, a coleta e as saudações."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Divisões e a loucura da cruz",
+   "chave": "1:18",
+   "resumo": "Paulo agradece a Deus pelos dons dos coríntios, mas os confronta por suas divisões: cada um dizia ser de Paulo, de Apolo, de Cefas ou de Cristo. Ele lembra que Cristo não está dividido e que a mensagem da cruz parece loucura para o mundo, mas é poder de Deus. Deus escolheu os fracos e desprezados para que ninguém se orgulhe, a não ser no Senhor.",
+   "licoes": [
+    "Deus é fiel e chamou os coríntios para a comunhão com seu Filho (1:9).",
+    "Divisões em torno de líderes humanos contradizem a unidade em Cristo (1:12-13).",
+    "A cruz parece loucura para quem perece, mas é poder de Deus para os que são salvos (1:18, 1:23-24).",
+    "Deus escolhe os fracos para que ninguém se glorie diante dele (1:27-29)."
+   ],
+   "reflexao": "Você tem se identificado mais com líderes e grupos do que com Cristo?",
+   "quiz": [
+    {
+     "pergunta": "Quem informou Paulo sobre as brigas em Corinto?",
+     "opcoes": [
+      "Os da casa de Estefanas",
+      "Os da casa de Cloé",
+      "Apolo",
+      "Timóteo"
+     ],
+     "correta": 1,
+     "ref": "1:11"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Sabedoria revelada pelo Espírito",
+   "chave": "2:2",
+   "resumo": "Paulo lembra que, ao chegar em Corinto, não usou eloquência humana, mas pregou somente Jesus Cristo crucificado, em fraqueza e com demonstração do Espírito. Existe uma sabedoria de Deus, escondida e agora revelada pelo Espírito, que os poderosos deste mundo não entenderam. A pessoa natural não compreende as coisas do Espírito, mas os que receberam o Espírito têm a mente de Cristo.",
+   "licoes": [
+    "O centro da pregação de Paulo era Jesus Cristo crucificado (2:2).",
+    "A fé deve se apoiar no poder de Deus, não na sabedoria humana (2:4-5).",
+    "O Espírito revela o que Deus preparou para os que o amam (2:9-10)."
+   ],
+   "reflexao": "Sua fé se apoia mais em argumentos impressionantes ou no poder de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Paulo decidiu não saber nada entre os coríntios a não ser o quê?",
+     "opcoes": [
+      "A Lei de Moisés",
+      "Jesus Cristo, e ele crucificado",
+      "A sabedoria dos gregos",
+      "Os sinais e milagres"
+     ],
+     "correta": 1,
+     "ref": "2:2"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Cooperadores de Deus",
+   "chave": "3:6-7",
+   "resumo": "Os coríntios ainda são imaturos, como crianças que só tomam leite, e suas brigas mostram isso. Paulo e Apolo são apenas servos: um plantou, outro regou, mas Deus dá o crescimento. O único fundamento é Jesus Cristo, e a obra de cada um será provada pelo fogo; a igreja é o templo de Deus, onde habita o Espírito.",
+   "licoes": [
+    "Inveja e divisões são sinais de imaturidade espiritual (3:1-3).",
+    "Os líderes são servos; quem faz crescer é Deus (3:5-7).",
+    "Jesus Cristo é o único fundamento, e cada um deve cuidar de como edifica sobre ele (3:10-13).",
+    "A comunidade cristã é o templo santo de Deus (3:16-17)."
+   ],
+   "reflexao": "Que tipo de material você tem usado para edificar sobre o fundamento que é Cristo?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Paulo, quem plantou e quem regou?",
+     "opcoes": [
+      "Pedro plantou, Paulo regou",
+      "Paulo plantou, Apolo regou",
+      "Apolo plantou, Paulo regou",
+      "Timóteo plantou, Apolo regou"
+     ],
+     "correta": 1,
+     "ref": "3:6"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Servos fiéis e pai espiritual",
+   "chave": "4:2",
+   "resumo": "Paulo pede que os apóstolos sejam vistos como servos de Cristo e administradores dos mistérios de Deus, dos quais se exige fidelidade; quem os julga é o Senhor. Com ironia, contrasta o orgulho dos coríntios com a vida dura dos apóstolos, tratados como lixo do mundo. Como pai espiritual, ele os exorta a imitá-lo e anuncia que enviará Timóteo e irá em breve.",
+   "licoes": [
+    "O que Deus exige de seus servos é fidelidade (4:2).",
+    "Só o Senhor conhece as intenções dos corações; não devemos julgar antes do tempo (4:5).",
+    "Tudo o que temos recebemos, por isso não há lugar para orgulho (4:7).",
+    "Os apóstolos respondem a insultos com bênção e a perseguição com paciência (4:12-13)."
+   ],
+   "reflexao": "O que você tem tratado como mérito seu que, na verdade, recebeu de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Quem Paulo enviou aos coríntios para lembrá-los de seus caminhos em Cristo?",
+     "opcoes": [
+      "Apolo",
+      "Silas",
+      "Timóteo",
+      "Tito"
+     ],
+     "correta": 2,
+     "ref": "4:17"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "Disciplina na igreja",
+   "chave": "5:7",
+   "resumo": "Paulo repreende a igreja por tolerar um homem que vivia com a mulher de seu pai e ainda se orgulhar disso. Ele manda que o caso seja tratado com disciplina, para que a pessoa seja salva no dia do Senhor. Usando a imagem do fermento e da Páscoa, ensina que o pecado tolerado contamina toda a comunidade, e esclarece que a separação se aplica a quem se diz irmão e vive em pecado, não aos de fora.",
+   "licoes": [
+    "Um pouco de fermento leveda toda a massa: o pecado tolerado afeta a comunidade (5:6).",
+    "Cristo, nosso cordeiro pascal, foi sacrificado, e por isso devemos viver em sinceridade e verdade (5:7-8).",
+    "A disciplina na igreja busca a salvação da pessoa (5:5).",
+    "Os cristãos não devem se isolar do mundo, mas zelar pela pureza dentro da igreja (5:10-12)."
+   ],
+   "reflexao": "Você tem tolerado algum \"fermento\" na sua vida que pode contaminar tudo?",
+   "quiz": [
+    {
+     "pergunta": "Quem Paulo chama de \"nosso cordeiro da páscoa\"?",
+     "opcoes": [
+      "Isaque",
+      "Moisés",
+      "Cristo",
+      "João Batista"
+     ],
+     "correta": 2,
+     "ref": "5:7"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "Processos entre irmãos e o corpo como templo",
+   "chave": "6:19-20",
+   "resumo": "Paulo critica os coríntios por levarem disputas entre irmãos aos tribunais dos de fora, quando poderiam resolvê-las na igreja ou até aceitar o prejuízo. Ele lembra que os injustos não herdarão o Reino de Deus, mas que alguns deles já foram lavados, santificados e justificados em Jesus. Contra a ideia de que tudo é permitido, ensina que o corpo pertence ao Senhor e é templo do Espírito Santo, por isso devem fugir da imoralidade sexual.",
+   "licoes": [
+    "Brigas entre irmãos levadas a tribunais seculares envergonham o testemunho da igreja (6:5-7).",
+    "Pelo nome de Jesus e pelo Espírito, pessoas de passado marcado pelo pecado são lavadas e transformadas (6:11).",
+    "Nem tudo o que é permitido convém ou edifica; a liberdade não pode nos escravizar (6:12).",
+    "O corpo é templo do Espírito Santo e foi comprado por alto preço, por isso devemos glorificar a Deus com ele (6:19-20)."
+   ],
+   "reflexao": "Como você tem tratado o seu corpo, sabendo que ele é templo do Espírito?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Paulo, o corpo do cristão é templo de quem?",
+     "opcoes": [
+      "Dos anjos",
+      "Do Espírito Santo",
+      "Da igreja",
+      "De Moisés"
+     ],
+     "correta": 1,
+     "ref": "6:19"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "Casamento, solteirice e chamado",
+   "chave": "7:17",
+   "resumo": "Respondendo a perguntas dos coríntios, Paulo trata do casamento: marido e mulher têm deveres mútuos, inclusive na vida sexual, e não devem se separar. Ele valoriza a solteirice como dom que permite servir ao Senhor sem distração, mas afirma que casar não é pecado. Em geral, cada um deve viver com Deus na situação em que foi chamado, pois o tempo é breve e a aparência deste mundo passa.",
+   "licoes": [
+    "No casamento há responsabilidade mútua: o corpo de um pertence também ao outro (7:3-4).",
+    "Casamento e solteirice são dons diferentes de Deus, ambos valiosos (7:7).",
+    "O que vale é obedecer aos mandamentos de Deus, não o status exterior (7:19).",
+    "Diante da brevidade do tempo, devemos usar as coisas deste mundo sem nos prender a elas (7:29-31)."
+   ],
+   "reflexao": "Como você pode servir ao Senhor na situação de vida em que está hoje?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Paulo, por que a solteirice pode ser vantajosa?",
+     "opcoes": [
+      "Porque o casamento é pecado",
+      "Para servir ao Senhor sem distração",
+      "Para ter mais riquezas",
+      "Para evitar a Lei"
+     ],
+     "correta": 1,
+     "ref": "7:32-35"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "Conhecimento e amor",
+   "chave": "8:1",
+   "resumo": "Sobre a carne sacrificada a ídolos, Paulo concorda que o ídolo não é nada e que há um só Deus, o Pai, e um só Senhor, Jesus Cristo. Mas nem todos têm essa compreensão, e alguns de consciência fraca podem ser levados a pecar ao ver outros comendo. Por isso, o conhecimento deve ser guiado pelo amor, a ponto de abrir mão de um direito para não fazer o irmão cair.",
+   "licoes": [
+    "O conhecimento pode encher de orgulho, mas o amor edifica (8:1).",
+    "Há um só Deus, o Pai, e um só Senhor, Jesus Cristo (8:6).",
+    "Ferir a consciência de um irmão fraco é pecar contra Cristo (8:11-12)."
+   ],
+   "reflexao": "Existe alguma liberdade sua que pode estar fazendo outro tropeçar?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Paulo, o que o conhecimento faz e o que o amor faz?",
+     "opcoes": [
+      "O conhecimento salva, o amor ensina",
+      "O conhecimento incha, o amor edifica",
+      "O conhecimento edifica, o amor consola",
+      "O conhecimento une, o amor divide"
+     ],
+     "correta": 1,
+     "ref": "8:1"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "Paulo abre mão de seus direitos",
+   "chave": "9:22",
+   "resumo": "Paulo defende que, como apóstolo, teria direito de ser sustentado pela igreja, com argumentos da vida comum e da Lei. No entanto, não usou esse direito para não colocar obstáculo ao evangelho. Ele se fez servo de todos e \"tudo para todos\" para ganhar alguns, e compara a vida cristã a uma corrida em que é preciso disciplina para receber uma coroa que não perece.",
+   "licoes": [
+    "Quem anuncia o evangelho tem direito ao sustento, como o Senhor ordenou (9:14).",
+    "Paulo abriu mão de direitos para não atrapalhar o evangelho (9:12, 9:18).",
+    "Ele se adaptava às pessoas, sem negociar a fidelidade a Cristo, para ganhá-las (9:19-22).",
+    "A vida cristã exige disciplina, como a de um atleta, em busca de uma coroa imperecível (9:24-27)."
+   ],
+   "reflexao": "De que direito ou conforto você poderia abrir mão pelo bem do evangelho?",
+   "quiz": [
+    {
+     "pergunta": "Que mandamento da Lei Paulo cita sobre o boi?",
+     "opcoes": [
+      "Não comerás o boi no sábado",
+      "Não atarás a boca do boi que trilha",
+      "O boi descansará no sétimo dia",
+      "Não juntarás boi com jumento"
+     ],
+     "correta": 1,
+     "ref": "9:9"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "titulo": "Lições do deserto e a mesa do Senhor",
+   "chave": "10:13",
+   "resumo": "Paulo usa a história de Israel no deserto como aviso: mesmo tendo recebido bênçãos, muitos caíram em idolatria, imoralidade e murmuração. Quem pensa estar de pé deve tomar cuidado, mas Deus é fiel e dá a saída na tentação. Ele adverte que não se pode participar da mesa do Senhor e da mesa dos demônios, e conclui que tudo deve ser feito para a glória de Deus, buscando o bem dos outros.",
+   "licoes": [
+    "As histórias do Antigo Testamento foram escritas como exemplo e aviso para nós (10:11).",
+    "Quem pensa estar de pé deve cuidar para não cair (10:12).",
+    "Deus é fiel e não permite tentação além do que podemos suportar, mas provê a saída (10:13).",
+    "Comer, beber ou qualquer outra coisa: tudo deve ser feito para a glória de Deus (10:31)."
+   ],
+   "reflexao": "Qual \"saída\" Deus já colocou diante de você em alguma tentação recorrente?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Paulo, quem era a pedra espiritual que seguia Israel?",
+     "opcoes": [
+      "Moisés",
+      "Cristo",
+      "Arão",
+      "A Lei"
+     ],
+     "correta": 1,
+     "ref": "10:4"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "titulo": "Ordem no culto e a ceia do Senhor",
+   "chave": "11:26",
+   "resumo": "Paulo trata do uso de cobertura na cabeça por homens e mulheres quando oram ou profetizam, um costume ligado à cultura da época e aplicado de formas diferentes pelas igrejas hoje. Em seguida repreende a maneira como celebravam a ceia: uns comiam e bebiam à vontade enquanto outros passavam fome. Ele relembra as palavras de Jesus na noite em que foi traído e chama cada um a se examinar antes de participar.",
+   "licoes": [
+    "Homem e mulher dependem um do outro no Senhor, e tudo vem de Deus (11:11-12).",
+    "A ceia lembra o corpo e o sangue de Jesus e anuncia sua morte até que ele venha (11:23-26).",
+    "Desprezar os irmãos pobres na ceia é desprezar a igreja de Deus (11:21-22).",
+    "Cada um deve examinar a si mesmo antes de comer do pão e beber do cálice (11:28)."
+   ],
+   "reflexao": "Como você se prepara para participar da ceia do Senhor?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Paulo, o que anunciamos ao comer o pão e beber o cálice?",
+     "opcoes": [
+      "A criação do mundo",
+      "A morte do Senhor, até que ele venha",
+      "A vitória de Israel",
+      "A vinda do Espírito"
+     ],
+     "correta": 1,
+     "ref": "11:26"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "titulo": "Muitos dons, um só corpo",
+   "chave": "12:27",
+   "resumo": "Paulo ensina sobre os dons espirituais: há diversidade de dons, serviços e operações, mas o mesmo Espírito, o mesmo Senhor e o mesmo Deus. Cada um recebe uma manifestação do Espírito para o bem comum. Como num corpo humano, todos os membros são necessários, os mais fracos merecem mais cuidado, e todos sofrem e se alegram juntos.",
+   "licoes": [
+    "Confessar \"Jesus é Senhor\" é obra do Espírito Santo (12:3).",
+    "Os dons são dados para o bem de todos, e é o Espírito quem os distribui como quer (12:7, 12:11).",
+    "Nenhum membro pode dizer ao outro \"não preciso de ti\" (12:21-22).",
+    "No corpo de Cristo, quando um sofre, todos sofrem; quando um é honrado, todos se alegram (12:26)."
+   ],
+   "reflexao": "Que membro do corpo de Cristo você tem tratado como menos necessário?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Paulo, quem distribui os dons a cada um como quer?",
+     "opcoes": [
+      "Os apóstolos",
+      "O mesmo Espírito",
+      "Os profetas",
+      "Os anciãos"
+     ],
+     "correta": 1,
+     "ref": "12:11"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "titulo": "O caminho mais excelente: o amor",
+   "chave": "13:13",
+   "resumo": "No meio da discussão sobre dons, Paulo apresenta o amor como o caminho mais excelente. Sem amor, línguas, profecia, conhecimento, fé e até grandes sacrifícios não valem nada. O amor é paciente, bondoso, não busca seus interesses, tudo suporta e nunca falha; os dons são parciais e passarão, mas fé, esperança e amor permanecem, e o maior deles é o amor.",
+   "licoes": [
+    "Dons e sacrifícios sem amor não têm valor (13:1-3).",
+    "O amor se mostra em atitudes concretas: paciência, bondade, humildade e perdão (13:4-7).",
+    "O nosso conhecimento atual é parcial; um dia veremos face a face (13:9, 13:12).",
+    "Fé, esperança e amor permanecem, mas o maior é o amor (13:13)."
+   ],
+   "reflexao": "Qual característica do amor descrita aqui você mais precisa desenvolver?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Paulo, qual é o maior entre fé, esperança e amor?",
+     "opcoes": [
+      "A fé",
+      "A esperança",
+      "O amor",
+      "Os três são iguais"
+     ],
+     "correta": 2,
+     "ref": "13:13"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "titulo": "Profecia, línguas e ordem",
+   "chave": "14:40",
+   "resumo": "Paulo compara o falar em línguas com a profecia: as línguas sem interpretação edificam quem fala, enquanto a profecia edifica, encoraja e consola a igreja. Ele prefere dizer cinco palavras compreensíveis a dez mil numa língua desconhecida. O culto deve ter participação de muitos, mas com ordem, porque Deus não é Deus de confusão; as instruções sobre as mulheres se calarem (14:34-35) são entendidas de formas diferentes pelas igrejas.",
+   "licoes": [
+    "Os dons devem ser buscados para edificar a igreja (14:12).",
+    "Paulo quer orar e cantar com o espírito e também com o entendimento (14:15).",
+    "O culto deve ser compreensível até para quem chega de fora (14:23-25).",
+    "Deus não é de confusão, mas de paz: tudo deve ser feito com decência e ordem (14:33, 14:40)."
+   ],
+   "reflexao": "O que você leva para o culto contribui para a edificação dos outros?",
+   "quiz": [
+    {
+     "pergunta": "Quantas palavras com entendimento Paulo prefere a dez mil em língua estranha?",
+     "opcoes": [
+      "Três",
+      "Cinco",
+      "Sete",
+      "Doze"
+     ],
+     "correta": 1,
+     "ref": "14:19"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "titulo": "A ressurreição",
+   "chave": "15:20",
+   "resumo": "Paulo relembra o evangelho que recebeu e transmitiu: Cristo morreu por nossos pecados, foi sepultado, ressuscitou ao terceiro dia e foi visto por muitas testemunhas, inclusive por mais de quinhentos irmãos de uma vez. Se Cristo não ressuscitou, a fé é inútil; mas ele ressuscitou como primícias dos que dormem. Paulo explica que o corpo ressuscitado será transformado, incorruptível e glorioso, e celebra a vitória sobre a morte por meio de Jesus.",
+   "licoes": [
+    "O centro do evangelho é a morte, o sepultamento e a ressurreição de Cristo, segundo as Escrituras (15:3-4).",
+    "Sem a ressurreição de Cristo a fé seria vã; com ela, temos esperança além desta vida (15:17-20).",
+    "O corpo da ressurreição será transformado, como a semente que se torna planta (15:36-38, 15:42-44).",
+    "Por causa da vitória de Cristo sobre a morte, o trabalho no Senhor não é vão (15:57-58)."
+   ],
+   "reflexao": "Como a esperança da ressurreição muda o modo como você enfrenta a morte e o trabalho diário?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Paulo, por quantos irmãos Jesus foi visto de uma vez?",
+     "opcoes": [
+      "Mais de cem",
+      "Mais de quinhentos",
+      "Mais de mil",
+      "Doze"
+     ],
+     "correta": 1,
+     "ref": "15:6"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "titulo": "Coleta, planos e saudações",
+   "chave": "16:13-14",
+   "resumo": "Paulo orienta a coleta para os cristãos pobres de Jerusalém: no primeiro dia da semana, cada um deve separar uma parte conforme sua prosperidade. Ele fala de seus planos de visitar Corinto depois da Macedônia, pede que recebam bem Timóteo e menciona Apolo. Exorta-os a vigiar, permanecer firmes e fazer tudo com amor, e termina com saudações e a oração \"Vem, Senhor\".",
+   "licoes": [
+    "A generosidade cristã é planejada, regular e proporcional ao que cada um recebe (16:2).",
+    "Portas abertas para o evangelho muitas vezes vêm acompanhadas de adversários (16:9).",
+    "Firmeza e coragem na fé devem andar junto com o amor em tudo (16:13-14)."
+   ],
+   "reflexao": "Como você pode tornar sua generosidade mais intencional?",
+   "quiz": [
+    {
+     "pergunta": "Em que dia Paulo orientou que se separasse a oferta para os santos?",
+     "opcoes": [
+      "No sábado",
+      "No primeiro dia da semana",
+      "No dia de Pentecostes",
+      "No fim do mês"
+     ],
+     "correta": 1,
+     "ref": "16:2"
+    }
+   ]
+  }
+ ]
+}

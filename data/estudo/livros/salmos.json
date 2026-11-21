@@ -1,0 +1,4037 @@
+{
+ "livro": "salmos",
+ "nome": "Salmos",
+ "subtitulo": "O livro de orações e cânticos do povo de Deus",
+ "introducao": "Salmos é uma coleção de 150 orações e cânticos usados por Israel na adoração e na vida diária. Neles há louvor, ação de graças, confissão, lamento, sabedoria e esperança no Rei que Deus escolheu. O livro ensina a falar com Deus com sinceridade em todas as situações, da alegria mais alta à dor mais profunda.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Vários autores; os títulos atribuem cerca de metade a Davi e outros a Asafe, aos filhos de Coré, a Salomão, a Moisés, a Hemã e a Etã; muitos são anônimos"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Composto ao longo de muitos séculos, desde a época de Davi (ou antes, se o Salmo 90 for de Moisés) até depois do exílio na Babilônia (Salmo 137); a coleção final é geralmente datada do período pós-exílico"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Israel, especialmente Jerusalém e o templo; alguns salmos refletem o exílio"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "Para o culto do povo de Israel e para a oração pessoal de cada fiel"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Poesia hebraica: hinos, lamentos, ações de graças, salmos reais, de sabedoria e de confiança, organizados em cinco livros"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "150 capítulos e 2461 versículos"
+  }
+ ],
+ "chave": "150:6",
+ "temas": [
+  "Deus reina sobre toda a criação e todas as nações",
+  "Oração sincera em todas as circunstâncias, do louvor ao lamento",
+  "Confiança em Deus como refúgio, rocha e pastor",
+  "A Palavra de Deus como caminho de vida",
+  "O Rei ungido e as promessas feitas a Davi",
+  "Perdão, arrependimento e a bondade que dura para sempre"
+ ],
+ "cristo": "Jesus orou com os Salmos e o Novo Testamento os cita mais do que qualquer outro livro do Antigo Testamento, vendo em salmos como o 2, o 22, o 110 e o 118 o sofrimento, a vitória e o reinado do Messias. As promessas ao rei da linhagem de Davi encontram em Cristo o seu cumprimento, e os salmos continuam sendo a oração da igreja.",
+ "secoes": [
+  {
+   "id": "livro-1",
+   "titulo": "Livro I: o caminho do justo e o rei",
+   "capitulos": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41
+   ],
+   "resumo": "Salmos quase todos atribuídos a Davi, com muitos lamentos e cânticos de confiança, abertos pelos dois caminhos e pelo Rei ungido."
+  },
+  {
+   "id": "livro-2",
+   "titulo": "Livro II: clamor e esperança",
+   "capitulos": [
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72
+   ],
+   "resumo": "Salmos dos filhos de Coré e de Davi, com sede de Deus, arrependimento e a visão do reinado justo, terminando com as orações de Davi."
+  },
+  {
+   "id": "livro-3",
+   "titulo": "Livro III: crise e memória",
+   "capitulos": [
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89
+   ],
+   "resumo": "Salmos de Asafe e dos filhos de Coré que enfrentam a destruição de Jerusalém e a aparente falha da aliança com Davi."
+  },
+  {
+   "id": "livro-4",
+   "titulo": "Livro IV: o SENHOR reina",
+   "capitulos": [
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106
+   ],
+   "resumo": "A partir da oração de Moisés, estes salmos lembram que Deus é rei e refúgio eterno, além da história de fidelidade e infidelidade."
+  },
+  {
+   "id": "livro-5",
+   "titulo": "Livro V: louvor e peregrinação",
+   "capitulos": [
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150
+   ],
+   "resumo": "Ações de graças, o grande salmo da Palavra, os Cânticos dos Degraus e os Aleluias finais que convidam toda a criação ao louvor."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "Os dois caminhos",
+   "chave": "1:1-2",
+   "resumo": "Salmo de sabedoria que abre o livro contrastando dois caminhos. O justo evita o conselho dos maus e tem prazer na Lei do SENHOR, sendo como árvore plantada junto a ribeiros. Os maus, ao contrário, são como palha levada pelo vento, e seu caminho perecerá.",
+   "licoes": [
+    "A felicidade verdadeira começa com escolhas sobre com quem andamos e de quem ouvimos conselho (1:1).",
+    "Meditar na Palavra de Deus de dia e de noite produz uma vida firme e frutífera (1:2-3).",
+    "No fim, o SENHOR conhece e guarda o caminho dos justos (1:6)."
+   ],
+   "reflexao": "Que hábito ajudaria você a meditar mais na Palavra de Deus no dia a dia?",
+   "quiz": [
+    {
+     "pergunta": "Com o que o salmo compara o justo que medita na Lei do SENHOR?",
+     "opcoes": [
+      "Uma árvore junto a ribeiros de águas",
+      "Um pastor com seu rebanho",
+      "Uma casa sobre a rocha",
+      "Uma estrela no céu"
+     ],
+     "correta": 0,
+     "ref": "1:3"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "O Rei ungido do SENHOR",
+   "chave": "2:7-8",
+   "resumo": "Salmo real que mostra nações e reis conspirando contra o SENHOR e seu Ungido. Deus, sentado nos céus, ri dos planos deles e declara que estabeleceu seu Rei em Sião, chamando-o de Filho. O salmo termina com um convite aos governantes: servir ao SENHOR com temor e buscar refúgio nele.",
+   "licoes": [
+    "Nenhuma rebelião humana consegue derrubar o governo de Deus (2:1-4).",
+    "Deus estabeleceu seu Rei e lhe promete as nações por herança (2:6-8).",
+    "A atitude sábia diante do Rei é servir com temor e confiar nele (2:11-12)."
+   ],
+   "reflexao": "Em que área da sua vida você ainda resiste ao governo de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Onde o SENHOR diz ter ungido o seu Rei?",
+     "opcoes": [
+      "Sobre Belém",
+      "Sobre o monte Sinai",
+      "Sobre o Carmelo",
+      "Sobre Sião, seu santo monte"
+     ],
+     "correta": 3,
+     "ref": "2:6"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Escudo na hora da fuga",
+   "chave": "3:3",
+   "resumo": "Lamento individual atribuído a Davi quando fugia de seu filho Absalão. Cercado de adversários que dizem que Deus não o salvará, ele declara que o SENHOR é seu escudo. Consegue deitar-se e dormir em paz e termina afirmando que a salvação vem do SENHOR.",
+   "licoes": [
+    "Mesmo quando muitos duvidam de nós, Deus continua sendo escudo e quem levanta a cabeça (3:2-3).",
+    "A confiança em Deus permite descansar no meio da crise (3:5-6).",
+    "A salvação não vem de nossas forças, mas do SENHOR (3:8)."
+   ],
+   "reflexao": "O que tem tirado o seu sono, e como você pode entregá-lo a Deus esta noite?",
+   "quiz": [
+    {
+     "pergunta": "De quem Davi fugia quando compôs este salmo, segundo o título?",
+     "opcoes": [
+      "De Saul",
+      "De Absalão, seu filho",
+      "Dos filisteus",
+      "De Aitofel"
+     ],
+     "correta": 1,
+     "ref": "3:1"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Paz para dormir",
+   "chave": "4:8",
+   "resumo": "Oração da noite em que Davi pede que Deus o ouça e repreende os que amam a mentira. Ele aconselha a não pecar na ira, a meditar em silêncio e a confiar no SENHOR. A alegria que Deus dá é maior que a da fartura de trigo e vinho, e por isso ele se deita em paz.",
+   "licoes": [
+    "Podemos sentir raiva sem transformá-la em pecado, aquietando o coração diante de Deus (4:4).",
+    "A alegria que vem de Deus vale mais do que a prosperidade material (4:7).",
+    "Só o SENHOR dá descanso seguro (4:8)."
+   ],
+   "reflexao": "O que você costuma fazer com a raiva antes de dormir?",
+   "quiz": [
+    {
+     "pergunta": "A alegria dada por Deus é comparada à alegria de quê?",
+     "opcoes": [
+      "Da colheita farta de trigo e vinho",
+      "Do nascimento de um filho",
+      "De uma festa de casamento",
+      "De uma vitória na guerra"
+     ],
+     "correta": 0,
+     "ref": "4:7"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "Oração da manhã",
+   "chave": "5:3",
+   "resumo": "Lamento em forma de oração matinal. Davi apresenta seu clamor ao SENHOR logo cedo e espera a resposta, lembrando que Deus não tem prazer na maldade. Ele pede para ser guiado na justiça diante de inimigos mentirosos e termina celebrando a proteção de Deus sobre os que nele confiam.",
+   "licoes": [
+    "Começar o dia apresentando a Deus nossas palavras e esperar por ele é um hábito de fé (5:3).",
+    "Deus é santo e não convive com a maldade e a mentira (5:4-6).",
+    "Quem se refugia em Deus é cercado pela bondade dele como por um escudo (5:11-12)."
+   ],
+   "reflexao": "Como seria diferente o seu dia se ele começasse com oração?",
+   "quiz": [
+    {
+     "pergunta": "Em que momento do dia Davi diz que apresentará seu clamor a Deus?",
+     "opcoes": [
+      "À meia-noite",
+      "À tarde",
+      "Ao meio-dia",
+      "Pela manhã"
+     ],
+     "correta": 3,
+     "ref": "5:3"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "Lágrimas na cama",
+   "chave": "6:6",
+   "resumo": "Lamento de quem sofre no corpo e na alma e pede que Deus não o castigue em sua ira. O salmista está exausto de gemer e molha o leito com lágrimas a noite toda. De repente o tom muda: ele afirma que o SENHOR ouviu seu choro e que os inimigos serão envergonhados.",
+   "licoes": [
+    "É legítimo apresentar a Deus o cansaço e a dor com toda sinceridade (6:2-3, 6:6).",
+    "O pedido de socorro se apoia na bondade de Deus, não no mérito próprio (6:4).",
+    "Deus ouve até a voz do choro (6:8-9)."
+   ],
+   "reflexao": "Você tem levado suas lágrimas a Deus ou tem escondido delas dele?",
+   "quiz": [
+    {
+     "pergunta": "Com o que o salmista diz molhar o seu leito?",
+     "opcoes": [
+      "Com água do rio",
+      "Com suas lágrimas",
+      "Com óleo",
+      "Com o orvalho"
+     ],
+     "correta": 1,
+     "ref": "6:6"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "O justo Juiz",
+   "chave": "7:11",
+   "resumo": "Lamento de Davi diante das acusações de Cuxe, benjamita. Ele pede refúgio em Deus e declara-se inocente da acusação, aceitando ser julgado. Descreve Deus como juiz justo e mostra o malvado caindo na própria cova, terminando em louvor.",
+   "licoes": [
+    "Diante de acusações injustas, podemos entregar nossa causa ao justo Juiz (7:8-9).",
+    "Deus prova os corações e conhece as intenções (7:9).",
+    "O mal costuma voltar-se contra quem o planeja (7:15-16)."
+   ],
+   "reflexao": "Há alguma acusação injusta que você precisa entregar a Deus em vez de se vingar?",
+   "quiz": [
+    {
+     "pergunta": "O que acontece com quem cava uma cova, segundo o salmo?",
+     "opcoes": [
+      "Enterra seus tesouros",
+      "Encontra água",
+      "Fica rico",
+      "Cai na cova que ele mesmo fez"
+     ],
+     "correta": 3,
+     "ref": "7:15"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "Que é o homem?",
+   "chave": "8:4-5",
+   "resumo": "Hino de louvor à glória de Deus na criação. Olhando os céus, a lua e as estrelas, o salmista se admira de que Deus se lembre do ser humano. Mesmo assim, Deus o coroou de glória e honra e lhe deu domínio sobre os animais, e o salmo começa e termina exaltando o nome do Senhor.",
+   "licoes": [
+    "A grandeza da criação nos leva a adorar o Criador (8:1, 8:3).",
+    "O ser humano é pequeno diante do universo, mas recebeu de Deus dignidade e honra (8:4-5).",
+    "O domínio sobre a criação é uma responsabilidade dada por Deus (8:6-8)."
+   ],
+   "reflexao": "Quando foi a última vez que a criação levou você a louvar a Deus?",
+   "quiz": [
+    {
+     "pergunta": "Que obras de Deus o salmista contempla antes de perguntar \"que é o homem\"?",
+     "opcoes": [
+      "As árvores e os rios",
+      "Os céus, a lua e as estrelas",
+      "Os animais do campo",
+      "Os mares e os montes"
+     ],
+     "correta": 1,
+     "ref": "8:3"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "Refúgio para o aflito",
+   "chave": "9:9-10",
+   "resumo": "Salmo de ação de graças pelo juízo de Deus contra os inimigos e as nações. O salmista louva o SENHOR que reina para sempre e julga com retidão. Ele é refúgio do oprimido e não se esquece do clamor dos que sofrem, e o salmo termina pedindo que as nações reconheçam que são apenas mortais.",
+   "licoes": [
+    "O louvor nasce de lembrar as maravilhas que Deus já fez (9:1-2).",
+    "O SENHOR é refúgio seguro em tempos de angústia e nunca abandona quem o busca (9:9-10).",
+    "Deus não esquece os necessitados nem a esperança dos oprimidos (9:12, 9:18)."
+   ],
+   "reflexao": "Que maravilha de Deus na sua história você pode contar a alguém hoje?",
+   "quiz": [
+    {
+     "pergunta": "O que o SENHOR nunca fez aos que o buscam?",
+     "opcoes": [
+      "Nunca os provou",
+      "Nunca os corrigiu",
+      "Nunca lhes deu ordens",
+      "Nunca os desamparou"
+     ],
+     "correta": 3,
+     "ref": "9:10"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "titulo": "Por que estás longe?",
+   "chave": "10:1",
+   "resumo": "Lamento que começa perguntando por que Deus parece distante em tempos de angústia. Descreve o perverso arrogante, que persegue o pobre e acha que Deus esqueceu e não vê. O salmista pede que Deus se levante e termina confiante de que o SENHOR é Rei eterno e ouve os humildes.",
+   "licoes": [
+    "A fé bíblica permite perguntar a Deus por que ele parece distante (10:1).",
+    "A raiz da opressão é o orgulho de quem vive como se Deus não existisse (10:4, 10:11).",
+    "Deus vê o sofrimento e defende o órfão e o oprimido (10:14, 10:17-18)."
+   ],
+   "reflexao": "Em que situação você já sentiu Deus distante, e o que esse salmo lhe diz sobre isso?",
+   "quiz": [
+    {
+     "pergunta": "O que o perverso diz em seu coração?",
+     "opcoes": [
+      "Que o pobre é seu irmão",
+      "Que Deus o abençoará",
+      "Que precisa se arrepender",
+      "Que Deus esqueceu e nunca verá"
+     ],
+     "correta": 3,
+     "ref": "10:11"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "titulo": "Quando os fundamentos tremem",
+   "chave": "11:3-4",
+   "resumo": "Salmo de confiança diante do perigo. Conselheiros dizem a Davi que fuja como um pássaro, pois os maus já preparam o arco. Ele responde que o SENHOR está no seu templo e no trono dos céus, observa os homens e ama a justiça.",
+   "licoes": [
+    "A confiança em Deus pode resistir até ao conselho bem-intencionado de fugir (11:1).",
+    "Quando tudo parece abalado, Deus continua no trono e vê tudo (11:3-4).",
+    "O SENHOR é justo e ama o que é correto (11:7)."
+   ],
+   "reflexao": "Quando os \"fundamentos\" da sua vida tremem, para onde você costuma correr?",
+   "quiz": [
+    {
+     "pergunta": "Como os conselheiros dizem que Davi deveria fugir para o monte?",
+     "opcoes": [
+      "Como um cervo",
+      "Como um ladrão",
+      "Como um leão",
+      "Como um pássaro"
+     ],
+     "correta": 3,
+     "ref": "11:1"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "titulo": "Palavras puras num mundo falso",
+   "chave": "12:6",
+   "resumo": "Lamento comunitário sobre uma sociedade em que os fiéis desapareceram e todos falam com lábios bajuladores e coração dobre. Os arrogantes dizem que dominam pela língua. Deus responde que se levantará por causa dos oprimidos, e o salmista contrasta as palavras humanas com as palavras puras do SENHOR.",
+   "licoes": [
+    "A mentira e a bajulação corroem a confiança entre as pessoas (12:2).",
+    "Deus se levanta em favor dos humildes e necessitados (12:5).",
+    "As palavras do SENHOR são confiáveis como prata refinada sete vezes (12:6)."
+   ],
+   "reflexao": "Suas palavras esta semana edificaram ou bajularam e enganaram?",
+   "quiz": [
+    {
+     "pergunta": "Com o que são comparadas as palavras do SENHOR?",
+     "opcoes": [
+      "Com mel do favo",
+      "Com pedras preciosas",
+      "Com prata refinada sete vezes",
+      "Com ouro do Ofir"
+     ],
+     "correta": 2,
+     "ref": "12:6"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "titulo": "Até quando, SENHOR?",
+   "chave": "13:1",
+   "resumo": "Lamento curto que repete quatro vezes a pergunta \"até quando?\". Davi sente-se esquecido por Deus, com tristeza no coração e ameaçado por inimigos. Ele pede que Deus ilumine seus olhos e termina, sem que a situação tenha mudado, confiando na bondade de Deus e cantando.",
+   "licoes": [
+    "A espera longa pode ser apresentada a Deus com perguntas honestas (13:1-2).",
+    "A oração pede luz e vida no meio da escuridão (13:3).",
+    "A confiança pode nascer antes da resposta, apoiada na bondade de Deus (13:5-6)."
+   ],
+   "reflexao": "Que \"até quando\" você precisa colocar diante de Deus hoje?",
+   "quiz": [
+    {
+     "pergunta": "Em que o salmista diz confiar no final do salmo?",
+     "opcoes": [
+      "Na bondade de Deus",
+      "No seu exército",
+      "Nos seus amigos",
+      "Na sua própria justiça"
+     ],
+     "correta": 0,
+     "ref": "13:5"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "titulo": "O tolo e o Deus que observa",
+   "chave": "14:1-2",
+   "resumo": "Salmo de sabedoria que descreve o tolo que diz em seu coração \"não há Deus\". O SENHOR olha dos céus e não encontra ninguém que faça o bem, pois todos se desviaram. Os que oprimem o povo terão medo, porque Deus está com os justos, e o salmo termina desejando a salvação de Israel vinda de Sião.",
+   "licoes": [
+    "Negar a Deus na prática leva à corrupção da vida (14:1).",
+    "Diante de Deus, toda a humanidade se desviou e precisa de salvação (14:2-3).",
+    "O SENHOR é refúgio do humilde e traz salvação ao seu povo (14:6-7)."
+   ],
+   "reflexao": "Em que áreas você vive como se Deus não estivesse olhando?",
+   "quiz": [
+    {
+     "pergunta": "O que o tolo diz em seu coração?",
+     "opcoes": [
+      "Que não há Deus",
+      "Que ele é justo",
+      "Que Deus é bom",
+      "Que o mundo é mau"
+     ],
+     "correta": 0,
+     "ref": "14:1"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "titulo": "Quem habitará contigo?",
+   "chave": "15:1-2",
+   "resumo": "Salmo de entrada no santuário, em forma de pergunta e resposta. Quem pode morar na tenda do SENHOR? A resposta descreve uma pessoa íntegra no falar, no tratar o próximo, em cumprir a palavra e no uso do dinheiro, e termina dizendo que quem age assim nunca será abalado.",
+   "licoes": [
+    "A adoração verdadeira se liga à integridade na vida diária (15:1-2).",
+    "Falar a verdade e não difamar o próximo são marcas de quem anda com Deus (15:2-3).",
+    "Manter a palavra mesmo com prejuízo e não explorar o pobre agradam a Deus (15:4-5)."
+   ],
+   "reflexao": "Que área da sua vida mais precisa de integridade neste momento?",
+   "quiz": [
+    {
+     "pergunta": "O que a pessoa íntegra faz com seu juramento?",
+     "opcoes": [
+      "Mantém mesmo com prejuízo próprio",
+      "Muda quando lhe convém",
+      "Só jura em público",
+      "Esquece depois de um tempo"
+     ],
+     "correta": 0,
+     "ref": "15:4"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "titulo": "O SENHOR é minha herança",
+   "chave": "16:8-11",
+   "resumo": "Salmo de confiança em que Davi declara que não tem bem algum fora de Deus. O SENHOR é sua porção e herança, o conselheiro que o guia de dia e de noite. Ele termina confiante de que Deus não o abandonará na morte e lhe mostrará o caminho da vida, com alegria plena em sua presença.",
+   "licoes": [
+    "Deus é o maior bem; tudo o mais vem depois (16:2, 16:5).",
+    "Manter o SENHOR sempre diante de si dá estabilidade (16:8).",
+    "Há esperança além da morte e alegria plena na presença de Deus (16:10-11)."
+   ],
+   "reflexao": "O que você considera a sua \"herança\" mais valiosa?",
+   "quiz": [
+    {
+     "pergunta": "Onde há \"fartura de alegrias\", segundo o salmo?",
+     "opcoes": [
+      "Na terra prometida",
+      "No templo de Jerusalém",
+      "Na presença de Deus",
+      "Na riqueza"
+     ],
+     "correta": 2,
+     "ref": "16:11"
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "titulo": "Na sombra das tuas asas",
+   "chave": "17:8",
+   "resumo": "Oração de Davi, perseguido injustamente, que pede que Deus ouça sua causa. Ele afirma ter guardado os caminhos de Deus e pede proteção como a pupila do olho, debaixo das asas divinas. Contrasta os homens cuja parte está nesta vida com sua própria esperança de ver o rosto de Deus.",
+   "licoes": [
+    "Podemos pedir a Deus que examine nosso coração e nossos caminhos (17:3-5).",
+    "Deus guarda os seus com cuidado, como a pupila do olho (17:8).",
+    "A maior satisfação não está nos bens desta vida, mas em contemplar a face de Deus (17:14-15)."
+   ],
+   "reflexao": "Você busca mais a satisfação nos bens desta vida ou na presença de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Davi pede que Deus o guarde como o quê?",
+     "opcoes": [
+      "Como um tesouro escondido",
+      "Como um filho pequeno",
+      "Como a pupila do olho",
+      "Como uma cidade forte"
+     ],
+     "correta": 2,
+     "ref": "17:8"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "titulo": "Minha rocha e meu libertador",
+   "chave": "18:2",
+   "resumo": "Longo cântico de ação de graças de Davi após ser livre de seus inimigos e de Saul. Ele descreve a angústia mortal, seu clamor e a vinda poderosa de Deus em meio a terremoto, fogo e trovão. Depois celebra a fidelidade de Deus, que o capacita para a batalha e mostra bondade ao seu ungido e à sua descendência.",
+   "licoes": [
+    "Deus é descrito com muitas imagens de segurança: rocha, fortaleza, escudo e refúgio (18:2).",
+    "Na angústia, o clamor chega aos ouvidos de Deus, que age com poder (18:6, 18:16-17).",
+    "Deus ilumina nossas trevas e nos fortalece para o que parecia impossível (18:28-29).",
+    "O caminho de Deus é perfeito e sua palavra é provada (18:30)."
+   ],
+   "reflexao": "Qual imagem de Deus deste salmo mais fala com você hoje, e por quê?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o título, de quem mais o SENHOR livrou Davi além de todos os inimigos?",
+     "opcoes": [
+      "De Absalão",
+      "Do faraó",
+      "De Saul",
+      "De Golias"
+     ],
+     "correta": 2,
+     "ref": "18:1"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "titulo": "Os céus e a Lei",
+   "chave": "19:1",
+   "resumo": "Hino em duas partes. Primeiro, os céus e o sol proclamam sem palavras a glória de Deus a toda a terra. Depois, o salmista exalta a Lei do SENHOR, perfeita e mais desejável que ouro e mais doce que o mel, e termina pedindo perdão das faltas ocultas e que suas palavras e pensamentos agradem a Deus.",
+   "licoes": [
+    "A criação fala da glória de Deus a todos os povos (19:1-4).",
+    "A Palavra de Deus restaura, dá sabedoria e alegra o coração (19:7-8).",
+    "Precisamos de Deus para ver e limpar até os erros que não percebemos (19:12-13).",
+    "Palavras e pensamentos também são oferta a Deus (19:14)."
+   ],
+   "reflexao": "O que você pediria a Deus que limpasse nas faltas que você nem percebe?",
+   "quiz": [
+    {
+     "pergunta": "Os juízos do SENHOR são mais doces do que o quê?",
+     "opcoes": [
+      "O vinho",
+      "O leite",
+      "O mel",
+      "A tâmara"
+     ],
+     "correta": 2,
+     "ref": "19:10"
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "titulo": "Confiança no nome do SENHOR",
+   "chave": "20:7",
+   "resumo": "Salmo real, uma oração do povo pelo rei antes da batalha. O povo pede que Deus responda ao rei no dia da angústia e cumpra seus planos. Em seguida vem a certeza de que o SENHOR salva o seu ungido, pois alguns confiam em carros e cavalos, mas o povo confia no nome de Deus.",
+   "licoes": [
+    "É bom interceder pelos líderes nos momentos de angústia (20:1-4).",
+    "A segurança verdadeira não está nos recursos militares, mas no nome do SENHOR (20:7).",
+    "Os que confiam em Deus se levantam e ficam de pé (20:8)."
+   ],
+   "reflexao": "Quais são os \"carros e cavalos\" em que você costuma confiar?",
+   "quiz": [
+    {
+     "pergunta": "Em que alguns confiam, segundo o salmo, em contraste com o nome do SENHOR?",
+     "opcoes": [
+      "Em muralhas e torres",
+      "Em sábios e profetas",
+      "Em ouro e prata",
+      "Em carruagens e cavalos"
+     ],
+     "correta": 3,
+     "ref": "20:7"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "titulo": "A alegria do rei",
+   "chave": "21:7",
+   "resumo": "Salmo real de ação de graças que parece responder ao Salmo 20. O rei se alegra na força de Deus, que lhe concedeu o desejo do coração, vida longa e uma coroa de ouro. Porque o rei confia no SENHOR, não será abalado, e os inimigos que tramaram contra Deus serão derrotados.",
+   "licoes": [
+    "Toda vitória e honra do rei são atribuídas à força e à salvação de Deus (21:1, 21:5).",
+    "A estabilidade vem de confiar na bondade do Altíssimo (21:7).",
+    "Os planos contra Deus não alcançam sucesso (21:11)."
+   ],
+   "reflexao": "Que respostas de oração você já recebeu e ainda não agradeceu?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus pôs na cabeça do rei?",
+     "opcoes": [
+      "Uma coroa de ouro fino",
+      "Cinzas",
+      "Um capacete de bronze",
+      "Óleo de unção"
+     ],
+     "correta": 0,
+     "ref": "21:3"
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "titulo": "Deus meu, por que me desamparaste?",
+   "chave": "22:1",
+   "resumo": "Lamento intenso de quem se sente abandonado por Deus, zombado e cercado de inimigos como touros, leões e cães. Ele descreve um sofrimento extremo: ossos à mostra, mãos e pés perfurados, roupas repartidas por sorteio. Na metade, o salmo se transforma em louvor: Deus ouviu o aflito, e todos os confins da terra se voltarão para o SENHOR.",
+   "licoes": [
+    "Mesmo o sentimento de abandono pode ser dito a Deus com as palavras \"Deus meu\" (22:1-2).",
+    "A lembrança da fidelidade de Deus no passado sustenta a fé na dor (22:4-5).",
+    "Deus não despreza a aflição do aflito, mas o ouve (22:24).",
+    "O livramento de um só se torna motivo de louvor para todas as nações (22:27-28)."
+   ],
+   "reflexao": "Em que momento você já sentiu algo parecido com o grito do versículo 1?",
+   "quiz": [
+    {
+     "pergunta": "O que os inimigos fazem com as roupas do salmista?",
+     "opcoes": [
+      "Queimam-nas",
+      "Devolvem à sua mãe",
+      "Rasgam em pedaços",
+      "Repartem e lançam sortes sobre elas"
+     ],
+     "correta": 3,
+     "ref": "22:18"
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "titulo": "O SENHOR é meu pastor",
+   "chave": "23:1",
+   "resumo": "Salmo de confiança, talvez o mais conhecido da Bíblia. Davi descreve Deus como pastor que dá descanso, água e direção, e que está presente até no vale da sombra da morte. Depois Deus aparece como anfitrião que prepara uma mesa, unge a cabeça e faz o cálice transbordar, e o salmo termina com a certeza de bondade e de morada na casa do SENHOR.",
+   "licoes": [
+    "Com Deus como pastor, o essencial não faltará (23:1-2).",
+    "A presença de Deus tira o medo mesmo nos vales mais escuros (23:4).",
+    "Deus honra os seus até diante dos adversários (23:5).",
+    "A bondade de Deus acompanha a vida inteira (23:6)."
+   ],
+   "reflexao": "Em que \"vale\" você precisa lembrar hoje que Deus está com você?",
+   "quiz": [
+    {
+     "pergunta": "O que consola o salmista no vale da sombra da morte?",
+     "opcoes": [
+      "A luz da lua",
+      "O canto dos amigos",
+      "Sua espada e escudo",
+      "A vara e o cajado do pastor"
+     ],
+     "correta": 3,
+     "ref": "23:4"
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "titulo": "O Rei da Glória",
+   "chave": "24:7-8",
+   "resumo": "Salmo litúrgico, possivelmente cantado em procissão rumo ao templo. Começa afirmando que a terra pertence ao SENHOR e pergunta quem pode subir ao seu monte: quem tem mãos limpas e coração puro. Termina com um diálogo em que as portas são chamadas a se abrir para a entrada do Rei da Glória.",
+   "licoes": [
+    "Tudo o que existe pertence a Deus, inclusive nós (24:1).",
+    "Aproximar-se de Deus pede mãos limpas e coração puro (24:3-4).",
+    "O SENHOR dos exércitos é o Rei da Glória que deve ser recebido (24:7-10)."
+   ],
+   "reflexao": "Que \"porta\" do seu coração precisa se abrir para o Rei da Glória?",
+   "quiz": [
+    {
+     "pergunta": "A quem pertence a terra e tudo o que nela há?",
+     "opcoes": [
+      "Ao SENHOR",
+      "Aos filhos dos homens",
+      "Aos reis",
+      "Ao povo de Israel"
+     ],
+     "correta": 0,
+     "ref": "24:1"
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "titulo": "Ensina-me os teus caminhos",
+   "chave": "25:4-5",
+   "resumo": "Oração de confiança e pedido de direção, escrita em forma de acróstico no hebraico. O salmista levanta a alma a Deus, pede para ser ensinado e guiado e pede perdão pelos pecados da juventude. Sente-se solitário e aflito, mas espera no Deus bom que ensina os humildes e conclui pedindo a redenção de Israel.",
+   "licoes": [
+    "Pedir direção a Deus é sinal de humildade e confiança (25:4-5, 25:9).",
+    "Podemos pedir que Deus se lembre de sua misericórdia e não de nossos pecados (25:6-7, 25:11).",
+    "Na solidão e na aflição, os olhos podem ficar voltados para o SENHOR (25:15-16)."
+   ],
+   "reflexao": "Em que decisão você precisa pedir a Deus que lhe ensine o caminho?",
+   "quiz": [
+    {
+     "pergunta": "De quais pecados o salmista pede que Deus não se lembre?",
+     "opcoes": [
+      "Dos pecados de seus pais",
+      "Dos pecados do povo",
+      "Dos pecados de seus inimigos",
+      "Dos pecados de sua juventude"
+     ],
+     "correta": 3,
+     "ref": "25:7"
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "titulo": "Prova-me, SENHOR",
+   "chave": "26:2",
+   "resumo": "Oração de alguém que se apresenta como íntegro e pede que Deus o examine. Ele diz evitar a companhia dos perversos e ama a casa onde habita a glória de Deus. Pede para não ser contado entre os pecadores e termina firme, prometendo louvar a Deus na congregação.",
+   "licoes": [
+    "A integridade não teme ser examinada por Deus (26:1-2).",
+    "As companhias que escolhemos moldam nossa vida (26:4-5).",
+    "Amar o lugar da presença de Deus leva ao louvor público (26:8, 26:12)."
+   ],
+   "reflexao": "Você estaria disposto a pedir que Deus examine seu coração hoje?",
+   "quiz": [
+    {
+     "pergunta": "O que o salmista diz amar?",
+     "opcoes": [
+      "As riquezas da terra",
+      "Os conselhos dos sábios",
+      "Os banquetes dos reis",
+      "A morada da casa de Deus"
+     ],
+     "correta": 3,
+     "ref": "26:8"
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "titulo": "Luz e salvação",
+   "chave": "27:1",
+   "resumo": "Salmo de confiança que passa a lamento. Davi declara que, com o SENHOR como luz e salvação, não teme nem mesmo um exército. Seu único desejo é morar na casa de Deus e contemplar sua beleza; depois clama para que Deus não esconda o rosto e termina convidando a esperar no SENHOR.",
+   "licoes": [
+    "Quem tem Deus como luz e força pode enfrentar o medo (27:1-3).",
+    "O maior desejo do coração pode ser estar perto de Deus (27:4).",
+    "Mesmo se pai e mãe abandonarem, o SENHOR acolhe (27:10).",
+    "Esperar em Deus exige coragem e fortalece o coração (27:14)."
+   ],
+   "reflexao": "Qual é a \"uma coisa\" que você mais tem pedido a Deus?",
+   "quiz": [
+    {
+     "pergunta": "Qual é a única coisa que Davi pede ao SENHOR?",
+     "opcoes": [
+      "Vida longa",
+      "Morar na casa do SENHOR todos os dias",
+      "Riquezas para o reino",
+      "Vitória sobre os inimigos"
+     ],
+     "correta": 1,
+     "ref": "27:4"
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "titulo": "Não te cales comigo",
+   "chave": "28:7",
+   "resumo": "Lamento que se transforma em ação de graças. O salmista teme o silêncio de Deus e pede para não ser tratado como os perversos, que falam de paz mas planejam o mal. No meio do salmo ele bendiz a Deus por ter ouvido sua súplica e termina orando pelo povo e pelo ungido.",
+   "licoes": [
+    "O silêncio de Deus é sentido como ameaça por quem depende dele (28:1).",
+    "A hipocrisia de falar de paz com mal no coração é rejeitada por Deus (28:3).",
+    "Quem confia em Deus encontra socorro e alegria (28:6-7).",
+    "A oração pessoal se abre em oração por todo o povo (28:9)."
+   ],
+   "reflexao": "Por quem, além de você mesmo, você pode orar hoje?",
+   "quiz": [
+    {
+     "pergunta": "O que os perversos falam com o próximo enquanto têm o mal no coração?",
+     "opcoes": [
+      "Falam de Deus",
+      "Falam de guerra",
+      "Falam de paz",
+      "Falam de dinheiro"
+     ],
+     "correta": 2,
+     "ref": "28:3"
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "titulo": "A voz do SENHOR",
+   "chave": "29:3-4",
+   "resumo": "Hino que convida os seres celestiais a reconhecer a glória de Deus. A \"voz do SENHOR\" é descrita sete vezes como uma tempestade que passa sobre as águas, quebra os cedros do Líbano e faz tremer o deserto. Deus reina acima do dilúvio e, no fim, dá força e paz ao seu povo.",
+   "licoes": [
+    "A força da natureza aponta para a força ainda maior do Criador (29:3-5).",
+    "Deus reina como rei acima de tudo, para sempre (29:10).",
+    "O mesmo Deus poderoso abençoa seu povo com paz (29:11)."
+   ],
+   "reflexao": "Como a força de uma tempestade pode lembrar você da grandeza de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Que árvores a voz do SENHOR quebra?",
+     "opcoes": [
+      "Os cedros do Líbano",
+      "As oliveiras de Jerusalém",
+      "As palmeiras de Jericó",
+      "Os carvalhos de Basã"
+     ],
+     "correta": 0,
+     "ref": "29:5"
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "titulo": "Do pranto à dança",
+   "chave": "30:5",
+   "resumo": "Salmo de ação de graças de quem foi curado e livrado da morte. O salmista lembra que, na prosperidade, achou que nunca seria abalado, até Deus esconder o rosto. Clamou e foi ouvido: Deus transformou seu pranto em dança e seu luto em alegria.",
+   "licoes": [
+    "A dor tem duração, mas o favor de Deus permanece (30:5).",
+    "A prosperidade pode gerar uma falsa segurança (30:6-7).",
+    "Deus transforma o lamento em alegria, e isso leva ao louvor sem fim (30:11-12)."
+   ],
+   "reflexao": "Que \"noite de choro\" já virou \"manhã de alegria\" na sua história?",
+   "quiz": [
+    {
+     "pergunta": "Em que Deus transformou o pranto do salmista?",
+     "opcoes": [
+      "Em silêncio",
+      "Em força",
+      "Em dança",
+      "Em sabedoria"
+     ],
+     "correta": 2,
+     "ref": "30:11"
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "titulo": "Em tuas mãos",
+   "chave": "31:5",
+   "resumo": "Lamento longo de alguém cercado de tramas, doente, esquecido pelos conhecidos e tratado como um vaso quebrado. Entre as queixas, ele repete sua confiança: entrega seu espírito nas mãos de Deus e afirma que seus tempos estão nas mãos dele. Termina louvando a bondade de Deus e animando os fiéis a serem fortes.",
+   "licoes": [
+    "Entregar a vida nas mãos de Deus é o centro da confiança (31:5).",
+    "Mesmo esquecido pelos outros, o fiel pode dizer \"meus tempos estão em tuas mãos\" (31:12, 31:14-15).",
+    "Deus ouve até quando achamos que fomos cortados de sua presença (31:22).",
+    "Quem espera no SENHOR é chamado a ser forte (31:24)."
+   ],
+   "reflexao": "O que significa, na sua situação atual, dizer \"meus tempos estão em tuas mãos\"?",
+   "quiz": [
+    {
+     "pergunta": "O que o salmista diz entregar nas mãos de Deus?",
+     "opcoes": [
+      "Seus filhos",
+      "Seu espírito",
+      "Suas riquezas",
+      "Seu reino"
+     ],
+     "correta": 1,
+     "ref": "31:5"
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "titulo": "A felicidade do perdão",
+   "chave": "32:1-2",
+   "resumo": "Salmo de instrução sobre a confissão, tradicionalmente contado entre os salmos penitenciais. Davi conta que, enquanto escondia seu pecado, definhava sob a mão pesada de Deus. Quando confessou, foi perdoado, e agora ensina os outros a orar e a não serem teimosos como cavalo ou mula.",
+   "licoes": [
+    "A verdadeira felicidade é ser perdoado por Deus (32:1-2).",
+    "Esconder o pecado pesa sobre o corpo e a alma (32:3-4).",
+    "A confissão sincera encontra o perdão de Deus (32:5).",
+    "Deus promete instruir e guiar quem se deixa ensinar (32:8-9)."
+   ],
+   "reflexao": "Há algo que você tem escondido e precisa confessar a Deus?",
+   "quiz": [
+    {
+     "pergunta": "A que animais o salmo compara quem não tem entendimento?",
+     "opcoes": [
+      "O cão e o porco",
+      "O cavalo e a mula",
+      "O boi e o jumento",
+      "O leão e o urso"
+     ],
+     "correta": 1,
+     "ref": "32:9"
+    }
+   ]
+  },
+  {
+   "n": 33,
+   "titulo": "Cantai uma canção nova",
+   "chave": "33:12",
+   "resumo": "Hino que convida os justos a louvar a Deus com instrumentos e um cântico novo. Celebra a palavra criadora do SENHOR, que fez os céus, e seu plano que permanece, ao contrário dos planos das nações. Afirma que nem exército nem cavalo salvam, mas os olhos de Deus estão sobre os que esperam em sua bondade.",
+   "licoes": [
+    "Deus criou tudo pela sua palavra (33:6, 33:9).",
+    "Os planos de Deus permanecem enquanto os planos humanos passam (33:10-11).",
+    "A força militar não garante salvação; quem espera em Deus é guardado (33:16-18)."
+   ],
+   "reflexao": "Em que você tem buscado segurança além de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Como foram feitos os céus, segundo o salmo?",
+     "opcoes": [
+      "Pela água do mar",
+      "Pela palavra do SENHOR",
+      "Pelas mãos dos anjos",
+      "Ao longo de muitas eras pelo acaso"
+     ],
+     "correta": 1,
+     "ref": "33:6"
+    }
+   ]
+  },
+  {
+   "n": 34,
+   "titulo": "Provai e vede",
+   "chave": "34:8",
+   "resumo": "Salmo de ação de graças, em forma de acróstico, ligado ao episódio em que Davi fingiu loucura diante de um rei filisteu. Ele louva a Deus que o livrou dos temores e convida todos a provar que o SENHOR é bom. Depois ensina o temor de Deus: guardar a língua, fazer o bem, buscar a paz, lembrando que Deus está perto dos que têm o coração partido.",
+   "licoes": [
+    "O louvor é contagiante e convida outros a engrandecer a Deus (34:3).",
+    "Conhecer a bondade de Deus é uma experiência pessoal (34:8).",
+    "Temer a Deus inclui guardar a língua e buscar a paz (34:13-14).",
+    "O SENHOR está perto dos quebrantados (34:18)."
+   ],
+   "reflexao": "Que experiência sua poderia ajudar alguém a \"provar e ver\" que Deus é bom?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o salmo, de quem o SENHOR está perto?",
+     "opcoes": [
+      "Dos sábios",
+      "Dos sacerdotes",
+      "Dos poderosos",
+      "Dos de coração partido"
+     ],
+     "correta": 3,
+     "ref": "34:18"
+    }
+   ]
+  },
+  {
+   "n": 35,
+   "titulo": "Luta tu por mim",
+   "chave": "35:23",
+   "resumo": "Lamento de quem é atacado sem motivo por pessoas a quem fez o bem. O salmista pede que Deus pegue escudo e lança e defenda sua causa. Lembra que orava e jejuava por eles na doença, mas recebeu zombaria; termina pedindo justiça e prometendo louvar a Deus o dia todo.",
+   "licoes": [
+    "Podemos entregar a Deus a defesa de nossa causa em vez de nos vingarmos (35:1, 35:23-24).",
+    "Pagar o bem com o mal é uma ferida profunda que Deus vê (35:12-14).",
+    "Deus defende o fraco contra o mais forte (35:10)."
+   ],
+   "reflexao": "Há alguém que retribuiu seu bem com mal? Como entregar isso a Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que o salmista fazia quando seus inimigos ficavam doentes?",
+     "opcoes": [
+      "Vestia-se de saco e jejuava",
+      "Zombava deles",
+      "Pedia castigo para eles",
+      "Fugia para longe"
+     ],
+     "correta": 0,
+     "ref": "35:13"
+    }
+   ]
+  },
+  {
+   "n": 36,
+   "titulo": "A fonte da vida",
+   "chave": "36:9",
+   "resumo": "Salmo que contrasta a mente do perverso com a bondade de Deus. O perverso não teme a Deus, planeja o mal até na cama e não rejeita o que é ruim. Em contraste, a bondade de Deus chega aos céus, os homens se abrigam sob suas asas e nele está a fonte da vida.",
+   "licoes": [
+    "A ausência de temor a Deus abre espaço para o engano e o mal (36:1-4).",
+    "A bondade e a fidelidade de Deus são imensas (36:5-6).",
+    "Em Deus está a fonte da vida, e em sua luz vemos a luz (36:9)."
+   ],
+   "reflexao": "O que significa para você que em Deus está a \"fonte da vida\"?",
+   "quiz": [
+    {
+     "pergunta": "Onde os filhos dos homens se abrigam, segundo o salmo?",
+     "opcoes": [
+      "Na tenda dos pastores",
+      "À sombra das asas de Deus",
+      "Debaixo das montanhas",
+      "Nas muralhas da cidade"
+     ],
+     "correta": 1,
+     "ref": "36:7"
+    }
+   ]
+  },
+  {
+   "n": 37,
+   "titulo": "Não te irrites; confia",
+   "chave": "37:4-5",
+   "resumo": "Salmo de sabedoria, em acróstico, que trata do problema da prosperidade dos maus. O conselho repetido é não se irritar nem invejar os perversos, pois eles murcham como erva. Em vez disso, o justo deve confiar, agradar-se no SENHOR, entregar-lhe o caminho e esperar, porque os mansos herdarão a terra.",
+   "licoes": [
+    "A inveja e a irritação com o sucesso dos maus fazem mal ao coração (37:1, 37:7-8).",
+    "Agradar-se em Deus e entregar a ele o caminho é a resposta da fé (37:4-5).",
+    "O pouco do justo vale mais que a riqueza dos perversos (37:16).",
+    "Deus sustenta o justo quando ele cai (37:23-24)."
+   ],
+   "reflexao": "Há alguém cujo sucesso tem despertado sua inveja ou irritação?",
+   "quiz": [
+    {
+     "pergunta": "Quem herdará a terra, segundo o salmo?",
+     "opcoes": [
+      "Os sábios do mundo",
+      "Os mansos",
+      "Os fortes",
+      "Os ricos"
+     ],
+     "correta": 1,
+     "ref": "37:11"
+    }
+   ]
+  },
+  {
+   "n": 38,
+   "titulo": "O peso do pecado",
+   "chave": "38:4",
+   "resumo": "Salmo penitencial de quem sofre doença grave e reconhece que o sofrimento está ligado ao próprio pecado. Ele descreve feridas, fraqueza e o afastamento de amigos e vizinhos, enquanto inimigos armam laços. Em silêncio diante deles, espera em Deus, confessa sua culpa e pede socorro urgente.",
+   "licoes": [
+    "O pecado pode pesar como uma carga grande demais (38:4).",
+    "Nada de nosso sofrimento está oculto a Deus (38:9).",
+    "A confissão honesta acompanha a esperança em Deus (38:15, 38:18).",
+    "Quando até os amigos se afastam, podemos pedir que Deus não fique longe (38:11, 38:21-22)."
+   ],
+   "reflexao": "O que você precisa confessar para tirar um peso de sua alma?",
+   "quiz": [
+    {
+     "pergunta": "Como se comportam os amigos e companheiros diante da calamidade do salmista?",
+     "opcoes": [
+      "Vêm consolá-lo",
+      "Oram por ele",
+      "Observam de longe",
+      "Trazem remédios"
+     ],
+     "correta": 2,
+     "ref": "38:11"
+    }
+   ]
+  },
+  {
+   "n": 39,
+   "titulo": "A vida é um sopro",
+   "chave": "39:4-5",
+   "resumo": "Lamento meditativo de alguém que tentou se calar para não pecar com a língua, mas a dor aumentou. Então pede a Deus que lhe mostre como a vida é breve, como palmos diante dele. Reconhece que o homem acumula bens sem saber quem os levará e põe sua esperança só em Deus, como peregrino.",
+   "licoes": [
+    "Há momentos de guardar a língua, mas a dor também precisa ser levada a Deus (39:1-3).",
+    "Lembrar a brevidade da vida nos ajuda a viver com sabedoria (39:4-6).",
+    "Diante da fragilidade, nossa esperança está em Deus (39:7).",
+    "Somos peregrinos nesta terra, como foram nossos pais (39:12)."
+   ],
+   "reflexao": "Se você lembrasse todos os dias que a vida é breve, o que mudaria?",
+   "quiz": [
+    {
+     "pergunta": "Com que medida o salmista diz que Deus ordenou os seus dias?",
+     "opcoes": [
+      "A anos",
+      "A palmos",
+      "A côvados",
+      "A milhas"
+     ],
+     "correta": 1,
+     "ref": "39:5"
+    }
+   ]
+  },
+  {
+   "n": 40,
+   "titulo": "Uma canção nova",
+   "chave": "40:1-3",
+   "resumo": "Salmo que começa em ação de graças: o salmista esperou no SENHOR e foi tirado de um lamaçal, com os pés postos sobre a rocha e um cântico novo na boca. Ele afirma que Deus deseja mais a obediência do coração do que sacrifícios e anuncia a justiça de Deus na congregação. Termina com um novo pedido de socorro diante de males e inimigos.",
+   "licoes": [
+    "Esperar em Deus com paciência é recompensado com livramento e firmeza (40:1-2).",
+    "O testemunho do livramento leva outros a confiar em Deus (40:3).",
+    "Deus quer um coração que deseja fazer sua vontade, mais do que rituais (40:6-8).",
+    "Mesmo depois de livramentos, continuamos dependentes do socorro de Deus (40:12-13, 40:17)."
+   ],
+   "reflexao": "De que \"lamaçal\" Deus já tirou você, e para quem você pode contar isso?",
+   "quiz": [
+    {
+     "pergunta": "Onde Deus pôs os pés do salmista depois de tirá-lo do lamaçal?",
+     "opcoes": [
+      "Sobre um monte de ouro",
+      "Sobre a margem do rio",
+      "Sobre a areia",
+      "Sobre uma rocha"
+     ],
+     "correta": 3,
+     "ref": "40:2"
+    }
+   ]
+  },
+  {
+   "n": 41,
+   "titulo": "Feliz quem cuida do fraco",
+   "chave": "41:1",
+   "resumo": "Salmo que começa abençoando quem dá atenção ao pobre e prometendo que Deus o sustentará na doença. Em seguida o salmista, enfermo, conta que inimigos esperam sua morte e que até o amigo íntimo que comia do seu pão se voltou contra ele. Ele pede que Deus o levante, e o versículo final fecha o Primeiro Livro dos Salmos com uma doxologia.",
+   "licoes": [
+    "Deus se importa com quem cuida dos fracos e doentes (41:1-3).",
+    "A traição de um amigo próximo é uma das dores mais profundas (41:9).",
+    "Na doença e na traição, podemos pedir que Deus nos levante (41:10-12).",
+    "Todo o caminho termina em louvor: \"Bendito seja o SENHOR\" (41:13)."
+   ],
+   "reflexao": "Quem está fraco ou doente perto de você e precisa de sua atenção?",
+   "quiz": [
+    {
+     "pergunta": "Quem levantou o calcanhar contra o salmista?",
+     "opcoes": [
+      "O amigo íntimo que comia do seu pão",
+      "Seu filho",
+      "Um estrangeiro",
+      "O rei vizinho"
+     ],
+     "correta": 0,
+     "ref": "41:9"
+    }
+   ]
+  },
+  {
+   "n": 42,
+   "titulo": "Sede do Deus vivo",
+   "chave": "42:1-2",
+   "resumo": "Lamento dos filhos de Coré que abre o Segundo Livro dos Salmos. O salmista, longe do templo, tem sede de Deus como a corça tem sede de água, e ouve todo dia: \"Onde está o teu Deus?\". Ele se lembra das festas no templo e conversa com a própria alma, repetindo o refrão: \"Espera em Deus, pois ainda o louvarei\".",
+   "licoes": [
+    "A alma humana tem sede de Deus como o corpo tem sede de água (42:1-2).",
+    "Lembrar a adoração do passado pode doer, mas também alimenta a esperança (42:4).",
+    "Podemos falar com nossa própria alma e chamá-la a esperar em Deus (42:5, 42:11).",
+    "Mesmo sob ondas de sofrimento, a canção de Deus nos acompanha à noite (42:7-8)."
+   ],
+   "reflexao": "O que você diria à sua alma hoje, se ela estivesse abatida?",
+   "quiz": [
+    {
+     "pergunta": "Com que animal o salmista compara sua sede de Deus?",
+     "opcoes": [
+      "O camelo",
+      "A pomba",
+      "A corça",
+      "A ovelha"
+     ],
+     "correta": 2,
+     "ref": "42:1"
+    }
+   ]
+  },
+  {
+   "n": 43,
+   "titulo": "Envia tua luz e tua verdade",
+   "chave": "43:3",
+   "resumo": "Salmo curto que parece continuar o Salmo 42, com o mesmo refrão no final. O salmista pede que Deus defenda sua causa contra gente enganadora e pergunta por que se sente rejeitado. Pede que a luz e a verdade de Deus o conduzam de volta ao altar, onde Deus é sua maior alegria.",
+   "licoes": [
+    "Podemos pedir que Deus defenda nossa causa contra a injustiça (43:1).",
+    "A luz e a verdade de Deus nos guiam de volta à sua presença (43:3).",
+    "Deus é a maior alegria do adorador (43:4-5)."
+   ],
+   "reflexao": "Em que você precisa que a luz e a verdade de Deus o guiem agora?",
+   "quiz": [
+    {
+     "pergunta": "O que o salmista pede que Deus envie para guiá-lo?",
+     "opcoes": [
+      "Seus anjos e profetas",
+      "Sua luz e sua verdade",
+      "Fogo e nuvem",
+      "Chuva e orvalho"
+     ],
+     "correta": 1,
+     "ref": "43:3"
+    }
+   ]
+  },
+  {
+   "n": 44,
+   "titulo": "Por que dormes, Senhor?",
+   "chave": "44:23",
+   "resumo": "Lamento comunitário após uma derrota nacional. O povo relembra como Deus deu a terra aos pais, não pela espada deles, mas por sua mão. Agora, porém, se sente rejeitado, vencido e humilhado, embora afirme não ter esquecido a aliança, e termina clamando para que Deus desperte e o resgate por sua bondade.",
+   "licoes": [
+    "As vitórias do passado foram obra de Deus, não da força humana (44:3, 44:6).",
+    "A Bíblia admite que o povo fiel pode sofrer sem entender o porquê (44:17-19, 44:22).",
+    "A oração ousada apela à bondade de Deus quando tudo parece contrário (44:23-26)."
+   ],
+   "reflexao": "Como você reage quando sofre mesmo tentando ser fiel?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o salmo, como os pais conquistaram a terra?",
+     "opcoes": [
+      "Pela mão direita e pelo braço de Deus",
+      "Pela força de suas espadas",
+      "Por alianças com outros povos",
+      "Comprando-a dos cananeus"
+     ],
+     "correta": 0,
+     "ref": "44:3"
+    }
+   ]
+  },
+  {
+   "n": 45,
+   "titulo": "Canção para o casamento do rei",
+   "chave": "45:6-7",
+   "resumo": "Salmo real composto como canção de casamento. O poeta exalta a beleza, a justiça e as vitórias do rei, cujo trono é eterno e cujo cetro é de equidade. Depois se dirige à noiva, que deixa a casa do pai e é levada ao palácio em vestes de ouro, e promete que o nome do rei será lembrado por todas as gerações.",
+   "licoes": [
+    "O governo que agrada a Deus ama a justiça e odeia a maldade (45:6-7).",
+    "A verdadeira glória do rei inclui verdade e mansidão (45:4).",
+    "A noiva é chamada a deixar o passado e unir-se ao rei (45:10-11)."
+   ],
+   "reflexao": "Que qualidades do Rei descritas aqui você deseja ver mais em sua vida?",
+   "quiz": [
+    {
+     "pergunta": "Como é descrito o cetro do reino do rei?",
+     "opcoes": [
+      "Cetro de ferro",
+      "Cetro de marfim",
+      "Cetro de equidade",
+      "Cetro de ouro"
+     ],
+     "correta": 2,
+     "ref": "45:6"
+    }
+   ]
+  },
+  {
+   "n": 46,
+   "titulo": "Deus é nosso refúgio",
+   "chave": "46:1",
+   "resumo": "Cântico de confiança dos filhos de Coré, com refrão: \"O SENHOR dos exércitos está conosco\". Mesmo que a terra trema e os montes caiam no mar, não haverá medo, porque Deus está no meio da sua cidade. Ele faz cessar as guerras e manda: \"Aquietai-vos e sabei que eu sou Deus\".",
+   "licoes": [
+    "Deus é refúgio e socorro presente nas crises (46:1-3).",
+    "A presença de Deus no meio de seu povo dá firmeza (46:5, 46:7).",
+    "Deus põe fim às guerras e nos chama a parar e reconhecê-lo (46:9-10)."
+   ],
+   "reflexao": "O que significaria para você \"ficar quieto e saber\" que ele é Deus esta semana?",
+   "quiz": [
+    {
+     "pergunta": "O que alegra a cidade de Deus, segundo o salmo?",
+     "opcoes": [
+      "Os muros altos",
+      "Os carros de guerra",
+      "Os tesouros do templo",
+      "Um rio e seus ribeiros"
+     ],
+     "correta": 3,
+     "ref": "46:4"
+    }
+   ]
+  },
+  {
+   "n": 47,
+   "titulo": "O grande Rei sobre toda a terra",
+   "chave": "47:7",
+   "resumo": "Hino de entronização que chama todos os povos a bater palmas e aclamar a Deus. O SENHOR é o grande Rei de toda a terra, que sobe ao som de trombeta e se assenta no trono. No fim, os líderes das nações se reúnem ao povo do Deus de Abraão.",
+   "licoes": [
+    "O louvor a Deus é chamado a ser alegre e de todos os povos (47:1).",
+    "Deus reina sobre toda a terra, não só sobre Israel (47:2, 47:8).",
+    "O louvor deve ser cantado com entendimento (47:7).",
+    "As nações são convidadas a se unir ao povo do Deus de Abraão (47:9)."
+   ],
+   "reflexao": "Seu louvor tem sido feito com alegria e com entendimento?",
+   "quiz": [
+    {
+     "pergunta": "A que povo se juntaram os chefes dos povos?",
+     "opcoes": [
+      "Ao povo do Deus de Abraão",
+      "Ao povo da Babilônia",
+      "Ao povo do Egito",
+      "Aos filisteus"
+     ],
+     "correta": 0,
+     "ref": "47:9"
+    }
+   ]
+  },
+  {
+   "n": 48,
+   "titulo": "A cidade do grande Rei",
+   "chave": "48:1-2",
+   "resumo": "Cântico de Sião que celebra Jerusalém como a cidade de Deus. Reis inimigos se reuniram contra ela, mas, ao vê-la, fugiram tomados de pavor. O povo medita na bondade de Deus no templo e é convidado a percorrer os muros e torres para contar às próximas gerações que este Deus os guiará para sempre.",
+   "licoes": [
+    "A segurança da cidade vem de Deus, que nela é conhecido como refúgio (48:3).",
+    "Meditar na bondade de Deus faz parte da adoração (48:9).",
+    "Devemos contar à geração seguinte o que Deus fez (48:12-14)."
+   ],
+   "reflexao": "O que você tem contado à próxima geração sobre a fidelidade de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Por que o povo deve observar os muros e palácios de Sião?",
+     "opcoes": [
+      "Para planejar uma guerra",
+      "Para reconstruí-los",
+      "Para contar à geração seguinte",
+      "Para cobrar impostos"
+     ],
+     "correta": 2,
+     "ref": "48:13"
+    }
+   ]
+  },
+  {
+   "n": 49,
+   "titulo": "A riqueza não compra a vida",
+   "chave": "49:7-8",
+   "resumo": "Salmo de sabedoria dirigido a todos, ricos e pobres. O salmista pergunta por que temer os que confiam em riquezas, se nenhum dinheiro pode pagar o resgate de uma vida. Sábios e tolos morrem e deixam seus bens a outros, mas ele confia que Deus resgatará sua alma do mundo dos mortos.",
+   "licoes": [
+    "Nenhuma riqueza pode comprar a vida ou pagar o resgate da alma (49:7-8).",
+    "A morte iguala sábios, tolos, ricos e pobres (49:10, 49:17).",
+    "A esperança do fiel é que Deus resgate sua vida da morte (49:15)."
+   ],
+   "reflexao": "Em que você tem colocado sua segurança para o futuro?",
+   "quiz": [
+    {
+     "pergunta": "O que o rico leva consigo quando morre?",
+     "opcoes": [
+      "Sua glória",
+      "Seus títulos",
+      "Nada",
+      "Metade dos bens"
+     ],
+     "correta": 2,
+     "ref": "49:17"
+    }
+   ]
+  },
+  {
+   "n": 50,
+   "titulo": "Deus convoca o seu povo",
+   "chave": "50:14-15",
+   "resumo": "Salmo profético de Asafe em forma de tribunal. Deus aparece em fogo e chama céus e terra para julgar seu povo. Ele não precisa de animais, pois tudo lhe pertence, e pede sacrifício de louvor e oração sincera; depois repreende quem recita a aliança mas vive no roubo, no adultério e na calúnia.",
+   "licoes": [
+    "Deus não depende de nossas ofertas, pois tudo é dele (50:10-12).",
+    "O que Deus pede é gratidão, fidelidade às promessas e oração na angústia (50:14-15).",
+    "Falar da aliança sem viver segundo ela é hipocrisia (50:16-20).",
+    "O silêncio de Deus não significa aprovação do pecado (50:21)."
+   ],
+   "reflexao": "Sua vida diária combina com as palavras que você diz na igreja?",
+   "quiz": [
+    {
+     "pergunta": "Que tipo de sacrifício Deus pede que lhe seja oferecido?",
+     "opcoes": [
+      "Sacrifício de ouro",
+      "Sacrifício de cordeiros",
+      "Sacrifício de louvor",
+      "Sacrifício de touros"
+     ],
+     "correta": 2,
+     "ref": "50:14"
+    }
+   ]
+  },
+  {
+   "n": 51,
+   "titulo": "Cria em mim um coração puro",
+   "chave": "51:10",
+   "resumo": "Salmo penitencial de Davi depois que o profeta Natã o confrontou pelo adultério com Bate-Seba. Ele apela à misericórdia de Deus, reconhece seu pecado sem desculpas e pede para ser lavado e purificado. Pede um coração novo, a presença do Espírito e a alegria da salvação, sabendo que Deus não despreza um coração quebrantado.",
+   "licoes": [
+    "O arrependimento verdadeiro apela à misericórdia de Deus e não a desculpas (51:1-4).",
+    "Só Deus pode limpar o pecado e criar um coração novo (51:7, 51:10).",
+    "Quem foi perdoado se torna testemunha para outros pecadores (51:13).",
+    "Deus aceita o coração quebrantado mais do que rituais (51:16-17)."
+   ],
+   "reflexao": "O que significaria para você pedir hoje: \"Cria em mim um coração puro\"?",
+   "quiz": [
+    {
+     "pergunta": "Quem foi até Davi antes deste salmo, segundo o título?",
+     "opcoes": [
+      "O profeta Samuel",
+      "O profeta Natã",
+      "O sacerdote Abiatar",
+      "O profeta Gade"
+     ],
+     "correta": 1,
+     "ref": "51:1"
+    }
+   ]
+  },
+  {
+   "n": 52,
+   "titulo": "A oliveira e a língua enganadora",
+   "chave": "52:8",
+   "resumo": "Salmo ligado à traição de Doegue, o edomita, que denunciou a Saul a visita de Davi ao sacerdote Aimeleque. O salmo denuncia o homem poderoso que se orgulha do mal, ama a mentira e confia nas riquezas. Em contraste, Davi se vê como oliveira verde na casa de Deus, confiando em sua bondade para sempre.",
+   "licoes": [
+    "A língua pode ser uma navalha afiada que destrói (52:2-4).",
+    "Confiar nas riquezas em vez de em Deus leva à queda (52:7).",
+    "Quem confia na bondade de Deus floresce como oliveira verde (52:8)."
+   ],
+   "reflexao": "Suas palavras recentes edificaram ou feriram alguém?",
+   "quiz": [
+    {
+     "pergunta": "Com que árvore Davi se compara neste salmo?",
+     "opcoes": [
+      "Cedro",
+      "Figueira",
+      "Palmeira",
+      "Oliveira verde"
+     ],
+     "correta": 3,
+     "ref": "52:8"
+    }
+   ]
+  },
+  {
+   "n": 53,
+   "titulo": "O tolo, outra vez",
+   "chave": "53:1",
+   "resumo": "Salmo quase idêntico ao Salmo 14, usando \"Deus\" em vez de \"SENHOR\" e com um final ligeiramente diferente. Descreve o tolo que nega a Deus e uma humanidade em que ninguém faz o bem. Os opressores são tomados de pavor quando Deus espalha seus ossos, e o salmo deseja a salvação de Israel.",
+   "licoes": [
+    "A Bíblia repete verdades importantes para que não as esqueçamos (53:1-3).",
+    "Viver sem clamar a Deus leva à opressão dos outros (53:4).",
+    "Deus pode transformar o medo dos fiéis em medo dos opressores (53:5-6)."
+   ],
+   "reflexao": "Por que você acha que Deus repetiria uma mensagem quase igual em dois salmos?",
+   "quiz": [
+    {
+     "pergunta": "Quantas pessoas Deus encontrou que fazem o bem?",
+     "opcoes": [
+      "Algumas",
+      "Nenhuma, nem uma sequer",
+      "Muitas",
+      "Dez"
+     ],
+     "correta": 1,
+     "ref": "53:3"
+    }
+   ]
+  },
+  {
+   "n": 54,
+   "titulo": "Deus é quem me socorre",
+   "chave": "54:4",
+   "resumo": "Lamento breve de Davi quando os zifeus revelaram a Saul onde ele se escondia. Ele pede que Deus o salve por seu nome e poder diante de homens violentos que não temem a Deus. No meio do salmo afirma que Deus o socorre e termina prometendo oferecer sacrifícios de boa vontade.",
+   "licoes": [
+    "Quando somos traídos, podemos apelar ao nome e ao poder de Deus (54:1).",
+    "Deus é o ajudador dos que estão em perigo (54:4).",
+    "O livramento leva à gratidão espontânea (54:6-7)."
+   ],
+   "reflexao": "Quem tem sido instrumento de Deus para sustentar você?",
+   "quiz": [
+    {
+     "pergunta": "Quem revelou a Saul que Davi estava escondido entre eles?",
+     "opcoes": [
+      "Os zifeus",
+      "Os filisteus",
+      "Os amalequitas",
+      "Os edomitas"
+     ],
+     "correta": 0,
+     "ref": "54:1"
+    }
+   ]
+  },
+  {
+   "n": 55,
+   "titulo": "Asas de pomba",
+   "chave": "55:22",
+   "resumo": "Lamento de quem está aterrorizado pela violência na cidade e deseja ter asas de pomba para fugir. A dor maior é a traição de um amigo íntimo, com quem ia à casa de Deus, cujas palavras eram suaves como azeite mas escondiam espadas. Ele decide orar de manhã, à tarde e ao meio-dia e aconselha a lançar sobre o SENHOR as preocupações.",
+   "licoes": [
+    "O desejo de fugir dos problemas é humano e pode ser dito a Deus (55:6-8).",
+    "A traição de alguém próximo dói mais que o ataque de um inimigo (55:12-14).",
+    "A oração constante sustenta em tempos difíceis (55:16-17).",
+    "Podemos entregar nossas preocupações ao SENHOR, que nos sustenta (55:22)."
+   ],
+   "reflexao": "Que preocupação você precisa entregar ao SENHOR hoje?",
+   "quiz": [
+    {
+     "pergunta": "Que animal o salmista gostaria de imitar para voar para longe?",
+     "opcoes": [
+      "A águia",
+      "A pomba",
+      "O pardal",
+      "A andorinha"
+     ],
+     "correta": 1,
+     "ref": "55:6"
+    }
+   ]
+  },
+  {
+   "n": 56,
+   "titulo": "No dia em que eu tiver medo",
+   "chave": "56:3-4",
+   "resumo": "Lamento de Davi quando foi preso pelos filisteus em Gate. Ele é perseguido todo dia por inimigos que distorcem suas palavras, mas repete: \"Em Deus eu confio, não temerei\". Afirma que Deus guarda suas lágrimas num odre e termina agradecendo o livramento da morte.",
+   "licoes": [
+    "Ter medo não é falta de fé; a fé é confiar em Deus no dia do medo (56:3).",
+    "Diante de Deus, o poder humano é limitado (56:4, 56:11).",
+    "Deus registra e guarda cada lágrima nossa (56:8)."
+   ],
+   "reflexao": "Qual medo seu precisa ouvir hoje a frase \"em Deus eu confio\"?",
+   "quiz": [
+    {
+     "pergunta": "Onde o salmista pede que Deus guarde suas lágrimas?",
+     "opcoes": [
+      "No seu odre",
+      "Num vaso de barro",
+      "Numa arca",
+      "No altar"
+     ],
+     "correta": 0,
+     "ref": "56:8"
+    }
+   ]
+  },
+  {
+   "n": 57,
+   "titulo": "Coração firme na caverna",
+   "chave": "57:7",
+   "resumo": "Lamento de Davi escrito quando se escondia de Saul numa caverna. Ele se refugia à sombra das asas de Deus, sentindo-se entre leões, mas confiante de que Deus completará sua obra. A segunda metade é um louvor de coração firme, que quer despertar a aurora com música e exaltar a glória de Deus sobre a terra.",
+   "licoes": [
+    "O refúgio sob as asas de Deus vale até que a tempestade passe (57:1).",
+    "Deus cumpre o que começou em nossa vida (57:2).",
+    "É possível ter o coração firme e louvar mesmo na caverna (57:7-8).",
+    "A bondade e a fidelidade de Deus são maiores que o céu (57:10)."
+   ],
+   "reflexao": "Que \"caverna\" você está atravessando, e como seria louvar a Deus nela?",
+   "quiz": [
+    {
+     "pergunta": "Onde Davi estava quando compôs este salmo, segundo o título?",
+     "opcoes": [
+      "No templo",
+      "No palácio",
+      "Na caverna, fugindo de Saul",
+      "Em Gate"
+     ],
+     "correta": 2,
+     "ref": "57:1"
+    }
+   ]
+  },
+  {
+   "n": 58,
+   "titulo": "Há um Deus que julga",
+   "chave": "58:11",
+   "resumo": "Salmo de denúncia contra juízes e governantes injustos, que deveriam julgar com retidão mas praticam violência. Os perversos são comparados à cobra surda que não ouve o encantador. O salmista pede, com imagens duras, que Deus os desarme e conclui que há recompensa para o justo e um Deus que julga na terra.",
+   "licoes": [
+    "Quem tem autoridade para julgar será cobrado por Deus pela justiça (58:1-2).",
+    "Recusar-se a ouvir a correção é como a cobra que tapa os ouvidos (58:4-5).",
+    "As imagens fortes expressam o desejo de que a injustiça termine, e entregam a vingança a Deus (58:6-7).",
+    "No fim, ficará claro que há um Deus que julga (58:11)."
+   ],
+   "reflexao": "Como você lida com a revolta diante da injustiça: entrega a Deus ou guarda rancor?",
+   "quiz": [
+    {
+     "pergunta": "A que animal o salmo compara os perversos que não ouvem?",
+     "opcoes": [
+      "Ao leão faminto",
+      "À cobra surda",
+      "Ao lobo do deserto",
+      "À raposa astuta"
+     ],
+     "correta": 1,
+     "ref": "58:4"
+    }
+   ]
+  },
+  {
+   "n": 59,
+   "titulo": "Deus é o meu refúgio",
+   "chave": "59:9-10",
+   "resumo": "Lamento de Davi quando Saul mandou homens vigiar sua casa para matá-lo. O salmista se declara inocente e descreve os inimigos como cães que voltam à noite, latindo e rondando a cidade. Contra isso, ele espera em Deus, sua força, e promete cantar de manhã a bondade divina.",
+   "licoes": [
+    "Podemos clamar a Deus quando somos perseguidos sem culpa (59:3-4).",
+    "Deus ri dos planos arrogantes dos que acham que ninguém ouve (59:7-8).",
+    "A noite de ameaça dá lugar ao louvor da manhã (59:16-17)."
+   ],
+   "reflexao": "O que você costuma fazer quando ameaças \"rondam\" sua vida à noite?",
+   "quiz": [
+    {
+     "pergunta": "Com que animais os inimigos são comparados, rondando a cidade ao anoitecer?",
+     "opcoes": [
+      "Cães",
+      "Chacais",
+      "Lobos",
+      "Hienas"
+     ],
+     "correta": 0,
+     "ref": "59:6"
+    }
+   ]
+  },
+  {
+   "n": 60,
+   "titulo": "Com Deus faremos proezas",
+   "chave": "60:12",
+   "resumo": "Lamento nacional após uma derrota, associado no título às guerras de Davi contra Arã e Edom. O povo sente que Deus o rejeitou e abalou a terra. Então Deus fala do santuário reivindicando as terras e as nações como suas, e o salmo termina reconhecendo que o socorro humano é inútil, mas com Deus haverá vitória.",
+   "licoes": [
+    "Derrotas podem levar o povo a buscar restauração em Deus (60:1-3).",
+    "Deus afirma seu domínio sobre todas as terras e povos (60:6-8).",
+    "A salvação humana é inútil; a vitória vem de Deus (60:11-12)."
+   ],
+   "reflexao": "Em que desafio você tem contado só com recursos humanos?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o título, onde Joabe feriu doze mil edomitas?",
+     "opcoes": [
+      "No vale de Josafá",
+      "No vale de Elá",
+      "No monte Gilboa",
+      "No Vale do Sal"
+     ],
+     "correta": 3,
+     "ref": "60:1"
+    }
+   ]
+  },
+  {
+   "n": 61,
+   "titulo": "Leva-me à rocha mais alta",
+   "chave": "61:2",
+   "resumo": "Oração de alguém que clama \"desde o limite da terra\", com o coração abatido. Ele pede para ser levado a uma rocha alta e deseja morar na tenda de Deus, sob suas asas. Ora também pelo rei, pedindo vida longa e proteção, e promete cantar e cumprir seus votos todos os dias.",
+   "licoes": [
+    "Mesmo longe e abatidos, podemos clamar a Deus (61:1-2).",
+    "Deus é torre forte e refúgio diante do inimigo (61:3-4).",
+    "A oração pelos governantes faz parte da fé (61:6-7)."
+   ],
+   "reflexao": "Que \"rocha mais alta\" você precisa pedir a Deus hoje?",
+   "quiz": [
+    {
+     "pergunta": "De onde o salmista diz clamar a Deus?",
+     "opcoes": [
+      "Do vale de lágrimas",
+      "Do limite da terra",
+      "Do alto do monte",
+      "Do templo"
+     ],
+     "correta": 1,
+     "ref": "61:2"
+    }
+   ]
+  },
+  {
+   "n": 62,
+   "titulo": "Só em Deus a alma descansa",
+   "chave": "62:1-2",
+   "resumo": "Salmo de confiança em que Davi repete que somente em Deus sua alma se aquieta. Inimigos falam bem com a boca mas amaldiçoam por dentro e querem derrubá-lo. Ele chama o povo a derramar o coração diante de Deus e alerta que os homens e as riquezas são leves como um sopro, pois o poder e a bondade pertencem a Deus.",
+   "licoes": [
+    "A verdadeira quietude da alma vem só de Deus (62:1, 62:5).",
+    "Podemos confiar em Deus em todo tempo e derramar o coração diante dele (62:8).",
+    "Riquezas e prestígio humano não merecem a confiança do coração (62:9-10).",
+    "Poder e bondade pertencem a Deus (62:11-12)."
+   ],
+   "reflexao": "O que você precisa \"derramar\" diante de Deus hoje?",
+   "quiz": [
+    {
+     "pergunta": "O que o salmo aconselha fazer quando os bens aumentarem?",
+     "opcoes": [
+      "Não pôr neles o coração",
+      "Dar tudo ao templo",
+      "Investir em terras",
+      "Guardá-los bem"
+     ],
+     "correta": 0,
+     "ref": "62:10"
+    }
+   ]
+  },
+  {
+   "n": 63,
+   "titulo": "Tua bondade é melhor que a vida",
+   "chave": "63:3",
+   "resumo": "Salmo de Davi no deserto de Judá. Em terra seca e sem água, ele expressa sede profunda de Deus e lembra de tê-lo contemplado no santuário. Declara que a bondade de Deus é melhor do que a vida, medita nele à noite e se apega a ele, confiante de que os inimigos não prevalecerão.",
+   "licoes": [
+    "A sede física no deserto se torna imagem da sede de Deus (63:1).",
+    "A bondade de Deus vale mais do que a própria vida (63:3).",
+    "Lembrar de Deus à noite transforma a vigília em comunhão (63:6-7).",
+    "A alma se apega a Deus e é sustentada por sua mão (63:8)."
+   ],
+   "reflexao": "O que mostra, na sua rotina, que você tem sede de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Onde estava Davi quando compôs este salmo, segundo o título?",
+     "opcoes": [
+      "Em Hebrom",
+      "Na caverna de Adulão",
+      "No deserto de Judá",
+      "No palácio de Jerusalém"
+     ],
+     "correta": 2,
+     "ref": "63:1"
+    }
+   ]
+  },
+  {
+   "n": 64,
+   "titulo": "Flechas de palavras",
+   "chave": "64:3",
+   "resumo": "Lamento contra um grupo de malfeitores que afiam a língua como espada e lançam palavras amargas como flechas, às escondidas. Eles planejam armadilhas achando que ninguém verá. Mas Deus os atinge com sua flecha, a própria língua os faz tropeçar, e os justos se alegram no SENHOR.",
+   "licoes": [
+    "Palavras podem ser armas que ferem o inocente (64:3-4).",
+    "Quem planeja o mal costuma pensar que ninguém está vendo (64:5).",
+    "O mal das palavras acaba se voltando contra quem o pratica (64:7-8)."
+   ],
+   "reflexao": "Você já usou palavras como flechas? Como pode reparar isso?",
+   "quiz": [
+    {
+     "pergunta": "Com o que os malfeitores afiam sua língua?",
+     "opcoes": [
+      "Como espada",
+      "Como lança",
+      "Como navalha",
+      "Como dente de leão"
+     ],
+     "correta": 0,
+     "ref": "64:3"
+    }
+   ]
+  },
+  {
+   "n": 65,
+   "titulo": "Coroas o ano com bondade",
+   "chave": "65:11",
+   "resumo": "Hino de ação de graças pela bondade de Deus. Começa no templo, onde Deus ouve orações e perdoa transgressões, e se amplia para o Deus que firma os montes e acalma os mares. Termina celebrando a chuva e a colheita: Deus rega a terra, coroa o ano com fartura, e os campos e vales parecem cantar.",
+   "licoes": [
+    "Deus ouve as orações e perdoa as culpas (65:2-3).",
+    "O mesmo Deus que acalma os mares acalma o tumulto dos povos (65:7).",
+    "Cada colheita é um sinal do cuidado de Deus pela terra (65:9-11)."
+   ],
+   "reflexao": "Que bênçãos simples deste ano você pode agradecer a Deus?",
+   "quiz": [
+    {
+     "pergunta": "Com o que Deus coroa o ano, segundo o salmo?",
+     "opcoes": [
+      "Com ouro",
+      "Com vitórias",
+      "Com a sua bondade",
+      "Com festas"
+     ],
+     "correta": 2,
+     "ref": "65:11"
+    }
+   ]
+  },
+  {
+   "n": 66,
+   "titulo": "Vinde e vede as obras de Deus",
+   "chave": "66:16",
+   "resumo": "Hino que convida toda a terra a louvar as obras de Deus, lembrando a travessia do mar a pé enxuto. Reconhece que Deus provou seu povo como prata no fogo, mas o levou a um lugar de abundância. Depois o salmista cumpre seus votos no templo e conta a todos como Deus ouviu sua oração.",
+   "licoes": [
+    "Os grandes atos de Deus no passado, como a passagem pelo mar, alimentam o louvor (66:5-6).",
+    "As provações podem refinar o povo de Deus como prata (66:10-12).",
+    "Quem foi ouvido deve contar aos outros o que Deus fez (66:16, 66:19-20).",
+    "Guardar o pecado no coração atrapalha a oração (66:18)."
+   ],
+   "reflexao": "O que Deus fez por você que vale a pena contar a alguém?",
+   "quiz": [
+    {
+     "pergunta": "Com o que o salmista compara o modo como Deus provou o seu povo?",
+     "opcoes": [
+      "Com o oleiro moldando o barro",
+      "Com a debulha do trigo",
+      "Com o refino da prata",
+      "Com a poda da videira"
+     ],
+     "correta": 2,
+     "ref": "66:10"
+    }
+   ]
+  },
+  {
+   "n": 67,
+   "titulo": "Que todos os povos te louvem",
+   "chave": "67:1-2",
+   "resumo": "Breve hino de bênção, que ecoa a bênção sacerdotal de Números 6. O povo pede que Deus o abençoe e faça brilhar seu rosto, com um propósito: que o caminho e a salvação de Deus sejam conhecidos em toda a terra. O refrão chama todos os povos a louvar, e a colheita aparece como sinal da bênção.",
+   "licoes": [
+    "A bênção de Deus sobre seu povo tem um alvo: que todas as nações o conheçam (67:1-2).",
+    "Deus julga e guia os povos com equidade, e isso é motivo de alegria (67:4).",
+    "A boa colheita é vista como bênção de Deus que leva os confins da terra a temê-lo (67:6-7)."
+   ],
+   "reflexao": "Como as bênçãos que você recebe podem ajudar outros a conhecer a Deus?",
+   "quiz": [
+    {
+     "pergunta": "Para que o salmista pede que Deus abençoe o seu povo?",
+     "opcoes": [
+      "Para que vença as guerras",
+      "Para que fique rico",
+      "Para que seu caminho seja conhecido na terra",
+      "Para que construa um templo"
+     ],
+     "correta": 2,
+     "ref": "67:2"
+    }
+   ]
+  },
+  {
+   "n": 68,
+   "titulo": "Pai dos órfãos",
+   "chave": "68:5-6",
+   "resumo": "Hino longo e vibrante que celebra Deus como guerreiro vitorioso que marcha à frente de seu povo desde o deserto e o Sinai até o monte que escolheu para morar. No meio das imagens de batalha, Deus aparece como pai dos órfãos, defensor das viúvas e quem dá família aos solitários. Termina com uma procissão festiva e com os reinos da terra chamados a cantar a Deus.",
+   "licoes": [
+    "Deus cuida especialmente dos órfãos, das viúvas, dos solitários e dos presos (68:5-6).",
+    "O Deus do êxodo e do Sinai continua guiando e sustentando seu povo (68:7-10).",
+    "Dia após dia Deus nos carrega e nos salva (68:19-20).",
+    "Todos os reinos da terra são convidados a louvar o Senhor (68:31-32)."
+   ],
+   "reflexao": "Quem são os \"solitários\" ao seu redor que precisam ser acolhidos numa família?",
+   "quiz": [
+    {
+     "pergunta": "Como Deus é chamado em relação aos órfãos?",
+     "opcoes": [
+      "Pai dos órfãos",
+      "Mestre dos órfãos",
+      "Juiz dos órfãos",
+      "Rei dos órfãos"
+     ],
+     "correta": 0,
+     "ref": "68:5"
+    }
+   ]
+  },
+  {
+   "n": 69,
+   "titulo": "O zelo pela tua casa",
+   "chave": "69:9",
+   "resumo": "Lamento intenso de alguém que se sente afundando em águas profundas e lama. Ele é odiado sem motivo, rejeitado pela própria família e ridicularizado por causa do seu zelo pela casa de Deus; quando teve sede, deram-lhe vinagre. Depois de pedir duramente o juízo sobre os inimigos, termina em louvor, certo de que Deus ouve os necessitados.",
+   "licoes": [
+    "Ser fiel a Deus pode trazer rejeição, até dentro da família (69:7-9).",
+    "O salmista reconhece suas próprias falhas diante de Deus (69:5).",
+    "A oração se apoia na grandeza da bondade de Deus (69:13, 69:16).",
+    "O louvor agradecido agrada a Deus mais que sacrifícios (69:30-31)."
+   ],
+   "reflexao": "Você já sofreu algum tipo de rejeição por causa da fé? Como reagiu?",
+   "quiz": [
+    {
+     "pergunta": "O que deram ao salmista para beber quando ele teve sede?",
+     "opcoes": [
+      "Leite azedo",
+      "Vinho",
+      "Vinagre",
+      "Água amarga"
+     ],
+     "correta": 2,
+     "ref": "69:21"
+    }
+   ]
+  },
+  {
+   "n": 70,
+   "titulo": "Apressa-te, SENHOR",
+   "chave": "70:1",
+   "resumo": "Oração curta e urgente, quase igual ao final do Salmo 40. O salmista pede que Deus venha depressa socorrê-lo e que seus perseguidores sejam envergonhados. Ao mesmo tempo, deseja que todos os que buscam a Deus se alegrem e termina reconhecendo-se pobre e necessitado.",
+   "licoes": [
+    "Orações curtas e urgentes também são orações legítimas (70:1, 70:5).",
+    "Quem ama a salvação de Deus deve dizer continuamente \"Engrandecido seja Deus\" (70:4).",
+    "Reconhecer-se necessitado é o ponto de partida para receber socorro (70:5)."
+   ],
+   "reflexao": "Qual seria a sua oração curta e urgente para hoje?",
+   "quiz": [
+    {
+     "pergunta": "Como o salmista descreve a si mesmo no último versículo?",
+     "opcoes": [
+      "Forte e corajoso",
+      "Rei e guerreiro",
+      "Justo e sábio",
+      "Miserável e necessitado"
+     ],
+     "correta": 3,
+     "ref": "70:5"
+    }
+   ]
+  },
+  {
+   "n": 71,
+   "titulo": "Não me abandones na velhice",
+   "chave": "71:9",
+   "resumo": "Oração de alguém idoso que confia em Deus desde o ventre da mãe. Inimigos dizem que Deus o abandonou, mas ele pede que Deus não o deixe quando as forças acabarem. Promete continuar anunciando a justiça de Deus à próxima geração e termina com louvor ao Santo de Israel.",
+   "licoes": [
+    "A fé pode acompanhar toda a vida, da infância à velhice (71:5-6).",
+    "Na fraqueza da idade, podemos pedir que Deus não nos abandone (71:9, 71:18).",
+    "Os mais velhos têm a missão de contar às novas gerações o que Deus fez (71:17-18).",
+    "Deus pode nos trazer de volta à vida depois de muitas aflições (71:20)."
+   ],
+   "reflexao": "Que história de fé você ouviu de alguém mais velho, ou pode contar a alguém mais novo?",
+   "quiz": [
+    {
+     "pergunta": "Desde quando o salmista diz ter se apoiado em Deus?",
+     "opcoes": [
+      "Desde que se tornou rei",
+      "Desde a velhice",
+      "Desde o ventre de sua mãe",
+      "Desde o exílio"
+     ],
+     "correta": 2,
+     "ref": "71:6"
+    }
+   ]
+  },
+  {
+   "n": 72,
+   "titulo": "O reinado justo",
+   "chave": "72:12-13",
+   "resumo": "Salmo real, com o título \"para Salomão\" (ou \"de Salomão\"), que pede a Deus justiça para o rei. O rei ideal defende os pobres, livra o necessitado e esmaga o opressor, e seu reino traz paz e fartura de mar a mar. As nações lhe trazem presentes, e o salmo termina com a doxologia que fecha o Segundo Livro e a nota de que acabam as orações de Davi.",
+   "licoes": [
+    "O governo que agrada a Deus é medido pelo cuidado com os pobres e oprimidos (72:4, 72:12-14).",
+    "A justiça traz paz e prosperidade ao povo (72:3, 72:7).",
+    "O reino ideal alcança todas as nações e as abençoa (72:11, 72:17).",
+    "Toda glória pertence ao SENHOR, que enche a terra com ela (72:18-19)."
+   ],
+   "reflexao": "Como você pode defender o pobre e o oprimido na sua realidade?",
+   "quiz": [
+    {
+     "pergunta": "O que diz o último versículo deste salmo?",
+     "opcoes": [
+      "Que começa o reinado de Salomão",
+      "Que terminam as orações de Davi, filho de Jessé",
+      "Que Davi morreu em paz",
+      "Que o templo foi construído"
+     ],
+     "correta": 1,
+     "ref": "72:20"
+    }
+   ]
+  },
+  {
+   "n": 73,
+   "titulo": "Até que entrei no santuário",
+   "chave": "73:25-26",
+   "resumo": "Salmo de sabedoria de Asafe que abre o Terceiro Livro. Ele confessa que quase escorregou ao invejar a prosperidade dos arrogantes e achou inútil ter mantido o coração puro. Só ao entrar no santuário de Deus entendeu o fim deles e descobriu que seu maior bem é estar perto de Deus.",
+   "licoes": [
+    "A inveja da prosperidade dos maus pode abalar a fé (73:2-3, 73:13).",
+    "A perspectiva muda quando nos aproximamos de Deus em adoração (73:16-17).",
+    "Deus segura nossa mão e nos guia com seu conselho (73:23-24).",
+    "Nada no céu ou na terra se compara a ter Deus como porção (73:25-26, 73:28)."
+   ],
+   "reflexao": "O que muda na sua visão das coisas quando você entra na presença de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Onde o salmista entendeu o fim dos perversos?",
+     "opcoes": [
+      "Nos santuários de Deus",
+      "No palácio do rei",
+      "No campo, à noite",
+      "Na porta da cidade"
+     ],
+     "correta": 0,
+     "ref": "73:17"
+    }
+   ]
+  },
+  {
+   "n": 74,
+   "titulo": "O santuário em ruínas",
+   "chave": "74:2",
+   "resumo": "Lamento comunitário diante da destruição do santuário por inimigos que o queimaram e quebraram seus entalhes. O povo se sente rejeitado, sem sinais nem profetas, e pergunta até quando o inimigo zombará. Então lembra o poder de Deus como Rei antigo, criador do dia e da noite, e pede que ele se levante em defesa dos pobres e da sua aliança.",
+   "licoes": [
+    "Diante de grandes perdas, o povo pode perguntar a Deus \"por quê?\" e \"até quando?\" (74:1, 74:10).",
+    "Lembrar o poder de Deus na criação e no êxodo sustenta a esperança (74:12-17).",
+    "A oração apela à aliança e ao cuidado de Deus pelos pobres (74:19-21)."
+   ],
+   "reflexao": "O que você faz quando algo precioso para sua fé é destruído?",
+   "quiz": [
+    {
+     "pergunta": "O que os inimigos fizeram ao santuário?",
+     "opcoes": [
+      "Usaram-no como palácio",
+      "Puseram fogo nele",
+      "Levaram-no para a Babilônia sem danos",
+      "Reconstruíram-no"
+     ],
+     "correta": 1,
+     "ref": "74:7"
+    }
+   ]
+  },
+  {
+   "n": 75,
+   "titulo": "Deus é o juiz",
+   "chave": "75:7",
+   "resumo": "Salmo de ação de graças em que Deus fala, afirmando que julgará com retidão no tempo certo e que sustenta as colunas da terra. Os arrogantes são advertidos a não se exaltarem, pois a exaltação não vem de nenhum ponto cardeal, mas de Deus. O SENHOR segura um cálice de juízo para os perversos, enquanto o salmista promete louvar para sempre.",
+   "licoes": [
+    "Deus julga no tempo que ele determinou (75:2).",
+    "O orgulho é advertido: o sucesso não vem de onde pensamos (75:4-6).",
+    "É Deus quem abate um e exalta outro (75:7)."
+   ],
+   "reflexao": "Em que área você precisa lembrar que o sucesso vem de Deus?",
+   "quiz": [
+    {
+     "pergunta": "De onde vem a exaltação, segundo o salmo?",
+     "opcoes": [
+      "Do ocidente",
+      "De Deus, que é o Juiz",
+      "Do deserto",
+      "Do oriente"
+     ],
+     "correta": 1,
+     "ref": "75:6-7"
+    }
+   ]
+  },
+  {
+   "n": 76,
+   "titulo": "Deus vence a guerra",
+   "chave": "76:3",
+   "resumo": "Hino que celebra Deus como conhecido em Judá e morando em Sião (Salém). Ali ele quebrou flechas, escudos e espadas, e os guerreiros valentes adormeceram sem forças. Deus se levanta para julgar e salvar os humildes da terra, e reis e governantes devem temê-lo.",
+   "licoes": [
+    "Deus é mais forte que todas as armas humanas (76:3, 76:5-6).",
+    "O juízo de Deus tem como alvo salvar os mansos da terra (76:9).",
+    "Até a ira humana acaba servindo para o louvor de Deus (76:10)."
+   ],
+   "reflexao": "Que \"armas\" você gostaria que Deus quebrasse no mundo de hoje?",
+   "quiz": [
+    {
+     "pergunta": "Onde fica a morada de Deus, segundo o salmo?",
+     "opcoes": [
+      "Em Sião",
+      "Em Siló",
+      "No Sinai",
+      "Em Betel"
+     ],
+     "correta": 0,
+     "ref": "76:2"
+    }
+   ]
+  },
+  {
+   "n": 77,
+   "titulo": "Lembrarei das tuas maravilhas",
+   "chave": "77:11",
+   "resumo": "Lamento que passa a hino. O salmista, angustiado e sem sono, pergunta se Deus o rejeitou para sempre e esqueceu sua misericórdia. A virada acontece quando decide lembrar as obras antigas de Deus, especialmente a passagem pelo mar, quando Deus guiou seu povo como rebanho por meio de Moisés e Arão.",
+   "licoes": [
+    "A angústia pode tirar o sono e levantar perguntas difíceis sobre Deus (77:4, 77:7-9).",
+    "Lembrar as obras de Deus é um remédio para a alma aflita (77:11-12).",
+    "Deus abre caminho até onde não vemos pegadas (77:19-20)."
+   ],
+   "reflexao": "Que obra de Deus no passado você pode lembrar quando a dúvida aperta?",
+   "quiz": [
+    {
+     "pergunta": "Pela mão de quem Deus guiou seu povo como um rebanho?",
+     "opcoes": [
+      "De Davi e Salomão",
+      "De Josué e Calebe",
+      "De Samuel e Eli",
+      "De Moisés e Arão"
+     ],
+     "correta": 3,
+     "ref": "77:20"
+    }
+   ]
+  },
+  {
+   "n": 78,
+   "titulo": "Contai à próxima geração",
+   "chave": "78:4",
+   "resumo": "Longo salmo histórico de instrução, em que Asafe recorda a história de Israel para que os filhos não repitam os erros dos pais. Narra as maravilhas no Egito, o mar dividido, o maná e a água da rocha, e a repetida infidelidade do povo no deserto e na terra. Apesar disso, Deus foi misericordioso e, no fim, escolheu Judá, Sião e Davi, o pastor, para guiar seu povo.",
+   "licoes": [
+    "Os pais devem contar às novas gerações os feitos de Deus para que confiem nele (78:4-7).",
+    "Esquecer o que Deus fez abre caminho para a incredulidade e a rebeldia (78:11, 78:32).",
+    "Deus é misericordioso e se lembra de que somos frágeis como o vento (78:38-39).",
+    "Deus escolheu Davi, o pastor, para guiar seu povo com coração sincero (78:70-72)."
+   ],
+   "reflexao": "Que parte da história de Deus em sua família você precisa contar aos mais novos?",
+   "quiz": [
+    {
+     "pergunta": "De onde Deus tirou Davi para apascentar seu povo?",
+     "opcoes": [
+      "Da corte do faraó",
+      "Dos apriscos de ovelhas",
+      "Do templo",
+      "Do exército de Saul"
+     ],
+     "correta": 1,
+     "ref": "78:70"
+    }
+   ]
+  },
+  {
+   "n": 79,
+   "titulo": "Jerusalém em ruínas",
+   "chave": "79:9",
+   "resumo": "Lamento comunitário após a invasão de Jerusalém, com o templo profanado, a cidade em ruínas e os mortos sem sepultura. O povo, humilhado pelos vizinhos, pergunta até quando durará a ira de Deus. Pede perdão pelos pecados e socorro por amor ao nome de Deus, prometendo louvá-lo de geração em geração.",
+   "licoes": [
+    "A dor coletiva também pode ser levada a Deus em oração (79:1-5).",
+    "O pedido de socorro inclui pedido de perdão, pela honra do nome de Deus (79:8-9).",
+    "Deus ouve o gemido dos prisioneiros e condenados (79:11).",
+    "Mesmo na ruína, o povo se vê como ovelhas do pasto de Deus (79:13)."
+   ],
+   "reflexao": "Como você pode orar pelas comunidades que hoje vivem destruição e guerra?",
+   "quiz": [
+    {
+     "pergunta": "O que as nações fizeram com Jerusalém?",
+     "opcoes": [
+      "Reconstruíram seus muros",
+      "Tornaram-na em amontoados de ruínas",
+      "Deixaram-na intacta",
+      "Fizeram dela sua capital"
+     ],
+     "correta": 1,
+     "ref": "79:1"
+    }
+   ]
+  },
+  {
+   "n": 80,
+   "titulo": "Restaura-nos, ó Deus",
+   "chave": "80:3",
+   "resumo": "Lamento comunitário que invoca Deus como Pastor de Israel. Um refrão crescente pede: \"Restaura-nos e faz brilhar o teu rosto, e seremos salvos\". O povo é retratado como uma videira que Deus trouxe do Egito e plantou, mas que agora tem os muros quebrados e é devastada por animais.",
+   "licoes": [
+    "Deus é o Pastor que guia e protege seu povo (80:1).",
+    "A restauração verdadeira vem quando Deus faz brilhar seu rosto sobre nós (80:3, 80:19).",
+    "O povo de Deus é como uma videira plantada e cuidada por ele (80:8-9, 80:14-15)."
+   ],
+   "reflexao": "Em que área da sua vida você precisa pedir: \"Restaura-me, Senhor\"?",
+   "quiz": [
+    {
+     "pergunta": "Que planta o salmo usa como imagem do povo que Deus tirou do Egito?",
+     "opcoes": [
+      "Uma videira",
+      "Um cedro",
+      "Uma figueira",
+      "Uma oliveira"
+     ],
+     "correta": 0,
+     "ref": "80:8"
+    }
+   ]
+  },
+  {
+   "n": 81,
+   "titulo": "Se o meu povo me ouvisse",
+   "chave": "81:13",
+   "resumo": "Salmo festivo que convoca o povo a celebrar com música na lua nova e na lua cheia. Em seguida Deus fala, lembrando que livrou Israel da escravidão no Egito e o provou em Meribá. Ele lamenta que o povo não o ouviu e expressa o desejo de abençoá-lo com trigo e mel da rocha, se andasse em seus caminhos.",
+   "licoes": [
+    "As festas do povo de Deus servem para lembrar sua libertação (81:3-6).",
+    "Deus promete encher a boca de quem se abre para ele (81:10).",
+    "Recusar ouvir a Deus é ser entregue aos próprios desejos (81:11-12).",
+    "Deus deseja abençoar quem anda em seus caminhos (81:13, 81:16)."
+   ],
+   "reflexao": "Em que você tem preferido seguir \"o próprio conselho\" em vez de ouvir a Deus?",
+   "quiz": [
+    {
+     "pergunta": "Em que lugar Deus diz ter provado seu povo?",
+     "opcoes": [
+      "No deserto de Sim",
+      "Nas águas de Meribá",
+      "No monte Carmelo",
+      "No rio Jordão"
+     ],
+     "correta": 1,
+     "ref": "81:7"
+    }
+   ]
+  },
+  {
+   "n": 82,
+   "titulo": "Deus julga os juízes",
+   "chave": "82:3-4",
+   "resumo": "Salmo profético em que Deus aparece no meio de uma assembleia de \"deuses\" para julgá-los. Muitos entendem que se trata de juízes e governantes humanos; outros, de seres celestiais que governam as nações. Deus os acusa de favorecer os perversos e ordena que defendam o pobre e o órfão, lembrando que morrerão como qualquer homem.",
+   "licoes": [
+    "Quem exerce autoridade será julgado por Deus pela forma como trata os fracos (82:1-2).",
+    "Fazer justiça ao pobre, ao órfão e ao necessitado é ordem divina (82:3-4).",
+    "Nenhum poder humano é eterno; todos são mortais diante de Deus (82:7-8)."
+   ],
+   "reflexao": "Que tipo de autoridade você exerce, e como ela trata os mais fracos?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus manda os juízes fazerem ao pobre e ao órfão?",
+     "opcoes": [
+      "Ignorá-los",
+      "Cobrar impostos",
+      "Fazer-lhes justiça",
+      "Expulsá-los da cidade"
+     ],
+     "correta": 2,
+     "ref": "82:3"
+    }
+   ]
+  },
+  {
+   "n": 83,
+   "titulo": "Não fiques em silêncio",
+   "chave": "83:18",
+   "resumo": "Lamento comunitário diante de uma coalizão de povos vizinhos, como Edom, Moabe, Amom, filisteus e Assíria, que querem apagar o nome de Israel. O salmista pede que Deus faça a eles como fez a Midiã, Sísera e Jabim no tempo dos juízes. O objetivo final é que busquem o nome do SENHOR e saibam que ele é o Altíssimo sobre toda a terra.",
+   "licoes": [
+    "Quando o povo de Deus é ameaçado, ele pode pedir que Deus não fique em silêncio (83:1-4).",
+    "Lembrar as vitórias de Deus no passado alimenta a oração do presente (83:9-11).",
+    "O alvo final é que até os inimigos busquem o nome do SENHOR (83:16, 83:18)."
+   ],
+   "reflexao": "Você já orou para que seus adversários conheçam a Deus?",
+   "quiz": [
+    {
+     "pergunta": "Com que líderes derrotados no passado o salmista compara os inimigos?",
+     "opcoes": [
+      "Hamã e Herodes",
+      "Faraó e Golias",
+      "Sísera e Jabim",
+      "Senaqueribe e Nabucodonosor"
+     ],
+     "correta": 2,
+     "ref": "83:9"
+    }
+   ]
+  },
+  {
+   "n": 84,
+   "titulo": "Melhor um dia nos teus átrios",
+   "chave": "84:10",
+   "resumo": "Salmo dos filhos de Coré que expressa o desejo profundo de estar na casa de Deus. Até o pardal e a andorinha encontram ninho perto dos altares. Felizes são os peregrinos que passam pelo vale árido e o transformam em fonte, indo de força em força até Sião, pois um dia na presença de Deus vale mais que mil em outro lugar.",
+   "licoes": [
+    "O coração que conhece a Deus deseja sua presença (84:1-2).",
+    "A peregrinação com Deus transforma vales secos em fontes (84:5-7).",
+    "Um dia na presença de Deus vale mais que mil longe dele (84:10).",
+    "Deus é sol e escudo e não nega o bem aos íntegros (84:11)."
+   ],
+   "reflexao": "O que você faria para passar mais \"dias nos átrios\" de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Quantos dias fora valem menos do que um dia nos pátios de Deus?",
+     "opcoes": [
+      "Mil",
+      "Quarenta",
+      "Sete",
+      "Cem"
+     ],
+     "correta": 0,
+     "ref": "84:10"
+    }
+   ]
+  },
+  {
+   "n": 85,
+   "titulo": "A justiça e a paz se beijarão",
+   "chave": "85:10",
+   "resumo": "Oração comunitária que lembra como Deus já perdoou e restaurou seu povo no passado. Agora o povo pede uma nova restauração e que Deus volte a dar vida. O salmista escuta a resposta de Deus, que fala de paz, e descreve um futuro em que bondade e verdade se encontram e justiça e paz se beijam.",
+   "licoes": [
+    "O perdão passado de Deus é base para pedir nova restauração (85:1-4).",
+    "É preciso escutar o que Deus fala, e ele fala de paz (85:8).",
+    "No plano de Deus, bondade, verdade, justiça e paz andam juntas (85:10-11)."
+   ],
+   "reflexao": "Onde você gostaria de ver justiça e paz se \"beijarem\" hoje?",
+   "quiz": [
+    {
+     "pergunta": "O que acontecerá entre a justiça e a paz, segundo o salmo?",
+     "opcoes": [
+      "Brigarão",
+      "Se beijarão",
+      "Fugirão",
+      "Se separarão"
+     ],
+     "correta": 1,
+     "ref": "85:10"
+    }
+   ]
+  },
+  {
+   "n": 86,
+   "titulo": "Une meu coração",
+   "chave": "86:11",
+   "resumo": "Oração de Davi, aflito e necessitado, cercada de arrogantes e violentos. Ele apela a Deus como bom, perdoador e grande em bondade, e afirma que não há outro igual a ele. Pede para ser ensinado no caminho de Deus e ter um coração unido para temê-lo, citando a antiga descrição de Deus como misericordioso e tardio em irar-se.",
+   "licoes": [
+    "Podemos nos aproximar de Deus porque ele é bom e perdoador (86:5).",
+    "Só o SENHOR é Deus, e todas as nações virão adorá-lo (86:9-10).",
+    "Um coração unido, sem divisões, é dom que podemos pedir (86:11).",
+    "Deus é misericordioso, tardio em irar-se e cheio de bondade (86:15)."
+   ],
+   "reflexao": "Que área do seu coração está dividida e precisa ser unida no temor a Deus?",
+   "quiz": [
+    {
+     "pergunta": "Como o salmista descreve Deus no versículo 15?",
+     "opcoes": [
+      "Distante e severo",
+      "Indiferente ao pecado",
+      "Rápido para punir",
+      "Misericordioso e tardio para se irar"
+     ],
+     "correta": 3,
+     "ref": "86:15"
+    }
+   ]
+  },
+  {
+   "n": 87,
+   "titulo": "Nascidos em Sião",
+   "chave": "87:5-6",
+   "resumo": "Breve cântico de Sião que celebra Jerusalém como cidade amada por Deus. Surpreendentemente, povos estrangeiros e até inimigos antigos, como Raabe (Egito), Babilônia, Filístia, Tiro e Cuxe, são registrados como \"nascidos ali\". O próprio SENHOR inscreve os povos, e os cantores declaram que todas as suas fontes estão em Sião.",
+   "licoes": [
+    "Deus ama o lugar onde escolheu habitar com seu povo (87:2-3).",
+    "A cidade de Deus está aberta até aos povos que antes eram inimigos (87:4).",
+    "É o próprio SENHOR quem registra quem pertence ao seu povo (87:6)."
+   ],
+   "reflexao": "Quem você tem dificuldade de imaginar como parte do povo de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Quem registra os povos dizendo \"este nasceu ali\"?",
+     "opcoes": [
+      "Os sacerdotes",
+      "Os escribas",
+      "O rei de Judá",
+      "O SENHOR"
+     ],
+     "correta": 3,
+     "ref": "87:6"
+    }
+   ]
+  },
+  {
+   "n": 88,
+   "titulo": "O salmo mais escuro",
+   "chave": "88:1",
+   "resumo": "Lamento de Hemã, o ezraíta, talvez o salmo mais sombrio do livro. O salmista, doente e perto da morte desde a juventude, sente-se abandonado por Deus e pelos amigos, cercado de trevas. Diferente de quase todos os lamentos, não termina em louvor, mas ele continua clamando a Deus dia e noite.",
+   "licoes": [
+    "A Bíblia dá lugar até às orações sem final feliz (88:14, 88:18).",
+    "Continuar clamando a Deus na escuridão já é um ato de fé (88:1, 88:13).",
+    "A solidão e o abandono dos amigos podem ser ditos a Deus com franqueza (88:8, 88:18)."
+   ],
+   "reflexao": "Você já viveu uma fase em que só conseguia clamar, sem ver resposta?",
+   "quiz": [
+    {
+     "pergunta": "A quem o título atribui este salmo?",
+     "opcoes": [
+      "A Moisés",
+      "A Asafe",
+      "A Hemã, o ezraíta",
+      "A Etã, o ezraíta"
+     ],
+     "correta": 2,
+     "ref": "88:1"
+    }
+   ]
+  },
+  {
+   "n": 89,
+   "titulo": "A aliança com Davi",
+   "chave": "89:3-4",
+   "resumo": "Salmo real de Etã, o ezraíta, que fecha o Terceiro Livro. Começa louvando a bondade e a fidelidade de Deus e relembra a aliança feita com Davi, prometendo-lhe descendência e trono para sempre. Mas a segunda parte lamenta que o rei foi derrotado e o trono derrubado, e pergunta onde estão as bondades juradas a Davi, terminando com uma doxologia.",
+   "licoes": [
+    "A fidelidade de Deus é motivo de cântico para sempre (89:1-2).",
+    "A justiça e o juízo são a base do trono de Deus (89:14).",
+    "Deus prometeu disciplinar a infidelidade sem retirar sua bondade (89:30-34).",
+    "Quando a realidade parece negar a promessa, a fé ainda pergunta a Deus e o bendiz (89:49, 89:52)."
+   ],
+   "reflexao": "Como você reage quando uma promessa de Deus parece não se cumprir?",
+   "quiz": [
+    {
+     "pergunta": "Com quem Deus diz ter feito um pacto neste salmo?",
+     "opcoes": [
+      "Com Davi, seu servo",
+      "Com Noé",
+      "Com Moisés",
+      "Com Abraão"
+     ],
+     "correta": 0,
+     "ref": "89:3"
+    }
+   ]
+  },
+  {
+   "n": 90,
+   "titulo": "Ensina-nos a contar os dias",
+   "chave": "90:12",
+   "resumo": "Oração atribuída a Moisés, que abre o Quarto Livro. Contrasta o Deus eterno, que é morada de seu povo, com a brevidade da vida humana, que floresce e seca como a erva. Pede sabedoria para contar os dias, compaixão e bondade a cada manhã e que Deus confirme a obra das mãos de seus servos.",
+   "licoes": [
+    "Deus é eterno e tem sido o lar de seu povo em todas as gerações (90:1-2).",
+    "A vida humana é breve como a erva que seca (90:5-6, 90:10).",
+    "Contar os dias com sabedoria nos dá um coração sábio (90:12).",
+    "Podemos pedir que Deus dê sentido e firmeza ao nosso trabalho (90:17)."
+   ],
+   "reflexao": "Se você \"contasse seus dias\", o que faria diferente esta semana?",
+   "quiz": [
+    {
+     "pergunta": "Mil anos aos olhos de Deus são como o quê?",
+     "opcoes": [
+      "Um século",
+      "O dia de ontem que passou",
+      "Uma eternidade",
+      "Uma geração"
+     ],
+     "correta": 1,
+     "ref": "90:4"
+    }
+   ]
+  },
+  {
+   "n": 91,
+   "titulo": "À sombra do Todo-Poderoso",
+   "chave": "91:1-2",
+   "resumo": "Salmo de confiança sobre a proteção de quem habita no abrigo do Altíssimo. Com imagens de asas, escudo e anjos, promete livramento do laço do caçador, da peste e dos terrores da noite. No final, o próprio Deus fala, prometendo estar com quem o ama na angústia, livrá-lo e mostrar-lhe sua salvação.",
+   "licoes": [
+    "Habitar com Deus é a fonte de segurança, não um amuleto (91:1-2, 91:9).",
+    "Deus protege como a ave cobre os filhotes com as asas (91:4).",
+    "Deus promete estar conosco na angústia, não necessariamente nos livrar de toda angústia (91:15).",
+    "Confiar não é testar a Deus: nos Evangelhos, o diabo cita estas palavras e Jesus se recusa a usá-las para pôr Deus à prova (91:11-12)."
+   ],
+   "reflexao": "Você vê a proteção de Deus como relação de confiança ou como garantia mágica?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus ordenou aos anjos a respeito de quem confia nele?",
+     "opcoes": [
+      "Que guardem todos os seus caminhos",
+      "Que o enriqueçam",
+      "Que lutem suas guerras",
+      "Que o levem ao céu"
+     ],
+     "correta": 0,
+     "ref": "91:11"
+    }
+   ]
+  },
+  {
+   "n": 92,
+   "titulo": "Bom é louvar ao SENHOR",
+   "chave": "92:1",
+   "resumo": "Cântico para o dia de sábado. O salmista diz que é bom louvar a Deus de manhã e à noite e se alegra com as obras divinas, profundas demais para o tolo entender. Os perversos brotam como erva e desaparecem, mas o justo floresce como palmeira e cedro, plantado na casa de Deus, dando fruto até na velhice.",
+   "licoes": [
+    "Louvar a Deus de manhã e à noite faz bem à alma (92:1-2).",
+    "O sucesso dos maus é passageiro como a erva (92:7).",
+    "O justo, plantado na casa de Deus, dá fruto até na velhice (92:12-14)."
+   ],
+   "reflexao": "Que fruto você deseja ainda dar na velhice?",
+   "quiz": [
+    {
+     "pergunta": "Com que árvores o justo é comparado?",
+     "opcoes": [
+      "Salgueiro e acácia",
+      "Figueira e videira",
+      "Palmeira e cedro do Líbano",
+      "Oliveira e carvalho"
+     ],
+     "correta": 2,
+     "ref": "92:12"
+    }
+   ]
+  },
+  {
+   "n": 93,
+   "titulo": "O SENHOR reina",
+   "chave": "93:1",
+   "resumo": "Breve hino de entronização que proclama: \"O SENHOR reina\". Deus está vestido de majestade e poder, e seu trono é firme desde a eternidade. Os rios e as ondas levantam seu rugido, mas o SENHOR é mais forte que todas as águas, e seus testemunhos são fiéis.",
+   "licoes": [
+    "O reinado de Deus dá estabilidade ao mundo (93:1-2).",
+    "Nenhuma força caótica é maior que o poder de Deus (93:3-4).",
+    "A palavra de Deus é confiável e sua casa é marcada pela santidade (93:5)."
+   ],
+   "reflexao": "Que \"ondas\" estão rugindo na sua vida, e o que muda ao lembrar que Deus reina?",
+   "quiz": [
+    {
+     "pergunta": "Do que o SENHOR é mais forte, segundo o salmo?",
+     "opcoes": [
+      "Dos exércitos do Egito",
+      "Dos reis da terra",
+      "Dos ventos do deserto",
+      "Dos ruídos de muitas águas e das ondas do mar"
+     ],
+     "correta": 3,
+     "ref": "93:4"
+    }
+   ]
+  },
+  {
+   "n": 94,
+   "titulo": "Quem formou o olho não verá?",
+   "chave": "94:9",
+   "resumo": "Lamento que clama ao Deus que faz justiça contra os arrogantes que oprimem a viúva, o estrangeiro e o órfão, achando que Deus não vê. O salmista responde que quem criou o ouvido e o olho certamente ouve e vê. Ele testemunha que, quando seu pé escorregava, a bondade de Deus o sustentou e seus consolos alegraram sua alma.",
+   "licoes": [
+    "Os opressores agem como se Deus não visse, mas o Criador vê e ouve tudo (94:7-9).",
+    "A disciplina de Deus é uma bênção que ensina (94:12).",
+    "Na ansiedade, os consolos de Deus alegram a alma (94:18-19).",
+    "Leis injustas não têm comunhão com Deus (94:20)."
+   ],
+   "reflexao": "Que preocupações estão se multiplicando dentro de você e precisam do consolo de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Quem os perversos matam, segundo o salmo?",
+     "opcoes": [
+      "A viúva, o estrangeiro e os órfãos",
+      "Os sacerdotes e profetas",
+      "Os soldados do rei",
+      "Os mercadores"
+     ],
+     "correta": 0,
+     "ref": "94:6"
+    }
+   ]
+  },
+  {
+   "n": 95,
+   "titulo": "Vinde, adoremos",
+   "chave": "95:6-7",
+   "resumo": "Salmo de convite à adoração, muito usado na liturgia. Primeiro chama a cantar com alegria ao grande Rei que criou montes, mar e terra, e a se ajoelhar diante dele. Depois vem uma advertência: hoje, se ouvirem sua voz, não endureçam o coração como os pais no deserto, em Meribá.",
+   "licoes": [
+    "A adoração reconhece Deus como Rei e Criador de tudo (95:3-5).",
+    "Somos o povo do seu pasto, ovelhas de sua mão (95:7).",
+    "Ouvir a voz de Deus hoje exige um coração que não se endurece (95:7-8)."
+   ],
+   "reflexao": "Há algo que Deus tem dito a você e que você tem resistido a ouvir?",
+   "quiz": [
+    {
+     "pergunta": "Por quantos anos Deus diz ter aguentado com desgosto aquela geração no deserto?",
+     "opcoes": [
+      "Sete",
+      "Setenta",
+      "Doze",
+      "Quarenta"
+     ],
+     "correta": 3,
+     "ref": "95:10"
+    }
+   ]
+  },
+  {
+   "n": 96,
+   "titulo": "Cantai ao SENHOR, toda a terra",
+   "chave": "96:3",
+   "resumo": "Hino que chama toda a terra a cantar um cântico novo e a anunciar a salvação de Deus entre as nações. Os deuses dos povos são ídolos, mas o SENHOR fez os céus e merece glória e ofertas. A criação inteira é convidada a se alegrar, porque o SENHOR vem julgar o mundo com justiça.",
+   "licoes": [
+    "O louvor a Deus é também anúncio de sua salvação a todos os povos (96:2-3).",
+    "Só o SENHOR é o Criador; os outros deuses são ídolos (96:5).",
+    "A vinda de Deus para julgar com justiça é motivo de alegria para toda a criação (96:11-13)."
+   ],
+   "reflexao": "Para quem você pode \"anunciar a salvação\" de Deus esta semana?",
+   "quiz": [
+    {
+     "pergunta": "O que são os deuses dos povos, segundo o salmo?",
+     "opcoes": [
+      "Forças da natureza",
+      "Ídolos",
+      "Anjos",
+      "Reis antigos"
+     ],
+     "correta": 1,
+     "ref": "96:5"
+    }
+   ]
+  },
+  {
+   "n": 97,
+   "titulo": "Luz semeada para o justo",
+   "chave": "97:11",
+   "resumo": "Hino de entronização que descreve a vinda do SENHOR com nuvens, fogo e relâmpagos, fazendo os montes derreterem como cera. Os adoradores de ídolos são envergonhados, enquanto Sião se alegra com os juízos de Deus. Quem ama o SENHOR é chamado a odiar o mal, e a luz e a alegria são semeadas para os justos.",
+   "licoes": [
+    "Justiça e juízo são o fundamento do trono de Deus (97:2).",
+    "A grandeza de Deus envergonha toda idolatria (97:7, 97:9).",
+    "Amar a Deus inclui odiar o mal (97:10).",
+    "Deus semeia luz e alegria na vida dos justos (97:11-12)."
+   ],
+   "reflexao": "Que mal você precisa aprender a odiar para amar melhor a Deus?",
+   "quiz": [
+    {
+     "pergunta": "Como os montes reagem diante da presença do SENHOR?",
+     "opcoes": [
+      "Ficam em silêncio",
+      "Derretem-se como cera",
+      "Saltam como carneiros",
+      "Cantam de alegria"
+     ],
+     "correta": 1,
+     "ref": "97:5"
+    }
+   ]
+  },
+  {
+   "n": 98,
+   "titulo": "Os rios batem palmas",
+   "chave": "98:8-9",
+   "resumo": "Hino que convida a cantar um cântico novo porque Deus fez maravilhas e mostrou sua salvação diante das nações, lembrando sua fidelidade a Israel. Toda a terra deve aclamar o Rei com harpas, trombetas e cornetas. O mar ruge, os rios batem palmas e os montes se alegram diante do SENHOR que vem julgar com justiça.",
+   "licoes": [
+    "A salvação de Deus é motivo de um cântico sempre novo (98:1).",
+    "Deus revela sua salvação a todos os confins da terra (98:2-3).",
+    "Toda a criação participa do louvor ao Rei que vem (98:7-9)."
+   ],
+   "reflexao": "Qual seria o \"cântico novo\" que você poderia cantar a Deus hoje?",
+   "quiz": [
+    {
+     "pergunta": "O que o salmo pede que os rios façam?",
+     "opcoes": [
+      "Que transbordem",
+      "Que fiquem parados",
+      "Que batam palmas",
+      "Que corram ao mar"
+     ],
+     "correta": 2,
+     "ref": "98:8"
+    }
+   ]
+  },
+  {
+   "n": 99,
+   "titulo": "Santo é o SENHOR",
+   "chave": "99:9",
+   "resumo": "Hino que proclama o reinado do SENHOR, que se assenta entre os querubins, com o refrão \"ele é santo\". Deus é Rei que ama a justiça e a estabeleceu em Jacó. O salmo lembra Moisés, Arão e Samuel, que clamaram e foram respondidos, e mostra que Deus foi perdoador, mas também corrigiu os erros do povo.",
+   "licoes": [
+    "A santidade de Deus é o centro da adoração (99:5, 99:9).",
+    "O Rei divino ama a justiça e o direito (99:4).",
+    "Deus ouve os que clamam a ele, como fez com Moisés, Arão e Samuel (99:6-7).",
+    "Deus perdoa, mas também disciplina (99:8)."
+   ],
+   "reflexao": "O que a santidade de Deus provoca em você: medo, distância ou reverência?",
+   "quiz": [
+    {
+     "pergunta": "Quais servos de Deus o salmo menciona como tendo clamado e sido respondidos?",
+     "opcoes": [
+      "Moisés, Arão e Samuel",
+      "Elias, Eliseu e Isaías",
+      "Abraão, Isaque e Jacó",
+      "Davi, Salomão e Ezequias"
+     ],
+     "correta": 0,
+     "ref": "99:6"
+    }
+   ]
+  },
+  {
+   "n": 100,
+   "titulo": "Servi ao SENHOR com alegria",
+   "chave": "100:4-5",
+   "resumo": "Breve salmo de ação de graças que convida toda a terra a servir ao SENHOR com alegria. Ele lembra que foi Deus quem nos fez seu povo e ovelhas de seu pasto. Por isso devemos entrar em suas portas com gratidão, porque ele é bom e sua bondade e fidelidade duram para sempre.",
+   "licoes": [
+    "Servir a Deus é algo para fazer com alegria (100:2).",
+    "Pertencemos a Deus porque ele nos fez seu povo (100:3).",
+    "A gratidão é a porta de entrada na presença de Deus (100:4).",
+    "A bondade e a fidelidade de Deus atravessam gerações (100:5)."
+   ],
+   "reflexao": "Com que atitude você tem servido a Deus ultimamente?",
+   "quiz": [
+    {
+     "pergunta": "Como devemos entrar pelas portas do SENHOR?",
+     "opcoes": [
+      "Com agradecimento",
+      "Em silêncio",
+      "Com sacrifícios de sangue",
+      "Com medo"
+     ],
+     "correta": 0,
+     "ref": "100:4"
+    }
+   ]
+  },
+  {
+   "n": 101,
+   "titulo": "O compromisso de um rei íntegro",
+   "chave": "101:2",
+   "resumo": "Salmo real em que Davi assume compromissos para seu governo. Promete andar com integridade dentro de sua própria casa e não pôr diante dos olhos nada de vil. Não tolerará o caluniador, o arrogante e o mentiroso, mas buscará os fiéis da terra para servirem com ele.",
+   "licoes": [
+    "A integridade começa dentro de casa, longe dos olhos do público (101:2).",
+    "O que escolhemos olhar molda o coração (101:3).",
+    "Líderes devem rejeitar a calúnia e a mentira e valorizar os fiéis (101:5-7)."
+   ],
+   "reflexao": "Que compromisso de integridade você pode assumir para sua casa?",
+   "quiz": [
+    {
+     "pergunta": "Quem o rei quer que se sente com ele e o sirva?",
+     "opcoes": [
+      "Os guerreiros valentes",
+      "Os fiéis que andam no caminho correto",
+      "Os sábios estrangeiros",
+      "Os ricos da terra"
+     ],
+     "correta": 1,
+     "ref": "101:6"
+    }
+   ]
+  },
+  {
+   "n": 102,
+   "titulo": "Tu, porém, permaneces",
+   "chave": "102:12",
+   "resumo": "Oração de um aflito que se sente consumido, com dias que somem como fumaça, comparando-se a uma coruja no deserto e a um pardal solitário no telhado. A virada vem ao olhar para Deus, que permanece para sempre e terá compaixão de Sião. O salmo termina contrastando a criação que envelhece como roupa com o Deus que é sempre o mesmo.",
+   "licoes": [
+    "A Bíblia dá voz à solidão e ao esgotamento extremo (102:6-7, 102:9).",
+    "A fragilidade humana contrasta com a eternidade de Deus (102:11-12).",
+    "Deus ouve a oração do desamparado e o gemido dos presos (102:17, 102:20).",
+    "Tudo envelhece, mas Deus é sempre o mesmo (102:26-27)."
+   ],
+   "reflexao": "O que lhe dá esperança quando você se sente como \"um pardal solitário no telhado\"?",
+   "quiz": [
+    {
+     "pergunta": "Com que ave solitária o salmista se compara sobre o telhado?",
+     "opcoes": [
+      "Pomba",
+      "Águia",
+      "Pardal",
+      "Corvo"
+     ],
+     "correta": 2,
+     "ref": "102:7"
+    }
+   ]
+  },
+  {
+   "n": 103,
+   "titulo": "Não te esqueças dos benefícios",
+   "chave": "103:2-3",
+   "resumo": "Hino de Davi em que ele chama a própria alma a bendizer ao SENHOR e não esquecer seus benefícios: perdão, cura, resgate e bondade. Deus é misericordioso e tardio em irar-se, afasta de nós as transgressões como o oriente do ocidente e se compadece como um pai. O salmo termina convocando anjos, exércitos e todas as obras a bendizer ao SENHOR.",
+   "licoes": [
+    "A gratidão começa por lembrar o que Deus fez (103:2-5).",
+    "Deus não nos trata segundo nossos pecados (103:10).",
+    "O perdão de Deus afasta nossas culpas para longe, como o oriente do ocidente (103:12).",
+    "Deus nos trata como pai que conhece nossa fragilidade (103:13-14)."
+   ],
+   "reflexao": "Quais benefícios de Deus você tende a esquecer?",
+   "quiz": [
+    {
+     "pergunta": "Quão longe Deus afasta de nós as nossas transgressões?",
+     "opcoes": [
+      "Como o céu da terra",
+      "Como o mar do deserto",
+      "Como o norte do sul",
+      "Como o oriente do ocidente"
+     ],
+     "correta": 3,
+     "ref": "103:12"
+    }
+   ]
+  },
+  {
+   "n": 104,
+   "titulo": "Hino ao Criador",
+   "chave": "104:24",
+   "resumo": "Hino que celebra Deus como Criador e sustentador de todo o mundo, em ordem que lembra o relato da criação. Deus veste-se de luz, firma a terra, limita as águas, dá fontes aos animais, alimento aos homens e marca os tempos com o sol e a lua. Todas as criaturas dependem do seu fôlego, e o salmista promete cantar a Deus por toda a vida.",
+   "licoes": [
+    "A criação inteira mostra a sabedoria de Deus (104:24).",
+    "Deus cuida dos animais, das plantas e do trabalho humano (104:14-15, 104:27-28).",
+    "Toda vida depende do fôlego de Deus, que renova a face da terra (104:29-30).",
+    "Contemplar a criação leva ao louvor por toda a vida (104:33-34)."
+   ],
+   "reflexao": "Que detalhe da criação você pode observar hoje como motivo de louvor?",
+   "quiz": [
+    {
+     "pergunta": "Para que Deus fez a lua, segundo o salmo?",
+     "opcoes": [
+      "Para ser adorada",
+      "Para iluminar os caminhos",
+      "Para marcar os tempos",
+      "Para guiar os navios"
+     ],
+     "correta": 2,
+     "ref": "104:19"
+    }
+   ]
+  },
+  {
+   "n": 105,
+   "titulo": "Ele se lembra da aliança",
+   "chave": "105:8",
+   "resumo": "Salmo histórico de louvor que convida a agradecer e contar as maravilhas de Deus. Recorda a aliança com Abraão, Isaque e Jacó, a história de José vendido como escravo e exaltado no Egito, as pragas enviadas por meio de Moisés e Arão, e o cuidado no deserto. Tudo isso porque Deus se lembrou de sua palavra a Abraão, para que o povo guardasse seus estatutos.",
+   "licoes": [
+    "Deus é fiel à sua aliança por mil gerações (105:8-10).",
+    "Deus agiu até por meio do sofrimento de José para preservar seu povo (105:17-21).",
+    "As maravilhas de Deus devem ser lembradas e anunciadas (105:1-5).",
+    "A libertação tinha um propósito: que o povo vivesse segundo a vontade de Deus (105:45)."
+   ],
+   "reflexao": "Como uma fase difícil da sua vida acabou sendo usada por Deus para o bem?",
+   "quiz": [
+    {
+     "pergunta": "Quem Deus enviou adiante de seu povo, vendido como escravo?",
+     "opcoes": [
+      "José",
+      "Daniel",
+      "Samuel",
+      "Moisés"
+     ],
+     "correta": 0,
+     "ref": "105:17"
+    }
+   ]
+  },
+  {
+   "n": 106,
+   "titulo": "Pecamos com nossos pais",
+   "chave": "106:6",
+   "resumo": "Salmo histórico de confissão que fecha o Quarto Livro. Depois de louvar a bondade de Deus, o povo confessa que pecou como seus pais, e relembra a rebeldia no mar Vermelho, o bezerro de ouro, a recusa da terra, o culto a Baal-Peor e a mistura com a idolatria das nações. Apesar de tudo, Deus ouviu seu clamor e se lembrou da aliança, e o salmo termina pedindo que ele reúna o povo dispersado.",
+   "licoes": [
+    "A confissão honesta reconhece o pecado pessoal e coletivo (106:6).",
+    "O esquecimento das obras de Deus leva à rebeldia (106:7, 106:13).",
+    "A intercessão de alguém como Moisés pode desviar o juízo (106:23).",
+    "Mesmo diante de tanta infidelidade, Deus se lembra de sua aliança e tem compaixão (106:44-45)."
+   ],
+   "reflexao": "Que padrões de infidelidade de gerações passadas você precisa reconhecer e abandonar?",
+   "quiz": [
+    {
+     "pergunta": "Onde o povo fez o bezerro de fundição, segundo o salmo?",
+     "opcoes": [
+      "Em Siló",
+      "Em Horebe",
+      "Em Betel",
+      "Em Gilgal"
+     ],
+     "correta": 1,
+     "ref": "106:19"
+    }
+   ]
+  },
+  {
+   "n": 107,
+   "titulo": "Clamaram ao SENHOR na angústia",
+   "chave": "107:6",
+   "resumo": "Salmo de ação de graças que abre o Quinto Livro. Ele descreve quatro grupos resgatados por Deus: os perdidos no deserto, os presos em trevas, os doentes por causa de suas culpas e os marinheiros em meio à tempestade. Em cada caso, clamaram ao SENHOR e foram livrados, e o refrão os convida a agradecer sua bondade.",
+   "licoes": [
+    "Diferentes tipos de angústia encontram a mesma resposta: o clamor a Deus (107:6, 107:28).",
+    "Deus sacia a alma sedenta e quebra as correntes da prisão (107:9, 107:14).",
+    "Deus acalma as tempestades e leva ao porto desejado (107:29-30).",
+    "Quem é sábio reflete nas bondades do SENHOR (107:43)."
+   ],
+   "reflexao": "Com qual dos quatro grupos resgatados você mais se identifica hoje?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus fez com a tempestade quando os marinheiros clamaram?",
+     "opcoes": [
+      "Mandou-os voltar",
+      "Aumentou-a",
+      "Afundou o navio",
+      "Fez cessar a tormenta e as ondas se calaram"
+     ],
+     "correta": 3,
+     "ref": "107:29"
+    }
+   ]
+  },
+  {
+   "n": 108,
+   "titulo": "Coração preparado",
+   "chave": "108:1",
+   "resumo": "Salmo formado pela junção de trechos de outros dois: a parte final do Salmo 57 (louvor de coração firme) e a segunda parte do Salmo 60 (oráculo sobre as terras e pedido de vitória). O salmista quer despertar a aurora com música e exaltar a glória de Deus entre as nações. Depois pede socorro, lembrando que a ajuda humana é inútil e que com Deus haverá vitória.",
+   "licoes": [
+    "Um coração preparado começa o dia louvando a Deus (108:1-3).",
+    "A bondade e a fidelidade de Deus superam os céus (108:4).",
+    "O socorro humano é inútil sem Deus; com ele há vitória (108:12-13)."
+   ],
+   "reflexao": "Seu coração está \"preparado\" para louvar a Deus logo ao acordar?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o salmo, como é o socorro humano?",
+     "opcoes": [
+      "Suficiente",
+      "Mais forte que o de Deus",
+      "Indispensável",
+      "Inútil"
+     ],
+     "correta": 3,
+     "ref": "108:12"
+    }
+   ]
+  },
+  {
+   "n": 109,
+   "titulo": "Eu, porém, oro",
+   "chave": "109:4",
+   "resumo": "Um dos salmos imprecatórios mais duros. O salmista, atacado com mentiras por pessoas a quem amava, transforma sua dor em oração, pedindo que o castigo caia sobre o acusador. Os versículos de maldição podem ser entendidos como palavras dos inimigos citadas pelo salmista ou como seu próprio pedido de justiça; de todo modo, ele entrega a vingança a Deus e termina confiando que o SENHOR está à direita do necessitado.",
+   "licoes": [
+    "Diante do ódio sem motivo, o salmista escolhe orar (109:3-5).",
+    "A dor da injustiça pode ser levada a Deus com toda a sua intensidade, em vez de virar vingança pessoal (109:20-21).",
+    "Deus se coloca ao lado do necessitado para defendê-lo (109:31)."
+   ],
+   "reflexao": "O que você faz com a raiva quando alguém paga seu amor com ódio?",
+   "quiz": [
+    {
+     "pergunta": "O que o salmista diz fazer diante dos que se opõem a ele por causa do seu amor?",
+     "opcoes": [
+      "Foge para o deserto",
+      "Fica em silêncio diante de Deus",
+      "Mantém-se em oração",
+      "Reúne um exército"
+     ],
+     "correta": 2,
+     "ref": "109:4"
+    }
+   ]
+  },
+  {
+   "n": 110,
+   "titulo": "Senta-te à minha direita",
+   "chave": "110:1",
+   "resumo": "Salmo real curto e muito citado no Novo Testamento. O SENHOR convida o rei a sentar-se à sua direita até que os inimigos sejam postos debaixo de seus pés, e lhe dá domínio a partir de Sião. Deus também jura que esse rei é sacerdote para sempre segundo a ordem de Melquisedeque.",
+   "licoes": [
+    "O rei escolhido governa por convite e poder de Deus (110:1-2).",
+    "O povo do rei se oferece de boa vontade no dia do seu poder (110:3).",
+    "O juramento de Deus une realeza e sacerdócio numa só pessoa (110:4)."
+   ],
+   "reflexao": "O que significa, na prática, reconhecer alguém como Senhor da sua vida?",
+   "quiz": [
+    {
+     "pergunta": "Segundo a ordem de quem o rei é declarado sacerdote eterno?",
+     "opcoes": [
+      "De Samuel",
+      "De Levi",
+      "De Melquisedeque",
+      "De Arão"
+     ],
+     "correta": 2,
+     "ref": "110:4"
+    }
+   ]
+  },
+  {
+   "n": 111,
+   "titulo": "O princípio da sabedoria",
+   "chave": "111:10",
+   "resumo": "Hino de louvor em forma de acróstico, que começa com \"Aleluia\". O salmista louva de todo o coração as obras de Deus, que são grandes, justas e dignas de serem estudadas. Lembra que Deus dá alimento, guarda a aliança e enviou redenção ao seu povo, e conclui que o temor do SENHOR é o princípio da sabedoria.",
+   "licoes": [
+    "As obras de Deus merecem ser estudadas por quem se agrada nelas (111:2).",
+    "Deus é misericordioso e nunca esquece sua aliança (111:4-5).",
+    "A verdadeira sabedoria começa com o temor do SENHOR (111:10)."
+   ],
+   "reflexao": "Como o temor a Deus poderia orientar uma decisão que você precisa tomar?",
+   "quiz": [
+    {
+     "pergunta": "O que é o princípio da sabedoria, segundo o salmo?",
+     "opcoes": [
+      "O temor ao SENHOR",
+      "A experiência da velhice",
+      "O estudo das leis",
+      "O conselho dos anciãos"
+     ],
+     "correta": 0,
+     "ref": "111:10"
+    }
+   ]
+  },
+  {
+   "n": 112,
+   "titulo": "O coração firme do justo",
+   "chave": "112:7",
+   "resumo": "Salmo de sabedoria, também acróstico, que funciona como par do Salmo 111. Descreve a pessoa que teme ao SENHOR e se alegra em seus mandamentos: é generosa, empresta, administra com justiça e dá aos pobres. Ela não teme más notícias, pois seu coração está firme em Deus, enquanto o desejo dos perversos perece.",
+   "licoes": [
+    "Quem teme a Deus encontra alegria em seus mandamentos (112:1).",
+    "A generosidade e a justiça marcam a vida do justo (112:5, 112:9).",
+    "Um coração firme em Deus não se abala com más notícias (112:7-8)."
+   ],
+   "reflexao": "Que \"má notícia\" você teme, e como confiar em Deus diante dela?",
+   "quiz": [
+    {
+     "pergunta": "O que o justo não teme, porque seu coração está firme?",
+     "opcoes": [
+      "A velhice",
+      "A pobreza",
+      "Os reis",
+      "O mau rumor"
+     ],
+     "correta": 3,
+     "ref": "112:7"
+    }
+   ]
+  },
+  {
+   "n": 113,
+   "titulo": "Quem é como o SENHOR?",
+   "chave": "113:5-7",
+   "resumo": "Hino que abre o grupo de salmos do Halel, cantado nas festas judaicas como a Páscoa. Os servos de Deus são chamados a louvar seu nome do nascer ao pôr do sol. O Deus que está acima das nações e dos céus se inclina para levantar o pobre do pó, fazê-lo sentar com príncipes e dar filhos à mulher estéril.",
+   "licoes": [
+    "O nome de Deus deve ser louvado em todo tempo e lugar (113:2-3).",
+    "O Deus altíssimo se abaixa para cuidar dos pequenos (113:5-6).",
+    "Deus levanta o pobre e transforma a vida dos humilhados (113:7-9)."
+   ],
+   "reflexao": "Quem você conhece que precisa ser \"levantado do pó\", e como você pode ajudar?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus faz com a mulher estéril, segundo o salmo?",
+     "opcoes": [
+      "Dá-lhe um novo nome",
+      "Dá-lhe riquezas",
+      "Leva-a ao templo",
+      "Faz dela alegre mãe de filhos"
+     ],
+     "correta": 3,
+     "ref": "113:9"
+    }
+   ]
+  },
+  {
+   "n": 114,
+   "titulo": "O mar viu e fugiu",
+   "chave": "114:3",
+   "resumo": "Breve hino poético sobre a saída do Egito, parte do Halel. Quando Israel saiu, o mar fugiu e o Jordão recuou, e os montes saltaram como carneiros. O poeta pergunta à natureza por que reagiu assim e responde: a terra treme diante do Deus de Jacó, que transforma a rocha em fonte de água.",
+   "licoes": [
+    "A libertação do Egito fez de Israel o santuário e o domínio de Deus (114:1-2).",
+    "Toda a criação reage à presença de Deus (114:3-4, 114:7).",
+    "Deus faz brotar água da rocha, vida onde parecia impossível (114:8)."
+   ],
+   "reflexao": "Onde você precisa que Deus transforme \"rocha\" em \"fonte\"?",
+   "quiz": [
+    {
+     "pergunta": "O que aconteceu com o Jordão quando Israel saiu do Egito?",
+     "opcoes": [
+      "Recuou",
+      "Virou sangue",
+      "Transbordou",
+      "Secou para sempre"
+     ],
+     "correta": 0,
+     "ref": "114:3"
+    }
+   ]
+  },
+  {
+   "n": 115,
+   "titulo": "Não a nós, SENHOR",
+   "chave": "115:1",
+   "resumo": "Salmo litúrgico que pede que a glória seja dada não ao povo, mas ao nome de Deus. Diante da zombaria das nações, contrasta o Deus vivo nos céus com os ídolos de prata e ouro, que têm boca, olhos e ouvidos, mas não falam, não veem e não ouvem. Israel, os sacerdotes e todos os que temem a Deus são chamados a confiar nele e recebem a promessa de bênção.",
+   "licoes": [
+    "Toda glória pertence a Deus, não a nós (115:1).",
+    "Ídolos são obras humanas sem vida, e quem confia neles se torna como eles (115:4-8).",
+    "Deus é ajuda e escudo de pequenos e grandes que o temem (115:11, 115:13)."
+   ],
+   "reflexao": "Que \"ídolos\" modernos disputam sua confiança?",
+   "quiz": [
+    {
+     "pergunta": "De que são feitos os ídolos das nações?",
+     "opcoes": [
+      "De bronze e ferro",
+      "De pedra e madeira",
+      "De barro e palha",
+      "De prata e ouro"
+     ],
+     "correta": 3,
+     "ref": "115:4"
+    }
+   ]
+  },
+  {
+   "n": 116,
+   "titulo": "Que darei ao SENHOR?",
+   "chave": "116:12-13",
+   "resumo": "Salmo de ação de graças de alguém que esteve à beira da morte e clamou ao SENHOR. Ele declara amar a Deus porque foi ouvido, convida a alma a voltar ao descanso e promete andar diante de Deus na terra dos viventes. Pergunta como retribuir tantos benefícios e responde que tomará o cálice da salvação e cumprirá seus votos diante do povo.",
+   "licoes": [
+    "O amor a Deus nasce da experiência de ser ouvido (116:1-2).",
+    "Depois da tempestade, a alma pode voltar ao seu descanso (116:7-8).",
+    "A gratidão se expressa em culto e votos cumpridos diante da comunidade (116:12-14).",
+    "A vida e a morte dos fiéis são preciosas para Deus (116:15)."
+   ],
+   "reflexao": "Como você pode expressar gratidão a Deus pelos benefícios recebidos?",
+   "quiz": [
+    {
+     "pergunta": "O que o salmista diz que tomará, em resposta aos benefícios de Deus?",
+     "opcoes": [
+      "O copo da salvação",
+      "O manto de profeta",
+      "A coroa do rei",
+      "A espada da vitória"
+     ],
+     "correta": 0,
+     "ref": "116:13"
+    }
+   ]
+  },
+  {
+   "n": 117,
+   "titulo": "Louvai, todas as nações",
+   "chave": "117:1-2",
+   "resumo": "O menor salmo da Bíblia, com apenas dois versículos. Ele convida todas as nações e povos a louvar ao SENHOR. O motivo é que sua bondade para conosco é grande e sua fidelidade dura para sempre.",
+   "licoes": [
+    "O louvor a Deus é um convite para todos os povos, não só para Israel (117:1).",
+    "A bondade e a fidelidade eterna de Deus são o motivo do louvor (117:2)."
+   ],
+   "reflexao": "Como você pode participar do convite para que todas as nações louvem a Deus?",
+   "quiz": [
+    {
+     "pergunta": "Quem é convidado a louvar ao SENHOR neste salmo?",
+     "opcoes": [
+      "Todas as nações e povos",
+      "Só os anjos",
+      "Só os sacerdotes",
+      "Só Israel"
+     ],
+     "correta": 0,
+     "ref": "117:1"
+    }
+   ]
+  },
+  {
+   "n": 118,
+   "titulo": "A pedra rejeitada",
+   "chave": "118:22-23",
+   "resumo": "Salmo de ação de graças, o último do Halel, com o refrão \"sua bondade dura para sempre\". O salmista conta que foi cercado por nações, mas venceu no nome do SENHOR, e afirma que é melhor refugiar-se em Deus do que confiar em homens. Depois entra pelas portas da justiça e celebra: a pedra rejeitada pelos construtores tornou-se pedra angular, e o povo aclama \"bendito o que vem em nome do SENHOR\".",
+   "licoes": [
+    "É melhor confiar em Deus do que em pessoas ou governantes (118:8-9).",
+    "Com Deus ao nosso lado, não precisamos temer o que o homem pode fazer (118:6).",
+    "Deus transforma o que foi rejeitado em pedra principal (118:22-23).",
+    "Cada dia em que Deus age é motivo de alegria (118:24)."
+   ],
+   "reflexao": "Em que você tem confiado mais: nas pessoas ou em Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que aconteceu com a pedra que os construtores rejeitaram?",
+     "opcoes": [
+      "Foi jogada fora",
+      "Foi quebrada",
+      "Foi usada no altar",
+      "Tornou-se cabeça de esquina"
+     ],
+     "correta": 3,
+     "ref": "118:22"
+    }
+   ]
+  },
+  {
+   "n": 119,
+   "titulo": "Lâmpada para os meus pés",
+   "chave": "119:105",
+   "resumo": "O maior salmo e o maior capítulo da Bíblia, um acróstico de 22 estrofes de oito versículos, uma para cada letra do alfabeto hebraico. Quase todos os versículos falam da Palavra de Deus com sinônimos como lei, testemunhos, preceitos, estatutos e mandamentos. O salmista, muitas vezes perseguido e aflito, expressa amor, prazer e dependência da Palavra e termina confessando que anda como ovelha perdida e pedindo que Deus o busque.",
+   "licoes": [
+    "Guardar a Palavra no coração ajuda a não pecar (119:9, 119:11).",
+    "A Palavra de Deus ilumina o caminho como uma lâmpada (119:105, 119:130).",
+    "Até a aflição pode nos ensinar a Palavra (119:67, 119:71).",
+    "Mesmo quem ama a Palavra precisa que Deus o busque como ovelha perdida (119:176)."
+   ],
+   "reflexao": "Que versículo deste salmo você poderia guardar no coração esta semana?",
+   "quiz": [
+    {
+     "pergunta": "Com o que o salmista compara a Palavra de Deus no versículo 105?",
+     "opcoes": [
+      "Rocha e fortaleza",
+      "Espada e escudo",
+      "Lâmpada e luz",
+      "Pão e água"
+     ],
+     "correta": 2,
+     "ref": "119:105"
+    }
+   ]
+  },
+  {
+   "n": 120,
+   "titulo": "Eu sou pela paz",
+   "chave": "120:7",
+   "resumo": "Primeiro dos \"Cânticos dos Degraus\" (Salmos 120 a 134), provavelmente cantados pelos peregrinos a caminho de Jerusalém. O salmista clama a Deus contra línguas mentirosas e lamenta viver longe, entre povos hostis como Meseque e Quedar. Ele quer a paz, mas os outros só querem guerra.",
+   "licoes": [
+    "Deus responde ao clamor de quem sofre com mentiras e enganos (120:1-2).",
+    "Viver entre pessoas que odeiam a paz é cansativo para a alma (120:5-6).",
+    "O seguidor de Deus busca a paz mesmo quando os outros não a querem (120:7)."
+   ],
+   "reflexao": "Em que ambiente você precisa ser uma pessoa de paz, mesmo sem reciprocidade?",
+   "quiz": [
+    {
+     "pergunta": "Entre que povos o salmista lamenta habitar?",
+     "opcoes": [
+      "Edom e Filístia",
+      "Meseque e Quedar",
+      "Egito e Assíria",
+      "Moabe e Amom"
+     ],
+     "correta": 1,
+     "ref": "120:5"
+    }
+   ]
+  },
+  {
+   "n": 121,
+   "titulo": "O guarda que não dorme",
+   "chave": "121:1-2",
+   "resumo": "Cântico dos Degraus que fala de confiança durante a viagem. O peregrino olha para os montes e pergunta de onde virá seu socorro, respondendo que vem do SENHOR, Criador do céu e da terra. Deus é o guarda que não cochila nem dorme e protege sua saída e sua entrada para sempre.",
+   "licoes": [
+    "Nosso socorro vem do Criador, não das forças ao nosso redor (121:1-2).",
+    "Deus vigia seu povo sem cansar nem dormir (121:3-4).",
+    "O cuidado de Deus acompanha cada saída e cada entrada da vida (121:7-8)."
+   ],
+   "reflexao": "Que \"viagem\" ou mudança você está enfrentando e precisa entregar ao Guardião?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o salmo, o que o Guardião de Israel nunca faz?",
+     "opcoes": [
+      "Nunca sai do templo",
+      "Nunca fala",
+      "Nunca cochila nem dorme",
+      "Nunca se ira"
+     ],
+     "correta": 2,
+     "ref": "121:4"
+    }
+   ]
+  },
+  {
+   "n": 122,
+   "titulo": "Orai pela paz de Jerusalém",
+   "chave": "122:6",
+   "resumo": "Cântico dos Degraus atribuído a Davi, que expressa a alegria de ir à casa do SENHOR. O peregrino chega às portas de Jerusalém, cidade bem unida para onde sobem as tribos para louvar e onde estão os tronos de justiça. Ele convida a orar pela paz da cidade e promete buscar o bem dela por amor aos irmãos e à casa de Deus.",
+   "licoes": [
+    "A adoração em comunidade é motivo de alegria (122:1).",
+    "Orar pela paz da cidade é parte da fé (122:6-7).",
+    "Buscamos o bem dos outros por amor aos irmãos e à casa de Deus (122:8-9)."
+   ],
+   "reflexao": "Você se alegra em ir à casa de Deus com seus irmãos? Por quê?",
+   "quiz": [
+    {
+     "pergunta": "Com o que o salmista se alegra?",
+     "opcoes": [
+      "Com os que dizem: vamos à casa do SENHOR",
+      "Com a volta do rei",
+      "Com a colheita",
+      "Com a vitória na guerra"
+     ],
+     "correta": 0,
+     "ref": "122:1"
+    }
+   ]
+  },
+  {
+   "n": 123,
+   "titulo": "Olhos voltados para o SENHOR",
+   "chave": "123:2",
+   "resumo": "Breve Cântico dos Degraus de quem levanta os olhos para Deus nos céus. Como os servos olham para a mão do seu senhor, o povo olha para Deus esperando sua misericórdia. O motivo é que estão fartos do desprezo e da zombaria dos arrogantes.",
+   "licoes": [
+    "Olhar para Deus é a postura de quem depende dele (123:1-2).",
+    "Podemos pedir a misericórdia de Deus quando estamos cansados de humilhação (123:3-4)."
+   ],
+   "reflexao": "Para onde seus olhos se voltam primeiro quando você é desprezado?",
+   "quiz": [
+    {
+     "pergunta": "Com quem o salmo compara o povo que olha para Deus?",
+     "opcoes": [
+      "Com soldados diante do general",
+      "Com crianças diante do pai",
+      "Com servos que olham para a mão de seus senhores",
+      "Com ovelhas diante do pastor"
+     ],
+     "correta": 2,
+     "ref": "123:2"
+    }
+   ]
+  },
+  {
+   "n": 124,
+   "titulo": "Se o SENHOR não estivesse conosco",
+   "chave": "124:1-2",
+   "resumo": "Cântico dos Degraus de ação de graças coletiva, atribuído a Davi. O povo imagina o que teria acontecido se Deus não estivesse ao seu lado: teriam sido engolidos vivos e levados pelas águas. Mas escaparam como um pássaro do laço do caçador, porque seu socorro está no nome do SENHOR.",
+   "licoes": [
+    "É bom lembrar o que teria acontecido sem a ajuda de Deus (124:1-5).",
+    "Deus quebra as armadilhas e liberta o seu povo (124:7).",
+    "Nosso socorro está no nome do Criador (124:8)."
+   ],
+   "reflexao": "De que situação você reconhece que só saiu porque Deus estava com você?",
+   "quiz": [
+    {
+     "pergunta": "Como a alma do povo escapou, segundo o salmo?",
+     "opcoes": [
+      "Como um cervo do leão",
+      "Como um peixe da rede",
+      "Como uma ovelha do lobo",
+      "Como um pássaro da armadilha dos caçadores"
+     ],
+     "correta": 3,
+     "ref": "124:7"
+    }
+   ]
+  },
+  {
+   "n": 125,
+   "titulo": "Firmes como o monte Sião",
+   "chave": "125:1-2",
+   "resumo": "Salmo de confiança do grupo dos Cânticos dos Degraus. Quem confia no SENHOR é como o monte Sião, que não se abala. Assim como os montes cercam Jerusalém, Deus cerca seu povo, e o salmo pede que ele faça bem aos bons e termina com \"paz sobre Israel\".",
+   "licoes": [
+    "A confiança em Deus dá estabilidade como a de uma montanha (125:1).",
+    "Deus cerca seu povo como os montes cercam Jerusalém (125:2).",
+    "Deus não deixa o domínio do mal pesar para sempre sobre os justos (125:3)."
+   ],
+   "reflexao": "O que tem ameaçado abalar sua confiança, e como este salmo responde a isso?",
+   "quiz": [
+    {
+     "pergunta": "Com o que são comparados os que confiam no SENHOR?",
+     "opcoes": [
+      "Com a rocha do deserto",
+      "Com o monte de Sião",
+      "Com o cedro do Líbano",
+      "Com as muralhas de Jericó"
+     ],
+     "correta": 1,
+     "ref": "125:1"
+    }
+   ]
+  },
+  {
+   "n": 126,
+   "titulo": "Semear em lágrimas",
+   "chave": "126:5-6",
+   "resumo": "Cântico dos Degraus que lembra a alegria de quando Deus restaurou Sião: parecia um sonho, e a boca se encheu de riso. As nações reconheceram que Deus fez grandes coisas. O povo pede nova restauração, confiando que quem semeia com lágrimas colherá com alegria.",
+   "licoes": [
+    "As grandes obras de Deus enchem de alegria e testemunham às nações (126:2-3).",
+    "Podemos pedir que Deus restaure de novo, como torrentes no deserto (126:4).",
+    "O choro do tempo de semear não é o fim; Deus dá a colheita com alegria (126:5-6)."
+   ],
+   "reflexao": "Que \"semente\" você está plantando com lágrimas nesta fase da vida?",
+   "quiz": [
+    {
+     "pergunta": "Como colherão os que semeiam em lágrimas?",
+     "opcoes": [
+      "Com alegria",
+      "Com pouco fruto",
+      "Com tristeza",
+      "Com cansaço"
+     ],
+     "correta": 0,
+     "ref": "126:5"
+    }
+   ]
+  },
+  {
+   "n": 127,
+   "titulo": "Se o SENHOR não edificar a casa",
+   "chave": "127:1",
+   "resumo": "Cântico dos Degraus atribuído a Salomão, com tom de sabedoria. Sem Deus, é inútil construir a casa, vigiar a cidade ou trabalhar da madrugada à noite, pois ele dá descanso aos que ama. Os filhos são apresentados como presente e herança do SENHOR, como flechas na mão do guerreiro.",
+   "licoes": [
+    "Todo esforço humano depende da bênção de Deus para ter valor (127:1).",
+    "Trabalhar sem descanso por ansiedade não é o plano de Deus (127:2).",
+    "Os filhos são presente do SENHOR (127:3-4)."
+   ],
+   "reflexao": "Em que você tem trabalhado como se tudo dependesse só de você?",
+   "quiz": [
+    {
+     "pergunta": "Com o que são comparados os filhos da juventude?",
+     "opcoes": [
+      "Com flechas na mão do guerreiro",
+      "Com pedras preciosas",
+      "Com árvores frutíferas",
+      "Com estrelas do céu"
+     ],
+     "correta": 0,
+     "ref": "127:4"
+    }
+   ]
+  },
+  {
+   "n": 128,
+   "titulo": "A bênção no lar",
+   "chave": "128:1",
+   "resumo": "Cântico dos Degraus que descreve a felicidade de quem teme ao SENHOR e anda em seus caminhos. Ele comerá do fruto do seu trabalho, sua esposa será como videira frutífera e seus filhos como brotos de oliveira ao redor da mesa. O salmo termina com a bênção de ver os netos e a paz sobre Israel.",
+   "licoes": [
+    "Temer a Deus traz bênção para a vida diária e o trabalho (128:1-2).",
+    "A família é retratada como lugar de fruto e alegria (128:3).",
+    "A bênção pessoal se liga à paz de todo o povo (128:5-6)."
+   ],
+   "reflexao": "Como o temor a Deus pode transformar a vida na sua casa?",
+   "quiz": [
+    {
+     "pergunta": "Com que plantas são comparados os filhos ao redor da mesa?",
+     "opcoes": [
+      "Flores do campo",
+      "Ramos de palmeira",
+      "Cachos de uva",
+      "Brotos de oliveira"
+     ],
+     "correta": 3,
+     "ref": "128:3"
+    }
+   ]
+  },
+  {
+   "n": 129,
+   "titulo": "Afligiram-me, mas não prevaleceram",
+   "chave": "129:2",
+   "resumo": "Cântico dos Degraus em que Israel recorda as muitas aflições que sofreu desde a juventude. Os opressores araram suas costas como um campo, mas não prevaleceram, porque o SENHOR cortou as cordas dos perversos. O salmo pede que os inimigos de Sião sequem como a erva do telhado.",
+   "licoes": [
+    "O povo de Deus pode sofrer muito, mas não ser vencido (129:1-2).",
+    "Deus é justo e corta as cordas da opressão (129:4).",
+    "O mal que se levanta contra Sião é passageiro como a erva do telhado (129:6)."
+   ],
+   "reflexao": "Que \"marcas\" de sofrimento você carrega que também testemunham a fidelidade de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Com o que o salmo compara os que odeiam Sião?",
+     "opcoes": [
+      "Com a erva dos telhados que seca",
+      "Com a palha da eira",
+      "Com a areia do mar",
+      "Com a fumaça que se dissipa"
+     ],
+     "correta": 0,
+     "ref": "129:6"
+    }
+   ]
+  },
+  {
+   "n": 130,
+   "titulo": "Das profundezas",
+   "chave": "130:1",
+   "resumo": "Cântico dos Degraus, contado entre os salmos penitenciais. O salmista clama das profundezas e reconhece que ninguém resistiria se Deus registrasse todas as culpas, mas com ele há perdão. Ele espera pelo Senhor mais do que os guardas esperam pela manhã e convida Israel a esperar também, pois em Deus há bondade e redenção abundante.",
+   "licoes": [
+    "Podemos clamar a Deus até das profundezas (130:1-2).",
+    "O perdão de Deus nos leva a temê-lo com reverência, não a desprezá-lo (130:3-4).",
+    "Esperar em Deus é como o vigia que aguarda o amanhecer (130:5-6).",
+    "Com o SENHOR há redenção abundante para todo o povo (130:7-8)."
+   ],
+   "reflexao": "Do que você precisa ser resgatado hoje, e como está esperando por Deus?",
+   "quiz": [
+    {
+     "pergunta": "Mais do que quem a alma do salmista espera pelo Senhor?",
+     "opcoes": [
+      "Mais que o lavrador pela chuva",
+      "Mais que o viajante pelo descanso",
+      "Mais que os guardas pela manhã",
+      "Mais que a noiva pelo noivo"
+     ],
+     "correta": 2,
+     "ref": "130:6"
+    }
+   ]
+  },
+  {
+   "n": 131,
+   "titulo": "Como criança no colo da mãe",
+   "chave": "131:2",
+   "resumo": "Breve Cântico dos Degraus atribuído a Davi, um dos salmos mais delicados do livro. O salmista diz que não tem coração orgulhoso nem busca coisas grandes demais para ele. Sua alma está sossegada como uma criança desmamada no colo da mãe, e ele convida Israel a esperar no SENHOR.",
+   "licoes": [
+    "A humildade inclui aceitar nossos limites diante de Deus (131:1).",
+    "A alma pode aprender a descansar em Deus como uma criança no colo da mãe (131:2).",
+    "Essa confiança é um convite para todo o povo, agora e sempre (131:3)."
+   ],
+   "reflexao": "O que impede sua alma de descansar em Deus como uma criança no colo?",
+   "quiz": [
+    {
+     "pergunta": "Com o que o salmista compara sua alma sossegada?",
+     "opcoes": [
+      "Com um rio tranquilo",
+      "Com uma ovelha no aprisco",
+      "Com um pássaro no ninho",
+      "Com uma criança com sua mãe"
+     ],
+     "correta": 3,
+     "ref": "131:2"
+    }
+   ]
+  },
+  {
+   "n": 132,
+   "titulo": "A morada de Deus e a promessa a Davi",
+   "chave": "132:13-14",
+   "resumo": "Cântico dos Degraus que lembra o voto de Davi de não descansar até encontrar um lugar para a arca do SENHOR. O povo celebra a chegada da arca e pede que Deus não rejeite seu ungido. Em resposta, Deus recorda o juramento de pôr um descendente de Davi no trono e declara que escolheu Sião como seu lugar de repouso para sempre.",
+   "licoes": [
+    "Davi teve zelo por preparar um lugar para a presença de Deus (132:3-5).",
+    "Deus fez promessas firmes à casa de Davi, ligadas à fidelidade à aliança (132:11-12).",
+    "Deus escolhe habitar com seu povo e o abençoa com pão e alegria (132:13-16)."
+   ],
+   "reflexao": "Que lugar você tem preparado para a presença de Deus em sua vida?",
+   "quiz": [
+    {
+     "pergunta": "Que lugar o SENHOR escolheu como seu repouso para sempre?",
+     "opcoes": [
+      "Betel",
+      "Sião",
+      "Hebrom",
+      "Siló"
+     ],
+     "correta": 1,
+     "ref": "132:13-14"
+    }
+   ]
+  },
+  {
+   "n": 133,
+   "titulo": "Como é bom viver em união",
+   "chave": "133:1",
+   "resumo": "Curto Cântico dos Degraus atribuído a Davi sobre a beleza da união entre irmãos. Essa convivência é comparada ao óleo precioso que escorre pela barba do sacerdote Arão e ao orvalho do Hermom que desce sobre os montes de Sião. É ali que o SENHOR ordena a bênção e a vida para sempre.",
+   "licoes": [
+    "A união entre irmãos é boa e agradável aos olhos de Deus (133:1).",
+    "A unidade é como uma unção que se espalha e abençoa (133:2).",
+    "Deus derrama sua bênção onde há comunhão (133:3)."
+   ],
+   "reflexao": "Com quem você precisa buscar mais união neste momento?",
+   "quiz": [
+    {
+     "pergunta": "Pela barba de quem desce o óleo precioso?",
+     "opcoes": [
+      "De Moisés",
+      "De Davi",
+      "De Arão",
+      "De Samuel"
+     ],
+     "correta": 2,
+     "ref": "133:2"
+    }
+   ]
+  },
+  {
+   "n": 134,
+   "titulo": "Bendizei ao SENHOR à noite",
+   "chave": "134:1-2",
+   "resumo": "Último dos Cânticos dos Degraus, um breve chamado à adoração. Os servos que ministram na casa do SENHOR durante as noites são convidados a levantar as mãos e bendizer a Deus. O salmo termina com uma bênção do Criador, vinda de Sião.",
+   "licoes": [
+    "O serviço a Deus continua até nas horas escondidas da noite (134:1).",
+    "Levantar as mãos e bendizer a Deus é parte do culto (134:2).",
+    "Quem bendiz a Deus também recebe a bênção do Criador (134:3)."
+   ],
+   "reflexao": "Que serviço escondido você pode fazer para Deus, mesmo sem ninguém ver?",
+   "quiz": [
+    {
+     "pergunta": "Quando servem os servos do SENHOR mencionados neste salmo?",
+     "opcoes": [
+      "Ao meio-dia",
+      "Nos sábados",
+      "Na lua nova",
+      "Durante as noites"
+     ],
+     "correta": 3,
+     "ref": "134:1"
+    }
+   ]
+  },
+  {
+   "n": 135,
+   "titulo": "O SENHOR é grande",
+   "chave": "135:5-6",
+   "resumo": "Hino de louvor que começa e termina com \"Aleluia\". Convida os servos do templo a louvar o Deus bom que escolheu Jacó, que é maior que todos os deuses e controla nuvens, chuva e ventos. Relembra as pragas do Egito e a vitória sobre Seom e Ogue e contrasta o SENHOR com os ídolos mudos.",
+   "licoes": [
+    "Deus é bom e escolheu um povo para si (135:3-4).",
+    "O SENHOR é soberano sobre toda a criação (135:6-7).",
+    "Deus agiu na história para libertar seu povo (135:8-12).",
+    "Os ídolos são obra humana e não têm vida (135:15-18)."
+   ],
+   "reflexao": "Em que você tem confiado que, como os ídolos, \"tem boca mas não fala\"?",
+   "quiz": [
+    {
+     "pergunta": "Quais reis o salmo menciona como derrotados por Deus?",
+     "opcoes": [
+      "Faraó e Nabucodonosor",
+      "Seom e Ogue",
+      "Saul e Acabe",
+      "Agague e Golias"
+     ],
+     "correta": 1,
+     "ref": "135:11"
+    }
+   ]
+  },
+  {
+   "n": 136,
+   "titulo": "Sua bondade dura para sempre",
+   "chave": "136:1",
+   "resumo": "Hino de ação de graças em forma de ladainha, com o mesmo refrão em todos os 26 versículos: \"sua bondade dura para sempre\". Percorre a criação, a libertação do Egito, a passagem pelo mar Vermelho, a caminhada no deserto e a conquista da terra. Termina lembrando que Deus se lembrou do povo humilhado e alimenta todo ser vivo.",
+   "licoes": [
+    "A repetição ajuda a gravar no coração a bondade de Deus (136:1-3).",
+    "A bondade de Deus aparece tanto na criação quanto na história (136:5-9, 136:10-16).",
+    "Deus se lembra de nós na humilhação e cuida de todo ser vivo (136:23-25)."
+   ],
+   "reflexao": "Se você escrevesse sua própria lista \"sua bondade dura para sempre\", o que incluiria?",
+   "quiz": [
+    {
+     "pergunta": "Qual é o refrão repetido em todos os versículos deste salmo?",
+     "opcoes": [
+      "Santo, santo, santo",
+      "Porque sua bondade dura para sempre",
+      "Aleluia",
+      "O SENHOR reina"
+     ],
+     "correta": 1,
+     "ref": "136:1"
+    }
+   ]
+  },
+  {
+   "n": 137,
+   "titulo": "Junto aos rios da Babilônia",
+   "chave": "137:1",
+   "resumo": "Lamento comunitário dos exilados na Babilônia. Eles choram ao lembrar Sião e penduram as harpas nos salgueiros, sem conseguir cantar as canções do SENHOR para os opressores. Juram não esquecer Jerusalém e terminam com palavras duríssimas contra Edom e Babilônia, um grito de dor que pede retribuição e que o leitor cristão lê à luz do chamado a deixar a vingança com Deus.",
+   "licoes": [
+    "A dor do exílio e da perda é expressa com toda sinceridade (137:1-4).",
+    "A fidelidade à memória de Jerusalém é mais forte que a pressão do opressor (137:5-6).",
+    "As palavras finais mostram a profundidade da dor e são entregues a Deus como pedido de justiça (137:7-9)."
+   ],
+   "reflexao": "O que você faz com dores tão grandes que geram desejo de vingança?",
+   "quiz": [
+    {
+     "pergunta": "Onde os exilados penduraram suas harpas?",
+     "opcoes": [
+      "Nas muralhas da cidade",
+      "Nos salgueiros",
+      "Nas palmeiras",
+      "Nas tendas"
+     ],
+     "correta": 1,
+     "ref": "137:2"
+    }
+   ]
+  },
+  {
+   "n": 138,
+   "titulo": "Deus completará sua obra",
+   "chave": "138:8",
+   "resumo": "Salmo de ação de graças de Davi, que louva a Deus de todo o coração por ter respondido quando clamou. Ele espera que todos os reis da terra louvem ao SENHOR ao ouvirem sua palavra. Embora excelso, Deus olha para o humilde, preserva a vida no meio da angústia e completará o que começou.",
+   "licoes": [
+    "Deus responde e fortalece a alma de quem clama (138:3).",
+    "O Deus altíssimo dá atenção aos humildes (138:6).",
+    "Deus vai completar sua obra em nós e não abandona o que fez (138:8)."
+   ],
+   "reflexao": "Que obra de Deus em sua vida você confia que ele vai completar?",
+   "quiz": [
+    {
+     "pergunta": "A quem o SENHOR, mesmo sendo elevado, presta atenção?",
+     "opcoes": [
+      "Ao humilde",
+      "Aos reis",
+      "Aos sacerdotes",
+      "Aos sábios"
+     ],
+     "correta": 0,
+     "ref": "138:6"
+    }
+   ]
+  },
+  {
+   "n": 139,
+   "titulo": "Tu me sondas e me conheces",
+   "chave": "139:1",
+   "resumo": "Salmo de Davi que medita no conhecimento e na presença de Deus. O SENHOR conhece cada passo, pensamento e palavra; não há lugar, nem céu, nem mundo dos mortos, nem trevas, onde se possa fugir dele. Deus formou o salmista no ventre da mãe e viu todos os seus dias, e o salmo termina, após palavras duras contra os perversos, pedindo que Deus examine seu próprio coração.",
+   "licoes": [
+    "Deus nos conhece por inteiro, até antes de falarmos (139:1-4).",
+    "Não existe lugar onde estejamos longe da presença de Deus (139:7-10).",
+    "Cada pessoa foi formada de modo maravilhoso por Deus desde o ventre (139:13-14, 139:16).",
+    "Pedir que Deus examine nosso coração é o caminho para sermos guiados por ele (139:23-24)."
+   ],
+   "reflexao": "Como você se sente ao saber que Deus conhece tudo sobre você?",
+   "quiz": [
+    {
+     "pergunta": "Onde Deus diz o salmista que o cobriu e formou?",
+     "opcoes": [
+      "No deserto de Judá",
+      "No ventre da sua mãe",
+      "Nos campos de Belém",
+      "No templo de Jerusalém"
+     ],
+     "correta": 1,
+     "ref": "139:13"
+    }
+   ]
+  },
+  {
+   "n": 140,
+   "titulo": "Livra-me do homem violento",
+   "chave": "140:12",
+   "resumo": "Lamento de Davi contra homens violentos que planejam o mal, têm veneno de serpente na língua e armam laços no caminho. Ele declara que o SENHOR é seu Deus, que protegeu sua cabeça no dia da batalha. Termina com a certeza de que Deus defende a causa do aflito e que os justos viverão diante dele.",
+   "licoes": [
+    "A língua maligna pode ser venenosa como a de uma serpente (140:3).",
+    "Deus protege os seus no dia da batalha (140:7).",
+    "O SENHOR defende a causa do aflito e o direito do necessitado (140:12)."
+   ],
+   "reflexao": "Em que situação você precisa confiar que Deus vai defender o seu direito?",
+   "quiz": [
+    {
+     "pergunta": "O que há debaixo dos lábios dos homens violentos, segundo o salmo?",
+     "opcoes": [
+      "Fogo",
+      "Palavras de paz",
+      "Mel",
+      "Veneno de serpentes"
+     ],
+     "correta": 3,
+     "ref": "140:3"
+    }
+   ]
+  },
+  {
+   "n": 141,
+   "titulo": "Guarda em minha boca",
+   "chave": "141:3",
+   "resumo": "Oração de Davi ao anoitecer, pedindo que sua oração suba como incenso diante de Deus. Ele pede uma guarda para a boca e que seu coração não se incline ao mal nem às delícias dos malfeitores. Prefere a correção de um justo como bênção e mantém os olhos fixos em Deus, pedindo proteção das armadilhas.",
+   "licoes": [
+    "A oração pode subir a Deus como incenso (141:2).",
+    "Precisamos da ajuda de Deus para vigiar nossas palavras (141:3).",
+    "A correção de um justo é um favor e não uma ofensa (141:5).",
+    "Os olhos fixos em Deus nos guardam das armadilhas (141:8-9)."
+   ],
+   "reflexao": "Que palavras você precisa pedir a Deus que guarde em sua boca?",
+   "quiz": [
+    {
+     "pergunta": "Com o que o salmista pede que sua oração seja comparada?",
+     "opcoes": [
+      "Com o sacrifício da manhã",
+      "Com o canto dos levitas",
+      "Com o som da trombeta",
+      "Com o incenso"
+     ],
+     "correta": 3,
+     "ref": "141:2"
+    }
+   ]
+  },
+  {
+   "n": 142,
+   "titulo": "Ninguém cuida de mim",
+   "chave": "142:5",
+   "resumo": "Oração de Davi na caverna, em profunda solidão. Ele derrama sua queixa diante de Deus, olha ao redor e não vê ninguém que se importe com ele. Então declara que o SENHOR é seu refúgio e sua porção na terra dos viventes, e pede para ser tirado da prisão para louvar a Deus entre os justos.",
+   "licoes": [
+    "Podemos derramar diante de Deus toda a nossa angústia (142:1-2).",
+    "Quando ninguém se importa, Deus conhece o nosso caminho (142:3-4).",
+    "Deus é refúgio e porção, mesmo na solidão (142:5).",
+    "O livramento leva ao louvor em comunidade (142:7)."
+   ],
+   "reflexao": "Quando você se sente sozinho, para quem derrama sua queixa?",
+   "quiz": [
+    {
+     "pergunta": "Onde Davi estava quando fez esta oração, segundo o título?",
+     "opcoes": [
+      "No campo de batalha",
+      "No templo",
+      "No palácio",
+      "Na caverna"
+     ],
+     "correta": 3,
+     "ref": "142:1"
+    }
+   ]
+  },
+  {
+   "n": 143,
+   "titulo": "Ensina-me a fazer a tua vontade",
+   "chave": "143:10",
+   "resumo": "Salmo penitencial de Davi, perseguido e com o espírito angustiado. Ele reconhece que ninguém é justo diante de Deus e pede que Deus não entre em juízo com ele. Lembra as obras antigas de Deus, tem sede dele como terra seca e pede para ouvir de manhã sua bondade e ser ensinado a fazer sua vontade.",
+   "licoes": [
+    "Ninguém é justo por si mesmo diante de Deus; dependemos de sua misericórdia (143:2).",
+    "Lembrar as obras de Deus alimenta a esperança na angústia (143:5-6).",
+    "Podemos pedir que Deus nos mostre o caminho e nos ensine sua vontade (143:8, 143:10)."
+   ],
+   "reflexao": "Em que decisão você precisa pedir: \"Ensina-me a fazer a tua vontade\"?",
+   "quiz": [
+    {
+     "pergunta": "Com o que o salmista compara sua sede de Deus?",
+     "opcoes": [
+      "Com a corça junto às águas",
+      "Com a terra seca",
+      "Com o campo sem chuva no verão",
+      "Com o viajante no deserto"
+     ],
+     "correta": 1,
+     "ref": "143:6"
+    }
+   ]
+  },
+  {
+   "n": 144,
+   "titulo": "Que é o homem?",
+   "chave": "144:3-4",
+   "resumo": "Salmo real de Davi que bendiz a Deus como rocha que o prepara para a batalha. Reconhece que o ser humano é como um sopro e pede que Deus desça com poder para livrá-lo de estrangeiros mentirosos. Termina com a visão de um povo abençoado, com filhos fortes, celeiros cheios e ruas em paz, porque seu Deus é o SENHOR.",
+   "licoes": [
+    "Deus é rocha, castelo e escudo de quem confia nele (144:1-2).",
+    "Diante de Deus, o ser humano é breve como um sopro (144:3-4).",
+    "Feliz é o povo cujo Deus é o SENHOR (144:15)."
+   ],
+   "reflexao": "Como o fato de a vida ser um sopro muda as suas prioridades?",
+   "quiz": [
+    {
+     "pergunta": "Com o que o homem é comparado no versículo 4?",
+     "opcoes": [
+      "Com uma rocha",
+      "Com um sopro",
+      "Com uma montanha",
+      "Com uma árvore"
+     ],
+     "correta": 1,
+     "ref": "144:4"
+    }
+   ]
+  },
+  {
+   "n": 145,
+   "titulo": "Todo dia te bendirei",
+   "chave": "145:8-9",
+   "resumo": "Hino de louvor de Davi, em forma de acróstico, que exalta Deus como Rei. Ele promete bendizê-lo todos os dias e diz que uma geração contará à outra as suas obras. Deus é misericordioso, bom para com todos, sustenta os que caem, alimenta todos os seres e está perto de todos os que o invocam com sinceridade.",
+   "licoes": [
+    "O louvor a Deus é diário e passa de geração em geração (145:2, 145:4).",
+    "Deus é misericordioso, tardio em irar-se e bom para com todos (145:8-9).",
+    "Deus sustenta os que caem e levanta os abatidos (145:14).",
+    "O SENHOR está perto de todos os que o invocam sinceramente (145:18)."
+   ],
+   "reflexao": "Que obra de Deus você pode contar a alguém de outra geração?",
+   "quiz": [
+    {
+     "pergunta": "O que o SENHOR faz com todos os que caem?",
+     "opcoes": [
+      "Abandona-os",
+      "Julga-os",
+      "Segura-os",
+      "Esquece-os"
+     ],
+     "correta": 2,
+     "ref": "145:14"
+    }
+   ]
+  },
+  {
+   "n": 146,
+   "titulo": "Não confieis em príncipes",
+   "chave": "146:3",
+   "resumo": "Primeiro dos cinco salmos de \"Aleluia\" que encerram o livro. O salmista promete louvar a Deus por toda a vida e adverte a não confiar em governantes humanos, que morrem e cujos planos perecem. Feliz é quem confia no Criador, que faz justiça aos oprimidos, dá pão aos famintos, liberta presos, abre os olhos dos cegos e protege estrangeiros, órfãos e viúvas.",
+   "licoes": [
+    "Os líderes humanos são mortais e não podem nos salvar (146:3-4).",
+    "Feliz é quem tem o Deus de Jacó como ajuda e esperança (146:5).",
+    "O caráter de Deus se vê no cuidado pelos oprimidos, famintos, presos, cegos e desamparados (146:7-9)."
+   ],
+   "reflexao": "Em que você tem colocado esperança que, na verdade, deveria estar em Deus?",
+   "quiz": [
+    {
+     "pergunta": "Quem o SENHOR guarda e sustenta, segundo o versículo 9?",
+     "opcoes": [
+      "Os guerreiros e os juízes",
+      "Os estrangeiros, o órfão e a viúva",
+      "Os reis e os sacerdotes",
+      "Os ricos e os sábios"
+     ],
+     "correta": 1,
+     "ref": "146:9"
+    }
+   ]
+  },
+  {
+   "n": 147,
+   "titulo": "Ele sara os de coração partido",
+   "chave": "147:3",
+   "resumo": "Hino que louva a Deus por reconstruir Jerusalém e reunir os dispersos de Israel. O mesmo Deus que conta as estrelas e as chama pelo nome cura os de coração partido e cuida até dos filhotes dos corvos. Ele não se impressiona com força, mas com quem o teme, e deu sua palavra a Israel de modo especial.",
+   "licoes": [
+    "O Deus que governa as estrelas cuida de corações feridos (147:3-4).",
+    "Deus sustenta toda a criação, até os filhotes de corvo (147:8-9).",
+    "Deus se agrada dos que o temem e esperam em sua bondade, não da força humana (147:10-11).",
+    "A palavra de Deus governa a natureza e foi revelada ao seu povo (147:15, 147:19)."
+   ],
+   "reflexao": "Que ferida do seu coração você pode entregar ao Deus que conta as estrelas?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus faz com as estrelas, segundo o salmo?",
+     "opcoes": [
+      "Esconde-as de dia",
+      "Apaga-as",
+      "Conta-as e chama cada uma pelo nome",
+      "Usa-as para guiar navios"
+     ],
+     "correta": 2,
+     "ref": "147:4"
+    }
+   ]
+  },
+  {
+   "n": 148,
+   "titulo": "Toda a criação louve",
+   "chave": "148:13",
+   "resumo": "Hino que convoca toda a criação a louvar ao SENHOR. Primeiro os céus: anjos, sol, lua e estrelas; depois a terra: monstros marinhos, fogo, neve, montes, árvores, animais, reis, povos, jovens e velhos. O motivo é que só o nome do SENHOR é exaltado e ele fortaleceu seu povo.",
+   "licoes": [
+    "Tudo o que Deus criou existe para o louvor do seu nome (148:5-6).",
+    "Até os elementos da natureza obedecem à palavra de Deus (148:8).",
+    "Todas as pessoas, de todas as idades e posições, são chamadas ao louvor (148:11-13)."
+   ],
+   "reflexao": "Como você pode se unir hoje ao coral da criação que louva a Deus?",
+   "quiz": [
+    {
+     "pergunta": "Quais grupos de pessoas o salmo chama para louvar juntos no versículo 12?",
+     "opcoes": [
+      "Rapazes, moças, velhos e jovens",
+      "Sacerdotes e levitas",
+      "Pastores e lavradores",
+      "Reis e profetas"
+     ],
+     "correta": 0,
+     "ref": "148:12"
+    }
+   ]
+  },
+  {
+   "n": 149,
+   "titulo": "Um cântico novo na congregação",
+   "chave": "149:4",
+   "resumo": "Hino que chama o povo a cantar um cântico novo, dançar e tocar diante do seu Criador e Rei, porque o SENHOR se agrada do seu povo e adorna os humildes com salvação. Na segunda parte, o louvor aparece unido à espada para executar o juízo sobre as nações. Muitos leitores cristãos entendem essa imagem à luz do juízo que pertence a Deus, e não como incentivo à violência.",
+   "licoes": [
+    "O louvor a Deus pode ser alegre, com música e dança (149:1-3).",
+    "Deus se agrada do seu povo e honra os humildes com salvação (149:4).",
+    "O juízo sobre a injustiça pertence a Deus e segue sua sentença (149:9)."
+   ],
+   "reflexao": "Como seria trazer um \"cântico novo\" ao louvor da sua comunidade?",
+   "quiz": [
+    {
+     "pergunta": "Com o que Deus ornará os mansos, segundo o salmo?",
+     "opcoes": [
+      "Com vestes sacerdotais",
+      "Com ouro",
+      "Com salvação",
+      "Com coroas"
+     ],
+     "correta": 2,
+     "ref": "149:4"
+    }
+   ]
+  },
+  {
+   "n": 150,
+   "titulo": "Tudo quanto tem fôlego",
+   "chave": "150:6",
+   "resumo": "Grande doxologia final que encerra o livro dos Salmos. Em seis versículos, repete o chamado \"louvai-o\": no santuário e no firmamento, por seus feitos e por sua grandeza, com trombeta, harpa, tamborim, dança, flauta e címbalos. Termina convidando tudo o que respira a louvar ao SENHOR.",
+   "licoes": [
+    "O louvor a Deus acontece no templo e em todo o universo (150:1).",
+    "Louvamos a Deus pelo que ele faz e por quem ele é (150:2).",
+    "Todo tipo de instrumento e expressão pode servir ao louvor (150:3-5).",
+    "Todo ser que respira é chamado a louvar ao SENHOR (150:6)."
+   ],
+   "reflexao": "Depois de estudar os Salmos, que motivo de louvor ficou mais forte para você?",
+   "quiz": [
+    {
+     "pergunta": "Quem é chamado a louvar ao SENHOR no último versículo?",
+     "opcoes": [
+      "Só os levitas",
+      "Só Israel",
+      "Só os anjos",
+      "Tudo quanto tem fôlego"
+     ],
+     "correta": 3,
+     "ref": "150:6"
+    }
+   ]
+  }
+ ]
+}

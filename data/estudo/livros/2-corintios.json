@@ -1,0 +1,425 @@
+{
+ "livro": "2-corintios",
+ "nome": "2 Coríntios",
+ "subtitulo": "Força na fraqueza e consolo na aflição",
+ "introducao": "Nesta carta muito pessoal, Paulo abre o coração a uma igreja com quem teve uma relação difícil. Ele fala de sofrimento e consolo, defende seu ministério contra falsos apóstolos e explica a glória da nova aliança. Também organiza uma oferta para os pobres de Jerusalém e ensina que o poder de Deus se mostra na fraqueza humana.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Paulo, com Timóteo (1:1)"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "A maioria data por volta de 55–56 d.C., pouco depois de 1 Coríntios"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Provavelmente escrita na Macedônia (7:5, 9:2)"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "A igreja de Corinto e os cristãos da Acaia (1:1)"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Carta"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "13 capítulos e 257 versículos"
+  }
+ ],
+ "chave": "12:9",
+ "temas": [
+  "Consolo de Deus no sofrimento",
+  "A glória da nova aliança",
+  "Reconciliação com Deus em Cristo",
+  "Generosidade alegre",
+  "O poder de Deus na fraqueza humana",
+  "Discernimento diante de falsos mestres"
+ ],
+ "cristo": "Cristo é o \"sim\" de todas as promessas de Deus e aquele que, sem pecado, foi feito pecado por nós para nos reconciliar com Deus (1:20, 5:21). Como ele, que foi crucificado em fraqueza e vive pelo poder de Deus, seus servos experimentam vida no meio da fraqueza (13:4).",
+ "secoes": [
+  {
+   "id": "consolo",
+   "titulo": "Consolo e explicações",
+   "capitulos": [
+    1,
+    2
+   ],
+   "resumo": "Paulo fala da consolação de Deus e explica sua mudança de planos."
+  },
+  {
+   "id": "ministerio",
+   "titulo": "O ministério da nova aliança",
+   "capitulos": [
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "resumo": "A glória do ministério do Espírito, o tesouro em vasos de barro e a reconciliação."
+  },
+  {
+   "id": "oferta",
+   "titulo": "A oferta para Jerusalém",
+   "capitulos": [
+    8,
+    9
+   ],
+   "resumo": "O exemplo da Macedônia e o chamado à generosidade alegre."
+  },
+  {
+   "id": "defesa",
+   "titulo": "Defesa do apostolado",
+   "capitulos": [
+    10,
+    11,
+    12,
+    13
+   ],
+   "resumo": "Paulo responde aos falsos apóstolos e se gloria na fraqueza."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "O Deus de toda consolação",
+   "chave": "1:3-4",
+   "resumo": "Paulo bendiz o Deus de toda consolação, que o consola nas aflições para que ele possa consolar outros. Ele conta que passou por uma aflição tão grande na Ásia que perdeu a esperança de viver, e aprendeu a confiar em Deus, que ressuscita os mortos. Depois explica por que mudou seus planos de visitar Corinto: não foi por leviandade, mas para poupá-los, pois em Cristo todas as promessas de Deus são \"sim\".",
+   "licoes": [
+    "Deus nos consola para que possamos consolar outros com a mesma consolação (1:3-4).",
+    "As situações extremas nos ensinam a não confiar em nós mesmos, mas em Deus, que ressuscita os mortos (1:8-9).",
+    "Todas as promessas de Deus encontram seu \"sim\" em Cristo (1:20).",
+    "Deus nos sela e nos dá o Espírito como garantia (1:21-22)."
+   ],
+   "reflexao": "Quem você pode consolar hoje com a consolação que já recebeu de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Como Paulo chama Deus no início da carta?",
+     "opcoes": [
+      "Deus dos exércitos",
+      "Deus de toda consolação",
+      "Deus de Abraão",
+      "Deus da guerra"
+     ],
+     "correta": 1,
+     "ref": "1:3"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Perdão e o bom perfume de Cristo",
+   "chave": "2:14",
+   "resumo": "Paulo explica que escreveu uma carta anterior com lágrimas, por amor, e não para entristecê-los. Pede que perdoem e consolem o irmão que havia causado tristeza e foi disciplinado, para que Satanás não tire proveito. Conta sua inquietação ao não encontrar Tito em Trôade e agradece a Deus, que faz os seus servos espalharem por toda parte o perfume do conhecimento de Cristo.",
+   "licoes": [
+    "A repreensão feita com amor pode vir acompanhada de lágrimas (2:4).",
+    "Depois da disciplina, a igreja deve perdoar, consolar e reafirmar o amor (2:7-8).",
+    "A falta de perdão é uma brecha que Satanás pode aproveitar (2:10-11).",
+    "Os servos de Deus espalham o bom perfume de Cristo e não comercializam a palavra (2:15, 2:17)."
+   ],
+   "reflexao": "Há alguém arrependido a quem você ainda nega perdão e consolo?",
+   "quiz": [
+    {
+     "pergunta": "Quem Paulo não encontrou em Trôade, o que lhe tirou o repouso?",
+     "opcoes": [
+      "Timóteo",
+      "Silas",
+      "Tito",
+      "Apolo"
+     ],
+     "correta": 2,
+     "ref": "2:13"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Ministros da nova aliança",
+   "chave": "3:18",
+   "resumo": "Paulo diz que não precisa de cartas de recomendação: os próprios coríntios são uma carta de Cristo escrita pelo Espírito no coração. Ele compara a antiga aliança, gravada em pedras e com uma glória passageira no rosto de Moisés, com a nova aliança do Espírito, muito mais gloriosa. Quando alguém se volta ao Senhor, o véu é retirado, e os cristãos são transformados de glória em glória.",
+   "licoes": [
+    "Vidas transformadas são a melhor recomendação de um ministério (3:2-3).",
+    "Nossa capacidade para servir vem de Deus, não de nós mesmos (3:5-6).",
+    "A letra mata, mas o Espírito dá vida (3:6).",
+    "Onde está o Espírito do Senhor há liberdade, e somos transformados à imagem de Cristo (3:17-18)."
+   ],
+   "reflexao": "Que área da sua vida precisa ser transformada \"de glória em glória\"?",
+   "quiz": [
+    {
+     "pergunta": "Por que Moisés colocava um véu sobre o rosto?",
+     "opcoes": [
+      "Para se proteger do sol",
+      "Para esconder a glória que se extinguia",
+      "Por luto",
+      "Para orar em segredo"
+     ],
+     "correta": 1,
+     "ref": "3:13"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Tesouro em vasos de barro",
+   "chave": "4:7",
+   "resumo": "Paulo afirma que não desanima no ministério, nem distorce a palavra de Deus; se o evangelho está encoberto, é porque o deus deste século cegou os incrédulos. Ele prega Cristo, não a si mesmo, e reconhece que carrega esse tesouro em vasos de barro, para que o poder seja de Deus. Por isso, mesmo afligido, perplexo e perseguido, não é destruído, e olha para as coisas eternas que não se veem.",
+   "licoes": [
+    "O evangelho é luz que Deus faz brilhar no coração, mostrando sua glória no rosto de Cristo (4:6).",
+    "Nossa fraqueza deixa claro que o poder vem de Deus (4:7).",
+    "O cristão pode ser abatido, mas não destruído (4:8-9).",
+    "As aflições presentes são leves e passageiras comparadas à glória eterna (4:16-18)."
+   ],
+   "reflexao": "Que fraqueza sua pode se tornar lugar para o poder de Deus aparecer?",
+   "quiz": [
+    {
+     "pergunta": "Em que Paulo diz que temos esse tesouro?",
+     "opcoes": [
+      "Em cofres de ouro",
+      "Em vasos de barro",
+      "Em tábuas de pedra",
+      "Em templos de mármore"
+     ],
+     "correta": 1,
+     "ref": "4:7"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "Nova criatura e ministério da reconciliação",
+   "chave": "5:17",
+   "resumo": "Paulo fala da esperança de uma morada eterna nos céus, garantida pelo Espírito, e do desejo de agradar ao Senhor, diante de quem todos comparecerão. O amor de Cristo o motiva: Cristo morreu por todos para que vivam para ele. Quem está em Cristo é nova criatura, e Deus, que nos reconciliou consigo, faz dos cristãos embaixadores que rogam: \"Reconciliai-vos com Deus\".",
+   "licoes": [
+    "Andamos pela fé, e não pelo que vemos (5:7).",
+    "O amor de Cristo nos leva a viver não para nós mesmos, mas para ele (5:14-15).",
+    "Em Cristo, as coisas antigas passaram e tudo se fez novo (5:17).",
+    "Cristo, que não conheceu pecado, foi feito pecado por nós, para que fôssemos justiça de Deus nele (5:21)."
+   ],
+   "reflexao": "Como você pode ser embaixador de Cristo nas suas relações desta semana?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Paulo, o que é quem está em Cristo?",
+     "opcoes": [
+      "Um servo da Lei",
+      "Uma nova criatura",
+      "Um anjo",
+      "Um profeta"
+     ],
+     "correta": 1,
+     "ref": "5:17"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "Agora é o dia da salvação",
+   "chave": "6:2",
+   "resumo": "Paulo pede que os coríntios não recebam em vão a graça de Deus, pois agora é o tempo favorável e o dia da salvação. Ele descreve seu ministério cheio de sofrimentos e contrastes: tratado como enganador, mas verdadeiro; triste, mas sempre alegre; pobre, mas enriquecendo muitos. Pede que abram o coração para ele e que não se ponham em jugo desigual com os descrentes, pois são templo do Deus vivo.",
+   "licoes": [
+    "A graça de Deus pede resposta agora: \"eis agora o dia da salvação\" (6:1-2).",
+    "O ministério verdadeiro se mostra em paciência, pureza e amor sincero no meio das dificuldades (6:4-6).",
+    "É possível estar triste e ao mesmo tempo sempre alegre, pobre e enriquecer muitos (6:10).",
+    "Como templo do Deus vivo, o cristão deve evitar alianças que comprometam sua fidelidade (6:14-16)."
+   ],
+   "reflexao": "Que resposta à graça de Deus você tem adiado?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Paulo, quando é o dia da salvação?",
+     "opcoes": [
+      "No fim dos tempos",
+      "Agora",
+      "No próximo sábado",
+      "Quando Paulo chegar"
+     ],
+     "correta": 1,
+     "ref": "6:2"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "Tristeza que leva ao arrependimento",
+   "chave": "7:10",
+   "resumo": "Paulo exorta à santificação e pede que os coríntios lhe abram o coração. Conta que, aflito na Macedônia, foi consolado por Deus com a chegada de Tito e com as boas notícias sobre eles. A carta severa os entristeceu, mas foi uma tristeza segundo Deus, que produziu arrependimento, zelo e desejo de fazer o que é certo.",
+   "licoes": [
+    "Diante das promessas de Deus, somos chamados a nos purificar e buscar a santidade (7:1).",
+    "Deus consola os abatidos, muitas vezes por meio da chegada de um irmão (7:6).",
+    "A tristeza segundo Deus leva ao arrependimento e à salvação; a tristeza do mundo produz morte (7:10).",
+    "O arrependimento verdadeiro produz frutos visíveis: empenho, zelo e desejo de justiça (7:11)."
+   ],
+   "reflexao": "Sua tristeza pelo pecado tem levado você de volta a Deus ou ao desânimo?",
+   "quiz": [
+    {
+     "pergunta": "Com a chegada de quem Deus consolou Paulo na Macedônia?",
+     "opcoes": [
+      "Timóteo",
+      "Barnabé",
+      "Tito",
+      "Lucas"
+     ],
+     "correta": 2,
+     "ref": "7:6"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "O exemplo da generosidade",
+   "chave": "8:9",
+   "resumo": "Paulo conta como as igrejas da Macedônia, mesmo em grande pobreza e aflição, contribuíram com alegria além de suas possibilidades para os cristãos pobres de Jerusalém. Ele encoraja os coríntios a completar a oferta que começaram, lembrando que Jesus, sendo rico, se fez pobre por amor. A oferta deve ser segundo o que cada um tem, buscando igualdade, e será administrada com honestidade por Tito e outros irmãos.",
+   "licoes": [
+    "A verdadeira generosidade começa quando nos entregamos primeiro ao Senhor (8:5).",
+    "Jesus, sendo rico, se fez pobre para que fôssemos enriquecidos (8:9).",
+    "Deus aceita a oferta conforme o que se tem, não conforme o que não se tem (8:12).",
+    "Quem administra recursos da igreja deve ser honesto diante de Deus e das pessoas (8:20-21)."
+   ],
+   "reflexao": "O exemplo de Jesus, que se fez pobre por você, muda como você usa o que tem?",
+   "quiz": [
+    {
+     "pergunta": "Que igrejas Paulo cita como exemplo de generosidade em meio à pobreza?",
+     "opcoes": [
+      "As da Galácia",
+      "As da Macedônia",
+      "As da Ásia",
+      "As da Judeia"
+     ],
+     "correta": 1,
+     "ref": "8:1-2"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "Deus ama quem dá com alegria",
+   "chave": "9:7",
+   "resumo": "Paulo envia irmãos para garantir que a oferta prometida pelos coríntios esteja pronta como fruto de boa vontade, e não de pressão. Ele usa a imagem da semeadura: quem semeia com generosidade colhe com generosidade. Deus ama quem dá com alegria e é capaz de suprir tudo; a oferta não só atende aos necessitados, mas também gera muitas ações de graças a Deus.",
+   "licoes": [
+    "Quem semeia pouco colhe pouco; quem semeia com generosidade colhe com generosidade (9:6).",
+    "A oferta deve ser decidida no coração, sem tristeza nem obrigação, porque Deus ama quem dá com alegria (9:7).",
+    "Deus supre para que possamos abundar em toda boa obra (9:8).",
+    "A generosidade gera gratidão a Deus e comunhão entre os irmãos (9:12-14)."
+   ],
+   "reflexao": "Você tem dado com alegria ou por obrigação?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Paulo, Deus ama a quem dá de que maneira?",
+     "opcoes": [
+      "Com abundância",
+      "Com alegria",
+      "Em segredo",
+      "Com sacrifício"
+     ],
+     "correta": 1,
+     "ref": "9:7"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "titulo": "As armas da nossa luta",
+   "chave": "10:4-5",
+   "resumo": "Paulo responde aos que o acusavam de ser forte nas cartas e fraco pessoalmente. Ele diz que, embora viva num corpo humano, não luta com armas humanas, mas com armas poderosas em Deus para destruir fortalezas e levar todo pensamento cativo à obediência a Cristo. Recusa-se a comparar-se com os que se elogiam a si mesmos e afirma que quem se orgulha deve se orgulhar no Senhor.",
+   "licoes": [
+    "A luta espiritual não se vence com métodos mundanos, mas com armas poderosas em Deus (10:3-4).",
+    "Somos chamados a levar todo pensamento cativo à obediência a Cristo (10:5).",
+    "A autoridade espiritual existe para edificar, não para destruir (10:8).",
+    "Comparar-se com os outros é falta de entendimento; quem se orgulha, orgulhe-se no Senhor (10:12, 10:17)."
+   ],
+   "reflexao": "Que pensamento você precisa levar cativo à obediência a Cristo?",
+   "quiz": [
+    {
+     "pergunta": "O que os críticos diziam sobre Paulo?",
+     "opcoes": [
+      "Que ele não sabia escrever",
+      "Que suas cartas eram fortes, mas sua presença fraca",
+      "Que ele era rico",
+      "Que ele não era judeu"
+     ],
+     "correta": 1,
+     "ref": "10:10"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "titulo": "Paulo e os falsos apóstolos",
+   "chave": "11:30",
+   "resumo": "Paulo, com zelo de pai, teme que os coríntios sejam enganados por pregadores que anunciam outro Jesus e outro evangelho, como a serpente enganou Eva. Ele lembra que pregou de graça e chama esses \"superapóstolos\" de falsos, pois até Satanás se disfarça de anjo de luz. Forçado a \"se gloriar como tolo\", lista seus sofrimentos: açoites, prisões, naufrágios, perigos e a preocupação diária com as igrejas.",
+   "licoes": [
+    "É preciso discernimento: nem todo pregador anuncia o mesmo Jesus e o mesmo evangelho (11:3-4).",
+    "O mal muitas vezes se apresenta com aparência de luz e justiça (11:14-15).",
+    "As credenciais de Paulo não eram títulos, mas sofrimentos por amor a Cristo e às igrejas (11:23-28).",
+    "Paulo prefere se gloriar em sua fraqueza (11:30)."
+   ],
+   "reflexao": "Que critérios você usa para discernir se um ensino é fiel ao evangelho?",
+   "quiz": [
+    {
+     "pergunta": "Quantas vezes Paulo diz ter sofrido naufrágio?",
+     "opcoes": [
+      "Uma",
+      "Duas",
+      "Três",
+      "Cinco"
+     ],
+     "correta": 2,
+     "ref": "11:25"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "titulo": "O poder que se aperfeiçoa na fraqueza",
+   "chave": "12:9",
+   "resumo": "Paulo fala de um homem arrebatado ao terceiro céu, referindo-se a uma experiência própria, mas prefere se gloriar nas fraquezas. Para não se encher de orgulho, recebeu um \"espinho na carne\" e orou três vezes para ser livre dele; o Senhor respondeu: \"Minha graça te basta\". Ele reafirma seu amor desinteressado pelos coríntios e teme encontrar entre eles brigas e pecados não arrependidos em sua próxima visita.",
+   "licoes": [
+    "Experiências espirituais extraordinárias não são motivo de orgulho (12:5-7).",
+    "Nem toda oração é respondida com a retirada do problema; às vezes a resposta é graça suficiente (12:8-9).",
+    "Quando reconhecemos nossa fraqueza, o poder de Cristo se manifesta: \"quando estou fraco, então fico forte\" (12:10).",
+    "O amor verdadeiro busca as pessoas, não o que elas têm (12:14-15)."
+   ],
+   "reflexao": "Que \"espinho\" você precisa entregar a Deus, confiando que a graça dele basta?",
+   "quiz": [
+    {
+     "pergunta": "Quantas vezes Paulo orou para que o espinho fosse afastado?",
+     "opcoes": [
+      "Uma",
+      "Duas",
+      "Três",
+      "Sete"
+     ],
+     "correta": 2,
+     "ref": "12:8"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "titulo": "Examinai-vos a vós mesmos",
+   "chave": "13:5",
+   "resumo": "Paulo avisa que fará sua terceira visita e que não poupará os que persistem no pecado. Cristo foi crucificado em fraqueza, mas vive pelo poder de Deus, e o mesmo vale para seus servos. Ele chama os coríntios a examinar se estão na fé e termina pedindo alegria, unidade e paz, com a bênção da graça de Cristo, do amor de Deus e da comunhão do Espírito Santo.",
+   "licoes": [
+    "Cristo foi crucificado em fraqueza, mas vive pelo poder de Deus (13:4).",
+    "Cada cristão deve examinar a si mesmo para ver se está na fé (13:5).",
+    "A autoridade espiritual é dada para edificar, e não para destruir (13:10).",
+    "A bênção final reúne a graça de Cristo, o amor de Deus e a comunhão do Espírito Santo (13:14)."
+   ],
+   "reflexao": "O que você descobre ao examinar sinceramente sua vida de fé hoje?",
+   "quiz": [
+    {
+     "pergunta": "Que três bênçãos Paulo deseja aos coríntios no final da carta?",
+     "opcoes": [
+      "Saúde, paz e prosperidade",
+      "A graça de Cristo, o amor de Deus e a comunhão do Espírito",
+      "Fé, esperança e caridade",
+      "Sabedoria, força e coragem"
+     ],
+     "correta": 1,
+     "ref": "13:14"
+    }
+   ]
+  }
+ ]
+}

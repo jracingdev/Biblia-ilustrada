@@ -1,0 +1,841 @@
+{
+ "livro": "1-cronicas",
+ "nome": "1 Crônicas",
+ "subtitulo": "A história do povo contada a partir de Davi e do templo",
+ "introducao": "1 Crônicas reconta a história de Israel desde Adão, em longas genealogias, até o reinado de Davi. O livro destaca a escolha de Davi, a chegada da arca a Jerusalém, a aliança de Deus com sua casa e os preparativos para o templo. Escrito para um povo que voltava do exílio, lembra que Deus continua fiel e que o culto a ele está no centro da vida da comunidade.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Anônimo, chamado de \"o cronista\"; a tradição judaica atribui a Esdras"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Escrito depois do exílio, provavelmente entre os séculos V e IV a.C., pois cita descendentes de Zorobabel (3:19-24)"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Provavelmente Jerusalém, na comunidade que voltou da Babilônia"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "Os judeus que voltaram do exílio e reconstruíam sua identidade e seu culto"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Narrativa histórica com genealogias"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "29 capítulos e 942 versículos"
+  }
+ ],
+ "chave": "17:11-12",
+ "temas": [
+  "Deus é fiel ao longo das gerações",
+  "A aliança com Davi e seu trono",
+  "A arca, o templo e o culto",
+  "Louvor e gratidão organizados",
+  "Generosidade e coração íntegro"
+ ],
+ "cristo": "A promessa de que um filho de Davi teria o trono firmado para sempre e seria chamado filho de Deus (17:11-14) aponta para Jesus, o \"Filho de Davi\" dos Evangelhos. As genealogias preparam o caminho para a genealogia de Jesus em Mateus 1.",
+ "secoes": [
+  {
+   "id": "genealogias",
+   "titulo": "As genealogias do povo",
+   "capitulos": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "resumo": "De Adão às tribos de Israel e aos que voltaram do exílio."
+  },
+  {
+   "id": "davi-rei",
+   "titulo": "Davi se torna rei",
+   "capitulos": [
+    10,
+    11,
+    12
+   ],
+   "resumo": "Saul morre e todo Israel se une em torno de Davi."
+  },
+  {
+   "id": "arca-e-alianca",
+   "titulo": "A arca e a aliança",
+   "capitulos": [
+    13,
+    14,
+    15,
+    16,
+    17
+   ],
+   "resumo": "A arca chega a Jerusalém e Deus promete a Davi um trono eterno."
+  },
+  {
+   "id": "vitorias-e-censo",
+   "titulo": "Vitórias e o censo",
+   "capitulos": [
+    18,
+    19,
+    20,
+    21
+   ],
+   "resumo": "Davi vence inimigos, peca no censo e compra o lugar do templo."
+  },
+  {
+   "id": "preparativos-templo",
+   "titulo": "Preparativos para o templo",
+   "capitulos": [
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+   ],
+   "resumo": "Davi organiza o culto e o reino e entrega a obra a Salomão."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "De Adão a Israel",
+   "chave": "1:1",
+   "resumo": "O livro começa com uma longa lista que vai de Adão a Noé e aos povos que descendem de Sem, Cam e Jafé. Depois segue a linha de Abraão, com os descendentes de Ismael, de Quetura e de Esaú, incluindo os reis e chefes de Edom. É um resumo da história de Gênesis em forma de nomes.",
+   "licoes": [
+    "A história de Israel começa na história de toda a humanidade, a partir de Adão (1:1).",
+    "As nações vizinhas também fazem parte do quadro: Deus é Senhor de todos os povos (1:5, 1:17).",
+    "A linha que leva a Abraão mostra como Deus escolheu uma família para abençoar o mundo (1:27-28)."
+   ],
+   "reflexao": "O que significa para você saber que sua história faz parte de uma história muito maior?",
+   "quiz": [
+    {
+     "pergunta": "Quem foi Abrão, segundo a genealogia?",
+     "opcoes": [
+      "O pai de Noé",
+      "Rei de Edom",
+      "Filho de Esaú",
+      "O mesmo Abraão"
+     ],
+     "correta": 3,
+     "ref": "1:27"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Os filhos de Israel e a tribo de Judá",
+   "chave": "2:15",
+   "resumo": "O capítulo lista os doze filhos de Israel e se concentra em Judá. Menciona Tamar, Acar, \"o perturbador de Israel\", e a linhagem que passa por Boaz, Obede e Jessé até Davi, o sétimo filho. Segue com os descendentes de Calebe e de Jerameel.",
+   "licoes": [
+    "Judá recebe o primeiro lugar porque dele virá o rei (2:3-4).",
+    "A genealogia não esconde falhas, como a de Acar (2:7).",
+    "Deus escolheu Davi, o sétimo filho de Jessé, não o primogênito (2:13-15)."
+   ],
+   "reflexao": "Como Deus tem usado pessoas \"improváveis\" na sua história?",
+   "quiz": [
+    {
+     "pergunta": "Qual era a posição de Davi entre os filhos de Jessé?",
+     "opcoes": [
+      "O primeiro",
+      "O sétimo",
+      "O terceiro",
+      "O último de doze"
+     ],
+     "correta": 1,
+     "ref": "2:15"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "A família de Davi",
+   "chave": "3:4",
+   "resumo": "São listados os filhos de Davi nascidos em Hebrom e em Jerusalém, entre eles Salomão. Segue a linha dos reis de Judá, de Roboão a Josias, e os descendentes de Jeconias depois do exílio, incluindo Zorobabel.",
+   "licoes": [
+    "A linhagem de Davi continua mesmo depois do exílio (3:17-19).",
+    "Davi reinou sete anos e meio em Hebrom e trinta e três em Jerusalém (3:4).",
+    "A lista de reis lembra que a promessa a Davi atravessou gerações (3:10-14)."
+   ],
+   "reflexao": "Que fé você deseja passar adiante para as próximas gerações?",
+   "quiz": [
+    {
+     "pergunta": "Qual destes descendentes de Davi aparece depois do exílio?",
+     "opcoes": [
+      "Zorobabel",
+      "Roboão",
+      "Absalão",
+      "Amnom"
+     ],
+     "correta": 0,
+     "ref": "3:19"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Judá, a oração de Jabez e Simeão",
+   "chave": "4:10",
+   "resumo": "O capítulo continua as famílias de Judá e inclui uma breve história: Jabez, cujo nome lembra dor, invoca o Deus de Israel pedindo bênção e proteção, e Deus atende. Depois vêm as famílias de Simeão, suas cidades e a conquista de pastagens.",
+   "licoes": [
+    "O passado doloroso não determina o futuro de quem busca a Deus (4:9-10).",
+    "Deus ouve pedidos simples e sinceros (4:10).",
+    "Até oleiros e trabalhadores comuns têm seu lugar na história do povo (4:23)."
+   ],
+   "reflexao": "O que você gostaria de pedir a Deus com a sinceridade de Jabez?",
+   "quiz": [
+    {
+     "pergunta": "Por que a mãe de Jabez lhe deu esse nome?",
+     "opcoes": [
+      "Porque nasceu em Jabez",
+      "Porque o deu à luz com dores",
+      "Porque era o primogênito",
+      "Porque era forte"
+     ],
+     "correta": 1,
+     "ref": "4:9"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "As tribos do leste do Jordão",
+   "chave": "5:20",
+   "resumo": "Rúben perde a primogenitura por sua falta, e o texto explica que a liderança veio de Judá. São listadas as famílias de Rúben, Gade e da meia tribo de Manassés, que vencem os hagarenos porque clamam a Deus. Mais tarde, por infidelidade, essas tribos são levadas cativas pela Assíria.",
+   "licoes": [
+    "O pecado de Rúben teve consequências duradouras (5:1).",
+    "Na batalha, eles clamaram a Deus e confiaram nele, e foram ouvidos (5:20).",
+    "A infidelidade aos deuses dos povos levou essas tribos ao exílio (5:25-26)."
+   ],
+   "reflexao": "Em que batalha atual você precisa clamar a Deus e confiar nele?",
+   "quiz": [
+    {
+     "pergunta": "Por que as tribos do leste venceram os hagarenos?",
+     "opcoes": [
+      "Porque eram mais numerosas",
+      "Porque clamaram a Deus e confiaram nele",
+      "Porque tinham carros de ferro",
+      "Porque Saul os liderou"
+     ],
+     "correta": 1,
+     "ref": "5:20"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "Os levitas e seus serviços",
+   "chave": "6:31-32",
+   "resumo": "São registradas as famílias de Levi e a linha dos sumos sacerdotes, de Arão até o exílio. Davi organiza levitas para o ministério da música diante do tabernáculo, como Hemã, Asafe e Etã. O capítulo também lista as cidades dadas aos levitas em todas as tribos.",
+   "licoes": [
+    "O culto a Deus envolve música e louvor organizados (6:31-32).",
+    "Os sacerdotes faziam expiação por Israel conforme a lei de Moisés (6:49).",
+    "Os levitas foram espalhados pelas tribos para servir em todo o povo (6:64)."
+   ],
+   "reflexao": "Como você pode servir a Deus com seus dons no culto e na comunidade?",
+   "quiz": [
+    {
+     "pergunta": "Que ofício Davi organizou para alguns levitas depois que a arca teve repouso?",
+     "opcoes": [
+      "A guarda das portas",
+      "O ofício da música",
+      "A coleta de impostos",
+      "O preparo dos pães"
+     ],
+     "correta": 1,
+     "ref": "6:31"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "Outras tribos de Israel",
+   "chave": "7:40",
+   "resumo": "O capítulo registra as famílias de Issacar, Benjamim, Naftali, Manassés, Efraim e Aser, com seus guerreiros. Inclui o luto de Efraim por filhos mortos e o nascimento de Berias, e lembra que Josué descende de Efraim. Também menciona Seerá, mulher que construiu cidades.",
+   "licoes": [
+    "Cada tribo tem sua história e seu lugar no povo de Deus (7:40).",
+    "A dor de Efraim e a consolação dos irmãos mostram a vida real das famílias (7:22-23).",
+    "Uma mulher, Seerá, é lembrada como construtora de cidades (7:24)."
+   ],
+   "reflexao": "Como você pode consolar alguém que está de luto?",
+   "quiz": [
+    {
+     "pergunta": "De que tribo veio Josué, filho de Num?",
+     "opcoes": [
+      "Benjamim",
+      "Aser",
+      "Efraim",
+      "Naftali"
+     ],
+     "correta": 2,
+     "ref": "7:20-27"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "Benjamim e a família de Saul",
+   "chave": "8:33",
+   "resumo": "São listados os descendentes de Benjamim e suas famílias em Gibeão e Jerusalém. A lista chega a Quis, Saul e Jônatas, e continua com os descendentes de Jônatas por várias gerações, até os filhos de Ulão, valentes flecheiros.",
+   "licoes": [
+    "A família de Saul é preservada no registro, preparando a narrativa seguinte (8:33).",
+    "A linhagem de Jônatas continua, lembrando a bondade de Davi para com ela (8:34).",
+    "O texto valoriza a coragem e a habilidade dos guerreiros de Benjamim (8:40)."
+   ],
+   "reflexao": "Que legado você gostaria de deixar para quem vem depois?",
+   "quiz": [
+    {
+     "pergunta": "Quem foi o filho de Jônatas segundo a genealogia?",
+     "opcoes": [
+      "Quis",
+      "Esbaal",
+      "Meribe-Baal",
+      "Ner"
+     ],
+     "correta": 2,
+     "ref": "8:34"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "Os que voltaram a Jerusalém",
+   "chave": "9:1-2",
+   "resumo": "O texto diz que Judá foi levado à Babilônia por sua infidelidade e lista os primeiros que voltaram a morar em Jerusalém: israelitas, sacerdotes, levitas e servos do templo. Destaca os porteiros, os encarregados dos utensílios e os cantores que serviam dia e noite. Repete a genealogia de Saul para introduzir sua história.",
+   "licoes": [
+    "O exílio teve causa espiritual, mas houve volta e recomeço (9:1-2).",
+    "Funções \"simples\", como abrir as portas cada manhã, são serviço a Deus (9:27).",
+    "Os cantores se dedicavam ao louvor de dia e de noite (9:33)."
+   ],
+   "reflexao": "Que serviço simples você pode fazer com fidelidade para Deus?",
+   "quiz": [
+    {
+     "pergunta": "Quantos porteiros escolhidos são contados?",
+     "opcoes": [
+      "Cento e vinte",
+      "Setenta",
+      "Trezentos",
+      "Duzentos e doze"
+     ],
+     "correta": 3,
+     "ref": "9:22"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "titulo": "A morte de Saul",
+   "chave": "10:13-14",
+   "resumo": "Os filisteus derrotam Israel no monte Gilboa; os filhos de Saul morrem, e Saul, ferido, se lança sobre a própria espada. Os filisteus expõem suas armas e sua cabeça em seus templos, e os homens de Jabes-Gileade recolhem os corpos. O cronista explica que Saul morreu por sua infidelidade e por não buscar o SENHOR, e o reino passou a Davi.",
+   "licoes": [
+    "O fim de Saul é lido como consequência de não buscar o SENHOR (10:13-14).",
+    "A coragem dos homens de Jabes-Gileade honra os mortos com gratidão (10:11-12).",
+    "Deus conduz a história e passa o reino a Davi (10:14)."
+   ],
+   "reflexao": "Em suas decisões, você tem buscado o SENHOR ou outras fontes?",
+   "quiz": [
+    {
+     "pergunta": "Segundo o cronista, por que Saul morreu?",
+     "opcoes": [
+      "Por causa da idade",
+      "Por traição de Davi",
+      "Por sua transgressão e por não buscar o SENHOR",
+      "Por uma doença"
+     ],
+     "correta": 2,
+     "ref": "10:13-14"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "titulo": "Davi rei de todo Israel e seus valentes",
+   "chave": "11:9",
+   "resumo": "Todo Israel vai a Hebrom e unge Davi como rei, conforme a palavra do SENHOR por Samuel. Davi conquista Jebus, que passa a se chamar cidade de Davi, e cresce em poder porque o SENHOR está com ele. O capítulo lista seus valentes e conta como três deles arriscaram a vida para trazer água de Belém, que Davi derramou como oferta.",
+   "licoes": [
+    "O crescimento de Davi vem da presença do SENHOR com ele (11:9).",
+    "A liderança de Davi é reconhecida por todo o povo, com aliança diante do SENHOR (11:3).",
+    "Davi honra o sacrifício dos amigos e não trata vidas como coisa pequena (11:18-19)."
+   ],
+   "reflexao": "Como você valoriza o sacrifício que outros fazem por você?",
+   "quiz": [
+    {
+     "pergunta": "O que Davi fez com a água que seus valentes trouxeram do poço de Belém?",
+     "opcoes": [
+      "Bebeu com alegria",
+      "Derramou-a ao SENHOR",
+      "Deu aos soldados",
+      "Guardou no tabernáculo"
+     ],
+     "correta": 1,
+     "ref": "11:18"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "titulo": "Os que se juntaram a Davi",
+   "chave": "12:38",
+   "resumo": "São listados os guerreiros que se uniram a Davi em Ziclague, quando ele ainda fugia de Saul, vindos até da tribo de Saul. Amasai, movido pelo Espírito, declara apoio a Davi. Depois, milhares de todas as tribos vão a Hebrom com coração íntegro para fazê-lo rei, e há três dias de festa.",
+   "licoes": [
+    "Quem se une a Davi o faz com coração íntegro e decidido (12:38).",
+    "O Espírito move Amasai a declarar: \"Teus somos, ó Davi!\" (12:18).",
+    "Os filhos de Issacar eram conhecedores dos tempos, para saber o que fazer (12:32).",
+    "A unidade do povo termina em alegria e partilha (12:39-40)."
+   ],
+   "reflexao": "Você sabe discernir os tempos e o que Deus quer de você agora?",
+   "quiz": [
+    {
+     "pergunta": "Que habilidade se destaca nos filhos de Issacar?",
+     "opcoes": [
+      "Eram ótimos arqueiros",
+      "Eram conhecedores dos tempos",
+      "Eram construtores",
+      "Eram músicos"
+     ],
+     "correta": 1,
+     "ref": "12:32"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "titulo": "A arca e a morte de Uzá",
+   "chave": "13:3",
+   "resumo": "Davi consulta os líderes e decide trazer a arca de Deus, esquecida no tempo de Saul. Ela é levada num carro novo, com festa, mas quando os bois tropeçam, Uzá a toca e morre. Davi fica com medo e deixa a arca na casa de Obede-Edom, que é abençoada durante três meses.",
+   "licoes": [
+    "Davi deseja colocar Deus de novo no centro da vida do povo (13:3).",
+    "Boa intenção não dispensa obedecer à forma que Deus ordenou (13:7, 13:10).",
+    "A presença de Deus traz bênção a quem a recebe (13:14)."
+   ],
+   "reflexao": "Em que área você tem servido a Deus do seu jeito, sem perguntar como ele quer?",
+   "quiz": [
+    {
+     "pergunta": "Em que casa a arca ficou por três meses?",
+     "opcoes": [
+      "Na casa de Obede-Edom",
+      "Na casa de Abinadabe",
+      "Na casa de Davi",
+      "Na casa de Zadoque"
+     ],
+     "correta": 0,
+     "ref": "13:14"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "titulo": "Davi consulta a Deus",
+   "chave": "14:10",
+   "resumo": "Hirão envia material e artesãos para o palácio de Davi, que reconhece que o SENHOR firmou seu reino por amor do povo. Os filisteus atacam duas vezes; Davi consulta a Deus em cada ocasião e recebe estratégias diferentes, vencendo ambas as batalhas. Sua fama se espalha.",
+   "licoes": [
+    "Davi entende que seu reino foi exaltado por amor do povo de Deus (14:2).",
+    "Davi consulta a Deus antes de agir, mesmo depois de uma vitória (14:10, 14:14).",
+    "Deus pode guiar de modos diferentes em situações parecidas (14:14-16)."
+   ],
+   "reflexao": "Você costuma buscar a direção de Deus também depois das vitórias?",
+   "quiz": [
+    {
+     "pergunta": "Qual seria o sinal para Davi atacar na segunda batalha?",
+     "opcoes": [
+      "Um trovão",
+      "O ruído de marcha nas copas das amoreiras",
+      "O toque da trombeta",
+      "O pôr do sol"
+     ],
+     "correta": 1,
+     "ref": "14:15"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "titulo": "A arca chega a Jerusalém",
+   "chave": "15:13",
+   "resumo": "Davi prepara uma tenda e reconhece que só os levitas podem levar a arca, pois da primeira vez não buscaram a Deus conforme sua ordem. Sacerdotes e levitas se santificam, levam a arca nos ombros e organizam cantores e músicos. A arca entra em Jerusalém com júbilo, mas Mical despreza Davi ao vê-lo dançar.",
+   "licoes": [
+    "Aprender com o erro é buscar a Deus \"segundo a ordenança\" (15:13).",
+    "O culto envolve preparo, santificação e organização (15:12, 15:16).",
+    "A alegria diante de Deus pode ser incompreendida por outros (15:29)."
+   ],
+   "reflexao": "Que erro do passado pode ensinar você a obedecer melhor hoje?",
+   "quiz": [
+    {
+     "pergunta": "Como os levitas carregaram a arca desta vez?",
+     "opcoes": [
+      "Num carro novo",
+      "Puxada por bois",
+      "Com as barras sobre os ombros",
+      "Sobre um jumento"
+     ],
+     "correta": 2,
+     "ref": "15:15"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "titulo": "O cântico de gratidão de Davi",
+   "chave": "16:34",
+   "resumo": "A arca é colocada na tenda preparada por Davi, que oferece sacrifícios, abençoa o povo e distribui alimento a todos. Ele nomeia levitas, liderados por Asafe, para louvar continuamente. O cântico entregue a Asafe convida a lembrar a aliança com Abraão, a anunciar a glória de Deus entre as nações e a dar graças porque sua misericórdia é eterna.",
+   "licoes": [
+    "A gratidão se expressa em lembrar e anunciar os feitos de Deus (16:8-9).",
+    "Buscar a face do SENHOR é um chamado contínuo (16:11).",
+    "A aliança de Deus vale \"até mil gerações\" (16:15).",
+    "O louvor é para toda a terra, porque o SENHOR é bom e sua misericórdia é eterna (16:23, 16:34)."
+   ],
+   "reflexao": "Que feitos de Deus você pode anunciar a alguém nesta semana?",
+   "quiz": [
+    {
+     "pergunta": "A quem Davi entregou pela primeira vez o cântico de celebração ao SENHOR?",
+     "opcoes": [
+      "Asafe e seus irmãos",
+      "Hemã",
+      "Zadoque",
+      "Obede-Edom"
+     ],
+     "correta": 0,
+     "ref": "16:7"
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "titulo": "A aliança de Deus com Davi",
+   "chave": "17:11-12",
+   "resumo": "Davi deseja construir uma casa para a arca, mas Deus, por meio de Natã, diz que não será ele a construí-la. Em vez disso, o SENHOR promete edificar uma \"casa\" para Davi: um descendente cujo trono será firmado para sempre, que será filho de Deus. Davi responde com uma oração humilde de louvor.",
+   "licoes": [
+    "Deus muitas vezes responde aos nossos planos com algo maior do que pedimos (17:10).",
+    "Deus lembra a Davi de onde o tirou: da malhada, atrás das ovelhas (17:7).",
+    "A promessa de um trono eterno aponta além de Salomão (17:12-14).",
+    "Davi responde com humildade: \"quem sou eu?\" (17:16)."
+   ],
+   "reflexao": "Como você reage quando Deus diz \"não\" a um plano seu?",
+   "quiz": [
+    {
+     "pergunta": "O que Deus disse que faria para Davi no lugar da casa que Davi queria construir?",
+     "opcoes": [
+      "Daria riquezas",
+      "Edificaria uma casa (descendência) para Davi",
+      "Mandaria um profeta",
+      "Destruiria os filisteus"
+     ],
+     "correta": 1,
+     "ref": "17:10"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "titulo": "As vitórias de Davi",
+   "chave": "18:13",
+   "resumo": "Davi vence filisteus, moabitas, Hadadezer de Zobá, os sírios e os edomitas. Dedica ao SENHOR o ouro, a prata e o bronze conquistados, material que mais tarde servirá ao templo. O texto resume que o SENHOR o guardava por onde ia e que Davi governava com juízo e justiça.",
+   "licoes": [
+    "As vitórias são atribuídas ao SENHOR, que guardava Davi (18:13).",
+    "Davi dedica ao SENHOR o que recebe, em vez de apenas acumular (18:11).",
+    "Um bom governo se mede por juízo e justiça para todo o povo (18:14)."
+   ],
+   "reflexao": "O que você tem recebido que poderia dedicar a Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que Davi fez com a prata e o ouro tomados das nações?",
+     "opcoes": [
+      "Distribuiu aos soldados",
+      "Construiu seu palácio",
+      "Enviou ao Egito",
+      "Dedicou ao SENHOR"
+     ],
+     "correta": 3,
+     "ref": "18:11"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "titulo": "Guerra contra Amom e a Síria",
+   "chave": "19:13",
+   "resumo": "Davi envia mensageiros para consolar Hanã, rei de Amom, pela morte do pai. Mal aconselhado, Hanã os humilha, e os amonitas contratam os sírios para a guerra. Joabe divide o exército com Abisai, encoraja a todos a lutarem pelo povo e pelas cidades de Deus, e Israel vence. Os sírios fazem paz com Davi.",
+   "licoes": [
+    "A bondade de Davi foi mal interpretada por desconfiança (19:2-3).",
+    "Cooperação e apoio mútuo fortalecem nas lutas (19:12).",
+    "Coragem com confiança: fazer a nossa parte e deixar o resultado com o SENHOR (19:13)."
+   ],
+   "reflexao": "Em que situação você precisa fazer sua parte e confiar o resultado a Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que Hanã fez com os mensageiros de Davi?",
+     "opcoes": [
+      "Ofereceu um banquete",
+      "Prendeu-os em Rabá",
+      "Raspou-os e cortou suas vestes",
+      "Mandou-os de volta com presentes"
+     ],
+     "correta": 2,
+     "ref": "19:4"
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "titulo": "A conquista de Rabá e os gigantes",
+   "chave": "20:8",
+   "resumo": "No tempo em que os reis saíam à guerra, Joabe conquista Rabá, e Davi toma a coroa do rei amonita. Depois, nas guerras com os filisteus, servos de Davi vencem descendentes dos gigantes de Gate, inclusive um homem de seis dedos em cada mão e pé.",
+   "licoes": [
+    "Deus dá vitória até sobre inimigos que pareciam invencíveis (20:6-8).",
+    "A vitória não é só de Davi, mas também de seus servos (20:8).",
+    "O cronista destaca os feitos do reino e não repete aqui os pecados de Davi narrados em 2 Samuel (20:1)."
+   ],
+   "reflexao": "Que \"gigante\" na sua vida precisa ser enfrentado com a ajuda de Deus e de outros?",
+   "quiz": [
+    {
+     "pergunta": "Quem matou o homem de grande estatura com seis dedos em Gate?",
+     "opcoes": [
+      "Sibecai",
+      "Elanã",
+      "Jônatas, sobrinho de Davi",
+      "Abisai"
+     ],
+     "correta": 2,
+     "ref": "20:6-7"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "titulo": "O censo e a eira de Ornã",
+   "chave": "21:24",
+   "resumo": "Incitado por Satanás, Davi manda contar o povo, contra a opinião de Joabe, e isso desagrada a Deus. Davi reconhece seu pecado e escolhe cair nas mãos do SENHOR, cujas misericórdias são grandes; uma peste atinge Israel. Diante do anjo sobre Jerusalém, Davi intercede, compra a eira de Ornã por seu preço justo e ali oferece sacrifícios, e o anjo guarda a espada.",
+   "licoes": [
+    "Confiar em números e força pode ser uma forma de orgulho (21:1-3).",
+    "Davi assume a culpa e pede perdão sem se justificar (21:8, 21:17).",
+    "Melhor cair nas mãos de Deus, cujas misericórdias são grandes (21:13).",
+    "Davi não quer oferecer a Deus o que não lhe custou nada (21:24)."
+   ],
+   "reflexao": "O que você oferece a Deus que realmente lhe custa algo?",
+   "quiz": [
+    {
+     "pergunta": "Por que Davi insistiu em pagar pela eira de Ornã?",
+     "opcoes": [
+      "Porque Ornã exigiu",
+      "Porque não queria oferecer o que não lhe custasse nada",
+      "Porque a lei proibia presentes",
+      "Porque Gade mandou"
+     ],
+     "correta": 1,
+     "ref": "21:24"
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "titulo": "Davi prepara o templo",
+   "chave": "22:19",
+   "resumo": "Davi escolhe o lugar do templo e junta grande quantidade de pedras, ferro, bronze e cedro. Ele explica a Salomão que Deus não permitiu que ele construísse por ter derramado muito sangue, mas que o filho, homem de paz, o faria. Encoraja Salomão a guardar a lei e ser forte, e chama os líderes a buscar o SENHOR de coração e ajudar na obra.",
+   "licoes": [
+    "Davi prepara uma obra que ele mesmo não verá terminada (22:5).",
+    "O nome de Salomão está ligado à paz e ao repouso que Deus daria (22:9).",
+    "A verdadeira prosperidade vem de praticar os mandamentos de Deus (22:13).",
+    "Antes de construir, é preciso pôr o coração em buscar o SENHOR (22:19)."
+   ],
+   "reflexao": "Que \"obra\" você pode preparar hoje para abençoar a próxima geração?",
+   "quiz": [
+    {
+     "pergunta": "Por que Davi não pôde construir o templo?",
+     "opcoes": [
+      "Porque derramou muito sangue em guerras",
+      "Porque era muito velho",
+      "Porque não tinha recursos",
+      "Porque o povo não quis"
+     ],
+     "correta": 0,
+     "ref": "22:8"
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "titulo": "A organização dos levitas",
+   "chave": "23:30",
+   "resumo": "Já velho, Davi faz Salomão rei e organiza os levitas, contando trinta e oito mil homens. Eles são distribuídos entre o serviço do templo, juízes, porteiros e músicos, e o capítulo lista as famílias de Gérson, Coate e Merari. Como a arca já tem lugar fixo, os levitas passam a auxiliar os sacerdotes e a louvar a Deus manhã e tarde.",
+   "licoes": [
+    "Há muitas formas de servir na casa de Deus: obra, justiça, guarda e louvor (23:4-5).",
+    "Deus deu repouso ao povo, e o serviço se adapta ao novo tempo (23:25-26).",
+    "O louvor diário, de manhã e à tarde, é parte essencial do serviço (23:30)."
+   ],
+   "reflexao": "Como você pode incluir o louvor e a gratidão na rotina de cada dia?",
+   "quiz": [
+    {
+     "pergunta": "Quantos levitas foram contados de trinta anos para cima?",
+     "opcoes": [
+      "Doze mil",
+      "Trinta e oito mil",
+      "Vinte e quatro mil",
+      "Setenta mil"
+     ],
+     "correta": 1,
+     "ref": "23:3"
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "titulo": "Os turnos dos sacerdotes",
+   "chave": "24:19",
+   "resumo": "Os descendentes de Arão, pelas famílias de Eleazar e Itamar, são divididos em vinte e quatro turnos por sorteio, registrado por um escriba diante do rei e dos líderes. Cada turno tinha seu tempo de servir no templo. Os demais levitas também lançam sortes.",
+   "licoes": [
+    "O sorteio garantia justiça e imparcialidade na divisão do serviço (24:5).",
+    "Cada turno tinha sua vez de entrar na casa do SENHOR segundo a ordem recebida (24:19).",
+    "Grandes e pequenos participavam do mesmo modo (24:31)."
+   ],
+   "reflexao": "Você trata com fidelidade a \"sua vez\" de servir, mesmo quando ninguém está olhando?",
+   "quiz": [
+    {
+     "pergunta": "Em quantos turnos os sacerdotes foram divididos?",
+     "opcoes": [
+      "Doze",
+      "Vinte e quatro",
+      "Trinta",
+      "Quarenta"
+     ],
+     "correta": 1,
+     "ref": "24:7-18"
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "titulo": "Os músicos do templo",
+   "chave": "25:7",
+   "resumo": "Davi e os chefes separam os filhos de Asafe, Hemã e Jedutum para profetizar com harpas, saltérios e címbalos. Eles eram instruídos na música do SENHOR, somando 288. Os turnos foram sorteados igualmente entre pequenos e grandes, mestres e aprendizes.",
+   "licoes": [
+    "A música no culto é tratada como ministério sério, ligado à palavra de Deus (25:1).",
+    "Os músicos eram preparados e instruídos (25:7).",
+    "No serviço a Deus, mestre e discípulo têm o mesmo valor (25:8)."
+   ],
+   "reflexao": "Como você pode usar sua voz ou seus talentos para louvar a Deus?",
+   "quiz": [
+    {
+     "pergunta": "Quantos eram os músicos instruídos no cântico do SENHOR?",
+     "opcoes": [
+      "Cento e vinte",
+      "Doze",
+      "Quatro mil",
+      "Duzentos e oitenta e oito"
+     ],
+     "correta": 3,
+     "ref": "25:7"
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "titulo": "Porteiros, tesoureiros e oficiais",
+   "chave": "26:13",
+   "resumo": "O capítulo organiza os porteiros, entre eles a família de Obede-Edom, abençoada por Deus. As portas são distribuídas por sorteio. Também são nomeados levitas para cuidar dos tesouros da casa de Deus, inclusive do que foi consagrado de despojos de guerra, e outros como oficiais e juízes em Israel.",
+   "licoes": [
+    "A bênção de Deus sobre Obede-Edom se vê em sua numerosa família (26:4-5).",
+    "Guardar portas e tesouros também é serviço sagrado (26:12, 26:20).",
+    "Os despojos de guerra foram consagrados para manter a casa do SENHOR (26:27)."
+   ],
+   "reflexao": "Que responsabilidade \"de bastidor\" você pode assumir com fidelidade?",
+   "quiz": [
+    {
+     "pergunta": "Por que a família de Obede-Edom era numerosa, segundo o texto?",
+     "opcoes": [
+      "Porque era rica",
+      "Porque era sacerdote",
+      "Porque Davi o recompensou",
+      "Porque Deus o havia abençoado"
+     ],
+     "correta": 3,
+     "ref": "26:5"
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "titulo": "Os oficiais do reino",
+   "chave": "27:23",
+   "resumo": "São listadas as doze divisões militares, uma para cada mês, os chefes das tribos e os administradores dos bens do rei, de tesouros a rebanhos. O texto lembra que Davi não contou os menores de vinte anos, pela promessa de multiplicar Israel, e que o censo de Joabe trouxe ira. Também cita os conselheiros do rei.",
+   "licoes": [
+    "Um reino bem organizado distribui responsabilidades e não sobrecarrega ninguém (27:1).",
+    "A promessa de Deus de multiplicar Israel está acima de qualquer contagem humana (27:23).",
+    "Bons conselheiros são valiosos para quem governa (27:32-33)."
+   ],
+   "reflexao": "Quem são seus conselheiros prudentes?",
+   "quiz": [
+    {
+     "pergunta": "Quantos homens havia em cada divisão mensal?",
+     "opcoes": [
+      "Vinte e quatro mil",
+      "Doze mil",
+      "Trinta mil",
+      "Cinquenta mil"
+     ],
+     "correta": 0,
+     "ref": "27:1"
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "titulo": "Davi entrega o projeto a Salomão",
+   "chave": "28:9",
+   "resumo": "Davi reúne os líderes e conta que Deus escolheu Salomão para construir o templo. Exorta o filho a conhecer e servir a Deus com coração íntegro e alma voluntária, pois o SENHOR examina os corações. Entrega a Salomão a planta do templo, que diz ter recebido por inspiração de Deus, e o encoraja a ser forte, porque Deus estará com ele até terminar a obra.",
+   "licoes": [
+    "Conhecer a Deus e servi-lo de coração inteiro vem antes de qualquer obra (28:9).",
+    "Deus examina os corações e se deixa achar por quem o busca (28:9).",
+    "Davi entende que o plano veio da mão de Deus (28:19).",
+    "A obra de Deus se faz com coragem, pois ele não abandona (28:20)."
+   ],
+   "reflexao": "Você serve a Deus com \"ânimo voluntário\" ou por obrigação?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Davi, o que acontece a quem busca o SENHOR?",
+     "opcoes": [
+      "Fica rico",
+      "O acha",
+      "Nunca sofre",
+      "Torna-se rei"
+     ],
+     "correta": 1,
+     "ref": "28:9"
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "titulo": "Ofertas generosas e a oração de Davi",
+   "chave": "29:14",
+   "resumo": "Davi doa de seus próprios bens para o templo, e os líderes e o povo ofertam com alegria e de coração inteiro. Davi louva a Deus, reconhecendo que tudo vem dele: \"o que recebemos de tua mão te damos\". Salomão é ungido rei pela segunda vez, e Davi morre em boa velhice, após quarenta anos de reinado.",
+   "licoes": [
+    "A generosidade de Davi inspira a generosidade do povo (29:3, 29:9).",
+    "Tudo pertence a Deus; ofertar é devolver o que veio de suas mãos (29:11, 29:14).",
+    "Somos peregrinos na terra e dependemos de Deus (29:15).",
+    "Davi ora para que Deus conserve a disposição do coração do povo (29:18)."
+   ],
+   "reflexao": "O que mudaria na sua maneira de ofertar se você lembrasse que tudo vem de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Por que o povo se alegrou ao contribuir?",
+     "opcoes": [
+      "Porque foi obrigado",
+      "Porque recebeu algo em troca",
+      "Porque ofereceu voluntariamente e de coração inteiro",
+      "Porque o rei mandou"
+     ],
+     "correta": 2,
+     "ref": "29:9"
+    }
+   ]
+  }
+ ]
+}

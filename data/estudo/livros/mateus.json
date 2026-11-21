@@ -1,0 +1,846 @@
+{
+ "livro": "mateus",
+ "nome": "Mateus",
+ "subtitulo": "Jesus, o Rei prometido e o Reino dos céus",
+ "introducao": "Mateus apresenta Jesus como o Messias prometido, filho de Davi e filho de Abraão, que cumpre as Escrituras de Israel. O livro reúne grandes blocos de ensino, como o Sermão do Monte, e narra milagres, conflitos, a morte e a ressurreição de Jesus. Termina com o envio dos discípulos para fazer discípulos de todas as nações.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Anônimo no texto; a tradição antiga atribui a Mateus, o publicano que se tornou apóstolo (9:9, 10:3)"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "A maioria data entre 60 e 90 d.C.; muitos situam depois de Marcos"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "Provavelmente comunidades cristãs de origem judaica, pela ênfase no cumprimento das Escrituras"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Evangelho: narrativa da vida, ensino, morte e ressurreição de Jesus"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "28 capítulos e 1071 versículos"
+  }
+ ],
+ "chave": "28:19-20",
+ "temas": [
+  "Jesus é o Messias que cumpre as Escrituras",
+  "O Reino dos céus e sua justiça",
+  "Discipulado e obediência",
+  "Misericórdia acima da religião exterior",
+  "Missão a todas as nações"
+ ],
+ "cristo": "Todo o Evangelho é sobre Cristo: Mateus mostra Jesus como Emanuel, \"Deus conosco\", desde o nascimento até a promessa final de estar com os discípulos todos os dias. Sua morte é apresentada como resgate e sangue da aliança, e sua ressurreição confirma sua autoridade sobre o céu e a terra.",
+ "secoes": [
+  {
+   "id": "nascimento-e-preparacao",
+   "titulo": "Nascimento e preparação",
+   "capitulos": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "resumo": "Origem de Jesus, João Batista, batismo, tentação e primeiros discípulos."
+  },
+  {
+   "id": "sermao-do-monte",
+   "titulo": "O Sermão do Monte",
+   "capitulos": [
+    5,
+    6,
+    7
+   ],
+   "resumo": "O ensino central sobre a vida no Reino dos céus."
+  },
+  {
+   "id": "milagres-e-missao",
+   "titulo": "Milagres e missão",
+   "capitulos": [
+    8,
+    9,
+    10
+   ],
+   "resumo": "Jesus mostra sua autoridade e envia os doze."
+  },
+  {
+   "id": "oposicao-e-parabolas",
+   "titulo": "Oposição e parábolas",
+   "capitulos": [
+    11,
+    12,
+    13
+   ],
+   "resumo": "Resistência crescente e parábolas sobre o Reino."
+  },
+  {
+   "id": "rumo-a-cruz",
+   "titulo": "A caminho da cruz",
+   "capitulos": [
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+   ],
+   "resumo": "Confissão de Pedro, anúncios da paixão e ensino aos discípulos."
+  },
+  {
+   "id": "jerusalem",
+   "titulo": "Jesus em Jerusalém",
+   "capitulos": [
+    21,
+    22,
+    23,
+    24,
+    25
+   ],
+   "resumo": "Entrada triunfal, debates no templo e ensino sobre o fim."
+  },
+  {
+   "id": "paixao-e-ressurreicao",
+   "titulo": "Paixão e ressurreição",
+   "capitulos": [
+    26,
+    27,
+    28
+   ],
+   "resumo": "A ceia, a prisão, a cruz, o túmulo vazio e o envio."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "A genealogia e o nascimento de Jesus",
+   "chave": "1:21",
+   "resumo": "Mateus abre com a genealogia de Jesus, filho de Davi e filho de Abraão, organizada em três blocos de catorze gerações. Depois conta que Maria, prometida em casamento a José, engravidou pelo Espírito Santo. José, homem justo, pensava em deixá-la em segredo, mas um anjo lhe disse em sonho que recebesse Maria e chamasse o menino de Jesus, porque ele salvaria seu povo dos seus pecados.",
+   "licoes": [
+    "Jesus está ligado às promessas feitas a Abraão e a Davi (1:1).",
+    "A genealogia inclui mulheres e estrangeiros, como Tamar, Raabe e Rute, sinal da graça de Deus (1:3, 1:5).",
+    "O nome Jesus resume sua missão: salvar o povo dos seus pecados (1:21).",
+    "Jesus é Emanuel, \"Deus conosco\" (1:23)."
+   ],
+   "reflexao": "O que significa para você que Deus esteja \"conosco\" em Jesus?",
+   "quiz": [
+    {
+     "pergunta": "Por que o menino deveria se chamar Jesus, segundo o anjo?",
+     "opcoes": [
+      "Porque era o nome do avô",
+      "Porque ele salvaria seu povo dos seus pecados",
+      "Porque nasceria em Belém",
+      "Porque seria rei de Israel"
+     ],
+     "correta": 1,
+     "ref": "1:21"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Os magos e a fuga para o Egito",
+   "chave": "2:11",
+   "resumo": "Magos do oriente chegam a Jerusalém procurando o rei dos judeus que acabara de nascer, guiados por uma estrela. Herodes se perturba e descobre que o Cristo nasceria em Belém. Os magos encontram o menino, o adoram e oferecem ouro, incenso e mirra. Avisado em sonho, José foge com a família para o Egito; Herodes manda matar os meninos de Belém, e depois a família se estabelece em Nazaré.",
+   "licoes": [
+    "Pessoas de longe, estrangeiras, vêm adorar Jesus (2:1-2, 2:11).",
+    "O poder que se sente ameaçado por Jesus pode se tornar violento (2:3, 2:16).",
+    "Deus protege e guia sua família por meio de sonhos e da obediência de José (2:13-14).",
+    "A história de Jesus retoma a história de Israel, que também foi ao Egito e saiu de lá (2:15)."
+   ],
+   "reflexao": "O que você tem oferecido a Jesus como adoração?",
+   "quiz": [
+    {
+     "pergunta": "Quais presentes os magos ofereceram ao menino?",
+     "opcoes": [
+      "Ouro, prata e bronze",
+      "Ouro, incenso e mirra",
+      "Incenso, azeite e pão",
+      "Mirra, vinho e trigo"
+     ],
+     "correta": 1,
+     "ref": "2:11"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "João Batista e o batismo de Jesus",
+   "chave": "3:17",
+   "resumo": "João Batista prega no deserto da Judeia: \"Arrependei-vos, porque perto está o Reino dos céus\". Muitos são batizados no Jordão confessando pecados, mas João exige dos fariseus e saduceus frutos de arrependimento. Ele anuncia alguém mais poderoso, que batizará com o Espírito Santo e com fogo. Jesus vem ser batizado; o Espírito desce como pomba, e a voz do céu o declara Filho amado.",
+   "licoes": [
+    "O arrependimento verdadeiro aparece em frutos concretos (3:8).",
+    "Herança religiosa não substitui conversão pessoal (3:9).",
+    "Jesus se identifica com o povo ao ser batizado (3:13-15).",
+    "Pai, Filho e Espírito aparecem juntos no batismo de Jesus (3:16-17)."
+   ],
+   "reflexao": "Que \"fruto\" mostraria hoje que você está mudando de direção?",
+   "quiz": [
+    {
+     "pergunta": "O que disse a voz dos céus no batismo de Jesus?",
+     "opcoes": [
+      "Este é o profeta prometido",
+      "Ouvi a João Batista",
+      "Preparai o caminho do Senhor",
+      "Este é o meu Filho amado, em quem me agrado"
+     ],
+     "correta": 3,
+     "ref": "3:17"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "A tentação e os primeiros discípulos",
+   "chave": "4:4",
+   "resumo": "Jesus é levado pelo Espírito ao deserto, jejua quarenta dias e é tentado pelo diabo três vezes. Ele responde a cada tentação com as Escrituras e o diabo o deixa. Depois, Jesus vai morar em Cafarnaum e começa a pregar o arrependimento e o Reino. Chama Pedro, André, Tiago e João para serem pescadores de gente, e percorre a Galileia ensinando, pregando e curando.",
+   "licoes": [
+    "A Palavra de Deus é arma contra a tentação (4:4, 4:10).",
+    "A adoração pertence somente a Deus (4:10).",
+    "Seguir Jesus envolve deixar algo para trás (4:19-20, 4:22).",
+    "O ministério de Jesus une ensino, pregação e cura (4:23)."
+   ],
+   "reflexao": "Em que momentos a Palavra de Deus já ajudou você a resistir a uma tentação?",
+   "quiz": [
+    {
+     "pergunta": "O que Jesus prometeu fazer de Pedro e André?",
+     "opcoes": [
+      "Pescadores de gente",
+      "Reis de Israel",
+      "Sacerdotes do templo",
+      "Juízes das tribos"
+     ],
+     "correta": 0,
+     "ref": "4:19"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "O Sermão do Monte: bem-aventuranças e a nova justiça",
+   "chave": "5:16",
+   "resumo": "No monte, Jesus ensina os discípulos. As bem-aventuranças declaram felizes os humildes, os que choram, os mansos, os misericordiosos e os perseguidos por justiça. Os discípulos são sal da terra e luz do mundo. Jesus diz que veio cumprir a Lei e mostra que a justiça do Reino vai ao coração: ira, desejo, juramentos, vingança e até o amor aos inimigos.",
+   "licoes": [
+    "A felicidade do Reino pertence aos humildes, mansos e misericordiosos (5:3-9).",
+    "Os discípulos devem brilhar com boas obras que glorificam o Pai (5:13-16).",
+    "Jesus não revoga a Lei, mas a cumpre e aprofunda (5:17, 5:22).",
+    "O amor do Reino alcança até os inimigos (5:44-45)."
+   ],
+   "reflexao": "Qual das bem-aventuranças mais desafia você hoje?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Jesus, o que os discípulos são, além de sal da terra?",
+     "opcoes": [
+      "O templo de Deus",
+      "A videira verdadeira",
+      "A luz do mundo",
+      "O pão da vida"
+     ],
+     "correta": 2,
+     "ref": "5:14"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "Oração, tesouros e ansiedade",
+   "chave": "6:33",
+   "resumo": "Jesus ensina a praticar esmola, oração e jejum em secreto, para o Pai e não para ser visto. Ele ensina o Pai Nosso e destaca a necessidade de perdoar. Alerta para não acumular tesouros na terra, pois ninguém pode servir a dois senhores. Por fim, convida a não viver ansioso: o Pai alimenta as aves e veste os lírios, e quem busca primeiro o Reino recebe o necessário.",
+   "licoes": [
+    "A devoção verdadeira busca o olhar do Pai, não o aplauso das pessoas (6:1, 6:6).",
+    "A oração do Reino começa com Deus e inclui pão, perdão e livramento (6:9-13).",
+    "Onde está o tesouro, ali está o coração (6:21).",
+    "Buscar primeiro o Reino liberta da ansiedade (6:33-34)."
+   ],
+   "reflexao": "Com o que você mais tem se preocupado? Como isso muda à luz de 6:33?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Jesus, onde estiver o teu tesouro, ali estará também...",
+     "opcoes": [
+      "A tua casa",
+      "A tua recompensa",
+      "O teu coração",
+      "A tua família"
+     ],
+     "correta": 2,
+     "ref": "6:21"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "Os dois fundamentos",
+   "chave": "7:24",
+   "resumo": "Jesus conclui o sermão: não julgar com hipocrisia, tirar primeiro a trave do próprio olho, pedir, buscar e bater com confiança no Pai. Ele resume a Lei na regra de ouro e fala da porta estreita, dos falsos profetas reconhecidos pelos frutos e de quem diz \"Senhor, Senhor\" sem fazer a vontade de Deus. A parábola das duas casas mostra que só resiste quem ouve e pratica suas palavras.",
+   "licoes": [
+    "Antes de corrigir os outros, devemos examinar a nós mesmos (7:3-5).",
+    "O Pai dá boas coisas a quem lhe pede (7:7, 7:11).",
+    "Tratar os outros como queremos ser tratados resume a Lei e os Profetas (7:12).",
+    "Ouvir sem praticar é construir sobre a areia (7:24, 7:26)."
+   ],
+   "reflexao": "Em que ensinamento de Jesus você tem ouvido mais do que praticado?",
+   "quiz": [
+    {
+     "pergunta": "Onde o homem prudente construiu sua casa?",
+     "opcoes": [
+      "Sobre a rocha",
+      "Sobre a areia",
+      "Junto ao rio",
+      "No alto do monte"
+     ],
+     "correta": 0,
+     "ref": "7:24"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "Autoridade sobre doenças, natureza e demônios",
+   "chave": "8:27",
+   "resumo": "Ao descer do monte, Jesus toca e cura um leproso, cura à distância o servo de um centurião romano admirado por sua fé, e a sogra de Pedro. Ele avisa que segui-lo exige desprendimento. No mar, acalma uma tempestade e os discípulos perguntam quem ele é. Na terra dos gadarenos, liberta dois endemoninhados, e os demônios entram numa manada de porcos.",
+   "licoes": [
+    "Jesus toca quem era considerado intocável (8:3).",
+    "A fé de um estrangeiro surpreende Jesus (8:10).",
+    "Seguir Jesus tem custo e prioridade (8:20, 8:22).",
+    "Até os ventos e o mar obedecem a Jesus (8:26-27)."
+   ],
+   "reflexao": "Que \"tempestade\" você precisa entregar a Jesus hoje?",
+   "quiz": [
+    {
+     "pergunta": "O que disse o centurião a Jesus?",
+     "opcoes": [
+      "Vem logo à minha casa",
+      "Mestre, eu te seguirei",
+      "Salva-nos, que perecemos",
+      "Não sou digno de que entres sob o meu telhado"
+     ],
+     "correta": 3,
+     "ref": "8:8"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "Misericórdia quero, e não sacrifício",
+   "chave": "9:13",
+   "resumo": "Jesus perdoa e cura um paralítico, mostrando sua autoridade para perdoar pecados. Chama Mateus, cobrador de impostos, e come com pecadores, dizendo que veio chamar pecadores. Responde sobre o jejum com as imagens do noivo e do vinho novo. Cura uma mulher com hemorragia, ressuscita a filha de um chefe, abre os olhos de dois cegos e liberta um mudo. Vendo as multidões como ovelhas sem pastor, tem compaixão.",
+   "licoes": [
+    "Jesus tem autoridade para perdoar pecados (9:6).",
+    "Ele veio chamar pecadores, não os que se acham justos (9:12-13).",
+    "A fé que se aproxima de Jesus encontra cura e acolhida (9:22, 9:29).",
+    "A compaixão de Jesus leva a orar por trabalhadores para a colheita (9:36-38)."
+   ],
+   "reflexao": "Quem são as pessoas \"à margem\" com quem Jesus se sentaria à mesa hoje?",
+   "quiz": [
+    {
+     "pergunta": "Qual era a ocupação de Mateus quando Jesus o chamou?",
+     "opcoes": [
+      "Pescador",
+      "Coletor de impostos",
+      "Carpinteiro",
+      "Fariseu"
+     ],
+     "correta": 1,
+     "ref": "9:9"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "titulo": "O envio dos doze",
+   "chave": "10:8",
+   "resumo": "Jesus chama os doze apóstolos, lhes dá autoridade e os envia às ovelhas perdidas de Israel para anunciar que o Reino está perto, curar e libertar, de graça. Ele os avisa de que serão como ovelhas entre lobos, enfrentarão tribunais e rejeição, mas o Espírito falará por eles. Não devem temer, pois o Pai cuida até dos pardais. Seguir Jesus exige tomar a cruz, e até um copo de água dado a um discípulo terá recompensa.",
+   "licoes": [
+    "O que recebemos de graça devemos dar de graça (10:8).",
+    "A missão exige prudência e simplicidade (10:16).",
+    "Deus conhece e cuida de cada detalhe da nossa vida (10:29-31).",
+    "Seguir Jesus vem antes de qualquer outro amor (10:37-39)."
+   ],
+   "reflexao": "Que medo tem impedido você de testemunhar sua fé?",
+   "quiz": [
+    {
+     "pergunta": "Como Jesus diz que envia os discípulos?",
+     "opcoes": [
+      "Como reis entre servos",
+      "Como ovelhas em meio de lobos",
+      "Como leões entre ovelhas",
+      "Como soldados para a guerra"
+     ],
+     "correta": 1,
+     "ref": "10:16"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "titulo": "Vinde a mim, os cansados",
+   "chave": "11:28",
+   "resumo": "João Batista, preso, envia discípulos para perguntar se Jesus é aquele que havia de vir; Jesus responde apontando suas obras. Ele elogia João como mais que profeta. Repreende a geração que rejeitou tanto João quanto ele e as cidades que viram milagres sem se arrepender. Louva o Pai por revelar essas coisas aos pequeninos e convida os cansados a encontrar descanso nele.",
+   "licoes": [
+    "Diante da dúvida, Jesus aponta para suas obras (11:4-5).",
+    "Quem não quer ouvir sempre encontra uma desculpa (11:18-19).",
+    "Deus se revela aos humildes, não aos que se acham sábios (11:25).",
+    "Jesus oferece descanso e um jugo suave (11:28-30)."
+   ],
+   "reflexao": "Que peso você precisa levar a Jesus para receber descanso?",
+   "quiz": [
+    {
+     "pergunta": "Como Jesus descreve a si mesmo ao convidar os cansados?",
+     "opcoes": [
+      "Forte e poderoso",
+      "Sábio e entendido",
+      "Justo e severo",
+      "Manso e humilde de coração"
+     ],
+     "correta": 3,
+     "ref": "11:29"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "titulo": "O Senhor do sábado",
+   "chave": "12:8",
+   "resumo": "Os fariseus criticam os discípulos por colherem espigas no sábado e Jesus por curar um homem de mão atrofiada; ele afirma ser Senhor do sábado e que fazer o bem é permitido. Os fariseus planejam matá-lo. Quando Jesus liberta um endemoninhado, o acusam de agir por Belzebu, e ele alerta sobre a blasfêmia contra o Espírito. Recusa dar sinais além do sinal de Jonas e diz que sua família é quem faz a vontade do Pai.",
+   "licoes": [
+    "Jesus é maior que o templo e Senhor do sábado (12:6, 12:8).",
+    "É lícito fazer o bem no sábado; a pessoa vale mais que a regra (12:12).",
+    "As palavras revelam o que há no coração (12:34-35).",
+    "A família de Jesus é formada por quem faz a vontade do Pai (12:50)."
+   ],
+   "reflexao": "Suas palavras de hoje revelaram que tipo de tesouro há no seu coração?",
+   "quiz": [
+    {
+     "pergunta": "Que sinal Jesus diz que seria dado àquela geração?",
+     "opcoes": [
+      "O sinal do profeta Jonas",
+      "O sinal de Moisés",
+      "O sinal de Elias",
+      "Nenhum sinal"
+     ],
+     "correta": 0,
+     "ref": "12:39"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "titulo": "As parábolas do Reino",
+   "chave": "13:23",
+   "resumo": "Sentado num barco, Jesus ensina por parábolas. O semeador mostra diferentes formas de receber a palavra; o trigo e o joio mostram que o bem e o mal crescem juntos até a colheita. A semente de mostarda e o fermento falam do crescimento do Reino; o tesouro escondido e a pérola mostram seu valor supremo; a rede fala do juízo final. Em Nazaré, porém, Jesus é rejeitado pelos seus.",
+   "licoes": [
+    "O fruto depende de como recebemos a palavra (13:19-23).",
+    "Deus permite que o trigo e o joio cresçam juntos até o juízo (13:30).",
+    "O Reino começa pequeno, mas cresce muito (13:31-33).",
+    "O Reino vale mais do que tudo o que temos (13:44-46)."
+   ],
+   "reflexao": "Que tipo de \"terreno\" seu coração tem sido para a palavra?",
+   "quiz": [
+    {
+     "pergunta": "O que fez o negociante ao achar uma pérola de grande valor?",
+     "opcoes": [
+      "Escondeu-a no campo",
+      "Deu-a aos pobres",
+      "Vendeu tudo o que tinha e a comprou",
+      "Levou-a ao templo"
+     ],
+     "correta": 2,
+     "ref": "13:46"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "titulo": "Pães para multidões e passos sobre o mar",
+   "chave": "14:27",
+   "resumo": "Herodes manda decapitar João Batista para cumprir uma promessa feita numa festa. Jesus se retira, mas, cheio de compaixão, cura doentes e alimenta mais de cinco mil homens com cinco pães e dois peixes. À noite, anda sobre o mar até o barco dos discípulos. Pedro anda sobre as águas, mas, com medo, começa a afundar, e Jesus o segura. Os discípulos o adoram como Filho de Deus.",
+   "licoes": [
+    "O orgulho e o medo da opinião alheia podem levar a decisões cruéis (14:9-10).",
+    "Jesus multiplica o pouco que colocamos em suas mãos (14:17-20).",
+    "Jesus busca momentos a sós com o Pai em oração (14:23).",
+    "Quando a fé vacila, Jesus estende a mão (14:30-31)."
+   ],
+   "reflexao": "Quando você tira os olhos de Jesus, o que acontece com sua fé?",
+   "quiz": [
+    {
+     "pergunta": "Quantos pães e peixes os discípulos tinham?",
+     "opcoes": [
+      "Sete pães e alguns peixes",
+      "Doze pães e três peixes",
+      "Cinco pães e dois peixes",
+      "Dois pães e cinco peixes"
+     ],
+     "correta": 2,
+     "ref": "14:17"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "titulo": "O que sai do coração",
+   "chave": "15:18",
+   "resumo": "Fariseus vindos de Jerusalém criticam os discípulos por não lavarem as mãos segundo a tradição. Jesus mostra que eles anulam a palavra de Deus com suas tradições e ensina que o que contamina é o que sai do coração. Uma mulher cananeia insiste por sua filha e Jesus elogia sua grande fé. Depois, cura muitos e alimenta quatro mil homens com sete pães e alguns peixes.",
+   "licoes": [
+    "Tradições humanas não podem anular a palavra de Deus (15:6).",
+    "Honrar a Deus com os lábios e não com o coração é vazio (15:8).",
+    "A impureza verdadeira nasce do coração (15:18-19).",
+    "Fé humilde e persistente é atendida, mesmo vinda de fora de Israel (15:27-28)."
+   ],
+   "reflexao": "Que atitudes saem do seu coração quando ninguém está vendo?",
+   "quiz": [
+    {
+     "pergunta": "Como Jesus descreveu a fé da mulher cananeia?",
+     "opcoes": [
+      "Grande",
+      "Pequena como um grão",
+      "Fraca",
+      "Escondida"
+     ],
+     "correta": 0,
+     "ref": "15:28"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "titulo": "Tu és o Cristo",
+   "chave": "16:16",
+   "resumo": "Fariseus e saduceus pedem um sinal, e Jesus os acusa de não discernir os tempos. Ele alerta os discípulos contra o \"fermento\", isto é, o ensino desses grupos. Em Cesareia de Filipe, Pedro confessa: \"Tu és o Cristo, o Filho do Deus vivo\". Jesus anuncia que edificará sua igreja, mas também que precisa sofrer, morrer e ressuscitar; quando Pedro o repreende, Jesus o corrige e chama os discípulos a tomar a cruz.",
+   "licoes": [
+    "É preciso cuidado com ensinos que contaminam como fermento (16:6, 16:12).",
+    "Reconhecer Jesus como o Cristo é revelação do Pai (16:16-17).",
+    "O caminho do Messias passa pela cruz (16:21).",
+    "Seguir Jesus é negar a si mesmo e tomar a cruz (16:24-25)."
+   ],
+   "reflexao": "Se Jesus lhe perguntasse hoje \"quem dizes que eu sou?\", o que você responderia?",
+   "quiz": [
+    {
+     "pergunta": "Quem respondeu \"Tu és o Cristo, o Filho do Deus vivo\"?",
+     "opcoes": [
+      "João",
+      "Tiago",
+      "André",
+      "Simão Pedro"
+     ],
+     "correta": 3,
+     "ref": "16:16"
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "titulo": "A transfiguração",
+   "chave": "17:5",
+   "resumo": "Jesus leva Pedro, Tiago e João a um monte alto e é transfigurado: seu rosto brilha como o sol, e Moisés e Elias aparecem. Uma voz da nuvem diz: \"Este é o meu Filho amado... a ele ouvi\". Ao descer, Jesus explica que Elias já veio na pessoa de João. Ele liberta um menino que os discípulos não conseguiram curar, fala da fé como um grão de mostarda, anuncia de novo sua morte e paga o imposto do templo com uma moeda tirada de um peixe.",
+   "licoes": [
+    "Jesus é o Filho amado a quem devemos ouvir (17:5).",
+    "Diante da glória de Deus, Jesus nos toca e diz \"não temais\" (17:7).",
+    "Mesmo uma fé pequena, quando posta em Deus, é poderosa (17:20).",
+    "Jesus evita escândalos desnecessários, mesmo tendo direitos (17:27)."
+   ],
+   "reflexao": "O que significa, na prática, \"ouvir\" Jesus esta semana?",
+   "quiz": [
+    {
+     "pergunta": "Quem apareceu falando com Jesus no monte da transfiguração?",
+     "opcoes": [
+      "Abraão e Davi",
+      "Moisés e Elias",
+      "Isaías e Jeremias",
+      "João Batista e Elias"
+     ],
+     "correta": 1,
+     "ref": "17:3"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "titulo": "Humildade e perdão na comunidade",
+   "chave": "18:21-22",
+   "resumo": "Os discípulos perguntam quem é o maior no Reino, e Jesus coloca uma criança no meio deles. Ele alerta contra fazer os pequeninos tropeçar e conta da ovelha perdida que o pastor busca. Ensina como tratar o irmão que peca, promete estar onde dois ou três se reúnem em seu nome e manda perdoar setenta vezes sete, contando a parábola do servo que foi perdoado mas não perdoou.",
+   "licoes": [
+    "No Reino, grande é quem se faz humilde como uma criança (18:3-4).",
+    "O Pai não quer que nenhum pequenino se perca (18:12-14).",
+    "Correção fraterna começa com conversa particular (18:15).",
+    "Quem foi perdoado por Deus deve perdoar sem limites (18:21-22, 18:33)."
+   ],
+   "reflexao": "Há alguém que você precisa perdoar, lembrando o quanto Deus já perdoou você?",
+   "quiz": [
+    {
+     "pergunta": "Quantas vezes Jesus disse a Pedro que deveria perdoar?",
+     "opcoes": [
+      "Sete vezes",
+      "Até setenta vezes sete",
+      "Três vezes",
+      "Doze vezes"
+     ],
+     "correta": 1,
+     "ref": "18:22"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "titulo": "Casamento, crianças e riquezas",
+   "chave": "19:26",
+   "resumo": "Fariseus perguntam sobre o divórcio, e Jesus volta ao propósito da criação: os dois se tornam uma só carne, e o que Deus uniu ninguém separe. Ele acolhe as crianças, dizendo que delas é o Reino. Um jovem rico pergunta o que fazer para ter a vida eterna, mas vai embora triste quando Jesus o chama a vender seus bens. Jesus diz que para Deus tudo é possível e promete recompensa a quem deixa tudo por ele.",
+   "licoes": [
+    "O casamento é uma união estabelecida por Deus (19:5-6).",
+    "O Reino pertence aos que são como crianças (19:14).",
+    "As riquezas podem prender o coração e impedir de seguir Jesus (19:21-22).",
+    "A salvação é impossível para o ser humano, mas possível para Deus (19:26)."
+   ],
+   "reflexao": "Que \"riqueza\" pode estar impedindo você de seguir Jesus de todo o coração?",
+   "quiz": [
+    {
+     "pergunta": "Por que o jovem foi embora triste?",
+     "opcoes": [
+      "Porque não sabia os mandamentos",
+      "Porque Jesus o rejeitou",
+      "Porque estava doente",
+      "Porque tinha muitos bens"
+     ],
+     "correta": 3,
+     "ref": "19:22"
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "titulo": "Os últimos serão primeiros",
+   "chave": "20:28",
+   "resumo": "Na parábola dos trabalhadores da vinha, todos recebem o mesmo salário, mostrando a generosidade do dono. Jesus anuncia pela terceira vez sua morte e ressurreição. A mãe de Tiago e João pede lugares de honra para os filhos, e Jesus ensina que no Reino o maior é quem serve, pois ele veio servir e dar a vida em resgate por muitos. Saindo de Jericó, cura dois cegos.",
+   "licoes": [
+    "A graça de Deus não segue a lógica do merecimento (20:14-15).",
+    "A inveja nasce quando comparamos a bondade de Deus para com os outros (20:15).",
+    "Grandeza no Reino é servir (20:26-27).",
+    "Jesus veio dar sua vida em resgate por muitos (20:28)."
+   ],
+   "reflexao": "Em que situação concreta você pode servir em vez de buscar ser servido?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Jesus, para que o Filho do homem veio?",
+     "opcoes": [
+      "Para servir e dar sua vida em resgate por muitos",
+      "Para ser servido",
+      "Para reinar em Jerusalém",
+      "Para julgar os gentios"
+     ],
+     "correta": 0,
+     "ref": "20:28"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "titulo": "O rei entra em Jerusalém",
+   "chave": "21:9",
+   "resumo": "Jesus entra em Jerusalém montado num jumentinho, cumprindo a profecia, enquanto a multidão grita \"Hosana ao Filho de Davi\". No templo, expulsa os comerciantes e cura cegos e mancos. Amaldiçoa uma figueira sem frutos, ensinando sobre a fé. Questionado sobre sua autoridade, responde com perguntas e conta as parábolas dos dois filhos e dos lavradores maus, que rejeitam e matam o filho do dono da vinha.",
+   "licoes": [
+    "Jesus é o rei manso que vem montado num jumentinho (21:5).",
+    "A casa de Deus deve ser casa de oração (21:13).",
+    "Fazer a vontade do Pai é mais do que dizer \"sim\" (21:28-31).",
+    "A pedra rejeitada se tornou a principal pedra (21:42)."
+   ],
+   "reflexao": "Você tem dado ao Senhor os frutos que ele espera da sua vida?",
+   "quiz": [
+    {
+     "pergunta": "O que as multidões clamavam quando Jesus entrava em Jerusalém?",
+     "opcoes": [
+      "Crucifica-o!",
+      "Viva César!",
+      "Hosana ao Filho de Davi!",
+      "Eis o Cordeiro de Deus!"
+     ],
+     "correta": 2,
+     "ref": "21:9"
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "titulo": "O maior mandamento",
+   "chave": "22:37-39",
+   "resumo": "Jesus conta a parábola do banquete de casamento: os convidados recusam, e o rei chama todos das ruas, mas exige a roupa de festa. Fariseus e herodianos tentam apanhá-lo com o imposto a César, e ele responde: \"Dai a César o que é de César, e a Deus o que é de Deus\". Responde aos saduceus sobre a ressurreição, resume a Lei no amor a Deus e ao próximo e pergunta como o Cristo pode ser filho e Senhor de Davi.",
+   "licoes": [
+    "O convite de Deus é aberto a todos, mas exige resposta séria (22:9-12).",
+    "Damos a Deus o que traz a sua imagem: nós mesmos (22:20-21).",
+    "Deus é Deus de vivos, e a ressurreição é real (22:32).",
+    "Toda a Lei depende do amor a Deus e ao próximo (22:37-40)."
+   ],
+   "reflexao": "Como o amor a Deus pode se mostrar hoje no amor ao seu próximo?",
+   "quiz": [
+    {
+     "pergunta": "Qual é o primeiro e grande mandamento, segundo Jesus?",
+     "opcoes": [
+      "Não matarás",
+      "Guardar o sábado",
+      "Amar ao Senhor teu Deus de todo o coração, alma e entendimento",
+      "Honrar pai e mãe"
+     ],
+     "correta": 2,
+     "ref": "22:37-38"
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "titulo": "Ai de vós, hipócritas",
+   "chave": "23:12",
+   "resumo": "Jesus alerta as multidões contra os escribas e fariseus que falam mas não praticam, impõem cargas pesadas e buscam honra. No Reino, o maior é o servo. Seguem sete \"ais\": eles fecham o Reino aos outros, dão o dízimo das hortaliças mas desprezam a justiça, a misericórdia e a fidelidade, limpam o exterior e deixam o interior sujo. Jesus termina chorando por Jerusalém, que rejeitou os profetas.",
+   "licoes": [
+    "Ensinar sem praticar é hipocrisia (23:3).",
+    "Quem se exalta será humilhado; quem se humilha será exaltado (23:12).",
+    "Detalhes religiosos não substituem justiça, misericórdia e fidelidade (23:23).",
+    "Jesus deseja reunir seu povo como a galinha reúne os pintinhos (23:37)."
+   ],
+   "reflexao": "Há áreas em que você parece por fora algo que não é por dentro?",
+   "quiz": [
+    {
+     "pergunta": "Com o que Jesus compara seu desejo de reunir os filhos de Jerusalém?",
+     "opcoes": [
+      "Uma galinha que ajunta seus pintinhos",
+      "Um pastor com suas ovelhas",
+      "Uma águia com seus filhotes",
+      "Um pai com seus filhos"
+     ],
+     "correta": 0,
+     "ref": "23:37"
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "titulo": "Sinais do fim e vigilância",
+   "chave": "24:42",
+   "resumo": "Jesus anuncia que o templo será destruído, e no monte das Oliveiras os discípulos perguntam sobre os sinais de sua vinda e do fim. Ele fala de enganadores, guerras, perseguições, esfriamento do amor e da pregação do evangelho a todas as nações. Descreve a grande aflição e a vinda visível do Filho do homem. Ninguém sabe o dia nem a hora, por isso os discípulos devem vigiar como servos fiéis.",
+   "licoes": [
+    "É preciso cuidado para não ser enganado por falsos cristos (24:4-5, 24:24).",
+    "Quem perseverar até o fim será salvo (24:13).",
+    "O evangelho será pregado a todas as nações (24:14).",
+    "Vigiar é viver como servo fiel, pronto a qualquer hora (24:42, 24:45-46)."
+   ],
+   "reflexao": "Se Jesus voltasse hoje, como ele encontraria você?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Jesus, quem sabe o dia e a hora do fim?",
+     "opcoes": [
+      "Os anjos do céu",
+      "Os profetas",
+      "Os discípulos",
+      "Ninguém, nem os anjos, só o Pai"
+     ],
+     "correta": 3,
+     "ref": "24:36"
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "titulo": "As virgens, os talentos e o juízo",
+   "chave": "25:40",
+   "resumo": "Três ensinos sobre estar preparado. Dez virgens esperam o noivo, mas só as cinco prudentes têm azeite. Um senhor confia talentos a servos, e os que os fazem render são elogiados, enquanto o que escondeu o seu é repreendido. Por fim, o Filho do homem separa as nações como ovelhas e bodes, julgando conforme o que fizeram aos seus irmãos mais pequeninos.",
+   "licoes": [
+    "Estar preparado não se transfere de uma pessoa para outra (25:8-10).",
+    "Deus espera que façamos render o que nos confiou (25:21, 25:26-27).",
+    "Servir ao necessitado é servir ao próprio Cristo (25:40).",
+    "Omitir o cuidado com o próximo também é falhar com Cristo (25:45)."
+   ],
+   "reflexao": "Que \"talento\" Deus lhe confiou que você tem escondido?",
+   "quiz": [
+    {
+     "pergunta": "Quantas virgens eram prudentes na parábola?",
+     "opcoes": [
+      "Duas",
+      "Cinco",
+      "Três",
+      "Sete"
+     ],
+     "correta": 1,
+     "ref": "25:2"
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "titulo": "A ceia, o Getsêmani e a prisão",
+   "chave": "26:39",
+   "resumo": "Os líderes tramam matar Jesus, e uma mulher derrama perfume caro sobre ele em Betânia. Judas combina entregá-lo por trinta moedas. Na ceia da Páscoa, Jesus anuncia a traição e institui a ceia com o pão e o cálice, sinal do seu corpo e sangue da aliança. No Getsêmani ora angustiado: \"seja feita a tua vontade\". É preso, julgado pelo Sinédrio, e Pedro o nega três vezes.",
+   "licoes": [
+    "Gestos de amor generoso a Jesus nunca são desperdício (26:10, 26:13).",
+    "A ceia lembra o sangue da aliança derramado para perdão dos pecados (26:26-28).",
+    "Na angústia, Jesus ora e se submete à vontade do Pai (26:39).",
+    "Vigiar e orar fortalece contra a tentação, pois a carne é fraca (26:41)."
+   ],
+   "reflexao": "Como você ora quando o caminho de Deus parece difícil?",
+   "quiz": [
+    {
+     "pergunta": "Quantas vezes Pedro negou Jesus antes de o galo cantar?",
+     "opcoes": [
+      "Uma",
+      "Três",
+      "Duas",
+      "Sete"
+     ],
+     "correta": 1,
+     "ref": "26:34"
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "titulo": "A crucificação",
+   "chave": "27:54",
+   "resumo": "Jesus é entregue a Pilatos. Judas, arrependido, devolve as moedas e se mata. Pilatos reconhece que Jesus foi entregue por inveja, mas cede à multidão, solta Barrabás e lava as mãos. Jesus é açoitado, zombado com coroa de espinhos e crucificado entre dois criminosos. Morre clamando a Deus; o véu do templo se rasga e o centurião declara que ele era o Filho de Deus. José de Arimateia o sepulta.",
+   "licoes": [
+    "Lavar as mãos não livra da responsabilidade por uma injustiça (27:24).",
+    "Jesus sofre em silêncio as acusações e zombarias (27:14, 27:29).",
+    "Na cruz, Jesus experimenta o abandono por nós (27:46).",
+    "O véu rasgado mostra que o caminho até Deus foi aberto (27:51)."
+   ],
+   "reflexao": "O que a cruz de Jesus diz sobre o quanto Deus ama você?",
+   "quiz": [
+    {
+     "pergunta": "O que aconteceu com o véu do Templo quando Jesus morreu?",
+     "opcoes": [
+      "Pegou fogo",
+      "Foi levado pelos soldados",
+      "Caiu no chão inteiro",
+      "Rasgou-se em dois, de cima até embaixo"
+     ],
+     "correta": 3,
+     "ref": "27:51"
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "titulo": "Ressuscitou! A grande comissão",
+   "chave": "28:19-20",
+   "resumo": "No primeiro dia da semana, Maria Madalena e a outra Maria vão ao sepulcro. Um anjo remove a pedra e anuncia que Jesus ressuscitou; no caminho, o próprio Jesus as encontra. Os líderes subornam os guardas para espalhar que o corpo foi roubado. Na Galileia, Jesus encontra os onze, declara ter toda a autoridade e os envia a fazer discípulos de todas as nações, prometendo estar com eles até o fim.",
+   "licoes": [
+    "A ressurreição cumpre o que Jesus havia dito (28:6).",
+    "As primeiras testemunhas da ressurreição foram mulheres (28:7-10).",
+    "Até quem duvida é incluído na missão (28:17-19).",
+    "A missão é fazer discípulos de todas as nações, com a presença de Jesus sempre (28:19-20)."
+   ],
+   "reflexao": "Quem, ao seu redor, você pode ajudar a conhecer e seguir Jesus?",
+   "quiz": [
+    {
+     "pergunta": "O que Jesus prometeu aos discípulos ao enviá-los?",
+     "opcoes": [
+      "Que estaria com eles todos os dias até o fim",
+      "Que voltaria em três dias",
+      "Que seriam ricos",
+      "Que nunca sofreriam"
+     ],
+     "correta": 0,
+     "ref": "28:20"
+    }
+   ]
+  }
+ ]
+}

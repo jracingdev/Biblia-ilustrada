@@ -1,0 +1,142 @@
+{
+ "livro": "joel",
+ "nome": "Joel",
+ "subtitulo": "O dia do SENHOR e a promessa do Espírito",
+ "introducao": "Joel parte de uma praga de gafanhotos que devastou Judá e a transforma em aviso sobre o dia do SENHOR. O profeta chama o povo ao arrependimento sincero e anuncia que Deus restaurará o que foi perdido. O livro é conhecido pela promessa de que o Espírito de Deus será derramado sobre todas as pessoas.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Joel, filho de Petuel (1:1); quase nada se sabe sobre sua vida"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Data incerta: há quem o situe antes do exílio (séc. IX–VIII a.C.) e quem o date depois do retorno (séc. V–IV a.C.)"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Judá e Jerusalém, com destaque para Sião e o templo (2:1, 2:15)"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Profecia, com lamento, chamado ao arrependimento e oráculos de salvação"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "3 capítulos e 73 versículos"
+  }
+ ],
+ "chave": "2:13",
+ "temas": [
+  "O dia do SENHOR como juízo e esperança",
+  "Arrependimento verdadeiro, de coração",
+  "Deus restaura o que foi perdido",
+  "O derramamento do Espírito sobre todos"
+ ],
+ "cristo": "No dia de Pentecostes, o apóstolo Pedro anuncia que a promessa de Joel sobre o Espírito começou a se cumprir com a vinda do Espírito Santo, enviado por Jesus ressuscitado. O convite \"todo aquele que invocar o nome do SENHOR será salvo\" é retomado no Novo Testamento como o chamado do evangelho a todos os povos.",
+ "secoes": [
+  {
+   "id": "praga-e-arrependimento",
+   "titulo": "A praga e o chamado ao arrependimento",
+   "capitulos": [
+    1
+   ],
+   "resumo": "Uma praga de gafanhotos leva o povo ao jejum e ao clamor."
+  },
+  {
+   "id": "restauracao-e-espirito",
+   "titulo": "Restauração e promessa do Espírito",
+   "capitulos": [
+    2
+   ],
+   "resumo": "Deus chama à conversão, promete restaurar e derramar seu Espírito."
+  },
+  {
+   "id": "juizo-das-nacoes",
+   "titulo": "Juízo das nações e salvação de Sião",
+   "capitulos": [
+    3
+   ],
+   "resumo": "As nações são julgadas e Deus habita com seu povo."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "A praga dos gafanhotos",
+   "chave": "1:14",
+   "resumo": "Joel chama anciãos e moradores a contarem às próximas gerações uma catástrofe sem igual: ondas de gafanhotos devoraram tudo. Vinhas, figueiras e campos secaram, e até as ofertas do templo cessaram. O profeta convoca um jejum e uma reunião solene e vê nisso um aviso de que o dia do SENHOR está perto.",
+   "licoes": [
+    "Grandes crises devem ser lembradas e ensinadas às próximas gerações (1:3).",
+    "A perda material atinge também a vida de culto: as ofertas do templo se acabaram (1:9, 1:13).",
+    "A resposta certa à calamidade é buscar a Deus em conjunto, com jejum e clamor (1:14).",
+    "Até a criação sofredora clama ao Senhor, e o profeta se une a esse clamor (1:19-20)."
+   ],
+   "reflexao": "Quando algo dá errado na sua vida, sua primeira reação é clamar a Deus ou procurar culpados?",
+   "quiz": [
+    {
+     "pergunta": "O que Joel manda os sacerdotes convocarem diante da praga?",
+     "opcoes": [
+      "Um jejum e uma reunião solene",
+      "Uma guerra contra os vizinhos",
+      "Uma festa de colheita",
+      "Uma viagem ao Egito"
+     ],
+     "correta": 0,
+     "ref": "1:14"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Rasgai o coração",
+   "chave": "2:13",
+   "resumo": "A trombeta soa em Sião: o dia do SENHOR vem como um exército avassalador, descrito como uma tropa de gafanhotos que nada deixa para trás. Mesmo assim, Deus chama o povo a voltar para ele de todo o coração, pois é misericordioso. Ele promete restaurar as colheitas, compensar os anos perdidos e, depois, derramar seu Espírito sobre toda carne.",
+   "licoes": [
+    "Deus quer arrependimento interior, não só gestos exteriores: \"Rasgai vosso coração, e não vossas vestes\" (2:13).",
+    "O caráter de Deus — piedoso, misericordioso e grande em bondade — é a base da esperança (2:13-14).",
+    "O Senhor é capaz de restituir \"os anos\" que a destruição devorou (2:25).",
+    "O Espírito será derramado sem distinção de idade, sexo ou condição social, e quem invocar o nome do SENHOR será salvo (2:28-29, 2:32)."
+   ],
+   "reflexao": "Há alguma área em que você tem mudado só por fora, sem deixar Deus tocar o coração?",
+   "quiz": [
+    {
+     "pergunta": "Sobre quem Deus promete derramar o seu Espírito?",
+     "opcoes": [
+      "Somente sobre os sacerdotes",
+      "Somente sobre os reis",
+      "Somente sobre os profetas",
+      "Sobre toda carne, filhos e filhas, velhos e jovens"
+     ],
+     "correta": 3,
+     "ref": "2:28"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "O vale da decisão",
+   "chave": "3:16",
+   "resumo": "Deus promete restaurar Judá e Jerusalém e reunir as nações no vale de Josafá para julgá-las pelo mal feito ao seu povo, como vender crianças e saquear o templo. As nações são desafiadas a se armar, mas a colheita do juízo está madura. O livro termina com Sião como refúgio do povo de Deus e com uma imagem de fartura e de uma fonte que sai da casa do SENHOR.",
+   "licoes": [
+    "Deus vê a injustiça feita aos fracos e não a deixa sem resposta (3:3, 3:6-7).",
+    "Diante do juízo, as multidões estão no \"vale da decisão\" (3:14).",
+    "O mesmo Senhor que brame contra o mal é refúgio e fortaleza para o seu povo (3:16).",
+    "O fim da história é a presença de Deus habitando no meio do seu povo (3:17, 3:21)."
+   ],
+   "reflexao": "Em que você tem buscado refúgio quando o mundo parece abalado?",
+   "quiz": [
+    {
+     "pergunta": "Como se chama o vale onde Deus diz que vai julgar as nações?",
+     "opcoes": [
+      "Vale de Hinom",
+      "Vale de Josafá",
+      "Vale de Acor",
+      "Vale de Elá"
+     ],
+     "correta": 1,
+     "ref": "3:2"
+    }
+   ]
+  }
+ ]
+}

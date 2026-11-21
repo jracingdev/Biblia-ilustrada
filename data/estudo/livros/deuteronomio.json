@@ -1,0 +1,997 @@
+{
+ "livro": "deuteronomio",
+ "nome": "Deuteronômio",
+ "subtitulo": "Lembrar, amar e obedecer antes de entrar na terra",
+ "introducao": "Deuteronômio reúne os discursos finais de Moisés nas planícies de Moabe, pouco antes de Israel atravessar o Jordão. Ele recorda a caminhada no deserto, repete e explica a lei e renova a aliança com uma nova geração. O coração do livro é o chamado a amar o único Deus de todo o coração e a escolher a vida.",
+ "fatos": [
+  {
+   "rotulo": "Autor",
+   "valor": "Tradicionalmente atribuído a Moisés (31:9, 31:24); o relato de sua morte (cap. 34) foi acrescentado por outra mão, e muitos estudiosos veem edição posterior"
+  },
+  {
+   "rotulo": "Quando",
+   "valor": "Os discursos situam-se no 40º ano após a saída do Egito (1:3); a data da redação final é debatida"
+  },
+  {
+   "rotulo": "Onde",
+   "valor": "Planícies de Moabe, a leste do Jordão, diante de Jericó (1:5, 34:1)"
+  },
+  {
+   "rotulo": "Para quem",
+   "valor": "A nova geração de Israel, prestes a entrar em Canaã"
+  },
+  {
+   "rotulo": "Gênero",
+   "valor": "Discursos de aliança com leis, exortações, cântico e bênçãos"
+  },
+  {
+   "rotulo": "Tamanho",
+   "valor": "34 capítulos e 959 versículos"
+  }
+ ],
+ "chave": "6:4-5",
+ "temas": [
+  "Amar o único Deus de todo o coração",
+  "Lembrar o que Deus fez e ensinar aos filhos",
+  "Bênção da obediência e consequências da infidelidade",
+  "Justiça e cuidado com o pobre, o estrangeiro, o órfão e a viúva",
+  "A graça como base da aliança"
+ ],
+ "cristo": "Jesus resistiu à tentação no deserto citando Deuteronômio e resumiu a lei com o mandamento de amar a Deus de todo o coração (6:5). A promessa de um profeta como Moisés (18:15) é aplicada a Jesus no livro de Atos, e o coração circuncidado por Deus (30:6) aponta para a nova vida que o evangelho oferece.",
+ "secoes": [
+  {
+   "id": "memoria-do-caminho",
+   "titulo": "Memória do caminho",
+   "capitulos": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "resumo": "Moisés recorda a jornada do Horebe a Moabe e exorta à fidelidade."
+  },
+  {
+   "id": "coracao-da-alianca",
+   "titulo": "O coração da aliança",
+   "capitulos": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "resumo": "Os Dez Mandamentos, o \"Ouve, Israel\" e o chamado a amar e não esquecer a Deus."
+  },
+  {
+   "id": "leis-para-a-terra",
+   "titulo": "Leis para a vida na terra",
+   "capitulos": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26
+   ],
+   "resumo": "Leis sobre culto, liderança, justiça, família e cuidado com os pobres."
+  },
+  {
+   "id": "bencao-e-maldicao",
+   "titulo": "Bênção, maldição e renovação",
+   "capitulos": [
+    27,
+    28,
+    29,
+    30
+   ],
+   "resumo": "A aliança é renovada e o povo é chamado a escolher a vida."
+  },
+  {
+   "id": "despedida-de-moises",
+   "titulo": "A despedida de Moisés",
+   "capitulos": [
+    31,
+    32,
+    33,
+    34
+   ],
+   "resumo": "Josué é comissionado, Moisés canta, abençoa as tribos e morre."
+  }
+ ],
+ "capitulos": [
+  {
+   "n": 1,
+   "titulo": "De Horebe a Cades-Barneia",
+   "chave": "1:30",
+   "resumo": "Nas planícies de Moabe, no quadragésimo ano, Moisés começa a recordar a caminhada de Israel. Lembra a escolha de chefes e juízes para repartir o peso de liderar o povo. Recorda também a rebeldia em Cades-Barneia: o povo teve medo dos amorreus, não quis entrar na terra e depois tentou lutar sem Deus, sendo derrotado.",
+   "licoes": [
+    "Liderança saudável é dividida com pessoas sábias e experientes (1:13-15).",
+    "A justiça não pode fazer acepção de pessoas, \"porque o juízo é de Deus\" (1:17).",
+    "O medo que esquece o cuidado de Deus leva à desobediência (1:30-32).",
+    "Tentar fazer a obra de Deus sem Deus termina em derrota (1:42-44)."
+   ],
+   "reflexao": "Em que área da sua vida o medo tem falado mais alto do que as promessas de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Quem, além de Josué, recebeu a promessa de ver a terra por ter seguido o SENHOR?",
+     "opcoes": [
+      "Arão",
+      "Finéias",
+      "Calebe",
+      "Moisés"
+     ],
+     "correta": 2,
+     "ref": "1:36"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "titulo": "Quarenta anos sem faltar nada",
+   "chave": "2:7",
+   "resumo": "Israel rodeia o monte Seir e recebe ordem de não guerrear contra Edom, Moabe e Amom, pois Deus deu terras também aos descendentes de Esaú e de Ló. Trinta e oito anos se passam até morrer a geração rebelde. Depois, Seom, rei de Hesbom, recusa a passagem pacífica e é derrotado.",
+   "licoes": [
+    "Deus sustentou o povo no deserto: \"nenhuma coisa te faltou\" (2:7).",
+    "Deus é Senhor de todas as nações e deu herança também a outros povos (2:5, 2:9).",
+    "A desobediência tem consequências reais: a geração incrédula morreu no deserto (2:14-15).",
+    "Israel buscou primeiro a paz, oferecendo pagar pelo caminho (2:26-28)."
+   ],
+   "reflexao": "Olhando para trás, onde você percebe que Deus cuidou de você mesmo em tempos de deserto?",
+   "quiz": [
+    {
+     "pergunta": "Quanto tempo durou a caminhada de Cades-Barneia até o ribeiro de Zerede?",
+     "opcoes": [
+      "Quarenta dias",
+      "Trinta e oito anos",
+      "Sete anos",
+      "Doze anos"
+     ],
+     "correta": 1,
+     "ref": "2:14"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "titulo": "Ogue de Basã e a oração de Moisés",
+   "chave": "3:22",
+   "resumo": "Israel vence Ogue, rei de Basã, e toma suas cidades. Moisés reparte as terras a leste do Jordão entre Rúben, Gade e meia tribo de Manassés, que devem ajudar os irmãos na conquista. Moisés pede para entrar na terra, mas Deus lhe permite apenas vê-la do alto do Pisga e manda fortalecer Josué.",
+   "licoes": [
+    "Deus que deu vitórias no passado é o mesmo que luta pelo seu povo no futuro (3:21-22).",
+    "Quem já recebeu sua parte deve ajudar os irmãos até que eles também descansem (3:18-20).",
+    "Moisés ora com sinceridade e aceita o \"não\" de Deus (3:25-26).",
+    "Parte de um bom líder é preparar e animar quem vem depois (3:28)."
+   ],
+   "reflexao": "Como você lida quando Deus responde \"não\" a um pedido sincero?",
+   "quiz": [
+    {
+     "pergunta": "Do alto de que monte Moisés pôde ver a terra prometida?",
+     "opcoes": [
+      "Pisga",
+      "Hermom",
+      "Carmelo",
+      "Sinai"
+     ],
+     "correta": 0,
+     "ref": "3:27"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "titulo": "Não esqueças o que viste",
+   "chave": "4:39",
+   "resumo": "Moisés exorta Israel a guardar os estatutos de Deus sem acrescentar nem tirar nada. Lembra que em Horebe o povo ouviu a voz de Deus mas não viu forma alguma, por isso não deve fazer imagens. Avisa que a idolatria levará ao exílio, mas que quem buscar a Deus de todo o coração o achará. Por fim, separa três cidades de refúgio a leste do Jordão.",
+   "licoes": [
+    "Obedecer à palavra de Deus é a verdadeira sabedoria de um povo (4:6).",
+    "A fé deve ser lembrada e ensinada aos filhos e netos (4:9).",
+    "Deus não pode ser reduzido a imagens, pois falou sem mostrar forma (4:15-16).",
+    "Mesmo depois da queda, quem busca a Deus de todo o coração o encontra (4:29-31)."
+   ],
+   "reflexao": "Que experiências com Deus você precisa lembrar e contar para a próxima geração?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Moisés, como o povo percebeu Deus em Horebe?",
+     "opcoes": [
+      "Não ouviu nem viu nada",
+      "Viu sua forma no meio do fogo",
+      "Viu um anjo sobre o monte",
+      "Ouviu sua voz, mas não viu forma alguma"
+     ],
+     "correta": 3,
+     "ref": "4:12"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "titulo": "Os Dez Mandamentos repetidos",
+   "chave": "5:6-7",
+   "resumo": "Moisés lembra que a aliança de Horebe vale para a geração presente e repete os Dez Mandamentos. O mandamento do sábado é ligado à libertação do Egito, para que também servos e animais descansem. Com medo do fogo, o povo pediu que Moisés fosse o mediador, e Deus aprovou o pedido.",
+   "licoes": [
+    "Os mandamentos começam pela graça: Deus primeiro libertou, depois ordenou (5:6).",
+    "A aliança não é só história dos antepassados; é para \"nós, todos os que estamos aqui hoje vivos\" (5:3).",
+    "O descanso semanal lembra a libertação e alcança até os servos (5:14-15).",
+    "Deus deseja um coração que o tema e obedeça para o bem do próprio povo (5:29)."
+   ],
+   "reflexao": "Qual dos mandamentos você sente mais dificuldade de viver hoje, e por quê?",
+   "quiz": [
+    {
+     "pergunta": "Em Deuteronômio 5, que motivo é dado para guardar o dia do repouso?",
+     "opcoes": [
+      "A criação em seis dias",
+      "A entrada na terra",
+      "A construção do tabernáculo",
+      "A libertação da servidão no Egito"
+     ],
+     "correta": 3,
+     "ref": "5:15"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "titulo": "Ouve, Israel",
+   "chave": "6:4-5",
+   "resumo": "Moisés proclama que o SENHOR é um só e que deve ser amado de todo o coração, alma e força. Essas palavras devem estar no coração e ser ensinadas aos filhos em casa, no caminho, ao deitar e ao levantar. Ele adverte que a fartura na terra pode levar ao esquecimento de Deus e ensina como explicar a fé às crianças.",
+   "licoes": [
+    "O centro da fé é amar o único Deus com a vida inteira (6:4-5).",
+    "A fé se transmite no dia a dia da família, não só em ocasiões especiais (6:7).",
+    "A prosperidade recebida de graça pode fazer esquecer o Doador (6:10-12).",
+    "Quando os filhos perguntam, a resposta é contar o que Deus fez (6:20-21)."
+   ],
+   "reflexao": "Em quais momentos comuns do seu dia você poderia falar ou lembrar da palavra de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Onde as palavras de Deus deviam ser escritas, segundo Deuteronômio 6?",
+     "opcoes": [
+      "Nas pedras do altar",
+      "Nos umbrais da casa e nas entradas",
+      "No manto dos sacerdotes",
+      "Nas muralhas da cidade"
+     ],
+     "correta": 1,
+     "ref": "6:9"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "titulo": "Um povo escolhido por amor",
+   "chave": "7:7-8",
+   "resumo": "Deus manda Israel não fazer alianças nem casamentos com as nações de Canaã e destruir seus altares, para não ser levado à idolatria. Explica que escolheu Israel não por ser grande, mas por amor e fidelidade à promessa aos pais. Promete bênção e expulsão gradual dessas nações, e proíbe cobiçar o ouro e a prata dos ídolos.",
+   "licoes": [
+    "A escolha de Deus nasce do seu amor, não dos méritos de quem é escolhido (7:7-8).",
+    "Deus é fiel e guarda sua aliança \"até as mil gerações\" (7:9).",
+    "Contra o medo, a memória do que Deus já fez (7:17-19).",
+    "Deus age \"pouco a pouco\", no tempo dele (7:22)."
+   ],
+   "reflexao": "Como saber que Deus o ama por graça, e não por mérito, muda a sua forma de viver?",
+   "quiz": [
+    {
+     "pergunta": "Por que Deus diz que escolheu Israel?",
+     "opcoes": [
+      "Por amor e por causa do juramento aos pais",
+      "Por ser o povo mais forte",
+      "Por ser o povo mais numeroso",
+      "Pela riqueza do povo"
+     ],
+     "correta": 0,
+     "ref": "7:7-8"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "titulo": "Nem só de pão",
+   "chave": "8:3",
+   "resumo": "Moisés lembra os quarenta anos no deserto como tempo de prova, em que Deus alimentou o povo com maná e suas roupas não se gastaram. Descreve a boa terra que os espera e adverte contra o orgulho que esquece Deus na fartura. É Deus quem dá força para conquistar riquezas.",
+   "licoes": [
+    "O ser humano vive de toda palavra que sai da boca do SENHOR, não só de pão (8:3).",
+    "As dificuldades podem ser escola de Deus, como um pai que corrige o filho (8:5).",
+    "Na fartura, devemos agradecer e não esquecer a Deus (8:10-11).",
+    "Achar que tudo veio da própria força é o caminho do orgulho (8:17-18)."
+   ],
+   "reflexao": "Em tempos bons, o que ajuda você a não esquecer de Deus?",
+   "quiz": [
+    {
+     "pergunta": "O que aconteceu com as roupas dos israelitas durante os quarenta anos no deserto?",
+     "opcoes": [
+      "Foram trocadas a cada ano",
+      "Foram queimadas",
+      "Não envelheceram",
+      "Foram dadas pelos egípcios"
+     ],
+     "correta": 2,
+     "ref": "8:4"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "titulo": "Não por tua justiça",
+   "chave": "9:6",
+   "resumo": "Moisés avisa que Israel não deve pensar que recebe a terra por ser justo, pois é um povo \"duro de cerviz\". Ele relembra o bezerro de ouro em Horebe, a quebra das tábuas e os quarenta dias em que se prostrou diante de Deus intercedendo pelo povo e por Arão. Sua oração apela à honra de Deus e à promessa feita a Abraão, Isaque e Jacó.",
+   "licoes": [
+    "O que recebemos de Deus é graça, não recompensa da nossa justiça (9:5-6).",
+    "O pecado pode surgir logo após grandes experiências com Deus (9:12, 9:16).",
+    "A intercessão de Moisés mostra o valor de orar pelos outros (9:18-19).",
+    "Uma boa oração apela às promessas e ao nome de Deus (9:26-29)."
+   ],
+   "reflexao": "Você já se pegou achando que merecia as bênçãos de Deus? Como a graça corrige isso?",
+   "quiz": [
+    {
+     "pergunta": "O que Moisés fez com o bezerro de fundição?",
+     "opcoes": [
+      "Guardou-o na arca",
+      "Devolveu-o aos egípcios",
+      "Enterrou-o no monte",
+      "Queimou, moeu até virar pó e lançou no ribeiro"
+     ],
+     "correta": 3,
+     "ref": "9:21"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "titulo": "O que o SENHOR pede de ti",
+   "chave": "10:12",
+   "resumo": "Deus manda Moisés lavrar novas tábuas, que são guardadas numa arca de madeira de acácia. O texto registra a morte de Arão e a separação da tribo de Levi para servir a Deus. Moisés resume o que Deus pede: temer, andar nos seus caminhos, amar e servir de todo o coração, e amar o estrangeiro.",
+   "licoes": [
+    "Depois da queda, Deus renova a aliança e escreve de novo os mandamentos (10:1-2).",
+    "Deus pede amor, reverência e obediência sincera (10:12-13).",
+    "A verdadeira circuncisão é a do coração (10:16).",
+    "Quem foi estrangeiro deve amar o estrangeiro, como Deus faz (10:18-19)."
+   ],
+   "reflexao": "Como você pode amar concretamente o estrangeiro, o órfão ou a viúva perto de você?",
+   "quiz": [
+    {
+     "pergunta": "De que madeira Moisés fez a arca para guardar as tábuas?",
+     "opcoes": [
+      "Cedro",
+      "Oliveira",
+      "Acácia",
+      "Carvalho"
+     ],
+     "correta": 2,
+     "ref": "10:3"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "titulo": "A bênção e a maldição",
+   "chave": "11:26-28",
+   "resumo": "Moisés chama a geração que viu as obras de Deus no Egito e no deserto a amar e obedecer. A terra prometida depende da chuva que Deus envia, e não da irrigação como no Egito; a obediência traria chuva, e a idolatria, seca. Ele repete a ordem de ensinar a palavra aos filhos e põe diante do povo a bênção e a maldição, a serem proclamadas nos montes Gerizim e Ebal.",
+   "licoes": [
+    "Quem viu as obras de Deus tem responsabilidade de responder com obediência (11:2-7).",
+    "A terra prometida é cuidada pelos olhos de Deus o ano inteiro (11:12).",
+    "A palavra deve estar no coração e nas conversas da família (11:18-19).",
+    "Diante de nós há dois caminhos, e a escolha tem consequências (11:26-28)."
+   ],
+   "reflexao": "Que escolha diária mostra se você está andando no caminho da bênção?",
+   "quiz": [
+    {
+     "pergunta": "Sobre qual monte deveria ser proclamada a bênção?",
+     "opcoes": [
+      "Ebal",
+      "Hermom",
+      "Nebo",
+      "Gerizim"
+     ],
+     "correta": 3,
+     "ref": "11:29"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "titulo": "O lugar que o SENHOR escolher",
+   "chave": "12:5",
+   "resumo": "Começa o conjunto de leis. Israel deve destruir os lugares de culto pagão e adorar a Deus somente no lugar que Ele escolher para seu nome. Lá levarão ofertas e dízimos e se alegrarão com a família, servos e levitas. Pode-se comer carne em qualquer cidade, mas sem comer o sangue, e é proibido imitar o culto cananeu, que chegava a queimar filhos.",
+   "licoes": [
+    "A adoração deve ser como Deus quer, não \"cada um o que lhe parece\" (12:8).",
+    "O culto a Deus é lugar de alegria compartilhada com a família e os necessitados (12:7, 12:12).",
+    "Não se deve esquecer de sustentar os levitas, que não tinham herança (12:19).",
+    "Não devemos copiar práticas que Deus abomina, por mais comuns que sejam (12:30-31)."
+   ],
+   "reflexao": "Sua forma de adorar é guiada pela palavra de Deus ou mais pelo que lhe parece bom?",
+   "quiz": [
+    {
+     "pergunta": "O que os israelitas não podiam comer junto com a carne?",
+     "opcoes": [
+      "O azeite",
+      "O sal",
+      "O pão",
+      "O sangue"
+     ],
+     "correta": 3,
+     "ref": "12:23"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "titulo": "Contra quem desvia do SENHOR",
+   "chave": "13:4",
+   "resumo": "O capítulo trata de quem tenta levar Israel a seguir outros deuses: um profeta que faz sinais, um parente próximo ou uma cidade inteira. Mesmo que o sinal se cumpra, o povo não deve ouvi-lo, pois Deus está provando se o amam de todo o coração. A lei prevê punição severa, porque a idolatria ameaçava a aliança de toda a nação.",
+   "licoes": [
+    "Sinais e prodígios não bastam; a mensagem precisa ser fiel ao único Deus (13:1-3).",
+    "A lealdade a Deus vem antes até dos laços mais próximos (13:6-8).",
+    "Acusações graves exigiam investigação cuidadosa antes de qualquer ação (13:14).",
+    "O centro é seguir, temer e se achegar ao SENHOR (13:4)."
+   ],
+   "reflexao": "Como você avalia se um ensino religioso é fiel a Deus, além de ser impressionante?",
+   "quiz": [
+    {
+     "pergunta": "Por que, segundo o texto, Deus permitia que surgisse um profeta que levasse a outros deuses?",
+     "opcoes": [
+      "Para castigar os levitas",
+      "Para mostrar novos caminhos",
+      "Para provar se o povo o amava de todo o coração",
+      "Para julgar as nações vizinhas"
+     ],
+     "correta": 2,
+     "ref": "13:3"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "titulo": "Povo santo e o dízimo",
+   "chave": "14:2",
+   "resumo": "Como filhos do SENHOR e povo santo, os israelitas não deviam imitar ritos de luto pagãos. O capítulo lista animais, peixes e aves que podiam ou não ser comidos. Depois ensina o dízimo anual, comido com alegria diante de Deus, e o dízimo do terceiro ano, guardado nas cidades para levitas, estrangeiros, órfãos e viúvas.",
+   "licoes": [
+    "A identidade de filhos de Deus molda até os hábitos do dia a dia (14:1-2).",
+    "O dízimo ensinava a temer a Deus com alegria e gratidão (14:23, 14:26).",
+    "A fé bíblica inclui sustentar quem não tem herança nem proteção (14:28-29)."
+   ],
+   "reflexao": "De que forma o que você ganha pode também servir a quem está em necessidade?",
+   "quiz": [
+    {
+     "pergunta": "Quem deveria comer o dízimo guardado nas cidades a cada três anos?",
+     "opcoes": [
+      "Somente os sacerdotes",
+      "O levita, o estrangeiro, o órfão e a viúva",
+      "O rei e seus oficiais",
+      "Os soldados"
+     ],
+     "correta": 1,
+     "ref": "14:28-29"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "titulo": "O ano da remissão",
+   "chave": "15:11",
+   "resumo": "A cada sete anos, as dívidas entre israelitas deviam ser perdoadas. Moisés manda abrir a mão ao irmão pobre sem calcular a proximidade do ano da remissão. O servo hebreu deveria ser libertado no sétimo ano e despedido com provisões, a menos que escolhesse ficar por amor. Os primogênitos dos animais eram consagrados a Deus.",
+   "licoes": [
+    "Deus quer uma sociedade em que não haja pobres esquecidos (15:4, 15:7-8).",
+    "A generosidade deve ser de coração, sem cálculo mesquinho (15:9-10).",
+    "Quem foi resgatado deve tratar os outros com bondade (15:14-15).",
+    "\"Não faltarão necessitados\": a mão aberta é um chamado permanente (15:11)."
+   ],
+   "reflexao": "Há alguém necessitado a quem você tem fechado a mão ou o coração?",
+   "quiz": [
+    {
+     "pergunta": "De que forma o servo hebreu libertado no sétimo ano devia ser despedido?",
+     "opcoes": [
+      "Abastecido generosamente de ovelhas, grão e vinho",
+      "Sem nada, para começar de novo",
+      "Com uma multa paga ao senhor",
+      "Com a orelha furada"
+     ],
+     "correta": 0,
+     "ref": "15:13-14"
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "titulo": "As três festas e a justiça",
+   "chave": "16:20",
+   "resumo": "Moisés ordena celebrar três festas anuais no lugar escolhido por Deus: a Páscoa com os pães ázimos, a festa das Semanas e a festa das Cabanas. Nelas toda a casa, junto com levitas, estrangeiros, órfãos e viúvas, devia se alegrar. Depois manda nomear juízes justos, que não aceitem suborno nem façam acepção de pessoas.",
+   "licoes": [
+    "A Páscoa ajudava o povo a lembrar todos os dias a libertação do Egito (16:3).",
+    "As festas de Deus são de alegria inclusiva, com espaço para os vulneráveis (16:11, 16:14).",
+    "Cada um oferece conforme a bênção que recebeu (16:17).",
+    "\"A justiça, a justiça seguirás\": o suborno cega até os sábios (16:19-20)."
+   ],
+   "reflexao": "Como sua gratidão a Deus pode se tornar alegria compartilhada com outros?",
+   "quiz": [
+    {
+     "pergunta": "Quais eram as três festas em que todo homem devia comparecer diante do SENHOR?",
+     "opcoes": [
+      "Trombetas, Lua Nova e Sábado",
+      "Pães ázimos, Semanas e Cabanas",
+      "Expiação, Purim e Páscoa",
+      "Colheita, Dedicação e Jubileu"
+     ],
+     "correta": 1,
+     "ref": "16:16"
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "titulo": "Juízes, sacerdotes e o rei",
+   "chave": "17:18-19",
+   "resumo": "O capítulo proíbe oferecer animais defeituosos e trata do julgamento de quem cultuasse outros deuses, exigindo duas ou três testemunhas. Casos difíceis deviam ser levados aos sacerdotes e ao juiz no lugar escolhido por Deus. Prevê ainda um rei escolhido por Deus, que não deveria acumular cavalos, mulheres e riquezas, mas copiar e ler a lei todos os dias.",
+   "licoes": [
+    "Ninguém podia ser condenado pela palavra de uma só testemunha (17:6).",
+    "Até o rei está debaixo da lei de Deus e deve lê-la todos os dias (17:18-19).",
+    "Poder, riqueza e muitas alianças podem desviar o coração de quem governa (17:16-17).",
+    "A palavra de Deus guarda o líder do orgulho diante dos irmãos (17:20)."
+   ],
+   "reflexao": "Que espaço a palavra de Deus tem na sua rotina diária, como era pedido ao rei?",
+   "quiz": [
+    {
+     "pergunta": "O que o rei devia fazer ao assentar-se no trono?",
+     "opcoes": [
+      "Construir um templo",
+      "Escrever para si uma cópia da lei e lê-la todos os dias",
+      "Conquistar o Egito",
+      "Escolher um novo sumo sacerdote"
+     ],
+     "correta": 1,
+     "ref": "17:18-19"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "titulo": "Um profeta como Moisés",
+   "chave": "18:15",
+   "resumo": "Os levitas não recebem terra: o SENHOR é a sua herança e eles vivem das ofertas do povo. Israel é proibido de praticar adivinhação, feitiçaria e consulta aos mortos, como faziam as nações. Em vez disso, Deus promete levantar um profeta como Moisés, em cuja boca porá suas palavras, e ensina a reconhecer o falso profeta.",
+   "licoes": [
+    "Quem serve a Deus pode confiar que \"o SENHOR é a sua herança\" (18:2).",
+    "Buscar orientação no ocultismo é abominação; Deus quer um povo íntegro (18:10-13).",
+    "Deus promete falar por meio de um Profeta a quem todos devem ouvir (18:15, 18:18).",
+    "Profecia que não se cumpre não vem do SENHOR (18:22)."
+   ],
+   "reflexao": "Onde você costuma buscar direção quando está inseguro sobre o futuro?",
+   "quiz": [
+    {
+     "pergunta": "Como reconhecer, segundo Deuteronômio 18, uma palavra que o SENHOR não falou?",
+     "opcoes": [
+      "Quando é dita em voz baixa",
+      "Quando o que foi anunciado não acontece",
+      "Quando o profeta é estrangeiro",
+      "Quando é dita fora do templo"
+     ],
+     "correta": 1,
+     "ref": "18:22"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "titulo": "Cidades de refúgio e testemunhas",
+   "chave": "19:10",
+   "resumo": "Deus manda separar três cidades de refúgio na terra, para proteger quem matasse alguém sem querer, como num acidente com machado. O assassino intencional, porém, não teria proteção. O capítulo proíbe mudar os marcos de terra do vizinho, exige duas ou três testemunhas e manda punir a testemunha falsa com a pena que ela queria impor ao outro.",
+   "licoes": [
+    "A lei distingue o acidente do crime intencional e protege o inocente (19:4-6).",
+    "Deus se importa em não derramar sangue inocente (19:10).",
+    "Mover o marco do vizinho é uma forma de roubo (19:14).",
+    "O falso testemunho é grave e deve ser julgado com cuidado (19:18-19)."
+   ],
+   "reflexao": "Você tem sido justo ao falar dos outros, sem exagerar nem acusar sem provas?",
+   "quiz": [
+    {
+     "pergunta": "Que exemplo de morte acidental o texto dá?",
+     "opcoes": [
+      "O ferro do machado que salta ao cortar lenha",
+      "Uma queda do telhado",
+      "Um boi que chifra",
+      "Uma pedra que rola do monte"
+     ],
+     "correta": 0,
+     "ref": "19:5"
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "titulo": "Leis para a guerra",
+   "chave": "20:4",
+   "resumo": "Antes da batalha, o sacerdote devia lembrar que Deus luta por Israel. Os oficiais dispensavam quem tinha casa nova, vinha recém-plantada, noivado recente ou medo. A cidades distantes devia-se primeiro oferecer paz; as cidades de Canaã seriam destruídas para que não ensinassem suas abominações. Árvores frutíferas deviam ser poupadas no cerco.",
+   "licoes": [
+    "A confiança de Israel não estava em cavalos e carros, mas no Deus que salva (20:1, 20:4).",
+    "A lei tinha compaixão de quem começava uma nova etapa da vida (20:5-7).",
+    "O medo é contagioso, por isso o medroso era mandado para casa (20:8).",
+    "Mesmo na guerra, a criação devia ser preservada (20:19)."
+   ],
+   "reflexao": "Que \"carros e cavalos\" têm feito você esquecer que Deus caminha ao seu lado?",
+   "quiz": [
+    {
+     "pergunta": "Que árvores não deviam ser cortadas durante um cerco?",
+     "opcoes": [
+      "Todas as árvores do campo, sem exceção",
+      "Os cedros",
+      "As palmeiras do templo",
+      "As árvores que dão alimento"
+     ],
+     "correta": 3,
+     "ref": "20:19-20"
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "titulo": "Sangue inocente e justiça na família",
+   "chave": "21:8",
+   "resumo": "Quando um morto era achado sem se saber o culpado, os anciãos da cidade mais próxima faziam um rito com uma bezerra e pediam a Deus que não imputasse ao povo o sangue inocente. O capítulo regula o tratamento de mulheres cativas, protege o direito do primogênito filho da esposa menos amada e trata do filho rebelde. Termina mandando sepultar no mesmo dia quem fosse pendurado num madeiro.",
+   "licoes": [
+    "A comunidade é responsável diante de Deus mesmo por um crime sem autor conhecido (21:7-8).",
+    "A lei limitava o favoritismo e protegia o direito do filho primogênito (21:16-17).",
+    "Mesmo a cativa não podia ser vendida nem tratada como mercadoria (21:14).",
+    "O pendurado no madeiro era tido como maldito, imagem que o Novo Testamento aplica à cruz de Cristo (21:23)."
+   ],
+   "reflexao": "Que responsabilidade você tem pelos males que acontecem na sua comunidade, mesmo sem ter culpa direta?",
+   "quiz": [
+    {
+     "pergunta": "Que porção o primogênito devia receber da herança?",
+     "opcoes": [
+      "Dois tantos (porção dobrada)",
+      "A mesma dos irmãos",
+      "Apenas a casa",
+      "Metade de tudo"
+     ],
+     "correta": 0,
+     "ref": "21:17"
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "titulo": "Cuidar do que é do próximo",
+   "chave": "22:4",
+   "resumo": "O israelita devia devolver os animais e objetos perdidos do irmão e ajudá-lo a levantar o animal caído. Há leis sobre roupas, ninhos de aves, parapeitos nas casas e misturas proibidas, que lembravam a santidade do povo. A segunda parte trata de casamento e pureza sexual, protegendo a mulher contra a calúnia e distinguindo a vítima de violência do culpado.",
+   "licoes": [
+    "Amar o próximo inclui cuidar dos bens dele como se fossem nossos (22:1-3).",
+    "Prevenir acidentes é responsabilidade moral (22:8).",
+    "A lei protegia a mulher falsamente acusada pelo marido (22:18-19).",
+    "A vítima de violência não é culpada; ela gritou e não houve quem a socorresse (22:26-27)."
+   ],
+   "reflexao": "Você costuma ignorar ou ajudar quando vê o problema de alguém no caminho?",
+   "quiz": [
+    {
+     "pergunta": "O que devia ser feito ao construir uma casa nova?",
+     "opcoes": [
+      "Fazer um parapeito no terraço",
+      "Oferecer um cordeiro",
+      "Plantar uma vinha ao lado",
+      "Chamar os sacerdotes para ungi-la"
+     ],
+     "correta": 0,
+     "ref": "22:8"
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "titulo": "A santidade do acampamento",
+   "chave": "23:14",
+   "resumo": "O capítulo define quem podia entrar na congregação e lembra a hostilidade de Amom e Moabe, que contrataram Balaão, mas Deus transformou a maldição em bênção. Manda manter o acampamento limpo porque Deus anda no meio dele. Proíbe devolver o escravo fugitivo ao seu senhor, a prostituição ritual e cobrar juros do irmão, e ensina a cumprir os votos.",
+   "licoes": [
+    "Deus transforma maldição em bênção \"porque te amava\" (23:5).",
+    "A presença de Deus no meio do povo pede cuidado até com a higiene do acampamento (23:14).",
+    "O escravo fugitivo devia ser acolhido, e não oprimido (23:15-16).",
+    "Promessa feita a Deus é coisa séria; melhor não prometer do que não cumprir (23:21-23)."
+   ],
+   "reflexao": "Há alguma promessa que você fez a Deus ou a alguém e ainda não cumpriu?",
+   "quiz": [
+    {
+     "pergunta": "Quem foi contratado para amaldiçoar Israel, segundo Deuteronômio 23?",
+     "opcoes": [
+      "Balaão filho de Beor",
+      "Balaque",
+      "Corá",
+      "Ogue"
+     ],
+     "correta": 0,
+     "ref": "23:4"
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "titulo": "Justiça para o pobre",
+   "chave": "24:18",
+   "resumo": "O capítulo regula o divórcio, protegendo a mulher de ser tomada e devolvida ao primeiro marido. O recém-casado ficava um ano livre da guerra. Proíbe sequestrar pessoas, penhorar a pedra de moinho ou ficar com a capa do pobre durante a noite. O salário do trabalhador devia ser pago no mesmo dia, e as sobras da colheita ficavam para o estrangeiro, o órfão e a viúva.",
+   "licoes": [
+    "Deus valoriza o tempo do casal: o recém-casado ficava livre para alegrar a esposa (24:5).",
+    "Atrasar o salário do pobre é pecado diante de Deus (24:14-15).",
+    "Cada pessoa responde pelo próprio pecado (24:16).",
+    "A memória da própria libertação gera generosidade com os vulneráveis (24:19-22)."
+   ],
+   "reflexao": "Há alguém a quem você deve algo e está deixando para depois?",
+   "quiz": [
+    {
+     "pergunta": "Quando devia ser pago o salário do trabalhador pobre?",
+     "opcoes": [
+      "No fim do mês",
+      "No sábado",
+      "No ano da remissão",
+      "No mesmo dia, antes do pôr do sol"
+     ],
+     "correta": 3,
+     "ref": "24:15"
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "titulo": "Pesos justos e a memória de Amaleque",
+   "chave": "25:15",
+   "resumo": "O capítulo limita a punição a quarenta açoites para não humilhar o irmão e proíbe pôr mordaça no boi que trilha. Estabelece a lei do cunhado, para que a viúva sem filhos não ficasse desamparada e o nome do falecido não se apagasse. Exige pesos e medidas honestos e manda lembrar o ataque covarde de Amaleque contra os fracos e cansados.",
+   "licoes": [
+    "Mesmo o culpado mantém sua dignidade; a pena tinha limite (25:3).",
+    "Quem trabalha merece se alimentar do seu trabalho, até o boi (25:4).",
+    "Desonestidade no comércio é abominação para Deus (25:13-16).",
+    "Atacar os fracos e cansados revela falta de temor a Deus (25:18)."
+   ],
+   "reflexao": "Você tem sido totalmente honesto nos seus negócios e acordos, mesmo nos pequenos?",
+   "quiz": [
+    {
+     "pergunta": "Qual era o número máximo de açoites permitido?",
+     "opcoes": [
+      "Quarenta",
+      "Dez",
+      "Setenta",
+      "Cem"
+     ],
+     "correta": 0,
+     "ref": "25:3"
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "titulo": "As primícias e a confissão de fé",
+   "chave": "26:7-8",
+   "resumo": "Ao entrar na terra, o israelita devia levar as primícias num cesto ao sacerdote e recitar a história do povo: um arameu errante desceu ao Egito, foi oprimido, clamou, e Deus o libertou e deu a terra. No terceiro ano, depois de dar o dízimo aos necessitados, devia declarar sua fidelidade e pedir a bênção de Deus. Moisés conclui que Deus e Israel firmaram um compromisso mútuo.",
+   "licoes": [
+    "A gratidão se expressa contando o que Deus fez em nossa história (26:5-9).",
+    "Deus ouve o clamor dos oprimidos e age (26:7).",
+    "A oferta é alegria compartilhada com o levita e o estrangeiro (26:11).",
+    "A aliança é um compromisso de ambos os lados (26:17-18)."
+   ],
+   "reflexao": "Se você tivesse de contar em poucas frases o que Deus fez na sua vida, o que diria?",
+   "quiz": [
+    {
+     "pergunta": "Como o ofertante descrevia seu antepassado ao entregar as primícias?",
+     "opcoes": [
+      "Um rei poderoso",
+      "Um arameu a ponto de perecer",
+      "Um sacerdote de Midiã",
+      "Um pastor do Egito"
+     ],
+     "correta": 1,
+     "ref": "26:5"
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "titulo": "Pedras, altar e amém",
+   "chave": "27:9-10",
+   "resumo": "Moisés manda que, ao atravessar o Jordão, o povo levante grandes pedras rebocadas com cal no monte Ebal e escreva nelas a lei, além de construir ali um altar de pedras inteiras. Seis tribos ficariam no monte Gerizim para abençoar e seis no Ebal para a maldição. Os levitas proclamariam doze maldições contra pecados muitas vezes ocultos, e o povo responderia \"Amém\".",
+   "licoes": [
+    "A lei devia ser escrita \"muito claramente\" para todos verem (27:8).",
+    "Ser povo de Deus pede ouvir sua voz e obedecer (27:9-10).",
+    "Deus vê também os pecados feitos em segredo (27:15, 27:24).",
+    "Prejudicar o cego, o estrangeiro, o órfão ou a viúva é coisa maldita (27:18-19)."
+   ],
+   "reflexao": "Há algum pecado escondido que você precisa trazer à luz diante de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Em que monte deviam ser levantadas as pedras com a lei e o altar?",
+     "opcoes": [
+      "Gerizim",
+      "Sião",
+      "Ebal",
+      "Carmelo"
+     ],
+     "correta": 2,
+     "ref": "27:4"
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "titulo": "Bênçãos e maldições",
+   "chave": "28:1-2",
+   "resumo": "Moisés descreve as bênçãos da obediência: prosperidade na cidade e no campo, chuva no tempo certo, vitória e o povo como \"cabeça, e não cauda\". Em seguida, numa lista muito mais longa, descreve as maldições da desobediência: doenças, derrotas, cerco, fome terrível e exílio entre as nações. O capítulo mostra a seriedade da aliança.",
+   "licoes": [
+    "A obediência a Deus traz bênção a todas as áreas da vida (28:3-6).",
+    "Deus quer que seu povo testemunhe seu nome às nações (28:10).",
+    "Servir a Deus deve ser com alegria de coração, e não por obrigação (28:47).",
+    "Abandonar a Deus traz inquietação e medo constantes (28:65-67)."
+   ],
+   "reflexao": "Você serve a Deus com alegria ou apenas por obrigação?",
+   "quiz": [
+    {
+     "pergunta": "Na promessa de bênção, o povo obediente seria posto como o quê?",
+     "opcoes": [
+      "Cauda, e não cabeça",
+      "Servo das nações",
+      "Cabeça, e não cauda",
+      "Peregrino na terra"
+     ],
+     "correta": 2,
+     "ref": "28:13"
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "titulo": "A aliança em Moabe",
+   "chave": "29:29",
+   "resumo": "Nas terras de Moabe, Moisés renova a aliança com todo o povo: líderes, crianças, mulheres e estrangeiros, e também com as gerações futuras. Ele lembra o cuidado de Deus no deserto e alerta contra a \"raiz que lance veneno e amargura\", a pessoa que se acha segura enquanto segue o próprio coração. As nações verão a terra devastada e entenderão que o povo abandonou a aliança.",
+   "licoes": [
+    "A aliança inclui todos, do líder ao que carrega água (29:10-12).",
+    "Pode-se ver grandes obras de Deus e ainda não ter coração para entender (29:2-4).",
+    "É perigoso achar que teremos paz enquanto seguimos só o nosso coração (29:19).",
+    "Nem tudo nos foi revelado, mas o que foi revelado é para ser praticado (29:29)."
+   ],
+   "reflexao": "Há alguma \"raiz de amargura\" crescendo em você que precisa ser arrancada?",
+   "quiz": [
+    {
+     "pergunta": "Segundo Moisés, a quem pertencem as coisas secretas?",
+     "opcoes": [
+      "Aos sacerdotes",
+      "Aos anciãos",
+      "Ao SENHOR nosso Deus",
+      "Aos profetas"
+     ],
+     "correta": 2,
+     "ref": "29:29"
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "titulo": "Escolhe, pois, a vida",
+   "chave": "30:19",
+   "resumo": "Moisés anuncia que, mesmo depois do exílio, se o povo voltar a Deus de todo o coração, Ele o recolherá das nações e circuncidará o seu coração para que o ame. A palavra de Deus não está longe, no céu ou além do mar, mas perto, na boca e no coração. Diante da vida e da morte, Moisés convida: \"escolhe, pois, a vida\".",
+   "licoes": [
+    "Deus sempre abre caminho de volta para quem se arrepende (30:2-3).",
+    "Só Deus pode transformar o coração para que o amemos de verdade (30:6).",
+    "A palavra de Deus está perto, ao nosso alcance (30:11-14).",
+    "Amar a Deus é escolher a vida, pois \"ele é tua vida\" (30:19-20)."
+   ],
+   "reflexao": "Que escolha concreta pela vida você pode fazer hoje?",
+   "quiz": [
+    {
+     "pergunta": "Onde está a palavra de Deus, segundo Deuteronômio 30?",
+     "opcoes": [
+      "No céu",
+      "Do outro lado do mar",
+      "Muito perto: na boca e no coração",
+      "Somente no templo"
+     ],
+     "correta": 2,
+     "ref": "30:14"
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "titulo": "Josué assume e a lei é entregue",
+   "chave": "31:6",
+   "resumo": "Aos 120 anos, Moisés anuncia que não atravessará o Jordão e encoraja o povo e Josué: Deus irá adiante e não os deixará. Ele escreve a lei, entrega-a aos sacerdotes e manda lê-la publicamente a cada sete anos, na festa das Cabanas. Deus prevê a infidelidade futura do povo e manda Moisés escrever um cântico como testemunha.",
+   "licoes": [
+    "Deus vai à frente do seu povo e não o abandona (31:6, 31:8).",
+    "A palavra de Deus deve ser lida para todos: homens, mulheres, crianças e estrangeiros (31:12).",
+    "Uma transição de liderança bem feita é pública e cheia de encorajamento (31:7).",
+    "Cânticos ajudam a guardar a verdade na memória das gerações (31:19, 31:21)."
+   ],
+   "reflexao": "Que desafio novo você está enfrentando em que precisa ouvir \"esforça-te e tem ânimo\"?",
+   "quiz": [
+    {
+     "pergunta": "Com que idade Moisés disse estar ao se despedir?",
+     "opcoes": [
+      "Cento e vinte anos",
+      "Cem anos",
+      "Oitenta anos",
+      "Cento e cinquenta anos"
+     ],
+     "correta": 0,
+     "ref": "31:2"
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "titulo": "O cântico de Moisés",
+   "chave": "32:4",
+   "resumo": "Neste poema, Moisés chama céus e terra para ouvir e exalta Deus como a Rocha, perfeito, fiel e justo. O cântico lembra como Deus achou Israel no deserto e o guardou como a menina dos olhos, mas o povo engordou, se rebelou e seguiu outros deuses. Deus anuncia juízo, mas também que vindicará seu povo, pois só Ele faz morrer e viver. No fim, Deus manda Moisés subir ao monte Nebo para ver a terra e morrer.",
+   "licoes": [
+    "Deus é a Rocha: firme, fiel e justo em todos os seus caminhos (32:4).",
+    "Deus cuida do seu povo como a águia que estende as asas sobre os filhotes (32:10-11).",
+    "A fartura sem gratidão leva a esquecer \"a Rocha de sua salvação\" (32:15, 32:18).",
+    "A palavra de Deus \"não vos é coisa vã, mas é vossa vida\" (32:46-47)."
+   ],
+   "reflexao": "Em que momentos você mais precisou de Deus como sua Rocha?",
+   "quiz": [
+    {
+     "pergunta": "Com que imagem o cântico descreve Deus, logo no início?",
+     "opcoes": [
+      "Um leão",
+      "A Rocha",
+      "Uma torre",
+      "Um pastor"
+     ],
+     "correta": 1,
+     "ref": "32:4"
+    }
+   ]
+  },
+  {
+   "n": 33,
+   "titulo": "Moisés abençoa as tribos",
+   "chave": "33:27",
+   "resumo": "Antes de morrer, Moisés, \"homem de Deus\", abençoa as tribos de Israel uma a uma, de Rúben a Aser, com palavras sobre sua terra, sua força e seu serviço. Levi recebe a tarefa de ensinar a lei e servir no altar; Benjamim é chamado \"o amado do SENHOR\". O capítulo termina exaltando o Deus de Israel, refúgio eterno, e a felicidade de um povo salvo pelo SENHOR.",
+   "licoes": [
+    "Cada tribo recebe uma bênção própria: Deus conhece cada parte do seu povo (33:6-25).",
+    "Ensinar a palavra de Deus é parte central do serviço a Ele (33:10).",
+    "Deus dá força suficiente para cada dia (33:25).",
+    "\"O eterno Deus é o teu refúgio, e abaixo os braços eternos\" (33:27)."
+   ],
+   "reflexao": "Como seria descansar hoje nos \"braços eternos\" de Deus?",
+   "quiz": [
+    {
+     "pergunta": "Que tribo foi chamada de \"o amado do SENHOR\"?",
+     "opcoes": [
+      "Judá",
+      "Levi",
+      "José",
+      "Benjamim"
+     ],
+     "correta": 3,
+     "ref": "33:12"
+    }
+   ]
+  },
+  {
+   "n": 34,
+   "titulo": "A morte de Moisés",
+   "chave": "34:10",
+   "resumo": "Moisés sobe ao monte Nebo, e Deus lhe mostra toda a terra prometida. Ele morre ali, aos 120 anos, ainda com boa vista e vigor, e é sepultado num vale de Moabe, em lugar que ninguém conhece. Israel chora por trinta dias, e Josué, cheio de espírito de sabedoria, assume a liderança. O livro termina dizendo que nunca mais houve profeta como Moisés.",
+   "licoes": [
+    "Deus cumpre sua promessa, mesmo quando não vemos o cumprimento completo (34:4).",
+    "Moisés é lembrado como \"servo do SENHOR\", o maior título de sua vida (34:5).",
+    "A obra de Deus continua na geração seguinte (34:9).",
+    "O valor de Moisés estava em conhecer a Deus \"face a face\" (34:10)."
+   ],
+   "reflexao": "Como você gostaria de ser lembrado quando sua caminhada terminar?",
+   "quiz": [
+    {
+     "pergunta": "Quanto tempo Israel chorou por Moisés?",
+     "opcoes": [
+      "Sete dias",
+      "Trinta dias",
+      "Quarenta dias",
+      "Um ano"
+     ],
+     "correta": 1,
+     "ref": "34:8"
+    }
+   ]
+  }
+ ]
+}

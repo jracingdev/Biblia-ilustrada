@@ -766,7 +766,7 @@ function telaLivros(){
   const E = B.estr;
   return `
   <header class="cap-h"><span class="eyebrow">66 livros</span><h1>Escolha um livro</h1></header>
-  <p style="color:var(--muted);max-width:70ch">Todos os livros já podem ser lidos e explorados pelas conexões com o resto da Bíblia. Apocalipse tem também guia de estudo, quadros e quiz; os demais ganham essas camadas aos poucos.</p>
+  <p style="color:var(--muted);max-width:70ch">Todos os livros podem ser lidos e explorados pelas conexões com o resto da Bíblia. Os marcados "com estudo" têm introdução, resumo, lições e quiz em cada capítulo. Apocalipse tem também quadros, símbolos e mapa.</p>
   <div class="busca"><label class="sr" for="q-livro">Buscar livro</label><input id="q-livro" type="search" placeholder="Buscar: Gênesis, Salmos, Romanos…" autocomplete="off">
     <a class="btn primary" href="#biblia">Ver a Bíblia inteira em arcos</a></div>
   <p class="sr" id="livro-count" role="status" aria-live="polite"></p>
@@ -774,7 +774,7 @@ function telaLivros(){
   <section class="lv-grupo" aria-labelledby="g-${g.id}">
     <h2 id="g-${g.id}"><i style="background:var(--g-${g.id})" aria-hidden="true"></i>${esc(g.nome)} <small>(${ls.length})</small></h2>
     <ul class="lv-list">${ls.map(l => `<li class="lv" data-busca="${esc((l.nome + " " + l.abrev).toLowerCase())}">
-      <a class="lv-ler" href="${linkLivro(l)}"><b>${esc(l.nome)}</b><small>${l.versos.length} cap. · ${l.versos.reduce((a, b) => a + b, 0)} vers.${l.slug === "apocalipse" ? " · estudo completo" : ""}</small></a>
+      <a class="lv-ler" href="${linkLivro(l)}"><b>${esc(l.nome)}</b><small>${l.versos.length} cap. · ${l.versos.reduce((a, b) => a + b, 0)} vers.${l.slug === "apocalipse" || (B.indice || []).includes(l.slug) ? " · com estudo" : ""}</small></a>
       <a class="lv-arc" href="#conexoes-${l.slug}" aria-label="Conexões de ${esc(l.nome)} com os outros livros">Arcos</a></li>`).join("")}</ul>
   </section>`; }).join("")}`;
 }
@@ -1047,7 +1047,7 @@ async function renderBiblia(r){
     await carregarEstrutura();
     if (!B.matriz) B.matriz = await getJSON("data/conexoes/livros.json");
     let m, html, ativo = "livros", pos = () => {};
-    if (r === "livros"){ html = telaLivros(); pos = () => {
+    if (r === "livros"){ if (!B.indice){ try { B.indice = (await getJSON("data/estudo/livros/indice.json")).livros; } catch { B.indice = []; } } html = telaLivros(); pos = () => {
       const q = $("#q-livro"), itens = [...document.querySelectorAll(".lv")];
       q.addEventListener("input", () => { const t = q.value.trim().toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, ""); let k = 0; itens.forEach(li => { const ok = !t || li.dataset.busca.normalize("NFD").replace(/[̀-ͯ]/g, "").includes(t); li.hidden = !ok; if (ok) k++; }); document.querySelectorAll(".lv-grupo").forEach(s => s.hidden = ![...s.querySelectorAll(".lv")].some(li => !li.hidden)); $("#livro-count").textContent = k + " livros"; }); }; }
     else if (r === "biblia"){ if (!B.caps) B.caps = await getJSON("data/conexoes/capitulos.json"); html = telaBiblia(); ativo = "biblia"; pos = montarMega; }
