@@ -1,0 +1,42 @@
+{
+ "livro": "rute", "nome": "Rute",
+ "subtitulo": "A fidelidade que transforma perda em esperança",
+ "introducao": "Rute conta como uma estrangeira moabita, viúva e pobre, escolhe ficar com a sogra Noemi e com o Deus de Israel. Pela bondade de Boaz, o parente resgatador, as duas mulheres recebem casa, família e futuro. A história termina com o nascimento do avô do rei Davi.",
+ "fatos": [
+  {"rotulo": "Autor", "valor": "Anônimo; a tradição judaica atribui a Samuel"},
+  {"rotulo": "Quando", "valor": "Os fatos ocorrem no tempo dos juízes (1:1); o livro foi escrito depois, pois cita Davi (4:17-22)"},
+  {"rotulo": "Onde", "valor": "Moabe e Belém de Judá (1:1-2, 1:19)"},
+  {"rotulo": "Gênero", "valor": "Narrativa histórica curta"},
+  {"rotulo": "Tamanho", "valor": "4 capítulos e 85 versículos"}
+ ],
+ "chave": "1:16",
+ "temas": ["Lealdade e amor que permanecem (hesed)", "Deus cuida dos pobres, das viúvas e dos estrangeiros", "O resgatador que paga o preço", "A providência de Deus nos detalhes do dia a dia"],
+ "cristo": "Boaz, o parente resgatador que paga para restaurar a herança e acolhe a estrangeira, antecipa Cristo, o Redentor. Rute entra na genealogia de Davi (4:17) e, como mostra Mateus 1, na de Jesus.",
+ "secoes": [
+  {"id": "perda", "titulo": "Da perda à escolha", "capitulos": [1], "resumo": "Noemi perde tudo em Moabe e Rute decide segui-la."},
+  {"id": "campo", "titulo": "Graça no campo e na eira", "capitulos": [2, 3], "resumo": "Rute encontra favor em Boaz e pede que ele seja o resgatador."},
+  {"id": "resgate", "titulo": "O resgate", "capitulos": [4], "resumo": "Boaz resgata a herança, casa-se com Rute e nasce Obede."}
+ ],
+ "capitulos": [
+  {"n": 1, "titulo": "Para onde fores, irei", "chave": "1:16",
+   "resumo": "Por causa da fome, Elimeleque vai com a família para Moabe, onde ele e os dois filhos morrem. Noemi decide voltar a Belém. Orfa se despede, mas Rute se apega à sogra e declara que o povo e o Deus de Noemi serão os seus.",
+   "licoes": ["A fidelidade de Rute vai além da obrigação: ela escolhe o Deus de Israel (1:16-17).", "Deus não despreza a dor sincera; Noemi expressa sua amargura sem fingir (1:20-21).", "A volta acontece \"no princípio da sega da cevada\", um primeiro sinal de esperança (1:22)."],
+   "reflexao": "Em que relação você é chamado a permanecer quando seria mais fácil partir?",
+   "quiz": [{"pergunta": "Qual nora decidiu ficar com Noemi?", "opcoes": ["Orfa", "Rute", "Mara", "Raquel"], "correta": 1, "ref": "1:14"}]},
+  {"n": 2, "titulo": "Rute no campo de Boaz", "chave": "2:12",
+   "resumo": "Rute vai colher espigas atrás dos ceifeiros e, \"por acaso\", chega ao campo de Boaz, parente de Elimeleque. Boaz a protege, a alimenta e manda deixar espigas para ela. Noemi reconhece a bondade do SENHOR.",
+   "licoes": ["A lei de Deus previa sobras da colheita para pobres e estrangeiros, e Boaz a cumpre com generosidade (2:15-16).", "Rute buscou refúgio \"debaixo das asas\" do Deus de Israel (2:12).", "O que parece acaso é providência: ela chega justamente ao campo de um parente resgatador (2:3, 2:20)."],
+   "reflexao": "Onde você pode ver a mão de Deus em algo que pareceu acaso?",
+   "quiz": [{"pergunta": "De quem era o campo onde Rute foi colher?", "opcoes": ["Boaz", "Elimeleque", "Obede", "Quiliom"], "correta": 0, "ref": "2:3"}]},
+  {"n": 3, "titulo": "Estende a tua capa", "chave": "3:9",
+   "resumo": "Noemi orienta Rute a ir à eira à noite e deitar-se aos pés de Boaz. Rute pede que ele estenda sua capa sobre ela, pois ele é resgatador. Boaz elogia sua bondade e promete agir, mas há um parente mais próximo.",
+   "licoes": ["Rute pede proteção e compromisso de forma honrosa, usando a linguagem do resgate (3:9).", "Boaz valoriza o caráter de Rute, conhecida por todos como mulher virtuosa (3:11).", "Boaz respeita a ordem da lei antes de agir, mesmo querendo resgatá-la (3:12-13)."],
+   "reflexao": "Como você pode buscar o que é certo sem atropelar o caminho certo?",
+   "quiz": [{"pergunta": "O que Rute pediu a Boaz na eira?", "opcoes": ["Que lhe desse cevada", "Que estendesse a capa sobre ela", "Que a levasse a Moabe", "Que falasse com Noemi"], "correta": 1, "ref": "3:9"}]},
+  {"n": 4, "titulo": "O resgatador e o neto de Noemi", "chave": "4:14",
+   "resumo": "Na porta da cidade, o parente mais próximo desiste do resgate. Boaz compra a herança de Elimeleque diante de testemunhas e se casa com Rute. Nasce Obede, e as mulheres celebram Noemi. Obede será avô de Davi.",
+   "licoes": ["O resgate é feito publicamente e com custo, diante de testemunhas (4:9-10).", "A amargura de Noemi vira louvor: \"Bendito seja o SENHOR\" (4:14).", "Uma estrangeira fiel entra na linhagem do rei Davi (4:17)."],
+   "reflexao": "Que perda sua Deus pode estar transformando em começo?",
+   "quiz": [{"pergunta": "Quem foi o filho de Rute e Boaz?", "opcoes": ["Jessé", "Davi", "Obede", "Perez"], "correta": 2, "ref": "4:13-17"}]}
+ ]
+}
