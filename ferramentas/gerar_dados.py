@@ -20,6 +20,11 @@ R, Q, ESTILO, REGRAS = ns["R"], ns["Q"], ns["ESTILO"], ns["REGRAS"]
 
 biblia = json.loads((DADOS / "fonte-original/biblialivre.json").read_text(encoding="utf-8-sig"))
 livros = {b["nome"]: b for b in biblia[1:]}
+# Erros de digitação da fonte ("água" por "águia"), registrados em data/fontes.json
+for _l, _c, _v in [("Êxodo", 19, 4), ("Levítico", 11, 13), ("Deuteronômio", 14, 12), ("Deuteronômio", 28, 49),
+                   ("Deuteronômio", 32, 11), ("2 Samuel", 1, 23), ("Jó", 39, 27), ("Apocalipse", 12, 14)]:
+    _cap = livros[_l]["capitulos"][_c - 1]
+    _cap[_v - 1] = re.sub(r"\bágua(s?)\b", r"águia\1", _cap[_v - 1])
 ABREV = {"Gn": "Gênesis", "Êx": "Êxodo", "Lv": "Levítico", "Nm": "Números", "Dt": "Deuteronômio", "Js": "Josué",
          "Jz": "Juízes", "2Sm": "2 Samuel", "1Rs": "1 Reis", "2Rs": "2 Reis", "Jó": "Jó", "Sl": "Salmos",
          "Pv": "Provérbios", "Ct": "Cantares", "Is": "Isaías", "Jr": "Jeremias", "Lm": "Lamentações",
@@ -57,6 +62,7 @@ salvar("estudo/apocalipse-at.json", {"livro": "apocalipse",
 salvar("estudo/apocalipse-quadros.json", {"livro": "apocalipse", "estilo": "Realismo pictórico cinematográfico, na tradição da arte sacra clássica.",
        "prompt_estilo": ESTILO, "regras": REGRAS,
        "quadros": [{"id": f"q{i:02d}", "capitulo": int(ref.split(":")[0]), "ref": ref, "titulo": t, "descricao": d,
-                    "at": refs(at), "prompt": ESTILO + p, "imagem": None, "alt": d} for i, (ref, t, d, p, at) in enumerate(Q, 1)]})
+                    "at": refs(at), "prompt": ESTILO + p, "imagem": (f"img/quadros/q{i:02d}.webp" if (RAIZ / f"img/quadros/q{i:02d}.webp").exists() else None),
+                    "credito": ("Ilustração gerada por IA (FLUX.1 Krea, via Hugging Face) a partir do prompt abaixo" if (RAIZ / f"img/quadros/q{i:02d}.webp").exists() else None), "alt": d} for i, (ref, t, d, p, at) in enumerate(Q, 1)]})
 salvar("textos/blivre/at-apocalipse.json", {"versao": "blivre", "trechos": trechos}, compacto=True)
 print(f"{len(Q)} quadros, {sum(len(x) for x in R.values())} conexões, {len(trechos)} trechos do AT")

@@ -939,7 +939,7 @@ const ABAS = [["quadros", "Quadros"], ["simbolos", "Símbolos"], ["palavras", "L
 function cenaHTML(l, q, i, tag){
   const h = tag || "h3";
   return `<figure class="cena" style="margin:0">
-    ${q.img ? `<img src="${esc(q.img)}" alt="${esc(q.alt)}" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover">` : `<span class="tag-prod" aria-hidden="true">Em produção</span><div class="vitral" role="img" aria-label="Ilustração em produção: ${esc(q.alt)}">${vitral(corGrupo(l.grupo), 700 + l.i * 50 + i)}</div>`}
+    ${(q.img || q.imagem) ? `<img src="${esc(q.img || q.imagem)}" loading="lazy" alt="${esc(q.alt)}" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover">` : `<span class="tag-prod" aria-hidden="true">Em produção</span><div class="vitral" role="img" aria-label="Ilustração em produção: ${esc(q.alt)}">${vitral(corGrupo(l.grupo), 700 + l.i * 50 + i)}</div>`}
     <figcaption class="leg"><${h} style="margin:0;font:inherit"><b>${esc(q.titulo)}</b></${h}><p>${esc(q.descricao)} <a href="${linkLivro(l, q.capitulo, parseRef(q.ref).v)}" style="color:#F3E3B0">${esc(l.nome)} ${esc(q.ref)}</a></p></figcaption></figure>`;
 }
 function telaExtras(slug, aba){
@@ -953,7 +953,7 @@ function telaExtras(slug, aba){
     <h2 class="sr">Lista dos quadros</h2>
     <div class="qd-grid">${X.quadros.map((q, i) => `
     <article class="qd" aria-labelledby="qt-${q.id}">
-      <div class="cena" role="img" aria-label="Ilustração (em produção): ${esc(q.alt)}">${q.img ? `<img src="${esc(q.img)}" alt="" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover">` : `<span class="tag-prod" aria-hidden="true">Em produção</span><div class="vitral">${vitral(corGrupo(l.grupo), 700 + l.i * 50 + i)}</div>`}</div>
+      <div class="cena" role="img" aria-label="Ilustração (em produção): ${esc(q.alt)}">${(q.img || q.imagem) ? `<img src="${esc(q.img || q.imagem)}" loading="lazy" alt="" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover">` : `<span class="tag-prod" aria-hidden="true">Em produção</span><div class="vitral">${vitral(corGrupo(l.grupo), 700 + l.i * 50 + i)}</div>`}</div>
       <div class="qd-in"><span class="eyebrow">${i + 1} · ${R(q.ref)}</span><h3 id="qt-${q.id}">${esc(q.titulo)}</h3><p>${esc(q.descricao)}</p>
         <details><summary>Prompt de geração</summary><p lang="en">${esc(q.prompt)}</p></details></div>
     </article>`).join("")}</div>`;
@@ -1944,9 +1944,9 @@ function telaCapitulo(n, alvo){
   const qds = D.quadros.quadros.filter(q => q.capitulo === n);
   const cenaLista = qds.length ? qds : est.cenas;
   const cenas = cenaLista.map((c, i) => `
-    <div class="cena" role="img" aria-label="Ilustração (em produção): ${esc(c.titulo)}, ${esc(c.ref)}. ${esc(c.descricao)}" id="cena-${i}">
-      <span class="tag-prod" aria-hidden="true">Ilustração em produção</span>
-      <div class="vitral">${vitral(sec.cor, n * 10 + i)}${svgIcon(sec.icone, 'class="emb" style="color:#F3E3B0"')}</div>
+    <div class="cena" role="img" aria-label="${c.imagem ? "Ilustração" : "Ilustração (em produção)"}: ${esc(c.titulo)}, ${esc(c.ref)}. ${esc(c.descricao)}" id="cena-${i}">
+      ${c.imagem ? `<img src="${esc(c.imagem)}" alt="" loading="lazy" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover">` : `<span class="tag-prod" aria-hidden="true">Ilustração em produção</span>
+      <div class="vitral">${vitral(sec.cor, n * 10 + i)}${svgIcon(sec.icone, 'class="emb" style="color:#F3E3B0"')}</div>`}
       <div class="leg" aria-hidden="true"><b>${esc(c.titulo)} <small style="font-family:var(--f-ui);letter-spacing:0;opacity:.8">· ${esc(c.ref)}</small></b><p>${esc(c.descricao)}</p></div>
     </div>`).join("");
   return `
@@ -2144,13 +2144,13 @@ function telaQuadros(){
   <h2 class="sr">Lista dos quadros</h2>
   <div class="qd-grid">${Qd.quadros.map((q, i) => { const sec = secaoDe(q.capitulo); return `
     <article class="qd" aria-labelledby="qt-${q.id}">
-      <div class="cena" role="img" aria-label="Ilustração (em produção): ${esc(q.titulo)}. ${esc(q.descricao)}"><span class="tag-prod" aria-hidden="true">Em produção</span><div class="vitral">${vitral(sec.cor, 500 + i)}${svgIcon(sec.icone, 'class="emb" style="color:#F3E3B0"')}</div></div>
+      <div class="cena" role="img" aria-label="${q.imagem ? "Ilustração" : "Ilustração (em produção)"}: ${esc(q.titulo)}. ${esc(q.descricao)}">${q.imagem ? `<img src="${esc(q.imagem)}" alt="" loading="lazy" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover">` : `<span class="tag-prod" aria-hidden="true">Em produção</span><div class="vitral">${vitral(sec.cor, 500 + i)}${svgIcon(sec.icone, 'class="emb" style="color:#F3E3B0"')}</div>`}</div>
       <div class="qd-in">
         <span class="eyebrow">${i + 1} · ${refLink(q.ref)}</span>
         <h3 id="qt-${q.id}">${esc(q.titulo)}</h3>
         <p>${esc(q.descricao)}</p>
         <div>${q.at.map(r => `<span class="at-ref">${esc(r)}</span>`).join("")}</div>
-        <details><summary>Prompt de geração</summary><p>${esc(q.prompt)}</p></details>
+        <details><summary>Prompt de geração</summary>${q.credito ? `<p><i>${esc(q.credito)}.</i></p>` : ""}<p lang="en">${esc(q.prompt)}</p></details>
       </div>
     </article>`; }).join("")}</div>`;
 }
