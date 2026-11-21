@@ -7,7 +7,7 @@
 <meta name="description" content="Bíblia ilustrada, interativa e acessível. Livro de Apocalipse.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Cinzel:wght@500;700&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=Cinzel:wght@500;700&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&family=Noto+Serif+Hebrew:wght@400;600&display=swap">
 <style>
 /* Layout: cabeçalho fixo, leitura em coluna de ~65 caracteres com painel de estudo ao lado; ilustração abre cada capítulo. */
 :root{
@@ -285,6 +285,24 @@ footer.pe{ border-top:1px solid var(--line); padding-block:1.5rem; color:var(--m
 :root[data-movimento="reduzido"] *{ transition:none !important; scroll-behavior:auto !important }
 .arcos-ctrl select{ max-width:100% }
 .prosa a{ overflow-wrap:anywhere }
+
+/* Palavras originais */
+.pal-list{ display:grid; grid-template-columns:repeat(auto-fill, minmax(min(340px,100%),1fr)); gap:.8rem }
+.pal{ background:var(--surface); border:1px solid var(--line); border-radius:var(--radius); padding:1rem; display:grid; gap:.55rem; align-content:start }
+.pal h3{ margin:0; font-size:1.1rem }
+.pal p{ margin:0; font-size:.95rem }
+.pal .meta{ display:flex; gap:.5rem; align-items:center; flex-wrap:wrap; font-size:.88rem }
+.lng{ display:grid; grid-template-columns:auto minmax(0,1fr); gap:.35rem .7rem; margin:0; font-size:.95rem; align-items:baseline }
+.lng dt{ font-size:.72rem; font-weight:700; letter-spacing:.06em; text-transform:uppercase; color:var(--muted); white-space:nowrap }
+.lng dd{ margin:0; overflow-wrap:anywhere }
+.orig{ font-family:"Literata","SBL Greek","Gentium Plus","Noto Serif","Times New Roman",serif; font-size:1.25em; color:var(--ink) }
+.orig[dir="rtl"]{ unicode-bidi:isolate; font-family:"Noto Serif Hebrew","SBL Hebrew","Ezra SIL","Times New Roman",serif; font-size:1.35em }
+.tr{ font-style:italic; color:var(--muted) }
+.stg a{ font-size:.82rem; font-variant-numeric:tabular-nums; margin-right:.3rem }
+.pals{ display:flex; flex-wrap:wrap; gap:.4rem; list-style:none; padding:0; margin:0 }
+.pals button{ font:inherit; font-size:.92rem; padding:.35rem .7rem; min-height:32px; border-radius:99px; border:1px solid var(--line); background:var(--surface-2); color:var(--ink); cursor:pointer }
+.pals button:hover{ border-color:var(--gold) }
+.pals .orig{ font-size:1em; color:var(--muted); margin-left:.3rem }
 </style>
 </head>
 <body>
@@ -303,6 +321,7 @@ footer.pe{ border-top:1px solid var(--line); padding-block:1.5rem; color:var(--m
         <li><a href="#quadros" data-r="quadros">Quadros</a></li>
         <li><a href="#raizes" data-r="raizes">Raízes no AT</a></li>
         <li><a href="#simbolos" data-r="simbolos">Símbolos</a></li>
+        <li><a href="#palavras" data-r="palavras">Línguas originais</a></li>
         <li><a href="#quiz" data-r="quiz">Quiz</a></li>
         <li><a href="#sobre" data-r="sobre">Sobre</a></li>
       </ul>
@@ -378,6 +397,14 @@ footer.pe{ border-top:1px solid var(--line); padding-block:1.5rem; color:var(--m
     <h2 id="at-t"></h2>
     <div id="at-body" style="display:grid;gap:1rem"></div>
     <div class="dlg-foot"><a class="btn" href="#raizes" id="at-all">Ver todas as conexões</a><button class="btn primary" value="ok">Fechar</button></div>
+  </form>
+</dialog>
+
+<dialog id="pal-dlg" aria-labelledby="pal-t">
+  <form method="dialog" class="dlg-in">
+    <span class="eyebrow">Palavra no original</span>
+    <div id="pal-body"></div>
+    <div class="dlg-foot"><a class="btn" href="#palavras" id="pal-all">Todas as palavras</a><button class="btn primary" value="ok">Fechar</button></div>
   </form>
 </dialog>
 
@@ -513,6 +540,48 @@ document.addEventListener("click", e => {
   const b = e.target.closest("[data-sym]"); if (b){ abrirSimbolo(b.dataset.sym); return; }
   if (e.target.closest("#simbolo a")) $("#simbolo").close();
 });
+
+
+/* ---------- Palavras nas línguas originais ---------- */
+const LANG = { hebraico:["he","rtl","Hebraico"], aramaico:["arc","rtl","Aramaico"] };
+function strongLinks(sx){
+  if (!sx) return "";
+  return `<span class="stg">${sx.split(/,\s*/).map(c => { const m = c.match(/^([GH])(\d+)$/); return m ? `<a href="https://biblehub.com/${m[1] === "G" ? "greek" : "hebrew"}/${m[2]}.htm" target="_blank" rel="noopener" aria-label="Strong ${c}, abre o léxico em nova aba">${c}</a>` : esc(c); }).join("")}</span>`;
+}
+function palHTML(w, nivel){
+  const h = nivel || "h3", g = w.grego;
+  return `<${h} id="pal-${w.id}-t">${esc(w.pt)}</${h}>
+    <div class="meta">${w.interpretacao ? '<span class="badge int">Envolve interpretação</span>' : ""} ${w.refs.map(refLink).join(", ")}</div>
+    <dl class="lng">
+      <dt>Grego</dt><dd><span class="orig" lang="grc">${esc(g.lema)}</span> <span class="tr">${esc(g.translit)}</span> ${strongLinks(g.strong)}<br><small>${esc(w.sentido)}</small></dd>
+      ${w.semitico.map(x => { const [l, d, nome] = LANG[x.lingua]; return `<dt>${nome}</dt><dd><span class="orig" lang="${l}" dir="${d}">${esc(x.lema)}</span> <span class="tr">${esc(x.translit)}</span> ${strongLinks(x.strong)}${x.ref ? ` <small>(${esc(x.ref)})</small>` : ""}</dd>`; }).join("")}
+      <dt>Latim</dt><dd><span class="orig" lang="la">${esc(w.latim.forma)}</span>${w.latim.nota ? `<br><small>${esc(w.latim.nota)}</small>` : ""}</dd>
+      ${w.outras.filter(o => o.lingua !== "latim" || !w.latim.nota).map(o => `<dt>${esc(o.lingua)}</dt><dd><span class="orig">${esc(o.forma)}</span>${o.nota ? `<br><small>${esc(o.nota)}</small>` : ""}</dd>`).join("")}
+    </dl>
+    <p>${esc(w.explicacao)}</p>`;
+}
+const palDoCap = n => (D.palavras ? D.palavras.palavras : []).filter(w => w.refs.some(r => parseRef(r).c === n));
+function abrirPalavra(id){
+  const w = D.palavras.palavras.find(x => x.id === id); if (!w) return;
+  $("#pal-body").innerHTML = `<div class="pal" style="border:0;padding:0">${palHTML(w, "h2").replace('id="pal-' + w.id + '-t"', 'id="pal-t"')}</div>`;
+  $("#pal-dlg").showModal();
+}
+document.addEventListener("click", e => {
+  const b = e.target.closest("[data-pal]"); if (b){ abrirPalavra(b.dataset.pal); return; }
+  if (e.target.closest("#pal-dlg a[href^='#']")) $("#pal-dlg").close();
+});
+function telaPalavras(){
+  const P = D.palavras;
+  return `
+  <header class="cap-h"><span class="eyebrow">Estudo do vocabulário</span><h1>Palavras nas línguas originais</h1></header>
+  <p style="color:var(--muted);max-width:70ch">João escreveu em grego, mas pensava com as Escrituras hebraicas e aramaicas. Cada palavra mostra o grego original, a raiz hebraica ou aramaica, o latim da Vulgata e, quando existe, outra língua do caminho. Os números de Strong abrem o léxico.</p>
+  <div class="busca"><label class="sr" for="q-pal">Buscar palavra</label><input id="q-pal" type="search" placeholder="Buscar: cordeiro, amém, G721, shofar…" autocomplete="off">
+    <span class="badge int">Envolve interpretação</span></div>
+  <p class="sr" id="pal-count" role="status" aria-live="polite"></p>
+  <h2 class="sr">Lista de palavras</h2>
+  <div class="pal-list">${P.palavras.map(w => `<article class="pal" aria-labelledby="pal-${w.id}-t" data-busca="${esc([w.pt, w.grego.lema, w.grego.translit, w.grego.strong, w.sentido, w.latim.forma, ...w.semitico.flatMap(x => [x.lema, x.translit, x.strong]), w.explicacao].join(" ").toLowerCase())}">${palHTML(w)}</article>`).join("")}</div>
+  <section class="block" aria-labelledby="t-pal-f"><h2 id="t-pal-f">Fontes</h2><ul>${P.fontes.map(f => `<li><b>${esc(f.nome)}</b>: ${esc(f.detalhe)}</li>`).join("")}</ul></section>`;
+}
 
 /* ---------- Quiz ---------- */
 function quizHTML(q, key){
@@ -672,6 +741,7 @@ function telaCapitulo(n, alvo){
       <section class="card" aria-labelledby="t-lic"><h2 id="t-lic">O que este capítulo ensina</h2><ul>${est.licoes.map(l => `<li>${esc(l).replace(/\((\d+:\d+(?:-\d+)?)(?:, (\d+:\d+(?:-\d+)?))?\)/g, (m, a, b) => "(" + refLink(a) + (b ? ", " + refLink(b) : "") + ")")}</li>`).join("")}</ul></section>
       ${usados.length ? `<section class="card" aria-labelledby="t-sym"><h2 id="t-sym">Símbolos neste capítulo</h2><ul class="syms">${usados.map(id => { const s = D.estudo.simbolos.find(x => x.id === id); return `<li><button type="button" data-sym="${id}">${esc(s.termo)}</button></li>`; }).join("")}</ul></section>` : ""}
       ${atDoCap(n).length ? `<section class="card" aria-labelledby="t-at"><h2 id="t-at">Raízes no Antigo Testamento</h2><p style="color:var(--muted);font-size:.9rem;margin-bottom:.6rem">João pinta suas visões com imagens das Escrituras de Israel. Toque para ler o texto original.</p><ul class="at-list">${atDoCap(n).map((it, i) => `<li><button type="button" class="lnk" data-at="${n}:0" data-item="${i}">Ap ${esc(it.versos)}</button> ${esc(it.nota)}<div>${it.refs.map(r => `<span class="at-ref">${esc(r)}</span>`).join("")}</div></li>`).join("")}</ul></section>` : ""}
+      ${palDoCap(n).length ? `<section class="card" aria-labelledby="t-pal"><h2 id="t-pal">Palavras no original</h2><p style="color:var(--muted);font-size:.9rem;margin-bottom:.6rem">Grego, hebraico, aramaico e latim por trás do texto.</p><ul class="pals">${palDoCap(n).map(w => `<li><button type="button" data-pal="${w.id}">${esc(w.pt)}<span class="orig" lang="grc">${esc(w.grego.lema.split(" ")[0])}</span></button></li>`).join("")}</ul></section>` : ""}
       <section class="card" aria-labelledby="t-ref"><h2 id="t-ref">Para refletir</h2><p>${esc(est.reflexao)}</p></section>
       <section class="card" aria-labelledby="t-qz"><h2 id="t-qz">Teste o que aprendeu</h2>${est.quiz.map((q, i) => quizHTML(q, `c${n}q${i}`)).join("")}</section>
     </aside>
@@ -906,6 +976,7 @@ function render(){
   if ((m = r.match(/^cap-(\d+)(?:-v(\d+))?$/)) && +m[1] >= 1 && +m[1] <= 22){ html = telaCapitulo(+m[1]); ativo = "cap"; }
   else if (r === "igrejas"){ html = telaIgrejas(); ativo = "igrejas"; }
   else if (r === "simbolos"){ html = telaSimbolos(); ativo = "simbolos"; }
+  else if (r === "palavras"){ html = telaPalavras(); ativo = "palavras"; }
   else if (r === "raizes"){ html = telaRaizes(); ativo = "raizes"; }
   else if (r === "quadros"){ html = telaQuadros(); ativo = "quadros"; }
   else if (r === "quiz"){ html = telaQuiz(); ativo = "quiz"; }
@@ -968,6 +1039,14 @@ function posRender(ativo, m){
     });
   }
   if (ativo === "raizes") montarArcos();
+  if (ativo === "palavras"){
+    const q = $("#q-pal"), cards = [...document.querySelectorAll(".pal")];
+    q.addEventListener("input", () => {
+      const t = q.value.trim().toLowerCase(); let k = 0;
+      cards.forEach(c => { const ok = !t || c.dataset.busca.includes(t); c.hidden = !ok; if (ok) k++; });
+      $("#pal-count").textContent = k + " palavras encontradas";
+    });
+  }
   if (ativo === "quiz"){
     atualizarPlacar();
     $("#zerar").addEventListener("click", () => { for (const k in respostas) delete respostas[k]; store.set("respostas", respostas); render(); });
@@ -977,8 +1056,8 @@ function posRender(ativo, m){
 window.addEventListener("hashchange", render);
 
 /* ---------- Carregar dados (camada trocável: troque a versão em fontes.json) ---------- */
-Promise.all(["data/fontes.json", "data/livros.json", "data/estudo/apocalipse.json", "data/estudo/apocalipse-at.json", "data/estudo/apocalipse-quadros.json", "data/estudo/linha-do-tempo.json"].map(u => fetch(u).then(r => { if (!r.ok) throw new Error(u); return r.json(); })))
-  .then(([fontes, livros, estudo, at, quadros, linha]) => { D.fontes = fontes; D.livros = livros; D.estudo = estudo; D.at = at; D.quadros = quadros; D.linha = linha;
+Promise.all(["data/fontes.json", "data/livros.json", "data/estudo/apocalipse.json", "data/estudo/apocalipse-at.json", "data/estudo/apocalipse-quadros.json", "data/estudo/linha-do-tempo.json", "data/estudo/apocalipse-palavras.json"].map(u => fetch(u).then(r => { if (!r.ok) throw new Error(u); return r.json(); })))
+  .then(([fontes, livros, estudo, at, quadros, linha, palavras]) => { D.palavras = palavras; D.fontes = fontes; D.livros = livros; D.estudo = estudo; D.at = at; D.quadros = quadros; D.linha = linha;
     return Promise.all([`data/textos/${fontes.padrao}/apocalipse.json`, `data/textos/${fontes.padrao}/at-apocalipse.json`].map(u => fetch(u).then(r => r.json()))); })
   .then(([texto, atT]) => { D.texto = texto; D.atTextos = atT; render(); })
   .catch(err => { view.innerHTML = `<p class="carregando" role="alert">Não foi possível carregar o livro (${esc(err.message)}). Recarregue a página.</p>`; });
