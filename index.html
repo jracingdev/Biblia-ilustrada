@@ -470,6 +470,8 @@ details.lei > summary{ cursor:pointer; padding:.6rem .8rem; display:flex; flex-w
 .chave-livro{ margin:0; padding:1rem 1.2rem; border-left:4px solid var(--gold); background:var(--surface); border-radius:var(--radius); font-family:var(--f-text); font-size:1.15rem } .chave-livro p{ margin:0 0 .4rem } .chave-livro cite{ font-style:normal; font-family:var(--f-ui); font-weight:700; font-size:.9rem }
 .temas{ display:grid; grid-template-columns:repeat(auto-fill, minmax(min(16rem,100%),1fr)); gap:.5rem; padding:0; list-style:none; margin:0 } .temas li{ background:var(--surface); border:1px solid var(--line); border-radius:var(--radius); padding:.7rem .9rem; font-weight:700 }
 .sec .ico{ font-weight:700; font-size:1.25rem }
+.contador{ margin:.6rem 0 0; font-variant-numeric:tabular-nums }
+.contador b{ color:var(--fg) }
 </style>
 </head>
 <body>
@@ -509,6 +511,7 @@ details.lei > summary{ cursor:pointer; padding:.6rem .8rem; display:flex; flex-w
 <footer class="pe">
   <div class="wrap">
     Texto bíblico: Bíblia Livre (BLIVRE), © Diego Santos, Mario Sérgio e Marco Teles, licença <a href="https://creativecommons.org/licenses/by/4.0/br/" target="_blank" rel="noopener">CC BY 4.0 Brasil</a>. Veja a <a href="#sobre">fonte completa</a>. Protótipo: ilustrações em produção.
+    <p id="contador" class="contador" hidden></p>
   </div>
 </footer>
 
@@ -939,7 +942,7 @@ const ABAS = [["quadros", "Quadros"], ["simbolos", "Símbolos"], ["palavras", "L
 function cenaHTML(l, q, i, tag){
   const h = tag || "h3";
   return `<figure class="cena" style="margin:0">
-    ${q.img ? `<img src="${esc(q.img)}" alt="${esc(q.alt)}" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover">` : `<span class="tag-prod" aria-hidden="true">Em produção</span><div class="vitral" role="img" aria-label="Ilustração em produção: ${esc(q.alt)}">${vitral(corGrupo(l.grupo), 700 + l.i * 50 + i)}</div>`}
+    ${(q.img || q.imagem) ? `<img src="${esc(q.img || q.imagem)}" loading="lazy" alt="${esc(q.alt)}" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover">` : `<span class="tag-prod" aria-hidden="true">Em produção</span><div class="vitral" role="img" aria-label="Ilustração em produção: ${esc(q.alt)}">${vitral(corGrupo(l.grupo), 700 + l.i * 50 + i)}</div>`}
     <figcaption class="leg"><${h} style="margin:0;font:inherit"><b>${esc(q.titulo)}</b></${h}><p>${esc(q.descricao)} <a href="${linkLivro(l, q.capitulo, parseRef(q.ref).v)}" style="color:#F3E3B0">${esc(l.nome)} ${esc(q.ref)}</a></p></figcaption></figure>`;
 }
 function telaExtras(slug, aba){
@@ -953,7 +956,7 @@ function telaExtras(slug, aba){
     <h2 class="sr">Lista dos quadros</h2>
     <div class="qd-grid">${X.quadros.map((q, i) => `
     <article class="qd" aria-labelledby="qt-${q.id}">
-      <div class="cena" role="img" aria-label="Ilustração (em produção): ${esc(q.alt)}">${q.img ? `<img src="${esc(q.img)}" alt="" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover">` : `<span class="tag-prod" aria-hidden="true">Em produção</span><div class="vitral">${vitral(corGrupo(l.grupo), 700 + l.i * 50 + i)}</div>`}</div>
+      <div class="cena" role="img" aria-label="Ilustração (em produção): ${esc(q.alt)}">${(q.img || q.imagem) ? `<img src="${esc(q.img || q.imagem)}" loading="lazy" alt="" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover">` : `<span class="tag-prod" aria-hidden="true">Em produção</span><div class="vitral">${vitral(corGrupo(l.grupo), 700 + l.i * 50 + i)}</div>`}</div>
       <div class="qd-in"><span class="eyebrow">${i + 1} · ${R(q.ref)}</span><h3 id="qt-${q.id}">${esc(q.titulo)}</h3><p>${esc(q.descricao)}</p>
         <details><summary>Prompt de geração</summary><p lang="en">${esc(q.prompt)}</p></details></div>
     </article>`).join("")}</div>`;
@@ -1944,9 +1947,9 @@ function telaCapitulo(n, alvo){
   const qds = D.quadros.quadros.filter(q => q.capitulo === n);
   const cenaLista = qds.length ? qds : est.cenas;
   const cenas = cenaLista.map((c, i) => `
-    <div class="cena" role="img" aria-label="Ilustração (em produção): ${esc(c.titulo)}, ${esc(c.ref)}. ${esc(c.descricao)}" id="cena-${i}">
-      <span class="tag-prod" aria-hidden="true">Ilustração em produção</span>
-      <div class="vitral">${vitral(sec.cor, n * 10 + i)}${svgIcon(sec.icone, 'class="emb" style="color:#F3E3B0"')}</div>
+    <div class="cena" role="img" aria-label="${c.imagem ? "Ilustração" : "Ilustração (em produção)"}: ${esc(c.titulo)}, ${esc(c.ref)}. ${esc(c.descricao)}" id="cena-${i}">
+      ${c.imagem ? `<img src="${esc(c.imagem)}" alt="" loading="lazy" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover">` : `<span class="tag-prod" aria-hidden="true">Ilustração em produção</span>
+      <div class="vitral">${vitral(sec.cor, n * 10 + i)}${svgIcon(sec.icone, 'class="emb" style="color:#F3E3B0"')}</div>`}
       <div class="leg" aria-hidden="true"><b>${esc(c.titulo)} <small style="font-family:var(--f-ui);letter-spacing:0;opacity:.8">· ${esc(c.ref)}</small></b><p>${esc(c.descricao)}</p></div>
     </div>`).join("");
   return `
@@ -2144,13 +2147,13 @@ function telaQuadros(){
   <h2 class="sr">Lista dos quadros</h2>
   <div class="qd-grid">${Qd.quadros.map((q, i) => { const sec = secaoDe(q.capitulo); return `
     <article class="qd" aria-labelledby="qt-${q.id}">
-      <div class="cena" role="img" aria-label="Ilustração (em produção): ${esc(q.titulo)}. ${esc(q.descricao)}"><span class="tag-prod" aria-hidden="true">Em produção</span><div class="vitral">${vitral(sec.cor, 500 + i)}${svgIcon(sec.icone, 'class="emb" style="color:#F3E3B0"')}</div></div>
+      <div class="cena" role="img" aria-label="${q.imagem ? "Ilustração" : "Ilustração (em produção)"}: ${esc(q.titulo)}. ${esc(q.descricao)}">${q.imagem ? `<img src="${esc(q.imagem)}" alt="" loading="lazy" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover">` : `<span class="tag-prod" aria-hidden="true">Em produção</span><div class="vitral">${vitral(sec.cor, 500 + i)}${svgIcon(sec.icone, 'class="emb" style="color:#F3E3B0"')}</div>`}</div>
       <div class="qd-in">
         <span class="eyebrow">${i + 1} · ${refLink(q.ref)}</span>
         <h3 id="qt-${q.id}">${esc(q.titulo)}</h3>
         <p>${esc(q.descricao)}</p>
         <div>${q.at.map(r => `<span class="at-ref">${esc(r)}</span>`).join("")}</div>
-        <details><summary>Prompt de geração</summary><p>${esc(q.prompt)}</p></details>
+        <details><summary>Prompt de geração</summary>${q.credito ? `<p><i>${esc(q.credito)}.</i></p>` : ""}<p lang="en">${esc(q.prompt)}</p></details>
       </div>
     </article>`; }).join("")}</div>`;
 }
@@ -2304,6 +2307,24 @@ Promise.all(["data/fontes.json", "data/livros.json", "data/estudo/apocalipse.jso
     return Promise.all([`data/textos/${fontes.padrao}/apocalipse.json`, `data/textos/${fontes.padrao}/at-apocalipse.json`].map(u => fetch(u).then(r => r.json()))); })
   .then(([texto, atT]) => { D.texto = texto; D.atTextos = atT; render(); })
   .catch(err => { view.innerHTML = `<p class="carregando" role="alert">Não foi possível carregar o livro (${esc(err.message)}). Recarregue a página.</p>`; });
+})();
+
+/* ---------- Contador de acessos (anônimo, sem cookies; serviço Abacus) ---------- */
+(function contador(){
+  const el = document.getElementById("contador"); if (!el) return;
+  const API = "https://abacus.jasoncameron.dev", NS = "biblia-hakham-jracingdev";
+  const publico = location.hostname === "jracingdev.github.io";
+  const ls = (k, v) => { try { if (v === undefined) return localStorage.getItem(k); localStorage.setItem(k, v); } catch { return null; } };
+  const ss = (k, v) => { try { if (v === undefined) return sessionStorage.getItem(k); sessionStorage.setItem(k, v); } catch { return null; } };
+  const novoVisitante = publico && !ls("hk-visitante"), novaVisita = publico && !ss("hk-visita");
+  const pedir = (acao, chave) => fetch(`${API}/${acao}/${NS}/${chave}`).then(r => r.ok ? r.json() : null).then(j => j && typeof j.value === "number" ? j.value : null).catch(() => null);
+  Promise.all([pedir(novoVisitante ? "hit" : "get", "visitantes"), pedir(novaVisita ? "hit" : "get", "acessos")]).then(([v, a]) => {
+    if (v === null && a === null) return;
+    if (novoVisitante) ls("hk-visitante", "1"); if (novaVisita) ss("hk-visita", "1");
+    const f = n => n === null ? "—" : n.toLocaleString("pt-BR");
+    el.innerHTML = `<b>${f(v)}</b> pessoas já visitaram · <b>${f(a)}</b> acessos <small>(contagem anônima, sem cookies)</small>`;
+    el.hidden = false;
+  });
 })();
 </script>
 </body>
