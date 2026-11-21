@@ -12,7 +12,7 @@
 /* Layout: cabeçalho fixo, leitura em coluna de ~65 caracteres com painel de estudo ao lado; ilustração abre cada capítulo. */
 :root{
   --bg:#F2F3F7; --surface:#FFFFFF; --surface-2:#E7E9F1; --fg:#1A1F33; --muted:#535B75; --line:#CDD1DF;
-  --lapis:#27458F; --gold:#9A6E14; --gold-soft:#F3E6C4; --ok:#1F6B45; --bad:#A3283A; --focus:#C2410C;
+  --lapis:#27458F; --gold:#7A570C; --gold-soft:#F3E6C4; --ok:#1F6B45; --bad:#A3283A; --focus:#C2410C;
   --f-display:"Cinzel","Trajan Pro",Georgia,serif;
   --f-ui:"Atkinson Hyperlegible",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
   --f-text:"Literata",Georgia,"Times New Roman",serif;
@@ -111,7 +111,7 @@ main{ padding-block:1.5rem 4rem }
 .chip.lido::after{ content:""; position:absolute; top:3px; right:3px; width:7px; height:7px; border-radius:50%; background:var(--gold) }
 @media (max-width:640px){ .sec{ grid-template-columns:48px 1fr } .chips{ grid-column:1 / -1; justify-content:flex-start } }
 
-.lentes{ display:grid; grid-template-columns:repeat(auto-fit, minmax(240px,1fr)); gap:.8rem }
+.lentes{ display:grid; grid-template-columns:repeat(auto-fit, minmax(min(240px,100%),1fr)); gap:.8rem }
 .lente{ background:var(--surface); border:1px solid var(--line); border-radius:var(--radius); padding:1rem }
 .lente h3{ margin:0 0 .3rem; font-size:1rem; color:var(--lapis) }
 .lente p{ margin:0; font-size:.94rem; color:var(--muted) }
@@ -199,7 +199,7 @@ aside.estudo{ display:grid; gap:1rem; position:sticky; top:calc(env(safe-area-in
 /* Símbolos */
 .busca{ display:flex; gap:.6rem; flex-wrap:wrap; align-items:center; margin-bottom:1rem }
 .busca input{ min-height:46px; border-radius:999px; border:1.5px solid var(--line); background:var(--surface); padding:0 1rem; width:min(420px, 100%) }
-.sim-list{ display:grid; grid-template-columns:repeat(auto-fill, minmax(280px,1fr)); gap:.8rem }
+.sim-list{ display:grid; grid-template-columns:repeat(auto-fill, minmax(min(280px,100%),1fr)); gap:.8rem }
 .sim{ background:var(--surface); border:1px solid var(--line); border-radius:var(--radius); padding:1rem; display:grid; gap:.45rem; align-content:start }
 .sim h3{ margin:0; font-size:1.05rem }
 .sim p{ margin:0; font-size:.95rem }
@@ -212,9 +212,9 @@ aside.estudo{ display:grid; gap:1rem; position:sticky; top:calc(env(safe-area-in
 /* Sobre */
 .prosa{ max-width:72ch }
 .prosa h2{ font-family:var(--f-display); letter-spacing:.04em; margin-top:2.2rem }
-.credito{ font-family:var(--f-text); background:var(--surface); border:1px solid var(--line); border-radius:var(--radius); padding:1rem; font-size:.95rem }
-.tbl{ overflow-x:auto; border:1px solid var(--line); border-radius:var(--radius) }
-.tbl table{ border-collapse:collapse; width:100%; min-width:520px; background:var(--surface) }
+.credito{ overflow-wrap:anywhere; font-family:var(--f-text); background:var(--surface); border:1px solid var(--line); border-radius:var(--radius); padding:1rem; font-size:.95rem }
+.tbl{ max-width:100%; overflow-x:auto; border:1px solid var(--line); border-radius:var(--radius) }
+.tbl table{ border-collapse:collapse; width:100%; background:var(--surface) }
 .tbl th,.tbl td{ text-align:left; padding:.6rem .8rem; border-bottom:1px solid var(--line); vertical-align:top; font-size:.93rem }
 .tbl th{ font-size:.78rem; text-transform:uppercase; letter-spacing:.08em; color:var(--muted) }
 .flow{ list-style:none; padding:0; display:grid; gap:.6rem; counter-reset:f }
@@ -222,7 +222,7 @@ aside.estudo{ display:grid; gap:1rem; position:sticky; top:calc(env(safe-area-in
 .flow li::before{ content:counter(f); width:32px; height:32px; border-radius:50%; background:var(--lapis); color:var(--bg); display:grid; place-items:center; font-weight:700 }
 .flow b{ display:block }
 
-.atb{ font-family:var(--f-ui); font-size:.62em; font-weight:700; letter-spacing:.04em; vertical-align:.3em; margin-left:.35rem; padding:.1rem .4rem; border-radius:6px; border:1.5px solid var(--gold); background:transparent; color:var(--gold); cursor:pointer; line-height:1.3 }
+.atb{ font-family:var(--f-ui); font-size:.62em; font-weight:700; letter-spacing:.04em; vertical-align:.3em; margin-left:.35rem; padding:.1rem .4rem; min-width:32px; min-height:24px; border-radius:6px; border:1.5px solid var(--gold); background:transparent; color:var(--gold); cursor:pointer; line-height:1.3 }
 .atb:hover{ background:var(--gold-soft) }
 .at-list{ list-style:none; padding:0 !important; display:grid; gap:.6rem }
 .at-list li{ border-top:1px solid var(--line); padding-top:.55rem }
@@ -235,14 +235,14 @@ aside.estudo{ display:grid; gap:1rem; position:sticky; top:calc(env(safe-area-in
 .at-bloco h3{ margin:0; font-size:1rem }
 .at-bloco blockquote{ margin:0; font-family:var(--f-text); line-height:1.65 }
 .at-bloco sup{ font-family:var(--f-ui); font-size:.7em; color:var(--gold); font-weight:700; margin-right:.2rem }
-.ot-books{ display:grid; grid-template-columns:repeat(auto-fill, minmax(260px,1fr)); gap:.8rem }
+.ot-books{ display:grid; grid-template-columns:repeat(auto-fill, minmax(min(260px,100%),1fr)); gap:.8rem }
 .ot-book{ background:var(--surface); border:1px solid var(--line); border-radius:var(--radius); padding:1rem }
 .ot-book h3{ margin:0 0 .2rem; display:flex; justify-content:space-between; gap:.5rem; align-items:baseline }
 .ot-book h3 span{ font-size:.85rem; color:var(--muted); font-variant-numeric:tabular-nums }
 .ot-bar{ height:6px; border-radius:99px; background:var(--surface-2); overflow:hidden; margin:.3rem 0 .6rem }
 .ot-bar i{ display:block; height:100%; background:var(--gold) }
 .ot-book ul{ margin:0; padding-left:1rem; font-size:.92rem; display:grid; gap:.25rem }
-.qd-grid{ display:grid; grid-template-columns:repeat(auto-fill, minmax(300px,1fr)); gap:1rem }
+.qd-grid{ display:grid; grid-template-columns:repeat(auto-fill, minmax(min(300px,100%),1fr)); gap:1rem }
 .qd{ background:var(--surface); border:1px solid var(--line); border-radius:var(--radius); overflow:hidden; display:grid; align-content:start }
 .qd .cena{ border-radius:0; aspect-ratio:16 / 9 }
 .qd .cena .leg{ display:none }
@@ -256,8 +256,8 @@ aside.estudo{ display:grid; gap:1rem; position:sticky; top:calc(env(safe-area-in
 @media (prefers-color-scheme: dark){ :root:not([data-theme="light"]):not([data-tema="claro"]){ --g-lei:#F0A06A; --g-historicos:#7FD18E; --g-poeticos:#7DB6F0; --g-maiores:#C69AF0; --g-menores:#FF8FA6 } }
 :root[data-theme="dark"]:not([data-tema="claro"]), :root[data-tema="escuro"]{ --g-lei:#F0A06A; --g-historicos:#7FD18E; --g-poeticos:#7DB6F0; --g-maiores:#C69AF0; --g-menores:#FF8FA6 }
 :root[data-contraste="alto"]{ --g-lei:#FFB86B; --g-historicos:#7CFF9E; --g-poeticos:#6FD3FF; --g-maiores:#E2B3FF; --g-menores:#FF9AA5 }
-.arcos{ background:var(--surface); border:1px solid var(--line); border-radius:16px; padding:1rem; margin-top:1.2rem; display:grid; gap:.8rem }
-.arcos-ctrl{ display:flex; flex-wrap:wrap; gap:.4rem; align-items:center }
+.arcos{ grid-template-columns:minmax(0,1fr); background:var(--surface); border:1px solid var(--line); border-radius:16px; padding:1rem; margin-top:1.2rem; display:grid; gap:.8rem }
+.arcos-ctrl{ min-width:0; display:flex; flex-wrap:wrap; gap:.4rem; align-items:center }
 .arcos-ctrl .lbl{ font-size:.8rem; font-weight:700; color:var(--muted); margin-right:.3rem; text-transform:uppercase; letter-spacing:.08em }
 .pill{ min-height:34px; padding:.25rem .7rem; border-radius:99px; border:1.5px solid var(--line); background:var(--surface); cursor:pointer; font-size:.85rem; font-weight:700; font-variant-numeric:tabular-nums; display:inline-flex; align-items:center; gap:.4rem }
 .pill[aria-pressed="true"]{ background:var(--gold-soft); border-color:var(--gold) }
@@ -283,6 +283,8 @@ footer.pe{ border-top:1px solid var(--line); padding-block:1.5rem; color:var(--m
 .carregando{ padding:3rem 0; color:var(--muted) }
 @media (prefers-reduced-motion: reduce){ *{ transition:none !important; scroll-behavior:auto !important } }
 :root[data-movimento="reduzido"] *{ transition:none !important; scroll-behavior:auto !important }
+.arcos-ctrl select{ max-width:100% }
+.prosa a{ overflow-wrap:anywhere }
 </style>
 </head>
 <body>
@@ -312,6 +314,7 @@ footer.pe{ border-top:1px solid var(--line); padding-block:1.5rem; color:var(--m
   </div>
 </header>
 
+<p class="sr" id="anuncio" role="status" aria-live="polite"></p>
 <main id="conteudo" tabindex="-1">
   <div class="wrap" id="view"><p class="carregando" role="status">Carregando o livro…</p></div>
 </main>
@@ -382,6 +385,8 @@ footer.pe{ border-top:1px solid var(--line); padding-block:1.5rem; color:var(--m
 (() => {
 "use strict";
 const $ = (s, r = document) => r.querySelector(s);
+document.documentElement.lang = "pt-BR";
+const anunciar = t => { const a = document.getElementById("anuncio"); if (!a) return; a.textContent = ""; setTimeout(() => { a.textContent = t; }, 60); };
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const store = {
   get(k, d){ try { const v = localStorage.getItem("bi:" + k); return v == null ? d : JSON.parse(v); } catch { return d; } },
@@ -530,7 +535,8 @@ document.addEventListener("submit", e => {
   const novo = document.createElement("div"); novo.innerHTML = quizHTML(item.q, item.key);
   f.replaceWith(novo.firstElementChild);
   atualizarPlacar();
-  document.querySelector(`form[data-q="${item.key}"] .fb`)?.focus?.();
+  anunciar((+sel.value === item.q.correta ? "Resposta certa." : "Resposta errada. A certa é: " + item.q.opcoes[item.q.correta] + ".") + " Veja Apocalipse " + item.q.ref + ".");
+  document.querySelector(`form[data-q="${item.key}"] button`)?.focus();
 });
 document.addEventListener("click", e => {
   const b = e.target.closest("[data-refazer]"); if (!b) return;
@@ -639,7 +645,7 @@ function telaCapitulo(n, alvo){
   <div class="cap-grid">
     <article aria-labelledby="t-cap" style="min-width:0">
       <figure class="ilus">
-        <div class="ilus-slides" id="slides" tabindex="0" aria-label="Cenas do capítulo ${n}">${cenas}</div>
+        <div class="ilus-slides" id="slides" tabindex="0" role="region" aria-roledescription="carrossel" aria-label="Quadros do capítulo ${n}. Use as setas para mudar de quadro">${cenas}</div>
         ${cenaLista.length > 1 ? `<div class="ilus-ctrl"><small id="cena-n" aria-live="polite">Quadro 1 de ${cenaLista.length}</small><span class="seg"><button class="btn" type="button" data-cena="-1" aria-label="Cena anterior">‹</button><button class="btn" type="button" data-cena="1" aria-label="Próxima cena">›</button></span></div>` : ""}
       </figure>
       <header class="cap-h">
@@ -654,7 +660,7 @@ function telaCapitulo(n, alvo){
       </div>
       <h2 class="sr">Texto de Apocalipse ${n}</h2>
       <div class="texto" lang="pt-BR">
-        ${versos.map(v => `<p id="v${v.n}" data-t="${esc(cap.versiculos[v.n - 1].texto)}" class="${kr && v.n >= kr.v && v.n <= kr.f ? "chave" : ""}"><sup aria-label="versículo ${v.n}">${v.n}</sup>${v.html}${atDoVerso(n, v.n).length ? `<button type="button" class="atb" data-at="${n}:${v.n}" aria-label="Ver raízes no Antigo Testamento do versículo ${v.n}">AT</button>` : ""}</p>`).join("")}
+        ${versos.map(v => `<p id="v${v.n}" data-t="${esc(cap.versiculos[v.n - 1].texto)}" class="${kr && v.n >= kr.v && v.n <= kr.f ? "chave" : ""}"><sup><span class="sr">versículo </span>${v.n}</sup>${v.html}${atDoVerso(n, v.n).length ? `<button type="button" class="atb" data-at="${n}:${v.n}" aria-label="Ver raízes no Antigo Testamento do versículo ${v.n}">AT</button>` : ""}</p>`).join("")}
       </div>
       <p class="fonte-linha">Texto: Bíblia Livre (BLIVRE), CC BY 4.0 Brasil. Palavras sublinhadas são símbolos: toque para ver o significado. A borda dourada marca o versículo-chave.</p>
       <nav class="pag" aria-label="Navegação entre capítulos">
@@ -693,7 +699,7 @@ function telaIgrejas(){
         ${E.igrejas.map((g, i) => { const [x, y] = px(g); return `<g class="pt" data-ig="${i}" tabindex="0" role="button" aria-label="${i + 1}. ${esc(g.nome)}"><circle cx="${x}" cy="${y}" r="11"/><text x="${x}" y="${y + 4}" text-anchor="middle" style="font-size:11px">${i + 1}</text><text x="${x + 15}" y="${y + 4}">${esc(g.nome)}</text></g>`; }).join("")}
       </svg>
     </div>
-    <div class="ig-list">${E.igrejas.map((g, i) => `
+    <div class="ig-list"><h2 class="sr">As cartas</h2>${E.igrejas.map((g, i) => `
       <article class="ig" id="ig-${i}" tabindex="-1" aria-labelledby="igt-${i}">
         <h3 id="igt-${i}"><span>${i + 1}. ${esc(g.nome)}</span>${refLink(g.ref)}</h3>
         <dl>
@@ -720,6 +726,10 @@ function telaRaizes(){
     <div><h2 id="t-arcos" style="margin:0;font-family:var(--f-display);letter-spacing:.04em">Linha do tempo das conexões</h2>
     <p style="margin:.3rem 0 0;color:var(--muted);max-width:75ch">Cada arco liga um fato ou profecia do Antigo Testamento, na sua época, ao versículo de Apocalipse que retoma aquela imagem. Toque num fato da linha, num capítulo de Apocalipse ou num arco.</p></div>
     <div class="arcos-ctrl" role="group" aria-label="Filtrar por grupo de livros"><span class="lbl">Grupos</span>${D.linha.grupos.map(g => `<button type="button" class="pill" data-grupo="${g.id}" aria-pressed="true"><i style="background:var(--g-${g.id})"></i>${esc(g.nome)}</button>`).join("")}</div>
+    <div class="arcos-ctrl">
+      <label class="lbl" for="sel-fato">Fato</label><select id="sel-fato" class="pill"><option value="">Escolha um fato</option>${D.linha.fatos.map((f, k) => `<option value="${k}">${esc(f.titulo)}</option>`).join("")}</select>
+      <label class="lbl" for="sel-apc">Capítulo</label><select id="sel-apc" class="pill"><option value="">Apocalipse…</option>${[...Array(22)].map((_, i) => `<option value="${i + 1}">Apocalipse ${i + 1}</option>`).join("")}</select>
+    </div>
     <div class="arcos-svg" id="arcos-svg"></div>
     <p class="sr" id="arcos-status" role="status" aria-live="polite"></p>
     <div id="arcos-sel"></div>
@@ -757,7 +767,7 @@ function montarArcos(){
   const arcPath = a => { const rx = (a.x2 - a.x1) / 2, ry = Math.min(BASE - 20, rx * .62); return `M${a.x1.toFixed(1)} ${BASE} A${rx.toFixed(1)} ${ry.toFixed(1)} 0 0 1 ${a.x2.toFixed(1)} ${BASE}`; };
   const anos = [-2000, -1500, -1000, -500];
   const fmt = a => a < 0 ? `${-a} a.C.` : `${a} d.C.`;
-  let svg = `<svg viewBox="0 0 ${W} 640" role="img" aria-label="Linha do tempo com ${arcos.length} arcos ligando passagens do Antigo Testamento, ordenadas por época, aos versículos de Apocalipse">`;
+  let svg = `<svg viewBox="0 0 ${W} 640" role="group" aria-label="Linha do tempo com ${arcos.length} arcos ligando passagens do Antigo Testamento, ordenadas por época, aos versículos de Apocalipse">`;
   L.eras.forEach((e, k) => { const xa = ano2x(e.de), xb = ano2x(e.ate); svg += `<rect x="${xa}" y="${BASE + 6}" width="${xb - xa}" height="22" fill="var(--surface-2)" stroke="var(--line)"/><text x="${(xa + xb) / 2}" y="${BASE + 21}" text-anchor="middle" style="font-size:${xb - xa < 70 ? 9 : 11}px;fill:var(--muted)">${esc(e.nome)}</text>`; });
   anos.forEach(a => { const x = ano2x(a); svg += `<line x1="${x}" x2="${x}" y1="${BASE - 4}" y2="${BASE + 4}" stroke="var(--muted)"/><text x="${x}" y="${BASE - 8}" text-anchor="middle" style="font-size:10px;fill:var(--muted)">${fmt(a)}</text>`; });
   svg += `<line x1="${X0}" x2="${X1}" y1="${BASE}" y2="${BASE}" stroke="var(--fg)" stroke-width="1.5"/>`;
@@ -799,6 +809,8 @@ function montarArcos(){
     p.addEventListener("mouseleave", () => { tip.hidden = true; });
     p.addEventListener("click", () => abrirAT([a.it], `Apocalipse ${a.it.versos}`));
   });
+  $("#sel-fato").addEventListener("change", e => { if (e.target.value !== "") box.querySelector(`.fato[data-f="${e.target.value}"]`).dispatchEvent(new Event("click")); });
+  $("#sel-apc").addEventListener("change", e => { if (e.target.value !== "") box.querySelector(`.apcap[data-apc="${e.target.value}"]`).dispatchEvent(new Event("click")); });
   raiz.querySelectorAll("[data-grupo]").forEach(b => b.addEventListener("click", () => {
     const g = b.dataset.grupo; gruposOn.has(g) ? gruposOn.delete(g) : gruposOn.add(g);
     b.setAttribute("aria-pressed", gruposOn.has(g)); b.classList.toggle("off", !gruposOn.has(g)); aplicarGrupos();
@@ -811,6 +823,7 @@ function telaQuadros(){
   <header class="cap-h"><span class="eyebrow">Plano de ilustração</span><h1>Os ${Qd.quadros.length} quadros de Apocalipse</h1></header>
   <p style="color:var(--muted);max-width:72ch">Cada visão do livro vira um quadro realista, com a referência do texto e suas raízes no Antigo Testamento. As imagens aparecem aqui à medida que forem produzidas.</p>
   <details class="nota" style="margin:1rem 0"><summary><b>Regras de arte</b></summary><ul>${Qd.regras.map(r => `<li>${esc(r)}</li>`).join("")}</ul></details>
+  <h2 class="sr">Lista dos quadros</h2>
   <div class="qd-grid">${Qd.quadros.map((q, i) => { const sec = secaoDe(q.capitulo); return `
     <article class="qd" aria-labelledby="qt-${q.id}">
       <div class="cena" role="img" aria-label="Ilustração (em produção): ${esc(q.titulo)}. ${esc(q.descricao)}"><span class="tag-prod" aria-hidden="true">Em produção</span><div class="vitral">${vitral(sec.cor, 500 + i)}${svgIcon(sec.icone, 'class="emb" style="color:#F3E3B0"')}</div></div>
@@ -831,6 +844,7 @@ function telaSimbolos(){
   <div class="busca"><label class="sr" for="q-sim">Buscar símbolo</label><input id="q-sim" type="search" placeholder="Buscar: dragão, cordeiro, 666…" autocomplete="off">
     <span class="badge exp">O próprio texto explica</span><span class="badge int">Interpretação comum</span></div>
   <p class="sr" id="sim-count" role="status" aria-live="polite"></p>
+  <h2 class="sr">Lista de símbolos</h2>
   <div class="sim-list" id="sim-list">${D.estudo.simbolos.map(s => `
     <article class="sim" data-busca="${esc((s.termo + " " + s.significado).toLowerCase())}">
       <h3>${esc(s.termo)}</h3>
@@ -900,6 +914,7 @@ function render(){
   view.innerHTML = html;
   document.querySelectorAll("nav.main a").forEach(a => a.dataset.r === ativo ? a.setAttribute("aria-current", "page") : a.removeAttribute("aria-current"));
   document.title = (ativo === "cap" ? `Apocalipse ${m[1]} · ` : "") + "Bíblia Ilustrada";
+  const h1 = view.querySelector("h1"); if (h1 && rotaAtual() !== "inicio") anunciar("Página: " + h1.textContent);
   posRender(ativo, m);
 }
 function posRender(ativo, m){
