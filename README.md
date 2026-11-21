@@ -58,3 +58,12 @@ Veja [docs/ilustracoes.md](docs/ilustracoes.md).
 ## Publicação
 
 O site é publicado no GitHub Pages pelo workflow `.github/workflows/pages.yml` a cada push na branch `main`, no endereço https://jracingdev.github.io/Biblia-ilustrada/. Antes do primeiro deploy, ative em Settings → Pages → Source: "GitHub Actions". Os pull requests passam pela validação dos dados (`.github/workflows/validar.yml`).
+
+## Bíblia inteira
+
+- `#livros`: seletor dos 66 livros; `#livro-<slug>-<cap>`: leitura de qualquer livro (Bíblia Livre).
+- `#biblia`: arcos de toda a Bíblia (24 mil ligações mais fortes entre os 1.189 capítulos).
+- `#conexoes-<slug>`: um livro-tema e suas ligações com os demais, com os pares de versículos.
+- Dados gerados por `ferramentas/gerar_biblia.py` a partir das referências cruzadas do
+  [OpenBible.info](https://www.openbible.info/labs/cross-references/) (CC BY), baseadas no
+  Treasury of Scripture Knowledge (domínio público).
