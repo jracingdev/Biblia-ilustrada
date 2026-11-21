@@ -1,0 +1,389 @@
+{
+ "livro": "apocalipse",
+ "aviso": "Fontes extrabíblicas. Não fazem parte do texto bíblico. Servem para entender o mundo em que o Apocalipse foi escrito. Quando a ligação é uma leitura de intérpretes, e não um fato documentado, isso vem marcado.",
+ "graus": {
+  "documentado": "Fato documentado",
+  "associacao": "Associação interpretativa"
+ },
+ "itens": [
+  {
+   "id": "patmos-domiciano",
+   "titulo": "João exilado em Patmos sob Domiciano",
+   "refs": [
+    "1:9"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Eusébio de Cesareia, História Eclesiástica",
+   "referencia": "livro 3, cap. 18",
+   "data_fonte": "c. 325 d.C.",
+   "data_evento": "c. 95 d.C.",
+   "resumo": "Eusébio registra a tradição de que o apóstolo João foi condenado a viver na ilha de Patmos durante a perseguição de Domiciano.",
+   "relacao": "Confirma fora da Bíblia o cenário de 1:9: João está em Patmos \"por causa da palavra de Deus\".",
+   "grau": "documentado"
+  },
+  {
+   "id": "ireneu-data",
+   "titulo": "Data do Apocalipse: fim do reinado de Domiciano",
+   "refs": [
+    "1:1",
+    "13:18"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Ireneu de Lião, Contra as Heresias",
+   "referencia": "livro 5, cap. 30, §1 e §3",
+   "data_fonte": "c. 180 d.C.",
+   "data_evento": "c. 95 d.C.",
+   "resumo": "Ireneu diz que a visão foi vista quase em sua própria geração, no fim do reinado de Domiciano. No mesmo capítulo comenta manuscritos que traziam 616 em vez de 666.",
+   "relacao": "É o testemunho mais antigo sobre a data do livro (c. 95 d.C.) e sobre a variante do número da besta.",
+   "grau": "documentado"
+  },
+  {
+   "id": "patmos-plinio",
+   "titulo": "Patmos entre as ilhas do Egeu",
+   "refs": [
+    "1:9"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Plínio, o Velho, História Natural",
+   "referencia": "livro 4, cap. 12 (§69)",
+   "data_fonte": "c. 77 d.C.",
+   "data_evento": "séc. I d.C.",
+   "resumo": "Plínio lista Patmos entre as ilhas Espórades, perto da costa da Ásia. Ilhas pequenas eram usadas por Roma como lugar de desterro.",
+   "relacao": "Situa a ilha da visão, a cerca de 100 km de Éfeso por mar.",
+   "grau": "documentado"
+  },
+  {
+   "id": "domiciano-deus",
+   "titulo": "Domiciano exigia ser chamado \"Senhor e Deus\"",
+   "refs": [
+    "4:11",
+    "13:4",
+    "13:8"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Suetônio, A Vida dos Doze Césares: Domiciano",
+   "referencia": "cap. 13",
+   "data_fonte": "c. 121 d.C.",
+   "data_evento": "81–96 d.C.",
+   "resumo": "Suetônio conta que Domiciano fazia seus procuradores começarem cartas oficiais com a fórmula \"nosso Senhor e Deus\" (dominus et deus noster).",
+   "relacao": "Em 4:11 os anciãos dão esse título ao Criador: \"Digno és, Senhor e Deus nosso\". O culto ao imperador é o pano de fundo da adoração à besta.",
+   "grau": "associacao"
+  },
+  {
+   "id": "domiciano-clemente",
+   "titulo": "Execução de Flávio Clemente e exílio de Domitila",
+   "refs": [
+    "2:10",
+    "2:13"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Dião Cássio, História Romana",
+   "referencia": "livro 67, cap. 14",
+   "data_fonte": "c. 230 d.C.",
+   "data_evento": "95 d.C.",
+   "resumo": "Domiciano mandou matar o cônsul Flávio Clemente, seu primo, e exilou a esposa dele, Flávia Domitila, sob acusação de \"ateísmo\" e de adotar costumes judaicos. Muitos outros foram condenados pelo mesmo motivo.",
+   "relacao": "Mostra o clima de acusação contra quem recusava os deuses de Roma, o mesmo das cartas às igrejas.",
+   "grau": "associacao"
+  },
+  {
+   "id": "nero-64",
+   "titulo": "Nero persegue os cristãos após o incêndio de Roma",
+   "refs": [
+    "6:9",
+    "13:7",
+    "17:6"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Tácito, Anais",
+   "referencia": "livro 15, cap. 44",
+   "data_fonte": "c. 116 d.C.",
+   "data_evento": "64 d.C.",
+   "resumo": "Depois do grande incêndio de Roma, Nero culpou os cristãos. Tácito descreve execuções cruéis: alguns foram queimados como tochas nos jardins do imperador.",
+   "relacao": "É a primeira perseguição oficial aos cristãos. Ajuda a entender as almas dos mártires (6:9) e a mulher \"embriagada com o sangue dos santos\" (17:6).",
+   "grau": "documentado"
+  },
+  {
+   "id": "nero-redivivo",
+   "titulo": "A lenda de Nero que voltaria",
+   "refs": [
+    "13:3",
+    "17:8",
+    "17:11"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Tácito, Histórias; Suetônio, Nero",
+   "referencia": "Histórias 2.8; Nero 57",
+   "data_fonte": "c. 110 e c. 121 d.C.",
+   "data_evento": "69 d.C. em diante",
+   "resumo": "Depois da morte de Nero (68 d.C.), correu o boato de que ele estava vivo e voltaria do Oriente. Apareceram impostores dizendo ser Nero.",
+   "relacao": "Muitos estudiosos veem aqui o pano de fundo da besta \"ferida de morte\" que volta a viver (13:3) e da que \"era e não é\" (17:8).",
+   "grau": "associacao"
+  },
+  {
+   "id": "plinio-cristaos",
+   "titulo": "Cristãos obrigados a sacrificar à imagem do imperador",
+   "refs": [
+    "13:15",
+    "2:13"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Plínio, o Jovem, Cartas",
+   "referencia": "livro 10, carta 96",
+   "data_fonte": "c. 112 d.C.",
+   "data_evento": "c. 112 d.C.",
+   "resumo": "Governador da Bitínia, Plínio escreve ao imperador Trajano: soltava quem invocava os deuses, oferecia incenso e vinho à imagem do imperador e amaldiçoava Cristo. Quem se recusava era executado.",
+   "relacao": "É o retrato, fora da Bíblia, de 13:15: quem não adorasse a imagem era morto.",
+   "grau": "documentado"
+  },
+  {
+   "id": "vinho-domiciano",
+   "titulo": "O edito do vinho de Domiciano",
+   "refs": [
+    "6:6"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Suetônio, Domiciano",
+   "referencia": "cap. 7 (§2) e cap. 14",
+   "data_fonte": "c. 121 d.C.",
+   "data_evento": "c. 92 d.C.",
+   "resumo": "Num ano de muito vinho e pouco trigo, Domiciano proibiu plantar novas vinhas na Itália e mandou cortar metade das vinhas das províncias. Depois voltou atrás.",
+   "relacao": "Alguns intérpretes ligam a isso a voz do terceiro selo: trigo caríssimo, mas \"não danifiques o azeite e o vinho\" (6:6).",
+   "grau": "associacao"
+  },
+  {
+   "id": "jerusalem-70",
+   "titulo": "Destruição de Jerusalém e do templo",
+   "refs": [
+    "11:1",
+    "11:2"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Flávio Josefo, Guerra dos Judeus",
+   "referencia": "livro 6",
+   "data_fonte": "c. 75 d.C.",
+   "data_evento": "70 d.C.",
+   "resumo": "Josefo, testemunha ocular, narra o cerco de Tito e o incêndio do templo de Jerusalém em 70 d.C.",
+   "relacao": "Para a leitura preterista, 11:1-2 (o átrio pisado pelas nações) alude a esse evento. Outras linhas leem o templo como símbolo da Igreja.",
+   "grau": "associacao"
+  },
+  {
+   "id": "vesuvio-79",
+   "titulo": "A erupção do Vesúvio",
+   "refs": [
+    "8:8"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Plínio, o Jovem, Cartas",
+   "referencia": "livro 6, cartas 16 e 20",
+   "data_fonte": "c. 106 d.C.",
+   "data_evento": "24 de agosto de 79 d.C.",
+   "resumo": "Plínio descreve a nuvem que subiu do monte, as pedras em chamas e o mar recuando na baía de Nápoles, onde morreu seu tio.",
+   "relacao": "Alguns comentaristas lembram essa erupção, que impressionou todo o mundo romano, ao ler \"um grande monte ardendo em fogo foi lançado ao mar\" (8:8).",
+   "grau": "associacao"
+  },
+  {
+   "id": "laodiceia-terremoto",
+   "titulo": "Laodiceia se reergue sozinha após o terremoto",
+   "refs": [
+    "3:17"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Tácito, Anais",
+   "referencia": "livro 14, cap. 27",
+   "data_fonte": "c. 116 d.C.",
+   "data_evento": "60 d.C.",
+   "resumo": "Laodiceia foi arruinada por um terremoto e se reconstruiu com os próprios recursos, sem ajuda de Roma.",
+   "relacao": "Ajuda a ouvir o orgulho da igreja local: \"Estou rica, enriqueci e de nada tenho falta\" (3:17).",
+   "grau": "associacao"
+  },
+  {
+   "id": "laodiceia-la-colirio",
+   "titulo": "Lã negra e escola de medicina perto de Laodiceia",
+   "refs": [
+    "3:18"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Estrabão, Geografia",
+   "referencia": "livro 12, cap. 8, §16 e §20",
+   "data_fonte": "c. 20 d.C.",
+   "data_evento": "séc. I a.C. – I d.C.",
+   "resumo": "Estrabão elogia as ovelhas de lã negra e macia de Laodiceia e menciona uma famosa escola de medicina entre Laodiceia e Carura.",
+   "relacao": "Muitos veem nisso a ironia de 3:18: vestes brancas e colírio para quem se orgulhava da lã e da medicina.",
+   "grau": "associacao"
+  },
+  {
+   "id": "laodiceia-agua",
+   "titulo": "Águas quentes de Hierápolis e frias de Colossos",
+   "refs": [
+    "3:15",
+    "3:16"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Estrabão, Geografia",
+   "referencia": "livro 13, cap. 4, §14",
+   "data_fonte": "c. 20 d.C.",
+   "data_evento": "séc. I",
+   "resumo": "Estrabão descreve as fontes termais de Hierápolis, vizinha de Laodiceia. Laodiceia recebia água por aqueduto, que chegava morna e cheia de calcário.",
+   "relacao": "Leitura comum de 3:15-16: nem quente como a água que cura, nem fria como a que refresca, mas morna.",
+   "grau": "associacao"
+  },
+  {
+   "id": "sardes-surpresa",
+   "titulo": "Sardes tomada de surpresa duas vezes",
+   "refs": [
+    "3:2",
+    "3:3"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Heródoto, Histórias; Políbio, Histórias",
+   "referencia": "Heródoto 1.84; Políbio 7.15-18",
+   "data_fonte": "c. 430 a.C.; c. 150 a.C.",
+   "data_evento": "546 a.C. e 214 a.C.",
+   "resumo": "A acrópole de Sardes, tida como inexpugnável, caiu duas vezes porque ninguém vigiava: diante de Ciro e de Antíoco III, soldados escalaram o penhasco à noite.",
+   "relacao": "Ilumina o aviso: \"Sê vigilante… virei como ladrão\" (3:2-3).",
+   "grau": "associacao"
+  },
+  {
+   "id": "terremoto-17",
+   "titulo": "O grande terremoto de 17 d.C. na Ásia",
+   "refs": [
+    "3:12",
+    "6:12"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Tácito, Anais; Estrabão, Geografia",
+   "referencia": "Anais 2.47; Geografia 12.8.18",
+   "data_fonte": "c. 116 d.C.; c. 20 d.C.",
+   "data_evento": "17 d.C.",
+   "resumo": "Um terremoto destruiu doze cidades da Ásia numa noite, entre elas Sardes e Filadélfia. Estrabão conta que em Filadélfia os tremores continuavam e muitos moravam fora da cidade.",
+   "relacao": "À igreja de Filadélfia Jesus promete: \"dele farei coluna no templo… e daí jamais sairá\" (3:12).",
+   "grau": "associacao"
+  },
+  {
+   "id": "pergamo-culto",
+   "titulo": "Templo a Roma e Augusto em Pérgamo",
+   "refs": [
+    "2:13"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Tácito, Anais; Dião Cássio, História Romana",
+   "referencia": "Anais 4.37; História 51.20",
+   "data_fonte": "c. 116 d.C.; c. 230 d.C.",
+   "data_evento": "29 a.C.",
+   "resumo": "Pérgamo recebeu o primeiro templo da Ásia dedicado ao imperador vivo (Augusto) e à deusa Roma.",
+   "relacao": "É uma das explicações para \"onde está o trono de Satanás\" (2:13). Outras citam o grande altar de Zeus ou o santuário de Asclépio.",
+   "grau": "associacao"
+  },
+  {
+   "id": "esmirna-culto",
+   "titulo": "Esmirna ganha o templo a Tibério",
+   "refs": [
+    "2:8",
+    "2:10"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Tácito, Anais",
+   "referencia": "livro 4, caps. 55-56",
+   "data_fonte": "c. 116 d.C.",
+   "data_evento": "26 d.C.",
+   "resumo": "Onze cidades da Ásia disputaram o direito de erguer um templo a Tibério; o Senado escolheu Esmirna pela antiga lealdade a Roma.",
+   "relacao": "Lealdade a Roma era o orgulho da cidade. A igreja recebe outra promessa de fidelidade: \"Sê fiel até a morte, e dar-te-ei a coroa da vida\" (2:10).",
+   "grau": "associacao"
+  },
+  {
+   "id": "efeso-porto",
+   "titulo": "O porto de Éfeso enchendo de lodo",
+   "refs": [
+    "2:5"
+   ],
+   "tipo": "historiador antigo",
+   "fonte": "Estrabão, Geografia",
+   "referencia": "livro 14, cap. 1, §24",
+   "data_fonte": "c. 20 d.C.",
+   "data_evento": "séc. II a.C. – I d.C.",
+   "resumo": "Estrabão conta que obras mal planejadas fizeram o porto de Éfeso acumular lodo. Com os séculos, o mar recuou e a cidade foi abandonada.",
+   "relacao": "Alguns leem aqui uma imagem para \"removerei do seu lugar o teu candelabro\" (2:5).",
+   "grau": "associacao"
+  },
+  {
+   "id": "pergamo-altar-berlim",
+   "titulo": "Altar de Pérgamo: museu reabre em 2027",
+   "refs": [
+    "2:13"
+   ],
+   "tipo": "imprensa e arqueologia",
+   "fonte": "The Associated Press (via ABC News)",
+   "referencia": "\"Berlin's Pergamon Museum will reopen in mid-2027 as a lengthy restoration moves forward\"",
+   "data_fonte": "4 de maio de 2026",
+   "data_evento": "altar: 197–156 a.C.",
+   "resumo": "O altar de Zeus de Pérgamo, levado para Berlim no séc. XIX, é a peça central do Museu Pergamon, fechado desde 2023. A fundação anunciou a reabertura em 4 de junho de 2027.",
+   "relacao": "O altar é um dos candidatos para o \"trono de Satanás\" de 2:13. Associação interpretativa.",
+   "grau": "associacao",
+   "link": "https://abcnews.com/International/wireStory/berlins-pergamon-museum-reopen-mid-2027-lengthy-restoration-132635570"
+  },
+  {
+   "id": "laodiceia-casa-igreja",
+   "titulo": "Casa com igreja descoberta em Laodiceia",
+   "refs": [
+    "3:14"
+   ],
+   "tipo": "imprensa e arqueologia",
+   "fonte": "Hürriyet Daily News",
+   "referencia": "\"House with church unearthed in Laodicea\"",
+   "data_fonte": "27 de outubro de 2020",
+   "data_evento": "casa usada desde o séc. I d.C.",
+   "resumo": "Escavações dirigidas pelo professor Celal Şimşek revelaram uma casa de 20 cômodos junto ao teatro norte; o salão leste foi convertido em igreja.",
+   "relacao": "Mostra a presença cristã na cidade da sétima carta.",
+   "grau": "documentado",
+   "link": "https://hurriyetdailynews.com/house-with-church-unearthed-in-laodicea-159481"
+  },
+  {
+   "id": "laodiceia-igreja-2011",
+   "titulo": "Igreja do séc. IV em Laodiceia",
+   "refs": [
+    "3:14"
+   ],
+   "tipo": "imprensa e arqueologia",
+   "fonte": "Biblical Archaeology Society (Bible History Daily), Noah Wiener",
+   "referencia": "\"Laodicea Columns Reveal the Grandeur of an Early Christian Center\"",
+   "data_fonte": "14 de agosto de 2013",
+   "data_evento": "igreja da época de Constantino (306–337)",
+   "resumo": "Relata colunas monumentais na ágora norte e lembra a igreja do séc. IV achada por radar em 2011, destruída por terremoto no início do séc. VII.",
+   "relacao": "A comunidade advertida em 3:14-22 seguiu viva e grande por séculos.",
+   "grau": "documentado",
+   "link": "https://www.biblicalarchaeology.org/daily/news/laodicea-columns-reveal-the-grandeur-of-an-early-christian-center/"
+  },
+  {
+   "id": "laodiceia-conselho",
+   "titulo": "Salão de assembleia de 2.000 anos em Laodiceia",
+   "refs": [
+    "3:14"
+   ],
+   "tipo": "imprensa e arqueologia",
+   "fonte": "Hürriyet Daily News",
+   "referencia": "\"2,000-year-old assembly hall unearthed in Laodicea\"",
+   "data_fonte": "4 de agosto de 2025",
+   "data_evento": "fim do séc. I a.C. até o séc. VII d.C.",
+   "resumo": "Na temporada de 2025 foi achado o prédio do conselho da cidade, para 600 a 800 membros. A Fox News (10 set. 2025) noticiou cruzes e um monograma cristão gravados na pedra.",
+   "relacao": "Era o centro político da cidade no tempo da carta de 3:14-22.",
+   "grau": "documentado",
+   "link": "https://www.hurriyetdailynews.com/2-000-year-old-assembly-hall-unearthed-in-laodicea-212147"
+  },
+  {
+   "id": "megido-mosaico",
+   "titulo": "Mosaico \"ao Deus Jesus Cristo\" em Megido",
+   "refs": [
+    "16:16"
+   ],
+   "tipo": "imprensa e arqueologia",
+   "fonte": "Autoridade de Antiguidades de Israel (via Ministério das Relações Exteriores de Israel); The Christian Century",
+   "referencia": "\"Megiddo Prison dig yields rare 3rd-4th century Christian structure\"",
+   "data_fonte": "novembro de 2005 (anúncio em 3 nov. 2005)",
+   "data_evento": "séc. III–IV d.C.",
+   "resumo": "Na prisão de Megido, o arqueólogo Yotam Tepper achou um salão com piso de mosaico, um peixe e inscrições gregas. Uma delas dedica uma mesa \"ao Deus Jesus Cristo\".",
+   "relacao": "Megido é o \"Har Megido\" de onde vem Armagedom (16:16). A ligação é de lugar, não de cumprimento profético.",
+   "grau": "documentado",
+   "link": "https://embassies.gov.il/MFA/IsraelExperience/religion/Pages/Megiddo%20Prison%20dig%20yields%20rare%203rd-4th%20century%20Christian%20structure%209-Nov-2005.aspx"
+  }
+ ]
+}

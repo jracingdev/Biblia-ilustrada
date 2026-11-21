@@ -303,6 +303,19 @@ footer.pe{ border-top:1px solid var(--line); padding-block:1.5rem; color:var(--m
 .pals button{ font:inherit; font-size:.92rem; padding:.35rem .7rem; min-height:32px; border-radius:99px; border:1px solid var(--line); background:var(--surface-2); color:var(--ink); cursor:pointer }
 .pals button:hover{ border-color:var(--gold) }
 .pals .orig{ font-size:1em; color:var(--muted); margin-left:.3rem }
+
+/* Fora da Bíblia */
+.aviso-ext{ border:2px dashed var(--gold); border-radius:var(--radius); padding:.8rem 1rem; background:var(--surface); max-width:75ch; margin:.6rem 0 1rem }
+.aviso-ext b{ color:var(--gold) }
+.hist-list{ display:grid; grid-template-columns:repeat(auto-fill, minmax(min(340px,100%),1fr)); gap:.8rem }
+.hist{ background:var(--surface); border:1px solid var(--line); border-left:4px solid var(--muted); border-radius:var(--radius); padding:1rem; display:grid; gap:.5rem; align-content:start }
+.hist.documentado{ border-left-color:var(--ok) } .hist.associacao{ border-left-color:var(--lapis) }
+.hist h3{ margin:0; font-size:1.05rem } .hist p{ margin:0; font-size:.95rem }
+.hist .meta{ display:flex; gap:.5rem; align-items:center; flex-wrap:wrap; font-size:.85rem }
+.hist dl{ display:grid; grid-template-columns:auto minmax(0,1fr); gap:.2rem .7rem; margin:0; font-size:.88rem }
+.hist dt{ font-weight:700; color:var(--muted) } .hist dd{ margin:0; overflow-wrap:anywhere }
+.badge.ext{ color:var(--gold) }
+.filtros{ display:flex; flex-wrap:wrap; gap:.4rem; margin:.4rem 0 1rem }
 </style>
 </head>
 <body>
@@ -321,7 +334,8 @@ footer.pe{ border-top:1px solid var(--line); padding-block:1.5rem; color:var(--m
         <li><a href="#quadros" data-r="quadros">Quadros</a></li>
         <li><a href="#raizes" data-r="raizes">Raízes no AT</a></li>
         <li><a href="#simbolos" data-r="simbolos">Símbolos</a></li>
-        <li><a href="#palavras" data-r="palavras">Línguas originais</a></li>
+        <li><a href="#palavras" data-r="palavras">Línguas</a></li>
+        <li><a href="#historia" data-r="historia">História</a></li>
         <li><a href="#quiz" data-r="quiz">Quiz</a></li>
         <li><a href="#sobre" data-r="sobre">Sobre</a></li>
       </ul>
@@ -583,6 +597,41 @@ function telaPalavras(){
   <section class="block" aria-labelledby="t-pal-f"><h2 id="t-pal-f">Fontes</h2><ul>${P.fontes.map(f => `<li><b>${esc(f.nome)}</b>: ${esc(f.detalhe)}</li>`).join("")}</ul></section>`;
 }
 
+
+/* ---------- Fontes extrabíblicas ---------- */
+function histHTML(x, nivel){
+  const h = nivel || "h3", G = D.historia.graus;
+  return `<article class="hist ${x.grau}" data-tipo="${esc(x.tipo)}" data-grau="${x.grau}" aria-labelledby="h-${x.id}">
+    <div class="meta"><span class="badge ext">Fonte extrabíblica</span><span class="badge ${x.grau === "documentado" ? "exp" : "int"}">${esc(G[x.grau])}</span></div>
+    <${h} id="h-${x.id}">${esc(x.titulo)}</${h}>
+    <p>${esc(x.resumo)}</p>
+    <dl>
+      <dt>Fonte</dt><dd>${x.link ? `<a href="${esc(x.link)}" target="_blank" rel="noopener">${esc(x.fonte)}<span class="sr"> (abre em nova aba)</span></a>` : esc(x.fonte)}</dd>
+      <dt>Referência</dt><dd>${esc(x.referencia)}</dd>
+      <dt>Data da fonte</dt><dd>${esc(x.data_fonte)}</dd>
+      <dt>Data do fato</dt><dd>${esc(x.data_evento)}</dd>
+      <dt>Tipo</dt><dd>${esc(x.tipo)}</dd>
+    </dl>
+    <p><b>Ligação com Apocalipse</b> (${x.refs.map(refLink).join(", ")}): ${esc(x.relacao)}</p>
+  </article>`;
+}
+const histDoCap = n => (D.historia ? D.historia.itens : []).filter(x => x.refs.some(r => parseRef(r).c === n));
+function telaHistoria(){
+  const H = D.historia;
+  return `
+  <header class="cap-h"><span class="eyebrow">Contexto histórico</span><h1>Fora da Bíblia: história e arqueologia</h1></header>
+  <div class="aviso-ext" role="note"><b>Atenção:</b> ${esc(H.aviso)}</div>
+  <div class="filtros" role="group" aria-label="Filtrar fontes">
+    <button class="btn" type="button" data-fh="todos" aria-pressed="true">Todas (${H.itens.length})</button>
+    <button class="btn" type="button" data-fh="historiador antigo" aria-pressed="false">Historiadores antigos</button>
+    <button class="btn" type="button" data-fh="imprensa e arqueologia" aria-pressed="false">Imprensa e arqueologia</button>
+    <button class="btn" type="button" data-fh="documentado" aria-pressed="false">Só fatos documentados</button>
+  </div>
+  <p class="sr" id="h-count" role="status" aria-live="polite"></p>
+  <h2 class="sr">Lista de fontes</h2>
+  <div class="hist-list">${H.itens.slice().sort((a, b) => parseRef(a.refs[0]).c - parseRef(b.refs[0]).c || parseRef(a.refs[0]).v - parseRef(b.refs[0]).v).map(x => histHTML(x)).join("")}</div>`;
+}
+
 /* ---------- Quiz ---------- */
 function quizHTML(q, key){
   const r = respostas[key];
@@ -742,6 +791,7 @@ function telaCapitulo(n, alvo){
       ${usados.length ? `<section class="card" aria-labelledby="t-sym"><h2 id="t-sym">Símbolos neste capítulo</h2><ul class="syms">${usados.map(id => { const s = D.estudo.simbolos.find(x => x.id === id); return `<li><button type="button" data-sym="${id}">${esc(s.termo)}</button></li>`; }).join("")}</ul></section>` : ""}
       ${atDoCap(n).length ? `<section class="card" aria-labelledby="t-at"><h2 id="t-at">Raízes no Antigo Testamento</h2><p style="color:var(--muted);font-size:.9rem;margin-bottom:.6rem">João pinta suas visões com imagens das Escrituras de Israel. Toque para ler o texto original.</p><ul class="at-list">${atDoCap(n).map((it, i) => `<li><button type="button" class="lnk" data-at="${n}:0" data-item="${i}">Ap ${esc(it.versos)}</button> ${esc(it.nota)}<div>${it.refs.map(r => `<span class="at-ref">${esc(r)}</span>`).join("")}</div></li>`).join("")}</ul></section>` : ""}
       ${palDoCap(n).length ? `<section class="card" aria-labelledby="t-pal"><h2 id="t-pal">Palavras no original</h2><p style="color:var(--muted);font-size:.9rem;margin-bottom:.6rem">Grego, hebraico, aramaico e latim por trás do texto.</p><ul class="pals">${palDoCap(n).map(w => `<li><button type="button" data-pal="${w.id}">${esc(w.pt)}<span class="orig" lang="grc">${esc(w.grego.lema.split(" ")[0])}</span></button></li>`).join("")}</ul></section>` : ""}
+      ${histDoCap(n).length ? `<section class="card" aria-labelledby="t-hist"><h2 id="t-hist">Fora da Bíblia</h2><p style="color:var(--muted);font-size:.9rem;margin-bottom:.6rem">Fontes extrabíblicas: história e arqueologia, não texto sagrado.</p><ul class="at-list">${histDoCap(n).map(x => `<li><a href="#historia">${esc(x.titulo)}</a> <small>(${esc(x.fonte.split(",")[0])}, ${esc(x.data_fonte)}; ${x.grau === "documentado" ? "fato documentado" : "associação interpretativa"})</small></li>`).join("")}</ul></section>` : ""}
       <section class="card" aria-labelledby="t-ref"><h2 id="t-ref">Para refletir</h2><p>${esc(est.reflexao)}</p></section>
       <section class="card" aria-labelledby="t-qz"><h2 id="t-qz">Teste o que aprendeu</h2>${est.quiz.map((q, i) => quizHTML(q, `c${n}q${i}`)).join("")}</section>
     </aside>
@@ -977,6 +1027,7 @@ function render(){
   else if (r === "igrejas"){ html = telaIgrejas(); ativo = "igrejas"; }
   else if (r === "simbolos"){ html = telaSimbolos(); ativo = "simbolos"; }
   else if (r === "palavras"){ html = telaPalavras(); ativo = "palavras"; }
+  else if (r === "historia"){ html = telaHistoria(); ativo = "historia"; }
   else if (r === "raizes"){ html = telaRaizes(); ativo = "raizes"; }
   else if (r === "quadros"){ html = telaQuadros(); ativo = "quadros"; }
   else if (r === "quiz"){ html = telaQuiz(); ativo = "quiz"; }
@@ -1039,6 +1090,15 @@ function posRender(ativo, m){
     });
   }
   if (ativo === "raizes") montarArcos();
+  if (ativo === "historia"){
+    const bs = [...document.querySelectorAll("[data-fh]")], cards = [...document.querySelectorAll(".hist")];
+    bs.forEach(b => b.addEventListener("click", () => {
+      const f = b.dataset.fh; let k = 0;
+      bs.forEach(x => x.setAttribute("aria-pressed", x === b));
+      cards.forEach(c => { const ok = f === "todos" || c.dataset.tipo === f || c.dataset.grau === f; c.hidden = !ok; if (ok) k++; });
+      $("#h-count").textContent = k + " fontes";
+    }));
+  }
   if (ativo === "palavras"){
     const q = $("#q-pal"), cards = [...document.querySelectorAll(".pal")];
     q.addEventListener("input", () => {
@@ -1056,8 +1116,8 @@ function posRender(ativo, m){
 window.addEventListener("hashchange", render);
 
 /* ---------- Carregar dados (camada trocável: troque a versão em fontes.json) ---------- */
-Promise.all(["data/fontes.json", "data/livros.json", "data/estudo/apocalipse.json", "data/estudo/apocalipse-at.json", "data/estudo/apocalipse-quadros.json", "data/estudo/linha-do-tempo.json", "data/estudo/apocalipse-palavras.json"].map(u => fetch(u).then(r => { if (!r.ok) throw new Error(u); return r.json(); })))
-  .then(([fontes, livros, estudo, at, quadros, linha, palavras]) => { D.palavras = palavras; D.fontes = fontes; D.livros = livros; D.estudo = estudo; D.at = at; D.quadros = quadros; D.linha = linha;
+Promise.all(["data/fontes.json", "data/livros.json", "data/estudo/apocalipse.json", "data/estudo/apocalipse-at.json", "data/estudo/apocalipse-quadros.json", "data/estudo/linha-do-tempo.json", "data/estudo/apocalipse-palavras.json", "data/estudo/apocalipse-historia.json"].map(u => fetch(u).then(r => { if (!r.ok) throw new Error(u); return r.json(); })))
+  .then(([fontes, livros, estudo, at, quadros, linha, palavras, historia]) => { D.historia = historia; D.palavras = palavras; D.fontes = fontes; D.livros = livros; D.estudo = estudo; D.at = at; D.quadros = quadros; D.linha = linha;
     return Promise.all([`data/textos/${fontes.padrao}/apocalipse.json`, `data/textos/${fontes.padrao}/at-apocalipse.json`].map(u => fetch(u).then(r => r.json()))); })
   .then(([texto, atT]) => { D.texto = texto; D.atTextos = atT; render(); })
   .catch(err => { view.innerHTML = `<p class="carregando" role="alert">Não foi possível carregar o livro (${esc(err.message)}). Recarregue a página.</p>`; });
