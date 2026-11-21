@@ -77,7 +77,14 @@
      "referencia": "painéis com Arão, o tabernáculo e a arca",
      "data": "c. 244-245 d.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Pintura da sinagoga de Dura-Europos",
+    "descricao": "Pintura da sinagoga de Dura-Europos (séc. III d.C.): a arca levada num carro. Representação antiga; a arca original não foi encontrada.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:DuraSyn-WB4-Ark_and_Temple_of_Dagon.jpg",
+    "autor": "Adapted by Marsyas",
+    "licenca": "Public domain"
+   }
   },
   {
    "id": "propiciatorio",
@@ -108,7 +115,14 @@
      "referencia": "esfinges aladas em placas de marfim, escavações do Instituto Oriental de Chicago",
      "data": "achado de 1937; peças de c. séc. XIII-XII a.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Placa de marfim com esfinge alada, Megido",
+    "descricao": "Placa de marfim com esfinge alada, Megido (c. 1300-1200 a.C.): ajuda a imaginar os querubins.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Female_sphynx_plaque,_Megiddo,_Stratum_VIIA,_Late_Bronze_IIB,_1300-1200_BC,_ivory_-_Oriental_Institute_Museum,_University_of_Chicago_-_DSC07703.JPG",
+    "autor": "Daderot",
+    "licenca": "CC0"
+   }
   },
   {
    "id": "menora",
@@ -145,7 +159,14 @@
      "referencia": "bloco esculpido com menorá, encontrado na sinagoga de Magdala (Galileia)",
      "data": "achado de 2009; peça do séc. I d.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Réplica moderna do relevo do Arco de Tito",
+    "descricao": "Réplica moderna do relevo do Arco de Tito (Roma, 81 d.C.), com o candelabro do templo levado como despojo.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Arch_of_Titus_Menorah.png",
+    "autor": "derivative work: Steerpike (talk) Arc_de_Triumph_copy.jpg: user: בית השלום",
+    "licenca": "Public domain"
+   }
   },
   {
    "id": "mesa-paes",
@@ -175,7 +196,14 @@
      "referencia": "painel interno com o cortejo do espólio do templo de Jerusalém",
      "data": "c. 81-82 d.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Terracota de 1791 copiando o relevo do Arco de Tito, onde aparecem a mesa e as trombetas do templo",
+    "descricao": "Terracota de 1791 copiando o relevo do Arco de Tito, onde aparecem a mesa e as trombetas do templo.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Spoils_of_the_Temple-_After_a_Relief_from_the_Arch_of_Titus,_Rome_LACMA_M.79.49.jpg",
+    "autor": "Jean-Guillaume Moitte (France, also active Italy, Rome, 1746-1810)",
+    "licenca": "Public domain"
+   }
   },
   {
    "id": "altar-incenso",
@@ -236,7 +264,14 @@
      "referencia": "blocos lavrados reaproveitados num muro e remontados; hoje no Museu de Israel",
      "data": "achado de 1973; c. séc. VIII a.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Altar de pedra com quatro pontas, Berseba",
+    "descricao": "Altar de pedra com quatro pontas, Berseba (séc. VIII a.C.), Museu de Israel.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Sandstone_Sacrificial_Altar,_Tel_Beersheba,_8th_C._BC_(29343946728).jpg",
+    "autor": "Gary Todd from Xinzheng, China",
+    "licenca": "CC0"
+   }
   },
   {
    "id": "pia",
@@ -317,7 +352,14 @@
      "referencia": "planta com pórtico, salão e santuário interno, comparada com 1 Reis 6-7",
      "data": "fase principal c. séc. X-VIII a.C. (aproximado); danificado em 2018"
     }
-   ]
+   ],
+   "img": {
+    "alt": "Templo de Ain Dara",
+    "descricao": "Templo de Ain Dara (Síria, Idade do Ferro), de planta parecida com a do templo de Salomão.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Ain_Dara_Alp3.jpg",
+    "autor": "Institute for the Study of the Ancient World Contact",
+    "licenca": "CC BY 2.0"
+   }
   },
   {
    "id": "veu",
@@ -345,7 +387,14 @@
      "referencia": "livro 5, descrição do véu como tapeçaria babilônica colorida",
      "data": "c. 75 d.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Maquete do templo de Herodes no Museu de Israel. Representação moderna",
+    "descricao": "Maquete do templo de Herodes no Museu de Israel. Representação moderna.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Jerusalem_Modell_BW_3.JPG",
+    "autor": "Berthold Werner",
+    "licenca": "Public domain"
+   }
   },
   {
    "id": "tabuas-lei",
@@ -368,7 +417,14 @@
     ]
    },
    "reconstrucao": true,
-   "nota": "Nenhuma peça real. O formato arredondado no topo, comum na arte, é convenção tardia; o texto não descreve a forma."
+   "nota": "Nenhuma peça real. O formato arredondado no topo, comum na arte, é convenção tardia; o texto não descreve a forma.",
+   "img": {
+    "alt": "Moisés com as tábuas da lei, pintura de Rembrandt",
+    "descricao": "Moisés com as tábuas da lei, pintura de Rembrandt (1659). Representação artística.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Rembrandt_-_Moses_with_the_Ten_Commandments_-_Google_Art_Project.jpg",
+    "autor": "Rembrandt",
+    "licenca": "Public domain"
+   }
   },
   {
    "id": "efode",
@@ -398,7 +454,14 @@
      "referencia": "painéis com Arão, o tabernáculo e a arca",
      "data": "c. 244-245 d.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Arão com as vestes sacerdotais, pintura da sinagoga de Dura-Europos",
+    "descricao": "Arão com as vestes sacerdotais, pintura da sinagoga de Dura-Europos (séc. III d.C.).",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Aaron_in_Dura_Europos_synagogue.jpg",
+    "autor": "Unknown artistUnknown artist",
+    "licenca": "Public domain"
+   }
   },
   {
    "id": "peitoral",
@@ -417,7 +480,14 @@
     "epoca": "reconstrução moderna"
    },
    "reconstrucao": true,
-   "nota": "Sem peça real. A identificação de várias das doze pedras é incerta nas traduções."
+   "nota": "Sem peça real. A identificação de várias das doze pedras é incerta nas traduções.",
+   "img": {
+    "alt": "Peitoral com doze pedras na fachada de uma sinagoga em Ramat Gan. Representação moderna",
+    "descricao": "Peitoral com doze pedras na fachada de uma sinagoga em Ramat Gan. Representação moderna.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_34561_Breastplate_on_the_front_of_the_central_Sephardic.JPG",
+    "autor": "Dr. Avishai Teicher",
+    "licenca": "CC BY 2.5"
+   }
   },
   {
    "id": "urim-tumim",
@@ -436,7 +506,14 @@
     "epoca": "reconstrução moderna"
    },
    "reconstrucao": true,
-   "nota": "Não há qualquer peça ou descrição antiga segura; o item pode ficar só com texto."
+   "nota": "Não há qualquer peça ou descrição antiga segura; o item pode ficar só com texto.",
+   "img": {
+    "alt": "Ilustração de 1851 do peitoral com as pedras. Representação; o Urim e o Tumim não são descritos no texto",
+    "descricao": "Ilustração de 1851 do peitoral com as pedras. Representação; o Urim e o Tumim não são descritos no texto.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:%E2%80%9CREPRESENTATION_OF_THE_BREAST_PLATE%E2%80%9D_1851_book_illustration-_Precious_stones_-_being_an_account_of_the_stones_mentioned_in_the_Sacred_Scriptures_(IA_PreciousStonesBeingAnAccountOfTheStonesMentionedInTheSacred)_(page_69_crop).jpg",
+    "autor": "Hindmarsh, Robert, 1759-1835",
+    "licenca": "Public domain"
+   }
   },
   {
    "id": "mitra",
@@ -525,7 +602,14 @@
      "referencia": "conjunto de utensílios de bronze, incluindo pás de incenso",
      "data": "escavado em 1960-61; peças até 135 d.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Pá de incenso romana de bronze, Metropolitan Museum",
+    "descricao": "Pá de incenso romana de bronze, Metropolitan Museum.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Bronze_batillum_(incense_shovel)_MET_DP20385.jpg",
+    "autor": "Wikimedia Commons",
+    "licenca": "CC0"
+   }
   },
   {
    "id": "trombetas-prata",
@@ -587,7 +671,14 @@
      "referencia": "painel com arca, menorás e shofar",
      "data": "séc. VI d.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Shofar de chifre de carneiro",
+    "descricao": "Shofar de chifre de carneiro.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Shofar-16-Zachi-Evenor.jpg",
+    "autor": "Zachi Evenor",
+    "licenca": "CC BY 2.0"
+   }
   },
   {
    "id": "altar-chifres",
@@ -678,7 +769,14 @@
      "referencia": "lamparinas 'herodianas' de bico espatulado, comuns em Jerusalém",
      "data": "c. fim do séc. I a.C. a 70 d.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Lamparinas de barro helenísticas e herodianas",
+    "descricao": "Lamparinas de barro helenísticas e herodianas.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Oil_Lamps,_-9-10_Hellenistic;_-11_%22Herodian%22_(10450650274).jpg",
+    "autor": "Gary Todd from Xinzheng, China",
+    "licenca": "CC0"
+   }
   },
   {
    "id": "luminaria",
@@ -709,7 +807,14 @@
      "referencia": "suportes de lamparina de bronze preservados pela erupção do Vesúvio",
      "data": "79 d.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Suporte de lâmpada romano de bronze, Metropolitan Museum",
+    "descricao": "Suporte de lâmpada romano de bronze, Metropolitan Museum.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Bronze_lampstand_MET_DP20382.jpg",
+    "autor": "Wikimedia Commons",
+    "licenca": "CC0"
+   }
   },
   {
    "id": "mo-manual",
@@ -740,7 +845,14 @@
      "referencia": "mós de sela de basalto em casas da Idade do Ferro",
      "data": "c. 1200-586 a.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Mó de sela com a pedra de moer",
+    "descricao": "Mó de sela com a pedra de moer (Neolítico, Inglaterra): o mesmo tipo usado em Israel.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Saddle_Quern_and_Rubbing_Stone.jpg",
+    "autor": "Claire H.",
+    "licenca": "CC BY-SA 2.0"
+   }
   },
   {
    "id": "forno",
@@ -771,7 +883,14 @@
      "referencia": "bases de fornos de barro em pátios de casas",
      "data": "c. 1200-586 a.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Forno de aldeia na Palestina, foto da American Colony",
+    "descricao": "Forno de aldeia na Palestina, foto da American Colony (c. 1900).",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Village_oven.JPG",
+    "autor": "American Colony (Jerusalem). Photo Dept., photographer.",
+    "licenca": "Public domain"
+   }
   },
   {
    "id": "cantaro",
@@ -796,7 +915,14 @@
      -586
     ]
    },
-   "reconstrucao": false
+   "reconstrucao": false,
+   "img": {
+    "alt": "Jarro de barro pintado com bico",
+    "descricao": "Jarro de barro pintado com bico (Irã, c. 900 a.C.).",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Beak_spouted_jug_with_handle.jpg",
+    "autor": "anonymous",
+    "licenca": "CC0"
+   }
   },
   {
    "id": "jarros-pedra",
@@ -850,7 +976,14 @@
     "epoca": "uso tradicional (sem peça antiga)"
    },
    "reconstrucao": true,
-   "nota": "Couro raramente sobrevive; a foto deve ser de odre tradicional moderno ou de relevo antigo que mostre um."
+   "nota": "Couro raramente sobrevive; a foto deve ser de odre tradicional moderno ou de relevo antigo que mostre um.",
+   "img": {
+    "alt": "Vendedor de água com odres de couro, no Marrocos. Uso tradicional atual",
+    "descricao": "Vendedor de água com odres de couro, no Marrocos. Uso tradicional atual.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:GUERAB_-_The_water_seller.jpg",
+    "autor": "Farajiibrahim",
+    "licenca": "CC BY-SA 4.0"
+   }
   },
   {
    "id": "bacia",
@@ -872,7 +1005,14 @@
      100
     ]
    },
-   "reconstrucao": false
+   "reconstrucao": false,
+   "img": {
+    "alt": "Coador romano de bronze",
+    "descricao": "Coador romano de bronze.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Roman_bronze_colander_found_in_Pomerania.jpg",
+    "autor": "Roman bronze colander",
+    "licenca": "CC0"
+   }
   },
   {
    "id": "cesto",
@@ -903,7 +1043,14 @@
      "referencia": "cesto de fibras com utensílios de bronze",
      "data": "escavado em 1960-61; até 135 d.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Cesto da Caverna das Cartas, Nahal Hever",
+    "descricao": "Cesto da Caverna das Cartas, Nahal Hever (132-135 d.C.), Museu de Israel.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Basket._Cave_of_Letters,_Nahal_Hever._Israel_Museum,_Jerusalem.JPG",
+    "autor": "Chamberi",
+    "licenca": "CC BY-SA 3.0"
+   }
   },
   {
    "id": "almofariz",
@@ -925,7 +1072,14 @@
      -586
     ]
    },
-   "reconstrucao": false
+   "reconstrucao": false,
+   "img": {
+    "alt": "Almofariz de basalto com três pés, Chipre, Metropolitan Museum",
+    "descricao": "Almofariz de basalto com três pés, Chipre, Metropolitan Museum.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Basalt_mortar_MET_DP121292.jpg",
+    "autor": "Wikimedia Commons",
+    "licenca": "CC0"
+   }
   },
   {
    "id": "chave",
@@ -948,7 +1102,14 @@
      300
     ]
    },
-   "reconstrucao": false
+   "reconstrucao": false,
+   "img": {
+    "alt": "Chave egípcia de bronze, Museu Egípcio de Turim",
+    "descricao": "Chave egípcia de bronze, Museu Egípcio de Turim.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Key,_bronze_-_Museo_Egizio,_Turin_S_3438_p01.jpg",
+    "autor": "Wikimedia Commons",
+    "licenca": "CC0"
+   }
   },
   {
    "id": "alabastro",
@@ -969,7 +1130,14 @@
      100
     ]
    },
-   "reconstrucao": false
+   "reconstrucao": false,
+   "img": {
+    "alt": "Vaso egípcio de alabastro",
+    "descricao": "Vaso egípcio de alabastro (vaso canópico de Ptahhotep).",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Canopic_jar_of_Ptahhotep_with_a_falcon-headed_lid,_alabaster_-_Museo_Egizio,_Turin_C_3214-04_p05.jpg",
+    "autor": "Wikimedia Commons",
+    "licenca": "CC0"
+   }
   },
   {
    "id": "espelho",
@@ -991,7 +1159,14 @@
      -1070
     ]
    },
-   "reconstrucao": false
+   "reconstrucao": false,
+   "img": {
+    "alt": "Espelho egípcio de bronze com cabo em flor de lótus, Museu Egípcio de Turim",
+    "descricao": "Espelho egípcio de bronze com cabo em flor de lótus, Museu Egípcio de Turim.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Specchio_con_manico_a_forma_di_fiore_di_loto_-_Museo_Egizio_Cat_6427_f01.jpg",
+    "autor": "Wikimedia Commons",
+    "licenca": "CC0"
+   }
   },
   {
    "id": "copo-calice",
@@ -1014,7 +1189,14 @@
     ]
    },
    "reconstrucao": false,
-   "nota": "Não se sabe como era o cálice da última ceia; a foto mostra um copo da época."
+   "nota": "Não se sabe como era o cálice da última ceia; a foto mostra um copo da época.",
+   "img": {
+    "alt": "Taça romana de vidro",
+    "descricao": "Taça romana de vidro.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Glass_cup_Massimo_Inv12408.jpg",
+    "autor": "Unknown artistUnknown artist",
+    "licenca": "Public domain"
+   }
   },
   {
    "id": "leito-marfim",
@@ -1043,7 +1225,14 @@
      "referencia": "centenas de fragmentos de marfim entalhado no palácio de Samaria",
      "data": "escavados nos anos 1930; séc. IX-VIII a.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Marfins de móveis de Samaria",
+    "descricao": "Marfins de móveis de Samaria (séc. IX-VIII a.C.).",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Furniture_Inlays,_Samaria,_9th-8th_Century_BC_(41408597500).jpg",
+    "autor": "Gary Todd from Xinzheng, China",
+    "licenca": "CC0"
+   }
   },
   {
    "id": "arado",
@@ -1075,7 +1264,14 @@
      "referencia": "relhas de arado de ferro em sítios da Idade do Ferro",
      "data": "c. séc. X-VI a.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Relhas de arado celtas",
+    "descricao": "Relhas de arado celtas (c. 250 a.C., Polônia): a ponta de ferro do arado.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:020220317_205355_Celtic_period_plowshares_in_Lesser_Poland,_250_AD.jpg",
+    "autor": "Silar",
+    "licenca": "CC BY-SA 4.0"
+   }
   },
   {
    "id": "aguilhada",
@@ -1126,7 +1322,14 @@
      "referencia": "pequena tábua de calcário com os meses do ano agrícola, incluindo colheita da cevada",
      "data": "c. séc. X a.C.; achado em 1908, hoje no Museu de Arqueologia de Istambul"
     }
-   ]
+   ],
+   "img": {
+    "alt": "Foice de ferro da Idade do Ferro",
+    "descricao": "Foice de ferro da Idade do Ferro (Inglaterra).",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Iron_sickle,_torc_and_adze.JPG",
+    "autor": "No machine-readable author provided. Gaius Cornelius assumed (based on copyright claims).",
+    "licenca": "Public domain"
+   }
   },
   {
    "id": "debulhador",
@@ -1154,7 +1357,14 @@
      "referencia": "lâminas de sílex de trilhos (tribulum) achadas em sítios antigos",
      "data": "desde a Idade do Bronze"
     }
-   ]
+   ],
+   "img": {
+    "alt": "Trilho de debulhar de madeira com pedras cravadas",
+    "descricao": "Trilho de debulhar de madeira com pedras cravadas.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Threshing_board_A.jpg",
+    "autor": "Wouter Hagens",
+    "licenca": "CC BY-SA 4.0"
+   }
   },
   {
    "id": "pa-joeirar",
@@ -1174,7 +1384,14 @@
     "epoca": "uso tradicional"
    },
    "reconstrucao": true,
-   "nota": "Ferramentas de madeira não sobrevivem do período bíblico."
+   "nota": "Ferramentas de madeira não sobrevivem do período bíblico.",
+   "img": {
+    "alt": "Forcado de joeirar de madeira, Jerusalém",
+    "descricao": "Forcado de joeirar de madeira, Jerusalém.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Hatzar_Sergei_IMG_6299.JPG",
+    "autor": "Deror avi",
+    "licenca": "CC BY-SA 3.0"
+   }
   },
   {
    "id": "lagar",
@@ -1264,7 +1481,14 @@
      "referencia": "grupos de pesos de tear caídos em fileira, indicando teares verticais",
      "data": "c. 1200-586 a.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Pesos de tear, agulha e espátula, Siquém",
+    "descricao": "Pesos de tear, agulha e espátula, Siquém (Museu Semítico de Harvard).",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Needle,_sword_beater,_pin_beater,_and_loom_weights,_Shechem_and_Dothan,_Iron_Age_I_and_II,_bone_or_fired_clay_-_Harvard_Semitic_Museum_-_Cambridge,_MA_-_DSC06036_(cropped_to_loom).jpg",
+    "autor": "Daderot",
+    "licenca": "Public domain"
+   }
   },
   {
    "id": "fuso",
@@ -1285,7 +1509,14 @@
      100
     ]
    },
-   "reconstrucao": false
+   "reconstrucao": false,
+   "img": {
+    "alt": "Peso de fuso",
+    "descricao": "Peso de fuso (fusaiola) do Egeu, Metropolitan Museum.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Spindle_whorl_MET_DP114348.jpg",
+    "autor": "Wikimedia Commons",
+    "licenca": "CC0"
+   }
   },
   {
    "id": "roda-oleiro",
@@ -1365,7 +1596,14 @@
      "referencia": "centenas de pedras de funda no local do cerco; fundeiros retratados no relevo",
      "data": "cerco de 701 a.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Pedras de funda de Laquis",
+    "descricao": "Pedras de funda de Laquis (701 a.C.).",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Sling_Stones,_Tel_Lachish_IMG_9766.JPG",
+    "autor": "Deror_avi",
+    "licenca": "CC BY-SA 3.0"
+   }
   },
   {
    "id": "jugo",
@@ -1407,7 +1645,14 @@
      -586
     ]
    },
-   "reconstrucao": false
+   "reconstrucao": false,
+   "img": {
+    "alt": "Cabeça de machado de bronze da Idade do Ferro",
+    "descricao": "Cabeça de machado de bronze da Idade do Ferro (750-600 a.C.).",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Iron_Age,_Socketed_Axe_Head,_(FindID_221126).jpg",
+    "autor": "Clywd-Powys Archaeological Trust, Rod Trevaskus, 2008-06-04 16:35:48",
+    "licenca": "CC BY-SA 2.0"
+   }
   },
   {
    "id": "prumo",
@@ -1424,7 +1669,14 @@
     "o_que_mostrar": "prumo antigo de pedra ou bronze (Egito ou Oriente Próximo)",
     "epoca": "antiguidade"
    },
-   "reconstrucao": false
+   "reconstrucao": false,
+   "img": {
+    "alt": "Prumo de bronze egípcio",
+    "descricao": "Prumo de bronze egípcio.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Plumb_Bob_LACMA_M.80.198.176.jpg",
+    "autor": "Wikimedia Commons",
+    "licenca": "Public domain"
+   }
   },
   {
    "id": "carro-boi",
@@ -1453,7 +1705,14 @@
      "referencia": "cenas do cerco e da deportação",
      "data": "c. 700-690 a.C., sobre o cerco de 701 a.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Relevo de Laquis",
+    "descricao": "Relevo de Laquis (Nínive, c. 700 a.C.): deportados de Judá com carros de bois. Museu Britânico.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Lachish_Relief,_British_Museum_14.jpg",
+    "autor": "Photograph by Mike Peel (www.mikepeel.net).",
+    "licenca": "CC BY-SA 4.0"
+   }
   },
   {
    "id": "manjedoura",
@@ -1483,7 +1742,14 @@
      "referencia": "cochos de pedra entre pilares, interpretados como estábulos ou depósitos",
      "data": "Idade do Ferro; função e data discutidas"
     }
-   ]
+   ],
+   "img": {
+    "alt": "Cocho de pedra dos armazéns de Megido",
+    "descricao": "Cocho de pedra dos armazéns de Megido.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:One_of_the_troughs_from_the_storehouses_at_Megiddo_(20710104922).jpg",
+    "autor": "Ian Scott",
+    "licenca": "CC BY-SA 2.0"
+   }
   },
   {
    "id": "mo-jumento",
@@ -1586,7 +1852,14 @@
      "referencia": "casco de madeira achado na margem do lago em seca",
      "data": "achado de 1986; datado por carbono-14 e cerâmica entre séc. I a.C. e séc. I d.C. (aproximado)"
     }
-   ]
+   ],
+   "img": {
+    "alt": "Barco da Galileia, do séc. I d.C., achado perto de Ginosar",
+    "descricao": "Barco da Galileia, do séc. I d.C., achado perto de Ginosar.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Ancient_Sea_of_Galilee_Boat_1st_Century_AD_at_Yigal_Allon_Centre_Ginosar_Israel.jpg",
+    "autor": "Ywpark2003 Prof. Yong Woo Park",
+    "licenca": "CC0"
+   }
   },
   {
    "id": "ancora",
@@ -1609,7 +1882,14 @@
      200
     ]
    },
-   "reconstrucao": false
+   "reconstrucao": false,
+   "img": {
+    "alt": "Cepo de âncora romana de chumbo, Museu Narbo Via",
+    "descricao": "Cepo de âncora romana de chumbo, Museu Narbo Via.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Jas_ancre_marine_-_Narbo_Via.jpg",
+    "autor": "Zunkir",
+    "licenca": "CC BY-SA 4.0"
+   }
   },
   {
    "id": "rolo",
@@ -1642,7 +1922,14 @@
      "referencia": "manuscrito completo de Isaías achado na Caverna 1 de Qumran",
      "data": "achado em 1947; copiado c. séc. II a.C. (aproximado)"
     }
-   ]
+   ],
+   "img": {
+    "alt": "Trecho do grande rolo de Isaías de Qumran",
+    "descricao": "Trecho do grande rolo de Isaías de Qumran (1QIsa).",
+    "pagina": "https://commons.wikimedia.org/wiki/File:The_Great_Isaiah_Scroll_MS_A_(1QIsa)_-_Google_Art_Project-x2-y0.jpg",
+    "autor": "Unknown artistUnknown artist",
+    "licenca": "Public domain"
+   }
   },
   {
    "id": "tinta-pena",
@@ -1673,7 +1960,14 @@
      "referencia": "tinteiros de cerâmica e bronze no sítio",
      "data": "anos 1950; séc. I a.C.-I d.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Sala chamada \"scriptorium\" em Qumran, onde tinteiros foram achados",
+    "descricao": "Sala chamada \"scriptorium\" em Qumran, onde tinteiros foram achados.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Qumran6.jpg",
+    "autor": "Dennis G. Jarvis",
+    "licenca": "CC BY-SA 2.0"
+   }
   },
   {
    "id": "tabua-escrever",
@@ -1697,7 +1991,14 @@
     ]
    },
    "reconstrucao": false,
-   "nota": "Em Habacuque e Isaías as tábuas podem ser de outro material (madeira, pedra, barro); o texto não diz."
+   "nota": "Em Habacuque e Isaías as tábuas podem ser de outro material (madeira, pedra, barro); o texto não diz.",
+   "img": {
+    "alt": "Réplica de tábua de cera romana com estilete",
+    "descricao": "Réplica de tábua de cera romana com estilete.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Replica_of_roman_wax_writing_tablet_with_stylus.jpg",
+    "autor": "Peter van der Sluijs",
+    "licenca": "CC BY-SA 3.0"
+   }
   },
   {
    "id": "ostraco",
@@ -1759,7 +2060,14 @@
      "referencia": "dezenas de bulas hebraicas, uma com o nome Gemaryahu filho de Shaphan",
      "data": "achado de 1982; fim do séc. VII-início do séc. VI a.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Bula",
+    "descricao": "Bula (impressão de selo) com escrita hebraica do tempo do primeiro templo.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Paleo-Hebrew_seal.jpg",
+    "autor": "Unknown artistUnknown artist",
+    "licenca": "Public domain"
+   }
   },
   {
    "id": "anel-selar",
@@ -1809,7 +2117,14 @@
      "referencia": "jarros cilíndricos com tampa associados aos rolos do mar Morto",
      "data": "achados a partir de 1947; séc. I a.C.-I d.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Jarros dos manuscritos do mar Morto, Museu da Jordânia",
+    "descricao": "Jarros dos manuscritos do mar Morto, Museu da Jordânia.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Two_Dead_Sea_Scrolls_Jars_at_the_Jordan_Museum,_Amman.jpg",
+    "autor": "Osama Shukir Muhammed Amin FRCP(Glasg)",
+    "licenca": "CC BY-SA 4.0"
+   }
   },
   {
    "id": "filacterio",
@@ -1868,7 +2183,14 @@
      "referencia": "dois rolinhos de prata com o texto da bênção sacerdotal",
      "data": "achados em 1979; datados c. fim do séc. VII-início do séc. VI a.C., alguns propõem data mais tardia"
     }
-   ]
+   ],
+   "img": {
+    "alt": "Amuleto de prata de Ketef Hinom, com a bênção sacerdotal",
+    "descricao": "Amuleto de prata de Ketef Hinom, com a bênção sacerdotal (Nm 6:24-26).",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Ketef_Hinnom_KH2_Scroll.jpg",
+    "autor": "Ketef Hinnom Silver Scrolls",
+    "licenca": "Public domain"
+   }
   },
   {
    "id": "kinnor",
@@ -1905,7 +2227,14 @@
      "referencia": "placa com músico tocando lira diante de um governante",
      "data": "c. séc. XIII-XII a.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Moeda da revolta de Bar Kochba",
+    "descricao": "Moeda da revolta de Bar Kochba (132-135 d.C.) com uma lira.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Bar_Kokhba_Coin.jpg",
+    "autor": "http://en.wikipedia.org/wiki/User:IsraelXKV8R Tallenna tiedosto – Wikimedia Commons",
+    "licenca": "CC BY-SA 3.0"
+   }
   },
   {
    "id": "nebel",
@@ -2023,7 +2352,14 @@
     ]
    },
    "reconstrucao": false,
-   "nota": "O nome hebraico de Gênesis 4:21 (ugav) é outro instrumento de sopro, de forma desconhecida."
+   "nota": "O nome hebraico de Gênesis 4:21 (ugav) é outro instrumento de sopro, de forma desconhecida.",
+   "img": {
+    "alt": "Desenho de um aulo grego",
+    "descricao": "Desenho de um aulo grego (Museu de Candia).",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Britannica_Aulos_Candia.jpg",
+    "autor": "John L. Myres",
+    "licenca": "Public domain"
+   }
   },
   {
    "id": "trombeta-salpinx",
@@ -2091,7 +2427,14 @@
     "o_que_mostrar": "ponta de lança de ferro da Idade do Ferro ou ponta de lança romana",
     "epoca": "Idade do Ferro / período romano"
    },
-   "reconstrucao": false
+   "reconstrucao": false,
+   "img": {
+    "alt": "Pontas de lança e de flecha de ferro das Termópilas",
+    "descricao": "Pontas de lança e de flecha de ferro das Termópilas.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Iron_arrowheads_and_spearheads_from_Thermopyles.jpg",
+    "autor": "Therese Clutario",
+    "licenca": "CC BY 2.0"
+   }
   },
   {
    "id": "escudo",
@@ -2122,7 +2465,14 @@
      "referencia": "único scutum romano curvo praticamente completo conhecido",
      "data": "c. 250-256 d.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Escudo romano",
+    "descricao": "Escudo romano (scutum) de Dura-Europos, séc. III d.C.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Ag-obj-5959-001-pub-large.jpg",
+    "autor": "Photo credit: Yale University Art Gallery",
+    "licenca": "Public domain"
+   }
   },
   {
    "id": "arco-flechas",
@@ -2152,7 +2502,14 @@
      "referencia": "painéis do cerco de Laquis",
      "data": "c. 700-690 a.C., sobre o cerco de 701 a.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Relevo de Laquis",
+    "descricao": "Relevo de Laquis: arqueiros assírios no cerco (c. 700 a.C.). Museu Britânico.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Lachish_Relief,_British_Museum_14.jpg",
+    "autor": "Photograph by Mike Peel (www.mikepeel.net).",
+    "licenca": "CC BY-SA 4.0"
+   }
   },
   {
    "id": "ariete",
@@ -2187,7 +2544,14 @@
      "referencia": "rampa assíria ainda visível no sítio",
      "data": "701 a.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Relevo assírio com aríete subindo a rampa de cerco",
+    "descricao": "Relevo assírio com aríete subindo a rampa de cerco.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Assyrian_siege.jpg",
+    "autor": "Wikimedia Commons",
+    "licenca": "Public domain"
+   }
   },
   {
    "id": "carro-guerra",
@@ -2219,7 +2583,14 @@
      "referencia": "carros de madeira completos",
      "data": "reinado c. 1332-1323 a.C.; tumba aberta em 1922"
     }
-   ]
+   ],
+   "img": {
+    "alt": "Carro de guerra de Tutancâmon, Museu Egípcio do Cairo",
+    "descricao": "Carro de guerra de Tutancâmon, Museu Egípcio do Cairo.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Chariot_of_Tutankhamun.jpg",
+    "autor": "Heidi Kontkanen",
+    "licenca": "CC BY-SA 2.0"
+   }
   },
   {
    "id": "couraca",
@@ -2308,7 +2679,14 @@
      "referencia": "série de siclos de Tiro",
      "data": "cunhados c. 126/125 a.C. a c. 65/66 d.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Desenho de um meio siclo de Tiro",
+    "descricao": "Desenho de um meio siclo de Tiro (Encyclopaedia Biblica, 1903).",
+    "pagina": "https://commons.wikimedia.org/wiki/File:C%2BB-Shekel-FigC-TyrianHalfShekel.PNG",
+    "autor": "no idea - see source",
+    "licenca": "Public domain"
+   }
   },
   {
    "id": "didracma",
@@ -2337,7 +2715,14 @@
      "referencia": "meios siclos de Tiro",
      "data": "c. 126/125 a.C. a 65/66 d.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Desenho de um meio siclo de Tiro",
+    "descricao": "Desenho de um meio siclo de Tiro (Encyclopaedia Biblica, 1903).",
+    "pagina": "https://commons.wikimedia.org/wiki/File:C%2BB-Shekel-FigC-TyrianHalfShekel.PNG",
+    "autor": "no idea - see source",
+    "licenca": "Public domain"
+   }
   },
   {
    "id": "denario",
@@ -2367,7 +2752,14 @@
      "referencia": "denário de Tibério, reverso com figura feminina sentada (PONTIF MAXIM)",
      "data": "reinado de Tibério, 14-37 d.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Denário de Tibério, a \"moeda do tributo\"",
+    "descricao": "Denário de Tibério, a \"moeda do tributo\".",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Emperor_Tiberius_Denarius_-_Tribute_Penny.jpg",
+    "autor": "DrusMAX",
+    "licenca": "CC BY-SA 3.0"
+   }
   },
   {
    "id": "lepto",
@@ -2398,7 +2790,14 @@
      "referencia": "prutot de Alexandre Janeu (103-76 a.C.) e de Pôncio Pilatos (c. 29-31 d.C.)",
      "data": "séc. I a.C.-I d.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Prutá de bronze cunhada por Pôncio Pilatos",
+    "descricao": "Prutá de bronze cunhada por Pôncio Pilatos.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Coin-of-Pilate.jpg",
+    "autor": "Jack1956 at English Wikipedia",
+    "licenca": "Public domain"
+   }
   },
   {
    "id": "dracma",
@@ -2421,7 +2820,14 @@
     ]
    },
    "reconstrucao": false,
-   "nota": "A Bíblia Livre traduz 'moedas de prata'. Em Esdras e Neemias aparecem 'dracmas de ouro' (ver dárico)."
+   "nota": "A Bíblia Livre traduz 'moedas de prata'. Em Esdras e Neemias aparecem 'dracmas de ouro' (ver dárico).",
+   "img": {
+    "alt": "Dracma de prata de Atenas",
+    "descricao": "Dracma de prata de Atenas (500-400 a.C.).",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Athens_-_500-400_BC_-_silver_drachm_-_head_of_Athena_-_owl_-_Athens_Agora_Museum.jpg",
+    "autor": "ArchaiOptix",
+    "licenca": "CC BY-SA 4.0"
+   }
   },
   {
    "id": "darico",
@@ -2452,7 +2858,14 @@
      "referencia": "dáricos de ouro dos reis aquemênidas",
      "data": "introduzidos c. 515-500 a.C. (aproximado) até 330 a.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Dárico de ouro persa",
+    "descricao": "Dárico de ouro persa (c. 490 a.C.).",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Achaemenid_coin_daric_420BC_front.jpg",
+    "autor": "Deflim",
+    "licenca": "Public domain"
+   }
   },
   {
    "id": "balanca",
@@ -2473,7 +2886,14 @@
     "o_que_mostrar": "balança antiga de bronze com dois pratos",
     "epoca": "Idade do Ferro ao período romano"
    },
-   "reconstrucao": false
+   "reconstrucao": false,
+   "img": {
+    "alt": "Balança romana",
+    "descricao": "Balança romana (estatera) bizantina, Walters Art Museum.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Byzantine_-_Steelyard_-_Walters_54197.jpg",
+    "autor": "Anonymous (Byzantine Empire)Unknown author",
+    "licenca": "Public domain"
+   }
   },
   {
    "id": "pesos-pedra",
@@ -2554,7 +2974,14 @@
      100
     ]
    },
-   "reconstrucao": false
+   "reconstrucao": false,
+   "img": {
+    "alt": "Anel romano de ouro",
+    "descricao": "Anel romano de ouro.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Roman_finger_ring,_Gold_finger_ring_(FindID_882044).jpg",
+    "autor": "Oxfordshire County Council, Anni Byard, 2019-01-10 12:06:56",
+    "licenca": "CC BY 2.0"
+   }
   },
   {
    "id": "brincos",
@@ -2604,7 +3031,14 @@
     ]
    },
    "reconstrucao": false,
-   "nota": "Não há coroa real de Israel ou Judá conhecida; a coroa grega de folhas ilustra o 'stephanos' do Novo Testamento."
+   "nota": "Não há coroa real de Israel ou Judá conhecida; a coroa grega de folhas ilustra o 'stephanos' do Novo Testamento.",
+   "img": {
+    "alt": "Coroa grega de folhas de ouro, Museu Benaki",
+    "descricao": "Coroa grega de folhas de ouro, Museu Benaki.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Ancient_Greek_gold_wreath_at_the_Benaki_Museum_03.jpg",
+    "autor": "Deiadameian",
+    "licenca": "CC BY-SA 4.0"
+   }
   },
   {
    "id": "sandalias",
@@ -2697,7 +3131,14 @@
      "referencia": "livro 18, menciona 'José, chamado Caifás' como sumo sacerdote",
      "data": "c. 93-94 d.C."
     }
-   ]
+   ],
+   "img": {
+    "alt": "Ossuário do sumo sacerdote Caifás, Museu de Israel",
+    "descricao": "Ossuário do sumo sacerdote Caifás, Museu de Israel.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Ossuary_of_the_high_priest_Joseph_Caiaphas_P1180839.JPG",
+    "autor": "deror_avi",
+    "licenca": "CC BY-SA 3.0"
+   }
   },
   {
    "id": "pedra-rolante",
@@ -2728,7 +3169,14 @@
      "referencia": "estudo sobre pedras redondas em túmulos de Jerusalém do período do Segundo Templo",
      "data": "1999"
     }
-   ]
+   ],
+   "img": {
+    "alt": "Pedra rolante na entrada do túmulo da família de Herodes, Jerusalém",
+    "descricao": "Pedra rolante na entrada do túmulo da família de Herodes, Jerusalém.",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Old_tomb_entrance_(4160525370).jpg",
+    "autor": "Alistair from Montreal, Canada",
+    "licenca": "CC BY-SA 2.0"
+   }
   },
   {
    "id": "calcanhar-yehohanan",
