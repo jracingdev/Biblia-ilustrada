@@ -38,7 +38,7 @@ body::before{ content:""; position:fixed; inset:0 0 auto; height:env(safe-area-i
 *{ box-sizing:border-box }
 a{ color:var(--lapis) }
 :focus-visible{ outline:3px solid var(--focus); outline-offset:2px; border-radius:4px }
-.wrap{ max-width:1180px; margin:0 auto; padding-left:max(16px, env(safe-area-inset-left,0px)); padding-right:max(16px, env(safe-area-inset-right,0px)) }
+.wrap{ max-width:74rem; margin:0 auto; padding-left:max(16px, env(safe-area-inset-left,0px)); padding-right:max(16px, env(safe-area-inset-right,0px)) }
 .skip{ position:absolute; left:-999px; top:8px; z-index:50; background:var(--fg); color:var(--bg); padding:.6rem 1rem; border-radius:6px }
 .skip:focus{ left:16px }
 .sr{ position:absolute; width:1px; height:1px; overflow:hidden; clip:rect(0 0 0 0); white-space:nowrap }
@@ -49,17 +49,31 @@ button,select,input{ font:inherit; color:inherit }
 .btn:hover{ border-color:var(--lapis) }
 .btn.primary{ background:var(--lapis); border-color:var(--lapis); color:var(--bg) }
 .btn[aria-pressed="true"]{ background:var(--gold-soft); border-color:var(--gold) }
-.btn svg{ width:18px; height:18px }
+.btn svg{ width:1.15em; height:1.15em; flex:none }
 
 /* Cabeçalho */
 header.top{ position:sticky; top:env(safe-area-inset-top,0px); z-index:20; background:var(--surface); border-bottom:1px solid var(--line) }
-.top .wrap{ display:flex; align-items:center; gap:1rem; min-height:60px; flex-wrap:wrap; padding-block:.4rem }
+.top .wrap{ display:flex; align-items:center; gap:1rem; min-height:3.75rem; flex-wrap:wrap; padding-block:.4rem }
 .brand{ font-family:var(--f-display); font-weight:700; font-size:1.05rem; letter-spacing:.08em; text-decoration:none; color:var(--fg); display:flex; align-items:center; gap:.5rem; margin-right:auto }
 .brand span{ color:var(--gold) }
 nav.main ul{ display:flex; gap:.25rem; list-style:none; margin:0; padding:0; flex-wrap:wrap }
 nav.main a{ display:block; white-space:nowrap; padding:.5rem .7rem; border-radius:8px; text-decoration:none; color:var(--muted); font-weight:700; font-size:.92rem }
 nav.main a[aria-current="page"]{ color:var(--fg); background:var(--surface-2) }
-@media (max-width:760px){ nav.main{ order:3; width:100%; overflow-x:auto } nav.main ul{ flex-wrap:nowrap } }
+@media (max-width:1279px){
+  nav.main{ order:3; width:100%; overflow-x:auto; scrollbar-width:thin; -webkit-mask-image:linear-gradient(90deg,#000 92%,transparent); mask-image:linear-gradient(90deg,#000 92%,transparent) }
+  nav.main ul{ flex-wrap:nowrap; padding-right:2rem }
+  #abrir-a11y{ margin-left:auto }
+}
+/* Telas baixas (celular deitado, projetor com pouca altura): cabeçalho rola junto */
+/* Telas grandes (Full HD, TV, projetor): tudo cresce junto, em rem */
+@media (min-width:1600px){ html{ font-size:calc(112.5% * var(--scale)) } }
+@media (min-width:1920px){ html{ font-size:calc(125% * var(--scale)) } }
+@media (min-width:2560px){ html{ font-size:calc(150% * var(--scale)) } }
+@media (min-width:3200px){ html{ font-size:calc(200% * var(--scale)) } }
+/* Modo TV / controle remoto */
+html[data-tv="sim"] body{ padding:2.5vh 3vw }
+html[data-tv="sim"] :focus-visible, html[data-tv="sim"] :focus{ outline:5px solid var(--focus); outline-offset:4px }
+html[data-tv="sim"] .btn, html[data-tv="sim"] nav.main a{ min-height:48px }
 
 /* Painel de acessibilidade */
 #a11y{ border:1px solid var(--line); border-radius:var(--radius); padding:0; background:var(--surface); color:var(--fg); max-width:min(440px, calc(100vw - 32px)); width:100% }
@@ -69,7 +83,7 @@ nav.main a[aria-current="page"]{ color:var(--fg); background:var(--surface-2) }
 .row{ display:grid; gap:.45rem }
 .row > span{ font-weight:700 }
 .seg{ display:flex; flex-wrap:wrap; gap:.4rem }
-.seg .btn{ min-height:40px; padding:.4rem .8rem; font-size:.9rem }
+.seg .btn{ min-height:2.5rem; padding:.4rem .8rem; font-size:.9rem }
 .dlg-foot{ display:flex; justify-content:flex-end; gap:.5rem }
 
 main{ padding-block:1.5rem 4rem }
@@ -83,7 +97,7 @@ main{ padding-block:1.5rem 4rem }
 .hero .btn{ background:#F4F1E6; color:#101836; border-color:#F4F1E6 }
 .hero .btn.ghost{ background:transparent; color:#F4F1E6; border-color:#8E95BC }
 .hero-stars{ position:absolute; inset:0; pointer-events:none; opacity:.55 }
-.prog{ margin-top:1.4rem; max-width:420px }
+.prog{ margin-top:1.4rem; max-width:26rem }
 .bar{ height:8px; border-radius:99px; background:rgb(255 255 255 / .15); overflow:hidden }
 .bar i{ display:block; height:100%; background:#E7C46F; border-radius:99px }
 .prog small{ display:block; margin-top:.4rem; color:#C9CBE0 }
@@ -99,9 +113,9 @@ main{ padding-block:1.5rem 4rem }
 .facts dd{ margin:.25rem 0 0 }
 
 .mapa{ display:grid; gap:.6rem }
-.sec{ display:grid; grid-template-columns:56px 1fr auto; gap:1rem; align-items:center; background:var(--surface); border:1px solid var(--line); border-radius:var(--radius); padding:.8rem 1rem }
-.sec .ico{ width:48px; height:48px; border-radius:12px; display:grid; place-items:center; color:#fff }
-.sec .ico svg{ width:28px; height:28px }
+.sec{ display:grid; grid-template-columns:3.5rem 1fr auto; gap:1rem; align-items:center; background:var(--surface); border:1px solid var(--line); border-radius:var(--radius); padding:.8rem 1rem }
+.sec .ico{ width:3rem; height:3rem; border-radius:12px; display:grid; place-items:center; color:#fff }
+.sec .ico svg{ width:1.75rem; height:1.75rem }
 .sec h3{ margin:0; font-size:1.02rem }
 .sec p{ margin:.15rem 0 0; color:var(--muted); font-size:.92rem }
 .chips{ display:flex; gap:.35rem; flex-wrap:wrap; justify-content:flex-end }
@@ -109,7 +123,7 @@ main{ padding-block:1.5rem 4rem }
 .chip:hover{ border-color:var(--lapis) }
 .chip.lido{ background:var(--gold-soft); border-color:var(--gold) }
 .chip.lido::after{ content:""; position:absolute; top:3px; right:3px; width:7px; height:7px; border-radius:50%; background:var(--gold) }
-@media (max-width:640px){ .sec{ grid-template-columns:48px 1fr } .chips{ grid-column:1 / -1; justify-content:flex-start } }
+@media (max-width:640px){ .sec{ grid-template-columns:3rem 1fr } .chips{ grid-column:1 / -1; justify-content:flex-start } }
 
 .lentes{ display:grid; grid-template-columns:repeat(auto-fit, minmax(min(240px,100%),1fr)); gap:.8rem }
 .lente{ background:var(--surface); border:1px solid var(--line); border-radius:var(--radius); padding:1rem }
@@ -121,7 +135,7 @@ main{ padding-block:1.5rem 4rem }
 .cap-nav{ display:flex; align-items:center; gap:.5rem; flex-wrap:wrap; margin-bottom:1rem }
 .cap-nav select{ min-height:44px; border-radius:999px; border:1.5px solid var(--line); background:var(--surface); padding:0 .8rem; max-width:100% }
 .cap-nav .sp{ flex:1 }
-.cap-grid{ display:grid; grid-template-columns:minmax(0,1fr) 340px; gap:2rem; align-items:start }
+.cap-grid{ display:grid; grid-template-columns:minmax(0,1fr) 21.25rem; gap:2rem; align-items:start }
 @media (max-width:980px){ .cap-grid{ grid-template-columns:minmax(0,1fr) } }
 .ilus{ margin:0 0 1.5rem; display:grid; gap:.6rem }
 .ilus-slides{ display:grid; grid-auto-flow:column; grid-auto-columns:100%; overflow-x:auto; scroll-snap-type:x mandatory; border-radius:16px; scrollbar-width:none }
@@ -164,7 +178,7 @@ aside.estudo{ display:grid; gap:1rem; position:sticky; top:calc(env(safe-area-in
 .quiz fieldset{ border:0; padding:0; margin:0 }
 .quiz legend{ font-weight:700; margin-bottom:.5rem; padding:0 }
 .quiz label{ display:flex; gap:.6rem; align-items:center; padding:.5rem .6rem; border:1.5px solid var(--line); border-radius:8px; margin-bottom:.4rem; cursor:pointer }
-.quiz input{ width:20px; height:20px; accent-color:var(--lapis) }
+.quiz input{ width:1.25rem; height:1.25rem; accent-color:var(--lapis) }
 .quiz label.certa{ border-color:var(--ok); background:color-mix(in srgb, var(--ok) 12%, transparent) }
 .quiz label.errada{ border-color:var(--bad); background:color-mix(in srgb, var(--bad) 10%, transparent) }
 .fb{ margin-top:.5rem; font-weight:700 }
@@ -190,7 +204,7 @@ aside.estudo{ display:grid; gap:1rem; position:sticky; top:calc(env(safe-area-in
 .ig.on{ border-color:var(--gold) }
 .ig h3{ margin:0 0 .5rem; font-family:var(--f-display); letter-spacing:.04em; display:flex; justify-content:space-between; gap:.5rem; flex-wrap:wrap; align-items:baseline }
 .ig h3 a{ font-family:var(--f-ui); font-size:.85rem; letter-spacing:0 }
-.ig dl{ display:grid; grid-template-columns:110px 1fr; gap:.4rem .8rem; margin:0 }
+.ig dl{ display:grid; grid-template-columns:7rem 1fr; gap:.4rem .8rem; margin:0 }
 .ig dt{ font-weight:700; font-size:.85rem; color:var(--muted) }
 .ig dd{ margin:0 }
 .ig dd.vazio{ color:var(--muted); font-style:italic }
@@ -206,7 +220,7 @@ aside.estudo{ display:grid; gap:1rem; position:sticky; top:calc(env(safe-area-in
 .sim .meta{ display:flex; gap:.5rem; align-items:center; flex-wrap:wrap; font-size:.88rem }
 
 /* Quiz geral */
-.qz-list{ display:grid; gap:1rem; max-width:760px }
+.qz-list{ display:grid; gap:1rem; max-width:47.5rem }
 .placar{ position:sticky; top:calc(env(safe-area-inset-top,0px) + 70px); z-index:5; background:var(--surface); border:1px solid var(--line); border-radius:var(--radius); padding:.7rem 1rem; display:flex; justify-content:space-between; gap:1rem; align-items:center; max-width:760px; margin-bottom:1rem; font-variant-numeric:tabular-nums }
 
 /* Sobre */
@@ -276,7 +290,7 @@ aside.estudo{ display:grid; gap:1rem; position:sticky; top:calc(env(safe-area-in
 .apcap{ cursor:pointer }
 .apcap.on rect{ fill:var(--gold-soft); stroke:var(--gold) }
 .tip{ position:absolute; pointer-events:none; background:var(--fg); color:var(--bg); padding:.45rem .65rem; border-radius:8px; font-size:.82rem; max-width:280px; z-index:3; box-shadow:0 4px 14px rgb(0 0 0 / .25) }
-.sel-lista{ display:grid; gap:.4rem; max-height:320px; overflow:auto; padding-right:.3rem }
+.sel-lista{ display:grid; gap:.4rem; max-height:20rem; overflow:auto; padding-right:.3rem }
 .sel-lista button{ text-align:left; background:var(--surface-2); border:1px solid var(--line); border-radius:8px; padding:.5rem .7rem; cursor:pointer; font:inherit; font-size:.9rem; color:var(--fg) }
 .sel-lista button b{ color:var(--lapis) }
 footer.pe{ border-top:1px solid var(--line); padding-block:1.5rem; color:var(--muted); font-size:.88rem }
@@ -316,6 +330,7 @@ footer.pe{ border-top:1px solid var(--line); padding-block:1.5rem; color:var(--m
 .hist dt{ font-weight:700; color:var(--muted) } .hist dd{ margin:0; overflow-wrap:anywhere }
 .badge.ext{ color:var(--gold) }
 .filtros{ display:flex; flex-wrap:wrap; gap:.4rem; margin:.4rem 0 1rem }
+@media (max-height:520px){ header.top{ position:static } aside.estudo{ position:static } }
 </style>
 </head>
 <body>
@@ -323,7 +338,7 @@ footer.pe{ border-top:1px solid var(--line); padding-block:1.5rem; color:var(--m
 <header class="top">
   <div class="wrap">
     <a class="brand" href="#inicio" aria-label="Bíblia Ilustrada, início">
-      <svg width="26" height="26" viewBox="0 0 32 32" aria-hidden="true"><path d="M16 3v26M8 10h16" stroke="currentColor" stroke-width="3" stroke-linecap="round"/><circle cx="16" cy="10" r="13" fill="none" stroke="var(--gold)" stroke-width="2"/></svg>
+      <svg style="width:1.6em;height:1.6em" width="26" height="26" viewBox="0 0 32 32" aria-hidden="true"><path d="M16 3v26M8 10h16" stroke="currentColor" stroke-width="3" stroke-linecap="round"/><circle cx="16" cy="10" r="13" fill="none" stroke="var(--gold)" stroke-width="2"/></svg>
       Bíblia <span>Ilustrada</span>
     </a>
     <nav class="main" aria-label="Seções">
@@ -391,6 +406,13 @@ footer.pe{ border-top:1px solid var(--line); padding-block:1.5rem; color:var(--m
         <button type="button" class="btn" data-mov="normal">Normais</button>
         <button type="button" class="btn" data-mov="reduzido">Reduzidas</button>
       </div></div>
+    <div class="row"><span id="l-tv">TV e controle remoto</span>
+      <div class="seg" role="group" aria-labelledby="l-tv">
+        <button type="button" class="btn" data-tv="auto">Automático</button>
+        <button type="button" class="btn" data-tv="sim">Ligado</button>
+        <button type="button" class="btn" data-tv="nao">Desligado</button>
+      </div></div>
+    <p style="margin:0;font-size:.85rem;color:var(--muted)">Com o modo TV ligado, as setas do controle movem a seleção entre botões e links, OK abre e Voltar retorna.</p>
     <div class="dlg-foot"><button class="btn primary" value="ok">Pronto</button></div>
   </form>
 </dialog>
@@ -467,8 +489,53 @@ function vitral(cor, seed){
     <g stroke="#0B1022" stroke-width=".6" opacity=".55" fill="none"><path d="M0 30L160 60M40 0L90 90M120 0L70 90M0 70L160 20"/></g></svg>`;
 }
 
+/* ---------- TV e controle remoto ---------- */
+const EH_TV = /smart-?tv|smarttv|tizen|web0s|webos|netcast|hbbtv|googletv|android tv|bravia|aft[bmst]|crkey|roku|viera|philipstv|vidaa/i.test(navigator.userAgent);
+function modoTV(){ return prefs.tv === "sim" || (prefs.tv === "auto" && EH_TV); }
+// Navegação espacial: as setas movem o foco para o elemento mais próximo naquela direção
+const FOCAVEIS = 'a[href], button:not([disabled]), select, input, [tabindex]:not([tabindex="-1"]), summary';
+function moverFoco(dir){
+  const dlg = document.querySelector("dialog[open]"), raiz = dlg || document;
+  const atual = document.activeElement && document.activeElement !== document.body ? document.activeElement : null;
+  const vis = [...raiz.querySelectorAll(FOCAVEIS)].filter(e => { const r = e.getBoundingClientRect(); return r.width > 0 && r.height > 0 && r.right > 0 && r.left < innerWidth && !e.classList.contains("skip") && !e.closest("[hidden]") && getComputedStyle(e).visibility !== "hidden"; });
+  if (!atual){ const prim = vis.find(e => e.getBoundingClientRect().top >= 0); if (prim) prim.focus(); return true; }
+  // posições na página (o cabeçalho fixo conta como se estivesse no topo)
+  const caixa = e => { const r = e.getBoundingClientRect(), dy = !dlg && getComputedStyle(document.querySelector("header.top")).position !== "static" && e.closest("header.top") ? 0 : scrollY; return { left:r.left, right:r.right, top:r.top + dy, bottom:r.bottom + dy, width:r.width, height:r.height }; };
+  const a = caixa(atual), ax = a.left + a.width / 2, ay = a.top + a.height / 2;
+  let melhor = null, menor = Infinity;
+  for (const e of vis){
+    if (e === atual) continue;
+    const r = caixa(e), x = r.left + r.width / 2, y = r.top + r.height / 2;
+    const dx = x - ax, dy = y - ay;
+    const ok = dir === "ArrowRight" ? r.left >= a.right - 4 : dir === "ArrowLeft" ? r.right <= a.left + 4 : dir === "ArrowDown" ? r.top >= a.bottom - 4 : r.bottom <= a.top + 4;
+    if (!ok) continue;
+    const horiz = dir === "ArrowRight" || dir === "ArrowLeft";
+    const principal = horiz ? Math.max(0, dir === "ArrowRight" ? r.left - a.right : a.left - r.right) : Math.max(0, dir === "ArrowDown" ? r.top - a.bottom : a.top - r.bottom);
+    const sobrepoe = horiz ? r.top < a.bottom && r.bottom > a.top : r.left < a.right && r.right > a.left;
+    const lateral = sobrepoe ? 0 : (horiz ? Math.abs(dy) : Math.abs(dx));
+    const d = principal + lateral * 2.5;
+    if (d < menor){ menor = d; melhor = e; }
+  }
+  if (melhor){ melhor.focus({ preventScroll:true }); melhor.scrollIntoView({ block:"center", inline:"nearest", behavior: prefs.mov === "reduzido" ? "auto" : "smooth" }); return true; }
+  return false;
+}
+document.addEventListener("keydown", e => {
+  if (!modoTV()) return;
+  const k = e.key, alvo = e.target;
+  if (k === "GoBack" || k === "BrowserBack" || k === "Backspace" && !/INPUT|TEXTAREA/.test(alvo.tagName) || e.keyCode === 10009 || e.keyCode === 461){
+    const dlg = document.querySelector("dialog[open]");
+    if (dlg) dlg.close(); else history.back();
+    e.preventDefault(); return;
+  }
+  if (!/^Arrow(Up|Down|Left|Right)$/.test(k)) return;
+  if (/INPUT|TEXTAREA/.test(alvo.tagName) && (k === "ArrowLeft" || k === "ArrowRight")) return;
+  if (alvo.tagName === "SELECT") return;
+  if (alvo.id === "slides" && (k === "ArrowLeft" || k === "ArrowRight")) return;
+  if (moverFoco(k)) e.preventDefault();
+});
+
 /* ---------- Preferências ---------- */
-const prefs = Object.assign({ scale:1, tema:"auto", fonte:"serifa", lh:1.75, mov:"normal" }, store.get("prefs", {}));
+const prefs = Object.assign({ scale:1, tema:"auto", fonte:"serifa", lh:1.75, mov:"normal", tv:"auto" }, store.get("prefs", {}));
 function aplicarPrefs(){
   const r = document.documentElement;
   r.style.setProperty("--scale", prefs.scale);
@@ -478,6 +545,8 @@ function aplicarPrefs(){
   if (prefs.tema === "alto") r.setAttribute("data-contraste", "alto");
   r.setAttribute("data-fonte", prefs.fonte);
   r.setAttribute("data-movimento", prefs.mov);
+  r.setAttribute("data-tv", modoTV() ? "sim" : "nao");
+  document.querySelectorAll("#a11y [data-tv]").forEach(b => b.setAttribute("aria-pressed", b.dataset.tv === prefs.tv));
   $("#o-tam").textContent = Math.round(prefs.scale * 100) + "%";
   document.querySelectorAll("#a11y [data-tema]").forEach(b => b.setAttribute("aria-pressed", b.dataset.tema === prefs.tema));
   document.querySelectorAll("#a11y [data-fonte]").forEach(b => b.setAttribute("aria-pressed", b.dataset.fonte === prefs.fonte));
@@ -495,6 +564,7 @@ $("#a11y").addEventListener("click", e => {
   if (b.dataset.fonte) prefs.fonte = b.dataset.fonte;
   if (b.dataset.lh) prefs.lh = +b.dataset.lh;
   if (b.dataset.mov) prefs.mov = b.dataset.mov;
+  if (b.dataset.tv) prefs.tv = b.dataset.tv;
   aplicarPrefs();
 });
 aplicarPrefs();
