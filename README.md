@@ -6,7 +6,7 @@ Plataforma web pública, interativa e acessível para ler e estudar a Bíblia, l
 
 - Texto completo dos 22 capítulos (404 versículos), com leitura em voz alta.
 - Estudo por capítulo: resumo, lições, pergunta para reflexão e quiz.
-- **Raízes no Antigo Testamento:** 187 conexões com 288 passagens de 26 livros do AT, com o texto do AT aberto ao lado.
+- **Raízes no Antigo Testamento:** 187 conexões com 288 passagens de 26 livros do AT, com o texto do AT aberto ao lado, e uma linha do tempo em arcos que liga cada fato do AT, na sua época, ao versículo de Apocalipse.
 - **Quadros:** 61 cenas figurativas do livro, cada uma com referência, raízes no AT e prompt para a ilustração realista.
 - Símbolos explicados (separando o que o texto explica do que é interpretação), mapa das 7 igrejas e as 4 linhas de interpretação.
 - Acessibilidade: texto até 180%, alto contraste, tema escuro, letra de alta legibilidade, teclado e leitor de tela (meta WCAG 2.2 AA).
@@ -33,6 +33,7 @@ data/
   estudo/<livro>.json              seções, resumos, lições, símbolos, quiz
   estudo/<livro>-at.json           conexões com o Antigo Testamento
   estudo/<livro>-quadros.json      quadros figurativos e prompts de ilustração
+  estudo/linha-do-tempo.json       épocas dos livros do AT e fatos da linha do tempo em arcos
   fonte-original/biblialivre.json  Bíblia Livre completa (base para os próximos livros)
 ferramentas/
   gerar_dados.py                   gera os JSON acima a partir da fonte original

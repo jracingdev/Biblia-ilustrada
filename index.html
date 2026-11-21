@@ -251,6 +251,34 @@ aside.estudo{ display:grid; gap:1rem; position:sticky; top:calc(env(safe-area-in
 .qd-in p{ margin:0; font-size:.93rem }
 .qd details summary{ cursor:pointer; color:var(--muted); font-size:.85rem }
 .qd details p{ font-family:ui-monospace,Menlo,Consolas,monospace; font-size:.78rem; margin-top:.4rem; color:var(--muted) }
+/* Linha do tempo em arcos */
+:root{ --g-lei:#B5652B; --g-historicos:#3F8A4F; --g-poeticos:#2F74B5; --g-maiores:#8A4FB0; --g-menores:#C23B55 }
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]):not([data-tema="claro"]){ --g-lei:#F0A06A; --g-historicos:#7FD18E; --g-poeticos:#7DB6F0; --g-maiores:#C69AF0; --g-menores:#FF8FA6 } }
+:root[data-theme="dark"]:not([data-tema="claro"]), :root[data-tema="escuro"]{ --g-lei:#F0A06A; --g-historicos:#7FD18E; --g-poeticos:#7DB6F0; --g-maiores:#C69AF0; --g-menores:#FF8FA6 }
+:root[data-contraste="alto"]{ --g-lei:#FFB86B; --g-historicos:#7CFF9E; --g-poeticos:#6FD3FF; --g-maiores:#E2B3FF; --g-menores:#FF9AA5 }
+.arcos{ background:var(--surface); border:1px solid var(--line); border-radius:16px; padding:1rem; margin-top:1.2rem; display:grid; gap:.8rem }
+.arcos-ctrl{ display:flex; flex-wrap:wrap; gap:.4rem; align-items:center }
+.arcos-ctrl .lbl{ font-size:.8rem; font-weight:700; color:var(--muted); margin-right:.3rem; text-transform:uppercase; letter-spacing:.08em }
+.pill{ min-height:34px; padding:.25rem .7rem; border-radius:99px; border:1.5px solid var(--line); background:var(--surface); cursor:pointer; font-size:.85rem; font-weight:700; font-variant-numeric:tabular-nums; display:inline-flex; align-items:center; gap:.4rem }
+.pill[aria-pressed="true"]{ background:var(--gold-soft); border-color:var(--gold) }
+.pill i{ width:12px; height:12px; border-radius:3px; display:inline-block }
+.pill.off{ opacity:.45 }
+.arcos-svg{ overflow-x:auto; position:relative }
+.arcos-svg svg{ display:block; width:100%; min-width:880px; height:auto }
+.arcos-svg text{ fill:var(--fg); font-family:var(--f-ui) }
+.arc{ fill:none; stroke-width:1.6; opacity:.42; cursor:pointer; transition:opacity .2s, stroke-width .2s }
+.arc:hover, .arc.on{ opacity:1; stroke-width:3 }
+.arcos.foco .arc:not(.on){ opacity:.07 }
+.fato{ cursor:pointer }
+.fato circle{ fill:var(--surface); stroke:var(--gold); stroke-width:2.5 }
+.fato.on circle{ fill:var(--gold) }
+.fato:focus-visible{ outline:none } .fato:focus-visible circle{ stroke:var(--focus); stroke-width:4 }
+.apcap{ cursor:pointer }
+.apcap.on rect{ fill:var(--gold-soft); stroke:var(--gold) }
+.tip{ position:absolute; pointer-events:none; background:var(--fg); color:var(--bg); padding:.45rem .65rem; border-radius:8px; font-size:.82rem; max-width:280px; z-index:3; box-shadow:0 4px 14px rgb(0 0 0 / .25) }
+.sel-lista{ display:grid; gap:.4rem; max-height:320px; overflow:auto; padding-right:.3rem }
+.sel-lista button{ text-align:left; background:var(--surface-2); border:1px solid var(--line); border-radius:8px; padding:.5rem .7rem; cursor:pointer; font:inherit; font-size:.9rem; color:var(--fg) }
+.sel-lista button b{ color:var(--lapis) }
 footer.pe{ border-top:1px solid var(--line); padding-block:1.5rem; color:var(--muted); font-size:.88rem }
 .carregando{ padding:3rem 0; color:var(--muted) }
 @media (prefers-reduced-motion: reduce){ *{ transition:none !important; scroll-behavior:auto !important } }
@@ -359,7 +387,7 @@ const store = {
   get(k, d){ try { const v = localStorage.getItem("bi:" + k); return v == null ? d : JSON.parse(v); } catch { return d; } },
   set(k, v){ try { localStorage.setItem("bi:" + k, JSON.stringify(v)); } catch {} }
 };
-const D = { texto:null, estudo:null, fontes:null, livros:null, at:null, atTextos:null, quadros:null };
+const D = { texto:null, estudo:null, fontes:null, livros:null, at:null, atTextos:null, quadros:null, linha:null };
 const lidos = new Set(store.get("lidos", []));
 const respostas = store.get("respostas", {});
 const view = $("#view");
@@ -688,12 +716,93 @@ function telaRaizes(){
   return `
   <header class="cap-h"><span class="eyebrow">Estudo aprofundado</span><h1>Raízes no Antigo Testamento</h1></header>
   <p style="color:var(--muted);max-width:72ch">Apocalipse quase não cita o Antigo Testamento com \"como está escrito\", mas usa suas imagens o tempo todo. Aqui estão ${all.length} conexões com ${Object.keys(D.atTextos.trechos).length} passagens de ${livros.length} livros. Toque numa conexão para ler os dois textos lado a lado.</p>
+  <section class="arcos" id="arcos" aria-labelledby="t-arcos">
+    <div><h2 id="t-arcos" style="margin:0;font-family:var(--f-display);letter-spacing:.04em">Linha do tempo das conexões</h2>
+    <p style="margin:.3rem 0 0;color:var(--muted);max-width:75ch">Cada arco liga um fato ou profecia do Antigo Testamento, na sua época, ao versículo de Apocalipse que retoma aquela imagem. Toque num fato da linha, num capítulo de Apocalipse ou num arco.</p></div>
+    <div class="arcos-ctrl" role="group" aria-label="Filtrar por grupo de livros"><span class="lbl">Grupos</span>${D.linha.grupos.map(g => `<button type="button" class="pill" data-grupo="${g.id}" aria-pressed="true"><i style="background:var(--g-${g.id})"></i>${esc(g.nome)}</button>`).join("")}</div>
+    <div class="arcos-svg" id="arcos-svg"></div>
+    <p class="sr" id="arcos-status" role="status" aria-live="polite"></p>
+    <div id="arcos-sel"></div>
+    <p style="margin:0;font-size:.82rem;color:var(--muted)">${esc(D.linha.nota)}</p>
+  </section>
+  <h2 style="font-family:var(--f-display);letter-spacing:.04em;margin-top:2rem">Por livro do Antigo Testamento</h2>
   <div class="ot-books" style="margin-top:1rem">${livros.map(l => `
     <section class="ot-book" aria-labelledby="ob-${esc(l)}">
       <h3 id="ob-${esc(l)}">${esc(l)} <span>${porLivro[l].length} conexões</span></h3>
       <div class="ot-bar" aria-hidden="true"><i style="width:${Math.round(porLivro[l].length / max * 100)}%"></i></div>
       <ul>${porLivro[l].map(x => `<li><button type="button" class="lnk" style="background:none;border:0;padding:0;font:inherit;color:var(--lapis);text-decoration:underline;cursor:pointer;text-align:left" data-at="${x.it.cap}:0" data-item="${x.it.i}">${esc(x.r)} → Ap ${esc(x.it.versos)}</button></li>`).join("")}</ul>
     </section>`).join("")}</div>`;
+}
+
+function montarArcos(){
+  const L = D.linha, box = $("#arcos-svg"); if (!box) return;
+  const W = 1200, X0 = 40, X1 = 790, A0 = 850, A1 = 1170, BASE = 380;
+  const ano2x = a => X0 + (a - L.escala.inicio) / (L.escala.fim - L.escala.inicio) * (X1 - X0);
+  const ap2x = (c, v) => { const n = D.texto.capitulos[c - 1].versiculos.length; return A0 + ((c - 1) + (v - .5) / n) / 22 * (A1 - A0); };
+  function anoDe(t){
+    const info = L.livros[t.livro]; if (!info) return null;
+    const c = t.versos[0].c;
+    let per = info.periodos ? info.periodos.find(p => c >= p.caps[0] && c <= p.caps[1]) : info;
+    const totalCaps = D.livros.livros.find(l => l.nome === t.livro)?.capitulos || 1;
+    const c0 = info.periodos ? per.caps[0] : 1, c1 = info.periodos ? per.caps[1] : totalCaps;
+    const f = c1 > c0 ? (c - c0) / (c1 - c0) : .5;
+    return per.de + (per.ate - per.de) * f;
+  }
+  const arcos = [];
+  D.at.capitulos.forEach(cap => cap.itens.forEach((it, i) => {
+    const m = it.versos.match(/^(\d+):(\d+)/); const ac = +m[1], av = +m[2];
+    it.refs.forEach(r => { const t = D.atTextos.trechos[r]; if (!t) return; const ano = anoDe(t); if (ano == null) return;
+      arcos.push({ r, t, ano, grupo:L.livros[t.livro].grupo, ac, av, cap:cap.capitulo, i, it, x1:ano2x(ano), x2:ap2x(ac, av) }); });
+  }));
+  const arcPath = a => { const rx = (a.x2 - a.x1) / 2, ry = Math.min(BASE - 20, rx * .62); return `M${a.x1.toFixed(1)} ${BASE} A${rx.toFixed(1)} ${ry.toFixed(1)} 0 0 1 ${a.x2.toFixed(1)} ${BASE}`; };
+  const anos = [-2000, -1500, -1000, -500];
+  const fmt = a => a < 0 ? `${-a} a.C.` : `${a} d.C.`;
+  let svg = `<svg viewBox="0 0 ${W} 640" role="img" aria-label="Linha do tempo com ${arcos.length} arcos ligando passagens do Antigo Testamento, ordenadas por época, aos versículos de Apocalipse">`;
+  L.eras.forEach((e, k) => { const xa = ano2x(e.de), xb = ano2x(e.ate); svg += `<rect x="${xa}" y="${BASE + 6}" width="${xb - xa}" height="22" fill="var(--surface-2)" stroke="var(--line)"/><text x="${(xa + xb) / 2}" y="${BASE + 21}" text-anchor="middle" style="font-size:${xb - xa < 70 ? 9 : 11}px;fill:var(--muted)">${esc(e.nome)}</text>`; });
+  anos.forEach(a => { const x = ano2x(a); svg += `<line x1="${x}" x2="${x}" y1="${BASE - 4}" y2="${BASE + 4}" stroke="var(--muted)"/><text x="${x}" y="${BASE - 8}" text-anchor="middle" style="font-size:10px;fill:var(--muted)">${fmt(a)}</text>`; });
+  svg += `<line x1="${X0}" x2="${X1}" y1="${BASE}" y2="${BASE}" stroke="var(--fg)" stroke-width="1.5"/>`;
+  svg += `<text x="${(X1 + A0) / 2}" y="${BASE + 4}" text-anchor="middle" style="font-size:14px;fill:var(--muted)">≈</text>`;
+  svg += `<text x="${(A0 + A1) / 2}" y="${BASE + 62}" text-anchor="middle" style="font-size:11px;fill:var(--muted)">${esc(L.apocalipse.rotulo)}</text>`;
+  for (let c = 1; c <= 22; c++){ const xa = A0 + (c - 1) / 22 * (A1 - A0), w = (A1 - A0) / 22; svg += `<g class="apcap" data-apc="${c}" tabindex="0" role="button" aria-label="Apocalipse capítulo ${c}"><rect x="${xa + .5}" y="${BASE + 6}" width="${w - 1}" height="34" rx="3" fill="var(--surface-2)" stroke="var(--line)"/><text x="${xa + w / 2}" y="${BASE + 27}" text-anchor="middle" style="font-size:10px;font-weight:700">${c}</text></g>`; }
+  svg += `<g>${arcos.map((a, k) => `<path class="arc" data-k="${k}" d="${arcPath(a)}" stroke="var(--g-${a.grupo})"/>`).join("")}</g>`;
+  const ord = L.fatos.map((f, k) => ({ f, k, x:ano2x(f.ano) })).sort((p, q) => p.x - q.x);
+  ord.forEach((o, j) => { o.dx = j ? Math.max(o.x, ord[j - 1].dx + 20) : o.x; });
+  const excesso = ord.length ? ord[ord.length - 1].dx - X1 : 0; if (excesso > 0) ord.forEach(o => { o.dx -= excesso * (o.dx - X0) / (X1 - X0); });
+  ord.forEach(({ f, k, x, dx }) => { const y = BASE + 50; svg += `<g class="fato" data-f="${k}" tabindex="0" role="button" aria-label="${esc(f.titulo)}, cerca de ${fmt(f.ano)}"><polyline points="${x},${BASE} ${x},${BASE + 32} ${dx},${y - 7}" fill="none" stroke="var(--gold)" stroke-dasharray="2 3"/><circle cx="${dx}" cy="${y}" r="6"/><text transform="translate(${dx + 3} ${y + 11}) rotate(60)" style="font-size:11px">${esc(f.titulo)}</text></g>`; });
+  svg += `</svg><div class="tip" id="arc-tip" hidden></div>`;
+  box.innerHTML = svg;
+  const raiz = $("#arcos"), tip = $("#arc-tip"), paths = [...box.querySelectorAll(".arc")];
+  const gruposOn = new Set(L.grupos.map(g => g.id));
+  function aplicarGrupos(){ paths.forEach(p => { p.style.display = gruposOn.has(arcos[+p.dataset.k].grupo) ? "" : "none"; }); }
+  function destacar(lista, titulo){
+    const ks = new Set(lista);
+    raiz.classList.toggle("foco", lista.length > 0);
+    paths.forEach(p => p.classList.toggle("on", ks.has(+p.dataset.k)));
+    const vis = lista.filter(k => gruposOn.has(arcos[k].grupo));
+    $("#arcos-status").textContent = titulo ? `${titulo}: ${vis.length} conexões` : "";
+    $("#arcos-sel").innerHTML = titulo ? `<h3 style="margin:.2rem 0 .5rem;font-size:1rem">${esc(titulo)} · ${vis.length} conexões <button type="button" class="pill" id="arcos-limpar" style="margin-left:.4rem">Limpar</button></h3><div class="sel-lista">${vis.map(k => { const a = arcos[k]; return `<button type="button" data-at="${a.cap}:0" data-item="${a.i}"><b>${esc(a.r)}</b> (c. ${fmt(Math.round(a.ano / 10) * 10)}) → <b>Ap ${esc(a.it.versos)}</b> · ${esc(a.it.nota)}</button>`; }).join("")}</div>` : "";
+    $("#arcos-limpar")?.addEventListener("click", () => { box.querySelectorAll(".on").forEach(e => e.classList.remove("on")); destacar([], ""); });
+  }
+  const todos = arcos.map((_, k) => k);
+  box.querySelectorAll(".fato").forEach(g => { const ativar = () => { const f = L.fatos[+g.dataset.f];
+      box.querySelectorAll(".fato.on,.apcap.on").forEach(e => e.classList.remove("on")); g.classList.add("on");
+      destacar(todos.filter(k => arcos[k].t.livro === f.livro && arcos[k].t.versos[0].c >= f.caps[0] && arcos[k].t.versos[0].c <= f.caps[1]), `${f.titulo} (c. ${fmt(f.ano)})`); };
+    g.addEventListener("click", ativar); g.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " "){ e.preventDefault(); ativar(); } }); });
+  box.querySelectorAll(".apcap").forEach(g => { const ativar = () => { const c = +g.dataset.apc;
+      box.querySelectorAll(".fato.on,.apcap.on").forEach(e => e.classList.remove("on")); g.classList.add("on");
+      destacar(todos.filter(k => arcos[k].ac === c), `Apocalipse ${c}`); };
+    g.addEventListener("click", ativar); g.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " "){ e.preventDefault(); ativar(); } }); });
+  paths.forEach(p => {
+    const a = arcos[+p.dataset.k];
+    p.addEventListener("mouseenter", () => { tip.hidden = false; tip.innerHTML = `<b>${esc(a.r)}</b> → <b>Ap ${esc(a.it.versos)}</b><br>${esc(a.it.nota)}`; });
+    p.addEventListener("mousemove", e => { const r = box.getBoundingClientRect(); tip.style.left = Math.min(e.clientX - r.left + box.scrollLeft + 12, box.scrollWidth - 290) + "px"; tip.style.top = (e.clientY - r.top + 12) + "px"; });
+    p.addEventListener("mouseleave", () => { tip.hidden = true; });
+    p.addEventListener("click", () => abrirAT([a.it], `Apocalipse ${a.it.versos}`));
+  });
+  raiz.querySelectorAll("[data-grupo]").forEach(b => b.addEventListener("click", () => {
+    const g = b.dataset.grupo; gruposOn.has(g) ? gruposOn.delete(g) : gruposOn.add(g);
+    b.setAttribute("aria-pressed", gruposOn.has(g)); b.classList.toggle("off", !gruposOn.has(g)); aplicarGrupos();
+  }));
 }
 
 function telaQuadros(){
@@ -843,6 +952,7 @@ function posRender(ativo, m){
       $("#sim-count").textContent = k + " símbolos encontrados";
     });
   }
+  if (ativo === "raizes") montarArcos();
   if (ativo === "quiz"){
     atualizarPlacar();
     $("#zerar").addEventListener("click", () => { for (const k in respostas) delete respostas[k]; store.set("respostas", respostas); render(); });
@@ -852,8 +962,8 @@ function posRender(ativo, m){
 window.addEventListener("hashchange", render);
 
 /* ---------- Carregar dados (camada trocável: troque a versão em fontes.json) ---------- */
-Promise.all(["data/fontes.json", "data/livros.json", "data/estudo/apocalipse.json", "data/estudo/apocalipse-at.json", "data/estudo/apocalipse-quadros.json"].map(u => fetch(u).then(r => { if (!r.ok) throw new Error(u); return r.json(); })))
-  .then(([fontes, livros, estudo, at, quadros]) => { D.fontes = fontes; D.livros = livros; D.estudo = estudo; D.at = at; D.quadros = quadros;
+Promise.all(["data/fontes.json", "data/livros.json", "data/estudo/apocalipse.json", "data/estudo/apocalipse-at.json", "data/estudo/apocalipse-quadros.json", "data/estudo/linha-do-tempo.json"].map(u => fetch(u).then(r => { if (!r.ok) throw new Error(u); return r.json(); })))
+  .then(([fontes, livros, estudo, at, quadros, linha]) => { D.fontes = fontes; D.livros = livros; D.estudo = estudo; D.at = at; D.quadros = quadros; D.linha = linha;
     return Promise.all([`data/textos/${fontes.padrao}/apocalipse.json`, `data/textos/${fontes.padrao}/at-apocalipse.json`].map(u => fetch(u).then(r => r.json()))); })
   .then(([texto, atT]) => { D.texto = texto; D.atTextos = atT; render(); })
   .catch(err => { view.innerHTML = `<p class="carregando" role="alert">Não foi possível carregar o livro (${esc(err.message)}). Recarregue a página.</p>`; });
