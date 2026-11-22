@@ -1,0 +1,3904 @@
+{
+ "introducao": "Esta visão panorâmica percorre a Bíblia inteira em treze estágios, da criação às últimas cartas e ao Apocalipse, para ajudar o leitor a situar cada livro e cada personagem na grande história. Cada estágio traz um resumo, as principais pessoas e acontecimentos, versículos para memorizar e lições para a vida. Onde há debate sério entre estudiosos, sobre datas ou sobre a maneira de ler um texto, as principais posições são apresentadas lado a lado, sem tomar partido. O período entre os Testamentos, que nenhum livro do cânon protestante narra, aparece com base em fontes de fora da Bíblia, sempre indicadas. No campo 'leitura', a sequência de todos os estágios cobre os 1.189 capítulos das Escrituras uma única vez, numa ordem cronológica aproximada.",
+ "nota_datas": "As datas seguem as mesmas convenções do restante do site. Para os reis de Israel e Judá, a cronologia de Edwin R. Thiele (divisão do reino em 931 a.C., queda de Samaria em 723/722 a.C. e de Jerusalém em 586 a.C.); outros esquemas diferem de 1 a 10 anos, e há quem prefira 922 a.C. para a divisão e 587 a.C. para a queda de Jerusalém. Antes de Davi as datas são apenas indicativas e seguem a datação antiga do Êxodo (c. 1446 a.C., a partir de 1 Reis 6:1); na datação tardia (c. 1270–1260 a.C.) o Êxodo, a conquista e os Juízes ficam cerca de 150 a 180 anos depois, e para os patriarcas a incerteza é ainda maior. Gênesis 1–11 não recebe data. No Novo Testamento, o nascimento de Jesus é situado em c. 6–4 a.C. e a crucificação em 30 ou 33 d.C. Todas as datas são aproximadas.",
+ "estagios": [
+  {
+   "id": "origens",
+   "titulo": "Criação e origens",
+   "periodo": "sem data definida",
+   "inicio": null,
+   "fim": null,
+   "resumo": "A Bíblia começa antes de qualquer povo ou reino: Deus cria os céus, a terra e a vida, e forma o ser humano à sua imagem para cuidar do mundo. No jardim do Éden, Adão e Eva desconfiam da palavra de Deus e desobedecem, e a ruptura logo aparece no assassinato de Abel e na violência que toma conta da terra. O dilúvio é ao mesmo tempo juízo e recomeço: Noé e sua família são preservados, e Deus firma uma aliança com toda a criação. Em Babel a humanidade tenta se fazer grande por conta própria e acaba dispersa em muitas línguas. As genealogias desses capítulos fazem a ponte entre a criação e Abraão.",
+   "personagens": [
+    {
+     "nome": "Adão",
+     "papel": "O primeiro homem, formado do pó e chamado a cultivar e guardar o jardim.",
+     "refs": [
+      "genesis 2:7",
+      "genesis 2:15"
+     ]
+    },
+    {
+     "nome": "Eva",
+     "papel": "A primeira mulher, chamada 'mãe de todos os viventes'.",
+     "refs": [
+      "genesis 2:22",
+      "genesis 3:20"
+     ]
+    },
+    {
+     "nome": "Caim",
+     "papel": "Filho mais velho de Adão e Eva; por inveja, matou o irmão.",
+     "refs": [
+      "genesis 4:8"
+     ]
+    },
+    {
+     "nome": "Abel",
+     "papel": "Pastor cuja oferta Deus aceitou; o primeiro a morrer pela violência humana.",
+     "refs": [
+      "genesis 4:4"
+     ]
+    },
+    {
+     "nome": "Sete",
+     "papel": "Filho dado a Eva no lugar de Abel; por sua linhagem começa a invocação do nome do Senhor.",
+     "refs": [
+      "genesis 4:25-26"
+     ]
+    },
+    {
+     "nome": "Enoque",
+     "papel": "Homem que 'andou com Deus' e foi tomado por ele.",
+     "refs": [
+      "genesis 5:24"
+     ]
+    },
+    {
+     "nome": "Noé",
+     "papel": "Justo da sua geração, construiu a arca e recebeu a aliança depois do dilúvio.",
+     "refs": [
+      "genesis 6:8-9",
+      "genesis 9:9"
+     ]
+    },
+    {
+     "nome": "Ninrode",
+     "papel": "Caçador poderoso, ligado ao início dos reinos de Babel e da Assíria.",
+     "refs": [
+      "genesis 10:8-10"
+     ]
+    }
+   ],
+   "eventos": [
+    {
+     "titulo": "Deus cria os céus e a terra",
+     "ref": "genesis 1:1"
+    },
+    {
+     "titulo": "O ser humano é criado à imagem de Deus",
+     "ref": "genesis 1:27"
+    },
+    {
+     "titulo": "Adão no jardim do Éden",
+     "ref": "genesis 2:15"
+    },
+    {
+     "titulo": "A desobediência no jardim",
+     "ref": "genesis 3:6"
+    },
+    {
+     "titulo": "A primeira promessa de vitória sobre a serpente",
+     "ref": "genesis 3:15"
+    },
+    {
+     "titulo": "Caim mata Abel",
+     "ref": "genesis 4:8"
+    },
+    {
+     "titulo": "Noé entra na arca e vem o dilúvio",
+     "ref": "genesis 7:17"
+    },
+    {
+     "titulo": "A aliança do arco-íris",
+     "ref": "genesis 9:13"
+    },
+    {
+     "titulo": "A torre de Babel e a dispersão dos povos",
+     "ref": "genesis 11:9"
+    }
+   ],
+   "versiculos_chave": [
+    "genesis 1:1",
+    "genesis 1:27",
+    "genesis 3:15",
+    "genesis 9:11"
+   ],
+   "livros": [
+    "genesis"
+   ],
+   "licoes": [
+    "O mundo tem um Criador, e a vida humana tem dignidade porque reflete a imagem de Deus.",
+    "O pecado não fica restrito a uma pessoa: rompe relações com Deus, com o próximo e com a criação.",
+    "Mesmo diante do juízo, Deus preserva, recomeça e se compromete com a humanidade."
+   ],
+   "leituras": [
+    {
+     "nome": "Leitura histórica literal",
+     "resumo": "Entende os seis dias como dias comuns e as genealogias como cronologia contínua; costuma situar a criação há poucos milhares de anos e o dilúvio como evento de alcance global."
+    },
+    {
+     "nome": "Leituras de terra antiga com concordância",
+     "resumo": "Aceitam a idade longa do universo e tentam harmonizá-la com o texto, por exemplo tomando cada 'dia' como uma era, ou vendo um intervalo entre Gênesis 1:1 e 1:2; o dilúvio pode ser lido como global ou regional."
+    },
+    {
+     "nome": "Leitura literária ou de moldura",
+     "resumo": "Vê os dias como uma estrutura que organiza a obra de Deus (três dias de formar e três de preencher), com foco teológico e não cronológico; não pretende responder a perguntas de ciência."
+    },
+    {
+     "nome": "Leitura no contexto do Antigo Oriente",
+     "resumo": "Lê Gênesis 1–11 em diálogo com as narrativas de origem dos povos vizinhos, destacando o que o texto afirma de diferente: um só Deus, criação ordenada e o ser humano como imagem de Deus, não como escravo dos deuses."
+    }
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Epopeia de Gilgamesh",
+     "referencia": "tabuinha XI (relato mesopotâmico de um dilúvio e de um barco salvador)",
+     "data": "versão padrão do 1º milênio a.C.; tradições mais antigas (aprox.)"
+    },
+    {
+     "fonte": "Epopeia de Atrahasis",
+     "referencia": "relato babilônico da criação dos homens e de um dilúvio",
+     "data": "cópias do séc. XVII a.C. (aprox.)"
+    }
+   ],
+   "leitura": [
+    {
+     "ref": "genesis 1-11"
+    }
+   ]
+  },
+  {
+   "id": "patriarcas",
+   "titulo": "Os patriarcas",
+   "periodo": "c. 2091–1805 a.C.",
+   "inicio": -2091,
+   "fim": -1805,
+   "resumo": "Deus chama Abrão a deixar sua terra e promete fazer dele um grande povo, dar a seus descendentes a terra de Canaã e abençoar por meio dele todas as famílias da terra. A promessa passa por Isaque e por Jacó, a quem Deus dá o nome de Israel, e segue adiante apesar de esterilidade, rivalidades entre irmãos e muitos erros. Os doze filhos de Jacó dão origem às tribos de Israel. José, vendido pelos irmãos, chega a governar o Egito e acolhe a família na fome. O livro de Jó, ambientado num mundo semelhante ao dos patriarcas, enfrenta a pergunta do sofrimento do justo.",
+   "personagens": [
+    {
+     "nome": "Abraão",
+     "papel": "Chamado por Deus a sair de Harã; recebeu a promessa e creu nela.",
+     "refs": [
+      "genesis 12:1-4",
+      "genesis 15:6"
+     ]
+    },
+    {
+     "nome": "Sara",
+     "papel": "Esposa de Abraão; já idosa, tornou-se mãe de Isaque, o filho da promessa.",
+     "refs": [
+      "genesis 17:15-16",
+      "genesis 21:2"
+     ]
+    },
+    {
+     "nome": "Ló",
+     "papel": "Sobrinho de Abraão, que escolheu viver perto de Sodoma e foi salvo da sua destruição.",
+     "refs": [
+      "genesis 13:11-12",
+      "genesis 19:16"
+     ]
+    },
+    {
+     "nome": "Isaque",
+     "papel": "Filho de Abraão e Sara; herdeiro da aliança.",
+     "refs": [
+      "genesis 21:3",
+      "genesis 26:3-4"
+     ]
+    },
+    {
+     "nome": "Rebeca",
+     "papel": "Esposa de Isaque e mãe de Esaú e Jacó.",
+     "refs": [
+      "genesis 24:67",
+      "genesis 25:23"
+     ]
+    },
+    {
+     "nome": "Jacó (Israel)",
+     "papel": "Neto de Abraão; depois de lutar com Deus em Peniel, recebeu o nome de Israel.",
+     "refs": [
+      "genesis 28:13",
+      "genesis 32:28"
+     ]
+    },
+    {
+     "nome": "José",
+     "papel": "Filho de Jacó, vendido como escravo, que chegou a governador do Egito.",
+     "refs": [
+      "genesis 37:28",
+      "genesis 41:41"
+     ]
+    },
+    {
+     "nome": "Jó",
+     "papel": "Homem íntegro que perdeu tudo e discutiu com Deus a razão do seu sofrimento.",
+     "refs": [
+      "jo 1:1",
+      "jo 42:10"
+     ]
+    }
+   ],
+   "eventos": [
+    {
+     "titulo": "O chamado de Abrão",
+     "ref": "genesis 12:1"
+    },
+    {
+     "titulo": "A aliança e a promessa da terra",
+     "ref": "genesis 15:18"
+    },
+    {
+     "titulo": "A circuncisão como sinal da aliança",
+     "ref": "genesis 17:10"
+    },
+    {
+     "titulo": "A destruição de Sodoma e Gomorra",
+     "ref": "genesis 19:24"
+    },
+    {
+     "titulo": "O nascimento de Isaque",
+     "ref": "genesis 21:2"
+    },
+    {
+     "titulo": "A prova de Abraão no monte Moriá",
+     "ref": "genesis 22:12"
+    },
+    {
+     "titulo": "O sonho de Jacó em Betel",
+     "ref": "genesis 28:12"
+    },
+    {
+     "titulo": "Jacó luta em Peniel e recebe o nome de Israel",
+     "ref": "genesis 32:28"
+    },
+    {
+     "titulo": "José é vendido pelos irmãos",
+     "ref": "genesis 37:28"
+    },
+    {
+     "titulo": "Jacó e a família descem ao Egito",
+     "ref": "genesis 46:6"
+    }
+   ],
+   "versiculos_chave": [
+    "genesis 12:1-3",
+    "genesis 15:6",
+    "genesis 50:20"
+   ],
+   "livros": [
+    "genesis",
+    "jo"
+   ],
+   "licoes": [
+    "A fé começa ouvindo a promessa de Deus e se põe a caminho mesmo sem ver o fim.",
+    "Deus leva adiante seus planos por meio de famílias imperfeitas, sem esconder seus erros.",
+    "O sofrimento não é sempre castigo; Deus pode transformar o mal em bem, como na história de José."
+   ],
+   "leituras": [
+    {
+     "nome": "Cronologia longa",
+     "resumo": "Somando os números do texto hebraico (1 Reis 6:1, Êxodo 12:40 e as idades em Gênesis) a partir da data antiga do Êxodo, situa o chamado de Abraão por volta de 2091 a.C. e a descida ao Egito por volta de 1876 a.C.; é a usada aqui."
+    },
+    {
+     "nome": "Datações mais baixas",
+     "resumo": "Outros estudiosos situam os patriarcas entre 1900 e 1600 a.C., seja pela data tardia do Êxodo, seja lendo os 430 anos de Êxodo 12:40 como incluindo o tempo em Canaã (como fazem a Septuaginta e Gálatas 3:17)."
+    },
+    {
+     "nome": "A época de Jó",
+     "resumo": "O cenário de Jó (longevidade, o chefe de família oferecendo sacrifícios, riqueza em rebanhos) lembra os patriarcas, mas a data em que o livro foi escrito é muito discutida, desde o tempo de Moisés até depois do exílio."
+    }
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Pintura do túmulo de Khnumhotep II (Beni Hasan, Egito)",
+     "referencia": "cena de um grupo de semitas chegando ao Egito com animais e mercadorias",
+     "data": "c. 1890 a.C. (aprox.)"
+    }
+   ],
+   "leitura": [
+    {
+     "ref": "jo 1-42",
+     "nota": "Posição debatida: muitos planos leem Jó aqui pelo ambiente patriarcal, mas a data do livro é incerta."
+    },
+    {
+     "ref": "genesis 12-50"
+    }
+   ]
+  },
+  {
+   "id": "exodo-deserto",
+   "titulo": "Êxodo e deserto",
+   "periodo": "c. 1446–1406 a.C.",
+   "inicio": -1446,
+   "fim": -1406,
+   "resumo": "Os descendentes de Jacó se multiplicam no Egito e passam a ser escravizados. Deus chama Moisés na sarça ardente, revela seu nome e, depois das pragas e da primeira Páscoa, liberta o povo pelo mar. No monte Sinai, Israel recebe a lei, faz aliança com Deus e constrói o tabernáculo, sinal da presença divina no meio do acampamento. A incredulidade em Cades faz a geração que saiu do Egito vagar quarenta anos pelo deserto. Às portas de Canaã, Moisés repete e explica a lei à nova geração e morre no monte Nebo.",
+   "personagens": [
+    {
+     "nome": "Moisés",
+     "papel": "Chamado por Deus para libertar Israel e mediar a aliança no Sinai.",
+     "refs": [
+      "exodo 3:10",
+      "deuteronomio 34:10"
+     ]
+    },
+    {
+     "nome": "Arão",
+     "papel": "Irmão de Moisés, seu porta-voz e primeiro sumo sacerdote.",
+     "refs": [
+      "exodo 4:14-16",
+      "exodo 28:1"
+     ]
+    },
+    {
+     "nome": "Miriã",
+     "papel": "Irmã de Moisés, profetisa que conduziu o canto depois da travessia do mar.",
+     "refs": [
+      "exodo 15:20-21"
+     ]
+    },
+    {
+     "nome": "Faraó do Êxodo",
+     "papel": "Rei do Egito que endureceu o coração e recusou deixar o povo sair; não é nomeado no texto.",
+     "refs": [
+      "exodo 5:2"
+     ]
+    },
+    {
+     "nome": "Jetro",
+     "papel": "Sacerdote de Midiã, sogro de Moisés, que o aconselhou a dividir o trabalho de julgar.",
+     "refs": [
+      "exodo 18:1",
+      "exodo 18:17-18"
+     ]
+    },
+    {
+     "nome": "Josué",
+     "papel": "Auxiliar de Moisés e comandante na batalha contra Amaleque.",
+     "refs": [
+      "exodo 17:9",
+      "exodo 24:13"
+     ]
+    },
+    {
+     "nome": "Calebe",
+     "papel": "Um dos doze espias, que confiou que Deus daria a terra.",
+     "refs": [
+      "numeros 13:30",
+      "numeros 14:24"
+     ]
+    },
+    {
+     "nome": "Balaão",
+     "papel": "Adivinho contratado para amaldiçoar Israel, que acabou abençoando o povo.",
+     "refs": [
+      "numeros 22:5-6",
+      "numeros 24:17"
+     ]
+    }
+   ],
+   "eventos": [
+    {
+     "titulo": "Israel é escravizado no Egito",
+     "ref": "exodo 1:13"
+    },
+    {
+     "titulo": "Deus chama Moisés na sarça ardente",
+     "ref": "exodo 3:2"
+    },
+    {
+     "titulo": "As pragas sobre o Egito",
+     "ref": "exodo 7:20"
+    },
+    {
+     "titulo": "A primeira Páscoa",
+     "ref": "exodo 12:13"
+    },
+    {
+     "titulo": "A travessia do mar",
+     "ref": "exodo 14:21"
+    },
+    {
+     "titulo": "O maná no deserto",
+     "ref": "exodo 16:15"
+    },
+    {
+     "titulo": "Os Dez Mandamentos no Sinai",
+     "ref": "exodo 20:2-3"
+    },
+    {
+     "titulo": "O bezerro de ouro",
+     "ref": "exodo 32:4"
+    },
+    {
+     "titulo": "A glória de Deus enche o tabernáculo",
+     "ref": "exodo 40:34"
+    },
+    {
+     "titulo": "A incredulidade em Cades e os quarenta anos no deserto",
+     "ref": "numeros 14:34"
+    }
+   ],
+   "versiculos_chave": [
+    "exodo 3:14",
+    "exodo 20:2-3",
+    "deuteronomio 6:4-5"
+   ],
+   "livros": [
+    "exodo",
+    "levitico",
+    "numeros",
+    "deuteronomio"
+   ],
+   "licoes": [
+    "Deus ouve o clamor dos oprimidos e age para libertar.",
+    "A lei foi dada a um povo já liberto: a obediência responde à graça recebida.",
+    "A incredulidade pode atrasar uma geração inteira, mas não anula a promessa de Deus."
+   ],
+   "leituras": [
+    {
+     "nome": "Data antiga (c. 1446 a.C.)",
+     "resumo": "Parte de 1 Reis 6:1 (480 anos entre o Êxodo e o 4º ano de Salomão) e de Juízes 11:26 (300 anos de Israel na Transjordânia); situa o Êxodo no séc. XV a.C. É a usada aqui, como no restante do site."
+    },
+    {
+     "nome": "Data tardia (c. 1270–1260 a.C.)",
+     "resumo": "Associa a cidade de Ramessés (Êxodo 1:11) à capital de Ramessés II e se apoia em dados arqueológicos do séc. XIII a.C.; lê os 480 anos como número redondo (12 gerações de 40 anos)."
+    },
+    {
+     "nome": "Os grandes números",
+     "resumo": "Os 600 mil homens de Êxodo 12:37 e Números 1 são lidos por muitos ao pé da letra; outros propõem que a palavra hebraica traduzida por 'mil' (elef) às vezes indique um clã ou unidade militar, o que daria números menores."
+    }
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Escavações em Qantir (delta do Nilo)",
+     "referencia": "local identificado com Pi-Ramessés, capital de Ramessés II, comparado com Ramessés de Êxodo 1:11",
+     "data": "séc. XIII a.C. (aprox.)"
+    }
+   ],
+   "leitura": [
+    {
+     "ref": "exodo 1-40"
+    },
+    {
+     "ref": "levitico 1-27"
+    },
+    {
+     "ref": "numeros 1-36"
+    },
+    {
+     "ref": "deuteronomio 1-34"
+    },
+    {
+     "ref": "salmos 90",
+     "nota": "O título atribui este salmo a Moisés."
+    }
+   ]
+  },
+  {
+   "id": "conquista",
+   "titulo": "Conquista de Canaã",
+   "periodo": "c. 1406–1375 a.C.",
+   "inicio": -1406,
+   "fim": -1375,
+   "resumo": "Sob a liderança de Josué, Israel atravessa o Jordão e entra na terra prometida. Jericó cai depois de o povo rodear a cidade conforme a ordem de Deus, mas a desobediência de Acã traz derrota em Ai. Campanhas no sul e no norte quebram o poder das principais cidades cananeias, embora muitas regiões continuem por conquistar. A terra é repartida entre as tribos, com cidades para os levitas e cidades de refúgio. No fim da vida, Josué reúne o povo em Siquém e o desafia a escolher a quem servir.",
+   "personagens": [
+    {
+     "nome": "Josué",
+     "papel": "Sucessor de Moisés, que conduziu Israel na entrada e na partilha da terra.",
+     "refs": [
+      "josue 1:1-2",
+      "josue 24:15"
+     ]
+    },
+    {
+     "nome": "Raabe",
+     "papel": "Mulher de Jericó que escondeu os espias e foi poupada com sua família.",
+     "refs": [
+      "josue 2:1",
+      "josue 6:25"
+     ]
+    },
+    {
+     "nome": "Acã",
+     "papel": "Israelita que tomou para si objetos consagrados de Jericó.",
+     "refs": [
+      "josue 7:1",
+      "josue 7:20-21"
+     ]
+    },
+    {
+     "nome": "Calebe",
+     "papel": "Já idoso, pediu e conquistou a região montanhosa de Hebrom.",
+     "refs": [
+      "josue 14:12-13"
+     ]
+    },
+    {
+     "nome": "Eleazar",
+     "papel": "Sumo sacerdote, filho de Arão, que repartiu a terra com Josué.",
+     "refs": [
+      "josue 14:1"
+     ]
+    },
+    {
+     "nome": "Adoni-Zedeque",
+     "papel": "Rei de Jerusalém que liderou uma aliança de reis contra Gibeom e Israel.",
+     "refs": [
+      "josue 10:1-5"
+     ]
+    },
+    {
+     "nome": "Fineias",
+     "papel": "Sacerdote enviado para resolver a crise do altar junto ao Jordão.",
+     "refs": [
+      "josue 22:13",
+      "josue 22:30"
+     ]
+    }
+   ],
+   "eventos": [
+    {
+     "titulo": "Israel atravessa o Jordão",
+     "ref": "josue 3:17"
+    },
+    {
+     "titulo": "A Páscoa em Gilgal e o fim do maná",
+     "ref": "josue 5:10-12"
+    },
+    {
+     "titulo": "A queda de Jericó",
+     "ref": "josue 6:20"
+    },
+    {
+     "titulo": "O pecado de Acã e a derrota em Ai",
+     "ref": "josue 7:4-5"
+    },
+    {
+     "titulo": "O acordo com os gibeonitas",
+     "ref": "josue 9:15"
+    },
+    {
+     "titulo": "A batalha de Gibeom e o dia prolongado",
+     "ref": "josue 10:12-13"
+    },
+    {
+     "titulo": "A vitória sobre Hazor e os reis do norte",
+     "ref": "josue 11:10-11"
+    },
+    {
+     "titulo": "A terra é repartida entre as tribos",
+     "ref": "josue 14:1-2"
+    },
+    {
+     "titulo": "A renovação da aliança em Siquém",
+     "ref": "josue 24:25"
+    }
+   ],
+   "versiculos_chave": [
+    "josue 1:9",
+    "josue 21:45",
+    "josue 24:15"
+   ],
+   "livros": [
+    "josue"
+   ],
+   "licoes": [
+    "Coragem, no livro de Josué, nasce da presença de Deus, não da força do exército.",
+    "A fidelidade de Deus às promessas é lembrada como algo cumprido, palavra por palavra.",
+    "Cada geração precisa escolher por si mesma servir ao Senhor."
+   ],
+   "leituras": [
+    {
+     "nome": "Conquista rápida e ocupação gradual",
+     "resumo": "Lê Josué como campanhas decisivas que quebraram o poder cananeu, seguidas de uma ocupação lenta e incompleta, como mostram Josué 13:1 e Juízes 1."
+    },
+    {
+     "nome": "Modelos de assentamento",
+     "resumo": "Parte dos arqueólogos propõe que Israel surgiu por infiltração pacífica ou por transformações dentro da própria sociedade cananeia, e lê os relatos de Josué de forma mais teológica; outros contestam esses modelos."
+    },
+    {
+     "nome": "A data da destruição de Jericó",
+     "resumo": "As escavações em Jericó foram datadas de modos diferentes: há quem situe a destruição da cidade murada por volta de 1550 a.C. e quem a coloque perto de 1400 a.C., em harmonia com a data antiga do Êxodo."
+    }
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Cartas de Amarna (Egito)",
+     "referencia": "correspondência de reis de cidades de Canaã com o faraó, que menciona grupos chamados 'habiru'",
+     "data": "séc. XIV a.C. (aprox.)"
+    },
+    {
+     "fonte": "Escavações de Jericó (Tell es-Sultan)",
+     "referencia": "campanhas de John Garstang (anos 1930) e Kathleen Kenyon (anos 1950), com datações diferentes para a destruição da cidade",
+     "data": "séc. XX d.C."
+    }
+   ],
+   "leitura": [
+    {
+     "ref": "josue 1-24"
+    }
+   ]
+  },
+  {
+   "id": "juizes",
+   "titulo": "Juízes",
+   "periodo": "c. 1375–1050 a.C.",
+   "inicio": -1375,
+   "fim": -1050,
+   "resumo": "Depois da morte de Josué, as tribos se acomodam entre os povos de Canaã e se voltam para os deuses deles. O livro de Juízes mostra um ciclo repetido: o povo se afasta, é oprimido por vizinhos, clama a Deus e é libertado por um líder levantado por ele. Otniel, Eúde, Débora, Gideão, Jefté e Sansão estão entre esses libertadores, cada vez mais marcados pelas próprias falhas. Em meio à desordem, a história de Rute mostra fidelidade e bondade numa família de Belém. O período termina com o sacerdote Eli, a perda da arca para os filisteus e o profeta Samuel, último dos juízes.",
+   "personagens": [
+    {
+     "nome": "Otniel",
+     "papel": "O primeiro juiz, que libertou Israel do rei de Arã-Naaraim.",
+     "refs": [
+      "juizes 3:9-10"
+     ]
+    },
+    {
+     "nome": "Eúde",
+     "papel": "Juiz canhoto que libertou Israel do domínio de Moabe.",
+     "refs": [
+      "juizes 3:15"
+     ]
+    },
+    {
+     "nome": "Débora",
+     "papel": "Profetisa e juíza que convocou Baraque contra o exército de Sísera.",
+     "refs": [
+      "juizes 4:4",
+      "juizes 4:14"
+     ]
+    },
+    {
+     "nome": "Gideão",
+     "papel": "Lavrador chamado por Deus para vencer os midianitas com poucos homens.",
+     "refs": [
+      "juizes 6:12",
+      "juizes 7:7"
+     ]
+    },
+    {
+     "nome": "Jefté",
+     "papel": "Guerreiro rejeitado pela família que libertou Israel dos amonitas.",
+     "refs": [
+      "juizes 11:1",
+      "juizes 11:32"
+     ]
+    },
+    {
+     "nome": "Sansão",
+     "papel": "Nazireu de força extraordinária que enfrentou os filisteus.",
+     "refs": [
+      "juizes 13:24",
+      "juizes 16:30"
+     ]
+    },
+    {
+     "nome": "Rute",
+     "papel": "Moabita que se uniu ao povo e ao Deus de Noemi; bisavó de Davi.",
+     "refs": [
+      "rute 1:16",
+      "rute 4:17"
+     ]
+    },
+    {
+     "nome": "Samuel",
+     "papel": "Profeta, sacerdote e último juiz, que ungiu os primeiros reis.",
+     "refs": [
+      "1-samuel 3:20",
+      "1-samuel 7:15"
+     ]
+    }
+   ],
+   "eventos": [
+    {
+     "titulo": "Uma nova geração esquece o Senhor",
+     "ref": "juizes 2:10-11"
+    },
+    {
+     "titulo": "Otniel liberta Israel",
+     "ref": "juizes 3:10"
+    },
+    {
+     "titulo": "Débora e Baraque vencem Sísera",
+     "ref": "juizes 4:14-15"
+    },
+    {
+     "titulo": "Gideão e os trezentos",
+     "ref": "juizes 7:7"
+    },
+    {
+     "titulo": "Jefté vence os amonitas",
+     "ref": "juizes 11:32"
+    },
+    {
+     "titulo": "Sansão derruba o templo de Dagom",
+     "ref": "juizes 16:30"
+    },
+    {
+     "titulo": "Rute e Boaz em Belém",
+     "ref": "rute 4:13"
+    },
+    {
+     "titulo": "Deus chama o menino Samuel",
+     "ref": "1-samuel 3:10"
+    },
+    {
+     "titulo": "A arca é tomada pelos filisteus",
+     "ref": "1-samuel 4:11"
+    },
+    {
+     "titulo": "A vitória em Mispá e o Ebenézer",
+     "ref": "1-samuel 7:12"
+    }
+   ],
+   "versiculos_chave": [
+    "juizes 2:16",
+    "juizes 21:25",
+    "rute 1:16"
+   ],
+   "livros": [
+    "juizes",
+    "rute",
+    "1-samuel"
+   ],
+   "licoes": [
+    "Esquecer o que Deus fez abre caminho para a idolatria e a desordem.",
+    "Deus ouve o clamor até de um povo que se afastou dele, e usa pessoas improváveis.",
+    "A fidelidade discreta de gente comum, como Rute e Boaz, também faz parte da grande história."
+   ],
+   "leituras": [
+    {
+     "nome": "Juízes em sequência ou simultâneos",
+     "resumo": "Somados, os anos de opressão e de descanso do livro passam de 400, mais do que o intervalo entre a conquista e Saul pela data antiga do Êxodo; por isso muitos entendem que alguns juízes atuaram ao mesmo tempo em regiões diferentes."
+    }
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Relevos do templo de Ramessés III em Medinet Habu (Egito)",
+     "referencia": "batalha contra os 'Povos do Mar', entre eles os Peleset, geralmente identificados com os filisteus",
+     "data": "c. 1175 a.C. (aprox.)"
+    }
+   ],
+   "leitura": [
+    {
+     "ref": "juizes 1-21"
+    },
+    {
+     "ref": "rute 1-4"
+    },
+    {
+     "ref": "1-samuel 1-7"
+    }
+   ]
+  },
+  {
+   "id": "reino-unido",
+   "titulo": "Reino unido: Saul, Davi e Salomão",
+   "periodo": "c. 1050–931 a.C.",
+   "inicio": -1050,
+   "fim": -931,
+   "resumo": "Israel pede um rei para ser como as outras nações, e Samuel unge Saul, que começa bem mas é rejeitado por desobedecer. Deus escolhe Davi, um jovem pastor de Belém, que vence Golias, foge de Saul e depois reina sobre todas as tribos, com Jerusalém como capital. Deus promete a Davi uma dinastia para sempre, mas o pecado do rei com Bate-Seba traz dor à sua casa. Salomão, filho de Davi, pede sabedoria, constrói o templo e leva o reino ao auge da riqueza. No fim, seu coração se divide com os deuses das esposas estrangeiras, e o reino fica à beira da divisão.",
+   "personagens": [
+    {
+     "nome": "Saul",
+     "papel": "O primeiro rei de Israel, da tribo de Benjamim.",
+     "refs": [
+      "1-samuel 10:1",
+      "1-samuel 15:23"
+     ]
+    },
+    {
+     "nome": "Davi",
+     "papel": "Pastor ungido rei, autor de muitos salmos e ancestral do Messias prometido.",
+     "refs": [
+      "1-samuel 16:13",
+      "2-samuel 5:3-4"
+     ]
+    },
+    {
+     "nome": "Jônatas",
+     "papel": "Filho de Saul e amigo leal de Davi.",
+     "refs": [
+      "1-samuel 18:1",
+      "1-samuel 20:42"
+     ]
+    },
+    {
+     "nome": "Golias",
+     "papel": "Guerreiro filisteu de Gate vencido por Davi.",
+     "refs": [
+      "1-samuel 17:4",
+      "1-samuel 17:50"
+     ]
+    },
+    {
+     "nome": "Natã",
+     "papel": "Profeta que anunciou a aliança com Davi e o confrontou por seu pecado.",
+     "refs": [
+      "2-samuel 7:4-5",
+      "2-samuel 12:7"
+     ]
+    },
+    {
+     "nome": "Bate-Seba",
+     "papel": "Esposa de Urias, depois de Davi, e mãe de Salomão.",
+     "refs": [
+      "2-samuel 11:3",
+      "2-samuel 12:24"
+     ]
+    },
+    {
+     "nome": "Absalão",
+     "papel": "Filho de Davi que se revoltou contra o pai.",
+     "refs": [
+      "2-samuel 15:10"
+     ]
+    },
+    {
+     "nome": "Salomão",
+     "papel": "Filho de Davi, rei sábio que construiu o templo de Jerusalém.",
+     "refs": [
+      "1-reis 3:9",
+      "1-reis 6:14"
+     ]
+    }
+   ],
+   "eventos": [
+    {
+     "titulo": "O povo pede um rei",
+     "ref": "1-samuel 8:5"
+    },
+    {
+     "titulo": "Saul é ungido rei",
+     "ref": "1-samuel 10:1"
+    },
+    {
+     "titulo": "Davi é ungido em Belém",
+     "ref": "1-samuel 16:13"
+    },
+    {
+     "titulo": "Davi vence Golias",
+     "ref": "1-samuel 17:50"
+    },
+    {
+     "titulo": "Morte de Saul no monte Gilboa",
+     "ref": "1-samuel 31:6"
+    },
+    {
+     "titulo": "Davi conquista Jerusalém",
+     "ref": "2-samuel 5:7"
+    },
+    {
+     "titulo": "A aliança de Deus com Davi",
+     "ref": "2-samuel 7:16"
+    },
+    {
+     "titulo": "O pecado de Davi e a repreensão de Natã",
+     "ref": "2-samuel 12:13"
+    },
+    {
+     "titulo": "Salomão pede sabedoria",
+     "ref": "1-reis 3:9"
+    },
+    {
+     "titulo": "A dedicação do templo",
+     "ref": "1-reis 8:10-11"
+    }
+   ],
+   "versiculos_chave": [
+    "1-samuel 16:7",
+    "2-samuel 7:12-13",
+    "salmos 51:10"
+   ],
+   "livros": [
+    "1-samuel",
+    "2-samuel",
+    "1-reis",
+    "1-cronicas",
+    "2-cronicas",
+    "salmos",
+    "proverbios",
+    "eclesiastes",
+    "cantares"
+   ],
+   "licoes": [
+    "Deus olha o coração, e não apenas a aparência ou a força.",
+    "Arrependimento sincero encontra perdão, embora as consequências do pecado possam permanecer.",
+    "Sabedoria e riqueza não protegem quem divide o coração entre Deus e outros deuses."
+   ],
+   "leituras": [
+    {
+     "nome": "O tamanho do reino de Davi e Salomão",
+     "resumo": "Parte dos arqueólogos defende um reino forte e organizado no séc. X a.C.; outra parte o vê como um reino pequeno, que teria crescido mais tarde. Inscrições como a de Tel Dã confirmam ao menos a existência de uma 'casa de Davi'."
+    },
+    {
+     "nome": "Autoria dos livros de sabedoria",
+     "resumo": "A tradição atribui a Salomão boa parte de Provérbios, Eclesiastes e Cantares; muitos estudiosos pensam que Eclesiastes e parte dos demais receberam forma final mais tarde. Os Salmos foram reunidos ao longo de séculos, até depois do exílio."
+    }
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Estela de Tel Dã (norte de Israel)",
+     "referencia": "inscrição aramaica que menciona a 'casa de Davi'",
+     "data": "séc. IX a.C. (aprox.)"
+    }
+   ],
+   "leitura": [
+    {
+     "ref": "1-samuel 8-31"
+    },
+    {
+     "ref": "2-samuel 1-24"
+    },
+    {
+     "ref": "1-cronicas 1-29",
+     "nota": "Crônicas reconta a mesma época a partir das genealogias, com destaque para o culto."
+    },
+    {
+     "ref": "salmos 1-89",
+     "nota": "Muitos salmos têm o nome de Davi no título; outros são de Asafe, dos filhos de Corá e de épocas posteriores."
+    },
+    {
+     "ref": "salmos 91-136"
+    },
+    {
+     "ref": "salmos 138-150"
+    },
+    {
+     "ref": "1-reis 1-11"
+    },
+    {
+     "ref": "2-cronicas 1-9"
+    },
+    {
+     "ref": "proverbios 1-31"
+    },
+    {
+     "ref": "cantares 1-8"
+    },
+    {
+     "ref": "eclesiastes 1-12",
+     "nota": "A tradição o liga à velhice de Salomão; a data é discutida."
+    }
+   ]
+  },
+  {
+   "id": "reino-dividido",
+   "titulo": "Reino dividido: Israel e Judá",
+   "periodo": "c. 931–586 a.C.",
+   "inicio": -931,
+   "fim": -586,
+   "resumo": "Com a morte de Salomão, as dez tribos do norte rejeitam Roboão e formam o reino de Israel, enquanto Judá continua com a dinastia de Davi em Jerusalém. Jeroboão instala bezerros de ouro em Betel e Dã, e o norte troca de dinastia muitas vezes; profetas como Elias e Eliseu enfrentam o culto a Baal. Amós, Oseias, Isaías e Miqueias denunciam a injustiça e a idolatria e anunciam juízo e esperança. A Assíria destrói Samaria em 723/722 a.C., e Judá, apesar das reformas de Ezequias e Josias, segue pelo mesmo caminho. Jeremias acompanha os últimos reis até que Babilônia destrói Jerusalém e o templo.",
+   "personagens": [
+    {
+     "nome": "Roboão",
+     "papel": "Filho de Salomão, cuja dureza provocou a divisão do reino.",
+     "refs": [
+      "1-reis 12:14",
+      "1-reis 12:16"
+     ]
+    },
+    {
+     "nome": "Jeroboão I",
+     "papel": "Primeiro rei de Israel, que fez os bezerros de ouro.",
+     "refs": [
+      "1-reis 12:20",
+      "1-reis 12:28"
+     ]
+    },
+    {
+     "nome": "Acabe e Jezabel",
+     "papel": "Casal real de Israel que promoveu o culto a Baal.",
+     "refs": [
+      "1-reis 16:30-31"
+     ]
+    },
+    {
+     "nome": "Elias",
+     "papel": "Profeta que desafiou os profetas de Baal no monte Carmelo.",
+     "refs": [
+      "1-reis 18:36-38"
+     ]
+    },
+    {
+     "nome": "Ezequias",
+     "papel": "Rei de Judá que confiou em Deus diante da Assíria.",
+     "refs": [
+      "2-reis 18:5",
+      "2-reis 19:15"
+     ]
+    },
+    {
+     "nome": "Josias",
+     "papel": "Rei de Judá que reformou o culto depois de achar o livro da lei.",
+     "refs": [
+      "2-reis 22:2",
+      "2-reis 23:25"
+     ]
+    },
+    {
+     "nome": "Isaías",
+     "papel": "Profeta em Jerusalém nos dias de Uzias a Ezequias.",
+     "refs": [
+      "isaias 1:1",
+      "isaias 6:8"
+     ]
+    },
+    {
+     "nome": "Jeremias",
+     "papel": "Profeta que anunciou a queda de Jerusalém e uma nova aliança.",
+     "refs": [
+      "jeremias 1:5",
+      "jeremias 31:31"
+     ]
+    }
+   ],
+   "eventos": [
+    {
+     "titulo": "O reino se divide",
+     "ref": "1-reis 12:16",
+     "data": "c. 931 a.C."
+    },
+    {
+     "titulo": "Os bezerros de ouro em Betel e Dã",
+     "ref": "1-reis 12:28-29"
+    },
+    {
+     "titulo": "Elias no monte Carmelo",
+     "ref": "1-reis 18:38-39"
+    },
+    {
+     "titulo": "Elias é levado e Eliseu o sucede",
+     "ref": "2-reis 2:11"
+    },
+    {
+     "titulo": "A queda de Samaria e o exílio de Israel",
+     "ref": "2-reis 17:6",
+     "data": "723/722 a.C."
+    },
+    {
+     "titulo": "Jerusalém é poupada do exército assírio",
+     "ref": "2-reis 19:35",
+     "data": "701 a.C."
+    },
+    {
+     "titulo": "Josias encontra o livro da lei",
+     "ref": "2-reis 22:8",
+     "data": "c. 622 a.C."
+    },
+    {
+     "titulo": "Judá passa a servir a Babilônia",
+     "ref": "2-reis 24:1",
+     "data": "c. 605 a.C."
+    },
+    {
+     "titulo": "Jerusalém e o templo são destruídos",
+     "ref": "2-reis 25:9",
+     "data": "586 a.C."
+    }
+   ],
+   "versiculos_chave": [
+    "2-reis 17:13",
+    "isaias 9:6",
+    "miqueias 6:8",
+    "jeremias 31:33"
+   ],
+   "livros": [
+    "1-reis",
+    "2-reis",
+    "2-cronicas",
+    "obadias",
+    "joel",
+    "jonas",
+    "amos",
+    "oseias",
+    "isaias",
+    "miqueias",
+    "naum",
+    "sofonias",
+    "habacuque",
+    "jeremias"
+   ],
+   "licoes": [
+    "Deus envia advertências muitas vezes antes do juízo, por meio de seus profetas.",
+    "Religião sem justiça para com o pobre é rejeitada pelos profetas.",
+    "Mesmo quando tudo desmorona, os profetas apontam para um rei e uma aliança futuros."
+   ],
+   "leituras": [
+    {
+     "nome": "Datas dos reis",
+     "resumo": "Aqui se segue a cronologia de Thiele (divisão em 931 a.C., queda de Jerusalém em 586 a.C.); outras propostas variam de 1 a 10 anos, e há quem date a divisão em c. 922 a.C. e a queda em 587 a.C."
+    },
+    {
+     "nome": "Isaías: um autor ou várias etapas",
+     "resumo": "A leitura tradicional atribui o livro inteiro ao profeta do séc. VIII a.C., que teria anunciado com antecedência o exílio e Ciro; muitos estudiosos entendem que os capítulos 40–66 vêm de discípulos que escreveram durante ou depois do exílio."
+    },
+    {
+     "nome": "A época de Joel e de Obadias",
+     "resumo": "Nenhum dos dois livros indica o rei de seu tempo. Joel já foi datado desde o reinado de Joás (séc. IX a.C.) até depois do exílio; Obadias, tanto em c. 845 a.C. (revolta de Edom sob Jeorão) quanto logo depois de 586 a.C."
+    }
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Obelisco Negro de Salmanaser III (Nimrud)",
+     "referencia": "relevo que mostra 'Jeú, filho de Onri' pagando tributo ao rei assírio",
+     "data": "c. 841 a.C. (aprox.)"
+    },
+    {
+     "fonte": "Estela de Mesa (Dibom, Moabe)",
+     "referencia": "inscrição do rei Mesa de Moabe que cita Onri, rei de Israel",
+     "data": "c. 840 a.C. (aprox.)"
+    },
+    {
+     "fonte": "Prisma de Senaqueribe",
+     "referencia": "relato assírio da campanha de 701 a.C. contra Judá, que diz ter fechado Ezequias em Jerusalém",
+     "data": "c. 690 a.C. (aprox.)"
+    },
+    {
+     "fonte": "Crônicas Babilônicas",
+     "referencia": "registro da tomada de Jerusalém por Nabucodonosor no mês de adar",
+     "data": "597 a.C."
+    }
+   ],
+   "leitura": [
+    {
+     "ref": "1-reis 12-22"
+    },
+    {
+     "ref": "2-cronicas 10-20"
+    },
+    {
+     "ref": "2-reis 1-8"
+    },
+    {
+     "ref": "2-cronicas 21"
+    },
+    {
+     "ref": "obadias 1",
+     "nota": "Posição debatida: aqui no tempo de Jeorão (c. 845 a.C.); outros o leem depois de 586 a.C."
+    },
+    {
+     "ref": "2-reis 9-14"
+    },
+    {
+     "ref": "2-cronicas 22-25"
+    },
+    {
+     "ref": "joel 1-3",
+     "nota": "Posição debatida: aqui no tempo de Joás; muitos o situam depois do exílio."
+    },
+    {
+     "ref": "jonas 1-4",
+     "nota": "Jonas atuou no reinado de Jeroboão II (2 Reis 14:25)."
+    },
+    {
+     "ref": "amos 1-9"
+    },
+    {
+     "ref": "oseias 1-14"
+    },
+    {
+     "ref": "2-reis 15-16"
+    },
+    {
+     "ref": "2-cronicas 26-28"
+    },
+    {
+     "ref": "isaias 1-39"
+    },
+    {
+     "ref": "miqueias 1-7"
+    },
+    {
+     "ref": "2-reis 17-20"
+    },
+    {
+     "ref": "2-cronicas 29-32"
+    },
+    {
+     "ref": "isaias 40-66",
+     "nota": "Lido aqui na sequência do profeta; muitos estudiosos o situam no exílio ou depois."
+    },
+    {
+     "ref": "2-reis 21-23"
+    },
+    {
+     "ref": "2-cronicas 33-35"
+    },
+    {
+     "ref": "naum 1-3"
+    },
+    {
+     "ref": "sofonias 1-3"
+    },
+    {
+     "ref": "habacuque 1-3"
+    },
+    {
+     "ref": "jeremias 1-38",
+     "nota": "Os capítulos de Jeremias não estão em ordem cronológica."
+    },
+    {
+     "ref": "2-reis 24-25"
+    },
+    {
+     "ref": "2-cronicas 36",
+     "nota": "Os últimos versículos já apontam para o decreto de Ciro."
+    }
+   ]
+  },
+  {
+   "id": "exilio",
+   "titulo": "Exílio na Babilônia",
+   "periodo": "c. 605–538 a.C.",
+   "inicio": -605,
+   "fim": -538,
+   "resumo": "Nabucodonosor leva os habitantes de Judá para a Babilônia em várias levas, de 605 a 586 a.C., e Jerusalém fica em ruínas. Longe do templo, o povo lamenta, mas também recebe de Jeremias o conselho de buscar o bem da cidade onde vive e a promessa de volta depois de setenta anos. Ezequiel, entre os exilados, vê a glória de Deus deixar Jerusalém e anuncia um coração novo e um povo restaurado. Daniel e seus companheiros servem na corte sem abandonar a fé, mesmo diante da fornalha e da cova dos leões. Em 539 a.C. Babilônia cai diante dos persas, e Ciro permite que os judeus voltem.",
+   "personagens": [
+    {
+     "nome": "Nabucodonosor II",
+     "papel": "Rei da Babilônia que conquistou Jerusalém e levou o povo ao exílio.",
+     "refs": [
+      "2-reis 25:1",
+      "daniel 4:37"
+     ]
+    },
+    {
+     "nome": "Daniel",
+     "papel": "Jovem levado de Judá que serviu na corte babilônica e persa e recebeu visões.",
+     "refs": [
+      "daniel 1:6",
+      "daniel 6:22"
+     ]
+    },
+    {
+     "nome": "Sadraque, Mesaque e Abede-Nego",
+     "papel": "Companheiros de Daniel que se recusaram a adorar a estátua do rei.",
+     "refs": [
+      "daniel 3:17-18"
+     ]
+    },
+    {
+     "nome": "Ezequiel",
+     "papel": "Sacerdote e profeta entre os exilados junto ao rio Quebar.",
+     "refs": [
+      "ezequiel 1:3",
+      "ezequiel 37:4"
+     ]
+    },
+    {
+     "nome": "Jeremias",
+     "papel": "Ficou em Judá, escreveu aos exilados e foi levado ao Egito.",
+     "refs": [
+      "jeremias 29:1",
+      "jeremias 43:6"
+     ]
+    },
+    {
+     "nome": "Gedalias",
+     "papel": "Governador de Judá nomeado por Babilônia, assassinado pouco depois.",
+     "refs": [
+      "2-reis 25:22",
+      "2-reis 25:25"
+     ]
+    },
+    {
+     "nome": "Belsazar",
+     "papel": "Governante da Babilônia na noite da queda da cidade.",
+     "refs": [
+      "daniel 5:1",
+      "daniel 5:30"
+     ]
+    },
+    {
+     "nome": "Ciro",
+     "papel": "Rei persa que conquistou Babilônia e autorizou o retorno dos judeus.",
+     "refs": [
+      "isaias 45:1",
+      "esdras 1:1"
+     ]
+    }
+   ],
+   "eventos": [
+    {
+     "titulo": "Daniel e seus amigos são levados para Babilônia",
+     "ref": "daniel 1:6",
+     "data": "c. 605 a.C."
+    },
+    {
+     "titulo": "O rei Joaquim e Ezequiel vão para o exílio",
+     "ref": "2-reis 24:15",
+     "data": "597 a.C."
+    },
+    {
+     "titulo": "Jeremias escreve aos exilados",
+     "ref": "jeremias 29:10"
+    },
+    {
+     "titulo": "Lamento sobre Jerusalém destruída",
+     "ref": "lamentacoes 1:1",
+     "data": "depois de 586 a.C."
+    },
+    {
+     "titulo": "Os três amigos na fornalha",
+     "ref": "daniel 3:25"
+    },
+    {
+     "titulo": "A visão dos ossos secos",
+     "ref": "ezequiel 37:10"
+    },
+    {
+     "titulo": "Joaquim é libertado da prisão",
+     "ref": "2-reis 25:27",
+     "data": "c. 561 a.C."
+    },
+    {
+     "titulo": "A escrita na parede e a queda de Babilônia",
+     "ref": "daniel 5:30",
+     "data": "539 a.C."
+    },
+    {
+     "titulo": "Daniel na cova dos leões",
+     "ref": "daniel 6:22"
+    }
+   ],
+   "versiculos_chave": [
+    "jeremias 29:11",
+    "lamentacoes 3:22-23",
+    "ezequiel 36:26"
+   ],
+   "livros": [
+    "2-reis",
+    "2-cronicas",
+    "jeremias",
+    "lamentacoes",
+    "ezequiel",
+    "daniel",
+    "salmos"
+   ],
+   "licoes": [
+    "Deus continua presente com seu povo mesmo longe da terra e do templo.",
+    "É possível servir com integridade numa cultura estranha sem negar a fé.",
+    "O juízo não é a última palavra: os profetas do exílio anunciam um coração e um espírito novos."
+   ],
+   "leituras": [
+    {
+     "nome": "A data de Daniel",
+     "resumo": "A leitura tradicional entende que o livro vem do próprio Daniel, no séc. VI a.C., e que suas visões anunciam fatos posteriores; muitos estudiosos datam a forma final no séc. II a.C., nos dias de Antíoco IV, e leem as visões como mensagem para aquele tempo."
+    },
+    {
+     "nome": "Os setenta anos",
+     "resumo": "Os setenta anos de Jeremias 25 e 29 são contados de 605 a 538/536 a.C. (do primeiro exílio ao retorno), de 586 a 516/515 a.C. (da destruição à reconstrução do templo) ou entendidos como número redondo para uma vida inteira."
+    }
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Tabuinhas de rações da Babilônia",
+     "referencia": "listas de rações que citam Joaquim (Ia'ukinu), rei de Judá, e seus filhos",
+     "data": "c. 592–568 a.C. (aprox.)"
+    },
+    {
+     "fonte": "Cilindro de Ciro",
+     "referencia": "inscrição em que Ciro descreve a tomada de Babilônia e a volta de povos deportados a seus santuários",
+     "data": "c. 539 a.C. (aprox.)"
+    }
+   ],
+   "leitura": [
+    {
+     "ref": "jeremias 39-52",
+     "nota": "A queda de Jerusalém e o que veio depois, com os oráculos contra as nações."
+    },
+    {
+     "ref": "lamentacoes 1-5"
+    },
+    {
+     "ref": "salmos 137",
+     "nota": "Salmo dos exilados junto aos rios da Babilônia."
+    },
+    {
+     "ref": "ezequiel 1-48"
+    },
+    {
+     "ref": "daniel 1-12",
+     "nota": "Posição debatida: a data da escrita do livro é discutida (séc. VI ou II a.C.)."
+    }
+   ]
+  },
+  {
+   "id": "retorno",
+   "titulo": "Retorno e restauração",
+   "periodo": "c. 538–430 a.C.",
+   "inicio": -538,
+   "fim": -430,
+   "resumo": "Com o decreto de Ciro, um primeiro grupo volta a Judá com Zorobabel e o sumo sacerdote Josué, reconstrói o altar e lança os fundamentos do templo. A oposição dos vizinhos interrompe a obra, até que os profetas Ageu e Zacarias animam o povo e o templo é concluído em 516/515 a.C. Na Pérsia, a rainha Ester arrisca a vida para salvar os judeus de um decreto de extermínio. Mais tarde, o escriba Esdras ensina a lei em Jerusalém e Neemias reconstrói os muros da cidade em 52 dias. Malaquias, o último profeta do Antigo Testamento, confronta um culto cansado e anuncia o mensageiro que prepararia o caminho do Senhor.",
+   "personagens": [
+    {
+     "nome": "Zorobabel",
+     "papel": "Descendente de Davi e governador que liderou o primeiro retorno e a obra do templo.",
+     "refs": [
+      "esdras 3:8",
+      "zacarias 4:9"
+     ]
+    },
+    {
+     "nome": "Josué, o sumo sacerdote",
+     "papel": "Líder sacerdotal do primeiro retorno, ao lado de Zorobabel.",
+     "refs": [
+      "ageu 1:1",
+      "zacarias 3:1"
+     ]
+    },
+    {
+     "nome": "Ageu",
+     "papel": "Profeta que chamou o povo a terminar a reconstrução do templo.",
+     "refs": [
+      "ageu 1:4",
+      "esdras 5:1"
+     ]
+    },
+    {
+     "nome": "Zacarias",
+     "papel": "Profeta de visões que encorajou os construtores e falou do rei que viria.",
+     "refs": [
+      "zacarias 1:1",
+      "zacarias 9:9"
+     ]
+    },
+    {
+     "nome": "Ester",
+     "papel": "Judia que se tornou rainha da Pérsia e intercedeu pelo seu povo.",
+     "refs": [
+      "ester 2:17",
+      "ester 4:16"
+     ]
+    },
+    {
+     "nome": "Mardoqueu",
+     "papel": "Primo e tutor de Ester, que se recusou a se curvar diante de Hamã.",
+     "refs": [
+      "ester 2:7",
+      "ester 10:3"
+     ]
+    },
+    {
+     "nome": "Esdras",
+     "papel": "Sacerdote e escriba dedicado a estudar, praticar e ensinar a lei.",
+     "refs": [
+      "esdras 7:10",
+      "neemias 8:8"
+     ]
+    },
+    {
+     "nome": "Neemias",
+     "papel": "Copeiro do rei persa que voltou para reconstruir os muros de Jerusalém.",
+     "refs": [
+      "neemias 1:11",
+      "neemias 6:15"
+     ]
+    }
+   ],
+   "eventos": [
+    {
+     "titulo": "O decreto de Ciro",
+     "ref": "esdras 1:2-3",
+     "data": "538 a.C."
+    },
+    {
+     "titulo": "O altar é reconstruído",
+     "ref": "esdras 3:2"
+    },
+    {
+     "titulo": "Os fundamentos do templo são lançados",
+     "ref": "esdras 3:11"
+    },
+    {
+     "titulo": "A obra é interrompida pela oposição",
+     "ref": "esdras 4:24"
+    },
+    {
+     "titulo": "Ageu e Zacarias retomam a reconstrução",
+     "ref": "esdras 5:1-2",
+     "data": "520 a.C."
+    },
+    {
+     "titulo": "O templo é concluído",
+     "ref": "esdras 6:15",
+     "data": "516/515 a.C."
+    },
+    {
+     "titulo": "Ester se torna rainha da Pérsia",
+     "ref": "ester 2:17",
+     "data": "c. 479 a.C."
+    },
+    {
+     "titulo": "Esdras chega a Jerusalém",
+     "ref": "esdras 7:8",
+     "data": "458 a.C."
+    },
+    {
+     "titulo": "Os muros de Jerusalém são concluídos",
+     "ref": "neemias 6:15",
+     "data": "445 a.C."
+    },
+    {
+     "titulo": "A leitura pública da lei",
+     "ref": "neemias 8:8"
+    }
+   ],
+   "versiculos_chave": [
+    "esdras 7:10",
+    "neemias 8:10",
+    "zacarias 4:6",
+    "malaquias 3:1"
+   ],
+   "livros": [
+    "esdras",
+    "neemias",
+    "ester",
+    "ageu",
+    "zacarias",
+    "malaquias",
+    "1-cronicas",
+    "2-cronicas"
+   ],
+   "licoes": [
+    "Recomeçar exige coragem para construir mesmo quando o resultado parece pequeno.",
+    "A Palavra de Deus lida e explicada renova a vida do povo.",
+    "Deus age até onde seu nome não é mencionado, como no livro de Ester."
+   ],
+   "leituras": [
+    {
+     "nome": "A ordem de Esdras e Neemias",
+     "resumo": "A leitura mais comum situa a chegada de Esdras em 458 a.C., no 7º ano de Artaxerxes I, antes de Neemias (445 a.C.); alguns estudiosos propõem que o rei de Esdras 7 seria Artaxerxes II, o que levaria Esdras para 398 a.C., depois de Neemias."
+    },
+    {
+     "nome": "Quando Crônicas foi escrito",
+     "resumo": "Crônicas narra de Adão ao decreto de Ciro, mas costuma ser datado do período persa (séc. V–IV a.C.); a tradição judaica o atribui a Esdras."
+    }
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Heródoto, Histórias",
+     "referencia": "livros 7–9 (o reinado e as guerras de Xerxes, geralmente identificado com Assuero de Ester)",
+     "data": "séc. V a.C."
+    },
+    {
+     "fonte": "Papiros de Elefantina (Egito)",
+     "referencia": "carta de judeus de Elefantina ao governador de Judá que cita os filhos de Sambalate, governador de Samaria",
+     "data": "c. 407 a.C."
+    }
+   ],
+   "leitura": [
+    {
+     "ref": "esdras 1-6"
+    },
+    {
+     "ref": "ageu 1-2"
+    },
+    {
+     "ref": "zacarias 1-14"
+    },
+    {
+     "ref": "ester 1-10",
+     "nota": "Os fatos de Ester se passam entre Esdras 6 e Esdras 7."
+    },
+    {
+     "ref": "esdras 7-10"
+    },
+    {
+     "ref": "neemias 1-13"
+    },
+    {
+     "ref": "malaquias 1-4",
+     "nota": "Costuma ser datado perto do tempo de Neemias."
+    }
+   ]
+  },
+  {
+   "id": "intertestamentario",
+   "titulo": "Entre os Testamentos",
+   "periodo": "c. 430–5 a.C.",
+   "inicio": -430,
+   "fim": -5,
+   "extrabiblico": true,
+   "resumo": "Entre Malaquias e o nascimento de Jesus passam cerca de quatro séculos que nenhum livro do cânon protestante narra; o que se sabe vem de fontes de fora da Bíblia, indicadas abaixo. O domínio persa dá lugar a Alexandre, o Grande, e depois aos reinos dos Ptolomeus (Egito) e dos Selêucidas (Síria), que disputam a Judeia. Em 167 a.C. o rei selêucida Antíoco IV profana o templo, e a revolta dos Macabeus o purifica em 164 a.C., origem da festa da Dedicação citada em João 10:22. Seguem-se a dinastia judaica dos Hasmoneus, a chegada de Roma em 63 a.C. e o reinado de Herodes, o Grande. Nesse tempo surgem a tradução grega das Escrituras (Septuaginta), as sinagogas e grupos como fariseus, saduceus e essênios, que aparecem prontos no Novo Testamento.",
+   "nota_canon": "Os livros de 1 e 2 Macabeus, Tobias, Judite, Sabedoria, Eclesiástico (Sirácida) e Baruque, ligados a este período, fazem parte do Antigo Testamento nas igrejas católica e ortodoxa (deuterocanônicos); as igrejas protestantes não os consideram canônicos, mas muitas os valorizam como fonte histórica. Aqui eles aparecem apenas como fonte, em fonte_extra.",
+   "personagens": [
+    {
+     "nome": "Alexandre, o Grande",
+     "papel": "Rei macedônio que conquistou o Império Persa (333–331 a.C.); muitos intérpretes o veem no 'rei da Grécia' de Daniel 8.",
+     "refs": [
+      "daniel 8:21"
+     ],
+     "fonte_extra": [
+      {
+       "fonte": "Arriano, Anábase de Alexandre",
+       "referencia": "relato das campanhas de Alexandre",
+       "data": "séc. II d.C."
+      }
+     ]
+    },
+    {
+     "nome": "Ptolomeus e Selêucidas",
+     "papel": "Dinastias herdeiras de Alexandre no Egito e na Síria; muitos leem nelas os 'reis do sul e do norte' de Daniel 11.",
+     "refs": [
+      "daniel 11:5-6"
+     ],
+     "fonte_extra": [
+      {
+       "fonte": "Josefo, Antiguidades Judaicas",
+       "referencia": "livro 12 (Ptolomeus, Selêucidas e os judeus)",
+       "data": "c. 93 d.C."
+      }
+     ]
+    },
+    {
+     "nome": "Antíoco IV Epifânio",
+     "papel": "Rei selêucida (175–164 a.C.) que proibiu a prática da lei e profanou o templo; muitos intérpretes o ligam a Daniel 11:31.",
+     "refs": [
+      "daniel 11:31"
+     ],
+     "fonte_extra": [
+      {
+       "fonte": "1 Macabeus (deuterocanônico)",
+       "referencia": "capítulo 1 (profanação do templo)",
+       "data": "séc. II a.C."
+      }
+     ]
+    },
+    {
+     "nome": "Judas Macabeu",
+     "papel": "Líder da revolta judaica que retomou e purificou o templo em 164 a.C.",
+     "refs": [],
+     "fonte_extra": [
+      {
+       "fonte": "1 Macabeus (deuterocanônico)",
+       "referencia": "capítulos 3–4 (vitórias de Judas e purificação do templo)",
+       "data": "séc. II a.C."
+      },
+      {
+       "fonte": "Josefo, Antiguidades Judaicas",
+       "referencia": "livro 12",
+       "data": "c. 93 d.C."
+      }
+     ]
+    },
+    {
+     "nome": "Pompeu",
+     "papel": "General romano que tomou Jerusalém em 63 a.C. e pôs a Judeia sob a influência de Roma.",
+     "refs": [],
+     "fonte_extra": [
+      {
+       "fonte": "Josefo, Antiguidades Judaicas",
+       "referencia": "livro 14 (Pompeu em Jerusalém)",
+       "data": "c. 93 d.C."
+      }
+     ]
+    },
+    {
+     "nome": "Herodes, o Grande",
+     "papel": "Rei da Judeia nomeado por Roma (37–4 a.C.), que reformou o templo; reinava quando Jesus nasceu.",
+     "refs": [
+      "mateus 2:1",
+      "joao 2:20"
+     ],
+     "fonte_extra": [
+      {
+       "fonte": "Josefo, Antiguidades Judaicas",
+       "referencia": "livros 14–17",
+       "data": "c. 93 d.C."
+      }
+     ]
+    }
+   ],
+   "eventos": [
+    {
+     "titulo": "Últimas décadas do domínio persa",
+     "data": "c. 430–332 a.C.",
+     "fonte_extra": [
+      {
+       "fonte": "Josefo, Antiguidades Judaicas",
+       "referencia": "livro 11",
+       "data": "c. 93 d.C."
+      }
+     ]
+    },
+    {
+     "titulo": "Alexandre conquista a região",
+     "ref": "daniel 8:21",
+     "data": "333–332 a.C.",
+     "fonte_extra": [
+      {
+       "fonte": "Arriano, Anábase de Alexandre",
+       "referencia": "livro 2 (cercos de Tiro e Gaza)",
+       "data": "séc. II d.C."
+      }
+     ]
+    },
+    {
+     "titulo": "Morte de Alexandre e divisão do império",
+     "ref": "daniel 8:22",
+     "data": "323 a.C.",
+     "fonte_extra": [
+      {
+       "fonte": "Josefo, Antiguidades Judaicas",
+       "referencia": "livro 12",
+       "data": "c. 93 d.C."
+      }
+     ]
+    },
+    {
+     "titulo": "A Judeia sob os Ptolomeus e a tradução grega das Escrituras",
+     "data": "c. 301–198 a.C. (Septuaginta, a partir do séc. III a.C.)",
+     "fonte_extra": [
+      {
+       "fonte": "Carta de Aristeias",
+       "referencia": "relato (com traços lendários) da tradução da lei para o grego em Alexandria",
+       "data": "séc. II a.C. (aprox.)"
+      }
+     ]
+    },
+    {
+     "titulo": "A Judeia passa aos Selêucidas",
+     "data": "198 a.C.",
+     "fonte_extra": [
+      {
+       "fonte": "Josefo, Antiguidades Judaicas",
+       "referencia": "livro 12",
+       "data": "c. 93 d.C."
+      }
+     ]
+    },
+    {
+     "titulo": "Antíoco IV profana o templo",
+     "ref": "daniel 11:31",
+     "data": "167 a.C.",
+     "fonte_extra": [
+      {
+       "fonte": "1 Macabeus (deuterocanônico)",
+       "referencia": "capítulo 1",
+       "data": "séc. II a.C."
+      }
+     ]
+    },
+    {
+     "titulo": "Os Macabeus purificam o templo: a festa da Dedicação",
+     "ref": "joao 10:22",
+     "data": "164 a.C.",
+     "fonte_extra": [
+      {
+       "fonte": "1 Macabeus (deuterocanônico)",
+       "referencia": "capítulo 4",
+       "data": "séc. II a.C."
+      }
+     ]
+    },
+    {
+     "titulo": "Independência sob os Hasmoneus",
+     "data": "142 a.C.",
+     "fonte_extra": [
+      {
+       "fonte": "1 Macabeus (deuterocanônico)",
+       "referencia": "capítulo 13",
+       "data": "séc. II a.C."
+      }
+     ]
+    },
+    {
+     "titulo": "Pompeu toma Jerusalém",
+     "data": "63 a.C.",
+     "fonte_extra": [
+      {
+       "fonte": "Josefo, Antiguidades Judaicas",
+       "referencia": "livro 14",
+       "data": "c. 93 d.C."
+      }
+     ]
+    },
+    {
+     "titulo": "Herodes, o Grande, começa a reformar o templo",
+     "ref": "joao 2:20",
+     "data": "c. 20/19 a.C.",
+     "fonte_extra": [
+      {
+       "fonte": "Josefo, Antiguidades Judaicas",
+       "referencia": "livro 15 (reconstrução do templo)",
+       "data": "c. 93 d.C."
+      }
+     ]
+    }
+   ],
+   "versiculos_chave": [
+    "daniel 11:32",
+    "malaquias 4:5-6",
+    "galatas 4:4"
+   ],
+   "livros": [],
+   "licoes": [
+    "Os silêncios da história bíblica não são vazios: preparam o mundo em que o Evangelho seria anunciado.",
+    "A resistência dos que se mantiveram fiéis sob perseguição inspirou gerações.",
+    "Uma língua comum (o grego), as estradas e as sinagogas facilitariam depois a difusão da mensagem cristã."
+   ],
+   "leituras": [
+    {
+     "nome": "Daniel 8 e 11 e este período",
+     "resumo": "Muitos intérpretes leem Daniel 8 e 11 como descrição antecipada de Alexandre, dos Ptolomeus, dos Selêucidas e de Antíoco IV; quem data Daniel no séc. II a.C. vê aí a época do autor, e há também quem aplique partes desses capítulos a fatos ainda futuros."
+    }
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livros 11–17 (do fim do período persa a Herodes)",
+     "data": "c. 93 d.C."
+    },
+    {
+     "fonte": "1 e 2 Macabeus (deuterocanônicos)",
+     "referencia": "história da revolta contra Antíoco IV e dos Hasmoneus",
+     "data": "séc. II–I a.C."
+    },
+    {
+     "fonte": "Manuscritos do Mar Morto (Qumran)",
+     "referencia": "cópias de livros bíblicos e textos de um grupo judaico do período",
+     "data": "séc. III a.C.–séc. I d.C. (aprox.)"
+    }
+   ],
+   "leitura": [],
+   "nota_leitura": "Nenhum livro do cânon protestante narra este período. Para conhecê-lo, há quem leia 1 Macabeus (deuterocanônico) ou um resumo histórico; a sequência de leitura bíblica continua nos Evangelhos."
+  },
+  {
+   "id": "vida-de-jesus",
+   "titulo": "Vida de Jesus",
+   "periodo": "c. 6/4 a.C.–30/33 d.C.",
+   "inicio": -6,
+   "fim": 30,
+   "resumo": "Jesus nasce em Belém, nos últimos anos de Herodes, e cresce em Nazaré da Galileia. Depois de ser batizado por João Batista, anuncia que o Reino de Deus chegou, chama discípulos, ensina com parábolas, cura doentes e acolhe pecadores. Seus ensinos e sinais despertam fé em muitos e oposição dos líderes religiosos. Em Jerusalém, na Páscoa, ele celebra a última ceia com os discípulos, é preso, julgado diante de Caifás e de Pilatos e crucificado. Ao terceiro dia o túmulo é encontrado vazio, e os Evangelhos relatam suas aparições como Senhor ressuscitado.",
+   "personagens": [
+    {
+     "nome": "Maria",
+     "papel": "Mãe de Jesus, que recebeu o anúncio do anjo em Nazaré.",
+     "refs": [
+      "lucas 1:30-31",
+      "joao 19:25"
+     ]
+    },
+    {
+     "nome": "José",
+     "papel": "Carpinteiro de Nazaré, descendente de Davi, esposo de Maria.",
+     "refs": [
+      "mateus 1:20",
+      "mateus 13:55"
+     ]
+    },
+    {
+     "nome": "João Batista",
+     "papel": "Profeta que preparou o caminho e batizou Jesus no Jordão.",
+     "refs": [
+      "mateus 3:1-2",
+      "joao 1:29"
+     ]
+    },
+    {
+     "nome": "Pedro",
+     "papel": "Pescador chamado por Jesus, que o reconheceu como o Cristo.",
+     "refs": [
+      "marcos 1:16-17",
+      "mateus 16:16"
+     ]
+    },
+    {
+     "nome": "João, filho de Zebedeu",
+     "papel": "Discípulo próximo de Jesus; a tradição o identifica com o 'discípulo amado'.",
+     "refs": [
+      "marcos 1:19-20",
+      "joao 19:26"
+     ]
+    },
+    {
+     "nome": "Maria Madalena",
+     "papel": "Discípula que esteve na cruz e foi a primeira a ver o Ressuscitado, segundo João.",
+     "refs": [
+      "lucas 8:2",
+      "joao 20:18"
+     ]
+    },
+    {
+     "nome": "Caifás",
+     "papel": "Sumo sacerdote que presidiu o julgamento de Jesus.",
+     "refs": [
+      "joao 11:49-50",
+      "mateus 26:57"
+     ]
+    },
+    {
+     "nome": "Pôncio Pilatos",
+     "papel": "Governador romano da Judeia que condenou Jesus à cruz.",
+     "refs": [
+      "lucas 23:24",
+      "joao 19:16"
+     ]
+    }
+   ],
+   "eventos": [
+    {
+     "titulo": "O anúncio a Maria",
+     "ref": "lucas 1:31"
+    },
+    {
+     "titulo": "O nascimento em Belém",
+     "ref": "lucas 2:7",
+     "data": "c. 6–4 a.C."
+    },
+    {
+     "titulo": "O batismo de Jesus",
+     "ref": "mateus 3:16-17"
+    },
+    {
+     "titulo": "O chamado dos primeiros discípulos",
+     "ref": "marcos 1:17"
+    },
+    {
+     "titulo": "O Sermão do Monte",
+     "ref": "mateus 5:1-2"
+    },
+    {
+     "titulo": "A transfiguração",
+     "ref": "mateus 17:2"
+    },
+    {
+     "titulo": "A entrada em Jerusalém",
+     "ref": "mateus 21:9"
+    },
+    {
+     "titulo": "A última ceia",
+     "ref": "lucas 22:19-20"
+    },
+    {
+     "titulo": "A crucificação",
+     "ref": "lucas 23:33",
+     "data": "30 ou 33 d.C."
+    },
+    {
+     "titulo": "A ressurreição",
+     "ref": "mateus 28:6"
+    }
+   ],
+   "versiculos_chave": [
+    "marcos 1:15",
+    "joao 3:16",
+    "marcos 10:45"
+   ],
+   "livros": [
+    "mateus",
+    "marcos",
+    "lucas",
+    "joao"
+   ],
+   "licoes": [
+    "Em Jesus, o Reino de Deus se aproxima de pessoas concretas: doentes, pobres e pecadores.",
+    "Os Evangelhos dão grande espaço à última semana, porque a cruz e a ressurreição estão no centro da mensagem.",
+    "Seguir Jesus é aprender com ele no caminho, como os discípulos, apesar das falhas."
+   ],
+   "leituras": [
+    {
+     "nome": "O ano do nascimento",
+     "resumo": "Como Herodes morreu provavelmente em 4 a.C. (segundo Josefo), muitos situam o nascimento entre 6 e 4 a.C.; outros, revendo a data da morte de Herodes, propõem 3–1 a.C. A diferença com o ano 1 vem de um erro de cálculo na criação do calendário cristão."
+    },
+    {
+     "nome": "Duração do ministério e data da cruz",
+     "resumo": "João menciona pelo menos três Páscoas, o que sugere cerca de três anos de ministério; as datas mais propostas para a crucificação são 30 e 33 d.C., ambas compatíveis com o governo de Pilatos (26–36 d.C.)."
+    }
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Tácito, Anais",
+     "referencia": "livro 15, 44 (Cristo executado por Pôncio Pilatos no tempo de Tibério)",
+     "data": "c. 116 d.C."
+    },
+    {
+     "fonte": "Josefo, Antiguidades Judaicas",
+     "referencia": "livro 18 (passagem sobre Jesus, com partes de autenticidade discutida) e livro 17 (morte de Herodes)",
+     "data": "c. 93 d.C."
+    },
+    {
+     "fonte": "Inscrição de Pilatos (Cesareia Marítima)",
+     "referencia": "pedra com o nome de Pôncio Pilatos, prefeito da Judeia",
+     "data": "c. 26–36 d.C."
+    }
+   ],
+   "leitura": [
+    {
+     "ref": "mateus 1-28",
+     "nota": "Muitos planos intercalam os quatro Evangelhos numa harmonia; aqui cada um é lido inteiro."
+    },
+    {
+     "ref": "marcos 1-16"
+    },
+    {
+     "ref": "lucas 1-24"
+    },
+    {
+     "ref": "joao 1-21"
+    }
+   ]
+  },
+  {
+   "id": "igreja-primitiva",
+   "titulo": "A igreja primitiva",
+   "periodo": "c. 30/33–62 d.C.",
+   "inicio": 30,
+   "fim": 62,
+   "resumo": "Depois da ascensão de Jesus, os discípulos recebem o Espírito Santo no Pentecostes, e a mensagem se espalha a partir de Jerusalém. A perseguição que se segue à morte de Estêvão leva os cristãos à Judeia, à Samaria e além, e Saulo de Tarso, antes perseguidor, é chamado para levar o Evangelho aos não judeus. A conversão de Cornélio e o concílio de Jerusalém confirmam que os gentios são recebidos pela fé, sem precisar se tornar judeus. Nas suas viagens, Paulo funda igrejas na Ásia Menor e na Grécia e escreve cartas a várias delas. Atos termina com Paulo preso em Roma, anunciando o Reino com toda a liberdade.",
+   "personagens": [
+    {
+     "nome": "Pedro",
+     "papel": "Líder dos apóstolos em Jerusalém, que pregou no Pentecostes e na casa de Cornélio.",
+     "refs": [
+      "atos 2:14",
+      "atos 10:34-35"
+     ]
+    },
+    {
+     "nome": "Estêvão",
+     "papel": "Um dos sete escolhidos para servir, o primeiro mártir cristão.",
+     "refs": [
+      "atos 6:8",
+      "atos 7:59-60"
+     ]
+    },
+    {
+     "nome": "Filipe",
+     "papel": "Evangelista que levou a mensagem a Samaria e a um oficial etíope.",
+     "refs": [
+      "atos 8:5",
+      "atos 8:35"
+     ]
+    },
+    {
+     "nome": "Paulo (Saulo)",
+     "papel": "Perseguidor transformado em apóstolo dos gentios.",
+     "refs": [
+      "atos 9:15",
+      "atos 28:30-31"
+     ]
+    },
+    {
+     "nome": "Barnabé",
+     "papel": "Encorajador da igreja e companheiro de Paulo na primeira viagem.",
+     "refs": [
+      "atos 4:36",
+      "atos 13:2"
+     ]
+    },
+    {
+     "nome": "Cornélio",
+     "papel": "Centurião romano temente a Deus, cuja casa recebeu o Espírito.",
+     "refs": [
+      "atos 10:1-2",
+      "atos 10:44"
+     ]
+    },
+    {
+     "nome": "Tiago, irmão do Senhor",
+     "papel": "Líder da igreja de Jerusalém no concílio.",
+     "refs": [
+      "atos 15:13",
+      "galatas 1:19"
+     ]
+    },
+    {
+     "nome": "Priscila e Áquila",
+     "papel": "Casal que trabalhou com Paulo e ensinou Apolo.",
+     "refs": [
+      "atos 18:2",
+      "atos 18:26"
+     ]
+    }
+   ],
+   "eventos": [
+    {
+     "titulo": "A ascensão de Jesus",
+     "ref": "atos 1:9"
+    },
+    {
+     "titulo": "O Espírito Santo no Pentecostes",
+     "ref": "atos 2:4"
+    },
+    {
+     "titulo": "O martírio de Estêvão",
+     "ref": "atos 7:60"
+    },
+    {
+     "titulo": "A conversão de Saulo",
+     "ref": "atos 9:4"
+    },
+    {
+     "titulo": "O Evangelho na casa de Cornélio",
+     "ref": "atos 10:44"
+    },
+    {
+     "titulo": "A primeira viagem missionária",
+     "ref": "atos 13:2-3",
+     "data": "c. 46–48 d.C."
+    },
+    {
+     "titulo": "O concílio de Jerusalém",
+     "ref": "atos 15:28-29",
+     "data": "c. 49 d.C."
+    },
+    {
+     "titulo": "O chamado à Macedônia: o Evangelho chega à Europa",
+     "ref": "atos 16:9-10",
+     "data": "c. 50 d.C."
+    },
+    {
+     "titulo": "Paulo é preso em Jerusalém",
+     "ref": "atos 21:33",
+     "data": "c. 57 d.C."
+    },
+    {
+     "titulo": "Paulo em Roma",
+     "ref": "atos 28:30-31",
+     "data": "c. 60–62 d.C."
+    }
+   ],
+   "versiculos_chave": [
+    "atos 1:8",
+    "atos 2:42",
+    "atos 4:12"
+   ],
+   "livros": [
+    "atos",
+    "tiago",
+    "galatas",
+    "1-tessalonicenses",
+    "2-tessalonicenses",
+    "1-corintios",
+    "2-corintios",
+    "romanos",
+    "efesios",
+    "filipenses",
+    "colossenses",
+    "filemom"
+   ],
+   "licoes": [
+    "A igreja nasce do Espírito Santo e cresce anunciando Jesus ressuscitado.",
+    "O Evangelho atravessa barreiras de povo, língua e condição social.",
+    "Conflitos na igreja podem ser resolvidos ouvindo as Escrituras e uns aos outros."
+   ],
+   "leituras": [
+    {
+     "nome": "Onde encaixar as cartas",
+     "resumo": "A posição de algumas cartas é discutida: Gálatas pode ser anterior ao concílio de Jerusalém (c. 48 d.C.) ou posterior (c. 53–55 d.C.); Tiago é datado por muitos antes de 50 d.C., por outros mais tarde; as cartas da prisão costumam ser ligadas a Roma (c. 60–62 d.C.), mas há quem proponha Éfeso ou Cesareia."
+    }
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Inscrição de Gálio (Delfos, Grécia)",
+     "referencia": "carta do imperador Cláudio que permite datar o proconsulado de Gálio na Acaia (Atos 18:12)",
+     "data": "c. 52 d.C."
+    },
+    {
+     "fonte": "Suetônio, Vida de Cláudio",
+     "referencia": "capítulo 25 (expulsão dos judeus de Roma, cf. Atos 18:2)",
+     "data": "c. 120 d.C."
+    }
+   ],
+   "leitura": [
+    {
+     "ref": "atos 1-12"
+    },
+    {
+     "ref": "tiago 1-5",
+     "nota": "Posição debatida: muitos a consideram a carta mais antiga do Novo Testamento (antes de 50 d.C.)."
+    },
+    {
+     "ref": "atos 13-14"
+    },
+    {
+     "ref": "galatas 1-6",
+     "nota": "Aqui antes do concílio; outros a datam durante a terceira viagem."
+    },
+    {
+     "ref": "atos 15-17"
+    },
+    {
+     "ref": "1-tessalonicenses 1-5",
+     "nota": "Escrita em Corinto, c. 50–51 d.C."
+    },
+    {
+     "ref": "2-tessalonicenses 1-3"
+    },
+    {
+     "ref": "atos 18-19"
+    },
+    {
+     "ref": "1-corintios 1-16",
+     "nota": "Escrita em Éfeso, c. 54–55 d.C."
+    },
+    {
+     "ref": "2-corintios 1-13"
+    },
+    {
+     "ref": "atos 20"
+    },
+    {
+     "ref": "romanos 1-16",
+     "nota": "Escrita em Corinto, c. 57 d.C., antes da viagem a Jerusalém."
+    },
+    {
+     "ref": "atos 21-28"
+    },
+    {
+     "ref": "efesios 1-6",
+     "nota": "Cartas da prisão, geralmente ligadas a Roma (c. 60–62 d.C.)."
+    },
+    {
+     "ref": "filipenses 1-4"
+    },
+    {
+     "ref": "colossenses 1-4"
+    },
+    {
+     "ref": "filemom 1"
+    }
+   ]
+  },
+  {
+   "id": "cartas-apocalipse",
+   "titulo": "Últimas cartas e Apocalipse",
+   "periodo": "c. 62–95 d.C.",
+   "inicio": 62,
+   "fim": 95,
+   "resumo": "Depois do período narrado em Atos, os apóstolos e seus colaboradores continuam a escrever às igrejas. Paulo orienta Timóteo e Tito sobre liderança e sã doutrina e, preso de novo, escreve sua última carta pouco antes de morrer. Pedro anima cristãos que sofrem por causa da fé, e Hebreus mostra Jesus como sumo sacerdote superior a toda a antiga aliança. Em 70 d.C. Roma destrói Jerusalém e o templo. No fim do século, as cartas de João insistem no amor e na verdade, e o Apocalipse, recebido na ilha de Patmos, apresenta a vitória do Cordeiro e a esperança de novos céus e nova terra.",
+   "personagens": [
+    {
+     "nome": "Paulo",
+     "papel": "Apóstolo que, no fim da vida, escreveu a Timóteo e a Tito.",
+     "refs": [
+      "1-timoteo 1:1-2",
+      "2-timoteo 4:6-7"
+     ]
+    },
+    {
+     "nome": "Timóteo",
+     "papel": "Jovem colaborador de Paulo, encarregado da igreja de Éfeso.",
+     "refs": [
+      "1-timoteo 1:3",
+      "2-timoteo 1:5"
+     ]
+    },
+    {
+     "nome": "Tito",
+     "papel": "Colaborador de Paulo, deixado em Creta para organizar as igrejas.",
+     "refs": [
+      "tito 1:4-5"
+     ]
+    },
+    {
+     "nome": "Lucas",
+     "papel": "Médico e companheiro de Paulo, o único que ficou com ele na última prisão.",
+     "refs": [
+      "2-timoteo 4:11",
+      "colossenses 4:14"
+     ]
+    },
+    {
+     "nome": "Pedro",
+     "papel": "Apóstolo que escreveu a cristãos dispersos e perseguidos.",
+     "refs": [
+      "1-pedro 1:1",
+      "2-pedro 1:14"
+     ]
+    },
+    {
+     "nome": "Silvano",
+     "papel": "Companheiro de missão pelo qual Pedro enviou sua primeira carta.",
+     "refs": [
+      "1-pedro 5:12"
+     ]
+    },
+    {
+     "nome": "Judas",
+     "papel": "Irmão de Tiago, autor de uma breve carta contra falsos mestres.",
+     "refs": [
+      "judas 1:1",
+      "judas 1:3"
+     ]
+    },
+    {
+     "nome": "João",
+     "papel": "Apóstolo a quem a tradição atribui as cartas de João; o autor do Apocalipse se apresenta como João, exilado em Patmos.",
+     "refs": [
+      "1-joao 1:1",
+      "apocalipse 1:9"
+     ]
+    }
+   ],
+   "eventos": [
+    {
+     "titulo": "Paulo escreve a Timóteo e a Tito",
+     "ref": "1-timoteo 3:14-15",
+     "data": "c. 62–64 d.C."
+    },
+    {
+     "titulo": "Pedro escreve aos cristãos perseguidos",
+     "ref": "1-pedro 4:12-13",
+     "data": "c. 62–64 d.C."
+    },
+    {
+     "titulo": "A perseguição de Nero em Roma",
+     "data": "64 d.C.",
+     "fonte_extra": [
+      {
+       "fonte": "Tácito, Anais",
+       "referencia": "livro 15, 44 (cristãos culpados pelo incêndio de Roma)",
+       "data": "c. 116 d.C."
+      }
+     ]
+    },
+    {
+     "titulo": "A carta aos Hebreus",
+     "ref": "hebreus 1:1-2",
+     "data": "antes de 70 d.C. (provável)"
+    },
+    {
+     "titulo": "Paulo escreve sua última carta",
+     "ref": "2-timoteo 4:6-7",
+     "data": "c. 64–67 d.C."
+    },
+    {
+     "titulo": "Pedro escreve sua segunda carta",
+     "ref": "2-pedro 1:14",
+     "data": "c. 64–68 d.C."
+    },
+    {
+     "titulo": "Jerusalém e o templo são destruídos pelos romanos",
+     "ref": "mateus 24:2",
+     "data": "70 d.C.",
+     "fonte_extra": [
+      {
+       "fonte": "Josefo, Guerra Judaica",
+       "referencia": "livro 6 (cerco e incêndio do templo)",
+       "data": "c. 75 d.C."
+      },
+      {
+       "fonte": "Arco de Tito (Roma)",
+       "referencia": "relevo com objetos do templo levados a Roma",
+       "data": "c. 81 d.C."
+      }
+     ]
+    },
+    {
+     "titulo": "As cartas de João",
+     "ref": "1-joao 4:7-8",
+     "data": "c. 85–95 d.C."
+    },
+    {
+     "titulo": "João recebe o Apocalipse em Patmos",
+     "ref": "apocalipse 1:9-10",
+     "data": "c. 95 d.C. (ou c. 68 d.C.)"
+    }
+   ],
+   "versiculos_chave": [
+    "2-timoteo 3:16-17",
+    "hebreus 1:1-2",
+    "1-joao 4:8",
+    "apocalipse 21:4"
+   ],
+   "livros": [
+    "1-timoteo",
+    "tito",
+    "1-pedro",
+    "hebreus",
+    "2-timoteo",
+    "2-pedro",
+    "judas",
+    "1-joao",
+    "2-joao",
+    "3-joao",
+    "apocalipse"
+   ],
+   "licoes": [
+    "A fé precisa ser guardada e passada adiante com fidelidade de uma geração à outra.",
+    "O sofrimento por causa de Cristo não é sinal de abandono, mas de participação na sua história.",
+    "A Bíblia termina com esperança: Deus fará novas todas as coisas."
+   ],
+   "leituras": [
+    {
+     "nome": "Autoria e data de algumas cartas",
+     "resumo": "A tradição atribui 1 e 2 Timóteo e Tito a Paulo e as cartas de Pedro ao apóstolo; parte dos estudiosos as considera escritas por discípulos depois da morte deles. Hebreus é anônima, e sua autoria foi discutida desde os primeiros séculos."
+    },
+    {
+     "nome": "A data do Apocalipse",
+     "resumo": "Desde Ireneu, a data mais citada é o fim do reinado de Domiciano (c. 95 d.C.); outros defendem uma data perto de 68 d.C., no tempo de Nero, antes da destruição do templo."
+    },
+    {
+     "nome": "Modos de ler o Apocalipse",
+     "resumo": "A leitura futurista vê a maior parte do livro como profecia do fim dos tempos; a preterista, como mensagem cumprida sobretudo no séc. I; a historicista, como panorama da história da igreja; a idealista, como retrato simbólico da luta entre o bem e o mal em toda época. Muitos combinam elementos dessas leituras."
+    }
+   ],
+   "fonte_extra": [
+    {
+     "fonte": "Ireneu de Lyon, Contra as Heresias",
+     "referencia": "livro 5, 30, 3 (a visão de João 'no fim do reinado de Domiciano')",
+     "data": "c. 180 d.C."
+    }
+   ],
+   "leitura": [
+    {
+     "ref": "1-timoteo 1-6",
+     "nota": "Cartas pastorais, depois da primeira prisão em Roma (c. 62–64 d.C.)."
+    },
+    {
+     "ref": "tito 1-3"
+    },
+    {
+     "ref": "1-pedro 1-5"
+    },
+    {
+     "ref": "hebreus 1-13",
+     "nota": "Data e autor incertos; provavelmente antes de 70 d.C."
+    },
+    {
+     "ref": "2-timoteo 1-4",
+     "nota": "A última carta de Paulo."
+    },
+    {
+     "ref": "2-pedro 1-3"
+    },
+    {
+     "ref": "judas 1"
+    },
+    {
+     "ref": "1-joao 1-5"
+    },
+    {
+     "ref": "2-joao 1"
+    },
+    {
+     "ref": "3-joao 1"
+    },
+    {
+     "ref": "apocalipse 1-22"
+    }
+   ]
+  }
+ ],
+ "eventos_marcantes": [
+  {
+   "titulo": "Deus cria os céus e a terra",
+   "ref": "genesis 1:1",
+   "estagio": "origens",
+   "por_que": "A Bíblia começa afirmando que tudo o que existe vem de Deus."
+  },
+  {
+   "titulo": "O ser humano à imagem de Deus",
+   "ref": "genesis 1:27-28",
+   "estagio": "origens",
+   "por_que": "Funda a dignidade de todo ser humano e sua vocação de cuidar do mundo."
+  },
+  {
+   "titulo": "A desobediência no Éden",
+   "ref": "genesis 3:6",
+   "estagio": "origens",
+   "por_que": "Explica, na narrativa bíblica, a origem da ruptura entre a humanidade e Deus."
+  },
+  {
+   "titulo": "A primeira promessa",
+   "ref": "genesis 3:15",
+   "estagio": "origens",
+   "por_que": "Desde cedo a tradição cristã vê aqui o primeiro anúncio da vitória sobre o mal."
+  },
+  {
+   "titulo": "O dilúvio e a aliança com Noé",
+   "ref": "genesis 9:11",
+   "estagio": "origens",
+   "por_que": "Deus julga a violência, mas se compromete a preservar a vida na terra."
+  },
+  {
+   "titulo": "A torre de Babel",
+   "ref": "genesis 11:8-9",
+   "estagio": "origens",
+   "por_que": "Mostra o orgulho humano e explica a dispersão dos povos antes de Abraão."
+  },
+  {
+   "titulo": "O chamado de Abrão",
+   "ref": "genesis 12:1-3",
+   "estagio": "patriarcas",
+   "por_que": "Começa a história do povo por meio do qual Deus promete abençoar todas as famílias."
+  },
+  {
+   "titulo": "A fé de Abrão é contada como justiça",
+   "ref": "genesis 15:5-6",
+   "estagio": "patriarcas",
+   "por_que": "Texto citado por Paulo e Tiago para falar da fé."
+  },
+  {
+   "titulo": "O nascimento de Isaque",
+   "ref": "genesis 21:1-3",
+   "estagio": "patriarcas",
+   "por_que": "A promessa se cumpre quando já parecia impossível."
+  },
+  {
+   "titulo": "A prova no monte Moriá",
+   "ref": "genesis 22:13-14",
+   "estagio": "patriarcas",
+   "por_que": "Deus provê o cordeiro no lugar de Isaque."
+  },
+  {
+   "titulo": "Jacó passa a se chamar Israel",
+   "ref": "genesis 32:28",
+   "estagio": "patriarcas",
+   "por_que": "Dá nome ao povo e às suas doze tribos."
+  },
+  {
+   "titulo": "José se revela aos irmãos",
+   "ref": "genesis 45:4-5",
+   "estagio": "patriarcas",
+   "por_que": "Mostra o perdão e a mão de Deus por trás de uma história de traição."
+  },
+  {
+   "titulo": "Jó encontra Deus",
+   "ref": "jo 42:5",
+   "estagio": "patriarcas",
+   "por_que": "O sofrimento não recebe uma explicação simples, mas Jó termina conhecendo melhor a Deus."
+  },
+  {
+   "titulo": "O nome revelado na sarça",
+   "ref": "exodo 3:14",
+   "estagio": "exodo-deserto",
+   "por_que": "Deus se apresenta a Moisés como 'Eu Sou' e se compromete a libertar Israel."
+  },
+  {
+   "titulo": "A primeira Páscoa",
+   "ref": "exodo 12:13",
+   "estagio": "exodo-deserto",
+   "por_que": "A festa central de Israel, retomada por Jesus na última ceia."
+  },
+  {
+   "titulo": "A travessia do mar",
+   "ref": "exodo 14:21-22",
+   "estagio": "exodo-deserto",
+   "por_que": "A grande libertação lembrada em toda a Bíblia."
+  },
+  {
+   "titulo": "A aliança no Sinai",
+   "ref": "exodo 20:1-3",
+   "estagio": "exodo-deserto",
+   "por_que": "Israel recebe os Dez Mandamentos e se torna povo da aliança."
+  },
+  {
+   "titulo": "A glória enche o tabernáculo",
+   "ref": "exodo 40:34",
+   "estagio": "exodo-deserto",
+   "por_que": "Deus passa a habitar no meio do acampamento."
+  },
+  {
+   "titulo": "O Shemá",
+   "ref": "deuteronomio 6:4-5",
+   "estagio": "exodo-deserto",
+   "por_que": "Confissão de fé de Israel, que Jesus chamou de o grande mandamento."
+  },
+  {
+   "titulo": "A morte de Moisés",
+   "ref": "deuteronomio 34:5",
+   "estagio": "exodo-deserto",
+   "por_que": "Termina a geração do deserto e começa a de Josué."
+  },
+  {
+   "titulo": "A travessia do Jordão",
+   "ref": "josue 3:17",
+   "estagio": "conquista",
+   "por_que": "Israel entra na terra prometida aos patriarcas."
+  },
+  {
+   "titulo": "A queda de Jericó",
+   "ref": "josue 6:20",
+   "estagio": "conquista",
+   "por_que": "A primeira vitória em Canaã vem pela obediência, não pela força."
+  },
+  {
+   "titulo": "A escolha em Siquém",
+   "ref": "josue 24:15",
+   "estagio": "conquista",
+   "por_que": "Cada geração é chamada a decidir a quem vai servir."
+  },
+  {
+   "titulo": "O ciclo dos juízes",
+   "ref": "juizes 2:16",
+   "estagio": "juizes",
+   "por_que": "Resume o padrão de afastamento, opressão e livramento do período."
+  },
+  {
+   "titulo": "Rute e Boaz",
+   "ref": "rute 4:13",
+   "estagio": "juizes",
+   "por_que": "Uma estrangeira entra na linhagem de Davi."
+  },
+  {
+   "titulo": "Deus chama Samuel",
+   "ref": "1-samuel 3:10",
+   "estagio": "juizes",
+   "por_que": "Recomeça a palavra profética em Israel."
+  },
+  {
+   "titulo": "O povo pede um rei",
+   "ref": "1-samuel 8:5",
+   "estagio": "reino-unido",
+   "por_que": "Marca a passagem do tempo dos juízes para a monarquia."
+  },
+  {
+   "titulo": "Davi é ungido",
+   "ref": "1-samuel 16:13",
+   "estagio": "reino-unido",
+   "por_que": "Deus escolhe o rei pelo coração, não pela aparência."
+  },
+  {
+   "titulo": "Davi vence Golias",
+   "ref": "1-samuel 17:50",
+   "estagio": "reino-unido",
+   "por_que": "A confiança em Deus vence o medo de um exército inteiro."
+  },
+  {
+   "titulo": "Jerusalém se torna a capital",
+   "ref": "2-samuel 5:7",
+   "estagio": "reino-unido",
+   "por_que": "A cidade de Davi passa a ser o centro político e religioso de Israel."
+  },
+  {
+   "titulo": "A aliança com Davi",
+   "ref": "2-samuel 7:16",
+   "estagio": "reino-unido",
+   "por_que": "Promessa de um trono duradouro, base da esperança messiânica."
+  },
+  {
+   "titulo": "Davi se arrepende",
+   "ref": "2-samuel 12:13",
+   "estagio": "reino-unido",
+   "por_que": "Mostra que nem o rei está acima da palavra de Deus."
+  },
+  {
+   "titulo": "A dedicação do templo",
+   "ref": "1-reis 8:10-11",
+   "estagio": "reino-unido",
+   "por_que": "O templo de Salomão passa a ser o lugar do culto em Israel."
+  },
+  {
+   "titulo": "O reino se divide",
+   "ref": "1-reis 12:16",
+   "estagio": "reino-dividido",
+   "por_que": "Começam os dois reinos, Israel ao norte e Judá ao sul."
+  },
+  {
+   "titulo": "Elias no monte Carmelo",
+   "ref": "1-reis 18:38-39",
+   "estagio": "reino-dividido",
+   "por_que": "Confronto decisivo entre o culto ao Senhor e o culto a Baal."
+  },
+  {
+   "titulo": "Nínive se arrepende",
+   "ref": "jonas 3:5",
+   "estagio": "reino-dividido",
+   "por_que": "A misericórdia de Deus alcança até os inimigos de Israel."
+  },
+  {
+   "titulo": "O chamado de Isaías",
+   "ref": "isaias 6:8",
+   "estagio": "reino-dividido",
+   "por_que": "Visão da santidade de Deus que abre o ministério do profeta."
+  },
+  {
+   "titulo": "A queda de Samaria",
+   "ref": "2-reis 17:6",
+   "estagio": "reino-dividido",
+   "por_que": "O reino do norte termina, conquistado pela Assíria."
+  },
+  {
+   "titulo": "Jerusalém é livrada da Assíria",
+   "ref": "2-reis 19:35",
+   "estagio": "reino-dividido",
+   "por_que": "A confiança de Ezequias é respondida quando a cidade é poupada."
+  },
+  {
+   "titulo": "O livro da lei é encontrado",
+   "ref": "2-reis 22:8",
+   "estagio": "reino-dividido",
+   "por_que": "Leva à maior reforma religiosa de Judá, sob Josias."
+  },
+  {
+   "titulo": "A promessa da nova aliança",
+   "ref": "jeremias 31:31",
+   "estagio": "reino-dividido",
+   "por_que": "Anuncia a lei escrita no coração, retomada no Novo Testamento."
+  },
+  {
+   "titulo": "A destruição de Jerusalém",
+   "ref": "2-reis 25:9",
+   "estagio": "reino-dividido",
+   "por_que": "Fim do reino de Judá e do primeiro templo."
+  },
+  {
+   "titulo": "Daniel é levado para Babilônia",
+   "ref": "daniel 1:6",
+   "estagio": "exilio",
+   "por_que": "Começa a vida dos fiéis numa corte estrangeira."
+  },
+  {
+   "titulo": "A fornalha ardente",
+   "ref": "daniel 3:25",
+   "estagio": "exilio",
+   "por_que": "Fidelidade a Deus acima da ordem do rei."
+  },
+  {
+   "titulo": "A visão dos ossos secos",
+   "ref": "ezequiel 37:10",
+   "estagio": "exilio",
+   "por_que": "Promessa de que Deus daria vida nova a um povo sem esperança; é lida como restauração histórica de Israel, como esperança futura ou em sentido espiritual."
+  },
+  {
+   "titulo": "A queda de Babilônia",
+   "ref": "daniel 5:30",
+   "estagio": "exilio",
+   "por_que": "O império que destruiu Jerusalém cai diante dos medos e persas."
+  },
+  {
+   "titulo": "Daniel na cova dos leões",
+   "ref": "daniel 6:22",
+   "estagio": "exilio",
+   "por_que": "Deus protege quem permanece fiel na oração."
+  },
+  {
+   "titulo": "O decreto de Ciro",
+   "ref": "esdras 1:2-3",
+   "estagio": "retorno",
+   "por_que": "Abre caminho para a volta dos exilados."
+  },
+  {
+   "titulo": "O segundo templo é concluído",
+   "ref": "esdras 6:15",
+   "estagio": "retorno",
+   "por_que": "O culto é restabelecido em Jerusalém."
+  },
+  {
+   "titulo": "Ester intercede pelo povo",
+   "ref": "ester 4:14",
+   "estagio": "retorno",
+   "por_que": "Uma rainha arrisca a vida e o povo é salvo."
+  },
+  {
+   "titulo": "Esdras ensina a lei",
+   "ref": "esdras 7:10",
+   "estagio": "retorno",
+   "por_que": "A Palavra de Deus volta ao centro da vida da comunidade."
+  },
+  {
+   "titulo": "Os muros de Jerusalém são concluídos",
+   "ref": "neemias 6:15",
+   "estagio": "retorno",
+   "por_que": "A cidade recupera segurança e identidade."
+  },
+  {
+   "titulo": "O mensageiro anunciado",
+   "ref": "malaquias 3:1",
+   "estagio": "retorno",
+   "por_que": "Última grande promessa do Antigo Testamento; os Evangelhos a ligam a João Batista."
+  },
+  {
+   "titulo": "Antíoco IV profana o templo",
+   "ref": "daniel 11:31",
+   "estagio": "intertestamentario",
+   "por_que": "Fato de 167 a.C. conhecido por fontes extrabíblicas; muitos o ligam a Daniel 11, que também recebe leituras diferentes."
+  },
+  {
+   "titulo": "A purificação do templo pelos Macabeus",
+   "ref": "joao 10:22",
+   "estagio": "intertestamentario",
+   "por_que": "Origem da festa da Dedicação (Hanucá), que Jesus frequentou em Jerusalém."
+  },
+  {
+   "titulo": "O anúncio a Maria",
+   "ref": "lucas 1:31",
+   "estagio": "vida-de-jesus",
+   "por_que": "Começa o relato do nascimento de Jesus."
+  },
+  {
+   "titulo": "O nascimento em Belém",
+   "ref": "lucas 2:7",
+   "estagio": "vida-de-jesus",
+   "por_que": "O Filho de Deus nasce numa família simples."
+  },
+  {
+   "titulo": "O batismo de Jesus",
+   "ref": "mateus 3:16-17",
+   "estagio": "vida-de-jesus",
+   "por_que": "Início do ministério público, com a voz do Pai e o Espírito."
+  },
+  {
+   "titulo": "O Sermão do Monte",
+   "ref": "mateus 5:1-2",
+   "estagio": "vida-de-jesus",
+   "por_que": "O ensino mais conhecido de Jesus sobre a vida no Reino."
+  },
+  {
+   "titulo": "Pedro confessa que Jesus é o Cristo",
+   "ref": "mateus 16:16",
+   "estagio": "vida-de-jesus",
+   "por_que": "Ponto de virada nos Evangelhos, antes do caminho para a cruz."
+  },
+  {
+   "titulo": "A transfiguração",
+   "ref": "mateus 17:2",
+   "estagio": "vida-de-jesus",
+   "por_que": "Três discípulos veem a glória de Jesus com Moisés e Elias."
+  },
+  {
+   "titulo": "A entrada em Jerusalém",
+   "ref": "mateus 21:9",
+   "estagio": "vida-de-jesus",
+   "por_que": "Jesus é aclamado como Filho de Davi na semana da Páscoa."
+  },
+  {
+   "titulo": "A última ceia",
+   "ref": "lucas 22:19-20",
+   "estagio": "vida-de-jesus",
+   "por_que": "Origem da ceia do Senhor celebrada pelas igrejas."
+  },
+  {
+   "titulo": "A crucificação",
+   "ref": "lucas 23:33",
+   "estagio": "vida-de-jesus",
+   "por_que": "Centro da mensagem cristã sobre o perdão."
+  },
+  {
+   "titulo": "A ressurreição",
+   "ref": "mateus 28:6",
+   "estagio": "vida-de-jesus",
+   "por_que": "O túmulo vazio é a base da fé e da esperança cristãs."
+  },
+  {
+   "titulo": "A grande comissão",
+   "ref": "mateus 28:19-20",
+   "estagio": "vida-de-jesus",
+   "por_que": "Jesus envia os discípulos a todas as nações."
+  },
+  {
+   "titulo": "A ascensão",
+   "ref": "atos 1:9",
+   "estagio": "igreja-primitiva",
+   "por_que": "Jesus deixa os discípulos com a promessa do Espírito."
+  },
+  {
+   "titulo": "O Pentecostes",
+   "ref": "atos 2:4",
+   "estagio": "igreja-primitiva",
+   "por_que": "O Espírito Santo vem sobre os discípulos e a igreja nasce em Jerusalém."
+  },
+  {
+   "titulo": "O martírio de Estêvão",
+   "ref": "atos 7:60",
+   "estagio": "igreja-primitiva",
+   "por_que": "A perseguição espalha o Evangelho para fora de Jerusalém."
+  },
+  {
+   "titulo": "A conversão de Saulo",
+   "ref": "atos 9:4",
+   "estagio": "igreja-primitiva",
+   "por_que": "O perseguidor se torna o apóstolo dos gentios."
+  },
+  {
+   "titulo": "O Evangelho chega a Cornélio",
+   "ref": "atos 10:44",
+   "estagio": "igreja-primitiva",
+   "por_que": "Os não judeus recebem o Espírito Santo."
+  },
+  {
+   "titulo": "A primeira viagem missionária",
+   "ref": "atos 13:2-3",
+   "estagio": "igreja-primitiva",
+   "por_que": "A igreja de Antioquia envia Barnabé e Saulo."
+  },
+  {
+   "titulo": "O concílio de Jerusalém",
+   "ref": "atos 15:28-29",
+   "estagio": "igreja-primitiva",
+   "por_que": "Decide que os gentios não precisam se tornar judeus para seguir Jesus."
+  },
+  {
+   "titulo": "O Evangelho chega à Europa",
+   "ref": "atos 16:9-10",
+   "estagio": "igreja-primitiva",
+   "por_que": "Paulo atravessa para a Macedônia."
+  },
+  {
+   "titulo": "Paulo em Roma",
+   "ref": "atos 28:30-31",
+   "estagio": "igreja-primitiva",
+   "por_que": "A mensagem chega ao centro do império."
+  },
+  {
+   "titulo": "A última carta de Paulo",
+   "ref": "2-timoteo 4:6-7",
+   "estagio": "cartas-apocalipse",
+   "por_que": "Despedida do apóstolo pouco antes de morrer."
+  },
+  {
+   "titulo": "A destruição do templo de Jerusalém",
+   "ref": "mateus 24:2",
+   "estagio": "cartas-apocalipse",
+   "por_que": "Em 70 d.C. Roma destrói o templo, como Jesus havia anunciado; fato registrado por Josefo."
+  },
+  {
+   "titulo": "A visão de João em Patmos",
+   "ref": "apocalipse 1:9-10",
+   "estagio": "cartas-apocalipse",
+   "por_que": "Começa o último livro da Bíblia. Há leituras diferentes deste texto (futurista, histórica, preterista, idealista), e aqui nenhuma é apresentada como a correta."
+  },
+  {
+   "titulo": "Novos céus e nova terra",
+   "ref": "apocalipse 21:1-4",
+   "estagio": "cartas-apocalipse",
+   "por_que": "A Bíblia termina com a esperança de Deus habitando com seu povo. Há leituras diferentes deste texto (futurista, histórica, preterista, idealista), e aqui nenhuma é apresentada como a correta."
+  }
+ ],
+ "capitulos_chave": [
+  {
+   "ref": "genesis 1",
+   "livro": "genesis",
+   "tema": "No princípio",
+   "por_que": "A criação ordenada por Deus e o ser humano à sua imagem.",
+   "estagio": "origens"
+  },
+  {
+   "ref": "genesis 3",
+   "livro": "genesis",
+   "tema": "A queda",
+   "por_que": "A origem da ruptura e a primeira promessa de redenção.",
+   "estagio": "origens"
+  },
+  {
+   "ref": "genesis 12",
+   "livro": "genesis",
+   "tema": "Sai da tua terra",
+   "por_que": "O chamado de Abrão e a promessa de bênção para as nações.",
+   "estagio": "patriarcas"
+  },
+  {
+   "ref": "exodo 3",
+   "livro": "exodo",
+   "tema": "A sarça que não se consumia",
+   "por_que": "Deus revela seu nome e chama Moisés.",
+   "estagio": "exodo-deserto"
+  },
+  {
+   "ref": "exodo 14",
+   "livro": "exodo",
+   "tema": "Caminho no mar",
+   "por_que": "A libertação que Israel lembraria para sempre.",
+   "estagio": "exodo-deserto"
+  },
+  {
+   "ref": "exodo 20",
+   "livro": "exodo",
+   "tema": "As dez palavras",
+   "por_que": "O coração da aliança do Sinai.",
+   "estagio": "exodo-deserto"
+  },
+  {
+   "ref": "levitico 16",
+   "livro": "levitico",
+   "tema": "O Dia da Expiação",
+   "por_que": "O rito anual de purificação, que Hebreus relê à luz de Cristo.",
+   "estagio": "exodo-deserto"
+  },
+  {
+   "ref": "levitico 19",
+   "livro": "levitico",
+   "tema": "Sede santos",
+   "por_que": "Santidade no dia a dia, incluindo amar o próximo como a si mesmo.",
+   "estagio": "exodo-deserto"
+  },
+  {
+   "ref": "numeros 14",
+   "livro": "numeros",
+   "tema": "A noite da incredulidade",
+   "por_que": "Por que uma geração ficou quarenta anos no deserto.",
+   "estagio": "exodo-deserto"
+  },
+  {
+   "ref": "numeros 21",
+   "livro": "numeros",
+   "tema": "A serpente de bronze",
+   "por_que": "Olhar e viver; Jesus usa a imagem em João 3.",
+   "estagio": "exodo-deserto"
+  },
+  {
+   "ref": "deuteronomio 6",
+   "livro": "deuteronomio",
+   "tema": "Ouve, Israel",
+   "por_que": "O Shemá e o ensino da fé aos filhos.",
+   "estagio": "exodo-deserto"
+  },
+  {
+   "ref": "deuteronomio 30",
+   "livro": "deuteronomio",
+   "tema": "Escolhe a vida",
+   "por_que": "O chamado final de Moisés à fidelidade.",
+   "estagio": "exodo-deserto"
+  },
+  {
+   "ref": "josue 1",
+   "livro": "josue",
+   "tema": "Sê forte e corajoso",
+   "por_que": "A promessa da presença de Deus a um novo líder.",
+   "estagio": "conquista"
+  },
+  {
+   "ref": "josue 24",
+   "livro": "josue",
+   "tema": "Eu e a minha casa",
+   "por_que": "A renovação da aliança em Siquém.",
+   "estagio": "conquista"
+  },
+  {
+   "ref": "juizes 2",
+   "livro": "juizes",
+   "tema": "O ciclo que se repete",
+   "por_que": "Chave de leitura de todo o livro.",
+   "estagio": "juizes"
+  },
+  {
+   "ref": "juizes 7",
+   "livro": "juizes",
+   "tema": "Poucos com Deus",
+   "por_que": "Gideão vence com trezentos homens.",
+   "estagio": "juizes"
+  },
+  {
+   "ref": "rute 1",
+   "livro": "rute",
+   "tema": "Teu Deus será o meu Deus",
+   "por_que": "A lealdade de Rute a Noemi.",
+   "estagio": "juizes"
+  },
+  {
+   "ref": "rute 4",
+   "livro": "rute",
+   "tema": "O resgatador",
+   "por_que": "Boaz resgata a herança e Rute entra na linhagem de Davi.",
+   "estagio": "juizes"
+  },
+  {
+   "ref": "1-samuel 3",
+   "livro": "1-samuel",
+   "tema": "Fala, que o teu servo ouve",
+   "por_que": "O chamado do menino Samuel.",
+   "estagio": "juizes"
+  },
+  {
+   "ref": "1-samuel 16",
+   "livro": "1-samuel",
+   "tema": "O Senhor vê o coração",
+   "por_que": "A escolha surpreendente de Davi.",
+   "estagio": "reino-unido"
+  },
+  {
+   "ref": "1-samuel 17",
+   "livro": "1-samuel",
+   "tema": "O pastor e o gigante",
+   "por_que": "A coragem que nasce da confiança em Deus.",
+   "estagio": "reino-unido"
+  },
+  {
+   "ref": "2-samuel 7",
+   "livro": "2-samuel",
+   "tema": "Uma casa para Davi",
+   "por_que": "A promessa de uma dinastia duradoura.",
+   "estagio": "reino-unido"
+  },
+  {
+   "ref": "2-samuel 12",
+   "livro": "2-samuel",
+   "tema": "Tu és esse homem",
+   "por_que": "Natã confronta Davi, que se arrepende.",
+   "estagio": "reino-unido"
+  },
+  {
+   "ref": "1-reis 3",
+   "livro": "1-reis",
+   "tema": "Um coração que sabe ouvir",
+   "por_que": "Salomão pede sabedoria para governar.",
+   "estagio": "reino-unido"
+  },
+  {
+   "ref": "1-reis 8",
+   "livro": "1-reis",
+   "tema": "O templo e a oração",
+   "por_que": "A dedicação do templo e a grande oração de Salomão.",
+   "estagio": "reino-unido"
+  },
+  {
+   "ref": "1-reis 18",
+   "livro": "1-reis",
+   "tema": "Fogo no Carmelo",
+   "por_que": "Elias e o confronto com os profetas de Baal.",
+   "estagio": "reino-dividido"
+  },
+  {
+   "ref": "2-reis 2",
+   "livro": "2-reis",
+   "tema": "O carro de fogo",
+   "por_que": "Elias é levado e Eliseu recebe seu manto.",
+   "estagio": "reino-dividido"
+  },
+  {
+   "ref": "2-reis 17",
+   "livro": "2-reis",
+   "tema": "Por que Samaria caiu",
+   "por_que": "O balanço profético do fim do reino do norte.",
+   "estagio": "reino-dividido"
+  },
+  {
+   "ref": "2-reis 22",
+   "livro": "2-reis",
+   "tema": "O livro reencontrado",
+   "por_que": "O início da reforma de Josias.",
+   "estagio": "reino-dividido"
+  },
+  {
+   "ref": "1-cronicas 17",
+   "livro": "1-cronicas",
+   "tema": "A promessa recontada",
+   "por_que": "A aliança com Davi na perspectiva de Crônicas.",
+   "estagio": "reino-unido"
+  },
+  {
+   "ref": "1-cronicas 29",
+   "livro": "1-cronicas",
+   "tema": "Tudo vem de ti",
+   "por_que": "A oração de Davi pelas ofertas do templo.",
+   "estagio": "reino-unido"
+  },
+  {
+   "ref": "2-cronicas 7",
+   "livro": "2-cronicas",
+   "tema": "Se o meu povo se humilhar",
+   "por_que": "A resposta de Deus à dedicação do templo.",
+   "estagio": "reino-unido"
+  },
+  {
+   "ref": "2-cronicas 34",
+   "livro": "2-cronicas",
+   "tema": "A reforma de Josias",
+   "por_que": "Um rei jovem que busca a Deus e restaura o culto.",
+   "estagio": "reino-dividido"
+  },
+  {
+   "ref": "esdras 3",
+   "livro": "esdras",
+   "tema": "Choro e alegria",
+   "por_que": "O altar reconstruído e os fundamentos do templo.",
+   "estagio": "retorno"
+  },
+  {
+   "ref": "esdras 7",
+   "livro": "esdras",
+   "tema": "O escriba da lei",
+   "por_que": "Esdras chega para ensinar a lei em Jerusalém.",
+   "estagio": "retorno"
+  },
+  {
+   "ref": "neemias 2",
+   "livro": "neemias",
+   "tema": "Oração e coragem",
+   "por_que": "Neemias pede ao rei para reconstruir a cidade.",
+   "estagio": "retorno"
+  },
+  {
+   "ref": "neemias 8",
+   "livro": "neemias",
+   "tema": "A lei lida e explicada",
+   "por_que": "O povo ouve a Palavra e se alegra.",
+   "estagio": "retorno"
+  },
+  {
+   "ref": "ester 4",
+   "livro": "ester",
+   "tema": "Para um tempo como este",
+   "por_que": "Ester decide interceder, mesmo arriscando a vida.",
+   "estagio": "retorno"
+  },
+  {
+   "ref": "ester 9",
+   "livro": "ester",
+   "tema": "A origem do Purim",
+   "por_que": "O livramento celebrado até hoje pelos judeus.",
+   "estagio": "retorno"
+  },
+  {
+   "ref": "jo 1",
+   "livro": "jo",
+   "tema": "A prova começa",
+   "por_que": "O cenário celeste e as primeiras perdas de Jó.",
+   "estagio": "patriarcas"
+  },
+  {
+   "ref": "jo 38",
+   "livro": "jo",
+   "tema": "Deus fala do redemoinho",
+   "por_que": "A resposta de Deus aponta para a grandeza da criação.",
+   "estagio": "patriarcas"
+  },
+  {
+   "ref": "jo 42",
+   "livro": "jo",
+   "tema": "Agora meus olhos te veem",
+   "por_que": "O encontro com Deus e a restauração de Jó.",
+   "estagio": "patriarcas"
+  },
+  {
+   "ref": "salmos 1",
+   "livro": "salmos",
+   "tema": "Dois caminhos",
+   "por_que": "A porta de entrada do livro dos Salmos.",
+   "estagio": "reino-unido"
+  },
+  {
+   "ref": "salmos 23",
+   "livro": "salmos",
+   "tema": "O Senhor é meu pastor",
+   "por_que": "O salmo de confiança mais conhecido.",
+   "estagio": "reino-unido"
+  },
+  {
+   "ref": "salmos 51",
+   "livro": "salmos",
+   "tema": "Cria em mim um coração puro",
+   "por_que": "Oração de arrependimento ligada a Davi.",
+   "estagio": "reino-unido"
+  },
+  {
+   "ref": "proverbios 1",
+   "livro": "proverbios",
+   "tema": "O princípio da sabedoria",
+   "por_que": "O temor do Senhor como fundamento do saber.",
+   "estagio": "reino-unido"
+  },
+  {
+   "ref": "proverbios 3",
+   "livro": "proverbios",
+   "tema": "Confia de todo o coração",
+   "por_que": "Sabedoria para a vida prática diante de Deus.",
+   "estagio": "reino-unido"
+  },
+  {
+   "ref": "proverbios 31",
+   "livro": "proverbios",
+   "tema": "A mulher de valor",
+   "por_que": "Retrato final da sabedoria vivida no lar e na cidade.",
+   "estagio": "reino-unido"
+  },
+  {
+   "ref": "eclesiastes 3",
+   "livro": "eclesiastes",
+   "tema": "Há tempo para tudo",
+   "por_que": "Reflexão sobre os tempos da vida.",
+   "estagio": "reino-unido"
+  },
+  {
+   "ref": "eclesiastes 12",
+   "livro": "eclesiastes",
+   "tema": "Lembra-te do teu Criador",
+   "por_que": "A conclusão do livro.",
+   "estagio": "reino-unido"
+  },
+  {
+   "ref": "cantares 2",
+   "livro": "cantares",
+   "tema": "A voz do amado",
+   "por_que": "Poesia do amor entre noivo e noiva.",
+   "estagio": "reino-unido"
+  },
+  {
+   "ref": "cantares 8",
+   "livro": "cantares",
+   "tema": "Forte como a morte",
+   "por_que": "O amor que muitas águas não apagam; lido também como imagem do amor de Deus.",
+   "estagio": "reino-unido"
+  },
+  {
+   "ref": "isaias 6",
+   "livro": "isaias",
+   "tema": "Santo, santo, santo",
+   "por_que": "A visão que chamou Isaías.",
+   "estagio": "reino-dividido"
+  },
+  {
+   "ref": "isaias 40",
+   "livro": "isaias",
+   "tema": "Consolai o meu povo",
+   "por_que": "Mensagem de consolo e da grandeza de Deus.",
+   "estagio": "reino-dividido"
+  },
+  {
+   "ref": "isaias 53",
+   "livro": "isaias",
+   "tema": "O servo sofredor",
+   "por_que": "O Novo Testamento aplica este texto a Jesus; a tradição judaica costuma ler o servo como Israel ou um justo.",
+   "estagio": "reino-dividido"
+  },
+  {
+   "ref": "jeremias 1",
+   "livro": "jeremias",
+   "tema": "Antes de te formar",
+   "por_que": "O chamado do profeta ainda jovem.",
+   "estagio": "reino-dividido"
+  },
+  {
+   "ref": "jeremias 29",
+   "livro": "jeremias",
+   "tema": "Carta aos exilados",
+   "por_que": "Buscar o bem da cidade e esperar a volta.",
+   "estagio": "reino-dividido"
+  },
+  {
+   "ref": "jeremias 31",
+   "livro": "jeremias",
+   "tema": "A nova aliança",
+   "por_que": "A lei escrita no coração.",
+   "estagio": "reino-dividido"
+  },
+  {
+   "ref": "lamentacoes 3",
+   "livro": "lamentacoes",
+   "tema": "Novas a cada manhã",
+   "por_que": "Esperança no meio do luto pela cidade destruída.",
+   "estagio": "exilio"
+  },
+  {
+   "ref": "ezequiel 1",
+   "livro": "ezequiel",
+   "tema": "A glória junto ao rio Quebar",
+   "por_que": "Deus se revela a um sacerdote no exílio.",
+   "estagio": "exilio"
+  },
+  {
+   "ref": "ezequiel 37",
+   "livro": "ezequiel",
+   "tema": "Ossos que revivem",
+   "por_que": "Visão de restauração; é lida como volta histórica de Israel, como esperança futura ou em sentido espiritual.",
+   "estagio": "exilio"
+  },
+  {
+   "ref": "daniel 2",
+   "livro": "daniel",
+   "tema": "A estátua e a pedra",
+   "por_que": "Sonho dos reinos humanos e do Reino de Deus. Há leituras diferentes deste texto (futurista, histórica, preterista, idealista), e aqui nenhuma é apresentada como a correta.",
+   "estagio": "exilio"
+  },
+  {
+   "ref": "daniel 6",
+   "livro": "daniel",
+   "tema": "A cova dos leões",
+   "por_que": "Fidelidade na oração sob ameaça.",
+   "estagio": "exilio"
+  },
+  {
+   "ref": "daniel 9",
+   "livro": "daniel",
+   "tema": "As setenta semanas",
+   "por_que": "Oração de Daniel e uma profecia muito discutida. Há leituras diferentes deste texto (futurista, histórica, preterista, idealista), e aqui nenhuma é apresentada como a correta.",
+   "estagio": "exilio"
+  },
+  {
+   "ref": "oseias 1",
+   "livro": "oseias",
+   "tema": "O casamento do profeta",
+   "por_que": "A vida de Oseias como imagem da infidelidade de Israel.",
+   "estagio": "reino-dividido"
+  },
+  {
+   "ref": "oseias 11",
+   "livro": "oseias",
+   "tema": "Amor de pai",
+   "por_que": "Deus não desiste do filho que se afastou.",
+   "estagio": "reino-dividido"
+  },
+  {
+   "ref": "joel 2",
+   "livro": "joel",
+   "tema": "O Espírito derramado",
+   "por_que": "Promessa retomada por Pedro no Pentecostes; o 'dia do Senhor' recebe leituras diferentes.",
+   "estagio": "reino-dividido"
+  },
+  {
+   "ref": "amos 5",
+   "livro": "amos",
+   "tema": "Corra a justiça",
+   "por_que": "Culto sem justiça não agrada a Deus.",
+   "estagio": "reino-dividido"
+  },
+  {
+   "ref": "obadias 1",
+   "livro": "obadias",
+   "tema": "O orgulho de Edom",
+   "por_que": "Juízo sobre quem se alegrou com a ruína do irmão.",
+   "estagio": "reino-dividido"
+  },
+  {
+   "ref": "jonas 1",
+   "livro": "jonas",
+   "tema": "A fuga do profeta",
+   "por_que": "Jonas tenta escapar do chamado.",
+   "estagio": "reino-dividido"
+  },
+  {
+   "ref": "jonas 4",
+   "livro": "jonas",
+   "tema": "A compaixão de Deus",
+   "por_que": "Deus questiona a falta de misericórdia do profeta.",
+   "estagio": "reino-dividido"
+  },
+  {
+   "ref": "miqueias 5",
+   "livro": "miqueias",
+   "tema": "De Belém sairá",
+   "por_que": "Promessa de um governante, que Mateus aplica ao nascimento de Jesus.",
+   "estagio": "reino-dividido"
+  },
+  {
+   "ref": "miqueias 6",
+   "livro": "miqueias",
+   "tema": "O que o Senhor pede",
+   "por_que": "Praticar a justiça, amar a misericórdia e andar humildemente.",
+   "estagio": "reino-dividido"
+  },
+  {
+   "ref": "naum 1",
+   "livro": "naum",
+   "tema": "O Senhor é bom e refúgio",
+   "por_que": "Juízo sobre Nínive e consolo para Judá.",
+   "estagio": "reino-dividido"
+  },
+  {
+   "ref": "habacuque 2",
+   "livro": "habacuque",
+   "tema": "O justo viverá pela fé",
+   "por_que": "Resposta de Deus às perguntas do profeta.",
+   "estagio": "reino-dividido"
+  },
+  {
+   "ref": "habacuque 3",
+   "livro": "habacuque",
+   "tema": "Ainda que a figueira não floresça",
+   "por_que": "Alegria em Deus mesmo na falta.",
+   "estagio": "reino-dividido"
+  },
+  {
+   "ref": "sofonias 3",
+   "livro": "sofonias",
+   "tema": "Deus se alegra em ti",
+   "por_que": "O juízo termina em canto e restauração.",
+   "estagio": "reino-dividido"
+  },
+  {
+   "ref": "ageu 1",
+   "livro": "ageu",
+   "tema": "Considerai os vossos caminhos",
+   "por_que": "O chamado a retomar a obra do templo.",
+   "estagio": "retorno"
+  },
+  {
+   "ref": "zacarias 4",
+   "livro": "zacarias",
+   "tema": "Pelo meu Espírito",
+   "por_que": "A obra de Deus não depende de força humana.",
+   "estagio": "retorno"
+  },
+  {
+   "ref": "zacarias 9",
+   "livro": "zacarias",
+   "tema": "O rei montado num jumento",
+   "por_que": "Profecia que os Evangelhos ligam à entrada de Jesus em Jerusalém.",
+   "estagio": "retorno"
+  },
+  {
+   "ref": "malaquias 3",
+   "livro": "malaquias",
+   "tema": "O mensageiro e o refinador",
+   "por_que": "O preparo do caminho do Senhor.",
+   "estagio": "retorno"
+  },
+  {
+   "ref": "mateus 5",
+   "livro": "mateus",
+   "tema": "As bem-aventuranças",
+   "por_que": "O início do Sermão do Monte.",
+   "estagio": "vida-de-jesus"
+  },
+  {
+   "ref": "mateus 24",
+   "livro": "mateus",
+   "tema": "O discurso no monte das Oliveiras",
+   "por_que": "Jesus fala da destruição do templo e de sua vinda. Há leituras diferentes deste texto (futurista, histórica, preterista, idealista), e aqui nenhuma é apresentada como a correta.",
+   "estagio": "vida-de-jesus"
+  },
+  {
+   "ref": "mateus 28",
+   "livro": "mateus",
+   "tema": "Ide a todas as nações",
+   "por_que": "A ressurreição e o envio dos discípulos.",
+   "estagio": "vida-de-jesus"
+  },
+  {
+   "ref": "marcos 1",
+   "livro": "marcos",
+   "tema": "O tempo está cumprido",
+   "por_que": "O início rápido e direto do Evangelho de Marcos.",
+   "estagio": "vida-de-jesus"
+  },
+  {
+   "ref": "marcos 10",
+   "livro": "marcos",
+   "tema": "Para servir",
+   "por_que": "Jesus redefine a grandeza como serviço.",
+   "estagio": "vida-de-jesus"
+  },
+  {
+   "ref": "marcos 16",
+   "livro": "marcos",
+   "tema": "Ele ressuscitou",
+   "por_que": "O anúncio do túmulo vazio.",
+   "estagio": "vida-de-jesus"
+  },
+  {
+   "ref": "lucas 2",
+   "livro": "lucas",
+   "tema": "Hoje vos nasceu",
+   "por_que": "O nascimento de Jesus e os pastores.",
+   "estagio": "vida-de-jesus"
+  },
+  {
+   "ref": "lucas 15",
+   "livro": "lucas",
+   "tema": "O que estava perdido",
+   "por_que": "As três parábolas da alegria de Deus pelo perdido.",
+   "estagio": "vida-de-jesus"
+  },
+  {
+   "ref": "lucas 24",
+   "livro": "lucas",
+   "tema": "O caminho de Emaús",
+   "por_que": "O Ressuscitado explica as Escrituras.",
+   "estagio": "vida-de-jesus"
+  },
+  {
+   "ref": "joao 1",
+   "livro": "joao",
+   "tema": "O Verbo se fez carne",
+   "por_que": "O prólogo sobre quem Jesus é.",
+   "estagio": "vida-de-jesus"
+  },
+  {
+   "ref": "joao 3",
+   "livro": "joao",
+   "tema": "Nascer de novo",
+   "por_que": "A conversa com Nicodemos e João 3:16.",
+   "estagio": "vida-de-jesus"
+  },
+  {
+   "ref": "joao 20",
+   "livro": "joao",
+   "tema": "Vi o Senhor",
+   "por_que": "As aparições do Ressuscitado e o propósito do livro.",
+   "estagio": "vida-de-jesus"
+  },
+  {
+   "ref": "atos 2",
+   "livro": "atos",
+   "tema": "Pentecostes",
+   "por_que": "O Espírito Santo e o nascimento da igreja.",
+   "estagio": "igreja-primitiva"
+  },
+  {
+   "ref": "atos 9",
+   "livro": "atos",
+   "tema": "No caminho de Damasco",
+   "por_que": "A conversão de Saulo.",
+   "estagio": "igreja-primitiva"
+  },
+  {
+   "ref": "atos 15",
+   "livro": "atos",
+   "tema": "O concílio de Jerusalém",
+   "por_que": "Como a igreja acolheu os gentios.",
+   "estagio": "igreja-primitiva"
+  },
+  {
+   "ref": "romanos 3",
+   "livro": "romanos",
+   "tema": "Justificados gratuitamente",
+   "por_que": "Todos pecaram e são justificados pela graça.",
+   "estagio": "igreja-primitiva"
+  },
+  {
+   "ref": "romanos 8",
+   "livro": "romanos",
+   "tema": "Nenhuma condenação",
+   "por_que": "A vida no Espírito e a certeza do amor de Deus.",
+   "estagio": "igreja-primitiva"
+  },
+  {
+   "ref": "romanos 12",
+   "livro": "romanos",
+   "tema": "Sacrifício vivo",
+   "por_que": "A fé transformada em prática.",
+   "estagio": "igreja-primitiva"
+  },
+  {
+   "ref": "1-corintios 13",
+   "livro": "1-corintios",
+   "tema": "O caminho do amor",
+   "por_que": "O amor acima de todos os dons.",
+   "estagio": "igreja-primitiva"
+  },
+  {
+   "ref": "1-corintios 15",
+   "livro": "1-corintios",
+   "tema": "A ressurreição",
+   "por_que": "A base da esperança cristã.",
+   "estagio": "igreja-primitiva"
+  },
+  {
+   "ref": "2-corintios 5",
+   "livro": "2-corintios",
+   "tema": "Nova criação",
+   "por_que": "O ministério da reconciliação.",
+   "estagio": "igreja-primitiva"
+  },
+  {
+   "ref": "2-corintios 12",
+   "livro": "2-corintios",
+   "tema": "Força na fraqueza",
+   "por_que": "A graça que basta.",
+   "estagio": "igreja-primitiva"
+  },
+  {
+   "ref": "galatas 2",
+   "livro": "galatas",
+   "tema": "Pela fé em Cristo",
+   "por_que": "Justificação sem as obras da lei.",
+   "estagio": "igreja-primitiva"
+  },
+  {
+   "ref": "galatas 5",
+   "livro": "galatas",
+   "tema": "O fruto do Espírito",
+   "por_que": "Liberdade para amar e servir.",
+   "estagio": "igreja-primitiva"
+  },
+  {
+   "ref": "efesios 2",
+   "livro": "efesios",
+   "tema": "Pela graça sois salvos",
+   "por_que": "Salvação e a união de judeus e gentios.",
+   "estagio": "igreja-primitiva"
+  },
+  {
+   "ref": "efesios 6",
+   "livro": "efesios",
+   "tema": "A armadura de Deus",
+   "por_que": "Firmeza na luta espiritual.",
+   "estagio": "igreja-primitiva"
+  },
+  {
+   "ref": "filipenses 2",
+   "livro": "filipenses",
+   "tema": "O caminho da humildade",
+   "por_que": "O hino ao Cristo que se esvaziou.",
+   "estagio": "igreja-primitiva"
+  },
+  {
+   "ref": "filipenses 4",
+   "livro": "filipenses",
+   "tema": "Alegrai-vos sempre",
+   "por_que": "Paz e contentamento em qualquer situação.",
+   "estagio": "igreja-primitiva"
+  },
+  {
+   "ref": "colossenses 1",
+   "livro": "colossenses",
+   "tema": "A supremacia de Cristo",
+   "por_que": "Cristo acima de toda a criação.",
+   "estagio": "igreja-primitiva"
+  },
+  {
+   "ref": "colossenses 3",
+   "livro": "colossenses",
+   "tema": "Revesti-vos",
+   "por_que": "A nova vida em casa e na comunidade.",
+   "estagio": "igreja-primitiva"
+  },
+  {
+   "ref": "1-tessalonicenses 4",
+   "livro": "1-tessalonicenses",
+   "tema": "A esperança dos que morreram",
+   "por_que": "Consolo sobre a vinda do Senhor. Há leituras diferentes deste texto (futurista, histórica, preterista, idealista), e aqui nenhuma é apresentada como a correta.",
+   "estagio": "igreja-primitiva"
+  },
+  {
+   "ref": "2-tessalonicenses 2",
+   "livro": "2-tessalonicenses",
+   "tema": "Antes do dia do Senhor",
+   "por_que": "Advertência contra alarmes sobre a vinda de Cristo. Há leituras diferentes deste texto (futurista, histórica, preterista, idealista), e aqui nenhuma é apresentada como a correta.",
+   "estagio": "igreja-primitiva"
+  },
+  {
+   "ref": "1-timoteo 3",
+   "livro": "1-timoteo",
+   "tema": "Quem pode liderar",
+   "por_que": "O caráter exigido de quem serve à igreja.",
+   "estagio": "cartas-apocalipse"
+  },
+  {
+   "ref": "2-timoteo 3",
+   "livro": "2-timoteo",
+   "tema": "Toda a Escritura",
+   "por_que": "A Escritura inspirada e útil para ensinar.",
+   "estagio": "cartas-apocalipse"
+  },
+  {
+   "ref": "2-timoteo 4",
+   "livro": "2-timoteo",
+   "tema": "Combati o bom combate",
+   "por_que": "A despedida de Paulo.",
+   "estagio": "cartas-apocalipse"
+  },
+  {
+   "ref": "tito 2",
+   "livro": "tito",
+   "tema": "A graça que educa",
+   "por_que": "Como a graça muda o modo de viver.",
+   "estagio": "cartas-apocalipse"
+  },
+  {
+   "ref": "filemom 1",
+   "livro": "filemom",
+   "tema": "Mais que um escravo",
+   "por_que": "Paulo intercede por Onésimo como irmão.",
+   "estagio": "igreja-primitiva"
+  },
+  {
+   "ref": "hebreus 1",
+   "livro": "hebreus",
+   "tema": "O Filho, a palavra final",
+   "por_que": "Cristo superior aos anjos e aos profetas.",
+   "estagio": "cartas-apocalipse"
+  },
+  {
+   "ref": "hebreus 11",
+   "livro": "hebreus",
+   "tema": "Pela fé",
+   "por_que": "A memória dos fiéis do Antigo Testamento.",
+   "estagio": "cartas-apocalipse"
+  },
+  {
+   "ref": "hebreus 12",
+   "livro": "hebreus",
+   "tema": "A corrida da fé",
+   "por_que": "Olhando para Jesus.",
+   "estagio": "cartas-apocalipse"
+  },
+  {
+   "ref": "tiago 1",
+   "livro": "tiago",
+   "tema": "Provações e sabedoria",
+   "por_que": "Ser praticante da Palavra.",
+   "estagio": "igreja-primitiva"
+  },
+  {
+   "ref": "tiago 2",
+   "livro": "tiago",
+   "tema": "Fé que age",
+   "por_que": "Fé sem obras é morta.",
+   "estagio": "igreja-primitiva"
+  },
+  {
+   "ref": "1-pedro 1",
+   "livro": "1-pedro",
+   "tema": "Uma esperança viva",
+   "por_que": "Nascidos de novo para uma herança que não se perde.",
+   "estagio": "cartas-apocalipse"
+  },
+  {
+   "ref": "1-pedro 2",
+   "livro": "1-pedro",
+   "tema": "Pedras vivas",
+   "por_que": "A identidade do povo de Deus.",
+   "estagio": "cartas-apocalipse"
+  },
+  {
+   "ref": "2-pedro 1",
+   "livro": "2-pedro",
+   "tema": "Promessas preciosas",
+   "por_que": "Crescer na fé e confiar na palavra profética.",
+   "estagio": "cartas-apocalipse"
+  },
+  {
+   "ref": "2-pedro 3",
+   "livro": "2-pedro",
+   "tema": "Novos céus e nova terra",
+   "por_que": "A espera pelo dia do Senhor. Há leituras diferentes deste texto (futurista, histórica, preterista, idealista), e aqui nenhuma é apresentada como a correta.",
+   "estagio": "cartas-apocalipse"
+  },
+  {
+   "ref": "1-joao 1",
+   "livro": "1-joao",
+   "tema": "Andar na luz",
+   "por_que": "Comunhão com Deus e confissão de pecados.",
+   "estagio": "cartas-apocalipse"
+  },
+  {
+   "ref": "1-joao 4",
+   "livro": "1-joao",
+   "tema": "Deus é amor",
+   "por_que": "Quem ama conhece a Deus.",
+   "estagio": "cartas-apocalipse"
+  },
+  {
+   "ref": "2-joao 1",
+   "livro": "2-joao",
+   "tema": "Verdade e amor",
+   "por_que": "Andar no amor sem abandonar a verdade.",
+   "estagio": "cartas-apocalipse"
+  },
+  {
+   "ref": "3-joao 1",
+   "livro": "3-joao",
+   "tema": "Hospitalidade",
+   "por_que": "Apoio aos que viajam a serviço do Evangelho.",
+   "estagio": "cartas-apocalipse"
+  },
+  {
+   "ref": "judas 1",
+   "livro": "judas",
+   "tema": "Batalhar pela fé",
+   "por_que": "Alerta contra falsos mestres e doxologia final.",
+   "estagio": "cartas-apocalipse"
+  },
+  {
+   "ref": "apocalipse 1",
+   "livro": "apocalipse",
+   "tema": "O Cristo glorificado",
+   "por_que": "A visão que abre o livro.",
+   "estagio": "cartas-apocalipse"
+  },
+  {
+   "ref": "apocalipse 20",
+   "livro": "apocalipse",
+   "tema": "Os mil anos",
+   "por_que": "Texto central das discussões sobre o milênio (pré-milenismo, pós-milenismo e amilenismo). Há leituras diferentes deste texto (futurista, histórica, preterista, idealista), e aqui nenhuma é apresentada como a correta.",
+   "estagio": "cartas-apocalipse"
+  },
+  {
+   "ref": "apocalipse 21",
+   "livro": "apocalipse",
+   "tema": "Todas as coisas novas",
+   "por_que": "A Nova Jerusalém e o fim das lágrimas. Há leituras diferentes deste texto (futurista, histórica, preterista, idealista), e aqui nenhuma é apresentada como a correta.",
+   "estagio": "cartas-apocalipse"
+  }
+ ]
+}
