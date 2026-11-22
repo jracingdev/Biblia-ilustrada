@@ -475,6 +475,17 @@ details.lei > summary{ cursor:pointer; padding:.6rem .8rem; display:flex; flex-w
 .dev{ margin:.6rem 0 0 }
 .contador{ margin:.6rem 0 0; font-variant-numeric:tabular-nums }
 .contador b{ color:var(--fg) }
+.int-list{ list-style:none; margin:0; padding:0; display:grid; grid-template-columns:repeat(auto-fill, minmax(9rem, 1fr)); gap:.5rem }
+.int-w{ display:flex; flex-direction:column; gap:.1rem; border:1px solid var(--line); border-radius:10px; padding:.5rem .6rem; background:var(--surface-2); min-width:0 }
+.gr{ font-family:var(--f-text, serif); font-size:1.2em; overflow-wrap:anywhere }
+.int-w .tl{ font-style:italic; color:var(--muted); font-size:.85rem }
+.int-w .gl{ font-weight:700 }
+.int-w .st{ align-self:flex-start; display:inline-block; min-height:24px; line-height:24px; font-weight:700; color:var(--gold-ink, var(--fg)) }
+.int-w .mf{ color:var(--muted); font-size:.78rem; line-height:1.3 }
+.st-res{ list-style:none; padding:0; display:grid; gap:.35rem; margin:.6rem 0 }
+.st-res a{ display:block; padding:.45rem .6rem; border:1px solid var(--line); border-radius:8px; text-decoration:none; color:var(--fg); background:var(--surface) }
+.st-ent h2{ margin:.2rem 0 .6rem }
+.atb.xl{ border:0; min-width:24px; padding:0 .2rem; font-style:italic; text-decoration:underline }
 </style>
 </head>
 <body>
@@ -1020,8 +1031,8 @@ function telaLeitura(slug, c){
       ${qc.length ? `<section class="cenas-cap" aria-label="Ilustrações do capítulo">${qc.map(q => cenaHTML(l, q, X.quadros.indexOf(q), "h2")).join("")}</section>` : ""}
       ${est ? `<section class="resumo" aria-labelledby="t-res"><h2 id="t-res">Em resumo</h2><p>${esc(est.resumo)}</p></section>` : ""}
       <h2 class="sr">Texto de ${esc(l.nome)} ${c}</h2>
-      <div class="texto" lang="pt-BR">${versos.map((t, i) => `<p id="v${i + 1}" class="${kr && i + 1 >= kr.v && i + 1 <= kr.f && kr.c === c ? "chave" : ""}"><sup><span class="sr">versículo </span>${i + 1}</sup>${esc(t)} <button type="button" class="atb" data-xref="${slug}:${c}:${i + 1}" aria-label="Ver referências cruzadas do versículo ${i + 1}">↔</button></p>`).join("")}</div>
-      <p class="fonte-linha">Texto: Bíblia Livre (BLIVRE), CC BY 4.0 Brasil. O botão ↔ mostra outros textos da Bíblia ligados ao versículo.</p>
+      <div class="texto" lang="pt-BR">${versos.map((t, i) => `<p id="v${i + 1}" class="${kr && i + 1 >= kr.v && i + 1 <= kr.f && kr.c === c ? "chave" : ""}"><sup><span class="sr">versículo </span>${i + 1}</sup>${esc(t)} <button type="button" class="atb" data-xref="${slug}:${c}:${i + 1}" aria-label="Ver referências cruzadas do versículo ${i + 1}">↔</button>${temOriginal(l) ? `<button type="button" class="atb" data-orig="${slug}:${c}:${i + 1}" aria-label="Ver o grego do versículo ${i + 1}" lang="grc">α</button>` : ""}</p>`).join("")}</div>
+      <p class="fonte-linha">Texto: Bíblia Livre (BLIVRE), CC BY 4.0 Brasil. As letras ao lado dos versículos abrem as referências cruzadas${temOriginal(l) ? "; o botão α mostra o grego palavra por palavra, com Strong e gramática" : ""}.</p>
       <nav class="pag" aria-label="Navegação entre capítulos">
         ${c > 1 ? `<a class="btn" href="#livro-${slug}-${c - 1}">‹ ${esc(l.nome)} ${c - 1}</a>` : "<span></span>"}
         ${c < nc ? `<a class="btn primary" href="#livro-${slug}-${c + 1}">${esc(l.nome)} ${c + 1} ›</a>` : `<a class="btn primary" href="#conexoes-${slug}">Ver as conexões de ${esc(l.nome)}</a>`}
@@ -1269,7 +1280,7 @@ async function renderBiblia(r){
       if (!m[2] && E){ html = telaIntroLivro(slug); view.innerHTML = html; document.querySelectorAll("nav.main a").forEach(a => a.dataset.r === "livros" ? a.setAttribute("aria-current", "page") : a.removeAttribute("aria-current")); document.title = `${livroPorSlug(slug).nome} · Bíblia de Estudo Hakham`; anunciar("Página: " + livroPorSlug(slug).nome); window.scrollTo(0, 0); $("#conteudo").focus({ preventScroll:true }); ligarSeletor(s => s === "apocalipse" ? "apocalipse" : "livro-" + s); return; }
       html = telaLeitura(slug, c); ativo = "livros";
       pos = async () => {
-        store.set("ultimo", { s:slug, c }); preencherContexto(slug, c);
+        store.set("ultimo", { s:slug, c }); preencherContexto(slug, c); letrasXref(slug, c);
         ligarSeletor(s => s === "apocalipse" ? "cap-1" : "livro-" + s + "-1");
         $("#sel-cap-l").addEventListener("change", e => location.hash = `livro-${slug}-${e.target.value}`);
         if (m[3]){ const p = document.getElementById("v" + m[3]); if (p){ p.classList.add("alvo"); p.scrollIntoView({ block:"center" }); setTimeout(() => p.classList.remove("alvo"), 2500); } }
@@ -1555,7 +1566,7 @@ function irPara(id){ const el = document.getElementById(id); if (!el) return; if
 const PREF = { animais:"ani-", anjos:"an-", tabernaculo:"tb-", "nova-jerusalem":"nj-", paulo:"pa-", leis:"lei-" };
 function telaEstudos(){
   return `${cabEstudo("Estudos temáticos", "Estudos especiais", "Temas que atravessam a Bíblia inteira, cada um com as referências ligadas aos capítulos. O que vem de fora da Bíblia está marcado com a fonte e a data, e onde as igrejas leem de modo diferente as leituras principais são mostradas lado a lado.")}
-  <div class="explorar">${ESTUDOS.map(([h, t, n, d]) => T[t] ? `<a class="card" href="#${h}"><b>${esc(n)}</b><small>${esc(d)}</small></a>` : `<div class="card" aria-disabled="true"><b>${esc(n)}</b><small>Em preparação</small></div>`).join("")}</div>`;
+  <div class="explorar"><a class="card" href="#strong"><b>Dicionário Strong (grego)</b><small>as palavras do Novo Testamento no original, com sentido e ocorrências</small></a>${ESTUDOS.map(([h, t, n, d]) => T[t] ? `<a class="card" href="#${h}"><b>${esc(n)}</b><small>${esc(d)}</small></a>` : `<div class="card" aria-disabled="true"><b>${esc(n)}</b><small>Em preparação</small></div>`).join("")}</div>`;
 }
 
 function telaAnjos(){
@@ -1761,6 +1772,7 @@ async function renderContexto(r){
     else if ((m = r.match(/^reis(?:-(.+))?$/))){ if (!await carregarTema("reis")) throw new Error("reis"); html = telaReis(m[1]); ativo = "reis"; pos = montarReis; }
     else if ((m = r.match(/^(calendario|festa-(.+))$/))){ if (!await carregarTema("calendario")) throw new Error("calendário"); html = telaCalendario(); ativo = "calendario"; if (m[2]) pos = () => { const el = document.getElementById("festa-" + m[2]); if (el){ el.scrollIntoView({ block:"start" }); el.focus({ preventScroll:true }); } }; }
     else if (r === "costumes" || r === "medidas"){ if (!await carregarTema("costumes")) throw new Error("costumes"); html = telaCostumes(); ativo = "costumes"; pos = () => { ligarFiltroCards("#q-cos", ".cos", "#cos-count", "data-fc", " costumes"); if (r === "medidas") $("#medidas").scrollIntoView(); }; }
+    else if ((m = r.match(/^strong(?:-(G\d+[A-Z]?))?$/))){ await carregarLexico(); html = telaStrong(m[1]); ativo = "estudos"; pos = () => montarStrong(m[1]); }
     else if (r === "estudos"){ await Promise.all(ESTUDOS.map(e => carregarTema(e[1]))); html = telaEstudos(); ativo = "estudos"; }
     else if ((m = r.match(/^nova-jerusalem(?:-(.+))?$/))){ if (!await carregarTema("nova-jerusalem")) throw new Error("Nova Jerusalém"); html = telaNovaJerusalem(); ativo = "estudos"; if (m[1]) pos = () => irPara("nj-" + m[1]); }
     else if ((m = r.match(/^tabernaculo(?:-(.+))?$/))){ if (!await carregarTema("tabernaculo")) throw new Error("tabernáculo"); html = telaTabernaculo(); ativo = "estudos"; if (m[1]) pos = () => irPara("tb-" + m[1]); }
@@ -1982,7 +1994,7 @@ function telaCapitulo(n, alvo){
       </div>
       <h2 class="sr">Texto de Apocalipse ${n}</h2>
       <div class="texto" lang="pt-BR">
-        ${versos.map(v => `<p id="v${v.n}" data-t="${esc(cap.versiculos[v.n - 1].texto)}" class="${kr && v.n >= kr.v && v.n <= kr.f ? "chave" : ""}"><sup><span class="sr">versículo </span>${v.n}</sup>${v.html}${atDoVerso(n, v.n).length ? `<button type="button" class="atb" data-at="${n}:${v.n}" aria-label="Ver raízes no Antigo Testamento do versículo ${v.n}">AT</button>` : ""}</p>`).join("")}
+        ${versos.map(v => `<p id="v${v.n}" data-t="${esc(cap.versiculos[v.n - 1].texto)}" class="${kr && v.n >= kr.v && v.n <= kr.f ? "chave" : ""}"><sup><span class="sr">versículo </span>${v.n}</sup>${v.html}${atDoVerso(n, v.n).length ? `<button type="button" class="atb" data-at="${n}:${v.n}" aria-label="Ver raízes no Antigo Testamento do versículo ${v.n}">AT</button>` : ""}<button type="button" class="atb" data-orig="apocalipse:${n}:${v.n}" aria-label="Ver o grego do versículo ${v.n}" lang="grc">α</button></p>`).join("")}
       </div>
       <p class="fonte-linha">Texto: Bíblia Livre (BLIVRE), CC BY 4.0 Brasil. Palavras sublinhadas são símbolos: toque para ver o significado. A borda dourada marca o versículo-chave.</p>
       <nav class="pag" aria-label="Navegação entre capítulos">
@@ -2230,10 +2242,119 @@ function telaSobre(){
 
 /* ---------- Roteador ---------- */
 function rotaAtual(){ return (location.hash || "#inicio").slice(1) || "inicio"; }
+/* ---------- Análise gramatical do grego (códigos Robinson/STEPBible) em português ---------- */
+const MORF = {
+  pos: { V:"verbo", N:"substantivo", A:"adjetivo", T:"artigo", P:"pronome pessoal", R:"pronome relativo", C:"pronome recíproco", D:"pronome demonstrativo", F:"pronome reflexivo", I:"pronome interrogativo", X:"pronome indefinido", Q:"pronome correlativo", K:"pronome correlativo", S:"pronome possessivo",
+    ADV:"advérbio", CONJ:"conjunção", COND:"conjunção condicional", PREP:"preposição", PRT:"partícula", INJ:"interjeição" },
+  tempo: { P:"presente", I:"imperfeito", F:"futuro", A:"aoristo", R:"perfeito", L:"mais-que-perfeito" },
+  voz: { A:"ativa", M:"média", P:"passiva", E:"média ou passiva", D:"média (depoente)", O:"passiva (depoente)", N:"média ou passiva (depoente)", Q:"ativa impessoal", X:"sem voz definida" },
+  modo: { I:"indicativo", S:"subjuntivo", O:"optativo", M:"imperativo", N:"infinitivo", P:"particípio", R:"particípio imperativo" },
+  caso: { N:"nominativo", G:"genitivo", D:"dativo", A:"acusativo", V:"vocativo" },
+  num: { S:"singular", P:"plural" }, gen: { M:"masculino", F:"feminino", N:"neutro" },
+  extra: { C:"comparativo", S:"superlativo", I:"interrogativo", N:"negativo", T:"título", P:"nome de pessoa", L:"nome de lugar", G:"gentílico", LI:"letra", PRI:"nome próprio indeclinável", NUI:"numeral indeclinável", OI:"indeclinável", ATT:"forma ática", ABB:"abreviada", HEB:"palavra hebraica", ARAM:"palavra aramaica", K:"com crase", PG:"gentílico", LG:"gentílico" }
+};
+function morfPT(cod){
+  if (!cod) return "";
+  const base = cod.split(" + ")[0], p = base.split("-"), pos = p[0], out = [MORF.pos[pos] || pos];
+  const cng = s => { const m = s.match(/^([1-3])?([NGDAV])?([SP])?([MFN])?$/); if (!m) return null; return [m[1] && m[1] + "ª pessoa", MORF.caso[m[2]], MORF.num[m[3]], MORF.gen[m[4]]].filter(Boolean); };
+  if (pos === "V"){
+    const t = (p[1] || "").match(/^(2)?([PIFARL])([AMPEDONQX])([ISOMNPR])$/);
+    if (t) out.push(MORF.tempo[t[2]] + (t[1] ? " (2º)" : ""), "voz " + MORF.voz[t[3]], MORF.modo[t[4]]);
+    if (p[2]){ const m = p[2].match(/^([1-3])([SP])$/); if (m) out.push(m[1] + "ª pessoa", MORF.num[m[2]]); else { const c = cng(p[2]); if (c) out.push(...c); } }
+    p.slice(3).forEach(x => MORF.extra[x] && out.push(MORF.extra[x]));
+  } else {
+    const s = pos === "S" && (p[1] || "").match(/^([12])([SP])([NGDAV][SP][MFN])$/);
+    if (s) out.push(`de ${s[1]}ª pessoa do ${MORF.num[s[2]]}`, ...cng(s[3]));
+    p.slice(1).forEach((x, i) => { if (s && i === 0) return; if (i > 0 && MORF.extra[x]) return out.push(MORF.extra[x]); const c = cng(x); if (c && c.length) out.push(...c); else if (MORF.extra[x]) out.push(MORF.extra[x]); });
+  }
+  return out.join(", ");
+}
+
+/* ---------- Original grego palavra por palavra e dicionário Strong (STEPBible, CC BY 4.0) ---------- */
+const semAcento = s => (s || "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+async function carregarOriginal(slug){ if (!B.orig) B.orig = new Map(); if (!B.orig.has(slug)) B.orig.set(slug, await getJSON(`data/original/nt/${slug}.json`)); return B.orig.get(slug); }
+async function carregarLexico(){ if (!B.lex) B.lex = await getJSON("data/original/lexico-grego.json"); return B.lex; }
+async function carregarOcorr(){ if (!B.occ) B.occ = await getJSON("data/original/nt-strong.json"); return B.occ; }
+const chaveLex = k => B.lex.lex[k] ? k : (B.lex.alias[k] || k);
+const numStrong = k => k.replace(/[A-Z]$/, "");
+const temOriginal = l => l && l.testamento === "NT";
+function palavraHTML(w){
+  const k = chaveLex(w[2]), e = B.lex.lex[k];
+  return `<li class="int-w"><span class="gr" lang="grc">${esc(w[0])}</span><span class="tl">${esc(w[1])}</span><span class="gl">${esc(w[4] || (e ? e[2] : ""))}</span><a class="st" href="#strong-${k}" aria-label="Strong ${numStrong(k)}${e ? ": " + esc(e[2]) : ""}">${numStrong(k)}</a><small class="mf">${esc(morfPT(w[3]))}</small></li>`;
+}
+async function abrirOriginal(slug, c, v){
+  const l = livroPorSlug(slug), [O, , Tx] = await Promise.all([carregarOriginal(slug), carregarLexico(), carregarTexto(slug)]);
+  const ws = O.caps[c]?.[v] || [];
+  $("#at-t").textContent = `${refTxt(l, c, v)} no grego`;
+  $("#at-body").innerHTML = `<p style="margin:0"><i>${esc(Tx.c[c - 1]?.[v - 1] || "")}</i></p>
+    ${ws.length ? `<ol class="int-list">${ws.map(palavraHTML).join("")}</ol>` : `<p>Este versículo não aparece nas edições críticas do grego (NA28), por isso não tem análise palavra por palavra.</p>`}
+    <p style="color:var(--muted);font-size:.85rem;margin:0">Toque no número para abrir o dicionário Strong. Texto grego: NA28 via STEPBible (CC BY 4.0). Glosas e gramática traduzidas para o português.</p>`;
+  const dlg = $("#at-dlg"), eb = dlg.querySelector(".eyebrow"), all = $("#at-all"), antes = [eb.textContent, all.getAttribute("href"), all.textContent];
+  eb.textContent = "Original palavra por palavra"; all.href = "#strong"; all.textContent = "Dicionário Strong";
+  dlg.addEventListener("close", () => { eb.textContent = antes[0]; all.setAttribute("href", antes[1]); all.textContent = antes[2]; }, { once:true });
+  dlg.showModal();
+}
+document.addEventListener("click", e => { const b = e.target.closest("[data-orig]"); if (!b) return; const [s, c, v] = b.dataset.orig.split(":"); abrirOriginal(s, +c, +v); });
+
+function telaStrong(id){
+  const L = B.lex.lex, e = id && L[chaveLex(id)], k = id && chaveLex(id);
+  const ent = e ? `<section class="card st-ent" aria-labelledby="st-t">
+      <p class="eyebrow">Strong ${numStrong(k)} · ${esc(e[1])}</p>
+      <h2 id="st-t"><span class="gr" lang="grc">${esc(e[0])}</span> <span style="font-weight:400">“${esc(e[2])}”</span></h2>
+      ${e[3] ? `<p>${esc(e[3])}</p>` : ""}
+      <p class="meta">Aparece <b>${e[4].toLocaleString("pt-BR")}</b> ${e[4] === 1 ? "vez" : "vezes"} no Novo Testamento grego.</p>
+    </section>
+    <section class="block" aria-labelledby="st-oc"><h2 id="st-oc">Onde aparece</h2><div id="st-lista"><p class="carregando">Carregando os versículos…</p></div></section>` : id ? `<p>Número Strong não encontrado.</p>` : "";
+  return `${cabEstudo("Grego do Novo Testamento", "Dicionário Strong", "")}
+    <p style="color:var(--muted);max-width:72ch">As ${Object.keys(L).length.toLocaleString("pt-BR")} palavras gregas do Novo Testamento, com o número de Strong, o significado em português e todas as passagens onde aparecem. Busque pelo número (por exemplo 26 ou G26), pela palavra grega, pela transliteração (agapē) ou pelo sentido em português (amor). Em qualquer capítulo do NT, o botão <b>α</b> ao lado do versículo mostra o grego palavra por palavra.</p>
+    <div class="busca"><label class="sr" for="q-strong">Buscar no dicionário Strong</label><input id="q-strong" type="search" placeholder="Número, palavra grega ou sentido…" autocomplete="off"></div>
+    <p class="sr" id="st-count" role="status" aria-live="polite"></p>
+    <ul class="st-res" id="st-res"></ul>
+    ${ent}
+    <p class="fonte-linha">Fontes: texto grego NA28 e léxico de Abbott-Smith (domínio público) via STEPBible.org (CC BY 4.0); definições resumidas e traduzidas para o português.</p>`;
+}
+async function montarStrong(id){
+  const L = B.lex.lex, q = $("#q-strong"), res = $("#st-res"), cnt = $("#st-count");
+  const idx = Object.entries(L).map(([k, e]) => [k, e, semAcento(e[0] + " " + e[1] + " " + e[2] + " " + e[3])]);
+  const buscar = () => {
+    const t = semAcento(q.value.trim()); if (!t){ res.innerHTML = ""; cnt.textContent = ""; return; }
+    const n = t.match(/^g?0*(\d+)$/), ach = n ? idx.filter(([k]) => numStrong(k) === "G" + n[1]) : idx.filter(x => x[2].includes(t)).sort((a, b) => b[1][4] - a[1][4]);
+    res.innerHTML = ach.slice(0, 40).map(([k, e]) => `<li><a href="#strong-${k}"><b>${numStrong(k)}</b> <span class="gr" lang="grc">${esc(e[0])}</span> <i>${esc(e[1])}</i> “${esc(e[2])}” <small>${e[4]}×</small></a></li>`).join("");
+    cnt.textContent = ach.length ? `${ach.length} resultados${ach.length > 40 ? ", mostrando 40" : ""}` : "Nenhum resultado";
+  };
+  q.addEventListener("input", buscar);
+  if (!id) return;
+  const k = chaveLex(id), O = await carregarOcorr(), refs = (O.occ[k] || "").split(";").filter(Boolean).map(r => r.split(".").map(Number));
+  const box = $("#st-lista"); let mostrados = 0;
+  const lote = async () => {
+    const parte = refs.slice(mostrados, mostrados + 60); mostrados += parte.length;
+    const lis = await Promise.all(parte.map(async ([b, c, v]) => { const l = livroPorSlug(O.livros[b]), T = await carregarTexto(l.slug); return `<li><a href="${linkLivro(l, c, v)}">${esc(refTxt(l, c, v))}</a> ${esc(T.c[c - 1]?.[v - 1] || "")}</li>`; }));
+    let ul = box.querySelector("ul"); if (!ul){ box.innerHTML = `<p class="meta">${refs.length.toLocaleString("pt-BR")} versículos.</p><ul class="xr-list"></ul>`; ul = box.querySelector("ul"); }
+    ul.insertAdjacentHTML("beforeend", lis.join(""));
+    box.querySelector(".mais")?.remove();
+    if (mostrados < refs.length) box.insertAdjacentHTML("beforeend", `<button type="button" class="btn mais">Mostrar mais (${(refs.length - mostrados).toLocaleString("pt-BR")} restantes)</button>`);
+    box.querySelector(".mais")?.addEventListener("click", lote);
+  };
+  await lote();
+}
+
+/* letras de referência cruzada no texto, como na Bíblia impressa */
+async function letrasXref(slug, c){
+  if (!B.versos) B.versos = new Map();
+  if (!B.versos.has(slug)){ try { B.versos.set(slug, await getJSON(`data/conexoes/versos/${slug}.json`)); } catch { return; } }
+  const V = B.versos.get(slug); let i = 0;
+  document.querySelectorAll(".texto [data-xref]").forEach(b => {
+    const [, , v] = b.dataset.xref.split(":"), n = (V[`${c}.${v}`] || []).length;
+    if (!n){ b.remove(); return; }
+    const letra = String.fromCharCode(97 + (i++ % 26));
+    b.textContent = letra; b.classList.add("xl"); b.setAttribute("aria-label", `Referências cruzadas do versículo ${v} (${n})`);
+  });
+}
+
 function render(){
-  pararFala();
+  pararFala(); document.querySelectorAll("dialog[open]").forEach(d => d.close());
   const r = rotaAtual();
-  if (/^(mapas(-.+)?|rota-.+|reis(-.+)?|calendario|festa-.+|costumes|medidas|objetos(-.+)?|estudos|anjos(-.+)?|animais(-.+)?|tabernaculo(-.+)?|nova-jerusalem(-.+)?|paulo(-.+)?|leis(-.+)?)$/.test(r)){ renderContexto(r); return; }
+  if (/^(mapas(-.+)?|rota-.+|reis(-.+)?|calendario|festa-.+|costumes|medidas|objetos(-.+)?|estudos|anjos(-.+)?|animais(-.+)?|tabernaculo(-.+)?|nova-jerusalem(-.+)?|paulo(-.+)?|leis(-.+)?|strong(-.+)?)$/.test(r)){ renderContexto(r); return; }
   if (/^(inicio|livros|biblia|conexoes-.+|livro-.+|extras-.+)$/.test(r) || !/^(cap-\d+(-v\d+)?|igrejas|simbolos|palavras|historia|raizes|quadros|quiz|sobre|apocalipse)$/.test(r)){ renderBiblia(r); return; }
   let m, html, ativo;
   if ((m = r.match(/^cap-(\d+)(?:-v(\d+))?$/)) && +m[1] >= 1 && +m[1] <= 22){ html = telaCapitulo(+m[1]); ativo = "cap"; }
