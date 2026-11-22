@@ -67,3 +67,7 @@ O site é publicado no GitHub Pages pelo workflow `.github/workflows/pages.yml` 
 - Dados gerados por `ferramentas/gerar_biblia.py` a partir das referências cruzadas do
   [OpenBible.info](https://www.openbible.info/labs/cross-references/) (CC BY), baseadas no
   Treasury of Scripture Knowledge (domínio público).
+
+---
+
+Desenvolvida por [jracing.dev.br](https://jracing.dev.br).
