@@ -438,6 +438,19 @@ details.lei > summary{ cursor:pointer; padding:.6rem .8rem; display:flex; flex-w
 .linha-apar li{ border-left:3px solid var(--gold); padding:.2rem 0 .2rem .9rem }
 .linha-apar h3{ margin:.1rem 0 }
 .licoes li{ margin:.45rem 0; max-width:80ch }
+.pn-linha{ list-style:none; padding:0; display:grid; grid-template-columns:repeat(auto-fill, minmax(min(15rem,100%),1fr)); gap:.8rem; counter-reset:none }
+.pn-est{ display:grid; gap:.25rem; text-decoration:none; color:inherit; position:relative; padding-left:3.4rem; height:100% }
+.pn-est b{ font-family:var(--f-display); font-size:1.1rem } .pn-est small{ color:var(--muted) }
+.pn-n{ position:absolute; left:.9rem; top:.9rem; width:2rem; height:2rem; border-radius:50%; display:grid; place-items:center; background:var(--gold-soft); color:var(--fg); font-weight:700; border:1.5px solid var(--gold) }
+.pn-prog{ max-width:30rem; margin:.8rem 0 } .pn-prog small{ display:block; margin-top:.35rem; color:var(--muted) }
+.pn-bar{ height:10px; border-radius:99px; background:var(--surface-2); border:1px solid var(--line); overflow:hidden } .pn-bar i{ display:block; height:100%; background:var(--gold) }
+.pn-eve{ max-width:80ch } .pn-eve li{ margin:.55rem 0 } .pn-capl{ padding-left:1.1rem } .pn-capl li{ margin:.45rem 0 }
+.pn-plano{ list-style:none; padding:0; max-width:80ch } .pn-plano li{ padding:.55rem 0; border-bottom:1px solid var(--line) }
+.pn-plano input{ width:1.4rem; height:1.4rem; vertical-align:middle; margin-right:.5rem; accent-color:var(--gold) } .pn-plano label{ font-weight:700; cursor:pointer }
+.pn-nav{ display:flex; flex-wrap:wrap; justify-content:space-between; gap:.6rem; margin:1rem 0 }
+.pn-vk{ max-width:80ch } .pn-vk li{ margin:.5rem 0 } .pn-vt{ font-style:italic }
+.pn-livros .chip-f{ margin:.2rem .3rem .2rem 0 }
+
 .festas, .cos-list{ display:grid; grid-template-columns:repeat(auto-fill, minmax(min(22rem,100%),1fr)); gap:1rem }
 .festa h3{ margin:.2rem 0 .5rem } .dl-f dt{ font-weight:700; margin-top:.4rem } .dl-f dd{ margin:.1rem 0 0 }
 .festa:target, .festa:focus{ outline:3px solid var(--gold) }
@@ -1566,7 +1579,7 @@ function irPara(id){ const el = document.getElementById(id); if (!el) return; if
 const PREF = { animais:"ani-", anjos:"an-", tabernaculo:"tb-", "nova-jerusalem":"nj-", paulo:"pa-", leis:"lei-" };
 function telaEstudos(){
   return `${cabEstudo("Estudos temáticos", "Estudos especiais", "Temas que atravessam a Bíblia inteira, cada um com as referências ligadas aos capítulos. O que vem de fora da Bíblia está marcado com a fonte e a data, e onde as igrejas leem de modo diferente as leituras principais são mostradas lado a lado.")}
-  <div class="explorar"><a class="card" href="#strong"><b>Dicionário Strong (grego)</b><small>as palavras do Novo Testamento no original, com sentido e ocorrências</small></a>${ESTUDOS.map(([h, t, n, d]) => T[t] ? `<a class="card" href="#${h}"><b>${esc(n)}</b><small>${esc(d)}</small></a>` : `<div class="card" aria-disabled="true"><b>${esc(n)}</b><small>Em preparação</small></div>`).join("")}</div>`;
+  <div class="explorar"><a class="card" href="#panorama"><b>Panorama cronológico</b><small>a Bíblia em 13 estágios, leitura em ordem, eventos e capítulos mais importantes</small></a><a class="card" href="#strong"><b>Dicionário Strong (grego)</b><small>as palavras do Novo Testamento no original, com sentido e ocorrências</small></a>${ESTUDOS.map(([h, t, n, d]) => T[t] ? `<a class="card" href="#${h}"><b>${esc(n)}</b><small>${esc(d)}</small></a>` : `<div class="card" aria-disabled="true"><b>${esc(n)}</b><small>Em preparação</small></div>`).join("")}</div>`;
 }
 
 function telaAnjos(){
@@ -1773,6 +1786,7 @@ async function renderContexto(r){
     else if ((m = r.match(/^(calendario|festa-(.+))$/))){ if (!await carregarTema("calendario")) throw new Error("calendário"); html = telaCalendario(); ativo = "calendario"; if (m[2]) pos = () => { const el = document.getElementById("festa-" + m[2]); if (el){ el.scrollIntoView({ block:"start" }); el.focus({ preventScroll:true }); } }; }
     else if (r === "costumes" || r === "medidas"){ if (!await carregarTema("costumes")) throw new Error("costumes"); html = telaCostumes(); ativo = "costumes"; pos = () => { ligarFiltroCards("#q-cos", ".cos", "#cos-count", "data-fc", " costumes"); if (r === "medidas") $("#medidas").scrollIntoView(); }; }
     else if ((m = r.match(/^strong(?:-(G\d+[A-Z]?))?$/))){ await carregarLexico(); html = telaStrong(m[1]); ativo = "estudos"; pos = () => montarStrong(m[1]); }
+    else if ((m = r.match(/^panorama(?:-(.+?))?(-ler)?$/))){ if (!await carregarTema("panorama")) throw new Error("panorama"); html = m[1] ? telaPanoramaEstagio(m[1]) : telaPanorama(); ativo = "estudos"; pos = () => { if (m[1]){ montarPanoramaEstagio(); if (m[2]) irPara("pn-ler-sec"); } else ligarFiltroCards("#q-pnc", ".pn-cap", "#pnc-count", "data-fpn", " livros"); }; }
     else if (r === "estudos"){ await Promise.all(ESTUDOS.map(e => carregarTema(e[1]))); html = telaEstudos(); ativo = "estudos"; }
     else if ((m = r.match(/^nova-jerusalem(?:-(.+))?$/))){ if (!await carregarTema("nova-jerusalem")) throw new Error("Nova Jerusalém"); html = telaNovaJerusalem(); ativo = "estudos"; if (m[1]) pos = () => irPara("nj-" + m[1]); }
     else if ((m = r.match(/^tabernaculo(?:-(.+))?$/))){ if (!await carregarTema("tabernaculo")) throw new Error("tabernáculo"); html = telaTabernaculo(); ativo = "estudos"; if (m[1]) pos = () => irPara("tb-" + m[1]); }
@@ -1891,7 +1905,7 @@ function telaHome(){
   <section class="block" aria-labelledby="t-ctx">
     <h2 id="t-ctx">O mundo da Bíblia</h2>
     <p class="lead">Para entender o texto no seu lugar e no seu tempo.</p>
-    <div class="explorar">${[["mapas", "Mapas e viagens", "1.278 lugares com foto e 30 rotas, de Abraão a Paulo"], ["reis", "Reis e governantes", "todos os povos em raias paralelas, com quem reinava ao mesmo tempo"], ["calendario", "Calendário e festas", "os meses, as festas e as horas do dia"], ["costumes", "Costumes, pesos e medidas", "casamento, refeições, trabalho, moedas e medidas"], ["objetos", "Objetos e utensílios", "peças reais de museus ligadas aos textos"], ["estudos", "Estudos especiais", "animais, anjos, tabernáculo, Nova Jerusalém, Paulo e as leis da Torá"]].map(([h, n, d]) => `<a class="card" href="#${h}"><b>${n}</b><small>${d}</small></a>`).join("")}</div>
+    <div class="explorar">${[["panorama", "Panorama cronológico", "a história bíblica em 13 estágios e a leitura em ordem cronológica"], ["mapas", "Mapas e viagens", "1.278 lugares com foto e 30 rotas, de Abraão a Paulo"], ["reis", "Reis e governantes", "todos os povos em raias paralelas, com quem reinava ao mesmo tempo"], ["calendario", "Calendário e festas", "os meses, as festas e as horas do dia"], ["costumes", "Costumes, pesos e medidas", "casamento, refeições, trabalho, moedas e medidas"], ["objetos", "Objetos e utensílios", "peças reais de museus ligadas aos textos"], ["estudos", "Estudos especiais", "animais, anjos, tabernáculo, Nova Jerusalém, Paulo e as leis da Torá"]].map(([h, n, d]) => `<a class="card" href="#${h}"><b>${n}</b><small>${d}</small></a>`).join("")}</div>
   </section>
 
   <section class="block" aria-labelledby="t-cada">
@@ -2351,10 +2365,84 @@ async function letrasXref(slug, c){
   });
 }
 
+/* ---------- Panorama cronológico ---------- */
+const PN_LIDOS = new Set(store.get("pn-lidos", []));
+const pnSalvar = () => store.set("pn-lidos", [...PN_LIDOS]);
+const pnRef = r => { const m = String(r).match(/^([a-z0-9-]+) (\d+)(?:-(\d+))?$/); if (!m) return null; const l = livroPorSlug(m[1]); return l ? { l, a:+m[2], b:+(m[3] || m[2]), r } : null; };
+const pnNome = x => `${x.l.nome} ${x.a}${x.b !== x.a ? "–" + x.b : ""}`;
+const pnCaps = x => x.b - x.a + 1;
+const pnItens = () => T.panorama.estagios.flatMap(s => s.leitura.map(i => ({ s, i, x:pnRef(i.ref) })).filter(o => o.x));
+const pnTotal = () => pnItens().reduce((n, o) => n + pnCaps(o.x), 0);
+const pnLidosCaps = its => its.filter(o => PN_LIDOS.has(o.i.ref)).reduce((n, o) => n + pnCaps(o.x), 0);
+const pnBarra = (lid, tot, rot) => `<div class="pn-prog"><div class="pn-bar" role="progressbar" aria-label="${esc(rot)}" aria-valuemin="0" aria-valuemax="${tot}" aria-valuenow="${lid}"><i style="width:${tot ? Math.round(lid / tot * 100) : 0}%"></i></div><small>${lid} de ${tot} capítulos lidos</small></div>`;
+const pnLinkRef = r => { const x = pnRef(r); return x ? `<a href="${linkLivro(x.l, x.a)}">${esc(pnNome(x))}</a>` : (refsGerais([r]) || ""); };
+function telaPanorama(){
+  const P = T.panorama, its = pnItens(), tot = pnTotal(), lid = pnLidosCaps(its), prox = its.find(o => !PN_LIDOS.has(o.i.ref));
+  const porEst = new Map(P.estagios.map(s => [s.id, s]));
+  const capsLivro = [...new Set(P.capitulos_chave.map(c => c.livro))].map(livroPorSlug).filter(Boolean).sort((a, b) => B.estr.livros.indexOf(a) - B.estr.livros.indexOf(b));
+  return `${cabEstudo("Panorama da Bíblia", "A Bíblia em ordem cronológica", P.introducao)}
+  <details class="mais pn-datas"><summary>Sobre as datas</summary><p>${esc(P.nota_datas)}</p></details>
+  ${sumario([["pn-s-est", "Os 13 estágios"], ["pn-s-ler", "Ler em ordem cronológica"], ["pn-s-eve", "Eventos marcantes"], ["pn-s-cap", "Capítulos mais importantes"]])}
+  <section class="block" aria-labelledby="pn-s-est"><h2 id="pn-s-est">Os 13 estágios da história</h2>
+    <ol class="pn-linha">${P.estagios.map((s, k) => { const si = its.filter(o => o.s === s), st = si.reduce((n, o) => n + pnCaps(o.x), 0), sl = pnLidosCaps(si); return `<li><a class="card pn-est" href="#panorama-${s.id}"><span class="pn-n" aria-hidden="true">${k + 1}</span><span class="eyebrow">${esc(s.periodo)}</span><b>${esc(s.titulo)}</b><small>${s.livros.length ? s.livros.length + (s.livros.length > 1 ? " livros" : " livro") + " · " : ""}${st ? (sl ? `${sl} de ${st} capítulos lidos` : `${st} capítulos`) : "período sem livro narrativo"}</small></a></li>`; }).join("")}</ol></section>
+  <section class="block" aria-labelledby="pn-s-ler"><h2 id="pn-s-ler">Ler a Bíblia em ordem cronológica</h2>
+    <p style="max-width:75ch">Os 1.189 capítulos ficam na ordem em que os fatos aconteceram, com os profetas, salmos e cartas encaixados na história. Onde a posição de um livro é debatida, há uma nota. Marque cada trecho como lido na página do estágio; o progresso fica salvo só neste aparelho.</p>
+    ${pnBarra(lid, tot, "Progresso da leitura cronológica")}
+    <p>${prox ? `<a class="btn" href="#panorama-${prox.s.id}-ler">${lid ? "Continuar: " : "Começar: "}${esc(pnNome(prox.x))}</a>` : `<b>Você concluiu a leitura cronológica.</b>`}</p></section>
+  <section class="block" aria-labelledby="pn-s-eve"><h2 id="pn-s-eve">Eventos marcantes</h2>
+    <p style="color:var(--muted);max-width:75ch">${P.eventos_marcantes.length} acontecimentos que todo leitor deveria conhecer, em ordem.</p>
+    ${P.estagios.map(s => { const ev = P.eventos_marcantes.filter(e => e.estagio === s.id); return ev.length ? `<h3><a href="#panorama-${s.id}">${esc(s.titulo)}</a></h3><ol class="pn-eve">${ev.map(e => `<li><b>${esc(e.titulo)}</b> <span class="meta">${pnLinkRef(e.ref)}</span><br>${esc(e.por_que)}</li>`).join("")}</ol>` : ""; }).join("")}</section>
+  <section class="block" aria-labelledby="pn-s-cap"><h2 id="pn-s-cap">Capítulos mais importantes de cada livro</h2>
+    <div class="busca"><label class="sr" for="q-pnc">Buscar capítulo</label><input id="q-pnc" type="search" placeholder="Buscar: aliança, ressurreição, Salmos…" autocomplete="off"></div>
+    <p class="sr" id="pnc-count" role="status" aria-live="polite"></p>
+    <div class="filtros" role="group" aria-label="Testamento"><button class="btn" type="button" data-fpn="todos" aria-pressed="true">Todos</button><button class="btn" type="button" data-fpn="AT" aria-pressed="false">Antigo Testamento</button><button class="btn" type="button" data-fpn="NT" aria-pressed="false">Novo Testamento</button></div>
+    <div class="festas">${capsLivro.map(l => `<article class="card pn-cap" data-cat="${l.testamento}" data-busca="${buscaTxt(l.nome, P.capitulos_chave.filter(c => c.livro === l.slug).map(c => [c.tema, c.por_que]))}" aria-labelledby="pnc-${l.slug}"><h3 id="pnc-${l.slug}">${esc(l.nome)}</h3><ul class="pn-capl">${P.capitulos_chave.filter(c => c.livro === l.slug).map(c => `<li>${pnLinkRef(c.ref)}: <b>${esc(c.tema)}</b><br><small>${esc(c.por_que)}</small></li>`).join("")}</ul></article>`).join("")}</div></section>`;
+}
+function telaPanoramaEstagio(id){
+  const P = T.panorama, k = P.estagios.findIndex(s => s.id === id), s = P.estagios[k];
+  if (!s) return telaPanorama();
+  const ant = P.estagios[k - 1], seg = P.estagios[k + 1], its = pnItens().filter(o => o.s === s), st = its.reduce((n, o) => n + pnCaps(o.x), 0);
+  const ev = P.eventos_marcantes.filter(e => e.estagio === s.id), cc = P.capitulos_chave.filter(c => c.estagio === s.id);
+  const reis = ["reino-unido", "reino-dividido", "exilio", "retorno", "intertestamentario", "juizes"].includes(s.id);
+  const nav = r => `<nav class="pn-nav" aria-label="Estágios (${r})">${ant ? `<a class="btn" href="#panorama-${ant.id}"><span aria-hidden="true">←</span> ${esc(ant.titulo)}</a>` : "<span></span>"}<a class="btn" href="#panorama">Todos os estágios</a>${seg ? `<a class="btn" href="#panorama-${seg.id}">${esc(seg.titulo)} <span aria-hidden="true">→</span></a>` : "<span></span>"}</nav>`;
+  const sec = [["pn-eventos", "Acontecimentos"], ["pn-pessoas", "Personagens"], ["pn-versos", "Versículos-chave"], ["pn-ler", "Leitura em ordem"], ["pn-licoes", "Lições"]];
+  if (s.leituras && s.leituras.length) sec.push(["pn-leituras", "Leituras diferentes"]);
+  return `<header class="cap-h"><span class="eyebrow">Estágio ${k + 1} de ${P.estagios.length} · ${esc(s.periodo)}</span><h1>${esc(s.titulo)}</h1></header>
+  ${nav("topo")}
+  <div class="intro-est"><p>${esc(s.resumo)}</p></div>
+  ${s.extrabiblico ? `<p><span class="badge ext">Período sem livro narrativo na Bíblia</span></p>${s.nota_canon ? `<p style="max-width:75ch">${esc(s.nota_canon)}</p>` : ""}` : ""}
+  ${s.livros.length ? `<p class="pn-livros"><b>Livros deste período:</b> ${s.livros.map(livroPorSlug).filter(Boolean).map(l => `<a class="chip-f" href="${linkLivro(l)}">${esc(l.nome)}</a>`).join("")}</p>` : ""}
+  ${reis ? `<p><a href="#reis">Ver reis e governantes de todos os povos nesta época</a></p>` : ""}
+  ${sumario(sec)}
+  <section class="block" aria-labelledby="pn-eventos"><h2 id="pn-eventos">Acontecimentos principais</h2><ol class="pn-eve">${s.eventos.map(e => `<li><b>${esc(e.titulo)}</b>${e.data ? ` <small>(${esc(e.data)})</small>` : ""}${e.ref ? ` <span class="meta">${pnLinkRef(e.ref)}</span>` : ""}${fonteExtra(e.fonte_extra)}</li>`).join("")}</ol>
+    ${ev.length ? `<h3>Entre os eventos marcantes da Bíblia</h3><ul class="pn-eve">${ev.map(e => `<li><b>${esc(e.titulo)}</b> <span class="meta">${pnLinkRef(e.ref)}</span><br>${esc(e.por_que)}</li>`).join("")}</ul>` : ""}</section>
+  <section class="block" aria-labelledby="pn-pessoas"><h2 id="pn-pessoas">Personagens</h2><div class="festas">${s.personagens.map(p => `<article class="card"><h3>${esc(p.nome)}</h3><p>${esc(p.papel)}</p>${p.refs && p.refs.length ? `<p class="meta">${refsGerais(p.refs, 5)}</p>` : ""}${fonteExtra(p.fonte_extra)}</article>`).join("")}</div></section>
+  <section class="block" aria-labelledby="pn-versos"><h2 id="pn-versos">Versículos-chave</h2>${s.versiculos_chave.length ? `<ul class="pn-vk">${s.versiculos_chave.map(r => `<li data-vk="${esc(r)}">${pnLinkRef(r)} <span class="pn-vt"></span></li>`).join("")}</ul>` : `<p>Nenhum versículo bíblico para este período.</p>`}</section>
+  <section class="block" aria-labelledby="pn-ler" id="pn-ler-sec"><h2 id="pn-ler">Leitura em ordem cronológica</h2>
+    ${st ? `${pnBarra(pnLidosCaps(its), st, "Progresso neste estágio")}<ol class="pn-plano">${its.map((o, j) => `<li><input type="checkbox" id="pnl-${j}" data-pnl="${esc(o.i.ref)}"${PN_LIDOS.has(o.i.ref) ? " checked" : ""}><label for="pnl-${j}">${esc(pnNome(o.x))}</label> <a href="${linkLivro(o.x.l, o.x.a)}">Ler<span class="sr"> ${esc(pnNome(o.x))}</span></a> <small>(${pnCaps(o.x)} cap.)</small>${o.i.nota ? `<br><small>${esc(o.i.nota)}</small>` : ""}</li>`).join("")}</ol>` : `<p style="max-width:75ch">${esc(s.nota_leitura || "Não há capítulos bíblicos para este período.")}</p>`}
+    ${seg ? `<p><a class="btn" href="#panorama-${seg.id}-ler">Próximo estágio: ${esc(seg.titulo)}</a></p>` : ""}</section>
+  ${cc.length ? `<section class="block" aria-labelledby="pn-cc"><h2 id="pn-cc">Capítulos mais importantes deste período</h2><ul class="pn-capl">${cc.map(c => `<li>${pnLinkRef(c.ref)}: <b>${esc(c.tema)}</b><br><small>${esc(c.por_que)}</small></li>`).join("")}</ul></section>` : ""}
+  <section class="block" aria-labelledby="pn-licoes"><h2 id="pn-licoes">O que este período ensina</h2><ol class="licoes">${s.licoes.map(l => `<li>${esc(typeof l === "string" ? l : l.texto)}</li>`).join("")}</ol></section>
+  ${s.leituras && s.leituras.length ? `<section class="block" aria-labelledby="pn-leituras"><h2 id="pn-leituras">Como as tradições leem este período</h2><p style="color:var(--muted);max-width:75ch">As leituras principais, lado a lado, sem tomar partido.</p><div class="festas">${s.leituras.map(l => `<article class="card"><h3>${esc(l.nome)}</h3><p>${esc(l.resumo)}</p></article>`).join("")}</div></section>` : ""}
+  ${fonteExtra(s.fonte_extra)}
+  ${nav("fim da página")}`;
+}
+async function montarPanoramaEstagio(){
+  document.querySelectorAll("[data-pnl]").forEach(cb => cb.addEventListener("change", () => {
+    cb.checked ? PN_LIDOS.add(cb.dataset.pnl) : PN_LIDOS.delete(cb.dataset.pnl); pnSalvar();
+    const cbs = [...document.querySelectorAll("[data-pnl]")], tot = cbs.reduce((n, c) => n + pnCaps(pnRef(c.dataset.pnl)), 0), lid = cbs.filter(c => c.checked).reduce((n, c) => n + pnCaps(pnRef(c.dataset.pnl)), 0);
+    const pb = $("#pn-ler-sec .pn-prog"); if (pb) pb.outerHTML = pnBarra(lid, tot, "Progresso neste estágio");
+  }));
+  for (const li of document.querySelectorAll("[data-vk]")){
+    const x = refCurta(li.dataset.vk); if (!x || !x.p.c || !x.p.v) continue;
+    try { const t = await carregarTexto(x.l.slug), v = (t.c[x.p.c - 1] || []).slice(x.p.v - 1, x.p.f).join(" "); if (v) li.querySelector(".pn-vt").textContent = "“" + v + "”"; } catch {}
+  }
+}
+
 function render(){
   pararFala(); document.querySelectorAll("dialog[open]").forEach(d => d.close());
   const r = rotaAtual();
-  if (/^(mapas(-.+)?|rota-.+|reis(-.+)?|calendario|festa-.+|costumes|medidas|objetos(-.+)?|estudos|anjos(-.+)?|animais(-.+)?|tabernaculo(-.+)?|nova-jerusalem(-.+)?|paulo(-.+)?|leis(-.+)?|strong(-.+)?)$/.test(r)){ renderContexto(r); return; }
+  if (/^(mapas(-.+)?|rota-.+|reis(-.+)?|calendario|festa-.+|costumes|medidas|objetos(-.+)?|estudos|anjos(-.+)?|animais(-.+)?|tabernaculo(-.+)?|nova-jerusalem(-.+)?|paulo(-.+)?|leis(-.+)?|strong(-.+)?|panorama(-.+)?)$/.test(r)){ renderContexto(r); return; }
   if (/^(inicio|livros|biblia|conexoes-.+|livro-.+|extras-.+)$/.test(r) || !/^(cap-\d+(-v\d+)?|igrejas|simbolos|palavras|historia|raizes|quadros|quiz|sobre|apocalipse)$/.test(r)){ renderBiblia(r); return; }
   let m, html, ativo;
   if ((m = r.match(/^cap-(\d+)(?:-v(\d+))?$/)) && +m[1] >= 1 && +m[1] <= 22){ html = telaCapitulo(+m[1]); ativo = "cap"; }
