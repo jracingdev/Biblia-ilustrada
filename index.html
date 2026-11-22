@@ -167,6 +167,14 @@ main{ padding-block:1.5rem 4rem }
 .sym{ font:inherit; background:none; border:0; padding:0; color:inherit; text-decoration:underline dotted var(--lapis); text-decoration-thickness:2px; text-underline-offset:4px; cursor:help }
 .sym:hover{ color:var(--lapis) }
 .fonte-linha{ margin-top:1.4rem; font-size:.85rem; color:var(--muted); max-width:66ch }
+.arcos-ctrl.cap-linha{ flex-wrap:nowrap } .arcos-ctrl.cap-linha select{ flex:1 1 auto; min-width:0; min-height:44px; border-radius:999px; border:1.5px solid var(--line); background:var(--surface); color:var(--fg); padding:0 .8rem; font:inherit } .arcos-ctrl.cap-linha .btn{ flex:0 0 auto; padding:.4rem .9rem }
+.grp-det summary{ cursor:pointer; font-weight:700; padding:.6rem 0 } .grp-det .arcos-ctrl{ margin:.3rem 0 .6rem }
+.ir-cap{ margin-top:1.2rem } .ir-cap select{ min-height:44px; border-radius:999px; border:1.5px solid var(--line); background:var(--surface); color:var(--fg); padding:0 .8rem; font:inherit; max-width:100% }
+.cap-lig{ list-style:none; padding:0; margin:.4rem 0 0 } .cap-lig li{ display:flex; gap:.5rem; align-items:flex-start; padding:.45rem 0; border-bottom:1px solid var(--line) }
+.cap-lig .pv{ flex:0 0 auto; min-width:3.2rem; font-weight:700; padding-top:.3rem } .pv-refs{ display:flex; flex-wrap:wrap; gap:.35rem }
+.par-lado{ display:grid; grid-template-columns:repeat(auto-fit, minmax(min(14rem,100%),1fr)); gap:1rem } .par-lado p{ margin:.3rem 0 0 }
+.barra-cap{ display:none }
+@media (max-width:700px){ .barra-cap{ display:flex; justify-content:space-between; gap:.5rem; position:fixed; left:0; right:0; bottom:0; z-index:15; padding:.5rem 16px calc(.5rem + env(safe-area-inset-bottom,0px)); background:var(--surface); border-top:1px solid var(--line); box-shadow:0 -4px 12px rgb(0 0 0 / .08) } .barra-cap .btn{ min-height:44px; padding:.4rem .9rem } body:has(.barra-cap) footer.pe{ padding-bottom:5.5rem } }
 .pag{ display:flex; justify-content:space-between; gap:.6rem; margin-top:2rem; flex-wrap:wrap }
 
 aside.estudo{ display:grid; gap:1rem; position:sticky; top:calc(env(safe-area-inset-top,0px) + 76px) }
@@ -1048,6 +1056,7 @@ function telaLeitura(slug, c){
       <h2 class="sr">Texto de ${esc(l.nome)} ${c}</h2>
       <div class="texto" lang="pt-BR">${versos.map((t, i) => `<p id="v${i + 1}" class="${kr && i + 1 >= kr.v && i + 1 <= kr.f && kr.c === c ? "chave" : ""}"><sup><span class="sr">versículo </span>${i + 1}</sup>${esc(t)} <button type="button" class="atb" data-xref="${slug}:${c}:${i + 1}" aria-label="Ver referências cruzadas do versículo ${i + 1}">↔</button>${temOriginal(l) ? `<button type="button" class="atb" data-orig="${slug}:${c}:${i + 1}" aria-label="Ver o ${ehAT(l) ? "hebraico" : "grego"} do versículo ${i + 1}">α</button>` : ""}</p>`).join("")}</div>
       <p class="fonte-linha">Texto: Bíblia Livre (BLIVRE), CC BY 4.0 Brasil. As letras ao lado dos versículos abrem as referências cruzadas${temOriginal(l) ? `; o botão α mostra o ${ehAT(l) ? "hebraico" : "grego"} palavra por palavra, com Strong e gramática` : ""}.</p>
+      <nav class="barra-cap" aria-label="Atalho de capítulos">${c > 1 ? `<a class="btn" href="#livro-${slug}-${c - 1}" aria-label="Capítulo anterior">‹ ${c - 1}</a>` : `<span></span>`}<a class="btn" href="#conexoes-${slug}-${c}">Referências</a>${c < nc ? `<a class="btn" href="#livro-${slug}-${c + 1}" aria-label="Próximo capítulo">${c + 1} ›</a>` : `<span></span>`}</nav>
       <nav class="pag" aria-label="Navegação entre capítulos">
         ${c > 1 ? `<a class="btn" href="#livro-${slug}-${c - 1}">‹ ${esc(l.nome)} ${c - 1}</a>` : "<span></span>"}
         ${c < nc ? `<a class="btn primary" href="#livro-${slug}-${c + 1}">${esc(l.nome)} ${c + 1} ›</a>` : `<a class="btn primary" href="#conexoes-${slug}">Ver as conexões de ${esc(l.nome)}</a>`}
@@ -1055,8 +1064,9 @@ function telaLeitura(slug, c){
     </article>
     <aside class="estudo" aria-label="Estudo do livro">
       <div id="ctx-cap" class="ctx-cap"></div>
-      <section class="card"><h2>Conexões de ${esc(l.nome)}</h2><p style="color:var(--muted);font-size:.9rem">Os livros mais ligados a este, segundo as referências cruzadas.</p><div id="lv-top"><p class="carregando">Carregando…</p></div>
-        <a class="btn" href="#conexoes-${slug}" style="margin-top:.6rem">Ver em arcos</a></section>
+      <section class="card" aria-labelledby="t-cref"><h2 id="t-cref">Referências deste capítulo</h2><p style="color:var(--muted);font-size:.9rem">Cada versículo e os textos de outras partes da Bíblia ligados a ele. Toque numa referência para ler os dois lado a lado.</p><div id="cap-refs"><p class="carregando">Carregando…</p></div>
+        <a class="btn" href="#conexoes-${slug}-${c}" style="margin-top:.6rem">Ver ${esc(l.nome)} ${c} em arcos</a></section>
+      <section class="card"><h2>Livros mais ligados a ${esc(l.nome)}</h2><div id="lv-top"><p class="carregando">Carregando…</p></div></section>
       ${est ? `<section class="card" aria-labelledby="t-lic"><h2 id="t-lic">O que este capítulo ensina</h2><ul>${est.licoes.map(x => `<li>${refsLivro(l, x)}</li>`).join("")}</ul></section>
       <section class="card" aria-labelledby="t-ref"><h2 id="t-ref">Para refletir</h2><p>${esc(est.reflexao)}</p></section>
       <section class="card" aria-labelledby="t-qz"><h2 id="t-qz">Teste o que aprendeu</h2>${est.quiz.map((q, i) => quizHTML(q, `${slug}-c${c}q${i}`, l)).join("")}</section>
@@ -1139,6 +1149,8 @@ function telaBiblia(){
     <div class="legenda" aria-label="Cores dos grupos">${E.grupos.map(g => `<span><i style="background:var(--g-${g.id})"></i>${esc(g.nome)}</span>`).join("")}</div>
     <p style="font-size:.88rem;color:var(--muted);margin:0">Toque numa faixa de livro para destacar as ligações dele. Fonte: <a href="https://www.openbible.info/labs/cross-references/" target="_blank" rel="noopener">OpenBible.info</a> (CC BY), a partir do Treasury of Scripture Knowledge (domínio público).</p>
   </section>
+  <section class="card ir-cap" aria-labelledby="t-ircap"><h2 id="t-ircap">Ver as ligações de um capítulo</h2><p style="color:var(--muted);font-size:.9rem">O gráfico acima mostra tudo de uma vez. Para estudar, escolha um livro e um capítulo e veja versículo por versículo o que ele cita ou explica.</p>
+    <div class="arcos-ctrl"><label class="sr" for="ir-l">Livro</label><select id="ir-l">${E.livros.map(l => `<option value="${l.slug}">${esc(l.nome)}</option>`).join("")}</select><label class="sr" for="ir-c">Capítulo</label><select id="ir-c"></select><a class="btn primary" id="ir-go" href="#conexoes-genesis-1">Ver ligações</a></div></section>
   <section class="block" aria-labelledby="t-pares"><h2 id="t-pares">Os livros mais ligados entre si</h2>
     <div class="tbl"><table><caption class="sr">Pares de livros com mais referências cruzadas</caption><thead><tr><th>Livro</th><th>Livro</th><th>Ligações</th></tr></thead><tbody>${paresTop(25).map(([a, b, n]) => `<tr><td><a href="#conexoes-${E.livros[a].slug}">${esc(E.livros[a].nome)}</a></td><td><a href="#conexoes-${E.livros[b].slug}">${esc(E.livros[b].nome)}</a></td><td>${n.toLocaleString("pt-BR")}</td></tr>`).join("")}</tbody></table></div>
   </section>`;
@@ -1186,6 +1198,9 @@ function selecionarMega(i){
 }
 function montarMega(){
   desenharMega();
+  const il = $("#ir-l"), ic = $("#ir-c"), ig = $("#ir-go");
+  if (il){ const enche = () => { const l = livroPorSlug(il.value); ic.innerHTML = l.versos.map((_, i) => `<option value="${i + 1}">Capítulo ${i + 1}</option>`).join(""); ig.href = `#conexoes-${l.slug}-1`; };
+    il.addEventListener("change", enche); ic.addEventListener("change", () => ig.href = `#conexoes-${il.value}-${ic.value}`); enche(); }
   document.querySelectorAll("[data-mf]").forEach(b => b.addEventListener("click", () => {
     MEGA.filtro = b.dataset.mf; document.querySelectorAll("[data-mf]").forEach(x => x.setAttribute("aria-pressed", x === b)); desenharMega();
   }));
@@ -1199,56 +1214,108 @@ function montarMega(){
   if (MEGA.sel != null) selecionarMega(MEGA.sel);
 }
 
-/* ---------- Livro-tema: um livro e suas conexões ---------- */
-const FOCO = { alvo:null };
-function telaConexoes(slug){
-  const l = livroPorSlug(slug), F = B.focos.get(slug), M = B.matriz.matriz[l.i];
+const ABR = "Gn Êx Lv Nm Dt Js Jz Rt 1Sm 2Sm 1Rs 2Rs 1Cr 2Cr Ed Ne Et Jó Sl Pv Ec Ct Is Jr Lm Ez Dn Os Jl Am Ob Jn Mq Na Hc Sf Ag Zc Ml Mt Mc Lc Jo At Rm 1Co 2Co Gl Ef Fp Cl 1Ts 2Ts 1Tm 2Tm Tt Fm Hb Tg 1Pe 2Pe 1Jo 2Jo 3Jo Jd Ap".split(" "), abr = t => ABR[t] || B.estr.livros[t].abrev;
+async function refsDoCapitulo(slug, c){
+  const box = $("#cap-refs"); if (!box) return; let V; try { V = await carregarVersos(slug); } catch { box.innerHTML = ""; return; }
+  const l = livroPorSlug(slug), L = B.estr.livros, nv = l.versos[c - 1], lis = [];
+  for (let v = 1; v <= nv; v++){
+    const refs = V[`${c}.${v}`] || []; if (!refs.length) continue;
+    lis.push(`<li><a class="pv" href="#v${v}" data-irv="${v}">v. ${v}</a><span class="pv-refs">${refs.slice(0, 6).map(([t, tc, tv]) => `<button type="button" class="pill" data-par="${slug}:${c}:${v}:${t}:${tc}:${tv}"><i style="background:var(--g-${L[t].grupo})"></i>${esc(abr(t))} ${tc}:${tv}</button>`).join("")}${refs.length > 6 ? `<button type="button" class="pill" data-xref="${slug}:${c}:${v}" aria-label="Mais ${refs.length - 6} referências do versículo ${v}">+${refs.length - 6}</button>` : ""}</span></li>`);
+  }
+  box.innerHTML = lis.length ? `<ol class="cap-lig">${lis.join("")}</ol>` : `<p>Nenhuma referência cruzada neste capítulo.</p>`;
+}
+document.addEventListener("click", e => { const a = e.target.closest("[data-irv]"); if (!a) return; e.preventDefault(); const p = document.getElementById("v" + a.dataset.irv); if (p){ p.scrollIntoView({ block:"center" }); p.classList.add("alvo"); setTimeout(() => p.classList.remove("alvo"), 2500); } });
+/* ---------- Livro-tema: um livro e suas conexões (filtros por capítulo e grupo, como no Apocalipse) ---------- */
+const FOCO = { alvo:null, slug:null, cap:0, off:new Set() };
+async function carregarVersos(slug){ if (!B.versos) B.versos = new Map(); if (!B.versos.has(slug)) B.versos.set(slug, await getJSON(`data/conexoes/versos/${slug}.json`)); return B.versos.get(slug); }
+const grupoOn = t => !FOCO.off.has(B.estr.livros[t].grupo);
+function telaConexoes(slug, cap){
+  const l = livroPorSlug(slug), F = B.focos.get(slug), nc = l.versos.length;
   const rank = Object.entries(F.alvos).map(([t, a]) => [+t, a.n]).sort((a, b) => b[1] - a[1]);
-  const max = rank[0]?.[1] || 1, total = rank.reduce((s, x) => s + x[1], 0);
+  const total = rank.reduce((s, x) => s + x[1], 0);
   return `
-  <header class="cap-h"><span class="eyebrow">Livro-tema</span><h1>${esc(l.nome)} e o resto da Bíblia</h1></header>
-  <div class="cap-nav">${seletorLivros(slug)}<span class="sp"></span><a class="btn" href="${linkLivro(l)}">Ler ${esc(l.nome)}</a><a class="btn" href="#biblia">Bíblia inteira</a></div>
-  <p style="color:var(--muted);max-width:75ch">${esc(l.nome)} tem <b>${total.toLocaleString("pt-BR")}</b> ligações com <b>${rank.length}</b> outros livros. Os arcos saem dos capítulos de ${esc(l.nome)} (em destaque na linha) e chegam aos capítulos ligados. A cor é a do livro de chegada.</p>
+  <header class="cap-h"><span class="eyebrow">Conexões em arcos</span><h1>${esc(l.nome)} e o resto da Bíblia</h1></header>
+  <div class="cap-nav">${seletorLivros(slug)}<span class="sp"></span><a class="btn" href="${linkLivro(l, cap || undefined)}">Ler ${esc(l.nome)}${cap ? " " + cap : ""}</a><a class="btn" href="#biblia">Bíblia inteira</a></div>
+  <p style="color:var(--muted);max-width:75ch">${esc(l.nome)} tem <b>${total.toLocaleString("pt-BR")}</b> ligações com <b>${rank.length}</b> outros livros. Escolha um capítulo para ver só as ligações dele, e ligue ou desligue os grupos de livros. Toque numa ligação para ler os dois textos lado a lado.</p>
   <section class="arcos mega" aria-labelledby="t-foco">
     <h2 id="t-foco" class="sr">Arcos de ${esc(l.nome)}</h2>
-    <div class="mega-box"><canvas id="foco" role="img" aria-label="Arcos ligando ${esc(l.nome)} aos ${rank.length} livros relacionados. A lista abaixo traz os mesmos dados."></canvas><div class="tip" id="foco-tip" hidden></div></div>
-    <div class="legenda">${B.estr.grupos.map(g => `<span><i style="background:var(--g-${g.id})"></i>${esc(g.nome)}</span>`).join("")}</div>
+    <div class="arcos-ctrl cap-linha"><label class="lbl" for="sel-cap-arco">Capítulo</label>
+      <button type="button" class="btn" id="cap-ant" aria-label="Capítulo anterior"${cap > 1 ? "" : " disabled"}>‹</button>
+      <select id="sel-cap-arco"><option value="0"${cap ? "" : " selected"}>Todos os ${nc} capítulos</option>${l.versos.map((_, i) => `<option value="${i + 1}"${cap === i + 1 ? " selected" : ""}>${esc(l.nome)} ${i + 1}</option>`).join("")}</select>
+      <button type="button" class="btn" id="cap-seg" aria-label="Próximo capítulo"${cap < nc ? "" : " disabled"}>›</button></div>
+    <details class="grp-det"${innerWidth > 700 ? " open" : ""}><summary>Filtrar por grupo de livros${FOCO.off.size ? ` (${B.estr.grupos.length - FOCO.off.size} de ${B.estr.grupos.length})` : ""}</summary><div class="arcos-ctrl" role="group" aria-label="Grupos de livros">${B.estr.grupos.map(g => `<button type="button" class="pill" data-fg="${g.id}" aria-pressed="${!FOCO.off.has(g.id)}"><i style="background:var(--g-${g.id})"></i>${esc(g.nome)}</button>`).join("")}</div></details>
+    <div class="mega-box"><canvas id="foco" role="img" aria-label="Arcos ligando ${esc(l.nome)} aos livros relacionados. As listas abaixo trazem os mesmos dados."></canvas><div class="tip" id="foco-tip" hidden></div></div>
+    <p class="sr" id="foco-status" role="status" aria-live="polite"></p>
   </section>
-  <div class="ig-grid" style="margin-top:1.2rem">
+  <div id="foco-corpo"></div>`;
+}
+function corpoTodos(slug){
+  const l = livroPorSlug(slug), F = B.focos.get(slug);
+  const rank = Object.entries(F.alvos).map(([t, a]) => [+t, a.n]).filter(([t]) => grupoOn(t)).sort((a, b) => b[1] - a[1]), max = rank[0]?.[1] || 1;
+  return `<div class="ig-grid" style="margin-top:1.2rem">
     <section aria-labelledby="t-rank"><h2 id="t-rank">Livros mais ligados a ${esc(l.nome)}</h2>
-      <p style="color:var(--muted);font-size:.9rem">Escolha um livro para ver os versículos que se ligam.</p>
-      <ul class="rank">${rank.map(([t, n]) => { const lt = B.estr.livros[t]; return `<li><button type="button" class="rk" data-alvo="${t}" aria-pressed="false"><span class="rk-n">${esc(lt.nome)}</span><span class="rk-bar" aria-hidden="true"><i style="width:${(n / max * 100).toFixed(1)}%;background:var(--g-${lt.grupo})"></i></span><span class="rk-v">${n}</span></button></li>`; }).join("")}</ul>
+      <p style="color:var(--muted);font-size:.9rem">Escolha um livro para ver os versículos que se ligam, ou escolha um capítulo acima.</p>
+      <ul class="rank">${rank.map(([t, n]) => { const lt = B.estr.livros[t]; return `<li><button type="button" class="rk" data-alvo="${t}" aria-pressed="${FOCO.alvo === t}"><span class="rk-n">${esc(lt.nome)}</span><span class="rk-bar" aria-hidden="true"><i style="width:${(n / max * 100).toFixed(1)}%;background:var(--g-${lt.grupo})"></i></span><span class="rk-v">${n}</span></button></li>`; }).join("") || "<li>Nenhum livro nos grupos escolhidos.</li>"}</ul>
     </section>
     <section aria-labelledby="t-pares-v" class="card" id="pares-box"><h2 id="t-pares-v">Versículos ligados</h2><p style="color:var(--muted)">Escolha um livro na lista para ver os pares de versículos mais fortes.</p></section>
   </div>`;
 }
+async function corpoCapitulo(slug, c){
+  const l = livroPorSlug(slug), V = await carregarVersos(slug), nv = l.versos[c - 1], L = B.estr.livros;
+  let n = 0;
+  const lis = [];
+  for (let v = 1; v <= nv; v++){
+    const refs = (V[`${c}.${v}`] || []).filter(([t]) => grupoOn(t)); if (!refs.length) continue; n += refs.length;
+    lis.push(`<li><a class="pv" href="${linkLivro(l, c, v)}">v. ${v}</a><span class="pv-refs">${refs.slice(0, 6).map(([t, tc, tv]) => `<button type="button" class="pill" data-par="${slug}:${c}:${v}:${t}:${tc}:${tv}"><i style="background:var(--g-${L[t].grupo})"></i>${esc(abr(t))} ${tc}:${tv}</button>`).join("")}${refs.length > 6 ? `<button type="button" class="pill" data-xref="${slug}:${c}:${v}" aria-label="Mais ${refs.length - 6} referências do versículo ${v}">+${refs.length - 6}</button>` : ""}</span></li>`);
+  }
+  return `<section class="block" aria-labelledby="t-capl"><h2 id="t-capl">Ligações de ${esc(l.nome)} ${c}</h2>
+    <p style="color:var(--muted);font-size:.9rem">${n ? `${n} ligações em ${lis.length} versículos. Toque numa referência para ler os dois textos lado a lado.` : "Nenhuma ligação nos grupos escolhidos."}</p>
+    <ol class="cap-lig">${lis.join("")}</ol>
+    <p class="fonte-linha">Fonte: <a href="https://www.openbible.info/labs/cross-references/" target="_blank" rel="noopener">OpenBible.info</a> (CC BY), a partir do Treasury of Scripture Knowledge (domínio público).</p></section>`;
+}
+async function abrirPar(s, c, v, t, tc, tv){
+  const l = livroPorSlug(s), lt = B.estr.livros[t], [T1, T2] = await Promise.all([carregarTexto(s), carregarTexto(lt.slug)]);
+  $("#at-t").textContent = `${refTxt(l, c, v)} ↔ ${refTxt(lt, tc, tv)}`;
+  $("#at-body").innerHTML = `<div class="par-lado"><div><a href="${linkLivro(l, c, v)}"><b>${esc(refTxt(l, c, v))}</b></a><p>${esc(T1.c[c - 1]?.[v - 1] || "")}</p></div><div><a href="${linkLivro(lt, tc, tv)}"><b>${esc(refTxt(lt, tc, tv))}</b></a><p>${esc(T2.c[tc - 1]?.[tv - 1] || "")}</p></div></div>`;
+  const dlg = $("#at-dlg"), eb = dlg.querySelector(".eyebrow"), all = $("#at-all"), antes = [eb.textContent, all.getAttribute("href"), all.textContent];
+  eb.textContent = "Os dois textos lado a lado"; all.href = `#conexoes-${lt.slug}-${tc}`; all.textContent = `Conexões de ${lt.nome} ${tc}`;
+  dlg.addEventListener("close", () => { eb.textContent = antes[0]; all.setAttribute("href", antes[1]); all.textContent = antes[2]; }, { once:true });
+  dlg.showModal();
+}
+document.addEventListener("click", e => { const b = e.target.closest("[data-par]"); if (!b) return; const p = b.dataset.par.split(":"); abrirPar(p[0], +p[1], +p[2], +p[3], +p[4], +p[5]); });
 function desenharFoco(slug){
   const cv = $("#foco"); if (!cv) return;
   const l = livroPorSlug(slug), F = B.focos.get(slug), d = F.arcos;
   const { ctx, W, H } = prepararCanvas(cv), pad = 8, base = H - 34, S = escalaBiblia(W, pad);
   ctx.clearRect(0, 0, W, H);
   const maxR = (W - pad * 2) / 2, ky = Math.min(1, (base - 6) / maxR);
-  let maxw = 1; for (let k = 2; k < d.length; k += 3) maxw = Math.max(maxw, d[k]);
-  const ordem = [];
-  for (let k = 0; k < d.length; k += 3) ordem.push([capGlobal(l.i, d[k]), d[k + 1], d[k + 2]]);
+  const ordem = []; let maxw = 1;
+  for (let k = 0; k < d.length; k += 3){
+    if (FOCO.cap && d[k] !== FOCO.cap) continue;
+    const lt = livroDoCapCache(d[k + 1]); if (!grupoOn(lt)) continue;
+    ordem.push([capGlobal(l.i, d[k]), d[k + 1], d[k + 2], lt]); maxw = Math.max(maxw, d[k + 2]);
+  }
   ordem.sort((a, b) => a[2] - b[2]);
-  for (const [a, b, w] of ordem){
-    const lt = livroDoCapCache(b), on = FOCO.alvo == null || FOCO.alvo === lt;
+  const poucos = ordem.length < 400;
+  for (const [a, b, w, lt] of ordem){
+    const on = FOCO.alvo == null || FOCO.alvo === lt;
     ctx.strokeStyle = corGrupo(B.estr.livros[lt].grupo);
-    ctx.globalAlpha = on ? Math.min(.85, .18 + w / maxw) : .04;
-    ctx.lineWidth = on && FOCO.alvo != null ? 1.6 : .5 + 2 * w / maxw;
+    ctx.globalAlpha = on ? Math.min(.9, (poucos ? .45 : .18) + w / maxw) : .04;
+    ctx.lineWidth = poucos ? 1.2 + 2 * w / maxw : on && FOCO.alvo != null ? 1.6 : .5 + 2 * w / maxw;
     ctx.beginPath(); arco(ctx, S.cx[a], S.cx[b], base, ky); ctx.stroke();
   }
   ctx.globalAlpha = 1;
   desenharBase(ctx, W, H, S, base, l.i);
+  if (FOCO.cap){ const x = S.cx[capGlobal(l.i, FOCO.cap)]; ctx.fillStyle = getComputedStyle(document.body).color; ctx.beginPath(); ctx.moveTo(x, base - 1); ctx.lineTo(x - 6, base - 10); ctx.lineTo(x + 6, base - 10); ctx.fill(); }
   if (FOCO.alvo != null){ ctx.fillStyle = corGrupo(B.estr.livros[FOCO.alvo].grupo); ctx.fillRect(S.ini[FOCO.alvo], base + 2, Math.max(2, S.fim[FOCO.alvo] - S.ini[FOCO.alvo]), 12); }
   FOCO.S = S; FOCO.base = base;
+  const st = $("#foco-status"); if (st) st.textContent = `${ordem.length} arcos${FOCO.cap ? " no capítulo " + FOCO.cap : ""}`;
 }
 async function mostrarPares(slug, t){
   const l = livroPorSlug(slug), lt = B.estr.livros[t], F = B.focos.get(slug), a = F.alvos[t];
   FOCO.alvo = t; desenharFoco(slug);
   document.querySelectorAll(".rk").forEach(b => b.setAttribute("aria-pressed", +b.dataset.alvo === t));
-  const box = $("#pares-box"); box.innerHTML = `<h2 id="t-pares-v">${esc(l.nome)} ↔ ${esc(lt.nome)}</h2><p class="carregando">Carregando versículos…</p>`;
+  const box = $("#pares-box"); if (!box) return; box.innerHTML = `<h2 id="t-pares-v">${esc(l.nome)} ↔ ${esc(lt.nome)}</h2><p class="carregando">Carregando versículos…</p>`;
   const [T1, T2] = await Promise.all([carregarTexto(slug), carregarTexto(lt.slug)]);
   box.innerHTML = `<h2 id="t-pares-v">${esc(l.nome)} ↔ ${esc(lt.nome)}</h2>
     <p style="color:var(--muted);font-size:.9rem">${a.n} ligações. Mostrando as ${Math.min(a.top.length, 40)} mais fortes.</p>
@@ -1258,18 +1325,36 @@ async function mostrarPares(slug, t){
   anunciar(`${a.n} ligações entre ${l.nome} e ${lt.nome}`);
   if (innerWidth < 900) box.scrollIntoView({ block:"start", behavior: prefs.mov === "reduzido" ? "auto" : "smooth" });
 }
-function montarFoco(slug){
-  FOCO.alvo = null; desenharFoco(slug);
-  ligarSeletor(s => "conexoes-" + s);
+async function atualizarCorpo(slug){
+  const box = $("#foco-corpo"); if (!box) return;
+  box.innerHTML = FOCO.cap ? await corpoCapitulo(slug, FOCO.cap) : corpoTodos(slug);
   document.querySelectorAll(".rk").forEach(b => b.addEventListener("click", () => mostrarPares(slug, +b.dataset.alvo)));
+  if (!FOCO.cap && FOCO.alvo != null && grupoOn(FOCO.alvo)) mostrarPares(slug, FOCO.alvo);
+}
+function montarFoco(slug, cap){
+  const l = livroPorSlug(slug), nc = l.versos.length;
+  if (FOCO.slug !== slug) FOCO.alvo = null;
+  FOCO.slug = slug; FOCO.cap = cap || 0; desenharFoco(slug); atualizarCorpo(slug);
+  ligarSeletor(s => "conexoes-" + s);
+  const irCap = c => { location.hash = c ? `conexoes-${slug}-${c}` : `conexoes-${slug}`; };
+  $("#sel-cap-arco").addEventListener("change", e => irCap(+e.target.value));
+  $("#cap-ant").addEventListener("click", () => irCap(Math.max(1, FOCO.cap - 1)));
+  $("#cap-seg").addEventListener("click", () => irCap(Math.min(nc, FOCO.cap + 1)));
+  document.querySelectorAll("[data-fg]").forEach(b => b.addEventListener("click", () => {
+    const g = b.dataset.fg; FOCO.off.has(g) ? FOCO.off.delete(g) : FOCO.off.add(g);
+    if (FOCO.off.size === B.estr.grupos.length) FOCO.off.clear();
+    document.querySelectorAll("[data-fg]").forEach(x => x.setAttribute("aria-pressed", !FOCO.off.has(x.dataset.fg)));
+    desenharFoco(slug); atualizarCorpo(slug);
+  }));
   const cv = $("#foco"), tip = $("#foco-tip");
   const em = x => { const S = FOCO.S; for (let i = 0; i < 66; i++) if (x >= S.ini[i] - 1 && x <= S.fim[i] + 1) return i; return null; };
-  cv.addEventListener("click", e => { const r = cv.getBoundingClientRect(), i = em(e.clientX - r.left); if (i == null || e.clientY - r.top < FOCO.base - 30) return; const l = livroPorSlug(slug); if (i === l.i) return; if (B.focos.get(slug).alvos[i]) mostrarPares(slug, i); });
+  cv.addEventListener("click", e => { const r = cv.getBoundingClientRect(), i = em(e.clientX - r.left); if (i == null || e.clientY - r.top < FOCO.base - 30) return; if (i === l.i || FOCO.cap) return; if (B.focos.get(slug).alvos[i]) mostrarPares(slug, i); });
   cv.addEventListener("mousemove", e => { const r = cv.getBoundingClientRect(), i = em(e.clientX - r.left); if (i == null){ tip.hidden = true; return; } const lt = B.estr.livros[i], n = B.focos.get(slug).alvos[i]?.n || 0; tip.hidden = false; tip.textContent = lt.slug === slug ? lt.nome + " (livro-tema)" : `${lt.nome}: ${n} ligações`; tip.style.left = Math.min(e.clientX - r.left + 12, r.width - 190) + "px"; tip.style.top = Math.max(0, e.clientY - r.top - 34) + "px"; });
   cv.addEventListener("mouseleave", () => tip.hidden = true);
 }
-let redesenho; window.addEventListener("resize", () => { clearTimeout(redesenho); redesenho = setTimeout(() => { if ($("#mega")) desenharMega(); const m = rotaAtual().match(/^conexoes-(.+)$/); if (m && $("#foco")) desenharFoco(m[1]); }, 150); });
-new MutationObserver(() => { if ($("#mega")) desenharMega(); const m = rotaAtual().match(/^conexoes-(.+)$/); if (m && $("#foco")) desenharFoco(m[1]); }).observe(document.documentElement, { attributes:true, attributeFilter:["data-tema", "data-contraste"] });
+
+let redesenho; window.addEventListener("resize", () => { clearTimeout(redesenho); redesenho = setTimeout(() => { if ($("#mega")) desenharMega(); if ($("#foco") && FOCO.slug) desenharFoco(FOCO.slug); }, 150); });
+new MutationObserver(() => { if ($("#mega")) desenharMega(); if ($("#foco") && FOCO.slug) desenharFoco(FOCO.slug); }).observe(document.documentElement, { attributes:true, attributeFilter:["data-tema", "data-contraste"] });
 
 /* ---------- Rotas assíncronas da Bíblia inteira ---------- */
 async function renderBiblia(r){
@@ -1283,7 +1368,7 @@ async function renderBiblia(r){
       const q = $("#q-livro"), itens = [...document.querySelectorAll(".lv")];
       q.addEventListener("input", () => { const t = q.value.trim().toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, ""); let k = 0; itens.forEach(li => { const ok = !t || li.dataset.busca.normalize("NFD").replace(/[̀-ͯ]/g, "").includes(t); li.hidden = !ok; if (ok) k++; }); document.querySelectorAll(".lv-grupo").forEach(s => s.hidden = ![...s.querySelectorAll(".lv")].some(li => !li.hidden)); $("#livro-count").textContent = k + " livros"; }); }; }
     else if (r === "biblia"){ if (!B.caps) B.caps = await getJSON("data/conexoes/capitulos.json"); html = telaBiblia(); ativo = "biblia"; pos = montarMega; }
-    else if ((m = r.match(/^conexoes-(.+)$/)) && livroPorSlug(m[1])){ await carregarFoco(m[1]); html = telaConexoes(m[1]); ativo = "biblia"; pos = () => montarFoco(m[1]); }
+    else if ((m = r.match(/^conexoes-(.+?)(?:-(\d+))?$/)) && livroPorSlug(m[1])){ const cp = m[2] && +m[2] <= livroPorSlug(m[1]).versos.length ? +m[2] : 0; await carregarFoco(m[1]); html = telaConexoes(m[1], cp); ativo = "biblia"; pos = () => montarFoco(m[1], cp); }
     else if ((m = r.match(/^extras-(.+)-(quadros|simbolos|palavras|historia)$/)) && livroPorSlug(m[1]) && m[1] !== "apocalipse"){
       const [, X] = await Promise.all([carregarTexto(m[1]), carregarExtras(m[1]), carregarEstudo(m[1])]);
       if (!X){ location.replace("#livro-" + m[1]); return; }
@@ -1300,6 +1385,7 @@ async function renderBiblia(r){
         $("#sel-cap-l").addEventListener("change", e => location.hash = `livro-${slug}-${e.target.value}`);
         if (m[3]){ const p = document.getElementById("v" + m[3]); if (p){ p.classList.add("alvo"); p.scrollIntoView({ block:"center" }); setTimeout(() => p.classList.remove("alvo"), 2500); } }
         const F = await carregarFoco(slug), M = Object.entries(F.alvos).map(([t, a]) => [+t, a.n]).sort((a, b) => b[1] - a[1]).slice(0, 6);
+        refsDoCapitulo(slug, c);
         const box = $("#lv-top"); if (box) box.innerHTML = `<ol class="mini-rank">${M.map(([t, n]) => `<li><a href="#conexoes-${slug}">${esc(B.estr.livros[t].nome)}</a> <small>${n} ligações</small></li>`).join("")}</ol>`;
       };
       document.title = `${livroPorSlug(slug).nome} ${c} · Bíblia de Estudo Hakham`;
@@ -2013,6 +2099,7 @@ function telaCapitulo(n, alvo){
         ${versos.map(v => `<p id="v${v.n}" data-t="${esc(cap.versiculos[v.n - 1].texto)}" class="${kr && v.n >= kr.v && v.n <= kr.f ? "chave" : ""}"><sup><span class="sr">versículo </span>${v.n}</sup>${v.html}${atDoVerso(n, v.n).length ? `<button type="button" class="atb" data-at="${n}:${v.n}" aria-label="Ver raízes no Antigo Testamento do versículo ${v.n}">AT</button>` : ""}<button type="button" class="atb" data-orig="apocalipse:${n}:${v.n}" aria-label="Ver o grego do versículo ${v.n}" lang="grc">α</button></p>`).join("")}
       </div>
       <p class="fonte-linha">Texto: Bíblia Livre (BLIVRE), CC BY 4.0 Brasil. Palavras sublinhadas são símbolos: toque para ver o significado. A borda dourada marca o versículo-chave.</p>
+      <nav class="barra-cap" aria-label="Atalho de capítulos">${n > 1 ? `<a class="btn" href="#cap-${n - 1}" aria-label="Capítulo anterior">‹ ${n - 1}</a>` : `<span></span>`}<a class="btn" href="#conexoes-apocalipse-${n}">Referências</a>${n < 22 ? `<a class="btn" href="#cap-${n + 1}" aria-label="Próximo capítulo">${n + 1} ›</a>` : `<span></span>`}</nav>
       <nav class="pag" aria-label="Navegação entre capítulos">
         ${n > 1 ? `<a class="btn" href="#cap-${n - 1}">‹ ${esc(capEst(n - 1).titulo)}</a>` : "<span></span>"}
         ${n < 22 ? `<a class="btn primary" href="#cap-${n + 1}">${esc(capEst(n + 1).titulo)} ›</a>` : `<a class="btn primary" href="#quiz">Fazer o quiz completo</a>`}
