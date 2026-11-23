@@ -1,0 +1,37 @@
+name: Copiar o contador de acessos
+
+# A cada 6 horas, guarda no próprio site uma cópia dos números do contador
+# (serviço Abacus). Assim o rodapé sempre tem números atualizados, mesmo
+# quando o navegador do visitante não alcança o serviço.
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contador
+  cancel-in-progress: false
+
+jobs:
+  copiar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Ler os números
+        run: |
+          API=https://abacus.jasoncameron.dev/get/biblia-hakham-jracingdev
+          pega() { for i in 1 2 3 4; do v=$(curl -sf -m 20 "$API/$1" | python3 -c 'import sys,json; print(json.load(sys.stdin)["value"])') && { echo "$v"; return; }; sleep 15; done; echo ""; }
+          V=$(pega visitantes); A=$(pega acessos)
+          echo "visitantes=$V acessos=$A"
+          python3 ferramentas/contador_copia.py "$V" "$A"
+      - name: Gravar se mudou
+        run: |
+          git diff --quiet -- data/site/contador.json && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/site/contador.json
+          git commit -m "Contador: cópia dos números do serviço"
+          git push
