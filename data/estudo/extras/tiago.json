@@ -7,8 +7,7 @@
    "ref": "1:22-25",
    "titulo": "O homem diante do espelho",
    "descricao": "Quem ouve a palavra e não pratica é como alguém que olha o próprio rosto num espelho e logo esquece como é.",
-   "alt": "Um homem se olha num espelho de bronze e se afasta distraído.",
-   "prompt": "A first-century man glancing briefly at his reflection in a polished bronze mirror hanging on a wall, already turning away distracted toward the door, a scroll left open on a table behind him, morning light"
+   "alt": "Um homem se olha num espelho de bronze e se afasta distraído."
   },
   {
    "id": "q02",
@@ -16,8 +15,7 @@
    "ref": "2:2-4",
    "titulo": "O rico e o pobre na assembleia",
    "descricao": "Tiago condena a acepção de pessoas: dar o lugar de honra ao rico de anéis de ouro e mandar o pobre ficar em pé.",
-   "alt": "Numa sinagoga, um homem rico é levado ao lugar de honra enquanto um pobre fica de pé no canto.",
-   "prompt": "Inside a first-century synagogue-like assembly, an usher bowing and leading a wealthy man with gold rings and fine robes to a prominent seat, while a poor man in shabby clothes is gestured to stand in a corner, others watching, shafts of light"
+   "alt": "Numa sinagoga, um homem rico é levado ao lugar de honra enquanto um pobre fica de pé no canto."
   },
   {
    "id": "q03",
@@ -25,8 +23,7 @@
    "ref": "3:3-5",
    "titulo": "Freio, leme e faísca",
    "descricao": "A língua é pequena como o freio do cavalo e o leme do navio, mas dirige o todo; uma pequena chama incendeia um grande bosque.",
-   "alt": "Um cavaleiro guia o cavalo pelo freio, ao fundo um navio no mar e uma fumaça numa floresta.",
-   "prompt": "A composition of three images in one landscape: a rider guiding a horse by its bridle in the foreground, a great sailing ship steered by a small rudder on the sea behind, and a thin column of smoke rising from a distant forest on a hillside, late afternoon light"
+   "alt": "Um cavaleiro guia o cavalo pelo freio, ao fundo um navio no mar e uma fumaça numa floresta."
   },
   {
    "id": "q04",
@@ -34,8 +31,7 @@
    "ref": "5:7-8",
    "titulo": "O lavrador espera a chuva",
    "descricao": "Como o lavrador que espera com paciência as chuvas para colher, os crentes devem ser pacientes até a vinda do Senhor.",
-   "alt": "Um agricultor olha para o céu nublado sobre seu campo semeado.",
-   "prompt": "A farmer in simple robes standing at the edge of his sown field in Judea, leaning on his staff and looking patiently at gathering rain clouds on the horizon, young green shoots in the soil"
+   "alt": "Um agricultor olha para o céu nublado sobre seu campo semeado."
   },
   {
    "id": "q05",
@@ -43,8 +39,7 @@
    "ref": "5:14-16",
    "titulo": "Orações e unção dos doentes",
    "descricao": "Quem estiver doente chame os anciãos da igreja, que orem sobre ele ungindo-o com azeite em nome do Senhor.",
-   "alt": "Anciãos oram e ungem com azeite um homem doente deitado numa esteira.",
-   "prompt": "A sick man lying on a mat in a simple home, a group of elders kneeling around him praying, one anointing his forehead with olive oil from a small flask, his family watching with hope, lamplight"
+   "alt": "Anciãos oram e ungem com azeite um homem doente deitado numa esteira."
   }
  ],
  "simbolos": [

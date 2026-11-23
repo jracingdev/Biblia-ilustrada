@@ -6,7 +6,7 @@ e ferramentas/quadros.py, e escreve:
   data/textos/blivre/apocalipse.json      texto por capítulo e versículo
   data/textos/blivre/at-apocalipse.json   trechos do AT citados nas conexões
   data/estudo/apocalipse-at.json          conexões com o Antigo Testamento
-  data/estudo/apocalipse-quadros.json     quadros figurativos e prompts de ilustração
+  data/estudo/apocalipse-quadros.json     quadros figurativos (prompts ficam fora do repositório)
 """
 import json, re
 from pathlib import Path
@@ -60,9 +60,9 @@ salvar("estudo/apocalipse-at.json", {"livro": "apocalipse",
        "descricao": "Alusões, citações e ecos do Antigo Testamento em Apocalipse, por versículo. Apocalipse não cita o AT com fórmulas; ele usa suas imagens.",
        "capitulos": [{"capitulo": c, "itens": [{"versos": vs, "refs": refs(rs), "nota": n} for vs, rs, n in it]} for c, it in R.items()]})
 salvar("estudo/apocalipse-quadros.json", {"livro": "apocalipse", "estilo": "Realismo pictórico cinematográfico, na tradição da arte sacra clássica.",
-       "prompt_estilo": ESTILO, "regras": REGRAS,
+       "regras": REGRAS,
        "quadros": [{"id": f"q{i:02d}", "capitulo": int(ref.split(":")[0]), "ref": ref, "titulo": t, "descricao": d,
-                    "at": refs(at), "prompt": ESTILO + p, "imagem": (f"img/quadros/q{i:02d}.webp" if (RAIZ / f"img/quadros/q{i:02d}.webp").exists() else None),
-                    "credito": (("Ilustração gerada por IA (FLUX.1 Krea, via Hugging Face) a partir do prompt abaixo" if i <= 9 else "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google) a partir do prompt abaixo") if (RAIZ / f"img/quadros/q{i:02d}.webp").exists() else None), "alt": d} for i, (ref, t, d, p, at) in enumerate(Q, 1)]})
+                    "at": refs(at), "imagem": (f"img/quadros/q{i:02d}.webp" if (RAIZ / f"img/quadros/q{i:02d}.webp").exists() else None),
+                    "credito": (("Ilustração gerada por IA (FLUX.1 Krea, via Hugging Face)" if i <= 9 else "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)") if (RAIZ / f"img/quadros/q{i:02d}.webp").exists() else None), "alt": d} for i, (ref, t, d, p, at) in enumerate(Q, 1)]})
 salvar("textos/blivre/at-apocalipse.json", {"versao": "blivre", "trechos": trechos}, compacto=True)
 print(f"{len(Q)} quadros, {sum(len(x) for x in R.values())} conexões, {len(trechos)} trechos do AT")

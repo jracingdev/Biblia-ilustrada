@@ -7,8 +7,7 @@
    "ref": "1:5",
    "titulo": "Tito em Creta",
    "descricao": "Paulo deixou Tito em Creta para pôr em ordem o que faltava e estabelecer presbíteros em cada cidade.",
-   "alt": "Tito conversa com anciãos numa cidade portuária de Creta.",
-   "prompt": "Titus, a Greek coworker of Paul in a traveling cloak, meeting with a group of respected elders in the square of a Cretan harbor town, whitewashed stone houses and mountains behind, bright Mediterranean light"
+   "alt": "Tito conversa com anciãos numa cidade portuária de Creta."
   },
   {
    "id": "q02",
@@ -16,8 +15,7 @@
    "ref": "2:11-14",
    "titulo": "A graça que se manifestou",
    "descricao": "A graça de Deus se manifestou e ensina a viver com sobriedade, enquanto se aguarda o aparecimento da glória de Cristo.",
-   "alt": "Pessoas de todas as idades olham para o horizonte iluminado pelo nascer do sol.",
-   "prompt": "Men and women of all ages, slaves and free, standing on a hill in Crete at dawn, looking toward a radiant sunrise over the sea, faces calm and hopeful, a gentle golden glow"
+   "alt": "Pessoas de todas as idades olham para o horizonte iluminado pelo nascer do sol."
   },
   {
    "id": "q03",
@@ -25,8 +23,7 @@
    "ref": "3:12-13",
    "titulo": "Inverno em Nicópolis",
    "descricao": "Paulo pede a Tito que vá encontrá-lo em Nicópolis, onde decidiu passar o inverno, e que ajude Zenas e Apolo em sua viagem.",
-   "alt": "Paulo, no porto, recebe viajantes enquanto se prepara para o inverno.",
-   "prompt": "The apostle Paul on a windswept quay at Nicopolis in late autumn, greeting travelers arriving by boat, Zenas the lawyer and Apollos with bags of provisions, grey sea and clouds, warm cloaks"
+   "alt": "Paulo, no porto, recebe viajantes enquanto se prepara para o inverno."
   }
  ],
  "simbolos": [

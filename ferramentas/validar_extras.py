@@ -7,8 +7,8 @@ Todas as referências "cap:vers" ou "cap:vers-vers" são do PRÓPRIO livro e tê
   "livro": "<slug>",
   "quadros": [   # cenas figurativas para ilustração realista (arte sacra). Ver quantidade no guia.
     {"id": "q01", "capitulo": 1, "ref": "1:1-5", "titulo": "...", "descricao": "1-2 frases em português",
-     "alt": "texto alternativo para leitor de tela, 1 frase",
-     "prompt": "English image prompt: scene only (o estilo é adicionado pelo site)"}
+     "alt": "texto alternativo para leitor de tela, 1 frase"}
+     # o prompt de imagem NÃO vai no repositório público: guardar à parte, fora do site
   ],
   "simbolos": [  # símbolos, imagens e figuras recorrentes do livro
     {"id": "kebab", "termo": "...", "ref": "1:1", "explicado": true|false, "significado": "1-3 frases"}
@@ -48,11 +48,11 @@ def validar(slug):
         k = q.get("id"); 
         if k in ids: E.append(f"id repetido {k}")
         ids.add(k)
-        for c in ("titulo", "descricao", "alt", "prompt"):
+        for c in ("titulo", "descricao", "alt"):
             if not nonempty(q.get(c)): E.append(f"quadro {k}: falta {c}")
         if not isinstance(q.get("capitulo"), int) or not 1 <= q["capitulo"] <= N: E.append(f"quadro {k}: capitulo")
         if not ok_ref(q.get("ref"), vs) or int(q["ref"].split(":")[0]) != q.get("capitulo"): E.append(f"quadro {k}: ref {q.get('ref')}")
-        if re.search(r"[áéíóúãõç]", q.get("prompt", "")): E.append(f"quadro {k}: prompt deve ser em inglês")
+        if "prompt" in q: E.append(f"quadro {k}: prompt não pode ficar no arquivo público")
     caps = [q.get("capitulo") for q in Q]
     if caps != sorted(caps): E.append("quadros fora de ordem")
     for s in d.get("simbolos", []):

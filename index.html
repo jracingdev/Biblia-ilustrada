@@ -995,8 +995,7 @@ function telaExtras(slug, aba){
     <div class="qd-grid">${X.quadros.map((q, i) => `
     <article class="qd" aria-labelledby="qt-${q.id}">
       <div class="cena" role="img" aria-label="Ilustração (em produção): ${esc(q.alt)}">${(q.img || q.imagem) ? `<img src="${esc(q.img || q.imagem)}" loading="lazy" alt="" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover">` : `<span class="tag-prod" aria-hidden="true">Em produção</span><div class="vitral">${vitral(corGrupo(l.grupo), 700 + l.i * 50 + i)}</div>`}</div>
-      <div class="qd-in"><span class="eyebrow">${i + 1} · ${R(q.ref)}</span><h3 id="qt-${q.id}">${esc(q.titulo)}</h3><p>${esc(q.descricao)}</p>
-        <details><summary>Prompt de geração</summary><p lang="en">${esc(q.prompt)}</p></details></div>
+      <div class="qd-in"><span class="eyebrow">${i + 1} · ${R(q.ref)}</span><h3 id="qt-${q.id}">${esc(q.titulo)}</h3><p>${esc(q.descricao)}</p></div>
     </article>`).join("")}</div>`;
   if (aba === "simbolos") return topo("Dicionário visual", `Símbolos de ${esc(l.nome)}`, "Alguns símbolos são explicados pelo próprio texto. Quando não são, mostramos a leitura mais comum e indicamos isso.") + `
     <div class="busca"><label class="sr" for="q-sim">Buscar símbolo</label><input id="q-sim" type="search" placeholder="Buscar símbolo…" autocomplete="off">
@@ -2272,7 +2271,7 @@ function telaQuadros(){
         <h3 id="qt-${q.id}">${esc(q.titulo)}</h3>
         <p>${esc(q.descricao)}</p>
         <div>${q.at.map(r => `<span class="at-ref">${esc(r)}</span>`).join("")}</div>
-        <details><summary>Prompt de geração</summary>${q.credito ? `<p><i>${esc(q.credito)}.</i></p>` : ""}<p lang="en">${esc(q.prompt)}</p></details>
+        ${q.credito ? `<p class="qd-cred"><small><i>${esc(q.credito)}.</i></small></p>` : ""}
       </div>
     </article>`; }).join("")}</div>`;
 }
