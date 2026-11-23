@@ -1429,7 +1429,7 @@ async function fotoPacote(img){
   if (img.dataset.tentou) return; img.dataset.tentou = "1";
   try { if (!PACOTES.has(k)) PACOTES.set(k, getJSON(`img/pacotes/${k}.json`)); const P = await PACOTES.get(k); if (P[id]) img.src = P[id]; } catch {}
 }
-document.addEventListener("error", e => { const t = e.target; if (t.tagName === "IMG" && t.dataset.foto) fotoPacote(t); }, true);
+document.addEventListener("error", e => { const t = e.target; if (t.tagName !== "IMG") return; if (!t.dataset.foto){ const m = (t.getAttribute("src") || "").match(/img\/quadros\/(q\d+)\.webp$/); if (m){ t.dataset.foto = m[1]; t.dataset.pac = "quadros"; } } if (t.dataset.foto) fotoPacote(t); }, true);
 function mapaSVG(pontos, opc = {}){
   const M = MAPA, pts = pontos.map(p => ({ ...p, xy:proj(p.ll) }));
   let x0, y0, x1, y1;
