@@ -2674,9 +2674,12 @@ Promise.all(["data/fontes.json", "data/livros.json", "data/estudo/apocalipse.jso
   const ls = (k, v) => { try { if (v === undefined) return localStorage.getItem(k); localStorage.setItem(k, v); } catch { return null; } };
   const ss = (k, v) => { try { if (v === undefined) return sessionStorage.getItem(k); sessionStorage.setItem(k, v); } catch { return null; } };
   const novoVisitante = publico && !ls("hk-visitante"), novaVisita = publico && !ss("hk-visita");
-  const pedir = (acao, chave) => fetch(`${API}/${acao}/${NS}/${chave}`).then(r => r.ok ? r.json() : null).then(j => j && typeof j.value === "number" ? j.value : null).catch(() => null);
+  const pedir = (acao, chave) => fetch(`${API}/${acao}/${NS}/${chave}`, { signal: AbortSignal.timeout ? AbortSignal.timeout(8000) : undefined }).then(r => r.ok ? r.json() : null).then(j => j && typeof j.value === "number" ? j.value : null).catch(() => null);
   Promise.all([pedir(novoVisitante ? "hit" : "get", "visitantes"), pedir(novaVisita ? "hit" : "get", "acessos")]).then(([v, a]) => {
-    if (v === null && a === null) return;
+    if (v === null && a === null){
+      el.innerHTML = publico ? `<small>Contador de acessos indisponível no momento.</small>` : `<small>O contador de acessos aparece no <a href="https://jracingdev.github.io/Biblia-ilustrada/">site publicado</a>.</small>`;
+      el.hidden = false; return;
+    }
     if (novoVisitante) ls("hk-visitante", "1"); if (novaVisita) ss("hk-visita", "1");
     const f = n => n === null ? "—" : n.toLocaleString("pt-BR");
     el.innerHTML = `<b>${f(v)}</b> pessoas já visitaram · <b>${f(a)}</b> acessos <small>(contagem anônima, sem cookies)</small>`;
