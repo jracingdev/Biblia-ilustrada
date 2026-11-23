@@ -63,6 +63,6 @@ salvar("estudo/apocalipse-quadros.json", {"livro": "apocalipse", "estilo": "Real
        "prompt_estilo": ESTILO, "regras": REGRAS,
        "quadros": [{"id": f"q{i:02d}", "capitulo": int(ref.split(":")[0]), "ref": ref, "titulo": t, "descricao": d,
                     "at": refs(at), "prompt": ESTILO + p, "imagem": (f"img/quadros/q{i:02d}.webp" if (RAIZ / f"img/quadros/q{i:02d}.webp").exists() else None),
-                    "credito": ("Ilustração gerada por IA (FLUX.1 Krea, via Hugging Face) a partir do prompt abaixo" if (RAIZ / f"img/quadros/q{i:02d}.webp").exists() else None), "alt": d} for i, (ref, t, d, p, at) in enumerate(Q, 1)]})
+                    "credito": (("Ilustração gerada por IA (FLUX.1 Krea, via Hugging Face) a partir do prompt abaixo" if i <= 9 else "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google) a partir do prompt abaixo") if (RAIZ / f"img/quadros/q{i:02d}.webp").exists() else None), "alt": d} for i, (ref, t, d, p, at) in enumerate(Q, 1)]})
 salvar("textos/blivre/at-apocalipse.json", {"versao": "blivre", "trechos": trechos}, compacto=True)
 print(f"{len(Q)} quadros, {sum(len(x) for x in R.values())} conexões, {len(trechos)} trechos do AT")
