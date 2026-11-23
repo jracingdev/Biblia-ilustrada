@@ -7,7 +7,9 @@
    "ref": "2:7-9",
    "titulo": "As bodas de Caná",
    "descricao": "Os servos enchem de água seis talhas de pedra; ao provar, o mestre-sala descobre um vinho excelente, enquanto Maria e Jesus observam.",
-   "alt": "Servos enchem grandes talhas de pedra numa festa de casamento enquanto o mestre-sala prova o vinho."
+   "alt": "Servos enchem grandes talhas de pedra numa festa de casamento enquanto o mestre-sala prova o vinho.",
+   "imagem": "img/quadros/joao/q01.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q02",
@@ -15,7 +17,9 @@
    "ref": "3:1-2",
    "titulo": "Nicodemos vem de noite",
    "descricao": "À luz de uma lamparina, Nicodemos, mestre dos judeus, conversa com Jesus num terraço sob o céu noturno.",
-   "alt": "Jesus e Nicodemos conversam à noite num terraço iluminado por uma lamparina."
+   "alt": "Jesus e Nicodemos conversam à noite num terraço iluminado por uma lamparina.",
+   "imagem": "img/quadros/joao/q02.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q03",
@@ -23,7 +27,9 @@
    "ref": "4:6-9",
    "titulo": "Junto ao poço de Jacó",
    "descricao": "Ao meio-dia, cansado da viagem, Jesus está sentado junto ao poço e pede de beber a uma mulher samaritana que veio tirar água.",
-   "alt": "Jesus sentado junto a um poço conversa com uma mulher samaritana que segura um cântaro."
+   "alt": "Jesus sentado junto a um poço conversa com uma mulher samaritana que segura um cântaro.",
+   "imagem": "img/quadros/joao/q03.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q04",
@@ -31,7 +37,9 @@
    "ref": "5:5-8",
    "titulo": "O paralítico de Betesda",
    "descricao": "Entre os pórticos do tanque de Betesda, Jesus se dirige a um homem doente havia trinta e oito anos e lhe diz: 'Levanta-te, toma a tua maca e anda'.",
-   "alt": "Jesus fala a um homem deitado numa esteira entre as colunas de um grande tanque."
+   "alt": "Jesus fala a um homem deitado numa esteira entre as colunas de um grande tanque.",
+   "imagem": "img/quadros/joao/q04.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q05",
@@ -39,7 +47,9 @@
    "ref": "9:6-7",
    "titulo": "O cego no tanque de Siloé",
    "descricao": "Com os olhos untados de lodo, o homem cego de nascença se lava no tanque de Siloé e volta enxergando.",
-   "alt": "Um homem lava os olhos nos degraus do tanque de Siloé e começa a enxergar."
+   "alt": "Um homem lava os olhos nos degraus do tanque de Siloé e começa a enxergar.",
+   "imagem": "img/quadros/joao/q05.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q06",
@@ -47,7 +57,9 @@
    "ref": "11:41-44",
    "titulo": "Lázaro, vem para fora!",
    "descricao": "Diante do túmulo aberto em Betânia, Jesus clama em alta voz e Lázaro sai, ainda envolto em faixas, diante de Marta, Maria e da multidão.",
-   "alt": "Lázaro sai de um túmulo de pedra envolto em faixas diante de Jesus e de uma multidão espantada."
+   "alt": "Lázaro sai de um túmulo de pedra envolto em faixas diante de Jesus e de uma multidão espantada.",
+   "imagem": "img/quadros/joao/q06.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q07",
@@ -55,7 +67,9 @@
    "ref": "12:3",
    "titulo": "Maria unge os pés de Jesus",
    "descricao": "Maria derrama perfume de nardo puro nos pés de Jesus e os enxuga com os cabelos; a casa se enche do perfume.",
-   "alt": "Maria unge os pés de Jesus com perfume e os enxuga com os cabelos, à mesa em Betânia."
+   "alt": "Maria unge os pés de Jesus com perfume e os enxuga com os cabelos, à mesa em Betânia.",
+   "imagem": "img/quadros/joao/q07.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q08",
@@ -63,7 +77,9 @@
    "ref": "13:4-5",
    "titulo": "O lava-pés",
    "descricao": "Jesus tira o manto, cinge-se com uma toalha e lava os pés dos discípulos; Pedro hesita.",
-   "alt": "Jesus, ajoelhado com uma toalha na cintura, lava os pés de Pedro numa bacia."
+   "alt": "Jesus, ajoelhado com uma toalha na cintura, lava os pés de Pedro numa bacia.",
+   "imagem": "img/quadros/joao/q08.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q09",
@@ -71,7 +87,9 @@
    "ref": "18:37-38",
    "titulo": "'Que é a verdade?'",
    "descricao": "No pretório, Pilatos interroga Jesus, que afirma ter vindo para dar testemunho da verdade; Pilatos pergunta: 'Que é a verdade?'.",
-   "alt": "Pilatos, em trajes romanos, interroga Jesus, de pé, num salão do pretório."
+   "alt": "Pilatos, em trajes romanos, interroga Jesus, de pé, num salão do pretório.",
+   "imagem": "img/quadros/joao/q09.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q10",
@@ -79,7 +97,9 @@
    "ref": "19:25-27",
    "titulo": "Junto à cruz",
    "descricao": "Ao pé da cruz estão Maria, mãe de Jesus, outras mulheres e o discípulo amado; Jesus confia sua mãe ao discípulo.",
-   "alt": "Maria e o discípulo amado de pé ao pé da cruz, com outras mulheres, sob céu escuro."
+   "alt": "Maria e o discípulo amado de pé ao pé da cruz, com outras mulheres, sob céu escuro.",
+   "imagem": "img/quadros/joao/q10.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q11",
@@ -87,7 +107,9 @@
    "ref": "20:15-16",
    "titulo": "'Maria!' — 'Rabôni!'",
    "descricao": "No jardim junto ao túmulo, Maria Madalena pensa estar falando com o jardineiro; quando Jesus diz seu nome, ela o reconhece.",
-   "alt": "Maria Madalena se volta surpresa ao reconhecer Jesus ressuscitado no jardim ao amanhecer."
+   "alt": "Maria Madalena se volta surpresa ao reconhecer Jesus ressuscitado no jardim ao amanhecer.",
+   "imagem": "img/quadros/joao/q11.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q12",
@@ -95,7 +117,9 @@
    "ref": "20:26-28",
    "titulo": "Tomé: 'Senhor meu e Deus meu!'",
    "descricao": "Com as portas fechadas, Jesus aparece aos discípulos e convida Tomé a tocar suas mãos e seu lado; Tomé se ajoelha.",
-   "alt": "Tomé ajoelha-se diante de Jesus ressuscitado numa sala fechada, entre os discípulos."
+   "alt": "Tomé ajoelha-se diante de Jesus ressuscitado numa sala fechada, entre os discípulos.",
+   "imagem": "img/quadros/joao/q12.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q13",
@@ -103,7 +127,9 @@
    "ref": "21:9-13",
    "titulo": "O café da manhã à beira-mar",
    "descricao": "Na praia, Jesus prepara brasas com peixe e pão e convida os discípulos, que acabaram de puxar uma rede cheia, para comer.",
-   "alt": "Jesus junto a uma fogueira na praia ao amanhecer oferece pão e peixe aos discípulos."
+   "alt": "Jesus junto a uma fogueira na praia ao amanhecer oferece pão e peixe aos discípulos.",
+   "imagem": "img/quadros/joao/q13.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   }
  ],
  "simbolos": [

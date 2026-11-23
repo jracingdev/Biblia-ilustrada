@@ -7,7 +7,9 @@
    "ref": "1:16-18",
    "titulo": "Pescadores de homens",
    "descricao": "À beira do mar da Galileia, Jesus chama Simão e André enquanto lançam a rede; eles deixam as redes e o seguem.",
-   "alt": "Jesus chama dois pescadores que lançam a rede na margem do mar da Galileia."
+   "alt": "Jesus chama dois pescadores que lançam a rede na margem do mar da Galileia.",
+   "imagem": "img/quadros/marcos/q01.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q02",
@@ -15,7 +17,9 @@
    "ref": "2:3-5",
    "titulo": "Pelo telhado",
    "descricao": "Quatro homens abrem o telhado de uma casa em Cafarnaum e descem um paralítico em sua maca até Jesus, no meio da multidão.",
-   "alt": "Homens descem um paralítico numa maca por uma abertura no telhado diante de Jesus."
+   "alt": "Homens descem um paralítico numa maca por uma abertura no telhado diante de Jesus.",
+   "imagem": "img/quadros/marcos/q02.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q03",
@@ -23,7 +27,9 @@
    "ref": "5:39-42",
    "titulo": "'Talita cumi'",
    "descricao": "No quarto da casa de Jairo, Jesus toma a mão da menina e diz 'Talita cumi'; ela se levanta diante dos pais espantados.",
-   "alt": "Jesus segura a mão de uma menina que se levanta da cama diante dos pais e de três discípulos."
+   "alt": "Jesus segura a mão de uma menina que se levanta da cama diante dos pais e de três discípulos.",
+   "imagem": "img/quadros/marcos/q03.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q04",
@@ -31,7 +37,9 @@
    "ref": "6:39-42",
    "titulo": "Pães para a multidão",
    "descricao": "Sobre a relva verde, a multidão se senta em grupos de cem e de cinquenta; Jesus parte os pães e os discípulos os distribuem.",
-   "alt": "Jesus parte pães diante de uma multidão sentada em grupos na relva verde."
+   "alt": "Jesus parte pães diante de uma multidão sentada em grupos na relva verde.",
+   "imagem": "img/quadros/marcos/q04.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q05",
@@ -39,7 +47,9 @@
    "ref": "10:46-52",
    "titulo": "O cego Bartimeu",
    "descricao": "À saída de Jericó, Bartimeu lança fora a capa, salta e vai até Jesus; recupera a vista e o segue pelo caminho.",
-   "alt": "Um mendigo cego joga a capa e corre em direção a Jesus numa estrada perto de Jericó."
+   "alt": "Um mendigo cego joga a capa e corre em direção a Jesus numa estrada perto de Jericó.",
+   "imagem": "img/quadros/marcos/q05.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q06",
@@ -47,7 +57,9 @@
    "ref": "12:41-44",
    "titulo": "As duas moedas da viúva",
    "descricao": "No templo, ricos lançam muito dinheiro no cofre, mas Jesus aponta uma viúva pobre que deposita duas pequenas moedas.",
-   "alt": "Uma viúva pobre deposita duas moedinhas no cofre do templo enquanto Jesus a observa."
+   "alt": "Uma viúva pobre deposita duas moedinhas no cofre do templo enquanto Jesus a observa.",
+   "imagem": "img/quadros/marcos/q06.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q07",
@@ -55,7 +67,9 @@
    "ref": "14:3",
    "titulo": "O perfume em Betânia",
    "descricao": "Na casa de Simão, uma mulher quebra um vaso de alabastro e derrama perfume de nardo puro sobre a cabeça de Jesus.",
-   "alt": "Uma mulher derrama perfume de um vaso de alabastro sobre a cabeça de Jesus à mesa."
+   "alt": "Uma mulher derrama perfume de um vaso de alabastro sobre a cabeça de Jesus à mesa.",
+   "imagem": "img/quadros/marcos/q07.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q08",
@@ -63,7 +77,9 @@
    "ref": "15:21-22",
    "titulo": "Simão de Cirene carrega a cruz",
    "descricao": "Saindo da cidade, os soldados obrigam Simão, que vinha do campo, a carregar a cruz de Jesus a caminho do Gólgota.",
-   "alt": "Um homem forte carrega uma trave de madeira atrás de Jesus, escoltados por soldados romanos."
+   "alt": "Um homem forte carrega uma trave de madeira atrás de Jesus, escoltados por soldados romanos.",
+   "imagem": "img/quadros/marcos/q08.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q09",
@@ -71,7 +87,9 @@
    "ref": "16:5-7",
    "titulo": "O jovem no sepulcro",
    "descricao": "Ao entrar no túmulo, as mulheres veem um jovem vestido de branco, sentado à direita, que anuncia: 'Ressuscitou, não está aqui'.",
-   "alt": "Três mulheres entram num túmulo de pedra e veem um jovem de branco sentado."
+   "alt": "Três mulheres entram num túmulo de pedra e veem um jovem de branco sentado.",
+   "imagem": "img/quadros/marcos/q09.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   }
  ],
  "simbolos": [
