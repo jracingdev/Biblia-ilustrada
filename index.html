@@ -2667,6 +2667,8 @@ Promise.all(["data/fontes.json", "data/livros.json", "data/estudo/apocalipse.jso
 })();
 
 /* ---------- Contador de acessos (anônimo, sem cookies; serviço Abacus) ---------- */
+// Sempre mostra números: tenta o serviço (com novas tentativas); se ele não responder,
+// usa o último valor visto neste navegador ou a cópia guardada no próprio site.
 (function contador(){
   const el = document.getElementById("contador"); if (!el) return;
   const API = "https://abacus.jasoncameron.dev", NS = "biblia-hakham-jracingdev";
@@ -2674,16 +2676,27 @@ Promise.all(["data/fontes.json", "data/livros.json", "data/estudo/apocalipse.jso
   const ls = (k, v) => { try { if (v === undefined) return localStorage.getItem(k); localStorage.setItem(k, v); } catch { return null; } };
   const ss = (k, v) => { try { if (v === undefined) return sessionStorage.getItem(k); sessionStorage.setItem(k, v); } catch { return null; } };
   const novoVisitante = publico && !ls("hk-visitante"), novaVisita = publico && !ss("hk-visita");
-  const pedir = (acao, chave) => fetch(`${API}/${acao}/${NS}/${chave}`, { signal: AbortSignal.timeout ? AbortSignal.timeout(8000) : undefined }).then(r => r.ok ? r.json() : null).then(j => j && typeof j.value === "number" ? j.value : null).catch(() => null);
-  Promise.all([pedir(novoVisitante ? "hit" : "get", "visitantes"), pedir(novaVisita ? "hit" : "get", "acessos")]).then(([v, a]) => {
-    if (v === null && a === null){
-      el.innerHTML = publico ? `<small>Contador de acessos indisponível no momento.</small>` : `<small>O contador de acessos aparece no <a href="https://jracingdev.github.io/Biblia-ilustrada/">site publicado</a>.</small>`;
-      el.hidden = false; return;
-    }
-    if (novoVisitante) ls("hk-visitante", "1"); if (novaVisita) ss("hk-visita", "1");
+  const espera = ms => new Promise(r => setTimeout(r, ms));
+  const umaVez = (acao, chave) => fetch(`${API}/${acao}/${NS}/${chave}`, { cache: "no-store", signal: AbortSignal.timeout ? AbortSignal.timeout(12000) : undefined })
+    .then(r => r.ok ? r.json() : null).then(j => j && typeof j.value === "number" ? j.value : null).catch(() => null);
+  const pedir = async (acao, chave) => { for (let t = 0; t < 3; t++){ const v = await umaVez(acao, chave); if (v !== null) return v; await espera(1500 * (t + 1)); } return null; };
+  const num = x => { const n = parseInt(x, 10); return Number.isFinite(n) ? n : null; };
+  const maior = (...xs) => { const v = xs.filter(x => x !== null); return v.length ? Math.max(...v) : null; };
+  const mostrar = (v, a) => {
     const f = n => n === null ? "—" : n.toLocaleString("pt-BR");
     el.innerHTML = `<b>${f(v)}</b> pessoas já visitaram · <b>${f(a)}</b> acessos <small>(contagem anônima, sem cookies)</small>`;
     el.hidden = false;
+  };
+  const copia = fetch("data/site/contador.json", { cache: "no-store" }).then(r => r.ok ? r.json() : null).catch(() => null);
+  // mostra logo o que já se sabe, para a linha nunca ficar vazia
+  copia.then(c => { if (el.hidden || !el.dataset.vivo) mostrar(maior(num(ls("hk-v")), c && num(c.visitantes)), maior(num(ls("hk-a")), c && num(c.acessos))); });
+  Promise.all([pedir(novoVisitante ? "hit" : "get", "visitantes"), pedir(novaVisita ? "hit" : "get", "acessos"), copia]).then(([v, a, c]) => {
+    if (v !== null && novoVisitante) ls("hk-visitante", "1");
+    if (a !== null && novaVisita) ss("hk-visita", "1");
+    const V = maior(v, num(ls("hk-v")), c && num(c.visitantes)), A = maior(a, num(ls("hk-a")), c && num(c.acessos));
+    if (V !== null) ls("hk-v", String(V)); if (A !== null) ls("hk-a", String(A));
+    if (v !== null || a !== null) el.dataset.vivo = "1";
+    mostrar(V, A);
   });
 })();
 </script>
