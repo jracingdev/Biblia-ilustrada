@@ -7,8 +7,7 @@
    "ref": "1:28-31",
    "titulo": "A anunciação",
    "descricao": "Em Nazaré, o anjo Gabriel saúda Maria e lhe anuncia que conceberá e dará à luz um filho, a quem chamará Jesus.",
-   "alt": "O anjo Gabriel aparece a Maria, jovem, numa casa simples de Nazaré.",
-   "prompt": "Inside a modest stone house in Nazareth, the young Mary seated with a spindle of wool, startled and humble, the angel Gabriel in luminous white robes with great wings standing before her with a gentle gesture, a soft beam of light through a small window, quiet reverent atmosphere"
+   "alt": "O anjo Gabriel aparece a Maria, jovem, numa casa simples de Nazaré."
   },
   {
    "id": "q02",
@@ -16,8 +15,7 @@
    "ref": "2:9-14",
    "titulo": "O anúncio aos pastores",
    "descricao": "Nos campos de Belém, a glória do Senhor envolve os pastores e um anjo anuncia o nascimento do Salvador; uma multidão celestial louva a Deus.",
-   "alt": "Pastores assustados no campo à noite veem um anjo e uma multidão celestial em meio a uma luz brilhante.",
-   "prompt": "Night in the fields near Bethlehem, shepherds with their flocks shielding their eyes in fear and wonder, an angel in radiant light above them, a multitude of heavenly hosts filling the sky praising God, glowing light against a starry night"
+   "alt": "Pastores assustados no campo à noite veem um anjo e uma multidão celestial em meio a uma luz brilhante."
   },
   {
    "id": "q03",
@@ -25,8 +23,7 @@
    "ref": "2:46-47",
    "titulo": "O menino entre os mestres",
    "descricao": "No templo, o menino Jesus, aos doze anos, está sentado entre os mestres, ouvindo e fazendo perguntas, e todos se admiram.",
-   "alt": "Um menino de doze anos conversa com mestres idosos sentados no templo de Jerusalém.",
-   "prompt": "Twelve-year-old Jesus seated among elderly teachers of the Law in a colonnaded court of the Jerusalem temple, scrolls open, the teachers listening amazed, Mary and Joseph arriving anxiously in the background, warm afternoon light"
+   "alt": "Um menino de doze anos conversa com mestres idosos sentados no templo de Jerusalém."
   },
   {
    "id": "q04",
@@ -34,8 +31,7 @@
    "ref": "5:6-8",
    "titulo": "A pesca maravilhosa",
    "descricao": "As redes se enchem de tantos peixes que começam a romper; Simão cai aos pés de Jesus e diz: 'Afasta-te de mim, porque sou pecador'.",
-   "alt": "Pescadores puxam redes cheias de peixes e Simão se ajoelha diante de Jesus no barco.",
-   "prompt": "Two fishing boats on the Sea of Galilee nearly sinking with nets bursting full of silver fish, fishermen straining to haul them in, Simon Peter kneeling at the feet of Jesus in the boat, morning light reflecting on the water"
+   "alt": "Pescadores puxam redes cheias de peixes e Simão se ajoelha diante de Jesus no barco."
   },
   {
    "id": "q05",
@@ -43,8 +39,7 @@
    "ref": "7:37-38",
    "titulo": "A mulher que muito amou",
    "descricao": "Na casa do fariseu, uma mulher chora aos pés de Jesus, enxuga-os com os cabelos, beija-os e os unge com perfume.",
-   "alt": "Uma mulher chorando aos pés de Jesus, que está reclinado à mesa na casa de um fariseu.",
-   "prompt": "At a dinner in the house of Simon the Pharisee, Jesus reclining at table, a weeping woman kneeling at his feet wiping them with her long hair and anointing them from an alabaster jar, the Pharisee watching disapprovingly, lamplight, emotional and dignified"
+   "alt": "Uma mulher chorando aos pés de Jesus, que está reclinado à mesa na casa de um fariseu."
   },
   {
    "id": "q06",
@@ -52,8 +47,7 @@
    "ref": "10:33-35",
    "titulo": "O bom samaritano",
    "descricao": "Na estrada de Jericó, um samaritano se inclina sobre o homem ferido, trata suas feridas com azeite e vinho e o coloca sobre seu animal.",
-   "alt": "Um samaritano cuida de um homem ferido à beira de uma estrada pedregosa.",
-   "prompt": "On the rocky road from Jerusalem to Jericho, a Samaritan traveler kneeling to bandage a wounded man lying by the roadside, pouring oil and wine, his donkey waiting, a priest and a levite walking away in the distance, warm desert light, no graphic wounds"
+   "alt": "Um samaritano cuida de um homem ferido à beira de uma estrada pedregosa."
   },
   {
    "id": "q07",
@@ -61,8 +55,7 @@
    "ref": "15:20-22",
    "titulo": "O pai abraça o filho que volta",
    "descricao": "O pai corre ao encontro do filho maltrapilho, abraça-o e o beija, e manda trazer a melhor roupa, um anel e sandálias.",
-   "alt": "Um pai idoso abraça o filho maltrapilho que voltou para casa.",
-   "prompt": "An elderly father in rich robes running and embracing his ragged, barefoot younger son on the path to their farmhouse, servants hurrying with a fine robe, a ring and sandals, the older brother watching from a field, golden evening light, deep emotion"
+   "alt": "Um pai idoso abraça o filho maltrapilho que voltou para casa."
   },
   {
    "id": "q08",
@@ -70,8 +63,7 @@
    "ref": "16:19-21",
    "titulo": "O rico e Lázaro",
    "descricao": "Diante do portão de uma mansão, o pobre Lázaro, coberto de feridas, deseja as migalhas que caem da mesa do rico vestido de púrpura.",
-   "alt": "Um mendigo doente deitado junto ao portão de uma casa luxuosa onde um rico banqueteia.",
-   "prompt": "A poor beggar named Lazarus lying at the ornate gate of a wealthy house, dogs nearby, through the open doors a rich man in purple and fine linen feasting at a lavish table, strong contrast of light inside and shadow outside, no graphic sores"
+   "alt": "Um mendigo doente deitado junto ao portão de uma casa luxuosa onde um rico banqueteia."
   },
   {
    "id": "q09",
@@ -79,8 +71,7 @@
    "ref": "18:10-13",
    "titulo": "O fariseu e o publicano",
    "descricao": "No templo, um fariseu ora de pé, com orgulho, enquanto ao longe um publicano, de olhos baixos, bate no peito pedindo misericórdia.",
-   "alt": "Um fariseu ora em pé com orgulho, e um publicano, ao fundo, ora de cabeça baixa batendo no peito.",
-   "prompt": "In the temple court, a Pharisee standing proudly in rich robes with raised hands praying, and far behind him in shadow a tax collector with bowed head beating his chest, not daring to look up, a shaft of light falling on the humble man"
+   "alt": "Um fariseu ora em pé com orgulho, e um publicano, ao fundo, ora de cabeça baixa batendo no peito."
   },
   {
    "id": "q10",
@@ -88,8 +79,7 @@
    "ref": "19:4-6",
    "titulo": "Zaqueu no sicômoro",
    "descricao": "Em Jericó, o baixinho Zaqueu sobe num sicômoro para ver Jesus; Jesus para, olha para cima e o chama pelo nome.",
-   "alt": "Jesus olha para cima e chama Zaqueu, que está empoleirado num sicômoro em meio à multidão.",
-   "prompt": "A crowded street in ancient Jericho, the short tax collector Zacchaeus perched in the branches of a sycamore fig tree, Jesus stopping beneath and looking up at him with a smile, the crowd turning in surprise, bright daylight"
+   "alt": "Jesus olha para cima e chama Zaqueu, que está empoleirado num sicômoro em meio à multidão."
   },
   {
    "id": "q11",
@@ -97,8 +87,7 @@
    "ref": "22:41-44",
    "titulo": "Agonia no monte das Oliveiras",
    "descricao": "Jesus ora de joelhos em grande angústia, e um anjo do céu aparece para fortalecê-lo.",
-   "alt": "Jesus ajoelhado em oração angustiada à noite, fortalecido por um anjo.",
-   "prompt": "Jesus kneeling in agony of prayer on the Mount of Olives at night, sweat on his brow, an angel in soft light appearing beside him to strengthen him, olive trees and sleeping disciples in the shadows, moonlight, deep emotion, no blood"
+   "alt": "Jesus ajoelhado em oração angustiada à noite, fortalecido por um anjo."
   },
   {
    "id": "q12",
@@ -106,8 +95,7 @@
    "ref": "23:39-43",
    "titulo": "'Hoje estarás comigo'",
    "descricao": "Sob um céu escurecido, um dos crucificados pede a Jesus que se lembre dele, e Jesus lhe promete o paraíso.",
-   "alt": "Três cruzes vistas à distância sob céu escuro, com o rosto de um dos crucificados voltado para Jesus.",
-   "prompt": "Three crosses seen from a respectful distance on Golgotha under a darkening sky, the penitent thief turning his face toward Jesus in the center, mourners below, sober restrained composition, no blood, a faint light on the faces"
+   "alt": "Três cruzes vistas à distância sob céu escuro, com o rosto de um dos crucificados voltado para Jesus."
   },
   {
    "id": "q13",
@@ -115,8 +103,7 @@
    "ref": "24:28-31",
    "titulo": "O partir do pão em Emaús",
    "descricao": "À mesa, em Emaús, Jesus toma o pão, abençoa e o parte; os olhos dos dois discípulos se abrem e eles o reconhecem.",
-   "alt": "Dois discípulos reconhecem Jesus quando ele parte o pão à mesa, ao entardecer.",
-   "prompt": "A simple table in a house at Emmaus at dusk, the risen Jesus blessing and breaking bread, two disciples recoiling in sudden recognition and astonishment, oil lamp and window showing the evening road, warm golden chiaroscuro"
+   "alt": "Dois discípulos reconhecem Jesus quando ele parte o pão à mesa, ao entardecer."
   }
  ],
  "simbolos": [

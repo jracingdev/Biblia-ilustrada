@@ -7,8 +7,7 @@
    "ref": "1:1-3",
    "titulo": "O censo no deserto do Sinai",
    "descricao": "Moisés e Arão, com os príncipes das tribos, contam os homens de vinte anos para cima, família por família.",
-   "alt": "Escribas registrando nomes diante de Moisés e Arão, com uma fila de homens de várias tribos.",
-   "prompt": "in the Sinai desert camp, Moses and Aaron seated before a tent with tribal leaders, scribes writing names on scrolls and tablets, lines of men of different tribes waiting to be counted, tents stretching to the horizon, bright morning light"
+   "alt": "Escribas registrando nomes diante de Moisés e Arão, com uma fila de homens de várias tribos."
   },
   {
    "id": "q02",
@@ -16,8 +15,7 @@
    "ref": "2:2",
    "titulo": "O acampamento em volta do tabernáculo",
    "descricao": "As doze tribos acampam cada uma junto à sua bandeira, ao redor do tabernáculo.",
-   "alt": "Vista do alto de um grande acampamento em quadrado, com o tabernáculo no centro e bandeiras das tribos.",
-   "prompt": "aerial view of a vast orderly encampment in the desert arranged in a square around a central tent sanctuary with a white linen courtyard, twelve tribal camps each with its own colored banner, a pillar of cloud resting above the sanctuary, early morning haze"
+   "alt": "Vista do alto de um grande acampamento em quadrado, com o tabernáculo no centro e bandeiras das tribos."
   },
   {
    "id": "q03",
@@ -25,8 +23,7 @@
    "ref": "6:22-27",
    "titulo": "A bênção sacerdotal",
    "descricao": "Arão e seus filhos estendem as mãos e abençoam o povo: O SENHOR te abençoe e te guarde.",
-   "alt": "Sacerdotes de pé com as mãos erguidas abençoando uma multidão diante do tabernáculo.",
-   "prompt": "Aaron and his sons in priestly garments standing at the entrance of the tabernacle courtyard with hands raised over the people, a large congregation of men, women and children bowing their heads, soft golden evening light, peaceful reverence"
+   "alt": "Sacerdotes de pé com as mãos erguidas abençoando uma multidão diante do tabernáculo."
   },
   {
    "id": "q04",
@@ -34,8 +31,7 @@
    "ref": "7:1-9",
    "titulo": "As ofertas dos príncipes",
    "descricao": "Os príncipes das tribos trazem seis carros cobertos e doze bois para o serviço do tabernáculo.",
-   "alt": "Carros cobertos puxados por bois chegando diante do tabernáculo, entregues a levitas.",
-   "prompt": "tribal leaders presenting six covered wooden wagons each drawn by a pair of oxen before the tabernacle, Levites receiving them, Moses overseeing, offerings of silver bowls and basins carried behind, desert camp setting"
+   "alt": "Carros cobertos puxados por bois chegando diante do tabernáculo, entregues a levitas."
   },
   {
    "id": "q05",
@@ -43,8 +39,7 @@
    "ref": "9:15-18",
    "titulo": "A nuvem sobre o tabernáculo",
    "descricao": "De dia a nuvem cobre o tabernáculo e de noite parece fogo; quando ela se ergue, o povo parte.",
-   "alt": "Tabernáculo à noite com uma nuvem brilhante como fogo pairando acima, e o acampamento ao redor.",
-   "prompt": "the tabernacle in the middle of the desert camp at night, a great cloud glowing like fire resting over it, families outside their tents looking toward it, some beginning to pack as the cloud starts to lift, deep night sky"
+   "alt": "Tabernáculo à noite com uma nuvem brilhante como fogo pairando acima, e o acampamento ao redor."
   },
   {
    "id": "q06",
@@ -52,8 +47,7 @@
    "ref": "10:33-36",
    "titulo": "A arca vai à frente",
    "descricao": "Os sacerdotes levam a arca à frente do povo, e Moisés diz: Levanta-te, SENHOR.",
-   "alt": "Sacerdotes carregando a arca dourada à frente de uma longa procissão no deserto.",
-   "prompt": "priests carrying the golden ark of the covenant on poles at the head of a long procession of Israelite tribes through the desert, silver trumpets raised, the cloud above them, Moses with arms lifted, dust and morning light"
+   "alt": "Sacerdotes carregando a arca dourada à frente de uma longa procissão no deserto."
   },
   {
    "id": "q07",
@@ -61,8 +55,7 @@
    "ref": "11:31-32",
    "titulo": "As codornizes",
    "descricao": "Um vento do SENHOR traz codornizes do mar ao redor do acampamento, e o povo as recolhe por dois dias.",
-   "alt": "Pessoas recolhendo grande quantidade de aves pequenas ao redor de tendas no deserto.",
-   "prompt": "a strong wind carrying flocks of quails from the sea over a desert camp, people eagerly gathering birds into baskets around their tents, swirling sand, low dramatic light"
+   "alt": "Pessoas recolhendo grande quantidade de aves pequenas ao redor de tendas no deserto."
   },
   {
    "id": "q08",
@@ -70,8 +63,7 @@
    "ref": "13:23",
    "titulo": "O cacho de Escol",
    "descricao": "No vale de Escol, dois espias carregam numa vara um enorme cacho de uvas, com romãs e figos.",
-   "alt": "Dois homens carregando nos ombros uma vara com um cacho de uvas gigante, acompanhados de outros espias.",
-   "prompt": "two men carrying an enormous cluster of grapes hanging from a pole on their shoulders, other scouts bearing pomegranates and figs, a fertile green valley with vineyards and a stream, hills of Canaan, warm summer light"
+   "alt": "Dois homens carregando nos ombros uma vara com um cacho de uvas gigante, acompanhados de outros espias."
   },
   {
    "id": "q09",
@@ -79,8 +71,7 @@
    "ref": "14:5-10",
    "titulo": "Josué e Calebe diante do povo",
    "descricao": "Enquanto o povo murmura e quer voltar ao Egito, Josué e Calebe rasgam as roupas e dizem que a terra é muito boa.",
-   "alt": "Dois homens com roupas rasgadas falando a uma multidão irritada, com Moisés e Arão prostrados.",
-   "prompt": "two men with torn garments pleading before an angry crowd of Israelites, some picking up stones, Moses and Aaron lying face down before the assembly, the tabernacle behind them beginning to shine with glory, tense dramatic light"
+   "alt": "Dois homens com roupas rasgadas falando a uma multidão irritada, com Moisés e Arão prostrados."
   },
   {
    "id": "q10",
@@ -88,8 +79,7 @@
    "ref": "16:46-48",
    "titulo": "Arão entre os mortos e os vivos",
    "descricao": "Arão corre com o incensário para o meio do povo e se põe entre os mortos e os vivos, e a praga cessa.",
-   "alt": "Sacerdote com um incensário fumegante de pé no meio de uma multidão, com pessoas caídas ao longe.",
-   "prompt": "an elderly high priest standing in the midst of the people holding a smoking censer high, incense rising around him, on one side people standing with hope, on the far side figures lying still in the distance, no wounds shown, solemn dusk light"
+   "alt": "Sacerdote com um incensário fumegante de pé no meio de uma multidão, com pessoas caídas ao longe."
   },
   {
    "id": "q11",
@@ -97,8 +87,7 @@
    "ref": "17:8",
    "titulo": "A vara de Arão floresce",
    "descricao": "No dia seguinte, a vara de Arão, entre as doze varas, brotou, deu flores e produziu amêndoas.",
-   "alt": "Doze varas apoiadas no santuário, uma delas coberta de folhas, flores e amêndoas.",
-   "prompt": "twelve wooden staffs laid before the ark in the tabernacle, each inscribed with a tribal name, one staff miraculously covered with buds, white almond blossoms and ripe almonds, Moses entering in the morning light with surprise"
+   "alt": "Doze varas apoiadas no santuário, uma delas coberta de folhas, flores e amêndoas."
   },
   {
    "id": "q12",
@@ -106,8 +95,7 @@
    "ref": "20:8-11",
    "titulo": "Água da rocha em Meribá",
    "descricao": "Em vez de falar à rocha, Moisés a fere duas vezes com a vara; a água jorra, e o povo e os animais bebem.",
-   "alt": "Homem idoso batendo numa rocha com uma vara, de onde jorra água, diante de uma multidão.",
-   "prompt": "an old bearded man striking a large desert rock twice with his staff, water gushing out abundantly, a thirsty crowd and their animals rushing to drink, Aaron beside him, harsh sunlight on barren cliffs"
+   "alt": "Homem idoso batendo numa rocha com uma vara, de onde jorra água, diante de uma multidão."
   },
   {
    "id": "q13",
@@ -115,8 +103,7 @@
    "ref": "20:27-28",
    "titulo": "Arão no monte Hor",
    "descricao": "No alto do monte Hor, Moisés tira as vestes sacerdotais de Arão e as veste em Eleazar; ali Arão morre.",
-   "alt": "Três homens no topo de uma montanha; um jovem recebendo as vestes de sacerdote de um ancião.",
-   "prompt": "on a barren mountaintop three men: an aged Aaron, Moses removing the high priest's garments from him and placing them on his son Eleazar, the whole congregation watching from the plain far below, quiet sunset light, sorrowful dignity"
+   "alt": "Três homens no topo de uma montanha; um jovem recebendo as vestes de sacerdote de um ancião."
   },
   {
    "id": "q14",
@@ -124,8 +111,7 @@
    "ref": "21:8-9",
    "titulo": "A serpente de bronze",
    "descricao": "Moisés põe uma serpente de bronze sobre uma haste; quem foi mordido e olha para ela vive.",
-   "alt": "Serpente de bronze erguida numa haste no acampamento, com pessoas olhando para ela.",
-   "prompt": "a bronze serpent coiled on a tall wooden pole raised in the middle of the desert camp, Moses beside it pointing upward, people who had been bitten lifting their eyes to it with hope, some being helped by family, golden afternoon light"
+   "alt": "Serpente de bronze erguida numa haste no acampamento, com pessoas olhando para ela."
   },
   {
    "id": "q15",
@@ -133,8 +119,7 @@
    "ref": "22:22-31",
    "titulo": "Balaão e a jumenta",
    "descricao": "O anjo do SENHOR está no caminho com a espada; a jumenta vê e se deita, e Balaão é repreendido.",
-   "alt": "Homem montado numa jumenta deitada no caminho estreito, com um anjo luminoso à frente.",
-   "prompt": "a man in fine robes on a donkey that has lain down in a narrow path between vineyard walls, before them a majestic dignified angel shining with light holding a drawn sword, the donkey looking back at its rider, two servants behind, the man's face shifting from anger to awe"
+   "alt": "Homem montado numa jumenta deitada no caminho estreito, com um anjo luminoso à frente."
   },
   {
    "id": "q16",
@@ -142,8 +127,7 @@
    "ref": "24:2-6",
    "titulo": "Quão belas são tuas tendas",
    "descricao": "Do alto, Balaão vê Israel acampado por tribos e, em vez de amaldiçoar, abençoa.",
-   "alt": "Homem no alto de um penhasco com os braços abertos, olhando um grande acampamento no vale.",
-   "prompt": "a prophet standing on a high rocky ridge with arms spread wide, looking down at the orderly tents of Israel spread across a green valley like gardens by a river, a Moabite king and his officials beside him in dismay, altars with smoke behind them, golden light"
+   "alt": "Homem no alto de um penhasco com os braços abertos, olhando um grande acampamento no vale."
   },
   {
    "id": "q17",
@@ -151,8 +135,7 @@
    "ref": "27:1-7",
    "titulo": "As filhas de Zelofeade",
    "descricao": "Cinco irmãs se apresentam diante de Moisés, de Eleazar e da congregação e pedem herança na terra.",
-   "alt": "Cinco jovens mulheres de pé diante de Moisés e líderes à entrada do tabernáculo.",
-   "prompt": "five young sisters standing with courage before Moses, the priest Eleazar and the tribal leaders at the entrance of the tabernacle, the congregation gathered around, Moses listening thoughtfully, soft daylight"
+   "alt": "Cinco jovens mulheres de pé diante de Moisés e líderes à entrada do tabernáculo."
   },
   {
    "id": "q18",
@@ -160,8 +143,7 @@
    "ref": "27:18-23",
    "titulo": "Josué recebe a liderança",
    "descricao": "Diante de Eleazar e de todo o povo, Moisés põe as mãos sobre Josué e lhe transmite a liderança.",
-   "alt": "Homem idoso pondo as mãos sobre a cabeça de um homem mais jovem ajoelhado, diante de um sacerdote e do povo.",
-   "prompt": "an aged Moses laying both hands on the head of Joshua, who kneels before him, the priest Eleazar in vestments standing beside them, the congregation of Israel watching, plains of Moab with distant hills, evening light"
+   "alt": "Homem idoso pondo as mãos sobre a cabeça de um homem mais jovem ajoelhado, diante de um sacerdote e do povo."
   },
   {
    "id": "q19",
@@ -169,8 +151,7 @@
    "ref": "32:1-5",
    "titulo": "Rúben e Gade pedem a terra de pastagem",
    "descricao": "Vendo as boas pastagens de Jazer e Gileade, as tribos de Rúben e Gade pedem para ficar daquele lado do Jordão.",
-   "alt": "Pastores com grandes rebanhos falando com Moisés diante de colinas verdes.",
-   "prompt": "shepherds of the tribes of Reuben and Gad with great herds of cattle and sheep speaking with Moses and Eleazar, behind them the green pasture hills of Gilead, the Jordan valley in the distance"
+   "alt": "Pastores com grandes rebanhos falando com Moisés diante de colinas verdes."
   },
   {
    "id": "q20",
@@ -178,8 +159,7 @@
    "ref": "35:9-15",
    "titulo": "As cidades de refúgio",
    "descricao": "Seis cidades são separadas para que quem matou alguém sem querer possa fugir para lá e ser julgado com justiça.",
-   "alt": "Homem correndo por uma estrada em direção a uma cidade murada no alto de uma colina.",
-   "prompt": "a frightened man running along a road toward the open gate of a walled hilltop city, elders waiting at the gate to receive him, a signpost by the road, rolling hills, clear morning light"
+   "alt": "Homem correndo por uma estrada em direção a uma cidade murada no alto de uma colina."
   }
  ],
  "simbolos": [

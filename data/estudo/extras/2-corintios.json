@@ -7,8 +7,7 @@
    "ref": "2:4",
    "titulo": "Uma carta escrita com lágrimas",
    "descricao": "Paulo lembra que escreveu aos coríntios em meio a muita aflição e angústia, com muitas lágrimas, não para entristecê-los, mas para mostrar seu amor.",
-   "alt": "Paulo, abatido, escreve uma carta à luz de uma lamparina.",
-   "prompt": "The apostle Paul seated alone at night writing on papyrus by the light of a single oil lamp, his face marked by sorrow and tears, his hand pausing over the letter, simple room with a rolled mat and travel bag"
+   "alt": "Paulo, abatido, escreve uma carta à luz de uma lamparina."
   },
   {
    "id": "q02",
@@ -16,8 +15,7 @@
    "ref": "3:13-18",
    "titulo": "O véu de Moisés",
    "descricao": "Paulo contrasta Moisés, que cobria o rosto com um véu, com os cristãos que, de rosto descoberto, refletem a glória do Senhor.",
-   "alt": "Moisés, com o rosto coberto por um véu, desce do monte diante do povo.",
-   "prompt": "Moses with a cloth veil over his face holding stone tablets, standing before the Israelite camp at the foot of Mount Sinai, faint radiance escaping around the edges of the veil, people watching in awe, desert evening light"
+   "alt": "Moisés, com o rosto coberto por um véu, desce do monte diante do povo."
   },
   {
    "id": "q03",
@@ -25,8 +23,7 @@
    "ref": "4:7-9",
    "titulo": "Tesouro em vasos de barro",
    "descricao": "Os apóstolos levam o tesouro do evangelho em vasos de barro, frágeis, para que o poder seja de Deus e não deles.",
-   "alt": "Um vaso simples de barro, rachado, deixa escapar uma luz dourada.",
-   "prompt": "A plain cracked clay jar on a rough wooden table in a dim room, warm golden light shining out through the cracks and from its opening, a lamp-like glow illuminating the surrounding darkness"
+   "alt": "Um vaso simples de barro, rachado, deixa escapar uma luz dourada."
   },
   {
    "id": "q04",
@@ -34,8 +31,7 @@
    "ref": "5:1-4",
    "titulo": "A tenda e a casa eterna",
    "descricao": "Paulo compara o corpo atual a uma tenda que se desfaz e a esperança futura a uma casa feita por Deus, não por mãos humanas.",
-   "alt": "Um fabricante de tendas trabalha numa tenda gasta, sob um céu luminoso.",
-   "prompt": "A tentmaker in a first-century tunic stitching worn goat-hair tent cloth outside a weathered tent, behind him a vast luminous sky with soft clouds suggesting an eternal dwelling, peaceful evening light"
+   "alt": "Um fabricante de tendas trabalha numa tenda gasta, sob um céu luminoso."
   },
   {
    "id": "q05",
@@ -43,8 +39,7 @@
    "ref": "8:1-4",
    "titulo": "A generosidade da Macedônia",
    "descricao": "Mesmo em extrema pobreza, as igrejas da Macedônia pedem com insistência para participar da coleta para os santos de Jerusalém.",
-   "alt": "Pessoas humildes depositam moedas num cofre comunitário diante de um líder.",
-   "prompt": "Poor believers in simple worn clothing in a Macedonian house church joyfully placing coins into a wooden collection chest, a widow giving with both hands, a leader recording the gifts, warm light"
+   "alt": "Pessoas humildes depositam moedas num cofre comunitário diante de um líder."
   },
   {
    "id": "q06",
@@ -52,8 +47,7 @@
    "ref": "11:32-33",
    "titulo": "A fuga num cesto",
    "descricao": "Em Damasco, quando o governador do rei Aretas vigiava a cidade, Paulo foi descido num cesto por uma janela da muralha.",
-   "alt": "Paulo é descido num cesto grande pelo lado de fora da muralha da cidade, à noite.",
-   "prompt": "Night outside the high stone walls of Damascus, the apostle Paul being lowered in a large woven basket on ropes from a window, friends above holding the ropes anxiously, guards with torches far away at the gate, moonlight"
+   "alt": "Paulo é descido num cesto grande pelo lado de fora da muralha da cidade, à noite."
   },
   {
    "id": "q07",
@@ -61,8 +55,7 @@
    "ref": "12:2-4",
    "titulo": "Arrebatado ao paraíso",
    "descricao": "Paulo fala, na terceira pessoa, de um homem em Cristo arrebatado ao terceiro céu, que ouviu palavras que não se podem dizer.",
-   "alt": "Um homem de olhos fechados, em oração, envolto por uma luz que desce do alto.",
-   "prompt": "A man in a simple robe kneeling in prayer with eyes closed, a column of soft radiant light descending upon him from an opening in the clouds, the surrounding room fading into luminous haze, no figures in the light"
+   "alt": "Um homem de olhos fechados, em oração, envolto por uma luz que desce do alto."
   }
  ],
  "simbolos": [

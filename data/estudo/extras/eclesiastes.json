@@ -7,8 +7,7 @@
    "ref": "1:1-2",
    "titulo": "O Pregador observa Jerusalém",
    "descricao": "O Pregador, filho de Davi e rei em Jerusalém, começa com a frase que resume o livro: \"Futilidade das futilidades\".",
-   "alt": "Homem maduro em vestes reais, pensativo, olhando a cidade de Jerusalém do alto de um terraço.",
-   "prompt": "A mature king in simple royal robes and a thin gold circlet leans on the parapet of a palace terrace, looking pensively over the roofs of ancient Jerusalem in hazy afternoon light; a wisp of vapour drifts through the air before him"
+   "alt": "Homem maduro em vestes reais, pensativo, olhando a cidade de Jerusalém do alto de um terraço."
   },
   {
    "id": "q02",
@@ -16,8 +15,7 @@
    "ref": "1:4-7",
    "titulo": "O sol, o vento e os rios",
    "descricao": "O sol nasce e se põe, o vento gira, os rios correm para o mar e o mar não se enche: tudo se repete.",
-   "alt": "Paisagem ampla com o sol nascendo, um rio correndo para o mar e árvores dobradas pelo vento.",
-   "prompt": "A vast landscape at sunrise: a river winding down from hills into a calm sea that never fills, wind bending trees along the shore, gulls circling; a small solitary figure sits on a rock watching; cyclical, contemplative mood"
+   "alt": "Paisagem ampla com o sol nascendo, um rio correndo para o mar e árvores dobradas pelo vento."
   },
   {
    "id": "q03",
@@ -25,8 +23,7 @@
    "ref": "2:4-8",
    "titulo": "As grandes obras do rei",
    "descricao": "O Pregador construiu casas, plantou vinhas, jardins e pomares, fez tanques de água e juntou riquezas e cantores.",
-   "alt": "Jardins reais com tanques de água, árvores frutíferas e um palácio, com o rei observando.",
-   "prompt": "Lavish royal gardens with stone water pools irrigating rows of fruit trees and vineyards, a palace with colonnades behind, musicians playing under a pavilion; the king stands alone among the splendour with a thoughtful, unsatisfied expression; golden light"
+   "alt": "Jardins reais com tanques de água, árvores frutíferas e um palácio, com o rei observando."
   },
   {
    "id": "q04",
@@ -34,8 +31,7 @@
    "ref": "3:1-8",
    "titulo": "Um tempo para tudo",
    "descricao": "Há tempo de nascer e de morrer, de plantar e de arrancar, de chorar e de rir, de calar e de falar.",
-   "alt": "Cenas de uma aldeia: plantio e colheita, um bebê nos braços da mãe e um cortejo de luto ao longe.",
-   "prompt": "A panoramic village scene in ancient Israel showing life's seasons at once: farmers planting on one side and harvesting on the other, a mother holding a newborn, a quiet funeral procession in the distance, children dancing, an old man seated in silence; soft balanced light"
+   "alt": "Cenas de uma aldeia: plantio e colheita, um bebê nos braços da mãe e um cortejo de luto ao longe."
   },
   {
    "id": "q05",
@@ -43,8 +39,7 @@
    "ref": "4:9-12",
    "titulo": "O cordão de três dobras",
    "descricao": "Dois são melhores que um: se um cai, o outro o levanta; e o cordão de três dobras não se rompe depressa.",
-   "alt": "Viajante ajudando um companheiro caído a se levantar numa estrada pedregosa, com uma corda trançada em primeiro plano.",
-   "prompt": "On a rocky road a traveller reaches down to help his fallen companion to his feet, both in dusty travel cloaks; in the foreground a thick rope braided of three strands lies coiled over a stone; warm evening light"
+   "alt": "Viajante ajudando um companheiro caído a se levantar numa estrada pedregosa, com uma corda trançada em primeiro plano."
   },
   {
    "id": "q06",
@@ -52,8 +47,7 @@
    "ref": "5:1-2",
    "titulo": "Poucas palavras diante de Deus",
    "descricao": "Ao entrar na casa de Deus, é melhor chegar para ouvir; que as palavras sejam poucas, porque Deus está nos céus.",
-   "alt": "Homem entrando no pátio do templo em silêncio, de cabeça baixa, enquanto outros oferecem sacrifícios ao fundo.",
-   "prompt": "A man in a plain robe walks quietly up the steps into the temple courtyard with head bowed and hand on his chest, listening, while in the background others noisily bring offerings; a calm shaft of light from above"
+   "alt": "Homem entrando no pátio do templo em silêncio, de cabeça baixa, enquanto outros oferecem sacrifícios ao fundo."
   },
   {
    "id": "q07",
@@ -61,8 +55,7 @@
    "ref": "7:2",
    "titulo": "A casa do luto",
    "descricao": "É melhor ir à casa do luto do que à casa do banquete, porque ali se pensa no fim de todos.",
-   "alt": "Família reunida em luto numa casa simples, enquanto pela janela se vê uma festa ruidosa.",
-   "prompt": "Inside a modest house a family sits in mourning around a covered bier, a lamp burning, faces thoughtful; through the open window across the street a noisy banquet with musicians is visible; contrast of quiet and revelry, subdued light"
+   "alt": "Família reunida em luto numa casa simples, enquanto pela janela se vê uma festa ruidosa."
   },
   {
    "id": "q08",
@@ -70,8 +63,7 @@
    "ref": "9:7-9",
    "titulo": "Come o teu pão com alegria",
    "descricao": "O Pregador aconselha comer o pão com alegria, vestir roupas brancas e aproveitar a vida com a pessoa amada.",
-   "alt": "Casal em roupas brancas partilhando pão e vinho sob uma videira.",
-   "prompt": "A married couple dressed in clean white garments sit beneath a grapevine arbour sharing bread and wine at a simple table, oil glistening on their hair, smiling at each other; children playing nearby; warm late-afternoon light"
+   "alt": "Casal em roupas brancas partilhando pão e vinho sob uma videira."
   },
   {
    "id": "q09",
@@ -79,8 +71,7 @@
    "ref": "9:14-16",
    "titulo": "O pobre sábio que salvou a cidade",
    "descricao": "Uma pequena cidade cercada por um grande rei foi salva pela sabedoria de um homem pobre, mas ninguém se lembrou dele.",
-   "alt": "Homem pobre falando aos anciãos sobre o muro de uma pequena cidade cercada por um grande exército.",
-   "prompt": "On the wall of a small walled town a poor man in a patched cloak points and advises the anxious elders, while a great army camp with siege mounds surrounds the town below at a distance; later light, no fighting shown"
+   "alt": "Homem pobre falando aos anciãos sobre o muro de uma pequena cidade cercada por um grande exército."
   },
   {
    "id": "q10",
@@ -88,8 +79,7 @@
    "ref": "11:4-6",
    "titulo": "Semeia pela manhã",
    "descricao": "Quem fica olhando o vento não semeia; o Pregador aconselha semear de manhã e à tarde, porque ninguém sabe o que vai dar certo.",
-   "alt": "Agricultor espalhando sementes num campo arado, com nuvens e vento no céu.",
-   "prompt": "A farmer strides across a ploughed field scattering seed from a bag at his side, his cloak blowing in the wind under shifting clouds; morning light breaking through; a second figure hesitates at the field's edge looking at the sky"
+   "alt": "Agricultor espalhando sementes num campo arado, com nuvens e vento no céu."
   },
   {
    "id": "q11",
@@ -97,8 +87,7 @@
    "ref": "12:1-7",
    "titulo": "Antes que se rompa o fio de prata",
    "descricao": "O Pregador descreve a velhice e a morte com imagens: a amendoeira em flor, o vaso quebrado junto à fonte, a roda partida junto ao poço.",
-   "alt": "Idoso sentado junto a um poço com uma roda quebrada e um cântaro partido, sob uma amendoeira florida.",
-   "prompt": "An aged man with white hair sits beside an old well where the wooden wheel is broken and a clay pitcher lies shattered; above him an almond tree in white blossom; a silver cord and golden bowl lie on the stone; twilight, serene melancholy"
+   "alt": "Idoso sentado junto a um poço com uma roda quebrada e um cântaro partido, sob uma amendoeira florida."
   },
   {
    "id": "q12",
@@ -106,8 +95,7 @@
    "ref": "12:9-12",
    "titulo": "O Pregador ensina o povo",
    "descricao": "O Pregador ouviu, investigou e pôs em ordem muitos provérbios, procurando palavras agradáveis e verdadeiras.",
-   "alt": "Mestre idoso escrevendo e ensinando a um grupo de jovens, com rolos e uma vara de pastor ao lado.",
-   "prompt": "An elderly teacher sits with a scroll and reed pen, ordering proverbs, while young students listen around him; a shepherd's goad and nails rest against the wall; afternoon light through a window"
+   "alt": "Mestre idoso escrevendo e ensinando a um grupo de jovens, com rolos e uma vara de pastor ao lado."
   }
  ],
  "simbolos": [
