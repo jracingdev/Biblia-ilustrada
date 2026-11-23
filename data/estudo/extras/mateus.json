@@ -7,7 +7,9 @@
    "ref": "2:9-11",
    "titulo": "Os magos adoram o menino",
    "descricao": "Guiados pela estrela, os magos entram na casa, prostram-se diante do menino com Maria, sua mãe, e abrem seus tesouros: ouro, incenso e mirra.",
-   "alt": "Magos do Oriente ajoelhados oferecem presentes ao menino Jesus no colo de Maria, numa casa simples."
+   "alt": "Magos do Oriente ajoelhados oferecem presentes ao menino Jesus no colo de Maria, numa casa simples.",
+   "imagem": "img/quadros/mateus/q01.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q02",
@@ -15,7 +17,9 @@
    "ref": "3:16-17",
    "titulo": "O batismo de Jesus",
    "descricao": "Jesus sobe das águas do Jordão; os céus se abrem e o Espírito desce como uma pomba, enquanto uma voz vem do céu.",
-   "alt": "Jesus sai das águas do rio Jordão enquanto uma pomba desce em meio a uma luz do céu aberto."
+   "alt": "Jesus sai das águas do rio Jordão enquanto uma pomba desce em meio a uma luz do céu aberto.",
+   "imagem": "img/quadros/mateus/q02.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q03",
@@ -23,7 +27,9 @@
    "ref": "4:1-4",
    "titulo": "A tentação no deserto",
    "descricao": "Depois de quarenta dias de jejum, Jesus está sozinho no deserto rochoso, diante das pedras que o tentador sugere transformar em pães.",
-   "alt": "Jesus, magro e sereno, sentado num deserto rochoso entre pedras arredondadas."
+   "alt": "Jesus, magro e sereno, sentado num deserto rochoso entre pedras arredondadas.",
+   "imagem": "img/quadros/mateus/q03.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q04",
@@ -31,7 +37,9 @@
    "ref": "5:1-3",
    "titulo": "O Sermão do Monte",
    "descricao": "Jesus sentado na encosta de um monte ensina os discípulos e a multidão: 'Bem-aventurados os pobres de espírito'.",
-   "alt": "Jesus ensina sentado numa encosta verde da Galileia, rodeado de discípulos e de uma grande multidão."
+   "alt": "Jesus ensina sentado numa encosta verde da Galileia, rodeado de discípulos e de uma grande multidão.",
+   "imagem": "img/quadros/mateus/q04.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q05",
@@ -39,7 +47,9 @@
    "ref": "8:24-26",
    "titulo": "Jesus acalma a tempestade",
    "descricao": "O barco é coberto pelas ondas enquanto Jesus dorme; os discípulos o acordam aterrorizados, e ele repreende o vento e o mar.",
-   "alt": "Jesus de pé num barco repreende o vento e as ondas, enquanto discípulos assustados se agarram ao barco."
+   "alt": "Jesus de pé num barco repreende o vento e as ondas, enquanto discípulos assustados se agarram ao barco.",
+   "imagem": "img/quadros/mateus/q05.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q06",
@@ -47,7 +57,9 @@
    "ref": "9:9",
    "titulo": "O chamado de Mateus",
    "descricao": "Ao passar pela coletoria, Jesus olha para Mateus, sentado entre moedas e registros, e diz: 'Segue-me'.",
-   "alt": "Jesus aponta para Mateus, cobrador de impostos sentado à sua mesa com moedas."
+   "alt": "Jesus aponta para Mateus, cobrador de impostos sentado à sua mesa com moedas.",
+   "imagem": "img/quadros/mateus/q06.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q07",
@@ -55,7 +67,9 @@
    "ref": "13:3-8",
    "titulo": "O semeador",
    "descricao": "Um semeador lança sementes num campo da Galileia: parte cai no caminho, parte nas pedras, parte entre espinhos e parte em boa terra.",
-   "alt": "Um lavrador lança sementes num campo com caminho, pedras, espinhos e terra boa."
+   "alt": "Um lavrador lança sementes num campo com caminho, pedras, espinhos e terra boa.",
+   "imagem": "img/quadros/mateus/q07.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q08",
@@ -63,7 +77,9 @@
    "ref": "14:28-31",
    "titulo": "Pedro sobre as águas",
    "descricao": "Na quarta vigília da noite, Pedro desce do barco e anda sobre as águas, mas, com medo do vento, começa a afundar; Jesus lhe estende a mão.",
-   "alt": "Jesus segura a mão de Pedro, que afunda nas ondas, diante do barco dos discípulos."
+   "alt": "Jesus segura a mão de Pedro, que afunda nas ondas, diante do barco dos discípulos.",
+   "imagem": "img/quadros/mateus/q08.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q09",
@@ -71,7 +87,9 @@
    "ref": "16:15-18",
    "titulo": "'Tu és o Cristo'",
    "descricao": "Perto de Cesareia de Filipe, junto às rochas, Pedro declara que Jesus é o Cristo, o Filho do Deus vivo.",
-   "alt": "Pedro, diante de Jesus, faz sua confissão junto a um grande paredão rochoso."
+   "alt": "Pedro, diante de Jesus, faz sua confissão junto a um grande paredão rochoso.",
+   "imagem": "img/quadros/mateus/q09.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q10",
@@ -79,7 +97,9 @@
    "ref": "17:1-3",
    "titulo": "A transfiguração",
    "descricao": "No alto de um monte, o rosto de Jesus brilha como o sol e suas vestes ficam brancas como a luz; Moisés e Elias aparecem, e os três discípulos se prostram.",
-   "alt": "Jesus resplandecente no alto de um monte, com Moisés e Elias, e três discípulos prostrados."
+   "alt": "Jesus resplandecente no alto de um monte, com Moisés e Elias, e três discípulos prostrados.",
+   "imagem": "img/quadros/mateus/q10.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q11",
@@ -87,7 +107,9 @@
    "ref": "21:7-9",
    "titulo": "A entrada em Jerusalém",
    "descricao": "Jesus entra em Jerusalém montado num jumentinho; a multidão estende mantos e ramos pelo caminho e grita 'Hosana'.",
-   "alt": "Jesus entra em Jerusalém montado num jumento, recebido por uma multidão com ramos."
+   "alt": "Jesus entra em Jerusalém montado num jumento, recebido por uma multidão com ramos.",
+   "imagem": "img/quadros/mateus/q11.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q12",
@@ -95,7 +117,9 @@
    "ref": "26:26-28",
    "titulo": "A última ceia",
    "descricao": "À mesa com os doze, Jesus toma o pão, dá graças, parte-o e o entrega aos discípulos; depois toma o cálice.",
-   "alt": "Jesus parte o pão à mesa com os doze discípulos, à luz de lamparinas."
+   "alt": "Jesus parte o pão à mesa com os doze discípulos, à luz de lamparinas.",
+   "imagem": "img/quadros/mateus/q12.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q13",
@@ -103,7 +127,9 @@
    "ref": "26:39",
    "titulo": "A oração no Getsêmani",
    "descricao": "Jesus se prostra no jardim, entre oliveiras, e ora: 'Não seja como eu quero, mas como tu queres'; ao fundo, os discípulos dormem.",
-   "alt": "Jesus ajoelhado em oração entre oliveiras à noite, com discípulos dormindo ao fundo."
+   "alt": "Jesus ajoelhado em oração entre oliveiras à noite, com discípulos dormindo ao fundo.",
+   "imagem": "img/quadros/mateus/q13.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q14",
@@ -111,7 +137,9 @@
    "ref": "27:54-56",
    "titulo": "Diante da cruz",
    "descricao": "Ao longe, o centurião e as mulheres da Galileia contemplam a cruz sob um céu escurecido.",
-   "alt": "Um centurião e mulheres olham de longe para três cruzes sob um céu escuro."
+   "alt": "Um centurião e mulheres olham de longe para três cruzes sob um céu escuro.",
+   "imagem": "img/quadros/mateus/q14.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q15",
@@ -119,7 +147,9 @@
    "ref": "28:2-6",
    "titulo": "O anjo e o sepulcro vazio",
    "descricao": "Ao amanhecer, um anjo de aparência brilhante está sentado sobre a pedra removida e anuncia às mulheres: 'Ele não está aqui, ressuscitou'.",
-   "alt": "Um anjo sentado na pedra de um túmulo aberto fala a duas mulheres ao amanhecer."
+   "alt": "Um anjo sentado na pedra de um túmulo aberto fala a duas mulheres ao amanhecer.",
+   "imagem": "img/quadros/mateus/q15.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q16",
@@ -127,7 +157,9 @@
    "ref": "28:16-20",
    "titulo": "O envio dos discípulos",
    "descricao": "Num monte da Galileia, Jesus ressuscitado envia os onze a fazer discípulos de todas as nações.",
-   "alt": "Jesus ressuscitado em um monte da Galileia fala aos onze discípulos."
+   "alt": "Jesus ressuscitado em um monte da Galileia fala aos onze discípulos.",
+   "imagem": "img/quadros/mateus/q16.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   }
  ],
  "simbolos": [

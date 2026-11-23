@@ -7,7 +7,9 @@
    "ref": "1:28-31",
    "titulo": "A anunciação",
    "descricao": "Em Nazaré, o anjo Gabriel saúda Maria e lhe anuncia que conceberá e dará à luz um filho, a quem chamará Jesus.",
-   "alt": "O anjo Gabriel aparece a Maria, jovem, numa casa simples de Nazaré."
+   "alt": "O anjo Gabriel aparece a Maria, jovem, numa casa simples de Nazaré.",
+   "imagem": "img/quadros/lucas/q01.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q02",
@@ -15,7 +17,9 @@
    "ref": "2:9-14",
    "titulo": "O anúncio aos pastores",
    "descricao": "Nos campos de Belém, a glória do Senhor envolve os pastores e um anjo anuncia o nascimento do Salvador; uma multidão celestial louva a Deus.",
-   "alt": "Pastores assustados no campo à noite veem um anjo e uma multidão celestial em meio a uma luz brilhante."
+   "alt": "Pastores assustados no campo à noite veem um anjo e uma multidão celestial em meio a uma luz brilhante.",
+   "imagem": "img/quadros/lucas/q02.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q03",
@@ -23,7 +27,9 @@
    "ref": "2:46-47",
    "titulo": "O menino entre os mestres",
    "descricao": "No templo, o menino Jesus, aos doze anos, está sentado entre os mestres, ouvindo e fazendo perguntas, e todos se admiram.",
-   "alt": "Um menino de doze anos conversa com mestres idosos sentados no templo de Jerusalém."
+   "alt": "Um menino de doze anos conversa com mestres idosos sentados no templo de Jerusalém.",
+   "imagem": "img/quadros/lucas/q03.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q04",
@@ -31,7 +37,9 @@
    "ref": "5:6-8",
    "titulo": "A pesca maravilhosa",
    "descricao": "As redes se enchem de tantos peixes que começam a romper; Simão cai aos pés de Jesus e diz: 'Afasta-te de mim, porque sou pecador'.",
-   "alt": "Pescadores puxam redes cheias de peixes e Simão se ajoelha diante de Jesus no barco."
+   "alt": "Pescadores puxam redes cheias de peixes e Simão se ajoelha diante de Jesus no barco.",
+   "imagem": "img/quadros/lucas/q04.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q05",
@@ -39,7 +47,9 @@
    "ref": "7:37-38",
    "titulo": "A mulher que muito amou",
    "descricao": "Na casa do fariseu, uma mulher chora aos pés de Jesus, enxuga-os com os cabelos, beija-os e os unge com perfume.",
-   "alt": "Uma mulher chorando aos pés de Jesus, que está reclinado à mesa na casa de um fariseu."
+   "alt": "Uma mulher chorando aos pés de Jesus, que está reclinado à mesa na casa de um fariseu.",
+   "imagem": "img/quadros/lucas/q05.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q06",
@@ -47,7 +57,9 @@
    "ref": "10:33-35",
    "titulo": "O bom samaritano",
    "descricao": "Na estrada de Jericó, um samaritano se inclina sobre o homem ferido, trata suas feridas com azeite e vinho e o coloca sobre seu animal.",
-   "alt": "Um samaritano cuida de um homem ferido à beira de uma estrada pedregosa."
+   "alt": "Um samaritano cuida de um homem ferido à beira de uma estrada pedregosa.",
+   "imagem": "img/quadros/lucas/q06.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q07",
@@ -55,7 +67,9 @@
    "ref": "15:20-22",
    "titulo": "O pai abraça o filho que volta",
    "descricao": "O pai corre ao encontro do filho maltrapilho, abraça-o e o beija, e manda trazer a melhor roupa, um anel e sandálias.",
-   "alt": "Um pai idoso abraça o filho maltrapilho que voltou para casa."
+   "alt": "Um pai idoso abraça o filho maltrapilho que voltou para casa.",
+   "imagem": "img/quadros/lucas/q07.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q08",
@@ -63,7 +77,9 @@
    "ref": "16:19-21",
    "titulo": "O rico e Lázaro",
    "descricao": "Diante do portão de uma mansão, o pobre Lázaro, coberto de feridas, deseja as migalhas que caem da mesa do rico vestido de púrpura.",
-   "alt": "Um mendigo doente deitado junto ao portão de uma casa luxuosa onde um rico banqueteia."
+   "alt": "Um mendigo doente deitado junto ao portão de uma casa luxuosa onde um rico banqueteia.",
+   "imagem": "img/quadros/lucas/q08.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q09",
@@ -71,7 +87,9 @@
    "ref": "18:10-13",
    "titulo": "O fariseu e o publicano",
    "descricao": "No templo, um fariseu ora de pé, com orgulho, enquanto ao longe um publicano, de olhos baixos, bate no peito pedindo misericórdia.",
-   "alt": "Um fariseu ora em pé com orgulho, e um publicano, ao fundo, ora de cabeça baixa batendo no peito."
+   "alt": "Um fariseu ora em pé com orgulho, e um publicano, ao fundo, ora de cabeça baixa batendo no peito.",
+   "imagem": "img/quadros/lucas/q09.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q10",
@@ -79,7 +97,9 @@
    "ref": "19:4-6",
    "titulo": "Zaqueu no sicômoro",
    "descricao": "Em Jericó, o baixinho Zaqueu sobe num sicômoro para ver Jesus; Jesus para, olha para cima e o chama pelo nome.",
-   "alt": "Jesus olha para cima e chama Zaqueu, que está empoleirado num sicômoro em meio à multidão."
+   "alt": "Jesus olha para cima e chama Zaqueu, que está empoleirado num sicômoro em meio à multidão.",
+   "imagem": "img/quadros/lucas/q10.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q11",
@@ -87,7 +107,9 @@
    "ref": "22:41-44",
    "titulo": "Agonia no monte das Oliveiras",
    "descricao": "Jesus ora de joelhos em grande angústia, e um anjo do céu aparece para fortalecê-lo.",
-   "alt": "Jesus ajoelhado em oração angustiada à noite, fortalecido por um anjo."
+   "alt": "Jesus ajoelhado em oração angustiada à noite, fortalecido por um anjo.",
+   "imagem": "img/quadros/lucas/q11.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q12",
@@ -95,7 +117,9 @@
    "ref": "23:39-43",
    "titulo": "'Hoje estarás comigo'",
    "descricao": "Sob um céu escurecido, um dos crucificados pede a Jesus que se lembre dele, e Jesus lhe promete o paraíso.",
-   "alt": "Três cruzes vistas à distância sob céu escuro, com o rosto de um dos crucificados voltado para Jesus."
+   "alt": "Três cruzes vistas à distância sob céu escuro, com o rosto de um dos crucificados voltado para Jesus.",
+   "imagem": "img/quadros/lucas/q12.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q13",
@@ -103,7 +127,9 @@
    "ref": "24:28-31",
    "titulo": "O partir do pão em Emaús",
    "descricao": "À mesa, em Emaús, Jesus toma o pão, abençoa e o parte; os olhos dos dois discípulos se abrem e eles o reconhecem.",
-   "alt": "Dois discípulos reconhecem Jesus quando ele parte o pão à mesa, ao entardecer."
+   "alt": "Dois discípulos reconhecem Jesus quando ele parte o pão à mesa, ao entardecer.",
+   "imagem": "img/quadros/lucas/q13.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   }
  ],
  "simbolos": [
