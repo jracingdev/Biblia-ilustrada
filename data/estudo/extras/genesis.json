@@ -7,7 +7,9 @@
    "ref": "1:1-5",
    "titulo": "Haja luz",
    "descricao": "Sobre as águas escuras do abismo, a primeira luz rompe as trevas quando Deus diz: Haja luz.",
-   "alt": "Luz intensa irrompendo sobre um oceano escuro e agitado, sem figuras humanas."
+   "alt": "Luz intensa irrompendo sobre um oceano escuro e agitado, sem figuras humanas.",
+   "imagem": "img/quadros/genesis/q01.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q02",
@@ -15,7 +17,9 @@
    "ref": "2:15-20",
    "titulo": "Adão no jardim do Éden",
    "descricao": "O homem cuida do jardim e dá nome aos animais que Deus traz até ele.",
-   "alt": "Homem jovem num jardim exuberante, cercado de animais, junto a um rio."
+   "alt": "Homem jovem num jardim exuberante, cercado de animais, junto a um rio.",
+   "imagem": "img/quadros/genesis/q02.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q03",
@@ -23,7 +27,9 @@
    "ref": "3:22-24",
    "titulo": "Expulsão do Éden",
    "descricao": "Adão e Eva, vestidos com roupas de pele, saem do jardim; querubins e uma espada flamejante guardam o caminho da árvore da vida.",
-   "alt": "Homem e mulher com túnicas de pele deixando um jardim, com um querubim e uma espada de fogo atrás."
+   "alt": "Homem e mulher com túnicas de pele deixando um jardim, com um querubim e uma espada de fogo atrás.",
+   "imagem": "img/quadros/genesis/q03.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q04",
@@ -31,7 +37,9 @@
    "ref": "4:3-5",
    "titulo": "As ofertas de Caim e Abel",
    "descricao": "Caim oferece frutos da terra e Abel, os primeiros animais do rebanho; Deus se agrada da oferta de Abel.",
-   "alt": "Dois irmãos diante de altares de pedra, um com frutos e outro com um cordeiro."
+   "alt": "Dois irmãos diante de altares de pedra, um com frutos e outro com um cordeiro.",
+   "imagem": "img/quadros/genesis/q04.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q05",
@@ -39,7 +47,9 @@
    "ref": "6:14-22",
    "titulo": "Noé constrói a arca",
    "descricao": "Noé e sua família constroem a grande arca de madeira, calafetada com betume, como Deus mandou.",
-   "alt": "Um homem idoso e sua família trabalhando no casco de uma enorme embarcação de madeira."
+   "alt": "Um homem idoso e sua família trabalhando no casco de uma enorme embarcação de madeira.",
+   "imagem": "img/quadros/genesis/q05.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q06",
@@ -47,7 +57,9 @@
    "ref": "7:17-24",
    "titulo": "O dilúvio",
    "descricao": "As águas sobem e cobrem os montes; só a arca flutua sobre o mar imenso.",
-   "alt": "A arca de madeira flutuando sozinha num mar sem fim sob chuva pesada."
+   "alt": "A arca de madeira flutuando sozinha num mar sem fim sob chuva pesada.",
+   "imagem": "img/quadros/genesis/q06.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q07",
@@ -55,7 +67,9 @@
    "ref": "8:11",
    "titulo": "A pomba com a folha de oliveira",
    "descricao": "A pomba volta à arca ao entardecer trazendo no bico uma folha de oliveira: as águas estão baixando.",
-   "alt": "Um homem idoso na janela da arca recebendo uma pomba com um ramo verde no bico."
+   "alt": "Um homem idoso na janela da arca recebendo uma pomba com um ramo verde no bico.",
+   "imagem": "img/quadros/genesis/q07.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q08",
@@ -63,7 +77,9 @@
    "ref": "9:12-17",
    "titulo": "O arco nas nuvens",
    "descricao": "Depois do dilúvio, Noé e sua família veem o arco-íris, sinal da aliança de Deus com a terra.",
-   "alt": "Família de pé junto a um altar de pedra olhando um arco-íris sobre os montes."
+   "alt": "Família de pé junto a um altar de pedra olhando um arco-íris sobre os montes.",
+   "imagem": "img/quadros/genesis/q08.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q09",
@@ -71,7 +87,9 @@
    "ref": "11:1-9",
    "titulo": "A torre de Babel",
    "descricao": "Na planície de Sinear, os homens levantam com tijolos uma cidade e uma torre que quer tocar o céu.",
-   "alt": "Multidão de trabalhadores construindo uma torre alta de tijolos numa planície."
+   "alt": "Multidão de trabalhadores construindo uma torre alta de tijolos numa planície.",
+   "imagem": "img/quadros/genesis/q09.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q10",
@@ -79,7 +97,9 @@
    "ref": "12:4-6",
    "titulo": "Abrão parte para Canaã",
    "descricao": "Aos 75 anos, Abrão deixa Harã com Sarai, Ló, servos e rebanhos rumo à terra que Deus mostraria.",
-   "alt": "Caravana de pastores com camelos, ovelhas e tendas atravessando colinas."
+   "alt": "Caravana de pastores com camelos, ovelhas e tendas atravessando colinas.",
+   "imagem": "img/quadros/genesis/q10.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q11",
@@ -87,7 +107,9 @@
    "ref": "15:5-6",
    "titulo": "Conta as estrelas",
    "descricao": "Deus leva Abrão para fora da tenda e lhe diz para contar as estrelas: assim seria sua descendência.",
-   "alt": "Homem idoso fora de uma tenda à noite olhando um céu cheio de estrelas."
+   "alt": "Homem idoso fora de uma tenda à noite olhando um céu cheio de estrelas.",
+   "imagem": "img/quadros/genesis/q11.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q12",
@@ -95,7 +117,9 @@
    "ref": "18:1-8",
    "titulo": "Os três visitantes em Manre",
    "descricao": "Abraão recebe três visitantes à porta da tenda, no calor do dia, e lhes serve uma refeição sob a árvore.",
-   "alt": "Homem idoso servindo comida a três homens sentados à sombra de uma grande árvore."
+   "alt": "Homem idoso servindo comida a três homens sentados à sombra de uma grande árvore.",
+   "imagem": "img/quadros/genesis/q12.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q13",
@@ -103,7 +127,9 @@
    "ref": "19:15-26",
    "titulo": "A fuga de Sodoma",
    "descricao": "Ló e suas filhas fogem enquanto fogo cai sobre as cidades da planície; a mulher de Ló olha para trás.",
-   "alt": "Pessoas fugindo por um caminho montanhoso com uma cidade em chamas ao longe."
+   "alt": "Pessoas fugindo por um caminho montanhoso com uma cidade em chamas ao longe.",
+   "imagem": "img/quadros/genesis/q13.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q14",
@@ -111,7 +137,9 @@
    "ref": "21:14-19",
    "titulo": "Agar e Ismael no deserto",
    "descricao": "No deserto de Berseba, quando a água acaba, Deus abre os olhos de Agar e ela vê um poço.",
-   "alt": "Mulher no deserto encontrando um poço, com um menino deitado sob um arbusto."
+   "alt": "Mulher no deserto encontrando um poço, com um menino deitado sob um arbusto.",
+   "imagem": "img/quadros/genesis/q14.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q15",
@@ -119,7 +147,9 @@
    "ref": "22:9-13",
    "titulo": "Abraão e Isaque no monte",
    "descricao": "No monte Moriá, o anjo detém a mão de Abraão, e ele vê um carneiro preso pelos chifres num arbusto.",
-   "alt": "Homem idoso no alto de um monte com o filho junto a um altar, olhando para um carneiro num arbusto."
+   "alt": "Homem idoso no alto de um monte com o filho junto a um altar, olhando para um carneiro num arbusto.",
+   "imagem": "img/quadros/genesis/q15.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q16",
@@ -127,7 +157,9 @@
    "ref": "24:15-20",
    "titulo": "Rebeca junto ao poço",
    "descricao": "Rebeca dá de beber ao servo de Abraão e também aos seus camelos, como sinal pedido em oração.",
-   "alt": "Jovem com um cântaro no ombro dando água a um homem idoso junto a camelos."
+   "alt": "Jovem com um cântaro no ombro dando água a um homem idoso junto a camelos.",
+   "imagem": "img/quadros/genesis/q16.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q17",
@@ -135,7 +167,9 @@
    "ref": "25:29-34",
    "titulo": "Esaú vende a primogenitura",
    "descricao": "Cansado e com fome, Esaú troca seu direito de primogênito por um prato de guisado de lentilhas.",
-   "alt": "Caçador ruivo recebendo uma tigela de guisado de seu irmão junto a uma panela."
+   "alt": "Caçador ruivo recebendo uma tigela de guisado de seu irmão junto a uma panela.",
+   "imagem": "img/quadros/genesis/q17.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q18",
@@ -143,7 +177,9 @@
    "ref": "27:18-27",
    "titulo": "Jacó recebe a bênção de Isaque",
    "descricao": "Disfarçado com pele de cabrito, Jacó se apresenta ao pai cego e recebe a bênção destinada a Esaú.",
-   "alt": "Homem idoso e cego tocando as mãos de um jovem coberto com pele de cabrito, com a mãe observando."
+   "alt": "Homem idoso e cego tocando as mãos de um jovem coberto com pele de cabrito, com a mãe observando.",
+   "imagem": "img/quadros/genesis/q18.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q19",
@@ -151,7 +187,9 @@
    "ref": "28:10-17",
    "titulo": "O sonho de Jacó em Betel",
    "descricao": "Dormindo com a cabeça sobre uma pedra, Jacó sonha com uma escada entre a terra e o céu, por onde sobem e descem anjos.",
-   "alt": "Jovem dormindo no chão sob uma escada luminosa com anjos subindo e descendo."
+   "alt": "Jovem dormindo no chão sob uma escada luminosa com anjos subindo e descendo.",
+   "imagem": "img/quadros/genesis/q19.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q20",
@@ -159,7 +197,9 @@
    "ref": "29:9-11",
    "titulo": "Jacó encontra Raquel",
    "descricao": "Jacó remove a pedra do poço para dar de beber às ovelhas de Raquel e chora de emoção.",
-   "alt": "Jovem removendo uma grande pedra de um poço enquanto uma pastora observa com suas ovelhas."
+   "alt": "Jovem removendo uma grande pedra de um poço enquanto uma pastora observa com suas ovelhas.",
+   "imagem": "img/quadros/genesis/q20.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q21",
@@ -167,7 +207,9 @@
    "ref": "32:24-30",
    "titulo": "Jacó luta até o amanhecer",
    "descricao": "Sozinho junto ao vau de Jaboque, Jacó luta a noite toda e recebe o nome Israel.",
-   "alt": "Dois homens lutando junto a um riacho ao amanhecer."
+   "alt": "Dois homens lutando junto a um riacho ao amanhecer.",
+   "imagem": "img/quadros/genesis/q21.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q22",
@@ -175,7 +217,9 @@
    "ref": "33:1-4",
    "titulo": "Esaú abraça Jacó",
    "descricao": "Depois de vinte anos, Esaú corre ao encontro de Jacó, abraça-o e os dois choram.",
-   "alt": "Dois irmãos se abraçando em lágrimas, com famílias e rebanhos ao fundo."
+   "alt": "Dois irmãos se abraçando em lágrimas, com famílias e rebanhos ao fundo.",
+   "imagem": "img/quadros/genesis/q22.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q23",
@@ -183,7 +227,9 @@
    "ref": "37:23-28",
    "titulo": "José vendido pelos irmãos",
    "descricao": "Os irmãos tiram de José a túnica e o vendem a mercadores ismaelitas que descem ao Egito.",
-   "alt": "Jovem sendo levado por mercadores com camelos enquanto seus irmãos olham."
+   "alt": "Jovem sendo levado por mercadores com camelos enquanto seus irmãos olham.",
+   "imagem": "img/quadros/genesis/q23.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q24",
@@ -191,7 +237,9 @@
    "ref": "41:14-40",
    "titulo": "José diante de Faraó",
    "descricao": "José interpreta os sonhos de Faraó: sete anos de fartura e sete de fome.",
-   "alt": "Jovem hebreu falando diante do faraó em seu trono, cercado de conselheiros egípcios."
+   "alt": "Jovem hebreu falando diante do faraó em seu trono, cercado de conselheiros egípcios.",
+   "imagem": "img/quadros/genesis/q24.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q25",
@@ -199,7 +247,9 @@
    "ref": "45:1-15",
    "titulo": "José se revela aos irmãos",
    "descricao": "José manda todos saírem, chora alto e diz aos irmãos: Eu sou José.",
-   "alt": "Governante egípcio chorando e abraçando um irmão mais novo, com outros homens espantados."
+   "alt": "Governante egípcio chorando e abraçando um irmão mais novo, com outros homens espantados.",
+   "imagem": "img/quadros/genesis/q25.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q26",
@@ -207,7 +257,9 @@
    "ref": "48:13-20",
    "titulo": "Jacó abençoa Efraim e Manassés",
    "descricao": "Jacó cruza as mãos e põe a direita sobre Efraim, o mais novo, ao abençoar os filhos de José.",
-   "alt": "Ancião na cama abençoando dois meninos com os braços cruzados, com o pai deles ao lado."
+   "alt": "Ancião na cama abençoando dois meninos com os braços cruzados, com o pai deles ao lado.",
+   "imagem": "img/quadros/genesis/q26.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q27",
@@ -215,7 +267,9 @@
    "ref": "50:15-21",
    "titulo": "José perdoa os irmãos",
    "descricao": "Depois da morte de Jacó, José consola os irmãos: vocês planejaram o mal, mas Deus o encaminhou para o bem.",
-   "alt": "Homem em trajes egípcios levantando os irmãos que se curvam diante dele."
+   "alt": "Homem em trajes egípcios levantando os irmãos que se curvam diante dele.",
+   "imagem": "img/quadros/genesis/q27.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   }
  ],
  "simbolos": [

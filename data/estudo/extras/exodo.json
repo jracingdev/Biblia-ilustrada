@@ -7,7 +7,9 @@
    "ref": "1:11-14",
    "titulo": "A servidão no Egito",
    "descricao": "Os israelitas são obrigados a fazer barro e tijolos para as cidades de armazenamento de Faraó.",
-   "alt": "Trabalhadores semitas moldando tijolos de barro sob o sol, vigiados por capatazes egípcios."
+   "alt": "Trabalhadores semitas moldando tijolos de barro sob o sol, vigiados por capatazes egípcios.",
+   "imagem": "img/quadros/exodo/q01.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q02",
@@ -15,7 +17,9 @@
    "ref": "2:5-6",
    "titulo": "Moisés salvo das águas",
    "descricao": "A filha de Faraó encontra entre os juncos do Nilo um cesto com um bebê hebreu e se compadece dele.",
-   "alt": "Princesa egípcia à beira do rio olhando um bebê num cesto de junco, com servas ao lado."
+   "alt": "Princesa egípcia à beira do rio olhando um bebê num cesto de junco, com servas ao lado.",
+   "imagem": "img/quadros/exodo/q02.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q03",
@@ -23,7 +27,9 @@
    "ref": "3:1-6",
    "titulo": "A sarça ardente",
    "descricao": "No monte Horebe, Moisés vê uma sarça que arde sem se consumir e tira as sandálias, pois o lugar é santo.",
-   "alt": "Pastor descalço ajoelhado diante de um arbusto envolto em chamas brilhantes no deserto."
+   "alt": "Pastor descalço ajoelhado diante de um arbusto envolto em chamas brilhantes no deserto.",
+   "imagem": "img/quadros/exodo/q03.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q04",
@@ -31,7 +37,9 @@
    "ref": "5:1-2",
    "titulo": "Moisés e Arão diante de Faraó",
    "descricao": "Moisés e Arão pedem: Deixa ir meu povo. Faraó responde: Quem é o SENHOR?",
-   "alt": "Dois homens hebreus de pé diante de um faraó altivo em seu trono."
+   "alt": "Dois homens hebreus de pé diante de um faraó altivo em seu trono.",
+   "imagem": "img/quadros/exodo/q04.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q05",
@@ -39,7 +47,9 @@
    "ref": "7:10-12",
    "titulo": "A vara de Arão diante dos magos",
    "descricao": "A vara de Arão se transforma em serpente e engole as serpentes dos magos do Egito.",
-   "alt": "Serpentes no chão de um salão egípcio, uma maior engolindo as outras, diante de Faraó e magos."
+   "alt": "Serpentes no chão de um salão egípcio, uma maior engolindo as outras, diante de Faraó e magos.",
+   "imagem": "img/quadros/exodo/q05.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q06",
@@ -47,7 +57,9 @@
    "ref": "10:21-23",
    "titulo": "Trevas sobre o Egito",
    "descricao": "Durante três dias, trevas espessas cobrem o Egito, mas há luz nas casas dos israelitas.",
-   "alt": "Cidade egípcia mergulhada em escuridão, com casas iluminadas de um bairro hebreu ao lado."
+   "alt": "Cidade egípcia mergulhada em escuridão, com casas iluminadas de um bairro hebreu ao lado.",
+   "imagem": "img/quadros/exodo/q06.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q07",
@@ -55,7 +67,9 @@
    "ref": "12:7-11",
    "titulo": "A primeira Páscoa",
    "descricao": "Com as roupas de viagem, sandálias nos pés e cajado na mão, uma família come às pressas o cordeiro, os pães sem fermento e as ervas amargas.",
-   "alt": "Família hebreia de pé ao redor de uma mesa simples, à noite, vestida para viajar."
+   "alt": "Família hebreia de pé ao redor de uma mesa simples, à noite, vestida para viajar.",
+   "imagem": "img/quadros/exodo/q07.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q08",
@@ -63,7 +77,9 @@
    "ref": "13:21-22",
    "titulo": "A coluna de nuvem e de fogo",
    "descricao": "O povo sai do Egito guiado de dia por uma coluna de nuvem e de noite por uma coluna de fogo.",
-   "alt": "Multidão acampada no deserto à noite sob uma alta coluna de fogo."
+   "alt": "Multidão acampada no deserto à noite sob uma alta coluna de fogo.",
+   "imagem": "img/quadros/exodo/q08.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q09",
@@ -71,7 +87,9 @@
    "ref": "14:21-22",
    "titulo": "A travessia do mar",
    "descricao": "O mar se abre por um forte vento oriental, e Israel atravessa em terra seca entre muralhas de água.",
-   "alt": "Multidão atravessando um caminho seco entre duas paredes de água, com Moisés estendendo a mão."
+   "alt": "Multidão atravessando um caminho seco entre duas paredes de água, com Moisés estendendo a mão.",
+   "imagem": "img/quadros/exodo/q09.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q10",
@@ -79,7 +97,9 @@
    "ref": "15:20-21",
    "titulo": "O cântico de Miriã",
    "descricao": "Do outro lado do mar, Miriã toma um pandeiro, e as mulheres a seguem cantando e dançando.",
-   "alt": "Mulheres dançando com pandeiros na praia, lideradas por uma mulher mais velha."
+   "alt": "Mulheres dançando com pandeiros na praia, lideradas por uma mulher mais velha.",
+   "imagem": "img/quadros/exodo/q10.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q11",
@@ -87,7 +107,9 @@
    "ref": "16:13-18",
    "titulo": "O maná no deserto",
    "descricao": "De manhã, o chão do deserto aparece coberto de grãos miúdos e brancos, e cada família recolhe o pão do dia.",
-   "alt": "Famílias recolhendo pequenos grãos brancos do chão do deserto ao amanhecer."
+   "alt": "Famílias recolhendo pequenos grãos brancos do chão do deserto ao amanhecer.",
+   "imagem": "img/quadros/exodo/q11.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q12",
@@ -95,7 +117,9 @@
    "ref": "17:10-13",
    "titulo": "As mãos erguidas de Moisés",
    "descricao": "Sentado numa pedra no alto do morro, Moisés tem as mãos sustentadas por Arão e Hur enquanto Josué combate Amaleque no vale.",
-   "alt": "Homem idoso sentado numa pedra no alto de um morro, com os braços erguidos apoiados por dois homens."
+   "alt": "Homem idoso sentado numa pedra no alto de um morro, com os braços erguidos apoiados por dois homens.",
+   "imagem": "img/quadros/exodo/q12.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q13",
@@ -103,7 +127,9 @@
    "ref": "19:16-20",
    "titulo": "O monte Sinai em fogo",
    "descricao": "No terceiro dia, há trovões, relâmpagos, nuvem espessa e som de trombeta; o monte fumega e o povo treme ao pé dele.",
-   "alt": "Povo à distância diante de um monte coberto de fumaça, fogo e relâmpagos."
+   "alt": "Povo à distância diante de um monte coberto de fumaça, fogo e relâmpagos.",
+   "imagem": "img/quadros/exodo/q13.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q14",
@@ -111,7 +137,9 @@
    "ref": "25:10-22",
    "titulo": "A arca da aliança",
    "descricao": "Uma caixa de madeira de acácia coberta de ouro, com dois querubins de ouro voltados um para o outro sobre a tampa.",
-   "alt": "Arca dourada com dois querubins de asas estendidas sobre a tampa, num ambiente escuro iluminado."
+   "alt": "Arca dourada com dois querubins de asas estendidas sobre a tampa, num ambiente escuro iluminado.",
+   "imagem": "img/quadros/exodo/q14.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q15",
@@ -119,7 +147,9 @@
    "ref": "28:2-30",
    "titulo": "As vestes do sumo sacerdote",
    "descricao": "Arão vestido com éfode, peitoral de doze pedras, manto azul e mitra com a lâmina de ouro.",
-   "alt": "Sacerdote idoso com vestes coloridas e um peitoral de doze pedras preciosas."
+   "alt": "Sacerdote idoso com vestes coloridas e um peitoral de doze pedras preciosas.",
+   "imagem": "img/quadros/exodo/q15.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q16",
@@ -127,7 +157,9 @@
    "ref": "32:1-6",
    "titulo": "O bezerro de ouro",
    "descricao": "Ao pé do monte, o povo oferece sacrifícios e festeja diante de um bezerro de ouro feito por Arão.",
-   "alt": "Multidão festejando ao redor de uma estátua dourada de bezerro num pedestal no deserto."
+   "alt": "Multidão festejando ao redor de uma estátua dourada de bezerro num pedestal no deserto.",
+   "imagem": "img/quadros/exodo/q16.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q17",
@@ -135,7 +167,9 @@
    "ref": "32:19",
    "titulo": "Moisés quebra as tábuas",
    "descricao": "Ao descer e ver o bezerro e as danças, Moisés lança as tábuas de pedra e as quebra ao pé do monte.",
-   "alt": "Homem idoso no alto de uma encosta erguendo duas tábuas de pedra acima da cabeça, com o acampamento abaixo."
+   "alt": "Homem idoso no alto de uma encosta erguendo duas tábuas de pedra acima da cabeça, com o acampamento abaixo.",
+   "imagem": "img/quadros/exodo/q17.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q18",
@@ -143,7 +177,9 @@
    "ref": "34:29-35",
    "titulo": "O rosto resplandecente de Moisés",
    "descricao": "Moisés desce do Sinai com as novas tábuas, sem saber que seu rosto brilha; o povo tem medo de se aproximar.",
-   "alt": "Homem descendo do monte com tábuas de pedra e o rosto iluminado, enquanto o povo recua."
+   "alt": "Homem descendo do monte com tábuas de pedra e o rosto iluminado, enquanto o povo recua.",
+   "imagem": "img/quadros/exodo/q18.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q19",
@@ -151,7 +187,9 @@
    "ref": "35:20-29",
    "titulo": "O povo traz ofertas",
    "descricao": "Homens e mulheres de coração generoso trazem ouro, tecidos, peles e madeira para a obra do tabernáculo.",
-   "alt": "Pessoas trazendo joias, tecidos coloridos e madeira e depositando diante de artesãos."
+   "alt": "Pessoas trazendo joias, tecidos coloridos e madeira e depositando diante de artesãos.",
+   "imagem": "img/quadros/exodo/q19.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   },
   {
    "id": "q20",
@@ -159,7 +197,9 @@
    "ref": "40:34-38",
    "titulo": "A glória enche o tabernáculo",
    "descricao": "Terminada a obra, a nuvem cobre a tenda do encontro e a glória do SENHOR enche o tabernáculo.",
-   "alt": "Tenda sagrada no deserto coberta por uma nuvem luminosa, com o povo olhando de longe."
+   "alt": "Tenda sagrada no deserto coberta por uma nuvem luminosa, com o povo olhando de longe.",
+   "imagem": "img/quadros/exodo/q20.webp",
+   "credito": "Ilustração gerada por IA (Gemini 2.5 Flash Image, Google)"
   }
  ],
  "simbolos": [

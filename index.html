@@ -502,7 +502,7 @@ details.lei > summary{ cursor:pointer; padding:.6rem .8rem; display:flex; flex-w
 .int-w .tl{ font-style:italic; color:var(--muted); font-size:.85rem }
 .int-w .gl{ font-weight:700 }
 .int-w .st{ align-self:flex-start; display:inline-block; min-height:24px; line-height:24px; font-weight:700; color:var(--gold-ink, var(--fg)) }
-.filtros a.btn[aria-current="page"]{ background:var(--gold-soft); border-color:var(--gold) }
+.filtros a.btn[aria-current="page"]{ background:var(--gold-soft); border-color:var(--gold); color:var(--fg) }
 .int-list.rtl{ direction:rtl } .int-list.rtl .int-w{ direction:ltr; text-align:right } .gr.hb{ font-size:1.45em; line-height:1.5 }
 .int-w .mf{ color:var(--muted); font-size:.78rem; line-height:1.3 }
 .st-res{ list-style:none; padding:0; display:grid; gap:.35rem; margin:.6rem 0 }
@@ -994,8 +994,8 @@ function telaExtras(slug, aba){
     <h2 class="sr">Lista dos quadros</h2>
     <div class="qd-grid">${X.quadros.map((q, i) => `
     <article class="qd" aria-labelledby="qt-${q.id}">
-      <div class="cena" role="img" aria-label="Ilustração (em produção): ${esc(q.alt)}">${(q.img || q.imagem) ? `<img src="${esc(q.img || q.imagem)}" loading="lazy" alt="" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover">` : `<span class="tag-prod" aria-hidden="true">Em produção</span><div class="vitral">${vitral(corGrupo(l.grupo), 700 + l.i * 50 + i)}</div>`}</div>
-      <div class="qd-in"><span class="eyebrow">${i + 1} · ${R(q.ref)}</span><h3 id="qt-${q.id}">${esc(q.titulo)}</h3><p>${esc(q.descricao)}</p></div>
+      <div class="cena" role="img" aria-label="${(q.img || q.imagem) ? "Ilustração" : "Ilustração (em produção)"}: ${esc(q.alt)}">${(q.img || q.imagem) ? `<img src="${esc(q.img || q.imagem)}" loading="lazy" alt="" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover">` : `<span class="tag-prod" aria-hidden="true">Em produção</span><div class="vitral">${vitral(corGrupo(l.grupo), 700 + l.i * 50 + i)}</div>`}</div>
+      <div class="qd-in"><span class="eyebrow">${i + 1} · ${R(q.ref)}</span><h3 id="qt-${q.id}">${esc(q.titulo)}</h3><p>${esc(q.descricao)}</p>${q.credito ? `<p class="qd-cred"><small><i>${esc(q.credito)}.</i></small></p>` : ""}</div>
     </article>`).join("")}</div>`;
   if (aba === "simbolos") return topo("Dicionário visual", `Símbolos de ${esc(l.nome)}`, "Alguns símbolos são explicados pelo próprio texto. Quando não são, mostramos a leitura mais comum e indicamos isso.") + `
     <div class="busca"><label class="sr" for="q-sim">Buscar símbolo</label><input id="q-sim" type="search" placeholder="Buscar símbolo…" autocomplete="off">
@@ -1428,7 +1428,7 @@ async function fotoPacote(img){
   if (img.dataset.tentou) return; img.dataset.tentou = "1";
   try { if (!PACOTES.has(k)) PACOTES.set(k, getJSON(`img/pacotes/${k}.json`)); const P = await PACOTES.get(k); if (P[id]) img.src = P[id]; } catch {}
 }
-document.addEventListener("error", e => { const t = e.target; if (t.tagName !== "IMG") return; if (!t.dataset.foto){ const m = (t.getAttribute("src") || "").match(/img\/quadros\/(q\d+)\.webp$/); if (m){ t.dataset.foto = m[1]; t.dataset.pac = "quadros"; } } if (t.dataset.foto) fotoPacote(t); }, true);
+document.addEventListener("error", e => { const t = e.target; if (t.tagName !== "IMG") return; if (!t.dataset.foto){ const src = t.getAttribute("src") || "", m = src.match(/img\/quadros\/(q\d+)\.webp$/), m2 = src.match(/img\/quadros\/([a-z0-9-]+)\/(q\d+)\.webp$/); if (m){ t.dataset.foto = m[1]; t.dataset.pac = "quadros"; } else if (m2){ t.dataset.foto = m2[1] + "_" + m2[2]; t.dataset.pac = "qx"; } } if (t.dataset.foto) fotoPacote(t); }, true);
 function mapaSVG(pontos, opc = {}){
   const M = MAPA, pts = pontos.map(p => ({ ...p, xy:proj(p.ll) }));
   let x0, y0, x1, y1;
